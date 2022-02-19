@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-02-19T05:12:55.910Z</updated>
+    <updated>2022-02-19T06:18:49.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다크비 멤버 해리준, 코로나19 확진 판정]]></title>
+        <id>https://entertain.v.daum.net/v/20220219150428106</id>
+        <link href="https://entertain.v.daum.net/v/20220219150428106"/>
+        <updated>2022-02-19T06:18:13.851Z</updated>
+        <content type="html"><![CDATA[해리준(사진=브레이브엔터테인먼트)[이데일리 스타in 김가영 기자] 그룹 다크비의 해리준이 코로나19 확진 판정을 받았다. 소속사 브레이브 엔터테인먼트는 19일 공식 팬카페를 통해 “금일 다크비의 멤버 해리준이 코로나19 확진 판정을 받았다”고 알렸다. 브레이브 엔터테인먼트 측은 “해리준은 코로나19 백신 3차까지 접종을 마친 상태였으나 18일 오전, 가벼]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장윤정도 고민한 '경력 단절'..'임신' 예비 엄마들 맞선다]]></title>
         <id>https://entertain.v.daum.net/v/20220219135029182</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220219101607718"/>
         <updated>2022-02-19T02:30:24.240Z</updated>
         <content type="html"><![CDATA[[티브이데일리 이기은 기자] 신종 코로나바이러스 감염증(코로나19) 판정을 받은 그룹 ITZY(있지)(예지 리아 류진 채령 유나) 리아가 격리 해제됐다. 19일 소속사 JYP엔터테인먼트는 공식입장을 통해 "리아가 코로나19 격리 해제 기준을 충족해 18일 24시부로 격리 해제됐다"고 밝혔다. 이어 "리아는 보건소 지침에 따라 재택 치료를 받아왔고 격리 기간]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공소원 "매순간이 슬럼프..색소폰, 나를 더 성장시킬 기회"]]></title>
-        <id>https://entertain.v.daum.net/v/20220219100001477</id>
-        <link href="https://entertain.v.daum.net/v/20220219100001477"/>
-        <updated>2022-02-19T02:30:24.242Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 윤상근 기자] /사진제공=해랑엔터테인먼트 TV조선 '미스트롯' 등을 통해 대중에 자신의 이름을 알린 가수 공소원은 2022년 팬들로부터 특별한 선물을 받았다. 2년 2개월 여만에 발표한 신곡 '모래알사랑'을 들고 컴백 활동을 재개한 공소원을 향해 팬들이  '여러분의 소원이 모두 이루어지길'이라는 문구와 공소원의 새로운 프로필 이미지를 활용한]]></content>
     </entry>
 </feed>
