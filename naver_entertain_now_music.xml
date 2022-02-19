@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-02-19T14:14:50.332Z</updated>
+    <updated>2022-02-19T15:16:04.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이브, 빌보드 '글로벌'·'글로벌200' 장기집권…10주 연속]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011014887</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011014887"/>
+        <updated>2022-02-19T15:15:50.120Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 6인조 신예 걸그룹 '아이브(IVE)'가 데뷔곡으로 미국 빌보드 차트에서 장기집권하고 있다. 19일(현지시간)자 빌보드 차트에 따르면, 아이브의 데뷔곡 '일레븐'은 '빌보드 글로벌 20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“이정도면 레전드”…김경현표 록발라드 관점 포인트는?]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000849781</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003029704"/>
         <updated>2022-02-19T07:14:54.022Z</updated>
         <content type="html"><![CDATA[6인조 신예 아이브(IVE)가 데뷔 앨범 'ELEVEN(일레븐)' 발매 12주 차에도 끝없는 글로벌 인기를 자랑하고 있다. 최근 미국 음악 전문 매체 빌보드(Billboard) 공식 홈페이지를 통해 발표된 차트에 따]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['다크비' 해리준, 코로나 확진…"경미한 인후통 증상"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011014391</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011014391"/>
-        <updated>2022-02-19T07:14:54.023Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]전재경 기자 = 그룹 다크비 멤버 해리준이 코로나19 확진 판정을 받았다. 소속사 브레이브 엔터테인먼트는 19일 공식 팬카페를 통해 "금일 다크비의 멤버 해리준이 코로나19 확진 판정을 받았다"고 전했]]></content>
     </entry>
 </feed>
