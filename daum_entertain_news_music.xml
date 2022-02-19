@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-02-19T09:15:29.187Z</updated>
+    <updated>2022-02-19T10:16:36.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[동키즈, 3월 말 컴백..봄 컴백대전 합류]]></title>
+        <id>https://entertain.v.daum.net/v/20220219184534399</id>
+        <link href="https://entertain.v.daum.net/v/20220219184534399"/>
+        <updated>2022-02-19T10:15:58.455Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 공미나 기자] 동키즈 /사진=이동훈 기자 photoguy@ 그룹 동키즈(DONGKIZ, 원대 경윤 문익 재찬 종형)가 3월 새 앨범으로 돌아온다. 19일 스타뉴스 취재 결과 동키즈는 오는 3월 말 발매를 목표로 새 앨범을 준비 중이다. 이번 컴백은 지난 7월 발표한 다섯 번째 싱글 'CHASE EPISODE 1. GGUM' 이후 약 8개월만.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[있지 리아, 코로나19 확진→격리 해제]]></title>
         <id>https://entertain.v.daum.net/v/20220219165738704</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220219114012831"/>
         <updated>2022-02-19T03:15:54.786Z</updated>
         <content type="html"><![CDATA[[스타뉴스 한해선 기자] /사진=JYP엔터테인먼트 JYP엔터테인먼트(이하 JYP) 신인 걸그룹 NMIXX(엔믹스)가 드디어 새로운 장르 'MIXX POP'(믹스팝)을 첫 선보였다. NMIXX는 사흘 후인 오는 2월 22일 오후 6시 첫 싱글 'AD MARE'(애드 마레)와 타이틀곡 'O.O'(오오)를 발표하고 정식 데뷔를 맞이한다. JYP는 19일 0시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김희재, 앵콜 공연까지 전석 매진..뜨거운 인기로 증명한 독보적 티켓 파워]]></title>
-        <id>https://entertain.v.daum.net/v/20220219110351265</id>
-        <link href="https://entertain.v.daum.net/v/20220219110351265"/>
-        <updated>2022-02-19T02:30:24.223Z</updated>
-        <content type="html"><![CDATA[[OSEN=이승훈 기자] 가수&nbsp;김희재의 팬콘서트 '그리고 별, 그대'가 전석 매진됐다. 김희재의 팬콘서트 서울 앵콜 공연 '그리고 별, 그대'가 지난&nbsp;18일 티켓 오픈과 동시에 전석 매진되는 기염을 토했다. 공연 개최 소식부터 뜨거운 관심을 모았던 '그리고 별, 그대'는 3회차 공연 3천 석을 매진시키며 독보적인 티켓 파워를 입증했다.&nbsp;&nbsp; 지난 4개월간]]></content>
     </entry>
 </feed>
