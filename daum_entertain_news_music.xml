@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-02-19T10:16:36.921Z</updated>
+    <updated>2022-02-19T11:13:22.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마이티마우스 추플렉스, 새 싱글 'Holidays in Paris' 발매]]></title>
+        <id>https://entertain.v.daum.net/v/20220219195959332</id>
+        <link href="https://entertain.v.daum.net/v/20220219195959332"/>
+        <updated>2022-02-19T11:12:46.563Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 하지원 기자) 마이티마우스 추플렉스(상추)가 신곡을 통해 힐링을 선사하고 있다. 추플렉스는 19일 오후 6시 각종 온라인 음원 사이트를 통해 새 싱글 'Holidays in Paris (홀리데이 인 파리)'를 발매했다. 'Holidays in Paris'는 추플렉스가 지난해 11월 발매한 'TREADMILL (트레드밀)' 이후 3개월 만에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동키즈, 3월 말 컴백..봄 컴백대전 합류]]></title>
         <id>https://entertain.v.daum.net/v/20220219184534399</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220219120545134"/>
         <updated>2022-02-19T03:15:54.785Z</updated>
         <content type="html"><![CDATA[[OSEN=연휘선 기자]&nbsp;그룹 다크비의 해리준이 코로나19&nbsp;확진 판정을 받았다. 소속사 브레이브 엔터테인먼트는&nbsp;19일 공식 팬카페를 통해 "금일 다크비의 멤버 해리준이 코로나19&nbsp;확진 판정을 받았다"고 알렸다. 브레이브 엔터테인먼트 측은 "해리준은 코로나19&nbsp;백신&nbsp;3차까지 접종을 마친 상태였으나&nbsp;18일 오전,&nbsp;가벼운 감기 증세로 인해 자가 키트 검사를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JYP 신인 엔믹스, 타이틀 'O.O' 패기 넘치는 팝 록]]></title>
-        <id>https://entertain.v.daum.net/v/20220219114012831</id>
-        <link href="https://entertain.v.daum.net/v/20220219114012831"/>
-        <updated>2022-02-19T03:15:54.786Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 한해선 기자] /사진=JYP엔터테인먼트 JYP엔터테인먼트(이하 JYP) 신인 걸그룹 NMIXX(엔믹스)가 드디어 새로운 장르 'MIXX POP'(믹스팝)을 첫 선보였다. NMIXX는 사흘 후인 오는 2월 22일 오후 6시 첫 싱글 'AD MARE'(애드 마레)와 타이틀곡 'O.O'(오오)를 발표하고 정식 데뷔를 맞이한다. JYP는 19일 0시]]></content>
     </entry>
 </feed>
