@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-02-19T12:22:11.149Z</updated>
+    <updated>2022-02-19T13:16:19.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단 'Permission to Dance' 스포티파이 누적 4억 스트리밍]]></title>
+        <id>https://entertain.v.daum.net/v/20220219212640041</id>
+        <link href="https://entertain.v.daum.net/v/20220219212640041"/>
+        <updated>2022-02-19T13:15:46.516Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 윤상근 기자] /사진제공=빅히트뮤직 톱 아이돌그룹 방탄소년단(BTS, RM 진 지민 제이홉 슈가 뷔 정국)의 'Permission to Dance'가 스포티파이 누적 스트리밍 4억을 넘어섰다. 방탄소년단이 지난 2021년 7월 공개한 'Permission to Dance'는 스포티파이 누적 스트리밍 4억을 넘어섰다. 'Permission]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마이티마우스 추플렉스, 새 싱글 'Holidays in Paris' 발매]]></title>
         <id>https://entertain.v.daum.net/v/20220219195959332</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220219121003174"/>
         <updated>2022-02-19T03:15:54.784Z</updated>
         <content type="html"><![CDATA[영화보다 더 영화 같았던 추억의 뮤직비디오를 소개하는 엑스포츠뉴스만의 코너입니다. 당대 최고의 히트곡들을 떠올리고, 인기 스타들의 풋풋하고 신선한 과거 모습을 함께 추억해보는 '명작뮤비'. &lt;편집자주&gt; (엑스포츠뉴스 김예나 기자) 행복하기만 할 줄 알았던 연인에게 예상하지 못한 이별이 찾아옵니다. 시간이 지나 아픔이 무뎌질 때가 되면 그리움도 사라질까]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다크비 해리준, 코로나19 확진 "백신 3차 맞았는데..멤버들도 PCR 검사"]]></title>
-        <id>https://entertain.v.daum.net/v/20220219120545134</id>
-        <link href="https://entertain.v.daum.net/v/20220219120545134"/>
-        <updated>2022-02-19T03:15:54.785Z</updated>
-        <content type="html"><![CDATA[[OSEN=연휘선 기자]&nbsp;그룹 다크비의 해리준이 코로나19&nbsp;확진 판정을 받았다. 소속사 브레이브 엔터테인먼트는&nbsp;19일 공식 팬카페를 통해 "금일 다크비의 멤버 해리준이 코로나19&nbsp;확진 판정을 받았다"고 알렸다. 브레이브 엔터테인먼트 측은 "해리준은 코로나19&nbsp;백신&nbsp;3차까지 접종을 마친 상태였으나&nbsp;18일 오전,&nbsp;가벼운 감기 증세로 인해 자가 키트 검사를]]></content>
     </entry>
 </feed>
