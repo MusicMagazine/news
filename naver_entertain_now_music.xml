@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-02-19T18:16:29.887Z</updated>
+    <updated>2022-02-19T19:12:59.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남도현 그룹 BAE173, 1년만에 컴백…내달 새앨범]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011014898</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011014898"/>
+        <updated>2022-02-19T19:12:42.733Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 보이그룹 'BAE173'이 1년 만에 컴백한다. 20일 소속사 포켓돌스튜디오에 따르면, BAE173은 내달 말 컴백한다. BAE173의 새 앨범은 작년 발매한 '인터섹션 : 트레이스']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이브, 빌보드 '글로벌'·'글로벌200' 장기집권…10주 연속]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011014887</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003029705"/>
         <updated>2022-02-19T07:14:54.021Z</updated>
         <content type="html"><![CDATA[BAE173이 1년 만에 컴백한다. 19일 소속사 포켓돌스튜디오 측은 "BAE173(제이민, 한결, 유준, 무진, 준서, 영서, 도하, 빛, 도현)이 오는 3월 말 컴백을 목표로 준비 중이다"라고 전했다. BAE17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이브 '일레븐', 빌보드 글로벌 200 10주 연속 진입]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003029704</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003029704"/>
-        <updated>2022-02-19T07:14:54.022Z</updated>
-        <content type="html"><![CDATA[6인조 신예 아이브(IVE)가 데뷔 앨범 'ELEVEN(일레븐)' 발매 12주 차에도 끝없는 글로벌 인기를 자랑하고 있다. 최근 미국 음악 전문 매체 빌보드(Billboard) 공식 홈페이지를 통해 발표된 차트에 따]]></content>
     </entry>
 </feed>
