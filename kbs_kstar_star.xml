@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 00:56:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 02:04:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이석훈, 뮤지컬 '젠틀맨스 가이드' 마무리]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=193100</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=193100</guid>
+            <pubDate>Sun, 20 Feb 2022 02:03:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=193100">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220220085929_9fc58ad2d3dfea434e92632fb2c832c8.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=193100">이석훈, 뮤지컬 '젠틀맨스 가이드' 마무리</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220220085929_9fc58ad2d3dfea434e92632fb2c832c8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[화보] 군백기 깨고 완전체로 돌아온 비투비 "이번 앨범 자체는 그냥 비투비와 멜로디"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=192599</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=191428">배우 한일규, 8살 연하 공연제작사 PD와 결혼</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220210095541_6db34ceae653c54a760411da66668128.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트로트 가수 홍자, god 데니안  만나 고품격 라이브 선사!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=191332</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=191332</guid>
-            <pubDate>Sat, 19 Feb 2022 04:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=191332">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220209161107_80f1f7c67db9c8c1b1817a729c00996c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=191332">트로트 가수 홍자, god 데니안  만나 고품격 라이브 선사!</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220209161107_80f1f7c67db9c8c1b1817a729c00996c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
