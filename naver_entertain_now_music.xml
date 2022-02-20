@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-02-20T19:13:45.035Z</updated>
+    <updated>2022-02-20T20:16:18.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['허스키' 김기태 vs '7080 감성' 서기…'싱어게인2']]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011016121</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011016121"/>
+        <updated>2022-02-20T20:16:02.255Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = '허스키 보이스' 김기태와 '7080 감성' 서기가 맞붙는다. 21일 방송되는 JTBC '싱어게인-무명가수전' 시즌2(싱어게인2) 11회에서는 파이널을 향한 마지막 관문인 세미파이널 톱]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다크비 테오-준서-유쿠, 코로나19 확진.."3차 접종 완료"[전문]]]></title>
         <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003533086</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000544184"/>
         <updated>2022-02-20T07:15:49.922Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] SM엔터테인먼트 소속 가수들이 1위 후보로 격돌한다. 2월 20일 방송된 SBS '인기가요'에서 2월 셋째 주 1위 후보가 공개됐다. 이날 MC들이 소개한 1위 후보 곡은 갓 더 비트(GOT]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트레저, 새 앨범 판매량 70만장 돌파…‘직진’ 뮤비 이틀만에 2000만 뷰]]></title>
-        <id>https://entertain.naver.com/now/read?oid=021&amp;aid=0002503944</id>
-        <link href="https://entertain.naver.com/now/read?oid=021&amp;aid=0002503944"/>
-        <updated>2022-02-20T07:15:49.929Z</updated>
-        <content type="html"><![CDATA[그룹 트레저가 컴백과 동시에 연일 자체 최고 기록을 갈아치우고 있다. 19일 YG엔터테인먼트에 따르면 트레저의 첫 미니앨범 ‘더 세컨드 스텝: 챕터 원(THE SECOND STEP: CHAPTER ONE)’은 전날]]></content>
     </entry>
 </feed>
