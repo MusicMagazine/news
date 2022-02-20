@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-02-20T20:16:18.039Z</updated>
+    <updated>2022-02-20T21:14:11.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[태국 아티스트 뮤 수파싯 팬클럽, 우물 기부로 나눔 실천]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001412251</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001412251"/>
+        <updated>2022-02-20T21:13:53.723Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 국제구호개발 NGO 월드쉐어(이사장 박현모)가 21일 태국 아티스트 뮤 수파싯(Mew Suppasit)의 팬들이 도미니카공화국에 우물을 기증했다고 밝혔다. 뮤 수파싯은 ‘태국의 얼굴 천재]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['허스키' 김기태 vs '7080 감성' 서기…'싱어게인2']]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011016121</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011015719"/>
         <updated>2022-02-20T07:15:49.920Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 엠넷 '스트릿 우먼 파이터'로 스타덤에 오른 댄스 크루 '웨이비'의 리더 노제(NO:ZE)가 특별한 온라인 생일 파티를 펼치고 있다. 노제는 이달 12일 만 26세가 됐다. 20일 소속]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘인기가요’ SM 갓더비트vs에스파vs멜로망스 김민석, 1위 후보 맞대결]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000544184</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000544184"/>
-        <updated>2022-02-20T07:15:49.922Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] SM엔터테인먼트 소속 가수들이 1위 후보로 격돌한다. 2월 20일 방송된 SBS '인기가요'에서 2월 셋째 주 1위 후보가 공개됐다. 이날 MC들이 소개한 1위 후보 곡은 갓 더 비트(GOT]]></content>
     </entry>
 </feed>
