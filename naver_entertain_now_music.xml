@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-02-20T13:16:20.728Z</updated>
+    <updated>2022-02-20T14:14:43.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다크비 테오-준서-유쿠, 코로나19 확진.."3차 접종 완료"[전문]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003533086</id>
+        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003533086"/>
+        <updated>2022-02-20T14:14:27.198Z</updated>
+        <content type="html"><![CDATA[[헤럴드POP=박서연 기자]그룹 다크비 멤버 테오, 준서, 유쿠가 코로나19 양성 판정을 받았다. 소속사 브레이브 엔터테인먼트는 20일, 다크비의 공식 팬카페를 통해 "다크비의 멤버 테오, 준서,유쿠가 오늘(20일)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모모랜드 혜빈·낸시, 크래비티 우빈 등 가요계 줄줄이 확진(종합2보)]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013001253</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=021&amp;aid=0002503944"/>
         <updated>2022-02-20T07:15:49.929Z</updated>
         <content type="html"><![CDATA[그룹 트레저가 컴백과 동시에 연일 자체 최고 기록을 갈아치우고 있다. 19일 YG엔터테인먼트에 따르면 트레저의 첫 미니앨범 ‘더 세컨드 스텝: 챕터 원(THE SECOND STEP: CHAPTER ONE)’은 전날]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몬스타엑스 기현, 3월 15일 싱글 ‘보이저’로 솔로 데뷔]]></title>
-        <id>https://entertain.naver.com/now/read?oid=021&amp;aid=0002503942</id>
-        <link href="https://entertain.naver.com/now/read?oid=021&amp;aid=0002503942"/>
-        <updated>2022-02-20T07:15:49.930Z</updated>
-        <content type="html"><![CDATA[그룹 몬스타엑스(MONSTA X) 기현이 솔로로 데뷔한다. 기현은 20일 오전 0시 몬스타엑스 SNS 채널을 통해 자신의 첫 싱글 앨범 ‘보이저(VOYAGER)’의 이미지를 공개했다. 짙푸른 바다 한가운데를 배경으로]]></content>
     </entry>
 </feed>
