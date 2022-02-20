@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-02-20T09:15:43.363Z</updated>
+    <updated>2022-02-20T10:16:28.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다크비 테오·준서·유쿠, 코로나19 확진 "백신 3차 접종 완료, 돌파 감염"]]></title>
+        <id>https://entertain.v.daum.net/v/20220220190043839</id>
+        <link href="https://entertain.v.daum.net/v/20220220190043839"/>
+        <updated>2022-02-20T10:15:55.311Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 다크비의 멤버 테오, 준서, 유쿠가 신종 코로나바이러스 감염증(코로나19) 양성 판정을 받았다. 20일 소속사 브레이브 엔터테인먼트는 다크비의 공식 팬카페를 통해 "다크비의 멤버 테오, 준서,유쿠가 오늘(20일) 코로나19 확진 판정을 받았다"라고 전했다. 브레이브 엔터테인먼트 측은 "테오, 준서, 유쿠는 코로나19 3차까지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모모랜드 혜빈·낸시, 크래비티 우빈 등 가요계 줄확진 계속]]></title>
         <id>https://entertain.v.daum.net/v/20220220180429065</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220220152007435"/>
         <updated>2022-02-20T07:15:27.346Z</updated>
         <content type="html"><![CDATA[[티브이데일리 박상후 기자] 그룹 크래비티(CRAVITY) 우빈이 신종 코로나 바이러스 감염증(코로나19) 확진 판정을 받았다. 소속사 스타쉽엔터테인먼트 측은 20일 크래비티의 공식 팬카페를 통해 "우빈이 이날 코로나19 확진 판정을 받았다"라고 밝혔다. 이어 "우빈은 전날 자가 격리 중 진행한 자가 키트 검사에서 양성 반응을 확인해 PCR 검사를 받았]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크래비티 우빈, 코로나19 확진 "인후통 외 증상 無"]]></title>
-        <id>https://entertain.v.daum.net/v/20220220151907405</id>
-        <link href="https://entertain.v.daum.net/v/20220220151907405"/>
-        <updated>2022-02-20T07:15:27.362Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 안윤지 기자] 그룹 크래비티 우빈/ 사진 = 스타쉽 엔터테인먼트 제공 /사진=김창현 기자 chmt@그룹 크래비티 멤버 우빈이 신종 코로나바이러스 감염증(코로나19) 확진 판정을 받았다. 소속사 스타쉽엔터테인먼트 측은 20일 크래비티 공식 팬카페를 통해 "크래비티 멤버 우빈이 20일 (일) 코로나19 확진 판정을 받았다"고 밝혔다. 우빈은 지난]]></content>
     </entry>
 </feed>
