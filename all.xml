@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 05:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 06:17:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,14 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220210095541_6db34ceae653c54a760411da66668128.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[크래비티 우빈, 코로나19 확진 "재택 치료 중" [전문] (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/338787</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/338787</guid>
+            <pubDate>Sun, 20 Feb 2022 06:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/338787">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/02/20/05d0a196-3e2a-4b47-b93b-d2798c803a66.jpg" alt="크래비티 우빈, 코로나19 확진 " 재택="" 치료="" 중"="" [전문]"="">        <div class="text-box">            <p class="summary">크래비티 우빈, 코로나19 확진 "재택 치료 중" [전문]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/02/20/05d0a196-3e2a-4b47-b93b-d2798c803a66.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[몬스타엑스 기현, ‘보이저’ 커밍순 이미지 오픈...오는 3월 15일 솔로 데뷔 확정 (MBC 연예 ─ 아이돌)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/338781</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/338781</guid>
@@ -768,12 +776,11 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/02/19/fb456be4-c9a7-4ec5-b72e-fe17cdd0acbe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[“항상 곁에 있을게” 차은우, ‘Focus on me’로 포근한 감수성 자극 (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/338724</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/338724</guid>
-            <pubDate>Sat, 19 Feb 2022 06:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/338724">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/02/19/avMLIWZAwB7D637808769397914354.jpg" alt="“항상 곁에 있을게” 차은우, ‘Focus on me’로 포근한 감수성 자극">        <div class="text-box">            <p class="summary">“항상 곁에 있을게” 차은우, ‘Focus on me’로 포근한 감수성 자극</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/02/19/avMLIWZAwB7D637808769397914354.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[다시 뭉친 MSG워너비 M.O.M, 또 타오를까 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220220150134028</link>
+            <guid>https://entertain.v.daum.net/v/20220220150134028</guid>
+            <pubDate>Sun, 20 Feb 2022 06:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] MSG워너비 프로젝트의 그룹 M.O.M이 8개월 만에 다시 타오른다. M.O.M은 오는 26일 새 디지털 싱글 ‘듣고 싶을까’를 발표한다. 지난해 6월 ‘바라만 본다’ 이후 약 8개월 만의 신곡이다. 크게 히트했던 ‘바라만 본다’의 작곡가 박근태와 김도훈이 다시 한번 뭉쳤다. R&amp;B 발라드곡이었던 ‘바라만 본다’와 달리 ‘듣고 싶을까’는]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[AOA 찬미 "10년 만에 첫 솔로곡, 의미 남달라" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
@@ -874,11 +881,32 @@
             <content:encoded><![CDATA[[OSEN=지민경 기자]&nbsp;에이티즈(ATEEZ)가 전세계를&nbsp;‘휘모리장단’의 흥으로 장악했다. 최근 론칭된 에이티즈의 단독 리얼리티&nbsp;‘원티드 스페셜’에서는 에이티즈 멤버 홍중,&nbsp;성화,&nbsp;산,&nbsp;우영이 신라 천년의 역사와 문화가 살아 숨쉬는 경주를 방문했다. 신라의 화랑 기운을 담아 청색으로 의상 콘셉트를 맞춘 이들은 경주의 랜드마크&nbsp;‘첨성대’를 방문해 관련 문]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[몬스타엑스 기현, 내달 15일 솔로데뷔 확정 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220220103009488</link>
-            <guid>https://entertain.v.daum.net/v/20220220103009488</guid>
-            <pubDate>Sun, 20 Feb 2022 02:03:39 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 그룹 몬스타엑스(MONSTA X) 기현이 데뷔 7년 만에 솔로 데뷔를 확정했다. 20일 0시 몬스타엑스 공식 SNS 채널을 통해 기현의 첫 번째 싱글 앨범 ‘VOYAGER(보이저)’ 커밍순 이미지가 공개됐다. 짙푸른 바다 한가운데를 항해하는 듯한 이미지에는 ‘VOYAGER’라는 기현의 첫 번째 싱글 앨범명이 담겼다. 이와 함께 기현은]]></content:encoded>
+            <title><![CDATA[크래비티 우빈, 코로나19 확진 "인후통 외 증상 無" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220220144633701</link>
+            <guid>https://entertain.v.daum.net/v/20220220144633701</guid>
+            <pubDate>Sun, 20 Feb 2022 06:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 강다윤 기자] 그룹 크래비티 우빈이 코로나19 확진 판정을 받았다. 20일 소속사 스타쉽 엔터테인먼트는 공식 팬카페를 통해 "우빈이 20일 코로나19 확진 판정을 받았다"고 밝혔다. 소속사는 "우빈은 19일 자가 격리 중 진행한 자가 키트 검사에서 양성 반응을 확인하여 PCR 검사를 받았으며 20일 코로나19 확진 판정을 받았다"고 설명했]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김현성 "♥모니카, 정확하게 14살 연하..진지하게 만나고 있다" 결혼 기대↑ (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220220144633702</link>
+            <guid>https://entertain.v.daum.net/v/20220220144633702</guid>
+            <pubDate>Sun, 20 Feb 2022 06:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 박아람 기자] 가수 김현성와 연인 모니카의 달달한 데이트 현장이 최초로 공개된다. 오는 21일 오전 9시 tvN에서는 '인생에 필요한 모든 처방'을 제시하는 특급 정보쇼 '프리한 닥터M'(연출 신상호, 최영락)이 방송된다. '프리한 닥터M'의 코너인 프리한 라이프를 즐기고 있는, 근황이 궁금한 스타들의 현재를 찾아가는 '프리]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[손병호, 이재명 후보 공개 지지 "위기에 강한 유일한 사람" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220220142910352</link>
+            <guid>https://entertain.v.daum.net/v/20220220142910352</guid>
+            <pubDate>Sun, 20 Feb 2022 06:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 정하은기자]배우 손병호가 박혁권, 이기영, 이원종, 권기선 등에 이어 이재명 대선 후보 공개 지지에 나섰다. 오래전부터 정치적 소신을 갖고 살고 있다는 손병호는 “첫째, 이 시대를 치열하게 살고 있는 아빠이기 때문이고, 둘째는 오랫동안 무대를 사랑하고 그것을 통해 진정한 삶의 기준이 무엇인지, 어떻게 사는 것이 옳은 것]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[시청자·구독자 꽉 잡아라, '산도녀' 통해 본 티빙의 흥미로운 선택 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220220142628285</link>
+            <guid>https://entertain.v.daum.net/v/20220220142628285</guid>
+            <pubDate>Sun, 20 Feb 2022 06:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[[엔터미디어=TV삼분지계] ◾편집자 주◾ 하나의 이슈, 세 개의 시선. 각자의 영역에서 대중문화를 탐구하는 남지우·이승한·정석희 세 명의 TV평론가가 한 가지 주제나 프로그램을 놓고 서로 다른 시선을 선보인다. [TV삼분지계]를 통해 세 사람의 견해가 엇갈리고 교차하고 때론 맞부딪히는 광경 속에서 오늘날의 TV 지형도를 그리는 단초를 찾을 수 있기를.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[김연아, 22억 매입 흑석동 고급빌라→현재 30~35억원 '재테크 성공' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
@@ -958,32 +986,25 @@
             <content:encoded><![CDATA[tvN ‘스물다섯 스물하나’ 김태리와 남주혁이 실망과 서운함 속에 엇갈린 채 가슴 아픈 청춘의 성장통을 겪는 모습으로 안타까움을 안겼다. 지난 19일 밤 9시 10분에 방송된 tvN 토일드라마 ‘스물다섯 스물하나’(극본 권도은/연출 정지현/제작 화앤담픽쳐스) 3회는 수도권 가구 기준 평균 9.0%, 최고 10.9%, 전국 가구 기준 평균 8.2%, 최고]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박명수 "히밥+쯔양 오면 식당 하루 문 닫아도 돼" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220220112116342</link>
-            <guid>https://entertain.v.daum.net/v/20220220112116342</guid>
-            <pubDate>Sun, 20 Feb 2022 03:14:59 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이해정 기자] '라디오쇼' 박명수가 먹방 유튜버 히밥, 쯔양의 위력을 언급했다. 2월 20일 방송된 KBS 쿨FM '박명수의 라디오쇼'에서는 청취자들의 사연을 소개하는 코너가 꾸며졌다. 이날 한 청취자는 "친구 남편이 오리 가게를 하는데 가족들 다 데리고 가서 매출 많이 올려주려고 한다"고 메시지를 보냈다. 박명수는 "제가 먹방을 하는데 현]]></content:encoded>
+            <title><![CDATA[린지 펄먼, 실종 후 숨진 채 발견..향년 43세 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
+            <link>https://entertain.v.daum.net/v/20220220145319826</link>
+            <guid>https://entertain.v.daum.net/v/20220220145319826</guid>
+            <pubDate>Sun, 20 Feb 2022 06:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 박상후 기자] 배우 린지 펄먼이 숨진 채 발견됐다. 지난 18일(현지시간) 미국 연예 매체 버라이어티 등에 따르면 LA 경찰은 린지 펄먼의 시신이 할리우드 러니언 캐년 공원 입구 근처에서 발견됐다고 발표했다. 앞서 린지 펄먼은 지난 13일 할리우드에서 마지막으로 목격됐다. 이에 가족들은 그의 실종을 신고했다. 린지 펄먼의 사인은 밝혀지지]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[최경환 아내 박여원, 별거 고백 "믿음 깨졌다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220220112009325</link>
-            <guid>https://entertain.v.daum.net/v/20220220112009325</guid>
-            <pubDate>Sun, 20 Feb 2022 03:14:59 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선닷컴 박아람 기자] 박여원이 전 야구선수 최경환 코치와 별거 중이라고 고백했다. 지난 19일 방송된 MBN '속풀이쇼 동치미'에서는 '우리 다시 좋아질 수 있을까?'를 주제로 출연자들이 이야기를 나눴다. 이날 박여원은 "방송에 출연할까 말까도 계속 고민을 많이 했다. 그러다 혼자만 끙끙 앓는다고 해결될 문제가 아니라는 생각이 들었다]]></content:encoded>
+            <title><![CDATA[코미디언 휴이 하하, 자택서 비극적 사망..'향년 22세' (다음 연예 ─ 뉴스 ─ 해외)]]></title>
+            <link>https://entertain.v.daum.net/v/20220220145227813</link>
+            <guid>https://entertain.v.daum.net/v/20220220145227813</guid>
+            <pubDate>Sun, 20 Feb 2022 06:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자] 유튜브 코미디언 휴이 하하(Huey Haha)의 사인이 4개월만에 밝혀졌다고 외신이&nbsp;18일(현지시간) 전했다. 보도에 따르면 검시관들은 휴이 하하의 사망&nbsp;이후 약 4개월 만에 사인을 밝혀냈다. 고인은 지난 해 10월 25일 미국 캘리포니아 스톡튼에 있는 그의 집에서 숨진 채 발견됐다. 향년 22세. 피플지가 입수한 새크라멘토 카]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['라디오쇼' 박명수 "요즘 먹방 출연, 현주엽 한 명이면 식당 끝" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220220112007323</link>
-            <guid>https://entertain.v.daum.net/v/20220220112007323</guid>
-            <pubDate>Sun, 20 Feb 2022 03:14:59 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 박상후 기자] '라디오쇼'에서 방송인 박명수가 현주엽을 언급했다. 20일 오전 방송된 KBS 쿨FM '박명수의 라디오쇼'(이하 '라디오쇼')에서는 DJ 박명수가 시청자와 소통하는 모습이 그려졌다. 이날 한 청취자는 DJ 박명수에게 "남편 친구가 식당을 오픈했다. 오리구이, 오리탕 등을 판매한다. 위장을 든든히 채우고 오겠다"라고 문자를 보냈]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['국대는 국대다' 씨름 대통령 이만기의 귀환, 4.7% 후끈 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220220111953320</link>
-            <guid>https://entertain.v.daum.net/v/20220220111953320</guid>
-            <pubDate>Sun, 20 Feb 2022 03:14:59 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] “내 경기를 못 본 아들들에게 ‘아빠 열심히 살았다’는 걸 보여주고 싶어요.” MBN ‘국대는 국대다’가 80년대 ‘씨름 대통령’ 이만기의 2022년 선수 복귀 프로젝트를 선포하며 신선한 충격과 뭉클한 감동을 선사했다. 19일 방송한 MBN ‘국대는 국대다’ 3회는 평균 4.7%(닐슨미디어 유료방송가구 2부 기준)의 시청률을 기록, 쾌]]></content:encoded>
+            <title><![CDATA[톰 홀랜드, ♥︎젠데이아와 런던에 집 구입?..루머에 입 열었다 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
+            <link>https://entertain.v.daum.net/v/20220220144056607</link>
+            <guid>https://entertain.v.daum.net/v/20220220144056607</guid>
+            <pubDate>Sun, 20 Feb 2022 06:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=지민경 기자] 영국 배우 톰 홀랜드가 여자친구 젠데이아와 함께 영국 런던에 집을 구입했다는 루머에 대해 해명했다. 지난 19일 다수의 외신 보도에 따르면 톰 홀랜드는 최근 미국의 토크쇼 ‘라이브 위드 켈리 앤 라이언’에 출연해 소문에 대한 이야기를 전했다. 최근 톰 홀랜드와 젠데이아 커플이 런던 남부 지역에 집을 구입했다는 루머가 돌아 화제를]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[스위프트 어려 싫다던 질렌할 "16세 연하 ♥︎여친, 가족같아" (다음 연예 ─ 뉴스 ─ 해외)]]></title>
@@ -1056,6 +1077,55 @@
             <content:encoded><![CDATA[[뉴스엔 박수인 기자] 할리우드 배우 브래드 피트(Brad Pitt)가 전 부인 안젤리나 졸리(Angelina Jolie)를 프랑스 부동산인 샤토 미라발 지분을 불법 매각한 혐의로 고소했다. 미국 매체 페이지 식스(Page Six)는 최근 브래드 피트가 포도밭 보유 지분을 매각한 안젤리나 졸리를 상대로 손해배상소송을 제기했다고 보도했다. 보도에 따르면 브]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA["우리의 밤 황홀했었지"…이은미 신곡 작사가 이재명 후보였다 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011015581</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011015581</guid>
+            <pubDate>Sun, 20 Feb 2022 06:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]이재훈 기자 = 가수 이은미가 공개한 신곡에 이재명 더불어민주당 대통령 후보가 작사가로 참여한 사실이 확인됐다. 20일 이 후보의 '선거 대책 위원회'(선대위)와 대중음악계 등에 따르면, 이은미가 지난]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[다시 뭉친 MSG워너비 M.O.M, 또 타오를까[스경X초점] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000794364</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000794364</guid>
+            <pubDate>Sun, 20 Feb 2022 06:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] MSG워너비 프로젝트의 그룹 M.O.M이 8개월 만에 다시 타오른다. M.O.M은 오는 26일 새 디지털 싱글 ‘듣고 싶을까’를 발표한다. 지난해 6월 ‘바라만 본다’ 이후 약 8개월 만의 신곡이다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[로켓펀치, 'YELLOW PUNCH' 첫 콘셉트 포토 공개…시크&뷰티 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001412132</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001412132</guid>
+            <pubDate>Sun, 20 Feb 2022 06:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이정범 기자) 그룹 로켓펀치(Rocket Punch, 연희 쥬리 수윤 윤경 소희 다현)가 180도 달라진 모습으로 컴백에 대한 궁금증을 증폭시켰다. 소속사 울림엔터테인먼트는 20일 0시 공식 SNS를]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[감성장인 임영웅, 유튜브 채널 누적 조회 수 12억 5천만 뷰 돌파 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001412129</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001412129</guid>
+            <pubDate>Sun, 20 Feb 2022 06:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅 공식 유튜브 채널 ‘임영웅’의 총 조회 수 12억 5천만 뷰를 돌파했다. 2월 20일 기준, 임영웅의 공식 유튜브 채널인 ‘임영웅’은 총 조회 수 12억 5천만 뷰를 돌파했다. 임]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[역시 이 시대 '최고 스타'..임영웅, 멜론 톱10 '점령' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003029833</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003029833</guid>
+            <pubDate>Sun, 20 Feb 2022 06:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[가수 임영웅이 국내 최대 음원 플랫폼 멜론(Melon) TOP100 차트 상위권을 점령하며 '최고 스타' 존재감을 또 한 번 빛냈다. 임영웅은 2월 20일 오전 8시 기준 멜론 메인 차트인 TOP100 차트 1위부터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[경이로운 임영웅, 놀라운 영웅시대..유튜브 채널 12억 5천만뷰 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003029832</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003029832</guid>
+            <pubDate>Sun, 20 Feb 2022 06:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[경이로운 임영웅이자 놀라운 파워의 영웅시대다. 임영웅 유튜브 채널 총 조회수가 12억 5000만 뷰를 달성하며 인기를 빛냈다. 구독자 129만 명의 임영웅 공식 유튜브 채널은 2월 20일 총 조회수 12억 5000만]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[몬스타엑스 기현, 데뷔 7년 만에 솔로 출격...3월 15일 첫 싱글 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=629&amp;aid=0000133647</link>
+            <guid>https://entertain.naver.com/now/read?oid=629&amp;aid=0000133647</guid>
+            <pubDate>Sun, 20 Feb 2022 06:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[첫 싱글 'VOYAGER' 커밍순 이미지 공개...'기대감 UP' 그룹 몬스타엑스(MONSTA X) 기현이 데뷔 7년 만에 솔로로 나선다. 몬스타엑스는 20일 0시 공식 SNS 채널을 통해 기현의 첫 번째 싱글 앨범]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[임영웅, 2월 20일 멜론 TOP10 점령…역시 대세 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
             <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001412119</link>
             <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001412119</guid>
@@ -1063,7 +1133,7 @@
             <content:encoded><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅이 멜론차트에서 지속적으로 인기를 끌고 있다. 20일 오전 8시 멜론차트에 따르면, 임영웅이 부른 노래들이 멜론차트 상위권에 다수 진입했다. 1위 ‘사랑은 늘 도망가’를 비롯, 2위]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이은미 신곡 '스물 여덟', 작사가는 이재명 후보 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <title><![CDATA[이은미 신곡 '스물 여덟', 알고보니 작사가는 이재명 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
             <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013000669</link>
             <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013000669</guid>
             <pubDate>Sun, 20 Feb 2022 05:13:36 GMT</pubDate>
@@ -1182,53 +1252,151 @@
             <content:encoded><![CDATA[[마이데일리 = 강다윤 기자] 그룹 트레저의 타이틀곡 '직진 (JIKJIN)' 무대가 마침내 베일을 벗었다. YG엔터테인먼트는 20일 공식 블로그와 유튜브 등을 통해 트레저의 '직진 (JIKJIN)' 스페셜 스테이지]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[몬스타엑스 기현, 데뷔 7년 만에 솔로…내달 '보이저' 발표 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013000454</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013000454</guid>
-            <pubDate>Sun, 20 Feb 2022 03:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 김예나 기자 = 그룹 몬스타엑스(MONSTA X) 멤버 기현이 데뷔 7년 만에 솔로 음반을 선보인다. 20일 소속사 스타쉽엔터테인먼트와 몬스타엑스 공식 사회관계망서비스(SNS) 등에 따르면 기현은]]></content:encoded>
+            <title><![CDATA[‘마이큐♥’ 사랑에 푹 빠진 김나영, 눈에서 꿀 뚝뚝 달콤한 럽스타그램 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003834339</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003834339</guid>
+            <pubDate>Sun, 20 Feb 2022 06:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 박아람 기자] 방송인 김나영이 꿀이 떨어지는 달달한 일상을 공유했다. 김나영은 20일 자신의 인스타그램에 장미꽃 이모티콘과 함께 사진을 게재했다. 사진에는 장미꽃 한다발을 품에 안고 세상 행복한 미소]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘젠틀맨스 가이드’ 이석훈 “이번 경험으로 더 무럭무럭 자랄 것” (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000794340</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000794340</guid>
-            <pubDate>Sun, 20 Feb 2022 03:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 가수 이석훈이 뮤지컬 ‘젠틀맨스 가이드 : 사랑과 살인편’(이하 ‘젠틀맨스 가이드’) 공연을 마쳤다. 이석훈은 19일 서울 광림아트센터 BBCH홀에서 공연된 ‘젠틀맨스 가이드’ 마지막 무대에 오르며 약]]></content:encoded>
+            <title><![CDATA[72년생 맞아?…김민종, ‘긴 밤’ 뮤직비디오 스틸 눈길 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000605240</link>
+            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000605240</guid>
+            <pubDate>Sun, 20 Feb 2022 06:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[김민종의 신곡 ‘긴 밤 (Endless Night)’ 뮤직비디오 티저 영상이 20일 공개된다. ‘긴 밤 (Endless Night)’ 뮤직비디오 티저 영상은 오늘 오후 6시 유튜브 SMTOWN 채널 등을 통해 공개되]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 ‘PTD’ 스포티파이 4억 돌파, 정국X슈가 ‘Stay Alive’ 1위 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000544159</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000544159</guid>
-            <pubDate>Sun, 20 Feb 2022 03:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 그룹 방탄소년단(RM, 진, 슈가, 제이홉, 지민, 뷔, 정국)이 각종 음원 차트, 플랫폼에서 인기 행진을 이어가고 있다. 2월 20일 세계 최대 음악 스트리밍 업체 스포티파이에 따르면 방탄소]]></content:encoded>
+            <title><![CDATA[모모랜드 혜빈X낸시, 멕시코서 코로나19 확진…”현지 일정 중단” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004924285</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004924285</guid>
+            <pubDate>Sun, 20 Feb 2022 06:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 모모랜드 혜빈, 낸시가 코로나19 확진 판정을 받았다. 소속사 MLD엔터테인먼트는 20일 “현재 멕시코에서 프로모션 중인 모모랜드 멤버 혜빈과 낸시가 코로나19 양성 판정을 받았다”라고 밝혔다. 이어 “혜빈과]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[모모랜드 혜빈·낸시 코로나 확진…멕시코 스케줄 중단 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011015215</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011015215</guid>
-            <pubDate>Sun, 20 Feb 2022 03:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]송윤세 기자 = 모모랜드 멤버 혜빈과 낸시가 코로나 19에 확진됐다. MLD엔터테인먼트 20일 "현재 멕시코에서 프로모션 중인 모모랜드 멤버 혜빈과 낸시가 코로나19 양성 판정을 받았다"며 "계획된 현]]></content:encoded>
+            <title><![CDATA[문세윤, 역대급 야외 취침에 “우리가 특수부대도 아니고!” (1박 2일) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000962081</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000962081</guid>
+            <pubDate>Sun, 20 Feb 2022 06:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[‘1박 2일 시즌4’에 야외 취침 ‘최종 보스’가 등장한다. 20일 저녁 방송되는 KBS 2TV ‘1박 2일 시즌4’(이하 1박 2일) ‘혹한기 실전 훈련’ 특집 두 번째 이야기에서는 종잡을 수 없는 ‘엉뚱 막내’]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스테이씨, 'RUN2U' MV 티저 공개... '6人 6色' 틴프레시 예고 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=629&amp;aid=0000133632</link>
-            <guid>https://entertain.naver.com/now/read?oid=629&amp;aid=0000133632</guid>
-            <pubDate>Sun, 20 Feb 2022 03:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[21일 오후 6시 미니 2집 'YOUNG-LUV COM' 발매 그룹 스테이씨(STAYC)가 한층 강력해진 퍼포먼스의 일부를 공개해 팬들의 이목을 집중시켰다. 스테이씨(수민 시은 아이사 세은 윤 재이)는 20일 0시]]></content:encoded>
+            <title><![CDATA[[Y이슈] 박신혜·BTS→'놀면뭐하니' 한복 지키기 동참..."우길 게 그리 없니?" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001704256</link>
+            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001704256</guid>
+            <pubDate>Sun, 20 Feb 2022 06:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[2022 베이징 동계올림픽 개회식에서 한복 공정 논란이 불거진 뒤로 한류 스타들의 '한복 지키기' 분위기가 확산 중이다. 배우 박신혜는 최근 자신의 SNS에 한복을 입은 사진을 게재하며 "(영화) '상의원'을 찍을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빌리, 미니 2집 타이틀은 ‘GingaMingaYo’(긴가민가요) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000794337</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000794337</guid>
-            <pubDate>Sun, 20 Feb 2022 03:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 그룹 빌리(Billlie)가 두 번째 미니 앨범으로 돌아온다. 빌리는 20일 0시 공식 SNS를 통해 미니 2집 ‘the collective soul and unconscious: chapter one]]></content:encoded>
+            <title><![CDATA[제이쓴, 쓰러진 ♥홍현희 안쓰러워 어쩌나..“힘내. 다리 주물러 줄게” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003834333</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003834333</guid>
+            <pubDate>Sun, 20 Feb 2022 06:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 박아람 기자] 제이쓴이 임신으로 고생하는 아내 홍현희를 안쓰러워했다. 제이쓴은 20일 자신의 인스타그램스토리에 "혀니야 힘내랑"라는 글을 적으며 사진을 게재했다. 사진에는 핼쑥해진 얼굴의 홍현희가 지]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[D-1 스테이씨, 타이틀곡 ‘RUN2U’ 퍼포먼스 스포...강력한 틴프레시의 귀환 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=408&amp;aid=0000146569</link>
-            <guid>https://entertain.naver.com/now/read?oid=408&amp;aid=0000146569</guid>
-            <pubDate>Sun, 20 Feb 2022 03:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 스테이씨(STAYC)가 한층 강력해진 퍼포먼스의 일부를 공개했다. 스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)는 20일 0시 공식 SNS와 홈페이지를 통해 두 번째 미니앨범 ‘YOUNG-LUV.COM’]]></content:encoded>
+            <title><![CDATA[노제, 완벽 비주얼·실력 이어 요리 실력까지 “못하는 게 뭐야?” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001643700</link>
+            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001643700</guid>
+            <pubDate>Sun, 20 Feb 2022 06:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[노제(NO:ZE)만의 특별한 생일 파티가 이목을 끌고 있다. 소속사 스타팅하우스 엔터테인먼트는 지난 19일 공식 유튜브 채널에 노제의 첫 번째 콘텐츠를 공개했다. 영상 속에는 스물일곱 번째 생일을 맞아 파티를 준비하]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘결사곡3’, 비하인드컷 대공개…박주미→임한빈 ‘화기애애’ (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000605238</link>
+            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000605238</guid>
+            <pubDate>Sun, 20 Feb 2022 06:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[TV CHOSUN 새 주말미니시리즈 ‘결혼작사 이혼작곡3’가 착붙 열연으로 生 리얼 몰입감을 선사하는 배우들의 촬영장 비하인드 컷을 공개했다. 오는 2월 26일(토) 첫 방송될 TV CHOSUN 새 주말미니시리즈 ‘]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[고소영 보고 필리핀 사람 같다니?… "난 한국 토종" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000787102</link>
+            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000787102</guid>
+            <pubDate>Sun, 20 Feb 2022 06:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[배우 고소영이 자신의 외모를 지적하는 댓글에 쿨한 대응을 했다. 고소영은 지난 19일 자신의 인스타그램에 페이크 퍼 재킷을 입은 자신의 모습을 올렸다. 공개된 사진 속 고소영은 연보라색 니트와 청바지를 입고 브라운]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[배우 이하나, 제주경찰청 여성 폭력 예방 홍보대사로 위촉 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003668783</link>
+            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003668783</guid>
+            <pubDate>Sun, 20 Feb 2022 06:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[고기철 제주경찰청장이 지난 18일 제주청에서 배우 이하나(오른쪽)씨에게 홍보대사 위촉패를 전달하고 기념촬영을 하고 있다. 제주경찰청 제공 제주경찰청은 배우 이하나씨를 여성 폭력 예방 홍보대사로 위촉했다고 20일 밝혔]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[사유리x젠, 박명수에게 새해 인사… 독설(?) 삼촌의 덕담 공개 (‘슈돌’) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000962079</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000962079</guid>
+            <pubDate>Sun, 20 Feb 2022 06:17:06 GMT</pubDate>
+            <content:encoded><![CDATA['슈퍼맨이 돌아왔다’ 사유리와 젠의 설날 풍경이 공개된다. 20일 방송되는 KBS 2TV '슈퍼맨이 돌아왔다'(이하 '슈돌') 419회는 ‘지금 우리 육아는’이라는 부제로 꾸며진다. 그중 사유리와 젠은 설맞이 떡국]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[정호영 셰프 앞에서 무릎 꿇은 양치승 “도와줘요 형!” (‘당나귀 귀’) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000962078</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000962078</guid>
+            <pubDate>Sun, 20 Feb 2022 06:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[양치승이 정호영 앞에 무릎을 꿇었다. 20일 오후 KBS 2TV 예능 ‘사장님 귀는 당나귀 귀’(이하 ‘당나귀 귀’)에서는 6년 연속으로 미슐랭에 선정된 정호영 셰프의 대박집 노하우를 배우기 위해 제주도까지 간 양치]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[은보아, ‘남편 오지호’가 사줬나? 장화 하나도 ‘120만원짜리’ 샤넬로∼ (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003668780</link>
+            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003668780</guid>
+            <pubDate>Sun, 20 Feb 2022 06:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[사진=은보아 인스타그램 캡처 배우 오지호의 아내 은보아가 근황을 전했다. 19일 은보아는 인스타그램에 “얘 자꾸 생각나네....”라는 글과 함께 사진을 게재했다. 공개된 사진에는 오지호의 아내 은보아가 강아지를 품에]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["오빠가 좋아하는 쵸코렛" 남편과 재결합 후 달달한 일상 공개 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000787100</link>
+            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000787100</guid>
+            <pubDate>Sun, 20 Feb 2022 06:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[걸그룹 '슈가' 출신 배우 황정음이 남편과 재결합한 후 더 돈독해진 애정을 과시해 눈길을 끌고 있다. 황정음은 지난 19일 자신의 인스타그램에 "정음이 간식타임"이라는 문구와 함께 사진과 영상을 게재했다. 사진에는]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘안창환♥’ 장희정 “러시아 연하 훈남에게 대시 받은 적 있다” (너는 내 운명) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000962075</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000962075</guid>
+            <pubDate>Sun, 20 Feb 2022 06:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[21일 밤 방송되는 SBS '동상이몽2 - 너는 내 운명‘(이하 '너는 내 운명')에서는 ‘센캐’로 변신한 안창환♥장희정 부부의 파격적인 일탈이 그려진다. 안창환♥장희정 부부는 평소와 180도 다른 ‘센캐’ 패션을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김선아, 패션테러리스트 어쩔 수 없어..'웃픈' 혹한 속 야외 촬영 “여름이다..안 춥다” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003834315</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003834315</guid>
+            <pubDate>Sun, 20 Feb 2022 06:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 박아람 기자] 배우 김선아가 혹한 속 야외 촬영 고충을 털어놨다. 김선아는 20일 자신의 인스타그램에 "여름이다... 여름이다... 안 춥다... 안 춥다... 여름이다... 여름이다... 안 춥다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[노제, 아기 고양이의 특별한 생일 파티…유튜브 영상 오픈 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000849832</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000849832</guid>
+            <pubDate>Sun, 20 Feb 2022 06:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[노제(NO:ZE)만의 특별한 생일 파티가 이목을 끌고 있다. 소속사 스타팅하우스 엔터테인먼트는 지난 19일 공식 유튜브 채널에 노제의 첫 번째 콘텐츠를 공개했다. 영상 속에는 스물일곱 번째 생일을 맞아 파티를 준비하]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['손담비와 결혼' 이규혁 "이상화, 보이는 것보다 훨씬 여성스러워" ('은밀한 뉴스룸') (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000531586</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000531586</guid>
+            <pubDate>Sun, 20 Feb 2022 06:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=우빈 기자] 이규혁이 이상화를 칭찬했다. 19일 방송된 IHQ '은밀한 뉴스룸'에서는 피겨여왕 김연아와 빙속 여제 이상화의 선수 시절 활약상과 우리가 몰랐던 지인들의 뒷이야기가 공개됐다. 이날 방송에서는]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["필리핀 사람 같아"..고소영, 무례한 댓글에 의연한 대처 [스타IN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003029831</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003029831</guid>
+            <pubDate>Sun, 20 Feb 2022 06:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[배우 고소영이 무례하게 외모를 지적하는 댓글에 쿨한 반응을 보였다. 고소영은 19일 자신의 SNS에 페이크 퍼 재킷을 입은 셀카 사진을 게재했다. 브라운 컬러의 페이크포에 보라색 니트를 매치한 그녀는 명품 가방으로]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[13년 차 배우 연우진 “서른아홉, 심경의 변화 커” [화보] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000605232</link>
+            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000605232</guid>
+            <pubDate>Sun, 20 Feb 2022 06:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[배우 연우진이 거칠고 섹시간 무드를 마음껏 드러냈다. 20일 아레나 옴므 플러스는 연우진과 함께 작업한 3월호 화보와 인터뷰를 공개해 눈길을 끈다. 최근 연우진은 JTBC 새 수목드라마 ‘서른, 아홉’ 촬영을 마무리]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘임신’ 홍현희, 몰라보게 핼쑥…제이쓴 “다리 주물러줄게” [스타★샷] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000605231</link>
+            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000605231</guid>
+            <pubDate>Sun, 20 Feb 2022 06:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[개그우먼 홍현희의 근황이 전해졌다. 20일 홍현희의 남편 제이쓴은 자신의 인스타그램 스토리에 “혀니야 힘내랑. 내가 다리 주물러줄게”라는 글과 함께 사진 한장을 게재했다. 공개된 사진에는 지친 표정으로 누워있는 홍현]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[男 매스스타트 결승…시청률 합 20.6% (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
@@ -1259,151 +1427,25 @@
             <content:encoded><![CDATA[가수 치즈가 JTBC 토일드라마 ‘기상청 사람들 : 사내연애 잔혹사 편(이하 기상청 사람들)’의 OST 첫 번째 주자로 참여한다. 지난 12일 첫 방송된 ‘기상청 사람들’은 열대야보다 뜨겁고 국지성 호우보다 종잡을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘故 최진실 딸’ 최준희, 96kg 모습 깜짝 공개 ‘-42kg’ 다이어트 과정 “인간승리” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003668775</link>
-            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003668775</guid>
-            <pubDate>Sun, 20 Feb 2022 05:13:44 GMT</pubDate>
-            <content:encoded><![CDATA[사진=최준희 인스타그램 캡처 사진=최준희 인스타그램 캡처 故 최진실의 딸 최준희가 배우 데뷔를 앞두고 있는 가운데 다이어트 과정을 공개했다. 지난 18일 최준희는 인스타그램 스토리를 통해 누리꾼들과 소통하는 시간을]]></content:encoded>
+            <title><![CDATA[코미디언 휴이 하하, 자택서 비극적 사망..'향년 22세' [Oh!llywood] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004561066</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004561066</guid>
+            <pubDate>Sun, 20 Feb 2022 06:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자] 유튜브 코미디언 휴이 하하(Huey Haha)의 사인이 4개월만에 밝혀졌다고 외신이 18일(현지시간) 전했다. 보도에 따르면 검시관들은 휴이 하하의 사망 이후 약 4개월 만에 사인을 밝혀냈다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘피겨여왕’ 김연아, 누적 기부 금액 50억 원 (은밀한 뉴스룸) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000962066</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000962066</guid>
-            <pubDate>Sun, 20 Feb 2022 05:13:44 GMT</pubDate>
-            <content:encoded><![CDATA[19일 방송된 채널 IHQ &lt;은밀한 뉴스룸&gt;에서는 피겨여왕 김연아와 빙속 여제 이상화의 선수 시절 활약상과 우리가 몰랐던 지인들의 뒷이야기가 공개됐다. 이날 방송에서는 스피드 스케이팅의 전설 이규혁 감독이 출연해 이]]></content:encoded>
+            <title><![CDATA[톰 홀랜드, ♥︎젠데이아와 런던에 집 구입?..루머에 입 열었다 [Oh!llywood] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004561056</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004561056</guid>
+            <pubDate>Sun, 20 Feb 2022 06:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=지민경 기자] 영국 배우 톰 홀랜드가 여자친구 젠데이아와 함께 영국 런던에 집을 구입했다는 루머에 대해 해명했다. 지난 19일 다수의 외신 보도에 따르면 톰 홀랜드는 최근 미국의 토크쇼 ‘라이브 위드 켈리]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[소녀시대 효연, 너무 예뻐져서 깜짝..여배우급 인형 미모에 감탄 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003834301</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003834301</guid>
-            <pubDate>Sun, 20 Feb 2022 05:13:44 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선닷컴 박아람 기자] 그룹 소녀시대 효연이 화려한 미모를 자랑했다. 효연은 지난 19일 자신의 인스타그램에 "여행가고 싶지"라는 글과 함게 사진을 게재했다. 사진 속 효연은 하늘빛 투피스 털옷을 입고 인형]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘81억 신혼집’ 클라라, 수십억 원 작품 앞에서 ‘사업가 남편’과 키스 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003668774</link>
-            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003668774</guid>
-            <pubDate>Sun, 20 Feb 2022 05:13:44 GMT</pubDate>
-            <content:encoded><![CDATA[사진=클라라 인스타그램 캡처 배우 클라라(본명 이성민·사진)가 남편과의 애정행각을 공개했다. 20일 클라라는 인스타그램 스토리에 사진을 게재했다. 공개된 사진에는 한 미술관을 방문한 클라라와 그의 사업가 남편의 모습]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김현성♥모니카, 13세 나이차 무색한 달달한 데이트 현장 공개 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000962065</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000962065</guid>
-            <pubDate>Sun, 20 Feb 2022 05:13:44 GMT</pubDate>
-            <content:encoded><![CDATA[21일 방송되는 tvN ‘프리한 닥터M’에 2000년대 발라드계 어린 왕자로 불린 김현성이 출연한다. 최근 13살 연하인 아이돌 배드키즈 출신 모니카와 열애 사실을 밝히며 화제의 중심에 선 김현성이 ‘프리한 스타’를]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MC몽, 7kg 감량 이유 있었네…“공복 유산소+토스트 한 조각” [스타★샷] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000605226</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000605226</guid>
-            <pubDate>Sun, 20 Feb 2022 05:13:44 GMT</pubDate>
-            <content:encoded><![CDATA[가수 MC몽이 주말 일상을 공유했다. 20일 MC몽은 자신의 인스타그램에 “아침 7시 기상. 뉴스 보며 공복 유산소 70분, 토스트 한 조각. 그림에 본드질 30분, 반신욕 20분, 집 청소 한 시간. 즐거운 주말.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['기상청 사람들' 송강 바라보는 박민영의 사랑스러운 눈빛 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000290237</link>
-            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000290237</guid>
-            <pubDate>Sun, 20 Feb 2022 05:13:44 GMT</pubDate>
-            <content:encoded><![CDATA['기상청 사람들' 박민영X송강, '하슈 커플'이 한 밤중에 한 집에서 포착됐다. 두 번째 사내연애를 알리는 시그널일지 시청자들의 본방 사수 욕구가 끓어오르고 있다. 지난 19일 방송된 JTBC 토일드라마 '기상청]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[풋풋한데 쫄깃쫄깃? '스물다섯 스물하나', 초반 분위기가 심상치 않네! (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003834292</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003834292</guid>
-            <pubDate>Sun, 20 Feb 2022 04:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 이정혁 기자] '풋풋한데 쫄깃쫄깃해!' tvN 토일드라마 '스물다섯 스물하나'(극본 권도은/연출 정지현/제작 화앤담픽쳐스)이 심상치않다. 첫방송부터 바람몰이에 성공하더니, 연이어 시청률 고공행진 중이다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["공공장소면 어때"…클라라, '사업가 남편♥'과 초과감 애정행각 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003834291</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003834291</guid>
-            <pubDate>Sun, 20 Feb 2022 04:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 백지은 기자] 클라라가 사업가 남편과 달달한 일상을 공개했다. 클라라는 20일 자신의 SNS에 별다른 멘트 없이 사진 한 장을 게재했다. 공개된 사진에서 클라라는 남편과 함께 미술관을 찾은 모습이다. 마]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[고소영, "필리핀 사람 같다" 무례 댓글에 쿨한 대처 "韓 토종이다" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001704228</link>
-            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001704228</guid>
-            <pubDate>Sun, 20 Feb 2022 04:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[배우 고소영이 무례한 외모 지적에 쿨한 대처를 보였다. 19일 오후 고소영은 자신의 SNS에 "#페이크퍼 #스펜서 #다이애나비"라는 글과 함께 근황을 담은 사진을 여러 장 게재했다. 공개된 사진 속에는 퍼자켓 차림의]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[송지효-전소민 빠진 '런닝맨'vs주우재, 예측불허 두뇌싸움 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003834289</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003834289</guid>
-            <pubDate>Sun, 20 Feb 2022 04:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 백지은 기자] 예능 브레인과 수학 브레인의 대결이 성사됐다. 최근 진행된 SBS '런닝맨' 녹화는 '타짜 특집 3탄'으로 꾸며져 게스트 주우재가 등장했다. 특히 본인에게 득이 될지, 실이 될지 모르는 상]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[최시원, 조카 최초공개…8세 삼각관계에 충격('미우새') (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003834287</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003834287</guid>
-            <pubDate>Sun, 20 Feb 2022 04:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 백지은 기자] 슈퍼주니어 최시원이 방송 사상 처음으로 조카를 공개했다. SBS '미운 우리 새끼'에서는 최시원의 조카가 처음으로 등장해 '귀염뽀짝' 삼촌과 조카 케미로 엄마 미소를 유발한다. 이날, 최시]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[모모랜드 혜빈·낸시 코로나 확진…멕시코 일정 중단 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=079&amp;aid=0003611527</link>
-            <guid>https://entertain.naver.com/now/read?oid=079&amp;aid=0003611527</guid>
-            <pubDate>Sun, 20 Feb 2022 04:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[멕시코에서 프로모션 활동 중인 그룹 모모랜드 혜빈과 낸시가 코로나19에 확진됐다. 소속사 MLD엔터테인먼트는 20일 "현재 멕시코에서 프로모션 중인 모모랜드 멤버 혜빈과 낸시가 PCR 검사 결과 코로나19 양성 판정]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김세정, 승우아빠 만난 친오빠에 배신감…“야 너만 가냐” [스타★샷] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000605225</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000605225</guid>
-            <pubDate>Sun, 20 Feb 2022 04:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 구구단 출신 가수 겸 배우 김세정이 친오빠와의 일상을 공유했다. 19일 김세정은 자신의 인스타그램 스토리에 “야아 너만 가냐 오빠 놈아”라는 글과 함께 사진을 게재했다. 공개된 사진에는 유튜버 승우아빠와 김세정]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[전문] 모모랜드 혜빈-낸시, 멕시코 프로모션 중 코로나19 확진판정 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003834286</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003834286</guid>
-            <pubDate>Sun, 20 Feb 2022 04:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 백지은 기자] 그룹 모모랜드 혜빈과 낸시가 코로나19 확진판정을 받았다. 소속사 MLD엔터테인먼트는 20일 "멕시코에서 프로모션 중인 혜빈과 낸시가 코로나19 양성 판정을 받았다. 혜빈과 낸시는 3차 접]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[최준희·유이 "안 먹고 살 빼요"는 옛말, 달라진 몸매의 비결[TEN스타필드] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000531584</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000531584</guid>
-            <pubDate>Sun, 20 Feb 2022 04:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=우빈 기자] ≪우빈의 연중일기≫ 우빈 텐아시아 기자가 연예계의 기록을 다시 씁니다. 화제가 되는 가요·방송계 이슈를 분석하고 끄집어낸 기억을 더해봅니다. 어제의 이야기를 오늘의 기록으로 남깁니다. 연예인들]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김봉곤 “서당 못 팔아” 아내 “그럼 난 못 살아” (살림남2) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000962059</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000962059</guid>
-            <pubDate>Sun, 20 Feb 2022 04:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[19일 방송된 KBS 2TV ‘살림하는 남자들 시즌2’(이하 ‘살림남2′)에서 김봉곤 부부가 서당 매각 문제로 신경전을 펼치는 이야기가 그려졌다. 김봉곤의 아내 전혜란은 한옥 구조상 관리 비용이 많이 든다며 서당을]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[모모랜드 혜빈·낸시, 멕시코서 코로나19 확진 "현지 스케줄 중단" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=629&amp;aid=0000133640</link>
-            <guid>https://entertain.naver.com/now/read?oid=629&amp;aid=0000133640</guid>
-            <pubDate>Sun, 20 Feb 2022 04:19:24 GMT</pubDate>
-            <content:encoded><![CDATA["각각 3차, 2차 백신 접종 완료한 상태" 그룹 모모랜드 멤버 혜빈과 낸시가 코로나바이러스감염증-19(코로나19) 양성 판정을 받았다. 소속사 MLD엔터테인먼트는 20일 "현재 멕시코에서 프로모션 중인 혜빈과 낸시]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[AOA 출신 초아, '내돈내산' 캠핑카 플렉스 할 만 하네…"추울 때 더" [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000531582</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000531582</guid>
-            <pubDate>Sun, 20 Feb 2022 03:15:18 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=노규민 기자] 그룹 AOA 출신 초아가 캠핑을 즐겼다. 초아는 20일 자신의 인스타그램에 "추울때 유독 더 가게되는 캠핑. 오늘 아님"이라는 글과 함께 사진 한 장을 게재했다. 사진 속 초아는 자신이 구매]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[몬스타엑스 기현, 데뷔 7년 만에 솔로…내달 '보이저' 발표 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013000454</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013000454</guid>
-            <pubDate>Sun, 20 Feb 2022 03:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 김예나 기자 = 그룹 몬스타엑스(MONSTA X) 멤버 기현이 데뷔 7년 만에 솔로 음반을 선보인다. 20일 소속사 스타쉽엔터테인먼트와 몬스타엑스 공식 사회관계망서비스(SNS) 등에 따르면 기현은]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[모모랜드 혜빈·낸시, 멕시코서 코로나19 확진(전문)[공식] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001643680</link>
-            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001643680</guid>
-            <pubDate>Sun, 20 Feb 2022 03:15:18 GMT</pubDate>
-            <content:encoded><![CDATA[모모랜드 혜빈, 낸시가 코로나19 확진 판정을 받았다. 모모랜드 소속사 MLD엔터테인먼트는 20일 오전 공식입장을 통해 “현재 멕시코에서 프로모션 중인 모모랜드 멤버 혜빈과 낸시가 코로나19 양성 판정을 받았습니다”]]></content:encoded>
+            <title><![CDATA[“뜨거운 키스+침대서 행복한 미소…사랑해”, 캡틴 마블♥훈남 남친 애정행각[해외이슈] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003578439</link>
+            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003578439</guid>
+            <pubDate>Sun, 20 Feb 2022 06:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]‘캡틴 마블’ 브리 라슨(32)이 남친 엘리아 알란-브리츠(35)의 생일을 축하했다. 그는 19일(현지시간) 인스타그램에 “어제는 내 파트너가 태어난 날이었어. 나에게 침대에 케사디야를]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[스위프트 어려 싫다던 질렌할 "16세 연하 ♥︎여친, 가족같아" [Oh!llywood] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
@@ -1427,7 +1469,7 @@
             <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 미국 유명 래퍼 카녜이 웨스트(Kanye West·45)가 팬을 주먹으로 때려 기소될 것으로 보인다. 19일(현지시간) 미국 현지 매체 TMZ에 따르면 웨스트는 지난달 미국 LA의 한]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[美 힙합스타, 사인 받으려는 팬에게 주먹질…기소 위기 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <title><![CDATA['카다시안과 이혼소송' 카녜이 웨스트, 팬에게 주먹질 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
             <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011015307</link>
             <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011015307</guid>
             <pubDate>Sun, 20 Feb 2022 04:19:33 GMT</pubDate>
@@ -1558,27 +1600,6 @@
             <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011014259</guid>
             <pubDate>Sat, 19 Feb 2022 05:12:55 GMT</pubDate>
             <content:encoded><![CDATA[[서울=뉴시스]이재훈 기자 = 할리우드 톱스타 커플이었던 앤젤리나 졸리(47)와 브래드 피트(59)가 이혼 후에도 부동산을 두고 소송전을 이어가고 있다. 18일(현지시간) 미국 연예 전문 미디어 '베니티 페어(Van]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유명 TV 여배우, 실종신고 후 숨진 채 발견…향년 43세[해외이슈] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003578234</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003578234</guid>
-            <pubDate>Sat, 19 Feb 2022 04:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]미국 드라마 ‘종합병원’ ‘시카고 저스티스’에 출연한 TV 배우 린지 펄먼이 18일(현지시간) 숨진 채 발견됐다. 향년 43세. 버라이어티에 따르면, LA경찰국은 이날 “오늘 오전 8시]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“이혼 안해줄거야!” 카녜이 웨스트, 킴 카다시안 싱글 요구 거절[해외이슈] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003578217</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003578217</guid>
-            <pubDate>Sat, 19 Feb 2022 03:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]힙합스타 카녜이 웨스트(44)가 킴 카다시안(41)의 이혼 요구를 거절했다. 18일(현지시간) 페이지식스에 따르면, 카녜이 웨스트의 변호사들은 법적으로 독신이라고 선언해달라는 아내 킴 카]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['돌싱' 카다시안 전남편, 돈독 올랐네..하루만에 16억 벌었다 [Oh!llywood] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004560361</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004560361</guid>
-            <pubDate>Sat, 19 Feb 2022 02:31:02 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박소영 기자] 전처한테 외면 당하고, 현 여자친구한테 차인 카녜이 웨스트가 미친듯이 돈을 벌었다. 18일(현지시각) 외신 보도에 따르면 카녜이 웨스트는 자신의 새 앨범을 스템플레이어 플랫폼에서만 독점 제공]]></content:encoded>
         </item>
     </channel>
 </rss>
