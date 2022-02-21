@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-02-21T19:13:20.063Z</updated>
+    <updated>2022-02-21T20:15:46.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이브, 첫 공식 팬클럽 모집…"다이브 인 투 아이브"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011018410</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011018410"/>
+        <updated>2022-02-21T20:15:32.156Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이혜민 인턴 기자 = 6인조 신예그룹 아이브(IVE)가 데뷔 이후 첫 공식 팬클럽을 모집한다. 아이브는 최근 공식 팬카페를 통해 팬클럽 다이브(DIVE) 1기 모집 소식을 알렸다. 해당 팬클럽 모집 기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["비투비가 자신 있는 것"...10주년만큼 더 단단해진 '노래'(종합)]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000133900</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001412643"/>
         <updated>2022-02-21T10:16:39.275Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 코로나19 여파로 연기됐던 대구 아양아트센터에서 열리는 ‘대한민국 힐링 콘서트’에 트롯스타 신인선이 출연하여 눈길을 끌었다. MC 가수 조항조, 박규리의 진행으로 개최된 이번 콘서트에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밴드 포세컨즈, 리마스터 앨범 ‘꽃’ 3월 14일 발매]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000794639</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000794639"/>
-        <updated>2022-02-21T10:16:39.277Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 밴드씬에서 재야의 고수로 알려져 있는 포세컨즈가 내달 14일 2022리마스터 앨범 ‘꽃’을 발매를 앞두고 팬들의 기대를 받고 있다. 밴드 포세컨즈는 양승원(기타.), 차수연(보컬), 유찬우(베이스),]]></content>
     </entry>
 </feed>
