@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-02-21T13:19:15.993Z</updated>
+    <updated>2022-02-21T14:16:02.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가수 우즈, 코로나19 확진…"'영스트리트' 불참"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011018318</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011018318"/>
+        <updated>2022-02-21T14:15:47.488Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 가수 우즈(WOODZ·조승연)가 코로나19 확진 판정을 받았다. 소속사 위에화엔터테인먼트는 21일 "우즈가 지난 주말 가벼운 감기 증상과 미열로 인해 신속 항원 검사를 진행했고 검사 결]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['위에화 新 보이그룹' 템페스트, 데뷔 앨범 트랙리스트 공개]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003578751</id>
@@ -104,7 +111,7 @@
         <content type="html"><![CDATA[[서울=뉴시스]임희정 인턴 기자 = YG엔터테인먼트 신인 그룹 '트레저(TREASURE)'의 새 앨범 '더 세컨드 스텝 : 챕터 원'이 가온차트 8주차 주간 리테일 앨범차트에서 1위를 차지했다. 이번 주간차트 집계]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[비투비 서은광 "군백기 마치고 4 만에 완전체 복귀, 너무 행복해" [MD동영상]]]></title>
+        <title type="html"><![CDATA[비투비 서은광 "군백기 마치고 4년 만에 완전체 복귀, 너무 행복해" [MD동영상]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003578735</id>
         <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003578735"/>
         <updated>2022-02-21T11:13:50.593Z</updated>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001412642"/>
         <updated>2022-02-21T10:16:39.278Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이예진 인턴기자) 그룹 트라이비(TRI.BE)가 데뷔 1주년 기념 이벤트를 성료했다. 트라이비(송선, 켈리, 진하, 현빈, 지아, 소은, 미레)는 지난 14일부터 20일까지 진행된 데뷔 1주년 기념 ‘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가수 수란, 새 싱글 두번째 티저 공개…22일 컴백]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011018129</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011018129"/>
-        <updated>2022-02-21T10:16:39.279Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]임희정 인턴 기자 = 가수 수란(SURAN)이 새 디지털 싱글 '데블스 인 더 시티(Devils in the City) 2차 티저 영상을 공개했다고 소속사 유니크튠즈가 21일 밝혔다. 티저 영상은 40]]></content>
     </entry>
 </feed>
