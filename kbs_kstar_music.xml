@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 09:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 10:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뮤비가 좋다] K-POP 시장 '직진'하는 트레저, 폭발하는 글로벌 인기]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=193330</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=193330</guid>
+            <pubDate>Mon, 21 Feb 2022 10:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=193330">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220221173415_ab882f102e92f872590ee79349f53f06_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=193330">[뮤비가 좋다] K-POP 시장 '직진'하는 트레저, 폭발하는 글로벌 인기  </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220221173415_ab882f102e92f872590ee79349f53f06_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[3월의 김준수,  새로운 차원의 컴백 'DIMENSION']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=193250</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=192490">28일 컴백 로켓펀치...시크하고 당당한 매력 장착!</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220217092416_bb8ac46a6e61eb726933bebc90bbac20.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남미 사로잡은 모모랜드...'모니터라티노' 전체 1위]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=192402</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=192402</guid>
-            <pubDate>Sat, 19 Feb 2022 01:37:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=192402">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220216173204_83f3aca62e4fc8a44d98e087ebdb31fd.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=192402">남미 사로잡은 모모랜드...'모니터라티노' 전체 1위</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220216173204_83f3aca62e4fc8a44d98e087ebdb31fd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
