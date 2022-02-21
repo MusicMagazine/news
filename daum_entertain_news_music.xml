@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-02-21T11:14:07.496Z</updated>
+    <updated>2022-02-21T12:23:30.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이즈원 출신 김민주, 코로나19 확진]]></title>
+        <id>https://entertain.v.daum.net/v/20220221205108591</id>
+        <link href="https://entertain.v.daum.net/v/20220221205108591"/>
+        <updated>2022-02-21T12:22:52.653Z</updated>
+        <content type="html"><![CDATA[아이즈원 출신 김민주가 코로나19 확진 판정을 받았다. 소속사 얼반웍스는 21일 공식입장을 내고 "김민주는 지난 주말 경미한 감기 증상을 느껴 최초 검사(자가 검사 키트)를 통해 검사를 시행, 양성 결과를 확인했다"라며 "이후 PCR 검사를 진행하여 확진 판정을 받았다"라고 밝혔다. 이어 "현재 민주 양은 모든 일정을 중단하고 방역 당국 지침에 따라 필요]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[퍼스트원엔터 첫 보이그룹 '나인아이' 상반기 뜬다]]></title>
+        <id>https://entertain.v.daum.net/v/20220221203345392</id>
+        <link href="https://entertain.v.daum.net/v/20220221203345392"/>
+        <updated>2022-02-21T12:22:52.655Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 퍼스트원엔터테인먼트 첫 보이그룹 나인아이(NINE.i)가 2022년 상반기 정식 데뷔를 확정, 가요계 출사표를 던진다. 소속사 퍼스트원엔터테인먼트 측은 지난 19일 공식 SNS를 통해 나인아이(제원, 이든, 위니, 민준, 반, 베리, 서원, 태훈, 주형, 지호)의 멤버별 상세 프로필 이미지를 첫 공개하고, 본격적인 데뷔를 알렸다. 나인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[역시 믿고듣는 비투비 '노래' 4년만 컴백에도 1위]]></title>
         <id>https://entertain.v.daum.net/v/20220221193102615</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220221180013126"/>
         <updated>2022-02-21T09:16:22.687Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 비투비(서은광, 이민혁, 이창섭, 임현식, 프니엘, 육성재)의 감미로운 '노래'가 다시 시작됐다. 비투비는 2월 21일 오후 6시 국내외 음원 사이트를 통해 정규 3집 앨범 'Be Together'(비 투게더)를 발매했다. 이번 음반은 지난해 11월 '군백기'(군대+공백기)에 마침표를 찍은 비투비가 2018년 11월 발표한 미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["다쳐도 괜찮아" 스테이씨, 거침없는 직진 사랑법 'RUN2U']]></title>
-        <id>https://entertain.v.daum.net/v/20220221180005107</id>
-        <link href="https://entertain.v.daum.net/v/20220221180005107"/>
-        <updated>2022-02-21T09:16:22.695Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 스테이씨가 거침없는 메시지로 돌아왔다. 그룹 스테이씨(STAYC)는 2월 21일 오후 6시 두번째 미니앨범 'YOUNG-LUV.COM'을 발매, 타이틀곡 'RUN2U' 음원과 뮤직비디오를 공개했다. 타이틀곡 ‘RUN2U’는 남들이 뭐래도 사랑을 위해서라면 두려움 없이 너를 향해 달려가겠다는 마음을 스테이씨만의 느낌으로 거침없이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['4년 만에 완전체' 비투비의 의미있는 10주년..'Be Together']]></title>
-        <id>https://entertain.v.daum.net/v/20220221180004106</id>
-        <link href="https://entertain.v.daum.net/v/20220221180004106"/>
-        <updated>2022-02-21T09:16:22.695Z</updated>
-        <content type="html"><![CDATA[10주년을 맞이한 비투비가 완전체를 기다린 팬들을 위해 힐링송으로 돌아왔다. 21일 오후 6시 비투비(서은광, 이민혁, 이창섭, 임현식, 프니엘, 육성재)는 정규 3집 ‘Be Together’를 발매했다. 신보 ‘Be Together’는 함께했던 순간들의 감정과 기억을 되새기며 앞으로도 영원히 함께하자는 의미로 비투비만의 역량을 고스란히 담아낸 앨범이다.]]></content>
     </entry>
 </feed>
