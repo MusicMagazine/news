@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-02-22T02:30:40.201Z</updated>
+    <updated>2022-02-22T03:21:30.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빌리 시윤, 컴백 하루 앞두고 코로나19 확진]]></title>
+        <id>https://entertain.v.daum.net/v/20220222115745437</id>
+        <link href="https://entertain.v.daum.net/v/20220222115745437"/>
+        <updated>2022-02-22T03:20:50.499Z</updated>
+        <content type="html"><![CDATA[그룹 빌리(Billlie) 멤버 시윤이 신종 코로나바이러스 감염증(코로나19) 확진 판정을 받았다. 소속사 미스틱스토리는 22일 "빌리 시윤이 이날 오전 코로나19 확진 판정을 받았다"라고 알렸다. 시윤은 지난 21일 오후 선제적으로 자가진단키트 검사를 진행한 뒤 양성 반응을 확인했고 이후 진행한 PCR 검사에서 이날 오전 최종 양성 판정을 받았다. 시윤은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단 뷔, 코로나19 완치→오늘 격리 해제]]></title>
         <id>https://entertain.v.daum.net/v/20220222112922150</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220222102702140"/>
         <updated>2022-02-22T02:01:02.479Z</updated>
         <content type="html"><![CDATA[[스타뉴스 공미나 기자] /사진제공=JYP엔터테인먼트 JYP엔터테인먼트(이하 JYP) 신인 걸그룹 NMIXX(엔믹스)가 마침내 베일을 벗는다. NMIXX는 22일 데뷔 싱글 'AD MARE'(애드 마레)와 타이틀곡 'O.O'(오오)를 발매하고 정식 데뷔한다. NMIXX는 원더걸스, 미쓰에이, 트와이스, ITZY(있지)로 증명한 '걸그룹 명가' JYP의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈, 5월 3일 日 두 번째 싱글 'DIMENSION : 閃光' 발표]]></title>
-        <id>https://entertain.v.daum.net/v/20220222102438030</id>
-        <link href="https://entertain.v.daum.net/v/20220222102438030"/>
-        <updated>2022-02-22T02:01:02.481Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자] 그룹 ENHYPEN(엔하이픈)이 오는 5월 일본에서 두 번째 싱글을 발표한다. ENHYPEN(정원, 희승, 제이, 제이크, 성훈, 선우, 니키)의 소속사 빌리프랩은 22일 “ENHYPEN이 오는 5월 3일 일본에서 ‘DIMENSION : 閃光’(디멘션 : 센코우)를 발표한다”라고 밝혔다. ‘DIMENSION : 閃光’(디멘션 :]]></content>
     </entry>
 </feed>
