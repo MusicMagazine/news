@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 02:01:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 02:30:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가요계 터줏대감 슈퍼주니어, SM의 심장 켄지와 힘 합쳐 컴백]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=193510</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=193510</guid>
+            <pubDate>Tue, 22 Feb 2022 02:28:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=193510">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220222110631_3093ed0071dab131b24b4074a67ee9e4.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=193510">가요계 터줏대감 슈퍼주니어, SM의 심장 켄지와 힘 합쳐 컴백</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220222110631_3093ed0071dab131b24b4074a67ee9e4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뮤비가 좋다] K-POP 시장 '직진'하는 트레저, 폭발하는 글로벌 인기]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=193330</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=192500">이펙스 신인상 수상 "첫 번째 신인상이 저희라고 생각하니까 더 뿌듯한 것 같다"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220217092846_1e8f728afaae4af3ce8428bcd421f5fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[28일 컴백 로켓펀치...시크하고 당당한 매력 장착!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=192490</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=192490</guid>
-            <pubDate>Sat, 19 Feb 2022 01:37:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=192490">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220217092416_bb8ac46a6e61eb726933bebc90bbac20.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=192490">28일 컴백 로켓펀치...시크하고 당당한 매력 장착!</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220217092416_bb8ac46a6e61eb726933bebc90bbac20.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
