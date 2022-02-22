@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-02-22T13:19:54.446Z</updated>
+    <updated>2022-02-22T14:14:57.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하이브, 작년 가요계 첫 매출 1조원 돌파]]></title>
+        <id>https://entertain.naver.com/now/read?oid=422&amp;aid=0000529472</id>
+        <link href="https://entertain.naver.com/now/read?oid=422&amp;aid=0000529472"/>
+        <updated>2022-02-22T14:14:41.549Z</updated>
+        <content type="html"><![CDATA[방탄소년단의 소속사 하이브가 지난해 코로나 한파에도 가요 기획사 가운데 처음으로 연간 매출 1조원을 돌파했습니다. 하이브는 지난해 연매출이 1조 2천 570여억원으로 전년 대비 58% 늘어났습니다. 앨범 매출만 3천]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[K-걸밴드 롤링쿼츠, 글로벌 차트 강타…韓 인디밴드 최고 기록 달성]]></title>
         <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001954833</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011020780"/>
         <updated>2022-02-22T09:15:03.826Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 그룹 '에이핑크'·'더 보이즈' 소속사 IST엔터테인먼트의 신인 보이그룹을 뽑는 오디션 프로그램의 첫 공개 일정이 코로나19 여파로 미뤄졌다. 카카오TV-MBN 제작진은 22일 "지난주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조영수, 2년 연속 저작권대상 편곡상 대상 수상 “감사하고 영광스러워”]]></title>
-        <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001954779</id>
-        <link href="https://entertain.naver.com/now/read?oid=016&amp;aid=0001954779"/>
-        <updated>2022-02-22T09:15:03.827Z</updated>
-        <content type="html"><![CDATA[[헤럴드경제 = 서병기 선임기자]작곡가 조영수가 한국저작권협회 편곡상 대상 수상의 영예를 안았다. 조영수는 22일 오후 개최된 ‘제8회 한국음악저작권협회(KOMAC) 저작권대상’ 시상식에서 편곡상 대상을 수상했다.]]></content>
     </entry>
 </feed>
