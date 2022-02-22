@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-02-22T20:15:46.466Z</updated>
+    <updated>2022-02-22T21:15:13.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["미주알고주알모레알" 임영웅, 한밤 깜짝 생존신고..반가워요♡]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003030582</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003030582"/>
+        <updated>2022-02-22T21:14:55.996Z</updated>
+        <content type="html"><![CDATA[첫 정규앨범 준비에 한창인 가수 임영웅이 깊은 밤 깜짝 생존신고로 팬들을 설레게 했다. 임영웅은 2월 22일 오후 10시 52분께 공식 인스타그램에 "미주알고주알모레알"이라는 글과 함께 사진을 공개했다. 공개된 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우주소녀 다원, 불안장애로 활동 중단]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011021107</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=016&amp;aid=0001954783"/>
         <updated>2022-02-22T10:17:30.955Z</updated>
         <content type="html"><![CDATA[[헤럴드경제=고승희 기자] 오미크론 변이 확산으로 10만명에 가까운 확진자가 나오고 있는 가운데 가요계에서 코로나19 확진 사례가 이어지고 있다. 22일 매직스트로베리사운드에 따르면 소속 가수 옥상달빛의 멤버 김윤주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차은우, '악녀는 마리오네트' OST '포커스 온 미' 오늘(22일) 발매]]></title>
-        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003533916</id>
-        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003533916"/>
-        <updated>2022-02-22T09:15:03.825Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=정혜연 기자]그룹 아스트로 멤버 차은우가 특별한 선물을 들고 찾아왔다. 차은우는 22일 오후 6시 각종 음원 사이트를 통해 카카오페이지 '악녀는 마리오네트'의 OST 'Focus on me'(포커스 온]]></content>
     </entry>
 </feed>
