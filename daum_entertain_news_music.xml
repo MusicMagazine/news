@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-02-23T20:15:58.548Z</updated>
+    <updated>2022-02-23T21:14:39.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["코로나 이후 최대규모" 방탄소년단, 해외 이어 국내 콘서트 재개 '마중물']]></title>
+        <id>https://entertain.v.daum.net/v/20220224060006638</id>
+        <link href="https://entertain.v.daum.net/v/20220224060006638"/>
+        <updated>2022-02-23T21:14:06.155Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 정하은기자]그룹 방탄소년단(BTS)의 축제가 다시 시작된다. 방탄소년단(RM, 진, 슈가, 제이홉, 지민, 뷔, 정국)이 코로나19 사태 이후 최대 규모의 국내 콘서트를 예고했다. 방탄소년단은 3월 10일과 12일, 13일 서울 송파구 잠실종합운동장 주경기장에서 ‘비티에스 퍼미션 투 댄스 온 스테이지-서울’을 개최한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스포티파이, 국내 아티스트 편의성 위한 '스포티파이 포 아티스트' 플랫폼 한국어 지원]]></title>
         <id>https://entertain.v.daum.net/v/20220224001220057</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220223180009419"/>
         <updated>2022-02-23T09:13:42.538Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 그룹 빌리가 자신들만의 독특한 세계관으로 돌아왔다. 빌리는 2월 23일 오후 6시 각종 온라인 음원 사이트를 통해 두 번째 미니앨범 'the collective soul and unconscious: chapter one (더 컬렉티브 소울 앤 언컨시어스: 챕터 원)'을 발매, 타이틀곡 'GingaMingaYo (긴가민가요)' 음]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이상해 왜 GingaMingaYo"..멀티 세계관 품은 빌리, 더 당차게]]></title>
-        <id>https://entertain.v.daum.net/v/20220223180003401</id>
-        <link href="https://entertain.v.daum.net/v/20220223180003401"/>
-        <updated>2022-02-23T09:13:42.538Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 빌리(Billlie)가 더 강력해진 멀티 세계관을 품고 돌아왔다. 23일 오후 6시 빌리의 두 번째 미니앨범 '더 컬렉티브 소울 앤 언컨시어스: 챕터 원(the collective soul and unconscious: chapter one)'과 타이틀곡 '긴가민가요(GingaMingaYo) (the strange worl]]></content>
     </entry>
 </feed>
