@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2022-02-23T17:16:39.234Z</updated>
+    <updated>2022-02-23T18:15:59.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(여자)아이들 전소연, ‘방과후’ 아이돌 선생님의 포스 [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000963091</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000963091"/>
+        <updated>2022-02-23T18:15:51.229Z</updated>
+        <content type="html"><![CDATA[(여자)아이들 전소연, ‘방과후’ 아이돌 선생님의 포스 [화보] (여자)아이들 전소연의 화보가 공개됐다. 맥앤지나 매거진 커버를 장식한 전소연은 최근 ‘방과후 설렘’에서의 당찬 모습을 화보에서도 선보이며 트렌디한 힙]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수지 화보, 美친 청바지 핏으로 청순미 과시]]></title>
         <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001644553</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005927305"/>
         <updated>2022-02-23T14:14:54.988Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 김진환 기자 = 걸그룹 빌리(Billlie)의 션이 서울 용산구 한남동 미스틱스토리 사옥에서 진행된 뉴스1과의 인터뷰에 앞서 포즈를 취하고 있다. 2022.2.23/뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빌리(Billlie) 수현 '내 맘을 받아줘']]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005927304</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005927304"/>
-        <updated>2022-02-23T14:14:54.989Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 김진환 기자 = 걸그룹 빌리(Billlie)의 수현이 서울 용산구 한남동 미스틱스토리 사옥에서 진행된 뉴스1과의 인터뷰에 앞서 포즈를 취하고 있다. 2022.2.23/뉴스1]]></content>
     </entry>
 </feed>
