@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-02-23T15:16:10.708Z</updated>
+    <updated>2022-02-23T16:20:41.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정국X슈가 'Stay Alive' 빌보드 월드 디지털송 차트 1위 '데뷔']]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003030960</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003030960"/>
+        <updated>2022-02-23T16:20:24.109Z</updated>
+        <content type="html"><![CDATA[톱 아이돌그룹 방탄소년단(BTS, RM 진 지민 제이홉 슈가 뷔 정국) 멤버 정국과 슈가가 합작한 웹툰 '7FATES: CHAKHO' OST 'Stay Alive'가 빌보드 월드 디지털 송 세일즈 차트 1위로 데뷔했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스포티파이, 국내 아티스트 편의성 위한 ‘스포티파이 포 아티스트(S4A)’ 플랫폼 한국어 지원]]></title>
         <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001955495</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000545482"/>
         <updated>2022-02-23T09:14:06.138Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 그룹 빌리가 자신들만의 독특한 세계관으로 돌아왔다. 빌리는 2월 23일 오후 6시 각종 온라인 음원 사이트를 통해 두 번째 미니앨범 'the collective soul and unconsci]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팝's신곡]"도대체 무슨 상황?"..빌리, 어른이 되는 과정 '긴가민가요']]></title>
-        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003534368</id>
-        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003534368"/>
-        <updated>2022-02-23T09:14:06.139Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=정혜연 기자]빌리가 한층 더 탄탄해진 세계관으로 돌아왔다. 오늘(23일) 빌리의 두 번째 미니 앨범 'the collective soul and unconscious: chapter one'과 타이틀곡]]></content>
     </entry>
 </feed>
