@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 06:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 07:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[몬스타엑스 기현, 독보적인 비주얼과 재능]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=193979</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=193979</guid>
+            <pubDate>Thu, 24 Feb 2022 07:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=193979">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220224150014_c381f6532b2f9e2ab57b3ee879d23443.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=193979">몬스타엑스 기현, 독보적인 비주얼과 재능</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220224150014_c381f6532b2f9e2ab57b3ee879d23443.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['싱어게인2' 최종 TOP6 스타...유니버스 합류]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=193948</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=192572">"캐럿들 모여라~" 세븐틴 오프라인 팬미팅 개최!</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220217134855_1145e71f26bdf59c21ec1c4144b1cd1f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차은우, 커피소년 리메이크 음원...감미로운 목소리 담긴 '포커스 온 미']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=192567</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=192567</guid>
-            <pubDate>Sat, 19 Feb 2022 01:37:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=192567">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220217134518_5d5149411254e98d13abe0c260832bb7.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=192567">차은우, 커피소년 리메이크 음원...감미로운 목소리 담긴 '포커스 온 미'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220217134518_5d5149411254e98d13abe0c260832bb7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
