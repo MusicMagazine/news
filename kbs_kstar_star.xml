@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 04:19:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 05:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[베스트셀러] 날씨가 좋으면 '주술회전' 찾아가겠어요]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=193969</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=193969</guid>
+            <pubDate>Thu, 24 Feb 2022 05:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=193969">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220224141134_d7b31d2ed92fe2736559acc98bd0c680_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=193969">[베스트셀러] 날씨가 좋으면 '주술회전' 찾아가겠어요 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220224141134_d7b31d2ed92fe2736559acc98bd0c680_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[열정 넘치는 주기자, 아이돌 트레저 인터뷰 하다!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=193779</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=192281">"벌써 1년, 벌써 79억회 " 스포티파이, 한국 론칭 성과들 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220216094316_10d498bd9eb44c8bf20f0b4511cf326b_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[화보] 몬스타엑스와 아이브의 만남...완벽한 비주얼]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=192030</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=192030</guid>
-            <pubDate>Sat, 19 Feb 2022 04:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=192030">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220214172941_5dd3eec75bb7c320d7d11c6e48159318.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=192030">[화보] 몬스타엑스와 아이브의 만남...완벽한 비주얼</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220214172941_5dd3eec75bb7c320d7d11c6e48159318.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
