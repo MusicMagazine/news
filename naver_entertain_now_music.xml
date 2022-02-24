@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-02-24T19:12:25.124Z</updated>
+    <updated>2022-02-24T20:17:29.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단 지민 '필터' 스포티파이 누적 2억 5800만 임박]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003031344</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003031344"/>
+        <updated>2022-02-24T20:17:10.473Z</updated>
+        <content type="html"><![CDATA[보이 그룹 방탄소년단 멤버 지민이 부른 '필터'(Filter)의 인기가 현재진행형이다. '필터'는 25일 세계 최대 음원 스트리밍 플랫폼 스포티파이에서 누적 스트리밍 총 2억5791만6562건을 기록 중이다. 조만간]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단, 2년 연속 IFPI 글로벌 아티스트 차트 1위 등극[공식]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003031339</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000795458"/>
         <updated>2022-02-24T09:15:18.430Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 크로스오버의 자존심, 포르테 디 콰트로가 4집 발매에 앞서 싱글 ‘오필리아’를 24일 정오에 공개했다. 정규 4집 ‘메타포닉’ 앨범 발매에 앞서 선공개되는 싱글 ‘오필리아’에는 타이틀곡 ‘오필리아 (O]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뮤직Y] 장기하가 은퇴설을 잠재우는 법]]></title>
-        <id>https://entertain.naver.com/now/read?oid=416&amp;aid=0000280422</id>
-        <link href="https://entertain.naver.com/now/read?oid=416&amp;aid=0000280422"/>
-        <updated>2022-02-24T09:15:18.430Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 ㅣ강경윤 기자] 너무 조용해서 '은퇴설'까지 돌았던, 가수 장기하가 돌아왔다. 밴드 '장기하의 얼굴들'을 마무리 지은 '장기하'. 귀에 때려박히는 명확한 발음과 간결하지만 통찰이 빛나는 메시지로,]]></content>
     </entry>
 </feed>
