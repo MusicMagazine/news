@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 06:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 07:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['데스노트' 고은성-김성철, 매거진 '시어터플러스' 커버스토리 장식]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=194220</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=194220</guid>
+            <pubDate>Fri, 25 Feb 2022 07:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=194220">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220225142653_3373d94d04f38e562d4432ca85c17ba3.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=194220">'데스노트' 고은성-김성철, 매거진 '시어터플러스' 커버스토리 장식</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220225142653_3373d94d04f38e562d4432ca85c17ba3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[화보] '미남당' 촬영 중인 곽시양 "연기 변신...꼭 기대해 달라"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=194142</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=193192">유연석, 뮤지컬 ‘젠틀맨스 가이드’ 서울 공연 성료</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220221081948_2b237d3b25b60c51ae1600c12abe9ba9_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이석훈, 뮤지컬 '젠틀맨스 가이드' 마무리]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=193100</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=193100</guid>
-            <pubDate>Sun, 20 Feb 2022 02:03:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=193100">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220220085929_9fc58ad2d3dfea434e92632fb2c832c8.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=193100">이석훈, 뮤지컬 '젠틀맨스 가이드' 마무리</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220220085929_9fc58ad2d3dfea434e92632fb2c832c8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
