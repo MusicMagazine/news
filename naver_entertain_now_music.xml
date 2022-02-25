@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-02-25T10:16:33.208Z</updated>
+    <updated>2022-02-25T11:13:03.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하이브 파워…방탄소년단·세븐틴 국제음반산업협회 차트 1·9위]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011028260</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011028260"/>
+        <updated>2022-02-25T11:12:47.961Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 2021 '글로벌 아티스트 차트'서 쾌거 방탄소년단 역사상 최초로 2년 연속 정상 세븐틴 이번에 첫 진입 [서울=뉴시스]이재훈 기자 = 그룹 '방탄소년단'(BTS)이 국제음반산업협회(IFPI)가 선정한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세븐틴, 국제음반산업협회 ‘글로벌 아티스트 차트’ 9위 첫 진입 “큰 업적”]]></title>
         <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001956683</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013013870"/>
         <updated>2022-02-25T08:18:37.716Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이태수 기자 = 버추얼 아티스트(가상 인간) 한유아가 올해 상반기 데뷔곡 '아이 라이크 댓'(I Like That)을 발표하고 가요계에 도전장을 낸다고 CJ ENM이 25일 밝혔다. CJ ENM은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘뮤직뱅크’ 트레저 '직진' VS태연 'INVU', 2월 넷째주 1위 후보]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004563970</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004563970"/>
-        <updated>2022-02-25T08:18:37.716Z</updated>
-        <content type="html"><![CDATA[[OSEN=연휘선 기자] ‘뮤직뱅크’에서 트레저와 태연이 맞붙었다. 25일 방송된 KBS 2TV 음악 프로그램 ‘뮤직뱅크’(약칭 ‘뮤뱅’)에서는 아이브 원영, 엔하이픈 성훈의 진행 아래 2022년 2월 넷째 주 1위]]></content>
     </entry>
 </feed>
