@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-02-26T05:15:08.646Z</updated>
+    <updated>2022-02-26T06:18:15.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[펜타곤 신원, 코로나19 확진]]></title>
+        <id>https://entertain.v.daum.net/v/20220226142219962</id>
+        <link href="https://entertain.v.daum.net/v/20220226142219962"/>
+        <updated>2022-02-26T06:17:35.600Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 펜타곤 멤버 신원이 코로나19 확진 판정을 받았다. 소속사 큐브 엔터테인먼트는 “펜타곤 멤버 신원이 자가 진단키트 검사에서 양성 반응 확인 후 선별진료소를 찾아 PCR 검사를 받고 26일 최종 확진 판정을 받았다”고 밝혔다. 소속사는 “신원이 백신 2차까지 접종을 완료했으며, 현재 모든 일정을 중단 방역 당국의 지침에 따라 필요한 조]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[펜타곤 신원, 진호 이어 코로나19 확진]]></title>
+        <id>https://entertain.v.daum.net/v/20220226141726916</id>
+        <link href="https://entertain.v.daum.net/v/20220226141726916"/>
+        <updated>2022-02-26T06:17:35.600Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 이기은 기자] 그룹 펜타곤(진호 후이 홍석 신원 여원 옌안 유토 키노 우석) 멤버 신원이 코로나19 확진 판정을 받았다. 26일 소속사 큐브 엔터테인먼트 측은 공식 입장을 통해 신원이 코로나19 확진 소식을 전했다. 소속사 측은 "신원은 최초 검사(자가진단키트)를 통해 양성 반응을 확인했다. 이후 선별진료소를 찾아 코로나19 PCR(유전자 증]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["방탄소년단 지민 춤선 닮고파"..킹덤 아서 포부]]></title>
         <id>https://entertain.v.daum.net/v/20220226135145623</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220226103009657"/>
         <updated>2022-02-26T01:58:29.999Z</updated>
         <content type="html"><![CDATA[[스타뉴스 윤상근 기자] 2022.02.18 그룹 엔하이픈 인터뷰 /사진=이동훈 기자 photoguy@ 아이돌그룹 ENHYPEN(엔하이픈, 희승 제이 제이크 성훈 선우 정원 니키)의 2021년은 그야말로 거침이 없었다. CJ와 빅히트의 합작 오디션 예능 '아이랜드'를 통해 발탁된 ENHYPEN은 체계적인 해외 팬덤 유입을 통해 글로벌 존재감을 확장하기 위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[컴백 킹덤 아서 "롤모델 BTS 지민·아스트로 라키"]]></title>
-        <id>https://entertain.v.daum.net/v/20220226101754521</id>
-        <link href="https://entertain.v.daum.net/v/20220226101754521"/>
-        <updated>2022-02-26T01:58:30.001Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 킹덤 아서가 다양한 한복 착장으로 독보적인 존재감을 드러냈다. 킹덤(자한, 아이반, 치우, 아서, 단, 루이, 무진)은 26일 자정 공식 계정을 통해 미니 4집 ‘히스토리 오브 킹덤 : 파트 4. 단’ 아서의 개인 콘셉트 포토 2종을 공개했다. 공개된 첫 번째 사진 속 아서는 푸른빛이 감도는 한복과 머리색으로 신비하면서도 오묘한 분]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['라이온 킹', 왕이 돌아왔다]]></title>
-        <id>https://entertain.v.daum.net/v/20220226100104269</id>
-        <link href="https://entertain.v.daum.net/v/20220226100104269"/>
-        <updated>2022-02-26T01:58:30.003Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 윤혜영 기자] "THE KING IS BACK!" 지난 2018년, 최초로 성사된 인터내셔널 투어로 내한했던 '라이온 킹'이 3년여 만에 다시 돌아왔다. 전 세계적으로 1억 1천만 명 이상이 관람하며 81억 달러(8.8조 원) 이상의 수익을 거둔 공연이다. 동명의 디즈니 애니메이션을 무대화한 만큼, '라이온 킹'은 영화의 이야기 구조를 그대로]]></content>
     </entry>
 </feed>
