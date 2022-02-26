@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-02-26T14:16:31.964Z</updated>
+    <updated>2022-02-26T15:14:50.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사이러스·슈워제네거·숀펜…美 스타들 "우크라 지지·연대"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011029214</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011029214"/>
+        <updated>2022-02-26T15:14:50.080Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 러시아의 우크라이나 침공이 계속되고 있는 가운데, 미국 스타들이 잇따라 우크라이나에 대한 지지를 표하고 현지 국민들과 연대에 나섰다. 26일(현지시간) 영국 데일리 메일 등 외신에 따르]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[밀라 요보비치 "내 고향 우크라이나서 벌어진 일들, 마음 아프다"]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011029087</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000850727"/>
         <updated>2022-02-25T06:19:04.132Z</updated>
         <content type="html"><![CDATA[25일 오후 SBS 월화드라마 ‘사내맞선’ 온라인 제작발표회가 열렸다. 이날 제작발표회에는 박선호 감독-안효섭-김세정-김민규-설인아가 참석했다. 설인아와 김민규가 제작발표회에 앞서 포토타임을 갖고 있다. 사진=SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안효섭-김민규, '사내맞선'의 훈남들 [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000850726</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000850726"/>
-        <updated>2022-02-25T06:19:04.133Z</updated>
-        <content type="html"><![CDATA[25일 오후 SBS 월화드라마 ‘사내맞선’ 온라인 제작발표회가 열렸다. 이날 제작발표회에는 박선호 감독-안효섭-김세정-김민규-설인아가 참석했다. 안효섭과 김민규가 제작발표회에 앞서 포토타임을 갖고 있다. 사진=SBS]]></content>
     </entry>
 </feed>
