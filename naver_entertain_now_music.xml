@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-02-26T16:19:44.506Z</updated>
+    <updated>2022-02-26T17:14:56.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅, 멜론 男 솔로 아티스트 '1위']]></title>
+        <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001956881</id>
+        <link href="https://entertain.naver.com/now/read?oid=016&amp;aid=0001956881"/>
+        <updated>2022-02-26T17:14:39.520Z</updated>
+        <content type="html"><![CDATA[[헤럴드경제 = 서병기 선임기자]가수 임영웅이 온라인 음원사이트 멜론에서 남자 솔로 아티스트 정상에 올랐다. 24일 멜론에 따르면, 임영웅은 아티스트 차트에서 남자 솔로 부문 1위에 올랐다. 그는 멜론 아티스트 차트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뷔, 남친짤이 따로 없네..랜선 데이트하는 기분[스타IN★]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003031742</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003031695"/>
         <updated>2022-02-26T08:16:41.461Z</updated>
         <content type="html"><![CDATA[가수 원호(WONHO)가 치명적인 섹시미로 무장하고 돌아왔다. 원호는 26일 MBC '쇼! 음악중심'에 출연해 첫 싱글 '옵세션(OBSESSION)'의 타이틀곡 '아이 온 유(EYE ON YOU)' 컴백 무대를 꾸몄]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임영웅, 가수 브랜드 평판 2위→유튜브 조회수 12억 6천만 돌파]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000546540</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000546540"/>
-        <updated>2022-02-26T07:13:59.950Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 가수 임영웅이 2월 가수 브랜드 평판 2위에 올랐다. 2월 26일 한국기업평판연구소에 따르면 가수 브랜드평판 2022년 2월 빅데이터 분석 결과에서 임영웅은 참여지수 128만2866, 미디어지]]></content>
     </entry>
 </feed>
