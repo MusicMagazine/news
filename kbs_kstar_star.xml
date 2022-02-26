@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Feb 2022 12:21:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 13:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘프리다’ 최정원, 김소향, 임정희 ‘컬투쇼’ 출격]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=194279</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=194279</guid>
+            <pubDate>Sat, 26 Feb 2022 13:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=194279">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220225175115_391a00110dd1bbeed6bdae4c6908a24f.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=194279">‘프리다’ 최정원, 김소향, 임정희 ‘컬투쇼’ 출격</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220225175115_391a00110dd1bbeed6bdae4c6908a24f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['데스노트' 고은성-김성철, 매거진 '시어터플러스' 커버스토리 장식]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=194220</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=193217">[화보] 서현-이준영 '얼루어 센스'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220221093603_a844cd7cf04e04a7c97808c1451fb0a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유연석, 뮤지컬 ‘젠틀맨스 가이드’ 서울 공연 성료]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=193192</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=193192</guid>
-            <pubDate>Mon, 21 Feb 2022 13:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=193192">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220221081948_2b237d3b25b60c51ae1600c12abe9ba9_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=193192">유연석, 뮤지컬 ‘젠틀맨스 가이드’ 서울 공연 성료</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220221081948_2b237d3b25b60c51ae1600c12abe9ba9_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
