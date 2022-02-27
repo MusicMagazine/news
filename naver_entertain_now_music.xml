@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-02-27T20:14:58.051Z</updated>
+    <updated>2022-02-27T21:15:01.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅, 아이돌차트 아차랭킹 TOP5 등극…남성 솔로 1위]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001415077</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001415077"/>
+        <updated>2022-02-27T21:14:43.777Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅의 인기가 눈길을 끈다. 지난 27일 아이돌차트에 따르면, 2월 2주차(22.2.14~22.2.20) 아차랭킹에서 임영웅은 총점 3870점을 받았다. 이는 아차랭킹 전체 TOP5,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 백화점 노드스트롬서 'BTS 굿즈' 판매…일부 품목 매진]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013016846</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011029929"/>
         <updated>2022-02-27T06:18:02.815Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]전재경 기자 = 가수 양준일이 코로나 발언 논란에 대해 사과했다. 양준일은 27일 인스타그램에 "제 어리석음으로 상처를 드려 정말 죄송하다"며 "저는 우리가 다른 사람들처럼 코로나에 대한 두려움 없이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘사랑의 콜센타’ 임영웅, ‘별빛 같은 나의 사랑아’ 무대 1500만 뷰 돌파]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001414935</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001414935"/>
-        <updated>2022-02-27T05:15:31.114Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) ‘사랑의 콜센타’ 임영웅의 ‘별빛 같은 나의 사랑아’ 무대가 지속적으로 인기를 끌고 있다. 지난 2021년 3월 13일 임영웅 유튜브 채널 ‘임영웅’에는 “임영웅 [별빛 같은 나의 사랑아]]></content>
     </entry>
 </feed>

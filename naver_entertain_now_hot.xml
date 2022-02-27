@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2022-02-27T20:14:58.059Z</updated>
+    <updated>2022-02-27T21:15:01.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[심판대에 선 서예지, 사이코지만 괜찮아? [TEN스타필드]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000532999</id>
+        <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000532999"/>
+        <updated>2022-02-27T21:14:51.922Z</updated>
+        <content type="html"><![CDATA[[텐아시아=우빈 기자] ≪우빈의 조짐≫ 우빈 텐아시아 기자가 연예계에서 일어나거나 일어날 조짐이 보이는 이슈를 짚어드립니다. 객관적 정보를 바탕으로 기자의 시선을 더해 신선한 이야기를 전달합니다. 배우 서예지가 심판]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤남기♥이다은, 이미 살림 합쳤나? 껌딱지처럼 붙은 '리은X맥스']]></title>
         <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003836823</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003031906"/>
         <updated>2022-02-27T12:22:06.975Z</updated>
         <content type="html"><![CDATA[최근 임신 소식을 전한 코미디언 김영희가 고충을 토로했다. 27일 김영희는 자신의 인스타그램에 "입덧이 지나가니 소화불량에 두통이 온다. 체해도 배는 고프고, 심지어 혀끝에 입병까지"라는 글을 게재했다. 이어 "육아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라오스 탓판 폭포 위 ‘공중카페’에서 커피 한 잔…EBS1 ‘세계테마기행’]]></title>
-        <id>https://entertain.naver.com/now/read?oid=032&amp;aid=0003131095</id>
-        <link href="https://entertain.naver.com/now/read?oid=032&amp;aid=0003131095"/>
-        <updated>2022-02-27T12:22:06.976Z</updated>
-        <content type="html"><![CDATA[[경향신문] 겨울의 막바지, EBS 1TV &lt;세계테마기행&gt;에서는 따뜻해서 좋은 아시아의 여행지를 만나본다. 첫 목적지는 라오스다. 볼라벤 고원을 찾아 아시아 최대 폭포로 불리는 탓판 폭포의 위용을 경험한다. 두 물줄]]></content>
     </entry>
 </feed>
