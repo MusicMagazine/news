@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-02-27T07:14:44.097Z</updated>
+    <updated>2022-02-27T08:17:54.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘인기가요’ 태연, 김민석-트레저 꺾고 방송 없이 1위]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000546725</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000546725"/>
+        <updated>2022-02-27T08:17:39.333Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 태연이 '인기가요' 1위 트로피를 수집했다. 2월 27일 방송된 SBS '인기가요' 2월 마지막주 1위 후보로 태연, 김민석(멜로망스), 트레저가 올랐다. 이날 1위를 차지한 건 최근 'INV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘인기가요’ 태연vs김민석vs트레저, 1위 후보 맞대결]]></title>
         <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000546723</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003580334"/>
         <updated>2022-02-27T03:15:13.574Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]그룹 피원하모니(P1Harmony, 기호 테오 지웅 인탁 소울 종섭)가 미국 싱글 ‘Do It Like This (English Version)’을 발매하고 미국 시장을 정조준한다. 피원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[킹덤 치우 “올해 목표는 음악 방송 1위” [일문일답]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000850967</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000850967"/>
-        <updated>2022-02-27T03:15:13.575Z</updated>
-        <content type="html"><![CDATA[킹덤 치우가 오묘한 분위기로 눈길을 끌었다. 킹덤(자한, 아이반, 치우, 아서, 단, 루이, 무진)은 27일 자정 공식 계정을 통해 미니 4집 ‘히스토리 오브 킹덤 : 파트 4. 단’ 치우의 개인 콘셉트 포토 2종을]]></content>
     </entry>
 </feed>
