@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-02-27T19:13:48.511Z</updated>
+    <updated>2022-02-27T20:14:58.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 백화점 노드스트롬서 'BTS 굿즈' 판매…일부 품목 매진]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013016846</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013016846"/>
+        <updated>2022-02-27T20:14:40.824Z</updated>
+        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 정윤섭 특파원 = 미국의 대형 백화점 체인 노드스트롬이 그룹 방탄소년단(BTS)과 손을 잡고 'BTS 굿즈' 판매를 시작했다. 27일(현지시간) 미국 연예 매체 페이지식스 등에 따르면 BTS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[킹덤 자한 "K팝에 선한 영향력 주고파" 미니 4집 '기대감 ↑' [일문일답]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003031928</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001414935"/>
         <updated>2022-02-27T05:15:31.114Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) ‘사랑의 콜센타’ 임영웅의 ‘별빛 같은 나의 사랑아’ 무대가 지속적으로 인기를 끌고 있다. 지난 2021년 3월 13일 임영웅 유튜브 채널 ‘임영웅’에는 “임영웅 [별빛 같은 나의 사랑아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양준일 "코로나 그냥 빨리 걸리는게" 발언 논란 사과 "제 어리석음"[전문]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003031844</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003031844"/>
-        <updated>2022-02-27T05:15:31.114Z</updated>
-        <content type="html"><![CDATA[가수 양준일이 코로나19 관련 발언 논란에 대해 직접 사과했다. 양준일은 27일 자신의 인스타그램을 통해 'I'm so sorry'라는 문구가 적힌 스틸과 함께 자신의 앞선 발언을 둘러싼 논란에 대해 사과의 뜻을 전]]></content>
     </entry>
 </feed>
