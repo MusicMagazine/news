@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2022-02-27T17:14:38.692Z</updated>
+    <updated>2022-02-27T18:17:02.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[청순 여신 이연희, ‘첫사랑 클래스’ 어디 안 가네 [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000963616</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000963616"/>
+        <updated>2022-02-27T18:16:53.881Z</updated>
+        <content type="html"><![CDATA[청순 여신 이연희, ‘첫사랑 클래스’ 어디 안 가네 [화보] 배우 이연희가 함께한 화보가 공개됐다. 따스하게 내리쬐는 햇살을 맞으며 카메라 앞에 선 이연희. 그는 화보 장인답게 자연스러운 표정과 포즈로 시선을 사로잡]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이비, 시선강탈 탄탄 애플힙 [똑똑SNS]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000851076</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000532981"/>
         <updated>2022-02-27T12:22:06.980Z</updated>
         <content type="html"><![CDATA[[텐아시아=신소원 기자] 가수 김현중이 팬들 앞에서 직접 감사 인사를 전하며 결혼을 발표했다. 27일 김현중은 GIFT CONCERT '하고 싶은 말'을 통해 팬들에게 "어떻게 말씀을 먼저 드려야 될지 모르겠다"라고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김현중 결혼 “아내 비연예인, 결혼식 생략” (전문)[종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000963610</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000963610"/>
-        <updated>2022-02-27T12:22:06.981Z</updated>
-        <content type="html"><![CDATA[김현중 결혼 “배우자 비연예인, 결혼식 생략” (전문)[종합] 가수 김현중이 팬들 앞에서 직접 결혼을 발표했다. 김현중은 27일 팬들을 위한 무료 공연 ‘하고 싶은 말’을 통해 “가장 힘들고 어려웠던 시기에 곁을 지]]></content>
     </entry>
 </feed>
