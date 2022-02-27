@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-02-27T09:14:42.556Z</updated>
+    <updated>2022-02-27T10:16:43.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[라이언 레이놀즈 부부 "우크라이나에 12억원 기부"[Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004564921</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004564921"/>
+        <updated>2022-02-27T10:16:43.260Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 영화 '데드풀', '킬러의 보디가드' 등으로 유명한 할리우드 배우 라이언 레이놀즈가 아내인 배우 블레이크 라이블와 함께 우크라이나 피난민을 돕기 위해 100만 달러(한화 약 12억 450만]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[선덕여왕 선발대회 참가한 김혜수 [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000851038</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004713678"/>
         <updated>2022-02-27T08:17:54.065Z</updated>
         <content type="html"><![CDATA[헐리우드의 모델 겸 방송인, 그리고 사업가인 킴 카다시안이 1100억원짜리 새 전용기를 구입한 것으로 알려졌다. 26일(현지시간) 미국의 연예매체 TMZ는 카다시안이 9500만 달러(약 1144억원)짜리 G65OER]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유명 배우, 무단침입 혐의로 체포..1달 전 子사망 영향있나[Oh!llywood]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004564854</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004564854"/>
-        <updated>2022-02-27T08:17:54.067Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 쿠엔틴 타란티노 감독의 영화들로 유명한 배우 마이클 매드슨(64)이 23일(현지시간) 밤 미국 LA 말리부 자택에서 체포됐다고 데일리메일이 전했다. 보도에 따르면 LA 카운티 보안관은 매드슨]]></content>
     </entry>
 </feed>
