@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 13:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 14:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[쇼케이스] 로켓펀치, K-POP 시장에 날리는 당당한 펀치!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=194712</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=194712</guid>
+            <pubDate>Mon, 28 Feb 2022 14:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=194712">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220228172858_bfff82d5aa4adb9ac0e269937e9d63fa.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=194712">[쇼케이스] 로켓펀치, K-POP 시장에 날리는 당당한 펀치!</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220228172858_bfff82d5aa4adb9ac0e269937e9d63fa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트와이스, 미국에서 월드투어 성료]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=194699</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=193510">가요계 터줏대감 슈퍼주니어, SM의 심장 켄지와 힘 합쳐 컴백</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220222110631_3093ed0071dab131b24b4074a67ee9e4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뮤비가 좋다] K-POP 시장 '직진'하는 트레저, 폭발하는 글로벌 인기]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=193330</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=193330</guid>
-            <pubDate>Mon, 21 Feb 2022 10:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=193330">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220221173415_ab882f102e92f872590ee79349f53f06_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=193330">[뮤비가 좋다] K-POP 시장 '직진'하는 트레저, 폭발하는 글로벌 인기  </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220221173415_ab882f102e92f872590ee79349f53f06_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
