@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 06:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 07:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트와이스, 미국에서 월드투어 성료]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=194699</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=194699</guid>
+            <pubDate>Mon, 28 Feb 2022 07:13:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=194699">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220228160648_096555c1b697443c8dd5a4b2c900a690.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=194699">트와이스, 미국에서 월드투어 성료 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220228160648_096555c1b697443c8dd5a4b2c900a690.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뮤비가 좋다] 대형 신인 엔믹스,  판타지 영화 버금가는 퀄리티 담긴 MV]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=194679</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=193330">[뮤비가 좋다] K-POP 시장 '직진'하는 트레저, 폭발하는 글로벌 인기  </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220221173415_ab882f102e92f872590ee79349f53f06_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3월의 김준수,  새로운 차원의 컴백 'DIMENSION']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=193250</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=193250</guid>
-            <pubDate>Mon, 21 Feb 2022 02:27:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=193250">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220221103008_7e77a209067fb4a957f4189cd0e13921.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=193250">3월의 김준수,  새로운 차원의 컴백 'DIMENSION'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220221103008_7e77a209067fb4a957f4189cd0e13921.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
