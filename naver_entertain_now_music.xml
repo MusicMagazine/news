@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-01T17:16:39.640Z</updated>
+    <updated>2022-03-01T18:20:17.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크래비티, 청량함으로 컴백 초읽기…4월 첫 콘서트]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011034804</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011034804"/>
+        <updated>2022-03-01T18:19:59.867Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 그룹 '크래비티(CRAVITY)'가 코로나19 여파로 미뤘던 컴백 활동을 재개한다. 2일 소속사 스타쉽 엔터테인먼트에 따르면 크래비티는 오는 22일 오후 6시 정규 1집의 파트 2 '리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김성규, 2년 만에 대면 콘서트 연다]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011034797</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003032339"/>
         <updated>2022-03-01T09:15:37.262Z</updated>
         <content type="html"><![CDATA[가수 이무진이 신생 엔터테인먼트 기업 빅플래닛메이드(Big Planet Made, BPM)와 손잡았다. 빅플래닛메이드는 1일 "신흥 음원 강자로 떠오르는 이무진과 최근 전속계약을 체결했다"고 밝혔다. 앞서 플래닛메이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이달의 소녀 올리비아 혜, ‘봄이 되어줄게’ 리메이크 신곡 발매[공식]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001208432</id>
-        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001208432"/>
-        <updated>2022-03-01T09:15:37.262Z</updated>
-        <content type="html"><![CDATA[그룹 이달의 소녀(LOONA)의 멤버 올리비아 혜(Olivia Hye)가 이른 봄 감성을 전한다. 올리비아 혜는 오늘(1일) 오후 6시 각종 음원사이트를 통해 공기남의 ‘봄이 되어줄게’ 리메이크 곡을 발매한다. 올리]]></content>
     </entry>
 </feed>
