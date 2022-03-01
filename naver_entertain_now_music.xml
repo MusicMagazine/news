@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-01T16:21:13.817Z</updated>
+    <updated>2022-03-01T17:16:39.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김성규, 2년 만에 대면 콘서트 연다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011034797</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011034797"/>
+        <updated>2022-03-01T17:16:23.729Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 그룹 '인피니트' 멤버 겸 가수 김성규가 2년 만에 단독 콘서트를 연다. 2일 소속사 더블에이치티엔이에 따르면, 김성규는 오는 4월 22~24일 서울 잠실동 잠실실내체육관에서 네 번째]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[빌리, 어린 시절 사진 大방출 '모태 비주얼+끼 증명']]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003032380</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001208432"/>
         <updated>2022-03-01T09:15:37.262Z</updated>
         <content type="html"><![CDATA[그룹 이달의 소녀(LOONA)의 멤버 올리비아 혜(Olivia Hye)가 이른 봄 감성을 전한다. 올리비아 혜는 오늘(1일) 오후 6시 각종 음원사이트를 통해 공기남의 ‘봄이 되어줄게’ 리메이크 곡을 발매한다. 올리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["앞만 보지 말고 멀리 봐라"…엔믹스, JYP 박진영 말의 의인화]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011034596</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011034596"/>
-        <updated>2022-03-01T09:15:37.263Z</updated>
-        <content type="html"><![CDATA[기사내용 요약 "'모험심 강한 당찬 소녀들'이라는 정체성" 평균 만 18세의 JYP 신예 걸그룹 원더걸스·미쓰에이·트와이스·있지, '걸그룹 명가' 계보 계승 첫 싱글 '애드 마레' 판매량 22만장 데뷔 걸그룹 초동]]></content>
     </entry>
 </feed>
