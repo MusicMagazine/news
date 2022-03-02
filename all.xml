@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 05:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 06:18:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소유, 첫 단독 콘서트 '더 라이브 : 나잇' (KBS연예 ─ 음악)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=194990</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=194990</guid>
+            <pubDate>Wed, 02 Mar 2022 06:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=194990">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220302141416_19ff9b2e3158a1869ee9c1381a8e97b3.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=194990">소유, 첫 단독 콘서트 '더 라이브 : 나잇'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220302141416_19ff9b2e3158a1869ee9c1381a8e97b3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가수 이석훈, 정규 1집 내는 사람 "나야 나~" (KBS연예 ─ 음악)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=194917</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=193979">몬스타엑스 기현, 독보적인 비주얼과 재능</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220224150014_c381f6532b2f9e2ab57b3ee879d23443.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['싱어게인2' 최종 TOP6 스타...유니버스 합류 (KBS연예 ─ 음악)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=193948</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=193948</guid>
-            <pubDate>Thu, 24 Feb 2022 05:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=193948">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220224133629_db0db2df0effac6b768eff0bc6fc6464_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=193948">'싱어게인2' 최종 TOP6 스타...유니버스 합류 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220224133629_db0db2df0effac6b768eff0bc6fc6464_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[엔플라잉 유희승, 뮤지컬 '클림트' "에곤 쉴레를 사랑해주셔서 정말 감사" (KBS연예 ─ 연예)]]></title>
@@ -688,6 +688,14 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220222090628_b2ea479df9728cc47138ad1e1907ac0e_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[크래비티, 4월 첫 단독 콘서트 개최 [공식입장] (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/339783</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/339783</guid>
+            <pubDate>Wed, 02 Mar 2022 06:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/339783">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/02/b7da3be5-70a1-4015-ad72-1e55b95658cb.jpg" alt="크래비티, 4월 첫 단독 콘서트 개최 [공식입장]">        <div class="text-box">            <p class="summary">크래비티, 4월 첫 단독 콘서트 개최 [공식입장]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/02/b7da3be5-70a1-4015-ad72-1e55b95658cb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['주간아이돌' 스테이씨, 라도 히트곡 메들리 완벽 소화 (MBC 연예 ─ 아이돌)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/339774</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/339774</guid>
@@ -768,222 +776,221 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/02/62455a25-07d7-42d2-99c0-77e5d5318c41.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[방탄 빌보드 인기 여전히 뜨거운 이유 (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/339726</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/339726</guid>
-            <pubDate>Tue, 01 Mar 2022 23:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/339726">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/02/HM4kiHr3a12G637818028105663045.jpg" alt="방탄 빌보드 인기 여전히 뜨거운 이유">        <div class="text-box">            <p class="summary">방탄 빌보드 인기 여전히 뜨거운 이유</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/02/HM4kiHr3a12G637818028105663045.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['컴백' 체리블렛 "에너제틱·몽환적인 매력 보여드릴 것" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220302151736856</link>
+            <guid>https://entertain.v.daum.net/v/20220302151736856</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[체리블렛(사진=FNC엔터테인먼트)[이데일리 스타in 윤기백 기자] “이번 앨범을 통해 많은 기대감을 심어드리고 싶다.”(유주) 그룹 체리블렛이 1년 2개월 만에 컴백한 소감을 이같이 밝혔다. 체리블렛 레미는 2일 온라인으로 진행한 미니 2집 ‘체리 위시’ 발매 기념 쇼케이스에서 “오랜만에 새 앨범으로 인사드리게 됐다”며 “열심히 준비한 만큼 많은 관심을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[소유, 4월 첫 단독 콘서트 'THE LIVE : NIGHT' 개최 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220302141224034</link>
-            <guid>https://entertain.v.daum.net/v/20220302141224034</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 가수 소유가 첫 단독 콘서트를 연다. 소유는 오는 4월 2일과 3일 양일간 서강대학교 메리홀에서 첫 단독 콘서트 'THE LIVE : NIGHT(더 라이브 : 나잇)'을 개최한다. 'THE LIVE : NIGHT'은 소유가 2010년 씨스타로 데뷔한 이후 처음으로 선보이는 단독 콘서트다. 긴 겨울을 지나 따뜻한 설렘을 가져다줄 소]]></content:encoded>
+            <title><![CDATA[체리블렛 "1년 2개월 만의 컴백, 많은 분들 마음 사로잡는 그룹 되겠다" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220302151731854</link>
+            <guid>https://entertain.v.daum.net/v/20220302151731854</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 체리블렛이 오랜만에 컴백하는 소감을 밝혔다. 체리블렛(해윤 유주 보라 지원 레미 채린 메이)의 두 번째 미니앨범 'Cherry Wish' 발매 기념 온라인 쇼케이스가 2일 오후 진행됐다. 약 1년 2개월 만에 컴백한 체리블렛은 이날 소감을 먼저 밝혔다. 레미는 "오랜만에 새 앨범으로 인사드리게 됐다. 열심히 준비했으니 많은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['싱어게인2' 서기 "'64호' 이름표 뗀 순간 못 잊죠"① (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220302141007940</link>
-            <guid>https://entertain.v.daum.net/v/20220302141007940</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[서기(사진=JTBC)[이데일리 스타in 김현식 기자] ‘100만뷰 소녀’에서 ‘500만뷰 소녀’로, 수식어의 무게감을 확 키웠다. 신인 가수임에도 굳이 조회 수를 앞세우지 않아도 될 정도로 이름값을 높인 상황이기도 하다. JTBC 음악 경연 프로그램 ‘싱어게인-무명가수전2’(이하 ‘싱어게인2’)에서 맹활약한 가수 서기(본명 이다연) 얘기다. 최근 이데일리]]></content:encoded>
+            <title><![CDATA['컴백' 체리블렛 보라 "몽환적인 매력으로 사로잡겠다" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220302151515775</link>
+            <guid>https://entertain.v.daum.net/v/20220302151515775</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 정하은기자]그룹 체리블렛이 오랜만에 컴백한 소감을 밝혔다. 2일 체리블렛(해윤, 유주, 보라, 지원, 레미, 채린, 메이)이 미니 2집 ‘체리 위시(Cherry Wish)’ 발매를 앞두고 온라인 생중계를 통해 미디어 쇼케이스를 열었다. 체리블렛의 신보는 지난해 1월 발표한 미니음반 ‘체리 러시’ 이후 1년 2개월 만이다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['슬의생2' OST, LP 발매 확정 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220302140541732</link>
-            <guid>https://entertain.v.daum.net/v/20220302140541732</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] ‘슬의생2’ OST, LP 발매 확정 [공식] ‘OST맛집’으로 불리는 tvN ‘슬기로운 의사생활 시즌2’의 OST가 LP로도 발매된다. 2일 ‘슬기로운 의사생활’ OST 제작사 스튜디오 마음C 측은 “지난해 발매됐던 음반의 뜨거운 인기에 힘입어 ‘슬기로운 의사생활 시즌2’ OST의 LP 제작과 더불어 ‘슬기로운 의사생활 시즌1’ OST 역시]]></content:encoded>
+            <title><![CDATA[샤이니 키, 코로나19 확진 "컨디션 이상 증세" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220302150944471</link>
+            <guid>https://entertain.v.daum.net/v/20220302150944471</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자] 그룹 샤이니 멤버 키가 코로나19 확진 판정을 받았다. 샤이니의 소속사 에스엠엔터테인먼트는 2일 "샤이니 키가 오늘(2일)&nbsp;코로나19&nbsp;확진 판정을 받았습니다"라고 알렸다. 이어 "키는 지난&nbsp;3월&nbsp;1일 컨디션 이상 증세를 느껴 자가진단키트를 통해 양성 반응을 확인했고,&nbsp;곧바로&nbsp;PCR&nbsp;검사를 진행해 오늘 오전 최종 양성 판정을 받았]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김준수 미니 3집 'DIMENSION' 16일 발표 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220302140435687</link>
-            <guid>https://entertain.v.daum.net/v/20220302140435687</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 가수 김준수의 미니앨범 3집 ‘DIMENSION(디멘션)’이 16일 발매된다. 김준수는 16일 오후 6시, 세 번째 미니앨범 ‘DIMENSION’의 발매일을 확정 지었다. 팜트리아일랜드는 2일 자정 공식 SNS를 통해 김준수의 새 앨범의 트랙리스트 이미지와 함께 컴백 일정을 공개했다. 사진 속 김준수는 신비로우면서도 강렬한 카리스마를 느끼게]]></content:encoded>
+            <title><![CDATA[크래비티, 내달 2-3일 데뷔 첫 콘서트 개최 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220302150931462</link>
+            <guid>https://entertain.v.daum.net/v/20220302150931462</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 그룹 크래비티(CRAVITY)가 데뷔 이래 첫 콘서트를 개최한다. 2일 소속사 스타쉽엔터테인먼트는 “크래비티가 오는 4월 2일과 4월 3일 양일간 서울 올림픽공원 올림픽홀에서 CRAVITY THE 1st CONCERT CENTER OF GRAVITY’(이하 ‘CENTER OF GRAVITY(센터 오브 그래비티’)를 진행한다”며 개최 소식]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[브레이브걸스 14일 컴백 확정 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220302135825415</link>
-            <guid>https://entertain.v.daum.net/v/20220302135825415</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 브레이브걸스 14일 컴백 확정 [공식] 음원 퀸 브레이브걸스가 오는 14일, 반년 만에 가요계로 컴백한다. 소속사 브레이브 엔터테인먼트는 금일 자정, 소속사 공식 SNS 및 브레이브걸스의 공식 SNS를 통해 컴백 날짜가 기재되어 있는 컴백 이미지를 기습 공개하며 컴백 신호탄을 쏘아 올렸다. 마치 꿈을 꾸는 것 같은 신비한 보랏빛 무드의 이]]></content:encoded>
+            <title><![CDATA[샤이니 키 코로나19 확진 "2차 접종 완료..즉시 스케줄 중단" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220302150734384</link>
+            <guid>https://entertain.v.daum.net/v/20220302150734384</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 윤상근 기자] 샤이니 키가 1일 오후 온라인 생중계로 진행된 '에스엠타운 라이브 2022 : SMCU 익스프레스@광야'(SMTOWN LIVE 2022 : SMCU EXPRESS@KWANGYA)에서 멋진 공연을 펼치고 있다. /사진제공=SM엔터테인먼트 2022.01.01 /사진=이동훈 기자 photoguy@ 아이돌그룹 샤이니 멤버 키가 코로나19]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['온리 마이 팬' 팬사랑이 특별한 아이돌은 바로 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220302133104363</link>
-            <guid>https://entertain.v.daum.net/v/20220302133104363</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[특별한 사람은 바로 너! 아이돌과 팬덤 사이 서로를 대하는 마음은 단순한 하나의 감정으로만 치부할 수 없다. 서로를 아끼는 마음을 어떤 감정에 규정짓기에는 범위가 크다. 처음에는 팬들의 일방으로 시작하지만, 받는 사람으로 하여금 지극정성을 느끼면서 이내 서로 통하는 사이로 성장한다. 전 세계로부터 넘치는 사랑을 받는 아이돌이라면 분에 넘치는 사랑을 누]]></content:encoded>
+            <title><![CDATA[샤이니 키, 코로나19 확진 "자가격리 및 재택치료" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220302150548304</link>
+            <guid>https://entertain.v.daum.net/v/20220302150548304</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 그룹 샤이니 키가 코로나19 확진 판정을 받았다. 2일 오후 소속사 SM엔터테인먼트는 “샤이니 키가 오늘 코로나19 확진 판정을 받았다”며 “키는 지난 1일 컨디션 이상 증세를 느껴 자가진단키트를 통해 양성 반응을 확인했고, 곧바로 PCR 검사를 진행해 오늘 오전 최종 양성 판정을 받았다”고 설명했다. 이어 “키는 코로나19 백신 2차 접종을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['가요광장' 스테이씨 시은 "애칭 '꿀짱구', 父박남정이 불러주던 별명" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220302131930934</link>
-            <guid>https://entertain.v.daum.net/v/20220302131930934</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김종은 기자] '가요광장'에서 스테이씨 시은이 자신의 애칭을 소개했다. 2일 오후 방송된 KBS 쿨FM '가요광장'에서는 스테이씨(STAYC, 수민, 시은, 아이사, 세은, 윤, 재이)가 출연해 이야기를 나눴다. 이날 스테이씨는 각자 자신의 애칭을 공개했다. 먼저 수민은 '토끼 리더'라고 자신을 소개했고, 재이는 '말랑 말티즈', 윤은 '호]]></content:encoded>
+            <title><![CDATA[크래비티, 데뷔 첫 단독 콘서트 4월 개최 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220302150446260</link>
+            <guid>https://entertain.v.daum.net/v/20220302150446260</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 이덕행 기자] /사진=스타쉽 엔터테인먼트그룹 크래비티(CRAVITY)가 데뷔 이래 첫 콘서트를 개최한다. 2일 소속사 스타쉽엔터테인먼트는 "크래비티가 오는 4월 2일과 4월 3일 양일간 서울 올림픽공원 올림픽홀에서 CRAVITY THE 1st CONCERT CENTER OF GRAVITY'(이하 'CENTER OF GRAVITY(센터 오브 그래]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[태연 'INVU', 발매 2주만에 주간차트 1위 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220302131901928</link>
-            <guid>https://entertain.v.daum.net/v/20220302131901928</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김수진 기자] 그룹 소녀시대의 멤버 태연이 발매 2주 만에 세 번째 솔로 정규앨범 'INVU'의 타이틀곡 'INVU'로 멜론 주간차트 정상에 섰다. 2일 멜론에 따르면 지난달 28일 발표된 2월 4주(2월 21일 ~ 2월 27일)차 주간차트에서 태연의 곡 'INVU'가 1위를 기록했다. 지난 14일 발표된 'INVU'는 발매 첫 주 2위로 주간]]></content:encoded>
+            <title><![CDATA[우주소녀 쪼꼬미 "유닛으로 첫 수상..멤버들이 기특하대요" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220302150017031</link>
+            <guid>https://entertain.v.daum.net/v/20220302150017031</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 공미나 기자] 걸그룹 우주소녀 쪼꼬미 인터뷰 /사진=이동훈 기자 photoguy@ 등장부터 센세이션했다. '이루리', '라 라 러브', '비밀이야' 등 청순하면서도 몽환적인 콘셉트를 이어온 우주소녀에게 이런 모습이 있었다니. 엉뚱하면서도 유머러스하고, 또 귀여운 모습으로 많은 이들을 매료시킨 우주소녀 첫 유닛 쪼꼬미의 이야기다. 이들은 2020]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['믿듣탱' 입증 태연 'INVU' 음원 주간 차트 1위 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220302130147340</link>
-            <guid>https://entertain.v.daum.net/v/20220302130147340</guid>
-            <pubDate>Wed, 02 Mar 2022 04:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 소녀시대 태연이 주간 음원 차트 1위도 석권했다. 지난 2월 14일 공개된 태연 정규 3집 타이틀 곡 ‘INVU’는 멜론, 지니, 벅스 등 주요 음악 사이트에서 주간 차트(2월 21~27일) 1위를 차지해 태연의 ‘음원퀸’다운 면모를 다시 한번 확인케 했다. 앞서 태연은 신곡 ‘INVU’로 발매 2주 차에도 각종 음원 차트 일간]]></content:encoded>
+            <title><![CDATA[우주소녀 쪼꼬미, 박진영·방시혁·유영진에 러브콜.."프로듀싱 어때요?" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220302150009020</link>
+            <guid>https://entertain.v.daum.net/v/20220302150009020</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 공미나 기자] -인터뷰①으로 이어짐 걸그룹 우주소녀 쪼꼬미 인터뷰 /사진=이동훈 기자 photoguy@ -쪼꼬미 활동이 국내뿐만이 아니라 해외에서도 반응이 뜨겁더라고요. '흥칫뿡' 활동 당시에는 미국 포브스(Forbes)의 집중 조명을 받았고, 최근에는 스포티파이(Spotify) 바이럴 트렌딩 커버 및 타이달(TIDAL) 플레이리스트 커버를 장식]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[체리블렛, 1년 2개월만 컴백..'러블리 몽환 에너제틱' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220302125917257</link>
-            <guid>https://entertain.v.daum.net/v/20220302125917257</guid>
-            <pubDate>Wed, 02 Mar 2022 04:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 백지은 기자] 그룹 체리블렛이 약 1년 2개월 만에 컴백한다. 체리블렛은 2일 오후 6시 주요 음원사이트를 통해 두 번째 미니앨범 '체리 위시'의 전곡 음원과 타이틀곡 '러브 인 스페이스'의 뮤직비디오를 공개한다. 루시드 드림 속 체리블렛의 매력이 담긴 새 앨범의 감상 포인트를 세 가지 꼽아봤다. ▶ '러블리 몽환 에너제틱' 체리]]></content:encoded>
+            <title><![CDATA[우주소녀 쪼꼬미 "데뷔 6주년..앞으로도 우정과 걸어가고파" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220302150001995</link>
+            <guid>https://entertain.v.daum.net/v/20220302150001995</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 공미나 기자] -인터뷰②에 이어 걸그룹 우주소녀 쪼꼬미 인터뷰 /사진=이동훈 기자 photoguy@ -최근 우주소녀가 데뷔 6주년을 맞았어요. 벌써 6주년이라니 시간이 참 빠른 것 같아요. ▶루다=벌써 6년이나 지났다니……. 요즘 많은 생각을 했는데, 그간 다양한 일 있었구나 싶어요. 멤버들과 우정들과 함께 웃고 울고 가슴 벅찬 순간이 떠오]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빅톤, '사내맞선' OST 주자..최병찬 지원사격 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220302122818513</link>
-            <guid>https://entertain.v.daum.net/v/20220302122818513</guid>
-            <pubDate>Wed, 02 Mar 2022 04:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 윤상근 기자] /사진제공=IST엔터테인먼트 아이돌그룹 빅톤(VICTON)이 드라마 '사내맞선' OST 주자로 나선다. 플렉스엠은 지난 1일 공식 SNS를 통해 SBS 월화드라마 '사내맞선'(연출 박선호/극본 한설희 홍보희/기획 카카오엔터테인먼트/제작 크로스픽쳐스)의 OST 'You Are Mine(유 아 마인) 티저 이미지를 게시했다. 공개된]]></content:encoded>
+            <title><![CDATA[크래비티, 4월 첫 단독 콘서트 개최 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220302145333730</link>
+            <guid>https://entertain.v.daum.net/v/20220302145333730</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 크래비티(CRAVITY)가 데뷔 이래 첫 콘서트를 개최한다. 2일 소속사 스타쉽엔터테인먼트는 "크래비티가 오는 4월 2일과 4월 3일 양일간 서울 올림픽공원 올림픽홀에서 CRAVITY THE 1st CONCERT CENTER OF GRAVITY'(이하 'CENTER OF GRAVITY(센터 오브 그래비티')를 진행한다"며 개최 소식과 함께 콘서트]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['슬기로운 의사생활 시즌2', 음반 인기에 LP 발매 확정 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220302121715202</link>
-            <guid>https://entertain.v.daum.net/v/20220302121715202</guid>
-            <pubDate>Wed, 02 Mar 2022 04:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김수진 기자] 'OST맛집'으로 불리는 tvN '슬기로운 의사생활 시즌2'의 OST가 LP로도 발매된다. 2일 '슬기로운 의사생활' OST 제작사 스튜디오 마음C는 "지난해 발매됐던 음반의 뜨거운 인기에 힘입어 '슬기로운 의사생활 시즌2' OST의 LP 제작과 더불어 '슬기로운 의사생활 시즌1' OST 역시 다시 한 번 만나볼 수 있게 됐다"고]]></content:encoded>
+            <title><![CDATA[크래비티, 데뷔 2년만 첫 단독 콘서트 온·오프라인 개최 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220302144427316</link>
+            <guid>https://entertain.v.daum.net/v/20220302144427316</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 오윤주 기자] 그룹 크래비티가 데뷔 이래 첫 콘서트를 개최한다. 2일 소속사 스타쉽엔터테인먼트는 "크래비티가 오는 4월 2일과 4월 3일 양일간 서울 올림픽공원 올림픽홀에서 'CRAVITY THE 1st CONCERT CENTER OF GRAVITY'(이하 '센터 오브 그래비티')를 진행한다"며 개최 소식과 함께 콘서트 포스터를 공개했다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['가수 데뷔' 가상인간 로지 "관객 마주하며 공연해보고파" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220302120456862</link>
-            <guid>https://entertain.v.daum.net/v/20220302120456862</guid>
-            <pubDate>Wed, 02 Mar 2022 03:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 김민지 기자 = 버추얼 인플루언서 로지(Rozy)가 가수 데뷔 소감을 밝혔다. 최근 '후 엠 아이'(Who Am I)를 발매하며 가요계에 등장한 로지는 매혹적인 목소리와 따뜻한 메시지로 관심을 이끌어 내고 있다. 누구나 한 번쯤 고민해 봤을, 진정한 '나'를 찾아가는 이야기를 담아낸 '후 엠 아이'는 로지가 버추얼 휴먼으로서 ‘정체성’에]]></content:encoded>
+            <title><![CDATA[크래비티, 4월 데뷔 첫 단독 콘서트 개최..온,오프라인 진행 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220302143632969</link>
+            <guid>https://entertain.v.daum.net/v/20220302143632969</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 그룹 크래비티(CRAVITY)가 데뷔 첫 콘서트를 개최한다. 3월 2일 소속사 스타쉽엔터테인먼트는 “크래비티가 오는 4월 2일과 4월 3일 양일간 서울 올림픽공원 올림픽홀에서 CRAVITY THE 1st CONCERT CENTER OF GRAVITY’(이하 ‘CENTER OF GRAVITY(센터 오브 그래비티’)를 진행한다”며 개최]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[휘성 '스폰서' OST 참여..오늘 'FANTASY' 발매 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220302120442855</link>
-            <guid>https://entertain.v.daum.net/v/20220302120442855</guid>
-            <pubDate>Wed, 02 Mar 2022 03:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 김명미 기자] ‘스폰서’ 속 사랑을 이루기 위해 물불 가리지 않는 한채영의 마음을 담아낸 OST part.2 ‘FANTASY’가 각 음원사이트를 통해 공개된다. 2월 23일, 24일 오후 11시 IHQ drama 채널과 MBN에서 방송된 수목드라마 ‘스폰서’(연출 이철/ 극본 한희정) 1, 2회에서는 뜨거운 사랑을 열망하는 한채린(한채영 분)이]]></content:encoded>
+            <title><![CDATA[스키즈·NCT·브브걸..3월 가요계, 쏟아지는 톱 아이돌 컴백 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220302143345857</link>
+            <guid>https://entertain.v.daum.net/v/20220302143345857</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 공미나 기자] 스트레이 키즈, NCT DREAM, 크래비티 /사진제공=JYP엔터테인먼트 SM엔터테인먼트, 스타쉽엔터테인먼트 2022 베이징 동계올림픽이 지나가고, 가요계 본격적인 봄이 시작된다. 3월 정상급 아이돌이 대거 컴백하며 어느 때보다 활기를 띌 전망이다. ◆ 스키즈·NCT DREAM..글로벌 팬덤 가진 보이그룹 컴백 우선 인기 보이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["오빠가 좋아" 봄기운 안고 온 '트롯 비타민' 윤서령의 '나비소녀' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220302120003501</link>
-            <guid>https://entertain.v.daum.net/v/20220302120003501</guid>
-            <pubDate>Wed, 02 Mar 2022 03:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 정하은기자]‘트롯 비타민’ 윤서령이 봄기운을 물씬 안고 돌아왔다. 윤서령은 2일 정오 각종 음원사이트를 통해 새 싱글 ‘나비소녀’를 발매했다. 풋풋한 설렘이 느껴지는 윤서령의 싱글 ‘나비소녀’는 밝고 경쾌한 분위기의 트로트 곡으로 중독성 있는 멜로디와 가사를 윤서령의 간드러지면서도 시원한 목소리가 돋보인다. 윤서령은]]></content:encoded>
+            <title><![CDATA[태연, 역시 음원 최강자! 'INVU', 발매 2주만에 주간차트 1위 올라 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220302151727852</link>
+            <guid>https://entertain.v.daum.net/v/20220302151727852</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이정혁 기자] 그룹 소녀시대의 멤버 태연이 발매 2주 만에 세 번째 솔로 정규앨범 'INVU'의 타이틀곡 'INVU'로 멜론 주간차트 정상에 섰다. 2일 멜론에 따르면 지난달 28일 발표된 2월 4주(2월 21일 ~ 2월 27일)차 주간차트에서 태연의 곡 'INVU'가 1위를 기록했다. 지난 14일 발표된 'INVU'는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[백윤식 측 "前연인, 합의 위반하고 책 출간..고소 예정" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220302141206020</link>
-            <guid>https://entertain.v.daum.net/v/20220302141206020</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 소속사 판타지오가 백윤식의 피소 소식과 관련 공식 입장을 밝혔다. 소속사 판타지오는 "당사는 소속 배우 백윤식과 과거 연인 관계였던 K기자가 최근 백윤식과의 교제 당시 있었던 일들을 공개하는 책을 일방적으로 출간하고, 그 과정에서 백윤식을 형사고소까지 했다는 정황을 확인했다"고 밝혔다. 소속사 측에 따르면 K씨는 지난 2013년]]></content:encoded>
+            <title><![CDATA[류태준은 왜 5년만에 결혼 발표했나..그때는 틀리고 지금은 맞다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220302151126578</link>
+            <guid>https://entertain.v.daum.net/v/20220302151126578</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 정빛 기자] 배우 류태준의 뒤늦은 결혼 고백이 의아함을 만드는 모양새다. 류태준은 2일 자신의 인스타그램을 통해 40대 파워블로거 출신 A씨와 5년 전에 혼인한 사실을 알렸다. "오늘은 조금 특별한 소식을 전해드리려고 한다"며 운을 뗀 류태준은 "태어나 처음으로 제 가슴을 뛰게 하고, 설렘을 느끼게 해준 그녀가 있다"라며 아내]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["발설금지 합의서 허위작성"..백윤식, 30세 연하 前연인에 사문서위조 피소 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220302141127987</link>
-            <guid>https://entertain.v.daum.net/v/20220302141127987</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 배우 백윤식이 30세 연하 전 연인이었던 K씨로부터 피소당했다. 2일 경찰에 따르면 K씨는 지난달 28일 백윤식을 사문서 위조 및 동행사죄 혐의로 서울 방배경찰서에 고소장을 접수했다. 현재 경찰은 K씨의 고소장을 검토, 고소인 조사 여부는 아직 이뤄지지 않은 상태다. K씨가 낸 고소장에는 2013년경 백윤식은 결별]]></content:encoded>
+            <title><![CDATA[김영철의 '울다가 웃었다'..솔직한 꼴등이 들려주는 긍정의 언어 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220302150949478</link>
+            <guid>https://entertain.v.daum.net/v/20220302150949478</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[코미디언 김영철이 유쾌한 매력을 물론 솔직한 슬픔과 꿈의 이야기를 들려줬다. 2일 오후 김영철의 에세이 ‘울다가 웃었다’ 출간 기념 기자간담회가 비대면으로 진행됐다. 현장에는 김영철이 참석해 유쾌한 이야기를 나눴다. 이날 김영철은 “영상을 수업을 온라인으로 계속 하다가 지금은 끝내고 시계 워치와 명상이 잘 되어 있다. 명상 관련된 이야기를 영어선생님하고]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[백윤식 측 "30살연하 前여친 8년전 합의 위반, 무고죄 맞고소" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220302140925916</link>
-            <guid>https://entertain.v.daum.net/v/20220302140925916</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 배우 백윤식이 전 여자친구 K씨에게 고소당한 것에 대한 공식입장을 발표했다. 백윤식 소속사 측은 3월 2일 공식 보도자료를 통해 "당사는 소속 배우 백윤식과 과거 연인 관계였던 K기자가 최근 백윤식과의 교제 당시 있었던 일들을 공개하는 책을 일방적으로 출간하고, 그 과정에서 백윤식을 형사고소까지 했다는 정황을 확인했다. 2013년경]]></content:encoded>
+            <title><![CDATA[백윤식 법적대응 "전 연인 K기자에 피소? 무고죄로 고소 예정" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220302150948475</link>
+            <guid>https://entertain.v.daum.net/v/20220302150948475</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[배우 백윤식이 전 연인 K기자에게 피소를 당한 가운데 법적대응을 예고했다. 판타지오는 2일 오후 공식입장을 통해 “백윤식과 과거 연인관계였던 K기자가 최근 백윤식과의 교제 당시 있었던 일들을 공개하는 책을 일방적으로 출간하고, 그 과정에서 백윤식을 형사고소까지 하였다는 정황을 확인하였다”라고 설명했다. 이어 “이에 대해 당사는 2013년경 백윤식과 K기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['가요광장' 스테이씨 수민 "포항출신이지만..과메기 좋아하진 않아" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220302140901899</link>
-            <guid>https://entertain.v.daum.net/v/20220302140901899</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 스테이씨 수민이 포항출신이지만 과메기를 좋아하지 않는다고 밝혔다. 2일 방송된 KBS Cool FM '가요광장'에는 스페셜 DJ로 지조가 나선 가운데 스테이씨가 게스트로 출연했다. 이날 DJ 지조는 "한 청취자 분께서 스테이씨 중에 사투리를 쓰는 멤버가 있다고 말씀해주셨다"라고 질문했다. 수민이 "내가 포항 출신이라 사투리를 쓴다"라고 밝히자 지]]></content:encoded>
+            <title><![CDATA[샤이니 키, 코로나19 확진 "백신 2차 접종 완료" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220302150815407</link>
+            <guid>https://entertain.v.daum.net/v/20220302150815407</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이슬 기자) 그룹 샤이니 키가 코로나19 확진 판정을 받았다. 2일 SM엔터테인먼트는 "샤이니 키가 오늘(2일) 코로나19 확진 판정을 받았다"라고 밝혔다. 소속사는 "키는 지난 1일 컨디션 이상 증세를 느껴 자가진단키트를 통해 양성 반응을 확인했고, 곧바로 PCR 검사를 진행해 오늘 오전 최종 양성 판정을 받았다"라며 "코로나19 백신]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이준영, 파격을 양분 삼은 주연 성장법 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220302140859895</link>
-            <guid>https://entertain.v.daum.net/v/20220302140859895</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[아이즈 ize 한수진 기자두 보이그룹을 거쳤고, 배우로서도 필모그래피가 제법 굵직하다. 대체 언제 나타났는지 출현 시기를 가늠할 새도 없이 대중에게 소리없이 스며들었다. 첫눈에 잘생겼다는 소리는 안나와도 볼수록 끌리는 얼굴을 지닌, 배우이자 아이돌. 이준영에 대한 이야기다.&nbsp;이준영은 지난해만 '이미테이션' '너의 밤이 되어줄게' 두&nbsp;편의 드라마에서 주연으로]]></content:encoded>
+            <title><![CDATA[말보다 글로 웃기는 김영철, '울다가 웃었다' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220302150603315</link>
+            <guid>https://entertain.v.daum.net/v/20220302150603315</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[그동안 숨겨놨던 슬픔을 꺼낸 김영철이 울다가 웃었다. 2일 오후 김영철의 에세이 ‘울다가 웃었다’ 출간 기념 기자간담회가 열렸다. ‘울다가 웃었다’는 대한민국 대표 라디오 DJ이자 데뷔 23년차 코미디언, 김영철의 ‘웃픈’ 휴먼 에세이다. ‘울다가 웃었다’에는 김영철이 가슴속 우물에서 길어올린 가족담, 일상담, 방송담을 풀어놓으며, 웃는 일과 우는 일이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한혜진 극대노 "얄팍한 우정 갖다 버려" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220302140856892</link>
-            <guid>https://entertain.v.daum.net/v/20220302140856892</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 고민남이 13년 지기를 위해 자신의 마음을 정리했지만, 결국 우정도 사랑도 잃었다. 1일 방송된 KBS Joy '연애의 참견3' 113회에서는 13년 지기 절친과 한 여자의 이야기가 사연으로 소개됐다. 학창시절, 절친이 좋아하던 여자들은 늘 고민남을 좋아했다. 그때마다 고민남은 모진 말로 고백을 거절했고 우정을 지킬 수 있었다. 그렇게 대]]></content:encoded>
+            <title><![CDATA[김영철 "누나 김애숙, 대장암 2~3기 판정 후 수술..현재 회복중" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220302150505274</link>
+            <guid>https://entertain.v.daum.net/v/20220302150505274</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박은해 기자] 김영철이 누나 김애숙에 대한 애정을 한껏 드러냈다. 3월 2일 오후 진행된 코미디언 김영철 에세이 '울다가 웃었다' 출간 기념 비대면 기자간담회에서 김영철은 대장암 치료 중 누나의 건강 상태를 언급했다. 이날 진행자 임경선 작가는 "여는 글 무척 특별하다. 울음과 웃음이 반복되는 코미디 같은 인생. 김애숙 누나 이야기를 어떤 마음으]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['라디오스타' 김아랑 "곽윤기는 짠돌이, 300원까지 철저히 계산" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220302140303631</link>
-            <guid>https://entertain.v.daum.net/v/20220302140303631</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 임시령 기자] '라디오스타' 곽윤기와 김아랑이 절친 '케미'로 유쾌함을 선사한다. 2일 방송되는 MBC 예능프로그램 '라디오스타'에서는 '꽉 잡아 빙판' 특집으로 꾸며져 2022년 베이징 동계 올림픽에 출전한 남자 쇼트트랙 선수 5인 곽윤기, 황대헌, 김동욱, 박장혁, 이준서 그리고 여자 쇼트트랙 김아랑 선수가 출연한다. 앞서 곽윤기는 베]]></content:encoded>
+            <title><![CDATA[울다가 웃었다' 김영철 "독자들에게 용기 전하고 싶어 공개한 이야기들" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220302150410242</link>
+            <guid>https://entertain.v.daum.net/v/20220302150410242</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 백지연 기자] 데뷔 23년 차 코미디언 김영철이 '울다가 웃었다'를 출간하며 작가로 데뷔했다. 어디서도 말하지 않았던 가정사와 김영철의 일상, 방송 담이 담긴 '울다가 웃었다'가 독자들과 만난다. 2일 코미디언 김영철이 저서 '울다가 웃었다' 출간 기념 기자간담회를 진행해 다양한 이야기를 전했다. '울다가 웃었다'는 김영철이 가슴속 우물에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[정모 "새학기 첫날 반에서 축구 잘할 것 같은 아이 11명 모아 팀 만드는 타입" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220302140132575</link>
-            <guid>https://entertain.v.daum.net/v/20220302140132575</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[MBC FM4U '정오의 희망곡 김신영입니다'에 가수 정모가 출연했다. 2일(수) 방송된 MBC FM4U '정오의 희망곡 김신영입니다'에서는 가수 정모가 '아무노래 TOP7' 코너에서 '학교 노래 특집' 테마로 노래를 소개했다. 이날 DJ 김신영이 "오늘이 3월 2일이다. 새학기 첫날 학교에서 새로운 친구를 사귀는 스타일이었냐?"라고 묻자 정모]]></content:encoded>
+            <title><![CDATA['표절 논란' 전소연, 순간의 실수로 명성 휘청 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220302150408237</link>
+            <guid>https://entertain.v.daum.net/v/20220302150408237</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 백지연 기자] 그룹 (여자)아이들의 리더 전소연이 표절 논란에 고개를 숙였다. 하지만 '방과 후 설렘'에 멘토로 출연하고 있는 상황, 멘토라는 위치에서 해당 논란에 휩싸인 것과 관련해 시청자들은 실망감을 표하고 있다. 27일 밤 방송된 MBC 예능프로그램 '방과 후 설렘'에서 멘토 전소연이 작사·작곡한 경연 곡 '썬'이 공개됐다. 하지만 ']]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["오래 오래 노래 만들기"..'아티스트' 우지의 소중한 꿈 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220302135800404</link>
-            <guid>https://entertain.v.daum.net/v/20220302135800404</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[[Dispatch=오명주기자] '세븐틴' 우지는 '올라운더'(all-rounder)라는 표현이 가장 잘 어울리는 아티스트다. 노래면 노래, 춤이면 춤, 작사와 작곡 등 프로듀싱까지 해낸다. 물론, 그저 주어진 것은 아니다.&nbsp; “재능이 있다고 해서 노력을 하지 않는다면 그건 비극이라고 생각해요.” (우지)&nbsp; 노력, 노력, 또 노력했기에 가능했다. 수년간의]]></content:encoded>
+            <title><![CDATA['컬투쇼' 유민상 "유일한 자랑=풍성한 머리, 뚱뚱하면 탈모 없어" 폭소 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220302150312202</link>
+            <guid>https://entertain.v.daum.net/v/20220302150312202</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 송오정 기자] 유민상이 뚱뚱하면 탈모가 없다는 엉뚱한 주장으로 폭소를 자아냈다. 3월 2일 방송된 SBS 파워FM '두시탈출 컬투쇼'에서는 DJ 김태균·유민상이 청취자 사연을 받아 소개했다. '새 출발'을 주제로 본격적인 사연 소개하기 앞서, 유민상은 "일부러 새 거 살 때가 있다. 뭘 하다 지겨울 때, 하나 사면 계속하고 싶어 진다"라며 "그래]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['가요광장' 세은 "라도 PD, 스테이씨 제 7의 멤버" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220302135108096</link>
-            <guid>https://entertain.v.daum.net/v/20220302135108096</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 스테이씨가 프로듀서 라도에게 감사를 표했다. 2일 방송된 KBS Cool FM '가요광장'에는 지조가 스페셜 DJ로 나선 가운데 그룹 스테이씨가 게스트로 출연했다. 이날 DJ 지조는 "스테이씨의 컴백 곡 ‘런투유(RUN2U)’가 음악방송에서 1위를 차지했다. 기억에 남는 축하 메시지가 있나?"라고 질문했다. 세은은 "라도 피디님이 축하한다고 메]]></content:encoded>
+            <title><![CDATA[송승헌, '울다가 웃었다' 쓴 김영철 의심한 이유 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220302150212157</link>
+            <guid>https://entertain.v.daum.net/v/20220302150212157</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[방송인 김영철이 에세이 ‘울다가 웃었다’의 일화를 전했다. 김영철은 2일 열린 ‘울다가 웃었다’의 온라인 간담회에서 “송승헌을 얼마 전에 만났는데 책을 썼다고 하니까 형이 다 썼냐고 물었다. 내가 누구랑 나눠 썼을까봐 그랬다”고 밝혔다. 이날 김영철은 직접 쓴 에세이에 대해 동료 연예인의 반응도 털어놨다. 김영철은 “이성미 김한석 정선희와 함께 톡방이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[곽윤기, 은퇴설 진실 밝힌다.."300원도 철저히 계산" 김아랑과 디스전까지 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220302134656873</link>
-            <guid>https://entertain.v.daum.net/v/20220302134656873</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 남자 쇼트트랙 국가대표 맏형 곽윤기가 4년 만에 '라디오스타'에 출연해 은퇴설에 대한 진실을 직접 밝힐 예정이어서 호기심을 자극한다. 또한 곽윤기는 깜짝 등장한 절친, 여자 쇼트트랙 맏언니 김아랑과 인정사정 볼 것 없는 디스전을 예고해 기대를 모은다. 2일 오후 10시50분 방송되는 MBC '라디오스타'(기획 강영선/ 연]]></content:encoded>
+            <title><![CDATA[화가 변신 '금손 스타' 클론 구준엽 NFT 발행 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220302150131127</link>
+            <guid>https://entertain.v.daum.net/v/20220302150131127</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 전시현 기자] 대체불가능한 토큰(Non-Fungible Tokens, 이하 NFT) 시장이 활성화되면서 옛 가수들이 본격적으로 소환되고 있다. 가수 양수경에 이어 남성 듀오 클론 멤버 구준엽이 NFT 발행에 동참한다. 2000년대 아시아 최고의 댄스그룹 클론 멤버 구준엽이 카카오 그라운드X 클립드롭스 NFT 서비스를 통해 3월 2일 오전 9시]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['가요광장' 스테이씨 시은 "'런투유' 윙크 안무, 내 아이디어" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220302133604510</link>
-            <guid>https://entertain.v.daum.net/v/20220302133604510</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 스테이씨 시은이 신곡 ‘런투유(RUN2U)’ 윙크 안무가 자신의 아이디어라고 말했다. 2일 방송된 KBS Cool FM '가요광장'에는 스페셜 DJ로 지조가 나선 가운데 그룹 스테이씨가 게스트로 출연했다. 이날 스페셜 DJ 지조는 스테이씨의 신곡 ‘런투유’에 관한 소개를 부탁했다. 시은은 "남들이 뭐라해도 사랑을 뛰어가는 열정을 스테이씨만의 감]]></content:encoded>
+            <title><![CDATA[김영철 "책을 통해 또 다른 저를 보실 수 있을 것" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220302145933969</link>
+            <guid>https://entertain.v.daum.net/v/20220302145933969</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[2일 오후 코미디언 김영철의 에세이 출간 기념 기자간담회가 온라인으로 진행되었다. 김영철은 대한민국 대표 라디오 DJ이자 데뷔 23년차 코미디언으로 이번에 에세이집 '울다가 웃었다'를 출간했다. '울다가 웃었다'는 긍정 에너지의 대명사인 코미디언 김영철이 가슴속 우물에서 길어올린 가족담, 일상담, 방송담을 풀어놓으며, 웃는 일과 우는 일이 반복되는 인생]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[송은이, '독립만세' 이후 새 작업공간 공개..안방까지 내준 캠핑 마니아 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220302132610146</link>
-            <guid>https://entertain.v.daum.net/v/20220302132610146</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 송오정 기자] 송은이가 작업 공간을 공개했다. 2월 28일 유튜브 채널 'VIVO TV-비보 티비'에 '집이지만 캠핑장입니다. 캠핑용품만 잔뜩있는 송은이의 랜선 집들이'란 제목의 영상이 게재됐다. 송은이는 "예전에 제가 예능 '독립만세'에 출연했던 것 기억하실텐데, 약 4개월 간의 제 독립 여정을 보여드렸던 프로그램. 그 이후 어떻게 됐는지 많이]]></content:encoded>
+            <title><![CDATA[열애 아니라더니..류태준 결혼 5년만에 유부남 고백 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220302145833926</link>
+            <guid>https://entertain.v.daum.net/v/20220302145833926</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 열애 아니라더니…류태준 결혼 5년만에 유부남 고백 (전문)[공식] 배우 류태준이 결혼한 지 5년 만에 결혼 사실을 고백했다. 류태준은 2일 자신의 인스타그램에 아내와 함께 찍은 웨딩 화보 등을 공개하며 “결혼했다. 부부가 된 지 5년째가 되어간다”면서 “아내의 뜻을 존중하고 배려하느라 여러분들께 결혼소식을 알려드려야할 시점이 늦어진 점 너그러]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['서른 아홉' 전미도, 손예진·김지현 위한 버킷리스트 준비 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220302132207037</link>
-            <guid>https://entertain.v.daum.net/v/20220302132207037</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 박상후 기자] '서른 아홉' 배우 전미도가 손예진, 김지현을 위한 버킷리스트를 세운다. JTBC 수목드라마 '서른 아홉'(극본 유영아·연출 김상호) 측은 2일 정찬영(전미도), 차미조(손예진), 장주희(김지현)의 스틸을 공개했다. 지난 4회에서 차미조, 장주희는 정찬영에게 남은 6개월의 시간 동안 하고 싶은 것들을 하며 보내기로 결심했다.]]></content:encoded>
+            <title><![CDATA[아이오케이컴퍼니, 韓 영화산업 발전 위해 다양한 후원 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220302145703870</link>
+            <guid>https://entertain.v.daum.net/v/20220302145703870</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자] 아이오케이 컴퍼니가 한국영화 산업 발전을 위한 다양한 사업을 지원한다. 이미 지난 2021년부터 부산국제영화제를 비롯해 한국영화제작가협회상,&nbsp;한국영화아카데미 졸업영화제 등 한국영화 산업 저변 확대를 위한 다양한 후원을 이어오고 있는 것. 먼저 부산국제영화제와는 故 이춘연 대표를&nbsp;기리는 추모 행사&nbsp;‘故이춘연의 밤’&nbsp;후원을 통해 2]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['유퀴즈' 박재민 해설 "TMI 해설 위해 자료조사만 500장" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220302131006646</link>
-            <guid>https://entertain.v.daum.net/v/20220302131006646</guid>
-            <pubDate>Wed, 02 Mar 2022 04:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김종은 기자] '유 퀴즈 온 더 블럭'에서 박재민 해설위원이 TMI 해설 비화를 공개한다. 2일 방송되는 tvN 예능프로그램 '유 퀴즈 온 더 블럭'(이하 '유퀴즈')에서는 2022년 베이징 동계 올림픽에 출전한 남자·여자 쇼트트랙 국가대표, 피겨스케이팅 국가대표 차준환 선수, 해설위원 박재민 자기님이 유퀴저로 출연한다. 먼저 '유퀴즈'는 남]]></content:encoded>
+            <title><![CDATA["탈모, 모발이식 수술 헛소문..연고로 고쳐" 매튜 맥커너히 고백 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
+            <link>https://entertain.v.daum.net/v/20220302145602831</link>
+            <guid>https://entertain.v.daum.net/v/20220302145602831</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '인터스텔라' 주연배우로 국내서도 유명한 매튜 맥커너히가 탈모를 고백했다. 그러나 모발이식 없이 이를 고쳤다고 밝혔다. 3월 1일(현지시간) 해외 매체 인사이더는 최근 매튜 맥커너히가 한 매체 인터뷰를 통해 과거 탈모로 고생했으며, 연고를 통해 이를 고쳤다고 털어놓았다는 내용을 보도했다. 매튜 맥커너히는 인터뷰에서 정수리 두피가 보]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[카녜이 웨스트, 새 여친 SNS ♥︎자랑 '소름'인 이유 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
@@ -993,7 +1000,7 @@
             <content:encoded><![CDATA[[OSEN=최나영 기자] 래퍼 카녜이&nbsp;웨스트(44)가&nbsp;1일(현지시간)&nbsp;여자친구인 SNS 스타 채니&nbsp;존스와 함께 찍은 첫 사진을 게재하며 최근 불거진 열애설이 사실임을 확인했다. 웨스트는 이날 두 사람을 찍은 파파라치 사진과 함께&nbsp;검은 하트 이모티콘을 올리며 새 연인에 대한 애정을 자랑했다. 해당 파파라치 매체는 "예(카녜이)와 그의 새로운 여자 체니 존]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["동성애 다룬 오스카 최다후보작, 쓰레기" 77세 배우 비난 뭇매 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
+            <title><![CDATA["컴버배치 동성애 암시, 쓰레기" 77세 배우 오스카 최다후보작 비난 뭇매 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
             <link>https://entertain.v.daum.net/v/20220302120910032</link>
             <guid>https://entertain.v.daum.net/v/20220302120910032</guid>
             <pubDate>Wed, 02 Mar 2022 03:15:19 GMT</pubDate>
@@ -1028,7 +1035,7 @@
             <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]‘달라스 바이어스 클럽’으로 아카데미상을 수상하고 ‘인터스텔라’로 한국에서 천만배우에 등극한 매튜 맥커너희(52)가 모발 이식 에피소드를 들려줬다. 1일(현지시간) LAD 바이블에 따르면, 그는 한때 유명한 의사에게 자신이 모발이식을 받지 않았다는 것을 증명해야 했다고 말했다. 아카데미상을 수상한 이 배우는 2020년 회고록]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['쓸개관암∙눈흑색종'으로 배우 사망, 마지막까지 가족위해 한 일은? (다음 연예 ─ 뉴스 ─ 해외)]]></title>
+            <title><![CDATA['쓸개관암∙눈흑색종' 사망한 배우, 마지막까지 일한 이유 '가슴 아파' (다음 연예 ─ 뉴스 ─ 해외)]]></title>
             <link>https://entertain.v.daum.net/v/20220302050219810</link>
             <guid>https://entertain.v.daum.net/v/20220302050219810</guid>
             <pubDate>Tue, 01 Mar 2022 20:20:44 GMT</pubDate>
@@ -1049,354 +1056,368 @@
             <content:encoded><![CDATA[[OSEN=박소영 기자] 할리우드 톱스타 베네딕트 컴버배치가 우크라이나를 침공한 러시아를 공개 비난했다. 베네딕트 컴버배치는 2월 28일(현지시각) 자신의 이름이 적힌 할리우드 명예의 거리에서 마이크를 잡고 “제 인생에서 오늘은 무척 놀라운 순간이다. 하지만 지금 우크라이나에서 무슨 일이 일어나는지 모두가 알고 있다”고 말했다. 이어 그는 “우크라이나]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[소유, 4월 첫 단독 콘서트 ‘THE LIVE : NIGHT’ 개최[공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000547733</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000547733</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 가수 소유가 첫 단독 콘서트를 연다. 소유는 오는 4월 2일과 3일 양일간 서강대학교 메리홀에서 첫 단독 콘서트 'THE LIVE : NIGHT(더 라이브 : 나잇)'을 개최한다. 'THE L]]></content:encoded>
+            <title><![CDATA[블랭키, 루이·소담·성준 개인 프로필 사진 '최초 공개' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003032602</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003032602</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[블랭키(BLANK2Y) 루이, 소담, 성준이 '4세대 루키'의 면모를 드러냈다. 키스톤엔터테인먼트는 2일 자정부터 1분 간격으로 공식 SNS에 블랭키 멤버 루이, 소담, 성준의 개인 프로필 사진을 차례대로 공개했다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[투모로우바이투게더, 팬라이브 기대 포인트 셋 #최초공개 #오프라인 #취저 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001416005</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001416005</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 투모로우바이투게더가 세 번째 팬라이브에 대한 기대감을 높였다. 투모로우바이투게더(수빈, 연준, 범규, 태현, 휴닝카이)는 오는 5일과 6일 세 번째 팬라이브 ‘2022 TOMORRO]]></content:encoded>
+            <title><![CDATA[소유, 내달 데뷔 12년 만에 첫 단독 콘서트 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013023265</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013023265</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 이태수 기자 = 걸그룹 씨스타 출신 가수 소유가 다음 달 2∼3일 서울 서강대 메리홀에서 단독 콘서트 '더 라이브 : 나이트'(THE LIVE : NIGHT)를 연다고 소속사 빅플래닛메이드가 2일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['프로포폴 투약' 휘성, 드라마 '스폰서' OST로 복귀 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011036507</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011036507</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]유다연 인턴 기자 = 휘성이 드라마 OST로 가수 활동 복귀에 나선다. 2일 오후 11시 방송되는 IHQ와 MBN 드라마 '스폰서'는 지난 1, 2회에서 사랑을 열망하는 한채린(한채영 분)이 현승훈(구]]></content:encoded>
+            <title><![CDATA[밴드 실리카겔, 한국대중음악상 '최우수 모던록 노래' 수상 쾌거 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001416044</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001416044</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 밴드 실리카겔(Silica Gel)이 제19회 한국대중음악상 ‘최우수 모던록 노래’ 트로피를 품에 안았다. 실리카겔(Silica Gel)은 지난 1일 온라인으로 생중계된 ‘제19회 한국대]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[몬스타엑스 기현, '보이저' 무드 샘플러 공개…독보적 솔로 아우라 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003032565</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003032565</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 몬스타엑스(MONSTA X) 기현이 독보적인 솔로 아우라를 발산했다. 기현은 2일 0시 몬스타엑스 공식 SNS 채널을 통해 첫 번째 싱글 앨범 'VOYAGER(보이저)'의 무드 샘플러 영상 및 이미지를 게재했다]]></content:encoded>
+            <title><![CDATA[샤이니 키, 코로나19 확진..."모든 스케줄 중단"(공식) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001708481</link>
+            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001708481</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[샤이니 키 씨가 코로나19에 확진됐다. 오늘(2일) 소속사 SM엔터테인먼트 측은 공식입장을 통해 "키가 2일 코로나19 확진 판정을 받았다"라며 "키는 지난 3월1일 컨디션 이상 증세를 느껴 자가진단키트를 통해 양성]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뉴이스트, 해체 전 베스트 앨범 발매…"10년 총망라" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=629&amp;aid=0000135466</link>
-            <guid>https://entertain.naver.com/now/read?oid=629&amp;aid=0000135466</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[15일 베스트 앨범 'Needle &amp; Bubble' 발표 그룹 뉴이스트(JR, 아론, 백호, 민현, 렌)가 지난 10년을 총망라한 앨범을 발표한다. 소속사 플레디스엔테인먼트는 2일 오전 뉴이스트 공식 SNS를 통해]]></content:encoded>
+            <title><![CDATA[크래비티, 내달 2-3일 데뷔 첫 콘서트 개최[공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000796476</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000796476</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 그룹 크래비티(CRAVITY)가 데뷔 이래 첫 콘서트를 개최한다. 2일 소속사 스타쉽엔터테인먼트는 “크래비티가 오는 4월 2일과 4월 3일 양일간 서울 올림픽공원 올림픽홀에서 CRAVITY THE 1s]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[음악에 몰입하는 순간…스튜디오솔파 유튜브 채널 '헙!' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011036483</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011036483</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스] 최지윤 기자 = 콘텐츠 제작사 스튜디오 솔파가 유튜브 채널 '헙!'(HUP!)을 열었다. 솔파(Solfa), 오디지(ODG) 등에 이어 선보이는 채널이다. 배경 음악으로만 소비하는 음악을 다른 시각에]]></content:encoded>
+            <title><![CDATA[샤이니 키 코로나19 확진 "2차 접종 완료..즉시 스케줄 중단"[전문] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003032599</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003032599</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[아이돌그룹 샤이니 멤버 키가 코로나19 확진 판정을 받았다. 소속사 SM엔터테인먼트는 2일 "샤이니 키가 이날 코로나19 확진 판정을 받았다"라고 전했다. SM엔터테인먼트는 "키는 지난 1일 컨디션 이상 증세를 느껴]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘미스터트롯의 맛’ 임영웅, ‘영영’ 무대 조회수 600만 뷰 돌파 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001415999</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001415999</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅이 ‘미스터트롯의 맛’에서 부른 ‘영영’ 무대가 지속적으로 인기를 끌고 있다. 지난 2020년 3월 임영웅 공식 유튜브 채널에는 “미스터트롯 임영웅 [영영]”이라는 제목의 영상이 게]]></content:encoded>
+            <title><![CDATA[크래비티, 데뷔 첫 단독 콘서트 4월 개최 [공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003032597</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003032597</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 크래비티(CRAVITY)가 데뷔 이래 첫 콘서트를 개최한다. 2일 소속사 스타쉽엔터테인먼트는 "크래비티가 오는 4월 2일과 4월 3일 양일간 서울 올림픽공원 올림픽홀에서 CRAVITY THE 1st CONCER]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[몬스타엑스 기현, 첫 싱글 앨범 '보이저' 무드 샘플러 공개..독보적 아우라 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003536592</link>
-            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003536592</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드POP=조은미 기자]그룹 몬스타엑스(MONSTA X) 기현이 독보적인 솔로 아우라를 발산했다. 기현은 2일 0시 몬스타엑스 공식 SNS 채널을 통해 첫 번째 싱글 앨범 ‘VOYAGER(보이저)’의 무드 샘플러]]></content:encoded>
+            <title><![CDATA[샤이니 키, 코로나19 확진…"모든 스케줄 중단" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011036740</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011036740</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]이재훈 기자 = 그룹 '샤이니' 멤버 겸 솔로 가수 키가 코로나19 확진 판정을 받았다. 소속사 SM엔터테인먼트는 2일 "키가 전날 컨디션 이상 증세를 느껴 자가진단키트를 통해 양성 반응을 확인했고,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[태연, ‘INVU’ 음원 주간 차트도 1위..독보적 음원퀸 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004566153</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004566153</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=지민경 기자] ‘믿고 듣는 보컬퀸’ 소녀시대 태연(에스엠엔터테인먼트 소속)이 신곡 ‘INVU’(아이앤비유)로 주간 음원 차트 1위도 석권하며 롱런 인기를 이어가고 있다. 지난 2월 14일 공개된 태연 정규]]></content:encoded>
+            <title><![CDATA[[단독]우주소녀 쪼꼬미 "유닛으로 첫 수상..멤버들이 기특하대요"[인터뷰 ①] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003032595</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003032595</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[등장부터 센세이션했다. '이루리', '라 라 러브', '비밀이야' 등 청순하면서도 몽환적인 콘셉트를 이어온 우주소녀에게 이런 모습이 있었다니. 엉뚱하면서도 유머러스하고, 또 귀여운 모습으로 많은 이들을 매료시킨 우주]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[싱어게인2, 전국투어 콘서트 시작...4월 9일 부산부터 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001708437</link>
-            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001708437</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:59 GMT</pubDate>
-            <content:encoded><![CDATA['싱어게인2 톱10 전국투어 콘서트'가 오는 4월 9일 부산을 시작으로 전국 10여개 도시에서 열린다. JTBC '싱어게인 -무명가수전 시즌2'에서 치열한 경쟁 끝에 최종 선정된 탑10이 더 이상 무명가수가 아닌 최]]></content:encoded>
+            <title><![CDATA[[단독]우주소녀 쪼꼬미, 박진영·방시혁·유영진에 러브콜.."프로듀싱 어때요?"[인터뷰②] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003032594</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003032594</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[-인터뷰①으로 이어짐 -쪼꼬미 활동이 국내뿐만이 아니라 해외에서도 반응이 뜨겁더라고요. '흥칫뿡' 활동 당시에는 미국 포브스(Forbes)의 집중 조명을 받았고, 최근에는 스포티파이(Spotify) 바이럴 트렌딩 커]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아일리원, 바람→구름 여섯 요정 세계관 공개…차별화된 스토리텔링 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001415985</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001415985</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이슬 기자) 신인 걸그룹 아일리원(ILY:1)이 차별화된 세계관으로 가요계에 등장한다. 아일리원(아라, 리리카, 하나, 로나, 나유, 엘바)은 지난 1일과 2일 자정 공식 SNS 채널을 통해 세계관 콘]]></content:encoded>
+            <title><![CDATA[[단독]우주소녀 쪼꼬미 "데뷔 6주년..앞으로도 우정과 걸어가고파"[인터뷰③] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003032593</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003032593</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[-인터뷰②에 이어 -최근 우주소녀가 데뷔 6주년을 맞았어요. 벌써 6주년이라니 시간이 참 빠른 것 같아요. ▶루다=벌써 6년이나 지났다니……. 요즘 많은 생각을 했는데, 그간 다양한 일 있었구나 싶어요. 멤버들과 우]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['대세' 서리, 멈추지 않는다…'캔트 스톱 디스 파티' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011036392</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011036392</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]이재훈 기자 = 싱어송라이터 서리(Seori)가 신공을 공개한다. 2일 소속사 아티스파우스(ATISPAUS)에 따르면 서리는 오는 22일 새 디지털 싱글 '캔트 스톱 디스 파티(Can't stop th]]></content:encoded>
+            <title><![CDATA["탑 이즈 백"..빅뱅 탑, 솔로 앨범 계획→긴 공백 이유 밝힌다 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003032591</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003032591</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 빅뱅 멤버 탑이 홍콩 매거진을 통해 솔로 앨범 발표 계획을 밝혔다. 프레스티지 홍콩은 2일 SNS를 통해 3월 커버를 장식한 탑의 화보를 공개하며 "5년 만에 탑이 돌아왔다"고 적었다. 글에 따르면 프레스티지]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[비투비, 10주년 콘서트 'Be Together' 메인 포스터 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004566150</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004566150</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=지민경 기자] 비투비(서은광, 이민혁, 이창섭, 임현식, 프니엘, 육성재)가 10주년 콘서트 메인 포스터를 공개했다. 오늘(2일) 정오 비투비의 공식 SNS 채널을 통해 비투비 멤버들의 단체 모습이 담긴]]></content:encoded>
+            <title><![CDATA[김우석, 몽환×섹시 비주얼 갑 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000796473</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000796473</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 김우석이 무드 필름을 공개했다. 1일과 2일 자정, 김우석은 공식 SNS 채널을 통해 ‘Bibbidi(비비디)’ 버전과 ‘Bobbidi(바비디)’ 버전의 2종 무드 필름을 순차적으로 공개했다. 김우석의]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['15일 데뷔' 아일리원, 콘셉트 영상 오픈…차별화된 세계관 예고 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003032559</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003032559</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[신인 걸그룹 아일리원(ILY:1)이 차별화된 세계관으로 가요계에 등장한다. 아일리원(아라, 리리카, 하나, 로나, 나유, 엘바)은 지난 1일과 2일 자정 공식 SNS 채널을 통해 세계관 콘셉트 영상을 오픈, 다채로운]]></content:encoded>
+            <title><![CDATA[크래비티, 내달 첫 단독 콘서트 연다…데뷔 2년 만 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004669539</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004669539</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 크래비티(CRAVITY)가 데뷔 이래 첫 콘서트를 개최한다. 2일 소속사 스타쉽엔터테인먼트는 "크래비티가 오는 4월 2일과 4월 3일 양일간 서울 올림픽공원 올림픽홀에서 첫 번째 콘서트 '센터 오브 크래비티(C]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[비투비, 10주년 콘서트 메인 포스터 공개…글로벌 팬 '기대UP' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003032556</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003032556</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[비투비(서은광, 이민혁, 이창섭, 임현식, 프니엘, 육성재)가 10주년 콘서트 메인 포스터를 공개했다. 오늘(2일) 정오 비투비의 공식 SNS 채널을 통해 비투비 멤버들의 단체 모습이 담긴 콘서트 메인 포스터를 오픈]]></content:encoded>
+            <title><![CDATA[크래비티, 내달 첫 단독 콘서트 개최 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013023180</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013023180</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 이태수 기자 = 그룹 크래비티가 다음 달 2∼3일 서울 송파구 올림픽공원 올림픽홀에서 데뷔 후 첫 번째 단독 콘서트 '센터 오브 그래비티'(CENTER OF GRAVITY)를 연다고 소속사 스타쉽엔]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아일리원, 세계관 콘셉트 영상 오픈..6인 6색 매력 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003536585</link>
-            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003536585</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드POP=조은미 기자]신인 걸그룹 아일리원(ILY:1)이 차별화된 세계관으로 가요계에 등장한다. 아일리원(아라, 리리카, 하나, 로나, 나유, 엘바)은 지난 1일과 2일 자정 공식 SNS 채널을 통해 세계관 콘]]></content:encoded>
+            <title><![CDATA[크래비티, 4월 첫 단독 콘서트 개최 [공식입장] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=408&amp;aid=0000147548</link>
+            <guid>https://entertain.naver.com/now/read?oid=408&amp;aid=0000147548</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 크래비티(CRAVITY)가 데뷔 이래 첫 콘서트를 개최한다. 2일 소속사 스타쉽엔터테인먼트는 "크래비티가 오는 4월 2일과 4월 3일 양일간 서울 올림픽공원 올림픽홀에서 CRAVITY THE 1st CONCER]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[다운, 2일 ‘너나경’ OST ‘What A Wonderful Day’ 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000851459</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000851459</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[신예 싱어송라이터 다운이 디즈니+ 오리지널 시리즈 ‘너와 나의 경찰수업’ OST에 참여했다. 다운(Dvwn)이 부른 ‘너와 나의 경찰수업’의 다섯 번째 OST ‘What A Wonderful Day’가 오늘 2일 오]]></content:encoded>
+            <title><![CDATA[‘NEW 천만 뷰 탄생 임박’…임영웅, ‘따라따라’ 무대 900만 돌파 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001416033</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001416033</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅의 ‘따라따라’ 무대가 지속적으로 인기를 끌고 있다. 지난 2021년 2월 임영웅 유튜브 채널 ‘임영웅’에는 “임영웅 [따라따라] 사랑의콜센타 (ENG)”라는 제목의 영상이 게재됐다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[휘성, '스폰서' OST 참여…농밀한 'FANTASY' 부른다 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001415973</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001415973</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 가수 휘성이 드라마 ‘스폰서’ OST 라인업에 이름을 올렸다. 2일 IHQ drama, MBN 수목드라마 ‘스폰서’(연출 이철, 극본 한희정) 측은 두 번째 OST인 휘성의 ‘FANTAS]]></content:encoded>
+            <title><![CDATA[32번째 천만뷰 눈앞..임영웅 국민 위로송 '따라따라' 900만뷰 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003032586</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003032586</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[임영웅의 국민 위로송 '따라따라' 무대 영상이 900만 뷰를 돌파하며 1000만 뷰 고지 정복을 눈앞에 뒀다. 임영웅이 지난해 2월 27일 공식 유튜브 채널에 공개한 '임영웅 '따라따라' 사랑의콜센타' 영상은 3월]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[태연 'INVU', 발매 2주만에 주간차트 1위 [2월 4주차 멜론차트] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003032550</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003032550</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 소녀시대의 멤버 태연이 발매 2주 만에 세 번째 솔로 정규앨범 'INVU'의 타이틀곡 'INVU'로 멜론 주간차트 정상에 섰다. 2일 멜론에 따르면 지난달 28일 발표된 2월 4주(2월 21일 ~ 2월 27일)]]></content:encoded>
+            <title><![CDATA[노래도 최고! 마음씨도 최고! 임영웅 '꿈인지 생신지' 100만뷰 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003032584</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003032584</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[가수 임영웅의 배려심과 가창력이 보는 이들을 미소 짓게 하는 '꿈인지 생신지' 무대가 100만 뷰를 돌파하며 '밀리언뷰' 대열에 합류했다. 지난해 1월 2일 임영웅 공식 유튜브 채널에 공개된 ''꿈인지 생신지' 사랑]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[비투비, 10주년 콘서트 메인 포스터 공개..클래식+모던한 분위기 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003536579</link>
-            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003536579</guid>
-            <pubDate>Wed, 02 Mar 2022 04:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드POP=조은미 기자]비투비(서은광, 이민혁, 이창섭, 임현식, 프니엘, 육성재)가 10주년 콘서트 메인 포스터를 공개했다. 오늘(2일) 정오 비투비의 공식 SNS 채널을 통해 비투비 멤버들의 단체 모습이 담긴]]></content:encoded>
+            <title><![CDATA[봄같이 설레는 히어로~♥ 임영웅, 팬투 '스프링 트롯싱어' 1위 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003032583</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003032583</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[가수 임영웅이 글로벌 팬덤 소셜 네트워킹 플랫폼 '팬투'(FANTOO) 스프링 트롯싱어 팬투표에서 1위에 오르며 인기를 빛냈다. 임영웅은 2월 18일부터 3월 1일까지 팬투 앱에서 진행된 '스프링 트롯싱어' 투표에서]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['완전체' 비투비, 10주년 콘서트 메인 포스터 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003581018</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003581018</guid>
-            <pubDate>Wed, 02 Mar 2022 04:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 오윤주 기자] 그룹 비투비가 10주년 콘서트를 앞두고 멜로디(비투비 팬덤명)의 기대를 끌어올렸다. 2일 정오 비투비의 공식 SNS 채널을 통해 비투비 멤버들의 단체 모습이 담긴 콘서트 메인 포스터가]]></content:encoded>
+            <title><![CDATA[영웅시대 영영 못 잊을거야♥..임영웅 '영영' 600만뷰 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003032582</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003032582</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[가수 임영웅의 감동적인 '영영' 무대가 600만 뷰를 돌파했다. 임영웅이 지난 2020년 3월 20일 공식 유튜브 채널에 공개한 '영영' 무대는 3월 2일 조회수 600만 뷰를 넘어섰다. 영상에는 임영웅이 지난해 T]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['야생돌' TAN, 7인 단체 슈트핏 스포 이미지 공개…도회적 무드 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001415960</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001415960</guid>
-            <pubDate>Wed, 02 Mar 2022 04:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이슬 기자) 신인 보이그룹 TAN(탄)이 스포일러 이미지를 통해 7명의 완전체를 공개했다. 소속사 생각엔터테인먼트는 2일 오전 10시 탄(창선, 주안, 재준, 성혁, 현엽, 태훈, 지성) 공식 SNS]]></content:encoded>
+            <title><![CDATA[몬스타엑스 기현, '보이저' 무드 샘플러 공개…압도적 아우라 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001416030</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001416030</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이슬 기자) 그룹 몬스타엑스(MONSTA X) 기현이 독보적인 솔로 아우라를 발산했다. 기현은 2일 0시 몬스타엑스 공식 SNS 채널을 통해 첫 번째 싱글 앨범 ‘VOYAGER(보이저)’의 무드 샘플러]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[비투비, 10주년 콘서트 메인 포스터 공개…완전체 만난다 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001415959</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001415959</guid>
-            <pubDate>Wed, 02 Mar 2022 04:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 비투비(서은광, 이민혁, 이창섭, 임현식, 프니엘, 육성재)가 10주년 콘서트 메인 포스터를 공개했다. 2일 정오 비투비의 공식 SNS 채널을 통해 비투비 멤버들의 단체 모습이 담긴]]></content:encoded>
+            <title><![CDATA['D-3' 투모로우바이투게더 세 번째 팬라이브 기대 포인트 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003032581</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003032581</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 투모로우바이투게더(수빈, 연준, 범규, 태현, 휴닝카이)가 오는 5일과 6일 세 번째 팬라이브 '2022 TOMORROW X TOGETHER FANLIVE MOA X TOGETHER'(2022 투모로우바이투게더]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[태연, 신곡 'INVU' 주간 음원차트도 1위..'음원퀸' 입증 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003536574</link>
-            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003536574</guid>
-            <pubDate>Wed, 02 Mar 2022 04:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드POP=박서연 기자]‘믿고 듣는 보컬퀸’ 소녀시대 태연(에스엠엔터테인먼트 소속)이 신곡 ‘INVU’(아이앤비유)로 주간 음원 차트 1위도 석권하며 롱런 인기를 이어가고 있다. 지난 2월 14일 공개된 태연 정]]></content:encoded>
+            <title><![CDATA[아일리원, 6인 6색 요정 강림 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000796467</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000796467</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 신인 걸그룹 아일리원(ILY:1)이 15일 가요계에 등장한다. 아일리원(아라, 리리카, 하나, 로나, 나유, 엘바)은 지난 1일과 2일 자정 공식 SNS 채널을 통해 세계관 콘셉트 영상을 오픈, 다채로]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘믿듣탱’ 입증 태연 ‘INVU’ 음원 주간 차트 1위 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000547701</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000547701</guid>
-            <pubDate>Wed, 02 Mar 2022 04:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 소녀시대 태연이 주간 음원 차트 1위도 석권했다. 지난 2월 14일 공개된 태연 정규 3집 타이틀 곡 ‘INVU’는 멜론, 지니, 벅스 등 주요 음악 사이트에서 주간 차트(2월 21~27일)]]></content:encoded>
+            <title><![CDATA[크래비티, 4월 첫 단독 콘서트 개최(공식) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000851470</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000851470</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 크래비티(CRAVITY)가 데뷔 이래 첫 콘서트를 개최한다. 2일 소속사 스타쉽엔터테인먼트는 “크래비티가 오는 4월 2일과 4월 3일 양일간 서울 올림픽공원 올림픽홀에서 CRAVITY THE 1st CONCER]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["역주행 각!" 임영웅 '꿈인지 생신지' 무대 영상 100만 뷰 돌파 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000533427</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000533427</guid>
-            <pubDate>Wed, 02 Mar 2022 05:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=유정민 기자] 가수 임영웅의 '꿈인지 생신지' 무대 영상이 100만 뷰를 돌파했다. 지난해 1월 2일 임영웅 공식 유튜브 채널 '임영웅'에는 '임영웅 [꿈인지 생신지] 사랑의콜센타'라는 제목의 영상이 게재]]></content:encoded>
+            <title><![CDATA[태연, 역시 음원 최강자! 'INVU', 발매 2주만에 주간차트 1위 올라 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003837692</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003837692</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이정혁 기자] 그룹 소녀시대의 멤버 태연이 발매 2주 만에 세 번째 솔로 정규앨범 'INVU'의 타이틀곡 'INVU'로 멜론 주간차트 정상에 섰다. 2일 멜론에 따르면 지난달 28일 발표된 2월 4주(2]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[종합] "발설금지 합의서 허위작성"…백윤식, 30세 연하 前연인에 사문서위조 피소 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003837672</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003837672</guid>
-            <pubDate>Wed, 02 Mar 2022 05:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 배우 백윤식이 30세 연하 전 연인이었던 K씨로부터 피소당했다. 2일 경찰에 따르면 K씨는 지난달 28일 백윤식을 사문서 위조 및 동행사죄 혐의로 서울 방배경찰서에 고소장을 접수했다. 현재]]></content:encoded>
+            <title><![CDATA[[포토]보라, 반짝이는 사슴 눈망울 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004929018</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004929018</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 체리블렛(지원 레미 채린 해윤 유주 보라 메이)이 2일 오후 온라인 생중계로 진행된 두 번째 미니앨범 ‘체리 위시’ 쇼케이스에서 포토타임을 갖고 있다. [사진제공 = FNC엔터]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박군, 직접 전한 열애 소감 "♥한영, 소중히 지킬 것" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001708449</link>
-            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001708449</guid>
-            <pubDate>Wed, 02 Mar 2022 05:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[트로트 가수 박군 씨가 방송인 한영 씨와 열애를 직접 언급했다. 두 사람은 8살 연상연하 커플로 화제를 모았다. 오늘(2일) 박군 씨는 자신의 SNS에 "늘 감사한 응원을 해주시는 가족 여러분, 보도를 보시고 놀라셨]]></content:encoded>
+            <title><![CDATA[[포토]보라, 체리블렛 컴백해요 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004929017</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004929017</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 체리블렛(지원 레미 채린 해윤 유주 보라 메이)이 2일 오후 온라인 생중계로 진행된 두 번째 미니앨범 ‘체리 위시’ 쇼케이스에서 포토타임을 갖고 있다. [사진제공 = FNC엔터]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임영웅, 봄같이 화사한 목소리로 당신을 설레게 하는 1인 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000533426</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000533426</guid>
-            <pubDate>Wed, 02 Mar 2022 05:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=이준현 기자] 가수 임영웅 '봄같이 화사한 목소리로 당신을 설레게 하는 1인'에 선정됐다. 2일 글로벌 팬덤 소셜 네트워킹 플랫폼 팬투(FANTOO)는 지난달 8일부터 3월 1일까지 전 세계 트로트 팬들을]]></content:encoded>
+            <title><![CDATA[[포토]메이, 이국적인 마스크 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004929016</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004929016</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 체리블렛(지원 레미 채린 해윤 유주 보라 메이)이 2일 오후 온라인 생중계로 진행된 두 번째 미니앨범 ‘체리 위시’ 쇼케이스에서 포토타임을 갖고 있다. [사진제공 = FNC엔터]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘색다른 무드’ 윤딴딴의 숨겨진 얼굴, 비알비알 화보 공개 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000533425</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000533425</guid>
-            <pubDate>Wed, 02 Mar 2022 05:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=김순신 기자]2일 아티스트 패션 웹매거진 비알비알은 윤딴딴의 화보를 공개했다. 공개된 화보 속 윤딴딴은 소년미 넘치는 얼굴에 가려졌던 시크한 매력까지 드러내며, 감각적인 화보를 선보였다. 윤딴딴은 ‘인생을]]></content:encoded>
+            <title><![CDATA[김영철, 말 보다 글로 웃기는 '울다가 웃었다'[종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004929015</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004929015</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[김영철이 자신의 인생과 속내를 담은 휴먼 에세이 ‘울다가 웃었다’로 소통에 나선다. 2일 오후 김영철 에세이 ‘울다가 웃었다’ 출간 기념 온라인 기자간담회가 열렸다. 코미디언 겸 저자 김영철과 임경선 작가가 참석했다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한혜진 극대노 “얄팍한 우정 갖다 버려” (연참3) [종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000964061</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000964061</guid>
-            <pubDate>Wed, 02 Mar 2022 05:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[고민남이 13년 지기를 위해 자신의 마음을 정리했지만, 결국 우정도 사랑도 잃었다. 1일 방송된 KBS Joy '연애의 참견3' 113회에서는 13년 지기 절친과 한 여자의 이야기가 사연으로 소개됐다. 학창시절, 절]]></content:encoded>
+            <title><![CDATA[샤이니 키, 코로나19 확진…”모든 활동 중단”[공식] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004929014</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004929014</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 샤이니 키가 코로나19 확진 판정을 받았다. 소속사 SM엔터테인먼트는 2일 공식 입장을 통해 “키는 지난 3월 1일 컨디션 이상 증세를 느껴 자가진단키트를 통해 양성 반응을 확인했고, 곧바로 PCR 검사를 진행]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[K-POP 라이징 스타 프로젝트 ‘드림라이징 인 케이팝클릭’ 첫 공연 성료 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000533424</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000533424</guid>
-            <pubDate>Wed, 02 Mar 2022 05:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=우빈 기자] 지난달 28일 지니그라운드가 개발한 K-POP(케이팝) 콘텐츠 플랫폼 K-POP CLICK(케이팝클릭)이 주최하는 K-POP 라이징 스타 집중 조명 프로젝트 ‘드림라이징 인 케이팝클릭(이하 드]]></content:encoded>
+            <title><![CDATA[샤이니 키, 백신 2차 접종에도 확진 “스케줄 중단→재택치료 중”(전문) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000851478</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000851478</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[샤이니 키가 코로나19 확진 판정을 받았다. 2일 SM엔터테인먼트는 공식입장을 내고 “키가 오늘(2일) 코로나19 확진 판정을 받았다”라고 밝혔다. 이어 “키는 지난 3월 1일 컨디션 이상 증세를 느껴 자가진단키트를]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['가요광장' 스테이씨 수민 "포항출신이지만...과메기 좋아하진 않아" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004928958</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004928958</guid>
-            <pubDate>Wed, 02 Mar 2022 05:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 스테이씨 수민이 포항출신이지만 과메기를 좋아하지 않는다고 밝혔다. 2일 방송된 KBS Cool FM '가요광장'에는 스페셜 DJ로 지조가 나선 가운데 스테이씨가 게스트로 출연했다. 이날 DJ 지조는 "한 청취자]]></content:encoded>
+            <title><![CDATA[[포토]메이, 바비인형 비주얼 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004929013</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004929013</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 체리블렛(지원 레미 채린 해윤 유주 보라 메이)이 2일 오후 온라인 생중계로 진행된 두 번째 미니앨범 ‘체리 위시’ 쇼케이스에서 포토타임을 갖고 있다. [사진제공 = FNC엔터]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘풍류대장’, 5월 앙코르 콘서트…고영열 합류 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000606061</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000606061</guid>
-            <pubDate>Wed, 02 Mar 2022 05:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[‘풍류대장’의 소리꾼들이 오는 5월 앙코르 콘서트로 서울 팬들을 다시 만난다. JTBC ‘풍류대장-힙한 소리꾼들의 전쟁’(이하 ‘풍류대장’)은 오는 5월 5일(목)부터 8일(일)까지 4일간 서울에서 ‘풍류대장 전국투]]></content:encoded>
+            <title><![CDATA[[포토]레미, 상큼미 뚝뚝 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004929012</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004929012</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 체리블렛(지원 레미 채린 해윤 유주 보라 메이)이 2일 오후 온라인 생중계로 진행된 두 번째 미니앨범 ‘체리 위시’ 쇼케이스에서 포토타임을 갖고 있다. [사진제공 = FNC엔터]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 엔믹스 규진, '청초한 미모' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0004796578</link>
-            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0004796578</guid>
-            <pubDate>Wed, 02 Mar 2022 05:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[[FN스타 이승훈 기자] 그룹 엔믹스(NMIXX) 규진, 릴리, 해원이 2일 목동 SBS에서 진행되는 '두시탈출 컬투쇼’ 방송 녹음 일정에 참석했다. totopurdy_star@fnnews.com fn스타 이승훈 기]]></content:encoded>
+            <title><![CDATA[[포토]레미, 귀여운 단발여신 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004929011</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004929011</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 체리블렛(지원 레미 채린 해윤 유주 보라 메이)이 2일 오후 온라인 생중계로 진행된 두 번째 미니앨범 ‘체리 위시’ 쇼케이스에서 포토타임을 갖고 있다. [사진제공 = FNC엔터]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘슬의생2’ OST, LP 발매 확정 [공식] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000964057</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000964057</guid>
-            <pubDate>Wed, 02 Mar 2022 05:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[‘슬의생2’ OST, LP 발매 확정 [공식] ‘OST맛집’으로 불리는 tvN ‘슬기로운 의사생활 시즌2’의 OST가 LP로도 발매된다. 2일 ‘슬기로운 의사생활’ OST 제작사 스튜디오 마음C 측은 “지난해 발매됐]]></content:encoded>
+            <title><![CDATA[안소희, 31세 나이 믿기지 않는 '베이비 페이스'…여전한 러블리 매력 [N샷] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005941438</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005941438</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 걸그룹 원더걸스 출신 배우 안소희가 여전한 '베이비 페이스'를 자랑했다. 안소희는 2일 자신의 인스타그램에 제주도의 한 카페에서 찍은 여러 장의 사진을 게재했다. 사진에서 안소희는 핑]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴, IFPI 선정 '글로벌 앨범 세일즈' 3위…韓 가수 최고순위 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004928956</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004928956</guid>
-            <pubDate>Wed, 02 Mar 2022 05:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 세븐틴이 국제음반산업협회(IFPI)가 선정한 ‘글로벌 앨범 세일즈 차트’에 최상위권으로 이름을 올렸다. 국제음반산업협회가 2일 공식 홈페이지와 SNS 채널을 통해 발표한 바에 따르면, 세븐틴의 미니 9집 ‘아타]]></content:encoded>
+            <title><![CDATA[[포토]체리블렛, 전원 센터비주얼 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004929009</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004929009</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 체리블렛(지원 레미 채린 해윤 유주 보라 메이)이 2일 오후 온라인 생중계로 진행된 두 번째 미니앨범 ‘체리 위시’ 쇼케이스에서 포토타임을 갖고 있다. [사진제공 = FNC엔터]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 엔믹스 해원, '각이 선명한 꽃받침' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0004796577</link>
-            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0004796577</guid>
-            <pubDate>Wed, 02 Mar 2022 05:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[[FN스타 이승훈 기자] 그룹 엔믹스(NMIXX) 규진, 릴리, 해원이 2일 목동 SBS에서 진행되는 '두시탈출 컬투쇼’ 방송 녹음 일정에 참석했다. totopurdy_star@fnnews.com fn스타 이승훈 기]]></content:encoded>
+            <title><![CDATA[[포토]체리블렛, 정상을 향해 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004929007</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004929007</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 체리블렛(지원 레미 채린 해윤 유주 보라 메이)이 2일 오후 온라인 생중계로 진행된 두 번째 미니앨범 ‘체리 위시’ 쇼케이스에서 포토타임을 갖고 있다. [사진제공 = FNC엔터]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김준수 미니 3집 ‘DIMENSION’ 16일 발표 [공식] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000964056</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000964056</guid>
-            <pubDate>Wed, 02 Mar 2022 05:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[가수 김준수의 미니앨범 3집 ‘DIMENSION(디멘션)’이 16일 발매된다. 김준수는 16일 오후 6시, 세 번째 미니앨범 ‘DIMENSION’의 발매일을 확정 지었다. 팜트리아일랜드는 2일 자정 공식 SNS를 통]]></content:encoded>
+            <title><![CDATA[소유, 내달 데뷔 12년 만에 첫 단독 콘서트 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013023265</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013023265</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 이태수 기자 = 걸그룹 씨스타 출신 가수 소유가 다음 달 2∼3일 서울 서강대 메리홀에서 단독 콘서트 '더 라이브 : 나이트'(THE LIVE : NIGHT)를 연다고 소속사 빅플래닛메이드가 2일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[히어로 보이스를 따라서…임영웅 '따라따라' 영상 900만 뷰 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000533423</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000533423</guid>
-            <pubDate>Wed, 02 Mar 2022 05:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=조준원 기자] 가수 임영웅의 '따라따라' 무대 영상이 900만 뷰를 돌파했다. 지난해 2월 27일 임영웅 공식 유튜브 채널 '임영웅'에는 '임영웅 [따라따라] 사랑의콜센타'라는 제목과 함께 하나의 영상이]]></content:encoded>
+            <title><![CDATA[[SC이슈]류태준은 왜 5년만에 결혼 발표했나…그때는 틀리고 지금은 맞다(종합) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003837689</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003837689</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 정빛 기자] 배우 류태준의 뒤늦은 결혼 고백이 의아함을 만드는 모양새다. 류태준은 2일 자신의 인스타그램을 통해 40대 파워블로거 출신 A씨와 5년 전에 혼인한 사실을 알렸다. "오늘은 조금 특별한 소식]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 엔믹스 릴리, '상큼한 꽃받침' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0004796571</link>
-            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0004796571</guid>
-            <pubDate>Wed, 02 Mar 2022 05:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[[FN스타 이승훈 기자] 그룹 엔믹스(NMIXX) 규진, 릴리, 해원이 2일 목동 SBS에서 진행되는 '두시탈출 컬투쇼’ 방송 녹음 일정에 참석했다. totopurdy_star@fnnews.com fn스타 이승훈 기]]></content:encoded>
+            <title><![CDATA[“사문서 위조” VS “무고죄”…백윤식, 前연인 맞고소(전문)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000851477</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000851477</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[배우 백윤식이 전 연인인 K씨에게 피소된 가운데, 백윤식 측이 맞고소 한다는 입장을 밝혔다. 백윤식 소속사 판타지오는 2일 오후 공식입장을 통해 “백윤식과 과거 연인관계였던 K기자가 최근 백윤식과의 교제 당시 있었던]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토]김영철, 에세이 울다가 웃었다 냈어요 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004928952</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004928952</guid>
-            <pubDate>Wed, 02 Mar 2022 05:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[방송인 김영철이 2일 오후 서울 신촌의 한 스튜디오에서 열린 에세이 ‘울다가 웃었다’ 출간 기념 기자간담회에서 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[[포토]체리블렛, 상큼함이 넘치는 컴백무대 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004929006</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004929006</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 체리블렛(지원 레미 채린 해윤 유주 보라 메이)이 2일 오후 온라인 생중계로 진행된 두 번째 미니앨범 ‘체리 위시’ 쇼케이스에서 포토타임을 갖고 있다. [사진제공 = FNC엔터]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[최현욱, 반전의 시크 매력…"'스물다섯' 문지웅, 진지한 연기로 캐스팅돼" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005941184</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005941184</guid>
-            <pubDate>Wed, 02 Mar 2022 05:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 드라마 '스물다섯 스물하나'에서 활약 중인 배우 최현욱이 반전의 시크한 매력을 자랑했다. 2일 오전 최현욱의 소속사 골드메달리스트(GOLDMEDALIST)는 최현욱의 화보 촬영 비하인]]></content:encoded>
+            <title><![CDATA[[포토]체리블렛, 역대급 비주얼 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004929005</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004929005</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 체리블렛(지원 레미 채린 해윤 유주 보라 메이)이 2일 오후 온라인 생중계로 진행된 두 번째 미니앨범 ‘체리 위시’ 쇼케이스에서 포토타임을 갖고 있다. [사진제공 = FNC엔터]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[몬스타엑스 기현, 여행자 기현을 만나다 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000964054</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000964054</guid>
-            <pubDate>Wed, 02 Mar 2022 05:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[몬스타엑스 기현, 여행자 기현을 만나다 그룹 몬스타엑스(MONSTA X) 기현이 독보적인 솔로 아우라를 발산했다. 기현은 2일 0시 몬스타엑스 공식 SNS 채널을 통해 첫 번째 싱글 앨범 ‘VOYAGER(보이저)’의]]></content:encoded>
+            <title><![CDATA[샤이니 키, 코로나19 확진…"스케줄 중단" [공식] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004669551</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004669551</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 샤이니 키가 신종 코로나바이러스 감염증(코로나19) 확진 판정을 받았다. SM엔터테인먼트는 2일 "샤이니 키가 오늘 코로나19 확진 판정을 받았다"고 밝혔다. 소속사에 따르면 키는 지난 1일 컨디션 이상 증세를]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[류태준, 유부남이었다…결혼 5년 만에 고백한 이유는? (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004669499</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004669499</guid>
-            <pubDate>Wed, 02 Mar 2022 05:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[배우 류태준이 결혼한 지 5년이 지난 뒤 뒤늦게 소식을 전했다. 2일 류태준은 자신의 사회관계망서비스(SNS)를 통해 웨딩 화보 사진을 게재했다. 그는 "태어나 처음으로 가슴을 뛰게 하고 설렘을 느끼게 해준 그녀가]]></content:encoded>
+            <title><![CDATA[김영철의 ‘울다가 웃었다’…솔직한 꼴등이 들려주는 긍정의 언어(종합) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001646027</link>
+            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001646027</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[코미디언 김영철이 유쾌한 매력을 물론 솔직한 슬픔과 꿈의 이야기를 들려줬다. 2일 오후 김영철의 에세이 ‘울다가 웃었다’ 출간 기념 기자간담회가 비대면으로 진행됐다. 현장에는 김영철이 참석해 유쾌한 이야기를 나눴다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임영웅 '영영' 무대 영상, 600만 뷰 돌파…히어로가 전한 울림 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000533422</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000533422</guid>
-            <pubDate>Wed, 02 Mar 2022 05:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=강민경 기자] 가수 임영웅의 '영영' 무대 영상이 600만 뷰를 넘어섰다. 지난 2020년 3월 20일 임영웅 공식 유튜브 채널 '임영웅'에 게재된 '미스터트롯 임영웅 [영영]' 영상이 3월 2일 오후 기]]></content:encoded>
+            <title><![CDATA[백윤식 법적대응 “전 연인 K기자에 피소? 무고죄로 고소 예정”(전문)[공식] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001646026</link>
+            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001646026</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[배우 백윤식이 전 연인 K기자에게 피소를 당한 가운데 법적대응을 예고했다. 판타지오는 2일 오후 공식입장을 통해 “백윤식과 과거 연인관계였던 K기자가 최근 백윤식과의 교제 당시 있었던 일들을 공개하는 책을 일방적으로]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토]김영철, 울다가 웃었다 소개합니다 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004928949</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004928949</guid>
-            <pubDate>Wed, 02 Mar 2022 05:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[방송인 김영철이 2일 오후 서울 신촌의 한 스튜디오에서 열린 에세이 ‘울다가 웃었다’ 출간 기념 기자간담회에서 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[샤이니 키, 코로나19 확진 판정 "컨디션 이상 증세 느껴 검사" (전문)[공식] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003837686</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003837686</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 이지현 기자] 샤이니 키가 코로나19 확진 판정을 받았다. 2일 에스엠엔터테인먼트 측은 "샤이니 키가 오늘(2일) 코로나19 확진 판정을 받았다"고 밝혔다. 이어 "키는 지난 3월 1일 컨디션 이상]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 엔믹스 규진, '초롱초롱한 눈망울' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0004796566</link>
-            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0004796566</guid>
-            <pubDate>Wed, 02 Mar 2022 05:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[[FN스타 이승훈 기자] 그룹 엔믹스(NMIXX) 규진, 릴리, 해원이 2일 목동 SBS에서 진행되는 '두시탈출 컬투쇼’ 방송 녹음 일정에 참석했다. totopurdy_star@fnnews.com fn스타 이승훈 기]]></content:encoded>
+            <title><![CDATA[샤이니 키, 코로나19 확진 “자가격리 및 재택치료”(전문)[공식] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000964070</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000964070</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 샤이니 키가 코로나19 확진 판정을 받았다. 2일 오후 소속사 SM엔터테인먼트는 “샤이니 키가 오늘 코로나19 확진 판정을 받았다”며 “키는 지난 1일 컨디션 이상 증세를 느껴 자가진단키트를 통해 양성 반응을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[TEN 포토] 엔믹스 해원 '애교 눈웃음...청순미 UP' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000533421</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000533421</guid>
-            <pubDate>Wed, 02 Mar 2022 05:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=조준원 기자]걸그룹 엔믹스(NMIXX) 멤버 해원이 2일 오후 서울 양천구 SBS목동에서 진행되는 라디오 '두시탈출 컬투쇼' 라디오 녹음에 참석하기 위해 출근하고 있다. 조준원 기자 wizard333@te]]></content:encoded>
+            <title><![CDATA[말보다 글로 웃기는 김영철, ‘울다가 웃었다’(종합) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000851475</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000851475</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[그동안 숨겨놨던 슬픔을 꺼낸 김영철이 울다가 웃었다. 2일 오후 김영철의 에세이 ‘울다가 웃었다’ 출간 기념 기자간담회가 열렸다. ‘울다가 웃었다’는 대한민국 대표 라디오 DJ이자 데뷔 23년차 코미디언, 김영철의]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토]김영철, 에세이 출간 너무 좋아요 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004928948</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004928948</guid>
-            <pubDate>Wed, 02 Mar 2022 05:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[방송인 김영철이 2일 오후 서울 신촌의 한 스튜디오에서 열린 에세이 ‘울다가 웃었다’ 출간 기념 기자간담회에서 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[샤이니 측 “키, 코로나19 확진…자가격리 및 재택치료 중”(전문)[공식] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001646024</link>
+            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001646024</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[샤이니 키가 확진 판정을 받았다. SM엔터테인먼트(이하 SM)는 2일 오후 공식입장을 통해 “샤이니 키가 오늘(2일) 코로나19 확진 판정을 받았다”라고 밝혔다. 이어 “키는 지난 3월 1일 컨디션 이상 증세를 느껴]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스메이커] 정호연 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=422&amp;aid=0000530649</link>
+            <guid>https://entertain.naver.com/now/read?oid=422&amp;aid=0000530649</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스 속 핫한 인물을 알아보는 시간, &lt;뉴스메이커&gt;입니다. 배우 정호연 씨가 데뷔작인 '오징어 게임'으로 미국 배우조합상 TV시리즈 드라마 부문 여우주연상을 받으며, 월드 스타 반열에 올랐습니다. 세계를 사로잡은,]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[“탈모, 모발이식 수술 헛소문‥연고로 고쳐” 매튜 맥커너히 고백[할리우드비하인드] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000547774</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000547774</guid>
+            <pubDate>Wed, 02 Mar 2022 06:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '인터스텔라' 주연배우로 국내서도 유명한 매튜 맥커너히가 탈모를 고백했다. 그러나 모발이식 없이 이를 고쳤다고 밝혔다. 3월 1일(현지시간) 해외 매체 인사이더는 최근 매튜 맥커너히가 한 매체]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[저격글 삭제→집착 끝? 카니예웨스트, 20살연하 새 여친 공개 “카다시안 닮은꼴” (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
@@ -1427,7 +1448,7 @@
             <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]한때 ‘어벤져스’ 동료 배우들을 언팔하며 마블과 불화설에 시달렸던 로버트 다우니 주니어(56)이 사진 한 장으로 논란을 잠재웠다. 로버트 다우니 주니어는 최근 공식 인스타그램에 영국 배우]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["동성애 다룬 오스카 최다후보작, 쓰레기" 77세 배우 비난 뭇매 [Oh!llywood] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <title><![CDATA["컴버배치 동성애 암시, 쓰레기" 77세 배우 오스카 최다후보작 비난 뭇매 [Oh!llywood] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
             <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004566126</link>
             <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004566126</guid>
             <pubDate>Wed, 02 Mar 2022 03:15:43 GMT</pubDate>
@@ -1558,20 +1579,6 @@
             <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003580900</guid>
             <pubDate>Tue, 01 Mar 2022 21:14:26 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]‘달라스 바이어스 클럽’으로 아카데미상을 수상하고 ‘인터스텔라’로 한국에서 천만배우에 등극한 매튜 맥커너희(52)가 모발 이식 에피소드를 들려줬다. 1일(현지시간) LAD 바이블에 따르면]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[숨쉬기 가능? 리한나, 만삭에도 초밀착 가죽 원피스[포토엔] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000547488</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000547488</guid>
-            <pubDate>Tue, 01 Mar 2022 21:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 리한나가 만삭 D라인을 자랑했다. 스플래쉬닷컴은 3월 1일(현지시간) 프랑스 파리에서 진행된 파리 패션위크 현장을 공개했다. 리한나는 이날 D라인이 고스란히 드러나는 초밀착 가죽 원피스를 입고]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['쓸개관암∙눈흑색종'으로 배우 사망, 마지막까지 가족위해 한 일은? [Oh!llywood] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004565967</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004565967</guid>
-            <pubDate>Tue, 01 Mar 2022 20:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자] 미국 인기 드라마 '로앤오더: SVU(Law &amp; Order : SVU)'의 배우 네드 아이젠버그가 2년간의 암 투병 끝 65세의 나이로 별세했다. 그의 아내 패트리샤는 TMZ에 보낸 성명에서]]></content:encoded>
         </item>
     </channel>
 </rss>
