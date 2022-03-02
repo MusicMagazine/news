@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-02T16:19:47.652Z</updated>
+    <updated>2022-03-02T17:16:44.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[리사, 뮤지컬 '프리다' 첫공 성료..강렬한 감동의 110분]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003032801</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003032801"/>
+        <updated>2022-03-02T17:16:27.707Z</updated>
+        <content type="html"><![CDATA[뮤지컬 배우 리사가 '프리다' 첫 공연에 올라 뜨거운 에너지를 발산했다. 리사는 지난 1일 서울 종로구 세종문화회관 S씨어터에서 막을 올린 뮤지컬 '프리다'에 출연해 첫 공연을 성공적으로 펼쳤다. 리사는 이번 작품에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우주소녀 엑시, 코로나19 확진.."경미한 인후통, 재택 치료 중"[공식][전문]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003032799</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001208527"/>
         <updated>2022-03-02T09:14:23.411Z</updated>
         <content type="html"><![CDATA[그룹 2NE1 출신 가수 박봄(Park Bom)이 멜로망스 김민석과 함께한 신곡을 발매한다. 2일 소속사 디네이션 엔터테인먼트에 따르면 박봄은 오는 11일 오후 6시 각종 온라인 음원 사이트를 통해 새 싱글 ‘꽃(F]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이달의 소녀, 멤버 12명 중 11명 코로나 확진]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011037329</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011037329"/>
-        <updated>2022-03-02T09:14:23.412Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 12인조 걸그룹 '이달의 소녀' 멤버들 중 11명이 확진됐다. 소속사 블록베리크리에이티브는 지난 1일 팬카페에 "지난달 27일 진행한 PCR 검사결과가 나왔다. 같은 달 28일부터 이날]]></content>
     </entry>
 </feed>
