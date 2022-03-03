@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-03-03T13:20:33.928Z</updated>
+    <updated>2022-03-03T14:16:25.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소니 뮤직 레이블즈, 가상공간 라이브 프로젝트 론칭]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011040457</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011040457"/>
+        <updated>2022-03-03T14:16:24.570Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 일본의 소니 뮤직 레이블즈가 새로운 가상 공간 프로젝트 '리버스 크로스(ReVers3:x)'를 론칭했다고 3일 밝혔다. 해당 프로젝트는 소니의 기술을 활용한 가상공간을 무대로 한 미니]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전 아내 새 남친 납치...도 넘은 MV 공개한 美 래퍼 '충격']]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004715776</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011038898"/>
         <updated>2022-03-03T04:17:59.312Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]유다연 인턴 기자 = 인플루언서 킴 카다시안이 법적 싱글이 됐다. 2일(현지시간) 해외 매체 피플에 따르면, 미국 로스앤젤레스 고등법원이 카다시안의 법적 싱글요청에 대해 승인했다. 해당 재판에 그와 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["카다시안 남친 납치에 생매장"..질투에 선 넘은 카녜이 MV[Oh!llywood]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004566699</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004566699"/>
-        <updated>2022-03-03T03:19:11.565Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 래퍼 카녜이 웨스트(활동명 예)의 뮤직비디오가 끔찍하다. 웨스트의 'SNL' 스타 피트 데이비슨에 대한 질투와 경멸은 그의 새로운 곡 '이지(Eazy)' 뮤직비디오에 그대로 담겼다고 페이지식]]></content>
     </entry>
 </feed>
