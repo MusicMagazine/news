@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-03-03T08:18:35.259Z</updated>
+    <updated>2022-03-03T09:15:53.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[영상] "거부할 수 없는 매력"…세계 연예계 주름잡는 한국 여성들]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013026767</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013026767"/>
+        <updated>2022-03-03T09:15:53.351Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 영화 '미나리'와 드라마 '오징어 게임'으로 한국 콘텐츠 열풍을 이끈 배우 윤여정과 정호연 등이 세계 연예계에서 영향력 있는 여성으로 꼽혔습니다. 2일(현지시간) 미국 연예전문 매체 버라이어티가 발표한 '글로벌 엔터테인먼트 업계에 영향력을 미친 여성'(Women That Have Made an Impac...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스, 러시아 보이콧 동참…오리지널 시리즈 제작 중단]]></title>
         <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005944973</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011038629"/>
         <updated>2022-03-03T03:19:11.587Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]유다연 인턴 기자 = "다시 그와 일하는 것을 고대했다." 도산 안창호(1878~1938) 선생의 막내 아들로 지난달 26일 별세한 한국계 미국인 배우 안필영(미국명 랄프 안·1926~2022) 선생에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[칸예 웨스트 前여친 "그와의 연애는 인생 최고의 일" [할리웃통신]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001208568</id>
-        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001208568"/>
-        <updated>2022-03-03T02:14:35.678Z</updated>
-        <content type="html"><![CDATA[배우 줄리아 폭스가 전 남자친구인 래퍼 칸예 웨스트와의 짧은 연애를 회상했다. 2일(현지시간) 미국 페이지식스에 따르면 이날 줄리아 폭스는 영화 '더 배트맨' 뉴욕 프리미어에 참석, 칸예 웨스트에 관한 질문을 받았다]]></content>
     </entry>
 </feed>
