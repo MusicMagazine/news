@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-04T12:22:48.522Z</updated>
+    <updated>2022-03-04T13:20:21.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국카스텐, 단독 콘서트 연다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000797188</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000797188"/>
+        <updated>2022-03-04T13:20:06.138Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 국카스텐이 코로나 이후 첫 단독 콘서트를 열고 오랜만에 팬들을 만난다. 밴드 국카스텐이 오는 26일부터 27일까지 양일간 서울 올림픽공원 올림픽홀에서 단독 콘서트 ‘게슈탈트 ? 비잉 인 더 월드 (GE]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국가단 김동현, '결혼작사 이혼작곡3' OST '운명처럼 너를 만나' 가창]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003033328</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011042980"/>
         <updated>2022-03-04T09:14:06.824Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]황지향 인턴 기자 = 대세 가수 백예린과 대세 댄서 모니카·립제이가 만난다. 4일 (주)엔씨소프트(이하 엔씨)는 자사 문화 콘텐츠 브랜드인 '피버(FEVER)'의 ‘즐거운 상상(imagination)’]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아이랜드'·'프듀X'·'야생돌' 출신 블랭키, 전원 센터 비주얼]]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004670710</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004670710"/>
-        <updated>2022-03-04T09:14:06.825Z</updated>
-        <content type="html"><![CDATA[그룹 블랭키(BLANK2Y) 영빈, 시우, U(유)가 다채로운 매력으로 데뷔 기대감을 높였다. 키스톤엔터테인먼트는 4일 자정부터 1분 간격으로 공식 SNS에 블랭키 멤버 영빈, 시우, U의 개인 프로필 사진을 게재했]]></content>
     </entry>
 </feed>
