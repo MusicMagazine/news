@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-05T13:17:53.517Z</updated>
+    <updated>2022-03-05T14:15:31.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세븐틴 도겸·승관, 코로나19 확진 "재택치료중"(공식입장)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003537855</id>
+        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003537855"/>
+        <updated>2022-03-05T14:15:15.275Z</updated>
+        <content type="html"><![CDATA[[헤럴드POP=김지혜 기자] 세븐틴 도겸, 승관이 코로나19 확진 판정을 받았다. 5일 플레디스 엔터테인먼트는 공식입장을 통해 "세븐틴 멤버 도겸, 승관의 코로나19 확진 및 향후 스케줄 조정 관련해 안내드린다"고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박재범, 모어비전 설립 후 첫 행보…11일 신곡 'GANADARA' 발매]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001417479</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011044285"/>
         <updated>2022-03-05T09:14:03.230Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]전재경 기자 = YG엔터테인먼트 아티스트들이 한자리에 모였다. 지난달 25일과 4일 연이어 방송된 tvN '출장 십오야2'에는 젝스키스 은지원을 비롯해 AKMU 이찬혁, 위너 김진우·송민호·강승윤, 아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태일·공민지 '오늘부터 우리는' 레전드 무대…'더블 트러블']]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011044275</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011044275"/>
-        <updated>2022-03-05T08:16:51.255Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]전재경 기자 = '더블 트러블'이 긴 여정의 마침표를 찍었다. 왓챠 오리지널 음악 예능 '더블 트러블'이 4일 파이널 미션 '히스토리' 무대를 끝으로 막을 내렸다. '더블 트러블'은 첫 번째 미션 '블]]></content>
     </entry>
 </feed>
