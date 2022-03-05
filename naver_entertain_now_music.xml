@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-05T09:14:20.484Z</updated>
+    <updated>2022-03-05T10:15:25.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세븐틴 에스쿱스, 코로나19 확진..원우·버논·호시 이어 4번째[공식][전문]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003033459</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003033459"/>
+        <updated>2022-03-05T10:15:07.748Z</updated>
+        <content type="html"><![CDATA[그룹 세븐틴 멤버 에스쿱스가 신종 코로나 바이러스 감염증(코로나19) 확진 판정을 받았다. 원우, 버논, 호시에 이어 팀 내 네 번째 확진이다. 소속사 플레디스엔터테인먼트는 "에스쿱스는 4일 기침 증상이 있어 자가진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세븐틴 에스쿱스, 코로나 확진…팀 내 4번째]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011044348</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011044058"/>
         <updated>2022-03-05T06:18:39.190Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 걸그룹 '(여자)아이들' 출신 수진(24·서수진)이 학교폭력(학폭) 의혹이 제기된 지 1년여 만에 결국 소속사를 떠난다. 서수진 소속사 큐브엔터테인먼트는 5일 "서수진과의 전속계약이 해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['학폭 의혹' (여자)아이들 출신 수진, 큐브와 전속계약 해지 [공식입장]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001417385</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001417385"/>
-        <updated>2022-03-05T06:18:39.191Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김예은 기자) 전 (여자)아이들 멤버 수진이 소속사를 떠났다. 큐브엔터테인먼트는 5일 공식입장을 통해 "소속 아티스트 서수진과의 전속계약이 해지됐다"고 밝혔다. 소속사 측은 "지난해 2월 제기된 논란에]]></content>
     </entry>
 </feed>
