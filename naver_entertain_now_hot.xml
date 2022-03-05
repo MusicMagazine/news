@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2022-03-05T15:15:11.461Z</updated>
+    <updated>2022-03-05T16:19:09.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스테이씨, 가온 앨범 1위→스포티파이 톱8…상승 행보]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000964590</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000964590"/>
+        <updated>2022-03-05T16:19:00.210Z</updated>
+        <content type="html"><![CDATA[그룹 스테이씨(STAYC)가 거침없는 행보를 이어가고 있다. 한국음악콘텐츠협회가 운영하는 가온차트에 따르면 스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)의 두 번째 미니앨범 ‘YOUNG-LUV.COM’은 202]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김병현, 주진모와 통화→전현무 “예능서 처음” (당나귀귀)]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000964589</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003838777"/>
         <updated>2022-03-05T13:17:44.487Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 정안지 기자] 배우 이필모의 아내 서수연이 아들과 행복한 시간을 보냈다. 서수연은 5일 자신의 인스타그램 스토리를 통해 "요즘 24시간 중 23.5시간 붙어있는 아이와"라면서 사진을 게재했다. 사진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남현희, 초유의 복귀전…제주 훈련+최병철 코치 영입 (‘국대는 국대다’)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000964581</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000964581"/>
-        <updated>2022-03-05T13:17:44.488Z</updated>
-        <content type="html"><![CDATA[MBN ‘국대는 국대다’ 세 번째 레전드 남현희가 최초의 단체전 경기를 위해 2005년 세계펜싱선수권 ‘금메달’ 주역들을 직접 섭외했다. 5일 ‘국대는 국대다’에서는 탁구 영웅 현정화-씨름 대통령 이만기에 이어 한국]]></content>
     </entry>
 </feed>
