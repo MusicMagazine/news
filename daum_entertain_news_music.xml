@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-03-05T20:14:01.173Z</updated>
+    <updated>2022-03-05T21:14:31.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[템페스트, 코로나19 극복하고 화려한 데뷔 'Just A Little Bit']]></title>
+        <id>https://entertain.v.daum.net/v/20220306060003308</id>
+        <link href="https://entertain.v.daum.net/v/20220306060003308"/>
+        <updated>2022-03-05T21:13:57.398Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 김정수 기자] 그룹 템페스트(한빈, 형섭, 혁, 은찬, 루, 화랑,태래)가 2일 오후 온라인으로 진행된 데뷔앨범 '잇츠 미, 잇츠 위(It's ME, It's WE)' 발매 기념 쇼케이스에서 수록곡 'Just A Little Bit'의 무대를 선보였다. 수록곡 'Just A Little Bit'은 이미 풀어져버린 연(縁)에 대한 아쉬움과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스테이씨, 가온 앨범 1위→스포티파이 톱8..상승 행보]]></title>
         <id>https://entertain.v.daum.net/v/20220306010011198</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220305180407807"/>
         <updated>2022-03-05T09:13:42.232Z</updated>
         <content type="html"><![CDATA[[티브이데일리 박상후 기자] 그룹 세븐틴 에스쿱스가 신종 코로나 바이러스 감염증(코로나19) 확진 판정을 받았다. 소속사 플레디스 엔터테인먼트 측은 5일 세븐틴의 공식 SNS를 통해 "에스쿱스는 전날 기침 증상이 있어 자가진단키트로 검사했고 양성임을 확인, PCR 검사를 받은 결과 확진 판정을 받았다"라고 밝혔다. 이어 "현재 에스쿱스는 기침 이외에 다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넉살·개코·던밀스, '한국힙합어워즈 2022' MC 낙점]]></title>
-        <id>https://entertain.v.daum.net/v/20220305172807315</id>
-        <link href="https://entertain.v.daum.net/v/20220305172807315"/>
-        <updated>2022-03-05T09:13:42.234Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 박상후 기자] 래퍼 넉살, 개코, 던밀스가 '한국 힙합 어워즈' MC를 맡는다. '한국 힙합 어워즈(Korean Hiphop Awards, 이하 KHA)' 측은 5일 "넉살, 개코, 던밀스가 MC로 낙점됐다"라고 밝혔다. 넉살은 지난 2019년부터 4년 연속 KHA 진행을 맡게 됐다. 음악 활동은 물론 '놀라운 토요일'을 비롯한 각종 방송]]></content>
     </entry>
 </feed>
