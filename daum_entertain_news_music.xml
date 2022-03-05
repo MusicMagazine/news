@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-03-05T10:15:25.234Z</updated>
+    <updated>2022-03-05T11:15:05.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[더보이즈 에릭, 건강 문제로 활동 중단]]></title>
+        <id>https://entertain.v.daum.net/v/20220305193654891</id>
+        <link href="https://entertain.v.daum.net/v/20220305193654891"/>
+        <updated>2022-03-05T11:14:29.541Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 공미나 기자] 그룹 더 보이즈(THE BOYZ) 에릭이 1일 오후 온라인으로 진행된 세 번째 싱글 '메버릭'(MAVERICK) 발매 기념 쇼케이스에 참석해 포즈를 취하고 있다.  '매버릭'은 더보이즈라는 있는 그대로의 존재를 뚜렷하게 나타낼 음반으로 멤버들이 특별한 나를 찾아가는 자신감과 포부를 담았다. / 사진제공 = 크래커엔터테인먼트 /사진=]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세븐틴 에스쿱스, 코로나19 확진..원우·버논·호시 이어 4번째]]></title>
         <id>https://entertain.v.daum.net/v/20220305181413898</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220305151716982"/>
         <updated>2022-03-05T06:18:21.016Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이하나 기자] 비투비, 스테이씨, 태연이 1위 후보로 만났다. 3월 5일 방송된 MBC ‘쇼! 음악중심’에서는 3월 첫째 주 1위 후보가 공개 됐다. 이날 방송에는 비투비의 ‘노래(The Song)’, 스테이씨(STAYC)의 ‘RUN2U’(런투유), 태연 ‘INVU’(아이앤비유)가 1위 후보에 올랐다. 군백기를 마치고 돌아온 비투비의 신곡]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['싱어게인2' TOP6 이주혁, 코로나19 확진.."인후통 외 무증상"]]></title>
-        <id>https://entertain.v.daum.net/v/20220305151513943</id>
-        <link href="https://entertain.v.daum.net/v/20220305151513943"/>
-        <updated>2022-03-05T06:18:21.016Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 김민지 인턴기자] ‘싱어게인2’ 톱6 이주혁이 코로나 19 확진 판정을 받았다. 5일 JTBC ‘싱어게인2’의 매니지먼트를 맡은 MA엔터테인먼트는 “가수 이주혁이 지난 4일 인후통 증상이 있어 자가진단키트를 이용한 신속항원검사를 진행, 양성 반응이 확인돼 곧바로 PCR(유전자증폭) 검사를 진행했고 오늘(5일) 최종 코로]]></content>
     </entry>
 </feed>
