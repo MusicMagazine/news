@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-03-05T14:15:31.833Z</updated>
+    <updated>2022-03-05T15:15:11.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['너목보9' 김민종X손지창 수사 성공, 실력자=칵스 이현송]]></title>
+        <id>https://entertain.v.daum.net/v/20220306000914872</id>
+        <link href="https://entertain.v.daum.net/v/20220306000914872"/>
+        <updated>2022-03-05T15:14:33.156Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 박상후 기자] '너목보9'에서 그룹 더 블루(손지창, 김민종)가 음치 수사에 성공했다. 5일 밤 방송된 Mnet 예능프로그램 '너의 목소리가 보여9'(이하 '너목보9')에서는 영원한 오빠 '더 블루' 손지창, 김민종이 초대 스타로 등장해 음치 수사에 나섰다. 이날 최종 선택을 받은 미스터리 싱어 6번은 화려한 뒤집는 기술과 함께 등장했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['너목보9' 더 블루, 대국남아 우현민 지목→음치 색출 실패]]></title>
         <id>https://entertain.v.daum.net/v/20220305231314451</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220305170407964"/>
         <updated>2022-03-05T08:16:30.153Z</updated>
         <content type="html"><![CDATA[[티브이데일리 박상후 기자] 가수 이주혁이 신종 코로나 바이러스 감염증(코로나19) 확진 판정을 받았다. 소속사 MA엔터테인먼트 측은 5일 "이주혁이 전날 인후통 증상이 있어 자가 진단키트를 이용한 신속항원검사를 진행, 양성반응이 확인돼 곧바로 PCR 검사를 진행했고 최종 양성 판정을 받았다"라고 밝혔다. 이어 "이주혁은 백신 2차 접종까지 완료한 상태]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['방과후 설렘' 데뷔조 클라씨, 시작부터 꽃길..강렬한 'SURPRISE']]></title>
-        <id>https://entertain.v.daum.net/v/20220305165100793</id>
-        <link href="https://entertain.v.daum.net/v/20220305165100793"/>
-        <updated>2022-03-05T08:16:30.162Z</updated>
-        <content type="html"><![CDATA[‘방과후 설렘’ 데뷔조 클라씨(CLASS:y)가 시작부터 꽃길을 걷고 있다. ‘방과후 설렘’ 데뷔조 클라씨(원지민, 김선유, 명형서, 홍혜주, 박보은, 김리원, 윤채원)는 5일 오후 방송된 MBC ‘쇼! 음악중심’에 출연해 ‘서프라이즈(SURPRISE)’ 무대를 꾸몄다. 이날 클라씨는 강렬한 레드 컬러의 의상에 장갑과 초커 등의 스타일링에 포인트를 줬다.]]></content>
     </entry>
 </feed>
