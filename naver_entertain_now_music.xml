@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-05T16:19:09.477Z</updated>
+    <updated>2022-03-05T17:15:02.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[개코·넉살·던밀스, '한국힙합어워즈 2022' MC]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011044634</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011044634"/>
+        <updated>2022-03-05T17:14:48.252Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 힙합 듀오 '다이나믹 듀오' 개코, 래퍼 넉살과 던밀스가 힙합·R&amp;B 전문 시상식 '한국 힙합 어워즈(Korean Hiphop Awards·KHA) 2022' MC로 낙점됐다. 6일 힙]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTS도 소중한 한표..RM·제이홉 사전투표 완료[스타IN★]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003033527</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011044348"/>
         <updated>2022-03-05T09:14:03.228Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 그룹 세븐틴(SVT) 멤버 에스쿱스가 코로나 19 확진 판정을 받았다. 호시, 원우, 버논에 이은 팀 내 네 번째 확진이다. 플레디스 엔터테인먼트는 5일 "에스쿱스는 전날 기침 증상이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이유, 울진·삼척 산불 피해에 1억 기부..임시조립주택 지원(공식입장)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003537821</id>
-        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003537821"/>
-        <updated>2022-03-05T09:14:03.228Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=김지혜 기자] 가수 아이유가 4일 경북 울진에서 시작돼 강원 삼척까지 번진 대형 산불과 관련해 피해자들을 돕기 위해 1억원의 성금을 희망브리지에 기부했다. 희망브리지에 따르면 가수 아이유가 산불 피해자]]></content>
     </entry>
 </feed>
