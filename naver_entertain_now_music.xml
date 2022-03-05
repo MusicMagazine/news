@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-05T17:15:02.955Z</updated>
+    <updated>2022-03-05T18:16:30.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['싱어게인2' 2위 김소연, '악의 마음을 읽는 자들' OST 불렀다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011044637</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011044637"/>
+        <updated>2022-03-05T18:16:15.414Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = JTBC '싱어게인 - 무명가수전' 시즌2에서 2위를 차지한 가수 김소연이 SBS TV 금토드라마 '악의 마음을 읽는 자들' OST 세 번째 주자로 참여했다. 6일 음원 제작사 모스트콘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[개코·넉살·던밀스, '한국힙합어워즈 2022' MC]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011044634</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003033459"/>
         <updated>2022-03-05T10:15:07.748Z</updated>
         <content type="html"><![CDATA[그룹 세븐틴 멤버 에스쿱스가 신종 코로나 바이러스 감염증(코로나19) 확진 판정을 받았다. 원우, 버논, 호시에 이어 팀 내 네 번째 확진이다. 소속사 플레디스엔터테인먼트는 "에스쿱스는 4일 기침 증상이 있어 자가진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세븐틴 에스쿱스, 코로나 확진…팀 내 4번째]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011044348</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011044348"/>
-        <updated>2022-03-05T09:14:03.228Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 그룹 세븐틴(SVT) 멤버 에스쿱스가 코로나 19 확진 판정을 받았다. 호시, 원우, 버논에 이은 팀 내 네 번째 확진이다. 플레디스 엔터테인먼트는 5일 "에스쿱스는 전날 기침 증상이]]></content>
     </entry>
 </feed>
