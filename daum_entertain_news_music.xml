@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-03-06T06:18:01.406Z</updated>
+    <updated>2022-03-06T07:14:45.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[프로미스 나인 이새롬·장규리, 코로나19 확진 "멤버 4명째"]]></title>
+        <id>https://entertain.v.daum.net/v/20220306155320057</id>
+        <link href="https://entertain.v.daum.net/v/20220306155320057"/>
+        <updated>2022-03-06T07:14:05.037Z</updated>
+        <content type="html"><![CDATA[출처 | 플레디스엔터테인먼트 [스포츠서울 | 김민지 인턴기자] 그룹 프로미스나인 멤버 중 이새롬과 장규리가 추가로 코로나19 확진 판정을 받았다. 소속사 플레디스엔터테인먼트는 6일 공식입장을 통해 “이새롬과 장규리는 5일 선제적으로 시행한 자가진단키트 검사에서 양성임을 확인했다”라며 “이후 곧바로 PCR 검사를 받았고, 6일 코로나19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오마이걸 유아, 코로나19 확진 "백신 2차 접종 완료→스케줄 중단 현재 휴식中"]]></title>
         <id>https://entertain.v.daum.net/v/20220306142241050</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220306085104766"/>
         <updated>2022-03-06T00:52:03.090Z</updated>
         <content type="html"><![CDATA[[스타뉴스 윤상근 기자] /사진제공=빅히트뮤직 아이돌그룹 투모로우바이투게더가 데뷔일을 기념한 3번째 팬라이브를 개최, 전 세계 모아(MOA)와 특별한 시간을 보냈다. 투모로우바이투게더(TXT, 수빈 연준 범규 태현 휴닝카이)는 지난 5일 '2022 TOMORROW X TOGETHER FANLIVE MOA X TOGETHER'(2022 투모로우바이투게더]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['대세 밴드' 루시, 코로나 의료진 응원 콘서트 성공적 마무리 "위로됐으면"]]></title>
-        <id>https://entertain.v.daum.net/v/20220306085050761</id>
-        <link href="https://entertain.v.daum.net/v/20220306085050761"/>
-        <updated>2022-03-06T00:52:03.090Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 대세 밴드 루시(LUCY)가 의료진을 응원하는 마음을 담은 특별한 단독 콘서트를 성료했다. 루시(신예찬, 최상엽, 조원상, 신광일)는 3월 5일 오후 3시와 7시 두 차례에 걸쳐 서울 노들섬 라이브하우스에서 온오프라인 단독 콘서트 'Connect with LUCY (커넥트 위드 루시)'를 진행했다. 약 90분 간 진행된 이번 단독]]></content>
     </entry>
 </feed>
