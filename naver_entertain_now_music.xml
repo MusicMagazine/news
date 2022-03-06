@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-06T13:18:21.445Z</updated>
+    <updated>2022-03-06T14:14:22.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[woo!ah!(우아!) 나나·우연, 사전 투표 완료 "첫 투표라 더 뿌듯" [스타IN★]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003033679</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003033679"/>
+        <updated>2022-03-06T14:14:03.816Z</updated>
+        <content type="html"><![CDATA[그룹 woo!ah!(우아!)의 나나와 우연이 제20대 대통령 선거 사전 투표에 참여했다. 나나와 우연은 지난 5일 woo!ah!(우아!)의 공식 SNS에 사전 투표에 참여 인증샷을 공개했다. 나나와 우연은 각각 서울]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로켓펀치, 독보적 아우라 'CHIQUITA' [인기가요]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003033665</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000797373"/>
         <updated>2022-03-06T05:14:07.678Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 대전 지역을 기반으로 활동하는 여성 싱어송라이터 유진솔이 첫 EP ‘만달라’를 최근 발표했다. 유진솔은 ‘만달라’ 앨범을 통해 자신의 눈으로 바라본 대전광역시 동구 정동과 원동 이야기를 노래로 담았다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오마이걸 유아, 오늘(6일) 코로나19 확진.."모든 일정 중단"[공식]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003537983</id>
-        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003537983"/>
-        <updated>2022-03-06T05:14:07.679Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=김나율기자]그룹 오마이걸 멤버 유아가 코로나19에 확진됐다. 6일 오마이걸의 소속사 WM엔터테인먼트 측은 "유아는 지난 5일 선제적으로 진행한 자가진단 키트 검사에서 양성 반응을 보여 곧바로 PCR 검]]></content>
     </entry>
 </feed>
