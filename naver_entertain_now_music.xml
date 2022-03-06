@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-06T14:14:22.094Z</updated>
+    <updated>2022-03-06T15:15:52.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅, 원곡자도 반한 '상사화' 무대 영상 700만뷰 돌파]]></title>
+        <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001960192</id>
+        <link href="https://entertain.naver.com/now/read?oid=016&amp;aid=0001960192"/>
+        <updated>2022-03-06T15:15:36.721Z</updated>
+        <content type="html"><![CDATA[[헤럴드경제 = 서병기 선임기자]가수 임영웅의 '상사화' 열창 영상이 700만뷰를 돌파했다. 2020년 4월 21일 임영웅 공식 유튜브 채널에 게시된 '임영웅 사랑의콜센타 〈상사화〉'라는 제목의 영상은 6일 오후 조]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[woo!ah!(우아!) 나나·우연, 사전 투표 완료 "첫 투표라 더 뿌듯" [스타IN★]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003033679</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003537986"/>
         <updated>2022-03-06T05:14:07.676Z</updated>
         <content type="html"><![CDATA[[헤럴드POP=김나율기자]그룹 몬스타엑스(MONSTA X) 기현이 내추럴한 무드를 선보였다. 기현은 지난 5일과 6일 0시 몬스타엑스 공식 SNS 채널을 통해 첫 번째 싱글 ‘VOYAGER(보이저)’의 Somewhe]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대전 싱어송라이터 유진솔, 첫 EP ‘만달라’ 발표]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000797373</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000797373"/>
-        <updated>2022-03-06T05:14:07.678Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 대전 지역을 기반으로 활동하는 여성 싱어송라이터 유진솔이 첫 EP ‘만달라’를 최근 발표했다. 유진솔은 ‘만달라’ 앨범을 통해 자신의 눈으로 바라본 대전광역시 동구 정동과 원동 이야기를 노래로 담았다.]]></content>
     </entry>
 </feed>
