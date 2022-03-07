@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-03-07T13:21:12.052Z</updated>
+    <updated>2022-03-07T14:14:38.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[현아 코로나19 확진 "미열 증세, 자가격리 상태"]]></title>
+        <id>https://entertain.v.daum.net/v/20220307230234732</id>
+        <link href="https://entertain.v.daum.net/v/20220307230234732"/>
+        <updated>2022-03-07T14:14:00.655Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 현아가 코로나19(코로나바이러스감염증-19, COVID-19) 확진(양성) 판정을 받았다. 소속사 피네이션은 7일 공식입장문을 통해 “당사 소속 아티스트 현아가 금일 코로나19 확진 판정을 받았다. 현아는 미열 등 건강 이상을 느껴 신속 항원 검사에 이어 PCR 검사를 진행했고, 금일 최종 양성 판정을 받았다”고 밝혔다. 그러면서 “현아는 코]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세븐틴 디에잇, 코로나19 감염..팀 내 7번째 확진]]></title>
         <id>https://entertain.v.daum.net/v/20220307204105682</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220307175431981"/>
         <updated>2022-03-07T09:15:20.482Z</updated>
         <content type="html"><![CDATA[[스타뉴스 윤상근 기자] 방탄소년단(BTS, 뷔 슈가 진 정국 RM 지민 제이홉)이 21일 오후 서울 송파구 방이동 올림픽홀에서 진행된 새 싱글앨범 'Butter' 발매 기념 쇼케이스에서 포즈를 취하고 있다.  'Butter'에는 버터처럼 부드럽게 녹아들어 너를 사로잡겠다는 방탄소년단의 귀여운 고백이 담겨있다.  방탄소년단은 'Butter'를 사실상의 선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백' 위클리 "YGX 여진이 만든 안무, 옷 찢어질 정도로 격렬"]]></title>
-        <id>https://entertain.v.daum.net/v/20220307175014777</id>
-        <link href="https://entertain.v.daum.net/v/20220307175014777"/>
-        <updated>2022-03-07T09:15:20.483Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 7개월 만에 컴백하는 그룹 위클리가 퍼포먼스 왕좌를 노린다. 7일 오후 위클리(이수진, 먼데이, 지한, 신지윤, 박소은, 조아, 이재희)의 첫 번째 싱글앨범 '플레이 게임 : 어웨이크(Play Game : AWAKE)' 발매 기념 온라인 쇼케이스가 진행됐다. 첫 싱글앨범 '플레이 게임 : 어웨이크'는 MZ세대 특유의 솔직하고 당]]></content>
     </entry>
 </feed>
