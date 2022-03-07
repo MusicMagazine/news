@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 07:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 08:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220228160648_096555c1b697443c8dd5a4b2c900a690.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[화보] 최예나, 러블리-스마일리한 매력 발산! (KBS연예 ─ 연예)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=195811</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=195811</guid>
+            <pubDate>Mon, 07 Mar 2022 08:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=195811">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220307164745_2d8166dc0b6fafcc52b124d4d9e5d676.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=195811">[화보] 최예나, 러블리-스마일리한 매력 발산!</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220307164745_2d8166dc0b6fafcc52b124d4d9e5d676.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[박서준, 영국 매체인터뷰  “한국의 좋은 영화와 드라마를 더 알리고파” (KBS연예 ─ 연예)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=195329</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=195329</guid>
@@ -671,21 +688,20 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220223151617_c2aa1dcc2691b503e6b067aa4d27b30b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[화보] 로운, 소년 같은 풋풋한 매력 (KBS연예 ─ 연예)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=193688</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=193688</guid>
-            <pubDate>Wed, 23 Feb 2022 03:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=193688">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220223091311_b0860c4086c0f2ec0677bb95de1609f3.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=193688">[화보] 로운, 소년 같은 풋풋한 매력</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220223091311_b0860c4086c0f2ec0677bb95de1609f3.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[포토] 위클리, '벤 파라' 플레이 게임? (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/340213</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/340213</guid>
+            <pubDate>Mon, 07 Mar 2022 08:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/340213">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/07/264c8742-dcb9-477d-98de-ed04fbab43d3.jpg" alt="[포토] 위클리, '벤 파라' 플레이 게임?">        <div class="text-box">            <p class="summary">[포토] 위클리, '벤 파라' 플레이 게임?</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/07/264c8742-dcb9-477d-98de-ed04fbab43d3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[포토] 김우석, 현실성 없는 'SF 미모' (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/340212</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/340212</guid>
+            <pubDate>Mon, 07 Mar 2022 08:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/340212">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/07/067a8eb0-688a-4ff6-8817-17758902436a.jpg" alt="[포토] 김우석, 현실성 없는 'SF 미모'">        <div class="text-box">            <p class="summary">[포토] 김우석, 현실성 없는 'SF 미모'</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/07/067a8eb0-688a-4ff6-8817-17758902436a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[포토] 김우석, '본캐' 솔로 컴백 (MBC 연예 ─ 아이돌)]]></title>
@@ -760,230 +776,214 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/07/c08924e9-7053-4add-907a-0c627ea8f49b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[브레이브걸스, '땡큐' 유닛·단체 포토 공개 (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/340177</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/340177</guid>
-            <pubDate>Mon, 07 Mar 2022 04:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/340177">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/07/25d547d5-2f67-4db2-9a2f-5739a1555c31.jpg" alt="브레이브걸스, '땡큐' 유닛·단체 포토 공개">        <div class="text-box">            <p class="summary">브레이브걸스, '땡큐' 유닛·단체 포토 공개</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/07/25d547d5-2f67-4db2-9a2f-5739a1555c31.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[가수로 돌아온 김우석 "편안한 꿈 위한 '인간 드림캐처' 될 것" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220307171737458</link>
+            <guid>https://entertain.v.daum.net/v/20220307171737458</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 김예나 기자 = "이번 음반의 콘셉트인 '수면욕'에 걸맞게 편안한 꿈을 꾸라는 뜻에서 '꿈지기', '인간 드림캐처'가 되어 볼게요." 가수 김우석이 꿈 이야기를 담은 솔로 음반으로 돌아온다. 김우석은 7일 세 번째 미니음반 '서드 디자이어 [레브]'(3RD DESIRE [Reve]) 발매 기념 쇼케이스에서 "오랜만에 가수로 컴백하는데 팬]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴 디에잇, 코로나19 확진…"특별한 증상 無" [공식입장] (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/340171</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/340171</guid>
-            <pubDate>Mon, 07 Mar 2022 03:14:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/340171">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/07/1d2bc1d9-69d1-48ea-acf6-ac7855674553.jpg" alt="세븐틴 디에잇, 코로나19 확진…" 특별한="" 증상="" 無"="" [공식입장]"="">        <div class="text-box">            <p class="summary">세븐틴 디에잇, 코로나19 확진…"특별한 증상 無" [공식입장]</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/07/1d2bc1d9-69d1-48ea-acf6-ac7855674553.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA["180도 달라진 콘셉트"..위클리가 보여줄 강렬한 변신 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220307171220227</link>
+            <guid>https://entertain.v.daum.net/v/20220307171220227</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[데뷔 3년차를 맞은 그룹 위클리가 새로운 변신에 나선다. 위클리는 7일 오후 싱글 1집 ‘플레이 게임: 어웨이크’(Play Game : AWAKE) 발매 기념 온라인 기자간담회를 열고 “활기차고 통통 튀는 모습에서 강렬한 모습을 보여드리고자 새롭게 변신했다”면서 “이번 앨범 활동을 통해서 다양한 매력을 보여드릴 예정”이라고 변신을 예고했다. 이번 앨범은 건]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김우석 "1년 만 가수 컴백, 기다려 주신 팬분들 감사" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220307161501961</link>
-            <guid>https://entertain.v.daum.net/v/20220307161501961</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[가수 김우석이 컴백 소감을 밝혔다. 김우석은 7일 오후 4시 유튜브 채널을 통해 새 앨범 ‘서드 디자이어 레브(3RD DESIRE Reve)’ 발매 기념 쇼케이스를 열고 신곡을 공개했다. 그는 이번 신보에서 전곡 프로듀싱에 참여하며 자신만의 음악적 색이 담긴 앨범을 탄생시켰다. 이날 김우석은 컴백 소감을 묻자 “오랜만에 나오는 앨범이다 보니까 설레고]]></content:encoded>
+            <title><![CDATA['인간 드림캐처' 김우석의 마지막 욕망 '레브' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220307171045164</link>
+            <guid>https://entertain.v.daum.net/v/20220307171045164</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[김우석(사진=티오피미디어)[이데일리 스타in 윤기백 기자] “다음이 기대되는 아티스트가 되고 싶다.” 배우 활동을 마치고 ‘본업’인 가수로 금의환향한 김우석이 앞으로의 행보가 기대되는 가수가 되고 싶다는 포부를 밝혔다. 김우석은 7일 온라인으로 진행한 미니 3집 ‘서드 디자이어 레브’ 발매 기념 쇼케이스에서 “디자이너 3부작 시리즈의 마지막 앨범을 들고]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김우석 "가수로선 함께 즐기고, 배우로선 다음이 궁금해지길" 만능 연예인 각오 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220307161441948</link>
-            <guid>https://entertain.v.daum.net/v/20220307161441948</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 김우석, 사진제공=티오피미디어 가수 김우석이 만능 엔터테이너로서의 각오를 전했다. 7일, 가수 김우석의 새 앨범 ‘3RD DESIRE [Reve](서드 디자이어 레브)’ 발매 기념 온라인 쇼케이스가 진행됐다. 김우석은 이날 “오랜만에 발매하는 앨범이자 ‘욕망’ 3부작의 마지막 앨범이기도 하다. 오랜만의 가수 컴백이라 팬들이 어떻게 보아줄지]]></content:encoded>
+            <title><![CDATA["'인간 드림캐처' 되고파" 김우석, 악몽 잡는 '꿈찢남' 매력 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220307170942119</link>
+            <guid>https://entertain.v.daum.net/v/20220307170942119</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 업텐션 김우석이 ‘꿈찢남’(꿈을 찢고 나온 남자)으로 돌아왔다. 김우석의 미니 3집 ‘서드 디자이어 레브(3RD DESIRE [Reve])’ 발매 쇼케이스가 7일 온라인으로 진행됐다. ‘서드 디자이어 레브’는 2년 동안 이어온 ‘디자이어’ 시리즈의 완결판이다. 지난 앨범 이후 1년 만의 컴백으로, 이번 앨범을 통해 ‘꿈꾸는 소년’과 ‘]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김우석 "오랜만에 가수로 컴벡.. 어떻게 봐줄지 설레" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220307161424930</link>
-            <guid>https://entertain.v.daum.net/v/20220307161424930</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[김우석(사진=티오피미디어)[이데일리 스타in 윤기백 기자] “설레고 긴장된다.” 가수 김우석이 1년여 만에 컴백한 소감을 이같이 밝혔다. 김우석은 7일 온라인으로 진행한 미니 3집 ‘서드 디자이어 레브’ 발매 기념 쇼케이스에서 “오랜만에 나오는 앨범”이라며 “디자이너 시리즈의 마지막 앨범이기도 하다”고 운을 뗐다. 이어 “오랜만에 가수로 컴백했는데 팬]]></content:encoded>
+            <title><![CDATA["인간 드림캐처" 김우석, '욕망 3부작' 마침표 찍는 'Reve' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220307170904087</link>
+            <guid>https://entertain.v.daum.net/v/20220307170904087</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 공미나 기자] 가수 김우석이 7일 오후 온라인으로 진행된 '3RD DESIRE [Reve]' 발매 기념 미디어 쇼케이스에 참석해 포즈를 취하고 있다. 2022.03.07 &lt;사진=티오피미디어&gt; /사진=임성균 기자 tjdrbs23@ 가수 김우석이 1년 만에 무대로 돌아왔다. '수면욕'을 주제로 한 새 앨범은 팬들에게 '인간 드림캐처'가 되겠다는 마음]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김우석 "'불가살' 큰 사랑 감사..솔로 컴백 기다려준 팬들 고마워" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220307161402912</link>
-            <guid>https://entertain.v.daum.net/v/20220307161402912</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[가수 김우석이 본업 가수로 돌아왔다. 김우석은 7일 오후 세 번째 앨범 '서드 디자이어 레브(3RD DESIRE Reve)' 발매 기념 온라인 쇼케이스를 개최했다. 두 번째 솔로 앨범 이후 약 1년 만에 신보로 돌아온 김우석은 "정말 오랜만에 나오는 앨범이기도 하고, 디자이어 시리즈의 마지막 3부작 앨범이기도 해서 설레고 긴장이 된다. 오랜만에 가수로 컴]]></content:encoded>
+            <title><![CDATA['확 바뀐' 위클리, 파격 콘셉트 변신으로 MZ세대 저격할까 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220307170619995</link>
+            <guid>https://entertain.v.daum.net/v/20220307170619995</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[[서울경제] 그룹 위클리가 확 바뀌었다. 하이틴 매력을 물씬 풍기던 이들은 과감한 스타일링과 솔직 당당한 카리스마로 팀 스펙트럼의 저변을 확대한다. 전혀 다른 팀을 보는 것처럼 새로워진 위클리가 가요계에 어떤 반향을 일으킬지 궁금증이 커진다. 7일 오후 위클리(이수진, 먼데이, 지한, 박소은, 조아, 이재희)의 싱글 앨범 '플레이 게임 : 어웨이크(Pla]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김우석 "설레고 긴장되는 컴백, 1년 넘게 기다려준 팬들 감사" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220307161316883</link>
-            <guid>https://entertain.v.daum.net/v/20220307161316883</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 박상후 기자] 가수 김우석이 컴백 소감을 밝혔다. 김우석의 세 번째 솔로 앨범 '서드 디자이어 레브(3RD DESIRE [Reve])' 발매 기념 온라인 미디어 쇼케이스가 7일 유튜브 채널을 통해 생중계됐다. 이날 김우석은 컴백 소감에 대해 "설레고 긴장되는 것 같다. 오랜만에 가수로 컴백하는 데 팬들이 어떻게 봐주실지 궁금하다"라고 전했]]></content:encoded>
+            <title><![CDATA[위클리 지한 "'더쇼' MC로 활약, 멤버들이 응원 많이 해줘" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220307170403914</link>
+            <guid>https://entertain.v.daum.net/v/20220307170403914</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 임시령 기자] 그룹 위클리 지한이 음악 방송 '더쇼' MC로 활약했던 소감을 전했다. 위클리(이수진, 먼데이, 지한, 신지윤, 박소은, 조아, 이재희)는 7일 첫 싱글 앨범 '플레이 게임: 어웨이크(Play Game : AWAKE)' 발매 기념 온라인 미디어 쇼케이스를 진행했다. 최근 멤버 지한은 음악 방송 '더쇼' MC로 활동하면서 위클]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[신지윤 활동 중단..'컴백' 위클리 "K-하이틴 벗어날 것" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220307161238858</link>
-            <guid>https://entertain.v.daum.net/v/20220307161238858</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 위클리가 컴백 소감을 밝혔다. 7일 오후 위클리(이수진, 먼데이, 지한, 신지윤, 박소은, 조아, 이재희)의 첫 번째 싱글앨범 '플레이 게임 : 어웨이크(Play Game : AWAKE)' 발매 기념 온라인 쇼케이스가 진행됐다. 신지윤은 지난해 여름 한 차례 활동을 중단한 이후 불안 증세로 다시 활동을 잠정 중단했다. 이에]]></content:encoded>
+            <title><![CDATA["연습하다 옷 찢어지기도"..위클리, 감춰둔 강렬함이 깨어났다 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220307170202815</link>
+            <guid>https://entertain.v.daum.net/v/20220307170202815</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 위클리(Weeekly)가 상큼 발랄한 매력을 벗고 강렬한 변신을 시도했다. 위클리(이수진, 먼데이, 지한, 신지윤, 박소은, 조아, 이재희)는 7일 오후 싱글 1집 '플레이 게임 : 어웨이크(Play Game: AWAKE)' 발매 기념 온라인 쇼케이스를 개최했다. 멤버 신지윤은 건강 상의 이유로 이번 활동에 함께 하지 못한다. 이와 관련해 이수진은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[위클리, 7개월만 컴백 소감 "강렬한 변신 시도..독창적 세계관 확장" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220307161236857</link>
-            <guid>https://entertain.v.daum.net/v/20220307161236857</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 윤상근 기자] /사진제공=IST엔터테인먼트 걸그룹 위클리(Weeekly)가 7개월만의 컴백 소감을 전했다. 위클리는 7일 오후 4시 컴백 온라인 쇼케이스를 열었다. 위클리는 이날 오후 6시 주요 음원사이트를 통해 타이틀 곡 'Ven para'(벤 파라)를 포함한 싱글 1집 'Play Game : AWAKE'(플레이 게임 : 어웨이크)를 발표]]></content:encoded>
+            <title><![CDATA[위클리, K-하이틴 넘어 MZ세대 대표 꿈꾸는 '강렬' 만능돌 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220307170000709</link>
+            <guid>https://entertain.v.daum.net/v/20220307170000709</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:02 GMT</pubDate>
+            <content:encoded><![CDATA['K-하이틴'의 대명사, 그룹 위클리가 확 달라진 강렬한 이미지로 돌아온다. 7일 오후 위클리 싱글 1집 ‘플레이 게임 : 어웨이크(Play Game : AWAKE)’ 발매 기념 온라인 쇼케이스가 진행됐다. 위클리의 컴백은 7개월 만. 싱글 1집 ‘플레이 게임 : 어웨이크’는 ‘K-하이틴’ 위클리의 건강하고 긍정적인 에너지는 물론, 멤버들의 다채로운 매]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['컴백' 위클리 "활기차고 통통 튀는 모습에서 강렬하게 변신" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220307161218848</link>
-            <guid>https://entertain.v.daum.net/v/20220307161218848</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 황미현 기자 = 그룹 위클리가 이번 앨범으로 확 바뀐 비주얼에 대해 소개했다. 위클리는 7일 오후 4시 싱글 1집 '플레이 게임: 어웨이크' 발매 기념 온라인 기자간담회를 열었다. 수진은 "활기차고 통통 튀는 모습에서 강렬한 모습을 보여드리고자 새롭게 변신했다"며 "그런만큼 이번 컴백을 더 많이 기다렸다"고 말했다. 이어 먼데이는 "팬]]></content:encoded>
+            <title><![CDATA['컴백' 위클리 "플레이리스트돌 되고파..음원 차트인 목표" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220307170000708</link>
+            <guid>https://entertain.v.daum.net/v/20220307170000708</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 윤상근 기자] /사진제공=IST엔터테인먼트 걸그룹 위클리(Weeekly)가 'K-하이틴'을 표방한 콘셉트에서 180도 달라진 강렬한 퍼포먼스로 돌아왔다. 위클리는 7일 오후 4시 컴백 온라인 쇼케이스를 열었다. 위클리는 이날 오후 6시 주요 음원사이트를 통해 타이틀 곡 'Ven para'(벤 파라)를 포함한 싱글 1집 'Play Game : A]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김우석, '스위치'로 몽환적인 매력 예고 "설레고 기대돼" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220307161007756</link>
-            <guid>https://entertain.v.daum.net/v/20220307161007756</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 정하은기자]본업으로 돌아온 가수 김우석이 몽환적인 매력을 예고했다. 7일 김우석이 신보 ‘3RD DESIRE [Reve](서드 디자이어 레브)’ 발매를 앞두고 온라인 생중계를 통해 미디어 쇼케이스를 열었다. 두 번째 솔로 앨범 이후 1년 만에 ‘서드 디자이어 레브’로 돌아온 김우석은 “오랜만에 가수로 컴백하는데 설레도]]></content:encoded>
+            <title><![CDATA[위클리 수진, 10대 소녀에서 강렬한 카리스마 장착 "안무 선생님은 YGX 여진" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220307165816652</link>
+            <guid>https://entertain.v.daum.net/v/20220307165816652</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[제공 | 아이에스티엔터테인먼트 [스포츠서울 | 김민지 인턴기자] 위클리 리더 수진이 색다른 변신을 시도한 타이틀곡을 소개했다. K-하이틴 대표 위클리가 첫 번째 싱글 ‘Play Game : AWAKE(플레이 게임: 어웨이크)’를 발매하며 MZ세대의 워너비로 도약한다. 7개월만에 돌아온 위클리는 7일 온라인 생중계로 열린 쇼케이스를 통해]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[위클리 신지윤, 건강상 이유로 'Ven para' 활동 불참 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220307160716609</link>
-            <guid>https://entertain.v.daum.net/v/20220307160716609</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 그룹 위클리 신지윤이 건강 상의 이유로 컴백 활동에 불참한다. 위클리(Weeekly, 이수진, 먼데이, 지한, 신지윤, 박소은, 조아, 이재희)의 새 싱글 앨범 '플레이 게임 : 어웨이크(Play Game : AWAKE)'의 발매 기념 미디어 쇼케이스가 7일 오후 온라인으로 진행됐다. 진행은 강아랑 아나운서가 맡았다. 이날 강]]></content:encoded>
+            <title><![CDATA["인간 드림캐처 될래"..'가수 컴백' 김우석의 다정한 욕망 '레브' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220307165758639</link>
+            <guid>https://entertain.v.daum.net/v/20220307165758639</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 가수로 돌아온 김우석이 팬들을 위해 "인간 드림캐처"를 자처했다. 다정한 메시지를 담은 새 앨범 '서드 디자이어 '레브'' 활동을 통해 그가 보여줄 또 한 번의 성장이 기대감을 준다. 김우석은 7일 오후 진행된 세번째 미니 앨범 '서드 디자이어 '레브''(3RD DESIRE 'Reve') 발매 기념 온라인 미디어 쇼케이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['가수 컴백' 김우석 "욕망 시리즈 마지막 앨범, 설레고 긴장돼" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220307160451486</link>
-            <guid>https://entertain.v.daum.net/v/20220307160451486</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 가수 김우석이 "설레고 긴장된다"고 말했다. 김우석은 3월 7일 오후 4시 진행된 3번째 미니 앨범 '3RD DESIRE [Reve]'(서드 디자이어 레브) 발매 기념 온라인 미디어 쇼케이스에서 컴백 소감을 밝혔다. 김우석은 솔로 가수로서 3집을 내는 소감에 대해 "정말 오랜만에 나오는 앨범이기도 하고 욕망 시리즈 3부작 마지막 앨]]></content:encoded>
+            <title><![CDATA[김우석의 마지막 욕망..'인간 드림캐처'로 1년 만 본업 복귀 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220307165439532</link>
+            <guid>https://entertain.v.daum.net/v/20220307165439532</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이슬 기자) 가수 김우석이 수면욕에 대한 새 앨범으로 1년 만에 컴백했다. 김우석의 세 번째 미니앨범 '3RD DESIRE [Reve]'(서드 디자이어 레브) 발매 기념 온라인 미디어 쇼케이스가 7일 오후 진행됐다. 욕망 3부작의 마지막을 장식하는 '3RD DESIRE [Reve]'. tvN 드라마 '불가살'에서 배우로서 모습을 보여준]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[송민호 "달리의 원화라니! 직접 만나 감동" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220307153451328</link>
-            <guid>https://entertain.v.daum.net/v/20220307153451328</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] ‘화가’ 송민호가 살바도르 달리와 만났다. 송민호는 지난 4일 바쁜 스케줄 중에도 서울 서초구 예술의전당 한가람미술관에서 개최 중인 ‘달리에서 마그리트까지 : 초현실주의 거장들’전(이하 ‘초현실주의 거장들’전)을 찾았다. 그룹 위너의 멤버이자 래퍼로 다방면에서 활약하고 있는 그는 국내외 유수의 특별 전시회에 작품을 올리는 등 화가로서]]></content:encoded>
+            <title><![CDATA["꿈과 현실의 경계 담아"..김우석, 1년만 가수 컴백 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220307165402498</link>
+            <guid>https://entertain.v.daum.net/v/20220307165402498</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[가수 김우석이 이중적인 매력을 담은 신보와 함께 1년 만에 가요계에 돌아왔다. 김우석은 7일 오후 4시 유튜브 채널을 통해 새 앨범 ‘서드 디자이어 레브(3RD DESIRE Reve)’ 발매 기념 쇼케이스를 열고 신곡을 공개했다. 그는 이번 신보에서 전곡 프로듀싱에 참여하며 자신만의 음악적 색이 담긴 앨범을 탄생시켰다. 김우석은 컴백 소감을 묻자 “오]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 소속사 측 "특허청과 함께 콘서트 현장 권리침해 상품 단속" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220307152714916</link>
-            <guid>https://entertain.v.daum.net/v/20220307152714916</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 그룹 방탄소년단 소속사 빅히트 뮤직 측이 특허청과 함께 방탄소년단 권리 침해 상품을 단속하겠다고 예고했다. 빅히트 뮤직 측은 3월 7일 공식 SNS를 통해 "당사는 방탄소년단 초상과 상표권을 무단으로 사용한 상품(권리 침해 상품)을 상습적으로 제작, 판매 및 유통하는 업체들에 대해 엄정히 대응하고 있다"고 알렸다. 이어 "아티스트]]></content:encoded>
+            <title><![CDATA["플레이리스트돌 되고파" 위클리, 솔직 당당 K-하이틴의 강렬한 변신 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220307165232452</link>
+            <guid>https://entertain.v.daum.net/v/20220307165232452</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=지민경 기자] 그룹 위클리가 K-하이틴에서 벗어나 걸크러시 넘치는 매력을 입고 돌아왔다. 위클리는 7일 오후 온라인 생중계를 통해 진행된 싱글 1집 ‘Play Game : AWAKE(플레이 게임 : 어웨이크)’ 발매 기념 쇼케이스에 참석해 새 앨범에 대한 이야기를 나눴다. 8개월 만에 컴백을 알린 위클리는 “그동안 저희의 활기찬 에너지와 통통]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['容 : FACE' 비디오 클립 공개, 신비로운 공간 속 해머 든 솔라 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220307152608852</link>
-            <guid>https://entertain.v.daum.net/v/20220307152608852</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 마마무 솔라가 신보를 관통하는 메시지를 담은 비디오 클립을 공개했다. 솔라는 3월 7일 공식 SNS를 통해 첫 번째 미니앨범 '容 : FACE'의 비디오 클립을 선보였다. 영상에는 흰색 바탕의 신비로운 공간 속에 솔라가 해머를 들고 등장해 눈길을 끈다. 이어 긴장감이 고조되는 사운드가 흐르고, 솔라의 얼굴이 클로즈업된다. 정면을 응]]></content:encoded>
+            <title><![CDATA[컴백 김우석 "인간 드림캐처 되겠다"..욕망 3부작 마침표 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220307171123188</link>
+            <guid>https://entertain.v.daum.net/v/20220307171123188</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 박윤진 기자] 가수 김우석이 1년 만에 컴백했다. 김우석은 7일 오후 세 번째 미니앨범 '서드 디자이어 레브(3RD DESIRE Reve)' 발매 기념 온라인 쇼케이스를 개최했다. 최근 드라마 '불가살'을 마치고 1년 만에 본업인 가수로 컴백한 김우석은 "욕망 시리즈 3부작의 마지막 앨범"이라며 "설레고 긴장도 된다"고 소감을 밝혔다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[BTS·세븐틴·저스틴 비버..하이브, 세계 음악시장 삼켰다 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220307150443762</link>
-            <guid>https://entertain.v.daum.net/v/20220307150443762</guid>
-            <pubDate>Mon, 07 Mar 2022 06:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 세계 음악시장 내 하이브의 막강한 영향력이 여실히 입증됐다. 국제음반산업협회(IFPI)가 최근 발표한 ‘2021 글로벌 아티스트 차트’와 ‘2021 글로벌 앨범 세일즈 차트’, ‘2021 글로벌 디지털 싱글 차트’, ‘2021 글로벌 앨범 올 포맷 차트’에 따르면, 방탄소년단을 필두로 세븐틴과 저스틴 비버 등 하이브 아티스트들이 모든 차]]></content:encoded>
+            <title><![CDATA[정수정, 봄을 부르는 '美'친 미모 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220307171058172</link>
+            <guid>https://entertain.v.daum.net/v/20220307171058172</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 권현진 기자 = 배우 정수정(활동명 크리스탈)이 봄을 부르는 ‘美’친 미모로 시선을 싹쓸이 했다. 정수정은 7일 오후 서울 영등포구 KBS 별관에서 배우 김재욱, 하준과 함께 드라마 ‘크레이지 러브’ 제작발표회를 진행했다. 이날 방송국에 들어서는 정수정의 모습이 눈길을 끌었다. 정수정은 흰 티셔츠에 청바지를 입고 나타났다. 여기에 캠퍼스]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김재욱X정수정, 美친 비주얼+100점 케미로 완성한 '크레이지 러브' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220307161104798</link>
-            <guid>https://entertain.v.daum.net/v/20220307161104798</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[배우 김재욱과 정수정, 하준이 달콤 살벌한 대환장 드라마를 예고했다. KBS2 새 월화드라마 ‘크레이지 러브’의 제작발표회가 7일 온라인을 진행됐다. 이날 제작발표회에는 배우 김재욱, 정수정, 하준이 참석했다. 김정현 PD는 제작발표회 전 서면을 통해 “‘크레이지 러브’는 제목 그대로 ‘미치도록’ 사랑에 빠진 사람들의 이야기다. 누군가에게 그 ‘미친]]></content:encoded>
+            <title><![CDATA[살인 예고받은 일타 강사? "한마디로 '밥맛'" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220307170300864</link>
+            <guid>https://entertain.v.daum.net/v/20220307170300864</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[[오수미 기자] ▲ &nbsp;하준, 정수정, 김재욱 배우가 7일 오후 비대면으로 열린 KBS 2TV &lt;크레이지 러브&gt; 온라인 제작발표회에서 포즈를 취하고 있다.    ⓒ KBS  &nbsp; "지치고 힘든 이 어려운 시기, &lt;크레이지 러브&gt;가 삶의 작은 활력소가 될 수 있길 바란다."(김정현 PD) 길어지는 코로나 팬데믹으로 모두가 지친 2022년, 한시름]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['크레이지 러브', 이 '미친 사랑'의 전모는? "실컷 웃으세요" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220307160602539</link>
-            <guid>https://entertain.v.daum.net/v/20220307160602539</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 코로나19 팬데믹 3년차, 마스크로 답답한 일상에 거리두기 그리고 각종 방역조치로 시청자들의 마음은 지칠 대로 지쳤다. 2022년 봄을 맞아 많은 지상파 드라마가 밝은 터치와 코믹 장르를 대거 들여왔다. 이런 가운데 KBS 드라마가 선을 넘었다. 망치로 사람을 내리치는 장면을 거침없이 방송하고, 욕설 역시 예전에 표현하지 않던 수위로 올라]]></content:encoded>
+            <title><![CDATA[박동훈 감독 "처음 보는 최민식의 얼굴들, 보장합니다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220307165822653</link>
+            <guid>https://entertain.v.daum.net/v/20220307165822653</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = "'올드보이'가 내 앞에 있네, 싶었어요." 오는 9일 개봉을 앞둔 영화 '이상한 나라의 수학자'를 연출한 박동훈 감독은 최민식과의 첫 만남을 회상했다. '이상한 나라의 수학자'는 배우 최민식이 영화 '천문: 하늘에 묻는다'(2019) 이후 약 3년 만에 선보이는 주연작이다. '이상한 나라의 수학자'로 처음 상업 영화]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박명신 "기억 안 되는 배우이고 싶어요" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220307160103333</link>
-            <guid>https://entertain.v.daum.net/v/20220307160103333</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[배우 박명신은 자유로운 새다. 작품의 혹은 캐릭터의 틀에 갇히지 않고 어디서든 날아다닌다. 배우라는 직업에, 혹은 연기 선생이라는 직업에 갇히지 않고 자유롭게 가야 할 길로 나아간다. 항상 같은 자리에 있는 것이 아니기에 대중의 눈에 쉽사리 익진 않지만, 어느샌가 그의 흔적을 찾아 나서게 만든다. 영화 '모가디슈'에 이어 tvN 드라마 '불가살'과 J]]></content:encoded>
+            <title><![CDATA[박은영 "절친 붐 덕분에 KBS 사표 내, 빨리 좋은 여자 만나길" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220307165814651</link>
+            <guid>https://entertain.v.daum.net/v/20220307165814651</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박은해 기자] 아나운서 출신 방송인 박은영이 절친 붐에 대한 애정을 한껏 드러냈다. 3월 7일 방송된 SBS 파워FM, 러브FM '붐붐파워'에서는 박은영이 스페셜 DJ를 맡았다. 이날 박은영은 "제 친구 붐이 마음 착하고 좋은 여자를 빨리 만나서 가정 꾸렸으면 좋겠다"는 바람을 전했다. 이어 박은영은 "(붐과) 같이 '위기 탈출 넘버원'을 오래]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[야옹이 작가, '내돈내산' 명품+외제차에도 욕먹는 이유.."부자라 생각 못해" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220307155502066</link>
-            <guid>https://entertain.v.daum.net/v/20220307155502066</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=김지원 기자] 야옹이 작가가 자신의 재력이 논란이 되자 사과했다. 어려운 시국에 어울리지 않는 재력 과시였다는 의견과 본인 재산을 본인이 쓰는 것이 문제가 되냐는 의견이 엇갈리고 있다. 야옹이 작가는 7일 새벽 자신의 인스타그램에 장문의 사과문을 올렸다. 야옹이 작가는 "지금까지 기부금 2억을 내고 세무사님께서 알려주는 대로 꼬박꼬박 세금을]]></content:encoded>
+            <title><![CDATA['소년심판'의 힘, 신예 배우들의 발견 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220307165206438</link>
+            <guid>https://entertain.v.daum.net/v/20220307165206438</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 소년범죄를 다룬 '소년심판'이 소년범을 연기한 신인 배우들의 호연으로 작품의 완성도를 높였다. 연기 경험이 적은 신예들을 선택한 홍종찬 감독의 선택이 옳았다. 지난 25일 공개된 넷플릭스 오리지널 시리즈 '소년심판'은 소년범을 혐오하는 판사 심은석(김혜수)이 지방법원 소년부에 부임하면서 마주하게 되는 소년범죄와 그들을 둘러싼]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[31일 첫방송 '퀸덤2', 태연·이용진 포스터 공개 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220307155235966</link>
-            <guid>https://entertain.v.daum.net/v/20220307155235966</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 문지연 기자] K-POP 글로벌 걸그룹 컴백 대전 Mnet '퀸덤2'가 첫 방송 전부터 다양한 스틸과 영상물을 쏟아 내며 음악 팬들의 이목을 집중 시키고 있다. MC 태연을 비롯한 출연진들의 공식 포스터, 화제 광고를 패러디한 프로그램 예고 영상까지 연이어 공개하며 첫 방송 기대감을 한껏 키우고 있는 것. 3일 Mnet '퀸덤2']]></content:encoded>
+            <title><![CDATA[김해론, 위로 건넬 수 있는 '안정제'같은 가수를 꿈꾸며 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220307164848314</link>
+            <guid>https://entertain.v.daum.net/v/20220307164848314</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[가수 김해론이 첫 싱글 '안정제'(Stabilizer)를 지난달 25일 발표하며 가요계에 정식 데뷔했다. 케이팝 히트 프로듀싱 팀 모노트리가 제작한 2호 가수로, '안정제'를 시작으로 사람의 체온과 닮은 일상적 소재의 음악으로 대중에게 폭넓은 위로를 건네겠다는 각오다. 자신의 목소리가 담긴 노래를 발표하기 전, 김재환, 온앤오프, 더보이즈, 윤지성, 임상현]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["기부천사" 전현무·신민아·이종석·박민영, 각각 1억씩 통큰 기부 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220307155022885</link>
-            <guid>https://entertain.v.daum.net/v/20220307155022885</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;방송인 전현무와 배우 신민아, 윤정희, 이종석, 박민영 등 스타들이 기부 행렬에 동참했다. 7일 서울사회복지공동모금회는 “전현무가 산불 피해자들의 긴급 구호 지원을 위해 써달라며 1억 원을 기탁했다”며 “보내주신 따뜻한 성금은 실의에 빠진 피해 지역 이재민들에게 신속하게 전달돼 빠른 복구가 이뤄질 수 있도록 최선을 다하겠다”고]]></content:encoded>
+            <title><![CDATA[위클리 "신보 'Play Game : AWAKE'로 콘셉트 변신? 성숙함 도전하고 싶었다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220307164826306</link>
+            <guid>https://entertain.v.daum.net/v/20220307164826306</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[위클리가 콘셉트 변화 이유를 공개했다. 7일 오후 위클리의 싱글 앨범 ‘Play Game : AWAKE’ 발매 기념 미디어 쇼케이스가 온라인으로 진행됐다. 현장에는 위클리가 참석해 신보와 관련한 진솔한 이야기를 나눴다. 이날 이재희는 “그동안 하이틴 콘셉트를 많이 보여드렸다. 이 콘셉트를 많은 분들이 좋게 봐주셨더라. 이번에는 다른 모습을 보여주고 싶던]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['피겨 여왕' 김연아, 산불 피해 지역 복구 위해 1억원 기부 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220307154551723</link>
-            <guid>https://entertain.v.daum.net/v/20220307154551723</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 윤성열 기자]  전 피겨스케이팅 국가대표 김연아가 22일 오후 서울 성동구의 한 스튜디오에서 진행된 제이에스티나 포토월에 참석해 포즈를 취하고 있다. /사진=김휘선 기자 hwijpg@'피겨 여왕' 김연아가 경북 울진과 강원 삼척 등 산불 피해지역 복구에 재해 성금 1억원을 기부했다. 희망브리지 전국재해구호협회(회장 송필호)는 전 피겨스케이팅 선]]></content:encoded>
+            <title><![CDATA[김우석 "'불가살' 도윤 캐릭터, 성장하는 계기" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220307164822304</link>
+            <guid>https://entertain.v.daum.net/v/20220307164822304</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[가수 김우석이 ‘불가살’에 출연한 비하인드를 공개했다. 7일 오후 김우석 3RD DESIRE [Reve‘ 발매 기념 미디어 쇼케이스가 코로나19 확산 방지를 위해 온라인으로 열렸다. 이날 김우석은 “장영우 감독님 감사드린다. 감독님 덕분에 드라마를 무사히 잘 찍을 수 있었다”고 말했다. 이어 “도윤 캐릭터를 연기하는데 굉장히 어려웠다”라며 “아무래도]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["천륜이 뭐길래"..한소희, 母 채무 논란에 또 소환 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220307154403671</link>
-            <guid>https://entertain.v.daum.net/v/20220307154403671</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 서지현 기자] 배우 한소희가 모친의 사기 혐의에 언급되며 곤혹을 치르고 있다. 천륜으로 엮인 관계라지만, 벌써 두 번째로 모친의 부정적인 이슈에 휘말린 한소희다. 7일 소속사 9아토엔터테인먼트는 한소희 모친 A씨가 최근 사기 혐의로 피소된 사실과 관련해 공식입장을 밝혔다. 이날 소속사 측은 "A씨가 돈을 빌리는 과정에서 한소희 명의로 된 은행]]></content:encoded>
+            <title><![CDATA['우크라 도착' 이근 대위 "최전방 전투할 것..시간 낭비 말라" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220307164459153</link>
+            <guid>https://entertain.v.daum.net/v/20220307164459153</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자)&nbsp;해군특수전전단(UDT/SEAL) 출신 이근 예비역 대위가 의용군을 결성해 우크라이나로 출국한 가운데, 그가 현지에 도착해 소식을 전했다. 7일 이근은 자신의 유튜브 채널 'ROKSEAL' 커뮤니티에 "외교부, 저의 팀은 우크라이나 무사히 도착했다"며 "시간 낭비하면서 우리 여권 무효화 하는 것보다 어떻게 지원할 수 있는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['컬투쇼' 강재준 "코로나 확진 후 2배 먹어..새우과자 보며 운동" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220307154136592</link>
-            <guid>https://entertain.v.daum.net/v/20220307154136592</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이해정 기자] 개그맨 강재준이 코로나19 확진 후 입맛이 더 좋아졌다고 말했다. 3월 7일 방송된 SBS 파워FM '두시탈출 컬투쇼'에는 개그우먼 김민경이 스페셜DJ로 출연했다. 개그맨 강재준, 최성민은 게스트로 함께했다. 최성민, 강재준은 코로나19를 건강하게 극복하고 돌아온 만큼 자가격리 당시를 회상하는 토크로 말문을 열었다. 최성민은 "아]]></content:encoded>
+            <title><![CDATA["인간 드림캐처"..김우석, 1년만의 본업 복귀 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220307164418117</link>
+            <guid>https://entertain.v.daum.net/v/20220307164418117</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 백지은 기자] 가수 겸 배우 김우석이 '인간 드림캐처'로 돌아왔다. 7일 오후 4시 김우석의 '써드 디자이어 [레브](3RD DESIRE [Reve])' 발매기념 온라인 미디어 쇼케이스가 열렸다. 김우석의 솔로 컴백은 1년 여만의 일이다. 김우석은 "정말 오랜만에 나오는 앨범이기도 하고 '디자이어' 시리즈의 마지막 앨범이기도]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[배수진, 훈남 남친과 재혼 계획.."아들도 매일 본다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220307153745453</link>
-            <guid>https://entertain.v.daum.net/v/20220307153745453</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 정빛 기자] 코미디언 배동성의 딸 배수진이 '훈남' 남자친구와 재혼 계획을 밝혔다. 배수진은 6일 자신의 유튜브 채널에 '남자친구 Q&amp;A'라는 제목의 영상을 올렸다. 해당 영상에서 배수진과 남자친구는 나란히 같은 브랜드의 셔츠를 입고 나와, 서로를 향한 애정을 가감없이 드러냈다. 배수진은 "수진이 남자친구다"라고 인사하는 자신]]></content:encoded>
+            <title><![CDATA[안영미, 코로나19 자가진단 키트서 양성..'두데' 불참 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220307164128034</link>
+            <guid>https://entertain.v.daum.net/v/20220307164128034</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 안윤지 기자] 안영미/사진제공=MBC 2021.12.29 /사진=이동훈 기자 photoguy@코미디언 안영미가 코로나19 자가진단 키트에서 양성 반응을 보였다. 7일 방송된 MBC FM4U '두시의 데이트 뮤지, 안영미입니다'에서는 안영미가 불참, 스페셜 DJ로 송진우가 나섰다. 이날 뮤지는 "영미야 듣고 있니 자고 있니 밥은 먹었니. 영미야]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['크레이지 러브' 김재욱X정수정, 12년 전 '우결' 인연 잇는다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220307153403302</link>
-            <guid>https://entertain.v.daum.net/v/20220307153403302</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 임시령 기자] 비주얼 배우 김재욱, 정수정이 뭉쳤다. 로맨틱하지만 실컷 웃을 수 있는 '케미'로 유쾌함을 선사할 '크레이지 러브'다. 7일 KBS2 월화드라마 '크레이지 러브'(극본 김보겸·연출 김정현) 제작발표회가 온라인으로 진행됐다. 행사에는 배우 김재욱, 정수정, 하준이 참석했다. '크레이지 러브'는 살인을 예고받은 개차반 일타강사]]></content:encoded>
+            <title><![CDATA[김우석, 본업 가수 컴백 "'꿈지기'로 불리고파" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220307164058013</link>
+            <guid>https://entertain.v.daum.net/v/20220307164058013</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 김우석, 사진=티오피미디어 김우석, 사진=티오피미디어김우석이 본업인 가수로 컴백한다. ‘수면욕’을 소재로 한 새 앨범을 통해 ‘팬들의 드림캐처가 되겠다’고 다짐했다. 7일, 가수 김우석의 새 앨범 ‘3RD DESIRE [Reve](서드 디자이어 레브)’ 발매 기념 온라인 쇼케이스가 진행됐다. 김우석은 이날 “오랜만에 발매하는 앨범이자 ‘욕]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['크레이지 러브' 정수정 "제대로 된 로코 리드하고 싶었다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220307153207197</link>
-            <guid>https://entertain.v.daum.net/v/20220307153207197</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 황서연 기자] '크레이지 러브'의 정수정이 로맨스 코미디에 대한 욕심을 드러냈다. 7일 오후 KBS2 새 월화드라마 '크레이지 러브'(극본 김보겸·연출 김정현) 제작발표회가 온라인 중계로 진행됐다. '크레이지 러브'는 살인을 예고받은 과도한 나르시시즘의 일타 강사와 시한부를 선고받은 그의 '슈퍼을' 비서가 그리는 달콤 살벌 대환장 크레이지 로]]></content:encoded>
+            <title><![CDATA[김우석 "꿈? 발매된 앨범 팬들과 함께 들으며 즐기는 것" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220307163906961</link>
+            <guid>https://entertain.v.daum.net/v/20220307163906961</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[가수 김우석이 꿈에 대해 밝혔다. 7일 오후 김우석 3RD DESIRE [Reve‘ 발매 기념 미디어 쇼케이스가 코로나19 확산 방지를 위해 온라인으로 열렸다. 이날 김우석은 꿈에 대해 묻자 “오늘 앨범이 나왔으니 팬들과 잘 듣고 즐겼으면 좋겠다”고 말했다. 이어 어떤 김우석이 좋냐는 물음에는 “연기자로서는 다음이 궁금한 배우였으면 좋겠고, 가수로서는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["매회 엔딩이 美쳤다"..'크레이지 러브' 김재욱X정수정 "근심 걱정 없이 웃는 로코" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220307152719928</link>
-            <guid>https://entertain.v.daum.net/v/20220307152719928</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=강효진 기자] 드라마 '크레이지 러브'가 웃음 가득한 로맨틱 코미디를 보여주겠다는 포부를 전했다. KBS 새 월화드라마 '크레이지 러브' 온라인 제작발표회가 7일 오후 열렸다. 이날 현장에는 배우 김재욱, 정수정, 하준이 참석해 드라마에 대한 다양한 이야기를 나눴다. 연출을 맡은 김정현PD는 코로나19 확진 판정을 받아 사전에 서면 답변]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["플렉스는 옛말?" 고소영→야옹이 작가, 재력 자랑하다 큰코 다친 ★ (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220307152410753</link>
-            <guid>https://entertain.v.daum.net/v/20220307152410753</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이해정 기자] 부(富)나 명품을 과시하는 '플렉스'(flex)가 대세로 떠오르던 것도 옛말이 된 걸까. 재력을 자랑했다가 부러움과 함께 원성까지 얹으며 큰코다친 스타들이 적지 않다. 배우 고소영은 지난 1월 개인 SNS에 영화관에서 마스크를 쓰지 않은 사진을 게재했다가 마스크 미착용 논란이 일었다. 이에 고소영이 해명하는 과정에서 노마스크보다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['크레이지 러브' 김재욱 "'냉미녀' 정수정? 솔직한 친구" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220307152326715</link>
-            <guid>https://entertain.v.daum.net/v/20220307152326715</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 황서연 기자] '크레이지 러브' 김재욱과 정수정이 서로와의 첫 만남을 회상했다. 7일 오후 KBS2 새 월화드라마 '크레이지 러브'(극본 김보겸·연출 김정현) 제작발표회가 온라인 중계로 진행됐다. '크레이지 러브'는 살인을 예고받은 과도한 나르시시즘의 일타 강사와 시한부를 선고받은 그의 '슈퍼을' 비서가 그리는 달콤 살벌 대환장 크레이지 로맨]]></content:encoded>
+            <title><![CDATA[내 아이는 강남에서 키우고 싶다는 야옹이 작가에게 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220307163902956</link>
+            <guid>https://entertain.v.daum.net/v/20220307163902956</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[웹툰 '여신강림'으로 유명한 야옹이 작가(본명 김나영, 31)가 슈퍼카와 명품 옷을 자랑했다가 일부의 불편해 하는 반응에 사과했다. 야옹이 작가는 부모님과 아이를 언급하며 고개를 숙였는데, 그래서 더 아쉬움이 남는 '플렉스'다. 야옹이 작가는 7일 자신의 인스타그램에 장문의 사과문을 올려 "지금까지 기부금 2억을 내고 세무사님께서 알려주는 대로 꼬박꼬박]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['오펜하이머' 조쉬 하트넷, ♥탐신 에거튼과 10년 열애 끝 결혼 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
@@ -1091,354 +1091,382 @@
             <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]리얼리티쇼 ‘밀리언 달러 리스트:LA’의 조쉬 플래그(36. 사진 왼쪽)가 남편 바비 보이드(36)와 이혼한다고 밝혔다. 그는 4일(현지시간) 인스타그램에 "이 말이 갑작스럽게 들릴지 모르지만 헤드라인을 묻기보다는 위에서부터 투명해야 한다고 생각했다"고 썼다. 이어 “이것은 경솔하거나 충동적인 결정이 아니었다. 우리는 이 결]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김우석 "'불가살' 큰 사랑 감사…솔로 컴백 기다려준 팬들 고마워" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004671391</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004671391</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[가수 김우석이 본업 가수로 돌아왔다. 김우석은 7일 오후 세 번째 앨범 '서드 디자이어 레브(3RD DESIRE Reve)' 발매 기념 온라인 쇼케이스를 개최했다. 두 번째 솔로 앨범 이후 약 1년 만에 신보로 돌아]]></content:encoded>
+            <title><![CDATA[가수로 돌아온 김우석 "편안한 꿈 위한 '인간 드림캐처' 될 것" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013036136</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013036136</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:22 GMT</pubDate>
+            <content:encoded><![CDATA['서드 디자이어 [레브]' 발표…"다음이 기대되는 배우·가수 목표" (서울=연합뉴스) 김예나 기자 = "이번 음반의 콘셉트인 '수면욕'에 걸맞게 편안한 꿈을 꾸라는 뜻에서 '꿈지기', '인간 드림캐처'가 되어 볼게요]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김우석 “오랜만의 컴백, 설레고 긴장도 많이 돼” (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000852435</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000852435</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[가수 김우석이 컴백 소감을 밝혔다. 7일 오후 김우석의 신보 ‘3RD DESIRE [Reve](서드 디자이어 레브)’ 발매 기념 쇼케이스가 온라인으로 진행됐다. 김우석은 두 번째 솔로 앨범 ‘2ND DESIRE [T]]></content:encoded>
+            <title><![CDATA[크랙샷, 27일 9주년 기념 콘서트 개최 ‘4人 4色 명사수 출동’ 기대감 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000797683</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000797683</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 록밴드 크랙샷(Crackshot)이 9주년 기념 콘서트로 팬들과 만난다. 크랙샷(윌리K, 대니리, 빈센트, 싸이언)은 오는 27일 서울 광진구 예스24 라이브홀에서 ‘CRACKSHOT 9th Anniv]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[신지윤 활동 중단…'컴백' 위클리 "K-하이틴 벗어날 것" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001417972</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001417972</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 위클리가 컴백 소감을 밝혔다. 7일 오후 위클리(이수진, 먼데이, 지한, 신지윤, 박소은, 조아, 이재희)의 첫 번째 싱글앨범 '플레이 게임 : 어웨이크(Play Game : AWA]]></content:encoded>
+            <title><![CDATA[“‘인간 드림캐처’ 되고파” 김우석, 악몽 잡는 ‘꿈찢남’ 매력[스경X현장] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000797679</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000797679</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 업텐션 김우석이 ‘꿈찢남’(꿈을 찢고 나온 남자)으로 돌아왔다. 김우석의 미니 3집 ‘서드 디자이어 레브(3RD DESIRE [Reve])’ 발매 쇼케이스가 7일 온라인으로 진행됐다. ‘서드 디자이어]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[위클리, 7개월만 컴백 소감 "강렬한 변신 시도..독창적 세계관 확장" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003033870</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003033870</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[걸그룹 위클리(Weeekly)가 7개월만의 컴백 소감을 전했다. 위클리는 7일 오후 4시 컴백 온라인 쇼케이스를 열었다. 위클리는 이날 오후 6시 주요 음원사이트를 통해 타이틀 곡 'Ven para'(벤 파라)를 포]]></content:encoded>
+            <title><![CDATA["인간 드림캐처" 김우석, '욕망 3부작' 마침표 찍는 'Reve'[종합] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003033898</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003033898</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[가수 김우석이 1년 만에 무대로 돌아왔다. '수면욕'을 주제로 한 새 앨범은 팬들에게 '인간 드림캐처'가 되겠다는 마음을 담았다. 김우석은 7일 오후 6시 세 번째 솔로앨범 '서드 디자이어 레브(3RD DESIRE]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[위너, 서울 콘서트 오프라인 관람권 일반 예매 시작 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000797656</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000797656</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 그룹 위너의 서울 콘서트 오프라인 관람권 일반 예매가 오늘 (7일) 오후 8시부터 옥션 티켓에서 시작된다. 위너는 오는 4월 30일과 5월 1일 서울 방이동 올림픽공원 올림픽홀에서 ‘WINNER 202]]></content:encoded>
+            <title><![CDATA["연습하다 옷 찢어지기도"…위클리, 감춰둔 강렬함이 깨어났다 [종합] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004671406</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004671406</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 위클리(Weeekly)가 상큼 발랄한 매력을 벗고 강렬한 변신을 시도했다. 위클리(이수진, 먼데이, 지한, 신지윤, 박소은, 조아, 이재희)는 7일 오후 싱글 1집 '플레이 게임 : 어웨이크(Play Game:]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[케이윌, 15주년 라이브 메들리 영상 공개…귀 호강 선사 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011048183</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011048183</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]황지향 인턴 기자 = 가수 케이윌이 라이브 메들리를 선사했다. 지난 6일 케이윌은 공식 유튜브 채널을 통해 데뷔 15주년 기념 라이브 메들리 영상을 공개했다. 공개된 영상 속 케이윌은 '네 곁에(I'l]]></content:encoded>
+            <title><![CDATA['컴백' 위클리 "플레이리스트돌 되고파..음원 차트인 목표"[종합] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003033896</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003033896</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[걸그룹 위클리(Weeekly)가 'K-하이틴'을 표방한 콘셉트에서 180도 달라진 강렬한 퍼포먼스로 돌아왔다. 위클리는 7일 오후 4시 컴백 온라인 쇼케이스를 열었다. 위클리는 이날 오후 6시 주요 음원사이트를 통해]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘가수 컴백’ 김우석 “욕망 시리즈 마지막 앨범, 설레고 긴장돼” (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000549439</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000549439</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 가수 김우석이 "설레고 긴장된다"고 말했다. 김우석은 3월 7일 오후 4시 진행된 3번째 미니 앨범 '3RD DESIRE [Reve]'(서드 디자이어 레브) 발매 기념 온라인 미디어 쇼케이스에]]></content:encoded>
+            <title><![CDATA["만능돌 되고파" 위클리, 하이틴 벗고 솔직당당 강렬한 변신(ft. YGX 여진 안무)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003538395</link>
+            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003538395</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[[헤럴드POP=박서연 기자]그룹 위클리가 청량 하이틴 매력에서 180도 변신해 강렬함을 선보인다. 7일 오후 위클리(이수진, 먼데이, 지한, 신지윤, 박소은, 조아, 이재희)의 첫 싱글 'Play Game : AWA]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[하이라이트, 결성 5년 만에 첫 정규 '데이드림'…21일 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011048167</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011048167</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]김주희 인턴 기자 = 그룹 '하이라이트(Highlight)'가 결성 5년 만에 첫 정규앨범 '데이드림'으로 컴백한다. 어라운드어스 엔터테인먼트는 7일 하이라이트 공식 SNS에 이번 정규앨범의 트레일러를]]></content:encoded>
+            <title><![CDATA[[방송소식] '싱어게인2' 톱6, JTBC 새 예능 '유명가수전' 출연 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013036045</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013036045</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:22 GMT</pubDate>
+            <content:encoded><![CDATA['SNL 코리아2' 20회로 연장…정일우·박재범, 호스트 출연 YTN 유튜브 채널 구독자 300만명 돌파 (서울=연합뉴스) 김정진 기자 김우진 인턴기자 = ▲ '싱어게인2' 톱6, JTBC 새 예능 '유명가수전' 출]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임영웅 팬클럽 영웅시대 회원, ‘히어로의 고향’ 포천에 이웃돕기 물품 전달 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001417969</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001417969</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅 팬클럽 회원의 나눔이 눈길을 끈다. 포천시는 3일 임영웅 팬클럽 영웅시대 회원 해어화(닉네임)가 1,070만 원 상당의 건강기능식품 100세트와 라면 100박스를 이웃 돕기 물품으]]></content:encoded>
+            <title><![CDATA[위클리, 오늘 '벤 파라'로 컴백…"어둠을 뚫고 오라" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011048360</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011048360</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]김주희 인턴 기자 = 걸그룹 '위클리(Weekly)'가 7일 오후 6시 싱글 1집 '플레이 게임 : 어웨이크(Play Game : AWAKE)'를 발매한다. 타이틀곡은 '벤 파라(Ven para)'다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[팝업★]"빨리 보고파" BTS, 서울 콘서트 비하인드..#옆공연장 대관 #적자 #다이어트(종합) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003538358</link>
-            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003538358</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드POP=박서연 기자]그룹 방탄소년단(BTS) 멤버 진, 제이홉, 뷔 정국이 약 2년 5개월 만의 국내 콘서트를 앞두고 기쁜 마음을 드러냈다. 지난 6일 방탄소년단 진, 제이홉, 뷔, 정국은 방탄소년단 공식 브]]></content:encoded>
+            <title><![CDATA[김우석의 마지막 욕망…'인간 드림캐처'로 1년 만 본업 복귀 [종합] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001417993</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001417993</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이슬 기자) 가수 김우석이 수면욕에 대한 새 앨범으로 1년 만에 컴백했다. 김우석의 세 번째 미니앨범 '3RD DESIRE [Reve]'(서드 디자이어 레브) 발매 기념 온라인 미디어 쇼케이스가 7일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[해머를 든 솔라…첫 번째 미니앨범 ‘容 : FACE’ 비디오 클립 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000852423</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000852423</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[마마무 솔라가 신보를 관통하는 메시지를 담은 비디오 클립을 공개해 화제다. 솔라는 7일 0시, 공식 SNS를 통해 첫 번째 미니앨범 '容 : FACE'의 비디오 클립을 선보였다. 영상에는 흰색 바탕의 신비로운 공간]]></content:encoded>
+            <title><![CDATA["K-하이틴은 잊어라"…위클리, 신지윤 빈자리 꽉 채운 반전의 '벤 파라' [종합] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001417991</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001417991</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 위클리가 K-하이틴을 벗고 카리스마를 입고 컴백을 알렸다. 7일 오후 위클리(이수진, 먼데이, 지한, 신지윤, 박소은, 조아, 이재희)의 첫 번째 싱글앨범 '플레이 게임 : 어웨이크]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[케이윌, 데뷔 15주년 기념 라이브 메들리 영상 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=408&amp;aid=0000147950</link>
-            <guid>https://entertain.naver.com/now/read?oid=408&amp;aid=0000147950</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[가수 케이윌(K.will)이 품격이 다른 라이브를 선사했다. 케이윌은 지난 6일 공식 유튜브 채널을 통해 데뷔 15주년 기념 라이브 메들리 영상을 공개했다. 공개된 영상 속 케이윌은 '네 곁에(I'll Be With]]></content:encoded>
+            <title><![CDATA[모모랜드, 남미 최대 음원 사이트 차트 7위+9위 ‘역주행 인기’ (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000549455</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000549455</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 그룹 모모랜드(MOMOLAND)가 남미에서 끝없는 역주행 신화를 기록하고 있다. 3월 7일 모모랜드 소속사에 따르면 모모랜드 신곡 'Yummy Yummy Love(야미 야미 럽)'은 남미 최대]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빅히트뮤직, BTS 불법 굿즈 유통 단속 나선다...현장 적발 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001710729</link>
-            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001710729</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 방탄소년단 측이 그룹 권리 침해 상품을 단속한다. 소속사 빅히트 뮤직 측은 7일 공식 SNS를 통해 "당사는 방탄소년단 초상과 상표권을 무단으로 사용한 상품(권리 침해 상품)을 상습적으로 제작, 판매 및 유통하]]></content:encoded>
+            <title><![CDATA[유노윤호, 5천만원 기부…경북·강원 산불 피해지역 위해 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011048340</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011048340</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]이재훈 기자 = 한류듀오 '동방신기' 멤버 유노윤호가 최근 산불이 일어난 경북과 강원 등 피해지역을 위해 기부했다. 7일 사랑의열매 사회복지공동모금회(회장 조흥식)에 따르면, 유노윤호는 최근 산불이 일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김재롱, 오늘(7일) ‘가요무대’ 출연…박상철 ‘황진이’ 재해석 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000852421</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000852421</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:30 GMT</pubDate>
-            <content:encoded><![CDATA['개가수' 김재롱이 '가요무대'에 출연한다. 7일 방송되는 KBS1 '가요무대'에는 김재롱이 출연해 새로운 곡을 선사한다. 이날 방송에서 김재롱은 박상철의 곡 '황진이'를 재해석해 선보인다. '황진이'는 박상철이 2]]></content:encoded>
+            <title><![CDATA['솔로 컴백' 마마무 솔라, 해머 들고…살짝 무서운 구도 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003582475</link>
+            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003582475</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 오윤주 기자] 그룹 마마무 멤버 솔라가 신보를 관통하는 메시지를 담은 비디오 클립을 공개해 화제다. 솔라는 7일 공식 SNS를 통해 첫 번째 미니앨범 '容 : FACE'의 비디오 클립을 선보였다. 영]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[브레이브걸스, 미니 6집 첫 번째 유닛·단체 포토 공개…강렬해진 콘셉트 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000852420</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000852420</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 브레이브걸스가 유닛 및 단체 포토 티저를 통해 압도적인 콘셉트 소화력을 보여줬다. 소속사 브레이브 엔터테인먼트는 7일 정오, 소속사와 브레이브걸스의 공식 SNS를 통해 브레이브걸스의 미니 6집 ‘THANK YO]]></content:encoded>
+            <title><![CDATA["인간 드림캐쳐 될 것" 김우석, 1년만 본업 컴백..몽환적인 '꿈찢남'[종합] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003538390</link>
+            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003538390</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[[헤럴드POP=박서현기자] 김우석이 인간 드림캐쳐로 돌아왔다. 7일 오후 김우석의 세 번째 미니앨범 3rd DESIRE 'Reve' 발매 기념 온라인 쇼케이스가 열렸다. 이날 약 1년만에 가수로 돌아온 김우석은 "설]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[송민호 “달리의 원화라니! 직접 만나 감동”[인터뷰] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000797644</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000797644</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] ‘화가’ 송민호가 살바도르 달리와 만났다. 송민호는 지난 4일 바쁜 스케줄 중에도 서울 서초구 예술의전당 한가람미술관에서 개최 중인 ‘달리에서 마그리트까지 : 초현실주의 거장들’전(이하 ‘초현실주의 거]]></content:encoded>
+            <title><![CDATA[위클리 “플레이리스트돌·만능돌 수식어 얻고파” (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000852442</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000852442</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[위클리가 각오를 전했다. 7일 오후 위클리(이수진, 먼데이, 지한, 신지윤, 박소은, 조아, 이재희)의 싱글 1집 ‘Play Game : AWAKE(플레이 게임 : 어웨이크)’ 발매 기념 온라인 미디어 쇼케이스가 개]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아도라, 동화 감성 담은 발라드 ‘어린이름’ 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000852419</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000852419</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[아티스트 ADORA(아도라)가 신곡을 발매한다. 7일 오후 6시 각종 온라인 음원사이트를 통해 공개되는 ADORA의 2nd Pre-Release Digital Single '어린이름 (The Little Name)']]></content:encoded>
+            <title><![CDATA[위클리 "활동 중단 신지윤과 자주 연락, 컴백 직전 안무 재정비" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001417985</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001417985</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 위클리가 건강상 이유로 활동을 중단한 신지윤의 소식을 전했다. 7일 오후 위클리(이수진, 먼데이, 지한, 신지윤, 박소은, 조아, 이재희)의 첫 번째 싱글앨범 '플레이 게임 : 어웨]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['데뷔 15주년' 케이윌, 고품격 라이브…히트곡 메들리 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001417954</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001417954</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김예나 기자) 가수 케이윌(K.will)이 명품 보컬리스트다운 고품격 라이브를 선사했다. 케이윌은 지난 6일 공식 유튜브 채널을 통해 데뷔 15주년 기념 라이브 메들리 영상을 공개했다. 공개된 영상 속]]></content:encoded>
+            <title><![CDATA[유노윤호, 산불 피해 복구 5000만원 기부 "화재 진압되길"[공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003033894</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003033894</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[동방신기 유노윤호가 산불 피해 복구를 위한 선행에 나섰다. 유노윤호는 7일 사랑의열매 사회복지공동모금회(회장 조흥식)에 최근 산불이 일어난 경북과 강원 등 피해지역 구호를 위해 5000만 원을 기부했다. 유노윤호는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 소속사 측 “특허청과 함께 콘서트 현장 권리침해 상품 단속”[공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000549429</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000549429</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 그룹 방탄소년단 소속사 빅히트 뮤직 측이 특허청과 함께 방탄소년단 권리 침해 상품을 단속하겠다고 예고했다. 빅히트 뮤직 측은 3월 7일 공식 SNS를 통해 "당사는 방탄소년단 초상과 상표권을]]></content:encoded>
+            <title><![CDATA[김우석 "본업은 가수, '노래 잘한다'는 칭찬 뿌듯해" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003033893</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003033893</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[가수로 컴백한 김우석이 본업을 강조하며 음악에 대한 애정을 드러냈다. 김우석은 7일 오후 세 번째 솔로앨범 '서드 디자이어 레브(3RD DESIRE [Reve])'발매 기념 온라인 쇼케이스를 개최했다. 최근 tvN]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘容 : FACE’ 비디오 클립 공개, 신비로운 공간 속 해머 든 솔라 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000549428</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000549428</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 마마무 솔라가 신보를 관통하는 메시지를 담은 비디오 클립을 공개했다. 솔라는 3월 7일 공식 SNS를 통해 첫 번째 미니앨범 '容 : FACE'의 비디오 클립을 선보였다. 영상에는 흰색 바탕의]]></content:encoded>
+            <title><![CDATA[‘이번엔 꿈찢남’..김우석, 아이돌 '스위치' 켰다..1년만 가수 컴백 [종합] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004568661</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004568661</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박판석 기자] 가수 김우석이 욕망 시리즈를 끝내는 세 번째 미니앨범으로 돌아왔다. 김우석은 수면욕을 주제로 자신의 음악적인 재능을 발휘했다. 만찢남에 이어 꿈찢남으로 돌아온 김우석의 활동이 기대를 모은다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[블랭키, 9人 완전체 퍼포먼스 최초 공개..더보이즈 '매버릭' 커버 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003538347</link>
-            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003538347</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드POP=박서현기자] '4세대 루키' 블랭키(BLANK2Y)가 9인 완전체 퍼포먼스를 최초 공개했다. 블랭키는 지난 6일 정오 공식 유튜브 채널을 통해 더보이즈의 '매버릭(MAVERICK)' 댄스 커버 영상을]]></content:encoded>
+            <title><![CDATA[김우석 “배우로서 성장하고파 ‘불가살’ 도전” (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000797669</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000797669</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 업텐션 김우석이 tvN 드라마 ‘불가살’ 출연 비화를 전했다. 김우석은 7일 온라인으로 진행된 미니 3집 ‘서드 디자이어 레브(3RD DESIRE [Reve])’ 발매 쇼케이스에서 “도윤이라는 캐릭터가]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아이브 장원영, 봐도 봐도 놀라운 비율 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001417945</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001417945</guid>
-            <pubDate>Mon, 07 Mar 2022 06:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이정범 기자) 아이브 장원영(원영)의 미모가 눈길을 끈다. 7일 아이브 장원영은 자신의 인스타그램에 사진 다수를 게재했다. 사진 속 장원영은 다양한 포즈를 취하고 있다. 그의 남다른 미모와 기럭지, 비]]></content:encoded>
+            <title><![CDATA[윤두준-양요섭-이기광-손동운, 하이라이트 완전체...5년 만에 첫 정규앨범 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=438&amp;aid=0000044513</link>
+            <guid>https://entertain.naver.com/now/read?oid=438&amp;aid=0000044513</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[하이라이트(Highlight) 완전체가 5년 만에 첫 정규앨범을 선보이며 팬들 곁으로 돌아온다. 하이라이트는 7일 0시 공식 SNS를 통해 첫 정규앨범 'DAYDREAM (데이드림)'의 트레일러를 공개하며, 오는 2]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우주소녀 루다, 러블리 매력 끝판왕 'BIRTHDAY' 커버 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001417944</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001417944</guid>
-            <pubDate>Mon, 07 Mar 2022 06:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 우주소녀(WJSN) 루다가 생일을 맞아 팬들을 위한 랜선 생일 파티를 준비했다. 지난 6일 우주소녀 공식 SNS 채널을 통해 루다가 부른 전소미의 'BIRTHDAY(벌스데이)' 커버]]></content:encoded>
+            <title><![CDATA[요정돌 오마이걸, 3월 28일 컴백 확정! (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=438&amp;aid=0000044512</link>
+            <guid>https://entertain.naver.com/now/read?oid=438&amp;aid=0000044512</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[요정돌 오마이걸(OH MY GIRL)이 오는 3월 28일 컴백한다. 7일 소속사 WM엔터테인먼트는 공식 SNS 채널을 통해 오마이걸의 두 번째 정규앨범 ‘Real Love’의 첫 티저 이미지를 공개하고 오는 28일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[케이윌, 데뷔 15주년 기념 라이브 메들리 영상 공개..명곡 맛집 클래스 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003538341</link>
-            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003538341</guid>
-            <pubDate>Mon, 07 Mar 2022 06:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드POP=조은미 기자]가수 케이윌(K.will)이 품격이 다른 라이브를 선사했다. 케이윌은 지난 6일 공식 유튜브 채널을 통해 데뷔 15주년 기념 라이브 메들리 영상을 공개했다. 공개된 영상 속 케이윌은 '네]]></content:encoded>
+            <title><![CDATA[위클리 "180도 달라진 콘셉트, 두렵지 않았다면 거짓말" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003033890</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003033890</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[걸그룹 위클리(Weeekly)가 새로운 콘셉트에 대한 소화가 쉽지는 않았다고 밝혔다. 위클리는 7일 오후 4시 컴백 온라인 쇼케이스를 열었다. 위클리는 이날 오후 6시 주요 음원사이트를 통해 타이틀 곡 'Ven pa]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[BTS·세븐틴·저스틴 비버…하이브, 세계 음악시장 삼켰다 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000797636</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000797636</guid>
-            <pubDate>Mon, 07 Mar 2022 06:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 세계 음악시장 내 하이브의 막강한 영향력이 여실히 입증됐다. 국제음반산업협회(IFPI)가 최근 발표한 ‘2021 글로벌 아티스트 차트’와 ‘2021 글로벌 앨범 세일즈 차트’, ‘2021 글로벌 디지털]]></content:encoded>
+            <title><![CDATA[위클리 수진 “지윤 활동 중단, 건강하게 돌아올 수 있게 응원 부탁” (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000852440</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000852440</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[위클리 신지윤이 건강상의 이유로 이번 활동에 불참한다. 7일 오후 위클리(이수진, 먼데이, 지한, 신지윤, 박소은, 조아, 이재희)의 싱글 1집 ‘Play Game : AWAKE(플레이 게임 : 어웨이크)’ 발매 기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 크리스탈, '앙증맞은 미니백 들고' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0004799354</link>
-            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0004799354</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[[FN스타 이승훈 기자] 배우 정수정(크리스탈)이 7일 서울 여의도 KBS에서 진행된 KBS 2TV 새 월화드라마 '크레이지 러브' 제작발표회에 참석했다. 김재욱, 정수정, 하준이 출연하는 ‘크레이지 러브’는 살인을]]></content:encoded>
+            <title><![CDATA[가수로 돌아온 김우석 "편안한 꿈 위한 '인간 드림캐처' 될 것" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013036136</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013036136</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:29 GMT</pubDate>
+            <content:encoded><![CDATA['서드 디자이어 [레브]' 발표…"다음이 기대되는 배우·가수 목표" (서울=연합뉴스) 김예나 기자 = "이번 음반의 콘셉트인 '수면욕'에 걸맞게 편안한 꿈을 꾸라는 뜻에서 '꿈지기', '인간 드림캐처'가 되어 볼게요]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김우석, 요정같은 비주얼 [DA포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000964929</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000964929</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[7일, 가수 김우석의 새 앨범 ‘3RD DESIRE [Reve](서드 디자이어 레브)’ 발매 기념 온라인 쇼케이스가 진행됐다. 신보 ‘3RD DESIRE [Reve]’의 소재는 수면욕이다. 김우석은 ‘1ST DESI]]></content:encoded>
+            <title><![CDATA[반환점 돈 ‘기상청 사람들’…주목해야 할 포인트 셋 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000606536</link>
+            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000606536</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[JTBC 토일드라마 ‘기상청 사람들: 사내연애 잔혹사 편’(연출 차영훈, 극본 선영, 크리에이터 글Line&amp;강은경, 제작 앤피오엔터테인먼트, JTBC스튜디오, 이하 ‘기상청 사람들’)이 반환점을 돌았다. 날씨처럼 종]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 크리스탈, '다크 패션도 상큼하게 소화' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0004799352</link>
-            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0004799352</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[[FN스타 이승훈 기자] 배우 정수정(크리스탈)이 7일 서울 여의도 KBS에서 진행된 KBS 2TV 새 월화드라마 '크레이지 러브' 제작발표회에 참석했다. 김재욱, 정수정, 하준이 출연하는 ‘크레이지 러브’는 살인을]]></content:encoded>
+            <title><![CDATA[[T포토] 김우석 '1년만의 컴백' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001208982</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001208982</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[가수 김우석이 7일 온라인으로 진행된 김우석 새 앨범 '3RD DESIRE [Reve]'(서드 디자이어 레브) 발매 기념 쇼케이스에서 포즈를 취하고 있다. 한편, 앨범에는 타이틀곡 'Switch'(스위치)를 비롯해]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 크리스탈, '막찍어도 화보' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0004799351</link>
-            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0004799351</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[[FN스타 이승훈 기자] 배우 정수정(크리스탈)이 7일 서울 여의도 KBS에서 진행된 KBS 2TV 새 월화드라마 '크레이지 러브' 제작발표회에 참석했다. 김재욱, 정수정, 하준이 출연하는 ‘크레이지 러브’는 살인을]]></content:encoded>
+            <title><![CDATA[위클리 ‘벤 파라’, 하이틴 매력에 강렬함 더했다(종합) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000606535</link>
+            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000606535</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 위클리가 MZ세대의 당당함을 필두로 가요계 공략에 나선다. 위클리는 7일 오후 새 앨범 ‘플레이 게임 : 어웨이크(Play Game: AWAKE)’ 발매 기념 온라인 쇼케이스를 열고 약 7개월만에 컴백을 알렸다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김빈우 "아들, 새벽 분수토…코로나 완치 후 몸 약해진 느낌" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005954154</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005954154</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 김학진 기자 = 배우 김빈우가 새벽부터 아픈 아들에 대한 애틋한 마음을 전했다. 김빈우는 7일 인스타그램을 통해 "어제 이렇게 재밌게 잘 놀고 잘 먹고 했는데, 원이가 새벽에 잠을 뒤척이더니 침대에]]></content:encoded>
+            <title><![CDATA[로켓펀치 쥬리, 예쁜 손인사 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005954413</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005954413</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 권현진 기자 = 로켓펀치 쥬리가 7일 서울 양천구 목동SBS에서 진행되는 라디오 '웬디의 영스트리트' 주말 녹음을 위해 방송국으로 들어서며 인사를 하고 있다. 2022.3.7/뉴스1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이근 전 대위, 결국 우크라이나 도착 "여권 무효화? 지원 생각하길" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003033868</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003033868</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[해군특수전전단(UDT/SEAL) 출신 이근 전 대위가 우크라이나에 도착했음을 알렸다. 이근은 7일 자신의 유튜브 채널 'ROKSEAL' 커뮤니티 게시판을 통해 "외교부, 저의 팀은 우크라이나 무사히 도착했습니다. 시]]></content:encoded>
+            <title><![CDATA[연희, 핑크빛 하트 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005954414</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005954414</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 권현진 기자 = 로켓펀치 연희가 7일 서울 양천구 목동SBS에서 진행되는 라디오 '웬디의 영스트리트' 주말 녹음을 위해 방송국으로 들어서며 인사를 하고 있다. 2022.3.7/뉴스1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[하이브 레이블즈, IFPI 4개 차트 상위권 장악 "영향력 입증" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000291692</link>
-            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000291692</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[세계 음악시장 내 하이브의 막강한 영향력이 또 입증됐다. 국제음반산업협회(IFPI)가 최근 발표한 2021 글로벌 아티스트 차트·2021 글로벌 앨범 세일즈 차트·2021 글로벌 디지털 싱글 차트·2021 글]]></content:encoded>
+            <title><![CDATA[유노윤호, 경북·강원 산불 피해에 5천만원 기부 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000852445</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000852445</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[가수 유노윤호가 산불 피해 구호를 위해 선한 영향력을 펼쳤다. 동방신기 유노윤호는 7일 사랑의열매 사회복지공동모금회(회장 조흥식)에 최근 산불이 일어난 경북과 강원 등 피해지역 구호를 위해 5천만 원을 기부했다. 유]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 크리스탈, '우월한 비율' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0004799349</link>
-            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0004799349</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[[FN스타 이승훈 기자] 배우 정수정(크리스탈)이 7일 서울 여의도 KBS에서 진행된 KBS 2TV 새 월화드라마 '크레이지 러브' 제작발표회에 참석했다. 김재욱, 정수정, 하준이 출연하는 ‘크레이지 러브’는 살인을]]></content:encoded>
+            <title><![CDATA[김혜수, 산불 피해 복구 위해 1억 기부…따뜻한 선행 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003839243</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003839243</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 정빛 기자] 배우 김혜수가 경북 울진과 강원 삼척 등 산불 피해지역 복구를 위해 1억 원을 내놨다. 김혜수는 최근 희망브리지 전국재해구호협회에 기부금 1억 원을 전달했다. 김혜수의 기부금은 경북 울진과]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토]위클리, 중독성 있는 안무 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004931332</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004931332</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 위클리가 7일 오후 온라인 생중계로 진행된 싱글 1집 'Play Game : AWAKE'(플레이 게임 : 어웨이크) 발매기념 쇼케이스에서 신곡을 공개해고 있다. [사진제공 = IST엔터]]]></content:encoded>
+            <title><![CDATA[이지아, 관리를 어떻게 했길래…숏팬츠로 드러난 美친 각선미 [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000534316</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000534316</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=노규민 기자] 배우 이지아가 독보적인 몸매로 시선을 강탈했다. 이지아는 7일 자신의 인스타그램에 짧은 영상을 게재했다. 영상 속 이지아는 한 촬영장에서 하얀색 슬리브리스 톱에 숏팬츠를 입고 여러 포즈를 취]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[배성재 코로나19 확진…'골때녀' '국대다' 이상無 (공식입장) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001710748</link>
-            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001710748</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[방송인 배성재 씨가 코로나19에 확진됐다. 7일 SBS 파워FM '배성재의 텐' 측은 공식 홈페이지를 통해 DJ 배성재 씨의 코로나19 확진 소식을 알렸다. 이에 배성재의 빈 자리는 스페셜DJ 넉살 씨가 대신 한다.]]></content:encoded>
+            <title><![CDATA[김혜수, 기부 동참… 산불 피해 주민 위해 1억 원 기부 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001710781</link>
+            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001710781</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김혜수 씨가 경북 울진·강원 삼척 등 산불 피해 이웃돕기를 위해 희망브리지 재해구호협회에 성금 1억 원을 기부하며, 따뜻한 기부 행렬에 동참했다. 희망브리지 전국재해구호협회는 배우 김혜수 씨가 특별재난지역으로]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아유미, 택시 타고 훈훈한 팬서비스 "기사님 행복하세요" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004931329</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004931329</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 슈가 출신 아유미가 택시 기사에게 훈훈한 팬서비스를 제공했다. 7일 아유미는 자신의 인스타그램 스토리에 "택시 타는데 편지 써 달라고 하셔서 써봄. 이런 건 처음이다. 기사님 행복하세요♥"라는 문구와 함께 사진]]></content:encoded>
+            <title><![CDATA[트레저 지훈, 잘생김 반짝반짝 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005954382</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005954382</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 권현진 기자 = 트레저 지훈이 7일 서울 양천구 목동SBS에서 진행되는 라디오 파워FM '박소현의 러브게임' 주말녹음을 위해 방송국으로 들어서며 인사를 하고 있다. 2022.3.7/뉴스1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[우크라 침공] 이근 전 대위 "우크라이나 무사히 도착" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013035873</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013035873</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 김정진 기자 = 최근 우크라이나 의용군으로 참전하기 위해 출국했다고 밝힌 해군특수전전단(UDT/SEAL) 대위 출신 이근 씨가 우크라이나에 도착했다고 주장했다. 이 전 대위는 7일 자신의 인스타그램]]></content:encoded>
+            <title><![CDATA[박소현, 청순미 흩날리며 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005954381</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005954381</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 권현진 기자 = 방송인 박소현이 7일 서울 양천구 목동SBS에서 진행되는 라디오 파워FM '박소현의 러브게임'을 위해 방송국으로 들어서고 있다. 2022.3.7/뉴스1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[하성운 팬카페 인클라우드, 울진·강원 산불재해 성금 기부 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=030&amp;aid=0003002566</link>
-            <guid>https://entertain.naver.com/now/read?oid=030&amp;aid=0003002566</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[가수 하성운의 팬덤이 기부모금과 함께, 아티스트에 대한 선한 애정을 표현했다. 7일 하성운 네이버 팬카페 인클라우드 측은 해피빈을 통해 전국재해구호협회 '경북 울진·강원지역 산불' 구호모금에 343만2800원을 기부]]></content:encoded>
+            <title><![CDATA[[T포토] 현석 '기분좋은 출근길' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001208980</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001208980</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 트레저 현석이 7일 오후 SBS 파워FM '박소현의 러브게임' 라디오 방송을 위해 서울 양천구 목동 SBS 사옥에 들어서고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 크리스탈, '작은 얼굴에 꽉찬 예쁨' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0004799347</link>
-            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0004799347</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[[FN스타 이승훈 기자] 배우 정수정(크리스탈)이 7일 서울 여의도 KBS에서 진행된 KBS 2TV 새 월화드라마 '크레이지 러브' 제작발표회에 참석했다. 김재욱, 정수정, 하준이 출연하는 ‘크레이지 러브’는 살인을]]></content:encoded>
+            <title><![CDATA['황의조와 열애설' 효민, 군살 제로 워너비 라인에 만족 못하네 "나가 운동해"[TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000534315</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000534315</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=강민경 기자] 그룹 티아라 효민이 일상을 공유했다. 효민은 7일 자신의 인스타그램에 "요리하면 매일 네가 다 먹으니까 얼른 나가 운동해"라는 글과 함께 여러 장의 사진, 동영상을 게재했다. 공개된 사진,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토]위클리, 긍정적인 에너지 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004931328</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004931328</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 위클리가 7일 오후 온라인 생중계로 진행된 싱글 1집 'Play Game : AWAKE'(플레이 게임 : 어웨이크) 발매기념 쇼케이스에서 신곡을 공개해고 있다. [사진제공 = IST엔터]]]></content:encoded>
+            <title><![CDATA[[T포토] 지훈 '인사를 꾸벅' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001208979</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001208979</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 트레저 지훈이 7일 오후 SBS 파워FM '박소현의 러브게임' 라디오 방송을 위해 서울 양천구 목동 SBS 사옥에 들어서고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[정시아, 백도빈♥과 결혼 14주년..."감사 감사 감사" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004931327</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004931327</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[배우 정시아가 남편 백도빈과 결혼 14주년을 맞아 감사한 마음을 전했다. 정시아는 7일 자신의 인스타그램 스토리에 "결혼한지 벌써 14년"이라는 짧은 글과 함께 사진 한 장을 게재했다. 사진에는 꽃다발이 담겨 있다.]]></content:encoded>
+            <title><![CDATA[[뉴스1 ★]정수정, 봄을 부르는 '美'친 미모 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005954379</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005954379</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 권현진 기자 = 배우 정수정(활동명 크리스탈)이 봄을 부르는 ‘美’친 미모로 시선을 싹쓸이 했다. 정수정은 7일 오후 서울 영등포구 KBS 별관에서 배우 김재욱, 하준과 함께 드라마 ‘크레이지 러브’]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토]위클리 수진, 사랑스러운 분위기 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004931325</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004931325</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 위클리가 7일 오후 온라인 생중계로 진행된 싱글 1집 'Play Game : AWAKE'(플레이 게임 : 어웨이크) 발매기념 쇼케이스에서 포토타임을 갖고 있다. [사진제공 = IST엔터]]]></content:encoded>
+            <title><![CDATA[김혜수, 산불 피해 주민 위해 1억원 기부[공식] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004931374</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004931374</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타 김혜수도 산불 피해 주민들을 위해 선행에 나섰다. 7일 김혜수 소속사 측은 매일경제 스타투데이에 “김혜수 배우가 희망브리지 재해구호협외에 1억 원을 기부했다. 조금이라도 도움이 되길 바라는 마음”이라고 밝혔다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[윤남기, ♥이다은 미니미 리은과 알콩달콩 놀이…꿀 떨어지는 눈빛 [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000534300</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000534300</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=김지원 기자] 이다은·윤남기가 단란한 가족의 모습으로 훈훈함을 자아냈다. 윤남기는 7일 자신의 인스타그램에 "리은이랑 놀기 #남리"라고 글을 올렸다. 함께 게시한 사진과 영상에서 윤남기는 리은 양과 놀아주]]></content:encoded>
+            <title><![CDATA[[T포토] 현석 '범상치 않은 패션' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001208978</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001208978</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 트레저 현석이 7일 오후 SBS 파워FM '박소현의 러브게임' 라디오 방송을 위해 서울 양천구 목동 SBS 사옥에 들어서고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토]위클리 조아, 빛나는 여신 비주얼 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004931324</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004931324</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 위클리가 7일 오후 온라인 생중계로 진행된 싱글 1집 'Play Game : AWAKE'(플레이 게임 : 어웨이크) 발매기념 쇼케이스에서 포토타임을 갖고 있다. [사진제공 = IST엔터]]]></content:encoded>
+            <title><![CDATA[[T포토] 현석-지훈 '나란히 파이팅' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001208977</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001208977</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 트레저 현석, 지훈이 7일 오후 SBS 파워FM '박소현의 러브게임' 라디오 방송을 위해 서울 양천구 목동 SBS 사옥에 들어서며 포즈를 취하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 크리스탈, '빠져드는 매력' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0004799343</link>
-            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0004799343</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[[FN스타 이승훈 기자] 배우 정수정(크리스탈)이 7일 서울 여의도 KBS에서 진행된 KBS 2TV 새 월화드라마 '크레이지 러브' 제작발표회에 참석했다. 김재욱, 정수정, 하준이 출연하는 ‘크레이지 러브’는 살인을]]></content:encoded>
+            <title><![CDATA['돌싱2' 김은영, 파격 비키니 바디프로필…"41.9㎏, 오늘 인바디" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005954371</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005954371</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 김학진 기자 = MBN '돌싱글즈2'로 화제를 모은 김은영이 다이어트에 성공한 근황을 알렸다. 지난 6일 김은영은 자신의 인스타그램을 스토리를 통해 "즐거운 주말 보내고 계시나요"라며 "드디어 저 바]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토]위클리 소은, 러블리한 매력 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004931322</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004931322</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 위클리가 7일 오후 온라인 생중계로 진행된 싱글 1집 'Play Game : AWAKE'(플레이 게임 : 어웨이크) 발매기념 쇼케이스에서 포토타임을 갖고 있다. [사진제공 = IST엔터]]]></content:encoded>
+            <title><![CDATA[배수진, ‘결혼 전제’ ♥남친과 달달 데이트…子 래윤도 함께 [스타★샷] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000606534</link>
+            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000606534</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[유튜버 배수진이 남자친구와 데이트를 즐겼다. 7일 배수진은 자신의 인스타그램 스토리에 별다른 멘트 없이 사진 한장을 게재했다. 공개된 사진에는 배수진의 남자친구와 아들 래윤의 모습이 담겼다. 두 사람은 손을 맞잡은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[장원영, 인형 같은 9등신 비율+미모 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004931321</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004931321</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[장원영이 인형 같은 외모를 선보였다 그룹 아이브 장원영은 7일 인스타그램에 "프라다의 삼각형 로고를 연상시키는 프라다 트라이앵글백, Check out"라는 홍보글과 함께 사진 여러 장을 게재했다. 사진 속 장원영은]]></content:encoded>
+            <title><![CDATA[안영미, 자가진단 ‘양성’…‘두데’ 불참 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001647218</link>
+            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001647218</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[방송인 안영미가 자가진단 검사에서 양성 반응이 나와 ‘두데’에 불참했다. 7일 오후 방송된 MBC FM4U ‘두시의 데이트 뮤지, 안영미입니다’(이하 ‘두데’)에서는 안영미가 불참했다. 앞서 ‘두데’ 측은 공식 인스]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박세리, 강백호에 “촬영하기 싫어?” 돌직구 사연은? (작전타임) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000964927</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000964927</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[메이저리그가 탐내는 대한민국의 야구계의 괴물루키! KT 위즈 천재 타자 강백호가 KBS2 '우리끼리 작전타임‘에 전격 출연, TV 최초로 가족의 일상을 공개했다. 강백호의 출연 소식에 MC 박세리는 “너 기분 안 좋]]></content:encoded>
+            <title><![CDATA[신예 최영우, 빅픽처엔터테인먼트→‘지금부터, 쇼타임!’ 합류 겹경사 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000606532</link>
+            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000606532</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[신예 최영우가 빅픽처엔터테인먼트와 전속계약 체결과 함께 MBC 드라마 ‘지금부터, 쇼타임!’ 합류 소식을 알렸다. 7일 소속사 빅픽처엔터테인먼트는 “배우 최영우와 전속계약을 체결하며 한 가족이 되어 기쁘다. 무한한]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 크리스탈, '스타일리쉬한 패션' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0004799342</link>
-            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0004799342</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[[FN스타 이승훈 기자] 배우 정수정(크리스탈)이 7일 서울 여의도 KBS에서 진행된 KBS 2TV 새 월화드라마 '크레이지 러브' 제작발표회에 참석했다. 김재욱, 정수정, 하준이 출연하는 ‘크레이지 러브’는 살인을]]></content:encoded>
+            <title><![CDATA[박소현, 최강 동안 미인 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005954368</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005954368</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 권현진 기자 = 방송인 박소현이 7일 서울 양천구 목동SBS에서 진행되는 라디오 파워FM '박소현의 러브게임'을 위해 방송국으로 들어서며 인사를 하고 있다. 2022.3.7/뉴스1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[블랙핑크 로제, 마릴린먼로 같은 금발도 찰떡 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004931318</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004931318</guid>
-            <pubDate>Mon, 07 Mar 2022 07:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 블랙핑크 로제가 금발머리를 찰떡 소화했다. 7일 로제는 자신의 인스타그램에 별다른 문구 없이 사진 여러 장을 게재했다. 로제가 패션 매거진 '데이즈드 코리아' 3월호와 함께한 화보 사진이다. 사진 속 로제는 롱]]></content:encoded>
+            <title><![CDATA[박소현, 언제나 젊음 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005954367</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005954367</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 권현진 기자 = 방송인 박소현이 7일 서울 양천구 목동SBS에서 진행되는 라디오 파워FM '박소현의 러브게임'을 위해 방송국으로 들어서며 인사를 하고 있다. 2022.3.7/뉴스1]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[러시아 군과 교전 중 전사… 고려인 배우 파샤 리 '향년 33세' (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000792018</link>
+            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000792018</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[우크라이나의 고려인 배우 파블로 리(이하 파샤 리)가 향년 33세 나이로 교전 중 전사했다. 우크라이나 언론은 지난 6일(이하 현지시각) 키이우 외곽에서 러시아군에 맞서 싸우던 파블로 리(파샤 리)가 교전 도중 사망]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[톱배우가 말이 돼?…'탈세 논란' 판빙빙, OOO서 목격 '충격' (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000792002</link>
+            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000792002</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[중국 톱스타 배우 판빙빙의 근황이 주목받고 있다. 다수의 중화권 매체는 6일 JTBC 드라마 '인사이더'에 출연하는 판빙빙이 한국에서 포착됐다고 보도했다. 이날 중국 SNS 웨이보에는 판빙빙이 촬영 중인 사진이 확산]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[고려인 배우 파샤 리, 러시아군과 교전 중 전사…추모 행렬 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001417974</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001417974</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) 우크라이나의 고려인 배우 파샤 리가 전사했다는 소식이 전해졌다. 박노자 오슬로대 교수는 7일 자신의 페이스북을 통해 "우크라이나 태생 소피에트 한국인(고려인) 배우 파샤 리가 이르핀에서]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[레오나르도 디카프리오 ‘외조모 조국’ 우크라에 120억 기부 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003673754</link>
+            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003673754</guid>
+            <pubDate>Mon, 07 Mar 2022 08:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[할리우드 배우 레오나르도 디카프리오(사진)가 우크라이나에 122억원을 기부했다. 7일(현지시간) 체코, 슬로바키아, 폴란드, 헝가리 4개국의 협력기구 비셰그라드 그룹(V4)의 뉴스를 전하는 매체는 레오나르도 디카프리]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[박소은 '톡톡 튀는 비주얼' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
@@ -1586,34 +1614,6 @@
             <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005952841</guid>
             <pubDate>Mon, 07 Mar 2022 02:12:24 GMT</pubDate>
             <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 할리우드 배우 크리스틴 스튜어트가 고혹적인 매력을 뽐냈다. 미국 연예매체 스플래시닷컴은 최근 2022 산타바바라 국제 영화제에서 크리스틴 스튜어트를 포착했다. 사진에서 크리스틴 스튜어]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['에이리언' 신작, 훌루 오리지널로 공개…시리즈 리부트되나 [엑's 할리우드] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001417822</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001417822</guid>
-            <pubDate>Mon, 07 Mar 2022 02:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) '에이리언' 시리즈의 새로운 작품이 제작된다. 4일(현지시간) 미국 할리우드 리포터(THR)는 20세기 스튜디오가 리들리 스콧 감독의 제작사 스콧 프리와 손잡고 훌루(hulu)를 통해 공]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이정재, 美독립영화상 남우주연상…"시즌2 조금만 기다려달라"(종합) (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013034453</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013034453</guid>
-            <pubDate>Mon, 07 Mar 2022 02:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 '미나리' 윤여정 여우조연상 이어 한국배우 2년 연속 수상 (서울=연합뉴스) 강애란 기자 = 배우 이정재(50)가 넷플릭스 시리즈 '오징어 게임'으로 미국 독립영화 시상식에서 또다시 수상 소식을 알렸다. 이정]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["전 배우 남편이 첫 데이트서 약 먹이고 성폭행" 88세 여배우 고백 [Oh!llywood] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004568483</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004568483</guid>
-            <pubDate>Mon, 07 Mar 2022 00:55:37 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자] 영화 '앤 더 위너 이즌트', '제리' 등에서 주연을 맡은 배우 조안 콜린스(88)가 자신의 첫 남편한테 당했던 끔찍한 학대에 대해 털어놨다. 콜린스는 최근 BBC2의 성폭력 다큐멘터리 영화]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이정재, 미국독립영화상 '스피릿 어워즈' 남우주연상 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013034163</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013034163</guid>
-            <pubDate>Mon, 07 Mar 2022 00:55:37 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 '미나리' 윤여정 여우조연상 이어 한국배우 2년 연속 수상 (서울=연합뉴스) 강애란 기자 = 배우 이정재(50)가 넷플릭스 시리즈 '오징어 게임'으로 미국 독립영화 시상식에서 또다시 수상 소식을 알렸다. 이정]]></content:encoded>
         </item>
     </channel>
 </rss>
