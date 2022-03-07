@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-07T17:19:19.981Z</updated>
+    <updated>2022-03-07T18:17:32.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블랙핑크 리사, 3번째 포토북 출간…"환경보호소재로 제작"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011048912</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011048912"/>
+        <updated>2022-03-07T18:17:16.723Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 그룹 '블랙핑크' 리사가 직접 찍은 사진을 모은 세 번째 포토북 '[0327] VOL.03'이 28일 출시된다. '0327'은 리사의 생일을 의미한다. 리사는 지난 2020년부터 '03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한동근, 모세 '사랑인걸' 다시 부른다…13일 발매]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003033975</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004671567"/>
         <updated>2022-03-07T10:17:07.619Z</updated>
         <content type="html"><![CDATA[그룹 위클리(Weeekly)가 7일 오후 온라인으로 진행된 싱글 1집 '플레이 게임 : 어웨이크(Play Game: AWAKE)' 발매 기념 쇼케이스에서 수록곡 '솔라(Solar)' 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HK영상｜위클리, 도도한 모습으로 깜짝 변신…타이틀곡 '벤 파라(Ven para)' 무대]]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004671566</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004671566"/>
-        <updated>2022-03-07T10:17:07.621Z</updated>
-        <content type="html"><![CDATA[그룹 위클리(Weeekly)가 7일 오후 온라인으로 진행된 싱글 1집 '플레이 게임 : 어웨이크(Play Game: AWAKE)' 발매 기념 쇼케이스에서 타이틀곡 '벤 파라(Ven para)' 공연을 펼치고 있다.]]></content>
     </entry>
 </feed>
