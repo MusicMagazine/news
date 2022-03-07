@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-07T15:14:53.347Z</updated>
+    <updated>2022-03-07T16:20:03.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[템페스트, '심플리 케이팝'에 몰아친 일곱 폭풍]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003033973</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003033973"/>
+        <updated>2022-03-07T16:19:48.149Z</updated>
+        <content type="html"><![CDATA[7인조 신예 템페스트(TEMPEST)가 글로벌 팬들에게 강렬하게 휘몰아쳤다. 템페스트(한빈, 형섭, 혁, 은찬, 루, 화랑, 태래)는 7일 오후 방송된 아리랑TV '심플리 케이팝'에 출연해 데뷔 앨범 'It's ME]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[현아, 코로나19 확진…"모든 일정 중단"]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011048894</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004671565"/>
         <updated>2022-03-07T10:17:07.623Z</updated>
         <content type="html"><![CDATA[가수 김우석이 7일 오후 온라인으로 진행된 세 번째 앨범 '서드 디자이어 레브(3RD DESIRE Reve)' 발매 기념 쇼케이스에서 타이틀곡 'Switch(스위치)' 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[영상] 방탄소년단 콘서트에 특허청도 출동…위조상품 때문에]]></title>
-        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013036356</id>
-        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013036356"/>
-        <updated>2022-03-07T10:17:07.624Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 그룹 방탄소년단(BTS)이 2년 반 만에 서울에서 3일간 대면 콘서트를 엽니다. 벌써부터 위조 상품이 유통되는 등 열기가 과열되자 공연 당일 현장에서 단속에 나서기로 했습니다. 특허청은 오는 10일부터 3일간 서울 올림픽 주경기장에서 열리는 방탄소년단 콘서트 현장에서 방탄소년단 기획사인 '하이브'와 함께...]]></content>
     </entry>
 </feed>
