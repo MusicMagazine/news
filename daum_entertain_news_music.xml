@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-03-08T11:13:17.316Z</updated>
+    <updated>2022-03-08T12:24:43.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스윗소로우 9일 신곡 '한 걸음' 발표]]></title>
+        <id>https://entertain.v.daum.net/v/20220308203615266</id>
+        <link href="https://entertain.v.daum.net/v/20220308203615266"/>
+        <updated>2022-03-08T12:24:05.574Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 가수 스윗소로우(SWEET SORROW)가 신곡 '한 걸음'을 발매한다. 스윗소로우는 9일 오후 6시 'THE M(더 엠)' 프로젝트의 일환으로 신곡 '한 걸음'을 공개한다. 뮤직 스토리텔링 프로젝트 'THE M'은 그동안 많은 대중에게 사랑받았던 소설, 드라마, 영화 등의 원작을 토대로 만들어진 음악과 이야기를 그림에 담는 시리즈 프로젝트로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비오, 빅플래닛메이드·스윙엔터 품으로]]></title>
         <id>https://entertain.v.daum.net/v/20220308191859070</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220308143323444"/>
         <updated>2022-03-08T06:17:35.776Z</updated>
         <content type="html"><![CDATA[[동아닷컴] 그룹 방탄소년단의 콘서트 'BTS PERMISSION TO DANCE ON STAGE - SEOUL'가 이틀 앞으로 다가왔다. 방탄소년단은 오는 10일과 12~13일 서울 잠실종합운동장 주경기장에서 'BTS PERMISSION TO DANCE ON STAGE - SEOUL'을 개최한다. 이들은 지난해 11월 말~12월 초 미국 로스앤젤레스에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[효민 "올해 초 황의조와 열애는 사실..현재는 결별, 서로 응원하기로"]]></title>
-        <id>https://entertain.v.daum.net/v/20220308143157382</id>
-        <link href="https://entertain.v.daum.net/v/20220308143157382"/>
-        <updated>2022-03-08T06:17:35.776Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 조지영 기자] 가수 효민이 축구선수 황의조와 열애에 대해 3달 만에 입장을 밝혔다. 효민은 "지난 1월 보도된 열애 기사와 관련해 입장을 전한다"며 "당시 (황의조와) 서로 좋은 감정을 가지고 만나는 과정이었으나 부담되는 상황으로 인해 자연스레 소원해졌고 지금은 서로를 응원하는 사이가 되기로 했다"고 결별을 알렸다. 앞서 효민은]]></content>
     </entry>
 </feed>
