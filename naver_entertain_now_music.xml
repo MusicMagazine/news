@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-08T15:16:33.518Z</updated>
+    <updated>2022-03-08T16:21:46.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[손호영(SHY), 26일 생일 당일 팬들과 '물오름달 스물엿새' 개최]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003034284</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003034284"/>
+        <updated>2022-03-08T16:21:32.435Z</updated>
+        <content type="html"><![CDATA[가수 겸 배우 손호영(SHY)이 올해 생일을 팬들과 함께 맞이한다. 손호영은 오는 26일 생일 당일에 팬들과 함께하는 온·오프라인 다솜모임 '물오름달 스물엿새'를 개최한다. 이를 알리는 포스터 이미지를 공개했다. ']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['나윤권·키썸' 소속사, 첫 보이그룹 나인아이 론칭…세계관 티저 공개]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000136659</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004569200"/>
         <updated>2022-03-08T09:16:13.295Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] 신인 그룹 빌리(Billlie)가 딩고 '무브렉'을 통해 신곡 안무 비하인드 스토리를 공개했다. 딩고 글로벌 채널 DGG는 지난 7일 오후 7시 공식 유튜브 채널을 통해 빌리의 '무브렉' 영]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 안영미, 코로나 확진→송우진·노중훈 '두데' 대체DJ]]></title>
-        <id>https://entertain.naver.com/now/read?oid=052&amp;aid=0001711331</id>
-        <link href="https://entertain.naver.com/now/read?oid=052&amp;aid=0001711331"/>
-        <updated>2022-03-08T09:16:13.316Z</updated>
-        <content type="html"><![CDATA[개그우먼 안영미 씨의 코로나19 확진으로 MBC FM4U '두시의 데이트'(이하 '두데') 대체 DJ가 결정됐다. 8일 MBC 측은 YTN Star에 "오는 10, 11일은 스윗소로우 송우진, 12일과 13일은 노중]]></content>
     </entry>
 </feed>
