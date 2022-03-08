@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 05:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 06:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세븐틴 디노-승관, 독보적인 창작 안무 공개!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=196023</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=196023</guid>
+            <pubDate>Tue, 08 Mar 2022 06:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=196023">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220308142923_9cd5cfe1c4ec2f12ff3440885948fdb8.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196023">세븐틴 디노-승관, 독보적인 창작 안무 공개!</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220308142923_9cd5cfe1c4ec2f12ff3440885948fdb8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴이스트 냉미남 황민현, 완벽한 비주얼 포토 공개...팬들 심장 향해 활 조준!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=195951</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=194990">소유, 첫 단독 콘서트 '더 라이브 : 나잇'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220302141416_19ff9b2e3158a1869ee9c1381a8e97b3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가수 이석훈, 정규 1집 내는 사람 "나야 나~"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=194917</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=194917</guid>
-            <pubDate>Wed, 02 Mar 2022 00:53:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=194917">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220302094456_af82690efe9f7519d24bdd264addd889.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=194917">가수 이석훈, 정규 1집 내는 사람 "나야 나~"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220302094456_af82690efe9f7519d24bdd264addd889.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
