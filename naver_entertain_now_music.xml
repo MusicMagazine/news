@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-08T17:17:07.724Z</updated>
+    <updated>2022-03-08T18:18:49.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[밴드 소란, 3년 만에 대면 공연…"AR 포토존 운영"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011051838</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011051838"/>
+        <updated>2022-03-08T18:18:32.527Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]김주희 인턴 기자 = 밴드 '소란'의 소극장 콘서트 '퍼펙트 데이 8(Perfect Day 8)'가 3년 만에 대면 공연으로 펼쳐진다. 9일 소속사 해피로봇 레코드에 따르면 '퍼펙트 데이 8'은 오는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[몬스타엑스 기현, '보이저' 마지막 콘셉트 화보 '자유 여행자']]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003034288</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004569204"/>
         <updated>2022-03-08T10:15:18.800Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] 명품 보컬 가수 더원(THE ONE)이 배우이자 감독으로 활동중인 김승우의 첫 번째 단막극 연출작인 '더 드라이버'를 통해 공개 된 OST를 오늘 저녁 6시 발표했다. ‘더 드라이버’는 직장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[믿고 듣는 선우정아, 강승원 프로젝트 합류..봄 시즌송 '봄바람' 발매 [공식]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004569202</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004569202"/>
-        <updated>2022-03-08T09:16:13.291Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] 국내 유명 음악감독이자 뮤지션 강승원의 신곡이 발매된다. 8일 오후 6시 각종 온라인 음원사이트를 통해 발매되는 강승원 2집 프로젝트의 네 번째 곡 ‘봄바람 (Spring Breeze)’은]]></content>
     </entry>
 </feed>
