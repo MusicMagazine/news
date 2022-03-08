@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-08T20:17:17.975Z</updated>
+    <updated>2022-03-08T21:15:37.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[10일 개막 방탄소년단 서울 콘서트, 무엇이 달라지나]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003034293</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003034293"/>
+        <updated>2022-03-08T21:15:20.326Z</updated>
+        <content type="html"><![CDATA[그룹 방탄소년단의 콘서트 'BTS PERMISSION TO DANCE ON STAGE - SEOUL'가 10일 개막한다. 방탄소년단(RM, 진, 슈가, 제이홉, 지민, 뷔, 정국)은 10일과 12~13일 서울 잠실종]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[밴드 소란, 3년 만에 대면 공연…"AR 포토존 운영"]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011051838</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003034227"/>
         <updated>2022-03-08T10:15:18.799Z</updated>
         <content type="html"><![CDATA[빅플래닛메이드, 스윙엔터테인먼트가 산이가 수장으로 있는 페임어스와 합작하여 새로운 아티스트를 영입했다. 8일 오후 빅플래닛메이드(Big Planet Made, BPM) 공식 SNS를 통해 비오의 프로필 사진이 전격]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['OST 장인' 더원, '절친' 김승우 연출작 '더 드라이버' OST 발표]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004569204</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004569204"/>
-        <updated>2022-03-08T10:15:18.800Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] 명품 보컬 가수 더원(THE ONE)이 배우이자 감독으로 활동중인 김승우의 첫 번째 단막극 연출작인 '더 드라이버'를 통해 공개 된 OST를 오늘 저녁 6시 발표했다. ‘더 드라이버’는 직장]]></content>
     </entry>
 </feed>
