@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-09T17:17:00.094Z</updated>
+    <updated>2022-03-09T18:29:16.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단, 오늘 콘서트…'포스트 코로나' K팝공연 분기점 될까]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011054203</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011054203"/>
+        <updated>2022-03-09T18:29:01.020Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 하이브의 '하이브리드 공연' 전략 주목 [서울=뉴시스]이재훈 기자 = 그룹 '방탄소년단'(BTS)이 2년5개월 만에 여는 서울 대면 콘서트를 연다. 포스트 코로나19 시대를 여는 K팝 콘서트의 분기점이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[체리블렛, 초동 신기록…'체리 위시' 전작보다 3배↑]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011054093</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004569715"/>
         <updated>2022-03-09T09:16:15.896Z</updated>
         <content type="html"><![CDATA[[OSEN=박판석 기자] 그룹 체리블렛(해윤 유주 보라 지원 레미 채린 메이)의 새 앨범 'Cherry Wish'가 전작의 약 3배 이상 상승한 초동 판매량을 기록하며 자체 최고 기록을 달성했다. 국내 음반 판매량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스윗소로우, 신곡 '한걸음' 오늘(9일) 발매…명품 하모니]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001418830</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001418830"/>
-        <updated>2022-03-09T09:16:15.897Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 그룹 스윗소로우(SWEET SORROW)가 프로젝트 'THE M(더 엠)'의 네 번째 주자로 나서 명품 보컬 하모니를 선사한다. 9일 오후 6시 각종 온라인 음원사이트를 통해 스윗소로우]]></content>
     </entry>
 </feed>
