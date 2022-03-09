@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 22:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 23:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[선거방송 등장한 걸그룹 woo!ah!(우아!), '투표 요정' 변신]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/340381</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/340381</guid>
+            <pubDate>Wed, 09 Mar 2022 23:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/340381">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/10/tORrGLp6x6s6637824951720876276.jpg" alt="선거방송 등장한 걸그룹 woo!ah!(우아!), '투표 요정' 변신">        <div class="text-box">            <p class="summary">선거방송 등장한 걸그룹 woo!ah!(우아!), '투표 요정' 변신</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/10/tORrGLp6x6s6637824951720876276.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빌리, ‘긴가민가요’로 컴백! 문수아, 코로나19 확진 문빈에 “아프지 마” (쇼챔)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/340378</link>
@@ -86,14 +94,6 @@
             <pubDate>Tue, 08 Mar 2022 09:15:49 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/340323">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/08/e95527e6-cac8-4395-ba53-23d8dc1edccb.jpg" alt="'방과후 설렘' 클라씨, 오늘 음악방송 종료 후 인스타 라이브 진행">        <div class="text-box">            <p class="summary">'방과후 설렘' 클라씨, 오늘 음악방송 종료 후 인스타 라이브 진행</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/08/e95527e6-cac8-4395-ba53-23d8dc1edccb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 블랙핑크 지수, '심쿵 눈맞춤']]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/340320</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/340320</guid>
-            <pubDate>Tue, 08 Mar 2022 08:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/340320">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/08/da8f63ce-a5fc-412e-a8d5-fd5d44d20761.jpg" alt="[포토] 블랙핑크 지수, '심쿵 눈맞춤'">        <div class="text-box">            <p class="summary">[포토] 블랙핑크 지수, '심쿵 눈맞춤'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/08/da8f63ce-a5fc-412e-a8d5-fd5d44d20761.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
