@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-10T15:17:30.075Z</updated>
+    <updated>2022-03-10T16:22:45.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[영상] "심장 터질 것 같아"…아미 앞에 선 BTS, 훨훨 날았다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013045020</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013045020"/>
+        <updated>2022-03-10T16:22:27.739Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) "아우, 심장이 터질 것 같아." 2년 반 만에 만난 아미에게 방탄소년단이 건넨 첫마디는 멤버들이 이날을 얼마나 기다려왔는지 느끼게 했습니다. 정확히 864일. 2019년 10월을 마지막으로 한국에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하성운, 생일 파티 'Cotton Candy' 10분 만에 전석 매진]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004570355</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000798494"/>
         <updated>2022-03-10T12:24:48.757Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 그룹 방탄소년단 지민이 ‘팬바보’ 면모를 보였다. 방탄소년단은 10일 서울 잠실종합운동장 주경기장에서 ‘퍼미션 투 댄스 온 스테이지 - 서울’ 공연을 개최했다. 이날 공연은 지난 2019년 10월 서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단 RM “박수 받는 공연, 역사에 남을 것”]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000798492</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000798492"/>
-        <updated>2022-03-10T12:24:48.758Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 그룹 방탄소년단이 2년 반 만에 서울에서 콘서트를 개최한 소감을 전했다. 방탄소년단은 10일 서울 잠실종합운동장 주경기장에서 ‘퍼미션 투 댄스 온 스테이지 - 서울’ 공연을 개최했다. 이날 공연은 지난]]></content>
     </entry>
 </feed>
