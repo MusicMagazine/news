@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-11T17:19:17.328Z</updated>
+    <updated>2022-03-11T18:19:09.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수란, '플렌즈' 두번째 OST 부른다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011058489</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011058489"/>
+        <updated>2022-03-11T18:18:51.475Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]김주희 인턴 기자 = 가수 수란이 드라마 '플렌즈 서연대 22학번 편' 두 번째 OST에 참여했다. 플레이리스트 제작 '플렌즈'의 두 번째 OST '오늘은 고백할래'는 12일 오후 6시에 공개된다. 특]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강승윤, 솔로 신곡 'BORN TO LOVE YOU' 뮤비 티저 공개]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003034989</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003034935"/>
         <updated>2022-03-11T09:16:19.257Z</updated>
         <content type="html"><![CDATA[싱어송라이터 박원이 2년여 만에 단독 콘서트를 개최하고 팬들과 특별한 만남을 갖는다. 박원 소속사 어비스컴퍼니는 11일 공식 SNS를 통해 콘서트 포스터를 공개하며 박원의 콘서트 개최 소식을 전했다. 오는 4월 7일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원호, 오늘 '뮤직뱅크'서 후속곡 '썸바디' 첫선]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011058360</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011058360"/>
-        <updated>2022-03-11T09:16:19.258Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]김주희 인턴 기자 = 가수 원호(WONHO)가 11일 오후 KBS 2TV 뮤직뱅크에서 후속곡 '썸바디(Somebody)'를 선보였다. 지난 달 16일 발매한 첫 싱글 '옵세션'의 수록곡이다. 이날 음악]]></content>
     </entry>
 </feed>
