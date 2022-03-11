@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-11T19:13:13.660Z</updated>
+    <updated>2022-03-11T20:16:09.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['보고싶어서 어쩔뻔' 방탄소년단(BTS), 아미들과 함께한 월클 콘서트 [MD동영상]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003583738</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003583738"/>
+        <updated>2022-03-11T20:15:54.443Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 김정수 기자] 그룹 방탄소년단이 10일 오후 서울 잠실종합운동장 주경기장에서 '비티에스 퍼미션 투 댄스 온 스테이지 - 서울(BTS PERMISSION TO DANCE ON STAGE - SEOUL)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수란, '플렌즈' 두번째 OST 부른다]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011058489</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000798753"/>
         <updated>2022-03-11T09:16:19.256Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 우기가 11일 오후 6시 발매된 박재범의 새 디지털 싱글 ‘GANADARA (가나다라) (Feat. 아이유)’에 작곡·편곡자로 참여했다. ‘GANADARA’는 박재범과 아이유의 청량한 보컬이 매력적인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박원, 2년 반만 단독 콘서트 확정..4월 7일 서강대 메리홀[공식]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003034935</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003034935"/>
-        <updated>2022-03-11T09:16:19.257Z</updated>
-        <content type="html"><![CDATA[싱어송라이터 박원이 2년여 만에 단독 콘서트를 개최하고 팬들과 특별한 만남을 갖는다. 박원 소속사 어비스컴퍼니는 11일 공식 SNS를 통해 콘서트 포스터를 공개하며 박원의 콘서트 개최 소식을 전했다. 오는 4월 7일]]></content>
     </entry>
 </feed>
