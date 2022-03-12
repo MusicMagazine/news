@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-12T19:13:47.686Z</updated>
+    <updated>2022-03-12T20:17:07.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[위클리(Weeekly)의 다채로움 매력이 돋보이는 'Solar' 첫무대 [MD동영상]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003584032</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003584032"/>
+        <updated>2022-03-12T20:16:52.951Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 김정수 기자] 걸그룹 위클리(Weeekly, 이수진, 먼데이, 지한, 신지윤, 박소은, 조아, 이재희)가 7일 오후 온라인으로 진행된 싱글 1집 '플레이 게임 : 어웨이크(Play Game : AWA]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박재범, 아이유와 첫 컬래버 시너지 통했다]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003035182</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001419868"/>
         <updated>2022-03-12T10:15:44.189Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 가수 태연이 2월 4주 차 아이돌차트 아차랭킹 1위에 올랐다. 태연은 12일 발표된 아이돌차트 2월 4주 차(22.2.28~22.3.6) 아차랭킹에서 음원점수 1181점, 유튜브 점수 4]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["둘이 있을 때 해"..썸머케익, MZ세대의 밀당법 '사람들 앞에선 안돼'(종합)[퇴근길 신곡]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004571172</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004571172"/>
-        <updated>2022-03-12T09:14:30.398Z</updated>
-        <content type="html"><![CDATA[[OSEN=이승훈 기자] 가수 썸머케익이 사랑을 관통하는 'Fake Loveism' 세계관을 한층 더 과감해진 감성으로 노래했다. 썸머케익은 오늘(12일) 오후 6시 각종 음원 사이트를 통해 세 번째 디지털 싱글앨범]]></content>
     </entry>
 </feed>
