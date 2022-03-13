@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-13T13:19:37.119Z</updated>
+    <updated>2022-03-13T14:13:35.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원호, 몽환적 'Somebody'…감각적 퍼포먼스]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004571675</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004571675"/>
+        <updated>2022-03-13T14:13:19.258Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 가수 원호가 감각적인 퍼포먼스로 명불허전 무대를 꾸몄다. 원호는 13일 방송된 SBS '인기가요'에 출연해 첫 싱글 '옵세션(OBSESSION)'의 수록곡 '썸바디(Somebody)' 무대를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크래비티 세림X앨런X정모, 압도적인 3人 3色 슈트 자태]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000853520</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000551118"/>
         <updated>2022-03-13T06:21:52.531Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김명미 기자] 마마무 솔라가 자신의 이름과 얼굴을 내세운 첫 미니앨범을 발표한다. 솔라는 3월 16일 오후 6시 각종 음원 사이트를 통해 첫 번째 미니앨범 '容 : FACE'를 발표한다. 솔라의 솔로 컴백은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['솔로 데뷔' 몬스타엑스 기현, 데뷔 싱글 '보이저' 앨범 프리뷰…웰메이드 예고]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001420093</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001420093"/>
-        <updated>2022-03-13T06:21:52.537Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 그룹 몬스타엑스(MONSTA X) 기현이 웰메이드 솔로 앨범을 예고했다. 기현은 13일 몬스타엑스 공식 SNS 채널을 통해 첫 번째 싱글 'VOYAGER(보이저)'의 앨범 프리뷰 영상을]]></content>
     </entry>
 </feed>
