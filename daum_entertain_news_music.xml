@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-03-13T08:18:07.874Z</updated>
+    <updated>2022-03-13T09:15:43.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[존박, '기상청 사람들' OST 참여]]></title>
+        <id>https://entertain.v.daum.net/v/20220313174016181</id>
+        <link href="https://entertain.v.daum.net/v/20220313174016181"/>
+        <updated>2022-03-13T09:15:11.969Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 존박, ‘기상청 사람들’ OST 참여 [DA:투데이] 감미로운 음색의 뮤지션 존박이 JTBC 토일드라마 ‘기상청 사람들 : 사내연애 잔혹사 편(이하 기상청 사람들)’ OST에 참여한다. ‘기상청 사람들’의 OST를 제작하는 모스트콘텐츠는 3월 13일 오후 6시 주요 음원사이트를 통해 존박이 부른 ‘기상청 사람들’ OST Part.5 ‘니가 내]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['인기가요' 태연, 김민석-스테이씨 꺾고 3주 연속 1위]]></title>
         <id>https://entertain.v.daum.net/v/20220313165300592</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220313104946536"/>
         <updated>2022-03-13T02:05:09.466Z</updated>
         <content type="html"><![CDATA[[OSEN=지민경 기자]&nbsp;그룹 방탄소년단 'BTS PERMISSION TO DANCE ON STAGE - SEOUL'의 2회차 공연이 서울 잠실종합운동장의 1만 5천 관중 앞에서 펼쳐진 동시에 전 세계 75개 국가/지역의 3,711개 영화관에서도 실황 중계됐다. 지난 10일 막을 올린 'BTS PERMISSION TO DANCE ON STAGE - SE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크래비티 세림X앨런X정모, 귀공자 포스..화려+매혹 아우라]]></title>
-        <id>https://entertain.v.daum.net/v/20220313101658017</id>
-        <link href="https://entertain.v.daum.net/v/20220313101658017"/>
-        <updated>2022-03-13T02:05:09.467Z</updated>
-        <content type="html"><![CDATA[[OSEN=지민경 기자]&nbsp;그룹 크래비티(CRAVITY)가 화려하고 성숙한 비주얼을 드러냈다.&nbsp; 크래비티는 지난 12일 오후 공식 SNS 채널을 통해 정규앨범 파트 2 'LIBERTY: IN OUR COSMOS(리버티: 인 아워 코스모스)'의 세림과 앨런, 정모의 COSMOS 버전 컴백 티징 이미지를 공개했다.&nbsp; 공개된 티징 이미지 속 세림은 프릴넥 셔츠]]></content>
     </entry>
 </feed>
