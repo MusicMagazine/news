@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-14T19:15:27.607Z</updated>
+    <updated>2022-03-14T20:16:46.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['5인조 재편' (여자)아이들, 데뷔하는 마음으로 컴백 '톰보이' 첫무대 [MD동영상]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003584598</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003584598"/>
+        <updated>2022-03-14T20:16:16.300Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 김정수 기자] 5인조로 재편한 걸그룹 (여자)아이들(미연, 민니, 소연, 우기, 슈화)이 14일 오후 온라인으로 진행된 첫 번째 정규앨범 '아이 네버 다이(I NEVER DIE)' 발매 쇼케이스에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송가인, 첫 단독 콘서트 언제?]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011061966</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004572054"/>
         <updated>2022-03-14T10:17:14.336Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] 그룹 브레이브걸스의 여섯 번째 미니앨범 [THANK YOU]가 드디어 베일을 벗었다. 브레이브걸스는 오늘 오후 6시, 여섯 번째 미니앨범 ‘THANK YOU’를 발매하고 타이틀곡 ‘Thank]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브레이브걸스 'Thank You' 뮤직비디오 공개…돌아온 레트로퀸 매력]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001420621</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001420621"/>
-        <updated>2022-03-14T10:17:14.337Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 그룹 브레이브걸스의 여섯 번째 미니앨범 'THANK YOU'가 베일을 벗었다. 브레이브걸스는 14일 오후 6시, 여섯 번째 미니앨범 'THANK YOU'를 발매하고 타이틀곡 'Thank]]></content>
     </entry>
 </feed>
