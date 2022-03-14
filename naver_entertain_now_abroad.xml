@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-03-14T06:18:24.116Z</updated>
+    <updated>2022-03-14T07:15:34.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윌리엄 허트, 71세로 사망…'거미여인의 키스' 몰리나]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011061424</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011061424"/>
+        <updated>2022-03-14T07:15:33.730Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]유다연 인턴 기자 = 영화 '거미여인의 키스'로 오스카상을 수상한 배우 윌리엄 허트가 사망했다. 향년 71세. 13일(현지시간) '버라이어티' 등 외신에 따르면 허트의 친구 게리 번이 그의 사망을 확인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['파워 오브 도그' 英아카데미 작품·감독상…'듄'도 5관왕]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013049969</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004571806"/>
         <updated>2022-03-14T02:14:01.199Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 팝스타 브리트니 스피어스가 훌쩍 자란 두 아들 션 프레스톤(16)과 제이든 제임스(15)를 향해 엄마로서 드는 생각을 밝혔다. 40세의 스피어스는 14일(한국시간) 자신의 인스타그램에 자신의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오징어 게임' 美 크리틱스초이스 '외국어 드라마상' 수상 '쾌거']]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005966842</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005966842"/>
-        <updated>2022-03-14T02:14:01.200Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 윤효정 기자 = 넷플릭스 '오징어 게임'이 크리틱스초이스 외국어 드라마상의 영예를 안았다. 엔터테인먼트 스트리밍 서비스 넷플릭스 드라마 '오징어 게임'(감독 황동혁)은 13일(현지시간) 미국 LA 페]]></content>
     </entry>
 </feed>
