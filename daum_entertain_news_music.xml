@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-03-14T10:17:30.287Z</updated>
+    <updated>2022-03-14T11:14:29.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나19, 연예계 계속 확산..레드벨벳 공연도 연기]]></title>
+        <id>https://entertain.v.daum.net/v/20220314200311631</id>
+        <link href="https://entertain.v.daum.net/v/20220314200311631"/>
+        <updated>2022-03-14T11:13:52.918Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 코로나19 확산이 이어지면서 가요계에서도 피해가 이어지고 있다. 14일 가요계에 따르면 걸그룹 레드벨벳 아이린·조이·예리가 확진 판정을 받아 이달 19∼20일로 예정된 콘서트가 연기가 됐다. 소속사 SM엔터테인먼트는 이들이 최근 자가진단키트 검사에서 양성 반응이 나와 PCR(유전자증폭) 검사를 했고, 그 결과 지난 주말 최종 확진 판정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이들 "데뷔 후 4년, 달라진 건 나이뿐"]]></title>
         <id>https://entertain.v.daum.net/v/20220314185003765</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220314180011753"/>
         <updated>2022-03-14T09:15:27.615Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 믿고 듣는 가수 강승윤이 새로운 목소리로 돌아왔다. 강승윤은 3월 14일 오후 6시 국내외 음원 사이트를 통해 새 싱글 'BORN TO LOVE YOU'(본 투 러브 유)를 발매했다. 솔로 가수로서는 지난해 3월 29일 발매한 정규 1집 앨범 'PAGE'(페이지) 이후 1년 만에 선보이는 작업물이다. 강승윤이 속한 그룹 위너(강승윤]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["난 인형이 아냐" 아이들, 감당 못할 괴짜들 'TOMBOY']]></title>
-        <id>https://entertain.v.daum.net/v/20220314180007741</id>
-        <link href="https://entertain.v.daum.net/v/20220314180007741"/>
-        <updated>2022-03-14T09:15:27.617Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] (여자)아이들이 특유의 위풍당당함을 전면에 내세웠다. (여자)아이들은 3월 14일 정규 1집 'I NEVER DIE'를 발매하고 타이틀곡 'TOMBOY'(톰보이) 음원과 뮤직비디오를 공개했다. 소연의 자작곡인 타이틀곡 'TOMBOY'는 (여자)아이들 특유의 당당한 매력이 돋보이는 얼터너티브 록 장르의 곡이다. 직설적인 가사가 통제]]></content>
     </entry>
 </feed>
