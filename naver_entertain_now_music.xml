@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-14T16:22:16.100Z</updated>
+    <updated>2022-03-14T17:15:49.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[해리빅버튼, ‘델마와 루이스’ 정규3집 시즌2 스타트]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000799267</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000799267"/>
+        <updated>2022-03-14T17:15:35.155Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 하드록 밴드 해리빅버튼이 12일 정오, 정규3집 시즌2에 수록될 첫 곡으로 ‘Thelma &amp; Louise(델마와 루이스)’를 온라인 음원사이트를 통해 발매했다. 해리빅버튼은 지난 2020년 6월 ‘듣는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5인조 재편 (여자)아이들 "새로 데뷔한다는 마음으로"]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011061947</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001420620"/>
         <updated>2022-03-14T10:17:14.340Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 영탁이 ‘더트롯쇼’에 출연한다. 14일 영탁 오피셜 인스타그램에는 “6년 전 누.딱을 부르던 청년이 6년 뒤 화이트데이에 찐이야를 부르게 된 사연은...? 오늘 밤 9시 SBS MTV,S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화이트데이에 찾아온 누딱 청년..영탁 '더트롯쇼' 선물 같은 출격]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003035581</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003035581"/>
-        <updated>2022-03-14T10:17:14.340Z</updated>
-        <content type="html"><![CDATA[가수 영탁이 화이트데이 선물 같은 무대를 팬들에게 안긴다. 영탁은 3월 14일 오후 9시 SBS MTV·SBS FiL에서 방송하는 트로트 차트쇼 '더트롯쇼'에 출연, 스페셜 스테이지로 '찐이야' 무대를 선보인다. 영]]></content>
     </entry>
 </feed>
