@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-15T10:17:33.321Z</updated>
+    <updated>2022-03-15T11:14:05.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단, 스포티파이 10억 기념 접시로 韓전통음식 비빔밥 ‘먹방’]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000552104</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000552104"/>
+        <updated>2022-03-15T11:13:50.921Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 방탄소년단(RM, 진, 슈가, 제이홉, 지민, 뷔, 정국)이 스포티파이 기념 접시에 한국 전통음식 비빔밥을 담았다. 3월 15일 오후 방탄소년단 공식 유튜브 채널 방탄티비(BANGTAN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서리, 신곡 'Can't Stop This Party' 5종 티저 공개 '몽환 무드']]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000853965</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003541236"/>
         <updated>2022-03-15T09:15:32.312Z</updated>
         <content type="html"><![CDATA[[헤럴드POP=정혜연 기자]뉴이스트가 해체를 앞둔 가운데, 데뷔 10주년 기념 앨범으로 유종의 미를 거뒀다. 오늘(15일) 뉴이스트의 베스트 앨범 'Needle &amp; Bubble'(니들 앤 버블)이 베일을 벗었다. ']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Feeling like a voyager"…몬스타엑스 기현, 7년 만의 솔로 항해 [쥬크박스]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001421015</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001421015"/>
-        <updated>2022-03-15T09:15:32.320Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 몬스타엑스 멤버 기현이 첫 솔로 항해의 닻을 올렸다. 15일 오후 6시 기현의 첫 번째 싱글 '보이저(VOYAGER)'와 동명의 타이틀곡 뮤직비디오가 공개됐다. 기현이 데뷔 7년 만]]></content>
     </entry>
 </feed>
