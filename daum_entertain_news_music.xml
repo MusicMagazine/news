@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-03-16T11:13:53.834Z</updated>
+    <updated>2022-03-16T12:26:29.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TXT 휴닝카이·엔믹스 지니·아이브 가을도 양성..가요계, 쏟아지는 확진자]]></title>
+        <id>https://entertain.v.daum.net/v/20220316204122002</id>
+        <link href="https://entertain.v.daum.net/v/20220316204122002"/>
+        <updated>2022-03-16T12:25:48.328Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 공미나 기자] (왼쪽부터)투모로우바이투게더 휴닝카이, 엔믹스 지니, 아이브 가을 /사진제공=빅히트 뮤직, JYP엔터테인먼트, 스타쉽엔터테인먼트 신종 코로나바이러스 감염증(코로나19) 확산세가 이어지며 가요계에도 연일 다수의 확진자가 발생하고 있다. 16일 가요계에 따르면 투모로우바이투게더 멤버 휴닝카이, 아이브 멤버 가을, 엔믹스 멤버 지니,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["풋풋한 첫사랑"..위아이, 여섯 명의 남자친구로 돌아왔다]]></title>
         <id>https://entertain.v.daum.net/v/20220316200958480</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220316180016172"/>
         <updated>2022-03-16T09:13:55.945Z</updated>
         <content type="html"><![CDATA[[동아닷컴] 그룹 마마무 솔라가 오늘(16일) 오후 6시 첫 번째 미니앨범 [容 : FACE]를 발표했다. 싱글 앨범 [SPIT IT OUT] 이후 1년 11개월 만이다. [容 : FACE]라는 앨범명은 솔라의 본명인 김용선의 한자 '容(얼굴 용)'에서 모티브를 얻어 만들어졌다. 관련해 솔라는 "얼굴에는 그 사람이 걸어온 길이 표현되어 있다고 생각한다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["섣불리 덤비지는마" 솔라, 유혹을 대하는 달콤한 자세 '꿀']]></title>
-        <id>https://entertain.v.daum.net/v/20220316180006159</id>
-        <link href="https://entertain.v.daum.net/v/20220316180006159"/>
-        <updated>2022-03-16T09:13:55.946Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 마마무 솔라가 자신의 얼굴을 전면에 내세웠다. 솔라는 3월 16일 오후 6시 첫번째 솔로 미니앨범 '容:FACE'를 발매, 타이틀곡 '꿀(HONEY)' 음원과 뮤직비디오를 공개했다. 하우스 음악을 기반으로 한 타이틀곡 '꼴'은 벌이 여왕벌에게 꿀을 가져다주듯 사람들이 나에게 달콤한 유혹을 한다는 내용을 키치하게 담은 곡이다. 김]]></content>
     </entry>
 </feed>
