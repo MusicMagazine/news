@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-17T17:20:42.932Z</updated>
+    <updated>2022-03-17T18:17:20.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["인디 생태계 활성화"…서울문화재단 '서울라이브' 공모]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011069041</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011069041"/>
+        <updated>2022-03-17T18:17:05.200Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 서울문화재단(대표이사 이창기) 서교예술실험센터가 18일부터 내달 4일까지 '2022 서울라이브' 공모를 진행한다. 인디 뮤지션의 활동과 관련한 다양한 프로젝트와 라이브 공연을 지원하는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['엠카' 빌리, 시간 순삭 시킨 'GingaMingaYo']]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000854580</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011068880"/>
         <updated>2022-03-17T10:21:52.068Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 컨템포러리 R&amp;B 싱어송라이터 세아가 17일 오후 6시 새 싱글 '오래오래'를 발매했다. YG엔터테인먼트 프로듀서에서 싱어송라이터로 발돋움한 세아의 증거물이다. 부드러우면서도 세련된 신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수지 "모니카 춤 보고 '뮤즈다' 느껴"[화보]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003036523</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003036523"/>
-        <updated>2022-03-17T10:21:52.068Z</updated>
-        <content type="html"><![CDATA[가수 겸 배우 수지가 4년 만에 발표한 신곡에 대한 다양한 이야기를 꺼냈다. 17일 패션 매거진 마리끌레르 측은 4월호 커버를 장식한 수지의 화보를 공개했다. 화보 속 수지는 봄처럼 생기 넘치는 외모와 처피뱅 헤어스]]></content>
     </entry>
 </feed>
