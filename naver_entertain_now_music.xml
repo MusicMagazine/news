@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-17T20:16:10.983Z</updated>
+    <updated>2022-03-17T21:14:04.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['빛나는 찬또' 이찬원, 아이돌차트 평점랭킹 5주 연속 TOP2]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003036577</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003036577"/>
+        <updated>2022-03-17T21:13:49.971Z</updated>
+        <content type="html"><![CDATA[가수 이찬원이 5주 연속 아이돌차트 평점랭킹 TOP2를 기록하며 인기를 이어갔다. 이찬원은 3월 2주차 아이돌차트 평점랭킹에서 31만 8516표를 획득, 전체 2위에 올랐다. 이찬원은 5주 연속 2위에 오르며 남다른]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["인디 생태계 활성화"…서울문화재단 '서울라이브' 공모]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011069041</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001422014"/>
         <updated>2022-03-17T10:21:52.068Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 가수 류정운이 '새가수' 우승 이후 달라진 점을 이야기했다. 류정운의 데뷔 싱글 '비구름' 발매 기념 온·오프라인 쇼케이스가 17일 오후 서울시 강남구 프릭업 스튜디오에서 진행됐다. 인디]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[R&B 싱어송라이터 세아, 새 싱글…'오래오래']]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011068880</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011068880"/>
-        <updated>2022-03-17T10:21:52.068Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 컨템포러리 R&amp;B 싱어송라이터 세아가 17일 오후 6시 새 싱글 '오래오래'를 발매했다. YG엔터테인먼트 프로듀서에서 싱어송라이터로 발돋움한 세아의 증거물이다. 부드러우면서도 세련된 신]]></content>
     </entry>
 </feed>
