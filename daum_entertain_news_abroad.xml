@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-03-17T02:17:44.723Z</updated>
+    <updated>2022-03-17T03:18:11.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스, 같은 계정 이용자에 추가 요금..칠레·코스타리카·페루 시행]]></title>
+        <id>https://entertain.v.daum.net/v/20220317114453711</id>
+        <link href="https://entertain.v.daum.net/v/20220317114453711"/>
+        <updated>2022-03-17T03:17:48.590Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 넷플릭스가 같은 계정을 공유하는 가입자를 대상으로 추가 요금을 부과하기로 했다. 16일(현지 시간) 넷플릭스에 따르면 한 집에 함께 살지 않는 가족이나 친구들과 같은 계정을 공유하는 가입자들을 대상으로 추가 요금을 부과하기로 했다. 그동안 넷플릭스는 한 고객이 같은 공간에 사는 가족 이외에 지인들과 계정을 공유하는 것을 허용해왔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국계 우크라 배우 이파샤, 사망 직전 방탄조끼 벗어 아이에게]]></title>
         <id>https://entertain.v.daum.net/v/20220317104850819</id>
@@ -60,12 +67,5 @@
         <link href="https://entertain.v.daum.net/v/20220316141104591"/>
         <updated>2022-03-16T05:15:22.810Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] 배우 조 샐다나가 영화 ‘아바타2’에 대한 경이로운 찬사를 보냈다. 조 샐다나는 최근 방송 인터뷰를 통해 “‘아바타2’를 20분 시사했다. 말이 안 나오더라. 제임스 카메론 감독에 대해 아무도 모르는 사실은 그가 엄청난 울보이고 황금 같은 심장을 가졌다는 점이다. ’아바타2’ 이야기는 설득력이 있을 거다. 1편에 비해 비약적으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["날 죽일 셈이냐" 서희원 모녀, 살벌했던 말다툼 폭로돼]]></title>
-        <id>https://entertain.v.daum.net/v/20220316115200020</id>
-        <link href="https://entertain.v.daum.net/v/20220316115200020"/>
-        <updated>2022-03-16T03:20:00.870Z</updated>
-        <content type="html"><![CDATA[[TV리포트=박설이 기자] 대만 배우 서희원이 구준엽과 결혼 발표로 모녀 갈등을 겪고 있다는 소식이 전해진 가운데, 새로운 내용이 폭로됐다. 16일 대만 ET투데이는 제보를 토대로 서희원과 그의 모친이 서희원의 집에서 크게 말다툼을 벌였다고 보도했다. 세계 여성의 날이었던 8일 서희원과 그의 동생인 방송인 서희제는 서희원의 집에서 만나 이야기를 나누고 있었]]></content>
     </entry>
 </feed>
