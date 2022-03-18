@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-18T15:16:52.598Z</updated>
+    <updated>2022-03-18T16:20:44.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국가단 김희석, 코로나19 확진.."'국민가수' 부산 공연 불참"[공식]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003542627</id>
+        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003542627"/>
+        <updated>2022-03-18T16:20:29.101Z</updated>
+        <content type="html"><![CDATA[[헤럴드POP=박서연 기자]그룹 국가단 김희석이 코로나19에 확진됐다. 18일 소속사 n.CH엔터테인먼트는 공식입장을 통해 "소속 아티스트인 국가단의 김희석은 코로나19 증상이 의심되어 의료기관에서 진행하는 코로나1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어반자카파 조현아, 보보 ‘늦은 후회’ 리메이크 음원 발매]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000800374</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000800338"/>
         <updated>2022-03-18T09:15:29.306Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 래퍼 정상수가 웹툰 ‘나쁜 녀석들’의 강렬한 분위기를 시원한 랩으로 표현했다. 18일 오후 6시 각종 온라인 음원 사이트를 통해 정상수가 참여한 웹툰 ‘나쁜 녀석들’의 컬래버레이션 음원 ‘환상의 명사수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봄여름가을겨울 '화해연가', 20년전 윤상·김현철·유희열 포착]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011070702</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011070702"/>
-        <updated>2022-03-18T09:15:29.307Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]김주희 인턴 기자 = 봄여름가을겨울(김종진, 故전태관)의 '화해연가' 뮤직비디오가 재발굴됐다. 16일 봄여름가을겨울이 '브라보 마이 라이프 2022 믹스(MIX)' 발매 20주년을 맞아 현재 스튜디오]]></content>
     </entry>
 </feed>
