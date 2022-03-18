@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-18T11:12:52.329Z</updated>
+    <updated>2022-03-18T12:25:05.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어반자카파 조현아, 보보 ‘늦은 후회’ 리메이크 음원 발매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000800374</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000800374"/>
+        <updated>2022-03-18T12:24:48.172Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 혼성 보컬그룹 어반자카파 조현아가 절절한 이별 감성을 선사했다. 18일 오후 6시 각종 온라인 음원 사이트를 통해 조현아가 참여한 ‘방구석 캐스팅’의 새로운 리메이크 음원 ‘늦은 후회’가 발매됐다. ‘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[레드벨벳, 글로벌 팬 만난다..유튜브 라이브 21일 오후 5시 생방송]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003036804</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011070702"/>
         <updated>2022-03-18T09:15:29.307Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]김주희 인턴 기자 = 봄여름가을겨울(김종진, 故전태관)의 '화해연가' 뮤직비디오가 재발굴됐다. 16일 봄여름가을겨울이 '브라보 마이 라이프 2022 믹스(MIX)' 발매 20주년을 맞아 현재 스튜디오]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLC 어떻게 되나…장승연·장예은 큐브와 계약 종료 [공식]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004675559</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004675559"/>
-        <updated>2022-03-18T09:15:29.308Z</updated>
-        <content type="html"><![CDATA[그룹 CLC 장승연, 장예은이 큐브엔터테인먼트를 떠난다. 큐브엔터테인먼트는 18일 "소속 아티스트 장승연, 장예은과의 전속 계약이 종료됐다"고 밝혔다. 이어 "데뷔 후 7년이라는 시간 동안 당사와 함께해준 장승연,]]></content>
     </entry>
 </feed>
