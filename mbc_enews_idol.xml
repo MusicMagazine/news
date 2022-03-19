@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 02:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 03:15:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마마무 솔라, 얼굴이 곧 자신감 [인터뷰M]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/341291</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/341291</guid>
+            <pubDate>Sat, 19 Mar 2022 03:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/341291">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/18/2a105b31-3f05-4a1c-85ef-e8954a037126.jpg" alt="마마무 솔라, 얼굴이 곧 자신감 [인터뷰M]">        <div class="text-box">            <p class="summary">마마무 솔라, 얼굴이 곧 자신감 [인터뷰M]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/18/2a105b31-3f05-4a1c-85ef-e8954a037126.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보나, 오묘한 분위기+깊어진 눈빛 [화보]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/341368</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 18 Mar 2022 05:13:21 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/341296">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/18/9b3bf349-ce9c-4259-80c1-fc7b681ad33b.jpg" alt="[포토] 더보이즈 현재, '훈훈' 잘생김">        <div class="text-box">            <p class="summary">[포토] 더보이즈 현재, '훈훈' 잘생김</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/18/9b3bf349-ce9c-4259-80c1-fc7b681ad33b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 더보이즈 영훈, '판타지 미모']]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/341295</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/341295</guid>
-            <pubDate>Fri, 18 Mar 2022 05:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/341295">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/18/b2414f84-f9bd-479a-a0e6-22aef9a44406.jpg" alt="[포토] 더보이즈 영훈, '판타지 미모'">        <div class="text-box">            <p class="summary">[포토] 더보이즈 영훈, '판타지 미모'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/18/b2414f84-f9bd-479a-a0e6-22aef9a44406.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

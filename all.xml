@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 02:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 03:15:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220311163048_c9062618490adc9df7eae639325c611f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[화보] 김지연(보나), 매거진 '에스콰이어' 매력 (KBS연예 ─ 연예)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=197930</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=197930</guid>
+            <pubDate>Sat, 19 Mar 2022 03:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=197930">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220319091640_7132149dd17c0e23b3fbde3460d01792.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=197930">[화보] 김지연(보나), 매거진 '에스콰이어' 매력</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220319091640_7132149dd17c0e23b3fbde3460d01792.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[화보] 아이돌계의 비타민, 오메가엑스 매거진 커버 장식 (KBS연예 ─ 연예)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=197419</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=197419</guid>
@@ -671,21 +688,12 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220225142653_3373d94d04f38e562d4432ca85c17ba3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[화보] '미남당' 촬영 중인 곽시양 "연기 변신...꼭 기대해 달라" (KBS연예 ─ 연예)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=194142</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=194142</guid>
-            <pubDate>Fri, 25 Feb 2022 02:04:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=194142">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220225100200_375bd6922c5dfe444765c95fee37fcf4.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=194142">[화보] '미남당' 촬영 중인 곽시양 "연기 변신...꼭 기대해 달라"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220225100200_375bd6922c5dfe444765c95fee37fcf4.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[마마무 솔라, 얼굴이 곧 자신감 [인터뷰M] (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/341291</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/341291</guid>
+            <pubDate>Sat, 19 Mar 2022 03:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/341291">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/18/2a105b31-3f05-4a1c-85ef-e8954a037126.jpg" alt="마마무 솔라, 얼굴이 곧 자신감 [인터뷰M]">        <div class="text-box">            <p class="summary">마마무 솔라, 얼굴이 곧 자신감 [인터뷰M]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/18/2a105b31-3f05-4a1c-85ef-e8954a037126.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보나, 오묘한 분위기+깊어진 눈빛 [화보] (MBC 연예 ─ 아이돌)]]></title>
@@ -768,12 +776,25 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/18/9b3bf349-ce9c-4259-80c1-fc7b681ad33b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[포토] 더보이즈 영훈, '판타지 미모' (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/341295</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/341295</guid>
-            <pubDate>Fri, 18 Mar 2022 05:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/341295">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/18/b2414f84-f9bd-479a-a0e6-22aef9a44406.jpg" alt="[포토] 더보이즈 영훈, '판타지 미모'">        <div class="text-box">            <p class="summary">[포토] 더보이즈 영훈, '판타지 미모'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/18/b2414f84-f9bd-479a-a0e6-22aef9a44406.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[성시경, 몰카 찍다 걸렸다..'우린 제법 잘 어울려요' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220319121001067</link>
+            <guid>https://entertain.v.daum.net/v/20220319121001067</guid>
+            <pubDate>Sat, 19 Mar 2022 03:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[영화보다 더 영화 같았던 추억의 뮤직비디오를 소개하는 엑스포츠뉴스만의 코너입니다. 당대 최고의 히트곡들을 떠올리고, 인기 스타들의 풋풋하고 신선한 과거 모습을 함께 추억해보는 '명작뮤비'. &lt;편집자주&gt; (엑스포츠뉴스 김예나 기자) 온종일 그 사람만 생각납니다. 지금 이 순간, 그 사람은 무엇을 하고 있을지 궁금합니다. 이제 막 사랑에 빠진 이들의 설렘]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[크래비티, '아드레날린' MV 티저 공개..자유로운 반항아 변신 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220319112704688</link>
+            <guid>https://entertain.v.daum.net/v/20220319112704688</guid>
+            <pubDate>Sat, 19 Mar 2022 03:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=지민경 기자]&nbsp;그룹 크래비티(CRAVITY)가 ‘아드레날린’이 샘솟을 뮤직비디오를 예고했다.&nbsp; 크래비티는 지난 18일 오후 공식 SNS 채널을 통해 정규앨범 파트 2 ‘LIBERTY: IN OUR COSMOS(리버티: 인 아워 코스모스)’의 타이틀곡 ‘Adrenaline(아드레날린)’ 뮤직비디오 티저를 공개했다. 공개된 영상은 텅 빈 교실에서]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오마이걸, 신보 'Real Love' 개인 쇼트 필름 공개..활짝 핀 미모 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220319111500564</link>
+            <guid>https://entertain.v.daum.net/v/20220319111500564</guid>
+            <pubDate>Sat, 19 Mar 2022 03:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=지민경 기자]&nbsp;‘콘셉트 요정’ 오마이걸(OH MY GIRL)이 더욱 짙어진 매력을 담은 개인 쇼트 필름을 공개했다. 19일 소속사 WM엔터테인먼트는 공식 SNS 채널을 통해 오마이걸의 정규 2집 ‘Real Love’의 개인 쇼트 필름 영상을 업로드하며 컴백 기대감을 더욱 끌어올렸다. 공개된 영상에는 한층 더 우아하고 성숙해진 분위기로 더욱 무]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[방탄소년단, 'ON' MV 3억뷰 돌파..통산 19번째 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
@@ -860,25 +881,53 @@
             <content:encoded><![CDATA[[스타뉴스 윤상근 기자] /사진제공=빅히트뮤직 톱 아이돌그룹 방탄소년단(BTS, RM 진 지민 제이홉 슈가 뷔 정국) 히트곡 'ON' 뮤직비디오가 3억뷰를 돌파했다. 지난 2020년 2월 발매된 방탄소년단의 정규 4집 'MAP OF THE SOUL : 7' 타이틀곡 'ON' 뮤직비디오의 유튜브 조회수가 18일 오후 4시 3분경 3억뷰를 넘어섰다. 이로써]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[레드벨벳→크래비티, 신구 아이돌 연이어 출격 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220319080015545</link>
-            <guid>https://entertain.v.daum.net/v/20220319080015545</guid>
-            <pubDate>Fri, 18 Mar 2022 23:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[레드벨벳(사진=SM엔터테인먼트)[이데일리 스타in 윤기백 기자] 그룹 레드벨벳, 하이라이트부터 크래비티, T1419까지 신구 아이돌이 연이어 출격한다. ‘스프링 퀸’으로 변신한 레드벨벳은 21일 새 미니앨범 ‘더 리브 페스티벌 2022-필 마이 리듬’을 발매하고 7개월 만에 컴백한다. 이번 앨범에는 타이틀곡 ‘필 마이 리듬’을 비롯해 총 6곡이 수록됐다.]]></content:encoded>
+            <title><![CDATA['눈물·가출' 금쪽이, 오은영 반전 지적에 놀란 이지현 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220319120601034</link>
+            <guid>https://entertain.v.daum.net/v/20220319120601034</guid>
+            <pubDate>Sat, 19 Mar 2022 03:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[[김종성 기자] "아이를 성인까지 키우는 건 긴 여정입니다." (오은영) 지난 18일, 채널A &lt;금쪽같은 내새끼&gt; 최장기 프로젝트의 주인공인 쥬얼리 이지현과 ADHD 금쪽이의 솔루션 두 번째 편이 방송됐다. 한 달 전 방송 내용을 간략히 짚어보면, 금쪽이는 욕설은 기본에 엄마에게 발길질을 하는 등 무차별 폭력을 행사했다. 누나에게도 마찬가지였다. 이지현은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[사쿠라X김채원 합류, '하이브 첫 걸그룹'에 쏟아지는 기대감 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220319080009534</link>
-            <guid>https://entertain.v.daum.net/v/20220319080009534</guid>
-            <pubDate>Fri, 18 Mar 2022 23:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 이덕행 기자] /사진=스타뉴스하이브 산하 레이블 쏘스뮤직이 그룹 아이즈원 출신 미야와키 사쿠라와 김채원과 전속계약을 맺은 가운데 하이브가 선보일 첫 걸그룹에 관심이 모아지고 있다. 지난 14일 쏘스뮤직은 "미야와키 사쿠라, 김채원이 하이브 산하 레이블인 쏘스뮤직과 전속계약을 체결했다. 두 아티스트는 하이브와 쏘스뮤직이 협력해 론칭하는 첫 걸그룹]]></content:encoded>
+            <title><![CDATA[엑소 카이→TXT 휴닝 카이, 가요계 코로나19 확진 ing (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220319120600033</link>
+            <guid>https://entertain.v.daum.net/v/20220319120600033</guid>
+            <pubDate>Sat, 19 Mar 2022 03:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 확진자가 누적 900만명을 돌파한 가운데, 가요계에서도 끊임없이 확진자가 나오고 있다. 중앙방역대책본부에 따르면 19일 0시 기준 코로나19 신규 확진자가 38만1454명 늘어 누적 903만8938명으로 집계됐다. 또 이날 0시 기준 하루 사망자는 319명으로 하루 전보다 18명 늘었으며, 누적 사망자는 1만1210명을 기록했다. 이 같이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["머스크향?"-"6시내고향!" 방탄소년단 정국 인스타 '무물' 소통 초특급 인기 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220319073950367</link>
-            <guid>https://entertain.v.daum.net/v/20220319073950367</guid>
-            <pubDate>Fri, 18 Mar 2022 23:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 문완식 기자] 방탄소년단(BTS) 정국이 남다른 재치로 트위터 전 세계 실트 1위와 80개 국가 실트에 오르는 초특급 인기를 자랑했다. 정국은 18일 자신의 인스타그램스토리에서 '무엇이든 물어보세요'를 진행하며 팬들과 소통하는 시간을 가졌다. 정국은 "나는 지금 무엇을 하면 좋을까"라고 질문을 남겼고 약 2시간 동안 팬들의 다양한 질문에 답변]]></content:encoded>
+            <title><![CDATA[마마무 솔라, 얼굴이 곧 자신감 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220319120137995</link>
+            <guid>https://entertain.v.daum.net/v/20220319120137995</guid>
+            <pubDate>Sat, 19 Mar 2022 03:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[솔라가 새 얼굴로 돌아왔다. 이번엔 마마무 멤버가 아닌 솔로 김용선의 낯이다. 새 앨범은 "100% 최상의 만족도"라고 강조한 그의 표정엔 자신감이 가득했다. 최근 솔라는 iMBC연예와 첫 번째 미니앨범 '容 : FACE(용 : 페이스)'의 발매 기념 인터뷰를 진행했다. '용 : 페이스'에는 'RAW(로우)’, '꿀’ '찹찹’, 'Big Booty(빅]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[박명수 "피부과 한 달에 1~2번 방문, 미용 시술받은 적 없어" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220319115628947</link>
+            <guid>https://entertain.v.daum.net/v/20220319115628947</guid>
+            <pubDate>Sat, 19 Mar 2022 03:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 송오정 기자] 박명수가 여드름 치료용 레이저 외에 미용 시술을 받은 적 없다고 밝혔다. 3월 19일 방송된 KBS 쿨FM '박명수의 라디오쇼'에서는 청취자와 전화 연결하는 시간을 가졌다. 이날 결혼을 앞두고 역프러포즈를 하고 싶다는 청취자는 음성 편지를 통해 예비 신랑에게 마음을 전했다. 박명수는 "너무 멋지다. 저도 결혼할 때 생각 많이 난다"]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[혜리, 생애 첫 독립→자취집 공개.."그릇 하나에 43만원" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220319115018914</link>
+            <guid>https://entertain.v.daum.net/v/20220319115018914</guid>
+            <pubDate>Sat, 19 Mar 2022 03:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 최희재 기자) 혜리가 생애 첫 독립과 함께 새 집을 공개했다. 혜리는 18일 자신의 유튜브 채널 '나는 이혜리'에 '혜리 Vlog 축 여러분 저 독립했어요! 돈 쓰러 가자!'라는 제목의 영상을 게재했다. 이날 혜리는 "혜리의 새 집이다. 오늘 하루종일 그릇 보러 다니고 평소랑 다른 걸 사고 싶어했지 않나. 그 이유는 바로 새 집을 꾸미기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['라디오쇼' 박명수 "아내와 화해법? 재밌는 말과 표정으로 웃긴다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220319114700878</link>
+            <guid>https://entertain.v.daum.net/v/20220319114700878</guid>
+            <pubDate>Sat, 19 Mar 2022 03:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트 = 하수나 기자] 개그맨 박명수가 아내와 화해할 때 재미있는 말과 표정으로 웃긴다고 자신만의 화해법을 언급했다.&nbsp; 19일 방송된 KBS쿨FM ‘박명수의 라디오쇼’에선 청취자와 함께 하는 1대1 비대면 토크쇼 ‘11시 내고향’코너로 꾸며졌다.&nbsp; 이날 “박명수는 군산이 낳은 최고의 스타다”라는 군산 청취자의 사연이 소개됐다. 이에 고향이 군산인 박]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[박명수 "군산이 낳은 최고의 스타? 막상 사람들 잘 몰라" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220319111818594</link>
+            <guid>https://entertain.v.daum.net/v/20220319111818594</guid>
+            <pubDate>Sat, 19 Mar 2022 03:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 송오정 기자] 박명수가 고향 군산에 대한 애정을 드러냈다. 3월 19일 방송된 KBS 쿨FM '박명수의 라디오쇼'에서는 청취자와 소통하는 시간을 가졌다. 한 청취자가 "박명수 씨는 군산이 낳은 최고의 스타다. 군산의 영웅 수준이다"라고 하자, 박명수는 "막상 가면 사람들이 잘 모른다"라며 웃었다. 이어 박명수는 "예전에 '무한도전' 할 때 군산의]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['전참시' 박재범 '가나다라' MV 촬영장 비하인드 공개 [TV스포[ (다음 연예 ─ 뉴스 ─ 스타)]]></title>
@@ -937,53 +986,11 @@
             <content:encoded><![CDATA[[뉴스엔 송오정 기자] 가수 겸 배우 이혜리가 첫 독립 소식을 전했다. 3월 18일 혜리는 개인 유튜브 채널을 통해 독립 소식을 전했다. 이날 영상에서 혜리는 그릇, 냄비받침, 쓰레기통 등 여러 세간살이 쇼핑에 나섰다. 짐을 들고 집으로 돌아온 혜리는 "여기는 저 혜리의 새 집이다"라며 "여러분 저 혼자 나와서 지내게 됐다"라고 밝혔다. 독립을 결심한 이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[5000만뷰 대박..'웹드 여신' 장여빈에 쏟아지는 러브콜 "매일 꿈 같아!" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220319100003737</link>
-            <guid>https://entertain.v.daum.net/v/20220319100003737</guid>
-            <pubDate>Sat, 19 Mar 2022 02:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 문지연 기자] MZ세대의 청춘 스타 등용문이라 말할 것 같으면, 두 말 할 것 없이 웹드라마다. 그 중에서도 10만뷰 남짓 기록하고 사라지는 것들이 부지기수지만, 스타 한 명을 탄생시키면 천만뷰는 가볍게 넘는 것이 웹드라마의 세계. 놀라운 신예 장여빈은 치즈필름의 '복수여신' 시리즈를 통해 도합 5000만뷰의 조회수를 기록한 웹드]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['편스토랑' 이경규 신계념덮밥 우승, 10경규 등극 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220319094758608</link>
-            <guid>https://entertain.v.daum.net/v/20220319094758608</guid>
-            <pubDate>Sat, 19 Mar 2022 02:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] ‘편스토랑’ 이경규가 신계념덮밥으로 통산 10승을 달성했다. 3월 18일 방송된 KBS 2TV ‘신상출시 편스토랑’(이하 ‘편스토랑’)에서는 닭 메뉴 개발 결과가 공개됐다. 박솔미, 정상훈, 심지호 등이 치열한 경쟁을 펼친 가운데 우승은 이경규의 신계념덮밥이 차지했다. 이로써 이경규는 ‘편스토랑’ 통산 10승을 달성, 명불허전 출시왕]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['쇼다운', 브레이킹 배틀로 아드레날린 폭발시킨 명승부 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220319093644475</link>
-            <guid>https://entertain.v.daum.net/v/20220319093644475</guid>
-            <pubDate>Sat, 19 Mar 2022 00:53:23 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] ‘쇼다운’이 짜릿한 브레이킹 배틀로 첫 방송부터 금요일 밤을 휘어잡았다. 어제(18일) 첫 방송된 JTBC 댄스 서바이벌 프로그램 ‘쇼다운’(연출 이창우) 시청률은 2.3%(이하 닐슨코리아 수도권 유료가구 기준)를 기록했다. 이날 방송에서는 아드레날린을 폭발시키는 화려한 브레이킹과 드라마틱한 스토리까지 꽉 찬 즐거움을 선사하며 시청자들]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[여름 쿨톤? 가을 뮤트? 걸그룹으로 보는 '퍼스널 컬러' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220319093003390</link>
-            <guid>https://entertain.v.daum.net/v/20220319093003390</guid>
-            <pubDate>Sat, 19 Mar 2022 00:53:23 GMT</pubDate>
-            <content:encoded><![CDATA[봄 웜, 여름 쿨, 가을 웜, 겨울 쿨. 언뜻 보기엔 무엇을 뜻하는 용어인지 모를 이들의 정체는 무엇일까. 이는 바로 퍼스널 컬러의 유형이다. 각자의 피부톤과 가장 어울리는 색상을 찾는 색채학 이론에 기반한 퍼스널 컬러는 크게 웜톤과 쿨톤, 봄·여름·가을·겨울로 세분화 한 유형으로 구성된다. 이는 단순히 자신에게 어울리는 색상을 아는 것을 넘어 일상 속 스]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["정체성 뿌리는 비보이"..박재범도 반한 '쇼다운' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220319093003391</link>
-            <guid>https://entertain.v.daum.net/v/20220319093003391</guid>
-            <pubDate>Sat, 19 Mar 2022 00:53:23 GMT</pubDate>
-            <content:encoded><![CDATA[대한민국 비보이들의 짜릿한 배틀이 '쇼다운'을 수놓았다. 18일 첫 방송된 JTBC 댄스 서바이벌 '쇼다운'은 최종 우승 상금 1억원이 걸린 세계 최강 브레이킹 크루들의 대결이다. 방송에서는 저지 박재범, 이우성, 제이블랙의 배틀 저지쇼부터 리버스크루, 진조크루, 갬블러크루, 퓨전엠씨, 소울번즈, 원웨이크루, 플로우엑셀, 이모션크루까지 출전하는 8개]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[돌아온 '식스센스', 빈 자리 있어도 웃음 공백은 없었다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220319093000385</link>
-            <guid>https://entertain.v.daum.net/v/20220319093000385</guid>
-            <pubDate>Sat, 19 Mar 2022 00:53:23 GMT</pubDate>
-            <content:encoded><![CDATA[[김상화 기자] &nbsp;        ▲ &nbsp;지난 18일 방영된 tvN '식스센스3'의 한 장면.    ⓒ CJ ENM  &nbsp; tvN 간판 예능 &lt;식스센스&gt;가 재정비를 마치고 시즌 3으로 돌아왔다. 지난 2년간 2개 시즌을 통해 방영된 &lt;식스센스&gt;는 멤버들의 예측 불허 토크와 가짜찾기라는 제작진의 연출로 재미를 선사한 바 있다. 이번에 새롭게 돌아온 &lt;식스센스3&gt;는]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['러브게임' 해시태그 승민, 완벽한 라이브 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220319092620344</link>
-            <guid>https://entertain.v.daum.net/v/20220319092620344</guid>
-            <pubDate>Sat, 19 Mar 2022 00:53:23 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 걸그룹 해시태그 메인 보컬 승민이 라디오에 출연해 라이브를 들려주며 귀를 사로잡았다. 18일 방송된 SBS 파워 FM ‘박소현의 러브게임’에서는 걸그룹 해시태그 승민과 로시가 출연했다. 이날 승민은 “늘 멤버들과 함께 있다가 혼자 활동하려니 너무 떨린다”라며 설레는 라디오 출연 소감을 전했다. 이어 솔로 활동을 시작하게 된 소감]]></content:encoded>
+            <title><![CDATA[디카프리오, 우크라 121억원 기부 가짜→"모든 것을 잃었다" 응원 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
+            <link>https://entertain.v.daum.net/v/20220319121109080</link>
+            <guid>https://entertain.v.daum.net/v/20220319121109080</guid>
+            <pubDate>Sat, 19 Mar 2022 03:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자] 배우 레오나르도 디카프리오(47)가&nbsp;SNS를 통해 우크라이나 전쟁 희생자를 추모했다. 디카프리오는 18일(현지시간) 자신의 인스타그램에 지난 달&nbsp;24일 시작된 러시아의 군사 침략으로 피해를 입은 사람들을 돕는 다양한 인도주의 단체들의 사진을 올렸다. 그러면서 "우크라이나 전쟁의 희생자들은 사랑하는 사람들부터 생존을 위한 기본적인]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[클라씨, 日 지상파 TV 도쿄 'SURPRISE' 데뷔..21일 방송 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
@@ -1070,18 +1077,81 @@
             <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) 할리우드 배우 톰 히들스턴이 자웨 애쉬튼과 약혼했다. 17일(현지시간) 미국 피플지는 톰 히들스턴과 자웨 애쉬튼이 3년 간의 열애 끝에 약혼했다고 보도했다. 두 사람은 최근 영국 아카데미(BAFTA) 시상식에 동반 참석했는데, 애쉬튼은 손에 커다란 약혼 반지를 끼우고 있던 것으로 전해졌다. 1981년생으로 만 41세인 톰 히]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[정호연, 美 크리틱스 초이스 슈퍼 어워즈 액션 연기상 "멋진 배우 성장할 것" (다음 연예 ─ 뉴스 ─ 해외)]]></title>
-            <link>https://entertain.v.daum.net/v/20220318115126075</link>
-            <guid>https://entertain.v.daum.net/v/20220318115126075</guid>
-            <pubDate>Fri, 18 Mar 2022 03:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;배우 정호연이 '제2회 크리틱스 초이스 슈퍼 어워즈'(Critics Choice Super Awards)에서 액션 시리즈 부문 여자 연기상을 수상했다. 제2회 크리틱스 초이스 슈퍼 어워즈는 크리틱스 초이스 어워즈(Critics Choice Awards)를 주관하는 크리틱스 초이스 협회에서 지난 2021년부터 새롭게 론칭한 시상식]]></content:encoded>
+            <title><![CDATA[[엑:스피디아] 성시경, 몰카 찍다 걸렸다…'우린 제법 잘 어울려요' (명작뮤비) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001422650</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001422650</guid>
+            <pubDate>Sat, 19 Mar 2022 03:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[영화보다 더 영화 같았던 추억의 뮤직비디오를 소개하는 엑스포츠뉴스만의 코너입니다. 당대 최고의 히트곡들을 떠올리고, 인기 스타들의 풋풋하고 신선한 과거 모습을 함께 추억해보는 '명작뮤비'. &lt;편집자주&gt; (엑스포츠뉴스]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[푸틴이 유일하게 팔로우한 배우 터미네이터, "러시아는 당장 전쟁을 끝내라" 촉구 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
-            <link>https://entertain.v.daum.net/v/20220318114047710</link>
-            <guid>https://entertain.v.daum.net/v/20220318114047710</guid>
-            <pubDate>Fri, 18 Mar 2022 03:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]‘터미네이터’ 아놀드 슈왈제네거(74)가 러시아를 향해 전쟁을 끝내라고 촉구했다. 그는 17일(현지시간) 소셜 미디어를 통해 전쟁의 종식을 촉구하는 9분 분량의 비디오를 공유했다. 러시아 정부로부터 미디어를 검열을 받고 있는 러시아 군인들과 시민들에게 “우크라이나가 이 전쟁을 시작한 것은 아니다”라고 말했다. 푸틴 대통령은]]></content:encoded>
+            <title><![CDATA[크래비티 '아드레날린' 뮤비티저 공개…"강렬하네" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011071106</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011071106</guid>
+            <pubDate>Sat, 19 Mar 2022 03:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]송윤세 기자 = 그룹 크래비티(CRAVITY)가 '아드레날린' 뮤직비디오 티저영상을 공개했다. 크래비티는 18일 공식 SNS 채널에 정규앨범 파트 2 '리버티: 인 아워 코스모스(LIBERTY: IN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아도라, 서정적 감성 보이스…‘어린 이름’ 라이브 클립 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000854823</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000854823</guid>
+            <pubDate>Sat, 19 Mar 2022 03:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[아티스트 ADORA(아도라)의 신곡 라이브 클립으로 감미로운 보이스를 자랑했다. 18일 오후 ADORA의 공식 SNS 채널을 통해 2nd Pre-Release Digital Single ‘어린 이름 (The Litt]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[K팝 이끌 보이그룹 멤버 찾아라…'디 오리진' 오늘 첫 방송 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013060256</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013060256</guid>
+            <pubDate>Sat, 19 Mar 2022 03:15:19 GMT</pubDate>
+            <content:encoded><![CDATA['밸런스 게임' 통해 서바이벌…첫 미션, BTS-에이티즈 무대 재해석 (서울=연합뉴스) 김예나 기자 = 그룹 에이핑크, 더보이즈 등이 소속된 IST엔터테인먼트가 K팝 시장을 이끌어갈 신인 보이그룹을 찾는 여정을 시작]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(여자)아이들, 정규 1집 'I NEVER DIE'로 中 앨범 차트 1위 석권 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004574833</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004574833</guid>
+            <pubDate>Sat, 19 Mar 2022 03:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=지민경 기자] 그룹 (여자)아이들(미연, 민니, 소연, 우기, 슈화)이 뜨거운 글로벌 인기를 입증했다. 지난 14일 발매한 (여자)아이들의 정규 1집 'I NEVER DIE'가 중국 대형 음악 사이트인 ']]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[라붐, 4월 컴백 앞두고 예능 행보 박차 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000800430</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000800430</guid>
+            <pubDate>Sat, 19 Mar 2022 03:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 4월 컴백을 예고한 걸그룹 라붐(LABOUM 소연, 진예, 해인, 솔빈)이 이번 주말 다양한 예능 프로그램에 출격한다. 최근 미니 3집 ‘BLOSSOM’(블러썸)에 이어 새 앨범을 예고한 라붐이 대세]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[크래비티, ‘아드레날린’ MV 티저 공개..자유로운 반항아 변신 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004574830</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004574830</guid>
+            <pubDate>Sat, 19 Mar 2022 03:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=지민경 기자] 그룹 크래비티(CRAVITY)가 ‘아드레날린’이 샘솟을 뮤직비디오를 예고했다. 크래비티는 지난 18일 오후 공식 SNS 채널을 통해 정규앨범 파트 2 ‘LIBERTY: IN OUR COSMO]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘더블 트러블’ 효린X김준수, 1위 차지→상금 1억 기부 “우승 만끽하겠다” (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000854820</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000854820</guid>
+            <pubDate>Sat, 19 Mar 2022 03:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[아티스트 효린이 ‘더블 트러블’ 1위를 차지한 가운데 상금을 기부하기로 결정했다. 효린은 지난 18일 오후 방송된 왓챠 음악예능프로그램 ‘더블 트러블’에 출연했다. 이날 효린은 더블 트러블의 긴 여정 끝 김준수와의]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[돌풍 (여자)아이들, 中 ‘왕이뮤직’ 앨범차트 싹쓸이 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000800429</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000800429</guid>
+            <pubDate>Sat, 19 Mar 2022 03:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 그룹 (여자)아이들(미연, 민니, 소연, 우기, 슈화)이 뜨거운 글로벌 인기를 입증했다. 지난 14일 발매한 (여자)아이들의 정규 1집 ‘I NEVER DIE’가 중국 대형 음악 사이트인 ‘왕이뮤직’]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[하밍구, 신곡 ‘행성’ 오늘(19일) 발매…세련된 분위기 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000854819</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000854819</guid>
+            <pubDate>Sat, 19 Mar 2022 03:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[래퍼 하밍구가 ‘행성(Planet)’으로 발매한다. 19일 정오 각종 음원사이트를 통해 하밍구만의 독보적인 음악적 색깔이 담긴 ‘행성(Planet)’이 공개된다. 이번 신곡은 남녀관계를 포괄하여 누군가에게 인정을 받]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오마이걸, 신보 ‘Real Love’ 개인 쇼트 필름 공개..활짝 핀 미모 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004574822</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004574822</guid>
+            <pubDate>Sat, 19 Mar 2022 03:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=지민경 기자] ‘콘셉트 요정’ 오마이걸(OH MY GIRL)이 더욱 짙어진 매력을 담은 개인 쇼트 필름을 공개했다. 19일 소속사 WM엔터테인먼트는 공식 SNS 채널을 통해 오마이걸의 정규 2집 ‘Real]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['방과후설렘' 클라씨, 21일 日지상파 출연 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
@@ -1182,81 +1252,116 @@
             <content:encoded><![CDATA[[헤럴드POP=조은미 기자]‘콘셉트 요정’ 오마이걸(OH MY GIRL)이 더욱 짙어진 매력을 담은 개인 쇼트 필름을 공개했다. 19일 소속사 WM엔터테인먼트는 공식 SNS 채널을 통해 오마이걸의 정규 2집 ‘Rea]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[미라클 최고의 명품백은 오마이걸 컴백 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001422622</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001422622</guid>
-            <pubDate>Sat, 19 Mar 2022 00:53:37 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이정범 기자) ‘콘셉트 요정’ 오마이걸(OH MY GIRL)이 더욱 짙어진 매력을 담은 개인 쇼트 필름을 공개했다. 이에 공식 팬클럽 미라클의 시선이 집중됐다. 19일 소속사 WM엔터테인먼트는 공식 S]]></content:encoded>
+            <title><![CDATA[블랙핑크 지수, 절친 보나와 얼굴 꽁꽁 감추고 데이트…소탈 매력 [N샷] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005977774</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005977774</guid>
+            <pubDate>Sat, 19 Mar 2022 03:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 걸그룹 블랙핑크 지수와 우주소녀 보나가 여전한 우정을 자랑했다. 지수는 지난 18일 자신의 인스타그램 스토리에 "데이트"라는 글과 함께 사진을 게재했다. 공개된 사진에서 지수와 보나는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[하이라이트, 타이틀곡 'DAYDREAM' 첫 공개…슈트핏·군무 기대UP (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004574787</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004574787</guid>
-            <pubDate>Sat, 19 Mar 2022 00:53:37 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자] 보이그룹 하이라이트가 'DAYDREAM'의 감성 퍼포먼스를 예고했다. 하이라이트는 19일 0시 공식 유튜브를 통해 오는 21일 발매할 첫 번째 정규앨범 'DAYDREAM(데이드림)' 타이틀곡]]></content:encoded>
+            <title><![CDATA['♥개코 부럽네' 김수미, 브라톱 드러낸 아찔한 섹시미 "치명적"[스타IN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003036910</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003036910</guid>
+            <pubDate>Sat, 19 Mar 2022 03:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[다이나믹듀오 멤버 개코 아내 김수미가 남다른 몸매를 과시했다. 김수미는 18일 자신의 인스타그램을 통해 근황 사진을 공개했다. 김수미는 "무슨 이런 치명적인 트레이닝복이 다있져 증말?"이라고 적었다. 김수미는 브라톱]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[하이라이트 ‘DAYDREAM’ 감성 퍼포먼스 첫 공개…4色 춤선 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000553445</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000553445</guid>
-            <pubDate>Sat, 19 Mar 2022 00:53:37 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 그룹 하이라이트가 감성 퍼포먼스를 예고했다. 하이라이트는 3월 19일 공식 유튜브를 통해 오는 21일 발매하는 첫 번째 정규앨범 'DAYDREAM (데이드림)' 타이틀곡 'DAYDREAM' 두]]></content:encoded>
+            <title><![CDATA[엑소 카이→TXT 휴닝 카이, 가요계 코로나19 확진 ing[종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004936990</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004936990</guid>
+            <pubDate>Sat, 19 Mar 2022 03:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 확진자가 누적 900만명을 돌파한 가운데, 가요계에서도 끊임없이 확진자가 나오고 있다. 중앙방역대책본부에 따르면 19일 0시 기준 코로나19 신규 확진자가 38만1454명 늘어 누적 903만8938명으로]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[오마이걸 'Real Love' 쇼트 필름..무르익은 비주얼 '미모 폭발' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003036893</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003036893</guid>
-            <pubDate>Sat, 19 Mar 2022 00:53:37 GMT</pubDate>
-            <content:encoded><![CDATA['콘셉트 요정' 오마이걸(OH MY GIRL)이 더욱 짙어진 매력을 담은 개인 쇼트 필름을 공개했다. 소속사 WM엔터테인먼트는 19일 공식 SNS 채널을 통해 오마이걸의 정규 2집 'Real Love'의 개인 쇼트]]></content:encoded>
+            <title><![CDATA[박민영♥송강 감싸는 애틋한 기류 (기상청 사람들) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000967449</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000967449</guid>
+            <pubDate>Sat, 19 Mar 2022 03:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[‘기상청 사람들’ 박민영♥송강의 애틋한 눈빛이 포착됐다. JTBC 토일드라마 ‘기상청 사람들: 사내연애 잔혹사 편’(연출 차영훈, 극본 선영, 크리에이터 글Line&amp;강은경, 제작 앤피오엔터테인먼트, JTBC스튜디오,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[하이라이트, 'DAYDREAM' 두 번째 MV 티저 공개..감성 퍼포먼스 예고 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003542699</link>
-            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003542699</guid>
-            <pubDate>Sat, 19 Mar 2022 00:53:37 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드POP=조은미 기자]그룹 하이라이트가 'DAYDREAM'의 감성 퍼포먼스를 예고했다. 하이라이트는 19일 0시 공식 유튜브를 통해 오는 21일 발매하는 첫 번째 정규앨범 'DAYDREAM (데이드림)' 타이틀]]></content:encoded>
+            <title><![CDATA[마마무 솔라 "'뮤직뱅크' 너무하네" 불만 토로, 무슨 일? [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000536453</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000536453</guid>
+            <pubDate>Sat, 19 Mar 2022 03:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=노규민 기자] 그룹 마마무 멤버 솔라가 KBS '뮤직뱅크' 제작진에게 불만(?)을 표출했다. 솔라는 18일 자신의 인스타그램 스토리에 "뮤직뱅크 너무하시네요. 제 자리만 땅 파두시고"라는 글과 함께 사진]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['선행' 임영웅, 아이돌차트 1위…훈훈하네 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004574781</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004574781</guid>
-            <pubDate>Sat, 19 Mar 2022 00:53:37 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자] 가수 임영웅이 아차랭킹 남자 솔로 1위에 올랐다. 19일 아이돌차트에 따르면 임영웅은 3월 1주차(3월7일~3월13일) 아차랭킹에서 음원점수 658점, 유튜브점수 1692점, 소셜점수 744]]></content:encoded>
+            <title><![CDATA[정동하, ‘김창완 특집’서 또 한번 트로피 사냥 나선다 (불후의 명곡) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000967448</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000967448</guid>
+            <pubDate>Sat, 19 Mar 2022 03:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[가수 정동하가 국가단 손진욱과의 콜라보 무대를 펼칠 예정이다. 오늘 19일 저녁 방송되는 KBS 2TV ‘불후의 명곡’에 정동하가 출연한다. 아티스트 김창완 편으로 꾸며지는 이날 방송에서 정동하는 ‘나 어떡해’를 선]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단, '그래미 어워드' 퍼포머 합류, "3년 연속!" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=438&amp;aid=0000044890</link>
-            <guid>https://entertain.naver.com/now/read?oid=438&amp;aid=0000044890</guid>
-            <pubDate>Sat, 19 Mar 2022 00:53:37 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 방탄소년단이 미국 최고 권위의 대중음악 시상식 '그래미 어워드(GRAMMY AWARDS)'에서 3년 연속 무대에 선다. '그래미 어워드'를 주관하는 미국 레코딩 아카데미(Recording Academy)는 15]]></content:encoded>
+            <title><![CDATA['생애 첫 독립' 혜리, 쇼핑 큰손 등극… 43만원짜리 그릇도 '덥썩' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000795688</link>
+            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000795688</guid>
+            <pubDate>Sat, 19 Mar 2022 03:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[걸스데이 출신 배우 혜리가 생애 첫 독립을 했다. 혜리는 18일 자신의 유튜브 채널을 통해 "여러분 저 독립했어요! 돈 쓰러 가자!"는 제목의 영상을 공개했다. 혜리는 청담동, 한남동 등의 편집샵을 둘러보며 쓰레기통]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[피원하모니, 美 틴보그 메인 장식..K팝 4세대 대표 루키로 우뚝 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003542693</link>
-            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003542693</guid>
-            <pubDate>Sat, 19 Mar 2022 00:53:37 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드POP=조은미 기자]그룹 피원하모니 (P1Harmony, 기호 테오 지웅 인탁 소울 종섭)가 미국 매거진 틴보그의 메인을 또 한 번 장식하며 4세대 대표 글로벌 루키로 우뚝 성장했다. 미국 유명 매거진 틴보그]]></content:encoded>
+            <title><![CDATA[K팝 이끌 보이그룹 멤버 찾아라…'디 오리진' 오늘 첫 방송 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013060256</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013060256</guid>
+            <pubDate>Sat, 19 Mar 2022 03:15:27 GMT</pubDate>
+            <content:encoded><![CDATA['밸런스 게임' 통해 서바이벌…첫 미션, BTS-에이티즈 무대 재해석 (서울=연합뉴스) 김예나 기자 = 그룹 에이핑크, 더보이즈 등이 소속된 IST엔터테인먼트가 K팝 시장을 이끌어갈 신인 보이그룹을 찾는 여정을 시작]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[(여자)아이들, 'TOMBOY' 첫 컴백 무대..당당한 애티튜드에 매료 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003542692</link>
-            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003542692</guid>
-            <pubDate>Sat, 19 Mar 2022 00:53:37 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드POP=조은미 기자]그룹 (여자)아이들(미연, 민니, 소연, 우기, 슈화)이 신곡 'TOMBOY' 첫 컴백 무대를 꾸몄다. (여자)아이들은 지난 18일 방송된 KBS2 '뮤직뱅크'에서 첫 번째 정규 앨범 'I]]></content:encoded>
+            <title><![CDATA['애둘맘' 홍영기, 비키니 입고 러닝이라니…몸매 이렇게 좋았나 [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000536452</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000536452</guid>
+            <pubDate>Sat, 19 Mar 2022 03:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=태유나 기자] 얼짱 출신 사업가 홍영기가 미국 LA에서 비키니를 입고 몸매를 뽐냈다. 19일 홍영기는 자신의 인스타그램에 "LA 버킷리스트 중 하나였던 해변에서 러닝하기. 행복해서 미처버릴 뻔. 저 그냥]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우태운X아이원, 21일 '사랑했다' 컴백..5개월만 신곡[공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003036887</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003036887</guid>
-            <pubDate>Sat, 19 Mar 2022 00:53:37 GMT</pubDate>
-            <content:encoded><![CDATA[가수 우태운, 아이원(IONE)이 5개월 만에 돌아온다. 우태운과 아이원은 지난 18일 오후 공식 SNS를 통해 신곡 발매 소식을 알리는 티저 이미지를 공개하며 팬들의 기대감을 끌어올렸다. 공개된 이미지에는 안개가]]></content:encoded>
+            <title><![CDATA[하염없이 기다리는 김태리, ‘실망스러운 표정’ 무슨 일? (2521) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000967447</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000967447</guid>
+            <pubDate>Sat, 19 Mar 2022 03:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[‘스물다섯 스물하나’ 김태리의 모습이 담긴 스틸이 호기심을 자극한다. tvN 토일드라마 ‘스물다섯 스물하나’는 1998년 시대에 꿈을 빼앗긴 청춘들의 방황과 성장을 그린 드라마로 김태리는 극 중 펜싱 선수 나희도 역]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[BTS '온' 뮤직비디오, 유튜브 3억 뷰 돌파 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013060129</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013060129</guid>
-            <pubDate>Sat, 19 Mar 2022 00:53:37 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 김예나 기자 = 그룹 방탄소년단(BTS)의 히트곡 중 하나인 '온'(ON) 뮤직비디오가 유튜브에서 3억 뷰를 돌파했다. 19일 소속사 빅히트뮤직에 따르면 '온' 뮤직비디오는 전날 오후 4시 3분께]]></content:encoded>
+            <title><![CDATA[허경환, 센스 만점 입담+훈훈 비주얼 ‘허데빌’로 변신 (신과 한판) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000967446</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000967446</guid>
+            <pubDate>Sat, 19 Mar 2022 03:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[개그맨 허경환이 매력적인 입담으로 안방극장을 찾았다. 허경환은 지난 18일 오후 11시 방송된 MBN ‘신과 한판’에 출연했다. 이날 허경환은 중식 대가 셰프 이연복과의 인맥을 깜짝 자랑, “이 지겨운 세상에서 왜]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["진짜 예쁘시다" 박재범, 뮤비날 후기 공개하자… 아이유 반응은? (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000795686</link>
+            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000795686</guid>
+            <pubDate>Sat, 19 Mar 2022 03:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[가수 박재범이 가수 아이유와 뮤직비디오 촬영 당일 후기를 공개해 눈길을 끈다. 지난 17일 아이유 공식 유튜브 이지금에는 박재범이 출연해 아이유와 함께 신곡 '가나다라' 라이브 무대를 펼친 뒤 대화를 나눈 영상이 올]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘4세대 대표주자’ 트레저X엔믹스, ‘요즘 가장 인기있는 케이팝 아티스트’ (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000967445</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000967445</guid>
+            <pubDate>Sat, 19 Mar 2022 03:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[K-POP 아티스트의 글로벌 인기가 뜨겁다. 뮤빗(Mubeat) 팬덤실험실 측은 “트레저(TREASUER)와 엔믹스(NMIXX)가 ‘이달의 HIT 아티스트’로, NCT 태일과 비비지(VIVIZ)가 ‘라이징 아티스트’]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마마무 솔라 "'뮤직뱅크' 너무하시네요"…서운함 토로한 이유 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005977737</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005977737</guid>
+            <pubDate>Sat, 19 Mar 2022 03:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 걸그룹 마마무 솔라가 KBS 2TV '뮤직뱅크'에 서운함을 토로, 웃음을 줬다. 솔라는 지난 18일 자신의 인스타그램 스토리에 "'뮤직뱅크' 너무하시네요"라며 "제 자리만 땅 파두시고]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘둘째 출산 3개월’ 이지혜 몸매에 누리꾼 “출산하신 분 맞나요?”...어떻길래 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003677663</link>
+            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003677663</guid>
+            <pubDate>Sat, 19 Mar 2022 03:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[사진=이지혜 인스타그램 캡처 샵 출신 가수 이지혜가 둘째 출산 3개월 만에 완벽한 몸매를 공개했다. 19일 이지혜는 인스타그램에 “나 몸 되게 유연하네 ㅋㅋㅋㅋㅋㅋ 꺾는 걸 좋아했어 ㅋㅋ #애 낳은지 86일 #엄마는]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[혜리, 첫 독립 후 새집 공개…"큰맘 먹고 산 그릇 43만원" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005977733</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005977733</guid>
+            <pubDate>Sat, 19 Mar 2022 03:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 걸스데이 출신 배우 혜리가 독립을 하게 됐다고 밝혔다. 혜리는 지난 18일 자신의 유튜브 채널에 '여러분 저 독립했어요, 돈 쓰러 가자'라는 제목의 영상을 게재했다. 해당 영상에서 혜]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[야옹이 작가, ‘수억원대’ 에르메스 백보다 빛나는 각선미...초미니 스커트에 헉 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
@@ -1322,116 +1427,25 @@
             <content:encoded><![CDATA[웹툰작가 기안84가 전액기부를 예고하며 개인전을 홍보했다. 기안84는 지난 18일 자신의 인스타그램에 “3월 25일부터 4월 5일까지 개인전한다”라는 글과 사진을 게재했다. 사진 속에는 그의 개인전 포스터가 담겨 있]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['식스센스3' 3.5%로 출발…시작부터 전체 시즌 최고 시청률 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013060209</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013060209</guid>
-            <pubDate>Sat, 19 Mar 2022 02:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[브레이킹 댄스 매력 보여준 JTBC '쇼다운' 1.7% (서울=연합뉴스) 김정진 기자 = tvN 예능 '식스센스3'가 첫 방송부터 전체 시즌을 통틀어 최고 시청률을 기록했다. 19일 시청률 조사회사 닐슨코리아에 따르면 전날 오후 8시 40분 방송된 '식스센스3' 첫 방송 시청률은 3.5%(이하 비지상파 유료가구)로 집계됐...]]></content:encoded>
+            <title><![CDATA[디카프리오, 우크라 121억원 기부 가짜→"모든 것을 잃었다" 응원 [Oh!llywood] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004574839</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004574839</guid>
+            <pubDate>Sat, 19 Mar 2022 03:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자] 배우 레오나르도 디카프리오(47)가 SNS를 통해 우크라이나 전쟁 희생자를 추모했다. 디카프리오는 18일(현지시간) 자신의 인스타그램에 지난 달 24일 시작된 러시아의 군사 침략으로 피해를]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[정미애 "예기치 못한 큰 수술, 모든 스케줄 잠정 연기" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005977686</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005977686</guid>
-            <pubDate>Sat, 19 Mar 2022 02:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 가수 정미애가 수술을 받은 사실을 알렸다. 정미애는 지난 18일 자신의 인스타그램에 손편지를 찍은 사진을 게재했다. 편지에서 정미애는 "지난 12월 예기치 못한 큰 수술을 하게 됐다"]]></content:encoded>
+            <title><![CDATA[앤 해서웨이, 속옷까지 보여주는 과감한 노출 드레스 [포토엔] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000553459</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000553459</guid>
+            <pubDate>Sat, 19 Mar 2022 03:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 배우 앤 해서웨이가 파격 드레스를 선보였다. 앤 해서웨이는 3월 17일(현지시간) 미국 캘리포니아주 로스앤젤레스 아카데미 영화 박물관에서 열린 애플 TV+ 시리즈 '우린 폭망했다' 글로설 시사]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[소유, 카디건 입어도 숨길수없는 볼륨 몸매…청순+섹시 매력 [N샷] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005977685</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005977685</guid>
-            <pubDate>Sat, 19 Mar 2022 02:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 걸그룹 씨스타 출신 소유가 청순 섹시 매력을 뽐냈다. 소유는 지난 18일 자신의 인스타그램에 여러 장의 사진을 게재했다. 사진에서 소유는 카디건을 걸친 패션을 선보이며 거울 셀카를 찍]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['이혼 후 싱글맘' 박은혜, 와플기계로 이것까지?…요리연구가도 '감탄' [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000536449</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000536449</guid>
-            <pubDate>Sat, 19 Mar 2022 02:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=태유나 기자] 배우 박은혜가 와플기계로 계란빵을 만든 일상을 전했다. 19일 박은혜는 자신의 인스타그램에 "#와플기계 로 #계란빵 만들기~~^^ 쉬워요~해보세요~~~ #오늘아침메뉴 #초간단"이라는 글과 함]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[피원하모니, 美매거진 틴보그 커버 장식 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000607652</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000607652</guid>
-            <pubDate>Sat, 19 Mar 2022 02:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 피원하모니 (P1Harmony)가 미국 매거진 틴보그의 메인을 또 한 번 장식했다. 미국 유명 매거진 틴보그는 ‘피원하모니, 센시아, 우미, 그리고 더 많은 최고의 신곡 (P1Harmony, Shenseea,]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘김상혁과 이혼’ 송다예, 벤츠 범퍼 박살 “누가 긁은 거 세 번 째인데...” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003677657</link>
-            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003677657</guid>
-            <pubDate>Sat, 19 Mar 2022 02:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[사진=송다예 인스타그램 캡처 얼짱 출신 쇼핑몰 CEO이자 클릭비 출신 김상혁의 전 아내 송다예가 근황을 전했다. 18일 송다예는 인스타그램 스토리에 “주차 된 차 누가 긁은거 세번째”라는 글과 함께 사진을 게재했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘신조어 초보’ 큰형님의 짠내 나는 고군분투 (1박 2일) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000967441</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000967441</guid>
-            <pubDate>Sat, 19 Mar 2022 02:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[‘OB’ 연정훈, 김종민, 문세윤이 환골탈태 할 수 있을까. 20일(내일) 저녁 6시 30분에 방송되는 KBS 2TV ‘1박 2일 시즌4’(이하 1박 2일) ‘세대 공감 올드 앤 뉴’ 특집에서는 똘똘 뭉친 OB와 Y]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["3박 4일 제주도 호캉스"…안소희, 음주는 빠질 수 없지 [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000536448</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000536448</guid>
-            <pubDate>Sat, 19 Mar 2022 02:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=노규민 기자] 배우 안소희가 제주도에서 호캉스를 즐겼다. 안소희는 지난 18일 자신의 인스타그램에 "찐친들이랑 3박 4일 제주도 호캉스"라는 글과 함께 사진 한 장을 게재했다. 사진 속 안소희는 호텔에서]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[소유, 민소매 티셔츠 입고...‘아찔 볼륨감’ (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004936980</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004936980</guid>
-            <pubDate>Sat, 19 Mar 2022 02:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[가수 소유가 볼륨감 넘치는 몸매를 뽐냈다. 소유는 지난 18일 자신의 인스타그램에 거울 셀카를 게재했다. 공개된 사진에는 연습실로 보이는 곳에서 사진을 찍고 있는 소유의 모습이 담겼다. 흰색 민소매 티셔츠에 회색 카]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["애 낳은 지 86일" 이지혜, 어떻게 관리 했길래…♥문재완도 놀랄 '여리여리' 비주얼 [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000536447</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000536447</guid>
-            <pubDate>Sat, 19 Mar 2022 02:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=서예진 기자] 가수 이지혜가 둘째 출산 후 근황을 전했다. 이지혜는 19일 자신의 SNS에 “나 몸 매우 유연하네. 꺾는 걸 좋아했어”라며 몇 장의 사진을 게재했다. 공개된 사진에는 스튜디오에서 촬영하는]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스테이씨, 브랜드 고객충성도 대상 후보 올라 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000607651</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000607651</guid>
-            <pubDate>Sat, 19 Mar 2022 02:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 스테이씨(STAYC)가 ‘브랜드 고객충성도 대상’ 수상 후보에 올랐다. 19일 소속사 하이업엔터테인먼트는 “스테이씨가 ‘2022 브랜드 고객충성도 대상’에서 ‘2022년 가장 영향력 있는 여자아이돌 (라이징스타]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[소유진, 애들 재우고 신났네…'♥' 백종원이 놀랄판 [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000536445</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000536445</guid>
-            <pubDate>Sat, 19 Mar 2022 02:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=노규민 기자] 배우 소유진이 발랄한 매력을 뽐냈다. 소유진은 지난 18일 자신의 인스타그램에 "애들 재우고 이제 저만의 시간이네요"라는 글과 함께 영상을 게재했다. 사진 속 소유진은 트레이닝복 차림으로 신]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“노래보다 춤이 더 힘들어”…하이라이트, 감성 퍼포먼스 예고 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000607650</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000607650</guid>
-            <pubDate>Sat, 19 Mar 2022 02:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 하이라이트가 'DAYDREAM'의 감성 퍼포먼스를 예고했다. 하이라이트는 19일 0시 공식 유튜브를 통해 오는 21일 발매하는 첫 번째 정규앨범 'DAYDREAM (데이드림)' 타이틀곡 'DAYDREAM'의 두]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한채영, 서우진의 귀여운 매력에 ‘웃음꽃 만발♥’ (스폰서) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000967440</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000967440</guid>
-            <pubDate>Sat, 19 Mar 2022 02:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[‘스폰서’ 측이 배우들의 색다른 매력을 만나볼 수 있는 5, 6회 메이킹 영상을 공개했다. 매주 수, 목요일 밤 11시 IHQ drama 채널과 MBN에서 방송되는 수목드라마 ‘스폰서’(연출 이철/ 극본 한희정)는]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 지민, 보이그룹 개인 브랜드평판 1위…2위는 강다니엘 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000854811</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000854811</guid>
-            <pubDate>Sat, 19 Mar 2022 02:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[방탄소년단(BTS) 지민이 보이그룹 개인 브랜드평판 2022년 3월 빅데이터 분석결과 1위로 분석됐다. 한국기업평판연구소는 보이그룹 개인 브랜드평판 빅데이터 분석을 위해 2022년 2월 19일부터 2022년 3월 1]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["생일 축하 감사해"…장나라, 전국 42살이 부러워 할 최강 동안 [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000536443</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000536443</guid>
-            <pubDate>Sat, 19 Mar 2022 02:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=노규민 기자] 가수 겸 배우 장나라가 근황을 전했다. 장나라는 19일 자신의 인스타그램 스토리를 통해 "생일 축하해주셔서 모두모두 감사합니당"이라는 글과 함께 영상을 게재했다. 영상에서 42번째 생일을 맞]]></content:encoded>
+            <title><![CDATA['로키' 톰 히들스턴, 3년 열애 자웨 애슈턴과 약혼…반지 눈길 [N해외연예] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005977735</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005977735</guid>
+            <pubDate>Sat, 19 Mar 2022 03:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = '마블 스타' 톰 히들스턴과 자웨 애슈턴이 약혼했다. 미국 CNN은 18일(현지시간) 톰 히들스턴과 자웨 애슈턴이 약혼했다고 전했다. CNN은 두 사람이 지난 13일 영국 런던 로얄]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[“청바지 잘라 만든 브라톱 멋있죠”, 카녜이 웨스트 32살 전 여친의 유니크한 패션[해외이슈] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
@@ -1586,27 +1600,6 @@
             <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013059069</guid>
             <pubDate>Fri, 18 Mar 2022 05:14:01 GMT</pubDate>
             <content:encoded><![CDATA[(서울=연합뉴스) 재일조선인 4대에 걸친 이야기를 다루는 애플TV+ 드라마 '파친코'의 배우 윤여정. 윤여정은 부산에서 일본으로 이주한 지 50년이 지난 나이 든 선자를 연기했다. 총 8개 에피소드로 구성된 드라마는]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘女모델과 키스’ 시에나 밀러, 이번엔 15세 연하 男모델과 열애 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000553132</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000553132</guid>
-            <pubDate>Fri, 18 Mar 2022 05:14:01 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 시에나 밀러가 15세 연하 남성모델과 열애 중이다. 외신 페이지 식스는 3월 17일(현지시간) 배우 시에나 밀러(40)가 15세 연하 모델인 올리 그린(25)과 열애 중이라고 보도했다. 이 매]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“어렸을 때 담배 피웠는데, 딸에게 너무 부끄러워” 37살 스칼렛 요한슨 후회[해외이슈] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003585711</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003585711</guid>
-            <pubDate>Fri, 18 Mar 2022 05:14:01 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]‘블랙 위도우’ 스칼렛 요한슨이 어린 시절 담배를 피운 것이 부끄럽다고 했다. 16일(현지시간) 드류 베리모어 쇼에 출연한 그는 “딸이 전에 물어봤을 수 있는데, 나는 어린 시절에 담배를]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[톰 히들스턴, '더 마블스' 자웨 애쉬튼과 약혼…MCU 커플 탄생 [엑's 할리우드] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001422299</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001422299</guid>
-            <pubDate>Fri, 18 Mar 2022 05:14:01 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) 할리우드 배우 톰 히들스턴이 자웨 애쉬튼과 약혼했다. 17일(현지시간) 미국 피플지는 톰 히들스턴과 자웨 애쉬튼이 3년 간의 열애 끝에 약혼했다고 보도했다. 두 사람은 최근 영국 아카데미]]></content:encoded>
         </item>
     </channel>
 </rss>
