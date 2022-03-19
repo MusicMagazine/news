@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 22:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 23:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['새 봄과 함께' 레드벨벳, 유튜브 라이브]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=197988</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=197988</guid>
+            <pubDate>Sat, 19 Mar 2022 23:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=197988">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220319131514_02463ace4f2f5979036d8083374298b1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=197988">'새 봄과 함께' 레드벨벳, 유튜브 라이브  </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220319131514_02463ace4f2f5979036d8083374298b1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, '그래미 어워드' 퍼포머 합류, "3년 연속!"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=197941</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196905">옹성우, 두 번째 국내 팬미팅 ‘RE:MEET’ 성료</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220314072705_0eaddc7d9286d4fa4aa0fb9220db63dc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄여름가을겨울 ‘브라보 마이 라이프’ 20주년 기념 앨범]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=196578</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=196578</guid>
-            <pubDate>Fri, 11 Mar 2022 10:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=196578">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220311163048_c9062618490adc9df7eae639325c611f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196578">봄여름가을겨울 ‘브라보 마이 라이프’ 20주년 기념 앨범 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220311163048_c9062618490adc9df7eae639325c611f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
