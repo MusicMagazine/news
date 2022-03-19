@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 03:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 04:19:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오마이걸, 압도적 아우라…무르익은 매력 발산]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/341381</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/341381</guid>
+            <pubDate>Sat, 19 Mar 2022 04:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/341381">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/19/W2evWtGB234v637832912820558771.jpg" alt="오마이걸, 압도적 아우라…무르익은 매력 발산">        <div class="text-box">            <p class="summary">오마이걸, 압도적 아우라…무르익은 매력 발산</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/19/W2evWtGB234v637832912820558771.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마마무 솔라, 얼굴이 곧 자신감 [인터뷰M]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/341291</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 18 Mar 2022 05:13:21 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/341299">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/18/2266ab22-2954-4e67-ab06-d1bae1bb20af.jpg" alt="'편스토랑' 장원영, 즉석 디저트 CF 도전">        <div class="text-box">            <p class="summary">'편스토랑' 장원영, 즉석 디저트 CF 도전</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/18/2266ab22-2954-4e67-ab06-d1bae1bb20af.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 더보이즈 현재, '훈훈' 잘생김]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/341296</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/341296</guid>
-            <pubDate>Fri, 18 Mar 2022 05:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/341296">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/18/9b3bf349-ce9c-4259-80c1-fc7b681ad33b.jpg" alt="[포토] 더보이즈 현재, '훈훈' 잘생김">        <div class="text-box">            <p class="summary">[포토] 더보이즈 현재, '훈훈' 잘생김</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/18/9b3bf349-ce9c-4259-80c1-fc7b681ad33b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
