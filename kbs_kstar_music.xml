@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 00:53:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 02:11:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단, '그래미 어워드' 퍼포머 합류, "3년 연속!"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=197941</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=197941</guid>
+            <pubDate>Sat, 19 Mar 2022 02:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=197941">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220319093656_79d75b0e6bdb0964d2b936333f96f865.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=197941">방탄소년단, '그래미 어워드' 퍼포머 합류, "3년 연속!"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220319093656_79d75b0e6bdb0964d2b936333f96f865.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[10주년 맞은 엑소...팬들과 함께 뜻깊은 시간 보낸다]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=197637</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196578">봄여름가을겨울 ‘브라보 마이 라이프’ 20주년 기념 앨범 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220311163048_c9062618490adc9df7eae639325c611f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드리핀, 일본 시장 접수하러 간다 '쏘 굿']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=196491</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=196491</guid>
-            <pubDate>Fri, 11 Mar 2022 00:56:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=196491">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220311092236_051f07114c3d3bc299c19b06c6b56749.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196491">드리핀, 일본 시장 접수하러 간다 '쏘 굿'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220311092236_051f07114c3d3bc299c19b06c6b56749.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
