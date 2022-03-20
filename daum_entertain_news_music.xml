@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-03-20T07:14:29.090Z</updated>
+    <updated>2022-03-20T08:19:00.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장기하, 코로나19 확진.."예정된 공연 모두 취소"]]></title>
+        <id>https://entertain.v.daum.net/v/20220320162513584</id>
+        <link href="https://entertain.v.daum.net/v/20220320162513584"/>
+        <updated>2022-03-20T08:18:18.949Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이덕행 기자] 가수 장기하가 12일 오전 서울 마포구 상암동 스탠포드호텔에서 열린 MBC에브리원 '요트원정대' 제작발표회에 참석해 포즈를 취하고 있다.  '요트원정대'는 모험을 꿈꿔왔던 네 남자가 요트를 타고 태평양 항해에 도전하는 과정을 담은 다큐멘터리식 예능 프로그램이다. 오는 17일 첫 방송. /사진=김창현 기자 chmt@장기하가 코로나19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['컬투쇼' 아이들 우기 "타이틀곡 작사는 소연, 평소 직설적인 편"]]></title>
         <id>https://entertain.v.daum.net/v/20220320154807914</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220320101031997"/>
         <updated>2022-03-20T02:14:56.422Z</updated>
         <content type="html"><![CDATA[[OSEN=이승훈 기자] 그룹 크래비티(CRAVITY)가 청량한 매력을 가득 품고 돌아온다. 크래비티는 오는 22일 정규앨범 파트 2 ‘LIBERTY: IN OUR COSMOS(리버티 : 인 아워 코스모스)’를 발매하고 가요계에 컴백한다.&nbsp; 크래비티는 지난해 8월 데뷔 1년 4개월 만에 첫 정규앨범 파트 1 ‘THE AWAKENING: Written i]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[죽지않은 아이들 'TOMBOY' 국내 음원차트 '퍼펙트 올킬']]></title>
-        <id>https://entertain.v.daum.net/v/20220320100953987</id>
-        <link href="https://entertain.v.daum.net/v/20220320100953987"/>
-        <updated>2022-03-20T02:14:56.424Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 (여자)아이들(미연, 민니, 소연, 우기, 슈화)이 신곡 'TOMBOY'(톰보이)로 국내 음원 차트를 올킬하며 뜨거운 인기를 이어가고 있다. (여자)아이들은 3월 14일 오후 6시 첫 번째 정규 앨범 'I NEVER DIE'(아이 네버 다이)를 발매했다. 타이틀곡 'TOMBOY'는 국내 음원 사이트에서 1위를 하며 음원 차트]]></content>
     </entry>
 </feed>
