@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-20T14:16:29.984Z</updated>
+    <updated>2022-03-20T15:16:29.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오마이걸 아린, 공주]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001423043</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001423043"/>
+        <updated>2022-03-20T15:16:14.302Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 오마이걸 아린의 비주얼이 눈길을 끈다. 20일 오마이걸 아린은 자신의 인스타그램에 사진을 다수 게재했다. 사진 속 아린은 다양한 포즈를 취하고 있다. 그의 남다른 미모는 공식 팬클럽 미라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위클리 지한X박소은 표 러브송의 탄생.. ‘사내맞선’ OST ‘사랑이 내 안에 들어와’ 발매]]></title>
         <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001210419</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011072116"/>
         <updated>2022-03-20T06:18:54.629Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]전재경 기자 = 댄서 노제가 코로나 확진 판정을 받았다. 19일 소속사 스타팅하우스는 공식 홈페이지에 "소속 아티스트 노제가 코로나 확진 판정을 받았다"고 했다. 스타팅하우스는 "노제는 지난 18일 선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인종차별 막말' 카녜이 웨스트, 그래미 무대 못 선다]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011072114</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011072114"/>
-        <updated>2022-03-20T06:18:54.630Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = '힙합 제왕'으로 통하는 미국 힙합 스타 카녜이 웨스트(Kanye West·45)가 온라인 상에서 인종차별 발언 등으로 인해 '그래미 어워즈'에서 공연을 못하게 됐다. 19일(현지시간)]]></content>
     </entry>
 </feed>
