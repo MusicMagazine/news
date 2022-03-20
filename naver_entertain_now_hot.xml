@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2022-03-20T18:17:36.711Z</updated>
+    <updated>2022-03-20T19:12:52.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전세계에 아내가 47명? 케냐 결혼사기범 얼굴 공개 (‘장미의 전쟁’)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000967651</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000967651"/>
+        <updated>2022-03-20T19:12:44.437Z</updated>
+        <content type="html"><![CDATA[‘장미의 전쟁’ 전 세계에 47명의 부인이 있는 남자의 얼굴은 어떨까. 21일 MBC에브리원 ‘리얼 커플 스토리-장미의 전쟁’(이하 ‘장미의 전쟁’)에서는 아내를 만나기 위해 세계여행을 하는 남자의 이야기가 방송됐다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김준호, 김유하 요청에 개그 했다가 분위기 싸늘 (‘개나리학당’)]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000967650</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000967640"/>
         <updated>2022-03-20T13:19:15.159Z</updated>
         <content type="html"><![CDATA[배우 김우빈이 조각상 같은 비주얼을 자랑했다. 김우빈은 20일 자신의 인스타그램에 말 이모지와 함께 한 장의 사진을 게재했다. 공개된 사진 속 김우빈은 우월한 비율로 동화 속에서 입을 법한 정장을 착용하고 포즈를 취]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주상욱 “무슨 벌을 받길 원하시옵니까”, 父김영철 분노 (태종 이방원)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000967638</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000967638"/>
-        <updated>2022-03-20T13:19:15.160Z</updated>
-        <content type="html"><![CDATA[주상욱이 왕위를 차지할 새로운 기회를 잡는다. 20일 KBS1 대하드라마 ‘태종 이방원’(연출 김형일, 심재현 / 극본 이정우) 20회에서는 이방원(주상욱 분)과 민씨(박진희 분)가 이성계(김영철 분)를 찾아간다.]]></content>
     </entry>
 </feed>
