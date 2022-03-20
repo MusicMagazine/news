@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2022-03-20T15:16:29.722Z</updated>
+    <updated>2022-03-20T16:20:19.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이유빈, 운동선수와 열애중? 父에게 “결혼하면 어떨까” 질문 (피는 못 속여)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000967648</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000967648"/>
+        <updated>2022-03-20T16:20:10.120Z</updated>
+        <content type="html"><![CDATA[쇼트트랙 국가대표 이유빈 선수가 채널A ‘슈퍼 DNA 피는 못 속여’에 출연한다. 21일(월) 채널A ‘슈퍼 DNA 피는 못 속여’(이하 ‘피는 못 속여’) 11회에는 베이징 올림픽 은메달, 평창 올림픽 금메달을 따]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[강일홍의 클로즈업] '늦둥이 아들' DNA 99.99%, 77세 김용건의 선택]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000138566</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000967637"/>
         <updated>2022-03-20T12:23:25.083Z</updated>
         <content type="html"><![CDATA[MBN 예능 ‘어른들은 모르는 고딩엄빠’(이하 ‘고딩엄빠’) MC 박미선이 고딩엄마에게 ‘남편 조련법’을 전수한다. 20일(오늘) ‘고딩엄빠’ 3회에서는 고3에 엄마가 된 김효진이 첫 등장해, 깔끔한 살림 솜씨를 보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[젠, 김영권네 리리리 남매 만나…첫 키즈카페 탐방 (‘슈돌’)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000967636</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000967636"/>
-        <updated>2022-03-20T12:23:25.085Z</updated>
-        <content type="html"><![CDATA['슈퍼맨이 돌아왔다’ 젠에게 누나, 형, 친구가 생긴다. 20일 KBS2 '슈퍼맨이 돌아왔다'(이하 '슈돌') 423회는 ‘우리들의 행복한 이야기’라는 부제로 꾸며진다. 그 중 사유리와 젠은 축구 선수 김영권네 삼]]></content>
     </entry>
 </feed>
