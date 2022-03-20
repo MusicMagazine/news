@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-03-20T16:20:19.024Z</updated>
+    <updated>2022-03-20T17:15:45.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크래비티, '아드레날린' 샘솟게 할 컴백 포인트3]]></title>
+        <id>https://entertain.v.daum.net/v/20220321020009882</id>
+        <link href="https://entertain.v.daum.net/v/20220321020009882"/>
+        <updated>2022-03-20T17:15:13.766Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] [사진 제공 : 스타쉽엔터테인먼트]그룹 크래비티(CRAVITY)가 청량한 매력을 가득 품고 돌아온다. 크래비티는 오는 22일 정규앨범 파트 2 ‘LIBERTY: IN OUR COSMOS(리버티 : 인 아워 코스모스)’를 발매하고 가요계에 컴백한다. 크래비티는 지난해 8월 데뷔 1년 4개월 만에 첫 정규앨범 파트 1 ‘THE AWAKENING:]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[T1419, 청량한 MV 티저 공개]]></title>
         <id>https://entertain.v.daum.net/v/20220320230013779</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220320144453760"/>
         <updated>2022-03-20T06:18:35.376Z</updated>
         <content type="html"><![CDATA[[OSEN=선미경 기자] 그룹 아이즈원 출신 멤버들의 활약이 기대되는 봄이다. 장원영과 안유진이 속한 아이브가 컴백을 예고한 가운데 미야와키 사쿠라와 김채원도 새로운 팀으로 데뷔를 앞두고 있다. 아이즈원 팬덤의 지지를 받아 아이브를 이을 대세 신인의 탄생을 예고하고 있다. 쏘스뮤직 측은 최근 공식입장을 통해 “미야와키 사쿠라, 김채원이 하이브 산하 레이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마성의 몬스타엑스 기현, MR제거도 끄떡없는 'K팝 보컬神']]></title>
-        <id>https://entertain.v.daum.net/v/20220320143911638</id>
-        <link href="https://entertain.v.daum.net/v/20220320143911638"/>
-        <updated>2022-03-20T06:18:35.378Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 몬스타엑스(MONSTA X) 멤버 기현이 솔로 데뷔곡 라이브 영상을 공개했다. 기현은 최근 1theK(원더케이) 공식 유튜브 채널의 ‘MR은 거들뿐’ 콘텐츠를 통해 첫 번째 싱글 타이틀곡 ‘VOYAGER(보이저)’ 라이브 영상을 공개했다. 공개된 영상 속 기현은 스탠딩 마이크와 핸드 마이크를 자유자재로 오가는 자유분방한 매력의]]></content>
     </entry>
 </feed>
