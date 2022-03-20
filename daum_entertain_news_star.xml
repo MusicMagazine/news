@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-03-20T06:19:09.662Z</updated>
+    <updated>2022-03-20T07:14:29.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노제, 코로나19 확진 "모든 일정 중단"]]></title>
+        <id>https://entertain.v.daum.net/v/20220320160509249</id>
+        <link href="https://entertain.v.daum.net/v/20220320160509249"/>
+        <updated>2022-03-20T07:14:01.399Z</updated>
+        <content type="html"><![CDATA[[OSEN=강서정 기자] 댄서 노제가 신종 코로나 바이러스(코로나19) 확진 판정을 받았다. 지난 19일 노제 소속사 스타팅하우스 측은 “소속 아티스트 노제가 코로나19 확진 판정을 받아 안내드립니다”고 밝혔다. 이어 “노제는 지난 18일 선제적으로 실시한 자가진단키트 검사에서 양성 반응을 보여 곧바로 병원으로 이동해 신속항원검사를 진행했고, 코로나19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['멤버 탈퇴→표절논란' 이겨낸 아이들의 힘]]></title>
         <id>https://entertain.v.daum.net/v/20220320144625791</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220320113602555"/>
         <updated>2022-03-20T03:15:46.958Z</updated>
         <content type="html"><![CDATA[[스포츠경향] ‘전지적 참견 시점’ 박재범이 넘사벽 건강왕 루틴을 공개했다. 3월 19일 방송된 MBC ‘전지적 참견 시점’(기획 박정규 / 연출 노시용, 윤혜진 / 이하 ‘전참시’) 191회에서는 박재범의 반전 일상과 홍현희-제이쓴의 입덧 근황이 시청자들을 사로잡았다. 이날 박재범은 부모님과 함께 살고 있는 집을 공개했다. 왠지 모르게 친근하고 구]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도끼, 또다시 합의시도? 주얼리 대금 미납 소송 조정회부]]></title>
-        <id>https://entertain.v.daum.net/v/20220320112414325</id>
-        <link href="https://entertain.v.daum.net/v/20220320112414325"/>
-        <updated>2022-03-20T03:15:46.959Z</updated>
-        <content type="html"><![CDATA[모 주얼리 업체와의 물품 대금 변제를 놓고 오랜 기간 법정에서 다퉈왔던 래퍼 도끼가 같은 소송에서 패소 판결 직후 항소심에서 다시 조정에 들어간다. 20일 스타뉴스는 이같은 소식을 단독보도했다. 법조계에 따르면 서울남부지방법원 제4-3민사부(항소)가 최근 미국 LA 소재 귀금속업체 사장 A씨가 도끼를 상대로 제기한 물품 대금 관련 민사 소송에 대해 조정회]]></content>
     </entry>
 </feed>

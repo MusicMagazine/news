@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-20T06:19:09.653Z</updated>
+    <updated>2022-03-20T07:14:28.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅, 마이셀럽스 소셜지수 1위 등극…역시 임히어로]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001422936</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001422936"/>
+        <updated>2022-03-20T07:14:14.044Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅의 인기가 눈길을 끈다. 최근 실시간 AI 스타 포털 ‘마이셀럽스 스타’에 따르면, 임영웅은 최근 마이셀럽스 소셜지수 1위를 차지했다. 마이셀럽스 소셜지수는 스타 프로필에서 좋아요,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['5인조 재편' (여자)아이들, 국내외 음원차트 석권]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011072161</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000553686"/>
         <updated>2022-03-20T04:20:05.866Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] SM ‘STATION : NCT LAB’(스테이션 : 엔시티 랩) 두 번째 곡 NCT U ‘coNEXTion (Age of Light)’(커넥션)이 발매된다. NCT U 신곡 ‘coNEXTio]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['음주운전' 문준영, 신고자가 '공갈협박' 주장…"국산차 탄다고 무시당해"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011071857</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011071857"/>
-        <updated>2022-03-20T04:20:05.867Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 그룹 '제국의 아이들' 리더 출신 문준영이 음주운전 적발에 대해서 사과하면서도, 신고자에게 공갈협박을 당했다고 주장해 했다. 문준영은 20일 자신의 소셜 미디어에 "면복이 없다. 조사]]></content>
     </entry>
 </feed>
