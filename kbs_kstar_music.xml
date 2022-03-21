@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 22:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 23:18:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['월간 윤종신' 3월호 발매 "말 함부로 하는 데 무감해지는 사회"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=198464</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=198464</guid>
+            <pubDate>Mon, 21 Mar 2022 23:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=198464">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220322075137_d50695caaeee8cfca197d5606d143e6c_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=198464">'월간 윤종신' 3월호 발매 "말 함부로 하는 데 무감해지는 사회"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220322075137_d50695caaeee8cfca197d5606d143e6c_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“14년의 하이라이트, 첫 번째 정규앨범” ‘데이드림’ 기자간담회]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=198387</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=197005">이것이 연륜인가...슈퍼주니어 '콜린' 공식 활동 마무리</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220314170423_f06b8a707e0ed17a1a17ac454906bece.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['10관왕' 방탄소년단, 일본 골드디스크 대상 "역대 해외 아티스트 최고"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=196941</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=196941</guid>
-            <pubDate>Mon, 14 Mar 2022 02:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=196941">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220314092530_7156e2f5e71b3893dce7b72109ba3955.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196941">'10관왕' 방탄소년단, 일본 골드디스크 대상 "역대 해외 아티스트 최고"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220314092530_7156e2f5e71b3893dce7b72109ba3955.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
