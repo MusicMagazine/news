@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-21T11:14:29.954Z</updated>
+    <updated>2022-03-21T12:25:46.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팝업★]"5월 데뷔 목표로 준비" 사쿠라X김채원, 하이브 첫 걸그룹 탄생 임박]]></title>
+        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003543394</id>
+        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003543394"/>
+        <updated>2022-03-21T12:25:28.875Z</updated>
+        <content type="html"><![CDATA[[헤럴드POP=김나율기자]미야와키 사쿠라와 김채원의 걸그룹 데뷔가 임박했다. 21일 쏘스뮤직 측은 "미야와키 사쿠라, 김채원 소속 걸그룹이 5월 데뷔를 목표로 준비 중이다. 데뷔 일정은 확정되는 대로 공개하겠다"고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스프링 퀸을 꿈꾸다' 레드벨벳 "이번 봄은 우리가 책임지고파" [MD동영상]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003586552</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011074499"/>
         <updated>2022-03-21T09:14:59.085Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 원조 아이돌 가수 전영록(68)이 데뷔 50주년을 맞아 뮤지컬 콘서트를 연다. 21일 콘서트 제작사 소금빛미디어에 따르면, 전영록은 오는 9월 중 대학로 한성아트홀 소극장에서 뮤지컬 ']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['30일 컴백' BAE173, 첫 번째 콘셉트 포토 공개…성숙+몽환 비주얼]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001423461</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001423461"/>
-        <updated>2022-03-21T09:14:59.086Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 그룹 BAE173(비에이이일칠삼)이 본격적인 컴백 예열에 돌입했다. BAE173(제이민, 한결, 유준, 무진, 준서, 영서, 도하, 빛, 도현)은 오늘(21일) 오후 공식 SNS에 세 번째]]></content>
     </entry>
 </feed>
