@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-21T12:25:46.420Z</updated>
+    <updated>2022-03-21T13:22:12.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘첫 정규’ 하이라이트, 긴 겨울에서 깨어나 꿈꿀 ‘길몽’은 지금부터![종합]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000800835</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000800835"/>
+        <updated>2022-03-21T13:21:57.116Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 긴 겨울을 버텨내고 하이라이트가 ‘꿈 같은’ 정규 앨범으로 따뜻함을 전하러 왔다. 이들이 전할 울림은 어떻게 울려 퍼질까. 21일 그룹 하이라이트(Highlight) 첫 번째 정규 앨범 ‘데이드림’(D]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팝업★]"5월 데뷔 목표로 준비" 사쿠라X김채원, 하이브 첫 걸그룹 탄생 임박]]></title>
         <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003543394</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003037410"/>
         <updated>2022-03-21T09:14:59.084Z</updated>
         <content type="html"><![CDATA[레드벨벳이 새롭게 돌아왔다. 21일 오후 6시 레드벨벳의 새 미니앨범 'The ReVe Festival 2022 - Feel My Rhythm'(더 리브 페스티벌 2022 - 필 마이 리듬)'이 각종 음원 사이트를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원조 아이돌' 전영록, 데뷔 50주년 콘서트…9월 소극장]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011074499</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011074499"/>
-        <updated>2022-03-21T09:14:59.085Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 원조 아이돌 가수 전영록(68)이 데뷔 50주년을 맞아 뮤지컬 콘서트를 연다. 21일 콘서트 제작사 소금빛미디어에 따르면, 전영록은 오는 9월 중 대학로 한성아트홀 소극장에서 뮤지컬 ']]></content>
     </entry>
 </feed>
