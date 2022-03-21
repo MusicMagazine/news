@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 07:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 08:23:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“14년의 하이라이트, 첫 번째 정규앨범” ‘데이드림’ 기자간담회]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=198387</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=198387</guid>
+            <pubDate>Mon, 21 Mar 2022 08:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=198387">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220321162621_f677ef031792fb400b0849a0b4af3ae7.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=198387">“14년의 하이라이트, 첫 번째 정규앨범” ‘데이드림’ 기자간담회</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220321162621_f677ef031792fb400b0849a0b4af3ae7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄과 함께 온 레드벨벳, 미니앨범 "Feel My Rhythm" 오늘 발매]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=198329</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196941">'10관왕' 방탄소년단, 일본 골드디스크 대상 "역대 해외 아티스트 최고"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220314092530_7156e2f5e71b3893dce7b72109ba3955.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 '박수콘서트', BTS PERMISSION TO DANCE ON STAGE - SEOUL 전 세계 246만 5천명 관람]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=196922</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=196922</guid>
-            <pubDate>Mon, 14 Mar 2022 02:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=196922">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220314073908_d9397ebdf9a29a310e63ed171d8525c2.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196922">방탄소년단 '박수콘서트', BTS PERMISSION TO DANCE ON STAGE - SEOUL 전 세계 246만 5천명 관람</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220314073908_d9397ebdf9a29a310e63ed171d8525c2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
