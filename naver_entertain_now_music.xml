@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-22T12:26:39.228Z</updated>
+    <updated>2022-03-22T13:23:58.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TAN(탄), 의미심장한 단서 속 일곱 멤버의 치열한 신경전]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000855456</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000855456"/>
+        <updated>2022-03-22T13:23:42.998Z</updated>
+        <content type="html"><![CDATA[그룹 TAN(탄)이 ‘탄광 with PUBG 배틀그라운드’에서 양보 없는 치열함을 선보였다. 22일 오후 7시 탄(창선, 주안, 재준, 성혁, 현엽, 태훈, 지성) 공식 유튜브 채널을 통해 자체 제작 콘텐츠 ‘탄광]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['더쇼' 크랙시, 카리스마 퍼포먼스 'Trigger']]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000855447</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004676786"/>
         <updated>2022-03-22T09:15:37.317Z</updated>
         <content type="html"><![CDATA[감성 싱어송라이터 경제환이 '데뷔(Debut)'로 새로운 시작에 나선다. 경제환은 22일 오후 6시 각종 온라인 음원 사이트를 통해 새 EP '데뷔'를 발매한다. '데뷔'는 타이틀곡 '멍청한 도시'를 비롯해 '♥+']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크래비티 “이번 앨범에 멤버들 다 잘 어울려”]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000801075</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000801075"/>
-        <updated>2022-03-22T09:15:37.318Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 그룹 크래비티(CRAVITY)가 청량함에 강렬함을 더해 돌아왔다. 크래비티(세림, 앨런, 정모, 우빈, 원진, 민희, 형준, 태영, 성민)는 22일 오후 4시 유튜브 채널을 통해 정규앨범 파트 2 ‘리]]></content>
     </entry>
 </feed>
