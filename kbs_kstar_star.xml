@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 23:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 01:01:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[화보] 정우X이홍내 '뜨거운 배우' (매거진 싱글즈)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=198691</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=198691</guid>
+            <pubDate>Wed, 23 Mar 2022 01:00:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=198691">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220323082739_d7aa6ab653f9750c8fb3d0732e6bfbd7.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=198691">[화보] 정우X이홍내 '뜨거운 배우' (매거진 싱글즈)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220323082739_d7aa6ab653f9750c8fb3d0732e6bfbd7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[화보] 김지연(보나), 매거진 '에스콰이어' 매력]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=197930</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=194279">‘프리다’ 최정원, 김소향, 임정희 ‘컬투쇼’ 출격</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220225175115_391a00110dd1bbeed6bdae4c6908a24f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['데스노트' 고은성-김성철, 매거진 '시어터플러스' 커버스토리 장식]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=194220</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=194220</guid>
-            <pubDate>Fri, 25 Feb 2022 07:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=194220">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220225142653_3373d94d04f38e562d4432ca85c17ba3.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=194220">'데스노트' 고은성-김성철, 매거진 '시어터플러스' 커버스토리 장식</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220225142653_3373d94d04f38e562d4432ca85c17ba3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
