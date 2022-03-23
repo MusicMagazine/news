@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 07:40:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 08:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포토] 웬디, '꽃다발 받고 햄볶는 완디']]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/341821</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/341821</guid>
+            <pubDate>Wed, 23 Mar 2022 08:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/341821">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/23/4676b412-348a-4839-8b97-18339e02e6bc.jpg" alt="[포토] 웬디, '꽃다발 받고 햄볶는 완디'">        <div class="text-box">            <p class="summary">[포토] 웬디, '꽃다발 받고 햄볶는 완디'</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/23/4676b412-348a-4839-8b97-18339e02e6bc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[브레이브걸스 유정 "'롤린' 역주행 1주년, 더 좋은 모습 보여주고파"]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/341800</link>
@@ -86,14 +94,6 @@
             <pubDate>Wed, 23 Mar 2022 02:40:21 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/341765">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/23/3fb67f71-8e69-478b-8582-22ba2a6534a0.jpg" alt="'컴백' 솔라→(여자)아이들, '쇼챔피언' 출격">        <div class="text-box">            <p class="summary">'컴백' 솔라→(여자)아이들, '쇼챔피언' 출격</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/23/3fb67f71-8e69-478b-8582-22ba2a6534a0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EXID 솔지 "가장 큰 플렉스? 부모님께 집 사드려"(대한외국인)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/341760</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/341760</guid>
-            <pubDate>Wed, 23 Mar 2022 02:40:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/341760">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/23/0e6776fd-031b-46a2-90fc-25ea9dca890e.jpg" alt="EXID 솔지 " 가장="" 큰="" 플렉스?="" 부모님께="" 집="" 사드려"(대한외국인)"="">        <div class="text-box">            <p class="summary">EXID 솔지 "가장 큰 플렉스? 부모님께 집 사드려"(대한외국인)</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/23/0e6776fd-031b-46a2-90fc-25ea9dca890e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
