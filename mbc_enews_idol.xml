@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 10:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 11:13:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포토] 소녀시대 효연, '물오른 미모']]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/341825</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/341825</guid>
+            <pubDate>Wed, 23 Mar 2022 11:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/341825">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/23/d799ff3b-fdec-4043-ace4-681d3202054a.jpg" alt="[포토] 소녀시대 효연, '물오른 미모'">        <div class="text-box">            <p class="summary">[포토] 소녀시대 효연, '물오른 미모'</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/23/d799ff3b-fdec-4043-ace4-681d3202054a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[포토] 웬디, '스와로 퀸와니~']]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/341823</link>
@@ -86,14 +94,6 @@
             <pubDate>Wed, 23 Mar 2022 06:19:29 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/341790">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/23/ca91af95-a2df-49b0-b3ff-6f212251fdc8.png" alt="위아이, 미니 4집 재킷 비하인드 공개…청춘 영화 비주얼">        <div class="text-box">            <p class="summary">위아이, 미니 4집 재킷 비하인드 공개…청춘 영화 비주얼</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/23/ca91af95-a2df-49b0-b3ff-6f212251fdc8.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 강승윤, BORN TO '얼죽아' YOU~]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/341784</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/341784</guid>
-            <pubDate>Wed, 23 Mar 2022 05:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/341784">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/23/414479ee-9f4b-4f19-9272-0f6adb63a3d4.jpg" alt="[포토] 강승윤, BORN TO '얼죽아' YOU~">        <div class="text-box">            <p class="summary">[포토] 강승윤, BORN TO '얼죽아' YOU~</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/23/414479ee-9f4b-4f19-9272-0f6adb63a3d4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
