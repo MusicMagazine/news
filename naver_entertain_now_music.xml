@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-24T14:17:03.563Z</updated>
+    <updated>2022-03-24T15:18:23.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트와이스, 일본 내 막강한 인기…차트 석권→도쿄돔 추가 공연 [TF프리즘]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000139520</id>
+        <link href="https://entertain.naver.com/now/read?oid=629&amp;aid=0000139520"/>
+        <updated>2022-03-24T15:18:06.915Z</updated>
+        <content type="html"><![CDATA[네 번째 베스트 앨범, 오리콘 주간 차트 정상 그룹 트와이스가 일본에서 네 번째 베스트 앨범을 발매한 가운데, 오리콘 주간 차트 정상을 차지한 것은 물론이고 도쿄돔 추가 공연까지 확정하는 등 막강한 인기를 증명했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘파이렛 뮤지션’ 파테코, 정규앨범 ‘Blended Noise’ 전곡 음원 일부 스포]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000801689</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[[스포츠경향] 뮤지션 파테코(PATEKO)가 웰메이드 앨범을 예고했다. 파테코는 지난 23일 오후 공식 SNS를 통해 정규 앨범 ‘Blended Noise (블렌디드 노이즈)’의 프리뷰 영상을 공개했다. 공개된 영상]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BAE173, 얼굴 합 평균값 무슨 일?..저세상 힙한 비주얼]]></title>
+        <title type="html"><![CDATA[BAE173, 얼굴 조화 평균값 무슨 일?..저세상 힙한 비주얼]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004578488</id>
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004578488"/>
         <updated>2022-03-24T14:16:47.927Z</updated>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001424828"/>
         <updated>2022-03-24T09:15:53.460Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 밴드 시네마(CNEMA)가 청량감 가득한 데뷔곡 '모비딕(MOBYDICK)'으로 새로운 시작을 알렸다. 시네마는 24일 오후 6시 각종 온라인 음원사이트를 통해 데뷔 싱글 '모비딕'을 발]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[따마, 'HEY' 비주얼라이저+음원 일부 공개…웰메이드 신보 '기대 UP']]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004578258</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004578258"/>
-        <updated>2022-03-24T09:15:53.461Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] 아티스트 따마(THAMA)가 비주얼라이저를 선공개하며 신보에 대한 열기를 이어나간다. 따마는 지난 23일 공식 SNS를 통해 새 디지털 싱글 ‘Ooh Ooh (오오)’의 수록곡 ‘HEY (헤]]></content>
     </entry>
 </feed>
