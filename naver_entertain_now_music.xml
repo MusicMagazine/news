@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-25T10:19:29.590Z</updated>
+    <updated>2022-03-25T11:15:31.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고스트나인, 소년에서 남성으로..컴백 이미지 속 반전 매력]]></title>
+        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003545130</id>
+        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003545130"/>
+        <updated>2022-03-25T11:15:15.072Z</updated>
+        <content type="html"><![CDATA[[헤럴드POP=조은미 기자]그룹 고스트나인(GHOST9)이 세련된 비주얼을 자랑했다. 고스트나인(손준형, 이신, 최준성, 이강성, 프린스, 이우진, 이진우)은 25일 공식 SNS를 통해 새 미니앨범 'ARCADE :]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[헤이즈, 신곡 '엄마가 필요해' 무드 필름 공개…29일 발매]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001425436</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001425391"/>
         <updated>2022-03-25T08:20:03.816Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 크로스 오버 그룹 에델 라인클랑이 신곡 뮤직비디오 티저 영상을 공개했다. 에델 라인클랑(조형균, 이충주, 김동현, 안세권)은 25일 공식 SNS를 통해 오는 31일 발매 예정인 신곡 '그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[록싱어 하현우, 솔로 EP ‘안티 에고’ 발매[공식]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000801869</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000801869"/>
-        <updated>2022-03-25T08:20:03.821Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 밴드 국카스텐 프론트맨인 록싱어 하현우 두 번째 솔로 EP가 베일을 벗는다. 하현우의 두 번째 솔로 EP ‘안티 에고(Anti ego)’가 오늘 오후 6시 각종 음원 사이트를 통해 발매된다. 앨범의 타]]></content>
     </entry>
 </feed>
