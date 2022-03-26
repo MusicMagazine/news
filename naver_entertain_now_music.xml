@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-26T20:16:57.150Z</updated>
+    <updated>2022-03-26T21:16:14.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이유·수지도 믿는다…강승원, 그 이름 석자면]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011085160</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011085160"/>
+        <updated>2022-03-26T21:15:58.117Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 정규 2집 음원 선공개 프로젝트 진행 중 예순살 언저리인 2017년에 '강승원 1집' 앞에 선뜻 나서지 않은 '경건의 미학' 평 올해 TV 프로그램 음악감독 데뷔 30주년 [서울=뉴시스]이재훈 기자 =]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서리(SEORI), 리스너들의 마음도 훔칠까? 'Lovers in the night' [MD동영상]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003588118</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013074197"/>
         <updated>2022-03-26T06:17:51.982Z</updated>
         <content type="html"><![CDATA['전쟁피해자돕기' 온라인 자선 공연…K팝 스타·우크라 가수 케이트 솔 출연 (서울=연합뉴스) 이태수 기자 = 국내 거주 우크라이나인으로 이뤄진 '우크라이나 국민 응원단'이 굳은 표정으로 무대에 올랐다. 무대에서 우크]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방준석 별세, 향년 52세…'유앤미블루' 출신 '신과 함께' 음감(종합)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011084900</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011084900"/>
-        <updated>2022-03-26T06:17:51.983Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 음악감독 겸 프로듀서 방준석(52)이 별세했다. 26일 음악계와 영화계에 따르면, 방준석 감독은 이날 오전 7시께 병환으로 세상을 떠났다. 고인은 몇년 전 위암 치료를 받고 극복했으나]]></content>
     </entry>
 </feed>
