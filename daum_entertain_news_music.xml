@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-03-26T19:13:05.180Z</updated>
+    <updated>2022-03-26T20:16:57.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서리, 리스너들의 마음도 훔칠까? 'Lovers in the night']]></title>
+        <id>https://entertain.v.daum.net/v/20220327050105340</id>
+        <link href="https://entertain.v.daum.net/v/20220327050105340"/>
+        <updated>2022-03-26T20:16:24.160Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 김정수 기자] 가수 서리가 22일 오전 서울 서교동 구름아래 소극장에서 진행된 새 디지털 싱글 '캔 스탑 디스 파티(Can't Stop This Party)' 쇼케이스에서 'Lovers in the night' 의 멋진 무대를 선보였다. 신곡 'Can't Stop This Party'는 마치 끝나지 않는 연결고리처럼, 사랑하는 사람에게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[양지원, 생일 축하합니다]]></title>
         <id>https://entertain.v.daum.net/v/20220327000010797</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220326093157744"/>
         <updated>2022-03-26T00:57:02.255Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이덕행 기자] /사진=파이렛뮤지션 파테코(PATEKO)가 파이렛 합류 후 첫 정규 앨범을 선보인다. 파테코는 26일 오후 6시 전 온라인 음원사이트를 통해 정규 앨범 'Blended Noise (블렌디드 노이즈)'를 발매한다. 'Blended Noise'는 파테코가 파이렛 정식 합류 후 선보이는 첫 정규 앨범으로 적절한 배합의 소음들이란 주제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투개월 도대윤, 8년 만 가요계 컴백]]></title>
-        <id>https://entertain.v.daum.net/v/20220326091324574</id>
-        <link href="https://entertain.v.daum.net/v/20220326091324574"/>
-        <updated>2022-03-26T00:57:02.257Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 이기은 기자] 투개월 도대윤이 8년 만에 신곡을 들고 컴백한다. 도대윤은 지난 2011년 방송된 엠넷 ‘슈퍼스타K3’에 출연해 최종 3위를 차지했던 혼성 듀오 투개월 멤버다. 그런 그는 최근 자신의 개인 SNS 계정을 통해 "제가 곧 신곡을 발표하게 되었다. 8년 만의 신곡이다 보니 어떻게 전해야 할까 많이 고민했는데 sns를 통해서 먼저 말]]></content>
     </entry>
 </feed>
