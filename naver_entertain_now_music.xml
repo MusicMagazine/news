@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-26T15:17:04.970Z</updated>
+    <updated>2022-03-26T16:18:30.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[푸 파이터스 드러머 테일러 호킨스, 남미 투어 중 별세]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011085128</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011085128"/>
+        <updated>2022-03-26T16:18:15.011Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 미국 하드록을 대표하는 '푸 파이터스(Foo Fighters)'의 드러머 테일러 호킨스(Taylor Hawkins·50)가 별세했다. 25일(현지시간) 뉴욕타임스와 AP통신 등 외신에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["훌륭한 음악 감사"…배철수·윤종신·한경록, 방준석 추모]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011085124</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003588012"/>
         <updated>2022-03-26T06:17:51.984Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 박윤진 기자] 혼성그룹 투개월 도대윤이 8년 만의 신곡으로 팬들 곁에 돌아온다. 도대윤은 25일 자신의 SNS 계정을 통해 오는 29일 오후 12시 새 디지털 싱글 '다시, 봄'을 발매한다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["NO WAR" 라붐, 콘서트서 '우크라이나 전쟁 피해자' 응원]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003038934</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003038934"/>
-        <updated>2022-03-26T06:17:51.985Z</updated>
-        <content type="html"><![CDATA[그룹 라붐(LABOUM)이 우크라이나를 위해 전 세계에 'STOP WAR'라는 메시지를 전달했다. 라붐은 26일 정오 레드엔젤 공연 전용 플랫폼 '쿠션 라이브'를 통해 생방송으로 진행된 '위 올 아 원-스톱 워(WE]]></content>
     </entry>
 </feed>
