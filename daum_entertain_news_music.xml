@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-03-26T14:14:49.560Z</updated>
+    <updated>2022-03-26T15:17:04.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[양지원, 생일 축하합니다]]></title>
+        <id>https://entertain.v.daum.net/v/20220327000010797</id>
+        <link href="https://entertain.v.daum.net/v/20220327000010797"/>
+        <updated>2022-03-26T15:16:27.358Z</updated>
+        <content type="html"><![CDATA[[동아닷컴]  가수 양지원이 '트롯픽' 생일 이벤트를 받는다. 트롯스타 투표 웹서비스 ‘트롯픽’(trotpick)에 따르면, 양지원은 3월 생일자를 대상으로한 이벤트 주인공으로 선정됐다. 트롯픽의 생일 이벤트는 득표에 따라 서포트가 단계별로 진행되는 것이 특징이다. ▲5천 포인트 달성 시 트롯픽 앱과 웹 페이지 메인에 해당 가수의 팝업 축하 배너 게재]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[라쿠나 "호랑이 기운으로 '라이징 밴드' 돼야죠"]]></title>
         <id>https://entertain.v.daum.net/v/20220326173021488</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220326091324574"/>
         <updated>2022-03-26T00:57:02.257Z</updated>
         <content type="html"><![CDATA[[티브이데일리 이기은 기자] 투개월 도대윤이 8년 만에 신곡을 들고 컴백한다. 도대윤은 지난 2011년 방송된 엠넷 ‘슈퍼스타K3’에 출연해 최종 3위를 차지했던 혼성 듀오 투개월 멤버다. 그런 그는 최근 자신의 개인 SNS 계정을 통해 "제가 곧 신곡을 발표하게 되었다. 8년 만의 신곡이다 보니 어떻게 전해야 할까 많이 고민했는데 sns를 통해서 먼저 말]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빅뱅, 지드래곤 개인 포스터 최초 공개..감각적인 장발 스타일링]]></title>
-        <id>https://entertain.v.daum.net/v/20220326090631499</id>
-        <link href="https://entertain.v.daum.net/v/20220326090631499"/>
-        <updated>2022-03-26T00:57:02.259Z</updated>
-        <content type="html"><![CDATA[[OSEN=지민경 기자]&nbsp;컴백을 앞둔 그룹 빅뱅(BIGBANG)&nbsp;지드래곤의 비주얼이&nbsp;26일 최초 공개됐다.&nbsp;단 한 장의 사진이지만 마치 그 자체가 꽃이 돼 피어난 듯 예술적 매력을 머금고 있는 포스터다. 무엇보다 한층 깊어진,&nbsp;흔들림 없는 지드래곤의 눈빛이 보는 이의 마음을 사로잡았다.&nbsp;아련한 향수를 자극하는 폴라로이드 필름 인화지에 담긴 그의 모습인]]></content>
     </entry>
 </feed>
