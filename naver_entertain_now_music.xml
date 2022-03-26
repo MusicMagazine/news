@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-26T10:16:11.115Z</updated>
+    <updated>2022-03-26T11:14:43.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['블랭키스' 블랭키, 레전드 K-코치진 앞 기량 평가→천국·지옥 오가는 심사평]]></title>
+        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003545335</id>
+        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003545335"/>
+        <updated>2022-03-26T11:14:26.636Z</updated>
+        <content type="html"><![CDATA[[헤럴드POP=조은미 기자]블랭키(BLANK2Y)가 리얼리티 예능에서 레전드 K-코치진을 만난다. 오는 27일 0시 블랭키 공식 유튜브 채널과 글로벌 실시간 스트리밍 플랫폼 케이브콘(KAVECON)에서는 자체 제작]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이브, 교복 콘셉트 포토 공개]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000801978</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011084886"/>
         <updated>2022-03-26T05:15:01.545Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 음악감독 겸 프로듀서 방준석(52)이 별세했다. 26일 음악계와 영화계에 따르면 방준석 감독은 이날 오전 7시께 병환으로 세상을 떠났다. 고인은 위암으로 투병해온 것으로 알려졌다. 방준]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보아, 日 데뷔 20주년..'make a secret' 28일 공개]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003038927</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003038927"/>
-        <updated>2022-03-26T05:15:01.546Z</updated>
-        <content type="html"><![CDATA[가수 보아(BoA)의 일본 데뷔 20주년을 기념하는 'Self Cover Project'(셀프 커버 프로젝트) 두 번째 곡이 28일 공개된다. 3월 28일 0시 한국과 일본을 비롯한 각종 글로벌 음악 플랫폼에서 공개]]></content>
     </entry>
 </feed>
