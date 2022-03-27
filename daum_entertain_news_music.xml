@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-03-27T14:14:10.112Z</updated>
+    <updated>2022-03-27T15:16:59.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안예은이란 장르]]></title>
+        <id>https://entertain.v.daum.net/v/20220327233215886</id>
+        <link href="https://entertain.v.daum.net/v/20220327233215886"/>
+        <updated>2022-03-27T15:16:18.984Z</updated>
+        <content type="html"><![CDATA[안예은(사진=JMG)음악인을 만나다. 음악에 얽힌 이야기를 듣다. [음악이야기] [이데일리 스타in 윤기백 기자] “안예은이 곧 장르다.” 이보다 더 색깔 있는 아티스트가 또 있을까. 싱어송라이터 안예은의 이야기다. 그 누구도 흉내 낼 수 없고, 따라 할 수도, 모방할 수 없는 것이 바로 안예은과 안예은의 음악이다. 보컬도 독보적이다. 안예은이 부르면 그]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성찬-안유진-지훈 '인기가요' MC 하차 "행복했다"]]></title>
         <id>https://entertain.v.daum.net/v/20220327225457731</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220327165325208"/>
         <updated>2022-03-27T08:18:23.711Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김명미 기자] (여자)아이들이 '인기가요' 1위 트로피를 수집했다. 3월 27일 방송된 SBS '인기가요' 1위 후보로 박재범, 김민석(멜로망스), (여자)아이들이 올랐다. 집계 결과 3월 마지막 주 1위의 주인공은 (여자)아이들이었다. (여자)아이들은 "이렇게 저희 5명이 상을 받을 수 있어 기쁘다. 이 무대가 당연하지 않다는 것을 알기 때문에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다크비 이찬-D1-GK-룬 코로나 확진]]></title>
-        <id>https://entertain.v.daum.net/v/20220327165315207</id>
-        <link href="https://entertain.v.daum.net/v/20220327165315207"/>
-        <updated>2022-03-27T08:18:23.712Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] 다크비 이찬-D1-GK-룬 코로나 확진 (전문)[공식] 그룹 다크비(DKB)에서 코로나19 무더기 감염이 발생했다. 소속사 브레이브 엔터테인먼트는 27일 다크비 멤버 이찬, D1, GK, 룬의 코로나19 확진 소식을 전했다. 이들은 “이찬, D1, GK, 룬은 코로나19 백신 3차까지 접종을 마친 상태”라면서 “이찬, D1, 룬은 어제부터 미]]></content>
     </entry>
 </feed>
