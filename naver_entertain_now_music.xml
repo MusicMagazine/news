@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-27T15:16:59.386Z</updated>
+    <updated>2022-03-27T16:19:52.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세븐틴, '소고 질러'로 So go…올해 활약 예고편된 팬미팅]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011086085</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011086085"/>
+        <updated>2022-03-27T16:19:38.576Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = "소고 질러!" 27일 오후 잠실 종합운동장 보조경기장에서 펼쳐진 그룹 '세븐틴'(SVT)의 여섯 번째 팬미팅 '세븐틴 인 캐럿 랜드'에선 함성 대신 "쿵쿵 딱딱" 같은 소리가 울려 퍼]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[퍼플키스, 코로나19 확진·컴백 일정 차질…다크비 멤버들도 확진]]></title>
         <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001969130</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000555777"/>
         <updated>2022-03-27T08:18:43.658Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김명미 기자] (여자)아이들이 '인기가요' 1위 트로피를 수집했다. 3월 27일 방송된 SBS '인기가요' 1위 후보로 박재범, 김민석(멜로망스), (여자)아이들이 올랐다. 집계 결과 3월 마지막 주 1위의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘버추얼 가요톱텐’ 빌리가 이끄는 판타지 월드]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000802054</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000802054"/>
-        <updated>2022-03-27T08:18:43.659Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] ‘대형 신인’ 빌리(Billlie)가 역주행 돌풍의 이유를 입증하는 유니크한 매력의 무대를 펼쳤다. 빌리(시윤, 수현, 츠키, 션, 하람, 문수아, 하루나)는 27일 KBS WORLD TV 유튜브 채널]]></content>
     </entry>
 </feed>
