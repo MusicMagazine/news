@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 22:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 23:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['킹덤' 31일 컴백, 미니 4집 '히스토리 오브 킹덤 : 파트 4. 단']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=199696</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=199696</guid>
+            <pubDate>Mon, 28 Mar 2022 23:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=199696">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220329074128_9674a4d1d2876a5516c9bef7816d4a91.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=199696">'킹덤' 31일 컴백, 미니 4집 '히스토리 오브 킹덤 : 파트 4. 단'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220329074128_9674a4d1d2876a5516c9bef7816d4a91.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["팀웍과 밝은 에너지, 그리고 봄향기"  오마이걸 [Real Love] 쇼케이스]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=199591</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=197988">'새 봄과 함께' 레드벨벳, 유튜브 라이브  </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220319131514_02463ace4f2f5979036d8083374298b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, '그래미 어워드' 퍼포머 합류, "3년 연속!"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=197941</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=197941</guid>
-            <pubDate>Sat, 19 Mar 2022 02:09:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=197941">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220319093656_79d75b0e6bdb0964d2b936333f96f865.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=197941">방탄소년단, '그래미 어워드' 퍼포머 합류, "3년 연속!"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220319093656_79d75b0e6bdb0964d2b936333f96f865.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
