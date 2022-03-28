@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-28T19:13:38.383Z</updated>
+    <updated>2022-03-28T20:17:47.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오마이걸, 니가 어떤 앤지 알아내고 싶어 'Drip' 첫무대 [MD동영상]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003588659</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003588659"/>
+        <updated>2022-03-28T20:17:32.987Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 김정수 기자] 걸그룹 오마이걸이 28일 오후 온라인으로 진행된 정규 2집 '리얼 러브(Real Love)' 발매 쇼케이스에서 수록곡 'Drip'의 멋진 무대를 선보였다. 수록곡 'Drip'은 ‘갖고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오마이걸, 밝게 무르익은 'Real Love'의 향기(종합)]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000140090</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011088440"/>
         <updated>2022-03-28T09:16:20.909Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 그룹 '엔시티 드림(NCT DREAM)'이 새 앨범 선주문량 200만장을 넘기며 '커리어 하이'를 예고했다. 28일 소속사 SM엔터테인먼트에 따르면, 이날 오후 6시 발매된 NCT 드림]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팝업★]방탄소년단X스눕독, 역대급 힙합 컬래버곡 탄생하나.."BTS가 협업 제안"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003545864</id>
-        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003545864"/>
-        <updated>2022-03-28T09:16:20.909Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=박서연 기자]미국 래퍼 스눕 독이 그룹 방탄소년단(BTS, RM 진 슈가 제이홉 지민 뷔 정국)과 협업한다. 27일(현지시간) 미국 빌보드 등에 외신에 따르면 스눕 독은 최근 아메리칸 송 콘테스트 레드]]></content>
     </entry>
 </feed>
