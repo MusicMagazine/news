@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-03-28T20:17:47.141Z</updated>
+    <updated>2022-03-28T21:15:37.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[묵직한 감동 '뜨거운 씽어즈', 합창곡 대공개]]></title>
+        <id>https://entertain.v.daum.net/v/20220329060206999</id>
+        <link href="https://entertain.v.daum.net/v/20220329060206999"/>
+        <updated>2022-03-28T21:15:01.712Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 이기은 기자] '뜨거운 씽어즈'가 시청자들에게 묵직한 감동을 선사했다. 이들이 소화할 대망의 합창곡은 ‘디스 이즈 미’였다. 28일 밤 방송된 JTBC 예능프로그램 '뜨거운 씽어즈'에서는 다양한 배우, 방송인이 도전하는 첫 합창 현장이 공개됐다. 이날 십 수 명의 단원들과 김문정 감독은 첫 합창 연습을 진행했다. 자칫 화음이 안 맞을 수 있는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오마이걸, 밝게 무르익은 'Real Love'의 향기]]></title>
         <id>https://entertain.v.daum.net/v/20220329000010332</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220328183958051"/>
         <updated>2022-03-28T10:17:46.199Z</updated>
         <content type="html"><![CDATA[[스타뉴스 윤성열 기자] /사진='버퍼링' 뮤직비디오  보이 그룹 NCT DREAM(마크 런쥔 제노 재민 지성 해찬 천러)이 사랑에 빠져 '버퍼링'에 걸렸다. 28일 오후 6시 각종 음악 사이트를 통해 NCT DREAM의 정규 2집 'Glitch Mode'(글리치 모드)가 발매됐다. NCT DREAM의 정규 앨범은 지난해 5월 발매한 정규 1집 '맛(H]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JYP 측 "스트레이 키즈 방찬X리노X현진 격리해제" 완전체 활동 재개]]></title>
-        <id>https://entertain.v.daum.net/v/20220328183318868</id>
-        <link href="https://entertain.v.daum.net/v/20220328183318868"/>
-        <updated>2022-03-28T10:17:46.201Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 스트레이 키즈(Stray Kids)가 신종 코로나바이러스 감염증(코로나19) 여파로 일시 중단했던 팀 활동을 재개한다. 소속사 JYP엔터테인먼트 측은 3월 28일 스트레이 키즈 공식 SNS를 통해 "방찬, 리노, 현진이 28일 0시부로 코로나19 격리 해제됐다"고 알렸다. 방찬, 리노, 현진은 코로나19 확진 판정 후 방역 당]]></content>
     </entry>
 </feed>
