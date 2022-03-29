@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-29T15:16:34.518Z</updated>
+    <updated>2022-03-29T16:21:11.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단 제이홉, 코로나19 완치→격리 해제.."절차 맞춰 금방 합류할게요"(전문)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003546341</id>
+        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003546341"/>
+        <updated>2022-03-29T16:20:53.925Z</updated>
+        <content type="html"><![CDATA[[헤럴드POP=박서연 기자]그룹 방탄소년단(BTS) 멤버 제이홉이 코로나19 격리해제 소감을 밝혔다. 30일 제이홉은 방탄소년단 공식 팬커뮤니티 위버스를 통해 "다들 걱정하셨죠? 저는 너무 괜찮습니다! 격리 기간동안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블랙핑크, 스포티파이서 K팝 걸그룹 최초·최고 기록]]></title>
         <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001970378</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003546266"/>
         <updated>2022-03-29T09:15:38.644Z</updated>
         <content type="html"><![CDATA[[헤럴드POP=김나율기자]그룹 퍼플키스가 일곱 마녀로 돌아온다. 29일 오후 6시 퍼플키스의 미니 3집 'memeM' 전곡 음원과 타이틀곡 'memeM' 뮤직비디오가 공개됐다. 지난해 3월 데뷔한 퍼플키스는 보컬,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["네 머릿속에 맴맴맴"…'마녀' 퍼플키스의 보랏빛 주문 [쥬크박스]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001426913</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001426913"/>
-        <updated>2022-03-29T09:15:38.646Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 퍼플키스가 보랏빛 주문을 읊는다. 29일 오후 6시 퍼플키스 세 번째 미니앨범 '맴맴(memeM)'과 동명의 타이틀곡 뮤직비디오가 공개됐다. 앨범명 '맴맴'은 문화적 요소의 유행을]]></content>
     </entry>
 </feed>

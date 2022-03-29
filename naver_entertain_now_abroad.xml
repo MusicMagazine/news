@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-03-29T15:16:34.526Z</updated>
+    <updated>2022-03-29T16:21:11.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['BTS 절친' 할시, 온몸 비치는 레이스 패션…파격 시스루 '깜짝']]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004726132</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004726132"/>
+        <updated>2022-03-29T16:21:10.778Z</updated>
+        <content type="html"><![CDATA[[할시, 제94회 美 아카데미 애프터 파티서 선보인 과감한 드레스 패션] 팝 가수 할시가 파격적인 시스루 드레스 패션을 선보였다. 할시는 27일(이하 현지시간) 미국 로스앤젤레스에서 열린 제94회 미국 아카데미 시상]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엑소 출신 타오, 한밤중에 응급실…왜?]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011091316</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=052&amp;aid=0001719441"/>
         <updated>2022-03-29T07:16:36.085Z</updated>
         <content type="html"><![CDATA['신비한 동물사전', '신비한 동물들과 그린델왈드의 범죄'를 비롯해 DC코믹스 '저스티스 리그', 등에 출연해온 헐리우드 유명 배우 에즈라 밀러 씨가 술집에서 난동을 부려 경찰에 체포됐다. 29일 데드라인 등 미국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스트레이 키즈, 미국 빌보드 메인 앨범 차트 1위]]></title>
-        <id>https://entertain.naver.com/now/read?oid=422&amp;aid=0000534776</id>
-        <link href="https://entertain.naver.com/now/read?oid=422&amp;aid=0000534776"/>
-        <updated>2022-03-29T06:19:43.341Z</updated>
-        <content type="html"><![CDATA[그룹 스트레이 키즈가 미국 빌보드 메인 앨범 차트인 '빌보드 200' 정상에 올랐습니다. 빌보드는 오늘(29일), 스트레이 키즈가 지난 18일 발표한 미니음반 '오디너리'가 '빌보드 200' 차트에서 1위를 차지했다]]></content>
     </entry>
 </feed>
