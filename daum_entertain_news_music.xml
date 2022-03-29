@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-03-29T14:17:20.113Z</updated>
+    <updated>2022-03-29T15:16:34.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스트레이 키즈, '공감+소통' K팝 성공방정식 통했다]]></title>
+        <id>https://entertain.v.daum.net/v/20220330000110870</id>
+        <link href="https://entertain.v.daum.net/v/20220330000110870"/>
+        <updated>2022-03-29T15:15:53.322Z</updated>
+        <content type="html"><![CDATA[[이데일리 스타in 윤기백 기자] K팝이 또 해냈다. 그룹 스트레이 키즈(Stray Kids)가 미니 6집 ‘오디너리’로 데뷔 후 처음으로 미국 빌보드 메인 앨범차트인 빌보드200 정상을 차지했다. 2018년 정식 데뷔 이래 4년 만에 이룬 쾌거다. 스트레이 키즈를 통해 소속사 JYP엔터테인먼트(이하 JYP)도 미국 진출의 한을 풀었다. 빌보드는 29일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["별거 아입니더!" 코로나 감염된 BTS 정국, '머스마'의 음성 메시지]]></title>
         <id>https://entertain.v.daum.net/v/20220329210402023</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220329180001727"/>
         <updated>2022-03-29T09:15:19.536Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이덕행 기자] /사진='memeM' 뮤직비디오퍼플키스의 세 번째 미니앨범이 공개됐다. 29일 오후 6시 퍼플키스의 미니 3집 'memeM'이 각종 음원 사이트를 통해 공개됐다. 이번 앨범 'memeM'은 '세상을 보랏빛으로 물들인 퍼플키스가 리스너들의 머릿속을 맴맴(memeM) 돌며 온통 그들로 헤집어 놓겠다는 메시지를 담은 앨범이다. 앨범명]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헤이즈 "'엄마가 필요해' 목적 있는 곡..母 반응 궁금해"]]></title>
-        <id>https://entertain.v.daum.net/v/20220329174723304</id>
-        <link href="https://entertain.v.daum.net/v/20220329174723304"/>
-        <updated>2022-03-29T09:15:19.540Z</updated>
-        <content type="html"><![CDATA[[서울경제] 가수 헤이즈(Heize)가 신곡 '엄마가 필요해'로 리스너들의 가슴을 뭉클하게 만든다. 29일 오후 6시 헤이즈의 새 디지털 싱글 '엄마가 필요해'는 세상의 모든 어머니를 위한 곡으로, 헤이즈의 담담하고 차분한 보컬이 곡 내내 평온하게 이어지며 짙은 여운을 선사한다. 특히 이 곡은 헤이즈가 제주도에서 작업 및 촬영을 진행했고, 그의 올해 첫]]></content>
     </entry>
 </feed>
