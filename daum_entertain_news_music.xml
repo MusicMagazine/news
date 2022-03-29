@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-03-29T11:31:16.917Z</updated>
+    <updated>2022-03-29T12:27:16.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["별거 아입니더!" BTS 정국 코로나 확진..'머스마'의 음성 메시지]]></title>
+        <id>https://entertain.v.daum.net/v/20220329210402023</id>
+        <link href="https://entertain.v.daum.net/v/20220329210402023"/>
+        <updated>2022-03-29T12:26:43.286Z</updated>
+        <content type="html"><![CDATA[[동아닷컴]  “별거 아입니더!” BTS 정국 코로나 확진…‘머스마’의 음성 메시지 [종합] 방탄소년단 정국이 코로나19에 감염된 가운데 현재 건강 상태를 전하며 팬들을 안심시켰다. 지난 28일 방탄소년단은 오는 4월 예정된 미국 일정을 소화하기 위해 출국했다. 다만 제이홉은 24일 코로나19 확진 판정을 받고 한국에서 자가격리 및 재택 치료 중이다. 제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['리얼러브' 오마이걸, 7년의 비행이라는 기적]]></title>
         <id>https://entertain.v.daum.net/v/20220329195735998</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220329174723304"/>
         <updated>2022-03-29T09:15:19.540Z</updated>
         <content type="html"><![CDATA[[서울경제] 가수 헤이즈(Heize)가 신곡 '엄마가 필요해'로 리스너들의 가슴을 뭉클하게 만든다. 29일 오후 6시 헤이즈의 새 디지털 싱글 '엄마가 필요해'는 세상의 모든 어머니를 위한 곡으로, 헤이즈의 담담하고 차분한 보컬이 곡 내내 평온하게 이어지며 짙은 여운을 선사한다. 특히 이 곡은 헤이즈가 제주도에서 작업 및 촬영을 진행했고, 그의 올해 첫]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2PM 이준호, 코로나 확진 "스케줄 중단"]]></title>
-        <id>https://entertain.v.daum.net/v/20220329174606263</id>
-        <link href="https://entertain.v.daum.net/v/20220329174606263"/>
-        <updated>2022-03-29T09:15:19.541Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 그룹 2PM 멤버 이준호가 코로나19 확진 판정을 받았다. 소속사 JYP엔터테인먼트는 29일 2PM 공식 트위터를 통해 "이준호가 이날 코로나19 양성 판정을 받았다"고 알렸다. 소속사 측에 따르면 이준호는 이날 자가 키트 검사에서 양성 확인 후 즉시 신속항원검사를 진행했고 최종적으로 확진 판정을 받게 됐다. 이준호는 백신 2차]]></content>
     </entry>
 </feed>
