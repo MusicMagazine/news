@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-03-30T20:15:33.376Z</updated>
+    <updated>2022-03-30T21:15:05.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아카데미 측 “크리스 록 폭행한 윌 스미스에 분노, 적절한 조치 취하겠다” 공식발표[해외이슈](종합)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003589331</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003589331"/>
+        <updated>2022-03-30T21:15:04.474Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]아카데미 시상식을 주관하는 영화예술과학아카데미(Academy of Motion Ficture Arts and Sciences)는 “윌 스미스의 폭행에 분노했다”면서 “적절한 조치를 취하겠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['더 원티드' 33살 팝스타 톰 파커, 뇌종양으로 별세]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013083489</id>
@@ -171,12 +178,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004581810"/>
         <updated>2022-03-30T06:19:24.765Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 미국 배우 데이비드 스페이드가 크리스 록의 오스카 농담을 옹호했다. 데이비드 스페이드는 27일(현지시간) 열린 제 94회 아카데미 시상식에서 배우 제이다 핀켓 스미스의 민머리로 농담을 했다가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["약 먹었나"…서희원 전 남편, 언니 재혼 후일담 밝힌 동생 '저격']]></title>
-        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004726462</id>
-        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004726462"/>
-        <updated>2022-03-30T06:19:24.765Z</updated>
-        <content type="html"><![CDATA[[서희원 전 남편 왕소비 "언니는 가만히 있는데 왜 네가 난리" 서희제 저격] 그룹 클론 구준엽과 결혼한 대만 배우 서희원의 전 남편인 중국 재벌 2세 왕소비가 전 아내 서희원의 동생을 공개 저격했다. 서희원의 동생]]></content>
     </entry>
 </feed>
