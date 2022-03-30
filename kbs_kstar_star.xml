@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 01:03:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 02:42:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["만화에서 뮤지컬로"  홍광호-고은성-김준수-김성철  '데스노트'  연습실 현장]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=200019</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=200019</guid>
+            <pubDate>Wed, 30 Mar 2022 02:41:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=200019">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220330084517_c4dc518921f4881bf643d51084d83a4b.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=200019">"만화에서 뮤지컬로"  홍광호-고은성-김준수-김성철  '데스노트'  연습실 현장</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220330084517_c4dc518921f4881bf643d51084d83a4b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["이름이 '방화혐의자'라고요?" 뮤지컬 미세스 다웃파이어' 8월 한국상륙]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=199807</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=195304">'개승자' 활약 중인 개그맨 정찬민...4세 연하 배우 임수현과 결혼</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220304114627_3f208eb29e2b70023edff913e68616d6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유키스, 우크라이나 대사관 통해 1천만원 기부!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=195262</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=195262</guid>
-            <pubDate>Fri, 04 Mar 2022 09:13:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=195262">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220304091739_14e93d445e9716407f472f99faef03fd.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=195262">유키스, 우크라이나 대사관 통해 1천만원 기부!</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220304091739_14e93d445e9716407f472f99faef03fd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
