@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-30T11:14:04.980Z</updated>
+    <updated>2022-03-30T12:26:38.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[금영엔터테인먼트 회장 해외도피]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000802819</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000802819"/>
+        <updated>2022-03-30T12:26:21.220Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 노래방 기기 업체 금영엔터테인먼트 김모 회장이 회삿돈을 빼돌린 혐의(횡령·배임)로 경찰 수사를 받던 중 해외로 달아난 것으로 파악이 됐다. 30일 경찰에 따르면 김 회장은 지난해 11월 경찰의 1차 소]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HK직캠｜나인아이 베리, '미소가 귀여운 남자'…타이틀곡 'Parallel Universe' 직캠]]></title>
         <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004680127</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001427355"/>
         <updated>2022-03-30T09:15:27.510Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 나인아이(NINE.i)가 선배 허찬미와 키썸의 응원을 등에 업고 출사표를 던졌다. 30일 오후 나인아이(제원, 이든, 위니, 민준, 반, 베리, 서원, 태훈, 주형, 지호)의 첫 번]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나인아이, 오늘(30일) 데뷔…10인 10색 매력으로 가요계 접수 예고]]></title>
-        <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000140592</id>
-        <link href="https://entertain.naver.com/now/read?oid=629&amp;aid=0000140592"/>
-        <updated>2022-03-30T09:15:27.511Z</updated>
-        <content type="html"><![CDATA["모든 곡이 타이틀곡"…멤버 반, 앨범 전체 프로듀싱 참여 퍼스트원엔터테인먼트의 첫 10인조 보이그룹 나인아이(NINE.i)가 독보적인 아이덴티티를 응집한 데뷔 앨범으로 가요계에 출격한다. 소속사 퍼스트원엔터테인먼트]]></content>
     </entry>
 </feed>
