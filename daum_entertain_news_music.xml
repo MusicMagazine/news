@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-03-31T19:13:32.004Z</updated>
+    <updated>2022-03-31T20:16:47.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[헤이즈 다음 컴백 주자 누구? 피네이션 'COMING UP NEXT' 공개]]></title>
+        <id>https://entertain.v.daum.net/v/20220401050341952</id>
+        <link href="https://entertain.v.daum.net/v/20220401050341952"/>
+        <updated>2022-03-31T20:16:11.527Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 피네이션(P NATION)이 4월 13일 소속 아티스트의 컴백을 예고했다. 피네이션 수장 싸이는 3월 31일 자신의 공식 SNS를 통해 'COMING UP NEXT' 이미지를 공개했다. 이번 'COMING UP NEXT' 이미지에는 '2022.04.13 6PM'이라는 새로운 발매 일시가 담겨 있다. 또한, 아직 베일에 싸여 있는 아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국가부' 박창근, 김태원·김범룡·박학기·민해경과 레전드 무대]]></title>
         <id>https://entertain.v.daum.net/v/20220401000720219</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220331180806986"/>
         <updated>2022-03-31T09:16:33.990Z</updated>
         <content type="html"><![CDATA[[티브이데일리 박상후 기자] 그룹 방탄소년단(BTS) 측이 악성 루머 유포자에 대한 강경한 방침을 강조했다. 소속사 빅히트 뮤직 측은 31일 팬 커뮤니티 위버스를 통해 "당사는 방탄소년단에 대한 명예훼손, 모욕, 성희롱, 허위사실 유포, 악의적 비방 등 악성 게시물 작성자를 상대로 정기적인 법적 대응에 나서고 있다"라고 말문을 열었다. 이어 "당사는 최]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국의 멋과 미 알린다..킹덤의 화려한 날갯짓]]></title>
-        <id>https://entertain.v.daum.net/v/20220331180317790</id>
-        <link href="https://entertain.v.daum.net/v/20220331180317790"/>
-        <updated>2022-03-31T09:16:33.990Z</updated>
-        <content type="html"><![CDATA[그룹 킹덤이 돌아왔다. 한국의 멋을 가득 담은 무대를 준비한 킹덤이 또 한 번 화려한 날갯짓을 시작했다. 킹덤(자한, 아이반, 아서, 치우, 단, 루이, 무진) 은 31일 오후 6시 각종 온라인 음원사이트를 통해 미니 4집 ‘히스토리 오브 킹덤 : 파트 4. 단’을 발매했다. 이번 앨범은 ‘변화의 왕국’을 지키기 위해 적들과 싸우는 왕, 단의 이야기를 담고]]></content>
     </entry>
 </feed>
