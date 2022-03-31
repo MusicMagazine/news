@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-03-31T15:18:31.096Z</updated>
+    <updated>2022-03-31T16:20:56.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[션 멘데스, 새 싱글 '웬 유어 곤'…"내가 혼자임을 깨닫을 때"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011096818</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011096818"/>
+        <updated>2022-03-31T16:20:39.991Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 캐나다 팝스타 션 멘데스(Shawn Mendes)가 새 싱글 '웬 유어 곤(When You’re Gone)'을 발매했다고 유니버설뮤직이 1일 밝혔다. '웬 유어 곤'은 업템포 록 사운드]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국가단 박창근X이솔로몬, '제28회 대한민국 연예예술상' 수상 영예]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000857403</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004582612"/>
         <updated>2022-03-31T09:16:54.294Z</updated>
         <content type="html"><![CDATA[[OSEN=이승훈 기자] 밴드 루시(LUCY)와 데이브레이크가 '믿고 듣는 밴드'의 역대급 시너지를 예고했다. 루시와 데이브레이크는 오늘(31일) 오후 6시 각종 온라인 음원 사이트를 통해 새 싱글앨범 '쉬운 답'을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그해우리는' 김지웅 맞아?..'데스노트' 김성철, 180도 비주얼 변신]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004582611</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004582611"/>
-        <updated>2022-03-31T09:16:54.294Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자]배우 김성철이 신비롭고 강렬한 비주얼로 시선을 집중시킨다. 31일, 소속사 스토리제이컴퍼니 측은 뮤지컬 ‘데스노트’에서 천재 고등학생 ‘야가미 라이토’에 맞서는 베일에 싸인 세계적인 명탐정 ‘]]></content>
     </entry>
 </feed>
