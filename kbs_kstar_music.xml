@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 01:08:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 03:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밴드 루아멜, 화제의 드라마 '파친코' OST 참여]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=200585</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=200585</guid>
+            <pubDate>Fri, 01 Apr 2022 03:13:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=200585">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220401101205_6c11ff912cbb49e9d13812389d6fd1b1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=200585">밴드 루아멜, 화제의 드라마 '파친코' OST 참여</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220401101205_6c11ff912cbb49e9d13812389d6fd1b1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SEVENTEEN, 첫 영어 디지털 싱글 15일 선공개]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=200521</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=199747">인피니트 김성규...4월 22일 '세이비어'로 귀환</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220329090236_90effe1d7ea56ac95f240c2a2d6ba28a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['킹덤' 31일 컴백, 미니 4집 '히스토리 오브 킹덤 : 파트 4. 단']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=199696</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=199696</guid>
-            <pubDate>Mon, 28 Mar 2022 23:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=199696">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220329074128_9674a4d1d2876a5516c9bef7816d4a91.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=199696">'킹덤' 31일 컴백, 미니 4집 '히스토리 오브 킹덤 : 파트 4. 단'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220329074128_9674a4d1d2876a5516c9bef7816d4a91.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
