@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-04-01T20:16:57.391Z</updated>
+    <updated>2022-04-01T21:15:35.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대단한 울림, 깊은 감동..이찬원 '안돼요 안돼' 400만뷰]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003040811</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003040811"/>
+        <updated>2022-04-01T21:15:21.400Z</updated>
+        <content type="html"><![CDATA[가수 이찬원의 진한 감성에 젖는 '안돼요 안돼' 무대 영상이 400만 뷰를 돌파했다. 지난해 4월 2일 이찬원 공식 유튜브 채널에 공개된 '안돼요 안돼' 영상은 4월 1일 조회수 400만 뷰를 넘어섰다. 영상에는 T]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단, 그래미 수상 가능할까…긍부정 따져보니]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011098912</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004583063"/>
         <updated>2022-04-01T09:16:23.007Z</updated>
         <content type="html"><![CDATA[[OSEN=지민경 기자] 가수 태연이 월간 차트까지 점령하며 ‘독보적 음원퀸’의 저력을 다시 한 번 발휘했다. 태연은 1일 공개된 3월 멜론 월간 차트에서 신곡 ‘INVU’로 1위를 차지하며 롱런 인기를 입증했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트레저, 데뷔 2년 만에 日 아레나 투어…6개 도시·17회 공연]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011098689</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011098689"/>
-        <updated>2022-04-01T09:16:23.011Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 그룹 '트레저(TREASURE)'가 데뷔 2년여 만에 일본 아레나 투어를 돈다. 1일 소속사 YG엔터테인먼트에 따르면 트레저는 오는 11월26일 홋카이도 종합체육센터 홋카이키타에루를 시]]></content>
     </entry>
 </feed>
