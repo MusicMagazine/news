@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 12:29:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 13:35:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이지현-한여화-이승재-김양균, 아츠로이엔티와 매니지먼트 계약]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=200676</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=200676</guid>
+            <pubDate>Fri, 01 Apr 2022 13:34:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=200676">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220401172007_b9f5206b68e051c40277b38feaffa6cb.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=200676">이지현-한여화-이승재-김양균, 아츠로이엔티와 매니지먼트 계약</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220401172007_b9f5206b68e051c40277b38feaffa6cb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드라마 '내일' 출연하는 신예 김서연, FNC엔터테인먼트 합류]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=200591</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196323">생일 맞은 방탄소년단 슈가, 뉴욕 타임스퀘어 대형 전광판 등장!</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220310141326_7f0a8e0091ed7af18e33ece1b6d9a167.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번엔 모델 정호연, 파리 루이 비통 쇼]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=196053</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=196053</guid>
-            <pubDate>Tue, 08 Mar 2022 10:14:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=196053">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220308175515_90c77e3928123e586cdbf3197b23b849.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196053">이번엔 모델 정호연, 파리 루이 비통 쇼</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220308175515_90c77e3928123e586cdbf3197b23b849.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
