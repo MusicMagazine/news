@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-04-01T17:20:18.812Z</updated>
+    <updated>2022-04-01T18:19:34.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[손예진 부케 받은 ‘공효진 ♥’ 케빈 오, 누구?]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000803318</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000803318"/>
+        <updated>2022-04-01T18:19:20.250Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 배우 공효진과 교제 사실이 알려진 가수 케빈 오가 화제다. 지난 1일 공효진과 케빈오의 열애 소식이 전해졌다. 공효진의 소속시 매니지먼트숲 측은 “공효진과 케빈 오가 좋은 감정으로 만남을 가지고 있다”]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대세 (여자)아이들, 6관왕]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000803304</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004583060"/>
         <updated>2022-04-01T09:16:23.012Z</updated>
         <content type="html"><![CDATA[[OSEN=지민경 기자] 그룹 빅뱅이 과거와 현재 미래를 담은 신곡으로 돌아온다. 오는 5일 4년 만에 신곡 ‘봄여름가을겨울 (Still Life)' 발표를 앞두고 전 세계 팬들을 들썩이게 하고 있는 빅뱅은 차례로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["건물주 천벌 받을 것" 스윙스, 전여친 임보라와 동업 카페 폐업 심경]]></title>
-        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003547281</id>
-        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003547281"/>
-        <updated>2022-04-01T09:16:23.013Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=김지혜 기자] 스윙스가 카페를 정리하며 심경을 전했다. 31일 래퍼 스윙스는 자신의 인스타그램 스토리에 "오늘로서 끝. 내가 태어나서 한 사업 경험 중 가장 심하게 발린 경험. 그럼으로 더 배우게 된"]]></content>
     </entry>
 </feed>
