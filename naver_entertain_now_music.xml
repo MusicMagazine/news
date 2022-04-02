@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-04-02T12:23:39.809Z</updated>
+    <updated>2022-04-02T13:21:06.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[보아, 日 셀프 커버 프로젝트 세 번째 곡 '다키시메루' 4일 공개]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003040947</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003040947"/>
+        <updated>2022-04-02T13:20:51.136Z</updated>
+        <content type="html"><![CDATA['아시아의 별' 보아(BoA, 에스엠엔터테인먼트 소속)의 일본 데뷔 20주년 기념 'Self Cover Project'(셀프 커버 프로젝트) 세 번째 곡이 4일 공개된다. 4월 4일 0시 한국과 일본을 비롯한 각종]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔플라잉 이승협, '내일' OST '레드 라이트' 가창]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003040943</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000857748"/>
         <updated>2022-04-02T08:17:31.925Z</updated>
         <content type="html"><![CDATA[헤이즈(Heize)가 신곡 '엄마가 필요해' 발매를 기념해 팬들과 목소리로 만났다. 헤이즈는 1일 오후 네이버 바이브(VIBE)를 통해 '파티룸'을 열고 언택트 청음회를 진행하며 최근 발매한 새 디지털 싱글 '엄마가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘5일 컴백’ 아이브 가을X이서 ‘LOVE DIVE’ 마지막 콘셉트 화보 공개]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000558105</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000558105"/>
-        <updated>2022-04-02T08:17:31.927Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 6인조 신예 아이브(IVE)가 따스한 봄의 큐피드로 변신했다. 아이브(유진·가을·레이·원영·리즈·이서)는 4월 1일 공식 SNS 채널을 통해 두 번째 싱글 'LOVE DIVE(러브 다이브)'의]]></content>
     </entry>
 </feed>
