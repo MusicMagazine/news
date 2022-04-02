@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-04-02T21:14:29.769Z</updated>
+    <updated>2022-04-02T22:16:50.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“윌 스미스 폭행 비난” 짐 캐리 은퇴, “그림 그리며 살고 싶다”[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003590260</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003590260"/>
+        <updated>2022-04-02T22:16:49.546Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 짐 캐리(60)가 은퇴를 선언했다. 그는 1일(현지시간) 엑세스 할리우드와 인터뷰에서 “할만큼 했다. 상당히 진지하다”면서 은퇴를 언급했다. 짐 캐리는 “난 은퇴할 것이다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[40살 애셋맘 비욘세, “세상에서 가장 비싼 티파니 다이몬드 착용”[해외이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003590259</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=422&amp;aid=0000535423"/>
         <updated>2022-04-02T02:28:36.790Z</updated>
         <content type="html"><![CDATA[[앵커] 아카데미 시상식에서 남우조연상을 수상한 트로이 코처, 청각장애 배우로서 수어로 감동적인 소감을 남겼는데요. 영화에 나오는 장애인을 실제 장애인 배우가 연기 하는 것, 어쩌면 당연한 건데, 최근에서야 주목받고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오스카 폭행' 윌 스미스, 아카데미 회원자격 자진 반납]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011099037</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011099037"/>
-        <updated>2022-04-02T00:59:15.374Z</updated>
-        <content type="html"><![CDATA[기사내용 요약 "추가 처벌도 받아들이겠다" [서울=뉴시스]이재훈 기자 = '오스카 폭행 사건'을 일으킨 할리우드 스타 윌 스미스가 오스카상을 주관하는 미국 영화예술과학아카데미(AMPAS) 회원 자격을 자진 반납했다.]]></content>
     </entry>
 </feed>
