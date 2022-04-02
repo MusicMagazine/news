@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-04-02T09:15:51.497Z</updated>
+    <updated>2022-04-02T10:15:44.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[루이 "데뷔, 다섯글자로? 꿈의 시작점"]]></title>
+        <id>https://entertain.v.daum.net/v/20220402190302777</id>
+        <link href="https://entertain.v.daum.net/v/20220402190302777"/>
+        <updated>2022-04-02T10:15:06.834Z</updated>
+        <content type="html"><![CDATA[스타들의 사소한 생활이 궁금하다고요? 배우부터 가수, 개그맨까지 그들의 모든 것을 파헤쳐보는 시간을 가져봤습니다. 그동안 팬과 일반인들이 궁금했던 사소하고도 은밀했던 사항, 스타의 A부터 Z까지를 ‘사소한 인터뷰’를 통해 낱낱이 공개합니다. &lt;편집자 주&gt; 킹덤(자한, 아이반, 아서, 치우, 단, 루이, 무진)이 3월 31일 오후 6시 각종 온라인 음원사이트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SF9 유태양 코로나19 확진 "가벼운 목감기 증상"]]></title>
         <id>https://entertain.v.daum.net/v/20220402181156383</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220402113955982"/>
         <updated>2022-04-02T03:27:58.510Z</updated>
         <content type="html"><![CDATA[[OSEN=지민경 기자]&nbsp;ITZY(있지)가 첫 팬미팅에서 정규 1집의 수록곡 '#Twenty'(해시태그트웬티) 무대와 비디오를 최초 공개한다.&nbsp; ITZY는 오는 9일 오후 5시 서울 광진구 예스24 라이브홀에서 첫 공식 팬미팅 'ITZY The 1st Fan Meeting "있지 믿지, 날자!"'(이하 '있지 믿지, 날자!')를 개최한다. 오프라인 공연]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JUST B, 미니 2집 'JUST BEGUN' 단체 사진 첫 공개]]></title>
-        <id>https://entertain.v.daum.net/v/20220402113441933</id>
-        <link href="https://entertain.v.daum.net/v/20220402113441933"/>
-        <updated>2022-04-02T03:27:58.513Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] 그룹 JUST B(저스트비)가 성장한 비주얼로 본격적인 컴백 카운트다운을 시작했다. JUST B(임지민, 이건우, 배인, JM, 전도염, 김상우)는 1일과 2일 0시 공식 SNS를 통해 두 번째 미니앨범 'JUST BEGUN(저스트 비건)'의 오피셜 포토 개인컷과 단체컷을 공개했다. 먼저 개인컷에서 JUST B 여섯 멤버는 이전]]></content>
     </entry>
 </feed>

@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 09:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 10:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[싸이의 새 놀이터, "나도 틱톡한다"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=200781</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=200781</guid>
+            <pubDate>Sat, 02 Apr 2022 10:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=200781">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220402181954_d9f8576a95f9a2e5f0a66598b1abd249.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=200781">싸이의 새 놀이터, "나도 틱톡한다"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220402181954_d9f8576a95f9a2e5f0a66598b1abd249.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이지현-한여화-이승재-김양균, 아츠로이엔티와 매니지먼트 계약]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=200676</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196512">뮤지컬 열일하는 SF9 재윤...'또! 오해영'에서 활약!</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220311094517_3159b4fbd38739269ff9132b37986464.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생일 맞은 방탄소년단 슈가, 뉴욕 타임스퀘어 대형 전광판 등장!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=196323</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=196323</guid>
-            <pubDate>Thu, 10 Mar 2022 08:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=196323">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220310141326_7f0a8e0091ed7af18e33ece1b6d9a167.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196323">생일 맞은 방탄소년단 슈가, 뉴욕 타임스퀘어 대형 전광판 등장!</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220310141326_7f0a8e0091ed7af18e33ece1b6d9a167.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
