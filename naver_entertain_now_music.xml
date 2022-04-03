@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-04-03T16:20:44.268Z</updated>
+    <updated>2022-04-03T17:16:20.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하늘이 차츰 맑아진다…빅뱅 '봄여름가을겨울' 그리고 봄]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011100698</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011100698"/>
+        <updated>2022-04-03T17:16:03.698Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 그룹 '빅뱅' 컴백일이 하루 앞으로 다가온 가운데, 이들이 2세대 대표 K팝 그룹의 명성을 이어갈 지 관심이다. 4일 소속사 YG엔터테인먼트에 따르면 빅뱅은 5일 신곡 '봄여름가을겨울(]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘 그래미 어워즈…방탄소년단, K팝 첫 수상 여부 주목]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013090174</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001428990"/>
         <updated>2022-04-03T06:18:17.090Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅이 멜론차트에서 지속적으로 인기를 끌고 있다. 3일 오전 8시 멜론차트에 따르면, 임영웅이 부른 노래들이 멜론차트 상위권에 다수 진입했다. 1위 ‘사랑은 늘 도망가’를 비롯, 5위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임영웅 모든 것 담은 'HERO GENERATION'..뜨거운 팬사랑♥]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003041079</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003041079"/>
-        <updated>2022-04-03T06:18:17.090Z</updated>
-        <content type="html"><![CDATA['HERO GENERATION' 가수 임영웅이 든든한 지원군 영웅시대를 위한 로고를 직접 제작, 뜨거운 팬사랑을 보여줬다. 4월 3일 오전 임영웅 공식 유튜브 채널 '임영웅 Shorts'에 '영웅씨 뭐하세요!?' 영]]></content>
     </entry>
 </feed>
