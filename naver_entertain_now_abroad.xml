@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-04-03T01:02:51.729Z</updated>
+    <updated>2022-04-03T02:51:58.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스, '오스카 폭행' 윌 스미스 손절?..신작 내팽개쳤다(종합)[Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004584123</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004584123"/>
+        <updated>2022-04-03T02:51:58.023Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 아카데미 시상식에서 주먹을 휘두른 윌 스미스가 넷플릭스 신작 출연에 제약이 걸렸다. 2일(현지시각) 외신 매체는 “넷플릭스 신작인 ‘Fast and Loose’가 감독 교체에 이어 주인공 윌]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스, 윌 스미스 주연 차기작 영화 후순위로 미뤄]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013089011</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004583369"/>
         <updated>2022-04-02T02:28:36.789Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 배우 크리스 록을 폭행한 윌 스미스가 영화 예술 과학 아카데미에서 자진 사임했다. 1일(현지 시간·이하 동일) 윌 스미스가 영화 예술 과학 아카데미 회원에서 자발적으로 탈퇴한 것으로 보도됐다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스 록 뺨 때린 윌 스미스, 아카데미 회원 자진 반납]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000558044</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000558044"/>
-        <updated>2022-04-02T02:28:36.790Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 할리우드 배우 윌 스미스가 아카데미 회원을 자진 반납했다. 4월 1일(현지시간) 미국 매체 PEOPLE(피플)은 크리스 록의 뺨을 때린 윌 스미스가 아카데미(AMPAS) 회원 자격을 자진 반납]]></content>
     </entry>
 </feed>
