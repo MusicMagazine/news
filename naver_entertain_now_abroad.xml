@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-04-03T17:16:20.951Z</updated>
+    <updated>2022-04-03T18:18:24.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['OO7' 대니얼 크레이그, 코로나 확진…브로드웨이 공연 취소]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013090188</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013090188"/>
+        <updated>2022-04-03T18:18:24.010Z</updated>
+        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 정윤섭 특파원 = 영화 007시리즈에서 주인공 제임스 본드 역할을 연기했던 영국 배우 대니얼 크레이그가 신종 코로나바이러스 감염증(코로나19) 양성 판정을 받았다. 미국 영화 전문 매체 데드]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[너무 혹독한 '따귀' 후폭풍…윌 스미스, OTT·영화업계서 줄줄이 손절?]]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004728109</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001653320"/>
         <updated>2022-04-02T03:28:31.884Z</updated>
         <content type="html"><![CDATA[아카데미 시상식에서 폭행 논란에 휩싸인 배우 윌 스미스가 아카데미 회원직에서 자진 사퇴했다. AP통신 등에 따르면 윌 스미스는 지난 1일 오후 성명을 통해 아카데미 회원직에서 사퇴하겠다고 밝혔다. 윌 스미스는 “아카]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["장국영 얼굴 선명하게" 22년 전 콘서트 AI로 초고화질 복원]]></title>
-        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013088375</id>
-        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013088375"/>
-        <updated>2022-04-02T03:28:31.889Z</updated>
-        <content type="html"><![CDATA[텐센트 "인공지능 활용해 머리카락, 얼굴 또렷하게 만들어" (홍콩=연합뉴스) 윤고은 특파원 = 19년 전 만우절에 세상을 떠난 홍콩 출신 세계적 스타 장궈룽(1956∼2003·장국영·레슬리 청)의 마지막 콘서트 투어]]></content>
     </entry>
 </feed>
