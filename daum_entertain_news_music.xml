@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-04-04T12:25:16.852Z</updated>
+    <updated>2022-04-04T13:26:10.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[존 바티스트, 그래미 5관왕 영예..실크소닉 4관왕]]></title>
+        <id>https://entertain.v.daum.net/v/20220404213230689</id>
+        <link href="https://entertain.v.daum.net/v/20220404213230689"/>
+        <updated>2022-04-04T13:25:32.229Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이태수 기자 = 재즈 뮤지션 존 바티스트가 '제64회 그래미 어워즈'에서 '올해의 앨범'(Album Of The Year)을 포함해 5관왕에 오르며 최다 수상의 영예를 안았다. 바티스트는 4일(한국시간) 오전 미국 라스베이거스 MGM 그랜드 아레나에서 열린 시상식에서 지난해 3월 발표한 앨범 '위 아'(We Are) 등으로 '올해의 앨범']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['여전히 높은 벽'..BTS, 또 그래미 수상 불발]]></title>
         <id>https://entertain.v.daum.net/v/20220404204102080</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220404180151488"/>
         <updated>2022-04-04T09:16:27.059Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 가수 권은비가 결점마저 매력적인 신곡&nbsp;'Glitch'로 돌아왔다. 4일 권은비는 두 번째 미니앨범 'Color'(컬러)를 발매하고, 타이틀곡 'Glitch'(글리치)의 뮤직비디오를 공개했다. 그룹 아이즈원으로 데뷔한 권은비는 지난해 8월 첫 번째 미니앨범 'OPEN'(오픈)으로 솔로 데뷔했다. 7개월 만에 신보 'Colo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["기적처럼, 널 마주친 순간"..수호, 2년만에 돌아온 감성 끝판왕]]></title>
-        <id>https://entertain.v.daum.net/v/20220404180026437</id>
-        <link href="https://entertain.v.daum.net/v/20220404180026437"/>
-        <updated>2022-04-04T09:16:27.061Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 이승록 기자] 그룹 엑소 멤버 수호가 솔로 신보로 컴백했다. 2년 만이다. 수호는 두 번째 미니앨범 'Grey Suit(그레이 수트'를 4일 오후 6시 각종 음악 사이트를 통해 발표했다. 소속사 SM엔터테인먼트에 따르면 동명 타이틀곡은 프로그레시브 록 장르다. "가사에는 멈춰버린 것만 같던 공허한 회색빛 시간을 지나, 다시 만난 상대를]]></content>
     </entry>
 </feed>
