@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-04-05T05:15:18.224Z</updated>
+    <updated>2022-04-05T06:20:38.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빅뱅]]></title>
+        <id>https://entertain.v.daum.net/v/20220405144858910</id>
+        <link href="https://entertain.v.daum.net/v/20220405144858910"/>
+        <updated>2022-04-05T06:20:04.809Z</updated>
+        <content type="html"><![CDATA[이슈의 중심에 선 인물을 알아보는 시간, 뉴스메이커입니다. 여러 논란 끝에 4년 만에 컴백한 아이돌 그룹 빅뱅이 국내 최대 음원 사이트에서 1위를 차지하는 등, 주요 음원 차트를 휩쓸면서 팬들의 관심이 집중되고 있는데요. 오늘의 뉴스메이커에서 만나봅니다. 빅뱅이 컴백한 건, 4년 만입니다. 2017년 멤버 탑을 시작으로, 지드래곤과 태양, 대성이 차례대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['Z세대 워너비' 아이브, 오늘 '러브 다이브' 컴백쇼 개최]]></title>
         <id>https://entertain.v.daum.net/v/20220405141152289</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220405122019292"/>
         <updated>2022-04-05T03:28:07.180Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] ‘더블 밀리언셀러’ NCT DREAM이 온라인 공연으로 팬들과 만난다. NCT DREAM은 4월 5일 오후 9시 정규 2집 ‘Glitch Mode’(글리치 모드) 발매 기념 온라인 공연을 공개한다. NCT DREAM 온라인 공연 ‘DREAM STAGE : GLITCH MODE’(드림 스테이지 : 글리치 모드, 이하 ‘DREAM S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제시카, 풀리지 않는 인생 2막]]></title>
-        <id>https://entertain.v.daum.net/v/20220405120806067</id>
-        <link href="https://entertain.v.daum.net/v/20220405120806067"/>
-        <updated>2022-04-05T03:28:07.182Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 박상후 기자] 좀처럼 풀리지 않는 분위기다. 그룹 소녀시대 탈퇴 이후 줄곧 내리막길을 타던 제시카가 중국 서바이벌 오디션 프로그램 출연으로 재기의 발판을 마련하고자 했지만, 첫 방송 전부터 잡음에 휘말리면서 몸살을 앓고 있다. 최근 온라인 커뮤니티를 중심으로 제시카의 중국 망고TV 새 예능프로그램 '승풍파랑적저저(乘風破浪的姐姐) 시즌3' 출]]></content>
     </entry>
 </feed>
