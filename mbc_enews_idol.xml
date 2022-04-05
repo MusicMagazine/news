@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 09:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 10:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포토] 아이브 안유진, '예쁜건 알아가지고']]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/343090</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/343090</guid>
+            <pubDate>Tue, 05 Apr 2022 10:15:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/343090">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/05/ed88658e-e991-429f-9aa9-7b52d4044bdd.jpg" alt="[포토] 아이브 안유진, '예쁜건 알아가지고'">        <div class="text-box">            <p class="summary">[포토] 아이브 안유진, '예쁜건 알아가지고'</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/05/ed88658e-e991-429f-9aa9-7b52d4044bdd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오마이걸 유아, 활동 잠정 중단…"코로나19 후유증"  [공식입장]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/343085</link>
@@ -86,14 +94,6 @@
             <pubDate>Tue, 05 Apr 2022 08:19:37 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/343072">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/05/f88466e7-7d68-4965-bfef-cae230d19846.jpg" alt="[포토] 아이브 가을, '증명사진 미모'">        <div class="text-box">            <p class="summary">[포토] 아이브 가을, '증명사진 미모'</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/05/f88466e7-7d68-4965-bfef-cae230d19846.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 아이브 안유진, '신비로운 눈빛']]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/343071</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/343071</guid>
-            <pubDate>Tue, 05 Apr 2022 08:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/343071">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/05/06233967-37b3-4407-af9d-7ff472d3d1ae.jpg" alt="[포토] 아이브 안유진, '신비로운 눈빛'">        <div class="text-box">            <p class="summary">[포토] 아이브 안유진, '신비로운 눈빛'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/05/06233967-37b3-4407-af9d-7ff472d3d1ae.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
