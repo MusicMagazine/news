@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-04-05T20:17:31.705Z</updated>
+    <updated>2022-04-05T21:13:48.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰] 박현서, 첫사랑의 설렘을 닮은 목소리]]></title>
+        <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000141732</id>
+        <link href="https://entertain.naver.com/now/read?oid=629&amp;aid=0000141732"/>
+        <updated>2022-04-05T21:13:32.104Z</updated>
+        <content type="html"><![CDATA[2월 '어깨'에 이어 한 달 만에 신곡 'always' 발표 가수 박현서의 노래를 한 번이라도 들어본 사람은 안다. 맑고 청아하지만 그 안에 베어 있는 가녀리고 아련한 음색이 전해주는 울림을. 앞서 발표한 6개의 싱]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최병찬, '사내맞선' 마지막까지 홍보..보조개로 심쿵사 각[스타IN★]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003041931</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004682350"/>
         <updated>2022-04-05T13:25:50.320Z</updated>
         <content type="html"><![CDATA[그룹 아이브 가을이 5일 오후 서울 한남동 블루스퀘어에서 열린 두 번째 싱글 'LOVE DIVE(러브 다이브)' 발매 기념 쇼케이스에 참석해 공연을 펼치고 있다. 이번 앨범은 전작 '일레븐(ELEVEN)'으로 당당하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 아이브 원영, '반짝반짝 빛나는 미모']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004682349</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004682349"/>
-        <updated>2022-04-05T13:25:50.321Z</updated>
-        <content type="html"><![CDATA[그룹 아이브 원영이 5일 오후 서울 한남동 블루스퀘어에서 열린 두 번째 싱글 'LOVE DIVE(러브 다이브)' 발매 기념 쇼케이스에 참석해 공연을 펼치고 있다. 이번 앨범은 전작 '일레븐(ELEVEN)'으로 당당하]]></content>
     </entry>
 </feed>
