@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-04-06T17:17:21.486Z</updated>
+    <updated>2022-04-06T18:20:07.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[위아이, 미니 4집 활동 성료 #청량의 의인화 #첫사랑 기억 조작]]></title>
+        <id>https://entertain.v.daum.net/v/20220407030008793</id>
+        <link href="https://entertain.v.daum.net/v/20220407030008793"/>
+        <updated>2022-04-06T18:19:29.304Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] [사진 = 위엔터테인먼트 제공]그룹 위아이(WEi/장대현, 김동한, 유용하, 김요한, 강석화, 김준서)가 최근 네 번째 미니앨범 ‘Love Pt.1 : First Love’ 공식 활동을 성료했다. 위아이는 지난 5일 소속사 위엔터테인먼트를 통해 활동 성료 소감을 밝혔다. 멤버들은 “항상 무한한 사랑 주는 루아이 (팬덤명) 덕분에 이번 활동을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['데뷔 10돌' 엑소 수호, 자신 이야기 담아낸 '그레이 슈트'로 컴백]]></title>
         <id>https://entertain.v.daum.net/v/20220407001925245</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220406180003497"/>
         <updated>2022-04-06T09:16:50.337Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 논문 표절 논란으로 자숙 기간을 가졌던 가수 홍진영이 신곡 'Viva La Vida'로 복귀했다. 6일 홍진영은 신곡 'Viva La Vida'(비바 라 비다)를 발매하고, 뮤직비디오를 공개했다. 'Viva La Vida'는 2020년 11월 발매했던 '안돼요' 이후 1년 5개월 만의 신곡이다. 홍진영은 지난 2020년]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미래소년 유도현, 빌리 희화화 사과 "경솔한 행동 죄송"]]></title>
-        <id>https://entertain.v.daum.net/v/20220406175919473</id>
-        <link href="https://entertain.v.daum.net/v/20220406175919473"/>
-        <updated>2022-04-06T09:16:50.342Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] 미래소년 유도현, 빌리 희화화 사과 “경솔한 행동 죄송” (전문)[공식] 보이그룹 미래소년 유도현이 걸그룹 빌리의 안무를 회화화했다는 지적에 사과했다. 지난 4일 유도현은 멤버들과 함께한 라이브 방송에서 빌리의 ‘긴가민가요(GingaMingaYo)’ 안무를 따라했다. 하지만 그는 ‘엽기적인’ 표정을 지으며 과장되게 표현했고 온라인상에서는 희화]]></content>
     </entry>
 </feed>
