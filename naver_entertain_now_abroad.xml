@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-04-06T10:18:26.275Z</updated>
+    <updated>2022-04-06T11:14:47.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[프로미스나인 '아홉 소녀들의 야구장 나들이' [MK화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000858974</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000858974"/>
+        <updated>2022-04-06T11:14:46.595Z</updated>
+        <content type="html"><![CDATA[6일 오후 고척스카이돔에서 2022 KBO리그 LG 트윈스와 키움 히어로즈의 경기가 벌어졌다. 이날 경기에서 걸그룹 프로미스나인 이새롬과 장규리가 각각 시구와 시타를 해 야구장을 찾은 팬들로부터 많은 박수를 받았다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프로미스나인 이서연 '요염하게 앉아서' [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000858952</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000858904"/>
         <updated>2022-04-06T08:19:39.992Z</updated>
         <content type="html"><![CDATA[퍼플키스의 세 번째 미니앨범 memeM (맴맴) 발매 기념 쇼케이스가 6일 오후 서울 일지아트홀에서 열렸다. 퍼플키스 나고은이 쇼케이스에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퍼플키스 유키 '컴백 무대' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000858902</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000858902"/>
-        <updated>2022-04-06T08:19:39.993Z</updated>
-        <content type="html"><![CDATA[퍼플키스의 세 번째 미니앨범 memeM (맴맴) 발매 기념 쇼케이스가 6일 오후 서울 일지아트홀에서 열렸다. 퍼플키스 유키가 쇼케이스에 참석하고 있다.]]></content>
     </entry>
 </feed>
