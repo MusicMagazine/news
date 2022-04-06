@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-04-06T19:12:07.239Z</updated>
+    <updated>2022-04-06T20:15:29.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["SM 업적·K팝 힘 안다"…'음악 변혁' 사우디, 이수만 PD에게 러브콜]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011108076</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011108076"/>
+        <updated>2022-04-06T20:15:13.805Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 최근 10년 새 아프리카·중동 지역에 한류팬 130배 증가 "인구의 70%가 30세 미만"…최근 음악 산업에 대변혁 사우디 공주 "음악 에코시스템, 이수만 프로듀서가 만들어달라" [서울=뉴시스]이재훈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수호, 이번주 음악방송 '그레이 수트' 컴백 무대]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011108058</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003042240"/>
         <updated>2022-04-06T09:17:12.244Z</updated>
         <content type="html"><![CDATA[클론 구준엽이 화기애애한 분위기 속에 대만 톱 여배우 서희원의 어머니와 만났다. 6일(현지 시각) 대만 애플데일리 보도에 따르면 구준엽은 최근 서희원 모녀와 함께 저녁식사를 가졌다. 이 매체는 서희원 어머니와의 인터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 허영지, '시선 사로잡는 아름다운 비주얼']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004682892</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004682892"/>
-        <updated>2022-04-06T09:17:12.248Z</updated>
-        <content type="html"><![CDATA[방송인 허영지가 6일 오후 서울 청담동 일지아트홀에서 열린 그룹 퍼플키스의 세 번째 미니앨범 'memeM'(맴맴) 발매 기념 쇼케이스에 참석해 사회를 보고 있다.]]></content>
     </entry>
 </feed>
