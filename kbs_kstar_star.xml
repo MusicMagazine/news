@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 09:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 10:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레떼아모르 멤버 김성식, 뮤지컬 '마타하리' 합류!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=201548</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=201548</guid>
+            <pubDate>Wed, 06 Apr 2022 10:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=201548">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220406164357_c5adcb085c2c6b0f940218cd8f0648f7.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=201548">레떼아모르 멤버 김성식, 뮤지컬 '마타하리' 합류!</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220406164357_c5adcb085c2c6b0f940218cd8f0648f7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[워너원 윤지성, DG엔터테인먼트 계약...새로운 둥지 찾았다]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=201451</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=199758">[화보] 씨엔블루 강민혁, 이정신-엔플라잉 이승협, 차훈...사이좋은 선후배 케미스트리</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220329091146_a0e394ba33f163ab15aa10e7b09239cd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스타뷰] '짧은대본' 준팍, 배우 박준의 단단한 심지와 심성]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=199461</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=199461</guid>
-            <pubDate>Mon, 28 Mar 2022 04:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=199461">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220328100753_478319f971ab72b186056f126f65aaa9.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=199461">[뉴스타뷰] '짧은대본' 준팍, 배우 박준의 단단한 심지와 심성</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220328100753_478319f971ab72b186056f126f65aaa9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
