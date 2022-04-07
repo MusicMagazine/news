@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-04-07T16:21:02.896Z</updated>
+    <updated>2022-04-07T17:19:07.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[권은비 "생애 첫 수중 촬영, 힘들었지만 예쁘게 나와 만족"]]></title>
+        <id>https://entertain.v.daum.net/v/20220408020010210</id>
+        <link href="https://entertain.v.daum.net/v/20220408020010210"/>
+        <updated>2022-04-07T17:18:32.732Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] [사진 제공 = 울림엔터테인먼트]가수 권은비가 지난 4일 발매한 미니 2집 '컬러(Color)' 비화를 직접 소개했다. 지난해 발표한 첫 번째 미니 앨범 '오픈(OPEN)' 이후 7개월 만에 선보이는 '컬러'는 권은비가 가지고 있는 다채로운 색들을 보여주는 앨범이다. 권은비의 색을 대표하는 타이틀곡 '글리치(Glitch)'는 '나만의 동화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세븐틴, 글로벌 기업 애플 통해 "전 세계 캐럿들과 소통"]]></title>
         <id>https://entertain.v.daum.net/v/20220408000004202</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220407181410746"/>
         <updated>2022-04-07T09:14:51.471Z</updated>
         <content type="html"><![CDATA[[텐아시아=강민경 기자] 그룹 세븐틴이 K-POP 최초로 Apple과 컬래버레이션을 진행, 글로벌 팬심을 겨낭한다. 7일 오후 서울 중구에 위치한 Apple 명동에서 Apple과 세븐틴의 컬래버레이션 기자 간담회가 열렸다. 이날 패트릭 슈루프 애플 리테일 동북·동남아시아 총괄 디렉터는 "2018년 한국에 첫 번째 Apple 스토어를 개관한 이래 수많은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데뷔 20주년 금잔디 "위로&감동을 부를 것"]]></title>
-        <id>https://entertain.v.daum.net/v/20220407180102383</id>
-        <link href="https://entertain.v.daum.net/v/20220407180102383"/>
-        <updated>2022-04-07T09:14:51.475Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 가수 금잔디가 다채로운 음악 이야기와 진심 어린 고백을 했다. 금잔디는 지난 2월 데뷔 20주년 기념 네 번째 정규 앨범 ‘당신은 명작’을 발매, 다양한 분야를 오가며 폭넓은 음악 행보를 이어가고 있다. ‘당신은 명작’은 동명의 타이틀곡 ‘당신은 명작’을 포함해 ‘지름길’, ‘교차로에서’, ‘소나기’, ‘울아부지’, ‘나를 살게하는 사]]></content>
     </entry>
 </feed>
