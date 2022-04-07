@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2022-04-07T18:18:23.220Z</updated>
+    <updated>2022-04-07T19:13:25.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤후, ‘자본주의 학교’ 입학…국민조카의 경제생활은?]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000972108</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000972108"/>
+        <updated>2022-04-07T19:13:17.872Z</updated>
+        <content type="html"><![CDATA[KBS2 예능프로그램 ‘자본주의 학교’가 정규 편성된 가운데, 입학생 라인업을 공개했다. ‘자본주의 학교’는 훗날 경제 주체가 될 10대들에게 진짜 돈공부를 알려주는 프로그램으로, 10대는 물론 10대 자녀를 둔 부]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이준·강한나, 마주할 수 없는 슬픈 운명 포스터 (‘붉은 단심’)]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000972107</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000540046"/>
         <updated>2022-04-07T13:29:00.425Z</updated>
         <content type="html"><![CDATA[[텐아시아=강민경 기자] 그룹 쥬얼리 출신 방송인 이지현이 박정아, 서인영과 함께 추억 여행을 다녀왔다. 이지현은 7일 자신의 인스타그램에 "1998년에 써클로 데뷔하고 2001년에 쥬얼리로 데뷔하고 그런 시절이 있]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이요원, 악연 김규리 바라보는 미묘한 눈빛 (‘그린마더스클럽’)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000972102</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000972102"/>
-        <updated>2022-04-07T13:29:00.428Z</updated>
-        <content type="html"><![CDATA[JTBC 수목드라마 ‘그린마더스클럽’ 엄마들이 초등학교 수업 현장에서 극과 극 온도차를 드러냈다. 앞서 ‘신입맘’ 이은표(이요원 분)가 교육열이 치열하기로 소문난 교육 특구 상위동에 이사하면서 파란만장한 입성기가 펼]]></content>
     </entry>
 </feed>
