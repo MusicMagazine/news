@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2022-04-08T17:19:57.271Z</updated>
+    <updated>2022-04-08T18:20:30.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원경왕후 박진희, 후궁 김씨 이주은과 비밀 회동 (‘태종 이방원’)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000972299</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000972299"/>
+        <updated>2022-04-08T18:20:23.455Z</updated>
+        <content type="html"><![CDATA[KBS1 대하드라마 '태종 이방원' 박진희가 이주은과 비밀 회동을 한다. 오는 9일(토), 10일(일) ‘태종 이방원’(연출 김형일, 심재현 / 극본 이정우)에서는 원경왕후(박진희 분)가 이방원(주상욱 분)의 후궁]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[웬디, 이효리 ‘서울체크인’ OST 첫 주자…9일 공개]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000972298</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000352113"/>
         <updated>2022-04-08T15:22:22.534Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=서울, 곽혜미 기자] 영화 '공기살인' 언론 배급 시사회가 8일 오후 서울 CGV용산아이파크몰에서 열렸다. 배우 김상경이 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지연수 "난 ATM기X감정쓰레기통" vs 일라이 "우리 가족 욕하지마"('우이혼2')[종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003851264</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003851264"/>
-        <updated>2022-04-08T15:22:22.535Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 김준석 기자] 이혼 커플 지연수와 일라이가 재회했다. 8일 방송된 TV CHOSUN 리얼 타임 드라마 '우리 이혼했어요2(이하 우이혼2)'는 일라이와 지연수 커플이 등장했다. MC 신동엽은 "시즌1]]></content>
     </entry>
 </feed>
