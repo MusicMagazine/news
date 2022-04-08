@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-04-08T19:14:41.444Z</updated>
+    <updated>2022-04-08T20:16:19.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[퍼플키스, 4세대 원픽 걸그룹 노린다 'Pretty Psycho' 첫무대 [MD동영상]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003592500</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003592500"/>
+        <updated>2022-04-08T20:16:04.090Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 김정수 기자] 걸그룹 퍼플키스(박지은, 나고은, 도시, 이레, 유키, 채인, 수안)가 6일 오후 서울 청담동 일지아트홀에서 진행된 미니 3집 'memeM' 발매기념 쇼케이스에서 수록곡 'Pretty]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[음향기기 전문기업 보스, 세일즈포스 커스터머360 도입]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000804888</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011111951"/>
         <updated>2022-04-08T09:15:37.327Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스] 최지윤 기자 = 가수 존박(34·박성규)이 결혼한다. 존박은 6월12일 서울 모처에서 비연예인과 결혼식을 올린다. 1년간 만남 끝에 부부 연을 맺는다. 소속사 뮤직팜은 "코로나19로 조심해야 하는 시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[존박, 1년간 교제한 연인과 6월 결혼…"소중한 사람"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013101958</id>
-        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013101958"/>
-        <updated>2022-04-08T09:15:37.329Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이태수 기자 = 가수 존박이 오는 6월 12일 약 1년간 교제한 비(非)연예인 여성과 서울 모처에서 화촉을 밝힌다고 소속사 뮤직팜이 8일 밝혔다. 존박은 이날 친필 메시지를 통해 "작년 이맘때쯤 알]]></content>
     </entry>
 </feed>
