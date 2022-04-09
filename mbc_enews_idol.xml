@@ -1,8 +1,99 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://enews.imbc.com/ThemeIdol</id>
-    <title>MBC 연예 ─ 아이돌</title>
-    <updated>2022-04-09T06:19:07.073Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://enews.imbc.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>MBC 연예 ─ 아이돌</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 09 Apr 2022 07:16:32 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘키 172cm’ 르세라핌 허윤진, 긴 팔다리 돋보이는 포즈 ‘눈길’]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/343524</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/343524</guid>
+            <pubDate>Sat, 09 Apr 2022 07:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/343524">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/09/6ff8a703-dcde-4d73-b94e-ad4ee0f5bace.jpg" alt="‘키 172cm’ 르세라핌 허윤진, 긴 팔다리 돋보이는 포즈 ‘눈길’">        <div class="text-box">            <p class="summary">‘키 172cm’ 르세라핌 허윤진, 긴 팔다리 돋보이는 포즈 ‘눈길’</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/09/6ff8a703-dcde-4d73-b94e-ad4ee0f5bace.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세븐틴 조슈아→디노, ‘달링’ 콘셉트 포토 첫 공개]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/343523</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/343523</guid>
+            <pubDate>Sat, 09 Apr 2022 07:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/343523">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/09/8fc5ae00-8084-4225-aa29-331a30e44847.jpg" alt="세븐틴 조슈아→디노, ‘달링’ 콘셉트 포토 첫 공개">        <div class="text-box">            <p class="summary">세븐틴 조슈아→디노, ‘달링’ 콘셉트 포토 첫 공개</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/09/8fc5ae00-8084-4225-aa29-331a30e44847.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더보이즈 주학년, ‘서울괴담’ 통해 스크린 데뷔]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/343519</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/343519</guid>
+            <pubDate>Sat, 09 Apr 2022 07:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/343519">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/09/4e9fb52a-0998-4876-accf-b8407720d4ba.jpg" alt="더보이즈 주학년, ‘서울괴담’ 통해 스크린 데뷔">        <div class="text-box">            <p class="summary">더보이즈 주학년, ‘서울괴담’ 통해 스크린 데뷔</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/09/4e9fb52a-0998-4876-accf-b8407720d4ba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[BTS포커스] "제2의 방탄소년단 될래요"…전 세계에서 몰려든 꿈나무들]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/343497</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/343497</guid>
+            <pubDate>Sat, 09 Apr 2022 07:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/343497">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/09/913aef79-84a6-42e9-a2e7-b1d97363b954.jpg" alt="[BTS포커스] " 제2의="" 방탄소년단="" 될래요"…전="" 세계에서="" 몰려든="" 꿈나무들"="">        <div class="text-box">            <p class="summary">[BTS포커스] "제2의 방탄소년단 될래요"…전 세계에서 몰려든 꿈나무들</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/09/913aef79-84a6-42e9-a2e7-b1d97363b954.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에이핑크 탈퇴한 손나은 "쉽지 않은 결정" [전문]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/343509</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/343509</guid>
+            <pubDate>Sat, 09 Apr 2022 07:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/343509">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/09/c6888f77-9678-449e-9b81-6bd8194f7acf.jpg" alt="에이핑크 탈퇴한 손나은 " 쉽지="" 않은="" 결정"="" [전문]"="">        <div class="text-box">            <p class="summary">에이핑크 탈퇴한 손나은 "쉽지 않은 결정" [전문]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/09/c6888f77-9678-449e-9b81-6bd8194f7acf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도시 곳곳이 보랏빛…美 라스베이거스, 'BTS CITY'로 탈바꿈]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/343504</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/343504</guid>
+            <pubDate>Sat, 09 Apr 2022 07:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/343504">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/09/223179c8-2a8d-4854-929e-9c4848b40ef9.jpg" alt="도시 곳곳이 보랏빛…美 라스베이거스, 'BTS CITY'로 탈바꿈">        <div class="text-box">            <p class="summary">도시 곳곳이 보랏빛…美 라스베이거스, 'BTS CITY'로 탈바꿈</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/09/223179c8-2a8d-4854-929e-9c4848b40ef9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 5월 개최 '빌보드 뮤직 어워드' 7개 수상 후보]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/343501</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/343501</guid>
+            <pubDate>Sat, 09 Apr 2022 07:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/343501">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/09/d4ede284-987a-4426-929b-8cff693c96f4.jpg" alt="방탄소년단, 5월 개최 '빌보드 뮤직 어워드' 7개 수상 후보">        <div class="text-box">            <p class="summary">방탄소년단, 5월 개최 '빌보드 뮤직 어워드' 7개 수상 후보</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/09/d4ede284-987a-4426-929b-8cff693c96f4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[BTS포커스] 라스베이거스를 통째로 집어삼킨 방탄소년단]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/343496</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/343496</guid>
+            <pubDate>Sat, 09 Apr 2022 07:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/343496">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/09/3c4b7e1f-01e3-437e-8b80-c260a82cff38.jpg" alt="[BTS포커스] 라스베이거스를 통째로 집어삼킨 방탄소년단">        <div class="text-box">            <p class="summary">[BTS포커스] 라스베이거스를 통째로 집어삼킨 방탄소년단</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/09/3c4b7e1f-01e3-437e-8b80-c260a82cff38.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이브, 해병대 출신 매니저 몰래 고칼로리 먹방 (전참시)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/343495</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/343495</guid>
+            <pubDate>Sat, 09 Apr 2022 07:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/343495">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/09/9d9b8fab-dd31-4525-81e8-6434c09559d1.jpg" alt="아이브, 해병대 출신 매니저 몰래 고칼로리 먹방 (전참시)">        <div class="text-box">            <p class="summary">아이브, 해병대 출신 매니저 몰래 고칼로리 먹방 (전참시)</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/09/9d9b8fab-dd31-4525-81e8-6434c09559d1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레드벨벳 아이린, 감탄밖에 안 나오는 여신급 비주얼 [인스타]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/343476</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/343476</guid>
+            <pubDate>Sat, 09 Apr 2022 07:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/343476">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/08/eaa54c22-482d-46ea-a8d1-4ba70390d382.jpg" alt="레드벨벳 아이린, 감탄밖에 안 나오는 여신급 비주얼 [인스타] ">        <div class="text-box">            <p class="summary">레드벨벳 아이린, 감탄밖에 안 나오는 여신급 비주얼 [인스타] </p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/08/eaa54c22-482d-46ea-a8d1-4ba70390d382.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위키미키 최유정, 피자 앞에서 뽐낸 힙한 바이브…오늘도 예쁨 [인스타]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/343477</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/343477</guid>
+            <pubDate>Sat, 09 Apr 2022 07:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/343477">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/08/820b5d9e-2ff6-49e7-9677-9df2ee11d549.jpg" alt="위키미키 최유정, 피자 앞에서 뽐낸 힙한 바이브…오늘도 예쁨 [인스타] ">        <div class="text-box">            <p class="summary">위키미키 최유정, 피자 앞에서 뽐낸 힙한 바이브…오늘도 예쁨 [인스타] </p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/08/820b5d9e-2ff6-49e7-9677-9df2ee11d549.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
