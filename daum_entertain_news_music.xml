@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-04-09T15:16:54.621Z</updated>
+    <updated>2022-04-09T16:21:13.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아스트로 MJ, 5월 9일 군악대 입대 "건강히 돌아올 것"]]></title>
+        <id>https://entertain.v.daum.net/v/20220410002327785</id>
+        <link href="https://entertain.v.daum.net/v/20220410002327785"/>
+        <updated>2022-04-09T16:20:35.836Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 안윤지 기자] 아스트로 MJ/ 사진제공 = 동아TV /사진=김창현 기자 chmt@그룹 아스트로 멤버 MJ가 군 입대한다. 소속사 판타지오 측은 지난 9일 아스트로 공식 팬카페를 통해 MJ의 군 입대 사실을 밝혔다. MJ는 오는 5월 9일 훈련소에서 기초 훈련을 받은 뒤 군악대에서 국방의 의무를 다한다. 소속사는 "입소 당일 코로나19 확산 방]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하이브 멀티 레이블 오디션, 美 현장의 특별한 것들]]></title>
         <id>https://entertain.v.daum.net/v/20220410000005633</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220409163053890"/>
         <updated>2022-04-09T08:18:23.169Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이하나 기자] NCT 드림이 ‘음악중심’ 1위에 올랐다. 4월 9일 방송된 MBC ‘쇼! 음악중심’에서는 NCT 드림이 레드벨벳, (여자)아이들을 제치고 1위를 차지했다. 수상 후 마크는 “멤버들 고생했고 이수만 선생님을 비롯한 SM 식구 감사하다. 시즈니(NCT 팬덤) 너무 감사하다. 이번 주 저희에게 힘을 주셔서 감사하다. 저희 앨범으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['음중' 킹덤 컴백, 한민족의 멋 담은 '시네마틱돌']]></title>
-        <id>https://entertain.v.daum.net/v/20220409163013870</id>
-        <link href="https://entertain.v.daum.net/v/20220409163013870"/>
-        <updated>2022-04-09T08:18:23.177Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;킹덤이 한민족의 흥과 멋을 담은 신명나는 무대 한마당을 선사했다.&nbsp; 킹덤(자한, 아이반, 아서, 치우, 단, 루이, 무진)은 오늘(9일) 오후 3시 15분 방송한 MBC '음악중심'(이하 '음중')에 출연해 미니 4집 타이틀곡 '승천' 컴백 무대를 꾸몄다. 이날 킹덤은 화려한 자수가 인상적인 상아색 한복을 입고 무대에 올랐다.]]></content>
     </entry>
 </feed>
