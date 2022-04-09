@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 17:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 18:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하이브 멀티레이블 라스베이거스 오디션 “내일의 K팝 스타”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=201932</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=201932</guid>
+            <pubDate>Sat, 09 Apr 2022 18:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=201932">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220409234153_48ac23b1b4f2efb5736e7f41c9b3220a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=201932">하이브 멀티레이블 라스베이거스 오디션 “내일의 K팝 스타”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220409234153_48ac23b1b4f2efb5736e7f41c9b3220a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 라스베이거스 공연 시작 "소리 질러~"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=201885</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=201138">4월의 드림캐쳐, 봄의 전사로 돌아온다 'Apocalypse : Save us' </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220405071131_b135b486c60192eb8491b2e967fd220a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿈과 희망의 보이그룹 NCT DREAM...스트레이 키즈 제치고 가온차트 1위 점령]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=201072</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=201072</guid>
-            <pubDate>Mon, 04 Apr 2022 08:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=201072">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220404170600_47cb79c95848b36af9891159c38a25f6.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=201072">꿈과 희망의 보이그룹 NCT DREAM...스트레이 키즈 제치고 가온차트 1위 점령 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220404170600_47cb79c95848b36af9891159c38a25f6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
