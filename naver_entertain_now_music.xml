@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-04-09T13:23:12.636Z</updated>
+    <updated>2022-04-09T14:14:35.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세븐틴, 첫 영어 싱글 ‘Darl+ing’ 콘셉트 포토 공개]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000859888</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000859888"/>
+        <updated>2022-04-09T14:14:18.967Z</updated>
+        <content type="html"><![CDATA[그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 ‘Darl+ing’의 콘셉트 포토로 포근한 감성을 전했다. 세븐틴은 오늘(9일) 0시 공식 SNS에 오]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[라스베이거스는 ‘BTS CITY’…보랏빛으로 물들다]]></title>
         <id>https://entertain.naver.com/now/read?oid=021&amp;aid=0002509355</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000560811"/>
         <updated>2022-04-09T08:18:42.351Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이하나 기자] NCT 드림이 ‘음악중심’ 1위에 올랐다. 4월 9일 방송된 MBC ‘쇼! 음악중심’에서는 NCT 드림이 레드벨벳, (여자)아이들을 제치고 1위를 차지했다. 수상 후 마크는 “멤버들 고생했고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTS, 라스베이거스를 보랏빛으로 수놓다]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000804946</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000804946"/>
-        <updated>2022-04-09T08:18:42.351Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 그룹 방탄소년단이 미국 라스베이거스를 보랏빛으로 물들이고 있다. 방탄소년단은 8일(이하 현지시간) 라스베이거스 얼리전트 스타디움(Allegiant Stadium)에서 콘서트 ‘BTS PERMISSION]]></content>
     </entry>
 </feed>
