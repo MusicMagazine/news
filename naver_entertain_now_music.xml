@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-04-10T15:15:54.038Z</updated>
+    <updated>2022-04-10T16:19:59.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[현장] 방탄소년단 "라스베이거스에 기적을, 아미에게 감동을"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=438&amp;aid=0000045581</id>
+        <link href="https://entertain.naver.com/now/read?oid=438&amp;aid=0000045581"/>
+        <updated>2022-04-10T16:19:43.532Z</updated>
+        <content type="html"><![CDATA[라스베이거스는 미국 서부에 위치한 네바다 주의 유명 관광도시이다. '씬시티'(SIN city)라고 불릴 만큼 범죄와 도박의 도시, 유혹의 동네‘였’다. 지금은 즐거움의 힐링과 오락의 도시로 변모했다. 대규모 카지노,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MC이자 DJ 임백천, 30년 만에 4집 앨범 ‘커피송’ 발표]]></title>
         <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001975518</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013104191"/>
         <updated>2022-04-10T07:14:56.068Z</updated>
         <content type="html"><![CDATA[(라스베이거스=연합뉴스) 미국 라스베이거스 얼리전트 스타디움에서 열린 그룹 방탄소년단(BTS)의 'BTS 퍼미션 투 댄스 온 스테이지 - 라스베이거스' 콘서트 무대. 방탄소년단은 이곳에서 8일(현지시간)과 9일, 오]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘인기가요’ 레드벨벳vsNCT DREAMvs(여자)아이들, 1위 후보 맞대결]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000561020</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000561020"/>
-        <updated>2022-04-10T07:14:56.068Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 레드벨벳, NCT DREAM, (여자)아이들이 '인기가요' 1위를 놓고 대결한다. 4월 10일 방송된 SBS '인기가요' 1위 후보로 레드벨벳, NCT DREAM, (여자)아이들이 올랐다. 지]]></content>
     </entry>
 </feed>
