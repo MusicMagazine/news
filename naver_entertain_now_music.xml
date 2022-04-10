@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-04-10T09:16:21.165Z</updated>
+    <updated>2022-04-10T10:16:12.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하이브, "BTS 병역이슈 부담…병역법 결론 촉구"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=422&amp;aid=0000536743</id>
+        <link href="https://entertain.naver.com/now/read?oid=422&amp;aid=0000536743"/>
+        <updated>2022-04-10T10:15:58.114Z</updated>
+        <content type="html"><![CDATA[[뉴스리뷰] [앵커] 방탄소년단의 소속사 하이브가 국회를 향해 멤버들의 병역 문제를 조속히 결론내달라고 촉구했습니다. 군 복무에 관해 처음으로 입을 연 건데요. 방탄소년단의 맏형 진은 '회사 얘기가 곧 저희 얘기'라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘인기가요’ 권은비, 시크+섹시 끝판왕…‘Glitch’로 컴백]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000860075</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003043352"/>
         <updated>2022-04-10T07:14:56.070Z</updated>
         <content type="html"><![CDATA[그룹 레드벨벳, NCT DREAM, (여자)아이들 중 이번 주 '인기가요' 1위는 누구일까. 레드벨벳, NCT DREAM, (여자)아이들은 10일 오후 방송된 SBS 음악 프로그램 '인기가요'에서 4월 둘째 주 1위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라스베이거스 뒤덮은 5만 '아미' 함성]]></title>
-        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013104186</id>
-        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013104186"/>
-        <updated>2022-04-10T07:14:56.071Z</updated>
-        <content type="html"><![CDATA[(라스베이거스=연합뉴스) 미국 라스베이거스 얼리전트 스타디움에서 열린 그룹 방탄소년단(BTS)의 'BTS 퍼미션 투 댄스 온 스테이지 - 라스베이거스' 콘서트 모습. 방탄소년단은 이곳에서 8일(현지시간)과 9일, 오]]></content>
     </entry>
 </feed>
