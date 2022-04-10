@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-04-10T12:22:33.873Z</updated>
+    <updated>2022-04-10T13:23:17.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MC이자 DJ 임백천, 30년 만에 4집 앨범 ‘커피송’ 발표]]></title>
+        <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001975518</id>
+        <link href="https://entertain.naver.com/now/read?oid=016&amp;aid=0001975518"/>
+        <updated>2022-04-10T13:23:01.677Z</updated>
+        <content type="html"><![CDATA[[헤럴드경제 = 서병기 선임기자]가수이자 MC인 임백천이 30년만에 4집을 발표하며 가수로 돌아왔다. 대학가요제 출신으로 ‘마음에 쓰는 편지’로 많은 사랑을 받으며 방송 MC이자 DJ로 활동하고 있는 만능엔터테이너]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하이브, "BTS 병역이슈 부담…병역법 결론 촉구"]]></title>
         <id>https://entertain.naver.com/now/read?oid=422&amp;aid=0000536743</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000561020"/>
         <updated>2022-04-10T07:14:56.068Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김명미 기자] 레드벨벳, NCT DREAM, (여자)아이들이 '인기가요' 1위를 놓고 대결한다. 4월 10일 방송된 SBS '인기가요' 1위 후보로 레드벨벳, NCT DREAM, (여자)아이들이 올랐다. 지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레드벨벳 vs NCT 드림 vs (여자)아이들, '인기가요' 1위 격돌]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003043352</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003043352"/>
-        <updated>2022-04-10T07:14:56.070Z</updated>
-        <content type="html"><![CDATA[그룹 레드벨벳, NCT DREAM, (여자)아이들 중 이번 주 '인기가요' 1위는 누구일까. 레드벨벳, NCT DREAM, (여자)아이들은 10일 오후 방송된 SBS 음악 프로그램 '인기가요'에서 4월 둘째 주 1위]]></content>
     </entry>
 </feed>
