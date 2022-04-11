@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 08:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 09:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[쇼케이스] 솔로 출격한 샤이니 온유가 던진 사랑의 주사위 'DICE']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=202167</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202167</guid>
+            <pubDate>Mon, 11 Apr 2022 09:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202167">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220411173128_0d3a3dc15723a0263b2be0fc3f1e4b36.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202167">[쇼케이스] 솔로 출격한 샤이니 온유가 던진 사랑의 주사위 'DICE'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220411173128_0d3a3dc15723a0263b2be0fc3f1e4b36.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[콘서트] 트레저, 140분 동안 이어진 탄탄한 퍼포먼스]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=202149</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=201699">[인터뷰] 권은비의 새로운 '컬러' "매력적이고 당당하다"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220407085658_aef6177a61cfdf40693ba9f99f0ecc40.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임영웅 '아임 히어로' 예약판매, 메이크스타와 만나다]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=201694</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=201694</guid>
-            <pubDate>Thu, 07 Apr 2022 02:34:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=201694">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220407085318_1ebbe1248fe5d9d4b6e7d85fb53ed35d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=201694">임영웅 '아임 히어로' 예약판매, 메이크스타와 만나다</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220407085318_1ebbe1248fe5d9d4b6e7d85fb53ed35d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
