@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-04-12T02:44:04.678Z</updated>
+    <updated>2022-04-12T03:34:57.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['베컴 둘째' 로미오, 본업에서도 맹활약…바르사 3주장도 '박수']]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001433429</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001433429"/>
+        <updated>2022-04-12T03:34:56.512Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 데이비드 베컴의 차남 로미오 베컴이 본업으로 복귀해 실력을 뽐냈다. 11일(현지시간) 로미오 베컴은 자신의 인스타그램에 "시즌 첫 더비전 승리 가보자고"라는 글과 함께 사진을 게재했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“윌 스미스는 차분한 사람, 100% 같이 일하겠다” 마이클 베이 감독 옹호[해외이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003593439</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000860172"/>
         <updated>2022-04-11T06:19:54.784Z</updated>
         <content type="html"><![CDATA[11일 오후 온유 솔로 앨범 ‘DICE’ 온라인 기자간담회가 열렸다. 진행을 맡은 샤이니 민호가 기자간담회에 앞서 포토타임을 갖고 있다. 사진=SM 제공]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온유 '멋진 수트핏' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000860171</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000860171"/>
-        <updated>2022-04-11T06:19:54.784Z</updated>
-        <content type="html"><![CDATA[11일 오후 온유 솔로 앨범 ‘DICE’ 온라인 기자간담회가 열렸다. 온유가 기자간담회에 앞서 포토타임을 갖고 있다. 사진=SM 제공]]></content>
     </entry>
 </feed>
