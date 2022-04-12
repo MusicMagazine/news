@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-04-12T20:15:35.486Z</updated>
+    <updated>2022-04-12T21:14:39.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카밀라 카베요 "정규 3집 '파밀리아' 주제는 상호의존"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011118698</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011118698"/>
+        <updated>2022-04-12T21:14:21.118Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = "앨범 '파밀리아(Familia)'는 상호의존이라는 주제에 가까운 것 같아요. 저희 문화는 독립이라는 가치를 굉장히 중요시하는데요, 제게는 이 앨범이 현재의 저를 만들어 주신 모든 분에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제시, 신곡 'ZOOM' 두 번째 MV 티저 공개…힙(HIP)한 퍼포먼스]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004590947</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001433578"/>
         <updated>2022-04-12T10:19:15.155Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 가수 제시(Jessi)가 신곡 'ZOOM'의 발매에 앞서 가사와 퍼포먼스 일부를 최초 공개했다. 12일 피네이션(P NATION) 공식 SNS를 통해 제시의 새 디지털 싱글 'ZOOM'의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[옥상달빛, 어린이날 '동화 콘셉트' 단독 콘서트]]></title>
-        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013109483</id>
-        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013109483"/>
-        <updated>2022-04-12T09:15:27.432Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이태수 기자 = 듀오 옥상달빛이 다음 달 5일 어린이날을 맞아 서울 마포구 신한 플레이(pLay) 스퀘어 라이브홀에서 단독 콘서트 '어린이 될 시간!'을 연다고 소속사 매직스트로베리사운드가 12일]]></content>
     </entry>
 </feed>
