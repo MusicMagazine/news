@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 10:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 11:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트와이스 LA 앙코르 콘서트 "솔드 아웃!"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=202358</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202358</guid>
+            <pubDate>Tue, 12 Apr 2022 11:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202358">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220412192621_14c0c101fa9642a545b5afdf51d08166.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202358">트와이스 LA 앙코르 콘서트 "솔드 아웃!"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220412192621_14c0c101fa9642a545b5afdf51d08166.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기획] 빌리와 엔믹스, 난해하지만 매력적인 7인조 걸그룹들의 활약]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=202314</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=201779">베일 벗은 싸이의 보이그룹 "길고 긴 순간을 견뎌왔다"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220408103041_25f97e06a4a1896e7015f486c1fcb0ee.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[워너원 윤지성, 앞으로 꽃길만 걸을 신곡 '미로' 발매]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=201761</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=201761</guid>
-            <pubDate>Fri, 08 Apr 2022 03:33:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=201761">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220408091954_76c5fb7726a41b5bb05826deac11b245_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=201761">워너원 윤지성, 앞으로 꽃길만 걸을 신곡 '미로' 발매</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220408091954_76c5fb7726a41b5bb05826deac11b245_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
