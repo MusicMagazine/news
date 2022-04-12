@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-04-12T12:26:20.603Z</updated>
+    <updated>2022-04-12T13:28:13.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['더쇼' 아일리원, 청순함 속 숨겨진 칼군무..'사랑아 피어라']]></title>
+        <id>https://entertain.v.daum.net/v/20220412221201116</id>
+        <link href="https://entertain.v.daum.net/v/20220412221201116"/>
+        <updated>2022-04-12T13:27:37.617Z</updated>
+        <content type="html"><![CDATA[신인 걸그룹 아일리원(ILY:1)이 사랑을 활짝 피웠다. 아일리원(아라, 리리카, 하나, 로나, 나유, 엘바)은 12일 오후 6시 방송된 SBS MTV, SBS FiL ‘더쇼’에 출연, 데뷔곡 ‘사랑아 피어라(LOVE IN BLOOM)’로 무대를 꾸몄다. 이날 아일리원은 ‘사랑아 피어라’로 청순한 매력을 자랑하는가 하면, 보호 본능을 자극하는 비주얼 속 완]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[드림캐쳐, 뚝심의 5년..도약의 '아포칼립스']]></title>
         <id>https://entertain.v.daum.net/v/20220412194705303</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220412162845903"/>
         <updated>2022-04-12T08:19:08.917Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 보이그룹 스트레이 키즈(Stray Kids)가 두 번째 월드투어 첫 개최지인 서울 3회 공연을 전석 매진시키고 막강한 티켓 파워를 입증했다. 스트레이 키즈는 4월 29일부터 5월 1일까지 사흘간 서울 송파구 잠실실내체육관에서 'Stray Kids 2nd World Tour 'MANIAC''(스트레이 키즈 두 번째 월드투어 '매니악']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싸이, 5년 만 정규 9집으로 돌아온다]]></title>
-        <id>https://entertain.v.daum.net/v/20220412162109623</id>
-        <link href="https://entertain.v.daum.net/v/20220412162109623"/>
-        <updated>2022-04-12T08:19:08.917Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 백지연 기자] 피네이션(P NATION) 수장 싸이는 12일 공식 SNS를 통해 오는 29일 오후 6시 컴백을 예고하는 티저 영상을 공개했다. 2013년 12월 24일 당시 콘서트 실황을 담은 영상 속 싸이는 관객들 앞에서 "많은 분들이 신곡에 대한 기대를 가지고 계신 걸로 알고 있다. 사실 2002년에 '챔피언'을 만들고, '챔피언'을 이기]]></content>
     </entry>
 </feed>
