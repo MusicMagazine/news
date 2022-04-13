@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 08:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 09:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국민가수 전국투어 콘서트, 대구 공연 예매 시작!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=202580</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202580</guid>
+            <pubDate>Wed, 13 Apr 2022 09:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202580">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220413174057_9bf68e5901c9e6d1f32242fb9ffcf272.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202580">국민가수 전국투어 콘서트, 대구 공연 예매 시작!</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220413174057_9bf68e5901c9e6d1f32242fb9ffcf272.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김재중, 일본 드라마 OST 부른다 "육등성"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=202569</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202120">아스트로 팬미팅...차은우 "MJ 형과 발라드 곡을 함께 부르고 싶었다"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220411083852_bbe88d8d207a72985764819d6a819d62.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[콘서트] 이별 감성 장인 벤, 단독 콘서트 성공적 마무리]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=202110</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202110</guid>
-            <pubDate>Mon, 11 Apr 2022 02:50:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202110">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220411082605_b87f8e34420d44f92a08124558f33011.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202110">[콘서트] 이별 감성 장인 벤, 단독 콘서트 성공적 마무리</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220411082605_b87f8e34420d44f92a08124558f33011.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
