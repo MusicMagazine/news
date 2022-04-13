@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-04-13T15:16:43.293Z</updated>
+    <updated>2022-04-13T16:20:36.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['싱어게인2' 김소연, '킬힐' 새 OST 'Can we fly like a bird' 참여]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003044352</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003044352"/>
+        <updated>2022-04-13T16:20:20.686Z</updated>
+        <content type="html"><![CDATA['싱어게인2' 출신 가수 김소연이 따뜻한 감성을 담은 노래를 선보인다. Stone Music Entertainment는 오는 14일 오후 6시 tvN 수목드라마 '킬힐'(극본 신광호 이춘우, 연출 노도철) 다섯번째]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[나의 인생곡(64) 진미령 '하얀민들레', 발표하자마자 '폭발']]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000143344</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003044292"/>
         <updated>2022-04-13T10:16:45.686Z</updated>
         <content type="html"><![CDATA[AOMG가 18일 소속 아티스트 컴백을 예고한 가운데, 그 주인공에 대한 관심이 고조되고 있다. AOMG는 공식 SNS를 통해 13일 0시와 오후 6시 두 차례에 걸쳐 소속 아티스트의 컴백을 알리는 티저 이미지를 공]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이현배 1주기…45RPM, 유작 싱글 '타임리스' 공개]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011121125</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011121125"/>
-        <updated>2022-04-13T10:16:45.692Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 고(故) 래퍼 이현배(1973~2021)가 몸 담았던 힙합 듀오 '45RPM'이 이현배의 1주기를 앞두고 그의 유작을 발표한다. 13일 소속사 슈퍼잼 레코드에 따르면, 45RPM은 오는]]></content>
     </entry>
 </feed>
