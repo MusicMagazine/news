@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 07:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 08:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[천사로 부활한 유키스, '키스미'와 함께한 기부 행사]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=202539</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202539</guid>
+            <pubDate>Wed, 13 Apr 2022 08:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202539">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220413152114_d8568baf71f262840bf150de98e56371.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202539">천사로 부활한 유키스, '키스미'와 함께한 기부 행사</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220413152114_d8568baf71f262840bf150de98e56371.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소녀시대 서현, 여성용품 기부...천사의 영향력]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=202483</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=200358">"우리 결혼했어요" 현빈-손예진 웨딩드레스 화보공개 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220331133332_da62feb5e8bb7b65b6876d93f323e860.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김동완, 라이브웍스컴퍼니와 계약 "신화 멤버 4人 한 지붕"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=200258</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=200258</guid>
-            <pubDate>Thu, 31 Mar 2022 02:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=200258">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220331085843_378b59889118e568d0d8fc8a2a0f255b.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=200258">김동완, 라이브웍스컴퍼니와 계약 "신화 멤버 4人 한 지붕"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220331085843_378b59889118e568d0d8fc8a2a0f255b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
