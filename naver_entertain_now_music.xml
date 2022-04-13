@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-04-13T20:16:16.588Z</updated>
+    <updated>2022-04-13T21:15:34.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[달콤 히어로 쏘스윗~♡ 임영웅 '아로하' 500만뷰]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003044364</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003044364"/>
+        <updated>2022-04-13T21:15:20.938Z</updated>
+        <content type="html"><![CDATA[임영웅의 달콤한 '아로하' 무대 영상이 500만 뷰를 달성하며 인기를 빛냈다. 2020년 5월 22일 임영웅 공식 유튜브 채널에 공개된 '아로하' 영상은 4월 13일 조회수 500만 뷰를 넘어섰다. 영상에는 TV조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['싱어게인2' 김소연, '킬힐' 새 OST 'Can we fly like a bird' 참여]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003044352</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004591384"/>
         <updated>2022-04-13T10:16:45.686Z</updated>
         <content type="html"><![CDATA[[OSEN=이승훈 기자] 오는 18일 컴백하는 AOMG 소속 아티스트의 정체에 대한 관심이 뜨겁다. AOMG는 공식 SNS를 통해 13일 0시와 오후 6시 두 차례에 걸쳐 소속 아티스트의 컴백을 알리는 티저 이미지를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Reality Check'..18일 AOMG서 누가 컴백하나]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003044292</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003044292"/>
-        <updated>2022-04-13T10:16:45.686Z</updated>
-        <content type="html"><![CDATA[AOMG가 18일 소속 아티스트 컴백을 예고한 가운데, 그 주인공에 대한 관심이 고조되고 있다. AOMG는 공식 SNS를 통해 13일 0시와 오후 6시 두 차례에 걸쳐 소속 아티스트의 컴백을 알리는 티저 이미지를 공]]></content>
     </entry>
 </feed>
