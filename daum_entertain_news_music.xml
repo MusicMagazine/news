@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-04-14T09:17:47.094Z</updated>
+    <updated>2022-04-14T10:18:34.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['엠카' 1위 후보 IVE, 'LOVE DIVE' 완벽한 무대]]></title>
+        <id>https://entertain.v.daum.net/v/20220414190453035</id>
+        <link href="https://entertain.v.daum.net/v/20220414190453035"/>
+        <updated>2022-04-14T10:18:00.699Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 오진주 기자] /사진=Mnet '엠카운트다운' 방송화면'엠카운트다운'에서 1위 후보 IVE(아이브)가 완벽한 무대를 선보였다. 14일 오후 방송된 Mnet '엠카운트다운'(이하 '엠카')에서는 4월 둘째 주 후보로 오른 IVE(아이브)의 'LOVE DIVE(러브 다이브)' 무대가 펼쳐졌다. 이날 방송에서 IVE(아이브)는 반짝이는 크롭톱 의상]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["해답을 주겠니" 태용X원슈타인, 사랑에 빠진 괴짜를 위해 'Love Theory']]></title>
         <id>https://entertain.v.daum.net/v/20220414180351408</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220414180003264"/>
         <updated>2022-04-14T09:17:13.766Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 정하은기자]그룹 NCT 멤버 태용과 원슈타인이 유쾌한 러브송으로 봄감성을 건드린다. 태용과 원슈타인의 만남으로 화제를 모은 ‘러브 띠어리(Love Theory)’가 14일 베일을 벗었다. SM ‘STATION(스테이션)’을 통해 공개된 태용과 원슈타인의 컬래버레이션 ‘러브 띠어리’는 통통 튀는 플럭 사운드와 퍼커션 리듬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT 태용X원슈타인, 이 케미 찬성이요..기분 좋아지는 '러브 띠어리']]></title>
-        <id>https://entertain.v.daum.net/v/20220414180003261</id>
-        <link href="https://entertain.v.daum.net/v/20220414180003261"/>
-        <updated>2022-04-14T09:17:13.768Z</updated>
-        <content type="html"><![CDATA[그룹 NCT 태용과 원슈타인이 환상의 시너지를 자랑했다. NCT 태용과 원슈타인은 14일 오후 6시 신곡 '러브 띠어리(Love Theory)'를 공개했다. '러브 띠어리'는 통통 튀는 플럭 사운드와 퍼커션 리듬이 조화를 이루는 팝 장르의 힙합 곡이다. 사랑에 빠진 괴짜가 경험해 본 적 없는 사랑의 복잡함을 탐구해 나가는 스토리를 재치 있게 표현한 가사가]]></content>
     </entry>
 </feed>
