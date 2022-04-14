@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-04-14T13:31:25.347Z</updated>
+    <updated>2022-04-14T14:15:20.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[복고와 최신으로 뻗어 나아가는 음악, 클래지콰이 ‘BLINK’]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000806204</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000806204"/>
+        <updated>2022-04-14T14:15:05.066Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 팬데믹 영향으로 실내에서 음악을 소비하는 형태가 다양해진 만큼, 음악은 때로는 집을 꾸미는 아기자기한 소품이 되기도 하고 새로운 디지털 체험이 되기도 한다. 일렉트로팝 그룹 클래지콰이 프로젝트 데뷔 1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인기도 핫! 임영웅 영광이의 콘서트 예매 인기 급상승 동영상 톱2]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003044620</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001434831"/>
         <updated>2022-04-14T09:17:32.747Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 저스트비(JUST B)가 새로운 희망을 노래한다. 14일 오후 6시 저스트비(임지민, 이건우, 배인, JM, 전도염, 김상우)의 두 번째 미니앨범 '저스트 비건'(JUST BEGUN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['차트 시스터즈' 진성과 함께 울화 다스리는 노래는?]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011123648</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011123648"/>
-        <updated>2022-04-14T09:17:32.749Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]김주희 인턴 기자 = tvN STORY 음악 토크쇼 '차트 시스터즈'에 가수 진성이 등장해 활약을 펼친다. 14일 오후 8시 20분 방송되는 '차트 시스터즈' 3회에선 '울화를 다스리는 노래'를 주제로]]></content>
     </entry>
 </feed>
