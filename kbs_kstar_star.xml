@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 06:20:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 07:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[게임에 흠뻑 빠진 세븐틴...'고잉 세븐틴']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=202701</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202701</guid>
+            <pubDate>Thu, 14 Apr 2022 07:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202701">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220414092532_299989559fffa8d54908f2c1c7e9e984.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202701">게임에 흠뻑 빠진 세븐틴...'고잉 세븐틴'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220414092532_299989559fffa8d54908f2c1c7e9e984.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[천사로 부활한 유키스, '키스미'와 함께한 기부 행사]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=202539</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=200591">드라마 '내일' 출연하는 신예 김서연, FNC엔터테인먼트 합류</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220401101427_a43548904c01676f73c6b0f25ff4f2a6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["우리 결혼했어요" 현빈-손예진 웨딩드레스 화보공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=200358</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=200358</guid>
-            <pubDate>Thu, 31 Mar 2022 11:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=200358">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220331133332_da62feb5e8bb7b65b6876d93f323e860.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=200358">"우리 결혼했어요" 현빈-손예진 웨딩드레스 화보공개 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220331133332_da62feb5e8bb7b65b6876d93f323e860.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
