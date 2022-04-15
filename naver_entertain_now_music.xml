@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-04-15T15:15:24.633Z</updated>
+    <updated>2022-04-15T16:20:10.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송가인, 21일 정규 3집 '연가' 발매…"정통 트로트"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011126306</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011126306"/>
+        <updated>2022-04-15T16:19:55.480Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 가수 송가인이 1년4개월 만에 새 정규앨범을 발매한다. 16일 소속사 포켓돌스튜디오에 따르면, 송가인은 오는 21일 정규 3집 '연가'(戀歌)를 발표한다. 앨범 타이틀은 사랑하는 사람을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에펠탑 앞에 울려 퍼진 MCND 'ICE AGE'..프랑스 파리 팬들 열광]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003044909</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000806410"/>
         <updated>2022-04-15T09:16:54.493Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 발라드 신예 릴리안(Lylian)이 신곡 ‘일분일초’로 가요계에 정식 데뷔했다. 릴리안은 지난 14일 오후 6시 주요 음원사이트 및 SNS 채널을 통해 디지털 싱글 앨범 ‘일분일초’를 발매하고 본격적인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['거리의 임재범' 황가람, 17일 신곡 'I will find' 발표..경쾌한 록사운드]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004593110</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004593110"/>
-        <updated>2022-04-15T09:16:54.494Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자] 가수 황가람이 록 감성 충만한 신곡으로 컴백한다. 폭발적인 고음과 호소력 짙은 보이스로 사랑받고 있는 황가람이 오는 17일 디지털 싱글 '아이 윌 파인드(I will find)'를 발표한다.]]></content>
     </entry>
 </feed>
