@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-04-15T12:24:47.183Z</updated>
+    <updated>2022-04-15T13:26:21.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LA 출신 트리오 무나(MUNA) 셀프타이틀 앨범 6월 발매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000806442</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000806442"/>
+        <updated>2022-04-15T13:26:05.632Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 미국 팝트리오 무나(MUNA)는 케이티 게빈(Katie Gavin), 나오미 맥피어슨(Naomi McPherson), 조셋 매스킨(Josette Maskin)으로 구성된 3인조 밴드로 미국 로스앤젤레스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유러피안 재즈 트리오(European Jazz Trio), 지브리 VS 디즈니 6월 내한공연]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000806440</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011125962"/>
         <updated>2022-04-15T09:16:54.505Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]김주희 인턴 기자 = 그룹 엔시티 드림(NCT DREAM)이 정규 2집 '글리치 모드(Glitch Mode)'로 글로벌 인기를 이어가고 있다. 지난 3월 28일 발매된 엔시티 드림 정규 2집 '글리치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DKZ, 새 싱글 발매 기념 특급 이벤트…대면 팬사인회→영상통화까지]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001435350</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001435350"/>
-        <updated>2022-04-15T08:18:16.135Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 글로벌 엔터테인먼트 플랫폼 메이크스타가 DKZ와 함께 특급 이벤트를 오픈한다. 15일 메이크스타는 "오는 24일 그룹 DKZ(디케이지)의 'CHASE EPISODE 2. MAUM(체이스]]></content>
     </entry>
 </feed>
