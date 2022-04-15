@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 04:34:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 05:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220413083443_2488b690aefc3a65e508848c6d2d8e38.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["5월, 그날이 다시 오면~" 뮤지컬 '광주' 세 번째 시즌 개막 (KBS연예 ─ 연예)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=202814</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202814</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202814">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220415083116_ddbf422eabc81e5f5a1a859a34c67981.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202814">"5월, 그날이 다시 오면~" 뮤지컬 '광주' 세 번째 시즌 개막</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220415083116_ddbf422eabc81e5f5a1a859a34c67981.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[게임에 흠뻑 빠진 세븐틴...'고잉 세븐틴' (KBS연예 ─ 연예)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=202701</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=202701</guid>
@@ -671,21 +688,12 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220401172007_b9f5206b68e051c40277b38feaffa6cb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[드라마 '내일' 출연하는 신예 김서연, FNC엔터테인먼트 합류 (KBS연예 ─ 연예)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=200591</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=200591</guid>
-            <pubDate>Fri, 01 Apr 2022 03:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=200591">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220401101427_a43548904c01676f73c6b0f25ff4f2a6.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=200591">드라마 '내일' 출연하는 신예 김서연, FNC엔터테인먼트 합류</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220401101427_a43548904c01676f73c6b0f25ff4f2a6.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[윤지성, 5월 첫 단독 콘서트 '미로: 프롤로그' 개최 (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/344205</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/344205</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/344205">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/15/6c801906-b286-4350-9242-cb7c6ab5b8f1.jpg" alt="윤지성, 5월 첫 단독 콘서트 '미로: 프롤로그' 개최">        <div class="text-box">            <p class="summary">윤지성, 5월 첫 단독 콘서트 '미로: 프롤로그' 개최</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/15/6c801906-b286-4350-9242-cb7c6ab5b8f1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미쓰에이 출신 민, 신곡 '힛 미 업' MV 티저 공개 (MBC 연예 ─ 아이돌)]]></title>
@@ -768,12 +776,60 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/15/bd29b7b4-5bf8-4dce-ae33-5a7a9aace01c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[빅뱅, '봄여름가을겨울'로 장기집권 돌입 (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/344142</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/344142</guid>
-            <pubDate>Thu, 14 Apr 2022 23:14:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/344142">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/15/cc3a3d6e-0230-4882-9d1b-9b56e4e00aa5.jpg" alt="빅뱅, '봄여름가을겨울'로 장기집권 돌입">        <div class="text-box">            <p class="summary">빅뱅, '봄여름가을겨울'로 장기집권 돌입</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/15/cc3a3d6e-0230-4882-9d1b-9b56e4e00aa5.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['트로트 여왕' 장윤정, 19일 새 미니앨범 'estrena'로 컴백 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220415141431710</link>
+            <guid>https://entertain.v.daum.net/v/20220415141431710</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 오윤주 기자] '트로트 여왕' 장윤정이 신곡으로 컴백한다. 장윤정은 오는 19일 오후 6시 새 미니앨범 'estrena'를 발매한다. 'estrena'는 '돼지토끼' 이후 약 1년 6개월 만에 선보이는 새 앨범이다. 'estrena'는 고마움에 대한 답례의 선물을 뜻하는 단어로, 이번 앨범을 통해 팬들에게 전하고 싶은 장윤정의 마음을 담아]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[저스트비, 무대 위·아래 팬심 多 잡았다..'RE=LOAD' 컴백 활동 순항 시작 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220415140041265</link>
+            <guid>https://entertain.v.daum.net/v/20220415140041265</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=이승훈 기자] 그룹 JUST B(저스트비)가 무대 위, 아래에서 글로벌 팬심을 저격했다. JUST B(임지민, 이건우, 배인, JM, 전도염, 김상우)는 지난 14일 두 번째 미니앨범 'JUST BEGUN(저스트&nbsp;비건)'을 발매하고 Mnet '엠카운트다운'과 트위터 블루룸 라이브를 통해 올해의 첫 컴백 활동을 시작했다. 먼저 '엠카운트다운'에]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['컴백' 아이콘, 2년 6개월만 日 투어 확정 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220415134634805</link>
+            <guid>https://entertain.v.daum.net/v/20220415134634805</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 백지은 기자] 그룹 아이콘(iKON)이 일본 투어에 나선다. YG엔터테인먼트에 따르면 아이콘은 오는 7월 2일과 3일 효고현 코베 월드기념홀에서 일본 투어 '아이콘 재팬 투어 2022'의 포문을 연다. 이어 7월 9일과 10일 도쿄 국립 요요기 경기장 제1체육관에서 현지 팬들과 특별한 만남을 가진다. 아이콘의 일본 투어는 약 2년]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT DREAM, 인기질주ing..유나이티드 월드차트+오리콘 1위 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220415134454749</link>
+            <guid>https://entertain.v.daum.net/v/20220415134454749</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 백지은 기자] NCT DREAM의 인기 질주가 이어지고 있다. 지난 3월 28일 발매된 NCT DREAM 정규 2집 '글리치 모드'는 전 세계 음반 판매량 집계 사이트 미디어 트래픽이 15일 발표한 유나이티드 월드 차트 1위에 오르며 글로벌 파워를 다시 한번 입증했다. 더불어 NCT DREAM은 이번 앨범으로 일본 오리콘 해외 앨]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['소속사 분쟁' 박효신 "3년간 수익금 못 받아..원망하며 갇혀지내기도" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220415134157673</link>
+            <guid>https://entertain.v.daum.net/v/20220415134157673</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 가수 겸 뮤지컬 배우 박효신이 소속사 글러브엔터테인먼트와 법적 분쟁 중이다. 박효신은 최근 팬들에게 메시지를 전하는 소울트리 게시판을 통해 "전부터 조금씩 미뤄져 오던 정산금은 콘서트 정산금까지 더해져 받을 수 없었고 지난 3년간은 음원 수익금과 전속계약금도 받지 못하게 되는 상황에 이르렀다. 최대한 원만하게 상황을 해결하고자 참고]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT DREAM, 'Glitch Mode' 유나이티드 월드 차트도 1위..'더블 밀리언셀러' 파워ing (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220415134126659</link>
+            <guid>https://entertain.v.daum.net/v/20220415134126659</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=이승훈 기자] NCT DREAM(엔시티 드림)이 정규&nbsp;2집 ‘Glitch Mode’(글리치 모드)로 인기 질주를 이어가고 있다. 지난&nbsp;3월&nbsp;28일 발매된&nbsp;NCT DREAM&nbsp;정규&nbsp;2집 ‘Glitch Mode’는 전 세계 음반 판매량 집계 사이트 미디어 트래픽이 오늘(15일)&nbsp;발표한 유나이티드 월드 차트&nbsp;1위에 오르며 글로벌 파워를 다시 한번 입]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[릴리안 "데뷔곡 '일분일초' 듣자마자 욕심 생겼다" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220415133905597</link>
+            <guid>https://entertain.v.daum.net/v/20220415133905597</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[발라드 신예 릴리안(Lylian)이 신곡 '일분일초'로 가요계에 정식 데뷔했다. 릴리안은 지난 14일 오후 6시 주요 음원사이트 및 SNS 채널을 통해 디지털 싱글 앨범 '일분일초'를 발매하고 본격적인 데뷔 활동에 돌입했다. '일분일초'는 이별의 상황에 놓인 연인들에게 건네는 깊은 위로를 담은 곡으로 사랑과 이별에 관한 찰나의 감정들을 섬세하게 표현해]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[여자친구 출신 예린, 7년만에 솔로 데뷔..5월 출격 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220415133844582</link>
+            <guid>https://entertain.v.daum.net/v/20220415133844582</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 그룹 여자친구 출신 가수 예린(26)이 본격적인 홀로서기에 나선다. 15일 뉴스1 취재 결과, 예린은 오는 5월 중순 솔로로 데뷔한다. 이로써 예린은 지난해 5월 여자친구 활동을 종료한 이후 1년 만에 솔로로 본격적인 활동에 돌입한다. 특히 이는 데뷔 7년 만에 솔로 데뷔이자, 예린이 지난해 6월 써브라임과 전속계약을 체]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NCT 드림 'Glitch Mode' 유나이티드 월드 차트 1위 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
@@ -825,165 +881,116 @@
             <content:encoded><![CDATA[[서울경제] 그룹 세븐틴(Seventeen)이 따스한 감성으로 글로벌 시장에 도전장을 내밀었다. 절도 있는 군무와 파워풀한 보컬은 잠시 내려놓고, 메시지에 집중하며 새로운 이정표를 제시했다. 세븐틴의 새로운 모습에 궁금증이 커진다. 15일 오후 1시 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)의]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴 "'Darl+ing' YOU BABY" 영어로 전한 대통합 메시지 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220415130010836</link>
-            <guid>https://entertain.v.daum.net/v/20220415130010836</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:18 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 그룹 세븐틴이 오늘(15일) 오후 1시 첫 단체 영어 곡 'Darl+ing'을 발표했다. 오는 5월 정규 앨범 발매를 앞두고 선공개한 노래다. 디지털 싱글 ‘Darl+ing’은 미니멀하면서 중독적인 후렴구와 독특한 보컬 신스 사운드가 돋보이는 팝 장르의 노래다. 사랑하고 특별한 존재를 부르는 말이자 덧셈 기호(+)를 덧붙여 ‘특별한 너와 내]]></content:encoded>
+            <title><![CDATA[윤성·박현규·김소연, 코로나19로 '유명가수전' 제작발표회 불참 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220415141203646</link>
+            <guid>https://entertain.v.daum.net/v/20220415141203646</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[가수 윤성 씨, 박현규 씨, 김소연 씨가 건강상의 이유로 '유명가수전' 제작발표회에 모습을 드러내지 못 했다. JTBC 새 예능프로그램 '유명가수전-배틀어게인'(이하 '유명가수전') 제작발표회가 15일 오후 온라인으로 진행됐다. 현장에는 윤현준CP, 김은지PD, 유희열 씨, 규현 씨, 김기태 씨, 이주혁 씨, 신유미 씨가 참석했다. '유명가수전'은 '싱]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["달링, 너에게로 falling"..세븐틴, 'Darl+ing' 전격발표 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220415130009833</link>
-            <guid>https://entertain.v.daum.net/v/20220415130009833</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:18 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 이승록 기자] 그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 첫 영어 싱글을 발표했다. 'Darl+ing(달링)'이다. 세븐틴은 15일 오후 1시 각종 음원 사이트를 통해 디지털 싱글 'Darl+ing'을 전격 발표했다. 5월 공개될 정규 4집 앨범의 선공개곡이기도 하다.]]></content:encoded>
+            <title><![CDATA['장제원 아들' 장용준 이어 검찰도 징역 1년 불복 항소 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220415140908545</link>
+            <guid>https://entertain.v.daum.net/v/20220415140908545</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[래퍼 장용준(활동명 노엘, 22)이 음주 측정 요구에 불응하고 경찰관을 폭행한 혐의로 1심에서 징역 1년을 선고 받은 뒤 불복, 항소한데 이어 검찰도 항소했다. 장용준은 대통령 당선인 비서실장 장용준 국민의 힘 의원의 아들이다. 법조계에 따르면 검찰은 15일 서울중앙지법 형사4단독에 항소장을 제출했다. 결심공판에서 징역 3년을 구형했으나 징역 1년이 선고]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["캐럿들과 하나되고파" 세븐틴, 글로벌 사랑꾼 변신 'Darl+ing' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220415130007826</link>
-            <guid>https://entertain.v.daum.net/v/20220415130007826</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:18 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 글로벌 사랑꾼으로 변신했다. 세븐틴은 4월 15일 오후 1시(한국시간) 국내외 음원 사이트를 통해 새 디지털 싱글 'Darl+ing'(달링)을 발매했다. 이번 싱글은 세븐틴이 지난해 10월 발표한 9번째 미니 앨범 'At]]></content:encoded>
+            <title><![CDATA[박효신, 소속사와 3번째 법적분쟁.."3년간 정산 못받아" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220415140756505</link>
+            <guid>https://entertain.v.daum.net/v/20220415140756505</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 백지은 기자] 가수 박효신이 또 소속사와의 법적분쟁에 휘말렸다. 박효신은 최근 팬 커뮤니티 소울트리 게시판에 "전부터 조금씩 미뤄져 오던 정산금은 콘서트 정산금까지 더해져 받을 수 없었고 지난 3년간은 음원 수익금과 전속계약금도 받지 못하게 되는 상황에 이르렀다. 최대한 원만하게 상황을 해결하고자 참고 또 참으며 많은 노력을 했지]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴, 전 세계 캐럿에게 전하는 메시지 'Darl+ing' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220415130001811</link>
-            <guid>https://entertain.v.daum.net/v/20220415130001811</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:18 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 이덕행 기자] /사진='Darl+ing' MV세븐틴이 전 세계 팬들에게 메시지를 전했다. 15일 오후 1시 각종 음원 사이트를 통해 세븐틴의 신곡 'Darl+ing'이 공개됐다. 'Darl+ing'은 세븐틴의 첫 영어 싱글이자 오는 5월 공개될 정규 4집의 선공개 곡으로, 진정성을 더 짙게 담아 전 세계 캐럿(팬덤명)에게 들려 주고 싶은 새로]]></content:encoded>
+            <title><![CDATA[박효신, '웃는 남자'로 3년만 활동 개시.."정산금 못받아" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220415140712489</link>
+            <guid>https://entertain.v.daum.net/v/20220415140712489</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김현정 기자) 가수 겸 뮤지컬 배우 박효신이 소속사와의 분쟁이 해결되지 않은 상황에서 오랜 만에 뮤지컬 '웃는 남자'로 팬들과 대면한다. 15일 엑스포츠뉴스 취재 결과 박효신은 뮤지컬 '웃는 남자' 출연을 확정해 4년 만에 무대에 돌아온다. EMK는 박효신을 비롯한 삼연 라인업을 내주 공개한다. 박효신은 2018년 '웃는 남자' 초연에서]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[크러쉬, 싸이 정규 9집 수록곡 'Happier' 피처링 "3년 전 작업한 곡" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220415125414718</link>
-            <guid>https://entertain.v.daum.net/v/20220415125414718</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:18 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 싸이(PSY)의 정규 9집이 첫 수록곡 공개를 시작으로 순차적으로 베일을 벗는다. 피네이션(P NATION)의 수장 싸이(PSY)는 4월 15일 공식 SNS를 통해 오는 29일 발매하는 정규 9집 '싸다9'의 8번 트랙 'Happier (feat. Crush)'의 티저 영상을 공개했다. 총 12곡이 담긴 이번 앨범 수록곡 가운데 가]]></content:encoded>
+            <title><![CDATA['앵커' 천우희·신하균 "스릴러 영화? 현장 화기애애..다시 만나고파" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220415140548449</link>
+            <guid>https://entertain.v.daum.net/v/20220415140548449</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 영화 '앵커'로 호흡을 맞춘 배우 천우희와 신하균이 영화에 대한 이야기를 나눴다. 15일 오후 방송된 SBS 라디오 파워FM '최화정의 파워타임'에는 영화 '앵커' 주연인 천우희, 신하균이 출연했다. 신하균은 '앵커'가 스릴러 영화라 무섭지 않았냐는 물음에 "촬영하면서 너무 화기애애했다"라며 "수다도 많이 떨고 영화 외적]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴, 美 'MTV Fresh Out Live' 출연 'Darl+ing' 퍼포먼스 최초공개 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220415124633586</link>
-            <guid>https://entertain.v.daum.net/v/20220415124633586</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:18 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 미국 유명 방송 ‘MTV Fresh Out Live’에 출연한다. 세븐틴은 4월 15일(현지 시간) 방송되는 미국 유명 음악 전문 방송 프로그램 ‘MTV Fresh Out Live’(MTV 프레시 아웃 라이브)에 출연해]]></content:encoded>
+            <title><![CDATA['그알' 78억 건의 꿀벌 연쇄 실종사건, 우연한 사고인가 무서운 경고인가 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220415140412407</link>
+            <guid>https://entertain.v.daum.net/v/20220415140412407</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 78억 건의 꿀벌 연쇄 실종 사건, 무엇을 알리는 시그널일까. 4월 16일 방송되는 SBS '그것이 알고 싶다'에서는 올 봄 전국적으로 나타난 대규모 꿀벌실종사건의 심각성을 살펴보고, 현장에서 입수한 단서들과 취합한 연구 자료들을 통해 이 사건의 실체를 분석해보는 한편, 전문가들과 함께 꿀벌들을 사라지게 한 범인은 과연 누구인지,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['야차' 박해수 "너무 고지식하거나 따분한 인물 되지 않길 바라..인간적인 면 보여주고 싶었다" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220415121154042</link>
-            <guid>https://entertain.v.daum.net/v/20220415121154042</guid>
-            <pubDate>Fri, 15 Apr 2022 03:27:49 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 고재완 기자] 13일 넷플릭스 TOP 10 웹사이트에서 따르면 8일 공개된 '야차'는 공개 후 3일 만에 1254만 시청 시간을 기록하며 넷플릭스 글로벌 TOP 10 영화(비영어) 부문 3위를 차지했다. 특히 한국을 비롯해 싱가포르, 대만 등 총 45개국의 톱10 리스트에 오르며 뜨거운 관심을 받고 있다. '야차'에서 정의로운 특]]></content:encoded>
+            <title><![CDATA[정모 "이수만 선생님과 '터키즈' 이용진 성대모사, 길게 하면 현타 와" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220415140205333</link>
+            <guid>https://entertain.v.daum.net/v/20220415140205333</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[MBC FM4U '정오의 희망곡 김신영입니다'에 가수 정모가 출연했다. 15일(금) 방송된 MBC FM4U '정오의 희망곡 김신영입니다'에서는 가수 정모가 '아무노래 TOP7' 코너에서 '같은 단어가 반복되는 노래' 테마로 노래를 소개했다. 이날 "우리 애가 터키 아이스크림 아저씨 또 안 나오냐고 물어본다. 정모 씨 부탁부탁", "은근 기대하게 되]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[송가인 1년 4개월만 컴백, 비주얼도 물올랐네 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220415120741955</link>
-            <guid>https://entertain.v.daum.net/v/20220415120741955</guid>
-            <pubDate>Fri, 15 Apr 2022 03:27:49 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박아름 기자] 트로트퀸이 돌아온다. 4월 15일 트로트 가수 송가인 소속사 포켓돌스튜디오는 “송가인이 오는 21일 정규 3집 앨범 '연가'(戀歌)를 발표하고 팬들을 만난다”고 밝혔다. 송가인의 모습과 함께 ‘戀歌 2022.04.21 6PM’이라고 적힌 이미지도 공개했다. ‘연가’(戀歌)는 사랑하는 사람을 그리워해서 부르는 노래로, 송가인이 1년]]></content:encoded>
+            <title><![CDATA['최파타' 천우희 "학창시절 불량학생 아냐, '써니'에서 한 풀어" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220415140023235</link>
+            <guid>https://entertain.v.daum.net/v/20220415140023235</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[배우 천우희가 학창시절 불량학생이 아니었다고 웃으며 말했다. 15일 방송된 SBS 파워FM '최화정의 파워타임'(이하 '최파타')에는 영화 '앵커'의 배우 천우희, 신하균이 출연했다. 이날 DJ 최화정은 "천우희 씨를 영화 '써니'에서도 봤는데 참 인상 깊었다"고 말했다. 천우희는 "영화 '써니'에서 워낙 불량학생으로 나오니까 학창시절에 내가 많이 놀]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[K드라마 전성기 이끈 명배우들..치열한 TV 조연상 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220415133201457</link>
-            <guid>https://entertain.v.daum.net/v/20220415133201457</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:24 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계를 사로잡은 연기파 배우들이 58회 백상예술대상에 모두 모인다. 지난 한 해는 K-드라마의 전성기였다. 한국, 그리고 아시아를 넘어 전 세계 시청자의 마음을 사로잡으며, K-드라마를 하나의 장르로 자리 잡게 했다. 최고의 배우들 덕분이다. K-드라마를 이끈 주역들 중 10인이 58회 백상예술대상 조연상 후보에 선정됐다. 쟁쟁한 후보가 많아 긴]]></content:encoded>
+            <title><![CDATA[연출 데뷔작 칸 입성까지..이정재 전성시대 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220415140007214</link>
+            <guid>https://entertain.v.daum.net/v/20220415140007214</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[반박불가 이정재 전성시대다. 배우 이정재가 인생 최고의 전성기를 누리고 있다. 지난해 넷플릭스 오리지널 '오징어 게임'으로 국내 뿐 아니라 미국에서도 글로벌 화력을 뽐내더니 이번엔 첫 연출 데뷔작 '헌트'로 다음달 열리는 제75회 칸국제영화제(Festival de Cannes·이하 칸영화제) 초청이라는 쾌거를 이뤘다. 비경쟁부문이긴 하지만 첫 연출작으]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["빅뱅 호감도 상승"..YG, 자신감일까 자기연민일까 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220415133158455</link>
-            <guid>https://entertain.v.daum.net/v/20220415133158455</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:24 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 백지은 기자] 자신감일까, 자기연민일까. YG엔터테인먼트(이하 YG)가 자사 대표 아티스트인 빅뱅의 인기비결을 분석했다. 빅뱅은 4년 여만에 발표한 디지털 싱글 '봄여름가을겨울(Still Life)'로 멜론 지니 벅스 바이브 플로 등 국내 주요 음원차트 정상을 11일째 지키고 있다. 또 가온차트에서도 디지털, 다운로드, 스트리밍,]]></content:encoded>
+            <title><![CDATA['안나라수마나라' 김성윤 감독X김민정 작가가 건네는 마술 같은 위로 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220415135135925</link>
+            <guid>https://entertain.v.daum.net/v/20220415135135925</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[‘안나라수마나라’가 공감을 자아내는 이야기를 예고했다. 오는 5월 6일 공개되는 넷플릭스 오리지널 시리즈 ‘안나라수마나라’ 김성윤 감독과 김민정 작가가 작품에 대한 이야기를 전했다. ‘안나라수마나라’는 꿈을 잃어버린 소녀 윤아이와 꿈을 강요받는 소년 나일등 앞에 어느 날 갑자기 미스터리한 마술사 리을이 나타나 겪게 되는 이야기를 담은 판타지 뮤직 드라]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['돌싱2' 김은영, 30살 과거 결혼사진 공개.."이제 결혼한다면 동거부터" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220415133023412</link>
-            <guid>https://entertain.v.daum.net/v/20220415133023412</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:24 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선닷컴 이지현 기자] '돌싱글즈2' 출연자 김은영이 서른 살 결혼 당시의 생각을 밝혔다. 15일 김은영은 자신의 인스타그램 스토리에 "서른 살, 그 시절 결혼에 대한 생각"이라는 글과 함께 사진을 게재했다. 김은영은 30살에 결혼을 했던 당시 웨딩드레스 입은 모습을 공개했다. 브이라인이 깊게 패인 웨딩드레스를 입은 김은영은 글래머러스]]></content:encoded>
+            <title><![CDATA['금쪽상담소' 김성은 "미달이, 안 하고 싶었다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220415135118921</link>
+            <guid>https://entertain.v.daum.net/v/20220415135118921</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 황서연 기자] ‘금쪽상담소’에서 김성은이 속내를 밝힌다. 15일 밤 9시 30분 방송하는 채널A 예능프로그램 ‘오은영의 금쪽상담소’에서는 배우 김성은과 봅슬레이 국가대표 선수 강한의 고민이 공개된다. 첫 번째 고객의 정체는 대한민국 시트콤계 한 획을 그었던, 순풍산부인과의 미달이 역할을 완벽 소화했던 배우 김성은. 밝기만 할 줄 알았던 그는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[양요섭 "축구하다 손가락 골절, 경기 끝까지 뛰고 응급실행" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220415131351107</link>
-            <guid>https://entertain.v.daum.net/v/20220415131351107</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:24 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 하이라이트 양요섭이 축구를 하지 않게 된 뜻밖의 이유를 전했다. 4월 15일 방송된 KBS cool FM '이기광의 가요광장'(이하 '가요광장')은 코로나19 확진 판정을 받은 이기광을 대신해 하이라이트 양요섭이 스페셜 DJ를 맡은 가운데 모델 송해나, 차수민이 게스트로 출연했다. 이날 양요섭은 FC구척장신 송해나, 차수민을 처음]]></content:encoded>
+            <title><![CDATA['최파타' 천우희 "앵커 역 위해 발음 연습 6개월 과정 20일에 끝내" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220415135101911</link>
+            <guid>https://entertain.v.daum.net/v/20220415135101911</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[배우 천우희가 완벽한 앵커 역할을 위해 발음 연습에 공을 들였다고 말했다. 15일 방송된 SBS 파워FM '최화정의 파워타임'(이하 '최파타')에는 영화 '앵커'의 배우 천우희, 신하균이 출연했다. 이날 DJ 최화정은 천우희에게 "앵커 역할을 소화하기 위해 발음 교정이나 발성 연습을 했나?"라고 질문했다. 천우희는 '앵커'에서 완벽한 앵커 연기를]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['차트 시스터즈' 진성, 홧병 날려버린 무대 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220415131231083</link>
-            <guid>https://entertain.v.daum.net/v/20220415131231083</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:24 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 지난 14일 방송된 tvN STORY ‘차트 시스터즈’ 3회에서는 ‘울화를 다스리는 노래’의 세대별 차트가 공개된 동시에 게스트로 진성이 출연해 단독 콘서트에 버금가는 화끈한 라이브를 선보여 화제를 모았다. 먼저, 이모 차트 코너에서는 MC 셀럽파이브(송은이, 신봉선, 김신영, 안영미)가 고음으로 스트레스를 해소시켰던 그 시절 노래를 부]]></content:encoded>
+            <title><![CDATA['최파타' 천우희 "'앵커' 위해 단발 변신, 발성 연습도 많이 해" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220415135003882</link>
+            <guid>https://entertain.v.daum.net/v/20220415135003882</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 백지연 기자] '최화정의 파워타임' 배우 천우희가 단발머리로 파격 변신한 이유를 밝혔다. 15일 방송된 SBS 파워FM 라디오 '최화정의 파워타임'에는 영화 '앵커' 개봉을 앞둔 배우 천우희, 신하균이 출연했다. 이날 방송에서 배역 소화를 위해 머리카락을 자른 천우희는 "긴머리로 많이 나왔는데 앵커 역할에 잘 어울리게끔 짧게 잘랐다"고 전했다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[손헌수 "박수홍♥아내, 연애 때부터 유기견 봉사활동..내게도 권유" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220415130515954</link>
-            <guid>https://entertain.v.daum.net/v/20220415130515954</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:24 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=하수정 기자] 개그맨 손헌수가 박수홍의 권유로 유기견 봉사활동을 하게 됐다며, 앞으로도 꾸준히 할 계획이라고 했다. 손헌수는 15일 OSEN과의 인터뷰에서 "박수홍 선배님이 '헌수야 너도 봉사활동 하는데 같이 가자'고 하시더라. 선배님은 원래 형수님과 연애할 때부터 유기견 보호소 등에 봉사활동을 다니셨다"고 밝혔다. 이어 "나도 원래 강아지를]]></content:encoded>
+            <title><![CDATA[송해나 "FC구척장신, 감독님 없는 단톡방 따로 있어..남 욕 하기도" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220415134802839</link>
+            <guid>https://entertain.v.daum.net/v/20220415134802839</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 송해나가 FC구척장신의 단톡방을 폭로했다. 4월 15일 방송된 KBS cool FM '이기광의 가요광장'(이하 '가요광장')은 코로나19 확진 판정을 받은 이기광을 대신해 하이라이트 양요섭이 스페셜 DJ를 맡은 가운데 모델 송해나, 차수민이 게스트로 출연했다. 이날 '고민언박싱' 코너에서는 친구가 단체카톡방에서 말 없이 나갈 경우]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['유퀴즈' 에 쏟아진 7000건의 분노, 윤석열 뿐 아니라 어떤 정치인도 싫다는 것 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220415130016839</link>
-            <guid>https://entertain.v.daum.net/v/20220415130016839</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:24 GMT</pubDate>
-            <content:encoded><![CDATA[tvN ‘유퀴즈 온 더 블럭’ [스포츠서울 | 박효실기자] “대한민국을 절반으로 쪼갰다”는 평을 들은 제20대 대통령선거가 끝난지 40여일. 좋든 싫든 윤석열 대통령 당선인이 새로운 내각을 구성하는 이때, 뜻밖의 소식이 들려오며 시청자들의 분노가 하늘 끝까지 치솟았다. 바로 윤 당선인이 tvN 간판예능 ‘유퀴즈 온 더 블럭(이하 유퀴즈]]></content:encoded>
+            <title><![CDATA[천우희 '언제부터 예뻤냐' 질문에 당황..신하균 "이제 알았다고 해라" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220415134704817</link>
+            <guid>https://entertain.v.daum.net/v/20220415134704817</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 배우 천우희가 한 질문에 당황했다. 15일 오후 방송된 SBS 라디오 파워FM '최화정의 파워타임'에는 영화 '앵커' 주연인 천우희, 신하균이 출연했다. 이날 신하균은 돌발 상황이 발생하면 어떻게 하냐는 물음에 웃다가 "잘 없는 것 같다"라며 "저도 많이 떨고 말주변이 없었는데 지금은 정말 수다쟁이가 된 것이다"라고 밝혔]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['씨네타운' 박솔미 "♥한재석, 식탐 有 '편스토랑' 하고 살쪄" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220415124708598</link>
-            <guid>https://entertain.v.daum.net/v/20220415124708598</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:24 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 백지연 기자] '씨네타운'에서 배우 박솔미가 남편 한재석을 언급했다. 15일 오전 방송된 SBS 파워FM '박하선의 씨네타운'(이하 '씨네타운')의 '씨네맘(心)카페'에는 박솔미가 게스트로 출연했다. 이날 방송에서 박솔미는 '신상출시 편스토랑'(이하 '편스토랑')에 출연해 남다른 요리 실력으로 화제를 모은 바 요리 실력에 대한 질문을 받았다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박효신, 전속계약금→활동 수익 못 받았다..소속사와 법적 분쟁 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220415123317402</link>
-            <guid>https://entertain.v.daum.net/v/20220415123317402</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:24 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=장진리 기자] 가수 박효신이 소속사 글러브엔터테인먼트와 법적 분쟁 중이다. 15일 스포티비뉴스 취재에 따르면 박효신은 음원수익·계약금 미정산 등을 이유로 지난해부터 소속사와 갈등을 이어가고 있다. 박효신은 2016년 젤리피쉬엔터테인먼트와 전속계약이 만료된 후 신생 기획사였던 글러브엔터테인먼트로 이적했다. 이후 정재일과 함께한 '아이 엠]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[홍현희 떠나 유튜버 전향 "제주 눌러 앉을지도" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220415123002344</link>
-            <guid>https://entertain.v.daum.net/v/20220415123002344</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:24 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김예나 기자) 홍현희 전 매니저 황정철이 유튜버로 전향, 퇴사 후 근황을 전했다.&nbsp; 황정철은 지난 14일 개인 유튜브 채널 황정철TV를 통해 "퇴사 후 떠나는 오토바이 여행"이라는 제목의 영상을 업로드했다.&nbsp; 영상 시작과 함께 황정철은 "안녕하세요 3년 전 쯤 제주도 여행을 갔을 때 막연하게 언젠가 꼭 제주살이를 해봐야지라고 마음 먹었고,]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[오뚜기 3세 함연지, 완공한 한강뷰 집 자랑..대리석벽 뜯고 리모델링 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220415122933339</link>
-            <guid>https://entertain.v.daum.net/v/20220415122933339</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:24 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 송오정 기자] 뮤지컬배우 함연지가 새롭게 단장한 집을 소개했다. 4월 14일 함연지는 유튜브 채널 '햄연지'를 통해 인테리어 완공 소식을 전하며, 랜선 홈 투어로 집을 공개했다. 함연지는 전체적으로 노란끼를 빼고 화이이톤으로 맞추면서, 현관 바닥에는 톤온톤 컬러의 쉐브론 스타일 패턴을 넣어 포인트를 줬다고 설명했다. 이어 주방으로 이동한 함연지는]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['돼지의 왕', 역대급 엔딩 예고 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220415121908157</link>
-            <guid>https://entertain.v.daum.net/v/20220415121908157</guid>
-            <pubDate>Fri, 15 Apr 2022 03:27:55 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 황서연 기자] '돼지의 왕'이 끝을 향해 치닫는 과거로 스릴러의 묘미를 살려줄 역대급 엔딩을 선사한다. 티빙 오리지널 시리즈 '돼지의 왕'(극본 탁재영·연출 김대진) 9, 10화에서는 20년 전, 황경민(김동욱), 정종석(김성규), 그리고 그들의 영웅 김철 사이에 있었던 숨겨진 이야기들이 하나 둘씩 베일을 벗는다. 앞서 연쇄살인사건을 수사하던]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박해수 "'오겜'·'야차'로 넷플릭스 공무원? 부모님이 좋아하세요" ① (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220415121816151</link>
-            <guid>https://entertain.v.daum.net/v/20220415121816151</guid>
-            <pubDate>Fri, 15 Apr 2022 03:27:55 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 박해수가 '오징어 게임' '야차' '종의의 집: 공동경제구역'까지 연이어 넷플릭스 작품에 출연해 자신에게 '넷플릭스 공무원'이라는 별명이 붙은 사실을 알렸다. 박해수는 15일 오전 진행된 영화 '야차'(감독 나현) 관련 라운드 인터뷰에서 '오징어 게임'의 성공 이후 '야차'가 또 한 번 넷플릭스에서 전세계 영화 부문]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['금쪽같은 내새끼' 오은영 "부모가 모든 거 금지하면 자녀 못 배워" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220415121708132</link>
-            <guid>https://entertain.v.daum.net/v/20220415121708132</guid>
-            <pubDate>Fri, 15 Apr 2022 03:27:55 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 백지연 기자] '금족같은 내새끼'에서 과도한 규제에 발작하는 금쪽이의 사연이 공개됐다. 15일 방송되는 채널A 예능프로그램 '요즘 육아 - 금쪽같은 내새끼'에서는 어린 엄마와 자해하는 5세 딸의 사연이 공개된다. 이날 스튜디오에는 5세 딸을 키우고 있는 28세 엄마와 35세 아빠가 출연한다. 엄마는 "금쪽이가 뜻대로 안 되면 떼를 너무 심하게]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[영탁 팬클럽, 취약계층에 7천장 마스크 기부 "선한영향력 함께" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220415121620123</link>
-            <guid>https://entertain.v.daum.net/v/20220415121620123</guid>
-            <pubDate>Fri, 15 Apr 2022 03:27:55 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박소영 기자] 국내구호전문단체 희망조약돌은 가수&nbsp;영탁의 팬클럽 ‘탁벤져스’에서 국내 취약계층을 위한 200만 원 상당의 마스크 7,000장을 기부했다고 금일( 15일) 밝혔다. 가수&nbsp;영탁의 팬클럽 ‘탁벤져스’는 꾸준히 기부와 나눔을 실천하며 모범적인 팬기부 문화를 형성해왔으며, 희망조약돌에 독거노인을 위한 기부 및 국내 취약계층을 위한 기부]]></content:encoded>
+            <title><![CDATA["엠버 허드가 조니 뎁 먼저 때린 적도 있다", 새로운 주장 나와 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
+            <link>https://entertain.v.daum.net/v/20220415135821140</link>
+            <guid>https://entertain.v.daum.net/v/20220415135821140</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 조니 뎁(58)과 엠버 허드(53)가 명예훼손 여부를 놓고 소송을 벌이는 가운데 둘이 서로간에 학대를 했다는 주장이 나왔다. 심리 치료사 로렐 애피스 앤더슨은 14일(현지시간) 미국 버지니아주 페어팩스 카운티 법원에서 비디오를 통해 이같은 내용을 증언했다. 버라이어티에 따르면, 앤더슨은 지난 2월 비디오를 녹]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[리한나 만삭인데..남친 바람폈나 '충격' 파경설 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
@@ -1070,25 +1077,158 @@
             <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 미국 배우 겸 감독 알 파치노(Al Pacino, 81)가 53세 연하 PD와 열애설에 휩싸였다. 미국 매체 페이지식스(Page Six)는 4월 13일(현지시간) "알 파치노가 53세 연하인 누어 알팔라(Noor Alfallah, 28)와 열애 중이다"고 전했다. 보도에 따르면 알 파치노와 누어 알팔라는 이번 주 지인들과 함께 저녁]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['대부' 알 파치노, 53세 연하 연인과 열애 중 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
-            <link>https://entertain.v.daum.net/v/20220414140717136</link>
-            <guid>https://entertain.v.daum.net/v/20220414140717136</guid>
-            <pubDate>Thu, 14 Apr 2022 05:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 영화 '대부' 등으로 유명한 할리우드 배우 알 파치노(81)가 무려 53세 연하 누어 알팔라와 열애 중이다. 미국 연예매체 페이지식스는 13일(현지시간) "알 파치노가 TV 프로듀서 누어 알팔라와 열애 중"이라고 밝혔다. 두 사람의 열애설은 최근 미국 캘리포니아에 위치한 한 식당에서 식사 데이트를 즐기는 모습이 포착되며 불거졌]]></content:encoded>
+            <title><![CDATA[장윤정, 19일 새 미니 ‘estrena’ 발표…고마운 마음 담아 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001435244</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001435244</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김예나 기자) 가수 장윤정이 1년 6개월 만에 컴백한다. 장윤정은 19일 오후 6시 새 미니 앨범 ‘estrena’를 발매한다. 이번 신보 ‘estrena’는 ‘돼지토끼’ 이후 약 1년 6개월 만에 선]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[알파치노, 53세 연하와 데이트 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
-            <link>https://entertain.v.daum.net/v/20220414140308908</link>
-            <guid>https://entertain.v.daum.net/v/20220414140308908</guid>
-            <pubDate>Thu, 14 Apr 2022 05:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[할리우드 스타 알 파치노(81)가 53살 연하의 여성과 데이트를 즐겼다. 13일(현지시간) 외신보도에 따르면 알 파치노가 28살의 누어 알팔라와 교제 중이다. 두 사람은 사적인 여러모임에 함께 나타났다. 이번주엔 줄리안 슈나벨의 작품을 주제로 한 새로운 미술 전시회에 참석해 애정표현을 했다. 매체는 "두 사람은 코로나 19 펜데믹에 만났다. 누어 알팔]]></content:encoded>
+            <title><![CDATA['트로트 여왕' 장윤정, 19일 새 미니앨범 'estrena'로 컴백 [공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003594597</link>
+            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003594597</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 오윤주 기자] '트로트 여왕' 장윤정이 신곡으로 컴백한다. 장윤정은 오는 19일 오후 6시 새 미니앨범 'estrena'를 발매한다. 'estrena'는 '돼지토끼' 이후 약 1년 6개월 만에 선보이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["아빠보다 나이 많아"..'대부' 81세 알 파치노, 53세 연하와 열애 중 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
-            <link>https://entertain.v.daum.net/v/20220414135219459</link>
-            <guid>https://entertain.v.daum.net/v/20220414135219459</guid>
-            <pubDate>Thu, 14 Apr 2022 05:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자] 영화 '대부'로 유명한 명배우 81세의 알 파치노와&nbsp;28세 TV 프로듀서 누어&nbsp;알팔라의 열애설이 사실로 확인됐다고 페이지식스가 13일(현지시간) 전했다. 최근 알 파치노가 53세의 연하의 가수 믹 재거의 전 여자친구인 누어 알팔라와 미국 캘리포니아 베니스의 펠릭스 트라토리아에서 저녁 데이트를 하는 모습이 목격됐고 페이지식스는 두]]></content:encoded>
+            <title><![CDATA['트로트의 여왕' 장윤정, 새 미니앨범 'estrena' 19일 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003044787</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003044787</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:55 GMT</pubDate>
+            <content:encoded><![CDATA['트로트의 여왕' 장윤정이 신곡으로 컴백한다. 트로트 가수 장윤정이 오는 19일 오후 6시 새 미니앨범 'estrena'를 발매한다. 'estrena'는 '돼지토끼' 이후 약 1년 6개월 만에 선보이는 새 앨범으로]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[세대·성별 아우른 빅뱅…직접 찾아듣는 K팝 황제의 귀환 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=016&amp;aid=0001978274</link>
+            <guid>https://entertain.naver.com/now/read?oid=016&amp;aid=0001978274</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[[헤럴드경제=고승희 기자] 돌아온 빅뱅이 음원 차트를 삼켜버렸다. 세대와 성별을 아울렀고, 찾아듣는 음악을 하는 K팝 그룹의 귀환을 알렸다. 소속사 YG엔터테인먼트에 따르면 빅뱅이 약 4년 만에 발표한 디지털 싱글]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[윤지성, 5월 첫 단독 콘서트 '미로: 프롤로그' 개최 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=408&amp;aid=0000151845</link>
+            <guid>https://entertain.naver.com/now/read?oid=408&amp;aid=0000151845</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[가수 윤지성이 3년 만에 첫 단독 콘서트로 팬들과 만난다. 윤지성은 오는 5월 14일과 15일 서울 강남구 코엑스 아티움에서 첫 번째 단독 콘서트 '미로: prologue'를 개최한다. 지난 14일 오후 6시 윤지성]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[트로트퀸 장윤정, 1년 6개월만 컴백..신보 'estrena' 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003551007</link>
+            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003551007</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[[헤럴드POP=김지혜 기자] 장윤정이 컴백한다. 장윤정은 오는 19일 오후 6시 새 미니앨범 ‘estrena’를 발매하고 컴백한다. 이번 신보는 장윤정이 ‘돼지토끼’ 이후 약 1년 6개월 만에 선보이는 새 앨범. ‘]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[장윤정, 1년 6개월 만 신곡 발매 “팬들에 전하고 싶은 답례” (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000562981</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000562981</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박수인 기자] ‘트로트의 여왕’ 장윤정이 신곡으로 컴백한다. 장윤정은 오는 4월 19일 오후 6시 새 미니앨범 ‘estrena’를 발매한다. ‘estrena’는 ‘돼지토끼’ 이후 약 1년 6개월 만에 선보이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[려욱, 3년 만에 가요계 컴백…커밍순 이미지 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011125351</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011125351</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]김주희 인턴 기자 = 그룹 슈퍼주니어 멤버 겸 솔로 가수 려욱이 3년 만에 가요계에 돌아온다. 려욱이 내달 3일 오후 6시 각종 온라인 음원 사이트에 세 번째 미니앨범을 발매한다. 14과 15일 슈퍼주]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[저스트비, 무대 위·아래 팬심 多 잡았다..'RE=LOAD' 컴백 활동 순항 시작 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004593014</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004593014</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=이승훈 기자] 그룹 JUST B(저스트비)가 무대 위, 아래에서 글로벌 팬심을 저격했다. JUST B(임지민, 이건우, 배인, JM, 전도염, 김상우)는 지난 14일 두 번째 미니앨범 'JUST BEGUN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[임영웅 팬클럽, 어려운 이웃 위해 33번째 도시락 봉사 실천 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001435238</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001435238</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅 팬클럽의 나눔이 눈길을 끈다. 최근 가수 임영웅의 팬클럽 영웅시대밴드(나눔모임)는 어려운 위해 33번째 도시락 봉사를 실천했다고 밝혔다. 그들은 “매월 두 번째 목요일, 어김없이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[프리킬, 日 데뷔 스페셜 방송 확정 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000806345</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000806345</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] FNC JAPAN의 첫 일본 걸그룹 프리킬(PRIKIL)이 다음달 4일 데뷔 당일 3시간 분량의 스페셜 방송을 통해 데뷔 여정을 전격 공개한다. 린코(15), 우타(15), 나나(14), 린(14),]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[권은비, 'Glitch' MV 1000만뷰 돌파…진정한 완성형 솔로 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001435236</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001435236</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 가수 권은비의 신곡 '글리치(Glitch)' 뮤직비디오가 유튜브 1000만 뷰를 돌파했다. 지난 4일 오후 6시 발매된 권은비의 두 번째 미니 앨범 '컬러(Color)' 타이틀곡 '글리치]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[윤지성, 첫 단독 콘서트 개최 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000806343</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000806343</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 가수 윤지성이 3년 만에 첫 단독 콘서트로 팬들과 만난다. 윤지성은 오는 5월 14일과 15일 서울 강남구 코엑스 아티움에서 첫 번째 단독 콘서트 ‘미로: prologue’를 개최한다. 지난 14일 오]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['차트 시스터즈' 진성, 울화 다스리는 노래 소환…재미+감동 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011125306</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011125306</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]김주희 인턴 기자 = tvN STORY 음악토크 차트쇼 '차트 시스터즈'가 '울화를 다스리는 노래'를 소환했다. 14일 오후 8시 20분 방송된 '차트 시스터즈' 3회에선 '울화를 다스리는 노래'의 세]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[에버글로우, DJ 리햅과 컬래버…'Pirate' 리믹스 음원 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001435235</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001435235</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 에버글로우(EVERGLOW)가 DJ 리햅(R3HAB)과 손잡았다. 에버글로우(이유, 시현, 미아, 온다, 아샤, 이런)는 15일 정오 세 번째 미니앨범 'Return of The G]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[공식] '컴백' 아이콘, 2년 6개월만 日 투어 확정 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003854221</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003854221</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 백지은 기자] 그룹 아이콘(iKON)이 일본 투어에 나선다. YG엔터테인먼트에 따르면 아이콘은 오는 7월 2일과 3일 효고현 코베 월드기념홀에서 일본 투어 '아이콘 재팬 투어 2022'의 포문을 연다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[공식] NCT DREAM, 인기질주ing…유나이티드 월드차트+오리콘 1위 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003854219</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003854219</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 백지은 기자] NCT DREAM의 인기 질주가 이어지고 있다. 지난 3월 28일 발매된 NCT DREAM 정규 2집 '글리치 모드'는 전 세계 음반 판매량 집계 사이트 미디어 트래픽이 15일 발표한 유나]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['그래미 호스트' 트레버 노아 "방탄소년단, 모든 사람에게 친절하고 멋지다" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001435232</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001435232</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 미국 코미디언 트레버 노아가 그룹 방탄소년단(BTS)과 대화를 나눈 소감을 밝혔다. 14일(이하 현지시간) 연예 매체 버라이어티에 따르면 트레버 노아는 '더 데일리 쇼'에 출연해 자신이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘소속사 분쟁’ 박효신 “3년간 수익금 못 받아…원망하며 갇혀지내기도”[공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000562970</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000562970</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 가수 겸 뮤지컬 배우 박효신이 소속사 글러브엔터테인먼트와 법적 분쟁 중이다. 박효신은 최근 팬들에게 메시지를 전하는 소울트리 게시판을 통해 "전부터 조금씩 미뤄져 오던 정산금은 콘서트 정산금까]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[릴리안 "데뷔곡 '일분일초' 듣자마자 욕심 생겼다" [일문일답] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=408&amp;aid=0000151840</link>
+            <guid>https://entertain.naver.com/now/read?oid=408&amp;aid=0000151840</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[발라드 신예 릴리안(Lylian)이 신곡 '일분일초'로 가요계에 정식 데뷔했다. 릴리안은 지난 14일 오후 6시 주요 음원사이트 및 SNS 채널을 통해 디지털 싱글 앨범 '일분일초'를 발매하고 본격적인 데뷔 활동에]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우아! 나나, '플레이리스트' 신작 '미미쿠스' 캐스팅…'인싸' 캐릭터 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011125275</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011125275</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]김주희 인턴 기자 = 그룹 우아!(woo!ah!)의 나나가 종합 콘텐츠 스튜디오 '플레이리스트'의 신작에 출연한다. 15일 플레이리스트에 따르면 나나는 드라마 '연애플레이리스트', '에이틴', '소년비]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['트롯 퀸' 송가인, 21일 '연가'로 컴백(공식) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001726859</link>
+            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001726859</guid>
+            <pubDate>Fri, 15 Apr 2022 05:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[가수 송가인 씨가 새 앨범 발표와 함께 전국투어 콘서트를 준비하고 있다. 오늘(15일) 소속사 포켓돌스튜디오는 "송가인이 오는 21일 정규 3집 앨범 '연가'(戀歌)를 발표하고 팬들을 만난다"라고 밝혔다. 송가인 씨]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NCT 드림 정규 2집, 유나이티드 월드 차트 1위 [MK★뮤직차트] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
@@ -1112,333 +1252,186 @@
             <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 엔시티 드림(NCT DREAM)이 정규 2집 '글리치 모드'(Glitch Mode)로 유나이티드 월드 차트 1위에 올랐다. NCT DREAM의 정규 2집 ‘Glitch Mode’는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아이콘, 2년 6개월 만 日투어 확정..막강 존재감 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003550993</link>
-            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003550993</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드POP=김지혜 기자] 그룹 아이콘(iKON)이 일본 2개 도시서 콘서트를 개최한다. 15일 YG엔터테인먼트에 따르면 그룹 아이콘은 오는 7월 2일과 3일 효고현 코베 월드기념홀에서 일본 투어 'iKON JAP]]></content:encoded>
+            <title><![CDATA[‘김태현♥’ 미자 “결혼식 다음날은 폭식이지!” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003686699</link>
+            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003686699</guid>
+            <pubDate>Fri, 15 Apr 2022 05:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[사진=미자 SNS 배우 장광의 딸이자 개그우먼 미자(본명 장윤희)가 결혼 후 근황을 전했다. 미자는 15일 자신의 인스타그램을 통해 "결혼식 다음날 해장 ?얌꿍. 참아 왔던 나트륨 폭발!"이라며 "저녁 10시 30분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[NCT 드림 ‘Glitch Mode’ 유나이티드 월드 차트 1위[공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000806336</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000806336</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 그룹 NCT DREAM이 정규 2집 ‘Glitch Mode’(글리치 모드)로 인기 질주를 이어간다. 소속사 SM엔터테인먼트에 따르면 ‘Glitch Mode’는 오늘 (15일) 세계 음반 판매량 집계 사]]></content:encoded>
+            <title><![CDATA[경수진, 부동산 꿀팁 말하더니…마음 뺏긴 의외 공간은?('나 혼자 산다') (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004950248</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004950248</guid>
+            <pubDate>Fri, 15 Apr 2022 05:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[배우 경수진이 부동산 전문가 수준의 꼼꼼함을 보여주더니 급 돌변한 모습이 포착됐다. 오늘(15일) 오후 11시 10분에 방송되는 MBC 예능프로그램 ‘나 혼자 산다’(연출 허항 김지우 강지희)에서는 경수진의 작업실]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[싸이, 크러쉬와 3년 전 작업한 'Happier' 정규 9집에 담았다 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001435224</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001435224</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 조혜진 기자) 가수 싸이(PSY)의 정규 9집이 첫 수록곡 공개를 시작으로 순차적으로 베일을 벗는다. 피네이션(P NATION)의 수장 싸이(PSY)는 15일 정오 공식 SNS를 통해 오는 29일 발매]]></content:encoded>
+            <title><![CDATA['국민가수' 하동연, n.CH엔터 합류 후 새 프로필 공개…댄디 카리스마 가득 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000353468</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000353468</guid>
+            <pubDate>Fri, 15 Apr 2022 05:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자]가수 하동연이 댄디한 카리스마를 발산했다. 소속사 n.CH엔터테인먼트는 15일 공식 SNS를 통해 하동연의 새 프로필 이미지를 공개했다. 공개된 사진 속 하동연은 블랙과 아이보리 계열의 스]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아이콘, 7월 일본 투어 개최 확정 [공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003594573</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003594573</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 오윤주 기자] 그룹 아이콘(iKON)이 일본 2개 도시서 총 6회에 걸쳐 콘서트를 개최한다. YG엔터테인먼트에 따르면 아이콘은 오는 7월 2일과 3일 효고현 코베 월드기념홀에서 일본 투어 'iKON]]></content:encoded>
+            <title><![CDATA[안소희, 햇볕 쬐며 광합성 중…부러질듯한 여리여리 몸매 [스타★샷] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000610362</link>
+            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000610362</guid>
+            <pubDate>Fri, 15 Apr 2022 05:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[원더걸스 출신 배우 안소희가 근황을 공개했다. 안소희는 15일 자신의 인스타그램에 “햇살 좋았던 날”이라는 글과 함께 사진을 게재했다. 공개된 사진에는 민소매 상의를 입은 채 따뜻한 햇볕을 즐기고 있는 안소희의 모습]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아이콘, 완벽하게 돌아왔다..2년반 만에 日 투어 확정 [공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004592973</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004592973</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박소영 기자] 그룹 아이콘(iKON)이 일본 2개 도시서 총 6회에 걸쳐 콘서트를 개최한다. YG엔터테인먼트에 따르면 아이콘은 오는 7월 2일과 3일 효고현 코베 월드기념홀에서 일본 투어 'iKON JAP]]></content:encoded>
+            <title><![CDATA[박명수, 정준하·신동엽에 으름장…"형이라 부르지 않으면, 가만두지 않을 것" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000353467</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000353467</guid>
+            <pubDate>Fri, 15 Apr 2022 05:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=정서희 기자] 코미디언 박명수가 정준하, 신동엽에게 '형'이라고 부를 것을 거듭 경고했다. 15일 방송된 KBS 쿨FM '박명수의 라디오쇼'에는 빅데이터 전문가 전민기가 출연해 '나이'에 대해 이야기를]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[메이크스타, 정동원 신보 '손편지' 공구 프로젝트 오픈 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003044772</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003044772</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 엔터테인먼트 플랫폼 메이크스타와 정동원이 '우주총동원(팬덤명)'을 위한 특급 선물을 준비했다. 메이크스타는 지난 14일부터 정동원의 새 미니앨범 '손편지' 공동구매 프로젝트를 시작했다. '손편지'는 지난해 1]]></content:encoded>
+            <title><![CDATA[김희정, 활력 더하는 현실엄마役 완벽 동화 (‘으라차차 내 인생’) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000973719</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000973719</guid>
+            <pubDate>Fri, 15 Apr 2022 05:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[KBS1 저녁 일일드라마 '으라차차 내 인생' 김희정이 ‘현실 엄마’ 캐릭터에 완벽하게 동화됐다. 김희정은 14일 ‘으라차차 내 인생’(극본 구지원/연출 성준해)에서 금호석(김태평 역)과 환상의 티키타카를 선보였다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[미쓰에이 출신 민, 신곡 '힛 미 업' MV 티저 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=408&amp;aid=0000151833</link>
-            <guid>https://entertain.naver.com/now/read?oid=408&amp;aid=0000151833</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[아티스트 민(이민영)이 따스한 봄과 어울리는 노래로 돌아온다. 민은 15일 자정 공식 SNS 채널을 통해 신곡 'Hit Me Up' 뮤직비디오 티저를 공개, 컴백 열기를 끌어올렸다. 공개된 영상 속에는 비가 내리는]]></content:encoded>
+            <title><![CDATA[“무엇이든 조심할 나이” NRG 노유민, 아킬레스건 긴급 수술 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003686697</link>
+            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003686697</guid>
+            <pubDate>Fri, 15 Apr 2022 05:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[노유민 인스타그램 캡처. 그룹 NRG 출신 노유민이 긴급 수술 소식을 전했다. 15일 노유민은 인스타그램에 “아킬레스건 파열로 오후에 급하게 수술한다”며 “오전에 수술 들어가기 전 계속 검사 중이다”는 글과 함께 사]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아이콘, 2년 6개월 만 日 투어 개최 확정 [공식입장] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001435221</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001435221</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 아이콘(iKON)이 일본 투어를 개최한다. 소속사 YG엔터테인먼트에 따르면 아이콘은 오는 7월 2일과 3일 효고현 코베 월드기념홀에서 일본 투어 'iKON JAPAN TOUR 202]]></content:encoded>
+            <title><![CDATA['나의 해방일지' 이민기X김지원X이엘, JTALK 인터뷰 공개 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000295845</link>
+            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000295845</guid>
+            <pubDate>Fri, 15 Apr 2022 05:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[이민기, 김지원, 이엘이 '나의 해방일지'에 관한 진솔한 이야기를 전했다. JTBC 토일드라마 '나의 해방일지'(연출 김석윤, 극본 박해영, 제작 스튜디오피닉스, 초록뱀미디어, SLL)가 첫 회부터 공감 넘치는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['조이♥︎' 크러쉬, 싸이 신곡 피처링 첫 주자 "누군가의 사랑" [공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004592963</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004592963</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박소영 기자] 싸이(PSY)의 정규 9집이 첫 수록곡 공개를 시작으로 순차적으로 베일을 벗는다. 피네이션(P NATION)의 수장 싸이(PSY)는 15일 낮 12시 공식 SNS를 통해 오는 29일 발매하는]]></content:encoded>
+            <title><![CDATA[장영란 "♥한창과는 '에로'부부…남편이 늘 날 탐해" ('애로부부') (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003854227</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003854227</guid>
+            <pubDate>Fri, 15 Apr 2022 05:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 이우주 기자] '애로부부' 새 MC가 된 장영란이 남편 한창과의 뜨거운 사랑을 고백했다. 장영란은 채널A '다시 뜨거워지고 싶은 애로부부(이하 애로부부)'의 새 고정 MC가 됐다. 장영란이 새로운 M]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["키스해줘"..세븐틴 품으로 들어와 완전한 하나가 된 'Darl+ing'(종합)[한낮의 신곡] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004592958</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004592958</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=이승훈 기자] 그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 한층 더 성숙해진 사랑을 노래했다. 세븐틴은 오늘(15일) 오후 1시 각종 온]]></content:encoded>
+            <title><![CDATA[빅뱅, 음원차트 '올킬' 이어 음악방송 1위 접수 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000353466</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000353466</guid>
+            <pubDate>Fri, 15 Apr 2022 05:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자]그룹 빅뱅이 11일째 주요 음원 차트를 휩쓸고 있는 가운데 별다른 활동 없이도 국내 음악방송 트로피를 품에 안았다. 빅뱅은 지난 14일 방송된 Mnet '엠카운트다운'에서 디지털 싱글 '봄]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[비로소 '하나' 된 세븐틴, 첫 영어 싱글로 담아낸 진심 'Darl+ing' [쥬크박스] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001435220</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001435220</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이슬 기자) 그룹 세븐틴(SEVENTEEN)이 첫 영어 싱글 'Darl+ing'으로 따뜻한 진심을 표현했다. 15일 세븐틴은 5월 정규 4집 발매를 앞두고 첫 디지털 영어 싱글 'Darl+ing'(달링]]></content:encoded>
+            <title><![CDATA[박군 "결혼 전 반동거 경험 있어…팬티까지 공유했다"('우리사이') (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000353465</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000353465</guid>
+            <pubDate>Fri, 15 Apr 2022 05:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=강효진 기자] 가수 박군이 과거 반동거를 할 만큼 가까웠던 사이에 대해 털어놓는다. 오는 18일 오후 11시에 방송될 JTBC '아주 사적인 관계 – 우리 사이'(이하 우리 사이) 4회에서는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“캐럿들과 하나되고파” 세븐틴, 글로벌 사랑꾼 변신 ‘Darl+ing’[들어보고서] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000562933</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000562933</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 글로벌 사랑꾼으로 변신했다. 세븐틴은 4월 15일 오후 1시(한국시간) 국내외]]></content:encoded>
+            <title><![CDATA[‘♥도경완’ 장윤정, 19일 컴백…더블 타이틀곡 [공식] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000973718</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000973718</guid>
+            <pubDate>Fri, 15 Apr 2022 05:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[가수 장윤정이 오는 19일 오후 6시 새 미니앨범 ‘estrena’를 발매한다. ‘돼지토끼’ 이후 약 1년 6개월 만에 선보이는 새 앨범이다. ‘estrena’는 고마움에 대한 답례의 선물을 뜻하는 단어로, 이번 앨]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["달링, 너에게로 falling"…세븐틴, 'Darl+ing' 전격발표 [MD신곡] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003594570</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003594570</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 이승록 기자] 그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 첫 영어 싱글을 발표했다. 'Darl+ing(달링)'이다. 세븐틴은 15]]></content:encoded>
+            <title><![CDATA['유지태와 함께 독립영화 보기', 16번째 상영회 진행…'역할들' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006031550</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006031550</guid>
+            <pubDate>Fri, 15 Apr 2022 05:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 유지태가 진행하는 '유지태와 함께 독립영화 보기' 16번째 상영회가 열린다. 소속사 BH엔터테인먼트에 따르면 측은 "오는 25일 오후 7시 독립영화전용관 인디스페이스에서 '유지태]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴, 전 세계 캐럿에게 전하는 메시지 'Darl+ing' [12시★카페] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003044771</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003044771</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[세븐틴이 전 세계 팬들에게 메시지를 전했다. 15일 오후 1시 각종 음원 사이트를 통해 세븐틴의 신곡 'Darl+ing'이 공개됐다. 'Darl+ing'은 세븐틴의 첫 영어 싱글이자 오는 5월 공개될 정규 4집의 선]]></content:encoded>
+            <title><![CDATA[쏘스뮤직, 여자친구 팬클럽 개인정보 유출로 과태료 처분 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004950242</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004950242</guid>
+            <pubDate>Fri, 15 Apr 2022 05:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 여자친구 소속사 쏘스뮤직이 팬클럽 환불 과정에서 개인정보를 유출해 과태료 처분을 받았다. 개인정보보호위원회(이하 개인정보위)는 지난 13일 정부서울청사에서 전체회의를 열고 개인정보보호 법규 위반 6개 사업자에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[유나이트, 데뷔 앨범 프리뷰 공개…다채로운 수록곡 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000861004</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000861004</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[YOUNITE(유나이트)가 데뷔 앨범 'YOUNI-BIRTH(유니버스)'의 앨범 프리뷰를 공개했다. 15일 0시, 브랜뉴뮤직은 YOUNITE의 공식 SNS 채널들을 통해 YOUNITE 1ST EP 'YOUNI-BIR]]></content:encoded>
+            <title><![CDATA[[종합] 박효신, 소속사와 3번째 법적분쟁…"3년간 정산 못받아" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003854226</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003854226</guid>
+            <pubDate>Fri, 15 Apr 2022 05:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 백지은 기자] 가수 박효신이 또 소속사와의 법적분쟁에 휘말렸다. 박효신은 최근 팬 커뮤니티 소울트리 게시판에 "전부터 조금씩 미뤄져 오던 정산금은 콘서트 정산금까지 더해져 받을 수 없었고 지난 3년간은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[크러쉬, 싸이 정규 9집 수록곡 ‘Happier’ 피처링 “3년 전 작업한 곡” (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000562929</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000562929</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 싸이(PSY)의 정규 9집이 첫 수록곡 공개를 시작으로 순차적으로 베일을 벗는다. 피네이션(P NATION)의 수장 싸이(PSY)는 4월 15일 공식 SNS를 통해 오는 29일 발매하는 정규]]></content:encoded>
+            <title><![CDATA[[포토] 윤현준·김은지, 달라진 '유명가수전2' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004950239</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004950239</guid>
+            <pubDate>Fri, 15 Apr 2022 05:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[JTBC 예능프로그램 '유명가수전-배틀어게인'의 제작발표회가 15일 오후 열렸다. 이날 제작발표회에는 출연진 유희열, 규현, 김기태, 김소연, 윤성, 박현규, 이주혁, 신유미와 윤현준CP, 김은지PD 등이 참석했다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[싸이, 정규 9집 수록곡 'Happier' 공개..크러쉬와 3년 전 작업 결과물 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003550979</link>
-            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003550979</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드POP=천윤혜기자]싸이(PSY)가 정규 9집의 첫 수록곡을 공개했다. 오늘(15일) 낮 12시 피네이션(P NATION)의 수장 싸이(PSY)는 공식 SNS를 통해 오는 29일 발매하는 정규 9집 '싸다9'의]]></content:encoded>
+            <title><![CDATA[[포토] 유희열·규현, 유쾌한 진행 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004950237</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004950237</guid>
+            <pubDate>Fri, 15 Apr 2022 05:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[JTBC 예능프로그램 '유명가수전-배틀어게인'의 제작발표회가 15일 오후 열렸다. 이날 제작발표회에는 출연진 유희열, 규현, 김기태, 김소연, 윤성, 박현규, 이주혁, 신유미와 윤현준CP, 김은지PD 등이 참석했다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴, 美 ‘MTV Fresh Out Live’ 출연 ‘Darl+ing’ 퍼포먼스 최초공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000562921</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000562921</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 미국 유명 방송 ‘MTV Fresh Out Live’에 출연한다. 세븐틴은 4월]]></content:encoded>
+            <title><![CDATA[[포토] 규현, 숨은 실력자들과 함께 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004950235</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004950235</guid>
+            <pubDate>Fri, 15 Apr 2022 05:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[JTBC 예능프로그램 '유명가수전-배틀어게인'의 제작발표회가 15일 오후 열렸다. 이날 제작발표회에는 출연진 유희열, 규현, 김기태, 김소연, 윤성, 박현규, 이주혁, 신유미와 윤현준CP, 김은지PD 등이 참석했다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴, 첫 영어 싱글 ‘Darl+ing’ 나왔다 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000806328</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000806328</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 첫 영어 싱글 ‘Darl+ing’으로 따뜻한 감성을 전한다. 세븐틴은 오늘(15일) 오후]]></content:encoded>
+            <title><![CDATA[[포토] '유명가수전2', 노래에 빠져들어 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004950234</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004950234</guid>
+            <pubDate>Fri, 15 Apr 2022 05:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[JTBC 예능프로그램 '유명가수전-배틀어게인'의 제작발표회가 15일 오후 열렸다. 이날 제작발표회에는 출연진 유희열, 규현, 김기태, 김소연, 윤성, 박현규, 이주혁, 신유미와 윤현준CP, 김은지PD 등이 참석했다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[트롯퀸이 돌아온다, 송가인 21일 컴백 [공식입장] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=408&amp;aid=0000151827</link>
-            <guid>https://entertain.naver.com/now/read?oid=408&amp;aid=0000151827</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[트로트퀸이 돌아온다. 가수 송가인이 새 앨범을 발표와 함께 전국투어 콘서트 카운트다운에 돌입했다. 15일 송가인의 소속사 포켓돌스튜디오는 "송가인이 오는 21일 정규 3집 앨범 '연가'(戀歌)를 발표하고 팬들을 만난]]></content:encoded>
+            <title><![CDATA[김용건, 39세 연하 연인과 낳은 아들 입적 절차 중…“양육비 지원 모색” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000610359</link>
+            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000610359</guid>
+            <pubDate>Fri, 15 Apr 2022 05:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김용건이 39세 연하의 연인 A씨가 출산한 아들의 호적 입적을 진행 중이다. 15일 헤럴드경제는 김용건이 자신의 호적에 A씨와 낳은 아들의 이름을 올리는 절차를 밟는 한편 양육에 필요한 생활비 지원 등을 모색하]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[송가인이 온다, 21일 ‘연가’ 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000806327</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000806327</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 트로트 여왕이 돌아온다. 가수 송가인이 새 앨범 발표와 함께 전국투어 콘서트 카운트다운에 돌입했다. 15일 송가인의 소속사 포켓돌스튜디오는 “송가인이 오는 21일 정규 3집 앨범 ‘연가’(戀歌)를 발표]]></content:encoded>
+            <title><![CDATA[[포토] 김기태, 손하트로 인사 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004950233</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004950233</guid>
+            <pubDate>Fri, 15 Apr 2022 05:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[JTBC 예능프로그램 '유명가수전-배틀어게인'의 제작발표회가 15일 오후 열렸다. 이날 제작발표회에는 출연진 유희열, 규현, 김기태, 김소연, 윤성, 박현규, 이주혁, 신유미와 윤현준CP, 김은지PD 등이 참석했다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[트와이스 리얼리티, 100만뷰 돌파 인기 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000806326</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000806326</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 트와이스가 새로운 자체 콘텐츠 영상 ‘“TIME TO TWICE” Soulmate’(“타임 투 트와이스” 소울메이트)를 선보이고 국내외 시청자들에게 재미를 전하고 있다. 2020년 4월부터 트와이스 공]]></content:encoded>
+            <title><![CDATA[[포토] 신유미, 주먹 쥐고 파이팅 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004950232</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004950232</guid>
+            <pubDate>Fri, 15 Apr 2022 05:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[JTBC 예능프로그램 '유명가수전-배틀어게인'의 제작발표회가 15일 오후 열렸다. 이날 제작발표회에는 출연진 유희열, 규현, 김기태, 김소연, 윤성, 박현규, 이주혁, 신유미와 윤현준CP, 김은지PD 등이 참석했다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[58회 백상] K드라마 전성기 이끈 명배우들…치열한 TV 조연상 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000295841</link>
-            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000295841</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계를 사로잡은 연기파 배우들이 58회 백상예술대상에 모두 모인다. 지난 한 해는 K-드라마의 전성기였다. 한국, 그리고 아시아를 넘어 전 세계 시청자의 마음을 사로잡으며, K-드라마를 하나의 장르로 자리 잡]]></content:encoded>
+            <title><![CDATA[이해리, 서울 집·별장까지 다 가졌다더니 몸매도 완벽…팬들 '노출 단속' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003854225</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003854225</guid>
+            <pubDate>Fri, 15 Apr 2022 05:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 이우주 기자] '성공한 여자' 이해리의 파격 패션에 팬들이 또 한 번 단속에 나섰다. 이해리는 15일 자신의 SNS를 통해 여러 장의 사진을 게재했다. 공개된 사진 속에는 JTBC '유명가수전' 촬영]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[SC초점] "빅뱅 호감도 상승"…YG, 자신감일까 자기연민일까 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003854215</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003854215</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 백지은 기자] 자신감일까, 자기연민일까. YG엔터테인먼트(이하 YG)가 자사 대표 아티스트인 빅뱅의 인기비결을 분석했다. 빅뱅은 4년 여만에 발표한 디지털 싱글 '봄여름가을겨울(Still Life)'로]]></content:encoded>
+            <title><![CDATA[[포토] 유희열, 손하트로 인사 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004950231</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004950231</guid>
+            <pubDate>Fri, 15 Apr 2022 05:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[JTBC 예능프로그램 '유명가수전-배틀어게인'의 제작발표회가 15일 오후 열렸다. 이날 제작발표회에는 출연진 유희열, 규현, 김기태, 김소연, 윤성, 박현규, 이주혁, 신유미와 윤현준CP, 김은지PD 등이 참석했다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[윤계상, ♥뷰티CEO 아내 매장에 뜬 '사랑꾼'…꽃에 둘러싸여 외조 중 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003854214</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003854214</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선닷컴 이우주 기자] 배우 윤계상이 반려견과 함께 아내의 매장 앞에 나타났다. 윤계상은 15일 자신의 SNS를 통해 "축하!!"라는 글과 함께 한 장의 사진을 게재했다. 공개된 사진 속에는 꽃들 사이에 둘러]]></content:encoded>
+            <title><![CDATA[[피플] 연출 데뷔작 칸 입성까지…이정재 전성시대 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000295843</link>
+            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000295843</guid>
+            <pubDate>Fri, 15 Apr 2022 05:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[반박불가 이정재 전성시대다. 배우 이정재가 인생 최고의 전성기를 누리고 있다. 지난해 넷플릭스 오리지널 '오징어 게임'으로 국내 뿐 아니라 미국에서도 글로벌 화력을 뽐내더니 이번엔 첫 연출 데뷔작 '헌트'로 다음]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['돌싱2' 김은영, 30살 과거 결혼사진 공개…"이제 결혼한다면 동거부터" [종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003854212</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003854212</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선닷컴 이지현 기자] '돌싱글즈2' 출연자 김은영이 서른 살 결혼 당시의 생각을 밝혔다. 15일 김은영은 자신의 인스타그램 스토리에 "서른 살, 그 시절 결혼에 대한 생각"이라는 글과 함께 사진을 게재했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[송가인, 21일 컴백…정규 3집 ‘연가’ 발매 [공식] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000973711</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000973711</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[가수 송가인이 오는 21일 정규 3집 앨범 '연가'(戀歌)를 발표한다. ‘연가’(戀歌)는 사랑하는 사람을 그리워해서 부르는 노래로, 송가인이 1년 4개월 만에 발매하는 세 번째 정규 앨범이다. 공개된 티저에는 우아한]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘국민가수’ 하동연, 새 프로필 공개…2022년 행보 기대감 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000610357</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000610357</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[가수 하동연이 댄디한 카리스마를 발산했다. 소속사 n.CH엔터테인먼트는 15일 공식 SNS를 통해 하동연의 새 프로필 이미지를 공개했다. 공개된 사진 속 하동연은 블랙과 아이보리 계열의 스타일링으로 시크함과 부드러움]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박주현 “첫 로맨스 연기, 채종협 덕분에 편해” (너가속) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000973710</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000973710</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[KBS2 새 수목드라마 ‘너에게 가는 속도 493km’ 박주현, 채종협이 로맨스 연기 호흡에 자신감을 나타냈다. '너에게 가는 속도 493km'(연출 조웅/극본 허성혜/이하 '너가속')에서 박주현은 운동이 인생의 전]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[노유민 긴급 수술…"아킬레스건 파열, 뭐든 조심할 나이" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006031397</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006031397</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 김학진 기자 = 노유민이 아킬레스건 파열로 인한 심각한 몸 상태를 알렸다. 노유민은 15일 자신의 인스타그램을 통해 "아킬레스건 파열로 오후에 급하게 수술에 들어 갑니다"라는 글과 함께 사진을 올렸다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[핑클·젝키·코요태 한자리에, ‘90년대 추억’ ON (서울체크인) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000973709</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000973709</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[이효리, 은지원, 신지, 김종민, 딘딘이 90년대 스키장 공개방송 모임을 결성한다. 15일 공개되는 티빙 오리지널 ‘서울체크인’(연출 김태호 김훈범 강령미 작가 최혜정) 2회에서는 한때 스키장을 흥으로 물들였던 90]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["만난지 7번 만에 "… 정준호, ♥이하정과 혼전임신 소문? (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000804184</link>
-            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000804184</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[배우 정준호가 이하정과 혼전임신 소문에 휘말렸던 일화를 공개한다. 오는 16일 방송되는 ‘골프왕’ 2회에서는 ‘연예계 대표 절친’ 정준호와 신현준이 첫 게스트로 등장한다. 두 사람은 오랜만에 함께 예능 나들이에 나선]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유하나, 결혼 전 스폰서 루머에 “가족 모두 나서 강경대응” 분노 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003686685</link>
-            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003686685</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[야구선수 이용규의 아내이자 배우 유하나(36)가 스폰서 루머 법적대응을 예고했다. 유하나는 15일 자신의 인스타그램을 통해 "사실이라서 가만히 있었던 게 아니다. 말 같지도 않은 이야기에 반응하는 걸 재미있어 할 것]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[경수진, 작업실 매물 투어…부동산 꿀팁 대방출(나혼자산다) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000973708</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000973708</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[‘나 혼자 산다’ 경수진이 건물을 보고 마음을 뺏겼다. 15일 오후 11시 10분에 방송되는 MBC ‘나 혼자 산다’(연출 허항 김지우 강지희)에서는 경수진의 작업실 매물 투어가 공개될 예정이다. ‘취미 부자’ 경수]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["트로트 여왕의 귀환"...송가인, 21일 정규 3집 '연가' 발매 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004950204</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004950204</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[트로트 여왕이 돌아온다. 가수 송가인이 새 앨범을 발표와 함께 전국투어 콘서트 카운트다운에 돌입했다. 15일 송가인의 소속사 포켓돌스튜디오는 “송가인이 오는 21일 정규 3집 앨범 '연가'(戀歌)를 발표하고 팬들을]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김신영과 건강한 다이어트…KBS 새 예능 '빼고파' 30일 첫방송 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013116312</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013116312</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 강애란 기자 = KBS는 개그우먼 김신영과 여자 연예인들이 함께하는 다이어트 예능 '빼고파'를 오는 30일 오후 10시 30분 첫 방송 한다고 15일 밝혔다. '빼고파'는 13년 전 38㎏을 감량한]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘미달이’ 김성은 “결혼까지 생각했던 남자, 알고보니 동성애자” (금쪽상담소) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000973707</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000973707</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[15일 방송 예정인 채널A ‘오은영의 금쪽상담소’(약칭 금쪽상담소)에서는 배우 김성은과 봅슬레이 국가대표 선수 강한의 고민이 공개된다. 제작지에 따르면 첫 번째 고객의 정체는 대한민국 시트콤계 한 획을 그었던, 순풍]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 드림, 버퍼링 없는 글로벌 질주…유나이티드 앨범차트 1위 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004950201</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004950201</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 엔시티 드림(NCT DREAM)이 정규 2집 ‘글리치 모드(Glitch Mode)’로 글로벌 질주를 이어가고 있다. 지난 3월 28일 발매된 엔시티 드림 정규 2집 ‘글리치 모드’는 전 세계 음반 판매량 집계]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[TEN 포토] 신하균-천우희 '앵커의 두 주인공 입니다' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000541440</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000541440</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=조준원 기자]배우 신하균과 천우희가 15일 오후 서울 목동SBS에서 열리는 SBS 파워FM '최화정의 파워타임' 라디오에 참석하고 있다. 조준원 기자 wizard333@tenasia.co.kr]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한영, ♥박군 말고 누구랑 데이트하길래 "나 왜 방황해" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003854209</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003854209</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선닷컴 이우주 기자] 가수 한영이 여유로운 데이트를 즐겼다. 한영은 15일 자신의 SNS를 통해 "날 좋은 날~ 예쁜 사람이 찍어서 예쁜 글과 함께 보내심~~♥ 고마워요~ 날씨가 다했네 넘 예쁜 햇살 나 왜]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[TEN 포토] 신하균-천우희 '두 주연의 커플 샷' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000541439</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000541439</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=조준원 기자]배우 신하균과 천우희가 15일 오후 서울 목동SBS에서 열리는 SBS 파워FM '최화정의 파워타임' 라디오에 참석하고 있다. 조준원 기자 wizard333@tenasia.co.kr]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[싸이, 크러쉬와 함께 "행복한 사람" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004950198</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004950198</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[가수 싸이(PSY)의 정규 9집이 첫 수록곡 공개를 시작으로 순차적으로 베일을 벗는다. 싸이는 15일 낮 12시 공식 SNS를 통해 오는 29일 발매하는 정규 9집 '싸다9'의 8번 트랙 '해피어(Happier)(f]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[TEN 포토] 신하균-천우희 '영화 '앵커' 사랑해요~' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000541438</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000541438</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=조준원 기자]배우 신하균과 천우희가 15일 오후 서울 목동SBS에서 열리는 SBS 파워FM '최화정의 파워타임' 라디오에 참석하고 있다. 조준원 기자 wizard333@tenasia.co.kr]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[TEN 포토] 천우희 '신하균 선배 에스코트 하며' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000541437</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000541437</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=조준원 기자]배우 신하균과 천우희가 15일 오후 서울 목동SBS에서 열리는 SBS 파워FM '최화정의 파워타임' 라디오에 참석하고 있다. 조준원 기자 wizard333@tenasia.co.kr]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[TEN 포토] 신하균 '라디오에서 만나요' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000541436</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000541436</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=조준원 기자]배우 신하균이 15일 오후 서울 목동SBS에서 열리는 SBS 파워FM '최화정의 파워타임' 라디오에 참석하고 있다. 조준원 기자 wizard333@tenasia.co.kr]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[TEN 포토] 신하균 '깔끔한 블랙&화이트 패션' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000541435</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000541435</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=조준원 기자]배우 신하균이 15일 오후 서울 목동SBS에서 열리는 SBS 파워FM '최화정의 파워타임' 라디오에 참석하고 있다. 조준원 기자 wizard333@tenasia.co.kr]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[TEN 포토] 신하균 '일상이 화보' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000541433</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000541433</guid>
-            <pubDate>Fri, 15 Apr 2022 04:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=조준원 기자]배우 신하균이 15일 오후 서울 목동SBS에서 열리는 SBS 파워FM '최화정의 파워타임' 라디오에 참석하고 있다. 조준원 기자 wizard333@tenasia.co.kr]]></content:encoded>
+            <title><![CDATA[“엠버 허드가 조니 뎁 먼저 때린 적도 있다”, 새로운 주장 나와[해외이슈](종합) (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003594586</link>
+            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003594586</guid>
+            <pubDate>Fri, 15 Apr 2022 05:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 조니 뎁(58)과 엠버 허드(53)가 명예훼손 여부를 놓고 소송을 벌이는 가운데 둘이 서로간에 학대를 했다는 주장이 나왔다. 심리 치료사 로렐 애피스 앤더슨은 14일(현지시]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['왕좌의 게임' 조지프 갯, 미성년자 성범죄 혐의로 체포 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
@@ -1607,13 +1600,6 @@
             <guid>https://entertain.naver.com/now/read?oid=008&amp;aid=0004733144</guid>
             <pubDate>Thu, 14 Apr 2022 09:17:46 GMT</pubDate>
             <content:encoded><![CDATA[영화 '대부'로 잘 알려진 배우 겸 감독 알 파치노(81)가 53세 연하의 여성과 열애 중이다. 13일(현지 시간) 해외 매체 '페이지식스(Page Six)'는 "알 파치노가 53세 연하의 TV프로듀서 누어 알팔라(]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[욕조에 머리 부딪혀 사망한 아들 생일 축하..존 트라볼타 "너무 그리워"[Oh!llywood] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004592312</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004592312</guid>
-            <pubDate>Thu, 14 Apr 2022 09:17:46 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자] 배우 존 트라볼타(68)가 고인이 된 아들의 서른 번째 생일을 축하했다. 존 트라볼타는 14일(한국시간) 자신의 인스타그램에 13여년 전 사망한 아들의 생일을 맞아 감동적인 추모글을 올려 보]]></content:encoded>
         </item>
     </channel>
 </rss>
