@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-04-15T16:20:10.660Z</updated>
+    <updated>2022-04-15T17:20:27.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['슈퍼밴드2' 임윤성, '우월한 하루' OST 'Nuclear' 18일 발매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003044925</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003044925"/>
+        <updated>2022-04-15T17:20:09.902Z</updated>
+        <content type="html"><![CDATA[JTBC '슈퍼밴드2' 출신 밴드 시네마(CNEMA) 임윤성이 데뷔 후 첫 OST 가창에 나선다. 장르물 명가 OCN 드라마 '우월한 하루'(극본 이지현/연출 조남형) 측은 오는 18일 정오 두번째 OST인 임윤성(]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송가인, 21일 정규 3집 '연가' 발매…"정통 트로트"]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011126306</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003854310"/>
         <updated>2022-04-15T09:16:54.488Z</updated>
         <content type="html"><![CDATA[[스포츠조선 정빛 기자] 그룹 크래비티가 데뷔 2주년을 맞이해 팬들을 위한 깜짝 선물을 선사했다. 크래비티는 지난 14일 공식 SNS를 통해 정규앨범 파트 2 '리버티: 인 아워 코스모스(LIBERTY: IN OUR]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘일분일초’ 데뷔 릴리안 “다음 곡이 기대되는 가수 되고파”[일문일답]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000806410</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000806410"/>
-        <updated>2022-04-15T09:16:54.493Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 발라드 신예 릴리안(Lylian)이 신곡 ‘일분일초’로 가요계에 정식 데뷔했다. 릴리안은 지난 14일 오후 6시 주요 음원사이트 및 SNS 채널을 통해 디지털 싱글 앨범 ‘일분일초’를 발매하고 본격적인]]></content>
     </entry>
 </feed>
