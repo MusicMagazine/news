@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-04-16T20:15:59.773Z</updated>
+    <updated>2022-04-16T21:15:12.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[히어로가 이렇게 달콤합니다♥ 임영웅 '오래된 노래' 700만뷰]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003045113</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003045113"/>
+        <updated>2022-04-16T21:14:57.070Z</updated>
+        <content type="html"><![CDATA[임영웅의 달달한 '오래된 노래'가 700만 뷰를 달성했다. 임영웅이 2020년 8월 7일 공식 유튜브 채널에 공개한 '오래된노래' 무대 영상은 4월 16일 700만 뷰를 넘어섰다. 영상에는 TV조선 '사랑의 콜센타']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[규현, '싱어게인2 우승자' 김기태와 스페셜 듀엣 '하모니' [유명가수전]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003045108</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011126653"/>
         <updated>2022-04-16T06:18:28.642Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = JTBC 댄스 서바이벌 프로그램 '쇼다운'(연출 이창우)에서 댄스 크루 '이모션크루'가 첫 탈락 팀이 됐다. 지난 15일 방송된 '쇼다운'의 2라운드 'K-콘텐츠 퍼포먼스 대결'에서 패]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송가인, 21일 3집 '연가' 발표…타이틀곡 '비 내리는 금강산']]></title>
-        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013117727</id>
-        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013117727"/>
-        <updated>2022-04-16T05:14:27.930Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이태수 기자 = 트로트 가수 송가인이 오는 21일 정규 3집 '연가'(戀歌)를 발표한다고 소속사 포켓돌스튜디오가 16일 밝혔다. 이번 음반은 지난 2020년 12월 발표한 2집 '몽'(夢) 이후 송]]></content>
     </entry>
 </feed>
