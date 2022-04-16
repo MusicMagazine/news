@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-04-16T15:16:53.331Z</updated>
+    <updated>2022-04-16T16:21:14.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마마무 휘인, 美 타임스퀘어 대형 전광판 장식]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003045105</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003045105"/>
+        <updated>2022-04-16T16:20:59.450Z</updated>
+        <content type="html"><![CDATA[그룹 마마무(MAMAMOO)의 멤버 휘인이 생일을 맞아 뉴욕 타임스퀘어 대형 전광판에 등장했다. 휘인은 지난 15일 글로벌 케이팝 팬덤 플랫폼 '후즈팬(Whosfan)'에 따르면 '타임스퀘어에서 생일 축하받을 아이돌]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['트로트 여왕' 송가인, 3집 '연가(戀歌)' 트랙리스트 공개]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000143898</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013117723"/>
         <updated>2022-04-16T05:14:27.930Z</updated>
         <content type="html"><![CDATA[미국 음악 프로그램서 첫 무대 꾸며 (서울=연합뉴스) 이태수 기자 = 그룹 세븐틴의 첫 영어 디지털 싱글 '달링'(Darl+ing)이 전 세계 34개국 아이튠즈 차트에서 1위를 차지했다고 소속사 플레디스엔터테인먼트가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세븐틴, 美 'MTV 프레시 아웃 라이브' 출연…'달링' 퍼포먼스 최초 공개]]></title>
-        <id>https://entertain.naver.com/now/read?oid=408&amp;aid=0000151924</id>
-        <link href="https://entertain.naver.com/now/read?oid=408&amp;aid=0000151924"/>
-        <updated>2022-04-16T05:14:27.930Z</updated>
-        <content type="html"><![CDATA[그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 ‘MTV Fresh Out Live’에 출연해 따뜻한 감성을 전했다. 세븐틴은 15일(현지 시간) 방송]]></content>
     </entry>
 </feed>
