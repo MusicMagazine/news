@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 23:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 01:01:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[송가인, 정규 3집 '연가' 발매와 함께 전국투어 콘서트 카운트다운]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=203060</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=203060</guid>
+            <pubDate>Sat, 16 Apr 2022 00:59:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=203060">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220416072747_fade0dacba9859e6da9b5011f854489e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=203060">송가인, 정규 3집 '연가' 발매와 함께 전국투어 콘서트 카운트다운</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220416072747_fade0dacba9859e6da9b5011f854489e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세븐틴, 미국 유명 방송 'MTV Fresh Out Live' 무대 선다]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=202854</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202462">빌리 츠키, 끝나지 않는 표정 연기 열풍</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220413085424_a3f4750afda1ae87faf25998f9010627_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싸이, 5년 만에 정규 9집으로 돌아온다]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=202445</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202445</guid>
-            <pubDate>Wed, 13 Apr 2022 03:00:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202445">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220413083443_2488b690aefc3a65e508848c6d2d8e38.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202445">싸이, 5년 만에 정규 9집으로 돌아온다</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220413083443_2488b690aefc3a65e508848c6d2d8e38.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
