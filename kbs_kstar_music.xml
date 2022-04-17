@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 22:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 23:16:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단, 'PERMISSION TO DANCE ON STAGE' 라스베이거스 4회 공연 성료]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=203324</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=203324</guid>
+            <pubDate>Sun, 17 Apr 2022 23:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=203324">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220418074552_077dd1e860fc56fb0f69888a1619cd63.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=203324">방탄소년단, 'PERMISSION TO DANCE ON STAGE' 라스베이거스 4회 공연 성료 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220418074552_077dd1e860fc56fb0f69888a1619cd63.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[송가인 '연가' 타이틀곡은 정통 트로트 "비 내리는 금강산"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=203216</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202495">당당하고 솔직한 제시의 매력 속으로 'ZOOM'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220413101344_269c29ebf28f707ed94bdbddd5fe7af6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나19 시국 뚫는 희망의 콘서트...'live SUM 2022' 왓챠홀에서 개최]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=202473</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202473</guid>
-            <pubDate>Wed, 13 Apr 2022 03:00:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202473">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220413085914_69f8ab92730d1b3f6ff7819b3648237d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202473">코로나19 시국 뚫는 희망의 콘서트...'live SUM 2022' 왓챠홀에서 개최</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220413085914_69f8ab92730d1b3f6ff7819b3648237d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
