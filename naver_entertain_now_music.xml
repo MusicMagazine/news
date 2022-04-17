@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-04-17T19:13:13.804Z</updated>
+    <updated>2022-04-17T20:16:02.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[거리두기 해제에 트로트 호재…장윤정·송가인·임영웅·정동원, 컴백]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011128138</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011128138"/>
+        <updated>2022-04-17T20:15:46.826Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 앨범 발매·콘서트 잇따라…5월 행사 시즌도 유리 [서울=뉴시스]이재훈 기자 = 장윤정·송가인·임영웅·정동원 등 트로트 스타들이 잇따라 새앨범을 낸다. 특히 코로나19 관련 거리두기 해제 시점과 맞물려]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["대만 클럽 들썩" 구준엽, 디제잉 공연으로 첫 공식석상..처제 서포트까지[종합]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003045262</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013119233"/>
         <updated>2022-04-17T09:15:20.728Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 그룹 방탄소년단(BTS)이 미국 라스베이거스에서 연 공연에 온·오프라인을 합쳐 62만명 이상의 팬이 참여한 것으로 집계됐다. 사진은 보랏빛으로 물든 라스베이거스 시내. 2022.4.17 [빅히트뮤직]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단, 62만 아미 만난 美 라스베이거스 공연→6월 컴백 예고[종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003045216</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003045216"/>
-        <updated>2022-04-17T09:15:20.733Z</updated>
-        <content type="html"><![CDATA[그룹 방탄소년단이 미국 라스베이거스(Las Vegas)를 보랏빛으로 물들이며 대면 콘서트를 마친 가운데, 오는 6월 새 앨범으로 컴백을 예고했다. 방탄소년단은 16일(이하 현지시간) 라스베이거스 얼리전트 스타디움(A]]></content>
     </entry>
 </feed>
