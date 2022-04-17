@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-04-17T10:16:19.362Z</updated>
+    <updated>2022-04-17T11:14:57.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단, 美라스베이거스 공연이 남긴 것]]></title>
+        <id>https://entertain.v.daum.net/v/20220417200206405</id>
+        <link href="https://entertain.v.daum.net/v/20220417200206405"/>
+        <updated>2022-04-17T11:14:21.456Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 그룹 방탄소년단이 미국 라스베이거스(Las Vegas)를 보랏빛으로 물들이며 콘서트 ‘BTS PERMISSION TO DANCE ON STAGE - LAS VEGAS’를 성황리에 마무리했다. 방탄소년단은 16일(이하 현지시간) 라스베이거스 얼리전트 스타디움(Allegiant Stadium)에서 개최된 ‘BTS PERMISSION TO D]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['No.1 신화' 임영웅 '우리들의 블루스' MV 최신인기동영상 1위]]></title>
         <id>https://entertain.v.daum.net/v/20220417190642956</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220417170502909"/>
         <updated>2022-04-17T08:18:51.634Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 서지현 기자] 그룹 방탄소년단이 미국 라스베이거스(Las Vegas)를 보랏빛으로 물들였다. 방탄소년단은 16일(현지시간) 라스베이거스 얼리전트 스타디움(Allegiant Stadium)에서 개최된 '비티에스 퍼미션 투 댄스 온 스테이지-라스베가스'(BTS PERMISSION TO DANCE ON STAGE - LAS VEGAS) 4회차 공]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단, 6월 10일 컴백..1년 7개월만의 신보]]></title>
-        <id>https://entertain.v.daum.net/v/20220417170235842</id>
-        <link href="https://entertain.v.daum.net/v/20220417170235842"/>
-        <updated>2022-04-17T08:18:51.634Z</updated>
-        <content type="html"><![CDATA[[OSEN=김나연 기자] 방탄소년단(BTS)이 라스베이거스 콘서트를 성공적으로 마친 후 새 앨범을 들고 컴백한다. 17일 소속사 빅히트 뮤직은 공식 팬 커뮤니티 위버스를 통해 방탄소년단의 신보 발매 일정을 공지했다. 빅히트 뮤직 측은 "2022년 6월 10일, 방탄소년단이 새 앨범으로 여러분을 찾아온다. 새 앨범에 대한 자세한 내용은 추후 공지를 통해]]></content>
     </entry>
 </feed>
