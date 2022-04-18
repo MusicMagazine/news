@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-04-18T20:17:36.906Z</updated>
+    <updated>2022-04-18T21:15:41.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“불면증에 몽유병까지 시달려”, 53살 제니퍼 애니스톤 안타까운 고백[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003595570</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003595570"/>
+        <updated>2022-04-18T21:15:40.753Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 배우 제니퍼 애니스톤(53)이 오랜시간 불면증과 몽유병에 시달렸다고 고백했다. 그는 최근 연예매체 ‘피플’과 인터뷰에서 “불면증부터 몽유병, 수면 불안까지 수십년 동안 고생했다”면]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['신과 함께' 김용화 감독, 美 할리우드 에이전시 UTA와 계약]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013121770</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011128602"/>
         <updated>2022-04-18T01:10:43.627Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]김주희 인턴 기자 = 가수 뱀뱀이 태국 팬미팅을 성료했다. 뱀뱀은 지난 15~17일까지 3일간 태국 방콕의 'BITEC Hall 98-99'에서 팬미팅 '뱀뱀 더 세컨드 프리미엄 라이브(BamBam T]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이터널스' 배리 키오건, 아일랜드서 만취 상태로 체포 '충격' [엑's 해외이슈]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001436076</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001436076"/>
-        <updated>2022-04-18T01:10:43.628Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 마블 시네마틱 유니버스(MCU) 영화 '이터널스'에서 드루이그 역을 맡았던 배우 배리 케오간(배리 키오건)이 아일랜드에서 만취 상태로 체포되었다. 16일(현지시간) 데일리메일 등 다수 매]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-04-18T20:17:36.900Z</updated>
+    <updated>2022-04-18T21:15:41.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["혼자서도 빛나" 아이들 미연→미쓰에이 민, 솔로 대전]]></title>
+        <id>https://entertain.v.daum.net/v/20220419060005608</id>
+        <link href="https://entertain.v.daum.net/v/20220419060005608"/>
+        <updated>2022-04-18T21:15:06.980Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 정하은기자]가요계에 치열한 ‘솔로 대전’이 예고됐다. 데뷔 후 처음으로 솔로 앨범 발매를 기다리는 아이돌 멤버부터 오랜만에 활동 기지개를 켜는 멤버까지. 솔로 아이돌의 연이은 컴백이 올 봄을 풍성하게 채운다. 앞서 샤이니 온유, 엑소 수호부터 AOA 출신 초아까지 이어진 솔로 데뷔에 이어 (여자)아이들 미연, 미쓰에이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단 오늘 라스베이거스서 귀국 '금의환향']]></title>
         <id>https://entertain.v.daum.net/v/20220419010301834</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220418184202124"/>
         <updated>2022-04-18T10:17:24.433Z</updated>
         <content type="html"><![CDATA[아티스트 ELO(엘로)가 새 정규 [Reality Check]로 컴백한다. ELO는 18일 오후 6시 국내외 각종 온라인 음원 사이트를 통해 새 정규 [Reality Check (리얼리티 체크)]를 발매하고, 타이틀곡 'Can't Be Happy (캔 비 해피)' 뮤직비디오 본편을 공개한다. 정규 [Reality Check]는 ELO만의 감각적인 보이스로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세븐틴, K팝 최초 애플과 협업..리믹스 세션 美 스토어 확대]]></title>
-        <id>https://entertain.v.daum.net/v/20220418181620596</id>
-        <link href="https://entertain.v.daum.net/v/20220418181620596"/>
-        <updated>2022-04-18T09:16:33.470Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 Apple(애플)과의 협업으로 뜨거운 글로벌 인기를 증명했다. 세븐틴이 4월 15일 디지털 싱글 ‘Darl+ing’(달링) 발매를 기념해 Apple과 협업한 Today at Apple ‘뮤직 연구소: 세븐틴 리믹스’가 미]]></content>
     </entry>
 </feed>
