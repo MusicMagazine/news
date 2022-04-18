@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 04:23:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 05:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[옥주현과 솔라, 뮤지컬 '마타하리'  5월에 돌아온다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=203401</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=203401</guid>
+            <pubDate>Mon, 18 Apr 2022 05:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=203401">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220418104408_40fd091ce4bddf0d3482f425003f8b81.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=203401">옥주현과 솔라, 뮤지컬 '마타하리'  5월에 돌아온다</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220418104408_40fd091ce4bddf0d3482f425003f8b81.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인피니트 남우현, 뮤지컬 '모래시계' 캐스팅]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=203065</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=201206">배우 박용우, 프레인TPC와 의리의 재계약</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220405092146_1add6c4c8a5cdc0174f23705df93ea96.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['엘'로 돌아온김준수, 뮤지컬 ‘데스노트’ 프리뷰]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=200874</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=200874</guid>
-            <pubDate>Sun, 03 Apr 2022 07:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=200874">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220403110142_b8fbf53703d003c124d09b7ad08d3581.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=200874">'엘'로 돌아온김준수, 뮤지컬 ‘데스노트’ 프리뷰 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220403110142_b8fbf53703d003c124d09b7ad08d3581.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
