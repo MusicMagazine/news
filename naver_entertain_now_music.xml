@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-04-18T17:21:44.206Z</updated>
+    <updated>2022-04-18T18:20:06.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美상원의원, 라스베이거스 콘서트 마친 BTS에 감사 인사]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011130538</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011130538"/>
+        <updated>2022-04-18T18:19:51.244Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 김지은 기자 = 그룹 방탄소년단(BTS)이 미국 네바다주 라스베이거스 콘서트를 성황리에 마친 가운데 지역 상원의원이 BTS와 팬들에게 감사의 인사를 전했다. 캐서린 코테즈 매스토 상원의원(민주당)은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이가령, '결사곡3'의 키포인트 등극]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003045687</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004595070"/>
         <updated>2022-04-18T10:17:44.475Z</updated>
         <content type="html"><![CDATA[[OSEN=지민경 기자] 아티스트 빅나티(BIG Naughty, 서동현)가 올해 첫 신곡으로 컴백한다. 글로벌 힙합 레이블 하이어뮤직(H1GHR MUSIC)은 18일 오후 7시 빅나티의 새 싱글 '정이라고 하자 (F]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[샤이니 종현 재단 '빛이나', 산불 피해 이재민 돕는다]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011130359</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011130359"/>
-        <updated>2022-04-18T10:17:44.475Z</updated>
-        <content type="html"><![CDATA[기사내용 요약 스타 애장품 온라인 경매…심리상담 센터 건립도 준비 [서울=뉴시스]이재훈 기자 = 그룹 '샤이니' 멤버 종현(1990~2017)을 기리는 비영리 재단법인 '빛이나'가 스타 애장품 경매를 통해 강원 산불]]></content>
     </entry>
 </feed>
