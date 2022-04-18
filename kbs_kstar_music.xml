@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 22:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 23:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[르세라핌, 미니앨범 ‘FEARLESS’ 데뷔 트레일러 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=203606</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=203606</guid>
+            <pubDate>Mon, 18 Apr 2022 23:11:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=203606">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220419080156_0813a639a541e4e88d4f9d768979b02f.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=203606">르세라핌, 미니앨범 ‘FEARLESS’ 데뷔 트레일러 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220419080156_0813a639a541e4e88d4f9d768979b02f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[5월의 황치열, 'By My Side' 컴백]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=203371</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202516">러블리즈 이수정, 데뷔 8년 만에 첫 단독 콘서트!</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220413143903_262d10f12e970434f21089850514be75.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 로제 'On The Ground' 스포티파이 2억]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=202506</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202506</guid>
-            <pubDate>Wed, 13 Apr 2022 03:00:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202506">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220413105751_f9b64560ad40516205a3404ce374f5ab.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202506">블랙핑크 로제 'On The Ground' 스포티파이 2억 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220413105751_f9b64560ad40516205a3404ce374f5ab.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
