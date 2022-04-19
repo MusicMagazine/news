@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-04-19T12:31:39.394Z</updated>
+    <updated>2022-04-19T13:36:37.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤지성, 27일 미니 3집 컴백→5월 14·15일 콘서트]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003046015</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003046015"/>
+        <updated>2022-04-19T13:36:22.329Z</updated>
+        <content type="html"><![CDATA[가수 윤지성이 3년 만에 첫 단독 콘서트로 팬들과 만난다. 19일 오후 인터파크티켓을 통해 윤지성이 오는 5월 개최하는 첫 번째 단독 콘서트 '미로 : Prologue'의 팬클럽 선예매가 오픈됐다. 이날 오후 8시부]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DKZ, 데뷔 후 첫 음방 1위 후보…장꾸美 폭발한 ‘사랑 도둑’]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000861951</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011132907"/>
         <updated>2022-04-19T09:16:16.028Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]김주희 인턴 기자 = 가수 싸이(PSY)가 크러쉬, 성시경, 헤이즈에 이어 타블로와 협업한 음원을 공개한다. 싸이는 19일 공식 SNS를 통해 정규 9집 '싸다9'의 11번 트랙 '포에버(forEVER]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프리미엄 파크 페스티벌 ‘원더랜드’(WONDERLAND FESTIVAL 2022) 타임테이블 공개]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000807116</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000807116"/>
-        <updated>2022-04-19T09:16:16.029Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 올 봄 관객들에게 새 경험을 선사할 프리미엄 파크 페스티벌, WONDERLAND FESTIVAL 2022가 여정의 시작을 발표했다. 오는 30일과 5월 1일, 양일에 걸쳐 올림픽공원 88잔디마당에서 열]]></content>
     </entry>
 </feed>
