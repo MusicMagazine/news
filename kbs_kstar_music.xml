@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 06:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 07:28:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[쇼케이스] 긴 공백 깨고 '서울'로 돌아온 볼빨간사춘기 (종합)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=204011</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204011</guid>
+            <pubDate>Wed, 20 Apr 2022 07:26:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204011">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220420161207_42d9d568d556b66284cb7f04ed5865b6.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204011">[쇼케이스] 긴 공백 깨고 '서울'로 돌아온 볼빨간사춘기 (종합)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220420161207_42d9d568d556b66284cb7f04ed5865b6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스타뷰] 밴드 너드커넥션 "우리가 우리일 때 나오는 능력이 승부수"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=203937</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202778">르세라핌, ‘FEARLESS’로 5월 2일 데뷔 - 프로모션 타임 테이블 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220415073954_e978ebdba86cf680b17c9bb980e33771.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 태용과 원슈타인의 만남...'러브 띠어리']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=202739</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202739</guid>
-            <pubDate>Thu, 14 Apr 2022 03:02:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202739">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220414102103_efef0309389595b67c84197fad787371.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202739">NCT 태용과 원슈타인의 만남...'러브 띠어리'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220414102103_efef0309389595b67c84197fad787371.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
