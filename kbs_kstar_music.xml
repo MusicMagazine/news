@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 01:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 03:43:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샤이니의 풋풋한 시절..."누난 너무 예뻐~" 리마스터 뮤직비디오 공개!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=203911</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=203911</guid>
+            <pubDate>Wed, 20 Apr 2022 03:41:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=203911">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220420110258_7f984a3c69f2b622b0bc85b4519a59e8_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=203911">샤이니의 풋풋한 시절..."누난 너무 예뻐~" 리마스터 뮤직비디오 공개!</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220420110258_7f984a3c69f2b622b0bc85b4519a59e8_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비비지 미국 진출 발표...이례적인 규모로 데뷔 준비]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=203896</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202691">제페토에서 만나는 버추얼 팝스타 유나...다채로운 보이스 선보인다</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220414092001_b9a623a366d882e2283fbea605314aaf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['사랑을 했다~ 우리가 만나~' 아이콘, 5월 3일 컴백 확정!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=202679</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202679</guid>
-            <pubDate>Thu, 14 Apr 2022 01:06:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202679">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220414091247_31ae2711ab830bca006f2dfe9685575e.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202679">'사랑을 했다~ 우리가 만나~' 아이콘, 5월 3일 컴백 확정!</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220414091247_31ae2711ab830bca006f2dfe9685575e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
