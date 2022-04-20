@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2022-04-20T18:18:33.098Z</updated>
+    <updated>2022-04-20T19:15:05.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[갓세븐 마크 “한국은 나에게 집 같은 곳”[화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000974796</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000974796"/>
+        <updated>2022-04-20T19:14:56.896Z</updated>
+        <content type="html"><![CDATA[‘하퍼스 바자’에서 갓세븐 마크와 함께한 화보를 공개했다. 이번 화보에서 마크는 편안하고 자연스러운 무드로 그동안 보여준 적 없는 ‘남친 화보’를 선보였다. 촬영이 끝나고 이어진 인터뷰에서 마크는 갓세븐 완전체 활동]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아스트로 문빈 “나는 정의구현파…가끔 영화 속 빌런 이해돼”[화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000974795</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000354511"/>
         <updated>2022-04-20T13:34:56.314Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=장진리 기자] 그룹 체리블렛의 유주가 '혼밥 천재'의 면모를 자랑했다. 체리블렛 유주는 20일 U+아이돌라이브에서 공개된 '아돌라스쿨3: 홍보온아이돌'에 출연해 "혼자 고깃집에서 고기도 구워먹고 뷔페에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘25년 지기’ 정준호X신현준, 찐친 케미 ‘화끈한 디스전’ 예고(라디오스타)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000974789</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000974789"/>
-        <updated>2022-04-20T13:34:56.315Z</updated>
-        <content type="html"><![CDATA[25년 지기 절친 정준호와 신현준이 ‘라디오스타’에 출연해 찐친 케미스트리를 보여줄 예정이다. 20일 오후 10시 30분 방송 예정인 고품격 토크쇼 MBC ‘라디오스타’(기획 강영선 / 연출 이윤화) 측은 ‘아카데미]]></content>
     </entry>
 </feed>
