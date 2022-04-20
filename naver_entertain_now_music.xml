@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-04-20T17:26:52.042Z</updated>
+    <updated>2022-04-20T18:18:33.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['포크 대가' 장필순, '그린마더스클럽' OST 참여]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011135986</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011135986"/>
+        <updated>2022-04-20T18:18:15.776Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이혜민 인턴 기자 = '포크 대가'인 가수 장필순이 JTBC 드라마 '그린마더스클럽'의 몰입도를 높여준다. 21일 제작사 스튜디오 마음C에 따르면, 이날 오후 12시 음원사이트에 '그린마더스클럽' 두]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[볼빨간사춘기, 봄과 함께 돌아오다 …“마음속 겨울이 길었다”]]></title>
         <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001980535</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003046400"/>
         <updated>2022-04-20T11:14:57.096Z</updated>
         <content type="html"><![CDATA[보이그룹 DKZ(디케이지)가 귀여운 퍼포먼스로 무한 매력을 뽐냈다. DKZ(경윤, 세현, 민규, 재찬, 종형, 기석)는 20일 오후 6시 방송된 MBC M '쇼! 챔피언'에 출연했다. 이날 DKZ의 멤버 경윤, 재찬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우지윤 질문' 묵살…볼빨간사춘기, 추억도 지웠다 [종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001437454</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001437454"/>
-        <updated>2022-04-20T11:14:57.097Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 가수 볼빨간사춘기 안지영의 추억에서 우지윤은 사라졌다. 20일 오후 볼빨간사춘기 새 미니 앨범 '서울(Seoul)' 발매 기념 온라인 미디어 쇼케이스가 생중계로 진행됐다. 지난해 10월]]></content>
     </entry>
 </feed>
