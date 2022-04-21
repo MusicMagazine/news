@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-04-21T19:11:15.825Z</updated>
+    <updated>2022-04-21T20:18:17.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['유스케' 13주년 특집…화사→양희은 라인업]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011138816</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011138816"/>
+        <updated>2022-04-21T20:18:01.838Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]김현숙 인턴 기자 = KBS 2TV '유희열의 스케치북'이 13주년을 맞이해 초호화 출연 라인업으로 무장했다. 최근 '13번째 생일잔치'라는 콘셉트로 진행한 녹화가 '유스케 소리를 찾아서' 특집이다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JUST B(저스트비), 직진하는 K팝 언리미터 'RE=LOAD'[엠카]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003046792</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000807732"/>
         <updated>2022-04-21T10:19:08.031Z</updated>
         <content type="html"><![CDATA[[스포츠경향] “나인아이만의 색깔과 매력을 확실하게 보여드리겠습니다” (서원) 지난달 30일 그룹 나인아이(NINE.i, 이든·위니·제원·민준·반·베리·서원·태훈·주형·지호)가 가요계에 출사표를 던졌다. 대학 진학]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싸이·수지 협업 '셀럽' 뮤비, 3년 만에 공개]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011138561</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011138561"/>
-        <updated>2022-04-21T10:19:08.036Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 가수 겸 작곡가 싸이(PSY)와 그룹 '미쓰에이' 출신 배우 겸 가수 수지의 컬래버레이션이 3년 만에 베일을 벗는다. 21일 싸이 소속사 피네이션에 따르면, 싸이는 오는 29일 발매하는]]></content>
     </entry>
 </feed>
