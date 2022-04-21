@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 01:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 03:26:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤지성 컴백 예열...스포일러 이미지 공개!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=204080</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204080</guid>
+            <pubDate>Thu, 21 Apr 2022 03:24:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204080">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220421092819_4fb8ae96cab28d988d640bcb89087028.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204080">윤지성 컴백 예열...스포일러 이미지 공개!</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220421092819_4fb8ae96cab28d988d640bcb89087028.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[쇼케이스] 긴 공백 깨고 '서울'로 돌아온 볼빨간사춘기 (종합)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=204011</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202834">위아이, 첫 단독 콘서트 예열...KBS 아레나에서 개최!</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220415085508_83caf2cfadd5649e5489d85dd09c5bcb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[르세라핌, ‘FEARLESS’로 5월 2일 데뷔 - 프로모션 타임 테이블 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=202778</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202778</guid>
-            <pubDate>Thu, 14 Apr 2022 23:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202778">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220415073954_e978ebdba86cf680b17c9bb980e33771.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202778">르세라핌, ‘FEARLESS’로 5월 2일 데뷔 - 프로모션 타임 테이블 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220415073954_e978ebdba86cf680b17c9bb980e33771.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
