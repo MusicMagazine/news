@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-04-22T13:35:44.427Z</updated>
+    <updated>2022-04-22T14:15:54.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["오랜 꿈 같은 공연" 김성규, 2년 만에 채워진 함성]]></title>
+        <id>https://entertain.v.daum.net/v/20220422225008548</id>
+        <link href="https://entertain.v.daum.net/v/20220422225008548"/>
+        <updated>2022-04-22T14:15:18.172Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 가수 김성규가 신곡 발매와 동시에 대면 콘서트를 열며, 팬들과 소통했다. 22일 오후 김성규는 서울시 송파구 잠실실내체육관에서 '2022 KIM SUNGKYU CONCERT - LV'(2022 김성규 콘서트 - LV, 이하 'LV')를 개최했다. 이번 콘서트의 이름인 'LV'는 'Light &amp; Vocie'라는 의미로, 김성규는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['유명가수전' 김기태, 김현정 놀란 편곡 실력]]></title>
         <id>https://entertain.v.daum.net/v/20220422223207385</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220422175400292"/>
         <updated>2022-04-22T09:17:47.751Z</updated>
         <content type="html"><![CDATA[걸그룹 핫이슈가 데뷔 1년 만에 해체한다. 22일 소속사 S2엔터테인먼트는 공식 팬카페를 통해 “당사와 소속 아티스트 핫이슈(HOT ISSUE)는 오랜 논의 끝에 팀을 해체하기로 결정했다”고 발표했다. 이어 “당사가 목표한 방향과 발전을 위해 아티스트와 오랜 시간 노력해왔으나 부득불 이와 같은 결정을 내리게 됐다”라며 “멤버들의 이후 행보를 지켜봐 주시고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['에이프릴 출신' 윤채경, DSP 떠난다 "새로운 도전 위해"]]></title>
-        <id>https://entertain.v.daum.net/v/20220422174311962</id>
-        <link href="https://entertain.v.daum.net/v/20220422174311962"/>
-        <updated>2022-04-22T09:17:47.752Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 그룹 에이프릴 출신 윤채경이 소속사와의 계약을 마무리 한다. 소속사 DSP미디어는 22일 공식 홈페이지를 통해 "새로운 도전을 해보고 싶다는 윤채경의 의견을 존중해, 20일을 끝으로 전속 계약을 마무리하기로 했다"고 밝혔다. 이어 "오랜 시간 동안 다양한 분야에서 활약한 윤채경과 윤채경을 아껴주신 팬 여러분께 감사의 마음을 전]]></content>
     </entry>
 </feed>
