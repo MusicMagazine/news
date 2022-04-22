@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-04-22T14:15:54.085Z</updated>
+    <updated>2022-04-22T15:15:49.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김성규, 2년 만에 팬들과의 사랑 느낀 "꿈꾸던 순간"]]></title>
+        <id>https://entertain.v.daum.net/v/20220422233912935</id>
+        <link href="https://entertain.v.daum.net/v/20220422233912935"/>
+        <updated>2022-04-22T15:15:12.813Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 김민지기자]가수 김성규가 2년이라는 긴 시간을 기다려준 팬들과 가까이 소통하는 시간을 가졌다. 김성규가 22일 오후 6시 네 번째 미니앨범 ‘SAVIOR(세이비어)’를 발매함과 동시에 ‘2022 김성규 콘서트 - LV(2022 KIM SUNGKYU CONCERT - LV)’(이하 ‘LV’)를 개최한다. 김성규의 단독]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["오랜 꿈 같은 공연" 김성규, 2년 만에 채워진 함성]]></title>
         <id>https://entertain.v.daum.net/v/20220422225008548</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220422180956709"/>
         <updated>2022-04-22T09:17:47.751Z</updated>
         <content type="html"><![CDATA[[서울경제] “지플랫이라고 하는 게 편하세요? 아니면 환희 씨라고 하는 게 편하신가요?”(지핑) “상관없긴 하지만 지플랫으로 불러주시면 좋습니다.”(지플랫) 세상에는 ‘최환희’라는 이름 석자로 더 많이 알려져 있지만 ‘지플랫’이라는 랩네임으로 불리고 싶다. 대중의 다양한 평가 속에서도 가장 가슴 깊이 남는 건 음악에 대한 것이다. 어떤 활동을 하든 결국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['홍승성 걸그룹' 핫이슈, 데뷔 1년 만에 해체]]></title>
-        <id>https://entertain.v.daum.net/v/20220422175400292</id>
-        <link href="https://entertain.v.daum.net/v/20220422175400292"/>
-        <updated>2022-04-22T09:17:47.751Z</updated>
-        <content type="html"><![CDATA[걸그룹 핫이슈가 데뷔 1년 만에 해체한다. 22일 소속사 S2엔터테인먼트는 공식 팬카페를 통해 “당사와 소속 아티스트 핫이슈(HOT ISSUE)는 오랜 논의 끝에 팀을 해체하기로 결정했다”고 발표했다. 이어 “당사가 목표한 방향과 발전을 위해 아티스트와 오랜 시간 노력해왔으나 부득불 이와 같은 결정을 내리게 됐다”라며 “멤버들의 이후 행보를 지켜봐 주시고]]></content>
     </entry>
 </feed>
