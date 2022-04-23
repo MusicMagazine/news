@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-04-23T09:15:23.027Z</updated>
+    <updated>2022-04-23T10:17:02.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에이티즈, 월드투어 유럽 공연 시작]]></title>
+        <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000145338</id>
+        <link href="https://entertain.naver.com/now/read?oid=629&amp;aid=0000145338"/>
+        <updated>2022-04-23T10:16:46.401Z</updated>
+        <content type="html"><![CDATA["잊지 못할 추억을 만들어드리겠다" 에이티즈(ATEEZ)가 2년 만에 유럽 팬들을 직접 만난다. 에이티즈는 23일(현지시각)부터 24일까지 이틀간 스페인 마드리드에서 2022 월드투어 'THE FELLOWSHIP :]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이칠린, 컬러풀 에너지 ‘브리지 오브 드림’]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000808118</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003047225"/>
         <updated>2022-04-23T07:16:32.683Z</updated>
         <content type="html"><![CDATA[가수 싸이(PSY)가 정규 9집 발매에 앞서 'Celeb' 메이킹 영상으로 기대감을 더해가고 있다. 싸이(PSY)는 23일 오후 12시 공식 SNS 등을 통해 정규 9집 '싸다9'의 3번 트랙 'Celeb(셀럽)'의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팔레트]몽블랑x엑소 수호 ‘글래시어 컬렉션’…스타일부터 메시지까지]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011141267</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011141267"/>
-        <updated>2022-04-23T07:16:32.684Z</updated>
-        <content type="html"><![CDATA[기사내용 요약 남성 매거진 ‘에스콰이어’ 5월호 화보 수호, 신상 시계·가방 등 완벽 소화 [서울=뉴시스]김정환 기자 = 독일 럭셔리 비즈니스 라이프스타일 브랜드 ‘몽블랑’(Montblanc)이 한류 그룹 ‘엑소‘(]]></content>
     </entry>
 </feed>
