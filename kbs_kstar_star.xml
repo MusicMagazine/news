@@ -1,99 +1,351 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>MBC 연예 ─ 아이돌</title>
+        <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 15:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 16:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA['쇼! 음악중심' 드림캐쳐, 포인트 안무 '다지켜춤'으로 몰입도 UP]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/345143</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/345143</guid>
-            <pubDate>Sat, 23 Apr 2022 13:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/345143">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/23/bd23f236-d0ec-4e96-9fa1-c406ae1226d1.jpg" alt="'쇼! 음악중심' 드림캐쳐, 포인트 안무 '다지켜춤'으로 몰입도 UP">        <div class="text-box">            <p class="summary">'쇼! 음악중심' 드림캐쳐, 포인트 안무 '다지켜춤'으로 몰입도 UP</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/23/bd23f236-d0ec-4e96-9fa1-c406ae1226d1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[화보] 박주현, 봄을 담은 비주얼]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=204507</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204507</guid>
+            <pubDate>Sat, 23 Apr 2022 16:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204507">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220423071503_336206f710b228016313d36a0930a0c3.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204507">[화보] 박주현, 봄을 담은 비주얼</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220423071503_336206f710b228016313d36a0930a0c3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[트와이스, 日 도쿄돔서 단독 콘서트 개최 ‘전석 초고속 매진’]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/345140</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/345140</guid>
-            <pubDate>Sat, 23 Apr 2022 13:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/345140">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/23/6d8c32eb-921a-4e01-9660-9708fc1e1e31.jpg" alt="트와이스, 日 도쿄돔서 단독 콘서트 개최 ‘전석 초고속 매진’">        <div class="text-box">            <p class="summary">트와이스, 日 도쿄돔서 단독 콘서트 개최 ‘전석 초고속 매진’</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/23/6d8c32eb-921a-4e01-9660-9708fc1e1e31.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[차은우 목소리와 함께 감상하는 전시...'마이클 크레이그 마틴전']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=204324</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204324</guid>
+            <pubDate>Sat, 23 Apr 2022 16:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204324">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220422095434_245656cb3ac51f203edd213956b5fc5e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204324">차은우 목소리와 함께 감상하는 전시...'마이클 크레이그 마틴전'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220422095434_245656cb3ac51f203edd213956b5fc5e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[투모로우바이투게더, 입가에 번진 립스틱 자국 '눈길']]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/345129</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/345129</guid>
-            <pubDate>Sat, 23 Apr 2022 13:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/345129">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/23/7b2ab6b2-830b-4890-8398-f135dd6e6612.jpg" alt="투모로우바이투게더, 입가에 번진 립스틱 자국 '눈길'">        <div class="text-box">            <p class="summary">투모로우바이투게더, 입가에 번진 립스틱 자국 '눈길'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/23/7b2ab6b2-830b-4890-8398-f135dd6e6612.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[몬스타엑스 출신 원호의 새로운 도전...뮤지컬 '이퀄' 출연]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=204319</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204319</guid>
+            <pubDate>Sat, 23 Apr 2022 16:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204319">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220422095109_e0505332915810d5aa08826e6f283837.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204319">몬스타엑스 출신 원호의 새로운 도전...뮤지컬 '이퀄' 출연</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220422095109_e0505332915810d5aa08826e6f283837.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["9억 6천만 원" 방탄소년단 뷔 인스타 브랜드 가치 '세계 최고']]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/345128</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/345128</guid>
-            <pubDate>Sat, 23 Apr 2022 13:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/345128">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/23/fdbb7905-8277-4b00-b65b-0bd156540aa1.jpg" alt="" 9억="" 6천만="" 원"="" 방탄소년단="" 뷔="" 인스타="" 브랜드="" 가치="" '세계="" 최고'"="">        <div class="text-box">            <p class="summary">"9억 6천만 원" 방탄소년단 뷔 인스타 브랜드 가치 '세계 최고'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/23/fdbb7905-8277-4b00-b65b-0bd156540aa1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[다재다능 이석훈, 웹예능까지 접수! "처음 유튜브를 하게 됐다"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=204307</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204307</guid>
+            <pubDate>Sat, 23 Apr 2022 16:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204307">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220422094616_226175686e0f633f0cc419880699cfd8.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204307">다재다능 이석훈, 웹예능까지 접수! "처음 유튜브를 하게 됐다"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220422094616_226175686e0f633f0cc419880699cfd8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[강다니엘, 오는 29일 신곡 ‘Ready to ride’ 발매 확정]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/345127</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/345127</guid>
-            <pubDate>Sat, 23 Apr 2022 13:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/345127">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/23/4be70ac0-3f23-4a43-9be4-d56aeffa2639.jpg" alt="강다니엘, 오는 29일 신곡 ‘Ready to ride’ 발매 확정">        <div class="text-box">            <p class="summary">강다니엘, 오는 29일 신곡 ‘Ready to ride’ 발매 확정</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/23/4be70ac0-3f23-4a43-9be4-d56aeffa2639.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[MZ세대, 백상예술대상으로 모여라~ '틱톡 인기상' 투표 시작!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=204291</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204291</guid>
+            <pubDate>Sat, 23 Apr 2022 16:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204291">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220422093801_fd99a503a82c8e45e97459dcbaa80b3c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204291">MZ세대, 백상예술대상으로 모여라~ '틱톡 인기상' 투표 시작!</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220422093801_fd99a503a82c8e45e97459dcbaa80b3c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 ‘FAKE LOVE’ 뮤비 11억뷰 돌파 [공식]]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/345106</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/345106</guid>
-            <pubDate>Sat, 23 Apr 2022 13:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/345106">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/23/e9f974ac-cf7f-43a0-a736-a86cd6bb7516.jpg" alt="방탄소년단 ‘FAKE LOVE’ 뮤비 11억뷰 돌파 [공식]">        <div class="text-box">            <p class="summary">방탄소년단 ‘FAKE LOVE’ 뮤비 11억뷰 돌파 [공식]</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/23/e9f974ac-cf7f-43a0-a736-a86cd6bb7516.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[화보] 아카데미 수상작 출연한 배우 박유림 "살면서 운명 같은 시기"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=204171</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204171</guid>
+            <pubDate>Sat, 23 Apr 2022 16:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204171">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220421164213_351ad1fe7fb99c1db6da06f83098bdda.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204171">[화보] 아카데미 수상작 출연한 배우 박유림 "살면서 운명 같은 시기"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220421164213_351ad1fe7fb99c1db6da06f83098bdda.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[권은비 “윤하에게 면목없어…꼭 사과하고파” (스포왕 고영배)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/345099</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/345099</guid>
-            <pubDate>Sat, 23 Apr 2022 13:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/345099">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/23/c7990dbb-00c4-4b95-a47d-e7d32e81f4f3.jpg" alt="권은비 “윤하에게 면목없어…꼭 사과하고파” (스포왕 고영배)">        <div class="text-box">            <p class="summary">권은비 “윤하에게 면목없어…꼭 사과하고파” (스포왕 고영배)</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/23/c7990dbb-00c4-4b95-a47d-e7d32e81f4f3.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[화보] 우주소녀 보나, "보나는 눈부시다"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=204160</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204160</guid>
+            <pubDate>Sat, 23 Apr 2022 16:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204160">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220421140708_68ceeb31cae718abfb18438ccb9c3b64.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204160">[화보] 우주소녀 보나, "보나는 눈부시다"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220421140708_68ceeb31cae718abfb18438ccb9c3b64.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[레드벨벳 아이린, 여친짤의 정석…러블리 매력 뿜뿜 [인스타]]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/345074</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/345074</guid>
-            <pubDate>Sat, 23 Apr 2022 13:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/345074">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/22/07bc5d26-7831-4ed8-ac3f-0179ddbe14b7.jpg" alt="레드벨벳 아이린, 여친짤의 정석…러블리 매력 뿜뿜 [인스타] ">        <div class="text-box">            <p class="summary">레드벨벳 아이린, 여친짤의 정석…러블리 매력 뿜뿜 [인스타] </p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/22/07bc5d26-7831-4ed8-ac3f-0179ddbe14b7.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[환경돌 드림캐쳐, 학교 울타리 숲 조성 프로젝트 5천만 원 기부!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=204089</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204089</guid>
+            <pubDate>Sat, 23 Apr 2022 16:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204089">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220421094732_2c6ad6f46c414fef5402852d96f86ba5.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204089">환경돌 드림캐쳐, 학교 울타리 숲 조성 프로젝트 5천만 원 기부!</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220421094732_2c6ad6f46c414fef5402852d96f86ba5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[에이프릴 출신 윤채경, DSP미디어와 전속계약 종료 [전문]]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/345072</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/345072</guid>
-            <pubDate>Sat, 23 Apr 2022 13:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/345072">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/22/8578de64-dfcf-497e-8224-8a95c029bb1e.jpg" alt="에이프릴 출신 윤채경, DSP미디어와 전속계약 종료 [전문]">        <div class="text-box">            <p class="summary">에이프릴 출신 윤채경, DSP미디어와 전속계약 종료 [전문]</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/22/8578de64-dfcf-497e-8224-8a95c029bb1e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[화보] 세븐틴 에스쿱스-정한-민규, 봄날을 닮은 청춘들]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=203657</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=203657</guid>
+            <pubDate>Sat, 23 Apr 2022 16:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=203657">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220419095048_c2d1b05a1d22ef8b2e9077a076b66c97.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=203657">[화보] 세븐틴 에스쿱스-정한-민규, 봄날을 닮은 청춘들</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220419095048_c2d1b05a1d22ef8b2e9077a076b66c97.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아이칠린, 첫 미니 앨범 '브리지 오브 드림스' 개인 이미지 공개]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/345061</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/345061</guid>
-            <pubDate>Sat, 23 Apr 2022 13:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/345061">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/22/971fa15a-4ea2-47de-af27-6765d1734f59.jpg" alt="아이칠린, 첫 미니 앨범 '브리지 오브 드림스' 개인 이미지 공개">        <div class="text-box">            <p class="summary">아이칠린, 첫 미니 앨범 '브리지 오브 드림스' 개인 이미지 공개</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/22/971fa15a-4ea2-47de-af27-6765d1734f59.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[두 번째 네이버 오디오 무비 '리버스' 캐스팅 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=203597</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=203597</guid>
+            <pubDate>Sat, 23 Apr 2022 16:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=203597">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220419075721_1cb166bb39dd85c2d59966446501d455.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=203597">두 번째 네이버 오디오 무비 '리버스' 캐스팅 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220419075721_1cb166bb39dd85c2d59966446501d455.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[핫이슈, 데뷔 1년 만 해체…"오랜 논의 끝" [전문]]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/345057</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/345057</guid>
-            <pubDate>Sat, 23 Apr 2022 13:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/345057">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/22/12ae3622-b632-4ff6-8c4c-d6ccaa242c22.jpg" alt="핫이슈, 데뷔 1년 만 해체…" 오랜="" 논의="" 끝"="" [전문]"="">        <div class="text-box">            <p class="summary">핫이슈, 데뷔 1년 만 해체…"오랜 논의 끝" [전문]</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/22/12ae3622-b632-4ff6-8c4c-d6ccaa242c22.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[빅토르 위고 '웃는 남자', 박효신-박은태-박강현의 뮤지컬로]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=203502</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=203502</guid>
+            <pubDate>Sat, 23 Apr 2022 16:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=203502">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220418172846_7cd2ab71888c3a5f198ab083cd778773.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=203502">빅토르 위고 '웃는 남자', 박효신-박은태-박강현의 뮤지컬로 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220418172846_7cd2ab71888c3a5f198ab083cd778773.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[옥주현과 솔라, 뮤지컬 '마타하리'  5월에 돌아온다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=203401</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=203401</guid>
+            <pubDate>Sat, 23 Apr 2022 16:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=203401">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220418104408_40fd091ce4bddf0d3482f425003f8b81.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=203401">옥주현과 솔라, 뮤지컬 '마타하리'  5월에 돌아온다</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220418104408_40fd091ce4bddf0d3482f425003f8b81.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인피니트 남우현, 뮤지컬 '모래시계' 캐스팅]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=203065</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=203065</guid>
+            <pubDate>Sat, 23 Apr 2022 16:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=203065">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220416073557_79a6b33bebf0dec2e8c9b4dae34b1e66_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=203065">인피니트 남우현, 뮤지컬 '모래시계' 캐스팅</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220416073557_79a6b33bebf0dec2e8c9b4dae34b1e66_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[히가시노 게이고 초기걸작 '조인계획' 윌라 오디오북 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=203055</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=203055</guid>
+            <pubDate>Sat, 23 Apr 2022 16:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=203055">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220416072440_6e49a3306e076be2a512778dd6406011_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=203055">히가시노 게이고 초기걸작 '조인계획' 윌라 오디오북 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220416072440_6e49a3306e076be2a512778dd6406011_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["5월, 그날이 다시 오면~" 뮤지컬 '광주' 세 번째 시즌 개막]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=202814</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202814</guid>
+            <pubDate>Sat, 23 Apr 2022 16:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202814">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220415083116_ddbf422eabc81e5f5a1a859a34c67981.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202814">"5월, 그날이 다시 오면~" 뮤지컬 '광주' 세 번째 시즌 개막</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220415083116_ddbf422eabc81e5f5a1a859a34c67981.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[게임에 흠뻑 빠진 세븐틴...'고잉 세븐틴']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=202701</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202701</guid>
+            <pubDate>Sat, 23 Apr 2022 16:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202701">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220414092532_299989559fffa8d54908f2c1c7e9e984.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202701">게임에 흠뻑 빠진 세븐틴...'고잉 세븐틴'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220414092532_299989559fffa8d54908f2c1c7e9e984.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[천사로 부활한 유키스, '키스미'와 함께한 기부 행사]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=202539</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202539</guid>
+            <pubDate>Sat, 23 Apr 2022 16:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202539">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220413152114_d8568baf71f262840bf150de98e56371.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202539">천사로 부활한 유키스, '키스미'와 함께한 기부 행사</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220413152114_d8568baf71f262840bf150de98e56371.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소녀시대 서현, 여성용품 기부...천사의 영향력]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=202483</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202483</guid>
+            <pubDate>Sat, 23 Apr 2022 16:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202483">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220413091238_7c38cd4b6c7a35b44de8ce170a20feac.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202483">소녀시대 서현, 여성용품 기부...천사의 영향력</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220413091238_7c38cd4b6c7a35b44de8ce170a20feac.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CJ ENM 글로벌 참여 뮤지컬, '로렌스 올리비에 어워즈' 수상]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=202469</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202469</guid>
+            <pubDate>Sat, 23 Apr 2022 16:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202469">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220413085909_25c46c653d52ff2f07b887436f4a872c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202469">CJ ENM 글로벌 참여 뮤지컬, '로렌스 올리비에 어워즈' 수상</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220413085909_25c46c653d52ff2f07b887436f4a872c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기획] 빌리 츠키 희롱한 미래소년 유도현-노엘 음주 운전까지...공인의 개념은 어디에]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=202142</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202142</guid>
+            <pubDate>Sat, 23 Apr 2022 16:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202142">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220411112522_918761676d2e0cabb0b587ccbb1c2b1a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202142">[기획] 빌리 츠키 희롱한 미래소년 유도현-노엘 음주 운전까지...공인의 개념은 어디에</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220411112522_918761676d2e0cabb0b587ccbb1c2b1a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
