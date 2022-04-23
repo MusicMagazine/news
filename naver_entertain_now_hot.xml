@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2022-04-23T18:19:08.072Z</updated>
+    <updated>2022-04-23T19:13:30.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘김수미 아들·서효림 남편’ 정명호, 회삿돈 횡령 혐의로 피소]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000863021</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000863021"/>
+        <updated>2022-04-23T19:13:22.077Z</updated>
+        <content type="html"><![CDATA[배우 김수미의 아들이자 배우 서효림의 남편인 정명호 씨(47)가 회삿돈을 횡령한 혐의로 피소됐다. 22일 조선비즈는 정 씨와 나팔꽃F&amp;B 이사 송모 씨의 업무상 횡령 혐의 고발을 접수하고 수사에 착수했다고 보도했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박유림 “아카데미 참석, 얼떨떨하면서도 감동적” [화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000975371</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0006047970"/>
         <updated>2022-04-23T14:14:45.787Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) = 보이그룹 나인아이(NINE.i) 멤버 위니가 23일 오후 서울 마포구 제일라아트홀에서 열린 데뷔 앨범 'NEW WORLD' 발매 기념 대면 팬사인회에 참석해 포토타임을 갖고 있다. (아이컨택컴퍼니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나인아이 이든 '환한 손인사']]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0006047969</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0006047969"/>
-        <updated>2022-04-23T14:14:45.788Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) = 보이그룹 나인아이(NINE.i) 멤버 이든이 23일 오후 서울 마포구 제일라아트홀에서 열린 데뷔 앨범 'NEW WORLD' 발매 기념 대면 팬사인회에 참석해 포토타임을 갖고 있다. (아이컨택컴퍼니]]></content>
     </entry>
 </feed>
