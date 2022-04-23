@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-04-23T19:13:30.201Z</updated>
+    <updated>2022-04-23T20:17:35.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[볼빨간사춘기, 우리가 사랑했던 곳 '서울(Seoul)' 첫무대 [MD동영상]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003597443</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003597443"/>
+        <updated>2022-04-23T20:17:19.851Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 김정수 기자] 가수 볼빨간사춘기(안지영)가 20일 오후 온라인으로 진행된 미니 7집 '서울(Seoul)' 발매 기념 온라인 쇼케이스에서 타이틀곡 '서울(Seoul)'의 멋진 무대를 선보였다. '서울(]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송가인, '어버이날' 유료 디너쇼 대신 온라인 무료공연]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011141489</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000808113"/>
         <updated>2022-04-23T14:14:37.853Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 보이그룹 DKZ(디케이지)가 ‘음악중심’을 꽉 채운 무대로 퍼포먼스 장인임을 입증했다. DKZ(경윤, 세현, 민규, 재찬, 종형, 기석)는 23일 오후 3시 15분 방송된 MBC ‘쇼! 음악중심’에 출]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이칠린, 새 앨범 단체·유닛 재킷 이미지 오픈…컬러풀 에너지]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001439048</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001439048"/>
-        <updated>2022-04-23T14:14:37.854Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 신인 걸그룹 아이칠린(ICHILLIN')이 컬러풀 에너지로 가요계에 도전장을 내민다. 23일 소속사 케이엠이엔티는 이날 오후 3시 공식 SNS를 통해 아이칠린(이지, 재키, 주니, 채린,]]></content>
     </entry>
 </feed>
