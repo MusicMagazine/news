@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 03:00:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 03:34:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220418085318_1c660fd1015dd82252554f234139153a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[화보] 박주현, 봄을 담은 비주얼 (KBS연예 ─ 연예)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=204507</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204507</guid>
+            <pubDate>Sat, 23 Apr 2022 03:33:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204507">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220423071503_336206f710b228016313d36a0930a0c3.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204507">[화보] 박주현, 봄을 담은 비주얼</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220423071503_336206f710b228016313d36a0930a0c3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[차은우 목소리와 함께 감상하는 전시...'마이클 크레이그 마틴전' (KBS연예 ─ 연예)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=204324</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=204324</guid>
@@ -671,28 +688,11 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220411112522_918761676d2e0cabb0b587ccbb1c2b1a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[다시 봄 맞은 백상예술대상, 수상의 영광은 누구에게? (KBS연예 ─ 연예)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=202100</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202100</guid>
-            <pubDate>Mon, 11 Apr 2022 02:51:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202100">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220411082121_5703e3a0d6fae0056a6ae933448ca719.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202100">다시 봄 맞은 백상예술대상, 수상의 영광은 누구에게?</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220411082121_5703e3a0d6fae0056a6ae933448ca719.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[방탄소년단 ‘FAKE LOVE’ 뮤비 11억뷰 돌파 [공식] (MBC 연예 ─ 아이돌)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/345106</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/345106</guid>
             <pubDate>Sat, 23 Apr 2022 02:59:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/345106">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/23/e9f974ac-cf7f-43a0-a736-a86cd6bb7516.jpg" alt="방탄소년단 ‘FAKE LOVE’ 뮤비 11억뷰 돌파 [공식]">        <div class="text-box">            <p class="summary">방탄소년단 ‘FAKE LOVE’ 뮤비 11억뷰 돌파 [공식]</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/345106" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/23/e9f974ac-cf7f-43a0-a736-a86cd6bb7516.jpg" alt="방탄소년단 ‘FAKE LOVE’ 뮤비 11억뷰 돌파 [공식]">        <div class="text-box">            <p class="summary">방탄소년단 ‘FAKE LOVE’ 뮤비 11억뷰 돌파 [공식]</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/23/e9f974ac-cf7f-43a0-a736-a86cd6bb7516.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -700,7 +700,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/345099</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/345099</guid>
             <pubDate>Sat, 23 Apr 2022 02:59:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/345099">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/23/c7990dbb-00c4-4b95-a47d-e7d32e81f4f3.jpg" alt="권은비 “윤하에게 면목없어…꼭 사과하고파” (스포왕 고영배)">        <div class="text-box">            <p class="summary">권은비 “윤하에게 면목없어…꼭 사과하고파” (스포왕 고영배)</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/345099" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/23/c7990dbb-00c4-4b95-a47d-e7d32e81f4f3.jpg" alt="권은비 “윤하에게 면목없어…꼭 사과하고파” (스포왕 고영배)">        <div class="text-box">            <p class="summary">권은비 “윤하에게 면목없어…꼭 사과하고파” (스포왕 고영배)</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/23/c7990dbb-00c4-4b95-a47d-e7d32e81f4f3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -708,7 +708,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/345074</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/345074</guid>
             <pubDate>Fri, 22 Apr 2022 21:13:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/345074">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/22/07bc5d26-7831-4ed8-ac3f-0179ddbe14b7.jpg" alt="레드벨벳 아이린, 여친짤의 정석…러블리 매력 뿜뿜 [인스타] ">        <div class="text-box">            <p class="summary">레드벨벳 아이린, 여친짤의 정석…러블리 매력 뿜뿜 [인스타] </p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/345074" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/22/07bc5d26-7831-4ed8-ac3f-0179ddbe14b7.jpg" alt="레드벨벳 아이린, 여친짤의 정석…러블리 매력 뿜뿜 [인스타] ">        <div class="text-box">            <p class="summary">레드벨벳 아이린, 여친짤의 정석…러블리 매력 뿜뿜 [인스타] </p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/22/07bc5d26-7831-4ed8-ac3f-0179ddbe14b7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -716,7 +716,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/345072</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/345072</guid>
             <pubDate>Fri, 22 Apr 2022 09:17:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/345072">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/22/8578de64-dfcf-497e-8224-8a95c029bb1e.jpg" alt="에이프릴 출신 윤채경, DSP미디어와 전속계약 종료 [전문]">        <div class="text-box">            <p class="summary">에이프릴 출신 윤채경, DSP미디어와 전속계약 종료 [전문]</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/345072" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/22/8578de64-dfcf-497e-8224-8a95c029bb1e.jpg" alt="에이프릴 출신 윤채경, DSP미디어와 전속계약 종료 [전문]">        <div class="text-box">            <p class="summary">에이프릴 출신 윤채경, DSP미디어와 전속계약 종료 [전문]</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/22/8578de64-dfcf-497e-8224-8a95c029bb1e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -724,7 +724,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/345061</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/345061</guid>
             <pubDate>Fri, 22 Apr 2022 08:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/345061">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/22/971fa15a-4ea2-47de-af27-6765d1734f59.jpg" alt="아이칠린, 첫 미니 앨범 '브리지 오브 드림스' 개인 이미지 공개">        <div class="text-box">            <p class="summary">아이칠린, 첫 미니 앨범 '브리지 오브 드림스' 개인 이미지 공개</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/345061" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/22/971fa15a-4ea2-47de-af27-6765d1734f59.jpg" alt="아이칠린, 첫 미니 앨범 '브리지 오브 드림스' 개인 이미지 공개">        <div class="text-box">            <p class="summary">아이칠린, 첫 미니 앨범 '브리지 오브 드림스' 개인 이미지 공개</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/22/971fa15a-4ea2-47de-af27-6765d1734f59.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -732,7 +732,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/345057</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/345057</guid>
             <pubDate>Fri, 22 Apr 2022 07:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/345057">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/22/12ae3622-b632-4ff6-8c4c-d6ccaa242c22.jpg" alt="핫이슈, 데뷔 1년 만 해체…" 오랜="" 논의="" 끝"="" [전문]"="">        <div class="text-box">            <p class="summary">핫이슈, 데뷔 1년 만 해체…"오랜 논의 끝" [전문]</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/345057" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/22/12ae3622-b632-4ff6-8c4c-d6ccaa242c22.jpg" alt="핫이슈, 데뷔 1년 만 해체…" 오랜="" 논의="" 끝"="" [전문]"="">        <div class="text-box">            <p class="summary">핫이슈, 데뷔 1년 만 해체…"오랜 논의 끝" [전문]</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/22/12ae3622-b632-4ff6-8c4c-d6ccaa242c22.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -740,7 +740,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/345044</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/345044</guid>
             <pubDate>Fri, 22 Apr 2022 06:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/345044">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/22/25db19ae-2152-42ac-9958-108f7da1789d.jpg" alt="구구단 출신 정미미, 해체 후 첫 솔로 음원 '오버컴' 발매">        <div class="text-box">            <p class="summary">구구단 출신 정미미, 해체 후 첫 솔로 음원 '오버컴' 발매</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/345044" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/22/25db19ae-2152-42ac-9958-108f7da1789d.jpg" alt="구구단 출신 정미미, 해체 후 첫 솔로 음원 '오버컴' 발매">        <div class="text-box">            <p class="summary">구구단 출신 정미미, 해체 후 첫 솔로 음원 '오버컴' 발매</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/22/25db19ae-2152-42ac-9958-108f7da1789d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -748,7 +748,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/344994</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/344994</guid>
             <pubDate>Fri, 22 Apr 2022 03:43:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/344994">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/22/9a947055-da93-4e63-b787-299eb1dacea3.jpg" alt="김성규, 오늘(22일) 네 번째 미니 앨범 '세이비어' 공개">        <div class="text-box">            <p class="summary">김성규, 오늘(22일) 네 번째 미니 앨범 '세이비어' 공개</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/344994" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/22/9a947055-da93-4e63-b787-299eb1dacea3.jpg" alt="김성규, 오늘(22일) 네 번째 미니 앨범 '세이비어' 공개">        <div class="text-box">            <p class="summary">김성규, 오늘(22일) 네 번째 미니 앨범 '세이비어' 공개</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/22/9a947055-da93-4e63-b787-299eb1dacea3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -756,7 +756,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/344982</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/344982</guid>
             <pubDate>Fri, 22 Apr 2022 03:43:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/344982">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/22/91193624-51b9-4b28-b3b2-bef73c770691.jpg" alt="세븐틴 원우, '안경을 찰떡같이 소화하는 아이돌' 1위(아이돌챔프)">        <div class="text-box">            <p class="summary">세븐틴 원우, '안경을 찰떡같이 소화하는 아이돌' 1위(아이돌챔프)</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/344982" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/22/91193624-51b9-4b28-b3b2-bef73c770691.jpg" alt="세븐틴 원우, '안경을 찰떡같이 소화하는 아이돌' 1위(아이돌챔프)">        <div class="text-box">            <p class="summary">세븐틴 원우, '안경을 찰떡같이 소화하는 아이돌' 1위(아이돌챔프)</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/22/91193624-51b9-4b28-b3b2-bef73c770691.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -764,7 +764,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/344978</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/344978</guid>
             <pubDate>Fri, 22 Apr 2022 03:43:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/344978">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/22/c3834953-b6fa-473b-9804-ea7f6fab756c.jpg" alt="'부끄뚱' 문세윤, 위키미키 최유정과 손잡았다…신곡 '쑥맥' 피처링">        <div class="text-box">            <p class="summary">'부끄뚱' 문세윤, 위키미키 최유정과 손잡았다…신곡 '쑥맥' 피처링</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/344978" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/22/c3834953-b6fa-473b-9804-ea7f6fab756c.jpg" alt="'부끄뚱' 문세윤, 위키미키 최유정과 손잡았다…신곡 '쑥맥' 피처링">        <div class="text-box">            <p class="summary">'부끄뚱' 문세윤, 위키미키 최유정과 손잡았다…신곡 '쑥맥' 피처링</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/22/c3834953-b6fa-473b-9804-ea7f6fab756c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -772,8 +772,22 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/344973</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/344973</guid>
             <pubDate>Fri, 22 Apr 2022 01:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/344973">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/22/454bbf12-014c-49d5-9e80-85257d1da0e7.jpg" alt="슈퍼주니어 려욱, 미니 3집 수록곡 '파랑새' MV 선공개">        <div class="text-box">            <p class="summary">슈퍼주니어 려욱, 미니 3집 수록곡 '파랑새' MV 선공개</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/344973" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/22/454bbf12-014c-49d5-9e80-85257d1da0e7.jpg" alt="슈퍼주니어 려욱, 미니 3집 수록곡 '파랑새' MV 선공개">        <div class="text-box">            <p class="summary">슈퍼주니어 려욱, 미니 3집 수록곡 '파랑새' MV 선공개</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/22/454bbf12-014c-49d5-9e80-85257d1da0e7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[송가인, 어버이날 무료 공연 진행.."잠시나마 코로나에서 해방되길" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220423122758271</link>
+            <guid>https://entertain.v.daum.net/v/20220423122758271</guid>
+            <pubDate>Sat, 23 Apr 2022 03:34:10 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=이승훈 기자] ‘트로트 퀸’ 송가인이 남다른 행보를 걷는다. 지난 21일 세 번째 정규앨범 '연가(戀歌)'를 발매한 송가인이 5월 8일 네이버 NOW.에서 ‘오월의 연가’라는 테마로 어버이날 무료 온라인 공연을 진행한다. 송가인은 디너쇼, 콘서트 등 다양한 공연 제의가 들어왔지만 모두 정중히 거절하고 팬들을 위한 마음으로 무료 공연을 택했다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[강다니엘, 유니버스 신곡 'Ready to ride' 29일 발매 확정..강렬한 퓨처리즘 무드 예고 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220423121758204</link>
+            <guid>https://entertain.v.daum.net/v/20220423121758204</guid>
+            <pubDate>Sat, 23 Apr 2022 03:34:10 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=이승훈 기자] 유니버스가 가수&nbsp;강다니엘의 신곡 발매를 확정했다. 23일 글로벌 팬덤 플랫폼 유니버스(UNIVERSE)&nbsp;측은 “오는&nbsp;29일 유니버스 뮤직에서 선보이는&nbsp;강다니엘의 신곡 ‘Ready to ride (레디 투 라이드)’를 발매한다”고 밝혔다.&nbsp; 이와 함께 지난&nbsp;22일 앱과 공식&nbsp;SNS를 통해 온라인 커버 이미지 및 스케줄러를 공개했다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[트와이스, 'K팝 걸그룹 최초' 도쿄돔 3회 공연 및 매진 기록 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
@@ -867,25 +881,18 @@
             <content:encoded><![CDATA[[뉴스엔 박수인 기자] 그룹 투모로우바이투게더가 첫 이별을 경험 후 소년의 감정을 노래한다. 투모로우바이투게더(수빈, 연준, 범규, 태현, 휴닝카이)는 4월 23일 공식 홈페이지와 SNS에 미니 4집 ‘minisode 2: Thursday's Child’의 콘셉트 포토 ‘MESS’ 버전을 게재했다. ‘minisode 2: Thursday's Child’는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단, 'FAKE LOVE' MV 11억뷰 돌파..통산 6번째 기록 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220423093420114</link>
-            <guid>https://entertain.v.daum.net/v/20220423093420114</guid>
-            <pubDate>Sat, 23 Apr 2022 01:04:05 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=선미경 기자] 그룹 방탄소년단의 ‘FAKE LOVE’ 뮤직비디오가 11억뷰를 돌파했다. 지난 2018년 5월 18일 발매된 방탄소년단 정규 3집 LOVE YOURSELF 轉 ‘Tear’의 타이틀곡 ‘FAKE LOVE’의 뮤직비디오 유튜브 조회수가 23일 오전 3시 44분경 11억 건을 넘어섰다. 이로써 방탄소년단은 통산 6번째 11억뷰 뮤직비]]></content:encoded>
+            <title><![CDATA['내일' 윤지온, 의외의 반전미美로 여심 저격 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220423122634266</link>
+            <guid>https://entertain.v.daum.net/v/20220423122634266</guid>
+            <pubDate>Sat, 23 Apr 2022 03:34:15 GMT</pubDate>
+            <content:encoded><![CDATA[배우 윤지온이 거부할 수 없는 귀여운 매력으로 여심을 저격했다. 윤지온은 지난 22일 방송된 MBC 금토드라마 ‘내일’(연출 김태윤, 성치욱/ 극본 박란, 김유진) 7회에서 로운(최준웅 역)의 장난에 시무룩해하는 색다른 면모로 ‘매력 부자’에 등극했다. 앞서 임륭구(윤지온 분)는 6·25 참전 용사이자 의뢰인인 이영천(전무송 분)에게 수명이 얼마 남지]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 'FAKE LOVE' 뮤직비디오, 11억 뷰 돌파 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220423092659007</link>
-            <guid>https://entertain.v.daum.net/v/20220423092659007</guid>
-            <pubDate>Sat, 23 Apr 2022 01:04:05 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 오윤주 기자] 그룹 방탄소년단의 '페이크 러브(FAKE LOVE)' 뮤직비디오가 11억 뷰를 돌파했다. 지난 2018년 5월 18일 발매된 방탄소년단 정규 3집 LOVE YOURSELF 轉 'Tear'의 타이틀곡 'FAKE LOVE' 뮤직비디오 유튜브 조회수가 23일 오전 3시 44분경 11억 건을 넘어섰다. 이로써 방탄소년단은 통산 6번]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["불법 업소녀 출신·스폰서 NO" 윤진이·유하나, 도 넘은 루머에 직접 등판 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220423115801998</link>
-            <guid>https://entertain.v.daum.net/v/20220423115801998</guid>
-            <pubDate>Sat, 23 Apr 2022 02:59:44 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=강민경 기자] 근거 없는 소문은 걷잡을 수 없이 퍼져나간다. 루머 속 주인공이 된 스타들은 황당한 이야기에 웃어넘기려고 하기도 한다. 하지만 루머가 사실이 돼 대중이 사실로 믿게 되는 건 식은 죽 먹기다. 이에 많은 스타가 도 넘은 루머에 대해 직접 해명하는 일이 늘어나고 있다. 배우 윤진이가 불법 업소녀 출신이라는 루머에 휩싸였다. 발단은]]></content:encoded>
+            <title><![CDATA[속죄와 화해, 부부는 헤어져도 가족은 이어진다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220423121500173</link>
+            <guid>https://entertain.v.daum.net/v/20220423121500173</guid>
+            <pubDate>Sat, 23 Apr 2022 03:34:15 GMT</pubDate>
+            <content:encoded><![CDATA[[이준목 기자] 이혼한 세 커플의 진정한 화해와 새 출발은 가능할까. 4월 22일 방송된 TV조선 &lt;우리 이혼 했어요2&gt;(이하 우이혼)에서는 시즌1에 출연했던 최고기와 유깻잎의 근황, 나한일-유혜영의 재회여행 마지막날, 일라이-지연수의 가족 상봉 이야기가 그려졌다. 시즌1 화제의 커플이었던 최고기와 유깻잎 커플은 게스트로 함께 등장하며 &lt;우이혼&gt; 출연 이후]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[박명수, 오대환 고교 동창과 전화 연결 "섭외 요청 전달 부탁" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
@@ -979,13 +986,6 @@
             <content:encoded><![CDATA[[동아닷컴] 행복한 듀공 이장우→기안84-전현무 취중 ‘결혼 토크’ (나혼자산다)[TV북마크] 배우 이장우의 새로운 로망 하우스와 기안84의 제1회 개인전 현장이 공개됐다. 22일 방송된 MBC ‘나 혼자 산다’(연출 허항 김지우 강지희)에서는 먼저 새 집으로 이사한 이장우의 하루가 그려졌다. 퉁퉁해진 볼과 함께 나타난 그는 ‘나래 미식회’의 후폭풍에 시]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['나 혼자 산다', 장인 이장우→작가84..분당 최고 시청률 10% (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220423092935029</link>
-            <guid>https://entertain.v.daum.net/v/20220423092935029</guid>
-            <pubDate>Sat, 23 Apr 2022 01:04:10 GMT</pubDate>
-            <content:encoded><![CDATA[‘나 혼자 산다’ 이장우가 집간장 담그기에 도전, 항아리 대참사에도 ‘어나더 레벨’의 장인정신으로 로망 실현에 성공하며 쉴 틈 없는 웃음을 안겼다. 또 기안84는 제1회 개인전을 성황리에 마치며 부담감에 짓눌렸던 ‘초췌84’에서 해방돼 관객과 다음을 기약하는 ‘작가84’로 거듭났다. 지난 22일 방송된 MBC ‘나 혼자 산다’에서는 이장우의 ‘새로운 로]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA["엠버 허드는 인간의 재앙, 여성다움 이용해 피해자인 척" 26살 여배우 비난 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
             <link>https://entertain.v.daum.net/v/20220423100638610</link>
             <guid>https://entertain.v.daum.net/v/20220423100638610</guid>
@@ -1019,6 +1019,41 @@
             <guid>https://entertain.v.daum.net/v/20220422143421503</guid>
             <pubDate>Fri, 22 Apr 2022 05:35:50 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 니콜라스 케이지(58)는 일본인 아내 시바타 리코(28)와의 사이에서 태어날 셋째 아이가 딸이라고 밝혔다. 그는 21일(현지시간) ‘켈리 클락슨 쇼’에 출연해 “나는 어린 딸을 가질 것이다”라고 밝혔다. 이어 “딸의 이름을 존 레논과 케이지의 아버지인 어거스트 코폴라의 이름을 따서 레논 어기라고 짓기로 했다”]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[송가인, 어버이날 무료 공연 진행.."잠시나마 코로나에서 해방되길" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004598853</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004598853</guid>
+            <pubDate>Sat, 23 Apr 2022 03:34:28 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=이승훈 기자] ‘트로트 퀸’ 송가인이 남다른 행보를 걷는다. 지난 21일 세 번째 정규앨범 '연가(戀歌)'를 발매한 송가인이 5월 8일 네이버 NOW.에서 ‘오월의 연가’라는 테마로 어버이날 무료 온라인]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[강다니엘, 유니버스 신곡 'Ready to ride' 29일 발매 확정..강렬한 퓨처리즘 무드 예고 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004598852</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004598852</guid>
+            <pubDate>Sat, 23 Apr 2022 03:34:28 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=이승훈 기자] 유니버스가 가수 강다니엘의 신곡 발매를 확정했다. 23일 글로벌 팬덤 플랫폼 유니버스(UNIVERSE) 측은 “오는 29일 유니버스 뮤직에서 선보이는 강다니엘의 신곡 ‘Ready to rid]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 6번째 11억뷰 MV 탄생…억 단위 MV만 36편 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=016&amp;aid=0001981746</link>
+            <guid>https://entertain.naver.com/now/read?oid=016&amp;aid=0001981746</guid>
+            <pubDate>Sat, 23 Apr 2022 03:34:28 GMT</pubDate>
+            <content:encoded><![CDATA[[헤럴드경제=고승희 기자] 그룹 방탄소년단(BTS)의 여섯 번째 11억뷰 뮤직비디오가 탄생했다. 이번엔 ‘페이크 러브(FAKE LOVE)’다. 23일 빅히트 뮤직에 따르면 지난 2018년 5월 18일 발매된 방탄소년]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[트와이스, 日 도쿄돔 3회 공연 매진 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=629&amp;aid=0000145311</link>
+            <guid>https://entertain.naver.com/now/read?oid=629&amp;aid=0000145311</guid>
+            <pubDate>Sat, 23 Apr 2022 03:34:28 GMT</pubDate>
+            <content:encoded><![CDATA[美 5개 도시 7회 공연 성료하고 오는 5월 LA 2회 앙코르 공연 확정 트와이스가 K팝 걸그룹 최초로 일본 도쿄돔에서 총 3회 단독 콘서트를 개최한다. 티켓은 전부 매진됐다. 트와이스는 23일부터 25일까지 사흘간]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[엑:스피디아] '케빈오♥' 공효진, 몰래 키운 사랑…윤건 '갈색머리' (명작뮤비) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001438897</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001438897</guid>
+            <pubDate>Sat, 23 Apr 2022 03:34:28 GMT</pubDate>
+            <content:encoded><![CDATA[영화보다 더 영화 같았던 추억의 뮤직비디오를 소개하는 엑스포츠뉴스만의 코너입니다. 당대 최고의 히트곡들을 떠올리고, 인기 스타들의 풋풋하고 신선한 과거 모습을 함께 추억해보는 '명작뮤비'. &lt;편집자주&gt; (엑스포츠뉴스]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[드라마 '시간' OST '눈을 감아' 재즈 버전 재탄생 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
@@ -1161,39 +1196,67 @@
             <content:encoded><![CDATA[[스포츠경향] 알렉사(AleXa, 김세리)가 감탄을 부르는 파워 퍼포먼스로 화면을 집어삼켰다. 알렉사는 지난 21일 M2 유튜브 채널을 통해 미국 NBC 오디션 프로그램 ‘아메리칸 송 콘테스트(American Son]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[블랙핑크 '붐바야'도 넘겼다…3번째 14억뷰 뮤비 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011141073</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011141073</guid>
-            <pubDate>Sat, 23 Apr 2022 02:59:57 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]이재훈 기자 = 그룹 '블랙핑크(BLACKPINK)'의 대표곡 '붐바야' 뮤직비디오가 유튜브에서 14억뷰를 돌파했다. 23일 소속사 YG엔터테인먼트에 따르면, 블랙핑크의 '붐바야' 뮤직비디오는 이날 오]]></content:encoded>
+            <title><![CDATA[클라씨 홍혜주, 고교 3대 댄스 천왕 출신…월드 클라스로 등극할 독보적 아우라 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000355058</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000355058</guid>
+            <pubDate>Sat, 23 Apr 2022 03:34:36 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자]클라씨(CLASS:y) 홍혜주가 '셧다운'으로 데뷔를 앞두고 독보적 아우라를 뽐냈다. 클라씨(명형서·윤채원·홍혜주·김리원·원지민·박보은·김선유)의 매니지먼트사 M25(엠이오)는 23일 공식]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임영웅 맞아? 파격 헤어+심쿵눈맞춤 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=415&amp;aid=0000009978</link>
-            <guid>https://entertain.naver.com/now/read?oid=415&amp;aid=0000009978</guid>
-            <pubDate>Sat, 23 Apr 2022 02:59:57 GMT</pubDate>
-            <content:encoded><![CDATA[[앳스타일 김소라 기자] 가수 임영웅이 새로운 헤어스타일로 팬들의 시선을 강탈했다. 23일 공식 SNS 채널을 통해 공개된 임영웅의 첫 정규 앨범 ‘IM HERO’(아임 히어로) 콘셉트 포토 버전 2에서 임영웅은 이]]></content:encoded>
+            <title><![CDATA['이영돈♥' 황정음, 현실적인 다이어트 목표 "청바지 들어가는 날까지" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000355057</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000355057</guid>
+            <pubDate>Sat, 23 Apr 2022 03:34:36 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=강효진 기자] 배우 황정음이 몸매 관리에 나선 근황을 전했다. 황정음은 22일 자신의 인스타그램에 "청바지가 들어가는 날까지"라는 글과 함께 한 장의 사진을 공개했다. 사진에는 황정음이 핑크색 치마를]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[투모로우바이투게더, 미니 4집 콘셉트 포토 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000808076</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000808076</guid>
-            <pubDate>Sat, 23 Apr 2022 02:59:57 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 투모로우바이투게더가 첫 이별을 경험한 뒤 다크해진 소년의 모습으로 오는 5월 팬들 곁으로 돌아온다. 투모로우바이투게더(수빈, 연준, 범규, 태현, 휴닝카이)는 23일 자정 공식 홈페이지와 SNS에 미니]]></content:encoded>
+            <title><![CDATA[방탄소년단 '페이크 러브' 뮤직비디오, 11억뷰 돌파…통산 6번째 11억뷰 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000355056</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000355056</guid>
+            <pubDate>Sat, 23 Apr 2022 03:34:36 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자]그룹 방탄소년단의 '페이크 러브' 뮤직비디오가 11억뷰를 돌파했다. 2018년 5월 18일 발매된 방탄소년단 정규 3집 '러브 유에설프 전 티어' 타이틀곡 '페이크 러브' 뮤직비디오 유튜브]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['박군♥' 한영, 결혼 앞두고 이런 실수를.."사진이랑 다르네"[스타IN★] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003047182</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003047182</guid>
-            <pubDate>Sat, 23 Apr 2022 02:59:57 GMT</pubDate>
-            <content:encoded><![CDATA[가수 한영이 박군과의 신접살림을 장만하다 생긴 일화를 공개했다. 한영은 22일 인스타그램에 "사진에선 커보였는데. #밥공기가 아니라 간장종지 였나봄"이라며 사진을 게재했다. 공개된 사진 속에는 흰 그릇 두 개가 담겨]]></content:encoded>
+            <title><![CDATA['내일' 김서연 "약 5시간 동안 노력한 분장 귀여워해 달라" 특수분장 소감 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000355055</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000355055</guid>
+            <pubDate>Sat, 23 Apr 2022 03:34:36 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자]신인 배우 김서연이 MBC 금토드라마 '내일'에서 특수분장을 진행한 소감을 전했다. 김서연은 MBC 금토드라마 '내일'에서 최준웅(로운)의 여동생 최민영 역을 맡았다. 민영은 20대 초반의]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[트와이스, 도쿄돔 3회 공연 및 매진 기록! 23일부터 사흘간 日 도쿄돔서 단독 콘서트 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=415&amp;aid=0000009977</link>
-            <guid>https://entertain.naver.com/now/read?oid=415&amp;aid=0000009977</guid>
-            <pubDate>Sat, 23 Apr 2022 02:59:57 GMT</pubDate>
-            <content:encoded><![CDATA[[앳스타일 김소라 기자] 트와이스가 K팝 걸그룹으로는 처음으로 일본 도쿄돔에서 3회에 걸쳐 단독 콘서트를 개최한다. 트와이스는 23일부터 25일까지 사흘간 "일본 공연의 성지"로 불리는 도쿄돔에서 3회 공연을 열고]]></content:encoded>
+            <title><![CDATA['이다은♥' 윤남기, 딸과 '핑크' 러블리 커플룩…주말 육아도 즐거운 아빠 [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000542918</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000542918</guid>
+            <pubDate>Sat, 23 Apr 2022 03:34:36 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자] 윤남기가 딸 리은과 사랑스러운 부녀 케미를 뽐냈다. 윤남기는 23일 자신의 인스타그램에 "핑크. 핑크퐁이 엄청 많네. 핑크옷도 엄청 많고 #남리"라고 글을 올렸다. 윤남기는 주말을 맞아 가족]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[손지창-김민종, 이정재 캐스팅 비화 공개 (신과함께3) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000975343</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000975343</guid>
+            <pubDate>Sat, 23 Apr 2022 03:34:36 GMT</pubDate>
+            <content:encoded><![CDATA[손지창-김민종, 이정재 캐스팅 비화 공개 (신과함께3) 하이틴 스타 '더 블루' 손지창과 김민종 레전드 시절을 회상했다. 22일 금요일 저녁 8시 방송된 채널S의 예능 프로그램 ‘신과 함께 시즌3’(채널S]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[트와이스, 'K팝 걸그룹 최초' 도쿄돔 3회 공연 매진…오늘부터 단독 콘서트 개최 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000355054</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000355054</guid>
+            <pubDate>Sat, 23 Apr 2022 03:34:36 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자]트와이스가 K팝 걸그룹 최초로 일본 도쿄돔에서 총 3회에 걸쳐 단독 콘서트를 개최한다. 트와이스는 23일부터 25일까지 사흘간 '일본 공연의 성지'로 불리는 도쿄돔에서 3회 공연을 열고 성]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['아는 형님' 강남·파비앙의 눈물겨운 귀화&영주권 취득 이야기 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000296681</link>
+            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000296681</guid>
+            <pubDate>Sat, 23 Apr 2022 03:34:36 GMT</pubDate>
+            <content:encoded><![CDATA[강남과 한국 귀화, 파비앙의 영주권 취득 이야기가 공개된다. 오늘(23일) 방송되는 JTBC '아는 형님'에는 구잘, 파비앙, 강남, 알베르토가 전학생으로 등장한다. 이들은 우여곡절이 많았던 귀화, 영주권 취득]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아이브, ‘뮤뱅’ 2주 연속 1위…‘러브 다이브’ 5관왕 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000975342</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000975342</guid>
+            <pubDate>Sat, 23 Apr 2022 03:34:36 GMT</pubDate>
+            <content:encoded><![CDATA[아이브, ‘뮤뱅’ 2주 연속 1위…‘러브 다이브’ 5관왕 그룹 아이브(IVE)가 ‘LOVE DIVE(러브 다이브)’ 5관왕을 기록했다. 아이브는 22일 방송된 KBS 2TV '뮤직뱅크'에서 두 번째 싱글 'LOVE]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['자본주의학교' 故신해철 가족, 아빠와 함께 찍는 가족사진 '뭉클' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
@@ -1306,69 +1369,6 @@
             <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000542912</guid>
             <pubDate>Sat, 23 Apr 2022 03:00:05 GMT</pubDate>
             <content:encoded><![CDATA[[텐아시아=강민경 기자] 배우 박보검이 션, 장호준과 함께 러닝 완주를 인증했다. 션은 23일 자신의 인스타그램에 "2022 MIRACLE 365 VIRTUAL RUN #아직이름못정한러닝크루 #장호준 선수 #박보검"]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[임영웅, 'IM HERO' 콘셉트 포토2 공개…'설레는 눈맞춤' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=079&amp;aid=0003635419</link>
-            <guid>https://entertain.naver.com/now/read?oid=079&amp;aid=0003635419</guid>
-            <pubDate>Sat, 23 Apr 2022 03:00:05 GMT</pubDate>
-            <content:encoded><![CDATA[가수 임영웅이 다채로운 변신을 예고했다. 23일 오전 공식 SNS 채널을 통해 임영웅의 첫 정규 앨범 'IM HERO'(아임 히어로) 콘셉트 포토 버전 2가 공개됐다. 사진 속 임영웅은 이전에 시도하지 않았던 헤어스]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['박성광♥' 이솔이, 3층 전원주택 정원에서 불멍…캠핑장 갈 필요도 없네 "우행시"[TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000542911</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000542911</guid>
-            <pubDate>Sat, 23 Apr 2022 03:00:05 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=김지원 기자] 박성과 아내 이솔이가 청순미를 뽐냈다. 이솔이는 22일 자신의 인스타그램 스토리에 "it's Friday", "우행시" 등 글과 함께 사진을 올렸다. 이솔이는 김포의 3층짜리 자택 정원에서]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[故 신해철 가족, 아빠와 함께 한 완전체 가족사진...보기만 해도 뭉클 ('자본주의학교') (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003857708</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003857708</guid>
-            <pubDate>Sat, 23 Apr 2022 03:00:05 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선닷컴 이우주 기자] '자본주의학교' 故 신해철 가족이 신해철과 함께 새로운 가족사진을 찍는다. 24일 방송되는 KBS 2TV '자본주의학교'에서는 하연, 동원 남매가 엄마를 위해 준비하는 특별한 생일 파티]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이다인, ♥이승기와 열애 후 점점 예뻐져…부내 폴폴 '영앤리치' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003857706</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003857706</guid>
-            <pubDate>Sat, 23 Apr 2022 03:00:05 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선닷컴 이우주 기자] 배우 이다인이 '영앤리치' 다운 럭셔리한 분위기를 드러냈다. 이다인은 23일 자신의 SNS를 통해 "dreamer"라는 글과 함께 한 장의 사진을 게재했다. 공개된 사진 속에는 이다인의]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이광수-설현 ‘놀토’ 출격…믿고 보는 예능감 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000975338</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000975338</guid>
-            <pubDate>Sat, 23 Apr 2022 03:00:05 GMT</pubDate>
-            <content:encoded><![CDATA[이광수-설현 ‘놀토’ 출격…믿고 보는 예능감 배우 이광수와 설현이 tvN ‘놀라운 토요일’(이하 ‘놀토’)에 출연한다. ‘놀토’에 처음 방문한 이광수는 “귀가 큰 편인데 잘 못 듣는다”고 고백했다. 이어 “못 들어도]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[염따, 비키니 입은 女와 ‘욕조’ 데이트...사진 보니 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003689105</link>
-            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003689105</guid>
-            <pubDate>Sat, 23 Apr 2022 03:00:05 GMT</pubDate>
-            <content:encoded><![CDATA[사진=염따 인스타그램 캡처 래퍼 염따(본명 염현수)가 행복한 한 때를 공개했다. 지난 21일 염따는 인스타그램에 “응애”라는 글과 함께 사진을 게재했다. 공개된 사진에는 욕조에서 비키니를 입은 여성과 데이트를 즐기는]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[슬리피, 8살 연하 ♥아내 공개…연예인급 청순 미모 ‘눈길’ [스타★샷] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000611136</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000611136</guid>
-            <pubDate>Sat, 23 Apr 2022 03:00:05 GMT</pubDate>
-            <content:encoded><![CDATA[래퍼 슬리피가 8살 연하 아내를 공개했다. 슬리피는 23일 자신의 인스타그램에 “가족”이라는 글과 함께 사진을 게재했다. 공개된 사진에는 아내, 반려견과 함께 사진을 남기고 있는 슬리피의 모습이 담겼다. 슬리피는 아]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['이지훈♥' 아야네, 결혼 1년 만에 뒤늦은 신혼여행 계획…반지 꼭 끼고 '설렘 인증' [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000542910</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000542910</guid>
-            <pubDate>Sat, 23 Apr 2022 03:00:05 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=김지원 기자] 이지훈·아야네 후후가 결혼 1년 만에 신혼여행을 계획하고 있다. 아야네는 23일 자신의 인스타그램에 "어제 1주년 결기(결혼기념일). 신혼여행지 따뜻한 나라, 쉴 수 있는 느낌의 여행으로 추]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['임신' 전혜빈, 초미니+힐 신고 몸매 과시 "아직 배 많이 안나와" [N샷] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006047606</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006047606</guid>
-            <pubDate>Sat, 23 Apr 2022 03:00:05 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 황미현 기자 = 임신 중인 배우 전혜빈이 미니스커트와 힐을 신고 여전한 몸매를 과시했다. 전혜빈은 지난 22일 자신의 인스타그램에 "아직은 배 많이 나오기 전이니까 예쁜 골프복 입고 어서 나가자"라는]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["'닥터 스트레인지', 동성애 캐릭터로 사우디서 개봉 금지" (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
