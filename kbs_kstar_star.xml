@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 05:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 06:22:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[화보] 송강, 강렬한 눈빛과 압도적인 존재감]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=204833</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204833</guid>
+            <pubDate>Mon, 25 Apr 2022 06:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204833">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220425132322_0280ac8f6c068dd3c5826403c50a4971.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204833">[화보] 송강, 강렬한 눈빛과 압도적인 존재감</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220425132322_0280ac8f6c068dd3c5826403c50a4971.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[화보] 박주현, 봄을 담은 비주얼]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=204507</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202469">CJ ENM 글로벌 참여 뮤지컬, '로렌스 올리비에 어워즈' 수상</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220413085909_25c46c653d52ff2f07b887436f4a872c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기획] 빌리 츠키 희롱한 미래소년 유도현-노엘 음주 운전까지...공인의 개념은 어디에]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=202142</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202142</guid>
-            <pubDate>Sat, 23 Apr 2022 16:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202142">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220411112522_918761676d2e0cabb0b587ccbb1c2b1a.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202142">[기획] 빌리 츠키 희롱한 미래소년 유도현-노엘 음주 운전까지...공인의 개념은 어디에</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220411112522_918761676d2e0cabb0b587ccbb1c2b1a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
