@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 03:44:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 04:24:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포토] 초아 '좋아요?']]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/345266</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/345266</guid>
+            <pubDate>Mon, 25 Apr 2022 04:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/345266">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/25/27f9555e-ceaf-4572-924b-6af8f3f5c1e2.jpg" alt="[포토] 초아 '좋아요?'">        <div class="text-box">            <p class="summary">[포토] 초아 '좋아요?'</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/25/27f9555e-ceaf-4572-924b-6af8f3f5c1e2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[포토] 미연, 뒤돌아 보며 심쿵 모먼트]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/345265</link>
@@ -86,14 +94,6 @@
             <pubDate>Sun, 24 Apr 2022 15:15:44 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/345215">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/24/f2983c6c-9bf2-4f1d-9dc2-e93deac75bb0.jpg" alt="차은우, 미모 열일 하는 '얼굴 천재' 매일 리즈 경신 [인스타] ">        <div class="text-box">            <p class="summary">차은우, 미모 열일 하는 '얼굴 천재' 매일 리즈 경신 [인스타] </p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/24/f2983c6c-9bf2-4f1d-9dc2-e93deac75bb0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에스파, 히트곡 퍼레이드→미공개 신곡 'Life’s Too Short’ 무대로 美 코첼라 달궜다]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/345197</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/345197</guid>
-            <pubDate>Sun, 24 Apr 2022 06:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/345197">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/24/4eb06f31-a969-4002-a7f1-cce768819ada.jpg" alt="에스파, 히트곡 퍼레이드→미공개 신곡 'Life’s Too Short’ 무대로 美 코첼라 달궜다">        <div class="text-box">            <p class="summary">에스파, 히트곡 퍼레이드→미공개 신곡 'Life’s Too Short’ 무대로 美 코첼라 달궜다</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/24/4eb06f31-a969-4002-a7f1-cce768819ada.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
