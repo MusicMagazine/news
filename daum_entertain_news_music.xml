@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-04-25T11:15:44.706Z</updated>
+    <updated>2022-04-25T12:27:59.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엑소 디오, 오늘 코로나19 확진 "별다른 증상 없어"]]></title>
+        <id>https://entertain.v.daum.net/v/20220425204906666</id>
+        <link href="https://entertain.v.daum.net/v/20220425204906666"/>
+        <updated>2022-04-25T12:27:26.900Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김예은 기자) 엑소 디오(도경수)가 코로나19 확진 판정을 받았다.&nbsp; 25일 엑소 소속사 SM엔터테인먼트는 "엑소 디오가 오늘(25일) 코로나19 확진 판정을 받았다"고 알렸다. 이어 "디오는 코로나19&nbsp;백신&nbsp;2차 접종을 완료한 상태로,&nbsp;현재 별다른 증상은 없으며,&nbsp;모든 스케줄을 중단하고 방역 당국의 지침에 따라 자가격리 및 재]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["도박 숏커트" S.E.S. 슈, 복귀 고해성사]]></title>
         <id>https://entertain.v.daum.net/v/20220425195407950</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220425172001362"/>
         <updated>2022-04-25T11:15:08.432Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 그룹 베리베리가 파격적인 성숙미로 돌아왔다. 베리베리의 첫 정규 앨범 ‘베리베리 시리즈 오 라운드 3 : 홀(VERIVERY SERIES O [ROUND 3 : WHOLE])’ 발매 쇼케이스가 25일 서울 광진구 예스24라이브홀에서 진행됐다. ‘베리베리 시리즈 오 라운드 3 : 홀’은 어둠에 맞서려는 자와 어둠을 지키려는 자 둘 사이의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이도 갈고 칼도 갈았다" 베리베리, 칼각베리 결전의 시간]]></title>
-        <id>https://entertain.v.daum.net/v/20220425171810282</id>
-        <link href="https://entertain.v.daum.net/v/20220425171810282"/>
-        <updated>2022-04-25T08:20:07.437Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 윤혜영 기자] 그룹 베리베리가 칼을 갈아 만든 첫 정규앨범으로 돌아왔다. 25일 오후, 서울 광진구 예스24라이브홀에서 베리베리(동헌, 호영, 민찬, 계현, 연호, 용승, 강민)의 첫 정규앨범 '베리베리 시리즈 오 라운드 2: 홀(VERIVERY SERIES O ROUND 3 : WHOLE)' 발매 쇼케이스가 진행됐다. 베리베리는 데뷔 3년]]></content>
     </entry>
 </feed>
