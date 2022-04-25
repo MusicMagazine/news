@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-04-25T14:16:28.684Z</updated>
+    <updated>2022-04-25T15:18:14.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울마포음악창작소 ‘2022 M 인디열전’ 출연진 공모…무소속 인디 뮤지션 무대 지원]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000808584</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000808584"/>
+        <updated>2022-04-25T15:17:59.993Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 서울마포음악창작소가 ‘2022 M 인디열전’ 출연진을 4월 20일부터 5월 10일까지 공모한다. 2019년 시작되어 올해로 4회 째를 맞이한 ‘인디열전’은 인디 음악 활성화에 기여하고자 소속사 없이 활]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엑소 디오, 코로나 확진…"모든 스케줄 중단"]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011145111</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000566778"/>
         <updated>2022-04-25T11:15:28.198Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 가수 정동원이 한 편의 서정시 같은 신곡으로 컴백했다. 정동원은 4월 25일 오후 6시 각종 음원 사이트를 통해 첫 번째 미니 앨범 '손편지'를 발매했다. 이번 앨범은 정동원이 지난해 11월]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘청춘섹시→킬링섹시’ 베리베리, ‘언더커버’로 증명한 성장 서사[들어보고서]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000566777</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000566777"/>
-        <updated>2022-04-25T11:15:28.199Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 그룹 베리베리가 치명적이고 성숙한 매력을 장착하고 돌아왔다. 베리베리는 4월 25일 오후 6시 첫 정규 앨범 ‘VERIVERY SERIES O [ROUND 3 : WHOLE]’(베리베리 시리즈]]></content>
     </entry>
 </feed>
