@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-04-25T20:18:01.642Z</updated>
+    <updated>2022-04-25T21:14:59.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엑소 디오, 코로나 확진.. 스케줄 올스톱]]></title>
+        <id>https://entertain.v.daum.net/v/20220426061101211</id>
+        <link href="https://entertain.v.daum.net/v/20220426061101211"/>
+        <updated>2022-04-25T21:14:27.602Z</updated>
+        <content type="html"><![CDATA[엑소 디오(사진=SM엔터테인먼트)[이데일리 스타in 윤기백 기자] 그룹 엑소 디오가 코로나19 확진 판정을 받았다. 소속사 SM엔터테인먼트는 25일 이같은 소식을 알리며 “디오는 코로나19 백신 2차 접종을 완료한 상태로 현재 별다른 증상은 없으며, 모든 스케줄을 중단하고 방역 당국의 지침에 따라 자가격리 및 재택치료 중”이라고 밝혔다. 디오는 KBS2]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엑소 디오, 코로나19 확진.."모든 스케줄 중단 및 재택 치료"]]></title>
         <id>https://entertain.v.daum.net/v/20220425221425964</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220425175422499"/>
         <updated>2022-04-25T11:15:08.431Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 가수&nbsp;정동원이 첫 미니앨범 '손편지'로 돌아온다. 정동원의&nbsp; 첫 미니앨범 '손편지'가 오늘(25일) 오후 6시 각종 음원사이트를 통해를 발표된다. '손편지'는 사모하는 마음과 위로, 응원의 메시지를 담은 곡들을 손편지로 전하는 감성을 담아 제작됐다. 타이틀곡 '아지랑이꽃'은 우리가 잊고 살았던 순수함과 인간에 대한 사랑을 아우르]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가수 다미아노, 사회복무 중 유튜브 운영..겸직 규정 위반 의혹]]></title>
-        <id>https://entertain.v.daum.net/v/20220425174213147</id>
-        <link href="https://entertain.v.daum.net/v/20220425174213147"/>
-        <updated>2022-04-25T11:15:08.432Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 l 강경윤 기자] 가수 겸 프로듀서 다미아노(본명 김일겸·30)가 사회복무요원으로 복무하면서 유튜브 콘텐츠를 제작하고 운영한 사실이 드러나 겸직 규정 위반 의혹이 제기됐다. 병무청에 따르면 가수 다미아노가 마포구청에서 사회복무 요원으로 복무하면서 양준일 채널 '빈티지 양준일'의 촬영과 편집, 출연까지 하는 등 영리 목적의 유튜브 활동을 하]]></content>
     </entry>
 </feed>
