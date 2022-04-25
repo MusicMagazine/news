@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-04-25T16:22:53.805Z</updated>
+    <updated>2022-04-25T17:22:08.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[JIN(박진), 신곡 ‘박수 쳐 줘’ 발매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000808595</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000808595"/>
+        <updated>2022-04-25T17:21:52.862Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 아이돌 같은 외모의 힙합 알앤비 훈남 JIN(박진)이 로칼하이레코즈를 통해 신곡을 공개한다. 26일 정오 각종 음원사이트를 통해 JIN(박진)의 활기차고 신나는 여름 맞이 신곡 ‘박수 쳐 줘(clap]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울마포음악창작소 ‘2022 M 인디열전’ 출연진 공모…무소속 인디 뮤지션 무대 지원]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000808584</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000863344"/>
         <updated>2022-04-25T11:15:28.197Z</updated>
         <content type="html"><![CDATA[그룹 베리베리가 첫 정규앨범 ‘ROUND 3 : WHOLE’로 화려하게 돌아왔다. 베리베리는 25일 오후 6시 각종 음원사이트를 통해 정규앨범 ‘ROUND 3 : WHOLE’을 발매했다. 이번 앨범은 어둠에 맞서려는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“내게 기대오” 정동원, 어른들까지 위로하는 서정시 ‘아지랑이꽃’[들어보고서]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000566778</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000566778"/>
-        <updated>2022-04-25T11:15:28.198Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 가수 정동원이 한 편의 서정시 같은 신곡으로 컴백했다. 정동원은 4월 25일 오후 6시 각종 음원 사이트를 통해 첫 번째 미니 앨범 '손편지'를 발매했다. 이번 앨범은 정동원이 지난해 11월]]></content>
     </entry>
 </feed>
