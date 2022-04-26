@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 11:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 12:30:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[움짤] 웬디, '순수' Wind 완디 와니]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/345445</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/345445</guid>
+            <pubDate>Tue, 26 Apr 2022 12:29:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/345445">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/26/cad8e386-22a2-442f-81a4-3fe41a8d5632.jpg" alt="[움짤] 웬디, '순수' Wind 완디 와니">        <div class="text-box">            <p class="summary">[움짤] 웬디, '순수' Wind 완디 와니</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/26/cad8e386-22a2-442f-81a4-3fe41a8d5632.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[포토] 웬디, SO 러블리 와니~]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/345439</link>
@@ -86,14 +94,6 @@
             <pubDate>Tue, 26 Apr 2022 03:21:01 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/345386">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/26/1b1f2b9e-0f02-47ca-a1ad-452791b044c2.jpg" alt="윤지성, 미니 3집 '미로 (薇路)' 하이라이트 메들리 공개">        <div class="text-box">            <p class="summary">윤지성, 미니 3집 '미로 (薇路)' 하이라이트 메들리 공개</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/26/1b1f2b9e-0f02-47ca-a1ad-452791b044c2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몬스타엑스, 오늘(26일) 새 미니앨범 '셰이프 오브 러브' 발매]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/345385</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/345385</guid>
-            <pubDate>Tue, 26 Apr 2022 03:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/345385">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/26/2efafdc4-fa0b-4bc6-bfc5-b4be88789df0.jpg" alt="몬스타엑스, 오늘(26일) 새 미니앨범 '셰이프 오브 러브' 발매">        <div class="text-box">            <p class="summary">몬스타엑스, 오늘(26일) 새 미니앨범 '셰이프 오브 러브' 발매</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/26/2efafdc4-fa0b-4bc6-bfc5-b4be88789df0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
