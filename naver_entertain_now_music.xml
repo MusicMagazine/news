@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-04-27T19:15:00.275Z</updated>
+    <updated>2022-04-27T20:19:25.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["음악산업, 메타버스·AI 무한 확장세...K-스토리 IP 확장 전략"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011150571</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011150571"/>
+        <updated>2022-04-27T20:19:06.707Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 한콘진 온라인 '콘텐츠산업포럼' 개최 SM엔터 이성수· 포자랩스 허원길 대표 등 [서울=뉴시스] 박주연 기자 = 음악산업은 메타버스를 활용한 가상 세계와 인공지능(AI) 작곡 등으로 급격한 변화를 맞고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[나의 인생곡(66)] 조용필 '돌아와요 부산항에', 우여곡절 속 탄생]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000146240</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001440844"/>
         <updated>2022-04-27T10:19:18.552Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 가수 소유가 자신의 목소리로 모두의 낮과 밤을 물들인다. 27일 오후 서울 강남구 CGV 청담 씨네시티에서 소유의 새 미니앨범 '데이&amp;나이트(Day&amp;Night)' 발매 기념 쇼케이스가 진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[볼빨간사춘기 단독콘서트 'Seoul', 전석 매진]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003048543</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003048543"/>
-        <updated>2022-04-27T10:19:18.553Z</updated>
-        <content type="html"><![CDATA[2022 볼빨간사춘기 단독 콘서트 'Seoul'이 전석 매진을 기록하며 티켓 파워를 자랑했다. 볼빨간사춘기는 5월 14일과 15일 단독 콘서트 'Seoul'을 개최한다. 앞서 볼빨간사춘기는 지난 20일 새 미니앨범]]></content>
     </entry>
 </feed>
