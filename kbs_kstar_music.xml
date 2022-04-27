@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 01:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 03:42:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임창정 '멀티버스' 전국투어 콘서트]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=205358</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=205358</guid>
+            <pubDate>Wed, 27 Apr 2022 03:40:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=205358">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220427105142_8372834694f1a5d14a960d24e62ab6f3.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=205358">임창정 '멀티버스' 전국투어 콘서트</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220427105142_8372834694f1a5d14a960d24e62ab6f3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아스트로, 정규 3집 컴백 카운트다운 돌입!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=205317</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204767">FT아일랜드, 3년 만에 콘서트 개최!</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220425084753_9612a372434a4a4a4f90a4f8a7196bf7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[르세라핌  ‘FEARLESS’, 트랙리스트 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=204754</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204754</guid>
-            <pubDate>Mon, 25 Apr 2022 03:43:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204754">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220425082953_a64aba96b08972ef71461eeeacabf7c5.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204754">르세라핌  ‘FEARLESS’, 트랙리스트 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220425082953_a64aba96b08972ef71461eeeacabf7c5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
