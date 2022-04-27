@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-04-27T14:16:55.727Z</updated>
+    <updated>2022-04-27T15:18:42.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[나의 인생곡(66)] 조용필 '돌아와요 부산항에', 우여곡절 속 탄생]]></title>
+        <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000146240</id>
+        <link href="https://entertain.naver.com/now/read?oid=629&amp;aid=0000146240"/>
+        <updated>2022-04-27T15:18:26.410Z</updated>
+        <content type="html"><![CDATA['돌아와요 부산항에'→'돌아와요 충무항에'→'돌아와요 부산항에' 조용필은 우리 가요계에 살아있는 역사, 전설로 통하는 가수다. 1980년대 이후 처음 '오빠부대'라는 용어를 등장시킨 그는 대중적 인지도와 인기에 걸맞]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소유(SOYOU) - 썸2 (Feat.정용화) 쇼케이스 라이브 직캠[엑's 영상]]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001440878</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003048543"/>
         <updated>2022-04-27T10:19:18.553Z</updated>
         <content type="html"><![CDATA[2022 볼빨간사춘기 단독 콘서트 'Seoul'이 전석 매진을 기록하며 티켓 파워를 자랑했다. 볼빨간사춘기는 5월 14일과 15일 단독 콘서트 'Seoul'을 개최한다. 앞서 볼빨간사춘기는 지난 20일 새 미니앨범]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다크비 "용감한 형제에 반항 NO, 어필하려고 노력" [종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001440842</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001440842"/>
-        <updated>2022-04-27T10:19:18.554Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 그룹 다크비(DKB)가 소속사 대표 용감한 형제에게 반항한 적 없다고 밝혔다. 다크비의 네 번째 미니앨범 'REBEL'(레벨) 발매 기념 온·오프라인 미디어 쇼케이스가 27일 오후 서울 용]]></content>
     </entry>
 </feed>

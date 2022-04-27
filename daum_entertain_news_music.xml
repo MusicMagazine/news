@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-04-27T14:16:55.733Z</updated>
+    <updated>2022-04-27T15:18:42.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조용필 '돌아와요 부산항에', 우여곡절 속 탄생]]></title>
+        <id>https://entertain.v.daum.net/v/20220428000020914</id>
+        <link href="https://entertain.v.daum.net/v/20220428000020914"/>
+        <updated>2022-04-27T15:18:07.241Z</updated>
+        <content type="html"><![CDATA['돌아와요 부산항에'→'돌아와요 충무항에'→'돌아와요 부산항에' [더팩트 ㅣ 강일홍 기자] 조용필은 우리 가요계에 살아있는 역사, 전설로 통하는 가수다. 1980년대 이후 처음 '오빠부대'라는 용어를 등장시킨 그는 대중적 인지도와 인기에 걸맞게 '가왕(歌王)'으로 불리기도 하지만, 정작 본인은 이런 호칭보다는 그냥 '조용필'이라는 이름 석 자로 불러주]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엑소 찬열, 손가락 욕설 루머 법적대응..논란 지핀 유튜버는 '침묵']]></title>
         <id>https://entertain.v.daum.net/v/20220427213936181</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220427182722255"/>
         <updated>2022-04-27T10:19:00.316Z</updated>
         <content type="html"><![CDATA[미니 1집 '데이&amp;나이트' 발표…"다채로운 매력으로 가득 채운 음반" (서울=연합뉴스) 김예나 기자 = "누군가 이번 앨범에 대해 '무슨 페스티벌 라인업 아니냐'라고 쓴 글을 봤어요. 그 말처럼 노래를 듣고 페스티벌에 온 느낌이 드셨으면 좋겠어요." 솔로 활동을 시작한 뒤 '썸'(Some), '오피셜리 미싱 유 투'(Officially missing you]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["한 끼도 못 먹어.." 소유, 기분 좋은 떨림 속 컴백]]></title>
-        <id>https://entertain.v.daum.net/v/20220427182704248</id>
-        <link href="https://entertain.v.daum.net/v/20220427182704248"/>
-        <updated>2022-04-27T10:19:00.317Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김현식 기자] “음악 페스티벌 같다는 느낌을 받으셨으면 좋겠어요.” 화려한 피처링 라인업이 돋보이는 새 앨범으로 컴백한 가수 소유의 말이다. 소유는 하루를 보내며 문득문득 떠오르는 감정들에 대한 이야기를 풀어낸 5곡을 담은 새 미니앨범 ‘데이 앤드 나이트’(Day&amp;Night)로 돌아왔다. 비오, 정용화, 적재, 다비 등 다양한 색깔을]]></content>
     </entry>
 </feed>
