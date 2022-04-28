@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 22:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 23:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[싸이(PSY) 컴백, 정규 9집 '싸다9' 발표 (KBS연예 ─ 음악)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=205785</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=205785</guid>
+            <pubDate>Thu, 28 Apr 2022 23:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=205785">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220429080208_04c49c715faeaef7c9ba6364a0d69157.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=205785">싸이(PSY) 컴백, 정규 9집 '싸다9' 발표 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220429080208_04c49c715faeaef7c9ba6364a0d69157.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰①] 다크비, '브레이브걸스 남동생' 벗어나 독보적 콘셉트 가진 아티스트로 (KBS연예 ─ 음악)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=205704</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204992">미국 진출하는 비비지, 한복 입고 무대 오른다!</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220426083503_c3f56fb41899f3f94f7cab05cf841f19.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['러블리즈' 이수정 홀로서기, 'My Name' 발표 (KBS연예 ─ 음악)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=204974</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204974</guid>
-            <pubDate>Tue, 26 Apr 2022 01:06:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204974">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220426082544_14537077e0563d02d755d66437c92254.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204974">'러블리즈' 이수정 홀로서기, 'My Name' 발표 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220426082544_14537077e0563d02d755d66437c92254.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['펜싱돌' 보나, 이번엔 요거트 '모델' (KBS연예 ─ 연예)]]></title>
@@ -776,109 +776,186 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/28/367a4704-2b11-44e2-a642-9c782c42ad0d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[싸이, 오늘 5년만 가수 컴백..슈가X수지X제시X화사 막강 라인업 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220429071302309</link>
-            <guid>https://entertain.v.daum.net/v/20220429071302309</guid>
-            <pubDate>Thu, 28 Apr 2022 22:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 윤상근 기자] /사진제공=피네이션 가수 싸이(PSY)가 5년 만에 정규 9집 '싸다9'로 가요계에 돌아온다. 싸이(PSY)는 29일 오후 6시 국내외 온라인 음원 사이트를 통해 정규 9집 '싸다9'를 발매한다. '싸다9'는 싸이만의 유쾌한 감성을 살린 앨범 타이틀로 '싸이의 다채로운 9집'이라는 뜻을 갖고 있다. 싸이는 이번 앨범에 담긴 총]]></content:encoded>
+            <title><![CDATA[싸이, 5년만 정규 9집 '싸다9' 발매..슈가·수지→화사 협업 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220429081500209</link>
+            <guid>https://entertain.v.daum.net/v/20220429081500209</guid>
+            <pubDate>Thu, 28 Apr 2022 23:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[싸이(PSY)가 5년 만에 정규 9집 '싸다9'로 컴백한다. 싸이(PSY)는 29일 오후 6시 국내외 각종 온라인 음원 사이트를 통해 정규 9집 '싸다9'를 발매한다. '싸다9'는 싸이만의 유쾌한 감성을 살린 앨범 타이틀로 '싸이의 다채로운 9집'이라는 뜻을 갖고 있다. 싸이는 이번 앨범에 담긴 총 12곡을 각각의 개성 강한 아트워크 이미지로 발표하며 남다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[싸이, 오늘 5년 만에 정규 9집 '싸다9' 발매..BTS 슈가→수지 지원사격 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220429070703244</link>
-            <guid>https://entertain.v.daum.net/v/20220429070703244</guid>
-            <pubDate>Thu, 28 Apr 2022 22:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 서지현 기자] 싸이(PSY)가 5년 만에 정규 9집 '싸다9'로 가요계에 돌아온다. 29일 저녁 6시 싸이는 국내외 각종 온라인 음원 사이트를 통해 정규 9집 '싸다9'를 발매한다. '싸다9'는 싸이만의 유쾌한 감성을 살린 앨범 타이틀로 '싸이의 다채로운 9집'이라는 뜻을 갖고 있다. 싸이는 이번 앨범에 담긴 총 12곡을 각각의 개성 강한 아]]></content:encoded>
+            <title><![CDATA[청하, 김완선 '나만의 것' 리메이크..'서울체크인' OST 합류 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220429080707064</link>
+            <guid>https://entertain.v.daum.net/v/20220429080707064</guid>
+            <pubDate>Thu, 28 Apr 2022 23:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 윤상근 기자] /사진제공=주식회사 테오 가수 청하가 김완선의 히트곡을 리메이크하며 '서울체크인'의 감동 지수를 높인다. 티빙 오리지널 '서울체크인'(연출 김태호, 김훈범, 강령미/ 작가 최혜정)은 오는 30일 낮 12시 4번째 OST 청하 '나만의 것'을 발매한다고 밝혔다. 청하의 '나만의 것'은 지난 1990년 발매된 김완선의 원곡을 약]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[개코, ♥김수미와 정식 첫 듀엣..5월 3일 '눈에 넣어도' 발매 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220429070655242</link>
-            <guid>https://entertain.v.daum.net/v/20220429070655242</guid>
-            <pubDate>Thu, 28 Apr 2022 22:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이슬 기자) 다이나믹듀오 개코가 아내 김수미 씨와 첫 정식 듀엣곡을 선보인다. 개코는 오는 5월 3일 '개작실(Gaejaksil)' 프로젝트 네 번째 음원이자 SUMI와의 컬래버레이션 싱글 '눈에 넣어도'를 발매한다.&nbsp; 지난 28일 오후 아메바컬쳐 공식 SNS를 통해 개코의 아내 김수미 씨의 사진이 공개되며, 피처링 아티스트 SUMI의 정]]></content:encoded>
+            <title><![CDATA[블랭키, 첫 리얼리티 종료→데뷔 앞둔 소감..팬들 깜짝 응원 메시지에 눈물 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220429080132956</link>
+            <guid>https://entertain.v.daum.net/v/20220429080132956</guid>
+            <pubDate>Thu, 28 Apr 2022 23:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=이승훈 기자] 블랭키(BLANK2Y)가 데뷔를 앞둔 속마음을 고백한다.&nbsp; 오는 5월 1일 0시 블랭키 공식 유튜브 채널과 글로벌 실시간 스트리밍 플랫폼 케이브콘(KAVECON)을 통해 데뷔 리얼리티 예능 '블랭키스(BLANK2Y’S)' 최종회가 공개된다. 4일 오후 3시에는 올레 tv에서도 시청 가능하다. 이날 블랭키는 스페셜 시사회 '블랭키]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 뷔, '오디션 프리패스상 男아이돌' 1위..본투비 아이돌 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220429070625239</link>
-            <guid>https://entertain.v.daum.net/v/20220429070625239</guid>
-            <pubDate>Thu, 28 Apr 2022 22:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 문완식 기자] 2013년 당시 방탄소년단 뷔(BTS V)방탄소년단(BTS) 뷔가 '오디션 프리패스상 남자아이돌' 1위에 등극했다. 뷔는 4월 19일부터 26일까지 최애돌에서 진행된 '오디션 프리패스상인 남돌은?' 설문에서 2만 892표를 획득 1위에 올랐다. 오디션프리패스상은 댄스, 노래, 카메라 테스트 등 본격적인 오디션을 보지도 않아도,]]></content:encoded>
+            <title><![CDATA[윤지성 "가수는 발전해야 하는 직업, 그만큼 도전의식 있어요" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220429080031927</link>
+            <guid>https://entertain.v.daum.net/v/20220429080031927</guid>
+            <pubDate>Thu, 28 Apr 2022 23:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[[서울경제] 군 전역 후 윤지성의 삶은 쉴 틈이 없었다. 하루빨리 팬들과 만나고 싶어 팬미팅을 마련했고, 활동 영역을 넓혀 드라마·뮤지컬에서도 활약했다. 말 그대로 앞만 보고 달렸다. 하지만 뿌듯하기만 할 것 같은 1년이 허무하게 느껴지는 순간 무너졌다. 그는 그렇게 힘든 시간을 보내며 깨달았던 것을 새 앨범에 고스란히 녹여냈다. 윤지성이 하고 싶은 이야]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['발라드 여제' 이수영, 오늘 정규 10집 선공개곡 '덧' 발매 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220429070607235</link>
-            <guid>https://entertain.v.daum.net/v/20220429070607235</guid>
-            <pubDate>Thu, 28 Apr 2022 22:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 가수 이수영이 선공개곡으로 설레는 마음을 전한다. 이수영은 4월 29일 오후 6시 온라인 음원사이트를 통해 열 번째 정규앨범 선공개 싱글 ‘덧’을 발매한다. ‘덧’은 지난 2009년 발매된 정규 9집 ‘DAZZLE’ 이후 이수영이 13년 만에 발표하는 정규 10집에 수록 예정인 트랙으로, 아티스트 특유의 독보적인 감성과 애절함이 돋]]></content:encoded>
+            <title><![CDATA[싸이, 정규 9집 '싸다9'로 보여줄 어나더 클라쓰..BTS 슈가⋅수지→화사⋅지코 협업 기대 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220429080007894</link>
+            <guid>https://entertain.v.daum.net/v/20220429080007894</guid>
+            <pubDate>Thu, 28 Apr 2022 23:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=이승훈 기자] 싸이(PSY)가 5년 만에 정규 9집 '싸다9'로 가요계에 돌아온다. 싸이(PSY)는 29일 오후 6시 국내외 각종 온라인 음원 사이트를 통해 정규 9집 '싸다9'를 발매한다. '싸다9'는 싸이만의 유쾌한 감성을 살린 앨범 타이틀로 '싸이의 다채로운 9집'이라는 뜻을 갖고 있다. 싸이는 이번 앨범에 담긴 총 12곡을 각각의 개성]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[싸이, 오늘 5년만 정규 9집 발매..BTS 슈가 지원사격 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220429070431207</link>
-            <guid>https://entertain.v.daum.net/v/20220429070431207</guid>
-            <pubDate>Thu, 28 Apr 2022 22:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 싸이(PSY)가 5년 만에 정규 9집으로 돌아온다. 싸이(PSY)는 4월 29일 오후 6시 국내외 각종 온라인 음원 사이트를 통해 정규 9집 '싸다9'를 발매한다. '싸다9'는 싸이만의 유쾌한 감성을 살린 앨범 타이틀로 '싸이의 다채로운 9집'이라는 뜻을 갖고 있다. 싸이는 이번 앨범에 담긴 총 12곡을 각각의 개성 강한 아트워크]]></content:encoded>
+            <title><![CDATA[개코, ♥︎아내 SUMI와 정식 듀엣 성사..5월 3일 '눈에 넣어도' 발매 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220429075306798</link>
+            <guid>https://entertain.v.daum.net/v/20220429075306798</guid>
+            <pubDate>Thu, 28 Apr 2022 23:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=선미경 기자] 그룹 다이나믹듀오 멤버 개코가 아내 김수미 씨와 첫 정식 듀엣곡을 발표한다.&nbsp; 개코는 오는 5월 3일 '개작실(Gaejaksil)' 프로젝트 네 번째 음원이자 SUMI와의 컬래버레이션 싱글 '눈에 넣어도'를 발매한다.&nbsp; 지난 28일 오후 아메바컬쳐 공식 SNS를 통해 개코의 아내 김수미 씨의 사진이 공개되며, 피처링 아티스트 S]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[개코, ♥ 아내 수미와 정식 듀엣..5월 3일 '눈에 넣어도' 발매 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220429070320190</link>
-            <guid>https://entertain.v.daum.net/v/20220429070320190</guid>
-            <pubDate>Thu, 28 Apr 2022 22:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 다이나믹듀오 개코가 아내 김수미 씨와 듀엣곡을 선보인다. 개코는 오는 5월 3일 '개작실(Gaejaksil)' 프로젝트 네 번째 음원이자 SUMI와의 컬래버레이션 싱글 '눈에 넣어도'를 발매한다. 지난 28일 오후 아메바컬쳐 공식 SNS를 통해 개코의 아내 김수미 씨의 사진이 공개되며, 피처링 아티스트 SUMI의 정체가 베일을 벗었]]></content:encoded>
+            <title><![CDATA['퀸덤2' 효린, 자신감 잃은 민영 안고 보컬 유닛 대결 돌입 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220429075207785</link>
+            <guid>https://entertain.v.daum.net/v/20220429075207785</guid>
+            <pubDate>Thu, 28 Apr 2022 23:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 김한길 기자] '퀸덤2' 효린이 자신감을 잃은 브레이브걸스의 민영과 보컬 유닛을 이뤘다. 28일 밤 방송된 Mnet 걸그룹 서바이벌 프로그램 '퀸덤2'에서는 3차 경연 1라운드, 포지션 유닛 대결에 나서는 모습이 그려졌다. 이날 효린은 보컬 유닛에 함께할 파트너로 브레이브걸스의 민영을 택했다. 비비지 은하와 우주소녀의 수빈, 연정의 구애가]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[싸이, 오늘 5년 만에 정규 9집 발매..BTS 슈가→수지 협업 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220429070319188</link>
-            <guid>https://entertain.v.daum.net/v/20220429070319188</guid>
-            <pubDate>Thu, 28 Apr 2022 22:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이슬 기자) 싸이(PSY)가 5년 만에 정규 9집 '싸다9'로 가요계에 돌아온다. 싸이(PSY)는 29일 오후 6시 국내외 각종 온라인 음원 사이트를 통해 정규 9집 '싸다9'를 발매한다. '싸다9'는 싸이만의 유쾌한 감성을 살린 앨범 타이틀로 '싸이의 다채로운 9집'이라는 뜻을 갖고 있다. 싸이는 이번 앨범에 담긴 총 12곡을 각각의 개]]></content:encoded>
+            <title><![CDATA[AB6IX, 새 앨범 'A to B' 프로모션 스케줄 공개..컴백 카운트다운 돌입 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220429074929744</link>
+            <guid>https://entertain.v.daum.net/v/20220429074929744</guid>
+            <pubDate>Thu, 28 Apr 2022 23:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=선미경 기자] 그룹 AB6IX(에이비식스)가 새 앨범의 프로모션 스케줄을 공개하며 본격적인 컴백 카운트다운에 돌입했다. 브랜뉴뮤직은 29일 0시에&nbsp;AB6IX의 공식&nbsp;SNS&nbsp;채널들을 통해 오는&nbsp;5월&nbsp;18일에 발매되는&nbsp;AB6IX 5TH EP ‘A to B’의 프로모션 스케줄러 이미지를 공개했다. 공개된 스케줄러에는 신비로운 하얀 벽과 계단을 배경]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['만능 프로듀서' 지코, 오늘 소집해제 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220429070309184</link>
-            <guid>https://entertain.v.daum.net/v/20220429070309184</guid>
-            <pubDate>Thu, 28 Apr 2022 22:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[가수 겸 프로듀서 지코(본명 우지호)가 29일 소집해제 된다. 지코는 이날 오후 사회복무요원으로서 대체복무를 마치고 소집해제, 민간인으로 돌아온다. 지코는 지난 2020년 7월 입소, 4주간 기초군사훈련을 받고 21개월간 사회복무요원으로 대체복무해왔다. 2011년 블락비 싱글 앨범 ’두 유 워너 비?(Do U Wanna B)?’로 데뷔한 지코는 ‘베리]]></content:encoded>
+            <title><![CDATA[아스트로, 3종 앨범으로 꽉 채운 '청량 프리즘'..오늘 예판 오픈 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220429074822730</link>
+            <guid>https://entertain.v.daum.net/v/20220429074822730</guid>
+            <pubDate>Thu, 28 Apr 2022 23:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=이승훈 기자] 그룹 아스트로(ASTRO)가 청량한 매력을 가득 담은 정규 3집 'Drive to the Starry Road' 예약 판매를 시작한다. 아스트로는 지난 28일 오후 소속사 판타지오 공식 SNS를 통해 세 번째 정규앨범 'Drive to the Starry Road'(드라이브 투 더 스태리 로드)를 미리 만나볼 수 있는 프리뷰 이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[호주서 '노는' 한국계 힙합 그룹 1300 "진지하지 않은 게 매력" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220429070305178</link>
-            <guid>https://entertain.v.daum.net/v/20220429070305178</guid>
-            <pubDate>Thu, 28 Apr 2022 22:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 김예나 기자 = "전하고 싶은 메시지요? 그냥 누군가 우리를 봤을 때 '저 사람들이랑 같이 놀고 싶다' 이렇게 생각해줬으면 좋겠어요. 하하" (고요) 호주 시드니에서 활동하는 한국계 힙합 그룹 1300(일삼공공)에게 '어떤 음악을 하고 싶냐'고 묻자 난데없이 '뽀로로'라는 답이 돌아왔다. 어떤 생각 없이 그저 노는 게 제일 좋다는 뜻에서다]]></content:encoded>
+            <title><![CDATA[싸이, 오늘 5년만에 정규 9집 컴백..슈가→수지 막강 지원사격 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220429074810729</link>
+            <guid>https://entertain.v.daum.net/v/20220429074810729</guid>
+            <pubDate>Thu, 28 Apr 2022 23:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 가수 싸이(PSY)가 5년 만에 정규 9집으로 가요계에 돌아온다. 싸이는 29일 오후 6시 국내외 각종 온라인 음원 사이트를 통해 정규 9집 '싸다9'를 발매한다. '싸다9'는 싸이만의 유쾌한 감성을 살린 앨범 타이틀로 '싸이의 다채로운 9집'이라는 뜻을 갖고 있다. 싸이는 이번 앨범에 담긴 총 12곡을 각각의 개성 강한]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 진, 'PC방 같이 가고 싶은 아이돌' 1위 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220429070026115</link>
-            <guid>https://entertain.v.daum.net/v/20220429070026115</guid>
-            <pubDate>Thu, 28 Apr 2022 22:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 문완식 기자] 방탄소년단(BTS) 진이 'PC방 같이 가고 싶은 아이돌' 1위에 오르며 인기를 입증했다. 진은 4월 18일 오전 10시부터 4월 27일 오후 11시 59분까지 아이돌 챔프에서 진행된 'PC방 같이 가고 싶은 아이돌은?'설문에서 1위를 차지했다. 진은 14명의 후보 중에서 47.35%의 과반수에 달하는 득표율로 1위에 오르며]]></content:encoded>
+            <title><![CDATA[르세라핌, 'FEARLESS' 뮤직비디오 티저..환상 비주얼 시선 집중 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220429074621710</link>
+            <guid>https://entertain.v.daum.net/v/20220429074621710</guid>
+            <pubDate>Thu, 28 Apr 2022 23:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이슬기 기자] '하이브 최초 걸그룹' 르세라핌(LE SSERAFIM)이 물 오른 비주얼로 뮤직비디오 티저 영상을 공개했다. 르세라핌(김채원, 사쿠라, 허윤진, 카즈하, 김가람, 홍은채)은 4월 29일 공식 SNS에 데뷔곡 ‘FEARLESS’의 첫 번째 뮤직비디오 티저를 공개해 시선을 끌었다. 공개된 영상에서 클로즈업을 부르는 환상 비주얼을 자랑한]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['나'를 투영한 음악..그룹 출신 아이돌의 '자아 찾기' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220429070014101</link>
-            <guid>https://entertain.v.daum.net/v/20220429070014101</guid>
-            <pubDate>Thu, 28 Apr 2022 22:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[이수정 미연 윤지성이 '나'를 음악으로 전하는 방법 [더팩트 | 정병근 기자] 그룹 활동을 하면 자신의 정체성보다는 팀 색깔이 우선시된다. 오랫동안 많은 사랑을 받은 팀인 경우 멤버 각각의 정체성은 더 희미해진다. 최근 솔로 앨범을 발매한 아이돌그룹 출신 가수들의 고민도 그 지점에 있는 듯 하다. 하루 차이로 나란히 솔로로 출격한 이수정, 미연, 윤지]]></content:encoded>
+            <title><![CDATA['러블리즈→솔로' 이수정 "드디어 이수정이라는 이름으로" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220429074547698</link>
+            <guid>https://entertain.v.daum.net/v/20220429074547698</guid>
+            <pubDate>Thu, 28 Apr 2022 23:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 가수 이수정이 솔로로 돌아왔다. 이수정은 4월 26일 오후 6시 각종 음원 사이트를 통해 첫 번째 미니 앨범 '마이 네임(My Name)'을 발매하고 홀로서기를 시작했다. '마이 네임'은 이수정이 지난 2014년 그룹 러블리즈(Lovelyz)로 데뷔한 이후 8년 만에 선보이는 첫 솔로 앨범이자, 본명으로 활동명을 변경한 후 처음]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[K팝 해외 팬 막강 존재감..없는 춤도 만들어 노래 띄운다 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220429070010096</link>
-            <guid>https://entertain.v.daum.net/v/20220429070010096</guid>
-            <pubDate>Thu, 28 Apr 2022 22:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 이태수 기자 = 노래의 흥행을 위해 숏폼 플랫폼에서 이른바 '챌린지'(Challenge)를 활용하는 사례는 어제오늘의 일이 아니다. 하지만 과거에는 가수가 주도적으로 영상을 올려 챌린지를 주도했다면, 이제는 해외 팬덤이 없는 춤까지 자발적으로 만들어 노래를 띄우는 '챌린지 역수입' 현상이 나타나고 있다. 29일 가요계에 따르면 대표적인 숏]]></content:encoded>
+            <title><![CDATA["일곱 나무들이 모여 울창한 숲" 방탄소년단 뷔, 감동 자작시 '뭉클' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220429074352677</link>
+            <guid>https://entertain.v.daum.net/v/20220429074352677</guid>
+            <pubDate>Thu, 28 Apr 2022 23:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 문완식 기자] 방탄소년단(BTS) 뷔가 인더섬 '제목 짓기' 편에서 사랑스러운 비주얼과 감동적인 시로 전 세계 팬들을 사로잡았다. 방탄소년단 멤버들의 캐릭터를 활용한 모바일 퍼즐 게임이 출시될 예정으로 지난 26일 'BTS Island: In the SEOM' 공식 트위터와 유튜브 채널을 통해 'BTS 게임 개발자 되다! ep.1 게임 타이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[BTS 지민, 전액 현금 매입 아파트 세무조사 받을 수 있다 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220429060117444</link>
-            <guid>https://entertain.v.daum.net/v/20220429060117444</guid>
-            <pubDate>Thu, 28 Apr 2022 21:14:46 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울]그룹 방탄소년단의 지민, 배우 한소희, 스타강사 현우진의 공통점은 고가의 주택을 전액 현금으로 구입했다는 것입니다. 지민이 장기간 해외 공연으로 건강보험료 연체 사실을 알지 못해 대출 없이 전액 현금으로 매입한 59억원 아파트를 압류당한 후 전액 납부해 화제가 됐어요. 한소희도 최근 경기도 구리시 아치울 마을의 빌라드그리움]]></content:encoded>
+            <title><![CDATA['5월 3일 컴백' 려욱, 오늘 '오늘만은' MV 티저 공개..독보적 감성 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220429074125642</link>
+            <guid>https://entertain.v.daum.net/v/20220429074125642</guid>
+            <pubDate>Thu, 28 Apr 2022 23:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이슬 기자) 가수 려욱이 미니 3집 타이틀곡 뮤직비디오 티저 영상으로 솔로 컴백 열기를 더한다. 려욱은 29일 오후 6시 슈퍼주니어 공식 유튜브 채널에 세 번째 미니앨범 'A Wild Rose (어 와일드 로즈)' 타이틀곡 '오늘만은 (Hiding Words)'의 뮤직비디오 티저 영상을 공개한다. '오늘만은 (Hiding Words)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['퀸덤2' 역시 효린, 보컬-댄스 유닛 모두 참가 "1등 할것" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220429002807340</link>
-            <guid>https://entertain.v.daum.net/v/20220429002807340</guid>
-            <pubDate>Thu, 28 Apr 2022 16:24:10 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김한길 기자] '퀸덤2' 가수 효린이 보컬-댄스 유닛 대결에 모두 자신감을 보였다. 28일 밤 방송된 Mnet 걸그룹 서바이벌 프로그램 '퀸덤2'에서는 참가 팀들이 3차 경연 1라운드, 포지션 유닛 대결에 나서는 모습이 그려졌다. 포지션 유닛 대결은 보컬, 댄스 포지션 중복 출전이 가능했다. 이에 솔로인 효린이 한 포지션만 참여할지, 두 포]]></content:encoded>
+            <title><![CDATA[르세라핌, 완성형 비주얼..데뷔곡 'FEARLESS' 뮤비 티저 공개 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220429073721596</link>
+            <guid>https://entertain.v.daum.net/v/20220429073721596</guid>
+            <pubDate>Thu, 28 Apr 2022 23:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 오윤주 기자] 걸그룹 르세라핌(LE SSERAFIM)이 뮤직비디오 티저를 통해 비주얼을 한껏 과시했다. 르세라핌(김채원, 사쿠라, 허윤진, 카즈하, 김가람, 홍은채)은 29일 0시 공식 SNS에 데뷔곡 'FEARLESS' 첫 번째 뮤직비디오 티저를 공개했다. 클로즈업을 부르는 환상 비주얼을 자랑한 여섯 멤버는 저마다의 방식으로 거침 없는]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오대환→이호철 '악카펠라' 파격 5부작 편성 "6월 2일 첫 방송" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220429080726070</link>
+            <guid>https://entertain.v.daum.net/v/20220429080726070</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박아름 기자] ‘악카펠라’ 김준배, 오대환, 이중옥, 현봉식, 이호철이 만들어낼 하모니에 관심이 집중된다. 4월29일 MBC 새 예능 ‘악카펠라’ 측은 6월 2일 목요일 오후 10시 첫 방송 확정 소식을 알렸다. ‘악카펠라’는 대한민국 최고 빌런 배우들의 아카펠라 도전기를 담은 음악 예능이다. 아카펠라는 물론, 계이름조차 몰랐던 멤버들이 오직 목]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이주빈, 앤드마크와 전속계약..김다미·김혜준 한솥밥 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220429080024921</link>
+            <guid>https://entertain.v.daum.net/v/20220429080024921</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 배우 이주빈이 앤드마크와 손잡고 새롭게 출발한다.&nbsp; 29일 엑스포츠뉴스 취재 결과, 이주빈은 최근 소속사 앤드마크와 전속계약을 체결했다.&nbsp; 이주빈은 지난 2017년 SBS '귓속말'로 데뷔, tvN '미스터 션샤인'에서 계향 역을 맡으며 주목받기 시작했다. 이후 KBS2 '하나뿐인 내편', JTBC '멜로가 체질', KBS2]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[현빈·손예진, 결혼→신행 귀국까지 핫한 '세기의 커플' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220429075625849</link>
+            <guid>https://entertain.v.daum.net/v/20220429075625849</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[17일간의 신혼여행 마치고 28일 귀국 [더팩트 | 정병근 기자] 세기의 커플다웠다. 현빈-손예진 부부는 결혼부터 신혼여행 그리고 귀국하는 순간까지 뜨거운 관심을 모았다. 현빈과 손예진 부부가 미국에서의 신혼여행 일정을 마치고 28일 오후 인천국제공항으로 귀국했다. 이날 이들의 귀국 모습을 담기 위해 취재진이 몰렸다. 두 사람은 놀란 것도 잠시, 여유]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['주접이 풍년' 하이라이트, 팬 응원 멘트에 '감사의 눈물' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220429075205784</link>
+            <guid>https://entertain.v.daum.net/v/20220429075205784</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 하이라이트가 '주접이 풍년'에서 팬들과 '쌍방향' 사랑을 나눴다. 지난 28일 방송된 KBS 2TV 예능프로그램 '팬심자랑대회 주접이 풍년' 13회에는 하이라이트와 공식 팬클럽 라이트가 출연해 스튜디오를 주접으로 꾸몄다. 이진혁은 스페셜 MC로 투입돼 박미선의 빈자리를 채웠다. 이날 오프닝에서 MC 이태곤은 '쇼크', '픽션' 등 히트곡을 줄줄이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["11년 전 SNS 답장 힘 나"→"우리 믿어"..하이라이트 팬♥에 눈물 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220429075011761</link>
+            <guid>https://entertain.v.daum.net/v/20220429075011761</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 문지연 기자] '주접이 풍년' 하이라이트가 팬들과 쌍방향 사랑으로 '어덕행덕'을 이뤄냈다. 지난 28일 방송된 KBS 2TV 예능프로그램 '팬심자랑대회 주접이 풍년' 13회에는 하이라이트와 공식 팬클럽 라이트가 출연해 스튜디오를 주접으로 꾸몄다. 이진혁은 스페셜 MC로 투입돼 박미선의 빈자리를 채웠다. 이날 오프닝에서 MC 이태]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[현빈♥손예진, 美 허니문 마치고 귀국..이후 활동은? (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220429074501687</link>
+            <guid>https://entertain.v.daum.net/v/20220429074501687</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[배우 현빈 손예진 부부가 달콤한 미국 신혼여행을 마치고 귀국했다. 두 사람은 지난 28일 오후 인천국제공항을 통해 입국했다. 지난 11일 미국으로 신혼여해을 떠난지 약 2주 만이다. 현장에는 수많은 취재진이 포토라인을 만들어 두 사람의 허니문 귀국을 취재했다. 현빈이 먼저 모습을 드러내고 손예진이 그를 따라 취재진 앞에 등장했다. 현빈은 모자와 셔츠와 팬]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["자기야!" 외치며 등장한 김혜수, '왜?' 지옥 가둔 회장님 행차 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220429074204653</link>
+            <guid>https://entertain.v.daum.net/v/20220429074204653</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 문지연 기자] '어쩌다 사장2'에 회장님급 알바생(아르바이트생) 김혜수가 등장한다. 28일 방송된 tvN 예능프로그램 '어쩌다 사장2' 예고편에는 새로운 알바생 김혜수와 박경혜의 등장이 그려졌다. 이날 김혜수는 등장과 동시에 하이톤의 음성으로 활기를 불어넣었고, "자기야!'를 외치며 조인성에게 달려가 안기는 등 폭풍 친화력을 보]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김재환, 오늘 '별똥별' OST 'How I Feel' 발매 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220429073412567</link>
+            <guid>https://entertain.v.daum.net/v/20220429073412567</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 가수 김재환이 tvN 금토드라마 ‘별똥별’ OST 두 번째 주자로 나섰다. '별똥별' OST Part.2 ‘김재환 - How I Feel’은 4월 28일 오후 6시 각종 음원사이트를 통해 공개된다. tvN 금토드라마 ‘별똥별(극본 최연수/연출 이수현)은 ‘별(STAR)들의 똥을 치우는 별별 사람들’이란 뜻으로, 하늘의 별과 같은 스]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[현빈♥손예진, 알콩달콩 깨가 쏟아졌던 신혼여행 귀국길 "행쇼~" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220429073003495</link>
+            <guid>https://entertain.v.daum.net/v/20220429073003495</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=장다희 기자]떠날 땐 각자였지만, 돌아올 땐 함께였다. 배우 현빈, 손예진 부부가 미국 신혼여행을 마치고 28일 따뜻한 환영과 함께 귀국했다. 지난 11일 미국으로 신혼여행을 떠났던 현빈, 손예진 부부가 이날 오후 인천국제공항을 통해 다시 한국 땅을 밟았다. 미국 LA로 출국해 17일의 꿈결같은 허니문을 즐긴 뒤 두 사람은 환한 미소로]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[효린, 댄스 유닛+보컬 유닛 동시 참여?..브브걸 민영 지목 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220429072654464</link>
+            <guid>https://entertain.v.daum.net/v/20220429072654464</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 문지연 기자] '퀸덤2' 효린이 3차 경연에서 댄스 유닛에 보컬 유닛까지 참여한다. 특히 보컬 유닛 결성에서는 브레이브걸스 민영과 호흡을 맞추게 됐다. 28일 방송된 Mnet '퀸덤2'에서는 '퀸덤2'에서 3차 경연 1라운드 주제인 포지션 유닛 대결 룰이 공개됐다. 참가자들이 보컬 유닛과 댄스 유닛의 갈림길에 선 가운데 효린은]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["아빠와 아들 같아"..정동원·박창근, '35세 차이' 뛰어넘은 환상 호흡 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220429071946402</link>
+            <guid>https://entertain.v.daum.net/v/20220429071946402</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 문지연 기자] 가수 정동원과 박창근이 환상의 호흡을 보여줬다. 28일 방송된 TV CHOSUN '국가가 부른다'에는 35세 차이를 자랑하는 정동원과 박창근의 듀엣 무대가 그려졌다. 두 사람은 큰 나이차에도 불구하고 완벽한 무대를 함께 펼치며 시선을 사로잡았다. 박창근은 정동원에 대해 "트로트계의 왕자"라고 소개했고, 정동원은 훤칠]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[현빈♥손예진 '거침없는 애정표현, 허니문 효과' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
@@ -907,83 +984,6 @@
             <guid>https://entertain.v.daum.net/v/20220429070305179</guid>
             <pubDate>Thu, 28 Apr 2022 22:15:47 GMT</pubDate>
             <content:encoded><![CDATA[코로나19로 지친 시청자들에게 달달함과 유쾌함을 선사한 드라마가 있다. 최근 종영한 SBS 월화드라마 ‘사내맞선’(연출 박선호)이다. ‘사내맞선’은 얼굴 천재 사장 강태무(안효섭 분)와 정체를 속인 맞선녀 직원 신하리(김세정 분)의 스릴 가득 ‘퇴사 방지’ 오피스 로맨스를 그린 작품으로 카카오페이지에서 연재된 동명의 인기 웹툰, 웹소설을 원작으로 했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["우리의 꽃밭 짓밟지 말아 달라"..'유퀴즈'토로에 더 거세진 비난 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220429065747067</link>
-            <guid>https://entertain.v.daum.net/v/20220429065747067</guid>
-            <pubDate>Thu, 28 Apr 2022 22:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[‘유퀴즈’. 사진출처 | tvN 방송 캡처 “우리의 꽃밭을 짓밟거나 함부로 꺾지 말아 달라.” 20일 윤석열 대통령 당선인의 출연을 앞뒤로 프로그램 취지 훼손 및 정치색 등 논란을 모은 tvN 예능프로그램 ‘유 퀴즈 온 더 블록’(유퀴즈) 제작진이 이와 관련해 우회적인 방식으로 입장을 밝혔다. 하지만 여전히 시청자 반응은 싸늘하다. ‘유퀴즈’ 제작진은 2]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["장병들에게 상실감 준다"..유승준, 두번째 입국비자 발급 소송 패소 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220429065743065</link>
-            <guid>https://entertain.v.daum.net/v/20220429065743065</guid>
-            <pubDate>Thu, 28 Apr 2022 22:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[유승준“유승준 존재가 장병들에게 상실감과 박탈감” 병역 기피 의혹으로 20년째 한국 입국이 금지된 가수 유승준(스티브 승준 유·45)이 입국 비자를 발급해달라며 제기한 두 번째 소송에서 패소했다. 서울행정법원 행정5부(김순열 부장판사)는 28일 유승준이 주 로스앤젤레스(LA) 총영사를 상대로 낸 여권·사증(비자) 발급 거부처분 취소 소송을 원고 패소로 판]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[OTT 콘텐츠 홍수..영화·드라마 소개 프로그램 뜬다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220429065737062</link>
-            <guid>https://entertain.v.daum.net/v/20220429065737062</guid>
-            <pubDate>Thu, 28 Apr 2022 22:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[최근 극장가와 방송, OTT 등 콘텐츠 플랫폼이 늘어나면서 각종 장르의 영화와 드라마가 쏟아져 나오고 있다. 이에 따라 콘텐츠를 소개하는 프로그램도 연이어 시청자를 찾는다. ‘콘텐츠 홍수’ 속에서 대중과의 접점을 찾기 힘들었던 작품들이 새롭게 발굴되는 무대로도 주목받고 있다. 대표적으로 1993년부터 방송해온 MBC ‘출발 비디오여행’은 주로 영화를 소개]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김혜수, '어쩌다 사장2' 회장님급 알바 예고..차태현X조인성의 '온도차' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220429065005008</link>
-            <guid>https://entertain.v.daum.net/v/20220429065005008</guid>
-            <pubDate>Thu, 28 Apr 2022 22:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선닷컴 이지현 기자] 배우 김혜수가 '어쩌다 사장2'에 등장했다. 28일 방송된 tvN '어쩌다 사장2'의 방송 말미에는 다음 아르바이트생으로 김혜수와 박경혜가 등장했따. 공개된 예고편에서는 아침부터 잔뜩 긴장하는 사장즈 차태현, 조인성의 모습이 그려졌다. 이어 차태현은 "회장님이 알바 체험하러 오시는 느낌 아니냐"라고 이야기했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[신혼여행 생중계 드디어 끝? 현빈♥손예진, 그때는 따로→지금은 같이 입국 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220429064317951</link>
-            <guid>https://entertain.v.daum.net/v/20220429064317951</guid>
-            <pubDate>Thu, 28 Apr 2022 22:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 문지연 기자] 배우 현빈과 손예진 커플의 신혼여행 생중계가 드디어 끝났다. 28일 오후 현빈과 손예진 부부는 미국 신혼여행을 마치고 인천국제공항을 통해 입국했다. 출국 당시 007작전을 방불케하는 모습으로 따로 따로 출국 수속을 마치던 모습과는 완전히 반대로 함께 입국 게이트를 통과하며 눈길을 끌었다. 긴 비행시간 끝에 두 사람은]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아이도 울고, 나도 울고.. 4월을 보내며 듣는 노래 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220429061500687</link>
-            <guid>https://entertain.v.daum.net/v/20220429061500687</guid>
-            <pubDate>Thu, 28 Apr 2022 22:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[오랜 기간, 한국 대중가요를 선곡해 들려주는 라디오 음악방송 작가로 일했습니다. 지금도 음악은 잠든 서정성을 깨워준다고 믿고 있습니다. 그날에 맞춤한 음악과 사연을 통해 하루치의 서정을 깨워드리고 싶습니다. &lt;편집자말&gt; [김혜원 기자] ▲ &nbsp;노영심 '4월이 울고 있네' 앨범 스틸    ⓒ 지구레코드  &nbsp; 4월도 며칠 남지 않았다. 떠나기 전에]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김우빈, 이병헌 덕분에 비인두암 조기 발견→완치? (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220429061002615</link>
-            <guid>https://entertain.v.daum.net/v/20220429061002615</guid>
-            <pubDate>Thu, 28 Apr 2022 21:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) 배우 김우빈이 비인두암을 털어내고 복귀한 가운데, 그가 병을 알게 된 계기가 이병헌 덕분이었다는 주장이 나와 눈길을 끈다. 유튜버 이진호는 지난 27일 진행한 라이브 방송에서 6년 만에 암을 이겨내고 tvN 드라마 '우리들의 블루스'로 복귀한 김우빈에 대한 이야기를 전했다. 그가 밝힌 내용에 따르면 김우빈은&nbsp;지난 2017년]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['집행유예중 마약' 한서희, 오늘 선고..실형 유지될까? (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220429060303492</link>
-            <guid>https://entertain.v.daum.net/v/20220429060303492</guid>
-            <pubDate>Thu, 28 Apr 2022 21:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[집행유예 중 마약 투약 혐의로 기소된 가수 연습생 출신 한서희(27)의 항소심 선고 공판이 오늘(29일) 열린다. 29일 오후 2시 수원지방법원 제3-2형사부(부장판사 진세리)는 마약류 관리에 관한 법률 위반 혐의로 기소된 한서희에 대한 항소심 선고 공판을 연다. 한서희는 집행유예 기간 중인 지난해 7월 보호감찰소가 불시에 시행한 소변검사에서 메스암페]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['찐' 데스노트보다 보기 힘든 뮤지컬 '데스노트' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220429060206472</link>
-            <guid>https://entertain.v.daum.net/v/20220429060206472</guid>
-            <pubDate>Thu, 28 Apr 2022 21:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[천재 소년 야가미 라이토는 두려울 게 없다. 이름과 사망 원인을 적으면 누구든 죽일 수 있는 데스노트를 손에 넣어서다. 평소 “법이란 구멍투성이”라고 믿던 그는 데스노트로 악인을 벌해 정의를 실현하리라 계획한다. 이런 라이토를 명탐정 L이 뒤쫓는다. 2000년대 초중반 선풍적인 인기를 끈 일본 만화 ‘데스노트’ 내용이다. 이 만화를 각색한 뮤지컬 ‘데]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[지코 오늘 소집해제, 음원 깡패 돌아온다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220429060204471</link>
-            <guid>https://entertain.v.daum.net/v/20220429060204471</guid>
-            <pubDate>Thu, 28 Apr 2022 21:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 가수 겸 프로듀서 지코가 돌아온다. 사회복무요원으로 국방의 의무를 다한 지코는 4월 29일 소집해제된다. 지코는 지난 2020년 7월 30일 훈련소에 입소해 기초군사훈련을 받은 후 사회복무요원으로 복무해왔다. 지코는 2020년 '아무 노래'를 시작으로 '서머 헤이트'까지 연이어 음원차트 정상을 휩쓸며 음원 강자임을 뽐낸 후 군]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박보검 30일 전역, 컴백작은 무엇? (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220429060111439</link>
-            <guid>https://entertain.v.daum.net/v/20220429060111439</guid>
-            <pubDate>Thu, 28 Apr 2022 21:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 김민지기자]배우 박보검의 제대소식에 연예계와 팬들의 비상한 관심이 쏠리고 있다. 지난 2020년 8월 해군으로 입대한 박보검은 오는 30일 공식적으로 전역한다. 박보검이 전역 후 어떤 활동을 이어나갈지, 팬들과의 만남을 기대해 볼 수 있는지 등 그의 소식에 관심이 뜨겁다. 박보검의 제대 후 공식 복귀 무대는 오는 5월]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['체포' 에이셉 라키, 총격 사건 누명 벗나..경찰 "모두 등록된 총기" (다음 연예 ─ 뉴스 ─ 해외)]]></title>
@@ -1028,368 +1028,354 @@
             <content:encoded><![CDATA[[TV리포트=박설이 기자]홍콩의 원로배우 증강(케네스 창)이 사망해 중화권 연예계가 큰 충격에 빠진 가운데, 사인은 아직 밝혀지지 않았다. 증강은 지난 25일 싱가포르 여행을 마치고 홍콩으로 돌아와 격리 호텔인 홍콩 침사추이의 구룡호텔에 투숙 중이던 27일 낮 12시 14분 사망한 채 발견됐다. 향년 87세. 홍콩 나우뉴스 27일 보도에 따르면 증강은 사망]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[메간 폭스, 아들 '학폭피해자' 고백 눈물.."드레스 입는다는 이유로" (다음 연예 ─ 뉴스 ─ 해외)]]></title>
-            <link>https://entertain.v.daum.net/v/20220428073541205</link>
-            <guid>https://entertain.v.daum.net/v/20220428073541205</guid>
-            <pubDate>Wed, 27 Apr 2022 23:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자] 영화 '트랜스포머' 등으로 유명한 배우 메간 폭스(35)가&nbsp;아들이 학폭 피해자임을 밝혔다. 메간 폭스는 최근 글래머 UK와의 인터뷰에서 장남&nbsp;노아가 남자임에도 드레스를 입었다는 이유로 괴롭힘을 당해 고통받고&nbsp;있다고 말하며 눈물을 흘렸다. 9세 노아는 폭스의 전 남편인 배우 브라이언 오스틴 그린과 함께 살고 있다. 그녀는&nbsp;"내겐&nbsp;]]></content:encoded>
+            <title><![CDATA[청하, 김완선 '나만의 것' 리메이크…'서울체크인' OST 30일 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001441460</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001441460</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이슬 기자) 가수 청하가 김완선의 히트곡을 리메이크하며 ‘서울체크인’의 감동 지수를 높인다. 티빙 오리지널 ‘서울체크인’은 오는 30일 정오 네 번째 OST인 청하의 ‘나만의 것’을 발매한다고 밝혔다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['영웅본색' 홍콩 배우 증강, 호텔서 격리 중 사망..향년 87세 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
-            <link>https://entertain.v.daum.net/v/20220428072934092</link>
-            <guid>https://entertain.v.daum.net/v/20220428072934092</guid>
-            <pubDate>Wed, 27 Apr 2022 23:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 김명미 기자] 영화 '영웅본색'으로 유명한 홍콩 배우 케네스 창(증강)이 사망했다. 향년 87세. 4월 27일 오리엔탈 데일리 뉴스 등 홍콩 매체들에 따르면 케네스 창은 홍콩 젠사쥐(침사추이)에 위치한 구룡 호텔에서 숨진 채 발견됐다. 보도에 따르면 케네스 창은 지난 25일 싱가포르 여행을 마치고 홍콩으로 돌아와 신종 코로나바이러스 감염증(코로나]]></content:encoded>
+            <title><![CDATA[지코, 오늘 사회복무요원 소집 해제…활동 재개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013145916</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013145916</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 이태수 기자 = 가수 겸 프로듀서 지코가 29일 사회복무요원으로 병역 의무를 마치고 소집해제된다고 소속사 KOZ엔터테인먼트가 이날 밝혔다. 지코는 2020년 7월 육군 훈련소에 입소해 4주간의 기초]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[투모로우바이투게더, 눈물 머금은 TEAR 버전 콘셉트 포토 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000568273</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000568273</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 투모로우바이투게더가 눈물을 머금은 콘셉트 포토를 추가 공개했다. 투모로우바이투게더(수빈, 연준, 범규, 태현, 휴닝카이)는 4월 27일 공식 SNS와 글로벌 팬덤 플랫폼 위버스(Weverse)]]></content:encoded>
+            <title><![CDATA[청하, 30일 '서울체크인' OST '나만의 것' 발매..김완선 히트곡 리메이크(공식) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003554622</link>
+            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003554622</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[[헤럴드POP=이미지 기자] 가수 청하가 김완선의 히트곡을 리메이크한다. 티빙 오리지널 ‘서울체크인’(연출 김태호, 김훈범, 강령미/ 작가 최혜정) 측은 오는 30일 정오 네 번째 OST인 청하의 ‘나만의 것’을 발]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[싸이, 오늘(29일) 5년만 가수 컴백..슈가X수지X제시X화사 막강 라인업 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003048946</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003048946</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[가수 싸이(PSY)가 5년 만에 정규 9집 '싸다9'로 가요계에 돌아온다. 싸이(PSY)는 29일 오후 6시 국내외 온라인 음원 사이트를 통해 정규 9집 '싸다9'를 발매한다. '싸다9'는 싸이만의 유쾌한 감성을 살]]></content:encoded>
+            <title><![CDATA['OST 세계新' 방탄소년단 지민 '위드유' 아이튠즈 113개국 1위..사상 최단→'필터'까지 2곡 보유 최초·유일 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003048962</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003048962</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[방탄소년단(BTS) 지민이 아이튠즈 역사상 가장 빠르게 113개국 1위를 차지하고, 2곡 이상을 보유한 세계 최초이자 유일한 신기록을 수립했다. 지민의 OST '위드 유'(With You)는 29일 새벽(한국시간)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 정국 인스타 일간 팔로워 증가수 1위..'슈퍼 셀럽' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003048945</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003048945</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[방탄소년단(BTS) 정국의 인스타그램이 팔로워 증가수 1위를 기록하며 '슈퍼 셀럽' 초강력 인기를 과시했다. 케이팝 레이더(K-Pop Radar)에 따르면, 정국은 4월 27일 일간 인스타그램 팔로워 증가량 1위를]]></content:encoded>
+            <title><![CDATA[싸이, 오늘 정규 9집 발매…BTS 슈가 타이틀곡 '댓댓' 협업 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011153319</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011153319</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]이재훈 기자 = 가수 겸 프로듀서 싸이(PSY)가 5년 만에 정규앨범을 낸다. 29일 소속사 피네이션에 따르면, 싸이는 이날 오후 6시 정규 9집 '싸다9'를 발매한다. 앨범 타이틀은 '싸이의 다채로운]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[공식] '4세대 리더' 투모로우바이투게더, 미니4집 '눈물' 콘셉트 포토 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003860474</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003860474</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 문지연 기자] 투모로우바이투게더(TXT)의 새 콘셉트 포토가 공개됐다. '4세대 리더' 투모로우바이투게더(수빈, 연준, 범규, 태현, 휴닝카이)가 눈물을 머금은 콘셉트 포토를 추가 공개해 신보에 대한 기]]></content:encoded>
+            <title><![CDATA[청하, 김완선 '나만의 것' 리메이크..'서울체크인' OST 합류[공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003048961</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003048961</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[가수 청하가 김완선의 히트곡을 리메이크하며 '서울체크인'의 감동 지수를 높인다. 티빙 오리지널 '서울체크인'(연출 김태호, 김훈범, 강령미/ 작가 최혜정)은 오는 30일 낮 12시 4번째 OST 청하 '나만의 것'을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘발라드 여제’ 이수영, 오늘(29일) 정규 10집 선공개곡 ‘덧’ 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000568271</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000568271</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 가수 이수영이 선공개곡으로 설레는 마음을 전한다. 이수영은 4월 29일 오후 6시 온라인 음원사이트를 통해 열 번째 정규앨범 선공개 싱글 ‘덧’을 발매한다. ‘덧’은 지난 2009년 발매된 정]]></content:encoded>
+            <title><![CDATA[르세라핌, 클래스가 다른 비주얼..데뷔곡 'FEARLESS' MV 티저 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004603426</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004603426</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=선미경 기자] 데뷔를 앞둔 그룹 르세라핌(LE SSERAFIM)이 뮤직비디오 티저 영상을 통해 ‘클래스가 다른 비주얼’을 과시했다. 르세라핌(김채원, 사쿠라, 허윤진, 카즈하, 김가람, 홍은채)은 오늘(2]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[개코, ♥김수미와 정식 첫 듀엣…5월 3일 '눈에 넣어도' 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001441441</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001441441</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이슬 기자) 다이나믹듀오 개코가 아내 김수미 씨와 첫 정식 듀엣곡을 선보인다. 개코는 오는 5월 3일 '개작실(Gaejaksil)' 프로젝트 네 번째 음원이자 SUMI와의 컬래버레이션 싱글 '눈에 넣어]]></content:encoded>
+            <title><![CDATA[지코, 오늘(29일) 사회복무요원 복무 끝 소집해제 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003048960</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003048960</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[가수 지코(ZICO)가 대체복무를 모두 마치고 소집해제된다. 소속사 KOZ 엔터테인먼트는 29일 "지코가 이날 대체 복무를 마치고 소집해제한다"라고 밝혔다. 지코는 코로나19 확산 방지를 위해 별도의 행사 없이 조용]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 뷔, '오디션 프리패스상 男아이돌' 1위..본투비 아이돌 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003048944</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003048944</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[방탄소년단(BTS) 뷔가 '오디션 프리패스상 남자아이돌' 1위에 등극했다. 뷔는 4월 19일부터 26일까지 최애돌에서 진행된 '오디션 프리패스상인 남돌은?' 설문에서 2만 892표를 획득 1위에 올랐다. 오디션프리패]]></content:encoded>
+            <title><![CDATA[에이티즈 산·민기, 현장 스태프 극찬한 콘셉트 포토…남성美 물씬 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001441457</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001441457</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이슬 기자) 그룹 에이티즈(ATEEZ)가 일본 앨범 발매에 앞서 개인 콘셉트 포토를 절반 이상 공개하며 발매 기대감이 더욱 뜨거워졌다. 지난 이틀간 에이티즈는 공식 SNS를 통해 두 번째 일본 미니 앨]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[싸이, 오늘(29일) 5년만 정규 9집 발매…BTS 슈가 지원사격 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000568270</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000568270</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 싸이(PSY)가 5년 만에 정규 9집으로 돌아온다. 싸이(PSY)는 4월 29일 오후 6시 국내외 각종 온라인 음원 사이트를 통해 정규 9집 '싸다9'를 발매한다. '싸다9'는 싸이만의 유쾌한]]></content:encoded>
+            <title><![CDATA[싸이(PSY) 컴백, 정규 9집 '싸다9' 발표 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=438&amp;aid=0000046160</link>
+            <guid>https://entertain.naver.com/now/read?oid=438&amp;aid=0000046160</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[싸이(PSY)가 5년 만에 정규 9집 '싸다9'로 가요계에 돌아온다. 싸이(PSY)는 29일(금) 오후 6시 국내외 각종 온라인 음원 사이트를 통해 정규 9집 '싸다9'를 발매한다. '싸다9'는 싸이만의 유쾌한 감성]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[싸이, 오늘 정규 9집 '싸다9' 발매..슈가·수지·화사 등과 협업(공식) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003554608</link>
-            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003554608</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드POP=이미지 기자] 싸이가 5년 만에 컴백한다. 가수 싸이(PSY)는 29일 오후 6시 국내외 각종 온라인 음원 사이트를 통해 정규 9집 '싸다9'를 발매한다. '싸다9'는 싸이만의 유쾌한 감성을 살린 앨범]]></content:encoded>
+            <title><![CDATA[임영웅 'IM HERO' 타이틀곡은 '다시 만날 수 있을까'..깊어진 감성 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003048959</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003048959</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[가수 임영웅이 데뷔 첫 정규 앨범 'IM HERO' 타이틀곡을 '다시 만날 수 있을까'로 확정, 더욱 기대감을 높였다. 29일 오전 공식 SNS 채널을 통해 임영웅의 데뷔 첫 정규 앨범 'IM HERO'(아임 히어로]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[호주서 '노는' 한국계 힙합 그룹 1300 "진지하지 않은 게 매력" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013145866</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013145866</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:00 GMT</pubDate>
-            <content:encoded><![CDATA["함께 놀고 싶은 음악 만드는 게 목표"…새 음반 '포린 랭귀지' 발매 (서울=연합뉴스) 김예나 기자 = "전하고 싶은 메시지요? 그냥 누군가 우리를 봤을 때 '저 사람들이랑 같이 놀고 싶다' 이렇게 생각해줬으면 좋]]></content:encoded>
+            <title><![CDATA[싸이, 정규 9집 '싸다9'로 보여줄 어나더 클라쓰..BTS 슈가⋅수지→화사⋅지코 협업 기대 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004603424</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004603424</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=이승훈 기자] 싸이(PSY)가 5년 만에 정규 9집 '싸다9'로 가요계에 돌아온다. 싸이(PSY)는 29일 오후 6시 국내외 각종 온라인 음원 사이트를 통해 정규 9집 '싸다9'를 발매한다. '싸다9'는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[개코, ♥ 아내 수미와 정식 듀엣…5월 3일 ‘눈에 넣어도’ 발매[공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000568268</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000568268</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 다이나믹듀오 개코가 아내 김수미 씨와 듀엣곡을 선보인다. 개코는 오는 5월 3일 '개작실(Gaejaksil)' 프로젝트 네 번째 음원이자 SUMI와의 컬래버레이션 싱글 '눈에 넣어도'를 발매한]]></content:encoded>
+            <title><![CDATA[르세라핌, 'FEARLESS' MV 티저 공개…'진짜 나'의 이야기 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001441453</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001441453</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이슬 기자) 그룹 르세라핌(LE SSERAFIM)이 뮤직비디오 티저 영상을 통해 ‘클래스가 다른 비주얼’을 한껏 과시했다. 르세라핌(김채원, 사쿠라, 허윤진, 카즈하, 김가람, 홍은채)은 오늘(29일)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[싸이, 오늘(29일) 5년 만에 정규 9집 발매…BTS 슈가→수지 협업 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001441440</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001441440</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이슬 기자) 싸이(PSY)가 5년 만에 정규 9집 '싸다9'로 가요계에 돌아온다. 싸이(PSY)는 29일 오후 6시 국내외 각종 온라인 음원 사이트를 통해 정규 9집 '싸다9'를 발매한다. '싸다9'는]]></content:encoded>
+            <title><![CDATA[개코, ♥︎아내 SUMI와 정식 듀엣 성사..5월 3일 '눈에 넣어도' 발매[공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004603419</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004603419</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=선미경 기자] 그룹 다이나믹듀오 멤버 개코가 아내 김수미 씨와 첫 정식 듀엣곡을 발표한다. 개코는 오는 5월 3일 '개작실(Gaejaksil)' 프로젝트 네 번째 음원이자 SUMI와의 컬래버레이션 싱글 ']]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[K팝 해외 팬 막강 존재감…없는 춤도 만들어 노래 띄운다 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013145864</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013145864</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[외국서 '챌린지' 유행 후 국내 역수입…과거 발표곡 뒤늦게 재조명도 (서울=연합뉴스) 이태수 기자 = 노래의 흥행을 위해 숏폼 플랫폼에서 이른바 '챌린지'(Challenge)를 활용하는 사례는 어제오늘의 일이 아니다]]></content:encoded>
+            <title><![CDATA[AB6IX, 새 앨범 'A to B' 프로모션 스케줄 공개...컴백 카운트다운 돌입 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004603417</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004603417</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=선미경 기자] 그룹 AB6IX(에이비식스)가 새 앨범의 프로모션 스케줄을 공개하며 본격적인 컴백 카운트다운에 돌입했다. 브랜뉴뮤직은 29일 0시에 AB6IX의 공식 SNS 채널들을 통해 오는 5월 18일에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['나'를 투영한 음악…그룹 출신 아이돌의 '자아 찾기' [TF초점] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=629&amp;aid=0000146521</link>
-            <guid>https://entertain.naver.com/now/read?oid=629&amp;aid=0000146521</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수정 미연 윤지성이 '나'를 음악으로 전하는 방법 그룹 활동을 하면 자신의 정체성보다는 팀 색깔이 우선시된다. 오랫동안 많은 사랑을 받은 팀인 경우 멤버 각각의 정체성은 더 희미해진다. 최근 솔로 앨범을 발매한 아]]></content:encoded>
+            <title><![CDATA[아스트로, 3종 앨범으로 꽉 채운 '청량 프리즘'..오늘(29일) 예판 오픈[공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004603416</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004603416</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=이승훈 기자] 그룹 아스트로(ASTRO)가 청량한 매력을 가득 담은 정규 3집 'Drive to the Starry Road' 예약 판매를 시작한다. 아스트로는 지난 28일 오후 소속사 판타지오 공식 SN]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임영웅, ‘우리들의 블루스’로 가온차트 5관왕 등극…역시 대세 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001441436</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001441436</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이정범 기자) 가수 임영웅의 '우리들의 블루스'가 17주차 가온차트에서 5관왕에 올랐다. 가온차트를 운영하는 한국음악콘텐츠협회는 “17주차(2022.04.17~2022.04.23) 가온차트에서 임영웅의]]></content:encoded>
+            <title><![CDATA[김재환, '별똥별' OST 김영대 메인 테마곡 부른다..사랑의 설렘 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003048957</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003048957</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:16 GMT</pubDate>
+            <content:encoded><![CDATA['김재환이 tvN 금토드라마 '별똥별'의 OST 두 번째 주자로 나서 사랑의 설렘을 노래한다. 별똥별 OST Part.2 '김재환 - How I Feel'이 29일 오후 6시 각종 음원사이트를 통해 공개된다. tvN]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 진, 'PC방 같이 가고 싶은 아이돌' 1위 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003048943</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003048943</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[방탄소년단(BTS) 진이 'PC방 같이 가고 싶은 아이돌' 1위에 오르며 인기를 입증했다. 진은 4월 18일 오전 10시부터 4월 27일 오후 11시 59분까지 아이돌 챔프에서 진행된 'PC방 같이 가고 싶은 아이돌]]></content:encoded>
+            <title><![CDATA[르세라핌, ‘FEARLESS’ 뮤직비디오 티저…환상 비주얼 시선 집중 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000568284</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000568284</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이슬기 기자] '하이브 최초 걸그룹' 르세라핌(LE SSERAFIM)이 물 오른 비주얼로 뮤직비디오 티저 영상을 공개했다. 르세라핌(김채원, 사쿠라, 허윤진, 카즈하, 김가람, 홍은채)은 4월 29일 공식]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이찬원-장민호, 합동 콘서트 ‘민원만족’ 인터파크 일간 1~3위 줄 세워 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001441435</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001441435</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이정범 기자) 2022년 5월 6일 서울을 기점으로 투어를 시작하는 이찬원 &amp; 장민호 합동 콘서트 '민원만족'이 막강한 티켓파워를 보이고 있다. 최근 티켓팅을 시작한 대전, 인천, 전주 지역의 콘서트]]></content:encoded>
+            <title><![CDATA[다듀 개코, 아내 김수미와 첫 정식 듀엣…'눈에 넣어도' 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003599186</link>
+            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003599186</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 박윤진 기자] 힙합 듀오 다이나믹듀오 개코가 아내 김수미와 첫 정식 듀엣곡을 선보인다. 개코는 오는 5월 3일 '개작실(Gaejaksil)' 프로젝트 네 번째 음원이자 SUMI(수미)와의 컬래버레이션]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[美 숨피, “방탄소년단(BTS) 제이홉, 단 한 명의 퍼포먼스 천재” (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001441431</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001441431</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이정범 기자) 방탄소년단(BTS) 제이홉(j-hope)이 해외 매체로부터 극찬을 받았다. 미국의 최대 한류 뉴스 사이트 숨피(Soompi)는 25일, ‘무대 표정이 압권인 퍼포먼스 천재 K팝 아이돌 7]]></content:encoded>
+            <title><![CDATA[‘러블리즈→솔로’ 이수정 “드디어 이수정이라는 이름으로”[일문일답] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000568283</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000568283</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 가수 이수정이 솔로로 돌아왔다. 이수정은 4월 26일 오후 6시 각종 음원 사이트를 통해 첫 번째 미니 앨범 '마이 네임(My Name)'을 발매하고 홀로서기를 시작했다. '마이 네임'은 이수]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[영탁, ‘최애돌 셀럽’ 5월 생일 셀럽 중 1위 등극 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001441425</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001441425</guid>
-            <pubDate>Thu, 28 Apr 2022 21:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이정범 기자) 가수 영탁이 5월 생일을 맞이하는 셀럽 중 인기순위 1위에 달성했다. 배우, 가수, 예능인, 댄서 순위 서비스인 '최애돌 셀럽’에서 진행 한 '5월 생일 투표'에 약 10만 명이 참여했다]]></content:encoded>
+            <title><![CDATA[다이나믹듀오 개코, 아내와 듀엣곡 '눈에 넣어도' 발표 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013145891</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013145891</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 이태수 기자 = 힙합 듀오 다이나믹듀오의 개코가 다음 달 3일 아내 김수미 씨와의 첫 정식 듀엣곡 '눈에 넣어도'를 발표한다고 소속사 아메바컬쳐가 29일 밝혔다. 개코는 지인의 소개로 만나 교제하던]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이찬원, 포브스코리아 2022 파워 셀러브리티 TOP5..방송 1위 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003048937</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003048937</guid>
-            <pubDate>Thu, 28 Apr 2022 21:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[가수 이찬원이 포브스코리아 선정 2022 파워 셀러브리티 톱5에 오르며 인기를 입증했다. 이찬원은 방송 부문에서는 1위를 차지했다. 이찬원은 포브스 코리아가 대한민국과 글로벌 엔터테인먼트 산업의 키 플레이어, 파워]]></content:encoded>
+            <title><![CDATA["일곱 나무들이 모여 울창한 숲" 방탄소년단 뷔, 감동 자작시 '뭉클' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003048956</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003048956</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[방탄소년단(BTS) 뷔가 인더섬 '제목 짓기' 편에서 사랑스러운 비주얼과 감동적인 시로 전 세계 팬들을 사로잡았다. 방탄소년단 멤버들의 캐릭터를 활용한 모바일 퍼즐 게임이 출시될 예정으로 지난 26일 'BTS Isl]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이찬원, 아이돌차트 평점랭킹 11주 연속 TOP2..찬또 핫 파워 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003048936</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003048936</guid>
-            <pubDate>Thu, 28 Apr 2022 21:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[가수 이찬원이 아이돌차트 평점랭킹 11주 연속 TOP2를 기록하며 인기를 빛냈다. 이찬원은 4월 4주차 아이돌차트 평점랭킹에서 27만 4499표를 받아 전체 2위에 올랐다. 이찬원은 스타에 대한 실질적인 팬덤의 규모]]></content:encoded>
+            <title><![CDATA['5월 3일 컴백' 려욱, 오늘(29일) '오늘만은' MV 티저 공개…독보적 감성 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001441450</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001441450</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이슬 기자) 가수 려욱이 미니 3집 타이틀곡 뮤직비디오 티저 영상으로 솔로 컴백 열기를 더한다. 려욱은 29일 오후 6시 슈퍼주니어 공식 유튜브 채널에 세 번째 미니앨범 'A Wild Rose (어 와]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[재즈 사운드 진수성찬 ‘재즈 마스터스 카부 시리즈’ 36종 출시 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000809461</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000809461</guid>
-            <pubDate>Thu, 28 Apr 2022 15:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 프랑스 만화가이자 재즈 애호가인 카부(Cabu)의 재즈거장 캐리커처 음반 ‘재즈 마스터스 카부 시리즈’ 36종이 국내에 출시됐다. 재즈 마스터스 카부 시리즈는 ‘재즈의 시대’라고 불리는 스윙과 비밥 그]]></content:encoded>
+            <title><![CDATA[세븐틴 디에잇, 정규 4집 'Face the Sun' 트레일러 세번째 주인공 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003554616</link>
+            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003554616</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[[헤럴드POP=이미지 기자] 그룹 세븐틴의 정규 4집 세 번째 트레일러 영상이 공개됐다. 세븐틴은 29일 공식 SNS에 정규 4집 ‘Face the Sun’(페이스 더 선)의 트레일러 영상 ‘‘Face the Sun]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임영웅 ‘우리들의 블루스’ 인기 뜨겁다…바이브 검색어 차트 1위 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000864092</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000864092</guid>
-            <pubDate>Thu, 28 Apr 2022 15:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[가수 임영웅의 ‘우리들의 블루스’가 검색어 1위에 올랐다. 임영웅의 ‘우리들의 블루스’는 지난 27일 오후 2시 기준 바이브 음악 검색어 TOP100 차트에서 1위를 차지했다. 임영웅은 지난 17일 tvN 드라마 ‘]]></content:encoded>
+            <title><![CDATA[AB6IX (에이비식스), 컴백 카운트다운 돌입…‘A to B’ 팬들 앞으로 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000568281</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000568281</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이슬기 기자] AB6IX(에이비식스)가 새 앨범의 프로모션 스케줄을 공개했다. 브랜뉴뮤직은 4월 29일 공식 SNS 채널들을 통해 5월 18일에 발매되는 AB6IX 5TH EP ‘A to B’의 프로모션 스]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이수영, 김이나 작사 정규 10집 선공개곡 ‘덧’ 가사 깜짝 스포일러 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000864088</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000864088</guid>
-            <pubDate>Thu, 28 Apr 2022 14:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[가수 이수영이 정규 10집 선공개곡 ‘덧’의 가사 일부를 오픈했다. 28일 소속사 뉴에라프로젝트는 공식 SNS 계정을 통해 이수영의 열 번째 정규앨범 선공개곡 ‘덧’의 리릭 포스터 이미지를 게재했다. 공개된 리릭 포]]></content:encoded>
+            <title><![CDATA[지코, 오늘 사회복무요원 소집 해제…활동 재개 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013145916</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013145916</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 이태수 기자 = 가수 겸 프로듀서 지코가 29일 사회복무요원으로 병역 의무를 마치고 소집해제된다고 소속사 KOZ엔터테인먼트가 이날 밝혔다. 지코는 2020년 7월 육군 훈련소에 입소해 4주간의 기초]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[제시카·타일러권, 80억 채무 불이행 피소건 합의.."고소 취하"[스타이슈] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003048916</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003048916</guid>
-            <pubDate>Thu, 28 Apr 2022 14:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 소녀시대 출신 제시카와 연인 타일러 권이 설립한 패션 브랜드 블랑 앤 에클레어에 대한 채무 불이행 고소 건이 취하됐다. 28일 뉴스1에 따르면 제시카 측은 "사모펀드 투자회사 조이 킹 엔터프라이즈 측이 블랑 앤]]></content:encoded>
+            <title><![CDATA[이요원·주민경 “자근자근 밟아 버릴 거야” 추자현과 전면전 (그린마더스클럽) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000976737</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000976737</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[JTBC 수목드라마 '그린마더스클럽' 이요원과 주민경이 초등 커뮤니티 1인자 추자현을 향해 전면전을 선포했다. 28일 ‘그린마더스클럽’(극본 신이원, 연출 라하나) 8회 시청률은 4.4%(닐슨코리아 수도권 유료가구]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김지호♥김호진, "소주 오잔" 달달하겠네...결혼 22년 차 신혼 같은 부부 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003860475</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003860475</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선닷컴 정안지 기자] 배우 김지호와 김호진 부부의 여유로운 일상이 눈길을 끈다. 김지호는 28일 자신의 인스타그램 스토리를 통해 "저녁은 평양냉면. 남편은 소주 오잔"이라면서 사진을 게재했다. 사진 속에는]]></content:encoded>
+            <title><![CDATA[하이라이트 “15년 만에 처음 느끼는 감정” 팬사랑에 눈물 (주접이 풍년) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000976736</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000976736</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 하이라이트가 KBS2 예능프로그램 '주접이 풍년'에서 팬들과 쌍방향 사랑을 나눴다. 지난 28일 '팬심자랑대회 주접이 풍년' 13회에는 하이라이트와 공식 팬클럽 라이트가 출연했다. 이진혁은 스페셜 MC로 투입돼]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['만능 프로듀서' 지코, 오늘(29일) 소집해제[MK이슈] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004956867</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004956867</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[가수 겸 프로듀서 지코(본명 우지호)가 29일 소집해제 된다. 지코는 이날 오후 사회복무요원으로서 대체복무를 마치고 소집해제, 민간인으로 돌아온다. 지코는 지난 2020년 7월 입소, 4주간 기초군사훈련을 받고 21]]></content:encoded>
+            <title><![CDATA['비인두암' 김우빈, 이병헌 덕분에 '암' 발견했다? (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000808470</link>
+            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000808470</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[비인두암을 이겨내고 6년 만에 복귀한 배우 김우빈이 이병헌 덕분에 암세포를 조기에 발견했다는 주장이 나왔다. 연예기자 출신 유튜버 이진호는 지난 27일 진행한 생방송에서 김우빈의 비인두암 투병을 언급했다. 이진호가]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[태연, 명품 스카프 패션…개미허리 자랑 [똑똑SNS] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000864099</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000864099</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[가수 태연이 스카프 패션을 선보였다. 태연은 28일 자신의 인스타그램에 근황을 담은 사진 여러 장을 게재했다. 공개된 사진에는 태연이 명품 스카프로 상의를 소화한 모습이 담겨 있다. 아슬아슬한 스카프 패션을 보인 그]]></content:encoded>
+            <title><![CDATA[다비치 이해리, 키 161.4㎝·몸무게 47㎏ 직접 인증…강민경 "기계 고장" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006060814</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006060814</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 듀오 다비치 이해리가 키와 몸무게를 공개했다. 이해리는 지난 28일 자신의 인스타그램을 통해 키 161.4㎝, 체중 47.0㎏이 적힌 인바디 검사를 촬영한 사진을 올리며 "오늘 인보디]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[K팝 해외 팬 막강 존재감…없는 춤도 만들어 노래 띄운다 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013145864</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013145864</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[외국서 '챌린지' 유행 후 국내 역수입…과거 발표곡 뒤늦게 재조명도 (서울=연합뉴스) 이태수 기자 = 노래의 흥행을 위해 숏폼 플랫폼에서 이른바 '챌린지'(Challenge)를 활용하는 사례는 어제오늘의 일이 아니다]]></content:encoded>
+            <title><![CDATA[문지애, 전종환과 결혼 7년 만에 혼인 신고…"혹시 사람 일 몰라" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006060813</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006060813</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 김학진 기자 = 방송인 문지애가 남편 전종환과의 혼인신고를 결혼 후 7년이 지나서야 한 이유를 솔직하게 밝혔다. 지난 28일 문지애의 유튜브 채널 '애TV'에는 '[문득 데이트] 그때 왜 우리는 서로]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[하희라 아들, 군대 가더니 덩치가 엄청 커졌네…아빠 최수종보다 건장해 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000356118</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000356118</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=강효진 기자] 배우 하희라가 건장해진 아들의 근황을 전했다. 하희라는 28일 자신의 인스타그램에 "아빠와 아들. 이제 아빠보다 더 크고 힘도 세고. 어릴 때는 몸도 약하고 병원도 자주 가고. 건강하게]]></content:encoded>
+            <title><![CDATA[[오늘의 슈스뉴스] '유퀴즈' 사태, 누가 유재석을 희생양 삼으려 하나 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001732994</link>
+            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001732994</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[개그맨 지석진 씨는 최근 MBC '놀면 뭐하니?'에 출연해 그의 오랜 지기인 유재석 씨를 향해 "유느님 부담스럽지 않니?"라고 물었다. 농담처럼 던진 이 가벼운 질문은 누구나 유재석 씨에게 묻고 싶었지만 물어보지 못]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[고민시 그레이, 美여행 럽스타그램 열애설…"확인불가"[종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004956864</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004956864</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[배우 고민시(27)와 래퍼 겸 프로듀서 그레이(36)가 미국 여행 럽스타그랩 의혹으로 열애설에 휩싸였다. 28일 온라인 커뮤니티를 중심으로 고민시와 그레이의 열애 의혹이 제기됐다. 최근 두 사람이 각자 SNS에 올린]]></content:encoded>
+            <title><![CDATA[현빈·손예진, 결혼→신행 귀국까지 핫한 '세기의 커플' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=629&amp;aid=0000146527</link>
+            <guid>https://entertain.naver.com/now/read?oid=629&amp;aid=0000146527</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[17일간의 신혼여행 마치고 28일 귀국 세기의 커플다웠다. 현빈-손예진 부부는 결혼부터 신혼여행 그리고 귀국하는 순간까지 뜨거운 관심을 모았다. 현빈과 손예진 부부가 미국에서의 신혼여행 일정을 마치고 28일 오후 인]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘군검사 도베르만’ 오연수 “오연수를 지우는게 매 순간의 행복이죠” [인터뷰] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000976730</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000976730</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[“지난 8년은 오롯이 ‘엄마’로서의 행복을 누렸죠.” 배우 오연수(51). 가수 겸 배우 손지창의 아내로도 유명하다. 그 이전에 두 아들의 엄마다. 26일 종영한 tvN 드라마 ‘군검사 도베르만’에서 그의 모습이 유]]></content:encoded>
+            <title><![CDATA["美신혼여행 다녀왔어요"… 손예진♥현빈 부부, 깨 쏟아지네? (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000808467</link>
+            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000808467</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[배우 현빈과 손예진이 미국 로스앤젤레스에서 신혼여행을 마치고 지난 28일 인천국제공항을 통해 입국했다. 이날 손예진 현빈 부부는 모자를 쓰고 편안한 복장으로 귀국했다. 두사람은 특별한 기자회견은 없었지만, 현빈이 손]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“우리의 꽃밭 짓밟지 말아 달라”…‘유퀴즈’토로에 더 거세진 비난 [원픽! 업 앤 다운] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000976729</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000976729</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[“우리의 꽃밭을 짓밟거나 함부로 꺾지 말아 달라.” 20일 윤석열 대통령 당선인의 출연을 앞뒤로 프로그램 취지 훼손 및 정치색 등 논란을 모은 tvN 예능프로그램 ‘유 퀴즈 온 더 블록’(유퀴즈) 제작진이 이와 관련]]></content:encoded>
+            <title><![CDATA[전선욱, ♥야옹이 작가 통 큰 생일 선물에 감동..미모+재력 다 갖춘 여친 부러워 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003860484</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003860484</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조윤선 기자] 웹툰 작가 전선욱이 공개 연애 중인 여자친구 야옹이 작가의 생일 선물에 감동했다. 전선욱은 29일 자신의 인스타그램 스토리에 "어제 예상치 못했던 나영이가 해준 생일상. 나영이가 최고다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘학폭 콘텐츠들’ 선한 영향력 빛났다 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000976728</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000976728</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[학교폭력 문제가 사회적 이슈로 떠오른 건 어제오늘의 일이 아니다. 하지만 뚜렷한 사회적 해결책을 찾기도 여전히 쉽지 않다. 이런 시점에 몇몇 영화와 방송프로그램이 학교폭력 문제를 다루며 반향을 일으키고 있다. 표현]]></content:encoded>
+            <title><![CDATA[현빈♥손예진, 美 허니문 마치고 귀국…이후 활동은? [종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004956870</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004956870</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[배우 현빈 손예진 부부가 달콤한 미국 신혼여행을 마치고 귀국했다. 두 사람은 지난 28일 오후 인천국제공항을 통해 입국했다. 지난 11일 미국으로 신혼여해을 떠난지 약 2주 만이다. 현장에는 수많은 취재진이 포토라인]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“장병들에게 상실감 준다”…유승준, 두번째 입국비자 발급 소송 패소 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000976727</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000976727</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[“유승준 존재가 장병들에게 상실감과 박탈감” 병역 기피 의혹으로 20년째 한국 입국이 금지된 가수 유승준(스티브 승준 유·45)이 입국 비자를 발급해달라며 제기한 두 번째 소송에서 패소했다. 서울행정법원 행정5부(김]]></content:encoded>
+            <title><![CDATA[부인도 긍정도 無 …그레이♥고민시 럽스타그램? (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000808466</link>
+            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000808466</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[배우 고민시와 가수 겸 프로듀서 그레이가 열애설이 불거졌다. 28일 온라인 커뮤니티를 중심으로 고민시와 그레이의 열애 의혹이 제기됐다. 최근 두 사람이 각자 SNS에 올린 미국 여행 사진이 증거로 제시됐다. 두 사람]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 드라마 ‘안나라수마나라’ 볼까, 연상호표 스릴러 ‘괴이’ 볼까 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000976726</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000976726</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[각 OTT(온라인 동영상 서비스)가 5월 새 오리지널 드라마 시리즈를 쏟아낸다. 판타지부터 스릴러까지 다양한 장르의 작품들을 공개하면서 최근 부진을 끝내고 반등을 노린다. 시청자들도 벌써 어떤 작품부터 볼지 행복한]]></content:encoded>
+            <title><![CDATA[다이나믹듀오 개코, 아내와 듀엣곡 '눈에 넣어도' 발표 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013145891</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013145891</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 이태수 기자 = 힙합 듀오 다이나믹듀오의 개코가 다음 달 3일 아내 김수미 씨와의 첫 정식 듀엣곡 '눈에 넣어도'를 발표한다고 소속사 아메바컬쳐가 29일 밝혔다. 개코는 지인의 소개로 만나 교제하던]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[웨딩 촬영인줄! 한효주, 순백 드레스+한복 자태..결혼식 방불케한 미모 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003860471</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003860471</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 문지연 기자] 배우 한효주가 드레스, 한복 자태를 선보였다. 한효주는 28일 자신의 인스타그램에 "수고했어, 오늘도 빰빰!"이라는 글을 올렸다. 공개된 사진 속 한효주는 순백의 드레스부터 단아한 한복까지]]></content:encoded>
+            <title><![CDATA[이연희, 이진욱과 알콩달콩하네..딱풀은 왜 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003048955</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003048955</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[이연희가 이진욱과 알콩달콩한 모습으로 시선을 사로잡았다. 이연희는 지난 28일 자신의 인스타그램에 이진욱과 함께 한 사진을 공개했다. 이는 카카오TV 오리지널 '결혼백서'의 스틸 사진. 이연희는 "딱풀 왜 주는 거에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[OTT 콘텐츠 홍수…영화·드라마 소개 프로그램 뜬다 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000976725</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000976725</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[최근 극장가와 방송, OTT 등 콘텐츠 플랫폼이 늘어나면서 각종 장르의 영화와 드라마가 쏟아져 나오고 있다. 이에 따라 콘텐츠를 소개하는 프로그램도 연이어 시청자를 찾는다. ‘콘텐츠 홍수’ 속에서 대중과의 접점을 찾]]></content:encoded>
+            <title><![CDATA[소유, 탄탄한 S라인 몸매+섹시 각선미 자랑[M+★SNS] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001659690</link>
+            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001659690</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[씨스타 출신 소유가 탄탄한 S라인 몸매를 과시했다. 소유는 지난 28일 오후 자신의 인스타그램에 사진 여러장을 게재했다. 사진 속에는 촬영 중인 그의 모습이 담겨 있다. 화사한 미소를 짓고 있는 소유는 군살 하나 없]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘닥터 스트레인지2’ 사전 예매량 35만장 돌파 [연예뉴스 HOT] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000976724</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000976724</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[마블 스튜디오의 슈퍼히어로 영화 ‘닥터 스트레인지: 대혼돈의 멀티버스’(닥터 스트레인지2)가 팬데믹 기간 중 사전 최고 예매량을 기록했다. 28일 영화진흥위원회 영화관입장권 통합전산망에 따르면 5월 4일 개봉하는 ‘]]></content:encoded>
+            <title><![CDATA[보아, 끈 탱크톱 차림 볼륨감 깜짝…구릿빛 피부로 섹시미↑ [N샷] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006060793</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006060793</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 가수 보아가 섹시한 매력을 드러냈다. 보아는 지난 28일 자신의 인스타그램을 통해 "촬영 중"이라는 글과 함께 사진을 게재했다. 공개된 사진에는 보아가 얇은 끈이 있는 크롭톱을 입고]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2PM 정규 7집 ‘머스트’ 내달 23일 LP 한정 판매 [연예뉴스 HOT] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000976723</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000976723</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 2PM의 정규 7집 ‘머스트’(MUST)를 다음 달 23일 한정판 LP로 발매한다. 28일 소속사 JYP엔터테인먼트에 따르면 LP에는 타이틀곡 ‘해야 해’를 포함해 기존 앨범에 수록된 10곡으로 구성됐다. 지난]]></content:encoded>
+            <title><![CDATA[산다라박, 드레스 입고 늘씬 각선미 과시…매혹적 자태 [N샷] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006060788</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006060788</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 가수 산다라박이 매혹적인 자태를 드러냈다. 산다라박은 지난 28일 자신의 인스타그램을 통해 별다른 문구 없이 여러 장의 사진을 게재했다. 공개된 사진에는 머리를 묶은 산다라박이 우아한]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[엑소 수호, 서울시복지재단 홍보대사 위촉 [연예뉴스 HOT] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000976722</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000976722</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 엑소의 리더 수호가 서울시복지재단 홍보대사로 위촉됐다. 서울시복지재단은 28일 “수호에게 27일 홍보대사 위촉장을 수여했다”고 밝혔다. 수호는 1년간 서울시의 역점 사업인 ‘희망두배 청년통장’ 라디오 캠페인 녹]]></content:encoded>
+            <title><![CDATA[산다라박, 파격적인 드레스..'소식좌'의 반전 볼륨감 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003048952</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003048952</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[산다라박이 반전 몸매를 뽐냈다. 산다라박은 지난 28일 자신의 인스타그램에 드레스를 입은 사진을 게재했다. 해외서 일정을 소화 중인 산다라박은 그동안 보여준 적 없는 섹시한 모습으로 눈길을 사로잡는다. 산다라박은 푸]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이렇게 탄탄한데 활동은 언제?..'42세' 한혜진, 꾸준한 운동 효과 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003860469</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003860469</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 문지연 기자] 배우 한혜진이 늘씬한 자태를 뽐냈다. 한혜진은 28일 자신의 인스타그램에 "운동, 자이로토닉, 몇 년째 꾸준히 운동하고 있어요. 먹고 싶은 거 먹고 운동 열심히 하려고요"라는 글을 올렸다.]]></content:encoded>
+            <title><![CDATA[민지영, 갑상선암 수술 후 7개월 "가장 큰 변화는..." (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003860480</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003860480</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조윤선 기자] 배우 민지영이 갑상선암 수술 후 건강 상태를 밝혔다. 민지영은 28일 자신의 인스타그램에 "하늘색 분홍색 노란색. 늘 다니던 병원인데 벽의 색 조합이 참 예쁘다는 걸 이제서야 알게 됨"이라]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김혜수, '어쩌다 사장2' 회장님급 알바 예고…차태현X조인성의 '온도차' [SC리뷰] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003860467</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003860467</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선닷컴 이지현 기자] 배우 김혜수가 '어쩌다 사장2'에 등장했다. 28일 방송된 tvN '어쩌다 사장2'의 방송 말미에는 다음 아르바이트생으로 김혜수와 박경혜가 등장했따. 공개된 예고편에서는 아침부터 잔뜩]]></content:encoded>
+            <title><![CDATA[서동주, 축구로 다져진 탄탄 꿀벅지…행복해보여 [똑똑SNS] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000864103</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000864103</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[방송인 서동주가 ‘골때녀’ 비하인드컷을 공개했다. 서동주는 28일 자신의 인스타그램에 “좀 지난 올스타 때 사진 1번은 혜경언니가 찍어 주고 2번은 사오리가 찍어줌 ㅋ”이라는 글을 올렸다. 이와 함께 공개한 사진에는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[일본 간 이세영, 결혼 예고인가...'日남친'♥과 커플링→"드디어" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003860466</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003860466</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선닷컴 정안지 기자] 개그우먼 이세영이 날씬한 각선미를 자랑했다. 이세영은 28일 자신의 인스타그램 스토리를 통해 "드디어 일본"이라면서 사진을 게재했다. 사진 속에는 일본의 한 건물 앞에서 사진을 촬영 중]]></content:encoded>
+            <title><![CDATA[현빈♥손예진, 알콩달콩 깨가 쏟아졌던 신혼여행 귀국길 "행쇼~"[종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000356121</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000356121</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=장다희 기자]떠날 땐 각자였지만, 돌아올 땐 함께였다. 배우 현빈, 손예진 부부가 미국 신혼여행을 마치고 28일 따뜻한 환영과 함께 귀국했다. 지난 11일 미국으로 신혼여행을 떠났던 현빈, 손예진 부부]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[걸그룹 출신 달수빈, 콜라병 몸매의 정석 [똑똑SNS] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000864098</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000864098</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[걸그룹 달샤벳 출신 달수빈이 콜라병 몸매의 정석을 보여줬다. 달수빈은 최근 자신의 인스타그램에 근황을 담은 사진 여러 장을 올렸다. 공개된 사진에는 달수빈이 한 스튜디오에서 촬영 중 인증샷을 남기고 있는 모습이 담겨]]></content:encoded>
+            <title><![CDATA[[문화연예 플러스] 영화 <영웅본색>의 '증강', 격리 중 사망 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=214&amp;aid=0001193493</link>
+            <guid>https://entertain.naver.com/now/read?oid=214&amp;aid=0001193493</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스투데이] 홍콩 영화 '영웅본색'으로 주윤발과 자주 호흡을 맞추며 우리에게도 얼굴을 알린 배우죠. 홍콩 배우 '증강'(케네스 창)이 격리 중 여든일곱살의 나이로 숨졌습니다. 증강은 여행을 마치고 홍콩으로 돌아와]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[SC이슈] 신혼여행 생중계 드디어 끝? 현빈♥손예진, 그때는 따로→지금은 같이 입국 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003860465</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003860465</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 문지연 기자] 배우 현빈과 손예진 커플의 신혼여행 생중계가 드디어 끝났다. 28일 오후 현빈과 손예진 부부는 미국 신혼여행을 마치고 인천국제공항을 통해 입국했다. 출국 당시 007작전을 방불케하는 모습으]]></content:encoded>
+            <title><![CDATA[[문화연예 플러스] '개구쟁이' 그림으로 재탄생하다 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=214&amp;aid=0001193492</link>
+            <guid>https://entertain.naver.com/now/read?oid=214&amp;aid=0001193492</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스투데이] 밴드 산울림의 김창완이 만든 '개구쟁이'죠. 신난 개구쟁이의 모습이 떠오르기도 한데요. 이 개구쟁이가 이번엔 그림 속으로 들어갔다고 합니다! 어린이날 100주년을 맞아 김창완의 '개구쟁이'가 그림책으로]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["복수하러 왔다"… 서예지 주연 드라마, 독일까 약일까 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000808454</link>
-            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000808454</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[배우 서예지가 '이브'로 돌아온다. 오는 25일 첫 방송되는 tvN 새 수목드라마 '이브'는 13년의 설계, 인생을 건 복수. 대한민국 0.1%를 무너뜨릴 가장 강렬하고 치명적인 고품격 격정멜로 복수극이다. 배우 서]]></content:encoded>
+            <title><![CDATA[[문화연예 플러스] 미국 '올스타 글로벌 콘서트', 나윤선 초청 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=214&amp;aid=0001193491</link>
+            <guid>https://entertain.naver.com/now/read?oid=214&amp;aid=0001193491</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스투데이] 재즈 가수 나윤선이 현지시간 30일, '세계 재즈의 날'을 맞아 미국 '올스타 글로벌 콘서트'에 초대됐습니다. 올해로 두 번째, 공식 초청된 나윤선은 작년 'BTS'가 '퍼미션 투 댄스'를 선보였던 유]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[제시카, 당당 포즈 이유있었네..'80억 채무 불이행' 피소건 고소 취하 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003860461</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003860461</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 문지연 기자] 그룹 소녀시대 출신 가수이자 연기자, 사업가인 제시카(정수연)과 그의 연인이자 동업자인 타일러 권이 설립한 패션 브랜드 '블랑 앤 에클레어'(이하 블랑)에게 빌린 돈을 갚지 않았다며 소송을]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[손나은, 남다른 레깅스핏…무보정에도 굴욕 無 [똑똑SNS] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000864097</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000864097</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[손나은이 레깅스핏을 자랑했다. 손나은은 28일 자신의 인스타그램에 근황을 담은 사진 여러 장을 게재했다. 공개된 사진에는 손나은이 한 광고 촬영장에서 촬영에 임하고 있는 모습이 담겨 있다. 레깅스 패션을 보인 그는]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['김호진♥' 김지호, 테라스 딸린 집이 얼마나 넓었으면…"청소하는 데 3시간" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000356116</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000356116</guid>
-            <pubDate>Thu, 28 Apr 2022 22:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=장다희 기자] 배우 김지호가 살림꾼의 면모를 보였다. 김지호는 28일 자신의 인스타그램 스토리에 "이제 첫끼니~~ 집 치우는 시간만 세 시간. 에공 힘들다. 휴식하자~~"라는 글과 함께 사진을 게재했다]]></content:encoded>
+            <title><![CDATA[[문화연예 플러스] 리사 'LALISA', 스포티파이 2억 스트리밍 돌파 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=214&amp;aid=0001193490</link>
+            <guid>https://entertain.naver.com/now/read?oid=214&amp;aid=0001193490</guid>
+            <pubDate>Thu, 28 Apr 2022 23:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스투데이] &lt;문화연예플러스&gt;입니다. 걸그룹 블랙핑크의 리사가 작년 발표한 솔로곡 '라리사'인데요. 리사가 글로벌 음원 플랫폼 '스포티파이'에서 스트리밍 2억 건을 돌파했다고 합니다. 리사의 스포티파이 스트리밍 2]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['체포' 에이셉 라키, 총격 사건 누명 벗나…경찰 "모두 등록된 총기" [엑's 해외이슈] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
