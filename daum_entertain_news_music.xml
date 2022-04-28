@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-04-28T20:17:59.715Z</updated>
+    <updated>2022-04-28T21:15:18.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS 지민, 전액 현금 매입 아파트 세무조사 받을 수 있다]]></title>
+        <id>https://entertain.v.daum.net/v/20220429060117444</id>
+        <link href="https://entertain.v.daum.net/v/20220429060117444"/>
+        <updated>2022-04-28T21:14:46.836Z</updated>
+        <content type="html"><![CDATA[[스포츠서울]그룹 방탄소년단의 지민, 배우 한소희, 스타강사 현우진의 공통점은 고가의 주택을 전액 현금으로 구입했다는 것입니다. 지민이 장기간 해외 공연으로 건강보험료 연체 사실을 알지 못해 대출 없이 전액 현금으로 매입한 59억원 아파트를 압류당한 후 전액 납부해 화제가 됐어요. 한소희도 최근 경기도 구리시 아치울 마을의 빌라드그리움]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['퀸덤2' 역시 효린, 보컬-댄스 유닛 모두 참가 "1등 할것"]]></title>
         <id>https://entertain.v.daum.net/v/20220429002807340</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220428180125945"/>
         <updated>2022-04-28T09:16:46.795Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 이승록 기자] 걸그룹 마마무의 문별이 새 솔로 싱글 'C.I.T.T (Cheese in the Trap)'를 28일 오후 6시 발표했다. 문별의 새 싱글 'C.I.T.T (Cheese in the Trap)'는 지난 1월 발매한 세 번째 미니앨범 '시퀀스(6equence)' 이후 3개월 만에 선보이는 앨범이다. 소속사에 따르면 타이틀곡 ']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DKZ "멤버 재편 후 2주, 점점 더 한 팀 같아지고 있죠"]]></title>
-        <id>https://entertain.v.daum.net/v/20220428180112935</id>
-        <link href="https://entertain.v.daum.net/v/20220428180112935"/>
-        <updated>2022-04-28T09:16:46.796Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 그룹 DKZ가 멤버 재편 후 첫 활동에 대해 언급했다. DKZ는 지난 12일 여섯 번째 싱글 앨범 ‘체이스 에피소드 2. 마음’을 발매하고 타이틀곡 ‘사랑도둑’으로 활발히 활동 중이다. 이들은 이번 앨범 발매에 앞서 팀명을 동키즈에서 DKZ로 변경하고, 멤버 역시 새롭게 합류하면서 6인조로 재편됐다. 새롭게 단장한 후 선보인 신보는 초동]]></content>
     </entry>
 </feed>
