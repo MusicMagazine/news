@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 08:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 09:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['펜싱돌' 보나, 이번엔 요거트 '모델']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=205577</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=205577</guid>
+            <pubDate>Thu, 28 Apr 2022 09:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=205577">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220428084242_d42ea4c4a80865a266c13bd973697f81_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=205577">'펜싱돌' 보나, 이번엔 요거트 '모델'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220428084242_d42ea4c4a80865a266c13bd973697f81_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오웹툰, "인도네시아 서비스 시작합니다"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=205458</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=203401">옥주현과 솔라, 뮤지컬 '마타하리'  5월에 돌아온다</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220418104408_40fd091ce4bddf0d3482f425003f8b81.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인피니트 남우현, 뮤지컬 '모래시계' 캐스팅]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=203065</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=203065</guid>
-            <pubDate>Sat, 23 Apr 2022 16:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=203065">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220416073557_79a6b33bebf0dec2e8c9b4dae34b1e66_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=203065">인피니트 남우현, 뮤지컬 '모래시계' 캐스팅</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220416073557_79a6b33bebf0dec2e8c9b4dae34b1e66_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
