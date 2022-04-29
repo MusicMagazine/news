@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-04-29T15:17:32.330Z</updated>
+    <updated>2022-04-29T16:21:56.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스케치북' 송가인 "도전하고 싶은 분야? 뮤지컬"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003049242</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003049242"/>
+        <updated>2022-04-29T16:21:37.619Z</updated>
+        <content type="html"><![CDATA[가수 송가인이 뮤지컬 무대에 서길 바랐다. 송가인은 29일 방송된 KBS 2TV '유희열의 스케치북'에 게스트로 출연했다. MC 유희열은 "영화, 예능, 가수 활동 모두 사랑받고 있는데 또 해보고 싶은 장르가 있냐"]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['댸니쇼' DKZ 멤버 첫인상 공개..기석 보스베이비·재찬 비몽사몽 '각양각색']]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003049228</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003049184"/>
         <updated>2022-04-29T10:16:15.108Z</updated>
         <content type="html"><![CDATA[그룹 저스트비(JUST B)가 비주얼부터 라이브, 퍼포먼스까지 완벽한 삼박자의 무대를 펼쳤다. 저스트비(임지민, 이건우, 배인, JM, 전도염, 김상우)는 29일 오후 방송된 KBS 2TV '뮤직뱅크'에 출연해 두]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LA 시내에 'SM 스퀘어' 표지판 설치]]></title>
-        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013147826</id>
-        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013147826"/>
-        <updated>2022-04-29T09:17:12.856Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) SM엔터테인먼트가 28일(현지시간) LA 시내에 위치한 6번가와 옥스퍼드 에비뉴의 교차로에 'SM 엔터테인먼트 스퀘어'를 안내하는 정식 표지판이 설치됐다고 밝혔다. 표지판에는 이수만 총괄 프로듀서를]]></content>
     </entry>
 </feed>
