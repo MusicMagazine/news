@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 08:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 09:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장] 싸이의 품격  "가장 싸이다운 것이 가장 핫하다" (정규9집 '싸다9' 프레스 청음회)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=205905</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=205905</guid>
+            <pubDate>Fri, 29 Apr 2022 09:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=205905">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220429175710_79ac15db6ca225a5533814462ae4ff5a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=205905">[현장] 싸이의 품격  "가장 싸이다운 것이 가장 핫하다" (정규9집 '싸다9' 프레스 청음회)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220429175710_79ac15db6ca225a5533814462ae4ff5a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰②] 다크비, 팬덤 비비 향한 무한 애정 "서로의 마음을 느꼈다"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=205836</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=205014">싸이가 내놓는 야심찬 첫 보이그룹 TNX...강렬한 임팩트 예고</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220426085038_fba0347359456bfbc5c5bcebcfb2bca9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 구원자로 컴백한 김성규 "사랑하는 사람에 대한 헌신적인 마음"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=205007</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=205007</guid>
-            <pubDate>Tue, 26 Apr 2022 01:06:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=205007">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220426084815_d151b81d1515d487a5c94e0866ece890.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=205007">[인터뷰] 구원자로 컴백한 김성규 "사랑하는 사람에 대한 헌신적인 마음"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220426084815_d151b81d1515d487a5c94e0866ece890.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
