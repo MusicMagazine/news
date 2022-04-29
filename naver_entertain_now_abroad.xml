@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-04-29T20:17:43.423Z</updated>
+    <updated>2022-04-29T21:15:19.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“우크라이나 난민 우리집에 수용하고 있다”, 베네딕트 컴버배치 약속 지켰다[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003599527</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003599527"/>
+        <updated>2022-04-29T21:15:18.587Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘닥터 스트레인지’ 베네딕트 컴버배치(45)가 우크라이나 난민을 자기 집에 수용하고 있다고 밝혔다. 그는 28일(현지시간) ‘닥터 스트레인지:대혼돈의 멀티버스’ 홍보 도중 스카이뉴스와 인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["답알고 있었지만 말할 수 없어"…'저스틴 비버♥' 헤일리, 뇌졸증 당시 긴박한 순간]]></title>
         <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003860681</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000864174"/>
         <updated>2022-04-29T05:20:12.052Z</updated>
         <content type="html"><![CDATA[배우 고은아가 29일 KBS2 새 예능 프로그램 '빼고파' 온라인 제작발표회에 참여해 포토타임을 갖고 있다. 사진제공=KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유정 '빼고파' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000864173</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000864173"/>
-        <updated>2022-04-29T05:20:12.053Z</updated>
-        <content type="html"><![CDATA[브레이브걸스 유정이 29일 KBS2 새 예능 프로그램 '빼고파' 온라인 제작발표회에 참여해 포토타임을 갖고 있다. 사진제공=KBS]]></content>
     </entry>
 </feed>
