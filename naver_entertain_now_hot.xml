@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2022-04-30T16:21:04.582Z</updated>
+    <updated>2022-04-30T17:17:54.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['파친코' 김민하, 디올 패션쇼 찾은 '젊은 선자']]></title>
+        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0006063641</id>
+        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0006063641"/>
+        <updated>2022-04-30T17:17:46.563Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 권현진 기자 = 배우 김민하가 30일 오후 서울 서대문구 이화여자대학교에서 열린 ‘디올(DIOR) 한국 최초 2022 가을 여성 컬렉션’에 참석해 포즈를 취하고 있다. 2022.5.1/뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘런닝맨’ 표 ‘이벤트 논쟁’…변우석, 과거 연애사 언급]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000976971</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0006063579"/>
         <updated>2022-04-30T13:24:32.262Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 권현진 기자 = 대한민국에 내놓으라는 톱스타들이 '디올(DIOR)’ 패션쇼에 총출동했다. 30일 오후 서울 서대문구 이화여자대학교에서 ‘디올(DIOR) 한국 최초 2022 가을 여성 컬렉션’이 진행됐]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토S] 김서형, '패션과 아이 메이크업 깔맞춤']]></title>
-        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000356564</id>
-        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000356564"/>
-        <updated>2022-04-30T13:24:32.263Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=서울, 곽혜미 기자] 배우 김서형이 30일 오후 서울 서대문구 신촌동 이화여자대학교에서 진행된 명품 브랜드 컬렉션 쇼 행사에 참석해 포즈를 취하고 있다.]]></content>
     </entry>
 </feed>
