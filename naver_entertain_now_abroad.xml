@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-05-01T22:16:41.080Z</updated>
+    <updated>2022-05-01T23:18:08.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[존 왓츠 감독, '스파이더맨' 하차…"7년 동안 MCU 있었던 것 감사"[Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004605446</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004605446"/>
+        <updated>2022-05-01T23:18:08.373Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 존 왓츠 감독이 마블 시리즈 영화 ‘스파이더맨’ 3편을 끝으로 연출에서 하차한다. 1일(현지 시간) 존 왓츠 감독은 ‘스파이더맨’ 리부트 시리즈에서 하차하는 것으로 가닥을 잡았다고 발표했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['톰 크루즈 전처' 케이티 홈즈, 가수와 뉴욕 데이트…길거리 키스[Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004605435</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000864525"/>
         <updated>2022-04-30T10:16:38.427Z</updated>
         <content type="html"><![CDATA['디올 2022 가을 여성 컬렉션 패션쇼'가 30일 오후 서울 서대문구 신촌동 이화여자대학교에서 열렸다. 디올이 국내에서 패션쇼를 여는 것은 2007년 서울 올림픽공원에서 개최했던 창립 60주년 기념 아시아 퍼시픽]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안효섭 '작은 얼굴' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000864524</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000864524"/>
-        <updated>2022-04-30T10:16:38.428Z</updated>
-        <content type="html"><![CDATA[안효섭이 30일 오후 서울 이화여자대학교에서 열린 '디올 2022 가을 여성 컬렉션 패션쇼'에 참석하고 있다.]]></content>
     </entry>
 </feed>
