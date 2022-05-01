@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-05-01T18:19:20.528Z</updated>
+    <updated>2022-05-01T19:16:45.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비아이, 첫 국내 팬미팅 성료 "날 좋아해줘서 감사"]]></title>
+        <id>https://entertain.v.daum.net/v/20220502040029354</id>
+        <link href="https://entertain.v.daum.net/v/20220502040029354"/>
+        <updated>2022-05-01T19:16:10.158Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] [사진 = 아이오케이 엠 제공]가수 비아이(B.I)가 첫 번째 국내 팬미팅을 성료했다. 비아이는 지난 4월 30일 오후 3시와 7시 등 2회차에 걸쳐 서울 마포구 신한카드 판 스퀘어에서 첫 번째 국내 팬미팅 'B.I Offline'을 개최했다. '부캐(부 캐릭터) 뽑기' 콘셉트로 진행된 이날 공연에서 비아이는 회차별 캐리커처 작가 김한빈, 인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세븐틴, 日 오프라인 팬미팅 전석 매진..6만 명 만난다]]></title>
         <id>https://entertain.v.daum.net/v/20220502010036924</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220501194545160"/>
         <updated>2022-05-01T11:13:17.771Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 쏟아지는 함성에 모든 아쉬움을 씼었다. 스트레이 키즈가 두 번째 월드투어 ‘매니악’ 서울 공연을 개최하고 팬들과 만났다. 지난달 29일부터 1일까지 사흘간 개최된 이번 공연은 월드투어 ‘매니악’의 막을 올리는 콘서트이자 첫 월드 투어 ‘스트레이 키즈 월드 투어 디스트릭트 9 : 언락’ 이후 2년 5개월 만에 진행되는 대면 단독 콘서트로,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["특별한 대면공연"..스트레이 키즈, 스테이와 함께한 160분의 축제]]></title>
-        <id>https://entertain.v.daum.net/v/20220501194516157</id>
-        <link href="https://entertain.v.daum.net/v/20220501194516157"/>
-        <updated>2022-05-01T11:13:17.771Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이덕행 기자] 그룹 스트레이키즈(Stray Kids)가 1일 오후 서울 잠실 실내 체육관에서 진행된 두 번째 월드투어 'Stray Kids 2nd World Tour 'MANIAC' 공연에서 멋진 무대를 펼치고 있다. /사진제공=JYP엔터테인먼트 2022.05.01 /사진=이동훈 기자 photoguy@스트레이키즈가 월드 투어의 서막을 알렸다.]]></content>
     </entry>
 </feed>
