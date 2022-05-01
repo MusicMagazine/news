@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-05-01T03:40:33.221Z</updated>
+    <updated>2022-05-01T04:35:01.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['역시 BTS' 지민·슈가, 컬래버도 통했다]]></title>
+        <id>https://entertain.v.daum.net/v/20220501133401836</id>
+        <link href="https://entertain.v.daum.net/v/20220501133401836"/>
+        <updated>2022-05-01T04:34:26.852Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 역시 BTS다. 컬래버레이션만으로도 엄청난 파급력을 보여주고 있다. 방탄소년단 지민이 하성운과 듀엣으로 선보인 ‘위드 유(With You)’가 스포티파이, 아이튠즈 등 세계 주요 음원 차트를 휩쓸고 있다. 지난달 23일 발매된 ‘위드 유’는 현재 tvN에서 방영 중인 드라마 ‘우리들의 블루스’ OST로, 지민의 솔로 음반이 아님에도 큰]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이콘, 미니 4집  샘플러 영상 공개]]></title>
         <id>https://entertain.v.daum.net/v/20220501123352049</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220501093935867"/>
         <updated>2022-05-01T01:25:21.711Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 가수 장민호가 올 봄 리스너들의 공감대를 진하게 자극한다. 장민호는 1일 각종 온라인 음원 사이트를 통해 새 싱글 '회초리'를 발매한다. 장민호의 새 싱글 '회초리'는 지난 1월 발매한 첫 미니앨범 '에세이 ep.1' 이후 4개월 만에 발표하는 앨범으로, 어머니에 대한 그리움을 장민호만의 애절한 감성으로 노래한 곡이다. 이번 신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["병역 기피는 공정 훼손" 유승준의 완패]]></title>
-        <id>https://entertain.v.daum.net/v/20220501093000697</id>
-        <link href="https://entertain.v.daum.net/v/20220501093000697"/>
-        <updated>2022-05-01T01:25:21.713Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 윤상근 기자] /사진=스타뉴스 가수 유승준이 이번에도 결국 '병역 기피' 논란으로 발목이 잡혔다. 대법원 파기환송과 함께 첫 번째 비자발급 행정소송 최종 승소가 한국행을 향한 반전을 꾀한 것처럼 보였지만, 유승준 본인마저 포기하고자 했던 한국행을 위한 재소송의 의지는 여전히 부정적인 여론과 법무부 병무청 등 관계 기관들의 단호한 태도, 역시 변함]]></content>
     </entry>
 </feed>
