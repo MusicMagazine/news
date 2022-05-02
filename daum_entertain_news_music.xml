@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-05-02T15:18:59.112Z</updated>
+    <updated>2022-05-02T16:24:23.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미란이X제미나이, 6일 런던-파리 잇는 첫 유럽 공연 'AREA in Europe' 개최]]></title>
+        <id>https://entertain.v.daum.net/v/20220503000047638</id>
+        <link href="https://entertain.v.daum.net/v/20220503000047638"/>
+        <updated>2022-05-02T16:23:46.613Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 에어리어(AREA) 소속 아티스트들이 유럽에서 첫 공연을 펼친다. 에어리어 소속 아티스트 미란이(Mirani)와 제미나이(GEMINI)는 오는 6일과 8일 영국 런던, 프랑스 파리에서 각각 공연 ‘AREA in Europe’을 진행한다. 미란이와 제미나이는 ‘AREA in Europe’를 통해 데뷔 후 처음으로 유럽 공연 무대에 선다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["슈가, 40대에도 춤 출 것"..싸이, 'That That' MV 메이킹 영상 공개]]></title>
         <id>https://entertain.v.daum.net/v/20220502233010396</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220502182704386"/>
         <updated>2022-05-02T10:17:27.500Z</updated>
         <content type="html"><![CDATA[(사진=물고기뮤직)[이데일리 스타in 김현식 기자] “한 장르에 국한된 가수가 아니라는 걸 보여드리고 싶었다.” 가수 임영웅이 정규 1집 ‘아임 히어로’(IM HERO)로 돌아왔다. 정규앨범을 내는 건 데뷔 6년여 만에 이번이 처음이라 주목도가 높다. 임영웅은 앨범 발매일인 2일 사전 녹화한 기자간담회 영상을 유튜브 스트리밍 방식으로 공개했다. 코로나19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["겁이 난 없지" 르세라핌, 괴물 신인의 당당한 출사표 'FEARLESS']]></title>
-        <id>https://entertain.v.daum.net/v/20220502182241307</id>
-        <link href="https://entertain.v.daum.net/v/20220502182241307"/>
-        <updated>2022-05-02T10:17:27.502Z</updated>
-        <content type="html"><![CDATA[[OSEN=지민경 기자] ‘하이브 최초 걸그룹’ 르세라핌이 당찬 포부를 담은 데뷔곡으로 새로운 시작을 알렸다. 르세라핌은 2일 오후 6시 각종 음원사이트를 통해 첫 번째 미니앨범 ‘FEARLESS’ 전곡 음원과 타이틀곡 ‘FEARLESS’ 뮤직비디오를 공개했다. 아이즈원 출신 김채원, 사쿠라를 비롯해 허윤진, 카즈하, 김가람, 홍은채 등 6명으로 구성된]]></content>
     </entry>
 </feed>
