@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 23:18:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 01:08:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박보검 전역 6일만에 무대, 신동엽·수지와 백상예술대상 MC]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=206308</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=206308</guid>
+            <pubDate>Mon, 02 May 2022 01:07:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=206308">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220502091558_4c38dafbb8aa880a8cbe28576b023d19_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=206308">박보검 전역 6일만에 무대, 신동엽·수지와 백상예술대상 MC</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220502091558_4c38dafbb8aa880a8cbe28576b023d19_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장] 뮤지컬 차미  “차미와 나, 그리고 나 자신!" (프레스콜)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=205883</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=203597">두 번째 네이버 오디오 무비 '리버스' 캐스팅 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220419075721_1cb166bb39dd85c2d59966446501d455.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빅토르 위고 '웃는 남자', 박효신-박은태-박강현의 뮤지컬로]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=203502</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=203502</guid>
-            <pubDate>Sat, 23 Apr 2022 16:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=203502">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220418172846_7cd2ab71888c3a5f198ab083cd778773.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=203502">빅토르 위고 '웃는 남자', 박효신-박은태-박강현의 뮤지컬로 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220418172846_7cd2ab71888c3a5f198ab083cd778773.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
