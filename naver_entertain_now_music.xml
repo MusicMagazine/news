@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-05-03T13:37:23.050Z</updated>
+    <updated>2022-05-03T14:15:15.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[JUST B, 첫 팬송 'Lights On' 라이브 감동…6人 6色 개성만큼 강한 팀워크]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000865157</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000865157"/>
+        <updated>2022-05-03T14:14:59.047Z</updated>
+        <content type="html"><![CDATA[그룹 JUST B(저스트비)가 유쾌한 에너지로 '점심어택'을 수놓았다. JUST B는 3일 오후 네이버 NOW.를 통해 방송된 '점심어택'에 출연해 다양한 토크를 나누며 팬들에게 특별한 시간을 선물했다. 이날 호스트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘더쇼’ 엘라스트, 잔혹 동화 같은 퍼포먼스]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000865138</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011162951"/>
         <updated>2022-05-03T09:16:59.703Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 글로벌 수퍼 그룹 '방탄소년단'(BTS) 소속사 하이브의 올해 1분기 연결 영업이익이 370억원을 기록했다. 전년 동기 대비 62.65% 증가했다. 하이브는 같은 기간 매출액과 순이익이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[르세라핌, 데뷔곡 '피어리스' MV 1000만 뷰 돌파]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011162948</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011162948"/>
-        <updated>2022-05-03T09:16:59.703Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]김주희 인턴 기자 = 그룹 르세라핌(LE SSERAFIM)의 데뷔곡 '피어리스(FEARLESS)' 뮤직비디오가 1000만 뷰를 돌파했다. 지난 2일 오후 6시 하이브 레이블즈 유튜브 채널을 통해 공개된]]></content>
     </entry>
 </feed>
