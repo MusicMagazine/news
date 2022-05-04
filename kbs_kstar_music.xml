@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 06:24:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 07:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT DREAM, 어린이날 기념 어린이들을 위한 선물 준비!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=206667</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=206667</guid>
+            <pubDate>Wed, 04 May 2022 07:14:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=206667">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220504110433_06bcb9043ee88682a74138dd89140415_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=206667">NCT DREAM, 어린이날 기념 어린이들을 위한 선물 준비!</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220504110433_06bcb9043ee88682a74138dd89140415_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장] “FLASHBACK” 아이콘의 새로운 도전]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=206549</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=205543">투모로우바이투게더, 흑화한 다섯 소년  ‘minisode 2: Thursday's Child’ 콘셉트</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220428075830_7a18b7b6015cd6b57e9719c92378b625.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['음색 여신' 소유, 'Day&Night' 발매]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=205498</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=205498</guid>
-            <pubDate>Wed, 27 Apr 2022 11:12:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=205498">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220427180012_25c951426c6c0f6df44798a8a33e25c1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=205498">'음색 여신' 소유, 'Day&amp;Night' 발매</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220427180012_25c951426c6c0f6df44798a8a33e25c1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
