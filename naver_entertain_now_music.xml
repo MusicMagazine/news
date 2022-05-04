@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-05-04T12:30:45.446Z</updated>
+    <updated>2022-05-04T13:38:35.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다비치, ‘Season Note’로 돌아온다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000810852</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000810852"/>
+        <updated>2022-05-04T13:38:20.153Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 여성 듀엣 다비치(이해리, 강민경)가 새 미니앨범과 함께 돌아온다. 4일 소속사 웨이크원은 “다비치가 오는 16일 오후 6시 새 미니앨범 ‘Season Note (시즌 노트)’를 발매한다”고 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빅나티, 두 번째 프리 싱글 ‘Lovey Dovey’ 성공적 발매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000810850</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000810850"/>
+        <updated>2022-05-04T13:38:20.156Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 아티스트 빅나티(BIG Naughty, 서동현)가 R&amp;B 음악으로도 특별한 공감을 선사했다고 소속사가 전했다. 빅나티는 4일 오후 6시 선공개 싱글 ‘Lovey Dovey (러비 더비)’를 발매하고 오]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팝업★]"내 아빠 많이 사랑해" 강수지, 세상 떠난 父에 인사‥마지막까지 뭉클]]></title>
         <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003556019</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001444055"/>
         <updated>2022-05-04T10:17:43.115Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) R&amp;B 싱어송라이터 죠지가 레이블 크래프트앤준과 재계약을 맺었다. 매니지먼트는 수민, 글렌체크가 소속되어 있는 전략적 파트너사 EMA가 맡을 예정이다. 김백준 크래프트앤준 대표는 “201]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["롤모델은 블랙핑크→아이유"…클라씨, 수업 끝내고 '빌보드' 품었다 [종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001444052</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001444052"/>
-        <updated>2022-05-04T10:17:43.117Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) '방과후설렘'을 통해 탄생한 신예 클라씨가 빌보드를 품었다. 4일 오후 서울 광진구 예스24 라이브홀에서 첫 미니앨범 Y '클래스 이즈 오버(CLASS IS OVER)' 발매 기념 쇼케이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백' 우즈, 록 사운드로 꽉 채웠다…2000년대 감성 소환 [종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004694752</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004694752"/>
-        <updated>2022-05-04T10:17:43.118Z</updated>
-        <content type="html"><![CDATA[가수 우즈(WOODZ, 조승연)가 록 사운드를 만끽할 수 있는 앨범을 들고 돌아왔다. 우즈는 4일 오후 네 번째 미니앨범 '컬러풀 트라우마(COLORFUL TRAUMA)' 발매 기념 온라인 미디어 쇼케이스를 개최했다]]></content>
     </entry>
 </feed>
