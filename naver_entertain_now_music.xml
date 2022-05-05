@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-05-05T19:14:50.078Z</updated>
+    <updated>2022-05-05T20:17:42.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 코첼라 달군 88라이징 "남녀노소가 자랑스러울 라인업"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011166971</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011166971"/>
+        <updated>2022-05-05T20:17:26.636Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 2NE1 완전체·에스파 무대 호평…인도네시아·태국 아티스트도 함께 미국서 아시안 아티스트 알리는 음악 레이블 한국총괄 양승진 부사장 서면 인터뷰 [서울=뉴시스]이재훈 기자 = 아시안 콘텐츠가 이렇게 뜨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[리아킴, '쇼다운' 스페셜 저지…"이렇게 어려운 심사 처음"]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011166954</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003050898"/>
         <updated>2022-05-05T09:17:30.647Z</updated>
         <content type="html"><![CDATA[그룹 에이티즈(ATEEZ)가 파리에서 2만 관객과 만났다. 4일(현지시간) 오후 에이티즈가 프랑스 파리 '아코르 아레나(Accor Arena)'에서 '더 펠로우십 : 비기닝 오브 디 엔드(THE FELLOWSHIP]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싸이,'That That' 국내 음원 차트 1위→스포티파이 1300만 스트리밍]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003050897</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003050897"/>
-        <updated>2022-05-05T09:17:30.652Z</updated>
-        <content type="html"><![CDATA[싸이(PSY)가 정규 9집 타이틀곡 'That That'으로 국내외 음악 차트에서 핫한 영향력을 보여주고 있다. 싸이의 정규 9집 '싸다9' 타이틀곡 'That That (prod. &amp; feat. SUGA of BT]]></content>
     </entry>
 </feed>
