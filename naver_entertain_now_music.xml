@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-05-05T18:19:56.173Z</updated>
+    <updated>2022-05-05T19:14:50.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[리아킴, '쇼다운' 스페셜 저지…"이렇게 어려운 심사 처음"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011166954</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011166954"/>
+        <updated>2022-05-05T19:14:33.120Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = JTBC 댄스 서바이벌 프로그램 '쇼다운'에 댄서 겸 안무가 리아킴이 스페셜 저지로 합류한다. 6일 JTBC에 따르면, 이날 방송되는 '쇼다운' 7회에선 4라운드 크루 합동 미션 무대가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서로 모르는 24인조 걸그룹? 트리플에스 "다른 멤버는 누구.."]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003050953</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003050897"/>
         <updated>2022-05-05T09:17:30.652Z</updated>
         <content type="html"><![CDATA[싸이(PSY)가 정규 9집 타이틀곡 'That That'으로 국내외 음악 차트에서 핫한 영향력을 보여주고 있다. 싸이의 정규 9집 '싸다9' 타이틀곡 'That That (prod. &amp; feat. SUGA of BT]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘싱어게인2’ 이주혁, 나쁜 기억 씻어내는 ‘세탁소에서 만나요’]]></title>
-        <id>https://entertain.naver.com/now/read?oid=408&amp;aid=0000154045</id>
-        <link href="https://entertain.naver.com/now/read?oid=408&amp;aid=0000154045"/>
-        <updated>2022-05-05T09:17:30.653Z</updated>
-        <content type="html"><![CDATA[가수 이주혁이 신곡 콘셉트 포토와 재킷 이미지를 선보이며 컴백 열기를 끌어올렸다. 공개된 콘셉트 포토에서 깔끔한 화이트 셔츠로 스타일링한 이주혁은 새하얀 이불 아래 따뜻한 눈빛과 청량미 넘치는 비주얼을 뽐냈다. 또]]></content>
     </entry>
 </feed>
