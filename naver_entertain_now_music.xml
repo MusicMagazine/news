@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-05-06T10:18:18.343Z</updated>
+    <updated>2022-05-06T11:15:43.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국내최대 힙합 멤버쉽 NFT METABUMZ, 오프라인 HIPHOP Festival 개최]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000811213</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000811213"/>
+        <updated>2022-05-06T11:15:28.826Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] NFT 프로젝트인 메타범즈(METABUMZ)에서 다음달 1일 오프라인 메타범즈 페스티벌을 진행한다. 메타범즈 페스티벌은 1부와 2부로 나뉘어 진행하며, 수퍼비(SUPERBEE)를 필두로 호미들, 언에듀]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김재중, 왕자님 근황 '청순 미모 홀릭~' [스타IN★]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003051173</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001444996"/>
         <updated>2022-05-06T08:21:23.096Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 유키스 훈이 황지선과 결혼한다. 유키스 훈 소속사 탱고뮤직 측은 6일 "훈이 과거 작품에서 만난 황지선과 오랜 연애 끝에 평생을 약속하게 됐다"고 밝혔다. 소속사에 따르면 두 사람은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다비치 강민경, 코로나19 확진 "16일 컴백 일정 변경 無"[공식]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000803180</id>
-        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000803180"/>
-        <updated>2022-05-06T08:21:23.096Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 정하은기자]다비치 강민경이 코로나19 확진 판정을 받았다. 6일 소속사 웨이크원 측은 “강민경은 금일(6일) 새벽 코로나19 증상이 의심되어 곧바로 신속항원 검사를 실시하였고 오후 코로나19 확진 판]]></content>
     </entry>
 </feed>
