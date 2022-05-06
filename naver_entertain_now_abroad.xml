@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-05-06T20:17:40.921Z</updated>
+    <updated>2022-05-06T21:15:53.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[日 특촬물 유명스타 극단적 선택, 자택 지하서 숨진 채 발견…향년 66세[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003601585</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003601585"/>
+        <updated>2022-05-06T21:15:53.066Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영화 ‘링’과 ‘크로마티 고교’ ‘가면라이더 덴오’ 등으로 유명한 일본 중견배우 와타나베 히로유키가 세상을 떠났다. 향년 67세. 연예기획사 알파에이전시 대표 반다이 히로미는 5일 공식]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[허준호 '카리스마 미소' [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000865951</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000865914"/>
         <updated>2022-05-06T12:30:00.478Z</updated>
         <content type="html"><![CDATA['제58회 백상예술대상' 레드카펫 행사가 6일 오후 경기도 고양시 일산 킨텍스에서 열렸다. 배우 오나라가 포토타임을 갖고 있다. 사진=백상예술대상사무국 제공]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설경구 '오빠 왔다' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000865913</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000865913"/>
-        <updated>2022-05-06T12:30:00.479Z</updated>
-        <content type="html"><![CDATA['제58회 백상예술대상' 레드카펫 행사가 6일 오후 경기도 고양시 일산 킨텍스에서 열렸다. 배우 설경구가 포토타임을 갖고 있다. 사진=백상예술대상사무국 제공]]></content>
     </entry>
 </feed>

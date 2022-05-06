@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-05-06T20:17:40.923Z</updated>
+    <updated>2022-05-06T21:15:53.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[슈가 손잡고 훨훨 나는 싸이, 다시 빌보드 가보자고]]></title>
+        <id>https://entertain.v.daum.net/v/20220507060006872</id>
+        <link href="https://entertain.v.daum.net/v/20220507060006872"/>
+        <updated>2022-05-06T21:15:20.246Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 황미현 기자 = 가수 싸이가 '강남스타일' 시절의 빌보드 영광을 재현할 조짐이다. 싸이는 지난달 29일 무려 5년만에 정규 9집 '싸다9'를 발매했다. 5년만에 발표하는 앨범인만큼 그는 모든 곡에 공을 들였다. 특히 타이틀 곡 '댓댓'은 전세계 팬덤이 탄탄한 그룹 방탄소년단의 슈가와 함께 했다. 심지어 슈가는 '댓댓'의 프로듀싱과 피처]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[샤론 반 이튼 새 앨범 'We've Been Going About This All Wrong']]></title>
         <id>https://entertain.v.daum.net/v/20220506213916047</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220506165114253"/>
         <updated>2022-05-06T08:21:05.154Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 정하은기자]다비치 강민경이 코로나19 확진 판정을 받았다. 6일 소속사 웨이크원 측은 “강민경은 금일(6일) 새벽 코로나19 증상이 의심되어 곧바로 신속항원 검사를 실시하였고 오후 코로나19 확진 판정을 받았다”고 알렸다. 이어 “강민경은 코로나19 백신 2차 접종을 완료한 상태로 현재 별다른 증상은 없으며, 모든 스케줄]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유키스 훈, 황지선과 5월 29일 결혼]]></title>
-        <id>https://entertain.v.daum.net/v/20220506164719114</id>
-        <link href="https://entertain.v.daum.net/v/20220506164719114"/>
-        <updated>2022-05-06T08:21:05.154Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 황서연 기자] 그룹 유키스 멤버 훈이 결혼한다. 6일 훈은 자신의 사회관계망서비스(SNS) 계정에 직접 쓴 손편지를 게재, 결혼 소식을 직접 전했다. 훈은 "교제 중인 여자친구가 있다. 이름은 황지선이며 다양한 활동을 통해 이미 여러분들께서 아시는 분일 수도 있다"라며 예비 신부를 소개했다. 이어 훈은 "무엇보다 저의 일을 존중해 주고, 우리]]></content>
     </entry>
 </feed>
