@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-05-06T19:14:57.666Z</updated>
+    <updated>2022-05-06T20:17:40.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주접이 풍년 PD "팬들, 점점 긍정적으로 변하고 있죠"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011168994</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011168994"/>
+        <updated>2022-05-06T20:17:26.110Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 덕질에 대한 인식 바꾸는 주접이 풍년 "팬들 점점 긍정적으로 변하고 있어" 팬덤 출연 요청 쇄도…국내외 스타 섭외 중 "우울증약 끊은 송가인 팬 기억에 남아" 늦은 입봉 부담감 多…자신 있게 밀어붙여]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[베를린서 팬데믹후 첫 K팝 콘서트…인파 1천여명 몰려]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013162147</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000811200"/>
         <updated>2022-05-06T10:18:00.433Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 악극 ‘불효자는 웁니다’가 인천과 경주에서 세대를 아우르는 구슬픈 멜로디로 매 회차 관객들의 마음을 뜨겁게 울리며 박수 속 성공적으로 공연을 이어가고 있다고 제작사가 6일 전했다. 지난 4월 김해 공연]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YG엔터, 친환경 행보 계속…국제산림관리협의회와 파트너십]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011168728</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011168728"/>
-        <updated>2022-05-06T10:18:00.435Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 그룹 '빅뱅' '블랙핑크' 소속사 YG엔터테인먼트가 친환경 행보를 계속한다. 6일 YG에 따르면, YG는 최근 합정동 신사옥에서 국제산림관리협의회(FSC)와 전략적 파트너십을 위한 업무]]></content>
     </entry>
 </feed>
