@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-05-06T15:17:19.794Z</updated>
+    <updated>2022-05-06T16:23:45.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[우리말-K팝 톺아보기①]'yeonseupseng'·'까리하다'…돌민정음 아시나요?]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011168972</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011168972"/>
+        <updated>2022-05-06T16:23:30.708Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 온라인엔 K팝 사전 '돌민정음'(아이돌+훈민정음) 방탄소년단 아미 주축 '아민정음'(아미+훈민정음)도 통용 우리나라 말인데 알아들을 수 없는 노래가 많다. K팝 세계화 속 영어인지 국어인지 헛갈리는 가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[혼네·에픽하이 등 ‘제14회 서울재즈페스티벌’ 탄탄 라인업…이담(Etham) 첫 내한]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000811252</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004608794"/>
         <updated>2022-05-06T10:18:00.436Z</updated>
         <content type="html"><![CDATA[[OSEN=선미경 기자] 그룹사운드 잔나비가 새 앨범의 타이틀곡 뮤직비디오 티저를 공개하며 발매 기대감을 높였다. 잔나비는 6일 오후에 공식 SNS 계정을 통해 오는 10일 발매를 앞둔 새 앨범 ‘잔나비 소곡집 Ⅱ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잔나비, 신보 타이틀곡은 ‘초록을거머쥔우리는’… 싱그러운 ‘힐링 감성’]]></title>
-        <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001987578</id>
-        <link href="https://entertain.naver.com/now/read?oid=016&amp;aid=0001987578"/>
-        <updated>2022-05-06T10:18:00.438Z</updated>
-        <content type="html"><![CDATA[[헤럴드경제 = 서병기 선임기자]그룹사운드 잔나비가 새 앨범의 타이틀곡 뮤직비디오 티저를 공개하며 발매 기대감을 높였다. 잔나비는 6일 오후 공식 SNS 계정을 통해 오는 10일 발매를 앞둔 새 앨범 ‘잔나비 소곡집]]></content>
     </entry>
 </feed>
