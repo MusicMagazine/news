@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 01:02:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 03:05:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["기네스 팰트로우는 누가?"  연극 '셰익스피어 인 러브' 내년 CJ토월극장에 오른다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=206987</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=206987</guid>
+            <pubDate>Fri, 06 May 2022 03:04:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=206987">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220506102557_98f9486a4a57839338e8f34bfdd79703.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=206987">"기네스 팰트로우는 누가?"  연극 '셰익스피어 인 러브' 내년 CJ토월극장에 오른다</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220506102557_98f9486a4a57839338e8f34bfdd79703.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["잘 차려진 밥상"  오늘 '백상예술대상' 시상식]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=206960</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204160">[화보] 우주소녀 보나, "보나는 눈부시다"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220421140708_68ceeb31cae718abfb18438ccb9c3b64.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[환경돌 드림캐쳐, 학교 울타리 숲 조성 프로젝트 5천만 원 기부!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=204089</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204089</guid>
-            <pubDate>Sat, 23 Apr 2022 16:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204089">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220421094732_2c6ad6f46c414fef5402852d96f86ba5.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204089">환경돌 드림캐쳐, 학교 울타리 숲 조성 프로젝트 5천만 원 기부!</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220421094732_2c6ad6f46c414fef5402852d96f86ba5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
