@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-05-06T16:23:45.265Z</updated>
+    <updated>2022-05-06T17:23:47.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[베를린서 팬데믹후 첫 K팝 콘서트…인파 1천여명 몰려]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013162147</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013162147"/>
+        <updated>2022-05-06T17:23:31.538Z</updated>
+        <content type="html"><![CDATA[갓세븐 유겸 첫 단독콘서트 독일 3개 도시 투어…뮌헨·뒤셀도르프서는 매진 (베를린=연합뉴스) 이율 특파원 = "헬로 베를린", "아이 러브 유!" 5일(현지시간) 독일의 수도 베를린에서 신종 코로나바이러스 감염증(코]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[우리말-K팝 톺아보기①]'yeonseupseng'·'까리하다'…돌민정음 아시나요?]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011168972</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011168728"/>
         <updated>2022-05-06T10:18:00.435Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 그룹 '빅뱅' '블랙핑크' 소속사 YG엔터테인먼트가 친환경 행보를 계속한다. 6일 YG에 따르면, YG는 최근 합정동 신사옥에서 국제산림관리협의회(FSC)와 전략적 파트너십을 위한 업무]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백' 잔나비, 타이틀곡은 '초록을거머쥔우리는'…감성 장인의 초록 터치]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004608794</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004608794"/>
-        <updated>2022-05-06T10:18:00.436Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자] 그룹사운드 잔나비가 새 앨범의 타이틀곡 뮤직비디오 티저를 공개하며 발매 기대감을 높였다. 잔나비는 6일 오후에 공식 SNS 계정을 통해 오는 10일 발매를 앞둔 새 앨범 ‘잔나비 소곡집 Ⅱ]]></content>
     </entry>
 </feed>
