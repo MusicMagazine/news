@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-05-07T09:15:43.468Z</updated>
+    <updated>2022-05-07T10:17:43.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서리, 이효리 일상에 '체크인'…'서울체크인' OST 출격]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001445440</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001445440"/>
+        <updated>2022-05-07T10:17:26.434Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 하지원 기자) 싱어송라이터 서리(Seori)가 가수 이효리의 '서울체크인'에 목소리를 더했다. 서리는 7일 정오 발매된 티빙 오리지널 '서울체크인'의 다섯 번째 OST 'Beautiful Night (]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[벤, '내일' OST 발매…'내게 단 한 사람']]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011169346</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000571367"/>
         <updated>2022-05-07T05:13:23.210Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 가수 보아가 'LOVE LETTER'를 다시 부른다. 보아는 일본 데뷔 20주년 기념 'Self Cover Project'(셀프 커버 프로젝트) 여덟 번째 곡을 5월 9일 공개한다. 한국과 일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임영웅, 연기도 기대되는 남자…#영웅7 200만 뷰 돌파]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001445312</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001445312"/>
-        <updated>2022-05-07T05:13:23.215Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅의 인기와 비주얼이 눈길을 끈다. 지난 4월 웰메이드 공식 유튜브 채널에는 “[ #영웅7 ] 본편 Full ver. | 주연 임영웅 | 웰메이드 WELLMADE”라는 제목의 영상이]]></content>
     </entry>
 </feed>
