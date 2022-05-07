@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-05-07T05:13:39.561Z</updated>
+    <updated>2022-05-07T06:19:41.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[앰버 허드 "조니뎁이 성폭행…욕실서 피 흘렸다" 눈물]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011169224</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011169224"/>
+        <updated>2022-05-07T06:19:40.453Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]전재경 기자 = 미국 배우 앰버 허드(36)가 전 남편이자 배우인 조니 뎁(58)과 법정 싸움을 이어가고 있는 가운데 충격적인 진술을 했다. 외신에 따르면, 허드는 5일(현지시간) 미국 버지니아주 법원]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“'토르' 크리스 헴스워스, 마블 히어로 중 가장 잘생긴 배우”[해외이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003601617</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000865918</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000865918"/>
         <updated>2022-05-06T12:30:00.475Z</updated>
-        <content type="html"><![CDATA['제58회 백상예술대상' 레드카펫 행사가 6일 오후 경기도 고양시 일산 킨텍스에서 열렸다. 배우 이세영이 포토타임을 갖고 있다. 사진=백상예술대상사무국 제공]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이세영 '우아한 블랙 드레스 자태' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000865917</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000865917"/>
-        <updated>2022-05-06T12:30:00.476Z</updated>
         <content type="html"><![CDATA['제58회 백상예술대상' 레드카펫 행사가 6일 오후 경기도 고양시 일산 킨텍스에서 열렸다. 배우 이세영이 포토타임을 갖고 있다. 사진=백상예술대상사무국 제공]]></content>
     </entry>
 </feed>
