@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-05-07T20:18:02.655Z</updated>
+    <updated>2022-05-07T21:16:17.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['밀리언셀러' 임영웅이 다시 쓰는 남솔로 역사]]></title>
+        <id>https://entertain.v.daum.net/v/20220508060014599</id>
+        <link href="https://entertain.v.daum.net/v/20220508060014599"/>
+        <updated>2022-05-07T21:15:44.188Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 임영웅이 남자 솔로 가수 새 역사를 썼다. 자신의 이름을 전면으로 내세운 첫 번째 정규 앨범을 통해 가요계 '영웅'의 모습을 보여주고 있다. 임영웅은 지난 2일 오후 6시 데뷔 6년 만에 첫 번째 정규앨범 '아임 히어로'(IM HERO)를 발매, 이적이 작사·작곡에, 정재일이 스트링 편곡에 참여한 발라드 타이틀곡 '다시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTS 아이돌 최초 병역특례?]]></title>
         <id>https://entertain.v.daum.net/v/20220507220052502</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220507134633954"/>
         <updated>2022-05-07T05:13:03.468Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 가수 김성규가 팬들에 대한 애정을 드러냈다. 소속사 더블에이치티엔이는 5월 6일 공식 유튜브 채널 '성규특별시'에 공개한 열 번째 에피소드를 통해 김성규의 네 번째 미니 앨범 '세이비어(SAVIOR)' 인터뷰를 공개했다. 공개된 영상은 지난달 개최한 김성규의 네 번째 단독 콘서트 '[ LV ]'에서 공개된 VCR의 풀버전으로,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴이스트 출신 렌, 빅플래닛메이드와 전속계약.."전폭 지원할 것"]]></title>
-        <id>https://entertain.v.daum.net/v/20220507134244923</id>
-        <link href="https://entertain.v.daum.net/v/20220507134244923"/>
-        <updated>2022-05-07T05:13:03.469Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자] 그룹 뉴이스트 출신 렌(최민기)이 빅플래닛메이드(Big Planet Made, BPM)의 새 식구가 됐다. 7일 빅플래닛메이드는 "최근 렌과 전속계약을 체결했다"라고 밝혔다. 이와 함께 공식 SNS를 통해 렌의 프로필 사진을 공개하며 아티스트 영입을 공식화했다. 앞서 빅플래닛메이드는 연꽃이 상징처럼 자리한 'WHO'S NEXT?]]></content>
     </entry>
 </feed>
