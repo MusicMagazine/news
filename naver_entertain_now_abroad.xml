@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-05-06T23:17:17.108Z</updated>
+    <updated>2022-05-07T01:04:38.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["한국 음악시간에 국악 실종 위기"…반크, 반대 캠페인 나선다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013162221</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013162221"/>
+        <updated>2022-05-07T01:04:38.196Z</updated>
+        <content type="html"><![CDATA["아이돌그룹 국악풍 곡 美빌보드 올랐는데, 정작 국악교육 축소 웬말" 초·중·고 교과서에 국악교육 유지 위한 캠페인 전개 (서울=연합뉴스) 왕길환 기자 = 사이버 외교 사절단 반크는 세계적으로 큰 관심을 끄는 국악이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日 특촬물 유명스타 극단적 선택, 자택 지하서 숨진 채 발견…향년 66세[해외이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003601585</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000865916"/>
         <updated>2022-05-06T12:30:00.477Z</updated>
         <content type="html"><![CDATA['제58회 백상예술대상' 레드카펫 행사가 6일 오후 경기도 고양시 일산 킨텍스에서 열렸다. 배우 이선균이 포토타임을 갖고 있다. 사진=백상예술대상사무국 제공]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오나라 '몸매 드러낸 드레스' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000865914</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000865914"/>
-        <updated>2022-05-06T12:30:00.478Z</updated>
-        <content type="html"><![CDATA['제58회 백상예술대상' 레드카펫 행사가 6일 오후 경기도 고양시 일산 킨텍스에서 열렸다. 배우 오나라가 포토타임을 갖고 있다. 사진=백상예술대상사무국 제공]]></content>
     </entry>
 </feed>
