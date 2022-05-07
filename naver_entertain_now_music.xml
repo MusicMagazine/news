@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-05-07T08:18:52.121Z</updated>
+    <updated>2022-05-07T09:15:43.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[벤, '내일' OST 발매…'내게 단 한 사람']]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011169346</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011169346"/>
+        <updated>2022-05-07T09:15:28.127Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]전재경 기자 = 가수 벤이 '내일' OST를 공개한다. 빅오션이엔엠에 따르면, 벤은 7일 오후 6시 온라인 음악 사이트을 통해 MBC 금토드라마 '내일' OST 파트 5 '내게 단 한 사람(My Onl]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘음악중심’ 빅뱅, 출연없이 3주 연속 1위‥려욱·몬스타엑스 컴백(종합)]]></title>
         <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000571391</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001445312"/>
         <updated>2022-05-07T05:13:23.215Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅의 인기와 비주얼이 눈길을 끈다. 지난 4월 웰메이드 공식 유튜브 채널에는 “[ #영웅7 ] 본편 Full ver. | 주연 임영웅 | 웰메이드 WELLMADE”라는 제목의 영상이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['싸이 첫 보이그룹' TNX 우경준X천준혁, 부드럽거나 혹은 강렬하거나]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004609287</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004609287"/>
-        <updated>2022-05-07T05:13:23.215Z</updated>
-        <content type="html"><![CDATA[[OSEN=이승훈 기자] 피네이션(P NATION) 첫 번째 보이그룹 TNX가 데뷔 앨범의 분위기를 엿볼 수 있는 콘셉트 포토를 공개했다. TNX(티엔엑스)는 6일과 7일, 이틀에 걸쳐 공식 SNS 계정을 통해 우경]]></content>
     </entry>
 </feed>
