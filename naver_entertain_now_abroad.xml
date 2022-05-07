@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-05-07T01:04:38.794Z</updated>
+    <updated>2022-05-07T03:01:06.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“'토르' 크리스 헴스워스, 마블 히어로 중 가장 잘생긴 배우”[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003601617</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003601617"/>
+        <updated>2022-05-07T03:01:05.801Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]'닥터 스트레인지2’'의 베네딕트 컴버배치와 엘리자베스 올슨이 크리스 헴스워스가 MCU에서 가장 잘 생겼다는데 동의했다. 이들은 6일(현지시간) LADBible과 인터뷰에서 “크리스 헴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["한국 음악시간에 국악 실종 위기"…반크, 반대 캠페인 나선다]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013162221</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000865917"/>
         <updated>2022-05-06T12:30:00.476Z</updated>
         <content type="html"><![CDATA['제58회 백상예술대상' 레드카펫 행사가 6일 오후 경기도 고양시 일산 킨텍스에서 열렸다. 배우 이세영이 포토타임을 갖고 있다. 사진=백상예술대상사무국 제공]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이선균 '부드러운 미소' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000865916</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000865916"/>
-        <updated>2022-05-06T12:30:00.477Z</updated>
-        <content type="html"><![CDATA['제58회 백상예술대상' 레드카펫 행사가 6일 오후 경기도 고양시 일산 킨텍스에서 열렸다. 배우 이선균이 포토타임을 갖고 있다. 사진=백상예술대상사무국 제공]]></content>
     </entry>
 </feed>
