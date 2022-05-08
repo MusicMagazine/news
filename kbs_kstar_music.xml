@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 03:14:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 04:22:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['아스트로' 라키, 청량한 매력  ‘Drive to the Starry Road’ 콘셉트 포토]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=207214</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=207214</guid>
+            <pubDate>Sun, 08 May 2022 04:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=207214">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220507081641_2d15bb6034f6f02b4a11c200c3a99ba5.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=207214">'아스트로' 라키, 청량한 매력  ‘Drive to the Starry Road’ 콘셉트 포토 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220507081641_2d15bb6034f6f02b4a11c200c3a99ba5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[싸이 'That That' 뮤직비디오 1주일 만에  1억뷰]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=207179</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=206011">"미남의 정석" 장민호, '회초리' 콘셉트 포토 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220430054753_c565c5dc53c8696ad154bd0b2dc3ad29.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장] 싸이의 품격  "가장 싸이다운 것이 가장 핫하다" (정규9집 '싸다9' 프레스 청음회)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=205905</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=205905</guid>
-            <pubDate>Fri, 29 Apr 2022 09:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=205905">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220429175710_79ac15db6ca225a5533814462ae4ff5a.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=205905">[현장] 싸이의 품격  "가장 싸이다운 것이 가장 핫하다" (정규9집 '싸다9' 프레스 청음회)</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220429175710_79ac15db6ca225a5533814462ae4ff5a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
