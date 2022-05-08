@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-05-08T01:05:57.610Z</updated>
+    <updated>2022-05-08T03:14:34.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[톰 크루즈, 시술 효과? 완벽 회춘 [Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004609822</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004609822"/>
+        <updated>2022-05-08T03:14:34.336Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 배우 톰 크루즈가 완벽 회춘한 모습으로 주연을 맡은 영화 '탑건: 매버릭'(감독 조셉 코신스키)의 홍보 활동 중이다. 톰 크루즈는 지난 6일(현지시간) 멕시코 멕시코시티에서 열린 '탑 건:]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["사인 불명 큰 슬픔"..'프렌즈' 신스틸러 배우 사망[Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004609778</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000865941"/>
         <updated>2022-05-06T12:30:00.452Z</updated>
         <content type="html"><![CDATA['제58회 백상예술대상' 레드카펫 행사가 6일 오후 경기도 고양시 일산 킨텍스에서 열렸다. 배우 박용우가 포토타임을 갖고 있다. 사진=백상예술대상사무국 제공]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김시록 '백상 참석해요' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000865940</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000865940"/>
-        <updated>2022-05-06T12:30:00.454Z</updated>
-        <content type="html"><![CDATA['제58회 백상예술대상' 레드카펫 행사가 6일 오후 경기도 고양시 일산 킨텍스에서 열렸다. 배우 김신록이 포토타임을 갖고 있다. 사진=백상예술대상사무국 제공]]></content>
     </entry>
 </feed>
