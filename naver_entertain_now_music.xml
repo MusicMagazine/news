@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-05-08T19:14:05.301Z</updated>
+    <updated>2022-05-08T20:16:38.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미연·수호·기현…아이돌 솔로는 왜 청량 록일까]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011170377</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011170377"/>
+        <updated>2022-05-08T20:16:24.678Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = (여자)아이들 미연·엑소 수호·몬스타엑스 기현…. 최근 K팝 아이돌 그룹 멤버 중 솔로 활동을 병행한 가수들이다. 청량한 록(rock) 장르를 내세웠다는 것이 이들의 공톰점. (여자)아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[클라씨, 보기만 해도 시선 홀릭…전율 돋는 '셧다운']]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004610333</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004695971"/>
         <updated>2022-05-08T14:14:58.880Z</updated>
         <content type="html"><![CDATA[그룹 우주소녀 엑시가 8일 오후 서울 상암동 CJ ENM 센터에서 열린 'KCON 2022 Premiere in Seoul(케이콘 2022 프리미어 인 서울)' 포토월 행사에 참석해 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 우주소녀 연정, '사랑스럽게 하트~']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004695970</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004695970"/>
-        <updated>2022-05-08T14:14:58.882Z</updated>
-        <content type="html"><![CDATA[그룹 우주소녀 연정이 8일 오후 서울 상암동 CJ ENM 센터에서 열린 'KCON 2022 Premiere in Seoul(케이콘 2022 프리미어 인 서울)' 포토월 행사에 참석해 포토타임을 갖고 있다.]]></content>
     </entry>
 </feed>
