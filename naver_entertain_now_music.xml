@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-05-08T08:20:27.184Z</updated>
+    <updated>2022-05-08T09:17:29.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[투모로우바이투게더, 흑화→전곡참여…컴백 기대감 절정]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003601978</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003601978"/>
+        <updated>2022-05-08T09:17:13.060Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 박윤진 기자] 그룹 투모로우바이투게더(수빈 연준 범규 태현 휴닝카이)가 컴백을 하루 앞두고 기대 포인트를 공개했다. 투모로우바이투게더 9일 미니 4집 ‘minisode 2: Thursday's Chi]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['인가' 괴물신인 아이브, 싸이 꺾고 1위..몬엑·아이콘 컴백·르세라핌 데뷔[종합]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003051704</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001445646"/>
         <updated>2022-05-08T05:15:15.044Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅의 지니뮤직 차트 속 남다른 존재감이 눈길을 끈다. 지니뮤직에 따르면, 임영웅의 노래들이 TOP100 차트 상위권에서 남다른 존재감을 드러내고 있다. 5월 8일 오전 기준, 1위 ‘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈, 日 오리콘 데일리 싱글 차트 5일 연속 1위]]></title>
-        <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001987765</id>
-        <link href="https://entertain.naver.com/now/read?oid=016&amp;aid=0001987765"/>
-        <updated>2022-05-08T05:15:15.045Z</updated>
-        <content type="html"><![CDATA[[헤럴드경제=고승희 기자] 그룹 엔하이픈(ENHYPEN)이 일본에서 발매한 두 번째 싱글로 오리콘 차트에서 5일 연속 정상을 지켰다. 7일 일본 오리콘 차트에 따르면 엔하이픈이 지난 3일 발표한 일본 두 번째 싱글]]></content>
     </entry>
 </feed>
