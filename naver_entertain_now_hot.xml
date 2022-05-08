@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2022-05-08T16:22:06.339Z</updated>
+    <updated>2022-05-08T17:18:17.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[허성태, 딸 최리와 갈등 시작…걱정 가득 (‘붉은 단심’)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000978729</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000978729"/>
+        <updated>2022-05-08T17:18:08.196Z</updated>
+        <content type="html"><![CDATA[KBS2 월화드라마 ‘붉은 단심’ 허성태와 최리가 부녀(父女) 갈등을 겪는다. 9일 ‘붉은 단심’(연출 유영은/ 극본 박필주) 3회에서는 조원표(허성태 분)가 자신의 하나뿐인 여식 조연희(최리 분)로 인해 골머리를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백종원, ‘튀김 수육’ 선보여…성시경 감탄 (백종원 클라쓰)]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000978728</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=014&amp;aid=0004832628</id>
         <link href="https://entertain.naver.com/now/read?oid=014&amp;aid=0004832628"/>
         <updated>2022-05-08T12:26:06.020Z</updated>
-        <content type="html"><![CDATA[[FN스타 이승훈 기자] 그룹 니쥬가 8일 서울 마포구 상암 CJ ENM 센터에서 진행된 'KCON 2022 Premiere in Seoul (케이콘 2022 프리미어 인 서울)' 포토월 행사에 참석했다. totop]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 니쥬 아야카, '열도에서 온 미녀']]></title>
-        <id>https://entertain.naver.com/now/read?oid=014&amp;aid=0004832627</id>
-        <link href="https://entertain.naver.com/now/read?oid=014&amp;aid=0004832627"/>
-        <updated>2022-05-08T12:26:06.021Z</updated>
         <content type="html"><![CDATA[[FN스타 이승훈 기자] 그룹 니쥬가 8일 서울 마포구 상암 CJ ENM 센터에서 진행된 'KCON 2022 Premiere in Seoul (케이콘 2022 프리미어 인 서울)' 포토월 행사에 참석했다. totop]]></content>
     </entry>
 </feed>
