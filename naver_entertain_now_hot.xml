@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2022-05-08T17:18:17.206Z</updated>
+    <updated>2022-05-08T18:19:25.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남희석, 이상민이 인정한 연예계 미식가 (‘로컬식탁’)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000978730</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000978730"/>
+        <updated>2022-05-08T18:19:16.404Z</updated>
+        <content type="html"><![CDATA['보령의 1호 아들' 남희석이 MBC ‘로컬식탁’을 찾는다. 9일 MBC ‘로컬식탁’ 10회에서는 남희석이 스페셜 게스트로 출연해 호스트 이상민을 비롯한 하석진, 배성재, 주우재와 함께 ‘보령 갯벌 세끼’를 만난다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[허성태, 딸 최리와 갈등 시작…걱정 가득 (‘붉은 단심’)]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000978729</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000545719"/>
         <updated>2022-05-08T12:26:06.020Z</updated>
         <content type="html"><![CDATA[[텐아시아=조준원 기자]걸그룹 스테이씨(윤, 시은, 재이, 아이사, 수민, 세은)가 8일 오후 서울 마포구 상암동 CJENM에서 `KCON 2022 Premiere in Seoul(케이콘 2022 프리미어 인 서울)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 니쥬 마양, '베레모 쓰고 귀엽게']]></title>
-        <id>https://entertain.naver.com/now/read?oid=014&amp;aid=0004832628</id>
-        <link href="https://entertain.naver.com/now/read?oid=014&amp;aid=0004832628"/>
-        <updated>2022-05-08T12:26:06.020Z</updated>
-        <content type="html"><![CDATA[[FN스타 이승훈 기자] 그룹 니쥬가 8일 서울 마포구 상암 CJ ENM 센터에서 진행된 'KCON 2022 Premiere in Seoul (케이콘 2022 프리미어 인 서울)' 포토월 행사에 참석했다. totop]]></content>
     </entry>
 </feed>
