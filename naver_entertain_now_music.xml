@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-05-10T19:15:27.216Z</updated>
+    <updated>2022-05-10T20:18:50.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[밴드 ‘시규어 로스(Sigur Ros)’ 8월 내한 콘서트…‘호피폴라(Hoppipolla)’ 주인공]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000812018</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000812018"/>
+        <updated>2022-05-10T20:18:35.012Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 아이슬란드 밴드 시규어 로스(Sigur Ros)가 오는 8월 19일 올림픽공원 내 SK 핸드볼경기장에서 6년 만에 단독 내한공연을 펼친다. 이들의 무대는 세계 최정상의사운드와 영상미가 어우러진 독보적이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소나무 출신 나현, 홍진영 소속사 IMH엔터테인먼트와 전속계약]]></title>
         <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001988937</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=016&amp;aid=0001988926"/>
         <updated>2022-05-10T12:32:55.887Z</updated>
         <content type="html"><![CDATA[[헤럴드경제=고승희 기자] 7인조 걸그룹 앨리스(ALICE)가 4년 만에 팬 사인회를 연다. 10일 소속사 아이오케이 컴퍼니에 따르면 앨리스는 오는 14일 오후 7시 서울 용산 동자아트홀에서 ‘내 안의 우주’ 발매]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 르세라핌 카즈하, '눈 호강 비주얼~'(더쇼)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004697069</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004697069"/>
-        <updated>2022-05-10T12:32:55.888Z</updated>
-        <content type="html"><![CDATA[그룹 르세라핌 카즈하가 10일 오후 서울 상암동 SBS 프리즘타워에서 열린 SBSMTV '더쇼' 현장공개에 참석해 공연을 선보이고 있다. '더쇼'는 매주 화요일 오후 6시 SBS MTV와 MTV Asia 채널, SB]]></content>
     </entry>
 </feed>
