@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 08:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 09:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220504163543_588e665f1fd14399333cca87828fa305.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['꿈을 꾸는 배우' 이준호, 백상예술대상 2관왕 (KBS연예 ─ 연예)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=207683</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=207683</guid>
+            <pubDate>Tue, 10 May 2022 09:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=207683">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220510082644_3f0cc7f5be4920d11cf56f9d84957cdd_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=207683">'꿈을 꾸는 배우' 이준호, 백상예술대상 2관왕 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220510082644_3f0cc7f5be4920d11cf56f9d84957cdd_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[연극열전 신작 '보이지 않는 손'  "자본주의의 민낯, 금융 스릴러" (KBS연예 ─ 연예)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=207595</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=207595</guid>
@@ -671,21 +688,28 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220426083237_988dc5a7bfd0a305d1f209ea42ac1c58.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[화보] 송강, 강렬한 눈빛과 압도적인 존재감 (KBS연예 ─ 연예)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=204833</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204833</guid>
-            <pubDate>Mon, 25 Apr 2022 06:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204833">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220425132322_0280ac8f6c068dd3c5826403c50a4971.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204833">[화보] 송강, 강렬한 눈빛과 압도적인 존재감</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220425132322_0280ac8f6c068dd3c5826403c50a4971.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[포토] 아이칠린, '꼭꼭 숨어라~' (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/347076</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/347076</guid>
+            <pubDate>Tue, 10 May 2022 09:15:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/347076">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/05/10/1733481d-de12-493f-82d7-7db2159beb4a.jpg" alt="[포토] 아이칠린, '꼭꼭 숨어라~'">        <div class="text-box">            <p class="summary">[포토] 아이칠린, '꼭꼭 숨어라~'</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/05/10/1733481d-de12-493f-82d7-7db2159beb4a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[포토] 버스터즈, 훗~ '풋' (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/347075</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/347075</guid>
+            <pubDate>Tue, 10 May 2022 09:15:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/347075">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/05/10/1506800d-d993-4f72-a337-78e37a1da916.jpg" alt="[포토] 버스터즈, 훗~ '풋'">        <div class="text-box">            <p class="summary">[포토] 버스터즈, 훗~ '풋'</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/05/10/1506800d-d993-4f72-a337-78e37a1da916.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[포토] Walking After U, 호소력 짙은 무대 (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/347074</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/347074</guid>
+            <pubDate>Tue, 10 May 2022 09:15:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/347074">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/05/10/abe57cdb-59fc-43f4-b6f8-1bcced980613.jpg" alt="[포토] Walking After U, 호소력 짙은 무대">        <div class="text-box">            <p class="summary">[포토] Walking After U, 호소력 짙은 무대</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/05/10/abe57cdb-59fc-43f4-b6f8-1bcced980613.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[권은비, 첫 단독 콘서트 '시크릿 도어스' 메인 포스터 공개 (MBC 연예 ─ 아이돌)]]></title>
@@ -752,28 +776,53 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/05/10/5a32c8f1-496f-441f-9069-99d79fd21b7a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[블랭키, 첫 미니앨범 개인 콘셉트 포토 공개…9人 9色 완성형 비주얼 (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/346999</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/346999</guid>
-            <pubDate>Tue, 10 May 2022 02:47:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/346999">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/05/10/22c89062-56e7-4b18-b3af-27e2b8bc87c5.jpg" alt="블랭키, 첫 미니앨범 개인 콘셉트 포토 공개…9人 9色 완성형 비주얼">        <div class="text-box">            <p class="summary">블랭키, 첫 미니앨범 개인 콘셉트 포토 공개…9人 9色 완성형 비주얼</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/05/10/22c89062-56e7-4b18-b3af-27e2b8bc87c5.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['풍류대장' 콘서트 6개월 대장정 끝..아로새긴 우리 소리의 매력 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220510181205925</link>
+            <guid>https://entertain.v.daum.net/v/20220510181205925</guid>
+            <pubDate>Tue, 10 May 2022 09:15:38 GMT</pubDate>
+            <content:encoded><![CDATA['풍류대장 전국투어콘서트'가 서울 앙코르를 끝으로 6개월간의 대장정의 막을 내렸다. 지난 5~8일 서울 올림픽공원 올림픽홀에서 '풍류대장' 앙코르 콘서트가 진행됐다. 이번 콘서트에는 JTBC '풍류대장-힙한 소리꾼들의 전쟁' 파이널 TOP6의 서도밴드, 억스(AUX), 김주리, 이상, 온도와 MC 최재구, 최예림, 또 해음과 고영열이 관객들을 만나 기존]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아스트로, 정규 3집 '드라이브 투 더 스태리 로드' 단체 비주얼 첫 공개 (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/346990</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/346990</guid>
-            <pubDate>Tue, 10 May 2022 02:47:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/346990">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/05/10/7c25d51c-bc35-4e71-b692-9937a0828caf.jpg" alt="아스트로, 정규 3집 '드라이브 투 더 스태리 로드' 단체 비주얼 첫 공개">        <div class="text-box">            <p class="summary">아스트로, 정규 3집 '드라이브 투 더 스태리 로드' 단체 비주얼 첫 공개</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/05/10/7c25d51c-bc35-4e71-b692-9937a0828caf.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[초여름, 잔나비 감성이 촉촉이 내린다..'초록을거머쥔우리는' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220510180103612</link>
+            <guid>https://entertain.v.daum.net/v/20220510180103612</guid>
+            <pubDate>Tue, 10 May 2022 09:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[그룹사운드 잔나비가 여름을 촉촉하게 적실 '초록 감성'을 품고 돌아왔다. 잔나비는 10일 오후 6시 새 앨범 '잔나비 소곡집 Ⅱ : 초록을거머쥔우리는'을 발매했다. 지난해 7월 발매한 정규 3집 '환상의 나라' 이후 약 10개월 만에 선보이는 이번 신보는 본인이 가장 '나'다워질 수 있는 집이란 공간에서 창밖을 통해 얻은 영감을 바탕으로 탄생했다. 잔나비]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[유나이트, '아이돌라디오2'서 쇼트트랙→성대모사…강렬 매력 발산 (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/346987</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/346987</guid>
-            <pubDate>Tue, 10 May 2022 01:03:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/346987">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/05/10/92304bd7-9c59-4c03-800c-7893f253bd1c.jpg" alt="유나이트, '아이돌라디오2'서 쇼트트랙→성대모사…강렬 매력 발산">        <div class="text-box">            <p class="summary">유나이트, '아이돌라디오2'서 쇼트트랙→성대모사…강렬 매력 발산</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/05/10/92304bd7-9c59-4c03-800c-7893f253bd1c.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA["단번에 봄인 걸 알았어요" 잔나비의 싱그러운 감성 담은 '초록을거머쥔우리는' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220510180002565</link>
+            <guid>https://entertain.v.daum.net/v/20220510180002565</guid>
+            <pubDate>Tue, 10 May 2022 09:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 정하은기자]늦봄과 초여름 그사이. 그룹사운드 잔나비가 따뜻한 감성을 전한다. 10일 오후 6시 잔나비의 새 앨범 ‘잔나비 소곡집 Ⅱ : 초록을거머쥔우리는’가 발매됐다. ‘잔나비 소곡집 Ⅱ : 초록을거머쥔우리는’은 지난해 7월 발매한 정규 3집 ‘환상의 나라’ 이후 약 10개월 만에 선보이는 신보로, ‘집에서, 오후에,]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[르세라핌, '하이브 최초 걸그룹'다운 존재감 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220510175910536</link>
+            <guid>https://entertain.v.daum.net/v/20220510175910536</guid>
+            <pubDate>Tue, 10 May 2022 09:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=선미경 기자] 그야말로 클래스가 다른 데뷔다. 하이브와 쏘스뮤직의 첫 걸그룹 르세라핌이 데뷔부터 폭발적인 반응으로 4세대 걸그룹 대전에서 지각 변동을 일으키고 있다. 데뷔 전부터 큰 관심을 불러 모았던 르세라핌은 데뷔 직후 각종 차트 성적은 물론, 글로벌 시장에서도 남다른 존재감을 입증하고 있는 모습이다. 르세라핌은 지난 2월 데뷔 앨범 ‘피]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[T1419 "포기하지 말고 꿈을 향해 계속해서 달려나가라" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220510175853530</link>
+            <guid>https://entertain.v.daum.net/v/20220510175853530</guid>
+            <pubDate>Tue, 10 May 2022 09:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 이승록 기자] 보이그룹 T1419(티일사일구)가 신곡 'Run up(런업)'으로 무한 질주를 이어간다. T1419는 지난 9일 오후 6시 각종 음원 사이트를 통해 세 번째 디지털 싱글 앨범 'Run up'을 발매하고 본격적인 컴백 활동에 돌입했다. 신곡 'Run up'은 '꿈을 향해 쉬지 않고 달리겠다'는 아홉 소년들의 포부를 담아낸 노래]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[클라씨, '셧다운'에 스쿨룩+좀비 더했다..특별 무대 예고 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220510174818226</link>
+            <guid>https://entertain.v.daum.net/v/20220510174818226</guid>
+            <pubDate>Tue, 10 May 2022 09:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박정민 기자] 본격적인 학교와 좀비다. 클라씨(CLASS:y)가 데뷔곡 ‘셧다운’(SHUT DOWN)의 특별한 퍼포먼스 무대를 예고했다. 5월 10일 클라씨(명형서·윤채원·홍혜주·김리원·원지민·박보은·김선유)의 매니지먼트사 M25(엠이오) 측은 “클라씨가 곧 ‘SCHOOL LOOK &amp; ZOMBIE’(스쿨룩&amp;좀비) 콘셉트로 한 주 내내 팬들을 만날]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[잔나비 새 앨범 '잔나비 소곡집 Ⅱ' 발매 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220510174508161</link>
+            <guid>https://entertain.v.daum.net/v/20220510174508161</guid>
+            <pubDate>Tue, 10 May 2022 09:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 잔나비 새 앨범 ‘잔나비 소곡집 Ⅱ’ 발매 [DA:투데이] 그룹사운드 잔나비가 오늘 새 앨범 ‘잔나비 소곡집 Ⅱ : 초록을거머쥔우리는’을 선보인다. ‘잔나비 소곡집 Ⅱ : 초록을거머쥔우리는’은 지난해 7월 발매한 정규 3집 ‘환상의 나라’ 이후 약 10개월 만에 선보이는 신보다. 잔나비가 ‘집에서, 오후에, 주로 창밖을 바라보면서 만든 곡들’]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[T1419 "'Run up' 꿈 향한 무한 질주, 차트 상위권 올랐으면" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
@@ -832,158 +881,109 @@
             <content:encoded><![CDATA[[뉴스엔 이민지 기자] 권진아의 단독 공연이 티켓 오픈 2분 만에 전 회차 전석 매진됐다. 6월 3일~5일 사흘간 블루스퀘어 마스터카드홀에서 열리는 2022 권진아 단독 공연 'The Dreamer'(더 드리머)가 지난 9일 티켓 오픈이 시작된 지 2분 만에 전석 매진되며 막강한 티켓 파워를 입증했다. 권진아는 지난 10월에 개최한 2021 권진아 단독]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임재범, 7년 만의 복귀 예고.."두려웠고, 조심스러웠다" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220510150711070</link>
-            <guid>https://entertain.v.daum.net/v/20220510150711070</guid>
-            <pubDate>Tue, 10 May 2022 06:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=지민경 기자]&nbsp;가수&nbsp;임재범이&nbsp;7년&nbsp;만의&nbsp;복귀를&nbsp;예고했다.&nbsp; 소속사&nbsp;블루씨드컴퍼니는&nbsp;10일&nbsp;오전&nbsp;임재범의&nbsp;첫&nbsp;공식&nbsp;홈페이지를&nbsp;오픈했다.&nbsp; 홈페이지에는&nbsp;'YIM&nbsp;JAE&nbsp;BEUM&nbsp;Official&nbsp;Homepage&nbsp;2022'라는&nbsp;문구와&nbsp;숫자&nbsp;'7'이&nbsp;쓰여있다.&nbsp;또한&nbsp;헤어스타일을&nbsp;정돈하는&nbsp;임재범의&nbsp;옆모습과&nbsp;어두운&nbsp;공간&nbsp;끝에&nbsp;보이는&nbsp;문이&nbsp;담긴&nbsp;이미지가&nbsp;순]]></content:encoded>
+            <title><![CDATA[조현철 "백상, 연기자라면 누구나 상 받고 싶은 곳" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220510180812810</link>
+            <guid>https://entertain.v.daum.net/v/20220510180812810</guid>
+            <pubDate>Tue, 10 May 2022 09:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[조현철이 뭉클한 수상소감으로 감동을 선사했다. 조현철은 제58회 백상예술대상에서 넷플릭스 'D.P.'로 TV부문 남자 조연상을 수상했다. 무대에 오른 조현철은 "투병 중인 아버지한테 용기를 드리고자 잠시 시간을 할애하겠다"며 "아빠가 눈을 조금만 돌리면 마당 창밖으로 빨간 꽃이 보이잖아. 그거 할머니야. 할머니가 거기 있으니까 아빠가 무서워하지 않]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[TV조선, 16일 '2022 빌보드 뮤직 어워드' 독점 생중계..BTS 최다 노미 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220510150557009</link>
-            <guid>https://entertain.v.daum.net/v/20220510150557009</guid>
-            <pubDate>Tue, 10 May 2022 06:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이민지 기자] TV조선이 ‘2022 빌보드 뮤직 어워드’를 독점 생중계한다. TV CHOSUN이 오는 5월 16일 오전 8시 50분 (한국 시간) 미국 3대 음악 시상식인 ‘2022 빌보드 뮤직 어워드’(Billboard Music Awards 2022, BBMAs)를 독점 생중계한다. 진행자로는 미국팝 시장의 흐름부터 K팝 동향에 대한 깊은]]></content:encoded>
+            <title><![CDATA['프로필 삭제→日 유학' 하연수, 연예계 떠나나 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220510180523731</link>
+            <guid>https://entertain.v.daum.net/v/20220510180523731</guid>
+            <pubDate>Tue, 10 May 2022 09:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 황서연 기자] 배우 하연수가 일본으로 유학을 떠났다. 이대로 연예계를 떠나는 것인지, 그의 향후 거취에 대중의 이목이 쏠렸다. 10일 티브이데일리 취재에 따르면 하연수는 최근 일본으로 미술 관련 유학을 떠났다. 앞서 하연수는 올해 초 소속사 앤드마크와의 전속계약을 마무리 지었다. 계약 종료 후 새로운 소속사를 찾지 않은 상태로 일본으로 향한]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[원위, 20일 스페셜 앨범 '시간을 담은 작은 방' 발매 확정 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220510150405926</link>
-            <guid>https://entertain.v.daum.net/v/20220510150405926</guid>
-            <pubDate>Tue, 10 May 2022 06:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 밴드 원위(ONEWE)가 스페셜 앨범을 발표한다. 소속사 알비더블유(RBW)는 5월 10일 "원위(용훈·강현·하린·동명·키아)가 오는 20일 데뷔 3주년을 기념해 본인들의 이야기를 담은 스페셜 앨범 '시간을 담은 작은 방'을 발매한다. 팬들에게 보내는 초대장 같은 앨범으로, 앞으로 계속해서 펼쳐나갈 원위의 음악적 행보에 뜨거운 응원]]></content:encoded>
+            <title><![CDATA[잔나비, 오월의 초록빛 청춘 이야기 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220510180202646</link>
+            <guid>https://entertain.v.daum.net/v/20220510180202646</guid>
+            <pubDate>Tue, 10 May 2022 09:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[그룹사운드 잔나비가 계절에 딱 맞는 시즌송을 들고 왔다. 곡 제목부터 노랫말까지 초여름 분위기가 물씬 풍긴다. 잔나비는 10일 오후 6시 새 앨범 '잔나비 소곡집 Ⅱ : 초록을거머쥔우리는'을 발매한다. 동명의 타이틀곡외에도 '레이디버드' '여름가을겨울 봄' '슬픔이여안녕'까지 4곡이 수록됐다. 지난해 정규 3집 '환상의 나라' 타이틀곡 '외딴섬 로맨틱]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[투모로우바이투게더, 컴백 당일 음반 판매량 약 92만장 기록..역시 4세대 리더 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220510150132761</link>
-            <guid>https://entertain.v.daum.net/v/20220510150132761</guid>
-            <pubDate>Tue, 10 May 2022 06:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=이승훈 기자] 그룹 투모로우바이투게더가 단 하루 만에 신보 판매량과 글로벌 차트 성적으로 ‘4세대 리더’의 저력을 증명했다.&nbsp; 10일 음반 판매량 집계 사이트 한터차트에 따르면, 투모로우바이투게더(수빈, 연준, 범규, 태현, 휴닝카이)가 전날(9일) 발표한 미니 4집 ‘minisode 2: Thursday's Child’는 컴백 당일인 지난]]></content:encoded>
+            <title><![CDATA['美빌보드 9위' 홍진영 "어안 벙벙..다음 앨범도 영어로" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220510175023265</link>
+            <guid>https://entertain.v.daum.net/v/20220510175023265</guid>
+            <pubDate>Tue, 10 May 2022 09:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이예진 인턴기자) 홍진영이 빌보드 차트 진입에 대해 소감을 전했다.&nbsp; 9일 홍진영은 유튜브 채널 'CTRL [컨트롤]'을 통해 인사를 건넸다. 이 채널널에는 '진실의 방 | EP.3 홍진영 "'비바람이다' 아니고 '비바라비다'!"'라는 제목으로 영상이 게재됐다.&nbsp; 홍진영은 지난달 6일 신곡 '비바 라 비다'로 컴백했다.&nbsp; 영상에서 홍진영은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[위너, 6월 4일 완전체 첫 온라인 팬밋업..전세계 팬 만난다 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220510145719503</link>
-            <guid>https://entertain.v.daum.net/v/20220510145719503</guid>
-            <pubDate>Tue, 10 May 2022 06:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 위너가 완전체 온라인 팬미팅을 연다. 강승윤,&nbsp;김진우,&nbsp;송민호,&nbsp;이승훈으로&nbsp;구성된&nbsp;4인조 인기그룹&nbsp;위너는 오는&nbsp;6월&nbsp;4일&nbsp;글로벌&nbsp;온라인&nbsp;팬밋업&nbsp;‘WE’LL&nbsp;BE&nbsp;BACK’을&nbsp;개최한다. 지난&nbsp;4월&nbsp;30일,&nbsp;5월&nbsp;1일&nbsp;양일간&nbsp;성료&nbsp;된&nbsp;'WINNER&nbsp;2022&nbsp;CONCERT&nbsp;[THE&nbsp;CIRCLE]'&nbsp;콘서트를&nbsp;통해&nbsp;팬들과&nbsp;성공적&nbsp;재회를&nbsp;가]]></content:encoded>
+            <title><![CDATA['사생활 논란' 김선호, SNS 재개..본격 활동 신호탄? (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220510175002251</link>
+            <guid>https://entertain.v.daum.net/v/20220510175002251</guid>
+            <pubDate>Tue, 10 May 2022 09:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 하지원 기자) 사생활 논란으로 약 7개월간 구설수에 오르내리며 강제 자숙의 시간을 가져왔던 배우 김선호의 근황에 관심이 집중되고 있다. 김선호는 7일 팬카페를 통해 사생활 논란 후 첫 심경을 밝혔다. 그는 "시간이 멈춰서 하루가 한 달처럼 일 년처럼 느껴지는가 하면, 또 갑자기 제 마음보다 성큼 앞서가는 시간을 따라가기 힘들어 감정이 추슬러지]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[투모로우바이투게더, 단 하루만 약 92만장 팔았다 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220510143735451</link>
-            <guid>https://entertain.v.daum.net/v/20220510143735451</guid>
-            <pubDate>Tue, 10 May 2022 06:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 그룹 투모로우바이투게더가 저력을 증명했다. 5월 10일 음반 판매량 집계 사이트 한터차트에 따르면, 투모로우바이투게더(수빈, 연준, 범규, 태현, 휴닝카이)가 9일 발표한 미니 4집 ‘minisode 2: Thursday's Child’는 컴백 당일인 지난 9일에 총 91만 8,413장의 판매량을 기록하며 음반 일간 차트 정상에]]></content:encoded>
+            <title><![CDATA[김혜준 "신인 연기상, 가장 값진 생일선물" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220510174712200</link>
+            <guid>https://entertain.v.daum.net/v/20220510174712200</guid>
+            <pubDate>Tue, 10 May 2022 09:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[김혜준이 28번째 생일을 앞두고 잊지 못할 인생의 한 페이지를 만들었다. 김혜준은 제58회 백상예술대상에서 JTBC 드라마 '구경이'로 TV부문 여자 신인 연기상을 수상했다. 이연, 이유미, 정호연, 조이현 등 쟁쟁한 후보들과 노미네이트 된 김혜준은 자신의 이름이 호명된 뒤에도 믿지 못하는 듯 얼떨떨한 모습을 보였다. 긴장한 채로 두 손을 모으고]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[투모로우바이투게더 미니 4집 발매 첫날 92만장..확실한 존재감 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220510143532317</link>
-            <guid>https://entertain.v.daum.net/v/20220510143532317</guid>
-            <pubDate>Tue, 10 May 2022 06:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 윤상근 기자] /사진제공=빅히트뮤직 아이돌그룹 투모로우바이투게더(TT, 수빈 연준 범규 태현 휴닝카이)가 단 하루 만에 신보 판매량과 글로벌 차트 성적으로 존재감을 확실히 가져가고 있다. 10일 음반 판매량 집계 사이트 한터차트에 따르면 투모로우바이투게더가 지난 9일 발표한 미니 4집 'minisode 2: Thursday's Child'는]]></content:encoded>
+            <title><![CDATA[조은지 감독 "수상 예감 못해, 잊지 않고 더 열심히 하겠다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220510174501146</link>
+            <guid>https://entertain.v.daum.net/v/20220510174501146</guid>
+            <pubDate>Tue, 10 May 2022 09:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[감독으로 인정 받은 순간이다. 조은지는 제58회 백상예술대상에 본업인 배우가 아닌 감독으로 참석했다. 영화 '장르만 로맨스'가 영화부문 신인 감독상 후보에 올랐기 때문이다. 배우로도 안정적인 연기력은 물론, 통통 튀는 매력으로 신스틸러로 자리매김한 조은지는 감독으로도 매력 가득한 작품을 완성했다. '장르만 로맨스'로 '감독 조은지'의 가능성을 인정]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["조국 대변 아닌 진지한 성찰"..'그대가 조국'에 담긴 건 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220510171512133</link>
-            <guid>https://entertain.v.daum.net/v/20220510171512133</guid>
-            <pubDate>Tue, 10 May 2022 08:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[다큐멘터리 영화 '그대가 조국'(감독 이승준)이 10일 언론시사회를 통해 베일을 벗었다. 10일 오후 용산 CGV에서는 영화 ‘그대가 조국’ 언론시사회 및 기자간담회가 열렸다. 이날 행사에는 이승준 감독을 비롯해 감병석 PD, 양희 크리에이티브 프로듀서, 진모영 PD, 박효석(빨간아제)가 참석했다. 진모영 프로듀서는 이날 “그 어디에도 출연하지 않았던]]></content:encoded>
+            <title><![CDATA['고현정·조인성家 걸그룹' 앨리스, 무성형 얼굴 보자..대면 팬사인회 확정 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220510174309101</link>
+            <guid>https://entertain.v.daum.net/v/20220510174309101</guid>
+            <pubDate>Tue, 10 May 2022 09:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박소영 기자] 7인조 걸그룹&nbsp;앨리스(ALICE&nbsp;- 채정, 소희, 도아, 연제, 유경, 이제이, 가린)가 팬송이자 선공개 곡인&nbsp;'내 안의 우주'를 발표하고 대면 팬 사인회를 개최한다. 앨리스는 어제&nbsp;공식 SNS 등을 통해 "앨리스&nbsp;'내 안의 우주' 발매 기념 팬 사인회를 개최합니다"란 공지를 올렸다.&nbsp;앨리스는 공지를 통해 오는 14일 19시 서]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[오새봄, 혈액암 투병 고백 "악성림프종..항암 2차 마쳤다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220510171030003</link>
-            <guid>https://entertain.v.daum.net/v/20220510171030003</guid>
-            <pubDate>Tue, 10 May 2022 08:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=노민택 기자] 가수 오새봄이 혈액암 투병을 고백했다. 9일 오새봄은 자신의 인스타그램에 "이번 년도 1월달에 혈액암의 한 종류인 악성림프종 진단을 받았다"라고 전했다. 이어 "21년도부터 유난히 피곤하고 밤에 잘 때 발열 증상이 나타났었는데 무리를 해서 그런 줄만 알고 미처 크게 생각하지 못했다. 최종 림프종 진단을 받기까지 2개월이라는 시간이]]></content:encoded>
+            <title><![CDATA["동심·꿈·행복..생각해보는 계기됐죠" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220510174235076</link>
+            <guid>https://entertain.v.daum.net/v/20220510174235076</guid>
+            <pubDate>Tue, 10 May 2022 09:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[[서울경제] “어른들이 머리 속에서 숫자를 지우는 건 불가능하죠. 하지만 작품 속 대사처럼 ‘하기 싫은 일을 하는 만큼 하고 싶은 일을 하자’는 것은 가능할 거라고 생각해요. 작품을 본 시청자 분들도 일상 속 틈틈이 하고 싶은 일을 채워 넣으셨으면 좋겠습니다.” 지난 6일 공개된 넷플릭스 오리지널 뮤직드라마 ‘안나라수마나라’는 9일 글로벌 순위 4위·국내]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 병역 문제 집중 조명 "하이브 경제적 타격↑" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220510170935971</link>
-            <guid>https://entertain.v.daum.net/v/20220510170935971</guid>
-            <pubDate>Tue, 10 May 2022 08:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴]  한국 사회에 화제가 되는 이슈들을 PD의 눈을 통해 설명하고 다양한 시각에서 깊이 있게 취재하는 아리랑TV 본격 PD리포트 ‘What is’에서 방탄소년단의 병역 문제를 집중 조명한다. ‘What is’는 현재의 한국 사회를 반영하고, 사람들 사이에서 널리 회자되는 다양한 주제와 현상, 인물들을 "What is..."라는 질문을 통해 진단하]]></content:encoded>
+            <title><![CDATA['장미맨션' 윤균상 "집요한 형사 역 위해 난생 처음 태닝" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220510174222073</link>
+            <guid>https://entertain.v.daum.net/v/20220510174222073</guid>
+            <pubDate>Tue, 10 May 2022 09:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 티빙 오리지널 ‘장미맨션’에 출연한 배우 윤균상이 형사 역할을 소화하기 위한 노력을 소개했다. ‘장미맨션’은 10일 오후 온라인 생중계 형식으로 제작발표회를 열었다. 이 행사에서는 연출자 창감독을 비롯해 임지연, 윤균상, 손병호, 조달환, 이미도, 김도윤 등 주연배우들이 참석했다. 윤균상은 극중 언니의 실종사건을 겪는 지나(임지연)를]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["송강호 태양설"→"사슴 강동원"..'브로커' 빛낸 박경림 최고의 입담 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220510170551840</link>
-            <guid>https://entertain.v.daum.net/v/20220510170551840</guid>
-            <pubDate>Tue, 10 May 2022 08:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;방송인 박경림의 진행력이 영화 ‘브로커’의 제작보고회에서 다시 한번 빛을 발했다. 대개 중언부언하는 배우 및 감독들의 긴 문장을 핵심을 짚어 짤막하게 간추리고, 임팩트 있게 완성하는 그녀의 능력이 이번에도 모두에게 웃음을 안겼기 때문이다. 모두가 그녀를 인정하는 데는 이유가 있다. 박경림은 10일 서울 용산 CGV 아이파크몰에서]]></content:encoded>
+            <title><![CDATA["'정이' 못보고 떠나 참담"..故강수연 빈소 마지막까지 조문 행렬 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220510174211068</link>
+            <guid>https://entertain.v.daum.net/v/20220510174211068</guid>
+            <pubDate>Tue, 10 May 2022 09:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[배우 고(故) 강수연(55)이 세상 떠난지 나흘째, 빈소에는 마지막까지 동료 영화인들의 조문 발길이 이어졌다. 고 강수연의 빈소가 마련된 서울 강남구 삼성서울병원 장례식장에는 조문 마지막날인 10일에도 각계 인사의 추모 행렬이 계속됐다. 장례위원장인 김동호 강릉국제영화제 이사장(전 부산국제영화제 이사장)은 이날도 빈소를 지켰다. ‘씨받이’ ‘아제아제 바]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[재건축 호재 아파트에서 벌어진 실종사건, 현실 공포가 온다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220510170000639</link>
-            <guid>https://entertain.v.daum.net/v/20220510170000639</guid>
-            <pubDate>Tue, 10 May 2022 08:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[[손화신 기자] 극한의 현실 공포가 온다. 아파트라는 친숙한 공간에서 벌어지는, 실제로 있을 법한 일을 그린 미스터리 스릴러 &lt;장미맨션&gt;이 공개를 앞두고 있는 것.&nbsp; 10일 오후 티빙 오리지널 &lt;장미맨션&gt;의 제작발표회가 온라인으로 생중계된 가운데, 이 자리에는 연출을 맡은 창감독을 비롯해 출연 배우인 임지연, 윤균상, 손병호, 조달환, 이미도, 김도윤이 참]]></content:encoded>
+            <title><![CDATA[조우진 "백상=설렘, 참석만으로 감사한 곳" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220510174204057</link>
+            <guid>https://entertain.v.daum.net/v/20220510174204057</guid>
+            <pubDate>Tue, 10 May 2022 09:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[반박불가 신스틸러다. 배우 조우진이 영화 '킹메이커'로 제58회 백상예술대상 영화부문 남자 조연상을 받았다. 영화 '발신제한'으로는 데뷔 22년만에 첫 주연을 맡은 조우진은 이후로도 주조연을 막론하며 충무로의 '믿고 보는 배우'로 입지를 견고히 다졌다. '킹메이커'에서는 강렬한 인상의 인물인 이 실장으로 분해 영화적 재미를 더했다. 남자 조연상 트]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[엔데믹과 함께 음악예능도 훨훨 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220510165837610</link>
-            <guid>https://entertain.v.daum.net/v/20220510165837610</guid>
-            <pubDate>Tue, 10 May 2022 08:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 사회적 거리두기가 해제되면서 음악 예능이 방청객을 맞을 준비를 하고 있다. 코로나19로 방청객없이 방송하면서 시청자들의 관심 밖으로 밀려난 음악 예능이 현장음을 고스란히 전할 수 있는 음악 예능 본연의 모습으로 돌아온다. 그동안 ‘복면가왕’, ‘불후의 명곡’ 등 음악예능은 방청객 없이 현장감을 살리기 위해 판정단을 늘리고 비대면 방]]></content:encoded>
+            <title><![CDATA[과격해도 중독되는 '우리는 오늘부터' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220510174202052</link>
+            <guid>https://entertain.v.daum.net/v/20220510174202052</guid>
+            <pubDate>Tue, 10 May 2022 09:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[거침없다. 온갖 이야기가 빠르게 지나간다. 속도감에 휘말려 보다 보면 60분이 ‘순삭’(순간삭제)된다. SBS 새 월화드라마 ‘우리는 오늘부터’가 9일 첫 방송을 마쳤다. ‘우리는 오늘부터’는 혼전순결을 지키던 여자가 뜻밖의 사고로 아이를 임신하며 벌어지는 이야기를 그린다. 미국에서 시즌5까지 방영된 CWTV 드라마 ‘제인 더 버진:어쩌다 엄마’(201]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[송가인 '국악교육 보전' 소신 발언 계속된다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220510165045378</link>
-            <guid>https://entertain.v.daum.net/v/20220510165045378</guid>
-            <pubDate>Tue, 10 May 2022 08:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 가수 송가인이 우리나라 전통 국악 교육 보전을 위해 또 한 번 소신 발언하며 도움을 호소했다. 송가인은 10일 본인 소셜미디어에 “우리 역사와 전통을 건드리면 안 된다는 것을 교육부 관계자 여러분은 보다 정확한 판단을 해주시길 바란다”고 목소리를 냈다. 이와 함께 ‘전 국악인 문화제’ 행사 포스터를 게재했다. 송가인은 “우리나라, 우리]]></content:encoded>
+            <title><![CDATA['팬텀싱어1' 정휘, 조정석 한식구 됐다..잼엔터行 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220510173611908</link>
+            <guid>https://entertain.v.daum.net/v/20220510173611908</guid>
+            <pubDate>Tue, 10 May 2022 09:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박소영 기자] 실력파 배우 정휘가 잼엔터테인먼트(대표 최나미)와 전속계약을 체결했다.&nbsp;연극,&nbsp;뮤지컬에서 인기를 얻고 있는 정휘는 조정석,&nbsp;정상훈이 속한 잼엔터테인먼트와 매니지먼트 계약을 하고 본격적으로 드라마와 영화에 진출해 활동 폭을 넓혀 나갈 예정이다. 잼엔터테인먼트는&nbsp;“정휘는 연극&nbsp;&lt;에쿠우스&gt;, &lt;올드 위키드 송&gt;과&nbsp;뮤지컬&nbsp;&lt;여신님이 보]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['괴이' 구교환 "독특한 상황의 평범한 인물 그리고 싶었죠" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220510165035373</link>
-            <guid>https://entertain.v.daum.net/v/20220510165035373</guid>
-            <pubDate>Tue, 10 May 2022 08:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 2008년 영화 ‘아이들’로 연기를 시작한 이후 2020년 연상호 감독의 ‘반도’에 출연하기까지, 배우 구교환의 이름은 ‘가능성’으로 표현되고 있었다. 정말 많은 독립영화에 배우로 그리고 연출로 참여하면서 다재다능한 능력을 보였지만 전형적인 매력이 필요한 상업영화 이른바 대중영화에서 그 가치가 증명될지는 누구도 속단할 수 없었기 때문이다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[장미인애, 사업가와 열애+임신, 오랜만에 전한 근황 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220510164610174</link>
-            <guid>https://entertain.v.daum.net/v/20220510164610174</guid>
-            <pubDate>Tue, 10 May 2022 08:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박아름 기자] 활동이 뜸했던 장미인애의 반가운 소식이 전해졌다. 장미인애가 결혼을 전제로 열애 중이다. 배우 장미인애는 최근 자신의 인스타그램 스토리에 "안녕 별똥이와"라는 글과 함께 D라인을 뽐낸 사진을 공개, 화제를 모으고 있다. 사실상 스스로 임신 소식을 전한 셈이다. 이와 관련, 장미인애 소속사 측은 5월10일 뉴스엔에 "장미인애가 연상]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미래소년 카엘, 학폭 의혹 벗다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220510163925894</link>
-            <guid>https://entertain.v.daum.net/v/20220510163925894</guid>
-            <pubDate>Tue, 10 May 2022 08:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 그룹 미래소년의 멤버 카엘이 학폭 의혹을 벗었다. 미래소년 소속사 DSP 측은 지난 9일 공식 홈페이지에 ‘미래소년 카엘 허위사실 관련 진행상황 안내’이라는 제목의 글을 게재했다. 소속사 측은 “미래소년을 아껴 주시고 관심 가져 주시는 모든 분들께 진심으로 감사드린다. 과거 연습생시절 미래소년 카엘에게 제기되었던 허위사실에 관한 진행상]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김태리 "팬들에게 드리는 선물"..갑자기 오열 '깜짝' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220510162007198</link>
-            <guid>https://entertain.v.daum.net/v/20220510162007198</guid>
-            <pubDate>Tue, 10 May 2022 08:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이지은 인턴기자) 브이로그 예고편에서 김태리가 오열하는 모습이 포착됐다. 9일 유튜브 채널 '매니지먼트 엠엠엠'에 업로드 된 "#김태리 '거기가 여긴가' 프롤로그 공개" 영상에서는 브이로그를 예고한 김태리의 모습이 그려졌다. 지난 3월 29일 자신의 인스타그램을 통해 브이로그를 예고한 김태리는 회사 내부의 모습을 공개하며 영상을 시작했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[지창욱 "홀어머니 밑에서 어려운 학창시절, 극중 상황 공감했죠" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220510161749120</link>
-            <guid>https://entertain.v.daum.net/v/20220510161749120</guid>
-            <pubDate>Tue, 10 May 2022 08:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[‘안나라~수마나라~’ 한류스타 지창욱이 마법의 주문을 외우는 해결사로 변신했다. 지창욱은 글로벌 OTT(온라인동영상서비스) 넷플릭스 오리지널 시리즈 ‘안나라수마나라’에서 잃어버린 꿈을 되찾아 주는 정체불명의 마술사 리을로 분해 전 세계 시청자들의 동심을 일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["前 소속사도 몰라" 하연수 은퇴설, 프로필 삭제→日 유학 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220510161309922</link>
-            <guid>https://entertain.v.daum.net/v/20220510161309922</guid>
-            <pubDate>Tue, 10 May 2022 07:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박아름 기자] 하연수가 난데없는 은퇴설에 휩싸였다. 배우 하연수는 최근 네이버, 다음 등 유명 포털 사이트에 이름을 검색하면 나오는 프로필을 삭제했다. 포털 사이트에서 하연수를 검색하면 동명이인만 나올 뿐 배우 하연수의 흔적은 남아 있지 않다. 게다가 최근 이렇다 할 작품 활동도 없었다. 이에 하연수가 은퇴를 한 것이 아니냐는 의혹이 제기됐다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미래소년 카엘, 학폭·성희롱 의혹 벗었다.."자격지심 느껴 거짓말" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220510160501572</link>
-            <guid>https://entertain.v.daum.net/v/20220510160501572</guid>
-            <pubDate>Tue, 10 May 2022 07:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이슬 기자)&nbsp;그룹 미래소년 카엘이 학폭 의혹에서 벗어났다. 지난 9일 소속사 DSP미디어는 공식 홈페이지를 통해 미래소년 카엘의 허위사실 관련 진행상황을 알렸다. 데뷔 전 MBC 서바이벌 프로그램 '언더나인틴'에 출연했던 카엘은 2019년 동급생에게 폭력을 가하고, 성희롱, 음주, 흡연 등을 일삼았다는 논란에 휩싸인 바 있다. 소속사는 "]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["합칠 일 절대 없어"..'고딩엄빠' 이택개·박서현, 흉기난동 이후 결국 결별 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220510155928350</link>
-            <guid>https://entertain.v.daum.net/v/20220510155928350</guid>
-            <pubDate>Tue, 10 May 2022 07:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 정지현 기자] 종합편성채널 MBN '고딩엄빠'에 출연하는 이택개, 박서현이 결별을 발표했다. 이택개는 9일 자신의 인스타그램에 "이제는 우리가 아닌 너랑 나가 되었고, 네가 한 행동들은 더 이상 얘기 안 하겠다"는 글을 게재했다. 그러면서 "며칠 전 집으로 아기 보러 왔을 때 전혀 바뀌지 않은 너의 행동을 보고 난 많이 생각했다. 너는 하]]></content:encoded>
+            <title><![CDATA[하연수, 포털 사이트 프로필 삭제..작가 길 걷나 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220510173602896</link>
+            <guid>https://entertain.v.daum.net/v/20220510173602896</guid>
+            <pubDate>Tue, 10 May 2022 09:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 백지연 기자] 일본 애니메이션 포켓몬스터 '꼬북이상'의 원조로 대중들에게 사랑을 받았던 배우 하연수의 프로필이 포털 사이트에서 삭제됐다. 그림 작가로 입지를 넓히고 있는 하연수의 은퇴설이 제기됐다. 최근 주요 포털 사이트에 하연수의 프로필이 삭제됐다는 소식이 전해졌다. 2022년 하연수가 연기, 예능 등 방송 활동을 하지 않았던 근황도 거론]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[유명배우 후카다 쿄코, 술 때문에 기업가 남친과 불화 기류 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
@@ -1019,6 +1019,139 @@
             <guid>https://entertain.v.daum.net/v/20220510061505564</guid>
             <pubDate>Mon, 09 May 2022 21:16:08 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]조니 뎁(58)을 ‘캐리비안의 해적’ 시리즈에 복귀시켜달라는 청원이 56만명을 돌파했다. 9일 청원사이트에 따르면, ‘조니 뎁을 위한 정의’ 청원에는 56만명이 훌쩍 넘는 영화팬이 서명했다. 청원인은 “조니 뎁은 그의 경력 내내 놀라운 배우였다. 뎁은 월트 디즈니 컴퍼니에 의해 영화 "캐리비안의 해적"에서 제외되었다. 이것]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[클라씨, '스쿨룩&좀비' 콘셉트로 한 주 내내 팬들 만난다 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003602540</link>
+            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003602540</guid>
+            <pubDate>Tue, 10 May 2022 09:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 이승록 기자] 본격적인 학교와 좀비다. 클라씨(CLASS:y)가 데뷔곡 ‘셧다운’(SHUT DOWN)의 특별한 퍼포먼스 무대를 예고했다. 클라씨(명형서·윤채원·홍혜주·김리원·원지민·박보은·김선유)의]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[포토] 버스터즈, '종이인형같은 깜찍한 소녀들'(더쇼) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004696990</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004696990</guid>
+            <pubDate>Tue, 10 May 2022 09:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 버스터즈가 10일 오후 서울 상암동 SBS 프리즘타워에서 열린 SBSMTV '더쇼' 현장공개에 참석해 공연을 선보이고 있다. '더쇼'는 매주 화요일 오후 6시 SBS MTV와 MTV Asia 채널, SBS Fi]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[포토] 버스터즈, '칼군무는 기본이죠'(더쇼) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004696988</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004696988</guid>
+            <pubDate>Tue, 10 May 2022 09:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 버스터즈가 10일 오후 서울 상암동 SBS 프리즘타워에서 열린 SBSMTV '더쇼' 현장공개에 참석해 공연을 선보이고 있다. '더쇼'는 매주 화요일 오후 6시 SBS MTV와 MTV Asia 채널, SBS Fi]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['풍류대장' 콘서트 6개월 대장정 끝…아로새긴 우리 소리의 매력 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004696987</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004696987</guid>
+            <pubDate>Tue, 10 May 2022 09:15:56 GMT</pubDate>
+            <content:encoded><![CDATA['풍류대장 전국투어콘서트'가 서울 앙코르를 끝으로 6개월간의 대장정의 막을 내렸다. 지난 5~8일 서울 올림픽공원 올림픽홀에서 '풍류대장' 앙코르 콘서트가 진행됐다. 이번 콘서트에는 JTBC '풍류대장-힙한 소리꾼들]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[희망어, 다시 들을 시간…시규어로스 5년 만에 내한공연 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011176116</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011176116</guid>
+            <pubDate>Tue, 10 May 2022 09:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]이재훈 기자 = 아이슬란드 풍광을 빼닮은 아름다우면서 몽환적인 음악을 들려주는 포스트록 밴드 '시규어 로스(Sigur Ros)'가 5년 만에 내한공연을 연다. 10일 공연 기획사 프라이빗 커브에 따르면]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[송가인, 국악 교육 축소에 우려…"전통 건드리면 안돼" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013169452</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013169452</guid>
+            <pubDate>Tue, 10 May 2022 09:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 이태수 기자 = 트로트 가수 송가인이 개정 초·중·고교 교육 과정에서 국악이 축소될 우려가 있다는 국악계 지적에 힘을 보태고 나섰다. 송가인은 10일 자신의 인스타그램에 "여러분의 관심과 많은 참여]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[포토] 워킹 애프터 유, '더쇼의 시작을 알립니다'(더쇼) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004696985</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004696985</guid>
+            <pubDate>Tue, 10 May 2022 09:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 워킹 애프터 유가 10일 오후 서울 상암동 SBS 프리즘타워에서 열린 SBSMTV '더쇼' 현장공개에 참석해 공연을 선보이고 있다. '더쇼'는 매주 화요일 오후 6시 SBS MTV와 MTV Asia 채널, SB]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[투모로우바이투게더 "'Good Boy Gone Bad', 듣자마자 외웠다" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003602530</link>
+            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003602530</guid>
+            <pubDate>Tue, 10 May 2022 09:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 이승록 기자] 투모로우바이투게더가 컴백과 동시에 ‘멜론 스테이션’에 떴다. 멜론은 “투모로우바이투게더가 미니 4집 ‘minisode 2: Thursday’s Child’ 발매를 기념해 9일 18시에]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[초여름, 잔나비 감성이 촉촉이 내린다…'초록을거머쥔우리는' [신곡in가요] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004696984</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004696984</guid>
+            <pubDate>Tue, 10 May 2022 09:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[그룹사운드 잔나비가 여름을 촉촉하게 적실 '초록 감성'을 품고 돌아왔다. 잔나비는 10일 오후 6시 새 앨범 '잔나비 소곡집 Ⅱ : 초록을거머쥔우리는'을 발매했다. 지난해 7월 발매한 정규 3집 '환상의 나라' 이후]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[국립국악원, 가수 정진우 등 참여 생활국악 음반 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013169447</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013169447</guid>
+            <pubDate>Tue, 10 May 2022 09:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[인디 포크가수 최고은, 힙합 프로듀서 프랭크 참여 (서울=연합뉴스) 김용래 기자 = 국립국악원은 오는 13일부터 내달 10일까지 국악과 대중음악을 접목한 '생활음악 시리즈 21집'의 음원을 국내외 주요 음원사이트를]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["단번에 봄인 걸 알았어요" 잔나비의 싱그러운 감성 담은 '초록을거머쥔우리는'[SS신곡] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000804164</link>
+            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000804164</guid>
+            <pubDate>Tue, 10 May 2022 09:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 정하은기자]늦봄과 초여름 그사이. 그룹사운드 잔나비가 따뜻한 감성을 전한다. 10일 오후 6시 잔나비의 새 앨범 ‘잔나비 소곡집 Ⅱ : 초록을거머쥔우리는’가 발매됐다. ‘잔나비 소곡집 Ⅱ : 초록을거]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[T1419 "포기하지 말고 꿈을 향해 계속해서 달려나가라" (일문일답) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003602528</link>
+            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003602528</guid>
+            <pubDate>Tue, 10 May 2022 09:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 이승록 기자] 보이그룹 T1419(티일사일구)가 신곡 'Run up(런업)'으로 무한 질주를 이어간다. T1419는 지난 9일 오후 6시 각종 음원 사이트를 통해 세 번째 디지털 싱글 앨범 'Run]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[에이티즈, 독일 ‘메르세데스-벤츠 아레나’ 공연 성료... 지치지 않는 에너지 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001215865</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001215865</guid>
+            <pubDate>Tue, 10 May 2022 09:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[에이티즈(ATEEZ)가 새 앨범 깜짝 스포로 독일 베를린을 발칵 뒤집어 놓았다. 지난 8일(현지시간)부터 9일까지 독일 베를린 ‘메르세데스-벤츠 아레나(Mercedes-Benz Arena)’에서는 에이티즈의 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[권진아 ‘The Dreamer’ 단독공연 2분 만에 전석 매진 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000811990</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000811990</guid>
+            <pubDate>Tue, 10 May 2022 09:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 싱어송라이터 권진아의 단독 공연이 티켓 오픈 2분 만에 전 회차 전석 매진을 기록했다. 6월 3일~5일 사흘간 블루스퀘어 마스터카드홀에서 열리는 2022 권진아 단독 공연 ‘The Dreamer’(더]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[다비치, '둘이서 떠나요' 가사 일부 공개…컴백 예열 스타트 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003602524</link>
+            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003602524</guid>
+            <pubDate>Tue, 10 May 2022 09:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 오윤주 기자] 여성 듀오 다비치가 신곡의 감성적인 가사를 일부 공개했다. 다비치(이해리, 강민경)는 10일 정오 공식 SNS 계정을 통해 새 미니앨범 '시즌 노트(Season Note)' 수록곡 '둘]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[클라씨, ‘셧다운’에 스쿨룩+좀비 더했다…특별 무대 예고 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000572684</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000572684</guid>
+            <pubDate>Tue, 10 May 2022 09:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박정민 기자] 본격적인 학교와 좀비다. 클라씨(CLASS:y)가 데뷔곡 ‘셧다운’(SHUT DOWN)의 특별한 퍼포먼스 무대를 예고했다. 5월 10일 클라씨(명형서·윤채원·홍혜주·김리원·원지민·박보은·김선유]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[송가인, 2022 전국 투어 '연가' 티켓 오늘(10일) 오픈..불타는 피켓팅 예고 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004611213</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004611213</guid>
+            <pubDate>Tue, 10 May 2022 09:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=이승훈 기자] ‘콘서트 여왕’ 송가인이 전국 투어 공연 ‘연가'(戀歌)’로 돌아온다. 송가인의 소속사 포켓돌스튜디오는 “오늘(10일) 오후 8시부터 인터파크 티켓을 통해 ‘2022 송가인 전국투어 콘서트-]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[영상] 7년 만에 미 빌보드 진입한 싸이 '댓댓'…'핫 100' 80위 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013169398</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013169398</guid>
+            <pubDate>Tue, 10 May 2022 09:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 가수 싸이가 그룹 방탄소년단(BTS) 멤버 슈가와 협업한 곡 '댓댓'(That That)으로 미국 빌보드 메인 싱글 차트에 이름을 올렸습니다. 빌보드가 10일 공식 사회관계망서비스(SNS)를 통해 발표한 내용에 따르면 싸이의 정규 9집 '싸다9' 타이틀곡 '댓댓'은 '핫 100' 차트에서 80위를 기록했...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TO1 재윤, ‘XX+XY’ OST ‘벌룬’ 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000811984</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000811984</guid>
+            <pubDate>Tue, 10 May 2022 09:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 과감한 소재, 색다른 시선으로 화제를 모으고 있는 ‘XX+XY’가 감동적인 성장 스토리를 담은 새 OST를 선보인다. tvN 드라마 프로젝트 ‘오프닝(O’PENing)’의 두 번째 작품 ‘XX+XY’]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[티일사일구, 日 데뷔곡 '런업' 한국어 버전 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
@@ -1063,312 +1196,179 @@
             <content:encoded><![CDATA[[서울=뉴시스]김주희 인턴 기자 = 그룹 더보이즈(THE BOYZ)가 일본 두 번째 미니 앨범을 선보인다. 더보이즈는 공식 팬클럽 '더비 재팬(THE B JAPAN)' 홈페이지와 SNS를 통해 일본 미니 2집 앨범]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[송가인, 국악 교육 퇴출 현실에 분노+소신발언 "안타깝고 화나" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000804156</link>
-            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000804156</guid>
-            <pubDate>Tue, 10 May 2022 08:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 정하은기자]가수 송가인이 우리나라 전통 국악 교육 보전을 위한 소신을 밝혔다. 송가인은 10일 자신의 인스타그램에 “여러분의 관심과 많은 참여가 우리 국악에 큰 힘이 된다. 부디 이 중요한 일을 관심]]></content:encoded>
+            <title><![CDATA[[T포토] 아이칠린 '꼭꼭 숨어라' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001215873</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001215873</guid>
+            <pubDate>Tue, 10 May 2022 09:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 아이칠린이 10일 오후 서울 상암동 SBS 프리즘타워에서 열린 SBSMTV '더쇼' 현장공개에 참석해 공연을 선보이고 있다. 한편, '더쇼'는 매주 화요일 오후 6시 SBS MTV와 MTV Asia 채널, SB]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[DKZ, 한터차트 초동 브론즈 인증패 수상…“사랑에 보답하겠다” (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000811974</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000811974</guid>
-            <pubDate>Tue, 10 May 2022 08:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 그룹 DKZ(재찬, 종형, 기석, 세현, 민규, 경윤)가 실시간 음악차트 ‘한터차트’ 초동 브론즈 인증패를 받았다. 9일 오후 DKZ는 사진과 영상을 통해 인증패 수상 소식을 알렸다. 멤버들은 초동 판]]></content:encoded>
+            <title><![CDATA[[사진]아이칠린,'상큼 발랄' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004611255</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004611255</guid>
+            <pubDate>Tue, 10 May 2022 09:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박준형 기자] 10일 오후 서울 상암동 SBS프리즘타워에서 SBS MTV ‘THE SHOW(더쇼)’ 생방송이 진행됐다. 그룹 아이칠린이 멋진 무대를 펼칟고 있다. 2022.05.10 / soul1014@o]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[거리두기 풀리니 내한공연 기지개…시규어 로스 8월 콘서트 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013169328</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013169328</guid>
-            <pubDate>Tue, 10 May 2022 08:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 이태수 기자 = 신종 코로나바이러스 감염증(코로나19) 예방을 위한 사회적 거리두기가 대부분 해제되면서 지난 2년간 뚝 끊겼던 해외 스타들의 내한공연도 다시 기지개를 켜고 있다. 10일 공연기획사]]></content:encoded>
+            <title><![CDATA[[포토] 버스터즈 '깜찍한 무대' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003694270</link>
+            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003694270</guid>
+            <pubDate>Tue, 10 May 2022 09:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[걸그룹 버스터즈가 10일 오후 서울 마포구 상암동 SBS 프리즘타워에서 열린 ‘더쇼’의 현장공개에 참석해 열띤 공연을 펼치고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[권진아 단독 공연, 티켓 오픈 2분 만에 전 회차 전석 매진 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000866661</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000866661</guid>
-            <pubDate>Tue, 10 May 2022 08:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[싱어송라이터 권진아의 단독 공연이 티켓 오픈 2분 만에 전 회차 전석 매진을 기록했다. 6월 3일~5일 사흘간 블루스퀘어 마스터카드홀에서 열리는 2022 권진아 단독 공연 'The Dreamer'(더 드리머)가 지난]]></content:encoded>
+            <title><![CDATA[장원영이 반한 정세운 신곡 '롤러코스터' "청춘을 노래하는 펑키한 스타일" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000358418</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000358418</guid>
+            <pubDate>Tue, 10 May 2022 09:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자]그룹 크래비티와 아이브가 같은 소속사 선배 정세운의 컴백을 응원했다. 소속사 스타쉽엔터테인먼트는 지난 9일 공식 SNS 채널에 정세운의 다섯 번째 미니앨범 '웨어 이즈 마이 가든!' 타이틀]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[송가인, 전국 투어 콘서트 '연가'…티켓 예매 시작 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011175955</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011175955</guid>
-            <pubDate>Tue, 10 May 2022 08:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]김주희 인턴 기자 = 가수 송가인이 전국 투어 공연 '연가'(戀歌)'로 돌아온다. 송가인은 오는 28~29일 잠실 학생체육관을 시작으로 내달 4일 대구 엑스코, 11일 전주 한국소리문화의전당 야외공연장]]></content:encoded>
+            <title><![CDATA[[T포토] 아이칠린 '과즙미 팡팡 터지는 무대' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001215872</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001215872</guid>
+            <pubDate>Tue, 10 May 2022 09:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 아이칠린이 10일 오후 서울 상암동 SBS 프리즘타워에서 열린 SBSMTV '더쇼' 현장공개에 참석해 공연을 선보이고 있다. 한편, '더쇼'는 매주 화요일 오후 6시 SBS MTV와 MTV Asia 채널, SB]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['24일 데뷔' 블랭키, 9人9色 레이서로 변신 '섹시 카리스마' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000804154</link>
-            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000804154</guid>
-            <pubDate>Tue, 10 May 2022 08:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 정하은기자]그룹 블랭키(BLANK2Y)가 완성형 비주얼로 시선을 사로잡았다. 블랭키(루이, DK, 동혁, 시우, 영빈, 마이키, U, 성준, 소담)는 10일 0시 공식 SNS를 통해 첫 번째 미니앨범]]></content:encoded>
+            <title><![CDATA[이연복 목란 드디어 새출발! 직원 뽑는다"바로 입사 가능해요"[공식] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003052446</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003052446</guid>
+            <pubDate>Tue, 10 May 2022 09:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[이연복 셰프가 자신이 운영하는 '목란'의 직원 채용에 나서며 새출발을 위한 발판을 마련한다. 이연복 셰프는 10일 자신의 인스타그램을 통해 "저희 서울목란에서 직원 채용합니다"라고 밝혔다. 이연복 셰프는 "이제 코로]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[권진아, 단독 공연 'The Dreamer' 티켓 오픈 2분 만에 전석 매진 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004611173</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004611173</guid>
-            <pubDate>Tue, 10 May 2022 08:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=지민경 기자] 싱어송라이터 권진아의 단독 공연이 티켓 오픈 2분 만에 전 회차 전석 매진을 기록했다. 6월 3일~5일 사흘간 블루스퀘어 마스터카드홀에서 열리는 2022 권진아 단독 공연 'The Dream]]></content:encoded>
+            <title><![CDATA[[사진]버스터즈,'사랑스러운 하트' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004611254</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004611254</guid>
+            <pubDate>Tue, 10 May 2022 09:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박준형 기자] 10일 오후 서울 상암동 SBS프리즘타워에서 SBS MTV ‘THE SHOW(더쇼)’ 생방송이 진행됐다. 그룹 버스터즈가 멋진 무대를 펼칟고 있다. 2022.05.10 / soul1014@o]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[크래비티·아이브, 정세운 지원사격 “‘롤러 코스터’ 많이 사랑해주세요” (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000866659</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000866659</guid>
-            <pubDate>Tue, 10 May 2022 08:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 크래비티(CRAVITY)와 아이브(IVE)가 같은 소속사 선배 정세운의 컴백을 응원했다. 소속사 스타쉽엔터테인먼트는 지난 9일 공식 SNS 채널에 정세운의 다섯 번째 미니앨범 'Where is my Garden]]></content:encoded>
+            <title><![CDATA[[사진]버스터즈.'풋~' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004611253</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004611253</guid>
+            <pubDate>Tue, 10 May 2022 09:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박준형 기자] 10일 오후 서울 상암동 SBS프리즘타워에서 SBS MTV ‘THE SHOW(더쇼)’ 생방송이 진행됐다. 그룹 버스터즈가 멋진 무대를 펼칟고 있다. 2022.05.10 / soul1014@o]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[다비치, 신곡 '둘이서 떠나요' 가사 일부 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001446548</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001446548</guid>
-            <pubDate>Tue, 10 May 2022 08:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 조혜진 기자) 듀오 다비치가 신곡의 감성적인 가사를 일부 공개했다. 다비치(이해리, 강민경)는 10일 공식 SNS 계정을 통해 새 미니앨범 'Season Note (시즌 노트)'의 수록곡 '둘이서 떠나]]></content:encoded>
+            <title><![CDATA['6월 출산' 이하늬, '200만원↑' 명품 유모차 선물 받았네 "드라이브하는 느낌" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003865765</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003865765</guid>
+            <pubDate>Tue, 10 May 2022 09:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 정안지 기자] 오는 6월 출산 예정인 이하늬가 육아 용품 선물에 고마움을 전했다. 이하늬는 10일 자신의 인스타그램을 통해 "감사해요"라면서 사진을 게재했다. 사진 속에는 이하늬가 지인에게 선물받은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[크래비티➝아이브, 정세운 컴백 지원 사격.."완전 청량 그 자체" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004611164</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004611164</guid>
-            <pubDate>Tue, 10 May 2022 08:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=선미경 기자] 그룹 크래비티(CRAVITY)와 아이브(IVE)가 같은 소속사 선배인 가수 정세운의 컴백을 응원했다. 소속사 스타쉽엔터테인먼트는 지난 9일 공식 SNS 채널에 정세운의 다섯 번째 미니앨범 ']]></content:encoded>
+            <title><![CDATA[장미인애 측 "혼전임신 맞다…결혼식 일정 조율 중" (공식입장) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001737334</link>
+            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001737334</guid>
+            <pubDate>Tue, 10 May 2022 09:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[배우 장미인애 씨가 임신 소식과 함께 결혼 소식을 발표했다. 소속사 베스컴퍼니 관계자는 10일 YTN star에 "장미인애 씨가 임신을 한 것이 사실"이라고 조심스럽게 밝혔다. 해당 관계자는 "예비신랑과 함께 결혼식]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['미래소년' 카엘, 학폭·성희롱 의혹 벗었다…루머 유포자 사과 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011175874</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011175874</guid>
-            <pubDate>Tue, 10 May 2022 08:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]전재경 기자 = 그룹 미래소년 멤버 카엘(20·이상민)이 학교 폭력 및 성희롱 가해 의혹을 벗었다. 소속사 DSP미디어는 지난 9일 공식 홈페이지를 통해 "카엘에 대한 의혹이 제기된 직후 사실 확인을]]></content:encoded>
+            <title><![CDATA[[사진]버스터즈,'깜찍하게' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004611251</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004611251</guid>
+            <pubDate>Tue, 10 May 2022 09:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박준형 기자] 10일 오후 서울 상암동 SBS프리즘타워에서 SBS MTV ‘THE SHOW(더쇼)’ 생방송이 진행됐다. 그룹 버스터즈가 멋진 무대를 펼칟고 있다. 2022.05.10 / soul1014@o]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에이티즈, 아레나 투어 베를린 공연 성료…새 앨범 스포 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011175848</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011175848</guid>
-            <pubDate>Tue, 10 May 2022 08:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]김주희 인턴 기자 = 그룹 '에이티즈(ATEEZ)'가 새 앨범 깜짝 스포로 독일 베를린을 열광케했다. 10일 소속사 KQ엔터테인먼트에 따르면 에이티즈는 지난 8~9일(현지시간) 독일 베를린 '메르세데스]]></content:encoded>
+            <title><![CDATA[[포토] 버스터즈 '상큼 발랄' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003694269</link>
+            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003694269</guid>
+            <pubDate>Tue, 10 May 2022 09:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[걸그룹 버스터즈가 10일 오후 서울 마포구 상암동 SBS 프리즘타워에서 열린 ‘더쇼’의 현장공개에 참석해 열띤 공연을 펼치고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[블랭키, 콘셉트 포토 공개…9인9색 레이서 변신 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011175839</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011175839</guid>
-            <pubDate>Tue, 10 May 2022 08:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]김현숙 인턴 기자 = 그룹 '블랭키(BLANK2Y)'가 카리스마 넘치는 면모를 뽐냈다. 소속사 키스톤엔터테인먼트는 10일 0시 공식 SNS 계정을 통해 블랭키의 첫 번째 미니앨범 '키원 컨피던스 떰즈업]]></content:encoded>
+            <title><![CDATA[[T포토] 워킹 애프터 유 '신나는 오프닝 무대' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001215870</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001215870</guid>
+            <pubDate>Tue, 10 May 2022 09:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 워킹 애프터 유가 10일 오후 서울 상암동 SBS 프리즘타워에서 열린 SBSMTV '더쇼' 현장공개에 참석해 공연을 선보이고 있다. 한편, '더쇼'는 매주 화요일 오후 6시 SBS MTV와 MTV Asia 채널]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[투모로우바이투게더, 단 하루 만에 신보 약 92만 장 팔았다 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=416&amp;aid=0000283107</link>
-            <guid>https://entertain.naver.com/now/read?oid=416&amp;aid=0000283107</guid>
-            <pubDate>Tue, 10 May 2022 08:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[[SBS 연예뉴스 ㅣ강경윤 기자] 그룹 투모로우바이투게더가 단 하루 만에 신보 판매량과 글로벌 차트 성적으로 '4세대 리더'의 저력을 증명했다. 10일 음반 판매량 집계 사이트 한터차트에 따르면, 투모로우바이투게더(]]></content:encoded>
+            <title><![CDATA[‘베어 더 뮤지컬’, 17일 1차 티켓 오픈…‘내가 쓰는 프로필’ 공개 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000866667</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000866667</guid>
+            <pubDate>Tue, 10 May 2022 09:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[‘베어 더 뮤지컬’이 티켓 오픈 소식을 알렸다. 오는 6월 22일 개막하는 ‘베어 더 뮤지컬’이 오는 17일 오전 11시 1차 티켓 오픈을 진행한다. 이번 티켓 오픈에서는 오는 6월 28일부터 7월 17일까지 총 2]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘트로트 여왕’ 송가인 돌아온다, 전국투어 티켓 오픈 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=415&amp;aid=0000010367</link>
-            <guid>https://entertain.naver.com/now/read?oid=415&amp;aid=0000010367</guid>
-            <pubDate>Tue, 10 May 2022 08:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[[앳스타일 박승현 기자] ‘콘서트 여왕’ 송가인이 전국 투어 공연 ‘연가(戀歌)’로 돌아온다. 송가인의 소속사 포켓돌스튜디오는 “10일 오후 8시부터 인터파크 티켓을 통해 ‘2022 송가인 전국투어 콘서트- 연가’의]]></content:encoded>
+            <title><![CDATA['둘째 임신' 양미라, D라인 공개 "만삭 아님" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004961953</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004961953</guid>
+            <pubDate>Tue, 10 May 2022 09:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[방송인 양미라가 만삭의 D라인을 공개했다. 양미라는 10일 인스타그램에 "30주차 썸머. 만삭사진 아님 주의. 주수사진"이라는 글과 함께 여러 장의 사진을 게시했다. 사진에는 양미라가 환하게 웃고있는 모습이 담겼다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[K팝 가수 알렉사, 美NBC 오디션 최종 우승 "기적같은 선물" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=416&amp;aid=0000283106</link>
-            <guid>https://entertain.naver.com/now/read?oid=416&amp;aid=0000283106</guid>
-            <pubDate>Tue, 10 May 2022 08:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[[SBS 연예뉴스 ㅣ강경윤 기자] K팝 가수 알렉사(AleXa, 김세리)가 가요사를 새로 썼다. 미국 전국주에서 개최된 인기 오디션에서 최종 우승을 거머쥔 것. 알렉사는 10일(한국 기준) 방송된 미국 NBC 경연]]></content:encoded>
+            <title><![CDATA[[58회 백상 인터뷰] 조현철 "백상, 연기자라면 누구나 상 받고 싶은 곳" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000298409</link>
+            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000298409</guid>
+            <pubDate>Tue, 10 May 2022 09:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[조현철이 뭉클한 수상소감으로 감동을 선사했다. 조현철은 제58회 백상예술대상에서 넷플릭스 'D.P.'로 TV부문 남자 조연상을 수상했다. 무대에 오른 조현철은 "투병 중인 아버지한테 용기를 드리고자 잠시 시간을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[장원영도 극찬…'컴백 D-1' 정세운 신곡에 기대감 UP (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001446542</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001446542</guid>
-            <pubDate>Tue, 10 May 2022 08:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이지은 인턴기자) 정세운의 신곡에 많은 이들의 극찬이 쏟아졌다. 11일 컴백을 앞둔 정세운이 앨범의 기대감을 높이는 리액션 영상을 공개했다. 정세운의 소속사 스타쉽 엔터테인먼트는 9일 공식 SNS 채널]]></content:encoded>
+            <title><![CDATA[송가인, 국악 교육 축소에 우려…"전통 건드리면 안돼" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013169452</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013169452</guid>
+            <pubDate>Tue, 10 May 2022 09:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 이태수 기자 = 트로트 가수 송가인이 개정 초·중·고교 교육 과정에서 국악이 축소될 우려가 있다는 국악계 지적에 힘을 보태고 나섰다. 송가인은 10일 자신의 인스타그램에 "여러분의 관심과 많은 참여]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아이칠린, 퍼포먼스 맛집? 세븐틴 ‘독’ 국악 버전 댄스 커버 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000866658</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000866658</guid>
-            <pubDate>Tue, 10 May 2022 08:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[신인 걸그룹 아이칠린(ICHILLIN')이 국악 퍼포먼스로 '차세대 퍼포먼스 맛집' 매력을 완벽 입증했다. 아이칠린(이지, 재키, 주니, 채린, 소희, 예주, 초원)은 지난 9일 오후 8시 유튜브 채널 원더케이(1t]]></content:encoded>
+            <title><![CDATA[[포토] 워킹 에프터 유 '신나는 무대' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003694267</link>
+            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003694267</guid>
+            <pubDate>Tue, 10 May 2022 09:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[가수 워킹 에프터 유가 10일 오후 서울 마포구 상암동 SBS 프리즘타워에서 열린 ‘더쇼’의 현장공개에 참석해 열띤 공연을 펼치고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[다비치, 新 축가곡 탄생 예고..'둘이서 떠나요' 가사 일부+코멘트 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004611150</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004611150</guid>
-            <pubDate>Tue, 10 May 2022 08:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=이승훈 기자] 여성 듀오 다비치가 신곡의 감성적인 가사를 일부 공개했다. 다비치(이해리, 강민경)는 10일 정오 공식 SNS 계정을 통해 새 미니앨범 ‘Season Note (시즌 노트)’의 수록곡 ‘둘이]]></content:encoded>
+            <title><![CDATA[최화정, '60대 미모甲'..앨리스&미연 사이에서 굴욕無[스타IN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003052443</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003052443</guid>
+            <pubDate>Tue, 10 May 2022 09:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[배우 겸 방송인 최화정이 걸그룹 아이돌 사이에서도 굴욕 없는 미모를 뽐냈다. 10일 오후 SBS 라디오 파워FM '최화정의 파워타임' 공식 인스타그램에 "꾸꾸꾸 매력의 세분★ 꾸며도 꾸미지 않아도 꾸민 것 같은 매력]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['美교포 사업가♥' 기은세, 어깨 노출하고 '으리으리 테라스'에 꽃 심기..집에서도 여신 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003865729</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003865729</guid>
-            <pubDate>Tue, 10 May 2022 08:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선닷컴 정유나 기자] 배우 기은세가 럭셔리한 집 테라스를 자랑했다. 기은세는 10일 자신의 인스타그램에 "미루고 미뤄왔던 테라스에 봄 꽃들을 심는 부지런한 아침을 맞이하며. 올해 첫 여름 원피스를 입어보아요]]></content:encoded>
+            <title><![CDATA[잔나비, 오월의 초록빛 청춘 이야기 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000298408</link>
+            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000298408</guid>
+            <pubDate>Tue, 10 May 2022 09:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[그룹사운드 잔나비가 계절에 딱 맞는 시즌송을 들고 왔다. 곡 제목부터 노랫말까지 초여름 분위기가 물씬 풍긴다. 잔나비는 10일 오후 6시 새 앨범 '잔나비 소곡집 Ⅱ : 초록을거머쥔우리는'을 발매한다. 동명의 타]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['라스' 라비 "아이돌 중 저작권 등록곡 1위…최근 ○○ 덕분에 대박" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000358397</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000358397</guid>
-            <pubDate>Tue, 10 May 2022 08:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=김현록 기자]가수 라비가 '라디오스타'에 출연, 4년차 만능 영보스 면모를 뽐낸다. 11일 방송 예정인 고품격 토크쇼 MBC '라디오스타'(기획 강영선, 연출 이윤화)는 비, 리정, 라비, 정호영 셰프]]></content:encoded>
+            <title><![CDATA[이렇게 먹으니까 동안이지..정해인 '괸리의 정석' 샐러드 식사 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003865761</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003865761</guid>
+            <pubDate>Tue, 10 May 2022 09:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 문지연 기자] 배우 정해인이 관리의 정석을 보여줬다. 정해인은 10일 자신의 인스타그램에 사진을 게재했다. 공개된 사진 속 정해인은 테이블에 샐러드를 올려두고 카메라를 응시하는 모습. 모자 속에 감춰지는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['뜨거운 씽어즈' 김문정·최정훈의 '피아노맨' 음원 발매 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000298397</link>
-            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000298397</guid>
-            <pubDate>Tue, 10 May 2022 08:21:23 GMT</pubDate>
-            <content:encoded><![CDATA['뜨거운 씽어즈' 음악감독 김문정·잔나비 최정훈의 오프닝 무대가 음원으로 공개됐다. 김문정·최정훈의 '피아노맨(Piano Man)'이 오늘(10일) 정오 각종 음원사이트에 발매, 이번 앨범에 수록된 '피아노맨'은]]></content:encoded>
+            <title><![CDATA["바라보던 눈빛 가슴 아파"… 강수연 영정사진 촬영 구본창의 회고 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000811716</link>
+            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000811716</guid>
+            <pubDate>Tue, 10 May 2022 09:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[배우 고 강수연의 영전 사진을 촬영한 사진작가 구본창씨가 고인을 추모했다. 지난 8일 구본창씨는 자신의 사회관계망서비스(SNS)에 "지난 1987년 '미미와 철수의 청춘스케치'로 인연 시작. 지난 2004년 촬영 당]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["대본 짜 가면 찢더라"… 김명선, 개그우먼→점핑 강사 된 이유 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000811701</link>
-            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000811701</guid>
-            <pubDate>Tue, 10 May 2022 08:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[개그우먼 김명선이 오랜만에 근황을 알렸다. 최근 유튜브 채널 '푸하하TV'에는 '김명선이 개그계를 떠날 수밖에 없었던 이유'라는 제목의 영상이 공개됐다. 그는 "20세 때 꿈을 이루기 위해 아르바이트로 200만원을]]></content:encoded>
+            <title><![CDATA[조병규 복귀작 '찌질의 역사' 민폐 촬영 논란…"상황 파악 중" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004961951</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004961951</guid>
+            <pubDate>Tue, 10 May 2022 09:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 학폭 논란에 휘말렸던 배우 조병규의 복귀작인 드라마 '찌질의 역사'가 민폐 촬영 논란에 휩싸였다. 지난 9일 한 온라인 커뮤니티에는 '드라마촬영팀 원래 이럼?'이라는 제목의 '찌질의 역사' 촬영팀이 촬영 현장]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["제발 건드리지 마"… 송가인, 기자들에 이런 부탁을? (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000811698</link>
-            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000811698</guid>
-            <pubDate>Tue, 10 May 2022 08:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[가수 송가인이 국악교육의 미래를 위해 소리 높였다. 10일 송가인은 자신의 인스타그램과 트위터를 통해 국악 관련 게시물을 공유했다. 이는 지난 4월 발표된 '2022 개정 음악과 교육과정'에서 국악 교육에 대한 가이]]></content:encoded>
+            <title><![CDATA[김예원 전속계약, 앤드마크에 새 둥지...백진희와 한솥밥(공식) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001662132</link>
+            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001662132</guid>
+            <pubDate>Tue, 10 May 2022 09:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김예원이 앤드마크와 전속계약을 맺고 새로운 출발을 알렸다. 10일(오늘) 소속사 앤드마크 측은 “김예원은 예능은 물론 다양한 작품까지 다방면으로 활동하는 다재다능한 아티스트다. 타고난 재주와 능력을 갖춘 김예원]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“사람들이 만삭이냐고∼” ‘이필모 아내’ 서수연, 7개월 D라인 어떻길래? (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003694251</link>
-            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003694251</guid>
-            <pubDate>Tue, 10 May 2022 08:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[사진=서수연 인스타그램 캡처 배우 이필모의 아내 서수연이 임신 7개월 근황을 공개했다. 10일 서수연은 인스타그램에 “7개월인데 자꾸 사람들이 만삭이냐고… 벌써 담호 만삭때 만큼 나온 기분이에요..? 덩치야 그만 커]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“조국 대변 아닌 진지한 성찰”...‘그대가 조국’에 담긴 건[MK현장] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004961833</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004961833</guid>
-            <pubDate>Tue, 10 May 2022 08:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[다큐멘터리 영화 '그대가 조국'(감독 이승준)이 10일 언론시사회를 통해 베일을 벗었다. 10일 오후 용산 CGV에서는 영화 ‘그대가 조국’ 언론시사회 및 기자간담회가 열렸다. 이날 행사에는 이승준 감독을 비롯해 감]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[하연수, 연예계 은퇴→일본行?…앤드마크 ”올 초 전속계약 종료“(공식) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000866662</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000866662</guid>
-            <pubDate>Tue, 10 May 2022 08:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[일본으로 떠난 배우 하연수가 소속사 전속계약 해지 및 프로필이 삭제돼 연예계 은퇴설이 제기되고 있는 가운데, 전 소속사 측이 입장을 밝혔다. 하연수의 전 소속사 앤드마크 관계자는 10일 오후 MK스포츠에 ”(하연수의]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미래소년 측 "카엘 학폭 주장, 허위사실"…유포자 자필 사과 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006083494</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006083494</guid>
-            <pubDate>Tue, 10 May 2022 08:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 그룹 미래소년 측이 카엘의 학교폭력(학폭) 주장이 허위사실이라고 밝혔다. 카엘 소속사 DSP미디어 측은 지난 9일 공식 홈페이지를 통해 "과거 연습생시절 미래소년 카엘에게 제기됐던 허]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 김보연·최명길, 故 강수연 빈소 찾아 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004961831</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004961831</guid>
-            <pubDate>Tue, 10 May 2022 08:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[지난 7일 별세한 고(故) 강수연 씨의 빈소가 마련된 일원동 삼성서울병원 장례식장에 영화계를 넘어 각계각층에서 많은 이들이 애도하고 있다. 10일 오후 배우 김보연과 최명길이 조문에 나서고 있다. 강수연 씨는 지난]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[홍현희, 배는 볼록한데 얼굴은 반쪽...♥제이쓴 깜짝 선물에 놀란 '똥별맘' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003865717</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003865717</guid>
-            <pubDate>Tue, 10 May 2022 08:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조윤선 기자] 개그우먼 홍현희가 남편 제이쓴의 깜짝 이벤트에 감동했다. 홍현희는 10일 자신의 인스타그램에 "녹화 날 서프라이즈 이쓰니. 고마워 내 사랑♥ 이쓰니 혀니 누나 팬 맞지?"라는 글과 함께 여]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[강하늘 ﻿누가 건드렸나, 흑화 티저 공개 (인사이더) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000979164</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000979164</guid>
-            <pubDate>Tue, 10 May 2022 08:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[강하늘이 한계 없는 뜨거운 변신을 예고한다. JTBC 새 수목드라마 ‘인사이더’(연출 민연홍, 극본 문만세)는 잠입 수사 중 나락으로 떨어진 사법연수생 김요한(강하늘 분)이 빼앗긴 운명의 패를 거머쥐기 위해 사투를]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 故 강수연 빈소 찾은 배우 정보석 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004961827</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004961827</guid>
-            <pubDate>Tue, 10 May 2022 08:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[지난 7일 별세한 고(故) 강수연 씨의 빈소가 마련된 일원동 삼성서울병원 장례식장에 영화계를 넘어 각계각층에서 많은 이들이 애도하고 있다. 10일 오후 배우 정보석이 조문에 나서고 있다. 강수연 씨는 지난 5일 자택]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 박소담, 강수연 선배님을 그리며 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004961825</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004961825</guid>
-            <pubDate>Tue, 10 May 2022 08:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[지난 7일 별세한 고(故) 강수연 씨의 빈소가 마련된 일원동 삼성서울병원 장례식장에 영화계를 넘어 각계각층에서 많은 이들이 애도하고 있다. 10일 오후 배우 박소담이 조문에 나서고 있다. 강수연 씨는 지난 5일 자택]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[레드벨벳 웬디, 정말 겁 없는 행동..옥상 난간서 위태위태 [스타IN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003052433</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003052433</guid>
-            <pubDate>Tue, 10 May 2022 08:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 레드벨벳 멤버 웬디가 겁 없는 모습을 보였다. 웬디는 10일 자신의 인스타그램을 통해 "나는야 손승완, 겁이 없지"란 글을 게재했다. 공개된 사진 속 웬디는 옥상 난간에 기대거나 위로 올라가는 등 위험한 행동을]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 병역 문제 집중 조명 “하이브 경제적 타격↑” (아리랑TV ‘What is’) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000979160</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000979160</guid>
-            <pubDate>Tue, 10 May 2022 08:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[한국 사회에 화제가 되는 이슈들을 PD의 눈을 통해 설명하고 다양한 시각에서 깊이 있게 취재하는 아리랑TV 본격 PD리포트 ‘What is’에서 방탄소년단의 병역 문제를 집중 조명한다. ‘What is’는 현재의 한]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[손연재, ♥일반인 사귀고 몸매도 정점…빛나는 '골프 여신'[TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000546127</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000546127</guid>
-            <pubDate>Tue, 10 May 2022 08:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=류예지 기자] 전 리듬체조 국가대표 손연재가 골프장에서 시간을 보내고 있는 모습을 공개했다. 손연재는 10일 자신의 인스타그램을 통해 "모녀 팀전. 행복했던 봄 나들이. 좋은 골프장에서 가뭄에 콩나듯 버디]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[다비치, 여행 추천 신곡 '둘이서 떠나요' 가사 일부 공개 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000298395</link>
-            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000298395</guid>
-            <pubDate>Tue, 10 May 2022 08:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[다비치(이해리·강민경)가 신곡의 감성적인 가사를 일부 공개했다. 다비치는 10일 정오 공식 SNS 계정에 새 미니앨범 '시즌 노트(Season Note)' 수록곡 '둘이서 떠나요' 리릭 포스터와 코멘트 영상을 업]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 설경구, 슬픔을 안고 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004961824</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004961824</guid>
-            <pubDate>Tue, 10 May 2022 08:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[지난 7일 별세한 고(故) 강수연 씨의 빈소가 마련된 일원동 삼성서울병원 장례식장에 영화계를 넘어 각계각층에서 많은 이들이 애도하고 있다. 10일 오후 배우 설경구가 조문에 나서고 있다. 강수연 씨는 지난 5일 자택]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 최명길, 김동호 위원장과 슬픔 나누며 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004961823</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004961823</guid>
-            <pubDate>Tue, 10 May 2022 08:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[지난 7일 별세한 고(故) 강수연 씨의 빈소가 마련된 일원동 삼성서울병원 장례식장에 영화계를 넘어 각계각층에서 많은 이들이 애도하고 있다. 10일 오후 배우 최명길이 조문에 나서고 있다. 강수연 씨는 지난 5일 자택]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 손숙, 무거운 발걸음 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004961822</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004961822</guid>
-            <pubDate>Tue, 10 May 2022 08:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[지난 7일 별세한 고(故) 강수연 씨의 빈소가 마련된 일원동 삼성서울병원 장례식장에 영화계를 넘어 각계각층에서 많은 이들이 애도하고 있다. 10일 오후 배우 손숙이 조문에 나서고 있다. 강수연 씨는 지난 5일 자택에]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[효진초이부터 퀸와사비까지…데뷔 후 첫 팬 이벤트 개최 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000612661</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000612661</guid>
-            <pubDate>Tue, 10 May 2022 08:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[효진초이, 퀸와사비, 류세라, YOUHA (유하) 등은 온라인 팬 이벤트를 열고 소통에 나선다. 우선 첫 주자는 주목받는 싱어송라이터 YOUHA (유하)로, 오는 12일 오후 8시부터 온라인 팬미팅을 진행한다. YO]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[송가인 "말도 안 된다…기자님들께 처음 부탁" 무슨 일? (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006083479</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006083479</guid>
-            <pubDate>Tue, 10 May 2022 08:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 김학진 기자 = 가수 송가인이 국악교육 정상화를 촉구하며 목소리를 높였다. 송가인은 10일 자신의 인스타그램을 통해 "여러분! 저의 부탁 한번 들어주세요. 여러분의 관심과 많은 참여가 우리 국악에 큰]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['떡볶이집 그 오빠' 송지효 "김종국과 러브라인, 싫었는데…" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004961820</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004961820</guid>
-            <pubDate>Tue, 10 May 2022 08:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[배우 송지효가 김종국과 러브라인에 대해 이야기했다. 10일 오후 8시 30분 방송되는 MBC에브리원 예능프로그램 ‘떡볶이집 그 오빠’는 ‘부캐 여신’이라는 주제로 꾸며진다. 이에 본캐는 배우, 부캐는 예능인으로 종횡]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 배우 한지일, 가득 찬 슬픔 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004961818</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004961818</guid>
-            <pubDate>Tue, 10 May 2022 08:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[지난 7일 별세한 고(故) 강수연 씨의 빈소가 마련된 일원동 삼성서울병원 장례식장에 영화계를 넘어 각계각층에서 많은 이들이 애도하고 있다. 10일 오후 배우 한지일이 조문에 나서고 있다. 강수연 씨는 지난 5일 자택]]></content:encoded>
+            <title><![CDATA['재미교포♥' 박은지, LA서 럭셔리 육아 시작..자택 앞 산책로 으리으리하네 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003865760</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003865760</guid>
+            <pubDate>Tue, 10 May 2022 09:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 정유나 기자] 방송인 박은지가 LA서 육아 근황을 전했다. 방송인 박은지는 10일 자신의 인스타그램에 육아 일상이 담긴 사진들을 게재했다. 공개된 사진 속 박은지는 LA에서 딸과 산책과 드라이브를 하]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[브리트니 스피어스, 또 전신 노출 "임신 전 찍은 것" [할리웃통신] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
@@ -1381,7 +1381,7 @@
             <title><![CDATA[거리두기 풀리니 내한공연 기지개…시규어 로스 8월 콘서트 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
             <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013169328</link>
             <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013169328</guid>
-            <pubDate>Tue, 10 May 2022 08:21:30 GMT</pubDate>
+            <pubDate>Tue, 10 May 2022 08:21:16 GMT</pubDate>
             <content:encoded><![CDATA[(서울=연합뉴스) 이태수 기자 = 신종 코로나바이러스 감염증(코로나19) 예방을 위한 사회적 거리두기가 대부분 해제되면서 지난 2년간 뚝 끊겼던 해외 스타들의 내한공연도 다시 기지개를 켜고 있다. 10일 공연기획사]]></content:encoded>
         </item>
         <item>
