@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2022-05-10T18:21:42.738Z</updated>
+    <updated>2022-05-10T19:15:27.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[진선규 찾아간 박주현♥채종협, 바닷가 취중진담 (‘너가속’)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000979271</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000979271"/>
+        <updated>2022-05-10T19:15:19.107Z</updated>
+        <content type="html"><![CDATA[KBS2 수목드라마 ‘너에게 가는 속도 493km’ 박주현이 채종협과 함께 진선규를 찾는다. '너에게 가는 속도 493km'(연출 조웅/극본 허성혜/이하 '너가속') 측이 공개한 사진에는 박태양(박주현 분)이 배드민]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[곽도원·윤두준→정동원이 사는 ‘돌집’의 정체는? (구필수는 없다)]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000979270</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=032&amp;aid=0003146022"/>
         <updated>2022-05-10T15:17:25.750Z</updated>
         <content type="html"><![CDATA[[경향신문] ■ 교양 ■ 캣치 코리아(아리랑TV 오후 1시) = 일상에서 한복을 입는 사람들이 늘어나고 있다. 이에 편승해 생활 한복도 덩달아 인기를 끌고 있다. 몇 년 전까지만 해도 디자인이 한정적이었으나 최근에는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 5월 11일[TV하이라이트]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=032&amp;aid=0003146021</id>
-        <link href="https://entertain.naver.com/now/read?oid=032&amp;aid=0003146021"/>
-        <updated>2022-05-10T15:17:25.751Z</updated>
-        <content type="html"><![CDATA[[경향신문] 바다가 가른 동물들의 진화 ■동물의 왕국(KBS1 오후 5시30분) = ‘대자연의 경계선-두 세계가 만나는 곳’ 편이 계속된다. 야생동물은 고대부터 현재까지 끊임없이 진화를 거듭하며 생명력을 이어가고 있]]></content>
     </entry>
 </feed>
