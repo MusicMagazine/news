@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-05-11T14:17:38.870Z</updated>
+    <updated>2022-05-11T15:18:55.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박정식 '천년바위', 20분만에 녹음 끝낸 명곡]]></title>
+        <id>https://entertain.v.daum.net/v/20220512000003348</id>
+        <link href="https://entertain.v.daum.net/v/20220512000003348"/>
+        <updated>2022-05-11T15:18:14.427Z</updated>
+        <content type="html"><![CDATA[수많은 리메이크 또는 커버송 봇물, '원곡가수 흉내내기' 불과 트로트가 밝고 젊어졌다. 최근 몇 년 사이 방송가에 트로트 오디션 프로그램이 활성화되면서다. 전통적으로 중장년층 전유물처럼 여겨지던 트로트 팬층도 훨씬 넓고 깊고 다양해졌다. 덕분에 잊혔던 곡들이 리바이벌 돼 역주행 신화를 만들기도 한다. 누구나 무명시절은 있기 마련이고 터닝포인트도 있다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['믿듣멜' 멜로망스, '킬링 보이스'서 히트곡 메들리 공개]]></title>
         <id>https://entertain.v.daum.net/v/20220511222737431</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220511180232069"/>
         <updated>2022-05-11T09:16:09.257Z</updated>
         <content type="html"><![CDATA[[OSEN=지민경 기자] 가수 정세운이 초여름 날씨 속 시원한 힐링을 선사할 정원으로 초대한다. 정세운은 11일 오후 6시 각종 음원사이트를 통해 다섯 번째 미니앨범 'Where is my Garden!(웨어 이즈 마이 가든!)’ 전곡 음원과 타이틀곡 'Roller Coaster’ 뮤직비디오를 공개했다. 지난해 1월 발매한 정규 1집 ’24 part 2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["두려움=설렘"..정세운, '롤러코스터' 같은 청춘 위로]]></title>
-        <id>https://entertain.v.daum.net/v/20220511180040008</id>
-        <link href="https://entertain.v.daum.net/v/20220511180040008"/>
-        <updated>2022-05-11T09:16:09.258Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) '싱어송라이돌' 정세운이 청춘들을 향한 위로가 담긴 'Roller Coaster'를 노래한다. 5일 정세운은 미니 5집 'Where is my Garden!'(웨어 이즈 마이 가든!)을 발매하고, 타이틀곡 'Roller Coaster'(롤러코스터)의 뮤직비디오를 공개했다. 지난해 1월 정규앨범 '24'를 발매했던 정세운은 1]]></content>
     </entry>
 </feed>

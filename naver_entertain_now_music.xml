@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-05-11T14:17:38.865Z</updated>
+    <updated>2022-05-11T15:18:55.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블루 사운드 랩, 첫 컴필레이션 앨범 ‘test.001’ 발매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000812329</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000812329"/>
+        <updated>2022-05-11T15:18:37.988Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 12일 음악 크루 ‘블루 사운드 랩’의 세계관을 그려내는 첫 번째 컴필레이션 앨범 ‘test.001’을 발매한다. 이번 앨범에는 IZON, Cluddy, Nerdish Peeps, Popo 등 많은 인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[나의 인생곡(68)] 박정식 '천년바위', 20분만에 녹음 끝낸 명곡]]></title>
+        <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000148789</id>
+        <link href="https://entertain.naver.com/now/read?oid=629&amp;aid=0000148789"/>
+        <updated>2022-05-11T15:18:37.988Z</updated>
+        <content type="html"><![CDATA[수많은 리메이크 또는 커버송 봇물, '원곡가수 흉내내기' 불과 트로트가 밝고 젊어졌다. 최근 몇 년 사이 방송가에 트로트 오디션 프로그램이 활성화되면서다. 전통적으로 중장년층 전유물처럼 여겨지던 트로트 팬층도 훨씬]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[멜로망스, '킬링 보이스' 떴다]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003603070</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001447177"/>
         <updated>2022-05-11T10:19:16.497Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 비가 그룹 싸이퍼(Ciipher)를 응원하기 위해 쇼케이스에 방문한 가운데, 싸이퍼가 "집 한 채 날렸다"는 비의 발언을 언급했다. 싸이퍼의 미니 3집 'THE CODE'(더 코드) 발매]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["알아주는 작사가는 이렇게..." 정세운, 김이나와 '또' 환상 호흡 [종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001447176</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001447176"/>
-        <updated>2022-05-11T10:19:16.500Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 가수 정세운이 작사가 김이나와 또 한 번 환상의 호흡을 선보인다. 정세운의 다섯 번째 미니앨범 'Where is my Garden!(웨어 이즈 마이 가든!)' 발매 기념 쇼케이스가 11일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HK영상｜싸이퍼 '자체 제작돌의 위력'… 수록곡 '너를 다시']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004697612</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004697612"/>
-        <updated>2022-05-11T10:19:16.500Z</updated>
-        <content type="html"><![CDATA[그룹 싸이퍼가 11일 오후 서울 장충동 크레스트72에서 열린 세 번째 미니앨범 '더 코드(THE CODE)' 발매 기념 미디어 쇼케이스에 참석해 수록곡 ‘너를 다시’ 무대를 선보이고 있다. '더 코드'는 '암호(Ci]]></content>
     </entry>
 </feed>
