@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-05-11T11:14:15.158Z</updated>
+    <updated>2022-05-11T12:31:53.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[감성 보컬그룹 노을, 소극장 콘서트 개최한다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003603026</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003603026"/>
+        <updated>2022-05-11T12:31:35.919Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 이승록 기자] 감성 보컬그룹 노을이 소극장 콘서트 ‘Café 유월’을 재개한다. 노을이 지난 2월 성공적인 전국투어를 마친 데 이어 오는 6월 18, 19일 양일간 예스24 라이브홀에서 열리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["조금 더 크면 이젠 그립겠지"…원위 용훈&강현, '시간을 담은 작은 방' 콘셉트 포토]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003603007</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003603007"/>
+        <updated>2022-05-11T12:31:35.922Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 이승록 기자] 밴드 원위(ONEWE)의 용훈과 강현이 청량한 매력으로 팬들의 마음을 사로잡았다. 소속사 알비더블유(RBW)는 11일 원위(용훈·강현·하린·동명·키아) 공식 SNS를 통해 스페셜 앨범]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['쇼챔피언' 우즈, 레트로 로커 핫 컴백 ‘HIJACK’→‘난 너 없이’ 무대]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000866971</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000812296"/>
         <updated>2022-05-11T09:16:28.489Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 신예 프로듀서 ditch david(디치 데이비드)가 싱어송라이터 Sylo와 특급 컬래버레이션을 선보인다. 글로벌 뮤직 레이블 코드쉐어(Chord Share) 측은 지난 10일 오후 공식 SNS에 디치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[콰드로 누에보 ‘어린이를 위한 고품격 세계동요 20’ 연주앨범 발매]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000812295</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000812295"/>
-        <updated>2022-05-11T09:16:28.498Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 어린이를 위한 세계 동요 20 연주곡집 ‘QUADRO NUEVO-COOLE KINDERLIEDER MIT COOLEN INSTRUMENTEN’이 가정의 달을 맞이하여 발매되었다고 굿인터네셔널 레이블이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘자체제작돌’ 싸이퍼 “‘THE CODE’는 도약의 메시지”[인터뷰]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000812294</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000812294"/>
-        <updated>2022-05-11T09:16:28.509Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 그룹 싸이퍼(Ciipher, 탄·휘·현빈·케이타·태그·도환·원)가 미니 3집 ‘THE CODE’(더 코드)로 본격적인 세계관을 선보인다. 지난해 3월 데뷔한 싸이퍼는 그간 미니 1, 2집을 통해 음악적]]></content>
     </entry>
 </feed>
