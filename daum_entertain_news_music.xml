@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-05-12T20:19:02.612Z</updated>
+    <updated>2022-05-12T21:14:23.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강다니엘→세븐틴·NCT DREAM, 5월 대세 남돌 총출동]]></title>
+        <id>https://entertain.v.daum.net/v/20220513060005197</id>
+        <link href="https://entertain.v.daum.net/v/20220513060005197"/>
+        <updated>2022-05-12T21:13:49.872Z</updated>
+        <content type="html"><![CDATA[투모로우바이투게더(왼쪽 위부터 시계방향), NCT DREAM, 아스트로, 강다니엘.    [스포츠서울 | 정하은기자]올 봄 걸그룹들이 가요계를 휩쓸었다면, 초여름을 앞둔 5월엔 대세 보이그룹이 총출동한다. 무엇보다 변화와 성장의 키워드를 가진 각기 다른 보이그룹들이 연달아 출격해 눈길을 끈다. 색다른 변화를 시도하거나 혹은 자신들의 정체성을 확]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["딸 양육권은 19세 연하 아내가"..DJ DOC 정재용, 결혼 3년 반만 성격 차이로 이혼]]></title>
         <id>https://entertain.v.daum.net/v/20220513051459397</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220512191412363"/>
         <updated>2022-05-12T10:20:08.464Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 이승록 기자] 가수 황치열이 아련한 감성 발라드로 봄을 물들인다. 황치열은 12일 오후 6시 각종 음원사이트를 통해 네 번째 미니앨범 ‘By My Side’(바이 마이 사이드)를 발매했다. 신보 ‘By My Side’는 지난해 9월 ‘끝이라고 말할 것 같았어’ 이후 8개월 만에 발표하는 앨범으로, 허전했던 옆 자리를 채워준 모든 것들을 항]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백' 황치열 "'왜 이제와서야', 가장 나다운 노래"]]></title>
-        <id>https://entertain.v.daum.net/v/20220512190301116</id>
-        <link href="https://entertain.v.daum.net/v/20220512190301116"/>
-        <updated>2022-05-12T10:20:08.464Z</updated>
-        <content type="html"><![CDATA[가수 황치열이 아련한 감성 발라드로 봄을 물들인다. 황치열은 12일 오후 6시 각종 음원사이트를 통해 네 번째 미니앨범 ‘바이 마이 사이드(By My Side)’를 발매했다. 신보 ‘바이 마이 사이드’는 지난해 9월 ‘끝이라고 말할 것 같았어’ 이후 8개월 만에 발표하는 앨범으로, 허전했던 옆 자리를 채워준 모든 것들을 항상 옆에 두고 싶은 바람을 담았다]]></content>
     </entry>
 </feed>
