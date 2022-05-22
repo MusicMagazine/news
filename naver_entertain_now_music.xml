@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-05-22T19:14:04.688Z</updated>
+    <updated>2022-05-22T20:17:53.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[싱어송라이터 아티초크 "더 이상 도망치고 싶지 않아요"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011201417</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011201417"/>
+        <updated>2022-05-22T20:17:32.173Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 새 EP '실버 라이닝스' 호평 버클리 음대 학생들로 구성됐던 美 밴드 '더 영 리퍼블릭' 출신 2011년 니케아라는 활동명으로 데뷔 [서울=뉴시스]이재훈 기자 = '실버 라이닝스(Silver Lini]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['인가' T1419, 신곡 'Run up'으로 끝없이 질주]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003055810</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000814539"/>
         <updated>2022-05-22T17:06:28.299Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 신인 걸그룹 아이칠린(ICHILLIN‘, 이지, 재키, 주니, 채린, 소희, 예주, 초원)이 7인 7색 상큼한 매력을 발산했다. 아이칠린은 22일 방송된 SBS ’인기가요‘에 출연해 첫 번째 미니 앨범]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싸이vs(여자)아이들vs아이브..'인기가요' 1위 후보]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003055770</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003055770"/>
-        <updated>2022-05-22T17:06:28.300Z</updated>
-        <content type="html"><![CDATA[가수 싸이, 그룹 (여자)아이들과 아이브가 '인기가요' 1위 후보에 이름을 올렸다. 22일 방송된 SBS '인기가요'에서는 싸이의 'That That'(댓댓), (여자)아이들의 'TOMBOY'(톰보이), 아이브의 ']]></content>
     </entry>
 </feed>
