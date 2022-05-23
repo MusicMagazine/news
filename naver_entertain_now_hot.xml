@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2022-05-23T18:19:41.426Z</updated>
+    <updated>2022-05-23T19:14:13.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크래비티 민희, 초여름의 무드[화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000981759</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000981759"/>
+        <updated>2022-05-23T19:14:04.625Z</updated>
+        <content type="html"><![CDATA[크래비티 민희가 '아레나 옴므 플러스' 6월호에 등장했다. 이번 화보에서 민희는 초여름의 무드를 마음껏 드러냈다. 화보 촬영이 주말 한낮의 공원에서 이루어져 많은 인파가 있었지만, 그 속에서도 민희는 아랑곳하지 않고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘여기는 칸’]]></title>
         <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0006111856</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0006111833"/>
         <updated>2022-05-23T18:19:32.848Z</updated>
         <content type="html"><![CDATA[(칸=뉴스1) 이준성 프리랜서기자 = 영화감독 박찬욱과 배우 박해일・탕웨이가 23일 오후(현지시간) 제75회 칸 국제영화제가 열리고 있는 프랑스 남부 칸 ‘팔레 데 페스티벌’(Palais des Fest]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘헤어질 결심’관람 위해 줄 서는 관객들]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0006111831</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0006111831"/>
-        <updated>2022-05-23T18:19:32.850Z</updated>
-        <content type="html"><![CDATA[(칸=뉴스1) 이준성 프리랜서기자 = 23일 오후(현지시간) 제75회 칸 국제영화제가 열리고 있는 프랑스 남부 칸 ‘팔레 데 페스티벌’(Palais des Festivals)에서 경쟁부문 진출작 영화 ’헤어질 결심']]></content>
     </entry>
 </feed>
