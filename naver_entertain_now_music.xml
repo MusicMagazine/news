@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-05-23T14:18:11.909Z</updated>
+    <updated>2022-05-23T15:19:07.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["완전체 실현 감격"…갓세븐, 쉽지 않아 더 특별한 컴백(종합)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000151088</id>
+        <link href="https://entertain.naver.com/now/read?oid=629&amp;aid=0000151088"/>
+        <updated>2022-05-23T15:18:49.983Z</updated>
+        <content type="html"><![CDATA[23일 오후 6시 새 앨범 'GOT7' 발표 멤버들이 데뷔한 소속사를 떠나면 팀이 유지되기 어렵다. 각기 다른 회사로 흩어진 멤버들의 스케줄 조율 문제도 있고 팀 상표권도 해결해야 한다. JYP엔터테인먼트를 떠난 갓]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단 뷔·블랙핑크 제니, 제주 목격설 열애설로 확산…소속사 ‘침묵’]]></title>
         <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001994407</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=629&amp;aid=0000151055"/>
         <updated>2022-05-23T09:17:08.930Z</updated>
         <content type="html"><![CDATA[6월 9일 'Like a Diamond' 발표 가수 강혜원이 싱어송라이터 스텔라장과 호흡을 맞췄다. 소속사 에잇디엔터테인먼트는 23일 공식 SNS 채널에 강혜원의 새 디지털 싱글 'Like a Diamond(라이크]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브레이브걸스 '롤린', 멜론 누적 스트리밍 2억 돌파]]></title>
-        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013199206</id>
-        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013199206"/>
-        <updated>2022-05-23T09:17:08.930Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이태수 기자 = 걸그룹 브레이브걸스의 히트곡 '롤린'(Rollin')이 국내 최대 음원 사이트 멜론에서 누적 스트리밍 횟수가 2억건을 돌파했다고 소속사 브레이브엔터테인먼트가 23일 밝혔다. 2017]]></content>
     </entry>
 </feed>
