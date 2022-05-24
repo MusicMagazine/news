@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-05-24T05:21:47.975Z</updated>
+    <updated>2022-05-24T06:21:36.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['65세' 샤론 스톤, 男모델 둘과 아찔한 칸 동행…파격 퍼포먼스]]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004750109</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004750109"/>
+        <updated>2022-05-24T06:21:35.526Z</updated>
+        <content type="html"><![CDATA[[칸 레드카펫서 깜짝 퍼포먼스…여전히 빛나는 미모] 할리우드 배우 샤론 스톤 이 젊은 남자 모델 두 명과 칸 영화제에 참석한 가운데, 파격적인 퍼포먼스를 펼쳤다. 샤론 스톤은 22일(현지시간) 프랑스 칸에서 열린 제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["장례식 왔나"..킴 카다시안, 언니 결혼식에 블랙 드레스를? (종합)[Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004621150</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000869907"/>
         <updated>2022-05-24T03:23:25.624Z</updated>
         <content type="html"><![CDATA[24일 오전 아이유, 강동원, 송강호가 칸영화제 참석을 위해 인천국제공항을 통해 프랑스 칸으로 출국했다. 송강호가 출국장으로 향하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강동원 '칸 다녀올게요' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000869906</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000869906"/>
-        <updated>2022-05-24T03:23:25.625Z</updated>
-        <content type="html"><![CDATA[24일 오전 아이유, 강동원, 송강호가 칸영화제 참석을 위해 인천국제공항을 통해 프랑스 칸으로 출국했다. 강동원이 팬들에게 인사를 하며 출국장으로 향하고 있다.]]></content>
     </entry>
 </feed>
