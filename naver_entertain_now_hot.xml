@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2022-05-25T15:21:54.463Z</updated>
+    <updated>2022-05-25T16:23:35.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이정재X정우성 ‘헌트’, 남다른 존재감 1차 스틸]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000982335</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000982335"/>
+        <updated>2022-05-25T16:23:27.603Z</updated>
+        <content type="html"><![CDATA[이정재 감독의 첫 연출 데뷔 영화 '헌트'가 제75회 칸영화제 미드나잇 스크리닝을 통해 최초 공개된 가운데, 열기를 이어갈 1차 보도스틸 12종이 공개됐다. '헌트'는 조직 내 숨어든 스파이를 색출하기 위해 서로를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이티즈 산, 신들린 표정 연기 1위 등극]]></title>
         <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001665822</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=032&amp;aid=0003149244"/>
         <updated>2022-05-25T13:39:47.182Z</updated>
         <content type="html"><![CDATA[■ 영화 ■ 355(캐치온1 오후 7시20분) = 극악무도한 글로벌 범죄조직이 전 세계 국가 시스템을 초토화시킬 일급 기밀 무기를 훔친다. 무기를 되찾기 위해 나선 미국 중앙정보국(CIA) 요원 메이스(제시카 채스테]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 5월 26일[TV하이라이트]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=032&amp;aid=0003149242</id>
-        <link href="https://entertain.naver.com/now/read?oid=032&amp;aid=0003149242"/>
-        <updated>2022-05-25T13:39:47.183Z</updated>
-        <content type="html"><![CDATA[통가 화산 폭발 현장 간 과학자들 ■다큐 인사이트(KBS1 오후 10시10분) = 2022년 1월15일. 통가 왕국 인근 해역에 위치한 통가 훙가 하파이 화산이 폭발했다. 화산 폭발에 대한 세계의 관심이 집중되는 가]]></content>
     </entry>
 </feed>
