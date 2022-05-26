@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-05-26T18:22:15.022Z</updated>
+    <updated>2022-05-26T19:14:57.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['좋은 친구들' 레이 리오타, 67세 일기로 사망→태런 에저튼 추모 [엑's 할리우드]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001453635</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001453635"/>
+        <updated>2022-05-26T19:14:57.259Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 영화 '좋은 친구들'로 유명한 할리우드 배우 레이 리오타가 별세했다. 향년 67세. 26일(현지시간) 미국 데드라인 등 다수 매체는 레이 리오타가 영화 '데인저러스 워터'를 촬영하러 떠났]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 '좋은 친구들' 美 배우 레이 리오타, 67세로 별세]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013208080</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0006120480"/>
         <updated>2022-05-26T13:36:16.850Z</updated>
         <content type="html"><![CDATA[(칸=뉴스1) 이준성 프리랜서기자 = 감독 바즈 루어만(가운데)과 배우 오스틴 버틀러・톰 행크스가 26일(현지시간) 제 75회 칸 국제영화제가 열리고 있는 프랑스 남부 칸 ‘팔레 데 페스티벌’(Palai]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바즈 루어만 감독 '로큰롤' 스타처럼]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0006120477</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0006120477"/>
-        <updated>2022-05-26T13:36:16.852Z</updated>
-        <content type="html"><![CDATA[(칸=뉴스1) 이준성 프리랜서기자 = 감독 바즈 루어만이 26일(현지시간) 제 75회 칸 국제영화제가 열리고 있는 프랑스 남부 칸 ‘팔레 데 페스티벌’(Palais des Festival)에서 비경쟁 부문에 공식 초]]></content>
     </entry>
 </feed>
