@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-05-26T19:14:57.972Z</updated>
+    <updated>2022-05-26T20:18:35.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단, 美백악관 초청 바이든 대통령 만난다 "아미 덕에 가는것"]]></title>
+        <id>https://entertain.v.daum.net/v/20220527045613304</id>
+        <link href="https://entertain.v.daum.net/v/20220527045613304"/>
+        <updated>2022-05-26T20:17:56.444Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] 글로벌 그룹 방탄소년단(BTS)이 미국 백악관에 초청돼 바이든 대통령을 만난다. 26일(현지시간) 백악관 측에 따르면, 그룹 방탄소년단은 오는 31일 진행되는 백악관 행사에 참석해 바이든 대통령을 만날 예정이다. 바이든 대통령은 아시아계·하와이 원주민·태평양 제도 주민(AANHPI) 유산의 달을 맞아 31일 백악관에서 방탄소년단]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[승리, 긴 재판→강제 전역..남은 옥살이 고작 9개월]]></title>
         <id>https://entertain.v.daum.net/v/20220526235003578</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220526185433534"/>
         <updated>2022-05-26T10:18:53.931Z</updated>
         <content type="html"><![CDATA[[스타뉴스 공미나 기자] /사진제공=KBS 2TV '유희열의 스케치북'가수 겸 배우 수지가 '유희열의 스케치북'에서 무대를 선보인다. 오는 27일 방송되는 KBS 2TV '유희열의 스케치북'에서는 김문정, 옥주현부터 강승원, 수지, 황치열, 지소울이 출연한다. 최근 진행된 녹화에서 '유희열의 스케치북'을 첫 순서로 찾은 이들은 음악감독 김문정과 뮤지컬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[B.A.P 출신 힘찬, '또' 강제추행 혐의 피소]]></title>
-        <id>https://entertain.v.daum.net/v/20220526182806831</id>
-        <link href="https://entertain.v.daum.net/v/20220526182806831"/>
-        <updated>2022-05-26T10:18:53.935Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 황서연 기자] 그룹 B.A.P 전 멤버 힘찬이 강제추행 혐의로 재판을 받는 도중 동일 혐의로 또 고소를 당했다. 26일 서울 용산경찰서에 따르면 힘찬은 최근 강제추행 혐의로 입건됐다. 힘찬은 지난달 17일 서울 용산구 한남동의 한 주점 외부 계단에서 술에 취한 상태로 여성 2명을 성추행한 혐의를 받고 있다. 피해자들이 사건 직후 직접 경찰서를]]></content>
     </entry>
 </feed>
