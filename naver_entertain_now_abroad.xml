@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-05-26T17:23:37.259Z</updated>
+    <updated>2022-05-26T18:22:15.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 '좋은 친구들' 美 배우 레이 리오타, 67세로 별세]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013208080</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013208080"/>
+        <updated>2022-05-26T18:22:14.171Z</updated>
+        <content type="html"><![CDATA[(멕시코시티=연합뉴스) 고미혜 특파원 = 영화 '좋은 친구들', '꿈의 구장' 등으로 알려진 미국 배우 레이 리오타가 향년 67세로 별세했다고 26일(현지시간) 미국 언론들이 보도했다. 연예매체 할리우드리포터, 버라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영국 검찰, 케빈 스페이시 남성 3명 상대 성폭력 혐의로 기소]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013208048</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0006120477"/>
         <updated>2022-05-26T13:36:16.852Z</updated>
         <content type="html"><![CDATA[(칸=뉴스1) 이준성 프리랜서기자 = 감독 바즈 루어만이 26일(현지시간) 제 75회 칸 국제영화제가 열리고 있는 프랑스 남부 칸 ‘팔레 데 페스티벌’(Palais des Festival)에서 비경쟁 부문에 공식 초]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 '엘비스' 포토콜]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0006120478</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0006120478"/>
-        <updated>2022-05-26T13:36:16.853Z</updated>
-        <content type="html"><![CDATA[(칸=뉴스1) 이준성 프리랜서기자 = 배우 프리실라 프레슬리・오스틴 버틀러가 26일(현지시간) 제 75회 칸 국제영화제가 열리고 있는 프랑스 남부 칸 ‘팔레 데 페스티벌’(Palais des Festiv]]></content>
     </entry>
 </feed>

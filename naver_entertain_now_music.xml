@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-05-26T17:23:37.267Z</updated>
+    <updated>2022-05-26T18:22:15.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수지, 9년 만에 '유스케' 출격…강승원과 신곡 공개]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011212190</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011212190"/>
+        <updated>2022-05-26T18:21:58.168Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]김주희 인턴 기자 = 그룹 '미쓰에이' 출신 배우 겸 가수 수지가 9년 만에 KBS2 TV '유희열의 스케치북'(유스케)에 출연한다. 27일 오후 11시30분에 방송하는 '유스케'에는 김문정·옥주현,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[승리, 긴 재판→강제 전역...남은 옥살이 고작 9개월 [엑:스레이]]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001453618</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003561276"/>
         <updated>2022-05-26T10:19:14.815Z</updated>
         <content type="html"><![CDATA[[헤럴드POP=천윤혜기자] 그룹 아스트로(ASTRO)가 단독 콘서트의 다채로운 콘텐츠로 정규 3집 상승세를 이어간다. 아스트로는 오는 28일과 29일 세 번째 단독 콘서트 'The 3rd ASTROAD to Seou]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아우라X프라이데이, DJ 페스티벌 ‘크리스탈케이 페스티벌’ 출연]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000815682</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000815682"/>
-        <updated>2022-05-26T10:19:14.816Z</updated>
-        <content type="html"><![CDATA[가수 아우라(AOORA)와 프로듀서 프라이데이(FRIDAYYY)가 디제잉 공연으로 팬들을 만난다. 아우라와 프라이데는 오는 28일 양양 탄비치에서 열리는 크리스탈케이 페스티벌에서 디제잉 공연을 펼친다. 공연은 마브,]]></content>
     </entry>
 </feed>
