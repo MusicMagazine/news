@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-05-26T14:16:33.823Z</updated>
+    <updated>2022-05-26T15:18:51.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영국 검찰, 케빈 스페이시 남성 3명 상대 성폭력 혐의로 기소]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013208048</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013208048"/>
+        <updated>2022-05-26T15:18:51.092Z</updated>
+        <content type="html"><![CDATA[(런던=연합뉴스) 최윤정 특파원 = 영국 검찰은 26일(현지시간) 미국 할리우드 배우 케빈 스페이시(62)를 성폭력 혐의로 기소한다고 밝혔다. 스페이시는 2005년 3월부터 2013년 4월 사이에 영국 런던과 글로스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크리스틴 스튜어트, 과감히 풀어헤친 재킷…파격 노출 룩 '깜짝']]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004751503</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0006120478"/>
         <updated>2022-05-26T13:36:16.853Z</updated>
         <content type="html"><![CDATA[(칸=뉴스1) 이준성 프리랜서기자 = 배우 프리실라 프레슬리・오스틴 버틀러가 26일(현지시간) 제 75회 칸 국제영화제가 열리고 있는 프랑스 남부 칸 ‘팔레 데 페스티벌’(Palais des Festiv]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[취재진을 영상촬영하는 바즈 루어만]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0006120476</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0006120476"/>
-        <updated>2022-05-26T13:36:16.853Z</updated>
-        <content type="html"><![CDATA[(칸=뉴스1) 이준성 프리랜서기자 = 감독 바즈 루어만이 26일(현지시간) 제 75회 칸 국제영화제가 열리고 있는 프랑스 남부 칸 ‘팔레 데 페스티벌’(Palais des Festival)에서 비경쟁 부문에 공식 초]]></content>
     </entry>
 </feed>
