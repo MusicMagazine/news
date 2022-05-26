@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-05-26T01:15:23.804Z</updated>
+    <updated>2022-05-26T03:25:06.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[칸 찾은 크리스틴 스튜어트, 재킷 단추 풀고 파격 노출 [N해외연예]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0006118741</id>
+        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0006118741"/>
+        <updated>2022-05-26T03:25:06.226Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 할리우드 배우 크리스틴 스튜어트가 파격 패션을 선보였다. 미국 연예매체 스플래시닷컴은 24일(현지시간) 프랑스 남부 휴양도시 칸에서 열리고 있는 제75회 칸 국제영화제(이하 칸 영화제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['다음 소희' 소감 전하는 김동하 대표]]></title>
         <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0006118143</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0006117980"/>
         <updated>2022-05-25T23:16:58.948Z</updated>
         <content type="html"><![CDATA[(칸=뉴스1) 이준성 프리랜서기자 = 영화감독 정주리가 25일 오후(현지시간) 제75회 칸 국제영화제가 열리고 있는 프랑스 남부 칸 ‘팔레 데 페스티벌’(Palais des Festivals) 영화진흥위원회(KOFI]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['다음 소희' 김시은, 생애 첫 칸 해변에서 찰칵]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0006117979</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0006117979"/>
-        <updated>2022-05-25T23:16:58.949Z</updated>
-        <content type="html"><![CDATA[(칸=뉴스1) 이준성 프리랜서기자 = 배우 김시은이 25일 오후(현지시간) 제75회 칸 국제영화제가 열리고 있는 프랑스 남부 칸 ‘팔레 데 페스티벌’(Palais des Festivals) 영화진흥위원회(KOFIC)]]></content>
     </entry>
 </feed>
