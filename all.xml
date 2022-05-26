@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 08:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 09:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['블랭키' 데뷔앨범 심상찮은 행보 (KBS연예 ─ 음악)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=210572</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=210572</guid>
+            <pubDate>Thu, 26 May 2022 09:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=210572">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220526152559_5002f7aa95b2023eb8abe8a010ed8aa1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=210572">'블랭키' 데뷔앨범 심상찮은 행보</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220526152559_5002f7aa95b2023eb8abe8a010ed8aa1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세븐틴의 야심, 정규4집 ‘Face the Sun’ 발매 D-1 (KBS연예 ─ 음악)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=210435</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=208924">[쇼케이스] 아스트로 컴백...팬들 향한 사랑 고백 "너무 반갑고 그리웠다"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220517082523_dc872001651953d2725f8ab25f2ed0a7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브레이브걸스, 브아걸 '어쩌다' 재해석...완전히 색다른 곡 탄생! (KBS연예 ─ 음악)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=208918</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=208918</guid>
-            <pubDate>Sun, 22 May 2022 17:04:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=208918">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220517082232_59b9caf095936dd5d3294f0a3a2ad2dc.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=208918">브레이브걸스, 브아걸 '어쩌다' 재해석...완전히 색다른 곡 탄생!</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220517082232_59b9caf095936dd5d3294f0a3a2ad2dc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["IP의 힘" '키스 식스 센스', 네이버 웹소설, 웹툰에 이어 디즈니+ 오리지널 (KBS연예 ─ 연예)]]></title>
@@ -688,6 +688,14 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220509150904_2e974e7a295f181bab78850a9d6530db.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김준수, 강렬한 조명에서도 빛나는 존재감 (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/349015</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/349015</guid>
+            <pubDate>Thu, 26 May 2022 09:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/349015">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/05/26/c935ffc8-1019-417d-b004-2af557ab35b8.jpg" alt="김준수, 강렬한 조명에서도 빛나는 존재감">        <div class="text-box">            <p class="summary">김준수, 강렬한 조명에서도 빛나는 존재감</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/05/26/c935ffc8-1019-417d-b004-2af557ab35b8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[에이비식스, '세이비어' 스페셜 안무 영상 공개 (MBC 연예 ─ 아이돌)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/348983</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/348983</guid>
@@ -768,12 +776,32 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/05/25/d51edd7f-7440-4ff0-850f-08e4294feb77.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[움짤] 웬디, '샴페인꽃가루+잔망와니+극락빼꼼' 콤보 (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/348911</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/348911</guid>
-            <pubDate>Wed, 25 May 2022 18:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/348911">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/05/26/d8e7ee85-80de-45ed-9995-1b0e55e2fcab.jpg" alt="[움짤] 웬디, '샴페인꽃가루+잔망와니+극락빼꼼' 콤보">        <div class="text-box">            <p class="summary">[움짤] 웬디, '샴페인꽃가루+잔망와니+극락빼꼼' 콤보</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/05/26/d8e7ee85-80de-45ed-9995-1b0e55e2fcab.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['국민 첫사랑' 수지, 9년 만에 '스케치북' 뜬다 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220526180712292</link>
+            <guid>https://entertain.v.daum.net/v/20220526180712292</guid>
+            <pubDate>Thu, 26 May 2022 09:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 가수 겸 배우 수지가 9년 만에 '유희열의 스케치북'을 찾는다. 27일 방송되는 KBS2 음악프로그램 '유희열의 스케치북'(이하 '스케치북')에서는 김문정, 옥주현, 강승원, 수지, 황치열, 지소울이 게스트로 출연한다. 최근 진행된 녹화에서는 '서른 즈음에'의 작사·작곡가 강승원과 '국민 첫사랑' 수지가 등장해 시선을 끌었다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[승리, '성범죄 유죄 확정' 인스타 강제 퇴출 수순? (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220526175003719</link>
+            <guid>https://entertain.v.daum.net/v/20220526175003719</guid>
+            <pubDate>Thu, 26 May 2022 09:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 조혜진 기자) 성매매 알선 등 총 9개 혐의로 기소된 그룹 빅뱅 출신 승리(본명 이승현)가 징역형을 선고받았다. 이에 유죄 판결을 받은 성범죄자에 한해 계정 사용이 금지되는 인스타그램 사용 여부에도 이목이 모이고 있다. 26일 오전 대법원 1부(주심 노태악 대법관)는 성매매 알선 등의 혐의로 기소된 승리의 상고심에서 징역 1년 6개월을 선고한]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김가람 빠진 르세라핌, 5인조로도 충분해 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220526174617614</link>
+            <guid>https://entertain.v.daum.net/v/20220526174617614</guid>
+            <pubDate>Thu, 26 May 2022 09:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[(고양=뉴스1) 권현진 기자 = 걸그룹 르세라핌(LE SSERAFIM)이 5인조로도 완벽한 호흡을 선보였다. 르세라핌의 카즈하, 김채원, 허윤진, 사쿠라, 홍은채는 지난 25일 경기도 고양시 일산 MBC 드림센터에서 진행된 ‘쇼챔피언’(이하 쇼챔)에 출연했다. 이날 르세라핌은 데뷔 타이틀 곡 ‘FEARLESS’를 마치 원래 한 팀이 5인조였던 것처럼 풍]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[수지, 9년 만에 '유스케' 출격..신곡 '널 사랑하니까' 최초 공개 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220526174312506</link>
+            <guid>https://entertain.v.daum.net/v/20220526174312506</guid>
+            <pubDate>Thu, 26 May 2022 09:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=지민경 기자] 가수 수지가 9년 만에 '유희열의 스케치북'에 출연한다. 오는&nbsp;27일&nbsp;방송&nbsp;예정인&nbsp;KBS2 '유희열의&nbsp;스케치북'에서는&nbsp;김문정,&nbsp;옥주현부터&nbsp;강승원,&nbsp;수지,&nbsp;황치열,&nbsp;지소울까지&nbsp;만나볼&nbsp;수&nbsp;있다. 먼저 음악감독&nbsp;김문정과&nbsp;뮤지컬&nbsp;배우&nbsp;옥주현이&nbsp;스케치북을&nbsp;찾았다.&nbsp;두&nbsp;사람은&nbsp;첫&nbsp;곡으로&nbsp;휘트니&nbsp;휴스턴의&nbsp;‘Greatest&nbsp;Love&nbsp;of&nbsp;Al]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아도라, 이상한 나라의 앨리스? 독특한 동화 콘셉트 'Trouble? TRAVEL!' 티저 오픈 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
@@ -853,32 +881,81 @@
             <content:encoded><![CDATA[K팝 4세대 대표주자 스트레이 키즈의 방찬이 최고의 자체 제작 아이돌의 타이틀을 거머쥐었다. 스트레이 키즈의 리더 방찬이 무엇이든 다 잘하는 자체 제작 아이돌에 선정됐다. 방찬은 일간스포츠와 뮤빗이 지난 일주일 동안 전 세계 K팝 팬들의 투표로 진행한 ‘최고의 자체 제작 아이돌은?’(Which idol's stage name suits them the]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한때는 빅뱅..승리, 실형 받고 민간 교도소로 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220526144206307</link>
-            <guid>https://entertain.v.daum.net/v/20220526144206307</guid>
-            <pubDate>Thu, 26 May 2022 06:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김한길 기자] 해외 원정도박과 성매매 알선 등 혐의로 재판에 넘겨진 그룹 빅뱅 출신의 가수 승리(이승현)가 대법원에서 1년 6개월의 실형을 확정받았다. 대법원 1부는 26일, 상습도박과 성매매처벌법 위반 등 9개 혐의로 재판에 넘겨진 승리의 상고심에서 징역 1년 6개월을 선고한 원심을 확정했다. 대법원은 상습도박죄가 부당하다는 승리 측 주장에]]></content:encoded>
+            <title><![CDATA['다음 소희' 칸 눈도장 김시은 "세상에 나와야 했던 영화" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220526180712293</link>
+            <guid>https://entertain.v.daum.net/v/20220526180712293</guid>
+            <pubDate>Thu, 26 May 2022 09:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[칸에서 먼저 눈도장을 찍었다. 제75회 칸국제영화제(Cannes Film Festival·이하 칸영화제) 비평가주간 폐막작 '다음 소희(정주리 감독)'의 타이틀롤을 맡은 신예 김시은이 칸 현지에서 영화를 첫 공개, 국내 취재진들과 만나 설레고 흥분 된 마음을 고스란히 전했다. '다음 소희'는 콜센터로 현장실습을 나가게 된 여고생 소희(김시은)가 겪]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['엠카' 효연·아스트로·강다니엘 컴백, TNX 데뷔 무대까지 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220526141934319</link>
-            <guid>https://entertain.v.daum.net/v/20220526141934319</guid>
-            <pubDate>Thu, 26 May 2022 05:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] Mnet ‘엠카운트다운’이 다채로운 무대를 예고했다. 5월 26일 Mnet에 따르면 이날 방송되는 ‘엠카운트다운’에서 효연, 아스트로의 컴백 무대부터 솔로로 출격하는 예린, 신예 TNX의 데뷔 무대가 펼쳐진다. 강다니엘의 컴백 무대도 음악방송 최초로 만나볼 수 있어 팬들의 마음을 설레게 한다. 먼저 효연이 신곡 ‘딥(DEEP)’]]></content:encoded>
+            <title><![CDATA['너가속' 박주현 유니스 귀환, 채종협 재회 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220526180406213</link>
+            <guid>https://entertain.v.daum.net/v/20220526180406213</guid>
+            <pubDate>Thu, 26 May 2022 09:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 황서연 기자] ‘너에게 가는 속도 493km’ 박주현이 유니스에 돌아온다. 25일 방송한 KBS2 수목드라마 ‘너에게 가는 속도 493km’(극본 허성혜·연출 조웅, 이하 ‘너가속’) 11회 엔딩에서는 박태준(채종협)이 “너 없으면 안 된다”며 박태양(박주현)을 붙잡는 장면이 담겼다. 박태준과는 이루어질 수 없다는 생각에 헤어지려던 박태양은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴, 컴백 D-1..정규 4집 '페이스 더 선' 기대 포인트 세 가지 무엇? (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220526141435113</link>
-            <guid>https://entertain.v.daum.net/v/20220526141435113</guid>
-            <pubDate>Thu, 26 May 2022 05:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠한국 모신정 기자]&nbsp;그룹&nbsp;세븐틴(에스쿱스,&nbsp;정한,&nbsp;조슈아,&nbsp;준,&nbsp;호시,&nbsp;원우,&nbsp;우지,&nbsp;디에잇,&nbsp;민규,&nbsp;도겸,&nbsp;승관,&nbsp;버논,&nbsp;디노)&nbsp;정규&nbsp;4집&nbsp;'Face the Sun'의 컴백이 하루 앞으로 다가왔다. &nbsp; 세븐틴은 오는&nbsp;27일 오후&nbsp;1시 세상에 유일하고도 막대한 영향력을 끼치는&nbsp;'태양'과 같은 존재가 되겠다는 야심을 솔직하게 담은 정규&nbsp;4집]]></content:encoded>
+            <title><![CDATA['스토브리그'·'사괜' 이얼, 식도암 투병 끝 별세..58세 '충격 비보' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220526175754015</link>
+            <guid>https://entertain.v.daum.net/v/20220526175754015</guid>
+            <pubDate>Thu, 26 May 2022 09:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=장진리 기자] 배우 이얼(이응덕, 58)이 세상을 떠났다. 26일 스포티비뉴스 취재에 따르면 이얼은 이날 오전 별세했다. 향년 58세. 이얼은 2021년 드라마 '보이스 시즌4(이하 보이스4)' 종영 후 식도암으로 투병해 왔다. 병마를 이겨내겠다는 의지로 투병에 힘써왔으나 이날 끝내 눈을 감은 것으로 전해졌다. 1983년 연극 배우로]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[더 로즈 우성, 6월 단독 쇼케이스 개최 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220526135625438</link>
-            <guid>https://entertain.v.daum.net/v/20220526135625438</guid>
-            <pubDate>Thu, 26 May 2022 05:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[록밴드 더 로즈(The Rose) 우성이 오는 6월 단독 공연을 연다. 26일 더 로즈 측에 따르면 우성은 오는 6월 3일 오후 7시 서울 광진구 예스24 라이브홀에서 EP ‘MOTH’ 발매 기념 단독 쇼케이스를 개최한다. 우성은 이번 공연에서 새 앨범 ‘MOTH’에 수록된 신곡 무대와 스페셜 스테이지를 공개하며 더 로즈 팀으로서 2년 만에 무대를]]></content:encoded>
+            <title><![CDATA["같으면서도 새롭게"..'넥스트 투 노멀' 박칼린→남경주, 7년만 귀환 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220526175009725</link>
+            <guid>https://entertain.v.daum.net/v/20220526175009725</guid>
+            <pubDate>Thu, 26 May 2022 09:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 하지원 기자) 가족 구성원들의 아픔과 화해, 그리고 사랑을 이야기하는 '넥스트 투 노멀'이 7년 만에 돌아왔다. 26일 광림아트센터 BBCH홀에서 뮤지컬 '넥스트 투 노멀' 프레스콜 및 기자간담회가 열렸다. 이날 행사에는 박준영 협력연출, 이나영 음악감독, 박칼린, 최정원, 남경주, 이건명, 양희준, 노윤, 이석준, 이서영, 이아진, 이정]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이찬원, 혹시 여자친구? 의문의 원룸서 반찬 만든 사연.. '편스토랑' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220526174700636</link>
+            <guid>https://entertain.v.daum.net/v/20220526174700636</guid>
+            <pubDate>Thu, 26 May 2022 09:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=이혜미 기자] ‘편스토랑’ 이찬원이 의문의 원룸을 방문, 반찬을 채워주며 의혹에 휩싸인다. 오는 27일 방송되는 KBS 2TV ‘신상출시 편스토랑’(이하 ‘편스토랑’)에서는 ‘6월의 메뉴’ 출시를 위한 대결이 시작된다. 어남선생 류수영, 레시피 여왕 박복순 박솔미, 국민아들 찬또배기 이찬원이 치열한 경쟁을 예고한 가운데 NEW 편셰프로 27년]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[육중완 "15kg 감량 후 유지중, 먹어도 잘 안 찐다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220526173904361</link>
+            <guid>https://entertain.v.daum.net/v/20220526173904361</guid>
+            <pubDate>Thu, 26 May 2022 09:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 육중완밴드 육중완이 15kg 감량 후 유지 중이라고 밝혔다. 5월 26일 방송된 SBS 파워FM '최화정의 파워타임' 코너 '장미쌀롱'에는 육중완, 강준우가 게스트로 출연했다. 15kg 감량 후 유지 중이라는 육중완은 "이제는 먹어도 잘 안 찐다. 양이 줄었나?"라고 했고 DJ 최화정은 "3~5kg만 빼도 인물이 나는 사람이 있는가]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[수지, 9년 만에 '유스케' 출연.. 강승원과 컬래버 무대 大공개 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220526173600245</link>
+            <guid>https://entertain.v.daum.net/v/20220526173600245</guid>
+            <pubDate>Thu, 26 May 2022 09:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=이혜미 기자] 오는 27일 방송 예정인 KBS2 ‘유희열의 스케치북’에서는 김문정, 옥주현부터 강승원, 수지, 황치열, 지소울까지 만나볼 수 있다. 음악감독 김문정과 뮤지컬 배우 옥주현이 스케치북을 찾았다. 두 사람은 첫 곡으로 휘트니 휴스턴의 ‘Greatest Love of All’을 선곡해 드라마틱한 무대를 선보였다. 특히 옥주현 특유의 풍]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['♥이천수' 심하은, 코 상태 심각한가? "빨리 수술해!" 충격 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220526173543235</link>
+            <guid>https://entertain.v.daum.net/v/20220526173543235</guid>
+            <pubDate>Thu, 26 May 2022 09:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 사진제공 : KBS 2TV 〈살림남2〉사진제공 : KBS 2TV 〈살림남2〉사진제공 : KBS 2TV 〈살림남2〉KBS2 '살림하는 남자들2' 이천수가 심하은 검사 결과에 얼굴이 굳어졌다. 28일 ‘살림하는 남자들 시즌2’(이하 ‘살림남2′)에서는 후각에 이상이 생긴 심하은과 함께 병원을 찾은 이천수의 이야기가 그려진다. 최근 들어 심하은은]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['이공삼칠' 홍예지부터 전소민, 반가운 연대 "참아도 눈물나" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220526173407188</link>
+            <guid>https://entertain.v.daum.net/v/20220526173407188</guid>
+            <pubDate>Thu, 26 May 2022 09:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[여배우들이 힘을 모았다. '하모니', '7번방의 선물'을 잇는 감옥 소재 감동 영화로 인정 받겠다는 포부다. 6월 8일 개봉하는 영화 '이공삼칠(모홍진 감독)'은 열아홉 소녀에게 일어난 믿기 힘든 현실, 그리고 다시 일어설 희망을 주고 싶은 감방 동기들의 이야기를 그린 휴먼 드라마다. 영화는 가장 절망의 순간 만난 한줄기 희망에 대해 이야기한다. ']]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오윤아·이민정·이소연이 요트 위에? 이 '워맨스' 옳은 이유 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220526173049033</link>
+            <guid>https://entertain.v.daum.net/v/20220526173049033</guid>
+            <pubDate>Thu, 26 May 2022 09:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=연휘선 기자] 미모만 아름다운 줄 알았더니 가족도 함께 하는 우정까지 아름답다.&nbsp;배우 오윤아가 이민정, 이소연 등 동료 연기자들과 요트를 즐기며 때 아닌 훈훈함을 선사했다. 26일 오윤아는 SNS에 "뭔가 너무 좋았던 날"이라며 사진들을 게재했다. 공개된 사진에는 오윤아가 이민정, 이소연과 요트에서 석양을 즐기는 모습이 담겼다.&nbsp; 사진 속 오]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[B.A.P 힘찬, 재판 중 또 강제 추행 혐의 입건..반성은 없나 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220526172803910</link>
+            <guid>https://entertain.v.daum.net/v/20220526172803910</guid>
+            <pubDate>Thu, 26 May 2022 09:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 백지연 기자] B.A.P 멤버 힘찬이 강제 추행 재판 중 같은 혐의로 또 입건됐다. 이번엔 피해자 2명이 고소했다. 26일 경찰에 따르면 서울 용산경찰서는 힘찬에게 강제추행을 당했다고 주장하는 여성 2명이 신고를 접수하고 사실 관계를 파악하기 위해 폐쇄회로(CCTV) 자료 등을 확보해 수사 중이라고 알렸다. 힘찬은 지난 4월 17일 서울]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[박명수 "나보다 어린 PD에게 불려가 혼나" 폭로 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
@@ -909,83 +986,6 @@
             <content:encoded><![CDATA[(엑스포츠뉴스 하지원 기자) 박칼린이 7년 만에 '넥스트 투 노멀' 무대에 오른 소감을 전했다. 26일 광림아트센터 BBCH홀에서 뮤지컬 '넥스트 투 노멀' 프레스콜 및 기자간담회가 열렸다. 이날 행사에는 박준영 협력연출, 이나영 음악감독, 박칼린, 최정원, 남경주, 이건명, 양희준, 노윤, 이석준, 이서영, 이아진, 이정화, 김현진, 최재웅, 윤석원,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['카시오페아' 서현진 "스크린 데뷔작이라 생각..로코여신? 생각해본적 없어" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220526170301823</link>
-            <guid>https://entertain.v.daum.net/v/20220526170301823</guid>
-            <pubDate>Thu, 26 May 2022 08:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=김현록 기자]배우 서현진이 스크린에 데뷔하는 기분이라고 털어놨다. 서현진은 영화 '카시오페아'(감독 신연식) 개봉을 앞둔 26일 스포티비뉴스와 화상 인터뷰를 갖고 이같이 말했다. 그룹 밀크 출신으로, 연기자로 변신한 뒤 믿고 보는 드라마 퀸의 입지를 굳힌 서현진이 스크린에서 이처럼 비중있는 캐릭터를 맡은 것은 이번이 처음. 서현진은]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["마음의 병 치유받길"..'넥스트 투 노멀' 7년만의 귀환 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220526165706585</link>
-            <guid>https://entertain.v.daum.net/v/20220526165706585</guid>
-            <pubDate>Thu, 26 May 2022 08:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[뮤지컬 '넥스트 투 노멀'이 7년만에 무대로 돌아왔다. 26일 오후 서울 강남구 광림아트센터 BBCH홀에서 뮤지컬 '넥스트 투 노멀' 프레스콜이 열렸다. 박준영 협력연출, 이나영 음악감독, 배우 박칼린, 최정원, 남경주, 이건명, 양희준, 노윤, 이석준, 이서영, 이아진, 이정화, 김현진, 최재웅, 윤석원, 박인배 등이 참석했다. 뮤지컬 '넥스트 투 노멀]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["성범죄자 이용 못해"..고영욱·정준영 이어 승리도 인스타서 퇴출? (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220526165554538</link>
-            <guid>https://entertain.v.daum.net/v/20220526165554538</guid>
-            <pubDate>Thu, 26 May 2022 08:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 빅뱅 출신 승리(32·본명 최승현)가 해외 원정도박과 성매매 알선 등 혐의로 징역형을 선고받으면서 그의 인스타그램 계정도 폐쇄될 것으로 보인다. 인스타그램 정책에 따르면 유죄 판결을 받은 성범죄자의 계정 사용은 금지되기 때문이다. 앞서 성범죄로 실형을 선고받았던 고영욱와 정준영, 최종훈의 인스타그램 계정도 비활성화된 바 있다. ━'도박·성매매' 승리]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['어서와' 기욤, 럭키→수잔과 브라더 샤워 파티 중 돌연 쌀 세례? (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220526165512510</link>
-            <guid>https://entertain.v.daum.net/v/20220526165512510</guid>
-            <pubDate>Thu, 26 May 2022 08:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 임시령 기자] '어서와 한국은 처음이지' 기욤의 브라더 샤워 파티에서 뜨거운 토론이 오간다. 26일 방송되는 MBC에브리원 예능프로그램 '어서와 한국은 처음이지'(이하 '어서와')에는 한국살이 베테랑 기욤, 럭키, 다니엘, 알베르토, 그리고 수잔이 뭉친다. 이들은 품절남 대열에 합류한 기욤을 위해 특별한 하루를 준비한다. 이날 방송에서는 비]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['백패커', 또 한 번 '백종원 매직' 발휘할까 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220526165405472</link>
-            <guid>https://entertain.v.daum.net/v/20220526165405472</guid>
-            <pubDate>Thu, 26 May 2022 08:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 서지현 기자] 요식업계 큰손 백종원이 또 한 번 자신의 이름을 건 예능 나들이에 나선다. 과거 '예능 흥행 보증 수표'로 불렸던 백종원 카드가 한차례 요리 예능 붐을 지난 시점에서 또 한 번 '종원 매직'을 발휘할지 이목이 집중된다. 26일 tvN 새 예능프로그램 '백패커'가 첫 방송된다. '백패커'는 장소도, 손님도 생소한 현장에서 제한된]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[하늘길 열리며 해외여행예능도 재개..답답함 뚫릴까 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220526163822788</link>
-            <guid>https://entertain.v.daum.net/v/20220526163822788</guid>
-            <pubDate>Thu, 26 May 2022 08:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[‘엔데믹’으로 하늘길이 열리면서 각종 해외여행예능이 안방극장을 찾아온다. 그동안 랜선여행을 통해 갈증을 해소하던 시청자들이 대리만족할 수 있을 것으로 보여진다. 시청자들의 욕구를 가장 빠르게 간파한 것은 tvN ‘뜻밖의 여정’이었다. 제94회 아카데미 시상식 시상자로 무대에 오른 윤여정의 오스카 여정을 함께한 ‘뜻밖의 여정’을 시작으로 JTBC ‘플라]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['컴백' 홍진영, 맘고생 or 스타일 변화? 팔뚝 두께 이목ing (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220526162943335</link>
-            <guid>https://entertain.v.daum.net/v/20220526162943335</guid>
-            <pubDate>Thu, 26 May 2022 08:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=연휘선 기자] 트로트 가수 홍진영이 논문 표절&nbsp;논란 이후 복귀한 가운데 연일 홀쭉해진 비주얼로 화제를 모으고 있다.&nbsp; 홍진영은 지난 25일 공식 SNS에 "모두들 행복한 날 보내세요"라며 사진 한 장을 게재했다.&nbsp;공개된 사진에는 홍진영이 카페를 찾은 듯한 모습이 담겼다.&nbsp; 사진 속 홍진영은 전에 비해 가녀린 분위기와 미모로 시선을 모았다. 민]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연애본능 예능 '에덴' 나온다..이홍기-윤보미-시미즈 MC (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220526162913319</link>
-            <guid>https://entertain.v.daum.net/v/20220526162913319</guid>
-            <pubDate>Thu, 26 May 2022 08:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=장진리 기자] IHQ에서 새로운 연애 리얼리티 예능을 론칭한다. 26일 스포티비뉴스 취재에 따르면 그룹 FT아일랜드 이홍기, 그룹 에이핑크 윤보미, 라치카 시미즈가 '에덴'에 출연한다. '에덴'은 돈, 명예, 직업, 나이 등 어떠한 조건도 알지 못한 채 여덟 명의 남녀가 '에덴 하우스'에서 함께 지내며 본능에 따라 서로를 탐색하고 진정]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['친중 논란' 헨리, '플투댄'으로 복귀..여전한 갑론을박 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220526162705222</link>
-            <guid>https://entertain.v.daum.net/v/20220526162705222</guid>
-            <pubDate>Thu, 26 May 2022 08:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 임시령 기자] 가수 헨리가 '플라이 투 더 댄스'로 복귀 준비를 마쳤다. 친중 논란 이후 오랜만에 첫 한국 예능이지만, 여전히 온라인에선 갑론을박이 일고 있다. 26일 티빙은 JTBC 예능프로그램 '플라이 투 더 댄스'(이하 '플투댄') 캐릭터 포스터를 공개했다. JTBC 예능프로그램 '플라이 투 더 댄스'는 댄서들이 모여 스트릿 댄스의]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[시탈라·치우 탈퇴→티오원 활동중단, 아이돌 잇따른 재정비 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220526162703217</link>
-            <guid>https://entertain.v.daum.net/v/20220526162703217</guid>
-            <pubDate>Thu, 26 May 2022 08:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 윤혜영 기자] 아이돌 그룹의 멤버 탈퇴와 활동 중단 소식이 이어지고 있다. 먼저 25일 그룹 하이키 시탈라가 탈퇴한다고 밝혔다. 소속사 GLG는 "시탈라가 개인 사정으로 인해 팀에서 탈퇴하게 됐음을 알려드린다"며 "당사는 아티스트 본인 및 멤버들과 긴 시간 동안 깊이 있게 논의했고 전체적인 상황을 판단해 이러한 결론을 내리게 됐다. 무엇보다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['컬투쇼' 권인하X김현정, 열정의 뜨싱즈→속시원 라이브 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220526162407098</link>
-            <guid>https://entertain.v.daum.net/v/20220526162407098</guid>
-            <pubDate>Thu, 26 May 2022 08:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[가수 권인하와 김현정이 '컬투쇼'에서 시원한 가창력과 입담을 뽐냈다. 26일 방송된 SBS 파워FM '두시탈출 컬투쇼'(이하 '컬투쇼')에는 스페셜 DJ로 황치열이, 게스트로 권인하, 김현정이 출연해 입담을 뽐냈다. DJ 김태균은 "듣는 에어컨으로 두 분을 모셨다"라며 권인하, 김현정을 소개했다. 권인하는 최근 출연 중인 JTBC 예능프로그램 '뜨거운 씽]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA["조니 뎁이 전여친 케이트 모스 계단서 밀었다" 엠버 허드 주장은 '거짓' (다음 연예 ─ 뉴스 ─ 해외)]]></title>
             <link>https://entertain.v.daum.net/v/20220526134257061</link>
             <guid>https://entertain.v.daum.net/v/20220526134257061</guid>
@@ -1005,6 +1005,69 @@
             <guid>https://entertain.v.daum.net/v/20220526083316289</guid>
             <pubDate>Thu, 26 May 2022 01:14:57 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=최나영 기자] 19명의 아이들을 키우는 가정을 조명한 TLC채널 리얼리티쇼&nbsp;'19 키즈 앤 카운팅'으로 큰 인기를 얻은&nbsp;조쉬 더거(Josh Duggar, 34)가 아동 성착취물&nbsp;사건으로 12년형을 선고받았다고 페이지식스 등 외신이 25일(현지시간) 전했다. 더거는 6일간의 재판 끝에 2021년 12월 유죄 판결을 받았다. 배심원들은 그를&nbsp;7시]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[송가인, ‘비 내리는 금강산’ "부를 때마다 먹먹해" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=408&amp;aid=0000156516</link>
+            <guid>https://entertain.naver.com/now/read?oid=408&amp;aid=0000156516</guid>
+            <pubDate>Thu, 26 May 2022 09:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[가수 송가인이 콘서트를 앞두고 ‘비 내리는 금강산’에 대한 애틋한 마음을 드러냈다. 송가인은 오는 28일(토) 오후 5시 서울 잠실 학생체육관에서 열리는 ‘2022 송가인 전국투어 콘서트-연가(戀歌)’로 팬들을 만난]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[밴드 해리빅버튼 이성수, 첫 언플러그드 앨범 ‘Only Lovers Left Alive’ 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000815672</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000815672</guid>
+            <pubDate>Thu, 26 May 2022 09:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[대한민국 하드록의 자존심 록밴드 해리빅버튼의 프론트맨 이성수가 인상적인 앨범을 발표했다. 이성수의 첫 솔로 언플러그드 미니앨범 ‘Only Lovers Left Alive’가 26일 발매됐다. ‘Only Lovers]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나인, 신곡 '나의 사랑을 미워하지 말아요' MV 공개…아트X음악의 결합 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003607759</link>
+            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003607759</guid>
+            <pubDate>Thu, 26 May 2022 09:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 강다윤 기자] 가수 나인(NINE9)의 신곡 뮤직비디오가 이목을 사로잡고 있다. 나인은 25일 정오 온라인 음원사이트 및 공식 유튜브 채널 등을 통해 새 디지털 싱글 '나의 사랑을 미워하지 말아요']]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[제이씨 유카, 정규 2집 발매…트리플 타이틀곡 '기대감 UP' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001453532</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001453532</guid>
+            <pubDate>Thu, 26 May 2022 09:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 래퍼 겸 프로듀서 제이씨 유카(Jayci Yucca)의 정규 2집이 베일을 벗는다. 제이씨 유카는 26일 오후 6시 온라인 음원사이트를 통해 두 번째 정규앨범 ‘The Last Boy I]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[빽가, 제주에 5천평 규모 카페 오픈..입 떡 벌어지는 스케일[스타IN★] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003057091</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003057091</guid>
+            <pubDate>Thu, 26 May 2022 09:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 코요태 멤버 빽가가 제주도 카페 사장님이 됐다. 빽가는 26일 자신의 인스타그램에 "1년 2개월간의 준비를 마치고 드디어 오늘 오픈합니다"라며 카페를 열었다고 알렸다. 함께 공개한 사진 속에는 2층짜리 카페 사]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[승리, '성범죄 유죄 확정' 인스타 강제 퇴출 수순? [엑's 이슈] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001453529</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001453529</guid>
+            <pubDate>Thu, 26 May 2022 09:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 조혜진 기자) 성매매 알선 등 총 9개 혐의로 기소된 그룹 빅뱅 출신 승리(본명 이승현)가 징역형을 선고받았다. 이에 유죄 판결을 받은 성범죄자에 한해 계정 사용이 금지되는 인스타그램 사용 여부에도 이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[손동운, 오늘 미니 2집 예판 시작…'써니·클라우드' 2종 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011211788</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011211788</guid>
+            <pubDate>Thu, 26 May 2022 09:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]장인영 인턴 기자 = 그룹 하이라이트 멤버 손동운이 미니 2집 피지컬 앨범을 공개했다. 26일 소속사 어라운드어스에 따르면, 손동운은 이날 정오 각종 온라인 음반 판매처를 통해 오는 6월 6일 오후 6]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[기탁, 새 싱글 '시소' 콘셉트 포토 공개…또 다른 나 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011211786</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011211786</guid>
+            <pubDate>Thu, 26 May 2022 09:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]김주희 인턴 기자 = 싱어송라이터 기탁(KiTak)이 신곡의 베일을 벗었다. 기탁은 지난 25~26일 이틀에 걸쳐 모스뮤직 공식 SNS를 통해 오는 31일 낮 12시 발매되는 새 싱글 '시소'의 티저]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[하휘동·허니제이·김설진 출격…'쇼다운' 최종 우승자는? (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011211768</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011211768</guid>
+            <pubDate>Thu, 26 May 2022 09:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]장인영 인턴 기자 = JTBC 댄스 서바이벌 프로그램 '쇼다운'의 파이널 무대가 시작된다. 26일 JTBC에 따르면, 27일 오후 10시50분에 방송되는 '쇼다운'에서는 파이널에 진출한 톱4 갬블러크루]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[송가인 "'비 내리는 금강산' 부를 때마다 마음이 먹먹해" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
@@ -1119,242 +1182,179 @@
             <content:encoded><![CDATA[[마이데일리 = 오윤주 기자] 가수 송가인이 콘서트를 앞두고 팬들에게 기대를 당부했다. 송가인은 오는 28일 오후 5시 서울 잠실 학생체육관에서 열리는 '2022 송가인 전국투어 콘서트-연가(戀歌)'로 팬들을 만난다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[POP초점]'실형' 승리, 2년 4개월만 끝난 '버닝썬' 논란‥인스타까지 잃을까 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003561226</link>
-            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003561226</guid>
-            <pubDate>Thu, 26 May 2022 08:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드POP=김나율기자]그룹 빅뱅 출신 승리가 민간교도소로 이감된 가운데, 그의 인스타그램 계정이 차단될 지 이목이 쏠리고 있다. 26일 오전 대법원 1부는 상습도박과 성매매처벌법 위반(성매매·성매매 알선·카메라]]></content:encoded>
+            <title><![CDATA["모쏠 아님" 홍현희, 임신 중 ♥제이쓴과 데이트..볼록 D라인 [스타IN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003057096</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003057096</guid>
+            <pubDate>Thu, 26 May 2022 09:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[개그우먼 홍현희가 남편인 인테리어 디자이너 제이쓴과 데이트를 즐겼다. 홍현희는 26일 자신의 인스타그램을 통해 "내사랑 이트니 덕분에 오늘 귀엽고 이쁜 거 많이 봤네. 한남동 구석구석 소개해줘서 고마워"라는 글과 함]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘역주행돌’ DKZ, 어쿠스틱 버전 ‘사랑도둑’ 공개 동시에 완판 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=415&amp;aid=0000010675</link>
-            <guid>https://entertain.naver.com/now/read?oid=415&amp;aid=0000010675</guid>
-            <pubDate>Thu, 26 May 2022 08:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[[앳스타일 박승현 기자] DKZ(디케이지)가 활동을 마무리했음에도 불구하고 서버를 다운시키며 화제성을 입증했다. 소속사 동요 엔터테인먼트에 따르면 DKZ는 26일 정오 스페셜 에디션 ‘CHASE EPISODE 2.]]></content:encoded>
+            <title><![CDATA[김지호♥김호진, 한강서 럭셔리 데이트.."낮 샴페인 한 잔에 세상을 얻은 기분" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003873354</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003873354</guid>
+            <pubDate>Thu, 26 May 2022 09:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 정유나 기자] 배우 김지호 김호진 부부가 로맨틱한 데이트를 즐겼다. 김지호는 26일 자신의 인스타그램에 "바람이 솔솔~데이트~^^"라는 글과 함께 사진을 게재했다. 공개된 사진 속 김지호와 김호진은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['승츠비'의 추락…스타 출신 사업가에서 퇴출 이어 징역형 확정 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013207391</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013207391</guid>
-            <pubDate>Thu, 26 May 2022 08:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[승리, 빅뱅 인기 힘입어 한때 손대는 사업마다 승승장구 '버닝썬' 사태 연루되며 사생활 논란…대법서 유죄 확정빅뱅 출신 승리(이승현)[연합뉴스 자료사진] photo@yna.co.kr(서울=연합뉴스) 김예나 기자 = 한류 열풍을 이끈 그룹 빅뱅의 멤버, 수많은 가맹점을 운영하는 요식업체 대표, 그리고 '버닝썬' 사태의 핵심...]]></content:encoded>
+            <title><![CDATA[SBS 문화재단 ‘2022 드라마 극본공모’, 당선작 9편 선정 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000614247</link>
+            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000614247</guid>
+            <pubDate>Thu, 26 May 2022 09:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[SBS문화재단이 주최한 ‘2022년도 드라마 극본공모’에서 최종적으로 9편이 선정되었다. SBS 문화재단은 단막극 2부작 부문 4편, 미니시리즈 부문에서 5편 등 총 9편을 선정했다. 단막극 부문 최우수작품에 임송]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['대세 역주행돌' DKZ, 재찬·경윤 '사랑도둑' 어쿠스틱ver 공개 동시 완판+서버 다운 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003561219</link>
-            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003561219</guid>
-            <pubDate>Thu, 26 May 2022 08:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드POP=김지혜 기자] ‘역주행돌’ DKZ(디케이지)가 활동 마무리에도 불구하고 서버를 다운시킬 정도의 화제성을 입증했다. 소속사 동요 엔터테인먼트에 따르면 DKZ(경윤, 세현, 민규, 재찬, 종형, 기석)는]]></content:encoded>
+            <title><![CDATA[유이, 8kg 요요 와도 백바지 입네…대체 얼마나 말랐던 거야[★SNS] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000814329</link>
+            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000814329</guid>
+            <pubDate>Thu, 26 May 2022 09:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 심언경기자] 그룹 애프터스쿨 출신 배우 유이가 근황을 전했다. 유이는 26일 자신의 SNS에 “날씨 좋다”라는 글과 함께 사진 한 장을 게재했다. 공개된 사진 속 유이는 아파트 화단으로 보이는 곳에서]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[더로즈 우성, 내달 '모스' 발매 기념 쇼케이스 개최 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011211520</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011211520</guid>
-            <pubDate>Thu, 26 May 2022 08:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]장인영 인턴 기자 = 록밴드 더로즈(The Rose)의 멤버 우성이 오는 6월 단독 공연을 연다. 26일 더로즈 측에 따르면, 우성은 오는 6월 3일 오후 7시 서울 광진구 예스24 라이브홀에서 미니앨]]></content:encoded>
+            <title><![CDATA[[인터뷰] '다음 소희' 칸 눈도장 김시은 "세상에 나와야 했던 영화" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000300179</link>
+            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000300179</guid>
+            <pubDate>Thu, 26 May 2022 09:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[칸에서 먼저 눈도장을 찍었다. 제75회 칸국제영화제(Cannes Film Festival·이하 칸영화제) 비평가주간 폐막작 '다음 소희(정주리 감독)'의 타이틀롤을 맡은 신예 김시은이 칸 현지에서 영화를 첫 공개]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아도라, 이상한 나라의 앨리스? 독특한 동화 콘셉트 'Trouble? TRAVEL!' 티저 오픈 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004623077</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004623077</guid>
-            <pubDate>Thu, 26 May 2022 07:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=이승훈 기자] 아티스트 ADORA(아도라)의 첫 번째 콘셉트 티저 이미지가 공개됐다. 26일 자정 공식 SNS를 통해 오픈된 첫 번째 콘셉트 티저에는 오렌지 컬러의 헤어로 변신한 아도라의 통통 튀는 모습과]]></content:encoded>
+            <title><![CDATA['성폭행' 강지환, 제작사 상대 2심도 패소…"전 소속사와 53억 연대배상" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006120228</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006120228</guid>
+            <pubDate>Thu, 26 May 2022 09:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 이준성 기자 = 성범죄 혐의로 징역 2년6개월에 집행유예 3년을 선고받았던 배우 강지환씨(본명 조태규)가 2심에서도 패소해 최대 53억4000여만원의 배상책임을 지게 됐다. 서울고법 민사19-2부(부]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[정다경X영기X안성훈, '평화콘서트' 출격 …'열일' 행보 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=629&amp;aid=0000151785</link>
-            <guid>https://entertain.naver.com/now/read?oid=629&amp;aid=0000151785</guid>
-            <pubDate>Thu, 26 May 2022 07:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[6월 11일 철원서 개최, 강원도 흥으로 물들인다 가수 정다경과 영기, 안성훈이 '평화콘서트'에 출연해 '트로트 흥'을 발산한다. 26일 소속사 생각엔터테인먼트는 정다경과 영기, 안성훈이 오는 6월 11일 철원에서]]></content:encoded>
+            <title><![CDATA[[방송소식] 수지 '유희열의 스케치북' 출연 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013207705</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013207705</guid>
+            <pubDate>Thu, 26 May 2022 09:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[채널 IHQ 연애 리얼리티 '에덴' 내달 첫 방송…MBC C&amp;I 극본공모 채널A·샌드박스네트워크, 강철부대 NFT 발행 (서울=연합뉴스) 오명언 기자 = ▲ 수지 '유희열의 스케치북' 출연 = KBS 2TV '유희열]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[DKZ 재찬X경윤 참여 ‘사랑도둑’ 어쿠스틱 앨범 완판+서버 다운 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000580688</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000580688</guid>
-            <pubDate>Thu, 26 May 2022 07:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이민지 기자] ‘역주행돌’ DKZ(디케이지)가 활동을 마무리했음에도 뜨거운 화제성을 이어가고 있다. 5월 26일 소속사 동요 엔터테인먼트에 따르면 DKZ(경윤, 세현, 민규, 재찬, 종형, 기석)는 이날 정]]></content:encoded>
+            <title><![CDATA[[단독]'스토브리그'·'사괜' 이얼, 식도암 투병 끝 별세…58세 '충격 비보'(종합) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000361460</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000361460</guid>
+            <pubDate>Thu, 26 May 2022 09:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=장진리 기자] 배우 이얼(이응덕, 58)이 세상을 떠났다. 26일 스포티비뉴스 취재에 따르면 이얼은 이날 오전 별세했다. 향년 58세. 이얼은 2021년 드라마 '보이스 시즌4(이하 보이스4)' 종영]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[베리베리, 초동 10만 장 달성→데뷔 첫 한터차트 인증패 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000814269</link>
-            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000814269</guid>
-            <pubDate>Thu, 26 May 2022 07:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 정하은기자]그룹 베리베리(VERIVERY)가 한터차트 브론즈 인증패를 수상하며 ‘4세대 대표 보이그룹’의 존재감을 공고히 했다. 베리베리는 첫 번째 정규앨범 ‘VERIVERY SERIES O [ROU]]></content:encoded>
+            <title><![CDATA['사업가♥'클라라, 한쪽 어깨 끈 내리고 유혹?…오묘한 눈빛까지 '100점'[TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000549233</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000549233</guid>
+            <pubDate>Thu, 26 May 2022 09:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=류예지 기자] 클라라가 독보적인 몸매를 자랑했다. 26일 클라라는 자신의 인스타그램을 통해 하트 이모티콘과 함께 한 장의 사진을 게재했다. 공개된 사진 속 클라라는 꽃무늬 민소매 원피스를 입은 모습. 그는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[홍예지 ‘데뷔작에 주연으로’ [포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000982524</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000982524</guid>
-            <pubDate>Thu, 26 May 2022 08:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[배우 홍예지가 26일 서울 용산구 CGV용산아이파크몰점에서 열린 영화 ‘이공삼칠’ 언론시사회에서 인사말을 하고 있다. 주현희 기자 teth1147@donga.com]]></content:encoded>
+            <title><![CDATA['스토브리그' 이얼, 식도암 투병 끝 별세…향년 58세 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004704304</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004704304</guid>
+            <pubDate>Thu, 26 May 2022 09:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '경관의 피', 드라마 '스토브리그' 등 스크린과 브라운관을 오가며 활약해온 배우 이얼(본명 이응덕)이 암 투병 끝에 세상을 떠났다. 향년 58세. 26일 소속사 스타잇엔터테인먼트에 따르면 이얼은 지난해 방영된]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 전소민 '숨길수 없는 미모' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003873334</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003873334</guid>
-            <pubDate>Thu, 26 May 2022 08:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[배우 전소민이 26일 용산CGV에서 열린 영화 '이공삼칠'의 언론시사회에서 포토타임을 갖고 있다. 영화 '이공삼칠'은 청각 장애가 있는 엄마와 단 둘이 살며 공무원 시험을 준비하는 열아홉 소녀 윤영이 뜻밖의 사고를]]></content:encoded>
+            <title><![CDATA['한국의 이소룡' 배우 신일룡 별세, 향년 74세…가수 조정현 형님상 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000361457</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000361457</guid>
+            <pubDate>Thu, 26 May 2022 09:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=김현록 기자]'한국의 이소룡' 배우 신일룡(본명 조수현)이 별세했다. 향년 74세. 26일 유족 측에 따르면 고(故) 신일룡은 지난해 간암 판정을 받고 투병하던 중 이날 오전 별세했다. 고려대 경제학과]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 황석정 '우리 영화 최고' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003873333</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003873333</guid>
-            <pubDate>Thu, 26 May 2022 08:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[배우 황석정이 26일 용산CGV에서 열린 영화 '이공삼칠'의 언론시사회에서 포토타임을 갖고 있다. 영화 '이공삼칠'은 청각 장애가 있는 엄마와 단 둘이 살며 공무원 시험을 준비하는 열아홉 소녀 윤영이 뜻밖의 사고를]]></content:encoded>
+            <title><![CDATA[한유라, 정형돈 건강 우려에 "남들 시선 뭐가 중요...우리만 행복하면 됐지" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001744240</link>
+            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001744240</guid>
+            <pubDate>Thu, 26 May 2022 09:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[개그맨 정형돈 씨의 아내 한유라 씨가 남편의 건강을 둘러싼 구설에 대해 직접 입을 열었다. 한유라 씨는 26일 자신의 SNS에 "남편은 운동을 나는 혼술을 안 하기로 다짐. 슬슬 턱살 나온다며"라는 글을 남겼다. 이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 황석정 '이공칠삼 최고!' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003699537</link>
-            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003699537</guid>
-            <pubDate>Thu, 26 May 2022 08:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[배우 황석정이 26일 오후 서울 용산 CGV에서 열린 영화 ’이공삼칠’의 언론시사회에 참석해 포즈를 취하고 있다.]]></content:encoded>
+            <title><![CDATA[빽가, 제주 5천평 카페 사장님 됐다 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004969617</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004969617</guid>
+            <pubDate>Thu, 26 May 2022 09:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[코요태 빽가가 카페 사장님이 된 근황을 전했다. 26일 빽가는 인스타그램을 통해 “1년 2개월간 준비를 마치고 드디어 오늘 오픈합니다”라고 알리며 카페 내외부 사진을 공개했다. 5천평 규모의 탁 트인 정원을 품은 카]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[홍예지 ‘첫 스크린 데뷔’ [포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000982523</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000982523</guid>
-            <pubDate>Thu, 26 May 2022 08:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[배우 홍예지가 26일 서울 용산구 CGV용산아이파크몰점에서 열린 영화 ‘이공삼칠’ 언론시사회에서 포즈를 취하고 있다. 주현희 기자 teth1147@donga.com]]></content:encoded>
+            <title><![CDATA[이도현, '남친짤' 장인 맞네…베일듯한 턱선 [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000549232</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000549232</guid>
+            <pubDate>Thu, 26 May 2022 09:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김서윤 기자] 배우 이도현이 일상을 공유했다. 이도현은 26일 자신의 인스타그램에 별다른 멘트 없이 한장의 사진을 게재했다. 공개된 사진 속에는 카페에서 창밖을 바라보는 이도현의 모습이 담겨있다. 그는 날]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘톡파원 25시’ 측 “6월6일부터 月 밤 9시 방송, 특급 컬래버까지” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000982522</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000982522</guid>
-            <pubDate>Thu, 26 May 2022 08:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[JTBC ‘톡파원 25시’가 6월 6일(월)부터 매주 월요일 밤 9시로 방송 시간을 옮긴다. ‘톡파원 25시’(연출 홍상훈)는 세계 각지에 거주-체류 중인 ‘톡(TALK)파원’들이 직접 찍은 영상을 소개하며 매주 시]]></content:encoded>
+            <title><![CDATA[정유미·에릭 '연애의 발견', 웹툰으로 만난다…정식 연재 론칭 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000300176</link>
+            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000300176</guid>
+            <pubDate>Thu, 26 May 2022 09:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[초여름 감성의 로맨스 '연애의 발견'의 감동을 웹툰으로 이어간다. 목요웹툰으로 정식 연재되는 웹툰 '연애의 발견'은 네이버웹툰을 통해 지난 25일 첫 공개됐다. 2014년 방영된 KBS 2TV '연애의 발견'을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 황석정 '해맑은 양손인사' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003873332</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003873332</guid>
-            <pubDate>Thu, 26 May 2022 08:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[배우 황석정이 26일 용산CGV에서 열린 영화 '이공삼칠'의 언론시사회에서 포토타임을 갖고 있다. 영화 '이공삼칠'은 청각 장애가 있는 엄마와 단 둘이 살며 공무원 시험을 준비하는 열아홉 소녀 윤영이 뜻밖의 사고를]]></content:encoded>
+            <title><![CDATA['故 최진실 딸' 최준희, 소속사 계약 해지했지만.."촬영 끝" 여전히 바쁜 일상 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003873349</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003873349</guid>
+            <pubDate>Thu, 26 May 2022 09:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 정유나 기자] 배우 故최진실의 딸 최준희가 늘씬한 몸매를 자랑했다. 최준희는 26일 자신의 인스타그램에 "촬영 끝"이라는 글과 함께 사진을 게재했다. 공개된 사진 속 최준희는 검은색 상의에 미니스커트]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 홍예지 '배우로서 첫 걸음' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003873331</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003873331</guid>
-            <pubDate>Thu, 26 May 2022 08:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[배우 홍예지가 26일 용산CGV에서 열린 영화 '이공삼칠'의 언론시사회에서 포토타임을 갖고 있다. 영화 '이공삼칠'은 청각 장애가 있는 엄마와 단 둘이 살며 공무원 시험을 준비하는 열아홉 소녀 윤영이 뜻밖의 사고를]]></content:encoded>
+            <title><![CDATA[배우 이얼, 암 투병 끝 별세...향년 58세 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0004842723</link>
+            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0004842723</guid>
+            <pubDate>Thu, 26 May 2022 09:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[[파이낸셜뉴스] 배우 이얼(58·이용덕)이 암 투병 끝에 별세했다. 26일 소속사 스타잇엔터테인먼트에 따르면, 이얼은 지난해 드라마 '보이스' 시즌4 종방 후 식도암으로 투병하다 이날 세상을 떠났다. 1983년 연극]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 김미화 '이공칠삼 기대하세요!' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003699536</link>
-            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003699536</guid>
-            <pubDate>Thu, 26 May 2022 08:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[배우 김미화가 26일 오후 서울 용산 CGV에서 열린 영화 ’이공삼칠’의 언론시사회에 참석해 포즈를 취하고 있다.]]></content:encoded>
+            <title><![CDATA[세븐틴 기부, 전 세계 학교 밖 아동·청소년 돕는다(공식) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001666024</link>
+            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001666024</guid>
+            <pubDate>Thu, 26 May 2022 09:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[세븐틴이 기부로 선행에 동참했다. 유네스코한국위원회(사무총장 한경구)는 그룹 세븐틴이 26일 데뷔 7주년을 기념하여 전 세계 아동, 청소년들을 위한 뜻깊은 기부를 실천했다고 밝혔다. 오는 27일 컴백을 앞두고 있는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[홍예지 ‘드러나는 순수미’ [포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000982521</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000982521</guid>
-            <pubDate>Thu, 26 May 2022 08:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[배우 홍예지가 26일 서울 용산구 CGV용산아이파크몰점에서 열린 영화 ‘이공삼칠’ 언론시사회에서 포즈를 취하고 있다. 주현희 기자 teth1147@donga.com]]></content:encoded>
+            <title><![CDATA[손석구, 필리핀서 귀국…'범죄도시2' 무대인사 합류 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000300175</link>
+            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000300175</guid>
+            <pubDate>Thu, 26 May 2022 09:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[배우 손석구가 필리핀 촬영을 마치고 귀국, '범죄도시2' 무대인사에 합류한다. 영화 '범죄도시2(이상용 감독)'가 지난 3년간의 모든 흥행 신기록을 갈아치우고 있는 가운데, 흥행 감사 기념으로 6월 무대인사를 확]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[황석정 ‘진지한 답변’ [포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000982520</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000982520</guid>
-            <pubDate>Thu, 26 May 2022 08:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[배우 황석정이 26일 서울 용산구 CGV용산아이파크몰점에서 열린 영화 ‘이공삼칠’ 언론시사회에서 인사말을 하고 있다. 주현희 기자 teth1147@donga.com]]></content:encoded>
+            <title><![CDATA[유이, 8kg 요요에도 완벽 몸매.."날씨 좋다" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003873347</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003873347</guid>
+            <pubDate>Thu, 26 May 2022 09:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 고재완 기자] 배우 유이가 '8kg' 요요에도 완벽한 몸매를 드러냈다. 유이는 26일 자신의 인스타그램을 통해 '날씨 좋다'라며 사진 한장을 공개했다. 사진 속 유이는 맑은 날씨에 한 아파트 단지의 정원]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 윤미경 '과감한 옆트임 패션' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003873330</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003873330</guid>
-            <pubDate>Thu, 26 May 2022 08:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[배우 윤미경이 26일 용산CGV에서 열린 영화 '이공삼칠'의 언론시사회에서 포토타임을 갖고 있다. 영화 '이공삼칠'은 청각 장애가 있는 엄마와 단 둘이 살며 공무원 시험을 준비하는 열아홉 소녀 윤영이 뜻밖의 사고를]]></content:encoded>
+            <title><![CDATA['음주운전 자숙' 박시연, 세븐과 친분 과시…"누나 최고" [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000549231</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000549231</guid>
+            <pubDate>Thu, 26 May 2022 09:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김서윤 기자] 배우 박시연이 가수 세븐과의 친분을 드러냈다. 박시연은 26일 자신의 인스타그램에 "뮤지컬 볼륨업, 부대가 마치 본인 콘서트인 양 찢어버린 동욱이와 울고 웃게 해준 멋진 배우님들 연기 너무]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[황석정-신은정-전소민 ‘배역 이름이 뭐였지?’ [포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000982519</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000982519</guid>
-            <pubDate>Thu, 26 May 2022 08:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[배우 황석정, 신은정, 전소민이 26일 서울 용산구 CGV용산아이파크몰점에서 열린 영화 ‘이공삼칠’ 언론시사회에서 이야기를 하고 있다. 주현희 기자 teth1147@donga.com]]></content:encoded>
+            <title><![CDATA[이준기, '기대 금지'라더니 소름 돋는 춤 실력…'어겐마' 공약 지켰다 [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000549230</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000549230</guid>
+            <pubDate>Thu, 26 May 2022 09:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김서윤 기자] 배우 이준기가 수준급 춤 실력을 공개했다. 이준기는 26일 자신의 인스타그램에 "뒤늦은 공약 실천. 사실 몇주 전부터 실행에 옮겼어야 했는데 바쁘다는 핑계로 여러분의 크나큰 사랑과 응원에 부]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[황석정 ‘엄지척!’ [포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000982518</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000982518</guid>
-            <pubDate>Thu, 26 May 2022 08:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[배우 황석정이 26일 서울 용산구 CGV용산아이파크몰점에서 열린 영화 ‘이공삼칠’ 언론시사회에서 포즈를 취하고 있다. 주현희 기자 teth1147@donga.com]]></content:encoded>
+            <title><![CDATA['탑건: 매버릭' 마일즈 텔러 등, 톰 크루즈가 키운 라이징 스타들 [N컷] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006120193</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006120193</guid>
+            <pubDate>Thu, 26 May 2022 09:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '탑건: 매버릭'의 뉴 제너레이션 스틸이 공개됐다. 배급사 롯데엔터테인먼트는 '탑건: 매버릭' 뉴 제너레이션 스틸을 26일 공개했다. '탑건: 매버릭'은 교관으로 컴백한 최고의]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 김지영 '따뜻한 미소' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003699535</link>
-            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003699535</guid>
-            <pubDate>Thu, 26 May 2022 08:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[배우 김지영이 26일 오후 서울 용산 CGV에서 열린 영화 ’이공삼칠’의 언론시사회에 참석해 포즈를 취하고 있다.]]></content:encoded>
+            <title><![CDATA[배우 이얼, 암투병 끝 별세 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013207657</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013207657</guid>
+            <pubDate>Thu, 26 May 2022 09:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 영화 '경관의 피', 드라마 '사이코지만 괜찮아' 등을 비롯해 스크린과 브라운관을 오가며 활약해온 배우 이얼이 26일 오전 암투병 끝에 58세를 일기로 세상을 떠났다고 소속사 스타잇엔터테인먼트가 밝]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[황석정 ‘수줍은 미소’ [포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000982517</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000982517</guid>
-            <pubDate>Thu, 26 May 2022 08:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[배우 황석정이 26일 서울 용산구 CGV용산아이파크몰점에서 열린 영화 ‘이공삼칠’ 언론시사회에서 포즈를 취하고 있다. 주현희 기자 teth1147@donga.com]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박명수 “나보다 어린 PD에게 불려가 혼나” 폭로 (토밥좋아) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000982516</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000982516</guid>
-            <pubDate>Thu, 26 May 2022 08:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[박명수, 김종민이 '토밥좋아' 이영식PD를 곤경에 빠뜨린다. 오는 28일 티캐스트 E채널 '토요일은 밥이 좋아(토밥좋아)' 22회에서는 지난주에 이어 경북 문경의 맛집을 찾아가는 먹방 여행이 펼쳐진다. 박명수는 삼계]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 홍예지 '청순 미소' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003699534</link>
-            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003699534</guid>
-            <pubDate>Thu, 26 May 2022 08:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[배우 홍예지가 26일 오후 서울 용산 CGV에서 열린 영화 ’이공삼칠’의 언론시사회에 참석해 포즈를 취하고 있다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김원희, 유재석과 한 이불 쓰던 시절...반갑다 재슥아[TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000549222</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000549222</guid>
-            <pubDate>Thu, 26 May 2022 08:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=조준원 기자] 방송인 김원희가 유재석과 찍은 과거사진을 전했다. 김원희는 26일 자신의 인스타그램에 김원희는 "싸이월드에서 만난 재슥이ㅋㅋ 반갑다 재슥아"라며 사진 여러 장을 게재했다. 해시태그로 '놀러와]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] '이공삼칠' 홍예지, 청순한 미모 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004969529</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004969529</guid>
-            <pubDate>Thu, 26 May 2022 08:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '이공삼칠'의 언론시사회가 26일 오후 용산 CGV에서 열렸다. 이날 시사회에는 출연배우 홍예지, 김지영, 김미화, 황석정, 신은정, 전소민, 윤미경과 모홍진 감독 등이 참석했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한국과 홍콩 오간 70년대 미남 배우 신일룡, 오늘(26일) 별세 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001744224</link>
-            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001744224</guid>
-            <pubDate>Thu, 26 May 2022 08:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[한국과 홍콩을 오가며 액션배우로 활약했던 배우 신일룡(본명 조수현) 씨가 별세했다. 향년 74세. 26일 영화계에 따르면 고인은 지난해 간암 진단을 받고 투병해오다 이날 오전 8시 11분 숙환으로 별세했다. 고려대]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 김지영, 깊이감 있는 감정 연기 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004969524</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004969524</guid>
-            <pubDate>Thu, 26 May 2022 08:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '이공삼칠'의 언론시사회가 26일 오후 용산 CGV에서 열렸다. 이날 시사회에는 출연배우 홍예지, 김지영, 김미화, 황석정, 신은정, 전소민, 윤미경과 모홍진 감독 등이 참석했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 신은정 '따뜻한 엄마 미소' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003699533</link>
-            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003699533</guid>
-            <pubDate>Thu, 26 May 2022 08:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[배우 신은정이 26일 오후 서울 용산 CGV에서 열린 영화 ’이공삼칠’의 언론시사회에 참석해 포즈를 취하고 있다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 영화 '이공삼칠'의 배우 신은정 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004969516</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004969516</guid>
-            <pubDate>Thu, 26 May 2022 08:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '이공삼칠'의 언론시사회가 26일 오후 용산 CGV에서 열렸다. 이날 시사회에는 출연배우 홍예지, 김지영, 김미화, 황석정, 신은정, 전소민, 윤미경과 모홍진 감독 등이 참석했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘음주운전 자숙’ 리지, 한층 밝아진 표정…원피스 입고 청순美 ‘폴폴’ [스타★샷] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000614230</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000614230</guid>
-            <pubDate>Thu, 26 May 2022 08:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 애프터스쿨 출신 리지가 근황을 공개했다. 리지는 25일 자신의 인스타그램에 근황이 담긴 사진 여러 장을 게재했다. 공개된 사진에는 미국의 한 관광지에서 사진을 남기고 있는 리지의 모습이 담겼다. 리지는 리본으로]]></content:encoded>
+            <title><![CDATA["내 흔적 많다" 이찬원, 여자친구 공개? 쏟아지는 의혹 ('편스토랑') (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003873345</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003873345</guid>
+            <pubDate>Thu, 26 May 2022 09:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 정안지 기자]'편스토랑' 이찬원이 의문의 원룸을 방문, 반찬을 채워주며 의혹에 휩싸인다. 27일 방송되는 KBS 2TV '신상출시 편스토랑'에서는 '6월의 메뉴' 출시를 위한 대결이 시작된다. 지난]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['퇴출설' 돌던 유역비, 거지꼴로 나타났다? (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
