@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-05-26T05:20:37.607Z</updated>
+    <updated>2022-05-26T06:20:51.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이정재·정우성, 입가 미소 끊이지 않아…칸 거리 데이트]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011211118</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011211118"/>
+        <updated>2022-05-26T06:20:50.964Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]김주희 인턴 기자 = 걸어서 칸 속으로, '연중 라이브'가 프랑스의 생생한 열기를 전한다. 오는 26일 오후 11시에 방송되는 KBS2 '연중 라이브'에서는 국내외 핫이슈인 연예가 단신을 '월드 뉴스']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["조니 뎁이 전여친 케이트 모스 계단서 밀었다" 엠버 허드 주장은 '거짓' [Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004622955</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0006117982</id>
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0006117982"/>
         <updated>2022-05-25T23:16:58.946Z</updated>
-        <content type="html"><![CDATA[(칸=뉴스1) 이준성 프리랜서기자 = 배우 김시은이 25일 오후(현지시간) 제75회 칸 국제영화제가 열리고 있는 프랑스 남부 칸 ‘팔레 데 페스티벌’(Palais des Festivals) 영화진흥위원회(KOFIC)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[생애 첫 칸 입성, '다음 소희' 김시은]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0006117981</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0006117981"/>
-        <updated>2022-05-25T23:16:58.947Z</updated>
         <content type="html"><![CDATA[(칸=뉴스1) 이준성 프리랜서기자 = 배우 김시은이 25일 오후(현지시간) 제75회 칸 국제영화제가 열리고 있는 프랑스 남부 칸 ‘팔레 데 페스티벌’(Palais des Festivals) 영화진흥위원회(KOFIC)]]></content>
     </entry>
 </feed>
