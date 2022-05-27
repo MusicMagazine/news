@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-05-27T19:14:12.668Z</updated>
+    <updated>2022-05-27T20:17:50.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[우리말-K팝 톺아보기④]엑소 '으르렁'·소녀시대 '지'(반짝반짝)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011214585</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011214585"/>
+        <updated>2022-05-27T20:17:34.912Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 Grow 대신 한국어 소리나는 대로 'eureureong' 지(Gee)' '반짝반짝'→ 'banjjak banjjak'으로 의성어·의태어도 알리는 K팝 [서울=뉴시스]이재훈 기자 = "으르렁[eureu]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[숙희, 자작곡 ‘틈’ 8년만 리메이크…28일 음원 공개]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000871050</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003608146"/>
         <updated>2022-05-27T09:18:24.610Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 13명의 멤버가 함께 데뷔 7주년을 맞은 그룹 세븐틴(Seventeen)이 더욱 하나 돼 돌아왔다. 27일 오전 서울 영등포구 여의도동 콘래드 서울 호텔에서 세븐틴의 정규 4집 '페이스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['힛트쏭' 랜선 해외 MV여행…제작비용만 8억5천만원?]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011214356</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011214356"/>
-        <updated>2022-05-27T09:18:24.610Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]김주희 인턴 기자 = '이십세기 힛트쏭'에서 랜선 해외여행을 떠난다. 27일 오후 8시 방송하는 KBS Joy '이십세기 힛트쏭'(이하 '힛트쏭')은 '여행 가고 싶다~! 해외로 떠난 뮤직비디오 힛트쏭]]></content>
     </entry>
 </feed>
