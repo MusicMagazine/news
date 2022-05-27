@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 05:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 07:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장] 세븐틴, 2년 8개월만의 컴백 “태양을 쏴라” “빌보드 야망” (KBS연예 ─ 음악)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=210800</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=210800</guid>
+            <pubDate>Fri, 27 May 2022 07:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=210800">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220527144630_ef2c5509608708020fae20ee453a9692.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=210800">[현장] 세븐틴, 2년 8개월만의 컴백 “태양을 쏴라” “빌보드 야망”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220527144630_ef2c5509608708020fae20ee453a9692.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세븐틴 오늘 컴백, 정규4집 ‘Face the Sun’ 발매 (KBS연예 ─ 음악)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=210714</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=208965">갓세븐, 새로운 매력 담긴 새로운 콘셉트!</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220517110007_9416e7bb1e4014600ad2733a14975418.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뮤비가 좋다] 싸이퍼, 'Fame' 제대로 얻을 과감한 퍼포먼스의 향연 (KBS연예 ─ 음악)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=208945</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=208945</guid>
-            <pubDate>Sun, 22 May 2022 17:04:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=208945">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220517103355_6075934a1ea27d5e77c11115c916ea6e.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=208945">[뮤비가 좋다] 싸이퍼, 'Fame' 제대로 얻을 과감한 퍼포먼스의 향연</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220517103355_6075934a1ea27d5e77c11115c916ea6e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["태수와 우석, 그리고 혜린" 뮤지컬 '모래시계'  오늘  개막 (KBS연예 ─ 연예)]]></title>
@@ -688,6 +688,14 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220510082644_3f0cc7f5be4920d11cf56f9d84957cdd_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[결혼 앞둔 유키스 훈, 걸스데이 출신 황지선과 웨딩화보 공개 (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/349104</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/349104</guid>
+            <pubDate>Fri, 27 May 2022 07:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/349104">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/05/27/b732d5d1-24db-45ba-a48b-968ed092716f.jpg" alt="결혼 앞둔 유키스 훈, 걸스데이 출신 황지선과 웨딩화보 공개">        <div class="text-box">            <p class="summary">결혼 앞둔 유키스 훈, 걸스데이 출신 황지선과 웨딩화보 공개</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/05/27/b732d5d1-24db-45ba-a48b-968ed092716f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 '페이크 러브', 日 레코드협회 플래티넘 인증 (MBC 연예 ─ 아이돌)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/349101</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/349101</guid>
@@ -768,12 +776,81 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/05/27/6403a5a6-97ff-4e80-806e-1ac9f07e5d35.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[세븐틴 에스쿱스 "재계약 후 정규 컴백, 캐럿 덕분" (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/349056</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/349056</guid>
-            <pubDate>Fri, 27 May 2022 03:25:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/349056">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/05/27/5eca903e-4583-467d-a1b8-a6c3633a8705.jpg" alt="세븐틴 에스쿱스 " 재계약="" 후="" 정규="" 컴백,="" 캐럿="" 덕분""="">        <div class="text-box">            <p class="summary">세븐틴 에스쿱스 "재계약 후 정규 컴백, 캐럿 덕분"</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/05/27/5eca903e-4583-467d-a1b8-a6c3633a8705.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[블랭키 DK, 맹장 수술로 당분간 스케줄 불참 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220527160713761</link>
+            <guid>https://entertain.v.daum.net/v/20220527160713761</guid>
+            <pubDate>Fri, 27 May 2022 07:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 그룹 블랭키 멤버 DK가 맹장 수술로 당분간 일정에 불참한다. 소속사 키스톤엔터테인먼트는 27일 오후 공식입장을 통해 "금일 오후 3시 멤버 DK 군이 급성 충수염(맹장) 수술을 받았다"고 밝혔다. DK는 전문의의 소견에 따라 약 2~3주간 휴식이 필요해 이날 진행될 영상통화 팬사인회를 시작으로 당분간 스케줄에 불참할 예정이다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[트레저 측 "방예담 음악공부-마시호 휴식, 당분간 10인조 활동" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220527160620734</link>
+            <guid>https://entertain.v.daum.net/v/20220527160620734</guid>
+            <pubDate>Fri, 27 May 2022 07:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 그룹 트레저(TREASURE)가 2022년 하반기 활동 청사진을 공개했다. 5월 27일 YG엔터테인먼트에 따르면 트레저는 올여름 컴백을 목표로 새 앨범 준비에 돌입했다. 타이틀곡은 이미 확정됐다. 녹음 작업과 안무 연습 등 세부 조율을 마치고 나면 뮤직비디오 촬영이 진행될 예정이다. 곡 정보나 앨범 형태 같은 구체적인 내용은 아직]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[블랭키 DK, 급성 충수염 수술 "회복할 동안 8인 체제" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220527160445675</link>
+            <guid>https://entertain.v.daum.net/v/20220527160445675</guid>
+            <pubDate>Fri, 27 May 2022 07:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 황미현 기자 = 그룹 블랭키의 멤버 DK가 급성 충수염 수술을 받았다. 블랭키의 소속사 키스톤 엔터테인먼트는 27일 "이날 오후 3시 멤버 DK 군이 급성 충수염(맹장) 수술을 받았다"며 "전문의의 소견에 따라 약 2~3주간 휴식이 필요해 DK 군은 금일 진행될 영상통화 팬사인회를 시작으로 추후 예정되어 있었던 스케줄에 불참하게 되었다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[블랭키 DK, 오늘 급성 충수염 수술.."8인 체재 활동" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220527160421665</link>
+            <guid>https://entertain.v.daum.net/v/20220527160421665</guid>
+            <pubDate>Fri, 27 May 2022 07:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=지민경 기자] 그룹 블랭키의 멤버 DK가 급성 충수염 수술로 스케줄에 불참한다. 블랭키의 소속사 키스톤엔터테인먼트 측은 27일 "금일(27일) 오후 3시 멤버 DK 군이 급성 충수염(맹장) 수술을 받았다"고 밝혔다. 소속사 측은 "전문의의 소견에 따라 약 2~3주간 휴식이 필요해 DK 군은 금일 진행될 영상통화 팬사인회를 시작으로 추후 예정되]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['전원 재계약' 세븐틴, 마의 7년에도 '탈퇴'에 민감하지 않은 이유 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220527155027219</link>
+            <guid>https://entertain.v.daum.net/v/20220527155027219</guid>
+            <pubDate>Fri, 27 May 2022 07:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 조혜진 기자) 전원 조기 재계약을 체결한 그룹 세븐틴이 서로를 향한 '끈끈한 신뢰'를 드러냈다. 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)의 정규 4집 'Face the Sun(페이스 더 선)' 발매 기념 기자간담회가 27일 오전 서울 영등포구 여의도동 콘래드 서울 그랜드볼룸에서]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[주성민 대표 "브이홀 추억, 어제 일처럼 생생해" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220527155013211</link>
+            <guid>https://entertain.v.daum.net/v/20220527155013211</guid>
+            <pubDate>Fri, 27 May 2022 07:14:50 GMT</pubDate>
+            <content:encoded><![CDATA['김예나의 숨터뷰'는 공연장 사람들의 희로애락을 담아 전하는 엑스포츠뉴스만의 기획 인터뷰입니다. 관객들의 '숨'으로 가득찬 공연장, 그 속에서 뜨거운 열정을 안고 희망을 꿈꾸는 이들의 이야기를 들어봅니다. &lt;편집자주&gt;&nbsp; (엑스포츠뉴스 김예나 기자) 홍대 앞을 든든하게 지키던 브이홀의 부재가 지금도 믿기지 않는다.&nbsp;지하 3층 공연장에 다다르기까지 사람들의]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['차라리 無대응' 택한 빅히트·YG, 뷔·제니 열애설 침묵 속 공식활동 재개 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220527152020955</link>
+            <guid>https://entertain.v.daum.net/v/20220527152020955</guid>
+            <pubDate>Fri, 27 May 2022 07:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 그룹 방탄소년단 멤버 뷔, 그룹 블랙핑크 멤버 제니가 공식 활동을 재개한다. 최근 불거진 열애설에는 무대응이 상책이라는 판단을 내렸다. 뷔와 제니는 5월 22일 열애설에 휩싸였다. 이날 SNS를 통해 제주도 데이트설이 불거졌기 때문. 이와 관련 뉴스엔은 사실 확인을 위해 23일 뷔 소속사 빅히트 뮤직, 제니 소속사 YG엔터테인먼트]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[DKZ, 포카앨범 1시간만 전량 품절 "추가 제작 논의 중" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220527150250365</link>
+            <guid>https://entertain.v.daum.net/v/20220527150250365</guid>
+            <pubDate>Fri, 27 May 2022 07:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이민지 기자] DKZ(디케이지) 포카앨범이 초고속 품절됐다. 메이크스타는 5월 27일 "26일 정오 응모를 시작한 DKZ 스페셜 에디션 'CHASE EPISODE 2. MAUM(체이스 에피소드 2. 마음)'이 오픈 1시간여 만에 품절됐다"고 밝혔다. 이번 스페셜 에디션은 '사랑도둑 (Cupid)(Acoustic Ver.)'이 수록된 앨범이다. 멤]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['드림콘서트 트롯' 다음달 19일 개최 확정..도경완 MC 발탁 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220527145913201</link>
+            <guid>https://entertain.v.daum.net/v/20220527145913201</guid>
+            <pubDate>Fri, 27 May 2022 07:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 고재완 기자] 방송인 도경완이 '제1회 드림콘서트 트롯'을 이끈다. 도경완은 다음달 19일 오후 6시 서울 잠실 올림픽주경기장에서 개최되는 '제1회 드림콘서트 트롯'(이하 드림콘서트 트롯)의 MC를 맡아 트로트 팬들과 만난다. 도경완은 지난해부터 SBS FiL, SBS MTV '더 트롯쇼' MC로 대 활약하는 등 트로트에 대한 해]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['팬텀싱어' 시즌4 제작 확정..내년 방송 목표 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220527145513086</link>
+            <guid>https://entertain.v.daum.net/v/20220527145513086</guid>
+            <pubDate>Fri, 27 May 2022 07:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 박상후 기자] '팬텀싱어'가 시즌4로 돌아온다. JTBC 측은 27일 "'팬텀싱어'의 시즌4 제작을 확정 지었다"라고 밝혔다. 국내 최초 크로스오버 남성 4중창 결성 프로젝트 '팬텀싱어'는 2016년 시즌1을 시작으로 2017년 시즌2, 2020년 시즌3, 2021년 스핀오프 버전인 팬텀싱어 올스타전까지 선보인 7년 차 장수 음악 예능이다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[빅톤, 미니 7집 'Chaos' 하이라이트 메들리 공개..카리스마 비주얼 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20220527143047330</link>
+            <guid>https://entertain.v.daum.net/v/20220527143047330</guid>
+            <pubDate>Fri, 27 May 2022 07:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=지민경 기자]&nbsp;컴백을 앞둔 그룹 빅톤(VICTON)이 미니 7집 미리듣기 영상과 3차 티저 이미지 공개로 컴백 분위기를 고조시켰다. IST엔터테인먼트 측은 26일 밤 11시 30분 빅톤 공식 SNS 및 유튜브 채널을 통해 미니 7집 ‘Chaos(카오스)’의 하이라이트 메들리 영상을 공개했다. 공개된 약 2분 30초 가량의 영상에는 타이틀곡 ‘]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[방탄소년단 'FAKE LOVE' 日 레코드협회 스트리밍 부문 '플래티넘' 인증 획득 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
@@ -804,186 +881,109 @@
             <content:encoded><![CDATA[[서울경제] ’마의 7년’을 가뿐히 뛰어넘고 새로운 출발을 하는 그룹 세븐틴(SEVENTEEN)은 야심과 열정이 가득하다. 일찌감치 앨범 선주문량 200만장까지 돌파하며 예감도 좋다. 꿈에 그리는 ‘빌보드 200’ 1위 목표까지 달성하는 데 얼마 남지 않아 보인다. 27일 오후 서울 영등포구 여의도동 콘래드서울에서 세븐틴(에스쿱스, 정한, 조슈아, 준]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[강타 측 "♥정유미와 올가을 결혼? 결정된 사항 없다" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220527135806257</link>
-            <guid>https://entertain.v.daum.net/v/20220527135806257</guid>
-            <pubDate>Fri, 27 May 2022 05:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 가수 강타 측이 배우 정유미와의 결혼 보도에 대한 공식 입장을 밝혔다. 소속사 SM엔터테인먼트는 27일 오후 티브이데일리에 강타와 정유미가 올가을 결혼한다는 보도와 관련 "두 사람은 좋은 만남을 이어가고 있으며 아직 결정된 사항은 없다"라고 밝혔다. 연예정보 유튜브 채널 '연애짱TV'는 두 사람 측근의 말을 빌려 "강타와 정유미]]></content:encoded>
+            <title><![CDATA[세븐틴 디에잇,  강렬한 레드 헤어 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220527161412009</link>
+            <guid>https://entertain.v.daum.net/v/20220527161412009</guid>
+            <pubDate>Fri, 27 May 2022 07:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠한국 이혜영 기자]&nbsp;그룹 세븐틴 디에잇이 27일 오전 서울 콘래드 호텔에서 열린 정규 4집 '페이스 더 선'(Face the Sun) 글로벌 기자간담회에서 포토타임을 갖고 있다.&nbsp; 정규 4집 'Face the Sun'은 세상에 유일하고도 막대한 영향력을 끼치는 '태양'과 같은 존재가 되겠다는 야심을 솔직하게 담은 앨범이다.&nbsp; 타]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[SM 측 "강타·정유미 결혼? 결정된 바 없어" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220527135225066</link>
-            <guid>https://entertain.v.daum.net/v/20220527135225066</guid>
-            <pubDate>Fri, 27 May 2022 05:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[강타(왼쪽)와 정유미(사진=이데일리DB)[이데일리 스타in 윤기백 기자] 그룹 H.O.T 강타와 배우 정유미가 올가을 결혼설에 휩싸였지만, 이는 사실이 아닌 것으로 확인됐다. 강타 소속사 SM엔터테인먼트 측은 27일 이데일리에 “두 사람은 좋은 만남을 이어가고 있으며, 아직 결정된 사항은 없다”고 입장을 전했다. 앞서 한 매체는 유튜브 영상을 출처로 삼아]]></content:encoded>
+            <title><![CDATA[서예지, 광고 손해배상 피소.."배상 금액 이견 有, 소송 진행 중" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220527161109920</link>
+            <guid>https://entertain.v.daum.net/v/20220527161109920</guid>
+            <pubDate>Fri, 27 May 2022 07:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 최희재 기자) 배우 서예지가 복귀를 앞두고 광고주와 손해배상 소송을 진행 중이다. 27일 부산일보는 서예지가 지난해 광고 모델을 맡았던 A기업과 법정 싸움을 벌이고 있다고 보도했다. A기업과 서예지 소속사 골드메달리스트는 합의점을 찾지 못해 결국 소송을 진행 중이다. 골드메달리스트 측은 엑스포츠뉴스에 "광고주와 계약해지의 사유와 배상금액에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에스파, 美 포브스 '아시아 30세 이하 리더 30인' 선정 'K팝 아티스트 유일' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220527134453788</link>
-            <guid>https://entertain.v.daum.net/v/20220527134453788</guid>
-            <pubDate>Fri, 27 May 2022 05:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 메타버스 그룹 에스파가 미국 포브스(Forbes)의 ‘아시아 30세 이하 리더 30인’에 선정됐다. 에스파는 최근 미국 유력 경제 잡지 포브스가 공식 홈페이지를 통해 발표한 ‘아시아 30세 이하 리더 30인’에 K팝 아티스트 중 유일하게 이름을 올리며 글로벌한 영향력을 다시 한번 증명했다. 포브스는 매년 아시아 태평양 지역 22개]]></content:encoded>
+            <title><![CDATA[박준형 "우리나라 차 트렌드도 빨라, 자기 것에 자부심 느끼길" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220527160859808</link>
+            <guid>https://entertain.v.daum.net/v/20220527160859808</guid>
+            <pubDate>Fri, 27 May 2022 07:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 안은재 기자 = 가수 박준형이 자신의 차에 자부심을 느꼈으면 좋겠다고 이야기했다. 27일 오후3시 서울 중구 앰버서더 서울 풀만 호텔에서 디스커버리 채널 코리아의 새 예능 프로그램 '저 세상 중고차 – 기어 갓'(GEAR GODS, 이하 '기어 갓') 제작발표회가 진행됐다. 행사에는 박준형, 노홍철, 이특, 신동, 오정연, 하정석PD가]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에스파, 美 포브스 '아시아 30세 이하 리더 30인' 선정..K팝 유일 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220527134116667</link>
-            <guid>https://entertain.v.daum.net/v/20220527134116667</guid>
-            <pubDate>Fri, 27 May 2022 05:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=지민경 기자]&nbsp;‘메타버스 걸그룹’ 에스파가 미국 포브스(Forbes)의 ‘아시아&nbsp;30세 이하 리더&nbsp;30인’에 선정됐다. 에스파는 최근 미국 유력 경제 잡지 포브스가 공식 홈페이지를 통해 발표한 ‘아시아&nbsp;30세 이하 리더&nbsp;30인’에&nbsp;K팝 아티스트 중 유일하게 이름을 올리며 글로벌한 영향력을 다시 한번 확인케 했다. 포브스는 매년 아시아 태평양]]></content:encoded>
+            <title><![CDATA[박지환 "'우블스' 아들 배현성과 뭘 해도 호흡 맞아..빛나는 청춘" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220527160722769</link>
+            <guid>https://entertain.v.daum.net/v/20220527160722769</guid>
+            <pubDate>Fri, 27 May 2022 07:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 박지환이 현재 출연 중인 tvN '우리들의 블루스'에서 자신의 아들 역할로 출연 중인 배현성에 대해 애틋한 마음을 드러냈다. 박지환은 27일 오후 방송된 MBC FM4U '2시의 데이트 뮤지, 안영미입니다'에서 배현성에 대해 "무엇을 해도 호흡이 맞는다, 처음에 들어오는데 밝게 빛나더라"라고 말했다. 이어 배현성]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['정희' 예린 "솔로 데뷔 감개무량, 준비하면서 두려움 느끼기도" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220527133713544</link>
-            <guid>https://entertain.v.daum.net/v/20220527133713544</guid>
-            <pubDate>Fri, 27 May 2022 05:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 박상후 기자] '정희'에서 그룹 여자친구 출신 예린이 솔로 데뷔 소감을 밝혔다. 27일 오후 방송된 MBC FM4U '정오의 희망곡 김신영입니다'(이하 '정희')의 '선생님을 모십니다' 코너에는 효연, 예린이 게스트로 출연해 입담을 뽐냈다. 이날 데뷔 7년 만에 솔로로 데뷔한 예린은 "확실히 그룹 데뷔 때처럼 떨리고 설레는 건 똑같은데 제]]></content:encoded>
+            <title><![CDATA[달라진 칸 영화제와 박찬욱..전찬일 평론가에 물었다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220527160504684</link>
+            <guid>https://entertain.v.daum.net/v/20220527160504684</guid>
+            <pubDate>Fri, 27 May 2022 07:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[(칸=뉴스1) 장아름 기자 = 전찬일 평론가는 올해까지 21회째 칸 국제영화제(이하 칸 영화제)를 찾았다. 그는 지난 1993년 영화 평론을 시작해 30년 가까이 영화계에 몸담아온 평론가다. 한국 영화 100주년을 맞이한 지난 2019년 영화 '기생충'(감독 봉준호)이 지난 칸 영화제에서 황금종려상을 들어올리고 2020년 아카데미 시상식에서 최고 영예상]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴 민규, "재계약 후 첫 정규 앨범, 새출발과 도약 담아내" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220527132916345</link>
-            <guid>https://entertain.v.daum.net/v/20220527132916345</guid>
-            <pubDate>Fri, 27 May 2022 05:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 세븐틴 민규가 27일 서울 여의도 콘래드호텔에서 진행된  정규 4집 ‘페이스 더 선(Face the Sun)’ 발매 기념 글로벌 기자간담회에서 포토타임을 갖고 있다.    [스포츠서울 | 김민지기자]세븐틴 멤버 민규가 재계약 후 첫 정규 앨범 발매에 대한 소감을 전했다. 민규는 27일 오전 서울 여의도 콘래드 서울 그랜드볼룸에서 열린 세븐]]></content:encoded>
+            <title><![CDATA['두데' 박지환 "미혼이지만 부성애 연기 가능, 상상력도 훈련돼" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220527160127588</link>
+            <guid>https://entertain.v.daum.net/v/20220527160127588</guid>
+            <pubDate>Fri, 27 May 2022 07:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 박지환이 미혼이지만 부성애 연기가 가능한 이유를 설명했다. 박지환은 27일 오후 방송된 MBC FM4U '2시의 데이트 뮤지, 안영미입니다'에서 "결혼을 안 했는데 부성애 연기가 가능하냐"는 DJ 안영미, 뮤지의 질문에 "배우들이 느끼는 감정은, 모든 역할을 경험하고 연기하는 게 아니다"라고 말했다. 이어 "그런]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['메타버스 기반 버추얼 그룹' 사공이호, 6월 11일 정식 데뷔 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220527132036090</link>
-            <guid>https://entertain.v.daum.net/v/20220527132036090</guid>
-            <pubDate>Fri, 27 May 2022 05:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[메타버스를 기반으로 한 3인조 버추얼 그룹 사공이호(SAGONG_EE_HO)가 정식 데뷔한다. 27일 오전 소속사 노느니특공대엔터테인먼트는 “버추얼 그룹 사공이호가 오는 6월 11일 정식 데뷔한다. 사공이호는 앨범 발매를 비롯해 캐릭터 IP를 기반으로 다양한 디지털 영상예술이나 음악을 접목한 NFT, 커머셜 등 매체와 장르를 넘나드는]]></content:encoded>
+            <title><![CDATA['저 세상 중고차 기어갓' 노홍철 "신동 보려고 출근한다..매주 기대돼" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220527160040558</link>
+            <guid>https://entertain.v.daum.net/v/20220527160040558</guid>
+            <pubDate>Fri, 27 May 2022 07:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=장다희 기자] '저 세상 중고차 기어갓' 노홍철이 신동과의 호흡에 대해 언급했다. 노홍철은 27일 오후 서울 중구 앰버서더 서울 풀만 호텔에서 진행된 디스커버리 채널 코리아 예능 '저 세상 중고차 기어갓' 제작발표회에 참석해 "신동과 나는 정말 잘 맞다"고 밝혔다. 노홍철은 "박준형과 이특은 차에 대해 잘 알지만, 깊이 차이가 나더라.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['정희' 효연 "윌벤져스 찐팬, 훌륭하게 잘 키운 샘 해밍턴 최고" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220527132007074</link>
-            <guid>https://entertain.v.daum.net/v/20220527132007074</guid>
-            <pubDate>Fri, 27 May 2022 05:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 박상후 기자] '정희'에서 그룹 소녀시대 효연이 윌벤져스에 대한 애정을 드러냈다. 27일 오후 방송된 MBC FM4U '정오의 희망곡 김신영입니다'(이하 '정희')의 '선생님을 모십니다' 코너에는 효연, 예린이 게스트로 출연해 입담을 뽐냈다. 앞서 샘 해밍턴은 효연을 이상형으로 꼽은 바 있다. 이후 두 사람은 만나 이야기를 나누기도 했다.]]></content:encoded>
+            <title><![CDATA[강타♥정유미, '칠현 마누라' 닉네임 현실되나..가을 결혼설에 "확정 無" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220527160021542</link>
+            <guid>https://entertain.v.daum.net/v/20220527160021542</guid>
+            <pubDate>Fri, 27 May 2022 07:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=장진리 기자] 가수 강타(43)와 배우 정유미(38)가 올 가을 결혼설에 선을 그었다. 그러면서도 "예쁘게 만나고 있다"라고 두 사람이 변함없이 예쁜 사랑을 키우고 있다고 밝혔다. 27일 유튜브 채널 연예짱TV를 근거로 강타와 정유미가 올 가을 결혼식을 준비하고 있다는 결혼설이 퍼졌다. 반면 양측 소속사는 "결정된 것은 없다"라고 부인했]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['전원 재계약' 세븐틴, 빌보드 정복 향한 꿈 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220527131913052</link>
-            <guid>https://entertain.v.daum.net/v/20220527131913052</guid>
-            <pubDate>Fri, 27 May 2022 05:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김지현 기자] 그룹 세븐틴이 빌보드 1위에 대한 욕심을 드러냈다. 세븐틴(Seventeen)이 27일 오전 서울 여의도 콘래드호텔에서 정규 4집 '페이스 더 선'(Face the Sun) 발매 기념 기자간담회를 가졌다. 정규 4집은 세상에 유일하고도 막대한 영향력을 끼치는 '태양'과 같은 존재가 되겠다는 야심을 솔직하게 담은 앨범이다. 태양]]></content:encoded>
+            <title><![CDATA['기어갓' 오정연, 바이크에 푹 빠진 이유는 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220527155927495</link>
+            <guid>https://entertain.v.daum.net/v/20220527155927495</guid>
+            <pubDate>Fri, 27 May 2022 07:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[방송인 오정연이 바이크의 매력을 설명했다. 27일 서울 중구에 위치한 앰배서더 서울 풀만 호텔에서는 디스커버리 채널 코리아 '저 세상 중고차-기어갓'(이하 '기어갓')의 제작발표회가 진행됐다. 이 자리에는 하정석PD와 박준형 노홍철 이특 신동 오정연이 참석했다. '기어갓'은 네 명의 MC가 두 팀으로 나뉘어 올드카를 저렴하게 구입, 복원과 수리를 거쳐 최고]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["시원하게 빌보드 1위"..세븐틴, 고뇌를 야망으로 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220527131522959</link>
-            <guid>https://entertain.v.daum.net/v/20220527131522959</guid>
-            <pubDate>Fri, 27 May 2022 05:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[27일 오후 1시 정규 4집 'Face the Sun' 발매 [더팩트 | 정병근 기자] 그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 고민과 고충을 지나 야망에 도달했다. 세븐틴은 27일 오전 서울 여의도 콘래드 서울 그랜드볼룸에서 정규 4집 'Face the Sun(페이스 더 선)']]></content:encoded>
+            <title><![CDATA['두데' 박지환 "연변·제주도 사투리 비결? 24시간 내내 틀어놔" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220527155701421</link>
+            <guid>https://entertain.v.daum.net/v/20220527155701421</guid>
+            <pubDate>Fri, 27 May 2022 07:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[배우 박지환이 탁월한 사투리 소화 비결을 밝혔다. 27일 방송된 MBC FM4U '두시의 데이트 뮤지, 안영미입니다(이하 '두데')'에는 '범죄도시2'의 배우 박지환이 출연했다. 이날 DJ 뮤지가 "사투리 연기는 다 힘들어하는 부분이다. 제주도, 연변 사투리는 어떻게 준비하셨는지 궁금하다"고 물었다. 박지환은 tvN 드라마 '우리들의 블루스'에서 제주도]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["우리 답게 Fire" 태양을 꿈꾼 세븐틴의 야심 'HOT' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20220527131215876</link>
-            <guid>https://entertain.v.daum.net/v/20220527131215876</guid>
-            <pubDate>Fri, 27 May 2022 05:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 공미나 기자] /사진=세븐틴 'HOT' 뮤직비디오 캡처 그룹 세븐틴(SEVENTEEN)이 뜨거운 야심을 드러냈다. 세븐틴은 27일 오후 1시 정규 4집 'Face the Sun'(페이스 더 선)과 타이틀곡 'HOT'(핫) 뮤직비디오를 공개했다. 'Face the Sun'은 세븐틴의 야심과 열정을 선명히 담아낸 앨범이다. 세상에 유일하고도 막대]]></content:encoded>
+            <title><![CDATA[윤박x수영, MBC 단막극 '팬레터를 보내주세요' 주연 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220527155606398</link>
+            <guid>https://entertain.v.daum.net/v/20220527155606398</guid>
+            <pubDate>Fri, 27 May 2022 07:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 배우 윤박과 그룹 소녀시대 겸 배우 수영이 MBC 단막극 '팬레터를 보내주세요'를 통해 만난다. 26일 티브이데일리 취재결과 윤박과 수영이 MBC 단막극 '팬레터를 보내주세요'(극본 박태양·연출 정상희) 주연으로 캐스팅됐다. '팬레터를 보내주세요'는 한류 여신 배우로부터 팬레터 답장을 받고 싶은 딸의 소원을 들어주기 위해 아]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[효연 "'DEEP' 들었을 때 허니제이 떠올라, 이수만 대표님이 도움 많이 주셔" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220527141903950</link>
-            <guid>https://entertain.v.daum.net/v/20220527141903950</guid>
-            <pubDate>Fri, 27 May 2022 05:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[MBC FM4U '정오의 희망곡 김신영입니다'에 효연, 예린이 출연했다. 27일(금) 방송된 MBC FM4U '정오의 희망곡 김신영입니다'에서는 효연, 예린이 '선생님을 모십니다' 코너에서 새 앨범을 소개하고 이야기를 나눴다. 이날 DJ 김신영이 효연의 첫 미니앨범 'DEEP' 발매를 축하하며 "솔로로 컴백한 지 꽤 되었는데 실물 앨범은 처음이다"]]></content:encoded>
+            <title><![CDATA[이특 "신동·노홍철 차에 대해 너무 몰라..레벨 차이가 재미" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220527155206276</link>
+            <guid>https://entertain.v.daum.net/v/20220527155206276</guid>
+            <pubDate>Fri, 27 May 2022 07:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 안은재 기자 = 그룹 슈퍼주니어 멤버 이특이 노홍철, 신동과 차에 대한 지식 차이가 크다고 말했다. 27일 오후 3시 서울 중구 앰버서더 서울 풀만 호텔에서 디스커버리 채널 코리아의 새 예능 프로그램 '저 세상 중고차 – 기어 갓'(GEAR GODS, 이하 '기어 갓') 제작발표회가 진행됐다. 행사에는 박준형, 노홍철, 이특, 신동,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김진경 "모델 일 집중 위해 '가요광장' '골때녀' 하차" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220527141606847</link>
-            <guid>https://entertain.v.daum.net/v/20220527141606847</guid>
-            <pubDate>Fri, 27 May 2022 05:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 모델 김진경이 '가요광장' 청취자에 마지막 인사를 건넸다. 27일 방송된 KBS 쿨FM '이기광의 가요광장'(이하 '가요광장')에서는 김진경이 게스트로 출연했다. 이날 방송 말미 김진경은 3개월 만에 '가요광장'에서 하차하게 됐다는 소식을 전했다. 그는 "게스트로는 라디오에 많이 나가봤는데 이렇게 코너를 하게 된 건 처음이었다.]]></content:encoded>
+            <title><![CDATA[블랭키 측 "DK 맹장수술, 회복할 때까지 8인 체재 활동" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220527154901158</link>
+            <guid>https://entertain.v.daum.net/v/20220527154901158</guid>
+            <pubDate>Fri, 27 May 2022 07:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 블랭키 DK가 급성 충수염 수술을 받았다. 소속사 키스톤엔터테인먼트는 5월 27일 공식 보도자료를 통해 급성 충수염 수술 소식을 알렸다. 소속사 측은 "27일 오후 3시 멤버 DK 군이 급성 충수염(맹장) 수술을 받았다. 전문의의 소견에 따라 약 2~3주간 휴식이 필요해 DK 군은 금일 진행될 영상통화 팬사인회를 시작으로 추후 예정]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['전참시' 파트리샤, 찐 화보장인 등극 '조나단보다 낫다' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220527141513823</link>
-            <guid>https://entertain.v.daum.net/v/20220527141513823</guid>
-            <pubDate>Fri, 27 May 2022 05:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 백지연 기자] ‘전지적 참견 시점’ 파트리샤가 화보 장인에 등극한다. 28일 방송되는 MBC 예능프로그램 '전지적 참견 시점'에서는 에너지 가득했던 조나단, 파트리샤 남매의 화보 촬영 현장이 그려진다. 이날 조나단, 파트리샤는 생애 첫 동반 화보 촬영에서 남매 케미를 발산한다. 화보 유경험자인 조나단은 동생을 위해 꿀팁을 전수하는가 하면, 찐]]></content:encoded>
+            <title><![CDATA['두데' 박지환 "손석구 염탐하고 싶은 배우+궁금한 악당" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220527154812126</link>
+            <guid>https://entertain.v.daum.net/v/20220527154812126</guid>
+            <pubDate>Fri, 27 May 2022 07:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[배우 박지환이 '범죄도시2'에 함께한 손석구 첫인상을 떠올렸다. 27일 방송된 MBC FM4U '두시의 데이트 뮤지, 안영미입니다(이하 '두데')'에는 배우 박지환이 출연했다. 이날 DJ 뮤지는 "두 편 연속으로 나오셨다. 장첸과 달리 2편의 빌런 '강해상' 손석구 씨는 어떤가?"라고 물었다. 박지환은 "장첸 윤계상 씨는 직접 사업과 이권의 다툼이 있는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[효연 "윌리엄과 벤틀리의 팬, 팔로우해", 예린 "효연 선배와 같이 있는 것만으로도 성덕" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220527141303766</link>
-            <guid>https://entertain.v.daum.net/v/20220527141303766</guid>
-            <pubDate>Fri, 27 May 2022 05:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[MBC FM4U '정오의 희망곡 김신영입니다'에 효연, 예린이 출연했다. 27일(금) 방송된 MBC FM4U '정오의 희망곡 김신영입니다'에서는 효연, 예린이 '선생님을 모십니다' 코너에서 새 앨범을 소개하고 이야기를 나눴다. 이날 DJ 김신영이 "9년 전에 샘 해밍턴 씨가 효연 씨가 이상형이라고 했다. 혹시 그동안 만난 적 있냐?"라고 묻자 효연]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['아나프리해' 황수경 "첫방송 후 어색 표정..걱정 내려놓으라고" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220527140907645</link>
-            <guid>https://entertain.v.daum.net/v/20220527140907645</guid>
-            <pubDate>Fri, 27 May 2022 05:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[아나운서들이 더욱 ‘프리’한 모습으로 대중 앞에 섰다. 바로 지난 20일 첫 방송부터 뜨거운 화제를 모은 MBN 신개념 리얼 예능 프로그램 ‘'아!나 프리해’'(연출 문경태, 이하 ‘아나프리해’) 출연진 황수경, 강수정, 최현정, 김주희, 김지원, 김수민의 이야기다. ‘아나프리해’는 4대 보험 되는 안정적인 회사를 박차고 나온 지상파 방송 3사 출신 간판]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["고레에다 했다, 아니다"..'브로커', 칸의 시선들 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220527140801605</link>
-            <guid>https://entertain.v.daum.net/v/20220527140801605</guid>
-            <pubDate>Fri, 27 May 2022 05:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[[Dispatchㅣ칸(프랑스)=구민지기자] 칸의 기립박수에 큰 의미를 둘 필요는 없다. 관객들이 일어나 박수를 치는 행위는, 칸으로 오기까지의 노고에 대한 존경을 담는다.&nbsp; 그러나, 보통 10분 이상 이어지지는 않는다. 영화 '브로커'(감독 고레에다 히로카즈)처럼 12분 동안 끊임 없는 박수를 받는 것도 이례적인 일이다.&nbsp;&nbsp; '브로커'가 26일(이하 현지시]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['싱글벙글쇼' 김연자 "팬 제작해준 의상 입고 와, 감사해" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220527140608557</link>
-            <guid>https://entertain.v.daum.net/v/20220527140608557</guid>
-            <pubDate>Fri, 27 May 2022 05:20:44 GMT</pubDate>
-            <content:encoded><![CDATA['아모르파티'의 주인공 가수 김연자가 팬이 직접 만들어준 옷을 자랑했다. 27일 방송된 MBC표준FM '정준하, 신지의 싱글벙글쇼(이하 '싱글벙글쇼')'에는 김연자가 출연했다. 이날 김연자는 '블링블링' 라이브 무대로 라디오의 시작을 알렸다. 그는 "팬이 준 옷을 입고 왔다"며 낙엽이 그려진 화려한 옷을 자랑했다. DJ신지는 "화려한 옷을 안 입으셔도 블링]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[강타♥정유미, 올 가을 결혼설에 양측 "결정된바 없다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220527140100369</link>
-            <guid>https://entertain.v.daum.net/v/20220527140100369</guid>
-            <pubDate>Fri, 27 May 2022 05:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 가수 강타, 배우 정유미 커플이 결혼한다는 보도와 관련해 양측 소속사가 “결정된 바 없다”는 입장을 전했다. 스포츠경향은 27일 ‘강타·정유미 커플이 올 가을 결혼한다’는 유튜브 채널 ‘연예짱TV’ 영상 내용을 인용해 기사로 처음 작성했다. 먼저 강타 소속사 SM엔터테인먼트는 동아닷컴에 “강타·정유미 커플이 좋은 만남을 이어가고 있지만,]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[고레에다 감독의 아이유♥ "정답을 연기하는 배우..'브로커'서 자장가 부른다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220527140003315</link>
-            <guid>https://entertain.v.daum.net/v/20220527140003315</guid>
-            <pubDate>Fri, 27 May 2022 05:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=칸(프랑스), 강효진 기자] '브로커'의 고레에다 히로카즈 감독이 남다른 아이유 사랑을 보였다. 제75회 칸 영화제 경쟁부문 공식 초청작 '브로커'의 고레에다 히로카즈 감독은 지난 25일(현지시간) 오후 한국 취재진과 만나, 프리미어에 앞서 칸 방문 소감과 한국 촬영 비하인드 등을 전했다. 이날 고레에다 히로카즈 감독은 "아이유 씨가]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['싱글벙글쇼' 김연자 "2년 만에 단독 콘서트 개최, 너무 행복" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220527135706230</link>
-            <guid>https://entertain.v.daum.net/v/20220527135706230</guid>
-            <pubDate>Fri, 27 May 2022 05:20:44 GMT</pubDate>
-            <content:encoded><![CDATA['아모르파티'의 주인공 가수 김연자가 단독콘서트에 대한 애정을 드러냈다. 27일 방송된 MBC표준FM '정준하, 신지의 싱글벙글쇼(이하 '싱글벙글쇼')'에는 김연자가 출연했다. 김연자는 지난 7일 전주에서 '김연자 효 콘서트'를 열어 팬들과 만났으며 지난 14일 수원에서 '2022 김연자 라이브 콘서트'를 개최하며 전국 콘서트 투어의 시작을 알렸다. 이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[예린 "솔로 준비하며 두려움 커, 스스로 작다고 느꼈다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220527135232067</link>
-            <guid>https://entertain.v.daum.net/v/20220527135232067</guid>
-            <pubDate>Fri, 27 May 2022 05:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 김명미 기자] 여자친구 출신 예린이 솔로를 준비하며 느낀 감정을 털어놨다. 5월 27일 방송된 MBC FM4U '정오의 희망곡 김신영입니다'에는 솔로로 돌아온 가수 효연, 예린이 출연했다. 이날 예린은 솔로 앨범에 대해 "그룹으로 데뷔했을 때나 지금이나 확실히 둘 다 설레고 떨리는데, 제 목소리로 가득 채운 앨범이다 보니 감개무량했다"고 밝혔다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[리치맨과 그루브나이스, 우리들의 블루스.."신나는 음악" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220527134920950</link>
-            <guid>https://entertain.v.daum.net/v/20220527134920950</guid>
-            <pubDate>Fri, 27 May 2022 05:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[기사내용 요약 세계적 권위의 '제37회 세계블루스대회' 톱5…韓 처음 [서울=뉴시스]이재훈 기자 = '우리들의 블루스' 인기 드라마 제목이 가장 어울리는 밴드가 '리치맨과 그루브나이스'다. 애절하고 원통한 한(恨)이 펄펄 끓어 넘칠 것만 같은 블루스에 대한 편견을 기분 좋게 깨트려 나가고 있는 팀. 경쾌하고 신나는 블루스를 선보이는 이 밴드는 사람마]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SM "강타♥정유미 결혼? 좋은 만남만..결정無" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220527134829920</link>
-            <guid>https://entertain.v.daum.net/v/20220527134829920</guid>
-            <pubDate>Fri, 27 May 2022 05:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 강타·정유미 커플이 결혼설에 입장을 밝혔다. 스포츠경향은 27일 ‘강타·정유미 커플이 올 가을 결혼한다’는 유튜브 채널 ‘연예짱TV’ 영상 내용을 인용해 기사로 처음 작성했다. 유튜브 영상을 토대로 처음 작성된 보도에 따르면 강타·정유미 커플이 친인척에게도 결혼 소식을 알리며 축하받고 있다고. 하지만 결혼 전제로 만남을 이어가지만, 정확히 결]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['힛트쏭'과 떠나는 랜선 해외여행 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220527134649857</link>
-            <guid>https://entertain.v.daum.net/v/20220527134649857</guid>
-            <pubDate>Fri, 27 May 2022 05:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[‘이십세기 힛트쏭’에서 해외여행 욕구를 부르는 뮤직비디오를 소환한다. 오늘(27일) 밤 8시 방송하는 KBS Joy ‘이십세기 힛트쏭’(이하 ‘힛트쏭’)은 ‘여행 가고 싶다~! 해외로 떠난 뮤직비디오 힛트쏭’을 주제로 시청자들을 찾아간다. 이날 ‘힛트쏭’은 해외에서 촬영한 20세기 뮤직비디오를 소개한다. 이를 통해 아시아, 미국, 캐나다, 유럽 등]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[여자친구 출신 예린 "솔로 데뷔, 스스로 '작다'는 느낌" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20220527134306738</link>
-            <guid>https://entertain.v.daum.net/v/20220527134306738</guid>
-            <pubDate>Fri, 27 May 2022 05:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 서지현 기자] 그룹 여자친구 출신 예린이 첫 솔로 앨범 발매 소감을 밝혔다. 27일 오후 방송된 MBC FM4U '정오의 희망곡 김신영입니다'(이하 '정오의 희망곡')에서는 가수 효연, 예린이 출연했다. 이날 DJ 김신영은 "예린이 데뷔 7년 만에 솔로 데뷔했다"며 "예린의 신인 때가 기억난다. 솔로 신인이랑, 옛날 그 처음 느낌이랑 다르지]]></content:encoded>
+            <title><![CDATA['기어갓' 이특 "박준형, 소문난 자동차 박사..노홍철·신동과 레벨 달라" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20220527154506013</link>
+            <guid>https://entertain.v.daum.net/v/20220527154506013</guid>
+            <pubDate>Fri, 27 May 2022 07:14:55 GMT</pubDate>
+            <content:encoded><![CDATA['기어갓'에서 한 팀을 이룬 그룹 god 박준형 씨와 슈퍼주니어 이특 씨가 자동차 사랑을 뽐냈다. 디스커버리 채널 코리아 새 오리지널 예능프로그램 '저 세상 중고차-기어갓(이하 '기어갓')' 제작발표회가 27일 오후 서울 중구 앰배서더 서울 풀만 호텔에서 열렸다. 이날 현장에는 하정석PD를 비롯해 박준형 씨, 노홍철 씨, 이특 씨, 신동 씨, 오정연 씨가]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["도대체 몇 kg이 빠진거야, 너무 말랐어" 65살 톰 행크스 칸에서 충격 근황 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
@@ -1000,529 +1000,529 @@
             <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) 영화 '좋은 친구들'로 유명한 할리우드 배우 레이 리오타가 별세했다. 향년 67세. 26일(현지시간) 미국 데드라인 등 다수 매체는 레이 리오타가 영화 '데인저러스 워터'를 촬영하러 떠났던&nbsp;도미니카 공화국에서 잠을 자던 중 숨을 거뒀다고 보도했다. 1954년생인 고인은 생부모에 대해 알지 못한 채 고아원에서 지내다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 'FAKE LOVE', 日 레코드협회 '플래티넘' 인증 획득 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004623933</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004623933</guid>
-            <pubDate>Fri, 27 May 2022 05:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=지민경 기자] 그룹 방탄소년단이 총 4곡으로 일본 레코드협회로부터 '플래티넘'과 '골드' 인증을 받았다. 27일 일본 레코드협회에 따르면, 방탄소년단이 2018년 5월 발표한 LOVE YOURSELF 轉]]></content:encoded>
+            <title><![CDATA[엑소 수호 '허들', 두바이 '이매진 쇼' 배경음악으로 선정 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013210152</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013210152</guid>
+            <pubDate>Fri, 27 May 2022 07:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 그룹 엑소의 리더 수호가 발표한 솔로곡 '허들'이 K팝 최초로 두바이 '이매진 쇼'(IMAGINE SHOW)의 배경 음악으로 선정됐다고 소속사 SM엔터테인먼트가 27일 밝혔다. 사진은 엑소 수호.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 '페이크 러브', 日 레코드협회 플래티넘 인증 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=408&amp;aid=0000156604</link>
-            <guid>https://entertain.naver.com/now/read?oid=408&amp;aid=0000156604</guid>
-            <pubDate>Fri, 27 May 2022 05:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 방탄소년단이 총 4곡으로 일본 레코드협회로부터 '플래티넘'과 '골드' 인증을 받았다. 27일 일본 레코드협회에 따르면, 방탄소년단이 2018년 5월 발표한 LOVE YOURSELF 轉 'Tear'의 타이틀곡 ']]></content:encoded>
+            <title><![CDATA[김용준 "'그때, 우린' 작사, 1시간 정도 걸렸다" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003608092</link>
+            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003608092</guid>
+            <pubDate>Fri, 27 May 2022 07:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 이승록 기자] 가수 김용준이 신곡 발매를 기념해 팬들과 특별한 시간을 가졌다. 김용준은 지난 26일 오후 8시 개인 유튜브 채널 '용가릿'을 통해 새 싱글 '그때, 우린' 발매를 맞아 라이브 방송을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김용준, 신곡 기념 라이브…"'그때, 우린' 누구나 공감할 곡" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011213823</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011213823</guid>
-            <pubDate>Fri, 27 May 2022 05:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]장인영 인턴 기자 = 보컬 그룹 SG워너비 멤버 겸 솔로 가수 김용준이 신곡 발매를 기념해 팬들과 특별한 시간을 가졌다. 27일 소속사 더블에이치티엔이에 따르면, 김용준은 전날 오후 8시 개인 유튜브]]></content:encoded>
+            <title><![CDATA[온앤오프 유, 과감한 힙합 그루브…댄스 필름 티저 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011214137</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011214137</guid>
+            <pubDate>Fri, 27 May 2022 07:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]장인영 인턴 기자 = 그룹 온앤오프(ONF) 멤버 유가 독보적인 퍼포먼스를 선보였다. 27일 소속사 WM엔터테인먼트에 따르면, 유는 전날 공식 유튜브 채널 및 SNS를 통해 댄스 필름 티저 영상을 공개]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[송가인, 단독콘서트에 이산 가족 초청 "아픔 다독일 것" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001453904</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001453904</guid>
-            <pubDate>Fri, 27 May 2022 05:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 가수 송가인이 이산가족을 위해 ‘비 내리는 금강산’을 노래한다. 송가인은 오는 28일과 29일 양일간 서울 잠실 학생체육관에서 ‘2022 송가인 전국투어 콘서트-연가(戀歌)’의 포문을 연]]></content:encoded>
+            <title><![CDATA[트레저 측 “방예담 음악공부-마시호 휴식, 당분간 10인조 활동” (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000581224</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000581224</guid>
+            <pubDate>Fri, 27 May 2022 07:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 그룹 트레저(TREASURE)가 2022년 하반기 활동 청사진을 공개했다. 5월 27일 YG엔터테인먼트에 따르면 트레저는 올여름 컴백을 목표로 새 앨범 준비에 돌입했다. 타이틀곡은 이미 확정됐]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 ‘FAKE LOVE’ 日 레코드협회 스트리밍 부문 ‘플래티넘’ 인증 획득 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000581119</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000581119</guid>
-            <pubDate>Fri, 27 May 2022 05:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 그룹 방탄소년단이 총 4곡으로 일본 레코드협회로부터 '플래티넘'과 '골드' 인증을 받았다. 5월 27일 일본 레코드협회에 따르면, 방탄소년단이 2018년 5월 발표한 LOVE YOURSELF]]></content:encoded>
+            <title><![CDATA[방탄소년단, 네 곡으로 日 레코드협회 ‘플래티넘’· ‘골드’ 인증 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=016&amp;aid=0001996491</link>
+            <guid>https://entertain.naver.com/now/read?oid=016&amp;aid=0001996491</guid>
+            <pubDate>Fri, 27 May 2022 07:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[[헤럴드경제=고승희 기자] 그룹 방탄소년단(BTS)의 노래 네 곡이 일본 레코드협회로부터 ‘플래티넘’과 ‘골드’ 인증을 받았다. 27일 일본 레코드협회에 따르면 방탄소년단이 2018년 5월 발표한 ‘러브 유어셀프 전]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[도경완 ‘드림콘서트 트롯’ MC 확정, 트로트 연합 공연 이끈다 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000581117</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000581117</guid>
-            <pubDate>Fri, 27 May 2022 05:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 방송인 도경완이 ‘제1회 드림콘서트 트롯’을 이끈다. 도경완은 오는 6월 19일 오후 6시 서울 잠실 올림픽주경기장에서 개최되는 ‘제1회 드림콘서트 트롯’(이하 드림콘서트 트롯)의 MC를 맡아]]></content:encoded>
+            <title><![CDATA[블랭키 DK, 오늘(27일) 급성 충수염 수술.."8인 체재 활동" [공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004623998</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004623998</guid>
+            <pubDate>Fri, 27 May 2022 07:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=지민경 기자] 그룹 블랭키의 멤버 DK가 급성 충수염 수술로 스케줄에 불참한다. 블랭키의 소속사 키스톤엔터테인먼트 측은 27일 "금일(27일) 오후 3시 멤버 DK 군이 급성 충수염(맹장) 수술을 받았다"]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[강타, 정유미와 가을 결혼설 부인 [공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000814992</link>
-            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000814992</guid>
-            <pubDate>Fri, 27 May 2022 05:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울|조은별기자]배우 정유미와 2년 째 교제 중인 그룹 H.O.T 강타가 올 가을 결혼실을 부인했다 . 소속사 SM엔터테인먼트는 27일 스포츠서울에 “두 사람은 좋은 만남을 이어가고 있으며, 아직 결정된 사항]]></content:encoded>
+            <title><![CDATA[SG워너비 김용준, 신곡 '그때, 우린' 발매 기념 라이브 진행 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=416&amp;aid=0000283717</link>
+            <guid>https://entertain.naver.com/now/read?oid=416&amp;aid=0000283717</guid>
+            <pubDate>Fri, 27 May 2022 07:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS 연예뉴스 ㅣ강경윤 기자] 가수 김용준이 신곡 발매를 기념해 팬들과 특별한 시간을 가졌다. 김용준은 지난 26일 오후 8시 개인 유튜브 채널 '용가릿'을 통해 새 싱글 '그때, 우린' 발매를 맞아 라이브 방송]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[송가인 단독 콘서트에 이산가족 초청 "희망 메시지 전달할 수 있길" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=408&amp;aid=0000156601</link>
-            <guid>https://entertain.naver.com/now/read?oid=408&amp;aid=0000156601</guid>
-            <pubDate>Fri, 27 May 2022 05:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[가수 송가인이 이산가족을 위해 '비 내리는 금강산'을 노래한다. 송가인은 오는 28~29일 오후 5시 서울 잠실 학생체육관에서 '2022 송가인 전국투어 콘서트-연가(戀歌)'의 포문을 연다. 전국 투어의 첫 시작인]]></content:encoded>
+            <title><![CDATA[블랭키 DK, 급성 맹장수술..."당분간 스케줄 불참" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=416&amp;aid=0000283716</link>
+            <guid>https://entertain.naver.com/now/read?oid=416&amp;aid=0000283716</guid>
+            <pubDate>Fri, 27 May 2022 07:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS 연예뉴스 ㅣ강경윤 기자] 그룹 블랭키 멤버 DK가 활동에 빨간불이 켜졌다. 27일 키스톤엔터테인먼트 측은 "DK군이 금일 오후 3시 급성 충수염(맹장) 수술을 받았다."고 알리면서 "전문의의 소견에 따라 약]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[다운, 내달 새 디싱 '로스트' 발매…1년 2개월만 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011213804</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011213804</guid>
-            <pubDate>Fri, 27 May 2022 05:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]장인영 인턴 기자 = 싱어송라이터 다운(Dvwn)이 컴백 소식을 알렸다. 27일 소속사 KOZ엔터테인먼트에 따르면, 다운은 오는 6월 2일 오후 6시 디지털 싱글 '로스트(LOST)'를 발매한다. 미니]]></content:encoded>
+            <title><![CDATA[블랭키 측 "DK 맹장 수술 받아..회복할 동안 8인 체제"(공식) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003561505</link>
+            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003561505</guid>
+            <pubDate>Fri, 27 May 2022 07:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[[헤럴드POP=김지혜 기자] 블랭키 DK가 맹장 수술을 받았다. 27일 키스톤엔터테인먼트는 공식입장을 통해 "금일(27일) 오후 3시 멤버 DK 군이 급성 충수염(맹장) 수술을 받았다. 전문의의 소견에 따라 약 2~]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[송가인, 단독콘서트에 이산가족 초청 “아픔 다독일 수 있길” (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000581108</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000581108</guid>
-            <pubDate>Fri, 27 May 2022 05:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 가수 송가인이 이산가족을 위해 ‘비 내리는 금강산’을 노래한다. 송가인은 5월 28~29일 오후 5시 서울 잠실 학생체육관에서 ‘2022 송가인 전국투어 콘서트-연가(戀歌)’의 포문을 연다.]]></content:encoded>
+            <title><![CDATA['버추얼 그룹' 사공이호, 6월 11일 정식 데뷔 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003608087</link>
+            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003608087</guid>
+            <pubDate>Fri, 27 May 2022 07:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 이승록 기자] 메타버스를 기반으로 한 3인조 버추얼 그룹 사공이호(SAGONG_EE_HO)가 정식 데뷔한다. 27일 오전 소속사 노느니특공대엔터테인먼트는 “버추얼 그룹 사공이호가 오는 6월 11일 정]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임영웅, 연기도 매력적인 히어로…#영웅7 500만 뷰 돌파 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001453898</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001453898</guid>
-            <pubDate>Fri, 27 May 2022 05:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅의 인기와 비주얼이 눈길을 끈다. 지난 4월 웰메이드 공식 유튜브 채널에는 “[ #영웅7 ] 본편 Full ver. | 주연 임영웅 | 웰메이드 WELLMADE”라는 제목의 영상이]]></content:encoded>
+            <title><![CDATA["요정이야?"…ADORA(아도라), 'Trouble? TRAVEL!' 2차 콘셉트 포토 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003608083</link>
+            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003608083</guid>
+            <pubDate>Fri, 27 May 2022 07:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 이승록 기자] 아티스트 ADORA(아도라)의 두 번째 콘셉트 티저 이미지가 공개됐다. 27일 공식 SNS를 통해 오픈된 콘셉트 티저에서는 미스터리하면서도 환상적인 동화 속 세상에 있는 듯한 아도라의]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[YB∙푸르던스 출연 ‘성난 고래의 노래’ 캠페인 송 레전드 가수 참여 예정 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004623913</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004623913</guid>
-            <pubDate>Fri, 27 May 2022 05:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자] 록밴드 YB와 인디신 유망주 프루던스의 출연으로 화제를 모은 해양 보호 캠페인 ‘성난 고래의 노래’가 특별한 무대를 선사한다. ‘성난 고래의 노래(Song of the Angry Whale]]></content:encoded>
+            <title><![CDATA[예린, 걸그룹 연습생들에 '데뷔 코칭'…따뜻한 조언까지 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001454013</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001454013</guid>
+            <pubDate>Fri, 27 May 2022 07:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 조혜진 기자) 글로벌 데뷔 플랫폼 트윙플(Twinkple)이 일대일 K-POP 데뷔 코칭 지원에 나섰다. 이번 데뷔 코칭은 유튜브 채널 스튜디오 까르르(studio Grr)와 함께하는 프로젝트로 아이돌]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아스트로, 청량함의 정점 찍은 '정규3집' 활동 성료 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011213757</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011213757</guid>
-            <pubDate>Fri, 27 May 2022 05:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]김주희 인턴 기자 = 그룹 아스트로(ASTRO)가 정규 3집으로 올여름 청량함의 정점을 찍었다. 아스트로는 지난 26일 방송된 Mnet 음악 프로그램 '엠카운트다운'을 끝으로 정규 3집 '드라이브 투]]></content:encoded>
+            <title><![CDATA[송가인, 단독 콘서트에 이산가족 초청…노래 선물한다 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870865</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870865</guid>
+            <pubDate>Fri, 27 May 2022 07:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[가수 송가인이 이산가족을 위해 ‘비 내리는 금강산’을 노래한다. 송가인은 오는 28~29일 오후 5시 서울 잠실 학생체육관에서 ‘2022 송가인 전국투어 콘서트-연가(戀歌)’의 포문을 연다. 전국 투어의 첫 시작인]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[리치맨과 그루브나이스, 우리들의 블루스…"신나는 음악" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011213741</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011213741</guid>
-            <pubDate>Fri, 27 May 2022 05:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[기사내용 요약 세계적 권위의 '제37회 세계블루스대회' 톱5…韓 처음 [서울=뉴시스]이재훈 기자 = '우리들의 블루스' 인기 드라마 제목이 가장 어울리는 밴드가 '리치맨과 그루브나이스'다. 애절하고 원통한 한(恨)이]]></content:encoded>
+            <title><![CDATA[안보현, 5000만원 상당 생리대 기부..."소외된 이웃에게 나누고파" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=416&amp;aid=0000283715</link>
+            <guid>https://entertain.naver.com/now/read?oid=416&amp;aid=0000283715</guid>
+            <pubDate>Fri, 27 May 2022 07:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS 연예뉴스 ㅣ강경윤 기자] 배우 안보현이 세계 월경의 날을 맞아 취약 계층을 위한 생리대 기부에 나서 주위를 훈훈하게 했다. 27일 국제개발협력NGO 지파운데이션(대표 박충관)은 "안보현이 취약계층을 위한 5]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에스파, 美 포브스 ‘아시아 30세 이하 리더 30인’ 선정 ‘K팝 아티스트 유일’ (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000581094</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000581094</guid>
-            <pubDate>Fri, 27 May 2022 05:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 메타버스 그룹 에스파가 미국 포브스(Forbes)의 ‘아시아 30세 이하 리더 30인’에 선정됐다. 에스파는 최근 미국 유력 경제 잡지 포브스가 공식 홈페이지를 통해 발표한 ‘아시아 30세 이]]></content:encoded>
+            <title><![CDATA['전원 재계약' 세븐틴, 마의 7년에도 '탈퇴'에 민감하지 않은 이유 (엑's 현장)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001454010</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001454010</guid>
+            <pubDate>Fri, 27 May 2022 07:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 조혜진 기자) 전원 조기 재계약을 체결한 그룹 세븐틴이 서로를 향한 '끈끈한 신뢰'를 드러냈다. 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘버추얼 그룹’ 사공이호, 6월 11일 정식 데뷔..포스터 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004623899</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004623899</guid>
-            <pubDate>Fri, 27 May 2022 05:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=지민경 기자] 메타버스를 기반으로 한 3인조 버추얼 그룹 사공이호(SAGONG_EE_HO)가 정식 데뷔한다. 27일 오전 소속사 노느니특공대엔터테인먼트는 “버추얼 그룹 사공이호가 오는 6월 11일 정식 데]]></content:encoded>
+            <title><![CDATA[[김예나의 숨터뷰②] 주성민 대표 "브이홀 추억, 어제 일처럼 생생해" (엑:스피디아) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001454009</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001454009</guid>
+            <pubDate>Fri, 27 May 2022 07:15:09 GMT</pubDate>
+            <content:encoded><![CDATA['김예나의 숨터뷰'는 공연장 사람들의 희로애락을 담아 전하는 엑스포츠뉴스만의 기획 인터뷰입니다. 관객들의 '숨'으로 가득찬 공연장, 그 속에서 뜨거운 열정을 안고 희망을 꿈꾸는 이들의 이야기를 들어봅니다. &lt;편집자주]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[블랭키, 코엑스서 희망 콘서트 개최 “팬들 만날 생각에 떨려” (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870830</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870830</guid>
-            <pubDate>Fri, 27 May 2022 05:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 블랭키(BLANK2Y)가 데뷔 기념 역대급 선물을 준비했다. 블랭키(U, DK, 소담, 루이, 영빈, 시우, 성준, 마이키, 동혁)는 오는 28일 오후 7시 서울 강남구 삼성동 코엑스에서 'Blossom the]]></content:encoded>
+            <title><![CDATA[예린, 첫 솔로 활동 성공적 마무리..."오랜만의 응원 큰 힘 됐다" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=416&amp;aid=0000283714</link>
+            <guid>https://entertain.naver.com/now/read?oid=416&amp;aid=0000283714</guid>
+            <pubDate>Fri, 27 May 2022 07:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS 연예뉴스 ㅣ강경윤 기자] 그룹 여자친구 출신 가수 예린이 첫 솔로 활동을 성공적으로 마쳤다. 예린은 지난 26일 방송된 Mnet '엠카운트다운'을 끝으로 첫 미니앨범 'ARIA' 음악 방송 활동을 마무리했다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[클라씨, 패셔너블하게…‘LIVES ACROSS’ 화보 콘셉트 포토 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004623898</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004623898</guid>
-            <pubDate>Fri, 27 May 2022 05:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김나연 기자] 클라씨(CLASS:y)가 패셔너블하게 변신했다. 클라씨(명형서·윤채원·홍혜주·김리원·원지민·박보은·김선유)는 27일(오늘) 낮 12시 공식 SNS에 1st Mini Album Z 'LIVES]]></content:encoded>
+            <title><![CDATA[베리베리 첫 앨범, 해외매체서 잇따라 집중 조명 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011214080</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011214080</guid>
+            <pubDate>Fri, 27 May 2022 07:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]김주희 인턴 기자 = 그룹 베리베리가 해외 매체의 극찬을 받고 있다. 베리베리는 지난 4월 데뷔 3년만에 첫 정규 앨범 '베리베리 시리즈 오 [라운드 3 : 홀](VERIVERY SERIES O [RO]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에스파, 美 포브스 ‘아시아 30세 이하 리더 30인’ 선정..K팝 유일 [공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004623896</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004623896</guid>
-            <pubDate>Fri, 27 May 2022 05:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=지민경 기자] ‘메타버스 걸그룹’ 에스파가 미국 포브스(Forbes)의 ‘아시아 30세 이하 리더 30인’에 선정됐다. 에스파는 최근 미국 유력 경제 잡지 포브스가 공식 홈페이지를 통해 발표한 ‘아시아 3]]></content:encoded>
+            <title><![CDATA[예린, 첫 솔로 활동 성공적 마무리 “팬들의 응원 큰 힘 됐다” (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870863</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870863</guid>
+            <pubDate>Fri, 27 May 2022 07:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[가수 예린이 첫 솔로 활동을 성공적으로 마쳤다. 예린은 지난 26일 방송된 Mnet ‘엠카운트다운’을 끝으로 첫 미니앨범 ‘ARIA’ 음악 방송 활동을 마무리했다. 예린은 지난 18일 데뷔 7년 만에 첫 솔로 앨범]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[예린, 첫 솔로 활동 마무리 "오랜만에 만난 팬들 응원에 힘 얻어" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001453890</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001453890</guid>
-            <pubDate>Fri, 27 May 2022 05:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 여자친구 출신 가수 예린이 첫 솔로 활동을 성공적으로 마쳤다. 예린은 지난 26일 방송된 Mnet ‘엠카운트다운’을 끝으로 첫 미니앨범 ‘ARIA’ 음악 방송 활동을 마무리했다. 예]]></content:encoded>
+            <title><![CDATA['내가 너의 곁에 잠시 살았다는 걸'…에스나가 리메이크했다 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003608072</link>
+            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003608072</guid>
+            <pubDate>Fri, 27 May 2022 07:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 이승록 기자] 소유x정기고의 ‘썸’을 비롯해 다양한 유명곡을 작사, 작곡한 프로듀서 겸 가수 에스나(eSNa)가 토이의 ‘내가 너의 곁에 잠시 살았다는 걸’을 자신만의 스타일로 재해석했다. 27일 에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에스파, 美 포브스 '아시아 30세 이하 리더 30인' 선정..K팝 유일 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003561443</link>
-            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003561443</guid>
-            <pubDate>Fri, 27 May 2022 05:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드POP=김지혜 기자] 에스파가 미국 포브스(Forbes)의 ‘아시아 30세 이하 리더 30인’에 선정됐다. 에스파는 최근 미국 유력 경제 잡지 포브스가 공식 홈페이지를 통해 발표한 ‘아시아 30세 이하 리더]]></content:encoded>
+            <title><![CDATA[온앤오프 유, 댄스 필름 티저 깜짝 공개…독보적 퍼포먼스 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870862</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870862</guid>
+            <pubDate>Fri, 27 May 2022 07:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[온앤오프(ONF) 유가 독보적인 퍼포먼스로 다시 한번 화제를 이어간다. 소속사 WM엔터테인먼트는 지난 26일 공식 유튜브 채널 및 SNS를 통해 온앤오프 유의 댄스 필름 티저 영상을 공개했다. 공개된 영상 속 유는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[수호, '허들' 두바이 '이매진 쇼' 배경음악…"K팝 처음" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011213710</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011213710</guid>
-            <pubDate>Fri, 27 May 2022 05:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]장인영 인턴 기자 = 그룹 엑소 멤버 수호의 솔로곡 '허들(Hurdle)'이 K팝 최초로 두바이 '이매진 쇼(IMAGINE SHOW)'의 배경음악으로 선정됐다. 27일 소속사 SM엔터테인먼트에 따르면,]]></content:encoded>
+            <title><![CDATA[더보이즈 주연, 향수 앰버서더 발탁..콘셉트 완벽 소화[화보] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003561493</link>
+            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003561493</guid>
+            <pubDate>Fri, 27 May 2022 07:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[[헤럴드POP=김지혜 기자] 더보이즈(THE BOYZ) 주연이 향수 브랜드 앰배서더로 발탁됐다. 27일 퍼스트룩 매거진과 주연이 함께한 단독 화보 일부가 선공개됐다. 화보 속 주연은 각기 다른 콘셉트의 네 가지 향수]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴 민규, "재계약 후 첫 정규 앨범, 새출발과 도약 담아내" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000814974</link>
-            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000814974</guid>
-            <pubDate>Fri, 27 May 2022 05:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 세븐틴 민규가 27일 서울 여의도 콘래드호텔에서 진행된 정규 4집 ‘페이스 더 선(Face the Sun)’ 발매 기념 글로벌 기자간담회에서 포토타임을 갖고 있다. [스포츠서울 | 김민지기자]세븐틴 멤버 민규가]]></content:encoded>
+            <title><![CDATA[추앙해, ‘해방일지’ OST도 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000815880</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000815880</guid>
+            <pubDate>Fri, 27 May 2022 07:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[추앙할 만한 OST가 나온다. 종합편성채널 JTBC 주말극 ‘나의 해방일지’ 측은 27일 “OST 음반을 다음 달 3일 발매한다”고 밝혔다. ‘나의 해방일지’ 합본은 기존에 발매된 OST 가창곡 13곡에 이어 ‘일종]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[서인국, 5년 만에 가수 컴백…내달 '러브 앤 러브' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011213699</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011213699</guid>
-            <pubDate>Fri, 27 May 2022 05:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]장인영 인턴 기자 = 가수 겸 배우 서인국이 5년 만에 가요계에 돌아온다. 27일 소속사 아에르뮤직에 따르면, 서인국은 이날 공식 SNS를 통해 컴백을 알리는 커밍순 이미지를 공개했다. 이날 공개된 이]]></content:encoded>
+            <title><![CDATA[예린 'ARIA' 공식 활동 마무리 "팬들의 응원 큰 힘 됐다" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001744617</link>
+            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001744617</guid>
+            <pubDate>Fri, 27 May 2022 07:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[가수 예린 씨가 첫 솔로 활동을 성공적으로 마쳤다. 예린 씨는 지난 26일 방송된 Mnet '엠카운트다운'을 끝으로 첫 미니앨범 'ARIA' 음악 방송 활동을 마무리했다. 예린 씨는 지난 18일 데뷔 7년 만에 첫]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[하현상, 새 싱글 콘셉트 포토 공개…초여름의 청량함 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=629&amp;aid=0000151976</link>
-            <guid>https://entertain.naver.com/now/read?oid=629&amp;aid=0000151976</guid>
-            <pubDate>Fri, 27 May 2022 05:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[30일 다섯 번째 싱글 발매 가수 하현상이 다채로운 매력의 콘셉트 포토를 통해 낭만을 선사하고 있다. 하현상은 최근 공식 SNS 계정을 통해 새 싱글 'Living the moment of love(리빙 더 모먼트]]></content:encoded>
+            <title><![CDATA[하이량, 신곡 '신청곡' MV 주인공 열연…뜨거운 반응 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=408&amp;aid=0000156617</link>
+            <guid>https://entertain.naver.com/now/read?oid=408&amp;aid=0000156617</guid>
+            <pubDate>Fri, 27 May 2022 07:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[가수 하이량이 약 1년 2개월 만에 컴백한 가운데 신곡 '신청곡' 뮤직비디오가 뜨거운 반응을 이어가고 있다. 소속사 티보트엔터테인먼트 측은 지난 24일 각종 음원사이트와 카카오 엔터, 채널 원더케이(1theK) 등을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[강타-정유미 결혼설…"결정된 사항 없어" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=079&amp;aid=0003647967</link>
-            <guid>https://entertain.naver.com/now/read?oid=079&amp;aid=0003647967</guid>
-            <pubDate>Fri, 27 May 2022 05:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[가수 강타와 배우 정유미의 결혼설이 나온 가운데, 양쪽이 입장을 밝혔다. 강타 소속사 SM엔터테인먼트와 정유미 소속사 미스터액터스 관계자는 모두 27일 CBS노컷뉴스에 "두 사람은 좋은 만남을 이어가고 있으며, 아직]]></content:encoded>
+            <title><![CDATA[[포토]SF9 주호, 연극 첫 도전 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004970094</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004970094</guid>
+            <pubDate>Fri, 27 May 2022 07:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[배우 겸 가수 백주호가 27일 오후 서울 강남구 테헤란로 백암아트홀에서 열린 연극 '여도' 프레스콜에 참석해 열연하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[강타♥정유미 측 "올 가을 결혼? 결정된 사항 없어" [공식] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004704642</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004704642</guid>
-            <pubDate>Fri, 27 May 2022 05:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[가수 강타와 배우 정유미의 결혼설이 불거졌으나 양측 소속사가 이를 부인했다. 강타의 소속사 SM엔터테인먼트는 27일 한경닷컴에 "두 사람은 좋은 만남을 이어가고 있으며, 아직 결정된 사항은 없다"고 밝혔다. 정유미의]]></content:encoded>
+            <title><![CDATA[‘쥬얼리 출신’ 조민아, 독박육아 고충 토로…“집 밖에 못 나가” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000614379</link>
+            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000614379</guid>
+            <pubDate>Fri, 27 May 2022 07:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 쥬얼리 출신 조민아가 육아 고충을 토로했다. 조민아는 27일 자신의 인스타그램에 “병원 갈 때 빼고는 집 밖에 나가질 못해서 장을 못 봤더니 냉장고가 여백의 미로 가득하다”라는 글을 게재했다. 이와 함께 조민아]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[손담비♥이규혁, 신혼여행지에서 '울기 직전' 무슨 일? "가기 싫다" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003873741</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003873741</guid>
-            <pubDate>Fri, 27 May 2022 05:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선닷컴 이게은기자] 신혼여행 중인 가수 겸 배우 손담비·전 스피드스케이팅 선수 이규혁 부부가 귀국을 앞두고 아쉬움을 드러냈다. 27일 손담비는 자신의 SNS에 "가기 싫다"라는 글과 한 장의 사진을 게재했다]]></content:encoded>
+            <title><![CDATA[가수 겸 배우 '아이유' 칸 영화제 레드 카펫 입성 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=030&amp;aid=0003019754</link>
+            <guid>https://entertain.naver.com/now/read?oid=030&amp;aid=0003019754</guid>
+            <pubDate>Fri, 27 May 2022 07:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[가수 겸 배우 아이유(본명 이지은)가 칸 영화제 레드 카펫을 밟았다. 상업 영화 데뷔작인 ‘브로커’로 칸 영화제에 입성하는 감격을 누린 아이유는 고레에다 히로카즈 감독을 비롯해 배우 송강호, 강동원, 아이유, 이주영]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[강타♥정유미 양측, 가을 결혼설에 "정해진 것 없어…좋은 만남 중"[공식] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000361626</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000361626</guid>
-            <pubDate>Fri, 27 May 2022 05:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=김현록 기자]가수 강타(43)와 배우 정유미(38) 측이 가을 결혼설에 "정해진 것 없다"며 선을 그었다. 27일 유튜브채널 연예짱TV를 근거로 강타와 정유미가 올 가을 백년가약을 올린다는 보도가 전해]]></content:encoded>
+            <title><![CDATA[엑소 수호 '허들', 두바이 '이매진 쇼' 배경음악으로 선정 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013210152</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013210152</guid>
+            <pubDate>Fri, 27 May 2022 07:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 그룹 엑소의 리더 수호가 발표한 솔로곡 '허들'이 K팝 최초로 두바이 '이매진 쇼'(IMAGINE SHOW)의 배경 음악으로 선정됐다고 소속사 SM엔터테인먼트가 27일 밝혔다. 사진은 엑소 수호.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['이영돈♥' 황정음, 목표 몸무게 52kg 위해 "모닝 수영"…점점 홀쭉해지는 얼굴 [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000549410</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000549410</guid>
-            <pubDate>Fri, 27 May 2022 05:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=김지원 기자] 황정음이 다이어트 중인 근황을 전했다. 황정음은 27일 자신의 인스타그램 스토리에 "모닝수영하구"라는 글과 함께 사진을 게재했다. 사진은 황정음이 거울에 비친 자신을 찍은 것. 운동을 위해]]></content:encoded>
+            <title><![CDATA['가정폭력 암시' 조민아 "집 밖에 못 나가…냉장고 텅텅" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006122721</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006122721</guid>
+            <pubDate>Fri, 27 May 2022 07:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 김학진 기자 = 그룹 쥬얼리 출신 조민아가 가정폭력 암시글 이후 가족들과의 근황을 밝혔다. 조민아 씨는 27일 자신의 SNS에 "병원 갈 때 빼곤 집 밖에 나가질 못해서 장을 못 봤더니 냉장고가 여백]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[Y이슈] "잘 만나고 있지만"...강타♥정유미, 양측 모두 결혼설 부인 (종합) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001744591</link>
-            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001744591</guid>
-            <pubDate>Fri, 27 May 2022 05:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[가수 강타 씨와 배우 정유미 씨가 결혼설을 부인했다. 27일 한 매체가 강타 씨와 정유미 씨가 2년 간의 열애를 마치고 오는 가을 결혼한다고 보도한 가운데, 양측 모두 결혼설을 부인했다. 이에 관해 정유미 씨 소속사]]></content:encoded>
+            <title><![CDATA['류필립♥' 미나, 너무 아찔한 노출...글래머 몸매 비결 "열 배로 노력해야..." (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003873762</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003873762</guid>
+            <pubDate>Fri, 27 May 2022 07:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조윤선 기자] 가수 미나가 17년 전 추억을 소환했다. 미나는 27일 자신의 인스타그램에 "갑자기 추억소환. 방송국에서 예전 사진 보내달라고 해서 찾다가 3집 'kiss kiss' 때 사진"이라는 글과]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[★화보] 엑소 카이, 범접 불가 다크 카리스마… "역대급 비주얼" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000817322</link>
-            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000817322</guid>
-            <pubDate>Fri, 27 May 2022 05:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 엑소 카이가 무결점 비주얼을 자랑했다. 카이와 꾸뛰르 코스메틱 브랜드 '입생로랑 뷰티(YSL Beauty)가 함께 한 카리스마 넘치는 뷰티 화보가 패션 매거진 보그를 통해 공개됐다. 화보 속 카이는 맨살에 베이]]></content:encoded>
+            <title><![CDATA[박지환 "'우블스' 아들 배현성과 뭘 해도 호흡 맞아…빛나는 청춘" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006122716</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006122716</guid>
+            <pubDate>Fri, 27 May 2022 07:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 박지환이 현재 출연 중인 tvN '우리들의 블루스'에서 자신의 아들 역할로 출연 중인 배현성에 대해 애틋한 마음을 드러냈다. 박지환은 27일 오후 방송된 MBC FM4U '2시의]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“다이어터도 회식OK” 김신영 ‘술살 타파’ 스트레칭 (빼고파) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000982711</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000982711</guid>
-            <pubDate>Fri, 27 May 2022 05:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[김신영이 ‘술살 타파’ 스트레칭법을 공개한다. 28일 방송되는 KBS 2TV ‘빼고파’ 5회에는 반장 김신영과 여섯 멤버의 첫 회식이 공개된다. 다이어트를 하면서도 정말 회식에 참여해도 되는지, 꼭 참여해야 한다면]]></content:encoded>
+            <title><![CDATA[[포토] 신동-노홍철-박준형-이특 '저 세상 중고차' 출연진 한자리에 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003699929</link>
+            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003699929</guid>
+            <pubDate>Fri, 27 May 2022 07:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[신동, 노홍철, 오정연, 박준형, 이특(사진 왼쪽부터)이 27일 오후 서울 중구 장충동 앰배서더 서울 풀만 호텔에서 열린 디스커버리 채널 코리아의 신규 오리지널 예능 ‘저 세상 중고차-기어갓’의 제작발표회에 참석해]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[정유미 측 "♥강타와 좋은 만남 중, 결혼 결정 無"[공식] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003057314</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003057314</guid>
-            <pubDate>Fri, 27 May 2022 05:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[배우 정유미가 강타와의 결혼설을 부인했다. 27일 스포츠경향은 27일 유튜브 채널 연예짱TV의 내용을 인용해 "강타와 정유미가 오는 가을 결혼식을 올린다. 2년 넘게 열애를 하며 서로에 대한 확신이 생겼다"고 보도했]]></content:encoded>
+            <title><![CDATA[[포토S] 세븐틴 호시, '어흥~' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000361656</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000361656</guid>
+            <pubDate>Fri, 27 May 2022 07:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=서울, 곽혜미 기자] 세븐틴 정규 4집 'Face the Sun(페이스 더 선)' 발매 기념 글로벌 기자간담회가 27일 오전 서울 영등포구 여의도 콘래드호텔에서 열렸다. 세븐틴 호시가 포즈를 취하고 있]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에스파, 美 포브스 '아시아 30세 이하 리더 30인' 선정 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000549408</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000549408</guid>
-            <pubDate>Fri, 27 May 2022 05:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=우빈 기자] 그룹 에스파가 미국 포브스(Forbes)의 ‘아시아 30세 이하 리더 30인’에 선정됐다. 에스파는 최근 미국 유력 경제 잡지 포브스가 공식 홈페이지를 통해 발표한 ‘아시아 30세 이하 리더]]></content:encoded>
+            <title><![CDATA['17살 연하 류필립♥' 미나, 17년 전 파격 노출…구릿빛 피부+탄탄한 라인[TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000549441</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000549441</guid>
+            <pubDate>Fri, 27 May 2022 07:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=강민경 기자] 가수 미나가 과거 사진을 공개했다. 미나는 27일 자신의 인스타그램에 "갑자기 #추억소환 방송국에서 예전 사진 보내달라고 해서 찾다가 3집 #kisskiss 때 사진~^^"이라는 글과 함께]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘아나프리해’ 황수경 “첫방송 후 어색 표정…걱정 내려놓으라고”[일문일답] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004970017</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004970017</guid>
-            <pubDate>Fri, 27 May 2022 05:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[아나운서들이 더욱 ‘프리’한 모습으로 대중 앞에 섰다. 바로 지난 20일 첫 방송부터 뜨거운 화제를 모은 MBN 신개념 리얼 예능 프로그램 ‘'아!나 프리해’'(연출 문경태, 이하 ‘아나프리해’) 출연진 황수경, 강]]></content:encoded>
+            <title><![CDATA[달라진 칸 영화제와 박찬욱…전찬일 평론가에 물었다 [칸 현장] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006122710</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006122710</guid>
+            <pubDate>Fri, 27 May 2022 07:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[(칸=뉴스1) 장아름 기자 = 전찬일 평론가는 올해까지 21회째 칸 국제영화제(이하 칸 영화제)를 찾았다. 그는 지난 1993년 영화 평론을 시작해 30년 가까이 영화계에 몸담아온 평론가다. 한국 영화 100주년을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[고레에다 히로카즈 감독 '불참' 배두나와 칸 레카 함께 걸었다 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000300272</link>
-            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000300272</guid>
-            <pubDate>Fri, 27 May 2022 05:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[이쯤되면 '배두나 찬가'다. 고레에다 히로카즈 감독이 배두나에 대한 남다른 애정을 표했다. 제75회 칸국제영화제(Cannes Film Festival·이하 칸영화제) 경쟁부문 초청작 영화 '브로커(고레에다 히로카]]></content:encoded>
+            <title><![CDATA[저스틴 팀버레이크, 200여곡 저작권 매각…"1억弗 규모" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003699927</link>
+            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003699927</guid>
+            <pubDate>Fri, 27 May 2022 07:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[‘섹시 백’, ‘캔트 스탑 더 필링’ 등의 히트곡을 보유한 세계적인 팝스타 저스틴 팀버레이크(사진)가 자신의 솔로곡 저작권을 투자 회사에 넘겼다. 스트리밍 시장이 성장하면서 유명 가수의 음원은 투자 대상으로 각광받고]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[배우 탈 쓴 성범죄자…“케빈 스페이시, 남자 셋 성폭력” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000982710</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000982710</guid>
-            <pubDate>Fri, 27 May 2022 05:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[영국 왕립기소청(Crown Prosecution Service)은 26일(현지시간) 미국 유명 배우 케빈 스페이시(62)를 성폭력 혐의로 기소할 예정이라고 확인했다. BBC에 따르면 스페이시는 2005년 3월부터 2]]></content:encoded>
+            <title><![CDATA[[포토S] 세븐틴 준, '모델 같네' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000361655</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000361655</guid>
+            <pubDate>Fri, 27 May 2022 07:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=서울, 곽혜미 기자] 세븐틴 정규 4집 'Face the Sun(페이스 더 선)' 발매 기념 글로벌 기자간담회가 27일 오전 서울 영등포구 여의도 콘래드호텔에서 열렸다. 세븐틴 준이 포즈를 취하고 있다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“누가 죽였는지 가르쳐줄게” 강하늘 파격 (인사이더) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000982709</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000982709</guid>
-            <pubDate>Fri, 27 May 2022 05:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[강하늘이 역전의 서막을 올린다. JTBC 새 수목드라마 ‘인사이더’(연출 민연홍, 극본 문만세) 제작진은 27일 신념을 좇아 인생을 건 잠입을 시작한 김요한(강하늘 분) 모습이 담긴 3차 티저 영상을 공개했다. ‘인]]></content:encoded>
+            <title><![CDATA[박하선 기부, 발달장애 오케스트라 후원 위한 성금 전달(공식) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001666257</link>
+            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001666257</guid>
+            <pubDate>Fri, 27 May 2022 07:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[배우 박하선이 기부로 선행에 동참했다. 박하선이 발달장애인으로 구성된 하트하트오케스트라를 위해 1천만 원을 기부했다. 그는 2010년부터 하트-하트재단 홍보대사로 위촉되어 결식아동, 장애인 및 독거노인 봉사활동, 장]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[싱어송라이터 다운, 내달 2일 싱글 ‘LOST’ 발매 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000614359</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000614359</guid>
-            <pubDate>Fri, 27 May 2022 05:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[싱어송라이터 다운(Dvwn)이 신곡으로 돌아온다. 다운은 오는 6월 2일 오후 6시 각종 음원 사이트를 통해 디지털 싱글 ‘LOST’를 발매한다. 이번 디지털 싱글은 다운이 미니 2집 ‘it’s not your fa]]></content:encoded>
+            <title><![CDATA['두데' 박지환 "미혼이지만 부성애 연기 가능, 상상력도 훈련돼" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006122705</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006122705</guid>
+            <pubDate>Fri, 27 May 2022 07:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 박지환이 미혼이지만 부성애 연기가 가능한 이유를 설명했다. 박지환은 27일 오후 방송된 MBC FM4U '2시의 데이트 뮤지, 안영미입니다'에서 "결혼을 안 했는데 부성애 연기가]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['9월 결혼' 윤남기♥이다은, 선남선녀가 따로없네? (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000817316</link>
-            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000817316</guid>
-            <pubDate>Fri, 27 May 2022 05:21:02 GMT</pubDate>
-            <content:encoded><![CDATA['돌싱글즈2'의 윤남기, 이다은 부부가 웨딩촬영 현장을 공개했다. 이다은은 27일 자신의 인스타그램에 "웨딩 화보 촬영 현장♡"이라는 글과 함께 여러 장의 사진을 게재했다. 공개된 사진 속에는 웨딩 화보를 촬영 중인]]></content:encoded>
+            <title><![CDATA[[포토] 신동-노홍철vs박준형-이특 '저 세상 중고차 대결' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003699926</link>
+            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003699926</guid>
+            <pubDate>Fri, 27 May 2022 07:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[신동, 노홍철, 박준형, 이특(사진 왼쪽부터)이 27일 오후 서울 중구 장충동 앰배서더 서울 풀만 호텔에서 열린 디스커버리 채널 코리아의 신규 오리지널 예능 ‘저 세상 중고차-기어갓’의 제작발표회에 참석해 포즈를 취]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[美 백악관 초청받은 BTS…RM “살다 보니 별일이 다 생겨” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003699879</link>
-            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003699879</guid>
-            <pubDate>Fri, 27 May 2022 05:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[연합뉴스. 그룹 방탄소년단(BTS)의 리더 RM(사진)이 미국 백악관에 초청받은 것에 대해 소감을 밝혔다. RM은 지난 26일 팬커뮤니티 위버스를 통해 “살다보니 별일 다 생기는데 좋은 일로 다녀오는 거니까 잘 다녀]]></content:encoded>
+            <title><![CDATA['저 세상 중고차 기어갓' 노홍철 "신동 보려고 출근한다…매주 기대돼" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000361654</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000361654</guid>
+            <pubDate>Fri, 27 May 2022 07:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=장다희 기자] '저 세상 중고차 기어갓' 노홍철이 신동과의 호흡에 대해 언급했다. 노홍철은 27일 오후 서울 중구 앰버서더 서울 풀만 호텔에서 진행된 디스커버리 채널 코리아 예능 '저 세상 중고차 기어]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[강타·정유미 양측 "예쁘게 잘 만나…결혼 결정된 바 없다" [공식] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006122296</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006122296</guid>
-            <pubDate>Fri, 27 May 2022 05:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 90년대 보이그룹 H.O.T. 멤버 강타와 배우 정유미의 가을 결혼설에 대해 양측 소속사가 "결정된 바가 없다"고 공식 입장을 냈다. 강타의 소속사 SM엔터테인먼트 관게자는 27일 뉴]]></content:encoded>
+            <title><![CDATA[강타♥정유미, '칠현 마누라' 닉네임 현실되나…가을 결혼설에 "확정 無"[종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000361653</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000361653</guid>
+            <pubDate>Fri, 27 May 2022 07:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=장진리 기자] 가수 강타(43)와 배우 정유미(38)가 올 가을 결혼설에 선을 그었다. 그러면서도 "예쁘게 만나고 있다"라고 두 사람이 변함없이 예쁜 사랑을 키우고 있다고 밝혔다. 27일 유튜브 채널]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['♥태국 재벌' 신주아, 대저택서 피아노 연주...으리으리해 공연장인 줄 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003873739</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003873739</guid>
-            <pubDate>Fri, 27 May 2022 05:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선닷컴 이게은기자] 배우 신주아가 태국에서 근황을 전했다. 27일 신주아는 자신의 인스타그램에 "피아노와 함께 오늘 하루도 시작! 완곡하려고 오천 번은 친 것 같아요! #방콕 라이프"라는 글과 영상 하나를]]></content:encoded>
+            <title><![CDATA[[포토S] 세븐틴 승관, '눈빛이 초롱초롱' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000361652</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000361652</guid>
+            <pubDate>Fri, 27 May 2022 07:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=서울, 곽혜미 기자] 세븐틴 정규 4집 'Face the Sun(페이스 더 선)' 발매 기념 글로벌 기자간담회가 27일 오전 서울 영등포구 여의도 콘래드호텔에서 열렸다. 세븐틴 승관이 포즈를 취하고 있]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단, 韓가수 최초 애플뮤직 단독라디오 론칭 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004970013</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004970013</guid>
-            <pubDate>Fri, 27 May 2022 05:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 방탄소년단(BTS)이 애플뮤직과 손잡고 단독 라디오쇼 호스트로 나선다. 애플뮤직은 방탄소년단과 함께 ‘방탄소년단 라디오: Past &amp; Present’를 오는 28일 공개한다. 한국 아티스트 중 애플뮤직에서 단독]]></content:encoded>
+            <title><![CDATA[[포토] 신동-노홍철-오정연-박준형-이특 '저 세상 중고차' 출연진 한자리에 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003699925</link>
+            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003699925</guid>
+            <pubDate>Fri, 27 May 2022 07:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[신동, 노홍철, 오정연, 박준형, 이특(사진 왼쪽부터)이 27일 오후 서울 중구 장충동 앰배서더 서울 풀만 호텔에서 열린 디스커버리 채널 코리아의 신규 오리지널 예능 ‘저 세상 중고차-기어갓’의 제작발표회에 참석해]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[사진]버스터즈,'해맑은 출근길' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004623923</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004623923</guid>
-            <pubDate>Fri, 27 May 2022 05:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=이대선 기자] 27일 오전 서울 여의도 KBS 별관에서 KBS 2TV '뮤직뱅크' 녹화가 진행됐다. 그룹 버스터즈가 방송국으로 이동하며 인사를 하고 있다. 2022.05.27 /sunday@osen.co.]]></content:encoded>
+            <title><![CDATA[블랭키 측 "DK 급성 충수염 수술…8인 체재 활동" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004970087</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004970087</guid>
+            <pubDate>Fri, 27 May 2022 07:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 블랭키 DK가 급성 충수염 수술을 받았다. 소속사 키스톤엔터테인먼트는 27일 “금일 오후 3시 멤버 DK 군이 급성 충수염(맹장) 수술을 받았다”고 밝혔다. 이어 “전문의의 소견에 따라 약 2~3주간 휴식이 필]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[고레에다 감독의 아이유♥ "정답을 연기하는 배우…'브로커'서 자장가 부른다"[칸@SPO] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000361625</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000361625</guid>
-            <pubDate>Fri, 27 May 2022 05:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=칸(프랑스), 강효진 기자] '브로커'의 고레에다 히로카즈 감독이 남다른 아이유 사랑을 보였다. 제75회 칸 영화제 경쟁부문 공식 초청작 '브로커'의 고레에다 히로카즈 감독은 지난 25일(현지시간) 오]]></content:encoded>
+            <title><![CDATA[‘기어갓’ 신동 “이특, 나 ‘차알못’이라고 자꾸 사기쳐” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004970086</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004970086</guid>
+            <pubDate>Fri, 27 May 2022 07:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[‘기어갓‘ 이특·신동이 티격태격 케미로 웃음을 안겼다. 신동은 27일 오후 앰버서더 서울 풀만 호텔에서 열린 ‘저 세상 중고차-기어갓(GEAR GODS)’(이하 ‘기어갓’) 제작보고회에서 “사실 저는 차린이(자동차+]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[강타♥정유미, 올 가을 결혼설에 양측 “결정된바 없다”[종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000982708</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000982708</guid>
-            <pubDate>Fri, 27 May 2022 05:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[가수 강타, 배우 정유미 커플이 결혼한다는 보도와 관련해 양측 소속사가 “결정된 바 없다”는 입장을 전했다. 스포츠경향은 27일 ‘강타·정유미 커플이 올 가을 결혼한다’는 유튜브 채널 ‘연예짱TV’ 영상 내용을 인용]]></content:encoded>
+            <title><![CDATA[[포토] 노홍철-신동 '홍카 멋있죠?' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003699924</link>
+            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003699924</guid>
+            <pubDate>Fri, 27 May 2022 07:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[방송인 노홍철(사진 왼쪽)과 슈퍼주니어 신동이 27일 오후 서울 중구 장충동 앰배서더 서울 풀만 호텔에서 열린 디스커버리 채널 코리아의 신규 오리지널 예능 ‘저 세상 중고차-기어갓’의 제작발표회에 참석해 포즈를 취하]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[사진]싸이퍼 원,'귀여운 꽃받침' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004623918</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004623918</guid>
-            <pubDate>Fri, 27 May 2022 05:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=이대선 기자] 27일 오전 서울 여의도 KBS 별관에서 KBS 2TV '뮤직뱅크' 녹화가 진행됐다. 그룹 싸이퍼 원이 방송국으로 이동하며 인사를 하고 있다. 2022.05.27 /sunday@osen.co]]></content:encoded>
+            <title><![CDATA[김정은·이유미·김해숙·옹성우·변우석, 백미경 작가 새 드라마 출연 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000300289</link>
+            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000300289</guid>
+            <pubDate>Fri, 27 May 2022 07:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김정은·이유미·김해숙·옹성우·변우석이 백미경 작가의 새 드라마에 출연한다고 제작사 바른손씨앤씨가 27일 밝혔다. 한국드라마 최초 여성 히어로물인 '힘쎈여자도봉순'의 세계관을 확장한 '힘쎈여자강남순'은 선천적]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[수지, 콧대가 예술이네..'국민 첫사랑' 비주얼[★SNS] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000814976</link>
-            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000814976</guid>
-            <pubDate>Fri, 27 May 2022 05:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 남서영기자]가수 겸 배우 수지가 청순 미모를 뽐냈다. 27일 매니지먼트 숲 공식 SNS에는 “#현장숲찍 불금의 마지막은 역시 #수지 지난 25일 발매된 #널사랑하니까를 라이브로 들을 수 있다니”라는]]></content:encoded>
+            <title><![CDATA[[포토S] 세븐틴 조슈아, '냉미남'의 정석 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000361651</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000361651</guid>
+            <pubDate>Fri, 27 May 2022 07:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=서울, 곽혜미 기자] 세븐틴 정규 4집 'Face the Sun(페이스 더 선)' 발매 기념 글로벌 기자간담회가 27일 오전 서울 영등포구 여의도 콘래드호텔에서 열렸다. 세븐틴 조슈아가 포즈를 취하고]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[케빈 스페이시, 英서도 동성 성폭행 혐의 피소…복귀 무산? [엑's 해외이슈] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001453837</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001453837</guid>
-            <pubDate>Fri, 27 May 2022 03:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) 동성 배우와 미성년자를 성추행한 혐의로 활동을 중단했던 케빈 스페이시가 또다시 동성 성폭행 혐의로 기소됐다. 26일(현지시간) 미국 버라이어티 등 다수 매체는 케빈 스페이시가 3명의 남성]]></content:encoded>
+            <title><![CDATA[베리베리 첫 앨범, 해외매체서 잇따라 집중 조명 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011214080</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011214080</guid>
+            <pubDate>Fri, 27 May 2022 07:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]김주희 인턴 기자 = 그룹 베리베리가 해외 매체의 극찬을 받고 있다. 베리베리는 지난 4월 데뷔 3년만에 첫 정규 앨범 '베리베리 시리즈 오 [라운드 3 : 홀](VERIVERY SERIES O [RO]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박선영 아나운서 '매력적인 단발 미모' [MK화보] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870818</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870818</guid>
-            <pubDate>Fri, 27 May 2022 03:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 '세븐틴'의 정규 4집 '페이스 더 선(Face the Sun)' 발매 기념 글로벌 기자간담회가 27일 오후 서울 여의도 콘래드 호텔에서 열렸다. 박선영 아나운서가 기자간담회를 진행하고 있다. 한편 세븐틴의 타]]></content:encoded>
+            <title><![CDATA[박준형 '순정 복원을 추구' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870861</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870861</guid>
+            <pubDate>Fri, 27 May 2022 07:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[디스커버리 채널 코리아 신규 오리지널 예능 ‘저 세상 중고차-기어갓 (Gear GODs)’ 제작발표회가 27일 오후 서울 중구 장충동 앰배서더 풀만 호텔에서 열렸다. 박준형이 기자간담회를 갖고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴 디노 '자신 있습니다' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870814</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870814</guid>
-            <pubDate>Fri, 27 May 2022 03:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 '세븐틴'의 정규 4집 '페이스 더 선(Face the Sun)' 발매 기념 글로벌 기자간담회가 27일 오후 서울 여의도 콘래드 호텔에서 열렸다. 세븐틴 디노가 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[이특 '중고차의 진가를 찾아서' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870860</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870860</guid>
+            <pubDate>Fri, 27 May 2022 07:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[디스커버리 채널 코리아 신규 오리지널 예능 ‘저 세상 중고차-기어갓 (Gear GODs)’ 제작발표회가 27일 오후 서울 중구 장충동 앰배서더 풀만 호텔에서 열렸다. 이특이 기자간담회를 갖고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[디노 '세븐틴 막내' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870812</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870812</guid>
-            <pubDate>Fri, 27 May 2022 03:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 '세븐틴'의 정규 4집 '페이스 더 선(Face the Sun)' 발매 기념 글로벌 기자간담회가 27일 오후 서울 여의도 콘래드 호텔에서 열렸다. 세븐틴 디노가 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[신동 '차알못' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870859</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870859</guid>
+            <pubDate>Fri, 27 May 2022 07:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[디스커버리 채널 코리아 신규 오리지널 예능 ‘저 세상 중고차-기어갓 (Gear GODs)’ 제작발표회가 27일 오후 서울 중구 장충동 앰배서더 풀만 호텔에서 열렸다. 신동이 기자간담회를 갖고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴 디에잇 '매력 하트' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870811</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870811</guid>
-            <pubDate>Fri, 27 May 2022 03:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 '세븐틴'의 정규 4집 '페이스 더 선(Face the Sun)' 발매 기념 글로벌 기자간담회가 27일 오후 서울 여의도 콘래드 호텔에서 열렸다. 세븐틴 디에잇이 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[오정연 '사랑스러운 보조개' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870858</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870858</guid>
+            <pubDate>Fri, 27 May 2022 07:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[디스커버리 채널 코리아 신규 오리지널 예능 ‘저 세상 중고차-기어갓 (Gear GODs)’ 제작발표회가 27일 오후 서울 중구 장충동 앰배서더 풀만 호텔에서 열렸다. 오정연이 기자간담회를 갖고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴 디에잇 '빠져든다' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870810</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870810</guid>
-            <pubDate>Fri, 27 May 2022 03:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 '세븐틴'의 정규 4집 '페이스 더 선(Face the Sun)' 발매 기념 글로벌 기자간담회가 27일 오후 서울 여의도 콘래드 호텔에서 열렸다. 세븐틴 디에잇이 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[노홍철 '중고차 예능에 도전' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870857</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870857</guid>
+            <pubDate>Fri, 27 May 2022 07:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[디스커버리 채널 코리아 신규 오리지널 예능 ‘저 세상 중고차-기어갓 (Gear GODs)’ 제작발표회가 27일 오후 서울 중구 장충동 앰배서더 풀만 호텔에서 열렸다. 노홍철이 기자간담회를 갖고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴 호시 '열정이 가득' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870809</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870809</guid>
-            <pubDate>Fri, 27 May 2022 03:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 '세븐틴'의 정규 4집 '페이스 더 선(Face the Sun)' 발매 기념 글로벌 기자간담회가 27일 오후 서울 여의도 콘래드 호텔에서 열렸다. 세븐틴 호시가 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[오정연 '하의실종 패션' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870856</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870856</guid>
+            <pubDate>Fri, 27 May 2022 07:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[디스커버리 채널 코리아 신규 오리지널 예능 ‘저 세상 중고차-기어갓 (Gear GODs)’ 제작발표회가 27일 오후 서울 중구 장충동 앰배서더 풀만 호텔에서 열렸다. 오정연이 포토타임을 갖고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴 호시 '카리스마 포즈' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870808</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870808</guid>
-            <pubDate>Fri, 27 May 2022 03:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 '세븐틴'의 정규 4집 '페이스 더 선(Face the Sun)' 발매 기념 글로벌 기자간담회가 27일 오후 서울 여의도 콘래드 호텔에서 열렸다. 세븐틴 호시가 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[오정연 '설레이는 발걸음' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870855</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870855</guid>
+            <pubDate>Fri, 27 May 2022 07:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[디스커버리 채널 코리아 신규 오리지널 예능 ‘저 세상 중고차-기어갓 (Gear GODs)’ 제작발표회가 27일 오후 서울 중구 장충동 앰배서더 풀만 호텔에서 열렸다. 오정연이 포토타임을 갖고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴 준 '카리스마 눈빛' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870807</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870807</guid>
-            <pubDate>Fri, 27 May 2022 03:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 '세븐틴'의 정규 4집 '페이스 더 선(Face the Sun)' 발매 기념 글로벌 기자간담회가 27일 오후 서울 여의도 콘래드 호텔에서 열렸다. 세븐틴 준이 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[저 세상 중고차 기어갓 제작발표회 [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870854</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870854</guid>
+            <pubDate>Fri, 27 May 2022 07:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[디스커버리 채널 코리아 신규 오리지널 예능 ‘저 세상 중고차-기어갓 (Gear GODs)’ 제작발표회가 27일 오후 서울 중구 장충동 앰배서더 풀만 호텔에서 열렸다. 신동, 노홍철, 오정연, 박준형, 이특이 포토타임]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴 준 '멋진 포즈' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870806</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870806</guid>
-            <pubDate>Fri, 27 May 2022 03:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 '세븐틴'의 정규 4집 '페이스 더 선(Face the Sun)' 발매 기념 글로벌 기자간담회가 27일 오후 서울 여의도 콘래드 호텔에서 열렸다. 세븐틴 준이 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[신동-노홍철-박준형-이특 '저 세상 중고차 기어갓' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870853</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870853</guid>
+            <pubDate>Fri, 27 May 2022 07:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[디스커버리 채널 코리아 신규 오리지널 예능 ‘저 세상 중고차-기어갓 (Gear GODs)’ 제작발표회가 27일 오후 서울 중구 장충동 앰배서더 풀만 호텔에서 열렸다. 신동, 노홍철, 박준형, 이특이 포토타임을 갖고]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴 승관 '매력이 넘쳐' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870805</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870805</guid>
-            <pubDate>Fri, 27 May 2022 03:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 '세븐틴'의 정규 4집 '페이스 더 선(Face the Sun)' 발매 기념 글로벌 기자간담회가 27일 오후 서울 여의도 콘래드 호텔에서 열렸다. 세븐틴 승관이 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[노홍철-신동 '홍카 앞에서' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870852</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870852</guid>
+            <pubDate>Fri, 27 May 2022 07:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[디스커버리 채널 코리아 신규 오리지널 예능 ‘저 세상 중고차-기어갓 (Gear GODs)’ 제작발표회가 27일 오후 서울 중구 장충동 앰배서더 풀만 호텔에서 열렸다. 노홍철, 신동이 포토타임을 갖고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴 도겸 '유쾌한 하트' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870803</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870803</guid>
-            <pubDate>Fri, 27 May 2022 03:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 '세븐틴'의 정규 4집 '페이스 더 선(Face the Sun)' 발매 기념 글로벌 기자간담회가 27일 오후 서울 여의도 콘래드 호텔에서 열렸다. 세븐틴 도겸이 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[박준형-이특 '중고차 복원 대결 버라이어티' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870851</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870851</guid>
+            <pubDate>Fri, 27 May 2022 07:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[디스커버리 채널 코리아 신규 오리지널 예능 ‘저 세상 중고차-기어갓 (Gear GODs)’ 제작발표회가 27일 오후 서울 중구 장충동 앰배서더 풀만 호텔에서 열렸다. 박준형, 이특이 포토타임을 갖고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴 도겸 '새 앨범 기대하세요' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870802</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870802</guid>
-            <pubDate>Fri, 27 May 2022 03:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 '세븐틴'의 정규 4집 '페이스 더 선(Face the Sun)' 발매 기념 글로벌 기자간담회가 27일 오후 서울 여의도 콘래드 호텔에서 열렸다. 세븐틴 도겸이 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[박준형 '자동차 딜러로 변신' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870850</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870850</guid>
+            <pubDate>Fri, 27 May 2022 07:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[디스커버리 채널 코리아 신규 오리지널 예능 ‘저 세상 중고차-기어갓 (Gear GODs)’ 제작발표회가 27일 오후 서울 중구 장충동 앰배서더 풀만 호텔에서 열렸다. 박준형이 포토타임을 갖고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴 우지 '귀여운 눈빛' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870801</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870801</guid>
-            <pubDate>Fri, 27 May 2022 03:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 '세븐틴'의 정규 4집 '페이스 더 선(Face the Sun)' 발매 기념 글로벌 기자간담회가 27일 오후 서울 여의도 콘래드 호텔에서 열렸다. 세븐틴 우지가 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[박준형 '멋진 패션' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870849</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870849</guid>
+            <pubDate>Fri, 27 May 2022 07:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[디스커버리 채널 코리아 신규 오리지널 예능 ‘저 세상 중고차-기어갓 (Gear GODs)’ 제작발표회가 27일 오후 서울 중구 장충동 앰배서더 풀만 호텔에서 열렸다. 박준형이 포토타임을 갖고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴 우지 '피부 미남' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870800</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870800</guid>
-            <pubDate>Fri, 27 May 2022 03:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 '세븐틴'의 정규 4집 '페이스 더 선(Face the Sun)' 발매 기념 글로벌 기자간담회가 27일 오후 서울 여의도 콘래드 호텔에서 열렸다. 세븐틴 우지가 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[박준형 '연예계 대표 차덕후' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870847</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870847</guid>
+            <pubDate>Fri, 27 May 2022 07:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[디스커버리 채널 코리아 신규 오리지널 예능 ‘저 세상 중고차-기어갓 (Gear GODs)’ 제작발표회가 27일 오후 서울 중구 장충동 앰배서더 풀만 호텔에서 열렸다. 박준형이 포토타임을 갖고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴 조슈아 '매력 하트' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870799</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870799</guid>
-            <pubDate>Fri, 27 May 2022 03:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 '세븐틴'의 정규 4집 '페이스 더 선(Face the Sun)' 발매 기념 글로벌 기자간담회가 27일 오후 서울 여의도 콘래드 호텔에서 열렸다. 세븐틴 조슈아가 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[노홍철 '가자!' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870846</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870846</guid>
+            <pubDate>Fri, 27 May 2022 07:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[디스커버리 채널 코리아 신규 오리지널 예능 ‘저 세상 중고차-기어갓 (Gear GODs)’ 제작발표회가 27일 오후 서울 중구 장충동 앰배서더 풀만 호텔에서 열렸다. 노홍철이 포토타임을 갖고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴 조슈아 '떠오르는 태양처럼' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870798</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870798</guid>
-            <pubDate>Fri, 27 May 2022 03:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 '세븐틴'의 정규 4집 '페이스 더 선(Face the Sun)' 발매 기념 글로벌 기자간담회가 27일 오후 서울 여의도 콘래드 호텔에서 열렸다. 세븐틴 조슈아가 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[노홍철 '기어갓 기대하세요' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870845</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870845</guid>
+            <pubDate>Fri, 27 May 2022 07:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[디스커버리 채널 코리아 신규 오리지널 예능 ‘저 세상 중고차-기어갓 (Gear GODs)’ 제작발표회가 27일 오후 서울 중구 장충동 앰배서더 풀만 호텔에서 열렸다. 노홍철이 포토타임을 갖고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴 정한 '페이스 더 선' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870797</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870797</guid>
-            <pubDate>Fri, 27 May 2022 03:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 '세븐틴'의 정규 4집 '페이스 더 선(Face the Sun)' 발매 기념 글로벌 기자간담회가 27일 오후 서울 여의도 콘래드 호텔에서 열렸다. 세븐틴 정한이 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[강다니엘, 뉴욕 타임스퀘어·명동서 '더 스토리' 광고 송출 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011214008</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011214008</guid>
+            <pubDate>Fri, 27 May 2022 07:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]김주희 인턴 기자 = 가수 강다니엘이 컴백을 하며 뉴욕과 명동을 접수했다. 지난 23~24일 '글로벌 랜드마크' 뉴욕 타임스퀘어와 '한류의 중심' 명동에 강다니엘 정규 1집 '더 스토리(The Stor]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴 정한 '컴백 했어요' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870796</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870796</guid>
-            <pubDate>Fri, 27 May 2022 03:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 '세븐틴'의 정규 4집 '페이스 더 선(Face the Sun)' 발매 기념 글로벌 기자간담회가 27일 오후 서울 여의도 콘래드 호텔에서 열렸다. 세븐틴 정한이 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[이특 '멋짐 가득' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870844</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870844</guid>
+            <pubDate>Fri, 27 May 2022 07:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[디스커버리 채널 코리아 신규 오리지널 예능 ‘저 세상 중고차-기어갓 (Gear GODs)’ 제작발표회가 27일 오후 서울 중구 장충동 앰배서더 풀만 호텔에서 열렸다. 이특이 포토타임을 갖고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴 버논 '정규 4집으로 컴백' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870795</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870795</guid>
-            <pubDate>Fri, 27 May 2022 03:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 '세븐틴'의 정규 4집 '페이스 더 선(Face the Sun)' 발매 기념 글로벌 기자간담회가 27일 오후 서울 여의도 콘래드 호텔에서 열렸다. 세븐틴 버논이 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[이특 '중고차 예능 기대하세요' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870843</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870843</guid>
+            <pubDate>Fri, 27 May 2022 07:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[디스커버리 채널 코리아 신규 오리지널 예능 ‘저 세상 중고차-기어갓 (Gear GODs)’ 제작발표회가 27일 오후 서울 중구 장충동 앰배서더 풀만 호텔에서 열렸다. 이특이 포토타임을 갖고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴 버논 '강렬한 눈빛' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870794</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870794</guid>
-            <pubDate>Fri, 27 May 2022 03:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 '세븐틴'의 정규 4집 '페이스 더 선(Face the Sun)' 발매 기념 글로벌 기자간담회가 27일 오후 서울 여의도 콘래드 호텔에서 열렸다. 세븐틴 버논이 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[신동 '운전 포즈' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870842</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870842</guid>
+            <pubDate>Fri, 27 May 2022 07:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[디스커버리 채널 코리아 신규 오리지널 예능 ‘저 세상 중고차-기어갓 (Gear GODs)’ 제작발표회가 27일 오후 서울 중구 장충동 앰배서더 풀만 호텔에서 열렸다. 신동이 포토타임을 갖고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴 민규 '그윽한 눈길' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870793</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870793</guid>
-            <pubDate>Fri, 27 May 2022 03:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 '세븐틴'의 정규 4집 '페이스 더 선(Face the Sun)' 발매 기념 글로벌 기자간담회가 27일 오후 서울 여의도 콘래드 호텔에서 열렸다. 세븐틴 민규가 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[오정연 '사랑스러운 보조개 미소' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870840</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870840</guid>
+            <pubDate>Fri, 27 May 2022 07:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[디스커버리 채널 코리아 신규 오리지널 예능 ‘저 세상 중고차-기어갓 (Gear GODs)’ 제작발표회가 27일 오후 서울 중구 장충동 앰배서더 풀만 호텔에서 열렸다. 방송인 오정연이 포토타임을 갖고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴 민규 '웃음이 빵~' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870792</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870792</guid>
-            <pubDate>Fri, 27 May 2022 03:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 '세븐틴'의 정규 4집 '페이스 더 선(Face the Sun)' 발매 기념 글로벌 기자간담회가 27일 오후 서울 여의도 콘래드 호텔에서 열렸다. 세븐틴 민규가 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[오정연 '눈부신 미모' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870839</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870839</guid>
+            <pubDate>Fri, 27 May 2022 07:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[디스커버리 채널 코리아 신규 오리지널 예능 ‘저 세상 중고차-기어갓 (Gear GODs)’ 제작발표회가 27일 오후 서울 중구 장충동 앰배서더 풀만 호텔에서 열렸다. 방송인 오정연이 포토타임을 갖고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴 원우 '핫 핫 핫' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870791</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870791</guid>
-            <pubDate>Fri, 27 May 2022 03:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 '세븐틴'의 정규 4집 '페이스 더 선(Face the Sun)' 발매 기념 글로벌 기자간담회가 27일 오후 서울 여의도 콘래드 호텔에서 열렸다. 세븐틴 원우가 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[오정연 '사랑스러운 손인사' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870838</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870838</guid>
+            <pubDate>Fri, 27 May 2022 07:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[디스커버리 채널 코리아 신규 오리지널 예능 ‘저 세상 중고차-기어갓 (Gear GODs)’ 제작발표회가 27일 오후 서울 중구 장충동 앰배서더 풀만 호텔에서 열렸다. 방송인 오정연이 포토타임을 갖고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴 원우 '컴백 했어요' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870790</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000870790</guid>
-            <pubDate>Fri, 27 May 2022 03:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 '세븐틴'의 정규 4집 '페이스 더 선(Face the Sun)' 발매 기념 글로벌 기자간담회가 27일 오후 서울 여의도 콘래드 호텔에서 열렸다. 세븐틴 원우가 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[10대 성추행으로 몰락한 배우, 또 동성 성폭행 혐의[할리우드비하인드] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000581165</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000581165</guid>
+            <pubDate>Fri, 27 May 2022 07:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 배우 케빈 스페이시가 또다시 성폭행 혐의로 논란에 휩싸였다. 5월 26일(현지시간) 할리우드 리포터에 따르면 케빈 스페이시는 3명의 남성에 대한 4건의 성폭행 혐의로 영국 검찰에 기소됐다. 영]]></content:encoded>
         </item>
     </channel>
 </rss>
