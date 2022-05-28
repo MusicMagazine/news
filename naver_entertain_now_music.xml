@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-05-28T13:27:12.514Z</updated>
+    <updated>2022-05-28T14:16:14.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[투모로우바이투게더, 최소 연차 ‘초동 밀리언 인증패’ 수상]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000871227</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000871227"/>
+        <updated>2022-05-28T14:15:57.065Z</updated>
+        <content type="html"><![CDATA[그룹 투모로우바이투게더가 데뷔 후 첫 한터차트 초동 밀리언 인증패를 수상했다. 지난 27일 한터뉴스에 따르면 투모로우바이투게더는 네 번째 미니앨범 'minisode 2: Thursday's Child'로 한터차트 초]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송가인, 938일 만의 콘서트..노래로 보답한 전국투어 첫 공연]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003057589</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001454411"/>
         <updated>2022-05-28T07:16:54.574Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 하지원 기자) 아티스트 아프로(APRO)가 새로운 월간 프로젝트 음원을 발표한다. 아프로는 28일 정오 온라인 음원사이트를 통해 월간 음원 ‘Avenue (애비뉴)’ 여덟 번째 프로젝트 신곡 ‘To u]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LIGHTSUM, ‘ALIVE’ 뮤직비디오 1000만뷰 돌파]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000816028</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000816028"/>
-        <updated>2022-05-28T07:16:54.575Z</updated>
-        <content type="html"><![CDATA[LIGHTSUM(상아, 초원, 나영, 히나, 주현, 유정, 휘연, 지안)의 뮤직비디오 조회수가 1000만 뷰를 돌파했다. 지난 24일 오후 6시에 공개된 LIGHTSUM의 신곡 ‘ALIVE’(얼라이브)의 뮤직비디오]]></content>
     </entry>
 </feed>
