@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-05-29T05:20:54.276Z</updated>
+    <updated>2022-05-29T06:20:49.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[그래픽] '남우주연상' 송강호 칸영화제 도전 연보]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013212352</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013212352"/>
+        <updated>2022-05-29T06:20:49.272Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이재윤 기자 = 송강호는 28일(현지시간) 프랑스 칸 뤼미에르 대극장에서 열린 제75회 칸영화제 시상식에서 남우주연상 수상자로 호명됐다. 한국 남자 배우가 이 부문 상을 받은 것은 처음이다. 송강호]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['올드보이'부터 '헤어질 결심'까지…칸 사로잡은 박찬욱 작품 세계]]></title>
         <id>https://entertain.naver.com/now/read?oid=422&amp;aid=0000544174</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013212069"/>
         <updated>2022-05-29T03:28:03.856Z</updated>
         <content type="html"><![CDATA[한국 영화 첫 연출 일본 거장 "한일 영화 교류 진행됐으면" (도쿄=연합뉴스) 박성진 특파원 = 일본 영화의 거장 고레에다 히로카즈 감독은 28일(현지시간) 자신이 연출한 '브로커'에 출연해 칸국제영화제 남우주연상을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[그래픽] 제75회 칸영화제 주요 수상작]]></title>
-        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013211803</id>
-        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013211803"/>
-        <updated>2022-05-29T01:14:12.747Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이재윤 기자 = 28일(현지시간) 폐막한 제75회 칸국제영화제에서 루벤 외스틀룬드 감독의 '슬픔의 삼각형'(TRIANGLE OF SADNESS)이 최고 작품상인 황금종려상을 수상했다. '헤어질 결심]]></content>
     </entry>
 </feed>
