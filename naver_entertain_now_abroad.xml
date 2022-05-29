@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-05-29T07:16:44.873Z</updated>
+    <updated>2022-05-29T08:20:57.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박찬욱 감독상·송강호 남우주연상…칸영화제 2관왕]]></title>
+        <id>https://entertain.naver.com/now/read?oid=422&amp;aid=0000544206</id>
+        <link href="https://entertain.naver.com/now/read?oid=422&amp;aid=0000544206"/>
+        <updated>2022-05-29T08:20:56.928Z</updated>
+        <content type="html"><![CDATA[[앵커] 박찬욱 감독과 배우 송강호가 칸국제영화제에서 각각 감독상과 남우주연상을 수상했습니다. 한국 영화 역사상 처음으로 2관왕을 달성한 건데요. 프랑스 칸 연결하겠습니다. 박효정 기자. [기자] 네, 프랑스 칸입니]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[그래픽] '남우주연상' 송강호 칸영화제 도전 연보]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013212352</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0006124996"/>
         <updated>2022-05-29T03:28:03.854Z</updated>
         <content type="html"><![CDATA[(칸=뉴스1) 이준성 프리랜서기자 = 영화감독 박찬욱이 28일(현지시간) 제75회 칸 국제영화제가 열리고 있는 프랑스 남부 칸 ‘팔레 데 페스티벌’(Palais des Festivals)에서 열린 폐막식에 참석해 수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고레에다 "송강호는 작품 중요인물이자 팀 리더…칸 수상 기뻐"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013212069</id>
-        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013212069"/>
-        <updated>2022-05-29T03:28:03.856Z</updated>
-        <content type="html"><![CDATA[한국 영화 첫 연출 일본 거장 "한일 영화 교류 진행됐으면" (도쿄=연합뉴스) 박성진 특파원 = 일본 영화의 거장 고레에다 히로카즈 감독은 28일(현지시간) 자신이 연출한 '브로커'에 출연해 칸국제영화제 남우주연상을]]></content>
     </entry>
 </feed>
