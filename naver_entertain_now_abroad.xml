@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-05-29T21:16:08.753Z</updated>
+    <updated>2022-05-29T22:18:00.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[프로그레시브 록 밴드 '예스' 드러머 앨런 화이트 별세]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013213185</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013213185"/>
+        <updated>2022-05-29T22:18:00.089Z</updated>
+        <content type="html"><![CDATA[존 레넌 앨범에도 참여…'인스턴트 카르마' 명연으로 격찬 (뉴욕=연합뉴스) 고일환 특파원 = 1970년대 영국의 대표적인 프로그레시브 록 밴드로 꼽히는 '예스'에서 40년 이상 타악기를 연주했던 앨런 화이트가 별세했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['칸 영화제 동반수상' 송강호·박찬욱 내일 귀국]]></title>
         <id>https://entertain.naver.com/now/read?oid=422&amp;aid=0000544221</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0006125001"/>
         <updated>2022-05-29T03:28:03.850Z</updated>
         <content type="html"><![CDATA[(칸=뉴스1) 이준성 프리랜서기자 = 영화감독 박찬욱이 28일(현지시간) 제75회 칸 국제영화제가 열리고 있는 프랑스 남부 칸 ‘팔레 데 페스티벌’(Palais des Festivals)에서 열린 폐막식에 참석해 수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다이아몬드 100개 박힌 황금종려상 트로피]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0006125000</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0006125000"/>
-        <updated>2022-05-29T03:28:03.851Z</updated>
-        <content type="html"><![CDATA[(칸=뉴스1) 이준성 프리랜서기자 = 제75회 칸 국제영화제 폐막일인 28일(현지시간) 프랑스 남부 칸 ‘팔레 데 페스티벌’(Palais des Festivals)에서 ’트라이앵글 오브 새드니스’(TRIANGLE O]]></content>
     </entry>
 </feed>
