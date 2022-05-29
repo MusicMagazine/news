@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-05-29T04:31:25.834Z</updated>
+    <updated>2022-05-29T05:20:54.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['믿고보는 무대장인' 몬스타엑스, 독일도 홀렸다 "한국어 떼창까지']]></title>
+        <id>https://entertain.v.daum.net/v/20220529140959203</id>
+        <link href="https://entertain.v.daum.net/v/20220529140959203"/>
+        <updated>2022-05-29T05:20:15.993Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] '믿듣퍼' 그룹 몬스타엑스가 독일을 뜨겁게 달궜다. 미주 투어 중인 몬스타엑스는 5월 28일 오후 SBS에서 방송된 'KPOP. FLEX (케이팝 플렉스 - 독일)'에 등장해 근황을 공개했다. 'KPOP. FLEX '는 지난 14일(현지 시각)부터 15일까지 이틀간 독일 프랑크푸르트에 위치한 월드컵 경기장 '도이체 방크 파크 (De]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코카N버터, 차원이 다른 퍼포먼스..'그린콘서트' 찢은 힙한 무대 매너]]></title>
         <id>https://entertain.v.daum.net/v/20220529130649087</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220529090203893"/>
         <updated>2022-05-29T01:13:37.117Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 가수 송가인과 어게인은 하나였다. 가수 송가인이 팬들과 함께 전국투어 콘서트의 시작을 감동으로 물들였다. 송가인은 5월 28일 서울 잠실 학생체육관에서 열린 ‘2022 송가인 전국투어 콘서트-연가(戀歌)’의 첫 공연을 통해 5,000여 명의 팬(어게인)들을 만났다. 송가인의 단독 콘서트는 지난 2019년 11월 3일 경희대 공연 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단 뷔, K팝 男솔로 최초 스포티파이 1억 1500만 돌파..'Record Setter']]></title>
-        <id>https://entertain.v.daum.net/v/20220529082600275</id>
-        <link href="https://entertain.v.daum.net/v/20220529082600275"/>
-        <updated>2022-05-29T01:13:37.117Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 문완식 기자] 방탄소년단(BTS) 뷔의 'Christmas Tree'가 스포티파이(Spotify) 자체 신기록을 다시 한번 경신하며 'Record Setter' 면모를 빛냈다. 뷔가 참여한 드라마 '그 해 우리는'의 OST 'Christmas Tree'는 세계 최대 음원플랫폼인 스포티파이에서 K팝 남자 솔로이스트 곡 중 가장 빨리 1억 150]]></content>
     </entry>
 </feed>
