@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-05-29T13:28:57.173Z</updated>
+    <updated>2022-05-29T14:15:53.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[리사, 뮤지컬 '프리다' 막공 소감 "Viva la vida"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003608769</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003608769"/>
+        <updated>2022-05-29T14:15:37.569Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 이승록 기자] 가수 겸 뮤지컬 배우 리사가 뮤지컬 ‘프리다’를 성공적으로 마쳤다. 리사는 지난 3월 1일 서울 종로구 세종문화회관에서 개막해 5월 29일 서울 초연의 막을 내리는 뮤지컬 ‘프리다’에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[몬스타엑스, 독일을 뜨겁게 달궜다]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003608762</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001454710"/>
         <updated>2022-05-29T05:20:36.790Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅의 지니뮤직 차트 속 남다른 존재감이 눈길을 끈다. 지니뮤직에 따르면, 임영웅의 노래들이 TOP100 차트 상위권에서 남다른 존재감을 드러내고 있다. 5월 29일 오전 기준, 1위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인피니트 남우현, 뮤지컬 '모래시계' 첫공 소감 "오랜만에 관객 만나 기뻐"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=416&amp;aid=0000283747</id>
-        <link href="https://entertain.naver.com/now/read?oid=416&amp;aid=0000283747"/>
-        <updated>2022-05-29T05:20:36.791Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 ㅣ강경윤 기자] 그룹 인피니트(INFINITE) 남우현이 뮤지컬 '모래시계' 첫 공연을 성료했다. 남우현은 지난 28일 오후 2시 서울 구로구 디큐브아트센터에서 열린 뮤지컬 '모래시계'에서 강직한]]></content>
     </entry>
 </feed>
