@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-05-29T08:20:57.689Z</updated>
+    <updated>2022-05-29T09:17:53.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘인기가요’ 승국이, 신곡 ‘검문할게요’로 독보적 매력 大폭발]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000871345</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000871345"/>
+        <updated>2022-05-29T09:17:38.827Z</updated>
+        <content type="html"><![CDATA[‘인기가요’ 승국이가 ‘검문할게요’로 독보적 매력을 자랑했다. 승국이는 29일 오후 방송된 SBS ‘인기가요’에 출연, 신곡 ‘검문할게요’로 무대에 올랐다. 이날 승국이는 등장부터 훈훈한 비주얼로 시청자를 미소 짓게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이브 장원영 매력에 獨들썩...영어까지 잘해]]></title>
         <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000816229</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000871265"/>
         <updated>2022-05-29T03:27:48.059Z</updated>
         <content type="html"><![CDATA[픽시(PIXY) 엘라가 활동을 중단하는 가운데 미니앨범 3집 ‘REBORN’ 타임테이블을 공개했다. 픽시(엘라, 샛별, 수아, 디아, 로라, 다정)의 소속사 측은 지난 28일 오후 6시 공식 SNS 및 유튜브를 통해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하이라이트 손동운, 생일날 3년여 만에 솔로 컴백]]></title>
-        <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001996740</id>
-        <link href="https://entertain.naver.com/now/read?oid=016&amp;aid=0001996740"/>
-        <updated>2022-05-29T03:27:48.060Z</updated>
-        <content type="html"><![CDATA[[헤럴드경제=고승희 기자] 그룹 하이라이트의 손동운이 3년여 만에 솔로 컴백을 앞두고 있다. 소속사 어라운드어스는 손동운이 다음달 6일 두 번째 미니앨범 ‘해피 벌스데이(Happy Birthday)’를 발매한다고 2]]></content>
     </entry>
 </feed>

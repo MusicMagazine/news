@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-05-29T08:20:57.671Z</updated>
+    <updated>2022-05-29T09:17:53.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[韓 영화 역사..칸 영화제 휩쓴 송강호·박찬욱 감독]]></title>
+        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0006125592</id>
+        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0006125592"/>
+        <updated>2022-05-29T09:17:53.174Z</updated>
+        <content type="html"><![CDATA[(칸=뉴스1) 이준성 프리랜서기자 = 분류 : 연예 &gt; 영화박찬욱·송강호 '트로피와 함께'(칸=뉴스1) 이준성 프리랜서기자 최초작성 : 2022.05.29 07:11 | 최종수정 : 2022.05.29 07:56 |]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박찬욱 감독상·송강호 남우주연상…칸영화제 2관왕]]></title>
         <id>https://entertain.naver.com/now/read?oid=422&amp;aid=0000544206</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0006124997</id>
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0006124997"/>
         <updated>2022-05-29T03:28:03.853Z</updated>
-        <content type="html"><![CDATA[(칸=뉴스1) 이준성 프리랜서기자 = 영화감독 박찬욱이 28일(현지시간) 제75회 칸 국제영화제가 열리고 있는 프랑스 남부 칸 ‘팔레 데 페스티벌’(Palais des Festivals)에서 열린 폐막식에 참석해 수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['깐느 박' 감독상 수상]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0006124996</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0006124996"/>
-        <updated>2022-05-29T03:28:03.854Z</updated>
         <content type="html"><![CDATA[(칸=뉴스1) 이준성 프리랜서기자 = 영화감독 박찬욱이 28일(현지시간) 제75회 칸 국제영화제가 열리고 있는 프랑스 남부 칸 ‘팔레 데 페스티벌’(Palais des Festivals)에서 열린 폐막식에 참석해 수]]></content>
     </entry>
 </feed>
