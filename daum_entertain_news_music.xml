@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-05-30T11:15:46.809Z</updated>
+    <updated>2022-05-30T12:28:48.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['MZ대표 싱어송라이터' JUNE, 6월 3일 첫 더블 싱글 앨범 발매]]></title>
+        <id>https://entertain.v.daum.net/v/20220530202559088</id>
+        <link href="https://entertain.v.daum.net/v/20220530202559088"/>
+        <updated>2022-05-30T12:28:09.064Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이경호 기자] JUNE의 비주얼 필름./사진제공=플래니스트MZ세대 대표주자인 JUNE의 첫 번째 더블 싱글 앨범 'FaKE LoVE'가 드디어 공개된다. 프로 스노보더이자 싱어송라이터 JUNE의 몽환적인 분위기를 엿볼 수 있는 비주얼 필름이 깜짝 공개돼 리스너들의 이목을 집중시키고 있다. 30일 JUNE이 소속된 플래니스트는 "오는 6월 3일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스노보더 출신' JUNE, MZ세대 이끈다..신보 'FaKE LoVE']]></title>
         <id>https://entertain.v.daum.net/v/20220530195215620</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220530180005994"/>
         <updated>2022-05-30T09:18:04.891Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 가수 하현상이 신곡 'MAGIC'으로 마법 같은 순간을 노래한다. 30일 하현상은 다섯 번째 싱글 'Living the moment of love (리빙 더 모먼트 오브 러브)'를 발매하고, 타이틀곡 'MAGIC (매직)'의 뮤직비디오를 공개했다. 하현상은 2월 세 번째 EP 'Calibrate (캘리브레이트)' 이후 5개월 만에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["또 한 번 세상을 흔들어 볼게" NCT DREAM이라 가능한 '비트박스']]></title>
-        <id>https://entertain.v.daum.net/v/20220530180002984</id>
-        <link href="https://entertain.v.daum.net/v/20220530180002984"/>
-        <updated>2022-05-30T09:18:04.893Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 정하은기자]NCT DREAM(엔시티 드림)라 가능한 음악으로 청량하고 긍정적인 에너지를 전파한다. NCT DREAM(마크·런쥔·제노·해찬·재민·천러·지성)은 정규 2집 리패키지 앨범 ‘비트박스’(Beatbox)를 30일 발매하고, 정규 2집 ‘글리치 모드(Glitch Mode)’의 열기를 이어간다. 신곡 ‘Beatbo]]></content>
     </entry>
 </feed>
