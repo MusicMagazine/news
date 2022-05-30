@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-05-29T23:18:08.334Z</updated>
+    <updated>2022-05-30T01:15:29.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“결혼 1년만에 3번째 유산” 아픔, ‘헝거게임’ 30살 유명배우 눈물[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003608825</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003608825"/>
+        <updated>2022-05-30T01:15:28.873Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영화 ‘헝거게임 : 판엠의 불꽃’에 출연했던 배우 알렉산더 루드윅(30)과 아내 로렌 루드윅이 세 번째 유산 사실을 전했다. 로렌 루드윅은 29일(현지시간) 인스타그램에 병원 침대에 누워]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프로그레시브 록 밴드 '예스' 드러머 앨런 화이트 별세]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013213185</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0006125002"/>
         <updated>2022-05-29T03:28:03.849Z</updated>
         <content type="html"><![CDATA[(칸=뉴스1) 이준성 프리랜서기자 = 제75회 칸 국제영화제 폐막일인 28일(현지시간) 프랑스 남부 칸 ‘팔레 데 페스티벌’(Palais des Festivals)에서 ’홀리 스파이더’로 여우 주연상을 거머쥔 자흐라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[칸의 남자]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0006125001</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0006125001"/>
-        <updated>2022-05-29T03:28:03.850Z</updated>
-        <content type="html"><![CDATA[(칸=뉴스1) 이준성 프리랜서기자 = 영화감독 박찬욱이 28일(현지시간) 제75회 칸 국제영화제가 열리고 있는 프랑스 남부 칸 ‘팔레 데 페스티벌’(Palais des Festivals)에서 열린 폐막식에 참석해 수]]></content>
     </entry>
 </feed>
