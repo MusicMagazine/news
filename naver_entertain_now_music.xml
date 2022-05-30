@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-05-30T19:15:11.801Z</updated>
+    <updated>2022-05-30T20:18:48.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빅나티, 첫 R&B 미니앨범 프리뷰 티저 깜짝 공개 “낭만에 대한 메시지”]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000582550</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000582550"/>
+        <updated>2022-05-30T20:18:35.115Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 래퍼 빅나티(BIG Naughty, 서동현)가 첫 R&amp;B 미니앨범 발매에 앞서 프리뷰 티저를 기습 공개했다. 하이어뮤직은 5월 30일 공식 SNS 및 유튜브 계정을 통해 6월 초 발매 예정인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[희귀 중고 음반의 축제, 제 2회 ‘레레마켓’ 6월 11일 개최]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000816436</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003562126"/>
         <updated>2022-05-30T10:18:07.872Z</updated>
         <content type="html"><![CDATA[[헤럴드POP=박서연 기자]피네이션(P NATION) 첫 보이그룹 TNX(티엔엑스)가 한터차트 글로벌 음반차트에서 1위를 차지했다. 30일 국내 음반 판매량 집계 사이트 한터차트에 따르면 지난 17일 발매된 TNX(]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배철수X구창모, 40년 만에 뭉쳤다... 송골매 전국투어 콘서트 개최[공식]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001217978</id>
-        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001217978"/>
-        <updated>2022-05-30T10:18:07.873Z</updated>
-        <content type="html"><![CDATA[1980년대 ‘세상 모르고 살았노라’, ‘모두 다 사랑하리’, ‘처음 본 순간’ 등 명곡을 발표하며 록 음악을 대한민국 대중음악 씬(Scene)의 주류로 끌어 올린 ‘송골매’가 오는 9월 11일(일)과 12일(월)]]></content>
     </entry>
 </feed>
