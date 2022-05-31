@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-05-31T04:32:03.804Z</updated>
+    <updated>2022-05-31T05:22:47.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[30대 日 아이돌 스다 아카리, SKE48 졸업 “인생 더 맛보고파”]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000582853</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000582853"/>
+        <updated>2022-05-31T05:22:47.277Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 스다 아카리가 그룹 SKE48을 졸업한다. 스다 아카리는 5월 30일 일본 나고야시 SKE48 극장에서 열린 팀E의 공연 'SKE 페스티벌'에 출연, 그룹 졸업을 발표했다. 이날 스다 아카리는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['갈증' 나카시마 테츠야, 미투 지목 "대본에 없던 가슴 노출 강요" [액's 재팬]]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001455489</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000871505"/>
         <updated>2022-05-30T08:23:06.611Z</updated>
         <content type="html"><![CDATA[영화 ‘브로커’ 고레에다 히로카즈 감독, 배우 송강호, 강동원, 이지은, 이주영이 칸 국제영화제 일정을 마치고 30일 오후 인천공항을 통해 귀국했다. 배우 송강호가 소감을 말하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소감 말하는 고레에다 히로카즈 감독 [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000871469</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000871469"/>
-        <updated>2022-05-30T06:25:08.601Z</updated>
-        <content type="html"><![CDATA[영화 ‘브로커’ 고레에다 히로카즈 감독, 배우 송강호, 강동원, 이지은, 이주영이 칸 국제영화제 일정을 마치고 30일 오후 인천공항을 통해 귀국했다. 고레에다 히로카즈 감독이 소감을 밝히고 있다.]]></content>
     </entry>
 </feed>
