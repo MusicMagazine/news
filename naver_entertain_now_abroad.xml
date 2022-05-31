@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-05-31T05:22:47.861Z</updated>
+    <updated>2022-05-31T06:21:02.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["세번째 유산.." '헝거게임' 배우, 병실서 키스하며 애정+극복 [Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004626466</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004626466"/>
+        <updated>2022-05-31T06:21:01.942Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 영화 '헝거 게임' 등에 출연하 얼굴을 알린 배우 알렉산더 루드윅이 아내의 세 번째 유산 아픔을 극복 중이다. 루드윅의 아내 로렌 디어는 최근 자신의 SNS에 "세 번째 유산을 했다"라고 털]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[30대 日 아이돌 스다 아카리, SKE48 졸업 “인생 더 맛보고파”]]></title>
         <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000582853</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000871506"/>
         <updated>2022-05-30T08:23:06.610Z</updated>
         <content type="html"><![CDATA[영화 ‘브로커’ 고레에다 히로카즈 감독, 배우 송강호, 강동원, 이지은, 이주영이 칸 국제영화제 일정을 마치고 30일 오후 인천공항을 통해 귀국했다. 배우 강동원이 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송강호 '상 받고 왔습니다' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000871505</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000871505"/>
-        <updated>2022-05-30T08:23:06.611Z</updated>
-        <content type="html"><![CDATA[영화 ‘브로커’ 고레에다 히로카즈 감독, 배우 송강호, 강동원, 이지은, 이주영이 칸 국제영화제 일정을 마치고 30일 오후 인천공항을 통해 귀국했다. 배우 송강호가 소감을 말하고 있다.]]></content>
     </entry>
 </feed>
