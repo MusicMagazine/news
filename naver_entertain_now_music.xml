@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-06-01T19:15:16.197Z</updated>
+    <updated>2022-06-01T20:18:51.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단 ‘Door’ 버전 클로즈업 샷, 멤버별 일곱가지 매력]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000583331</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000583331"/>
+        <updated>2022-06-01T20:18:34.130Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 그룹 방탄소년단이 새 앨범 콘셉트 포토의 멤버별 클로즈업 샷을 공개했다. 방탄소년단은 6월 1일 공식 SNS에 새 앨범 'Proof' 콘셉트 포토의 새로운 컷을 공개했다. 5월 31일 공개된]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘RAPBEAT 2022 (랩비트)’ 요일별 라인업·추가 라인업 발표…릴러말즈, 애쉬 아일랜드 등 참여]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000816892</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003609572"/>
         <updated>2022-06-01T08:25:14.062Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 그룹 방탄소년단이 새 앨범 콘셉트 포토의 멤버별 클로즈업 샷을 공개했다. 방탄소년단은 1일 공식 SNS에 새 앨범 '프루프(Proof)' 콘셉트 포토의 새로운 컷을 공개했다. 지난달 3]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단, 좋은 건 크게 봐야지..'Proof' 콘셉트 포토 'Door' 버전 클로즈업 샷 공개]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004627302</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004627302"/>
-        <updated>2022-06-01T08:25:14.063Z</updated>
-        <content type="html"><![CDATA[[OSEN=이승훈 기자] 그룹 방탄소년단이 새 앨범 콘셉트 포토의 멤버별 클로즈업 샷을 공개했다. 방탄소년단은 1일 공식 SNS에 새 앨범 'Proof' 콘셉트 포토의 새로운 컷을 공개했다. 지난달 31일 공개된 ']]></content>
     </entry>
 </feed>
