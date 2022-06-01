@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2022-06-01T14:34:14.568Z</updated>
+    <updated>2022-06-01T15:19:21.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Morissette Amon, HBD! (‘아이돌픽’)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000983611</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000983611"/>
+        <updated>2022-06-01T15:19:12.662Z</updated>
+        <content type="html"><![CDATA[필리핀 대표 디바 Morissette Amon이 '아이돌픽' 생일상을 받는다. 스타 투표 웹서비스 아이돌픽(idolpick)에 따르면, Morissette Amon은 6월 생일자를 대상으로 한 스페셜 투표 주인공으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘구준엽♥’ 서희원 前남편, ‘불륜설’에 ‘약물 폭로’로 맞섰다 하루 만에 사과]]></title>
         <id>https://entertain.naver.com/now/read?oid=081&amp;aid=0003277288</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000362635"/>
         <updated>2022-06-01T11:14:41.037Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=장진리 기자] 그룹 여자친구 출신 예린이 8년 만에 솔로로 데뷔한 소감을 밝혔다. 에린은 1일 U+아이돌라이브에서 방송된 '아돌라스쿨3: 홍보온아이돌'에서 "감개무량했다"라고 '아리아'로 성공적으로 솔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아돌라스쿨' 오하영, 이게 레전드 걸그룹…"활동하며 대통령 네 번 바뀌어"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000362634</id>
-        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000362634"/>
-        <updated>2022-06-01T11:14:41.039Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=장진리 기자] 그룹 에이핑크 오하영이 '레전드 걸그룹'의 면모를 뽐냈다. 오하영은 1일 U+아이돌라이브에서 공개된 '아돌라스쿨3: 홍보온아이돌'에서 "활동 중 대통령이 네 번 바뀌었다"라고 밝혔다. 이]]></content>
     </entry>
 </feed>
