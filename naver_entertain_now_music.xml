@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-06-02T14:20:08.848Z</updated>
+    <updated>2022-06-02T15:18:08.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바이든 만난 방탄소년단 귀국…뷔는 홀로 강동원 만났다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011227191</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011227191"/>
+        <updated>2022-06-02T15:17:52.217Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 휴식 후 새 앨범 '프루프' 마무리 작업 돌입 [서울=뉴시스]이재훈 기자 = 글로벌 수퍼 그룹 '방탄소년단'(BTS) 멤버들이 미국 백악관 행사를 마치고 2일 귀국했다. 뷔는 다른 여섯 멤버들에 앞서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[포토] 조유리, '꽃보다 아름다워~']]></title>
         <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004707071</id>
@@ -38,7 +45,7 @@
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003059140</id>
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003059140"/>
         <updated>2022-06-02T13:44:49.457Z</updated>
-        <content type="html"><![CDATA[미국 백악관 일정을 마치고 귀국한 보이 그룹 방탄소년단 멤버 지민이 팬들에게 "미숙함 때문에 걱정 끼쳐 드려 죄송한 마음"이라고 사과했다. 앞서 논란이 불거진 건강보험료 체납을 직접 언급하진 않았지만, 이와 관련한]]></content>
+        <content type="html"><![CDATA[미국 백악관 일정을 마치고 귀국한 보이 그룹 방탄소년단 멤버 지민이 팬들에게 "미숙함 때문에 걱정 끼쳐 드려 죄송한 마음"이라고 사과했다. 최근 논란이 불거진 건강보험료 체납을 직접 언급하진 않았지만, 이와 관련한]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[포토] 조유리, '매력적인 목소리~']]></title>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003609977"/>
         <updated>2022-06-02T11:16:41.504Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 이승록 기자] 그룹 LIGHTSUM(상아, 초원, 나영, 히나, 주현, 유정, 휘연, 지안)이 컴백 무대를 꾸몄다. LIGHTSUM은 지난 1일 MBC M에서 방송된 ‘쇼! 챔피언’을 통해 첫 번째]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['엠카' 클라씨 '블랙+레드' 걸크러시 컴백..'CLASSY' 첫 공개]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003059064</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003059064"/>
-        <updated>2022-06-02T11:16:41.506Z</updated>
-        <content type="html"><![CDATA[걸 그룹 클라씨(명형서 윤채원 홍혜주 김리원 원지민 박보은 김선유, CLASS:y)가 패셔너블한 걸크러시로 컴백했다. 클라씨는 2일 오후 방송된 Mnet 음악 프로그램 '엠카운트다운'에서 새 앨범 '리브스 어크로스']]></content>
     </entry>
 </feed>
