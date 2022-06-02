@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-06-02T12:33:58.313Z</updated>
+    <updated>2022-06-02T13:45:03.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[톰 크루즈, '탑건:매버릭'으로 한국 오나…10번째 내한 성사?]]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004754225</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004754225"/>
+        <updated>2022-06-02T13:45:02.517Z</updated>
+        <content type="html"><![CDATA[할리우드 배우 톰 크루즈(60)가 영화 '탑건:매버릭' 국내 개봉을 앞두고 내한을 검토 중이다. 2일 '탑건: 매버릭' 관계자는 "톰 크루즈가 오는 19일 내한을 긍정적으로 검토 중이다. 배우와 배급사의 일정, 가능]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이병헌 '입가에 미소를 지으며' [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000872291</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000872242"/>
         <updated>2022-06-02T12:33:57.657Z</updated>
         <content type="html"><![CDATA[가수 지현이 2일 오후 서울 용산구 이촌동 CGV용산아이파크몰에서 진행된 영화 '브로커(감독 고레에다 히로카즈)' VIP 시사회에 참석해 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유인나 '상큼 하트' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000872237</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000872237"/>
-        <updated>2022-06-02T12:33:57.657Z</updated>
-        <content type="html"><![CDATA[배우 유인나가 2일 오후 서울 용산구 이촌동 CGV용산아이파크몰에서 진행된 영화 '브로커(감독 고레에다 히로카즈)' VIP 시사회에 참석해 포즈를 취하고 있다.]]></content>
     </entry>
 </feed>
