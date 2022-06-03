@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-06-03T16:22:07.455Z</updated>
+    <updated>2022-06-03T17:18:05.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제프 벤자민 "아이브의 다음이 기다려진다"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003610577</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003610577"/>
+        <updated>2022-06-03T17:17:48.444Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 이승록 기자] 아이브(IVE :안유진, 가을, 레이, 장원영, 리즈, 이서)가 글로벌 K팝 선두주자로 존재감을 빛냈다. 아이브는 지난달 1일 공식 활동을 마무리 한 지 한 달이 지난 현재까지도 두 번]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이달의 소녀 츄, 첫 월드투어 불참 "예정된 하반기 스케줄 있어" [공식입장]]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001457260</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000584510"/>
         <updated>2022-06-03T10:19:15.270Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 밴드 데이식스(DAY6) 보컬 겸 베이스 영케이(Young K, 본명 강영현)가 음악 팬 마이데이(My Day)에게 또 하나의 러브레터를 전했다. 6월 3일 오후 6시 데이식스 소속사 JYP엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['뮤직뱅크' 세븐틴 'HOT' 1위 "이 상의 주인공은 캐럿"[★밤TView]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003059387</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003059387"/>
-        <updated>2022-06-03T10:19:15.288Z</updated>
-        <content type="html"><![CDATA[아이돌그룹 세븐틴이 '뮤직뱅크' 정상에 올랐다. 세븐틴은 3일 방송된 KBS 2TV '뮤직뱅크'에서 6월 첫주 K-차트 1위를 차지했다. 이날 후보로는 아이브 'LOVE DIVE', 세븐틴 'HOT'이 나란히 1위]]></content>
     </entry>
 </feed>
