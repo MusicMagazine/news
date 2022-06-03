@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-06-03T10:19:31.281Z</updated>
+    <updated>2022-06-03T11:13:31.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김호중, 26일 성악가 플라시도 도밍고와 듀엣 예고 '역대급 만남']]></title>
+        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003563259</id>
+        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003563259"/>
+        <updated>2022-06-03T11:13:14.959Z</updated>
+        <content type="html"><![CDATA[[헤럴드POP=박서현기자] 트바로티 김호중이 성악가 플리시도 도밍고와 만난다. 김호중은 오는 26일 부산 영화의 전당 야외 극장에서 개최되는 ‘세계 3대 테너’ 플라시도 도밍고의 내한 공연 무대에 오른다. 소속사에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['유명가수전' 이수영, 김소연 무대 극찬…"이 노래 너 해"]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011229065</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003059381"/>
         <updated>2022-06-03T09:17:34.423Z</updated>
         <content type="html"><![CDATA[그룹 라잇썸이 컴백을 기념하여 뉴욕에 떴다. 3일 한터글로벌은 뉴욕 타임스퀘어에 잇썸의 미니 1집 'Into The Light'(인투 더 라이트) 콘셉트 포토와 뮤직비디오 장면이 현지 시각 기준 지난달 30일부터 오]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임창정, 7월 대전→8월 창원간다…전국투어 콘서트 '멀티버스']]></title>
-        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003610435</id>
-        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003610435"/>
-        <updated>2022-06-03T09:17:34.424Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 오윤주 기자] 가수 임창정이 전국투어 콘서트 대전과 창원 공연을 확정했다. 임창정은 오는 7월 23일 오후 6시 대전컨벤션센터 제2전시장에서 전국투어 콘서트 '멀티버스(MULTIVERSE0' 대전 공]]></content>
     </entry>
 </feed>
