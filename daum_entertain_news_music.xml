@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-06-03T14:15:23.615Z</updated>
+    <updated>2022-06-03T15:16:44.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[콜드, 새 싱글 '생일을 축하해' 발매]]></title>
+        <id>https://entertain.v.daum.net/v/20220603232355186</id>
+        <link href="https://entertain.v.daum.net/v/20220603232355186"/>
+        <updated>2022-06-03T15:16:03.050Z</updated>
+        <content type="html"><![CDATA[싱어송라이터 콜드(Colde)가 특별한 생일 선물을 건냈다. 콜드는 3일 오후 6시 전 온라인 음원 사이트를 통해 새 싱글 ‘생일을 축하해’를 발매했다. ‘생일을 축하해’는 생일을 맞은 모두에게 축하와 위로를 전하는 곡으로, 특별한 날 영원히 기억될 수 있는 편지를 주고 싶다는 콜드의 마음을 담았다. 몽환적인 사운드 위로 콜드의 유니크한 음색이 어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[슈퍼주니어, 7월 '슈퍼쇼' 서울 콘서트 출격..아홉번째 만남]]></title>
         <id>https://entertain.v.daum.net/v/20220603230524063</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220603162200742"/>
         <updated>2022-06-03T08:19:03.334Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 에이핑크, 빅톤, 더보이즈, 위클리 등이 소속된 IST엔터테인먼트의 신인 보이그룹이 팀명을 ATBO(에이티비오)로 변경한다. IST엔터테인먼트 측은 3일 보도자료를 통해 “카카오TV, MBN에서 공개된 서바이벌 오디션 ‘디 오리진 - A, B, Or What?’(이하 디오리진)을 통해 데뷔를 확정한 신인 보이그룹 ABO(에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고등래퍼3' 호치키스, 첫 앨범 'LOVENTURE'로 컴백..히트곡 제조기 명성 잇나]]></title>
-        <id>https://entertain.v.daum.net/v/20220603161919673</id>
-        <link href="https://entertain.v.daum.net/v/20220603161919673"/>
-        <updated>2022-06-03T08:19:03.334Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 크리에이터&nbsp;호치키스(HOTCHKISS,&nbsp;본명 김호진)의 첫 앨범&nbsp;'LOVENTURE'가 발매됐다. 호치키스의 첫 앨범&nbsp;'LOVENTURE'가&nbsp;2일 정오에 모든 음원사이트를 통해 공개됐다. 엠넷&nbsp;'고등래퍼3'를 통해&nbsp;'카와이 크리에이터'라는 수식어를 널리 알리고&nbsp;'눈(with&nbsp;릴타치)', '에어컨'&nbsp;등의&nbsp;히트곡들로 자신만의 특별한]]></content>
     </entry>
 </feed>
