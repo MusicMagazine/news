@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-06-05T10:14:35.692Z</updated>
+    <updated>2022-06-05T11:13:36.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아스트로, 日 4만 관객 열광시킨 콘서트 성료…열도 홀린 청량한 매력]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001457760</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001457760"/>
+        <updated>2022-06-05T11:13:20.348Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 그룹 아스트로(ASTRO)가 일본 4만 관객을 열광시키는 에너지를 선보였다. 아스트로는 지난 3일과 4일 일본 마쿠하리 멧세 국제전시장에서 일본 콘서트 'The 3rd ASTROAD to]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘인기가요’ 아도라, 동화적 무드 담은 'Trouble? TRAVEL!’]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000872816</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000872758"/>
         <updated>2022-06-05T04:19:07.455Z</updated>
         <content type="html"><![CDATA[보이그룹 오메가엑스(OMEGA X)가 한계 없는 변신으로 글로벌 설렘을 자극했다. 오메가엑스(재한, 휘찬, 세빈, 한겸, 태동, XEN, 제현, KEVIN, 정훈, 혁, 예찬)는 지난 4일 공식 SNS 채널을 통해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크래비티 세림X정모, 펩시 新 마지막 주자 합류...아이브X오마이걸과 컬래버]]></title>
-        <id>https://entertain.naver.com/now/read?oid=408&amp;aid=0000157524</id>
-        <link href="https://entertain.naver.com/now/read?oid=408&amp;aid=0000157524"/>
-        <updated>2022-06-05T04:19:07.462Z</updated>
-        <content type="html"><![CDATA[그룹 크래비티(CRAVITY) 세림과 정모가 펩시 새 캠페인에 마지막 주자로 합류한다. 펩시와 스타쉽엔터테인먼트(이하 스타쉽)는 지난 4일 오후 7시 공식 SNS 및 유튜브 채널을 통해 펩시의 새 캠페인 '블루]]></content>
     </entry>
 </feed>
