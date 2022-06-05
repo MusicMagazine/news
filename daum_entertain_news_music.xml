@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-06-05T07:16:21.860Z</updated>
+    <updated>2022-06-05T08:19:34.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NCT DREAM·포레스텔라·문수진·아넌딜라이트·빅톤·호치키스·조유리]]></title>
+        <id>https://entertain.v.daum.net/v/20220605162207180</id>
+        <link href="https://entertain.v.daum.net/v/20220605162207180"/>
+        <updated>2022-06-05T08:19:03.312Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 가요팀] 6월 첫째주(5월 30일 ~ 6월 5일)에는 남성 아티스트들이 잇따라 팬들 곁으로 돌아왔다. 그룹 엔시티 드림(NCT DREAM)부터 크로스오버 그룹 포레스텔라, 그룹 빅톤(VICTON), 래퍼 아넌딜라이트, 호치키스까지 다양한 매력이 담긴 신보를 발매했다. 또한 여성 솔로 가수 문수진과 조유리가 새 앨범을 발매하고 컴백 활동에 돌입]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송가인, 서울 대구 콘서트서 증명한 올 라이브 콘서트형 가수]]></title>
         <id>https://entertain.v.daum.net/v/20220605134802802</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220605094215748"/>
         <updated>2022-06-05T01:14:09.153Z</updated>
         <content type="html"><![CDATA[[스포츠서울|조은별기자]조 바이든 미국 대통령이 방탄소년단의 ‘버터’에 맞춰 유쾌한 분위기를 연출한 영상이 공개됐다. 백악관은 4일(이하 현지시간) 공식 SNS에 지난달 31일 방탄소년단과 바이든 대통령과의 환담 장면이 담긴 영상을 게재했다. 방탄소년단은 ‘아시아계 미국인·하와이 원주민·태평양 도서 주민(AANHPI]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청하, 2년만 솔로 컴백 신용재 피처링 '지원사격']]></title>
-        <id>https://entertain.v.daum.net/v/20220605093457668</id>
-        <link href="https://entertain.v.daum.net/v/20220605093457668"/>
-        <updated>2022-06-05T01:14:09.159Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박아름 기자] 2F(이프) 신용재가 돌아온다. 가수 신용재는 지난 6월 4일 공식 SNS를 통해 새 미니앨범 '사계(四季)' 트랙리스트 이미지를 공개했다. 트랙리스트에 따르면 이번 앨범에는 타이틀곡 '사계 (四季)'를 시작으로 '그댄 꽃 (Feat. 청하)', '밤바다', '불멍', 'Rest of my life(레스트 오브 마이 라이프)'까지]]></content>
     </entry>
 </feed>
