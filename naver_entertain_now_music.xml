@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-06-05T15:15:11.837Z</updated>
+    <updated>2022-06-05T16:20:24.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아스트로 日 단독 콘서트, 4만 관객 열광]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001218603</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001218603"/>
+        <updated>2022-06-05T16:20:10.603Z</updated>
+        <content type="html"><![CDATA[아스트로(ASTRO)가 일본 4만 관객을 열광시키는 에너지를 선보였다. 아스트로는 지난 3일과 4일 일본 마쿠하리 멧세 국제전시장에서 일본 단독 콘서트 'The 3rd ASTROAD to JAPAN [STARGAZE]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아스트로, 日 4만 관객 열광시킨 콘서트 성료…열도 홀린 청량한 매력]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001457760</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=408&amp;aid=0000157525"/>
         <updated>2022-06-05T05:15:13.115Z</updated>
         <content type="html"><![CDATA[송가인이 서울에 이어 대구 콘서트도 성황리에 마무리했다. 송가인은 지난 4일 대구 엑스코(EXCO)에서 ‘2022 송가인 전국투어 콘서트 - 연가(戀歌)’를 개최하고 팬들과 호흡했다. 지난달 서울 콘서트를 성료한 송]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오메가엑스 휘찬‧태동‧XEN‧예찬, 시선 강탈하는 꽃비주얼]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000872758</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000872758"/>
-        <updated>2022-06-05T04:19:07.455Z</updated>
-        <content type="html"><![CDATA[보이그룹 오메가엑스(OMEGA X)가 한계 없는 변신으로 글로벌 설렘을 자극했다. 오메가엑스(재한, 휘찬, 세빈, 한겸, 태동, XEN, 제현, KEVIN, 정훈, 혁, 예찬)는 지난 4일 공식 SNS 채널을 통해]]></content>
     </entry>
 </feed>
