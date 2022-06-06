@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-06-06T13:38:20.907Z</updated>
+    <updated>2022-06-06T14:14:37.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새 앨범 ‘프루프’로…BTS, 금요일 컴백]]></title>
+        <id>https://entertain.naver.com/now/read?oid=032&amp;aid=0003151583</id>
+        <link href="https://entertain.naver.com/now/read?oid=032&amp;aid=0003151583"/>
+        <updated>2022-06-06T14:14:21.426Z</updated>
+        <content type="html"><![CDATA[그룹 방탄소년단(BTS·사진)이 새 앨범 &lt;프루프(Proof)&gt;를 공개하며 이번주 컴백한다. 소속사 빅히트 뮤직은 BTS가 지난 9년간의 활동을 정리하는 앤솔러지 앨범(작품 모음집) &lt;프루프&gt;를 오는 10일 오후 1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강혜원, 시크→고혹 다채로운 '변신'..'라이크 어 다이아몬드' 새 티저 오픈]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003059888</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011231105"/>
         <updated>2022-06-06T08:19:28.902Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]전재경 기자 = 가수 권진아의 단독 공연 '더 드리머(The Dreamer)'가 성황리에 마무리됐다. 권진아는 지난 3일~5일 사흘간 블루스퀘어 마스터카드홀에서 2022 권진아 단독 공연 '더 드리머']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오메가엑스, 첫 정규 ‘낙서(樂서)’ 단체 이미지 공개]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000872951</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000872951"/>
-        <updated>2022-06-06T08:19:28.903Z</updated>
-        <content type="html"><![CDATA[보이그룹 오메가엑스(OMEGA X)의 첫 정규앨범 완전체 티저 이미지가 베일을 벗었다. 오메가엑스(재한, 휘찬, 세빈, 한겸, 태동, XEN, 제현, KEVIN, 정훈, 혁, 예찬)는 6일 자정 공식 SNS 채널을]]></content>
     </entry>
 </feed>
