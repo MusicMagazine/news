@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-06-07T19:13:56.752Z</updated>
+    <updated>2022-06-07T20:22:22.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[예린 "오하영 대단…활동 중 대통령 네 번 바뀌어"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011233947</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011233947"/>
+        <updated>2022-06-07T20:22:05.394Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]장인영 인턴 기자 = 총합 20년 차 아이돌인 예린과 오하영(에이핑크)이 '찐친' 케미를 발산한다. 예린과 오하영은 오는 8일 오후 5시 공개되는 U+아이돌Live '아돌라스쿨3:홍보ON아이돌(이하 ']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이충주 "새 도전이었는데, 사랑해주셔서 감사합니다"…'킹아더' 마무리 소감]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003611464</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004708691"/>
         <updated>2022-06-07T15:17:09.205Z</updated>
         <content type="html"><![CDATA[그룹 라잇썸 히나가 7일 오후 서울 상암동 SBS 프리즘타워에서 열린 SBSMTV '더쇼' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 라잇썸 초원, '도도한 눈빛']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004708687</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004708687"/>
-        <updated>2022-06-07T15:17:09.207Z</updated>
-        <content type="html"><![CDATA[그룹 라잇썸 초원이 7일 오후 서울 상암동 SBS 프리즘타워에서 열린 SBSMTV '더쇼' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
     </entry>
 </feed>
