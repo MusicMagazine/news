@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-06-07T16:20:36.548Z</updated>
+    <updated>2022-06-07T17:21:28.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이충주 "새 도전이었는데, 사랑해주셔서 감사합니다"…'킹아더' 마무리 소감]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003611464</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003611464"/>
+        <updated>2022-06-07T17:21:10.659Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 이승록 기자] 배우 이충주가 뮤지컬 '킹아더'의 마지막 무대를 성황리에 마쳤다. 이충주가 지난 6일 홍익대 대학로 아트센터 대극장에서 열린 '킹아더' 마지막 공연을 성황리에 마치며 유의미한 마침표를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지소울, 7월 밴쿠버→뉴욕 북미 투어 개최 [공식]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003611463</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004708687"/>
         <updated>2022-06-07T15:17:09.207Z</updated>
         <content type="html"><![CDATA[그룹 라잇썸 초원이 7일 오후 서울 상암동 SBS 프리즘타워에서 열린 SBSMTV '더쇼' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘발라드 음원 강자’ 주호, 8일 신곡 ‘그 하루 (feat. 반하나)’로 2개월 만에 컴백]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000818053</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000818053"/>
-        <updated>2022-06-07T15:17:09.218Z</updated>
-        <content type="html"><![CDATA[가수 주호가 반하나와 함께 애절한 하모니로 이별 이야기를 전한다. 주호는 오는 8일 오후 6시 음원 사이트들을 통해 새 디지털 싱글 ‘그 하루 (feat. 반하나)’를 발매한다. 지난 3월 발매한 ‘내가 아니라도’로]]></content>
     </entry>
 </feed>
