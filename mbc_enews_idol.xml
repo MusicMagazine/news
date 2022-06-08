@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 22:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 23:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴이스트 김종현, 데뷔 첫 단독 팬미팅 ‘전석 매진’]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/350427</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/350427</guid>
+            <pubDate>Wed, 08 Jun 2022 23:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/350427">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/06/09/c63e8b3a-d667-4f84-9f06-cac594ba05ba.jpg" alt="뉴이스트 김종현, 데뷔 첫 단독 팬미팅 ‘전석 매진’ ">        <div class="text-box">            <p class="summary">뉴이스트 김종현, 데뷔 첫 단독 팬미팅 ‘전석 매진’ </p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/06/09/c63e8b3a-d667-4f84-9f06-cac594ba05ba.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[포토] 웬디, '꽃게볼']]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/350409</link>
@@ -86,14 +94,6 @@
             <pubDate>Wed, 08 Jun 2022 08:22:05 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/350400">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/06/08/b08f0b12-9870-4d05-a984-5edd0bbb16d2.jpg" alt="[포토] 조이, 웃으니까 날 좋아진 '햇살의 아이'">        <div class="text-box">            <p class="summary">[포토] 조이, 웃으니까 날 좋아진 '햇살의 아이'</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/06/08/b08f0b12-9870-4d05-a984-5edd0bbb16d2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 조이, 과즙 극락 볼하트]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/350399</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/350399</guid>
-            <pubDate>Wed, 08 Jun 2022 08:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/350399">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/06/08/53437bb7-c2b4-4d09-9c10-b306b26388b4.jpg" alt="[포토] 조이, 과즙 극락 볼하트">        <div class="text-box">            <p class="summary">[포토] 조이, 과즙 극락 볼하트</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/06/08/53437bb7-c2b4-4d09-9c10-b306b26388b4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 22:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 23:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ITZY, 새 앨범 'CHECKMATE' 콘셉트 필름 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=212690</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=212690</guid>
+            <pubDate>Wed, 08 Jun 2022 23:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=212690">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220609075806_354df6d526bb5119e0aaf0fd208ae188.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=212690">ITZY, 새 앨범 'CHECKMATE' 콘셉트 필름 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220609075806_354df6d526bb5119e0aaf0fd208ae188.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[계절을 기억하게 만드는 밴드 너드커넥션, 여름 향기 담아낸 '버들길' 발매!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=212624</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=211398">치명적인 눈빛 보내는 원호...첫 콘셉트 포토 공개!</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220531084622_c0c21fe4510dd3505ebacc112b4ab518.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[콘서트] 여전한 아시아의 별 보아...데뷔 20주년 기념 콘서트]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=211257</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=211257</guid>
-            <pubDate>Mon, 30 May 2022 03:29:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=211257">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220530104626_22530e414ac664460cde652475e6df1e.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=211257">[콘서트] 여전한 아시아의 별 보아...데뷔 20주년 기념 콘서트 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220530104626_22530e414ac664460cde652475e6df1e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
