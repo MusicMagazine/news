@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-06-08T20:16:26.772Z</updated>
+    <updated>2022-06-08T21:13:43.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엠버 허드 “여성의 인권은 후퇴하고 있다”, 조니 뎁에 직격탄[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003611897</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003611897"/>
+        <updated>2022-06-08T21:13:42.532Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]명예훼손 소송에서 사실상 조니 뎁(58)에 패소한 엠버 허드(36)가 연이어 강경 발언을 이어가고 있다. 제프 벡과 함께 영국 콘서트에 참여한 조니 뎁은 최근 틱톡 영상을 통해 “가장 소]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오스카상 주관 美 아카데미 신임 CEO에 빌 크레이머]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013234431</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000873429"/>
         <updated>2022-06-08T08:22:45.933Z</updated>
         <content type="html"><![CDATA['방송계 큰 별' 故 송해 빈소가 8일 오후 서울 혜화동 서울대병원 장례식장에 마련됐다. 이날 향년 95세로 별세한 '현역 최고령 MC' 송해는 최근 건강상 이유로 '전국노래자랑' 측에 하차 의사를 밝혔던 가운데,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[故 송해의 빈소 [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000873428</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000873428"/>
-        <updated>2022-06-08T08:22:45.933Z</updated>
-        <content type="html"><![CDATA[8일 별세한 방송인 송해의 빈소가 서울대병원에 마련됐다. 향년 95세로 별세한 송해는 희극인장으로 치러질 예정이다.]]></content>
     </entry>
 </feed>
