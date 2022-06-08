@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-06-08T13:38:14.148Z</updated>
+    <updated>2022-06-08T14:15:09.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NCT 드림, '쇼챔피언' 1위]]></title>
+        <id>https://entertain.v.daum.net/v/20220608224007704</id>
+        <link href="https://entertain.v.daum.net/v/20220608224007704"/>
+        <updated>2022-06-08T14:14:34.608Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 황서연 기자] NCT 드림이 컴백과 동시에 6월 둘째 주 '쇼! 챔피언' 1위에 올랐다. 8일 저녁 방송한 MBC M 음악프로그램 '쇼챔피언'에서는 NCT 드림 '비트박스(Beatbot)', 다비치 '팡파레', 세븐틴 '핫(HOT)', 조유리 '러브 쉿!', 케이시 '늦은 밤 헤어지긴 너무 아쉬워'가 1위 후보에 올랐다. 집계 결과 NCT 드]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["결혼하니까 사랑 노래?"..신용재, ♥예비신부 실망한 '사계']]></title>
         <id>https://entertain.v.daum.net/v/20220608195014023</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220608175058963"/>
         <updated>2022-06-08T09:15:05.163Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이덕행 기자] 가수 신용재가 8일 오후 서울 강남구 삼성동 슈피겐홀에서 진행된 새 미니앨범 '사계 (四季)' 발매기념 쇼케이스에서 멋진 무대를 선보이고 있다.  '사계 (四季)'에는 봄, 여름, 가을, 겨울까지 사계절의 감성이 담겼다. 앨범 전체를 관통하는 '계절'이라는 주제가 신용재만의 음악적 색깔과 어우러져 더욱 섬세한 감성으로 완성됐다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['코시국 데뷔' 시크릿넘버, 드디어 팬 대면.."설레고 떨려"]]></title>
-        <id>https://entertain.v.daum.net/v/20220608175016945</id>
-        <link href="https://entertain.v.daum.net/v/20220608175016945"/>
-        <updated>2022-06-08T09:15:05.164Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 코로나19 시국에 데뷔한 그룹 시크릿넘버(SECRET NUMBER)가 팬들과 대면을 앞두고 기대감을 드러냈다. 시크릿넘버의 네 번째 싱글 'DOOMCHITA'(둠치타) 발매 기념 미디어 쇼케이스가 서울시 강남구 일지아트홀에서 8일 오후 진행됐다. 'DOOMCHITA'는 시크릿넘버의 확실한 음악적 컬러와 전환점을 보]]></content>
     </entry>
 </feed>
