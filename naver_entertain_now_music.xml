@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-06-09T13:36:43.929Z</updated>
+    <updated>2022-06-09T14:14:04.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에스파, 새 앨범 예판 일주일 만에 선주문량 밀리언셀러 달성]]></title>
+        <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0002001089</id>
+        <link href="https://entertain.naver.com/now/read?oid=016&amp;aid=0002001089"/>
+        <updated>2022-06-09T14:13:48.532Z</updated>
+        <content type="html"><![CDATA[컴백을 앞둔 그룹 에스파가 새 앨범으로 밀리언셀러 탄생을 예고했다. 9일 소속사 SM엔터테인먼트에 따르면 오는 7월 8일 발매를 앞둔 에스파의 두 번째 미니앨범 ‘걸스(Girls)’가 지난 2일 예약판매를 기작한지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스마일러브위크엔드' 7월 개최..빛과소금·김현철·유키카 등 출연]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003060898</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003060869"/>
         <updated>2022-06-09T10:19:31.364Z</updated>
         <content type="html"><![CDATA[아티스트 빅나티(BIG Naughty, 서동현)가 R&amp;B 앨범으로 성숙해진 감성을 전했다. 빅나티는 9일 오후 6시 각종 온라인 음원 사이트를 통해 첫 번째 R&amp;B 미니앨범 '낭만'을 발매했다. 지난해 첫 EP 'B]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['도도하게' 우아(woo!ah!) '체인지업'쇼케이스[포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000823032</id>
-        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000823032"/>
-        <updated>2022-06-09T10:19:31.365Z</updated>
-        <content type="html"><![CDATA[5인조 걸그룹 우아(woo!ah! 나나,우연,소라,루시,민서)가 9일 강남 슈피겐홀에서 첫번째 미니앨범 ‘JOY’를 발표하는 쇼케이스를 열고 있다. . 미니앨범 JOY는 EXCLAMATION, QURIOS,WISH까]]></content>
     </entry>
 </feed>
