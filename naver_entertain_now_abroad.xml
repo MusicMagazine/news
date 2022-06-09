@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-06-09T04:28:48.438Z</updated>
+    <updated>2022-06-09T05:16:43.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘셋째 유산’ 브리트니 스피어스, 12살 연하 남친과 결혼 “아이 가질 것”[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003612069</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003612069"/>
+        <updated>2022-06-09T05:16:43.013Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 팝스타 브리트니 스피어스(40)가 12살 연하 샘 아스가리(28)와 결혼식을 올린다. 연예매체 TMZ는 8일(현지시간) “이 커플이 9일 100여명의 하객을 초대해 결혼식을 올린다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['조커' 감독이 깜짝 스포한 속편…정신질환자 2명? [Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004633400</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000873498"/>
         <updated>2022-06-08T11:13:24.327Z</updated>
         <content type="html"><![CDATA['방송계 큰 별' 故 송해 빈소가 8일 오후 서울 혜화동 서울대병원 장례식장에 마련된 가운데 박보균 문체부장관이 조문하며 금관문화훈장을 추서하고 있다. 이날 향년 95세로 별세한 '현역 최고령 MC' 송해는 최근 건]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[故 송해 '금관문화훈장 추서 받은 국민 MC' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000873494</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000873494"/>
-        <updated>2022-06-08T11:13:24.329Z</updated>
-        <content type="html"><![CDATA['방송계 큰 별' 故 송해 빈소가 8일 오후 서울 혜화동 서울대병원 장례식장에 마련된 가운데 금관문화훈장이 놓여 있다 이날 향년 95세로 별세한 '현역 최고령 MC' 송해는 최근 건강상 이유로 '전국노래자랑' 측에]]></content>
     </entry>
 </feed>
