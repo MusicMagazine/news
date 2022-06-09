@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-06-09T19:13:48.361Z</updated>
+    <updated>2022-06-09T20:18:13.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS 데뷔부터 세계 최정상까지 9년 오롯이…신보 '프루프' 공개]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013237198</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013237198"/>
+        <updated>2022-06-09T20:17:58.043Z</updated>
+        <content type="html"><![CDATA["새로운 챕터 연다"…작년 '버터' 이후 11개월 만의 실물음반 13일 '프루프 라이브'로 신곡 첫 무대…음악 프로도 잇따라 출연 그룹 방탄소년단이 10일 새 앨범 '프루프'(Proof)를 발표하고 그룹의 9년 역사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여름 도심속 뮤직페스티벌 ‘스마일러브위크엔드 2022’ 7월 23일 개최]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000818622</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003612169"/>
         <updated>2022-06-09T10:19:31.356Z</updated>
         <content type="html"><![CDATA[오는 20일 데뷔하는 걸그룹 라필루스(Lapillus) 멤버 서원의 개인 티저 영상이 공개됐다. 지난 8일 오후 6시 라필루스(샨티, 샤나, 유에, 베시, 서원, 하은)는 공식 SNS 채널을 통해 멤버 서원의 개인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우아(woo!ah!) '체인지업'쇼케이스[포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000823035</id>
-        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000823035"/>
-        <updated>2022-06-09T10:19:31.361Z</updated>
-        <content type="html"><![CDATA[5인조 걸그룹 우아(woo!ah! 나나,우연,소라,루시,민서)가 9일 강남 슈피겐홀에서 첫번째 미니앨범 ‘JOY’를 발표하는 쇼케이스를 열고 있다. . 미니앨범 JOY는 EXCLAMATION, QURIOS,WISH까]]></content>
     </entry>
 </feed>
