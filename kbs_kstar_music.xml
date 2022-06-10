@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 01:12:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 03:20:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스트레이 키즈, 두 번째 월드투어 시작!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=212945</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=212945</guid>
+            <pubDate>Fri, 10 Jun 2022 03:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=212945">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220610103544_0302ac71bb3c8439ee3180a99140ee2a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=212945">스트레이 키즈, 두 번째 월드투어 시작!</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220610103544_0302ac71bb3c8439ee3180a99140ee2a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여자친구 나와 솔로로 선 예린...팬들과 애틋한 시간]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=212930</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=211830">[쇼케이스] 성숙해진 조유리 "앞으로 더 많은 시간, 행복하게 놀아봐요"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220603095330_593c1617b3c0cef798c7ac57a3390fe3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전설 임재범의 귀환...위로의 메시지 담은 신곡]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=211809</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=211809</guid>
-            <pubDate>Fri, 03 Jun 2022 06:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=211809">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220603094109_fadf5fbc71b044fea3583113163f25df.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=211809">전설 임재범의 귀환...위로의 메시지 담은 신곡</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220603094109_fadf5fbc71b044fea3583113163f25df.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
