@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-06-10T19:14:58.866Z</updated>
+    <updated>2022-06-10T20:16:18.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[우리말-K팝 톺아보기⑥]'티켓팅'보다 '예매'에 성공하세요]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011241348</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011241348"/>
+        <updated>2022-06-10T20:16:02.002Z</updated>
+        <content type="html"><![CDATA["제 최애(最愛)가 새 앨범을 냈는데 타이틀곡이 너무 좋아서 스밍(스트리밍)을 계속해야 해요. 곧 콘서트도 열 텐데, 언택트 공연보다는 오프라인 공연을 보고 싶어요. 티켓팅에 꼭 성공하고 싶습니다. 꼭 콘서트장에 가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['놀뭐?' 이미주, 멤버들 거리두기…시선강탈 트윈룩]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011241334</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001459874"/>
         <updated>2022-06-10T10:16:52.342Z</updated>
         <content type="html"><![CDATA['싸이 흠뻑쇼 SUMMER SWAG 2022'가 전국 7개 도시에서 관객들과 만난다. 피네이션(P NATION)의 수장 싸이(PSY)는 10일 오후 공식 SNS에 '싸이 흠뻑쇼 SUMMER SWAG 2022'의 투어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTS 음반, 발매 첫날 150만장 판매…멜론 '톱 100' 단번에 1위]]></title>
-        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013238931</id>
-        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013238931"/>
-        <updated>2022-06-10T10:16:52.343Z</updated>
-        <content type="html"><![CDATA[빌보드 앨범·싱글 차트 동시 1위 기대도 그룹 방탄소년단(BTS)의 새 앨범 '프루프'(PROOF)가 발매 당일인 10일 반나절 만에 약 150만장이 팔려나가며 인기를 과시했다. 가요계에 따르면 '프루프'는 한터차트]]></content>
     </entry>
 </feed>
