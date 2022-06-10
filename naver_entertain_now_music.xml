@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-06-10T10:17:08.445Z</updated>
+    <updated>2022-06-10T11:14:04.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우아의 매력은 위험해..'단거'는 Danger ('뮤뱅')]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004634465</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004634465"/>
+        <updated>2022-06-10T11:13:46.189Z</updated>
+        <content type="html"><![CDATA['Z세대 아이콘' woo!ah!(우아!)가 '뮤직뱅크' 시청자들의 마음에 설탕을 뿌리는 달콤한 '단거' 퍼포먼스로 화려한 컴백을 알렸다. woo!ah!(우아!)는 오늘(10일) 오후 5시 방송한 KBS2 음악 프로그]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['BTS 신화' 9년 역사 담았다…새 앨범 발매]]></title>
         <id>https://entertain.naver.com/now/read?oid=422&amp;aid=0000546039</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000587125"/>
         <updated>2022-06-10T10:16:52.350Z</updated>
         <content type="html"><![CDATA['싸이 흠뻑쇼 SUMMER SWAG 2022'가 전국 7개 도시에서 관객들과 만난다. 피네이션(P NATION)의 수장 싸이(PSY)는 6월 10일 오후 공식 SNS에 '싸이 흠뻑쇼 SUMMER SWAG 2022'의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투모로우바이투게더, 日 레코드협회 골드디스크 인증 통산 6개째]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011240757</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011240757"/>
-        <updated>2022-06-10T10:16:52.351Z</updated>
-        <content type="html"><![CDATA[장인영 인턴 기자 = 그룹 '투모로우바이투게더'(TXT·투바투)가 4세대 보이그룹의 저력을 입증했다. 10일 일본 레코드협회에 따르면, 투모로우바이투게더가 지난달 9일 발매한 미니 4집 '미니소드 2: 서스데이즈 차]]></content>
     </entry>
 </feed>
