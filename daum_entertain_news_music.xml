@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-06-11T11:14:45.527Z</updated>
+    <updated>2022-06-11T12:24:14.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SM 이수만, 사우디아라비아 문화부 장관과 환담 '현지 아티스트 발굴 나선다']]></title>
+        <id>https://entertain.v.daum.net/v/20220611202806661</id>
+        <link href="https://entertain.v.daum.net/v/20220611202806661"/>
+        <updated>2022-06-11T12:23:37.717Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 최하나 기자] SM 이수만 총괄 프로듀서가 지난 8일 오후 SM 성수 신사옥을 방문한 문화부 장관인 바데르 빈 압둘라 빈 파르한 알 사우드(Badr bin Abdullah bin Farhan Al Saud)와 만나 환담을 나눴다. 이번 만남은 지난 리야드에서 맺은 사우디아라비아 문화부와의 인연으로 성사된 것으로 바데르 빈 압둘라 빈 파르한 알]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우아!, 이 춤 이름이 '설탕 뿌리기 춤']]></title>
         <id>https://entertain.v.daum.net/v/20220611173555662</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220611144821890"/>
         <updated>2022-06-11T06:18:45.744Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이하나 기자] 가수 윤하가 '청춘페스티벌 2022'에 출격해 청춘들과 소통한다. 윤하는 6월 11일 서울 올림픽공원 잔디마당에서 개최되는 '청춘페스티벌 2022' 둘째 날에 참여한다. 지난 2013년부터 이어지며 총 20만 관객을 동원한 복합 문화 페스티벌 '청춘페스티벌'은 올해 약 3년 만에 재개된다. 윤하가 그 자리를 더욱 빛낼 예정이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 D-2' 원호, K팝 찢으러 '올라운더 아이콘'이 온다..'FACADE' 기대되는 이유 셋]]></title>
-        <id>https://entertain.v.daum.net/v/20220611134653300</id>
-        <link href="https://entertain.v.daum.net/v/20220611134653300"/>
-        <updated>2022-06-11T05:13:34.138Z</updated>
-        <content type="html"><![CDATA[[OSEN=이승훈 기자] 가수 원호(WONHO)가 더욱 다채로운 매력을 담은 앨범으로 화려한 컴백을 알린다.&nbsp; 원호는 오는 13일 오후 6시 각종 음원 사이트를 통해 세 번째 미니 앨범 '파사드(FACADE)'를 발매하고 또 한 번 가요계 접수에 나선다.&nbsp; 지난 2월 발표한 첫 싱글 '옵세션(OBSESSION)' 이후 약 4개월 만에 화려하게 귀환할 원]]></content>
     </entry>
 </feed>
