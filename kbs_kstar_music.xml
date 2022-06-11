@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 04:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 05:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단, 새 앨범 ‘Proof’ 신곡 ‘Yet To Come’ 발표하자마자 신기록]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=213148</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=213148</guid>
+            <pubDate>Sat, 11 Jun 2022 05:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213148">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220611112154_bcbf627512e4ace85f8ad699fc4285db.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=213148">방탄소년단, 새 앨범 ‘Proof’ 신곡 ‘Yet To Come’ 발표하자마자 신기록 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220611112154_bcbf627512e4ace85f8ad699fc4285db.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[스트레이 키즈, 두 번째 월드투어 시작!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=212945</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=211923">방탄소년단 신곡 'Yet To Come', 음악방송에서 만난다</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220604063343_017bf34cffa07f2915fbfd9fd9a70ca3_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼케이스] 성숙해진 조유리 "앞으로 더 많은 시간, 행복하게 놀아봐요"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=211830</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=211830</guid>
-            <pubDate>Fri, 03 Jun 2022 06:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=211830">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220603095330_593c1617b3c0cef798c7ac57a3390fe3.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=211830">[쇼케이스] 성숙해진 조유리 "앞으로 더 많은 시간, 행복하게 놀아봐요"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220603095330_593c1617b3c0cef798c7ac57a3390fe3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
