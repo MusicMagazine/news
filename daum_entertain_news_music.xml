@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-06-11T08:19:02.433Z</updated>
+    <updated>2022-06-11T09:15:00.887Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우아!, 이 춤 이름이 '설탕 뿌리기 춤']]></title>
+        <id>https://entertain.v.daum.net/v/20220611173555662</id>
+        <link href="https://entertain.v.daum.net/v/20220611173555662"/>
+        <updated>2022-06-11T09:14:25.973Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 이승록 기자] woo!ah!(우아!)가 '음악중심'에서 5인5색 비타민 매력을 뽐냈다. woo!ah!(우아!)는 11일 오후 방송된 MBC 음악 프로그램 '쇼 음악중심'에 출연해 신곡 '단거(Danger)' 퍼포먼스를 진행했다. 이날 woo!ah!(우아!)는 민트색 스쿨룩을 입고 '단거' 무대에 올랐다. 이와 함께 '과즙미' 넘치는 상큼]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원호, 팬미팅 '오호호 트립' 연다..1년 10개월 만에 팬들 곁으로]]></title>
         <id>https://entertain.v.daum.net/v/20220611164256129</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220611134653300"/>
         <updated>2022-06-11T05:13:34.138Z</updated>
         <content type="html"><![CDATA[[OSEN=이승훈 기자] 가수 원호(WONHO)가 더욱 다채로운 매력을 담은 앨범으로 화려한 컴백을 알린다.&nbsp; 원호는 오는 13일 오후 6시 각종 음원 사이트를 통해 세 번째 미니 앨범 '파사드(FACADE)'를 발매하고 또 한 번 가요계 접수에 나선다.&nbsp; 지난 2월 발표한 첫 싱글 '옵세션(OBSESSION)' 이후 약 4개월 만에 화려하게 귀환할 원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단 '옛 투 컴', 전 세계 홀렸다..97개국 아이튠즈 1위]]></title>
-        <id>https://entertain.v.daum.net/v/20220611131106949</id>
-        <link href="https://entertain.v.daum.net/v/20220611131106949"/>
-        <updated>2022-06-11T04:19:55.797Z</updated>
-        <content type="html"><![CDATA[[스포츠한국 조은애 기자] 그룹 방탄소년단이 또 다시 전 세계를 홀렸다. 방탄소년단은 지난 10일(이하 한국시간) 발매한 새 앨범 '프루프'(Proof)의 타이틀곡 '옛 투 컴'(Yet To Come) (The Most Beautiful Moment)으로 11일 오전 8시 기준 미국, 캐나다, 호주, 프랑스, 스페인, 독일, 덴마크 등 세계 97개]]></content>
     </entry>
 </feed>
