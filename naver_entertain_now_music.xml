@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-06-12T13:22:38.765Z</updated>
+    <updated>2022-06-12T14:13:59.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅, 노래 9곡 멜론 TOP 10 점령…음원 강자 맞네]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004635951</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004635951"/>
+        <updated>2022-06-12T14:13:42.227Z</updated>
+        <content type="html"><![CDATA[가수 임영웅이 온라인 음원사이트 멜론 TOP 10을 점령했다. 12일 멜론 집계에 따르면 임영웅의 노래 9곡이 TOP 10에 진입해 상위권을 점령했다. 순위를 보면 1위 '다시 만날 수 있을까'부터 '우리들의 블루스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[효린, '코빅'서 이영지와 'Waka Boom' 퍼포먼스]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003061468</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004757347"/>
         <updated>2022-06-12T07:15:24.219Z</updated>
         <content type="html"><![CDATA[가수 임영웅이 6월 1주 차 아이돌차트 평점 순위에서 최다득표자에 올랐다. 12일 아이돌차트에 따르면 지난 3일부터 9일까지 집계된 평점 순위에서 임영웅은 56만 8907표를 얻어 최다득표를 기록했다. 이번 기록으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클라씨, 일본 활동 본격화..TV도쿄 '뮤직페스티벌' 출연]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003061432</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003061432"/>
-        <updated>2022-06-12T07:15:24.227Z</updated>
-        <content type="html"><![CDATA[걸그룹 클라씨(CLASS:y)가 파격 대우를 받으며 열도에 진출한다. 일본 지상파 방송사 TV도쿄는 12일 "클라씨가 오는 22일 생방송으로 시청자를 만나는 'TV도쿄 뮤직페스티벌 2022 여름'(テレ東音?祭2022]]></content>
     </entry>
 </feed>
