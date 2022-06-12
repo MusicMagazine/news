@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-06-12T11:13:17.741Z</updated>
+    <updated>2022-06-12T12:24:40.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[픽시, 세 번째 미니앨범 타이틀곡 ‘VILLAIN’ 퍼포먼스 프리뷰 오픈]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000874543</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000874543"/>
+        <updated>2022-06-12T12:24:25.863Z</updated>
+        <content type="html"><![CDATA[픽시(PIXY)가 신곡 퍼포먼스 프리뷰 영상을 깜짝 공개했다. 픽시는 12일 자정 공식 유튜브 채널 및 SNS 계정을 통해 세 번째 미니앨범 ‘REBORN’의 퍼포먼스 프리뷰 영상을 공개하며 컴백을 기다리는 이들에게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단 뷔 中팬클럽, 새 앨범 ‘프루프’ 45억원어치 공동구매]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000819061</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=416&amp;aid=0000284194"/>
         <updated>2022-06-12T07:15:24.229Z</updated>
         <content type="html"><![CDATA[그룹 방탄소년단(BTS) 멤버 뷔의 중국 팬클럽이 방탄소년단의 새 앨범 'Proof(프루프)'를 45억원어치나 구매한 것으로 알려져 화제다. 12일 방탄소년단 뷔의 중국 팬클럽 '바이두 뷔바'는 지난 10일 방탄소년]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세븐틴vsNCT DREAMvs아이브, '인기가요' 1위 후보]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003061431</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003061431"/>
-        <updated>2022-06-12T07:15:24.230Z</updated>
-        <content type="html"><![CDATA[그룹 세븐틴, NCT DREAM, 아이브가 '인기가요'에서 1위 트로피를 두고 겨룬다. 12일 방송된 SBS '인기가요'에서는 세븐틴의 'HOT', NCT DREAM의 'Beatbox', 아이브의 'LOVE DIVE]]></content>
     </entry>
 </feed>
