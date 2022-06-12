@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-06-12T09:16:16.172Z</updated>
+    <updated>2022-06-12T10:16:31.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이적, 존박 결혼식 축가 불렀다..따뜻한 후배 사랑]]></title>
+        <id>https://entertain.v.daum.net/v/20220612183853806</id>
+        <link href="https://entertain.v.daum.net/v/20220612183853806"/>
+        <updated>2022-06-12T10:15:49.105Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 윤성열 기자] 존박 /사진=김휘선 기자 hwijpg@가수 이적이 존박(34·박성규)의 결혼식에서 축가를 불렀다. 12일 스타뉴스 취재 결과, 이적은 이날 오후 6시 서울 모처에서 진행된 존박의 결혼식에서 축가로 나섰다. 이적과 존박은 소속사 뮤직팜에서 한솥밥을 먹고 있는 사이다. 이적은 가요계 후배이기도 한 존박을 위해 아름다운 축가를 불러]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단 신곡 'Yet To Come'도 터졌다..스포티파이 데일리 톱 송 글로벌 차트 3위 진입]]></title>
         <id>https://entertain.v.daum.net/v/20220612181222401</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220612112612346"/>
         <updated>2022-06-12T03:23:17.782Z</updated>
         <content type="html"><![CDATA[[OSEN=지민경 기자]&nbsp;하이브 레이블즈 아티스트들이 5월 컴백과 함께 가온차트에서 강세를 보였다. 지난 8일 공개된 가온 5월 월간 차트에 따르면, 세븐틴의 정규 4집 ‘Face the Sun’이 1위, 투모로우바이투게더의 미니 4집 ‘minisode 2: Thursday’s Child’가 2위, 르세라핌의 데뷔 앨범 ‘FEARLESS’가 5위를 차지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['윤민수 子' 윤후, 12일 첫 싱글 '나무' 공개..자이언티와 협업]]></title>
-        <id>https://entertain.v.daum.net/v/20220612110318961</id>
-        <link href="https://entertain.v.daum.net/v/20220612110318961"/>
-        <updated>2022-06-12T03:23:17.783Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 윤성열 기자] /사진제공=메이저나인가수 윤민수의 아들 윤후(YUN HU)가 진심을 담아 만든 첫 노래를 세상 밖에 선보인다. 12일 윤민수 소속사 메이저나인에 따르면 윤후는 이날 오후 6시 각종 음악 사이트를 통해 디지털 싱글 '나무'(Love tree)를 발매한다. '나무'는 윤후가 처음으로 만든 노래로 엄마, 아빠에게 인정받고 싶은 순수한]]></content>
     </entry>
 </feed>
