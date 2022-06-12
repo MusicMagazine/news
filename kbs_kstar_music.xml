@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 23:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 01:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["여름이다! 싸이다!" '싸이 흠뻑쇼 SUMMER SWAG 2022']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=213131</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=213131</guid>
+            <pubDate>Sun, 12 Jun 2022 01:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213131">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220611095905_0904d7d027ba7fedad43d34d3d6fc32a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=213131">"여름이다! 싸이다!" '싸이 흠뻑쇼 SUMMER SWAG 2022'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220611095905_0904d7d027ba7fedad43d34d3d6fc32a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, 새 앨범 ‘Proof’ 신곡 ‘Yet To Come’ 발표하자마자 신기록]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=213148</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=211970">김호중, 플라시도 도밍고와 듀엣 무대 갖는다</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220604072912_b9e7d285e576efc16f1a80d516d250aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 신곡 'Yet To Come', 음악방송에서 만난다]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=211923</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=211923</guid>
-            <pubDate>Sat, 04 Jun 2022 04:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=211923">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220604063343_017bf34cffa07f2915fbfd9fd9a70ca3_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=211923">방탄소년단 신곡 'Yet To Come', 음악방송에서 만난다</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220604063343_017bf34cffa07f2915fbfd9fd9a70ca3_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
