@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 22:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 23:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[찢어진 입을 가진 그윈플렌,  뮤지컬 ‘웃는 남자’  개막]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=213434</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=213434</guid>
+            <pubDate>Mon, 13 Jun 2022 23:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213434">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220613152452_0f1b574a0b5923e7c8f55d5ac301f7fe.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=213434">찢어진 입을 가진 그윈플렌,  뮤지컬 ‘웃는 남자’  개막</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220613152452_0f1b574a0b5923e7c8f55d5ac301f7fe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[CJ ENM 글로벌프로젝트 '뮤지컬 MJ' 토니어워즈 4관왕]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=213415</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=211754">'뉴 아이디-JTBC' 콘텐츠 파트너십, 미드폼 콘텐츠 글로벌 'FAST' 서비스</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220603080202_abdeaa938fe25b74a6e0628464ac1485_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[화보] 박유림 '마리끌레르' 매력]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=211285</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=211285</guid>
-            <pubDate>Mon, 30 May 2022 22:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=211285">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220530141745_1a71a7b6efdcf9475c9564996806c69f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=211285">[화보] 박유림 '마리끌레르' 매력</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220530141745_1a71a7b6efdcf9475c9564996806c69f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
