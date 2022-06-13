@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-06-13T15:21:34.679Z</updated>
+    <updated>2022-06-13T16:20:29.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인피니트 김성규, 전국 투어 성료 "팬들과 호흡할 수 있어 행복"]]></title>
+        <id>https://entertain.v.daum.net/v/20220614010006942</id>
+        <link href="https://entertain.v.daum.net/v/20220614010006942"/>
+        <updated>2022-06-13T16:19:54.133Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 오윤주 기자] 가수 김성규가 전국 투어를 성료했다. 김성규는 지난 4일과 5일에는 부산 벡스코 오디토리움에서, 지난 11일과 12일 양일간은 대구 엑스코 컨벤션홀에서 네 번째 단독 콘서트 'LV'를 열고 팬들을 직접 만났다. 이번 부산·대구 콘서트는 팬들의 뜨거운 사랑에 보답하기 위해 김성규가 처음으로 펼치는 지방 공연이라는 점에서 더]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화연 "월드컵 때마다 재데뷔..좋아하니 버텼다"]]></title>
         <id>https://entertain.v.daum.net/v/20220614000004424</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220613183004817"/>
         <updated>2022-06-13T10:18:42.282Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 그룹 버가부(bugAboo)가 팬들과 하는 첫 쇼케이스를 앞두고 긴장감을 내비쳤다. 버가부의 새 싱글 ‘POP’(팝) 발매 기념 쇼케이스가 13일 오후 서울시 마포구 SBS프리즘타워에서 진행됐다. 앨범과 동명의 타이틀곡 'POP'은 톡톡 튀는 버가부만의 개성을 표현한 곡이다. '한 번 맛보면 짜릿함에 중독되는 팝핑]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["'반박불가돌' 불리고파" 버가부, 상상이상의 '팝 ']]></title>
-        <id>https://entertain.v.daum.net/v/20220613180431223</id>
-        <link href="https://entertain.v.daum.net/v/20220613180431223"/>
-        <updated>2022-06-13T09:16:12.592Z</updated>
-        <content type="html"><![CDATA[그룹 버가부가 상상이상의 무대를 예고했다. 버가부의 두 번째 싱글 ‘팝’ 발매 쇼케이스가 13일 서울 마포구 SBS프리즘타워에서 진행됐다. 이날 오후 6시 공개되는 ‘팝’은 한층 성장한 소녀들의 이야기를 담은 동명의 타이틀곡과 버가부의 무한한 가능성을 표현한 ‘이지 무브’까지 2곡이 담겼다. 역동적이고 파워풀한 퍼포먼스에서 한층 더 업그레이드된 걸크러]]></content>
     </entry>
 </feed>
