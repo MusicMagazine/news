@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-06-15T13:35:21.165Z</updated>
+    <updated>2022-06-15T14:15:29.887Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['월드 와이드 노력파'..방탄소년단 진, 노력파 1위 등극]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003062576</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003062576"/>
+        <updated>2022-06-15T14:15:13.995Z</updated>
+        <content type="html"><![CDATA[그룹 방탄소년단(BTS) 멤버 진이 케이팝을 정복한 노력왕 아이돌 1위로 선정됐다. 진은 글로벌 케이팝 팬덤 플랫폼 '후즈팬(Whosfan)'이 지난 7일부터 13일까지 '[WhosPICK] 케이팝을 정복한 노력왕]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['쇼! 챔피언' woo!ah!(우아!), 상큼X발랄X깜찍 퍼포먼스]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003062573</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001461857"/>
         <updated>2022-06-15T10:18:46.724Z</updated>
         <content type="html"><![CDATA[다크 콘셉트로 돌아온 그룹 드리핀(DRIPPIN)이 청량을 버리지 않았다며, '콘셉트 욕심쟁이'라는 수식어를 꿈꿨다. 드리핀의 두 번째 싱글 'Villain : ZERO'(빌런 : 제로) 발매 기념 미디어 쇼케이스가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임영웅 팬클럽, 어려운 청소년 위해 기부금 200만 원과 건강식품 50박스 후원]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001461856</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001461856"/>
-        <updated>2022-06-15T10:18:46.724Z</updated>
-        <content type="html"><![CDATA[임영웅 팬클럽의 나눔이 눈길을 끈다. 임영웅 팬클럽 전국영웅시대 영웅방은 올해 가수 임영웅의 32번째 생일을 맞이하여 기부금 200만원과 건강식품 50박스를 사단법인 ‘들꽃 청소년 세상’에 전했다. 이곳은 1994년]]></content>
     </entry>
 </feed>
