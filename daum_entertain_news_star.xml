@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-06-16T16:23:08.669Z</updated>
+    <updated>2022-06-16T17:20:49.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["결혼은 비즈니스입니다" 복수 나선 김희선]]></title>
+        <id>https://entertain.v.daum.net/v/20220617020008899</id>
+        <link href="https://entertain.v.daum.net/v/20220617020008899"/>
+        <updated>2022-06-16T17:20:18.650Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 김나라 기자] 배우 김희선 주연작 '블랙의 신부'가 티저 포스터 및 티저 예고편을 공개했다. '블랙의 신부'(연출 김정민/극본 이근영)는 사랑이 아닌 조건을 거래하는 상류층 결혼정보회사에서 펼쳐지는 복수와 욕망의 스캔들을 그린 넷플릭스 새 오리지널 시리즈. 한국에만 존재하는 결혼정보회사를 무대로 상류층의 결혼 비즈니스 세계를 담으며 호기심]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['판타패' 솔지 "오빠 별명 김치, 좋아하는 여자에게 '엄마 김치' 조공"..박현빈 가족 '첫 승']]></title>
         <id>https://entertain.v.daum.net/v/20220617010000679</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220616235101150"/>
         <updated>2022-06-16T15:15:39.875Z</updated>
         <content type="html"><![CDATA[트로트 가수 김호중이 소집 해제 후 첫 무대에 오른 소감과 함께 단독 콘서트를 계획하고 있다는 소식을 전했다. 16일 밤 방송된 kbs2 '연중 라이브'에서는 소집 해제 후 최근 컴백한 '트바로티' 김호중의 근황, BTS의 향후 활동 방향, 윤계상의 결혼식 등이 다뤄졌다. 이날 연중라이브는 소집 해제 후 첫 공연으로 평화콘서트를 찾은 김호중을 찾아갔다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연중라이브' 김호중 "단독 콘서트·앨범 발매 계획 중이다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220616234617130</id>
-        <link href="https://entertain.v.daum.net/v/20220616234617130"/>
-        <updated>2022-06-16T15:15:39.875Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 남서영기자]최근 제대한 김호중이 향후 계획을 밝혔다. 16일 방송된 KBS2 ‘연중 라이브’에서는 가수 김호중이 출연했다. 최근 소집해제된 김호중은 “발달 장애 있는 친구들을 같이 놀아주는 그리고 안전을 지켜주는 (일을 했다)”며 “좀 통통한 형으로 같이 간식 먹어주는 형이라고 생각할 것 같다”고 밝]]></content>
     </entry>
 </feed>
