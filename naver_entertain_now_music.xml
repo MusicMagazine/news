@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-06-17T17:18:21.704Z</updated>
+    <updated>2022-06-17T18:18:28.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소유 "한강서 연예인 커플 목격"…깜짝 폭로]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011254169</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011254169"/>
+        <updated>2022-06-17T18:18:14.596Z</updated>
+        <content type="html"><![CDATA[장인영 인턴 기자 = 가수 소유가 연예인 커플의 차크닉(차+피크닉) 현장 목겸담을 깜짝 폭로한다. 오는 20일 오후 10시 40분 방송되는 MBN·ENA PLAY 예능 '호캉스 말고 스캉스'(이하 '스캉스') 5회에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["이제부터 시작" (여자)아이들, 꿈꿔온 첫 오프라인 콘서트[SS현장]]]></title>
         <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000857263</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000875659"/>
         <updated>2022-06-17T10:21:06.824Z</updated>
         <content type="html"><![CDATA[뮤지션 주니(JUNNY)가 정규앨범 발매에 앞서 선공개 싱글로 예열에 나선다. 주니는 지난 16일 공식 SNS를 통해 신곡 ‘Color Me (Feat. 청하)’의 이미지 티저를 공개했다. 공개된 이미지에는 갈색 머]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이찬원의 MC 도전! '제1회 드림콘서트 트롯' 뜬다[공식]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003063102</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003063102"/>
-        <updated>2022-06-17T10:21:06.828Z</updated>
-        <content type="html"><![CDATA[가수 이찬원이 '제1회 드림콘서트 트롯'의 MC로 출연한다. 이찬원은 오는 6월 19일 오후 6시 서울 잠실 올림픽주경기장에서 개최되는 '제1회 드림콘서트 트롯'의 MC를 맡아 트로트 팬들과 만난다. 이번 콘서트에서]]></content>
     </entry>
 </feed>
