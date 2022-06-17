@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-06-17T15:17:13.201Z</updated>
+    <updated>2022-06-17T16:22:11.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["이제부터 시작" (여자)아이들, 꿈꿔온 첫 오프라인 콘서트[SS현장]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000857263</id>
+        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000857263"/>
+        <updated>2022-06-17T16:21:54.944Z</updated>
+        <content type="html"><![CDATA[그룹 (여자)아이들이 성황리에 첫 오프라인 콘서트의 포문을 열었다. 아이들이 데뷔 4년 만에 첫 월드투어 ‘2022 (여자)아이들 월드 투어 ’저스트 미 아이들‘(이하 ‘저스트 미 아이들’)’을 개최한다. (여자)아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단(BTS)은 아직 온당한 평가를 받지 못했다]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001462943</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003063102"/>
         <updated>2022-06-17T10:21:06.828Z</updated>
         <content type="html"><![CDATA[가수 이찬원이 '제1회 드림콘서트 트롯'의 MC로 출연한다. 이찬원은 오는 6월 19일 오후 6시 서울 잠실 올림픽주경기장에서 개최되는 '제1회 드림콘서트 트롯'의 MC를 맡아 트로트 팬들과 만난다. 이번 콘서트에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘20일 컴백’ 케플러, ‘Up!’ M/V 티저 공개…에너제틱 X 훅킹 안무]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000875657</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000875657"/>
-        <updated>2022-06-17T10:21:06.829Z</updated>
-        <content type="html"><![CDATA[‘4세대 1티어’로 손꼽히는 Kep1er(케플러)가 중독성 넘치는 퍼포먼스를 예고했다. 케플러는 17일 0시 공식 SNS를 통해 두 번째 미니앨범 ‘DOUBLAST(더블라스트)’ 타이틀곡 ‘Up! (업!)’의 두 번]]></content>
     </entry>
 </feed>
