@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-06-18T19:13:54.924Z</updated>
+    <updated>2022-06-18T20:14:57.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[레드벨벳 '2022 드림콘서트 최고참 아이돌의 여신미모' [MD동영상]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003615487</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003615487"/>
+        <updated>2022-06-18T20:14:38.445Z</updated>
+        <content type="html"><![CDATA[걸그룹 레드벨벳이 18일 오후 서울 잠실 올림픽주경기장에서 진행된 '2022 제28회 드림콘서트' 레드카펫에 참석했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[클라씨 '팬들과 즐거운 시간'[★포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003063433</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003063415"/>
         <updated>2022-06-18T16:20:33.299Z</updated>
         <content type="html"><![CDATA[걸그룹 엔믹스가 18일 오후 서울 송파구 잠실 올림픽주경기장에서 진행된 '2022 드림콘서트'에 참석해 멋진 무대를 선보이고 있다. 2022.06.18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 케플러, '검증된 신인들'(2022 드림콘서트)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004713194</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004713194"/>
-        <updated>2022-06-18T16:20:33.299Z</updated>
-        <content type="html"><![CDATA[그룹 케플러가 18일 오후 서울 잠실동 서울올림픽주경기장에서 열린 제28회 드림콘서트에 참석해 공연을 선보이고 있다. 3년 만에 오프라인 공연으로 찾아온 ‘제 28회 드림콘서트는 골든차일드, 클라씨, 드리핀, 드림캐]]></content>
     </entry>
 </feed>
