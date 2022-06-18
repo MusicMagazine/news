@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 08:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 09:13:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포토] 이무진, 플렉스~]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/351258</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/351258</guid>
+            <pubDate>Sat, 18 Jun 2022 09:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/351258">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/06/18/2fbb0b6b-d385-4e7c-a247-6d0af71cf0de.jpg" alt="[포토] 이무진, 플렉스~">        <div class="text-box">            <p class="summary">[포토] 이무진, 플렉스~</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/06/18/2fbb0b6b-d385-4e7c-a247-6d0af71cf0de.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[포토] 위클리, 청초 러블리 미모]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/351252</link>
@@ -86,14 +94,6 @@
             <pubDate>Sat, 18 Jun 2022 08:18:09 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/351243">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/06/18/7d0d0e75-aadf-4745-a3fe-5a48cf60d203.jpg" alt="[포토] 엔믹스 설윤, 'MZ 미모'">        <div class="text-box">            <p class="summary">[포토] 엔믹스 설윤, 'MZ 미모'</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/06/18/7d0d0e75-aadf-4745-a3fe-5a48cf60d203.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 클라씨, '남다른 귀요미']]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/351254</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/351254</guid>
-            <pubDate>Sat, 18 Jun 2022 08:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/351254">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/06/18/d0c3f275-7dcc-4dcd-96f4-65bbfdbb7e01.jpg" alt="[포토] 클라씨, '남다른 귀요미'">        <div class="text-box">            <p class="summary">[포토] 클라씨, '남다른 귀요미'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/06/18/d0c3f275-7dcc-4dcd-96f4-65bbfdbb7e01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
