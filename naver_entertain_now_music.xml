@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-06-19T07:15:43.314Z</updated>
+    <updated>2022-06-19T08:18:53.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘인기가요’ 원호, 신곡 ‘크레이지’로 급이 다른 퍼포먼스]]></title>
+        <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003130400</id>
+        <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003130400"/>
+        <updated>2022-06-19T08:18:37.028Z</updated>
+        <content type="html"><![CDATA[가수 원호(WONHO)가 컴백 무대에서 급이 다른 퍼포먼스를 선사했다. 원호는 19일 오후 방송된 SBS ‘인기가요’에 출연해 세 번째 미니 앨범 ‘파사드’(FACADE)의 타이틀 곡 ‘크레이지’로 컴백 무대를 꾸몄]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이달의 소녀, '퀸덤2'로 불붙은 화력…컴백 기대 포인트 셋]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003615566</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=408&amp;aid=0000158863"/>
         <updated>2022-06-19T05:16:56.887Z</updated>
         <content type="html"><![CDATA[아이브(IVE)가 ‘꿈의 무대’를 완벽하게 접수했다. 아이브(안유진, 가을, 레이, 장원영, 리즈, 이서)는 18일 서울 잠실종합운동장 주경기장에서 열린 제28회 드림콘서트에 출연해 ‘LOVE DIVE (러브 다이브]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크래비티, '드림콘서트' 오프닝 장식한 화려한 퍼포먼스]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003063515</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003063515"/>
-        <updated>2022-06-19T05:16:56.889Z</updated>
-        <content type="html"><![CDATA[그룹 크래비티(CRAVITY)가 '드림콘서트'의 문을 화려하게 열었다. 크래비티(세림, 앨런, 정모, 우빈, 원진, 민희, 형준, 태영, 성민)는 18일 서울 잠실종합운동장 주경기장에서 열린 제28회 드림콘서트에 출]]></content>
     </entry>
 </feed>
