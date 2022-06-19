@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-06-19T09:15:49.835Z</updated>
+    <updated>2022-06-19T10:17:13.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이브, 'LOVE DIVE' 역주행 '1위'..적수 없는 4세대 대표 그룹]]></title>
+        <id>https://entertain.v.daum.net/v/20220619184748645</id>
+        <link href="https://entertain.v.daum.net/v/20220619184748645"/>
+        <updated>2022-06-19T10:16:32.471Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] 그룹 아이브(IVE)가 음원 차트 1위를 찍으며 ‘4세대 대표 아이돌’ 자리를 확실하게 굳혔다. 아이브가 지난 4월 5일 발매한 두 번째 싱글 ‘LOVE DIVE’의 동명의 타이틀곡 ‘LOVE DIVE’는 19일 밤 12시 국내 최대 음원 사이트 멜론에서 ‘TOP 100’ 1위에 올랐다. 이는 아이브가 데뷔한 이후 멜론 TOP]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원호·리짓군즈·폴킴·픽시·오메가엑스·넉살X까데호]]></title>
         <id>https://entertain.v.daum.net/v/20220619174206052</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220619113401786"/>
         <updated>2022-06-19T03:38:06.953Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] 그룹 이달의 소녀(LOONA)가 서머 스페셜 미니 앨범의 타이틀곡 'Flip That'(플립 댓) 뮤직비디오 티저 영상으로 싱그러운 소녀들의 여름을 예고했다. 이달의 소녀(희진·현진·하슬·여진·비비·김립·진솔·최리·이브·츄·고원·올리비아 혜)는 오늘(19일) 0시, 공식 SNS를 통해 서머 스페셜 미니 앨범 'Flip That']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['드림콘서트',  K팝 27팀→4만5천명 팬 참가..끝나지 않은 축제]]></title>
-        <id>https://entertain.v.daum.net/v/20220619113129762</id>
-        <link href="https://entertain.v.daum.net/v/20220619113129762"/>
-        <updated>2022-06-19T03:38:06.955Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;'드림콘서트'가 케이팝 아티스트와 팬들의 특별한 화합을 이룬 '꿈의 축제'를 성황리에 마무리했다.&nbsp; 사단법인 한국연예제작자협회(회장 임백운)와 한국관광공사(사장직무대행 신상용)가 공동 주최하고 문화체육관광부가 특별 후원한 '제28회&nbsp;드림콘서트'(이하 '드림콘서트')는 지난 18일 오후 6시 서울 잠실 올림픽 주경기장에서 오프라인]]></content>
     </entry>
 </feed>
