@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-06-19T01:13:10.971Z</updated>
+    <updated>2022-06-19T03:38:44.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['탑건:매버릭' 전세계 8억 달러 수익 돌파…톰 크루즈 필모 사상 1위[Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004640150</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004640150"/>
+        <updated>2022-06-19T03:38:43.562Z</updated>
+        <content type="html"><![CDATA[배우 톰 크루즈가 출연한 작품들 가운데 ‘탑건: 매버릭’이 전세계 박스오피스에서 가장 많은 수익낸 영화로 기록될 전망이다. 18일(현지 시간) 박스오피스 모조 집계를 보면 ‘탑건: 매버릭’은 이날까지 월드와이드 수익]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['헤라클레스' 실사 영화로 재탄생…'알라딘' 가이 리치 감독 연출[Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004640115</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000875969"/>
         <updated>2022-06-18T13:24:07.370Z</updated>
         <content type="html"><![CDATA[제28회 드림콘서트가 18일 오후 서울 잠실종합운동장 주경기장에서 열렸다. 아이브 장원영이 드림콘서트 무대를 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안유진-장원영 '돋보이는 미모' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000875968</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000875968"/>
-        <updated>2022-06-18T13:24:07.372Z</updated>
-        <content type="html"><![CDATA[제28회 드림콘서트가 18일 오후 서울 잠실종합운동장 주경기장에서 열렸다. 아이브 안유진, 장원영이 드림콘서트 무대를 갖고 있다.]]></content>
     </entry>
 </feed>
