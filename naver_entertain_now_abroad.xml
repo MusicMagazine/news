@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-06-19T04:28:48.732Z</updated>
+    <updated>2022-06-19T05:17:13.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단 신곡 ‘옛 투 컴’ 영국 차트 27위]]></title>
+        <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003130361</id>
+        <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003130361"/>
+        <updated>2022-06-19T05:17:12.409Z</updated>
+        <content type="html"><![CDATA[그룹 방탄소년단(BTS)의 신곡이 영국 오피셜 차트에 이름을 올렸다. 영국의 음악 순위 제공업체 오피셜차트컴퍼니가 17일(현지시간) 공개한 ‘오피셜 싱글 차트 톱 100’에 따르면 방탄소년단의 ‘옛 투 컴’(Yet]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['탑건:매버릭' 전세계 8억 달러 수익 돌파…톰 크루즈 필모 사상 1위[Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004640150</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000875970"/>
         <updated>2022-06-18T13:24:07.369Z</updated>
         <content type="html"><![CDATA[제28회 드림콘서트가 18일 오후 서울 잠실종합운동장 주경기장에서 열렸다. 아이브가 드림콘서트 무대를 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이브 장원영 '윙크' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000875969</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000875969"/>
-        <updated>2022-06-18T13:24:07.370Z</updated>
-        <content type="html"><![CDATA[제28회 드림콘서트가 18일 오후 서울 잠실종합운동장 주경기장에서 열렸다. 아이브 장원영이 드림콘서트 무대를 갖고 있다.]]></content>
     </entry>
 </feed>
