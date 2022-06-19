@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-06-19T15:14:30.621Z</updated>
+    <updated>2022-06-19T16:20:17.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제철 맞이한 위너, 7월 5일 컴백 확정…2년만 완전체[공식]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000590860</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000590860"/>
+        <updated>2022-06-19T16:20:00.924Z</updated>
+        <content type="html"><![CDATA[그룹 위너(강승윤, 김진우, 이승훈, 송민호)가 7월 5일 컴백한다. 위너 소속사 YG엔터테인먼트 측은 6월 20일 0시 공식 SNS를 통해 위너의 커밍순 티저를 선보였다. 공개된 티저에 따르면 위너는 7월 5일 신]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김호중, ‘드림콘서트 트롯’서 감동+여운 선물…여전한 트바로티 인기]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001463801</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000857564"/>
         <updated>2022-06-19T12:24:33.531Z</updated>
         <content type="html"><![CDATA[홍지윤이 19일 잠실 올림픽주경기장에서 열린 ‘제1회 드림콘서트 트롯’에서 공연을 펼치고 있다. 2022. 6. 19. 잠실 |]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 진성-김용임-전유진-박군 '트롯 가족처럼']]></title>
-        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000857561</id>
-        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000857561"/>
-        <updated>2022-06-19T12:24:33.531Z</updated>
-        <content type="html"><![CDATA[진성, 김용임, 전유진, 박군(왼쪽부터)이 19일 잠실 올림픽주경기장에서 열린 ‘제1회 드림콘서트 트롯’에서 공연을 펼치고 있다. 2022. 6. 19. 잠실 |]]></content>
     </entry>
 </feed>
