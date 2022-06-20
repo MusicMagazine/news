@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-06-20T03:17:00.581Z</updated>
+    <updated>2022-06-20T04:24:50.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['18세 청춘스타' 타일러 샌더스, 갑작스런 사망 '충격' [엑's 할리우드]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001464093</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001464093"/>
+        <updated>2022-06-20T04:24:49.990Z</updated>
+        <content type="html"><![CDATA[미국의 배우 타일러 샌더스가 갑작스럽게 세상을 떠나 충격을 안긴다. 지난 17일(현지시간) 미국의 TMZ는 타일러 샌더스가 자택에서 숨을 쉬지 않는 상태로 발견됐다고 단독보도했다. 발견 당시 타일러 샌더스는 집에 혼]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전도연 '아름다운 미소' [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000876358</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003882925"/>
         <updated>2022-06-20T03:16:59.957Z</updated>
         <content type="html"><![CDATA[영화 '비상선언' 제작보고회가 20일 서울 중구 소공동 웨스틴조선호텔 그랜드볼룸에서 열렸다. 배우 송강호, 이병헌, 전도연이 인터뷰를 하고 있다. /2022.06.20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임시완 '순정만화 주인공 비주얼' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000876331</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000876331"/>
-        <updated>2022-06-20T03:16:59.958Z</updated>
-        <content type="html"><![CDATA[배우 임시완이 20일 오전 서울 중구 소공동에 위치한 웨스틴조선호텔 그랜드볼룸에서 진행된 영화 '비상선언'(감독 한재림) 제작보고회에 참석해 포즈를 취하고 있다. '비상선언'은 제 74회 칸 영화제 비경쟁 부문 공식]]></content>
     </entry>
 </feed>
