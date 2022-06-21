@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-06-21T15:16:29.284Z</updated>
+    <updated>2022-06-21T16:24:14.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에스파, 광야로 들어가자 K팝 신세계…이수만 'SMCU']]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011260257</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011260257"/>
+        <updated>2022-06-21T16:23:55.698Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 SM 컬처 유니버스 세계관 영상 EP. 2 '넥스트 레벨' 리뷰 공개 하루만에 200만뷰 기록하며 화제 [서울=뉴시스]이재훈 기자 = "절대적 룰을 지켜 / 내 손을 놓지 말아 / 결속은 나의 무기 /]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['드림콘서트', 누적 관객 수 167만 5천 명·출연 가수 616팀]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003064444</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000591944"/>
         <updated>2022-06-21T09:24:28.775Z</updated>
         <content type="html"><![CDATA[가수 영재가 그룹 갓세븐 활동에 이어 솔로 활동에 돌입한다. 영재는 6월 21일 오후 6시 국내외 음원 사이트를 통해 미니 2집 앨범 'SUGAR'(슈가)를 발매한다. 이번 앨범은 영재가 지난해 10월 발표한 미니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투모로우바이투게더, 10월 월드투어 개최…亞 넘어 美까지]]></title>
-        <id>https://entertain.naver.com/now/read?oid=052&amp;aid=0001754346</id>
-        <link href="https://entertain.naver.com/now/read?oid=052&amp;aid=0001754346"/>
-        <updated>2022-06-21T09:24:28.775Z</updated>
-        <content type="html"><![CDATA[그룹 투모로우바이투게더(수빈, 연준, 범규, 태현, 휴닝카이)가 한국과 미국, 일본에 이어 아시아 4개 도시에서 콘서트를 개최, 글로벌 열풍을 이어 간다. 투모로우바이투게더는 21일 오후 2시 공식 SNS와 글로벌]]></content>
     </entry>
 </feed>
