@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 20:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 21:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[화보] 아메리칸 송 콘테스트 우승자 알렉사, 유니크한 매력 뿜뿜!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=214893</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=214893</guid>
+            <pubDate>Wed, 22 Jun 2022 21:14:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=214893">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220622160531_3a0698ae246afb8bc997766cd69e7ea8.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=214893">[화보] 아메리칸 송 콘테스트 우승자 알렉사, 유니크한 매력 뿜뿜!</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220622160531_3a0698ae246afb8bc997766cd69e7ea8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[브로드웨이 뮤지컬 '물랑루즈!', 12월 아시아 최초 라이선스 공연]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=214852</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=212762">'오징어 게임', '기생충' 음악감독 정재일...데카 레코드 글로벌 계약 체결!</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220609102626_e0f8a581744c0e51303f88559dae1904.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강호동 표 예능...'걍나와' 전격 공개!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=212702</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=212702</guid>
-            <pubDate>Thu, 09 Jun 2022 14:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=212702">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220609083828_9f985e1897b674df58b990c03c8916c2.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=212702">강호동 표 예능...'걍나와' 전격 공개!</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220609083828_9f985e1897b674df58b990c03c8916c2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
