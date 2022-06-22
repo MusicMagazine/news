@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 07:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 08:22:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[쇼케이스] 여름하면 카드, 카드하면 여름! 긴 군백기 깬 완전체의 귀환]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=214888</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=214888</guid>
+            <pubDate>Wed, 22 Jun 2022 08:20:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=214888">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220622160321_ed2bab50c7454ca9e659348c51af612a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=214888">[쇼케이스] 여름하면 카드, 카드하면 여름! 긴 군백기 깬 완전체의 귀환</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220622160321_ed2bab50c7454ca9e659348c51af612a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["7월의 효린"  썸머 퀸 컴백]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=214777</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=214060">ITZY(있지) 8월, 잠실에서 월드투어 스타트</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220617102556_d2ee7772a2dee7ce98f6135c57244ac1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼케이스] 임재범, 7년 만에 전하는 위로...일곱 번째 앨범 '세븐 콤마']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=213985</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=213985</guid>
-            <pubDate>Thu, 16 Jun 2022 08:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213985">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220616160710_e30c7a039cd2503a800d318079c3d30e.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=213985">[쇼케이스] 임재범, 7년 만에 전하는 위로...일곱 번째 앨범 '세븐 콤마' </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220616160710_e30c7a039cd2503a800d318079c3d30e.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
