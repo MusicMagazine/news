@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 23:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 01:05:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[화보] 액션 장인, 화보 장인 장혁]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=214963</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=214963</guid>
+            <pubDate>Thu, 23 Jun 2022 01:04:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=214963">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220623085135_05c9c87518b7e8755d76078822bec3fd.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=214963">[화보] 액션 장인, 화보 장인 장혁</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220623085135_05c9c87518b7e8755d76078822bec3fd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[화보] 아메리칸 송 콘테스트 우승자 알렉사, 유니크한 매력 뿜뿜!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=214893</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=212812">[공연評] 세상에서 가장 어려운, '평범한' 가정이라는 존재 '넥스트 투 노멀'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220609110921_85615b4b35537daf74fb017a6f961282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오징어 게임', '기생충' 음악감독 정재일...데카 레코드 글로벌 계약 체결!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=212762</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=212762</guid>
-            <pubDate>Thu, 09 Jun 2022 14:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=212762">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220609102626_e0f8a581744c0e51303f88559dae1904.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=212762">'오징어 게임', '기생충' 음악감독 정재일...데카 레코드 글로벌 계약 체결!</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220609102626_e0f8a581744c0e51303f88559dae1904.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
