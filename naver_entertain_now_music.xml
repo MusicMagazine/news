@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-06-24T17:21:12.041Z</updated>
+    <updated>2022-06-24T18:19:13.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['7월 6일 데뷔' 아이리스, 윤슬 개인 티저 공개…유니크한 무드 예고]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003617739</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003617739"/>
+        <updated>2022-06-24T18:18:57.557Z</updated>
+        <content type="html"><![CDATA[그룹 아이리스((IRRIS)가 유니크한 분위기로 데뷔 기대감을 높였다. 아이리스는 23일 공식 SNS를 통해 첫 번째 미니앨범 '워너 노(WANNA KNOW)'의 윤슬 개인 티저 이미지를 공개했다. 공개된 이미지 속]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['글로벌 걸그룹' 이달의 소녀, 데뷔 첫 월드투어 전 회차 매진…4개 도시 추가 공연]]></title>
         <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0002007391</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001466652"/>
         <updated>2022-06-24T10:17:34.233Z</updated>
         <content type="html"><![CDATA[그룹 브레이브걸스 측이 무속인 만연당에 공개 사과를 요구했다. 소속사 브레이브 엔터테인먼트는 24일 공식 자료를 통해 iHQ OTT 채널 바바요tv '신이 찍은 아이돌 : 제 2의 브레이브걸스를 찾아라!' 1화 방송]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탄(TAN), 타이틀곡 'Louder' MV 100만뷰 돌파..가파른 상승세]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003065439</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003065439"/>
-        <updated>2022-06-24T10:17:34.234Z</updated>
-        <content type="html"><![CDATA[그룹 TAN(탄·창선, 주안, 재준, 성혁, 현엽, 태훈, 지성)의 컴백 타이틀곡 'Louder'가 단기간에 100만 뷰를 돌파했다. 지난 23일 탄은 새 앨범 W SERIES '2TAN(wish ver)'의 타이틀]]></content>
     </entry>
 </feed>
