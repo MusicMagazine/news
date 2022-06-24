@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-06-24T19:13:07.010Z</updated>
+    <updated>2022-06-24T20:15:32.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[우리말-K팝 톺아보기⑧]'메타버스'→'가상세계''…굿즈'는 '팬 상품']]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011267090</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011267090"/>
+        <updated>2022-06-24T20:15:15.776Z</updated>
+        <content type="html"><![CDATA[K팝계에서도 정보통신기술(ICT)이 화두가 되면서, 관련 용어가 쏟아지고 있다. "K팝 그룹이 '인터넷 팬 커뮤니티' 내 개설된 '메타버스(metaverse)'에서 '굿즈'를 'NFT'로 발행해 팬들과 소통하고 나섰]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['7월 6일 데뷔' 아이리스, 윤슬 개인 티저 공개…유니크한 무드 예고]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003617739</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011266932"/>
         <updated>2022-06-24T10:17:34.231Z</updated>
         <content type="html"><![CDATA[기사내용 요약 김영혁 대표 인터뷰…음반 가치 알려준 올해 9주년된 매장 '음악계 성지' 홍대 앞 터줏대감…공간 넓혀 25일 재오픈 [서울=뉴시스]이재훈 기자 = 2013년 8월15일, 음반매장계에 '독립 선언'이 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["역주행 예견=사실무근"…브브걸 측, 무속인에 공개 사과 요구 [종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001466652</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001466652"/>
-        <updated>2022-06-24T10:17:34.233Z</updated>
-        <content type="html"><![CDATA[그룹 브레이브걸스 측이 무속인 만연당에 공개 사과를 요구했다. 소속사 브레이브 엔터테인먼트는 24일 공식 자료를 통해 iHQ OTT 채널 바바요tv '신이 찍은 아이돌 : 제 2의 브레이브걸스를 찾아라!' 1화 방송]]></content>
     </entry>
 </feed>
