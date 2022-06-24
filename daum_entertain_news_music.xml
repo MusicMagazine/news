@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-06-24T14:13:30.351Z</updated>
+    <updated>2022-06-24T15:17:15.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NCT 도영, '집사부일체' 합류..7월 3일 첫 방송]]></title>
+        <id>https://entertain.v.daum.net/v/20220625000011488</id>
+        <link href="https://entertain.v.daum.net/v/20220625000011488"/>
+        <updated>2022-06-24T15:16:38.826Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] NCT 도영, ‘집사부일체’ 합류…7월 3일 첫 방송 [공식] NCT 도영이 SBS ‘집사부일체’에 새로운 막내로 합류한다. 앞서 ‘집사부일체’에 두 차례 일일 제자로 출연했던 도영. 처음으로 함께한 추성훈 편에서는 어딘가 허술한 매력으로 눈길을 끌었고 발레리나 김주원 편에서는 “이승기가 롤모델이었다”고 밝혀 화제를 모았다. 당시 도영은 짧게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[헤이즈, 정규 2집 수록곡 'Love is 홀로' 트랙 비디오..독보적 무드]]></title>
         <id>https://entertain.v.daum.net/v/20220624220131186</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220624172812650"/>
         <updated>2022-06-24T09:16:04.289Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이덕행 기자] 그룹 SF9 로운이 22일 오후 서울 광진구 광장동 예스24 라이브홀에서 열린 열 번째 미니 앨범 'RUMINATION' 발매 기념 쇼케이스에서 포즈를 취하고 있다.  SF9의 미니 10집 'RUMINATION'은 SF9의 '9lory(글로리)' 세계관 프리퀄로 '9lory' 이전, 현실 세계에 흩어져 있던 SF9 아홉 명의 히스토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로운 측 "SF9 앨범 활동 불참"..연기 집중]]></title>
-        <id>https://entertain.v.daum.net/v/20220624170335069</id>
-        <link href="https://entertain.v.daum.net/v/20220624170335069"/>
-        <updated>2022-06-24T08:20:40.721Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] 로운 측 “SF9 앨범 활동 불참”…연기 집중 [전문] SF9 로운이 이번 앨범 활동에 불참한다. 연기에 집중하기 위한 선택이다. 24일 FNC엔터테인먼트는 SF9 공식 팬카페를 통해 로운의 차기 앨범 활동 일정을 알렸다. 소속사는 “로운은 오랜 시간 진행돼 온 앨범 제작 기간 동안 드라마 촬영 일정이 맞물려 빠듯한 스케줄을 소화해야만 하는]]></content>
     </entry>
 </feed>
