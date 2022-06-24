@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 01:09:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 03:41:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이비, 15년 만에 단독 콘서트로 팬들 만난다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=215120</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=215120</guid>
+            <pubDate>Fri, 24 Jun 2022 03:39:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=215120">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220624122736_eecd253a84bd5d60f423fafc4a3ad243.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=215120">아이비, 15년 만에 단독 콘서트로 팬들 만난다</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220624122736_eecd253a84bd5d60f423fafc4a3ad243.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세븐틴, 월드투어 ‘BE THE SUN’ 서울 공연 "이번 주말 고척스카이돔에서 만나요"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=215077</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=214309">방탄소년단 정국, 찰리 푸스와 컬래버레이션 예고</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220619062809_854679e35f7c83200f52162f0faf4a81.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[걸그룹 '프로미스나인' 미니 5집  ‘from our Memento Box’ 오피셜 포토]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=214283</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=214283</guid>
-            <pubDate>Sat, 18 Jun 2022 21:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=214283">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220619061127_0a619fc674da040fd4346e8ad8e3b58f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=214283">걸그룹 '프로미스나인' 미니 5집  ‘from our Memento Box’ 오피셜 포토</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220619061127_0a619fc674da040fd4346e8ad8e3b58f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
