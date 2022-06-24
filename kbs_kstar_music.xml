@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 09:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 10:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장] “아이엠 나연!‘ 트와이스 나연 솔로데뷔 ”POP!“]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=215154</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=215154</guid>
+            <pubDate>Fri, 24 Jun 2022 10:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=215154">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220624142304_99d56c52c02de56a4fe2f68db35b08f2.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=215154">[현장] “아이엠 나연!‘ 트와이스 나연 솔로데뷔 ”POP!“</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220624142304_99d56c52c02de56a4fe2f68db35b08f2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이비, 15년 만에 단독 콘서트로 팬들 만난다]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=215120</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=214315">임창정 전국투어 ‘MULTIVERSE’, 전주에서 스타트 [사진 제공 : 제이지스타]</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220619063202_5c32caf6c4fbc7bb22a2db7323ad5ad8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국, 찰리 푸스와 컬래버레이션 예고]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=214309</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=214309</guid>
-            <pubDate>Sat, 18 Jun 2022 22:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=214309">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220619062809_854679e35f7c83200f52162f0faf4a81.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=214309">방탄소년단 정국, 찰리 푸스와 컬래버레이션 예고</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220619062809_854679e35f7c83200f52162f0faf4a81.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
