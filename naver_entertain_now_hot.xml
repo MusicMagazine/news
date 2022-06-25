@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2022-06-25T16:20:43.726Z</updated>
+    <updated>2022-06-25T17:16:16.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조수미, 공연 전 루틴 전수…무아지경 막춤에 당황 (‘집사부일체’)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000988610</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000988610"/>
+        <updated>2022-06-25T17:16:07.507Z</updated>
+        <content type="html"><![CDATA[SBS ‘집사부일체’ 멤버들이 세계적인 소프라노 조수미 사부와 함께 특별한 무대를 꾸민다. 26일 ‘집사부일체’에서는 소프라노 조수미가 전 세계의 음악 거장들과 함께했던 에피소드들과 함께 차원이 다른 황금 인맥을 공]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[케플러 남동생 찾는다…엠넷, ‘보이즈플래닛’ 론칭]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000988609</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003885308"/>
         <updated>2022-06-25T13:23:54.206Z</updated>
         <content type="html"><![CDATA[56세에 이게 가능해? '멋짐'이 '뿜뿜'이다. 배우 김성령이 최근 자신의 SNS에 "그냥 즐기는걸로~라곤 하지만 속으론 무지 애 타는 상황 #촐랑촐랑 하나씩 기술 익혀 가는중 #웨이크서핑"이란 글을 게재했다. 함께]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세븐틴, '핫'하고 '히트'한 월드투어…캐럿 '떼창'으로 화답]]></title>
-        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013269041</id>
-        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013269041"/>
-        <updated>2022-06-25T13:23:54.209Z</updated>
-        <content type="html"><![CDATA[코로나 이후 회당 최다 관객…"퍼포먼스란 무엇인지 보여드리고 싶었다" "어쩌면 아직 완벽하지 않은 사랑일지도 모르지만 / 오래된 책처럼 숨어있는 끝없는 이야기를 만들고파 / 겉으로는 낡고 헤져버려 쓸모없는 날 찾아와]]></content>
     </entry>
 </feed>
