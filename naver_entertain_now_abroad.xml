@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-06-25T04:27:29.889Z</updated>
+    <updated>2022-06-25T05:15:29.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS 정국·찰리 푸스 협업곡 93개국 아이튠즈 1위]]></title>
+        <id>https://entertain.naver.com/now/read?oid=422&amp;aid=0000548202</id>
+        <link href="https://entertain.naver.com/now/read?oid=422&amp;aid=0000548202"/>
+        <updated>2022-06-25T05:15:28.686Z</updated>
+        <content type="html"><![CDATA[그룹 방탄소년단의 정국이 미국 싱어송라이터 찰리 푸스와 협업한 곡 '레프트 앤드 라이트'가 세계 93개국 아이튠즈 '톱 송' 차트 정상에 올랐습니다. 어제(14일) 오후 1시 공개된 이 노래는 미국, 캐나다, 프랑스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“브래드 피트를 시체로 만들어”, 최악의 인터뷰 비난 쇄도[해외이슈](종합)]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003617821</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000877422"/>
         <updated>2022-06-24T07:16:42.949Z</updated>
         <content type="html"><![CDATA[블랙핑크 리사가 프랑스 파리에서 진행되는 패션쇼 참석차 24일 오전 서울 김포공항을 통해 출국하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['조니뎁에 패소' 앰버 허드, 추가 불륜 스캔들 일파만파]]></title>
-        <id>https://entertain.naver.com/now/read?oid=018&amp;aid=0005250669</id>
-        <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005250669"/>
-        <updated>2022-06-24T03:41:16.911Z</updated>
-        <content type="html"><![CDATA[앰버 허드와 카라 델레바인(사진=AFP BBNews) 할리우드 배우 앰버 허드가 전 남편인 조니 뎁과의 소송에서 패소한 가운데 추가적인 스캔들에 휩싸였다. 미국 뉴스위크 등 다수 매체는 지난 21일(현지시간) 유튜브]]></content>
     </entry>
 </feed>
