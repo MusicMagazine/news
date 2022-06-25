@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-06-25T09:14:53.798Z</updated>
+    <updated>2022-06-25T10:15:54.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['음악중심' 트렌드지, 치명적 퍼포먼스 발산…'다크 섹시 끝판왕']]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000877746</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000877746"/>
+        <updated>2022-06-25T10:15:38.177Z</updated>
+        <content type="html"><![CDATA[그룹 TRENDZ (트렌드지)가 압도적인 비주얼과 퍼포먼스를 선보였다. 트렌드지는 25일 방송된 MBC '쇼! 음악중심'에서 두 번째 미니앨범 'BLUE SET Chapter 2. CHOICE (블루 셋 챕터 2.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['27일 컴백' 김희재, '음중' '인가'로 음방 워밍업]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004644674</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003217296"/>
         <updated>2022-06-25T05:15:13.380Z</updated>
         <content type="html"><![CDATA[그룹 프로미스나인이 일본 대형 패션쇼 ‘간사이 컬렉션’ 무대에 오른다. 프로미스나인은 오는 8월 4일 일본 교세라 돔 오사카에서 개최되는 ‘간사이 컬렉션 2022 어텀 &amp; 윈터’(‘간사이 컬렉션’)에 라이브 액트(L]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가호, 웹툰 '굿닥터' 음원 발매…'로스트 웨이']]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011267348</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011267348"/>
-        <updated>2022-06-25T04:27:14.750Z</updated>
-        <content type="html"><![CDATA[가수 가호가 25일 오후 6시 네이버웹툰 '굿닥터' 컬래버레이션 음원 '로스트 웨이(Lost Way)'를 발매한다. '로스트 웨이'는 어쿠스틱 기타, 드럼 사운드가 돋보이는 브리티시 감성의 모던록이다. 빅마마, 엠씨]]></content>
     </entry>
 </feed>
