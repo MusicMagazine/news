@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-06-26T19:12:09.661Z</updated>
+    <updated>2022-06-26T20:15:49.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트와이스 나연, 그래 네가 임나연…두둑한 배짱의 정면승부]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011268470</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011268470"/>
+        <updated>2022-06-26T20:15:33.135Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 데뷔 7년 만에 솔로 앨범 발매 평소 상큼발랄 이미지 가져와 "잘할 수 있는 걸 잘할 수 있는 방식으로 보여줘" [서울=뉴시스]이재훈 기자 = 발랄(潑剌)을 의인화한다면, 그룹 '트와이스(TWICE)']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여자 트롯가수 축구팀 FC트롯퀸즈, '승리를 위하여' 음원 공개]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000157217</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000822069"/>
         <updated>2022-06-26T11:13:13.611Z</updated>
         <content type="html"><![CDATA[김호중이 남북 분단의 아픔을 간직한 최북단 철원에서 감동의 선율을 울렸다. 김호중은 26일 오후 5시 40분 방송된 KBS 1TV ‘KBS 2022 평화콘서트-우리, 이곳에서’(이하 ‘평화콘서트’) 무대에 올랐다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김호중, 소집해제 후 첫 공식행사..'평화콘서트' 열창]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003065778</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003065778"/>
-        <updated>2022-06-26T11:13:13.612Z</updated>
-        <content type="html"><![CDATA['트바로티' 김호중이 평화를 위한 진심을 담은 무대로 대중들에게 감동을 선사했다. 김호중은 26일 오후 5시 40분 방송된 KBS 1TV 'KBS 2022 평화콘서트-우리, 이곳에서'(이하 평화콘서트)에 출연했다.]]></content>
     </entry>
 </feed>
