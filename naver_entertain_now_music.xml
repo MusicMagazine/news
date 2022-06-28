@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-06-28T19:12:57.214Z</updated>
+    <updated>2022-06-28T20:18:19.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우주소녀 ‘시퀀스’ 개인 무드샷, 몽환→키치한 매력]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000595265</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000595265"/>
+        <updated>2022-06-28T20:18:03.729Z</updated>
+        <content type="html"><![CDATA[그룹 우주소녀가 몽환美부터 키치한 매력까지 선보였다. 우주소녀는 지난 6월 23일부터 27일 공식 SNS에 스페셜 싱글 앨범 'Sequence(시퀀스)'의 MOOD SHOT(무드 샷) 영상을 게재, 다원, 보나, 엑]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['신랑수업' 영탁, '트롯둥이' 공격에 녹다운…"설마 차이셨어요?"]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011273301</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004717946"/>
         <updated>2022-06-28T16:22:21.186Z</updated>
         <content type="html"><![CDATA[그룹 이달의 소녀 올리비아 혜가 28일 오후 서울 상암동 SBS 프리즘타워에서 열린 SBSMTV '더쇼' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 이달의 소녀 현진, '러블리 그 자체~']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004717945</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004717945"/>
-        <updated>2022-06-28T16:22:21.188Z</updated>
-        <content type="html"><![CDATA[그룹 이달의 소녀 현진이 28일 오후 서울 상암동 SBS 프리즘타워에서 열린 SBSMTV '더쇼' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
     </entry>
 </feed>
