@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-06-28T16:22:41.036Z</updated>
+    <updated>2022-06-28T17:24:33.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[양지은, 퇴근 후에도 여신외모..집 앞에서 마지막 셀카[스타IN★]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003066397</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003066397"/>
+        <updated>2022-06-28T17:24:14.015Z</updated>
+        <content type="html"><![CDATA[가수 양지은이 28일 자신의 인스타그램을 통해 "퇴근(현관 비밀번호 누르기 진전 모습)"이라는 글과 함께 한 장의 사진을 게재했다. 게재된 사진에는 양지은이 이어폰을 끼고 집에 들어가기 전 아쉬운 듯 사진을 찍었다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[포토] 이달의 소녀 고원, '팬들 향한 사랑스러운 손인사~']]></title>
         <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004717967</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004717944"/>
         <updated>2022-06-28T16:22:21.195Z</updated>
         <content type="html"><![CDATA[그룹 이달의 소녀 희진이 28일 오후 서울 상암동 SBS 프리즘타워에서 열린 SBSMTV '더쇼' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 이달의 소녀 츄, '감출 수 없는 깜찍함']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004717943</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004717943"/>
-        <updated>2022-06-28T16:22:21.204Z</updated>
-        <content type="html"><![CDATA[그룹 이달의 소녀 츄가 28일 오후 서울 상암동 SBS 프리즘타워에서 열린 SBSMTV '더쇼' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
     </entry>
 </feed>
