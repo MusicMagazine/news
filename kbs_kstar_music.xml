@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 22:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 23:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 제이홉, 'MORE' 콘셉트 포토 "블랙 앤 화이트"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=215960</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=215960</guid>
+            <pubDate>Tue, 28 Jun 2022 23:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=215960">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220629080614_86b62c5a0bd6f3c034218a8e25ce2663.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=215960">방탄소년단 제이홉, 'MORE' 콘셉트 포토 "블랙 앤 화이트"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220629080614_86b62c5a0bd6f3c034218a8e25ce2663.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에스파, LA 쇼케이스, 관객 떼창+떼춤]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=215877</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=214648">장발의 최시원, 컴백 앞둔 슈퍼주니어 "우리는 슈퍼주니어에요~"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220621084018_c551846f90bc0b282ae3f386e1abb154.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[콘서트] 솔로 아티스트 JAY B 콘서트...갓세븐 영재, 진영 지원 사격!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=214637</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=214637</guid>
-            <pubDate>Tue, 21 Jun 2022 01:11:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=214637">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220621083226_57e93100b1900d5ced689c295259e869.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=214637">[콘서트] 솔로 아티스트 JAY B 콘서트...갓세븐 영재, 진영 지원 사격!</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220621083226_57e93100b1900d5ced689c295259e869.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
