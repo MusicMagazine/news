@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 08:23:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 09:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에스파, LA 쇼케이스, 관객 떼창+떼춤]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=215877</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=215877</guid>
+            <pubDate>Tue, 28 Jun 2022 09:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=215877">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220628153149_0d2b512f3504622297c2b41fb38aaa18.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=215877">에스파, LA 쇼케이스, 관객 떼창+떼춤 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220628153149_0d2b512f3504622297c2b41fb38aaa18.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[7월의 청하,  ‘Bare & Rare’ 컴백]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=215697</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=214637">[콘서트] 솔로 아티스트 JAY B 콘서트...갓세븐 영재, 진영 지원 사격!</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220621083226_57e93100b1900d5ced689c295259e869.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 'Proof' 앨범, 빌보드200 통상 여섯 번째 정상]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=214501</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=214501</guid>
-            <pubDate>Mon, 20 Jun 2022 08:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=214501">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220620142951_b6c76afa20fa9eb6293c30ebe725dfdb.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=214501">방탄소년단 'Proof' 앨범, 빌보드200 통상 여섯 번째 정상</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220620142951_b6c76afa20fa9eb6293c30ebe725dfdb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
