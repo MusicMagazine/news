@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-06-28T17:24:33.271Z</updated>
+    <updated>2022-06-28T18:20:23.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['신랑수업' 영탁, '트롯둥이' 공격에 녹다운…"설마 차이셨어요?"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011273301</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011273301"/>
+        <updated>2022-06-28T18:20:08.734Z</updated>
+        <content type="html"><![CDATA[장인영 인턴 기자 = 가수 영탁이 '트롯둥이' 홍잠언·황민호와 놀이동산 나들이를 하며 '아빠 수업'에 돌입한다. 29일 오후 9시20분 방송되는 채널A '요즘 남자 라이프-신랑수업'(이하 '신랑수업') 21회에서는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[양지은, 퇴근 후에도 여신외모..집 앞에서 마지막 셀카[스타IN★]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003066397</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004717945"/>
         <updated>2022-06-28T16:22:21.188Z</updated>
         <content type="html"><![CDATA[그룹 이달의 소녀 현진이 28일 오후 서울 상암동 SBS 프리즘타워에서 열린 SBSMTV '더쇼' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 이달의 소녀 희진, '할 말을 잃게 만드는 아름다움']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004717944</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004717944"/>
-        <updated>2022-06-28T16:22:21.195Z</updated>
-        <content type="html"><![CDATA[그룹 이달의 소녀 희진이 28일 오후 서울 상암동 SBS 프리즘타워에서 열린 SBSMTV '더쇼' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
     </entry>
 </feed>
