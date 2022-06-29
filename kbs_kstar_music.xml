@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 03:48:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 04:43:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팝페라 월드 클래스 임형주, 7월 3일 토크 콘서트 개최!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=216020</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=216020</guid>
+            <pubDate>Wed, 29 Jun 2022 04:42:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=216020">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220629105315_3c74861a159ba3153f4bfc0789779bcd.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=216020">팝페라 월드 클래스 임형주, 7월 3일 토크 콘서트 개최!</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220629105315_3c74861a159ba3153f4bfc0789779bcd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세븐틴 빌보드 순위 92위 등극, 거침없는 상승세]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=215987</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=214777">"7월의 효린"  썸머 퀸 컴백</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220622075502_cc7f7c524d0af7d72aeb8b278e1c9e4a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[건강미 뿜뿜...새 멤버 합류한 하이키, 첫 완전체 포토 공개!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=214653</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=214653</guid>
-            <pubDate>Tue, 21 Jun 2022 01:11:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=214653">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220621084321_1efdcf7fde19abb22fef648ec1810e5d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=214653">건강미 뿜뿜...새 멤버 합류한 하이키, 첫 완전체 포토 공개!</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220621084321_1efdcf7fde19abb22fef648ec1810e5d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
