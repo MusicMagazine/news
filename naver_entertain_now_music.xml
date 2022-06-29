@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-06-29T16:41:32.875Z</updated>
+    <updated>2022-06-29T17:40:36.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[선미 "여름 활동 이유? 썸머퀸 탐난다!" [MD동영상]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003619266</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003619266"/>
+        <updated>2022-06-29T17:40:22.385Z</updated>
+        <content type="html"><![CDATA[가수 선미가 29일 오후 서울 마포구 상암동 신한pLay 스퀘어에서 진행된 새 디지털 싱글 '열이올라요'(Heart Burn) 발표 기념 미디어 쇼케이스에서 '썸머퀸'에 대한 욕심을 드러냈다. 타이틀곡 '열이올라요]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["다른 사람이 바라본 나"…선미, 후끈하게 핀 열꽃(종합)]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000157991</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004718491"/>
         <updated>2022-06-29T14:14:19.238Z</updated>
         <content type="html"><![CDATA[그룹 아이칠린 주니가 29일 오후 경기도 고양시 MBC 드림센터에서 열린 MBC M '쇼 챔피언' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 아이칠린 채린, '카리스마 넘치는 눈빛']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004718490</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004718490"/>
-        <updated>2022-06-29T14:14:19.239Z</updated>
-        <content type="html"><![CDATA[그룹 아이칠린 채린이 29일 오후 경기도 고양시 MBC 드림센터에서 열린 MBC M '쇼 챔피언' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
     </entry>
 </feed>
