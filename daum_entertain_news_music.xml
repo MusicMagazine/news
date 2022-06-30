@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-06-30T11:14:16.936Z</updated>
+    <updated>2022-06-30T12:32:00.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[라필루스, '엠카' 무대를 빛낸 'HIT YA!' 무대]]></title>
+        <id>https://entertain.v.daum.net/v/20220630213009729</id>
+        <link href="https://entertain.v.daum.net/v/20220630213009729"/>
+        <updated>2022-06-30T12:31:26.177Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김수진 기자] 'K팝의 보석' 걸그룹 라필루스(Lapillus)가 눈부신 비주얼을 뽐냈다. 라필루스(샨티, 샤나, 유에, 베시, 서원, 하은)는 30일 오후 방송된 Mnet '엠카운트다운'에 출연해 데뷔곡 'HIT YA!(힛야!)' 무대를 선보였다. 이날 라필루스는 눈을 뗄 수 없는 미모를 발산해 팬심을 저격했다. 멤버들은 다양한 액세서리를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단, '엠카' 1위 '트리플크라운' 음방 총 9관왕]]></title>
         <id>https://entertain.v.daum.net/v/20220630194316082</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220630171328108"/>
         <updated>2022-06-30T08:20:33.337Z</updated>
         <content type="html"><![CDATA[왼쪽부터 이형진, 이연규, 유준상 PD(사진=Mnet)[이데일리 스타in 김현식 기자] “부담이 너무 컸어요. 선뜻 출연하겠다고 먼저 나선 팀도 없었고요.” 이달 초 종영한 Mnet ‘퀸덤2’ 제작진이 프로그램을 마친 소회를 밝히며 꺼낸 말이다. ‘퀸덤2’는 2019년 방송한 ‘퀸덤’ 후속판이다. ‘퀸덤’은 여자 가수 6팀이 신곡 음원과 경연 무대로 치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ITZY, 8회 북미투어 퍼펙트 매진 '막강 티켓파워']]></title>
-        <id>https://entertain.v.daum.net/v/20220630165408258</id>
-        <link href="https://entertain.v.daum.net/v/20220630165408258"/>
-        <updated>2022-06-30T08:20:33.337Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 ITZY(있지/예지, 리아, 류진, 채령, 유나)가 북미 투어 공연 전석 매진을 달성했다. ITZY는 최근 공식 SNS 채널에 'ITZY THE 1ST WORLD TOUR '(있지 첫 번째 월드투어 ) 플랜 포스터를 공개하고 그룹의 첫 월드투어 개최 소식을 전했다. 공지에 따르면 ITZY는 10월 26일(이하 현지시간) 로스앤]]></content>
     </entry>
 </feed>

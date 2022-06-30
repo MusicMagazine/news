@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-06-30T11:14:16.927Z</updated>
+    <updated>2022-06-30T12:32:00.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[라필루스, '엠카' 무대를 빛낸 'HIT YA!' 무대]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003066962</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003066962"/>
+        <updated>2022-06-30T12:31:45.635Z</updated>
+        <content type="html"><![CDATA['K팝의 보석' 걸그룹 라필루스(Lapillus)가 눈부신 비주얼을 뽐냈다. 라필루스(샨티, 샤나, 유에, 베시, 서원, 하은)는 30일 오후 방송된 Mnet '엠카운트다운'에 출연해 데뷔곡 'HIT YA!(힛야!)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모코. ent "김희재 개런티 5회분 선지급..콘서트 취소되지 않을 것" [공식]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003066955</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011278467"/>
         <updated>2022-06-30T09:16:17.441Z</updated>
         <content type="html"><![CDATA[기사내용 요약 첫 영어 싱글 '라이프스 투 쇼트' 라이브 '메타버스 걸그룹' 에스파(aespa)가 미국 ABC의 인기 심야 토크쇼 '지미 키멜 라이브!(Jimmy Kimmel Live!)에 출연했다. 30일 소속사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헤이즈 "태어나 처음으로 흡연"…장마와 컴백한 '비의 여신' [종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001469051</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001469051"/>
-        <updated>2022-06-30T09:16:17.441Z</updated>
-        <content type="html"><![CDATA[가수 헤이즈가 신보의 타이틀곡 '없었던 일로' 뮤직비디오 촬영 비화를 밝혔다. 30일 오후 헤이즈의 두 번째 정규앨범 'Undo' 발매 기념 온라인 기자 간담회가 진행됐다. 헤이즈는 3년 만에 발매하는 이번 정규앨범]]></content>
     </entry>
 </feed>
