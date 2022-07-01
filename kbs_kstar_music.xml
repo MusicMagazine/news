@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Jul 2022 20:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 21:14:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[걸그룹 'VIVIZ', 7월 컴백 미니 2집 'Summer Vibe']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=216224</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=216224</guid>
+            <pubDate>Fri, 01 Jul 2022 21:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=216224">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220701075733_8583a27b905531f1b82fa7d9c967f671.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=216224">걸그룹 'VIVIZ', 7월 컴백 미니 2집 'Summer Vibe' </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220701075733_8583a27b905531f1b82fa7d9c967f671.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 제이홉, 'MORE' 오늘 선발표]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=216202</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=214975">트로트 정동원, 힙합 베이식의 만남!</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220623093512_dc286cb16985c74803d16aa89c8596f5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[은하, 신비, 엄지...여자친구 아닌 비비지로 서머퀸 노린다!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=214954</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=214954</guid>
-            <pubDate>Thu, 23 Jun 2022 04:32:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=214954">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220623084757_d984d5532a469dd7d514ae2194f12837.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=214954">은하, 신비, 엄지...여자친구 아닌 비비지로 서머퀸 노린다!</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220623084757_d984d5532a469dd7d514ae2194f12837.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
