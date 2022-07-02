@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-07-02T12:24:49.449Z</updated>
+    <updated>2022-07-02T13:25:12.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김호중 "'트바로티' 누가 지었는지 최고의 수식어..구설? 노래로 보답하겠다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220702215501041</id>
+        <link href="https://entertain.v.daum.net/v/20220702215501041"/>
+        <updated>2022-07-02T13:24:09.328Z</updated>
+        <content type="html"><![CDATA[[텐아시아=김서윤 기자] "트바로티가 최고다. 진짜 신기한 게 처음에는 어색하고 이상하다고 생각했다. 플라시도 도밍고 선생님과 공연할 때 저를 트바로티라고 소개해서 낯 뜨거웠는데 공연 끝나고 '오 트바로티, 트바로티' 하시더라. 너무 행복했다. 또 트바로티가 영어로 적어놓으면 진짜 멋있다. 누가 지었는지는 찾을 수 없는데 정말 최고의 수식어인 것 같다"]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['서머 퀸' 프로미스나인, 'Stay This Way' 안무 영상..사랑스러운 매력]]></title>
         <id>https://entertain.v.daum.net/v/20220702195340941</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220702141053776"/>
         <updated>2022-07-02T05:17:46.940Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] NCT DREAM(엔시티 드림) 고척돔 단독 콘서트가 티켓 예매와 동시에 매진을 기록했다. NCT DREAM은 오는 7월 29~31일 3일간 서울 고척스카이돔에서 두 번째 단독 콘서트 ‘THE DREAM SHOW2 : In A DREAM’(더 드림 쇼2 : 인 어 드림)을 개최하고 팬들과 만난다. 이번 콘서트는 인터넷 예매 사이트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손석구, 뒤늦게 드러난 이별 아픔..거미 '혼자']]></title>
-        <id>https://entertain.v.daum.net/v/20220702121003996</id>
-        <link href="https://entertain.v.daum.net/v/20220702121003996"/>
-        <updated>2022-07-02T03:44:28.078Z</updated>
-        <content type="html"><![CDATA[영화보다 더 영화 같았던 추억의 뮤직비디오를 소개하는 엑스포츠뉴스만의 코너입니다. 당대 최고의 히트곡들을 떠올리고, 인기 스타들의 풋풋하고 신선한 과거 모습을 함께 추억해보는 '명작뮤비'. &lt;편집자주&gt; (엑스포츠뉴스 김예나 기자) 함께 있어도 외롭고, 더 이상 서로의 존재가 위로되지 않게 됩니다. 그렇게 '혼자'가 되어가는 과정을 그린 '명작뮤비'를 소개합]]></content>
     </entry>
 </feed>
