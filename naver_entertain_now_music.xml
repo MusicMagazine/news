@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-07-02T13:25:12.652Z</updated>
+    <updated>2022-07-02T14:15:45.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[11월 내한공연 마룬파이브, 홈피 '욱일기' 문양 논란]]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004766055</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004766055"/>
+        <updated>2022-07-02T14:15:27.719Z</updated>
+        <content type="html"><![CDATA[미국 팝밴드 '마룬파이브(Maroon 5)'의 내한공연이 3년9개월 만에 확정됐다. 1일(현지시간) 마룬파이브 홈페이지에 따르면 오는 11월30일 서울 고척스카이돔에서 마룬파이브 월드투어 서울 콘서트가 열린다. 이번]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SM, 퍼포먼스 전문 유튜브 채널 'SMP FLOOR' 오픈]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001469927</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000596807"/>
         <updated>2022-07-02T08:19:39.161Z</updated>
         <content type="html"><![CDATA[그룹 프로미스나인이 신곡 ‘Stay This Way’의 안무 영상으로 사랑스러운 매력을 발산했다. 프로미스나인은 7월 2일 공식 SNS 및 유튜브 채널을 통해 미니 5집 ‘from our Memento Box’(프롬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몬스타엑스, 여름 밤 수 놓은 로맨틱 비주얼…설렘 자극]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000596806</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000596806"/>
-        <updated>2022-07-02T08:19:39.163Z</updated>
-        <content type="html"><![CDATA[그룹 몬스타엑스(MONSTA X)가 물 오른 비주얼을 자랑했다. 글로벌 팬덤 플랫폼 유니버스(UNIVERSE)는 7월 1일 앱과 공식 SNS 채널을 통해 몬스타엑스 신곡 ‘If with U(이프 위드 유)’ 개인 및]]></content>
     </entry>
 </feed>
