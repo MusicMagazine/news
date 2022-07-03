@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-07-03T12:25:31.363Z</updated>
+    <updated>2022-07-03T13:25:20.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나의 별에게2' OST 풀버전 발매..손우현X김강민 듀엣곡 차트 진입]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003067577</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003067577"/>
+        <updated>2022-07-03T13:25:05.853Z</updated>
+        <content type="html"><![CDATA[인기 웹드라마 '나의 별에게2' OST 풀버전이 발매된 가운데, 수록곡이 음원차트 진입에 성공했다. 티빙(TVING)을 통해 국내 독점 공개된 BL드라마 '나의 별에게2' 측은 3) OST 앨범 풀버전을 발매했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[투모로우바이투게더, 하이브서 태어나 이렇게 잘 왔습니다]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011282464</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001470117"/>
         <updated>2022-07-03T09:17:05.739Z</updated>
         <content type="html"><![CDATA[그룹 투모로우바이투게더(TOMORROW X TOGETHER)가 국내 팬들과의 첫 대면 콘서트를 가진 소감을 전했다. 3일 오후 서울 송파구 잠실실내체육관에서 투모로우바이투게더(수빈, 연준, 범규, 태현, 휴닝카이)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정동원, 어린왕자처럼]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000823298</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000823298"/>
-        <updated>2022-07-03T09:17:05.740Z</updated>
-        <content type="html"><![CDATA[트로트가수 정동원이 ‘어린왕자’같은 매력을 발산했다. 정동원은 2일 공식트위터에 “코로나19 극복기원 콘서트! K-트로트페스티벌 대구 2022에 찾아온 정동원입니다. 오늘의 특급무대 재미있게 보셨나요? 다음에 또 만]]></content>
     </entry>
 </feed>
