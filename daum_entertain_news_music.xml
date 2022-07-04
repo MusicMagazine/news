@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-07-04T11:14:30.464Z</updated>
+    <updated>2022-07-04T12:28:58.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이콘, 日투어 성공적 시작..고베 3회 공연 전석 매진]]></title>
+        <id>https://entertain.v.daum.net/v/20220704205754415</id>
+        <link href="https://entertain.v.daum.net/v/20220704205754415"/>
+        <updated>2022-07-04T12:28:18.889Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김수진 기자] 그룹 아이콘(iKON)이 일본 투어 첫 무대를 성공적으로 장식하며 여전히 뜨거운 현지 인기를 확인했다. 아이콘은 지난 2일과 3일 효고현 고베 월드기념홀에서 'iKON JAPAN TOUR 2022' 시작을 알렸다. 양일간 총 3차례 진행된 공연은 전석 매진됐으며, 여섯 멤버는 강렬한 퍼포먼스와 완벽한 라이브 실력으로 팬들의 사랑]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나연의 매력이 'POP!'..이러니 빠져들 수밖에]]></title>
         <id>https://entertain.v.daum.net/v/20220704190902176</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220704164608571"/>
         <updated>2022-07-04T08:30:41.410Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 갓세븐 멤버 영재가 솔로 활동까지 성황리에 마쳤다. 영재는 6월 21일 미니 2집 앨범 'SUGAR'(슈가)로 화려한 솔로 컴백을 알렸다. 영재는 7월 3일 SBS ‘인기가요’ 무대를 끝으로 2주 동안 이어진 공식 음악 방송 활동에 마침표를 찍었다. 이번 음악 방송 무대에서 노래 실력은 물론 성숙한 퍼포먼스를 선보이며 팬들의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['돈 자랑'하던 도끼, 외상값 모르쇠 하더니]]></title>
-        <id>https://entertain.v.daum.net/v/20220704164407477</id>
-        <link href="https://entertain.v.daum.net/v/20220704164407477"/>
-        <updated>2022-07-04T08:30:41.411Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김한길 기자] 귀금속 대금 미납으로 논란에 휩싸인 래퍼 도끼(본명 이준경)가 결국 밀린 대금을 지급해야 하는 상황에 놓였다. 4일, 도끼가 해외 보석업체에 미납대금 약 3만5000달러(한화 4500여만 원)를 지급해야 한다는 법원의 강제조정 결정이 나왔다. 서울남부지법 민사항소4부는 앞서 지난 3월, 미국 로스앤젤레스(LA)의 보석업체 상인]]></content>
     </entry>
 </feed>
