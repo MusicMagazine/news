@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-07-04T19:15:53.373Z</updated>
+    <updated>2022-07-04T20:17:20.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[페이블, 소중한 사람과 행복한 설렘 '여행(Cloud 9)' 첫무대 [MD동영상]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003621075</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003621075"/>
+        <updated>2022-07-04T20:17:04.412Z</updated>
+        <content type="html"><![CDATA[그룹 페이블이 4일 오후 서울 신사동 바나나홀에서 진행된 새 싱글 ‘여행(Cloud 9)’ 발매 기념 쇼케이스에서 타이틀곡 '여행(Cluud 9)'의 멋진 퍼포먼스를 선보였다. 타이틀곡 '여행(Cloud 9)'은 소]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이콘, 日 투어 성공적 출발…고베 전석 매진]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000158890</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003067808"/>
         <updated>2022-07-04T09:26:18.449Z</updated>
         <content type="html"><![CDATA['글로벌 K-팝 라이징 스타' ENHYPEN(엔하이픈)의 신보 타이틀곡 뮤직비디오가 공개됐다. 4일 미니 3집 'MANIFESTO : DAY 1'으로 컴백한 ENHYPEN(정원, 희승, 제이, 제이크, 성훈, 선우,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프로미스나인, 미니 5집 초동 13만장↑…자체기록 경신]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011284859</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011284859"/>
-        <updated>2022-07-04T09:26:18.451Z</updated>
-        <content type="html"><![CDATA[그룹 '프로미스나인'(fromis_9)이 미니 5집 '프롬 아워 메멘토 박스(from our Memento Box)'로 초동 판매량 자체 신기록을 세웠다. 4일 국내 음반 판매량 집계 사이트 한터차트에 따르면, 프로]]></content>
     </entry>
 </feed>
