@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 22:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 23:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 "8월에 컴백합니다"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=217075</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=217075</guid>
+            <pubDate>Wed, 06 Jul 2022 23:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=217075">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220706150801_b5eccbccbefaef1f1cc1a0a16eacec65_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=217075">블랙핑크 "8월에 컴백합니다"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220706150801_b5eccbccbefaef1f1cc1a0a16eacec65_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장] 하이키, 첫번째 맥시 싱글 '런' 쇼케이스]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=217097</link>
@@ -331,23 +348,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=215987">세븐틴 빌보드 순위 92위 등극, 거침없는 상승세</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220629084454_51ea00a23559267fe47a63116a2dc18e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 제이홉, 'MORE' 콘셉트 포토 "블랙 앤 화이트"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=215960</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=215960</guid>
-            <pubDate>Tue, 28 Jun 2022 23:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=215960">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220629080614_86b62c5a0bd6f3c034218a8e25ce2663.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=215960">방탄소년단 제이홉, 'MORE' 콘셉트 포토 "블랙 앤 화이트"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220629080614_86b62c5a0bd6f3c034218a8e25ce2663.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
