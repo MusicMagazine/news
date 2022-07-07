@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-07-07T19:13:07.066Z</updated>
+    <updated>2022-07-07T20:18:01.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브래드 피트, 안면인식장애 고통 토로…"아무도 날 믿지 않아"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013296986</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013296986"/>
+        <updated>2022-07-07T20:18:00.693Z</updated>
+        <content type="html"><![CDATA[정윤섭 특파원 = 미국 할리우드의 스타 배우 브래드 피트가 7일(현지시간) 안면인식 장애 증상과 관련한 심적 고통을 털어놨다. 피트는 미국 남성잡지 GQ와 인터뷰에서 사람들의 얼굴을 기억하는 데 극도로 어려움을 겪고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['대부'·'미저리' 명배우 제임스 칸 별세…향년 82세]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013296975</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000880121"/>
         <updated>2022-07-06T10:19:28.793Z</updated>
         <content type="html"><![CDATA[6일 오후 예스 24 라이브홀에서 걸그룹 VIVIZ(은하, 신비, 엄지)가 두 번째 미니 앨범 ‘Summer Vibe' 발매 기념 미디어 쇼케이스를 가졌다. 비비지 은하가 화려한 컴백 쇼케이스 무대를 선보이고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[은하-엄지 '섹시하게' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000880120</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000880120"/>
-        <updated>2022-07-06T10:19:28.793Z</updated>
-        <content type="html"><![CDATA[6일 오후 예스 24 라이브홀에서 걸그룹 VIVIZ(은하, 신비, 엄지)가 두 번째 미니 앨범 ‘Summer Vibe' 발매 기념 미디어 쇼케이스를 가졌다. 비비지 은하와 엄지가 화려한 컴백 쇼케이스 무대를 선보이고]]></content>
     </entry>
 </feed>
