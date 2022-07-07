@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-07-07T20:18:01.375Z</updated>
+    <updated>2022-07-07T21:14:37.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“톰 크루즈, 매년 크리스마스에 케이크 선물” 커스틴 던스트 감동[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003622465</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003622465"/>
+        <updated>2022-07-07T21:14:36.706Z</updated>
+        <content type="html"><![CDATA[영화 ‘탑건:매버릭’의 톰 크루즈(60)가 친한 동료배우들에게 해마다 케이크를 선물하는 선행을 펼치고 있다. 최근 미국 E!뉴스에 따르면, 톰 크루즈는 캘리포니아 우드랜드 힐스에 있는 도안스 베이커리의 화이트 초콜릿]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[브래드 피트, 안면인식장애 고통 토로…"아무도 날 믿지 않아"]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013296986</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000880124"/>
         <updated>2022-07-06T10:19:28.793Z</updated>
         <content type="html"><![CDATA[6일 오후 예스 24 라이브홀에서 걸그룹 VIVIZ(은하, 신비, 엄지)가 두 번째 미니 앨범 ‘Summer Vibe' 발매 기념 미디어 쇼케이스를 가졌다. 비비지 은하는 이날 날씬한 각선미를 돋보이게 하는 초미니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비비지 은하 '세상 깜찍한 안무' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000880121</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000880121"/>
-        <updated>2022-07-06T10:19:28.793Z</updated>
-        <content type="html"><![CDATA[6일 오후 예스 24 라이브홀에서 걸그룹 VIVIZ(은하, 신비, 엄지)가 두 번째 미니 앨범 ‘Summer Vibe' 발매 기념 미디어 쇼케이스를 가졌다. 비비지 은하가 화려한 컴백 쇼케이스 무대를 선보이고 있다.]]></content>
     </entry>
 </feed>
