@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-07-07T12:41:25.665Z</updated>
+    <updated>2022-07-07T13:40:26.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지소울, 신곡 ‘Everytime’ 공개하고 북미 투어 돌입]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000824306</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000824306"/>
+        <updated>2022-07-07T13:40:09.568Z</updated>
+        <content type="html"><![CDATA[아티스트 지소울(GSoul)이 신곡 발매와 동시에 북미 투어 ‘GSoul 2022 North America Tour’에 들어간다. 지소울은 7일 정오 각종 음원사이트를 통해 신곡 ‘Everytime’(에브리타임)을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅 서울 공연, 티켓 오픈 동시 '폭주'→'매진']]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003068955</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004652483"/>
         <updated>2022-07-07T09:24:21.640Z</updated>
         <content type="html"><![CDATA[그룹 몬스타엑스가 운명적인 낙원의 세계로 초대한다. 몬스타엑스는 7일 오후 6시 각종 음원사이트를 통해 유니버스 신곡 ‘If with U’ 음원과 뮤직비디오를 공개했다. 지난 4월 미니앨범 'SHAPE of LOVE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["해가 지지 않는 낙원" 몬스타엑스의 감미로운 고백 'If with U' [쥬크박스]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001472131</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001472131"/>
-        <updated>2022-07-07T09:24:21.641Z</updated>
-        <content type="html"><![CDATA[그룹 몬스타엑스가 운명적 낙원을 노래한다. 글로벌 팬덤 플랫폼 유니버스(UNIVERSE)는 7일 오후 6시 각종 온라인 음원 사이트를 통해 그룹 몬스타엑스 '이프 위드 유'(If with U)를 발매하고, 앱을 통해]]></content>
     </entry>
 </feed>
