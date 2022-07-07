@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-07-07T03:47:55.172Z</updated>
+    <updated>2022-07-07T04:44:10.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[투모로우바이투게더, '빌보드 200' 7주 연속 차트인]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013295313</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013295313"/>
+        <updated>2022-07-07T04:44:09.531Z</updated>
+        <content type="html"><![CDATA[지난 5월 발매된 투모로우바이투게더의 4번째 미니음반 '미니소드 2 : 서스데이스 차일드(minisode 2: Thursday's Child)가 '빌보드 200'에서 149위에 올라 7주 연속 차트 진입에 성공했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[르세라핌, 9주 연속 미국 '빌보드 글로벌' 차트인]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013294951</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000880099"/>
         <updated>2022-07-06T08:19:39.364Z</updated>
         <content type="html"><![CDATA[6일 오후 예스 24 라이브홀에서 걸그룹 VIVIZ(은하, 신비, 엄지)가 두 번째 미니 앨범 ‘Summer Vibe' 발매 기념 미디어 쇼케이스를 가졌다. 비비지 신비가 화려한 컴백 쇼케이스 무대를 선보이고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[은하 '춤추는 요정' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000880098</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000880098"/>
-        <updated>2022-07-06T08:19:39.365Z</updated>
-        <content type="html"><![CDATA[6일 오후 예스 24 라이브홀에서 걸그룹 VIVIZ(은하, 신비, 엄지)가 두 번째 미니 앨범 ‘Summer Vibe' 발매 기념 미디어 쇼케이스를 가졌다. 비비지 은하가 화려한 컴백 쇼케이스 무대를 선보이고 있다.]]></content>
     </entry>
 </feed>
