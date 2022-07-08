@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-07-08T14:17:36.962Z</updated>
+    <updated>2022-07-08T15:16:21.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[슈퍼주니어, 12일 컴백→15일 콘서트..'K-POP 레전드'의 위엄]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003069219</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003069219"/>
+        <updated>2022-07-08T15:16:06.288Z</updated>
+        <content type="html"><![CDATA['K-POP 레전드' 슈퍼주니어가 컴백 직후 콘서트를 위해 더욱 특별한 무대를 준비하고 있다. 슈퍼주니어는 오는 12일 정규 11집 Vol.1 'The Road : Keep on Going (더 로드 : 킵 온 고잉]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['뮤뱅' 하이키, 청량+하이틴 매력 담은 '런' 퍼포먼스]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003069218</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011294294"/>
         <updated>2022-07-08T08:23:16.835Z</updated>
         <content type="html"><![CDATA[장인영 인턴 기자 = 그룹 드림캐쳐가 월드투어를 활발히 이어가고 있다. 8일 소속사 드림캐쳐컴퍼니에 따르면 드림캐쳐가 지난 1일, 3일, 7일 레딩, 루이빌, 시카고에서 월드투어 '아포칼립스 : 세이브 어스(Apoc]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ITZY 유나, 타이틀곡 개별 티저 속 비현실적 비주얼]]></title>
-        <id>https://entertain.naver.com/now/read?oid=052&amp;aid=0001761741</id>
-        <link href="https://entertain.naver.com/now/read?oid=052&amp;aid=0001761741"/>
-        <updated>2022-07-08T08:23:16.845Z</updated>
-        <content type="html"><![CDATA[ITZY(있지) 유나 씨가 신곡 'SNEAKERS'(스니커즈) 티저에서 시원시원한 매력을 선사했다. ITZY는 오는 15일 오후 1시(미국 동부시간 기준 0시) 새 미니 앨범 'CHECKMATE'(체크메이트)와 타이]]></content>
     </entry>
 </feed>
