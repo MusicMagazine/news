@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-07-09T15:16:26.625Z</updated>
+    <updated>2022-07-09T16:19:23.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[위너, 컴백 후 광폭 행보..대중과 교감 강화 [공식]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003069390</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003069390"/>
+        <updated>2022-07-09T16:19:09.622Z</updated>
+        <content type="html"><![CDATA[약 2년 3개월 만에 4인 완전체로 돌아온 위너(WINNER)가 바쁜 나날을 보내고 있다. 위너는 10일 오후 8시 서울 여의도 한강공원 물빛무대에서 게릴라 이벤트 'HOLIDAY IN THE CITY'를 개최한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅, 아이돌차트서 지난주 이어 또 '전체 1위']]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004654267</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001472911"/>
         <updated>2022-07-09T08:19:53.011Z</updated>
         <content type="html"><![CDATA[그룹 퍼플키스(PURPLE KISS)가 본격 컴백 카운트다운에 돌입했다. 퍼플키스(박지은, 나고은, 도시, 이레, 유키, 채인, 수안)는 9일 0시 공식 SNS를 통해 네 번째 미니앨범 'Geekyland(기키랜드)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이게 여름이다! '음중' 컴백 하이키, 차원 다른 퍼포먼스 '런']]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004653972</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004653972"/>
-        <updated>2022-07-09T08:19:53.013Z</updated>
-        <content type="html"><![CDATA[그룹 하이키(H1-KEY)가 진정한 '서머 루키'의 존재감을 빛냈다. 하이키(서이, 리이나, 휘서, 옐)는 오늘(9일) 오후 3시 15분 방송한 MBC '쇼! 음악중심'에서 첫 맥시 싱글 '런(RUN)' 컴백 무대를]]></content>
     </entry>
 </feed>
