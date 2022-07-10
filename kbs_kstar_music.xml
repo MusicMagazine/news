@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 22:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 23:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[불타는 카리스마 제이홉, 'Jack In The Box' 타이틀곡 '방화 (Arson)' 콘셉트 포토]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=217763</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=217763</guid>
+            <pubDate>Sun, 10 Jul 2022 23:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=217763">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220711080626_d6877af01d3da45e3f38270cfad355d0.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=217763">불타는 카리스마 제이홉, 'Jack In The Box' 타이틀곡 '방화 (Arson)' 콘셉트 포토</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220711080626_d6877af01d3da45e3f38270cfad355d0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[JYP밴드 '엑스디너리 히어로즈'  건일 , 리더의 반전 매력]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=217656</link>
@@ -331,23 +348,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=216655">여름날의 세븐틴, ‘SECTOR 17’ 트랙리스트 공개 "타이틀곡은  _WORLD"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220704072432_ad34b1181d7a2b3ab63fcc707cfe9abe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[걸그룹 ITZY, 컴백 타이틀곡은 'SNEAKERS']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=216230</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=216230</guid>
-            <pubDate>Sun, 03 Jul 2022 08:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=216230">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220701080229_6083ec0f402e9f9b509ebb406792a012.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=216230">걸그룹 ITZY, 컴백 타이틀곡은 'SNEAKERS'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220701080229_6083ec0f402e9f9b509ebb406792a012.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
