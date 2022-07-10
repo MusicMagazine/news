@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-07-10T20:15:51.934Z</updated>
+    <updated>2022-07-10T21:15:01.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우주소녀·이달소·케플러, '퀸덤' 발판 삼고 커리어하이 달성!]]></title>
+        <id>https://entertain.v.daum.net/v/20220711060012408</id>
+        <link href="https://entertain.v.daum.net/v/20220711060012408"/>
+        <updated>2022-07-10T21:14:24.442Z</updated>
+        <content type="html"><![CDATA[“퀸덤2에 이어 서머퀸 경쟁도 한 번 더!” 지난달 종영한 Mnet 서바이벌 예능 ‘퀸덤2’에 출연했던 걸그룹 우주소녀, 비비지, 이달의 소녀, 케플러가 다시금 서머퀸 자리를 놓고 치열한 경쟁을 이어간다. 지난 달 20일 이달의 소녀와 케플러를 시작으로 우주소녀, 비비지까지 컴백을 마친 상태다. 오는 18일에는 효린이 세 번째 미니앨범 ‘아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에스파·비비지·박창근·위너·영탁, 매력적인 신보]]></title>
         <id>https://entertain.v.daum.net/v/20220710235517536</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220710131946794"/>
         <updated>2022-07-10T04:25:48.833Z</updated>
         <content type="html"><![CDATA[[OSEN=선미경 기자] JYP엔터테인먼트(이하 JYP) 보이밴드 엑스디너리 히어로즈(Xdinary Heroes, XH) 멤버 가온이 심장 박동수를 높이는 짜릿한 콘셉트를 완성했다. 엑스디너리 히어로즈는 오는 20일 데뷔 첫 번째 미니 앨범 'Hello, world!'(헬로, 월드!) 발매를 앞두고 8일부터 개인 티징 콘텐츠를 순차 공개 중이다. 10일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTS·세븐틴·TXT 등..하이브 레이블즈, 상반기 1000만 장 판매]]></title>
-        <id>https://entertain.v.daum.net/v/20220710122509226</id>
-        <link href="https://entertain.v.daum.net/v/20220710122509226"/>
-        <updated>2022-07-10T03:30:34.538Z</updated>
-        <content type="html"><![CDATA[BTS·세븐틴·TXT 등…하이브 레이블즈, 상반기 1000만 장 판매 그룹 BTS, 세븐틴, 프로미스나인 등 하이브 레이블즈 아티스트들이 올해 상반기에 1000만 장이 넘는 음반 판매량을 기록했다. 써클차트(구 가온차트)가 8일 공개한 최신 2022년 상반기 음반차트에 따르면, 1위에 오른 방탄소년단을 비롯해 세븐틴, 프로미스나인, 투모로우바이투게더,]]></content>
     </entry>
 </feed>
