@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-07-10T19:12:06.530Z</updated>
+    <updated>2022-07-10T20:15:51.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[드러머 서수진, 어떤 음악이든 창작하는 사람]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011295980</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011295980"/>
+        <updated>2022-07-10T20:15:35.485Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 재즈로 출발해 장르 넘나드는 작곡가 멤버로 있는 프로젝트 '밤새' 정규 1집 '커뮤니케이션' 호평 '코드리스 퀄텟' '컬러리스 트리오' 활동도 개인 정규 5집 작업 중 [서울=뉴시스]이재훈 기자 = 절]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[울음 터뜨린 노제·부상 효진초이까지...'스우파' 리유니온 콘서트 성료[SS현장]]]></title>
         <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000863990</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003069501"/>
         <updated>2022-07-10T08:18:15.980Z</updated>
         <content type="html"><![CDATA[그룹 트와이스에서 솔로로 데뷔한 나연이 '인기가요' 7월 둘째 주 1위를 차지했다. 10일 오후 방송된 SBS 음악 프로그램 '인기가요'에서는 나연이 1위를 차지했다. 이날 7월 2주차 1위 후보로 선미 '열이올라요]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTS→세븐틴…하이브 레이블즈, 올 상반기에만 음반 1000만 장 판매]]></title>
-        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000863840</id>
-        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000863840"/>
-        <updated>2022-07-10T08:18:15.994Z</updated>
-        <content type="html"><![CDATA[하이브 레이블즈 소속 아티스트들이 올해 상반기 음반 차트를 평정했다. 지난 8일 써클차트(구 가온차트)가 공개한 최신 2022년 상반기 음반차트에는 방탄소년단을 비롯해 세븐틴, 프로미스나인, 투모로우바이투게더 등 하]]></content>
     </entry>
 </feed>
