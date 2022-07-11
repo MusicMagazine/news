@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-07-11T16:27:42.230Z</updated>
+    <updated>2022-07-11T17:26:03.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["눈빛·함성 못 잊어" 포레스텔라 고우림, 생일까지 완벽했던 팬미팅]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003623758</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003623758"/>
+        <updated>2022-07-11T17:25:47.459Z</updated>
+        <content type="html"><![CDATA[크로스오버 그룹 포레스텔라(Forestella) 멤버 고우림이 단독 팬미팅으로 팬들을 만났다. 고우림은 지난 9일 10일 양일간 서울 블루스퀘어 마스터카드홀에서 단독 팬미팅 콘서트 '고우림 : 부티크 (Ko Woor]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["헐벗은 기분"…청하, 두려움과 맞선 '듣는 음악' 도전(종합)]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000160226</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004655267"/>
         <updated>2022-07-11T10:28:39.240Z</updated>
         <content type="html"><![CDATA[재즈 트리오 윤석철트리오의 음악 기록을 함축한 컴필레이션 앨범이 제작된다. 소속사 안테나 측에 따르면 윤석철트리오(윤석철, 정상이, 김영진)는 오는 16일 반스 브랜드 쇼케이스 스토어와 사운즈 굿 온/오프라인을 통해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['재즈 신동' 조이 알렉산더, 첫 내한…10월 '자라섬 재즈 페스티벌']]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011297995</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011297995"/>
-        <updated>2022-07-11T10:28:39.241Z</updated>
-        <content type="html"><![CDATA[기사내용 요약 이스라엘 트럼페터 아비샤이 코헨·'시티팝 장인' 김현철도 출연 인도네시아 발리 출신의 재즈 신동인 피아니스트 조이 알렉산더(19·Joey Alexander)가 첫 내한공연한다. 11일 자라섬재즈페스티벌]]></content>
     </entry>
 </feed>
