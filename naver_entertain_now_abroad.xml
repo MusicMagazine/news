@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-07-12T22:15:23.472Z</updated>
+    <updated>2022-07-12T23:16:41.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["새역사 썼다" 비영어권 최초 에미상 작품상 후보 '오겜', 美매체들도 집중조명]]></title>
+        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0006213476</id>
+        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0006213476"/>
+        <updated>2022-07-12T23:16:40.547Z</updated>
+        <content type="html"><![CDATA[넷플릭스 오리지널 '오징어 게임'과 주연 배우 이정재가 미국 방송계의 아카데미상으로 불리는 에미상 후보에 오른 가운데, 외신들도 새로운 역사를 만들어가고 있다며 '오징어 게임'을 집중조명했다. 제74회 프라임타임 에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오징어 게임', 美 에미상 작품상·이정재 주연상 후보…비영어권 드라마 최초 [종합]]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001474331</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000881387"/>
         <updated>2022-07-12T10:20:36.249Z</updated>
         <content type="html"><![CDATA[12일 오후 상암동 SBS 프리즘타워에서 SBS M 더쇼가 생방송으로 진행됐다. 프로미스나인이 공연하고 있다. 이날 생방송에는 우주소녀, 비비지(VIVIZ), fromis_9(프로미스나인), ENHYPEN, 영탁,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XG '아찔한 안무' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000881374</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000881374"/>
-        <updated>2022-07-12T10:20:36.250Z</updated>
-        <content type="html"><![CDATA[12일 오후 상암동 SBS 프리즘타워에서 SBS M 더쇼가 생방송으로 진행됐다. XG가 공연하고 있다. 이날 생방송에는 우주소녀, 비비지(VIVIZ), fromis_9(프로미스나인), ENHYPEN, 영탁, PIXY]]></content>
     </entry>
 </feed>
