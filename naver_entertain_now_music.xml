@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-07-13T19:16:41.694Z</updated>
+    <updated>2022-07-13T20:20:21.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰] "주변에서 다시 나로"…아웃사이더, 창작에서 얻은 답]]></title>
+        <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000160781</id>
+        <link href="https://entertain.naver.com/now/read?oid=629&amp;aid=0000160781"/>
+        <updated>2022-07-13T20:20:04.607Z</updated>
+        <content type="html"><![CDATA[활발한 창작 활동 예고 "웬만한 고통은 날 성장시킨다는 사고방식인데도 너무 힘들더라. 이대로는 도저히 안 되겠더라. 난 뭘 해야 할까 생각해 보니까 난 이런 고통도 음악으로 승화하던 창작자였다. 주변을 키운다는 명목]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘공연 갈등’ 가수 김희재, 사기 혐의 피소[종합]]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000825406</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003070431"/>
         <updated>2022-07-13T10:20:26.123Z</updated>
         <content type="html"><![CDATA[에스파, ENHYPEN, 나연, 영탁, 우주소녀가 '쇼! 챔피언'에서 1위 경쟁을 펼친다. 13일 방송된 MBC M '쇼! 챔피언' 에스파의 'Girls', ENHYPEN의 'Future Perfect', 나연의 ']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["안 한 게 아니라 못 한 것"…'7년차' SF9, 스스로 느낀 한계 (엑's 현장)[종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001474680</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001474680"/>
-        <updated>2022-07-13T09:17:22.809Z</updated>
-        <content type="html"><![CDATA[데뷔 7년 차를 맞은 그룹 SF9(에스에프나인)이 스스로 느낀 한계점을 밝혔다. SF9의 11번째 미니앨범 'THE WAVE OF9' 발매 기념 프레스 쇼케이스가 13일 오후 서울시 광진구 건국대학교 새천년관 대공연]]></content>
     </entry>
 </feed>
