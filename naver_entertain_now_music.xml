@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-07-15T19:14:38.197Z</updated>
+    <updated>2022-07-15T20:18:18.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[우리말-K팝 톺아보기⑪]음반 개봉전 '스포일러 토크'→'헤살꾼 대화' 어때요?]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011308097</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011308097"/>
+        <updated>2022-07-15T20:18:02.244Z</updated>
+        <content type="html"><![CDATA["'앨범 언박싱'과 '스포일러 토크'에 이어 '포인트 안무'도 소개합니다." K팝 아이돌 그룹이 잇따라 새 음반을 내면서 팬들과 소통도 활발해지고 있다. 유튜브나 브이(V)라이브처럼 영상을 통해 아이돌과 팬들이 직접]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블리처스, '윈-도우' 하이라이트 메들리 오픈…전곡 음원 최초 공개]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003625471</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013314543</id>
         <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013314543"/>
         <updated>2022-07-15T11:14:00.755Z</updated>
-        <content type="html"><![CDATA[15일 오후 서울 강남구 코엑스 동측광장에서 열린 G-KPOP 콘서트에서 시민들이 공연을 즐기고 있다. 2022.7.15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온택트로 열리는 G-KPOP 콘서트]]></title>
-        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013314542</id>
-        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013314542"/>
-        <updated>2022-07-15T11:14:00.758Z</updated>
         <content type="html"><![CDATA[15일 오후 서울 강남구 코엑스 동측광장에서 열린 G-KPOP 콘서트에서 시민들이 공연을 즐기고 있다. 2022.7.15]]></content>
     </entry>
 </feed>
