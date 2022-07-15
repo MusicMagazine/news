@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-07-15T16:25:18.603Z</updated>
+    <updated>2022-07-15T17:24:09.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블리처스, '윈-도우' 하이라이트 메들리 오픈…전곡 음원 최초 공개]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003625471</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003625471"/>
+        <updated>2022-07-15T17:23:55.180Z</updated>
+        <content type="html"><![CDATA[그룹 블리처스(BLITZERS)가 새 미니 앨범 전곡 음원 일부를 최초 공개했다. 소속사 우조엔터테인먼트는 14일 오후 6시 공식 SNS 및 유튜브 채널을 통해 블리처스 세 번째 미니 앨범 '윈-도우(WIN-DOW)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[팝스타 해리 스타일스 (Harry Styles), ‘Late NightTalking’ 뮤직비디오 공개]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000825818</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013314542</id>
         <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013314542"/>
         <updated>2022-07-15T11:14:00.758Z</updated>
-        <content type="html"><![CDATA[15일 오후 서울 강남구 코엑스 동측광장에서 열린 G-KPOP 콘서트에서 시민들이 공연을 즐기고 있다. 2022.7.15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강남구 G-KPOP 콘서트 열려]]></title>
-        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013314541</id>
-        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013314541"/>
-        <updated>2022-07-15T11:14:00.763Z</updated>
         <content type="html"><![CDATA[15일 오후 서울 강남구 코엑스 동측광장에서 열린 G-KPOP 콘서트에서 시민들이 공연을 즐기고 있다. 2022.7.15]]></content>
     </entry>
 </feed>
