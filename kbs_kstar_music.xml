@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 05:03:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 05:47:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS 제이홉, '방화 (Arson)' 강렬한 열정의 불꽃]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=218553</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=218553</guid>
+            <pubDate>Fri, 15 Jul 2022 05:45:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=218553">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220715134358_5d073586d8c33c2c778d9bad6b2c4294.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=218553">BTS 제이홉, '방화 (Arson)' 강렬한 열정의 불꽃</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220715134358_5d073586d8c33c2c778d9bad6b2c4294.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뮤비가 좋다] 글로 전하는 빌리의 청량한 매력!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=218540</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=217939">스테이씨 세은, 싱글 ‘WE NEED LOVE’ 개인 콘셉트 포토 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220712075621_fffa58cb5cf53f52db01a4d1f1f7f817.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불타는 카리스마 제이홉, 'Jack In The Box' 타이틀곡 '방화 (Arson)' 콘셉트 포토]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=217763</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=217763</guid>
-            <pubDate>Sun, 10 Jul 2022 23:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=217763">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220711080626_d6877af01d3da45e3f38270cfad355d0.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=217763">불타는 카리스마 제이홉, 'Jack In The Box' 타이틀곡 '방화 (Arson)' 콘셉트 포토</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220711080626_d6877af01d3da45e3f38270cfad355d0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
