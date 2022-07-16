@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Jul 2022 04:28:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 05:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["판타스틱 서커스"  '태양의서커스 뉴 알레그리아' 10월 한국상륙]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=218713</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=218713</guid>
+            <pubDate>Sat, 16 Jul 2022 05:13:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=218713">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220716075242_cc406e0a65597a517a8945258b7739d6.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=218713">"판타스틱 서커스"  '태양의서커스 뉴 알레그리아' 10월 한국상륙</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220716075242_cc406e0a65597a517a8945258b7739d6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제인 오스틴 '오만과 편견', 2인극으로 만난다]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=218569</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=216000">"임창정, 로빈 윌리엄스 역을 맡다" 뮤지컬 '다웃파이어' 캐릭터 포스터 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220629092350_51145f20abd13358255f46e9f275f556.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[화보] 최예나, 매거진 화보 "가수·예능 두 분야에서 인정받는 게 목표"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=215790</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=215790</guid>
-            <pubDate>Tue, 28 Jun 2022 23:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=215790">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220628122950_a843e768cead49545758b6cd0acd3dc6.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=215790">[화보] 최예나, 매거진 화보 "가수·예능 두 분야에서 인정받는 게 목표"  </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220628122950_a843e768cead49545758b6cd0acd3dc6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
