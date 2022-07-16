@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-07-16T09:15:43.344Z</updated>
+    <updated>2022-07-16T10:15:10.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[WSG워너비 사파이어·오아시소·가야지, '음악중심' 3色 데뷔 무대]]></title>
+        <id>https://entertain.v.daum.net/v/20220716182515637</id>
+        <link href="https://entertain.v.daum.net/v/20220716182515637"/>
+        <updated>2022-07-16T10:14:31.876Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 황서연 기자] '놀면 뭐하니' 파생 그룹 WSG워너비 가야지, 사파이어, 오아시소가 실제 음악프로그램 무대에 올랐다. 16일 오후 방송한 MBC 예능프로그램 '쇼! 음악중심‘에서는 WSG워너비 가야지(이보람 소연 박혜원 정지소), 사파이어(나비 쏠 엄지윤 권진아), 오아시소(윤은혜 코타 박진주 조현아)의 데뷔 무대가 꾸며졌다. 이날 생방송에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[싸이 '강남스타일' 벌써 10주년, 외신→유튜브도 축하]]></title>
         <id>https://entertain.v.daum.net/v/20220716180603468</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220716125858001"/>
         <updated>2022-07-16T04:28:12.328Z</updated>
         <content type="html"><![CDATA[그룹 세븐틴이 미국 MTV ‘We Speak Music’ 특집 캠페인에 출연한다. 미국 유명 음악 전문 방송인 MTV 측은 15일(이하 현지시간) 공식 SNS를 통해 “세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 오는 18일 MTV ‘We Speak Music’ 특집 캠페인에 출연해 정규]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세븐틴, 美 MTV 'We Speak Music' 출연..'CHEERS' 무대 선사]]></title>
-        <id>https://entertain.v.daum.net/v/20220716125816997</id>
-        <link href="https://entertain.v.daum.net/v/20220716125816997"/>
-        <updated>2022-07-16T04:28:12.328Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 그룹 세븐틴이 미국 MTV ‘We Speak Music’ 특집 캠페인에 출연한다. 미국 유명 음악 전문 방송인 MTV 측은 7월 15일(이하 현지시간) 공식 SNS를 통해 세븐틴이 오는 18일 MTV ‘We Speak Music’ 특집 캠페인에 출연해 정규 4집 리패키지 앨범 ‘SECTOR 17’(섹터 17)의 수록곡이자 선공개 곡]]></content>
     </entry>
 </feed>
