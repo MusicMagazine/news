@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-07-16T20:16:56.873Z</updated>
+    <updated>2022-07-16T21:15:24.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['빌보드 핫100 BTS 솔로 최초 진입' 제이홉의 위엄]]></title>
+        <id>https://entertain.v.daum.net/v/20220717060011671</id>
+        <link href="https://entertain.v.daum.net/v/20220717060011671"/>
+        <updated>2022-07-16T21:14:51.786Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 윤상근 기자] /사진제공=빅히트뮤직 톱 아이돌그룹 방탄소년단(BTS, RM 진 지민 제이홉 슈가 뷔 정국) 멤버 제이홉에게는 최초라는 단어를 하나 붙여줄 수 있다. 제이홉은 방탄소년단 멤버 중에서 최초로 빌보드 핫100 차트에 홀로 진입한 멤버다. K팝 아티스트 또는 한국 솔로 가수로 범위를 넓혀보자면 싸이와 CL에 이은 역대 3번째 솔로 가수였]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영재X리나, 'FOCUS' 챌린지 영상 SNS 공개]]></title>
         <id>https://entertain.v.daum.net/v/20220717000719765</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220716171219513"/>
         <updated>2022-07-16T08:18:20.678Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이슬기 기자] 퍼플키스(PURPLE KISS)가 개인 콘셉트 포토를 공개했다. 소속사 알비더블유(RBW)는 7월 16일 퍼플키스의 공식 SNS를 통해 네 번째 미니앨범 'Geekyland'(기키랜드)의 멤버별 개인 콘셉트 포토를 공개했다. 공개된 사진 속 퍼플키스는 홀리듯 빠져들 수밖에 없는 마력으로 팬들의 마음을 단번에 사로잡았다. 비비드한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['음중' 트와이스 나연 1위, WSG워너비 데뷔→ITZY·에스파·SF9 컴백]]></title>
-        <id>https://entertain.v.daum.net/v/20220716163347906</id>
-        <link href="https://entertain.v.daum.net/v/20220716163347906"/>
-        <updated>2022-07-16T08:18:20.679Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 트와이스 나연이 1위를 차지했다. 7월 16일 방송된 MBC ‘쇼! 음악중심’에서는 트와이스 나연이 ‘POP!’으로 에스파, 위너를 제치고 1위에 올랐다. 에이핑크 박초롱, 윤보미로 구성된 유닛 초봄은 그동안 선보이지 않았던 발랄하고 앙큼한 매력을 보여줬다. 타이틀곡 ‘Copycat’은 좋아하는 사람의 모든 것을 따라하고 싶은]]></content>
     </entry>
 </feed>
