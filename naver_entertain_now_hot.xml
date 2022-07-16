@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2022-07-16T18:18:17.479Z</updated>
+    <updated>2022-07-16T19:13:49.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카라 출신 강지영 “한계 온 것 같다” 눈물 (스캉스)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000992822</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000992822"/>
+        <updated>2022-07-16T19:13:41.763Z</updated>
+        <content type="html"><![CDATA['호캉스 말고 스캉스' 소유, 니콜, 강지영이 아이돌 시절 일화를 공개한다. 오는 18일 ENA PLAY와 MBN ‘호캉스 말고 스캉스’ 8회에서는 걸그룹 카라의 전 멤버 니콜과 강지영이 새로운 여행 메이트로 출연한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사진]애국가 부르는 이승철]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004659441</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000992729"/>
         <updated>2022-07-16T14:15:30.623Z</updated>
         <content type="html"><![CDATA[TV조선 드라마 '마녀는 살아있다' 이민영이 시어머니 살인 용의자로 지목된다. 16일 ‘마녀는 살아있다’(연출 김윤철/ 극본 박파란) 4회에서 채희수(이민영 분)가 독박 간병도 모자라 시어머니 살인 혐의를 받게 되는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단 지민, 그룹 개인 브랜드평판 1위…아미 사랑ing]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000882443</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000882443"/>
-        <updated>2022-07-16T13:24:23.778Z</updated>
-        <content type="html"><![CDATA[그룹 방탄소년단 멤버 지민이 그룹 개인 브랜드평판 2022년 7월 빅데이터 분석결과 1위를 차지했다. 한국기업평판연구소는 보이그룹 개인 브랜드평판 빅데이터 분석을 위해 2022년 6월 16일부터 2022년 7월 16]]></content>
     </entry>
 </feed>
