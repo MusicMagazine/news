@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-07-17T19:12:39.431Z</updated>
+    <updated>2022-07-17T20:17:00.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제니퍼 로페즈·벤 애플렉 결혼…파혼 18년 만에 재결합]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013316930</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013316930"/>
+        <updated>2022-07-17T20:16:44.083Z</updated>
+        <content type="html"><![CDATA[정윤섭 특파원 = 미국 팝스타 제니퍼 로페즈(52)와 할리우드 배우 겸 감독 벤 애플렉(49)이 결혼했다. 17일(현지시간) TMZ 등 미국 연예 매체들에 따르면 로페즈와 애플렉은 16일 네바다주 클라크 카운티에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘2막’ 아이돌계 새로운 키워드[스경연예연구소]]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000826022</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000825970"/>
         <updated>2022-07-17T06:19:05.132Z</updated>
         <content type="html"><![CDATA[그룹 우주소녀가 새 앨범 재킷 촬영 현장 비하인드를 공개했다. 우주소녀는 16일 공식 SNS를 통해 스페셜 싱글 앨범 ‘Sequence’의 재킷 제작과정 영상을 올렸다. 먼저 설아는 “첫 번째 순서였다. 이런 무드는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우주소녀, 'Sequence(시퀀스)' 재킷 촬영 비하인드 공개...팔색조 매력 뿜뿜]]></title>
-        <id>https://entertain.naver.com/now/read?oid=408&amp;aid=0000161470</id>
-        <link href="https://entertain.naver.com/now/read?oid=408&amp;aid=0000161470"/>
-        <updated>2022-07-17T06:19:05.132Z</updated>
-        <content type="html"><![CDATA[그룹 우주소녀(WJSN)가 신보 재킷 촬영 현장 비하인드를 공개했다. 우주소녀는 지난 16일 공식 SNS를 통해 스페셜 싱글 앨범 'Sequence(시퀀스)'의 재킷 메이킹 영상을 게재했다. 먼저 프로페셔널한 포즈를]]></content>
     </entry>
 </feed>
