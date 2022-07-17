@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-07-17T10:16:01.089Z</updated>
+    <updated>2022-07-17T11:14:40.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[우주소녀, 재키 촬영 현장에서도 빛나는 미모]]></title>
+        <title type="html"><![CDATA[윤언니, '연애의 참견 2022' OST '결국 우리도' 가창]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003071418</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003071418"/>
+        <updated>2022-07-17T11:14:23.995Z</updated>
+        <content type="html"><![CDATA[일상을 노래하는 감성 보컬 윤언니가 '연애의 참견 2022' OST 열여섯 번째 가창자로 나섰다.다. 윤언니는 17일 온라인 음원사이트를 통해 '연애의 참견 2022' OST '결국 우리도'를 발표, 대중에게 매력적]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우주소녀, 재킷 촬영 현장에서도 빛나는 미모]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000882544</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000882544"/>
         <updated>2022-07-17T10:15:46.663Z</updated>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=416&amp;aid=0000285465"/>
         <updated>2022-07-17T05:17:57.568Z</updated>
         <content type="html"><![CDATA[그룹 우주소녀(WJSN)가 신보 재킷 촬영 현장 비하인드를 공개했다. 우주소녀는 지난 16일 공식 SNS를 통해 스페셜 싱글 앨범 'Sequence(시퀀스)'의 재킷 메이킹 영상을 게재했다. 먼저 프로페셔널한 포즈를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤언니, '연애의 참견' OST 16번째 가창…'결국 우리도' 발매]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011309370</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011309370"/>
-        <updated>2022-07-17T05:17:57.569Z</updated>
-        <content type="html"><![CDATA[감성보컬 윤언니가 '연애의 참견 2022' OST의 열여섯 번째 가창자로 나선다. 17일 소속사 에이치오미디어에 따르면 윤언니는 KBS Joy '연애의 참견 2022' OST '결국 우리도'를 발표한다. 윤언니는 신]]></content>
     </entry>
 </feed>
