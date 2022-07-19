@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-07-19T03:58:20.469Z</updated>
+    <updated>2022-07-19T05:08:20.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아일리원 '데뷔 3개월만에 돌아왔어요' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000882801</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000882801"/>
+        <updated>2022-07-19T05:08:19.519Z</updated>
+        <content type="html"><![CDATA[신인 걸그룹 아일리원(ILY:1)이 새 싱글 'Que Sera Sera'(케세라세라)를 발매하고 19일 오후 서울 강남구 청담동 일지아트홀에서 기념 쇼케이스를 가졌다. 쇼케이스에 앞서 포즈를 취하는 아일리원.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조원희 '마이크 두손으로 잡고' [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000882777</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000882748</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000882748"/>
         <updated>2022-07-19T03:58:19.899Z</updated>
-        <content type="html"><![CDATA[MBC에브리원 ‘전설끼리 홀인원’ 제작발표회가 19일 오후 서울 마포구 상암동 스탠포드호텔에서 열렸다. 김하늘 프로가 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김하늘 '하늘 미소' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000882746</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000882746"/>
-        <updated>2022-07-19T03:58:19.903Z</updated>
         <content type="html"><![CDATA[MBC에브리원 ‘전설끼리 홀인원’ 제작발표회가 19일 오후 서울 마포구 상암동 스탠포드호텔에서 열렸다. 김하늘 프로가 포토타임을 갖고 있다.]]></content>
     </entry>
 </feed>
