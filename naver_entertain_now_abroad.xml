@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-07-19T20:18:01.748Z</updated>
+    <updated>2022-07-19T21:19:08.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“유명스타 아빠는 양육비도 안주고 유럽서 여자와 노는데”, 애엄마는 쓸쓸[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003626777</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003626777"/>
+        <updated>2022-07-19T21:19:07.914Z</updated>
+        <content type="html"><![CDATA[NBA 유명스타 트리스탄 톰슨(31. 시카고 불스)과의 사이에서 아들을 낳은 동갑내기 개인 트레이너 마를리 니콜스가 근황을 전했다. 그는 18일(현지시간) 인스타그램에 “테오의 엄마”라는 글과 함께 사진을 게재했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김고은 '레드카펫 환호성 부른 하늘빛 드레스' [MK화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000882989</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000882964"/>
         <updated>2022-07-19T11:13:35.314Z</updated>
         <content type="html"><![CDATA['제1회 청룡시리즈어워즈' 레드카펫 행사가 19일 오후 인천 파라다이스시티에서 열렸다. 청룡시리즈어워즈 레드카펫 행사에 참석한 배우 이도현.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김신록 '부드러운 미소' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000882963</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000882963"/>
-        <updated>2022-07-19T11:13:35.315Z</updated>
-        <content type="html"><![CDATA['제1회 청룡시리즈어워즈' 레드카펫 행사가 19일 오후 인천 파라다이스시티에서 열렸다. 청룡시리즈어워즈 레드카펫 행사에 참석한 배우 김신록.]]></content>
     </entry>
 </feed>
