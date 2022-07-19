@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-07-19T11:13:36.141Z</updated>
+    <updated>2022-07-19T12:32:07.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김고은 '레드카펫 환호성 부른 하늘빛 드레스' [MK화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000882989</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000882989"/>
+        <updated>2022-07-19T12:32:06.194Z</updated>
+        <content type="html"><![CDATA['제1회 청룡시리즈어워즈' 레드카펫 행사가 19일 오후 인천 파라다이스시티에서 열렸다. 청룡시리즈어워즈는 국내 최초 오리지널 시리즈 콘텐츠를 대상으로 하는 시상식이다. 넷플릭스부터 디즈니+, 시즌, 애플TV+, 왓챠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한효주 '아름다운 핑크빛 드레스' [MK화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000882988</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000882963"/>
         <updated>2022-07-19T11:13:35.315Z</updated>
         <content type="html"><![CDATA['제1회 청룡시리즈어워즈' 레드카펫 행사가 19일 오후 인천 파라다이스시티에서 열렸다. 청룡시리즈어워즈 레드카펫 행사에 참석한 배우 김신록.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정호연 '서 있기만 해도 화보' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000882962</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000882962"/>
-        <updated>2022-07-19T11:13:35.317Z</updated>
-        <content type="html"><![CDATA['제1회 청룡시리즈어워즈' 레드카펫 행사가 19일 오후 인천 파라다이스시티에서 열렸다. 청룡시리즈어워즈 레드카펫 행사에 참석한 배우 정호연.]]></content>
     </entry>
 </feed>
