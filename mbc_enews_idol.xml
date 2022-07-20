@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 19:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 20:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[움짤] 조이, 'Feel My Summer~']]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/354592</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/354592</guid>
+            <pubDate>Wed, 20 Jul 2022 20:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/354592">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/07/21/9194d471-ac04-45ca-b3c2-54524f8ee81f.jpg" alt="[움짤] 조이, 'Feel My Summer~'">        <div class="text-box">            <p class="summary">[움짤] 조이, 'Feel My Summer~'</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/07/21/9194d471-ac04-45ca-b3c2-54524f8ee81f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘라디오스타’ 츠키, “데뷔 전부터 트와이스 사나 목소리 닮았다는 말 들어”]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/354584</link>
@@ -86,14 +94,6 @@
             <pubDate>Wed, 20 Jul 2022 10:22:49 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/354567">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/07/20/0f999e40-5831-4ec3-a6ab-6ecbb07d7c31.jpg" alt="[포토] 리아, '있지 퀸~!'">        <div class="text-box">            <p class="summary">[포토] 리아, '있지 퀸~!'</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/07/20/0f999e40-5831-4ec3-a6ab-6ecbb07d7c31.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 리아, '리아 여기 있지~']]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/354566</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/354566</guid>
-            <pubDate>Wed, 20 Jul 2022 10:22:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/354566">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/07/20/3cf140b1-4ec7-46d0-b49f-92a5e5b8fa20.jpg" alt="[포토] 리아, '리아 여기 있지~'">        <div class="text-box">            <p class="summary">[포토] 리아, '리아 여기 있지~'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/07/20/3cf140b1-4ec7-46d0-b49f-92a5e5b8fa20.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
