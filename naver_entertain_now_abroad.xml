@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-07-20T04:38:15.197Z</updated>
+    <updated>2022-07-20T05:24:18.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미드 ‘로 앤드 오더’ 촬영장서 총격 제작진 사망]]></title>
+        <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003221480</id>
+        <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003221480"/>
+        <updated>2022-07-20T05:24:17.338Z</updated>
+        <content type="html"><![CDATA[미드 촬영장에서 제작진이 총에 맞아 숨지는 사고가 발생했다. 미국 CNN 등에 따르면 20일(한국시간) NBC방송의 장수 드라마 ‘로 앤드 오더: 조직범죄전담반’(Law &amp; Order: Organized Crime)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["지드래곤 신어서 유행한 신발"...홀란, '지디포스' 홀릭 [엑's 해외이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001478098</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000882976"/>
         <updated>2022-07-19T11:13:35.295Z</updated>
         <content type="html"><![CDATA['제1회 청룡시리즈어워즈' 레드카펫 행사가 19일 오후 인천 파라다이스시티에서 열렸다. 청룡시리즈어워즈 레드카펫 행사에 참석한 배우 임윤아.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금새록 '우아하게' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000882975</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000882975"/>
-        <updated>2022-07-19T11:13:35.296Z</updated>
-        <content type="html"><![CDATA['제1회 청룡시리즈어워즈' 레드카펫 행사가 19일 오후 인천 파라다이스시티에서 열렸다. 청룡시리즈어워즈 레드카펫 행사에 참석한 배우 금새록.]]></content>
     </entry>
 </feed>
