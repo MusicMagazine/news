@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-07-21T15:18:56.803Z</updated>
+    <updated>2022-07-21T16:22:37.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['청춘스타' 박현·이한준·장희원·정성윤·카즈타, 만점 무대 '1위 등극']]></title>
+        <id>https://entertain.v.daum.net/v/20220722003719830</id>
+        <link href="https://entertain.v.daum.net/v/20220722003719830"/>
+        <updated>2022-07-21T16:21:57.707Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김한길 기자] '청춘스타' 박현, 이한준, 장희원, 정성윤, 카즈타가 완성형 아이돌다운 완벽한 무대를 꾸몄다. 21일 밤 방송된 배틀 오디션 프로그램 채널A '청춘스타'는 결승으로 가는 마지막 관문, 준결승전이 본격적으로 펼쳐지는 모습이 그려졌다. 현재까지 살아남은 예비 청춘스타는 총 23명. 1차전 개인전과 2차전 라이벌전 점수를 합산해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["'청춘스타' 최대 포식자" 현신영, 美친 무대에 '심사위원 만점']]></title>
         <id>https://entertain.v.daum.net/v/20220721234919389</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220721193518734"/>
         <updated>2022-07-21T11:15:04.900Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김한길 기자] 그룹 에스파(aespa)가 '엠카운트다운' 1위를 차지했다. 21일 저녁 방송된 Mnet '엠카운트다운'(이하 '엠카')에서는 에스파가 신곡 '걸스(Girls)'로 7월 셋째 주 1위의 영광을 안았다. 이날 에스파는 트와이스 나연의 '팝!(POP!)'을 꺾고 정상에 섰다. 방송에는 출연하지 않았다. 지난 7월 8일 발매된 에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['엠카' 에스파, 나연과 대결서 1위..현아, '나빌레라' 최초 공개]]></title>
-        <id>https://entertain.v.daum.net/v/20220721192858608</id>
-        <link href="https://entertain.v.daum.net/v/20220721192858608"/>
-        <updated>2022-07-21T11:15:04.902Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이상은 기자] /사진=/사진= 엠카운트다운' 방송화면 캡처 현아가 경쾌하고 미니멀한 비트의 신곡 '나빌레라'를 공개했다. 21일 방송된 Mnet '엠카운트다운'에서는 현아가 미니앨범 '나빌레라' 무대를 최초 공개했다. 이날 현아는 아찔한 길이의 핫팬츠와 큐티함이 돋보이는 탑을 입고 무대에 섰다. 독보적인 보이스와 어울리는 흥겨운 라틴풍의 댄스]]></content>
     </entry>
 </feed>
