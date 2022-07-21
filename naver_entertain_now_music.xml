@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-07-21T14:16:35.951Z</updated>
+    <updated>2022-07-21T15:18:56.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘트랙제로’ KIRARA (키라라) “처음 시작할 때 모습, ‘오타쿠’였다”]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000826849</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000826849"/>
+        <updated>2022-07-21T15:18:41.997Z</updated>
+        <content type="html"><![CDATA[멜론 인디음악 발굴 프로젝트 ‘트랙제로’가 국내 전자음악 신에서 많은 사랑을 받고 있는 아티스트 중 하나인 KIRARA (키라라)와 다채로운 음악 이야기를 나눴다. 카카오엔터테인먼트(대표 이진수, 김성수)의 뮤직플랫]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[숀(SHAUN), 28일 네 번째 EP 발매 확정 [공식]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003072870</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013326904"/>
         <updated>2022-07-21T10:16:28.728Z</updated>
         <content type="html"><![CDATA[그룹 엔하이픈 멤버 제이가 신종 코로나바이러스 감염증(코로나19)에 재확진됐다고 21일 소속사 빌리프랩이 밝혔다. 빌리프랩은 팬 커뮤니티 위버스를 통해 "제이는 경미한 인후통과 몸살 기운이 있으며, 멤버들과 격리된]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['엠카' 스테이씨, 컴백 최초 공개 'BEAUTIFUL MONSTER']]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003072823</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003072823"/>
-        <updated>2022-07-21T10:16:28.729Z</updated>
-        <content type="html"><![CDATA[걸그룹 스테이씨가 새로운 컨셉트로 컴백했다. 21일 방송된 Mnet '엠카운트다운'에서는 새로운 컨셉트로 돌아온 스테이씨의 컴백 무대가 최초 공개됐다. 이날 방송에서 스테이씨는 화려하고 상큼함을 뽐내는 의상을 입고]]></content>
     </entry>
 </feed>
