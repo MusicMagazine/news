@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 01:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 03:42:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트라이비의 찬란한 고공행진]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/354642</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/354642</guid>
+            <pubDate>Thu, 21 Jul 2022 03:41:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/354642">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/07/21/44bfaa1f-b1a1-4cbe-8b22-7de644ceaa96.jpg" alt="트라이비의 찬란한 고공행진">        <div class="text-box">            <p class="summary">트라이비의 찬란한 고공행진</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/07/21/44bfaa1f-b1a1-4cbe-8b22-7de644ceaa96.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[DKZ 재찬, 폐장례식장 갔다…귀신 발견했나(심야괴담회)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/354632</link>
@@ -86,14 +94,6 @@
             <pubDate>Thu, 21 Jul 2022 01:15:02 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/354610">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/07/21/e393bd07-6202-40bb-84cd-3a6a5757d8d1.jpg" alt="[포토] 모모, '눈빛만 봐도 머머'">        <div class="text-box">            <p class="summary">[포토] 모모, '눈빛만 봐도 머머'</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/07/21/e393bd07-6202-40bb-84cd-3a6a5757d8d1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 채영, '고민고민 하지마~']]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/354608</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/354608</guid>
-            <pubDate>Thu, 21 Jul 2022 01:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/354608">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/07/21/bcef6f44-a6b3-4729-ad42-f7284317082c.jpg" alt="[포토] 채영, '고민고민 하지마~'">        <div class="text-box">            <p class="summary">[포토] 채영, '고민고민 하지마~'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/07/21/bcef6f44-a6b3-4729-ad42-f7284317082c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
