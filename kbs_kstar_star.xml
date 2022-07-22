@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 04:44:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 05:25:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 '두 교황',  베네딕토16세와 프란치스코']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=219825</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=219825</guid>
+            <pubDate>Fri, 22 Jul 2022 05:24:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=219825">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220722081020_4b5f8583e1cdf7c754045ca615017099.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=219825">연극 '두 교황',  베네딕토16세와 프란치스코' </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220722081020_4b5f8583e1cdf7c754045ca615017099.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["바티칸으로부터 힐링의 메시지" 연극 '두 교황']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=219622</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=216793">감초 연기 신 스틸러 박경혜, 씨제스 엔터테인먼트 합류</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220705090339_d5d23b4f0a885f8be927fa4e459f38e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트로트 대표 홍자, 해남군 대표 홍자! 해남군 홍보대사 2회 연속 위촉!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=216782</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=216782</guid>
-            <pubDate>Tue, 05 Jul 2022 03:40:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=216782">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220705085416_d55d929da8ad03ef58c37f220a6bfc1c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=216782">트로트 대표 홍자, 해남군 대표 홍자! 해남군 홍보대사 2회 연속 위촉!</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220705085416_d55d929da8ad03ef58c37f220a6bfc1c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
