@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 07:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 08:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[8월의 최예나, 미니 2집 'SMART PHONE' 컴백 콘셉트 포토 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=219840</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=219840</guid>
+            <pubDate>Fri, 22 Jul 2022 08:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=219840">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220722082411_cdfeb4b851e1a53c5be9adc11ebaa8d3.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=219840">8월의 최예나, 미니 2집 'SMART PHONE' 컴백 콘셉트 포토 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220722082411_cdfeb4b851e1a53c5be9adc11ebaa8d3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[진·지민·뷔·정국, 그리고 '베니 블랑코X스눕독' 특급 컬래버레이션]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=219713</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=218540">[뮤비가 좋다] 글로 전하는 빌리의 청량한 매력!</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220715090828_5768a7873390089d85a457552559ccbc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세븐틴 컴백 예열...'월드' 뮤직비디오 티저 영상 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=218530</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=218530</guid>
-            <pubDate>Fri, 15 Jul 2022 03:54:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=218530">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220715090333_e73066929aa95d0c8f784102181d252f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=218530">세븐틴 컴백 예열...'월드' 뮤직비디오 티저 영상 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220715090333_e73066929aa95d0c8f784102181d252f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
