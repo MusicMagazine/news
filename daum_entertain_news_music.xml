@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-07-22T09:17:12.197Z</updated>
+    <updated>2022-07-22T10:18:47.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['뮤직뱅크' ITZY, SF9 꺾고 1위 "믿지 고마워"]]></title>
+        <id>https://entertain.v.daum.net/v/20220722182606513</id>
+        <link href="https://entertain.v.daum.net/v/20220722182606513"/>
+        <updated>2022-07-22T10:18:10.823Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김종은 기자] '뮤직뱅크' 22일 저녁 방송된 KBS2 음악프로그램 '뮤직뱅크'에서는 있지(ITZY)의 '스니커즈(SNEAKERS)'와 SF9의 '스크림(SCREAM)'이 1위 후보에 올랐다. 이날 공개된 결과에 따르면 ITZY가 1위를 차지했다. 예지는 "10개월 만에 컴백했는데 이번 앨범을 위해 많은 분들이 애써주셨다. JYP 식구들에게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["재갈 물리는 식 대응"..이무진, 표절 해명에도 '시끌']]></title>
         <id>https://entertain.v.daum.net/v/20220722175409917</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220722132807183"/>
         <updated>2022-07-22T04:44:09.331Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김한길 기자] '국민가수' 박창근이 전국투어 콘서를 개최한다. 박창근은 8월 27일 서울 KBS 아레나홀에서 개최되는 2022 전국투어 콘서트 '박창근'을 시작으로 부산, 대구, 창원, 전주, 울산, 청주, 일산 등 전국 각지를 돌며 팬들과 만난다. 콘서트 소식과 함께 공개된 포스터에는 전국투어 타이틀 '박창근'부터 '어제, 오늘, 내일']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['국민가수' 박창근, 8월 27일 전국투어 시작..오늘 티켓 오픈]]></title>
-        <id>https://entertain.v.daum.net/v/20220722131735941</id>
-        <link href="https://entertain.v.daum.net/v/20220722131735941"/>
-        <updated>2022-07-22T04:44:09.340Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] '국민가수' 박창근이 전국투어 콘서를 개최한다. 박창근은 8월 27일 서울 KBS 아레나홀에서 개최되는 2022 전국투어 콘서트 '박창근'을 시작으로 부산, 대구, 창원, 전주, 울산, 청주, 일산 등 전국 각지에서 팬들과 만난다. 콘서트 소식과 함께 공개된 포스터에는 전국투어 타이틀 '박창근'부터 '어제, 오늘, 내일'이라는 문구]]></content>
     </entry>
 </feed>
