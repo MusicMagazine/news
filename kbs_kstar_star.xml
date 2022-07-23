@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 04:31:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 05:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[화보] 스테이씨, 동화 속 요정으로 변신 (매거진 보그)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=220149</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=220149</guid>
+            <pubDate>Sat, 23 Jul 2022 05:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=220149">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220723103550_d7283ee495c0a9252b49548580d292fa.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=220149">[화보] 스테이씨, 동화 속 요정으로 변신 (매거진 보그)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220723103550_d7283ee495c0a9252b49548580d292fa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[화보] '블랙의 화보' 김희선X이현욱X정유진X박훈X차지연 (하퍼스 바자)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=220022</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=216944">배우 류태호, 엘줄라이엔터테인먼트와 전속계약</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220706082051_48a660413f8cd39b32ec598e4cb9cffb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 '두 교황', 신구-서인석-서상원, 정동환-남명렬 캐스팅]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=216828</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=216828</guid>
-            <pubDate>Tue, 05 Jul 2022 03:40:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=216828">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220705092330_8765ef8c5361c5ee7e36cf4b106d9fb8.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=216828">연극 '두 교황', 신구-서인석-서상원, 정동환-남명렬 캐스팅</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220705092330_8765ef8c5361c5ee7e36cf4b106d9fb8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
