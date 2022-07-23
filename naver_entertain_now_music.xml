@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-07-23T09:15:52.435Z</updated>
+    <updated>2022-07-23T10:17:49.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TAN(탄), 우월한 교복핏 ‘컴백 열기↑’]]></title>
+        <id>https://entertain.naver.com/now/read?oid=408&amp;aid=0000162246</id>
+        <link href="https://entertain.naver.com/now/read?oid=408&amp;aid=0000162246"/>
+        <updated>2022-07-23T10:17:31.700Z</updated>
+        <content type="html"><![CDATA[보이그룹 TAN(탄)이 ‘2TAN(we ver)’으로 청춘의 한 페이지를 펼쳐간다. 23일 탄(창선, 주안, 재준, 성혁, 현엽, 태훈, 지성) 공식 SNS 채널을 통해 W SERIES ‘2TAN(we ver)’의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위너, 이러니 사랑할 수 밖에 [Oh!쎈 레터]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004663510</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003221860"/>
         <updated>2022-07-23T06:20:14.853Z</updated>
         <content type="html"><![CDATA[그룹 씨스타가 ‘원조 서머퀸’ 면모를 드러냈다. 씨스타 효린, 보라, 소유, 다솜은 지난 22일 방송된 KBS2 ‘유희열의 스케치북’ 600회에 완전체로 출연했다. 이날 유희열은 “우리들의 여름날을 정말 뜨겁게 시원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈, 첫 ‘한터차트 초동 밀리언 인증패’ 수상]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000883602</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000883602"/>
-        <updated>2022-07-23T05:17:53.546Z</updated>
-        <content type="html"><![CDATA[한터차트 밀리언 인증패 최소연차 수상자로 이름을 올린 그룹 ENHYPEN(엔하이픈)이 팬들에게 감사 인사를 전했다. 한터뉴스와 유튜브 '후즈팬TV'는 지난 22일 신보 '매니페스토 : 데이 1(MANIFESTO :]]></content>
     </entry>
 </feed>
