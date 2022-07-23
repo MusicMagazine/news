@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-07-23T21:14:26.128Z</updated>
+    <updated>2022-07-23T22:14:38.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['추가 확진 우려' 김종민 코로나19 확진→'1박2일' 덮쳤다]]></title>
+        <id>https://entertain.v.daum.net/v/20220724065157724</id>
+        <link href="https://entertain.v.daum.net/v/20220724065157724"/>
+        <updated>2022-07-23T22:14:02.088Z</updated>
+        <content type="html"><![CDATA[[OSEN=박판석 기자]&nbsp;그룹 코요테 김종민이 코로나19 확진 되면서 ‘1박2일’ 시즌4 촬영이 중단됐다. 당분간 방영 일정에 차질은 없을 예정이지만 추가적으로 코로나19 바이러스가 확산된다면 방송계 역시 멈출 가능성이 충분하다. 김종민의 소속사 JG엔터테인먼트는 지난 23일 코로나19(신종 코로나바이러스 감염증) 확진 소식을 발표했다. 소속사 측은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아는 형님' 이승엽 "'국민타자' 수식어 부담, 계속 듣다 보니 자신강 생겨"]]></title>
         <id>https://entertain.v.daum.net/v/20220724060207240</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220724045003731"/>
         <updated>2022-07-23T20:16:09.149Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 이아영 기자 = 이승엽 박용택 심수창 유희관이 은퇴 후 예능에서 하는 야구에도 진심을 다하는 모습이 엿보였다. 지난 23일 방송된 JTBC '아는 형님'에는 '최강야구'의 이승엽 박용택 심수창 유희관이 출연했다. 네 사람은 '최강야구'에 출연 중이다. 심수창이 '최강야구'가 만들어지는 데 일조했다고 한다. 심수창은 "'도시어부'에 나가서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김종민, 코로나19 재확진..'1박 2일' 측 "다른 멤버는 음성"]]></title>
-        <id>https://entertain.v.daum.net/v/20220724025129662</id>
-        <link href="https://entertain.v.daum.net/v/20220724025129662"/>
-        <updated>2022-07-23T18:18:45.256Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 코요태 김종민이 신종 코로나바이러스 감염증(코로나19) 재확진 판정을 받았다. 7월 23일 코요태 소속사 제이지스타는 “23일 오후 김종민이 신종 코로나바이러스 감염증 확진 판정을 받았다. 김종민은 지난 22일 '1박 2일' 촬영 현장에서 가벼운 인후통 증상을 느껴 자가키트 검사를 진행한 결과 양성이 나왔으며, 23일 오전 PCR]]></content>
     </entry>
 </feed>
