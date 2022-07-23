@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-07-23T20:16:40.056Z</updated>
+    <updated>2022-07-23T21:14:25.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공포의 더블링 속 다시 엄습하는 코로나19..대중음악 공연계 반응은]]></title>
+        <id>https://entertain.v.daum.net/v/20220724060016166</id>
+        <link href="https://entertain.v.daum.net/v/20220724060016166"/>
+        <updated>2022-07-23T21:13:47.745Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 황미현 기자 = 활기를 찾고 있던 K팝 공연계에 다시 긴장감이 감돌고 있다. 신종 코로나바아리스 감염증(코로나19) 신규 확진자 수가 크게 늘면서다. 최근 우리나라에는 지난 4일부터 주간 더블링(확진자가 두 배씩 늘어나는 추세) 현상을 보이고 있다. 지난 7일 우리나라 전국 확진자 수는 1만8520명이었으나 2주 뒤인 이번주에는 7만명]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["차라리 가수 아니었으면"..비비, 요즘 '존버' 시대 아니다]]></title>
         <id>https://entertain.v.daum.net/v/20220723182757751</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220723115156081"/>
         <updated>2022-07-23T03:30:13.268Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김수진 기자] 그룹 프로미스나인이 미니 5집으로 일본 오리콘 차트 정상에 올랐다. 지난 22일 일본 오리콘이 발표한 차트에 따르면, 프로미스나인의 미니 5집 'from our Memento Box'(프롬 아워 메멘토 박스)는 9008장의 판매량으로 데일리 앨범 차트(7월 21일 자)에서 1위를 차지했다. 이로써 프로미스나인은 두 번째 싱글]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김재환, 팬 콘서트 초고속 전석 매진..남다른 티켓 파워]]></title>
-        <id>https://entertain.v.daum.net/v/20220723114439019</id>
-        <link href="https://entertain.v.daum.net/v/20220723114439019"/>
-        <updated>2022-07-23T03:30:13.268Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김수진 기자] 가수 김재환이 팬 콘서트 초고속 전석 매진으로 티켓 파워를 증명했다. 김재환은 지난 22일 저녁 8시 온라인 예매 사이트 인터파크 티켓을 통해 진행된 2022 김재환 팬 콘서트 'I_MY_ME_MINE(아이_마이_미_마인)' 팬클럽 선예매에서 오픈 10분 만에 2회차 전석 매진을 기록했다. 'I_MY_ME_MINE'은 김재환이]]></content>
     </entry>
 </feed>
