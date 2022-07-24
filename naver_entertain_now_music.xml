@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-07-24T11:13:54.713Z</updated>
+    <updated>2022-07-24T12:27:15.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[POP초점]"평생 가슴에 흉터로 새기며 살 것" 유희열, '유스케' 하차 후 심정]]></title>
+        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003575862</id>
+        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003575862"/>
+        <updated>2022-07-24T12:26:58.852Z</updated>
+        <content type="html"><![CDATA[작곡가 겸 가수 유희열이 표절 의혹에 휩싸여 '유희열의 스케치북'에서 하차한 가운데, 심정을 전했다. 최근 유희열은 KBS2 '유희열의 스케치북' 마지막 녹화 전날 팬카페에 글을 올렸다. 유희열은 팬카페에 '유희열의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘인기가요’ 효린, ‘NO THANKS’로 청량 보이스 폭발…팔색조 매력 자랑]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000883831</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003575821"/>
         <updated>2022-07-24T07:15:59.404Z</updated>
         <content type="html"><![CDATA[에이티즈(ATEEZ)가 첫 ‘밀리언셀러’를 예고했다. 오늘(24일) 에이티즈의 소속사 KQ엔터테인먼트는 “에이티즈의 새 앨범 ‘더 월드 에피소드 1 : 무브먼트(THE WORLD EP.1 : MOVEMENT)’의 선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원호, 첫 뮤지컬 성료 "새로운 모습 보여줘, 의미 있는 시간"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=052&amp;aid=0001767967</id>
-        <link href="https://entertain.naver.com/now/read?oid=052&amp;aid=0001767967"/>
-        <updated>2022-07-24T07:15:59.404Z</updated>
-        <content type="html"><![CDATA[가수 원호(WONHO) 씨가 데뷔 후 첫 뮤지컬 '이퀄'을 호평 속에 마무리했다. 원호 씨는 지난 23일 오후 6시 서울 종로구 동숭동 유니플렉스 1관에서 열린 뮤지컬 '이퀄'의 테오 역을 맡아 마지막 공연을 펼쳤다]]></content>
     </entry>
 </feed>
