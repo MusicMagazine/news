@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 21:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 22:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하희라의 귀환, 14년만의 연극 ‘러브레터’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=220143</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=220143</guid>
+            <pubDate>Sun, 24 Jul 2022 22:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=220143">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220723081615_297b84e0e97d30e8a5985dbd27c67985.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=220143">하희라의 귀환, 14년만의 연극 ‘러브레터’</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220723081615_297b84e0e97d30e8a5985dbd27c67985.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[화보] 스테이씨, 동화 속 요정으로 변신 (매거진 보그)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=220149</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=217140">장윤정의 '트발',  “세련되게 트로트와 발라드를~"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220707075927_96bfd8d31ebd1f0c444fc0d242e0fd5b_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 류태호, 엘줄라이엔터테인먼트와 전속계약]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=216944</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=216944</guid>
-            <pubDate>Wed, 06 Jul 2022 11:14:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=216944">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220706082051_48a660413f8cd39b32ec598e4cb9cffb.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=216944">배우 류태호, 엘줄라이엔터테인먼트와 전속계약</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220706082051_48a660413f8cd39b32ec598e4cb9cffb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
