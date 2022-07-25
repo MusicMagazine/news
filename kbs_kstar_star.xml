@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 22:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 23:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신예 채수아, 웹드라마 '천재역술인 금태영' 캐스팅]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=220531</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=220531</guid>
+            <pubDate>Mon, 25 Jul 2022 23:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=220531">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220726072219_b4f514a46f8201969293413501b2150e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=220531">신예 채수아, 웹드라마 '천재역술인 금태영' 캐스팅</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220726072219_b4f514a46f8201969293413501b2150e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[B1A4 공찬 단독 팬미팅...전석 매진!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=220368</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=217305">'홍르망' 이홍기, 뮤지컬 ‘마타하리’ 아르망 열연</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220708100422_80113dfeb54b54e41456ec1b7f137642.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카드 전원, DSP미디어와 계속 함께 간다!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=217161</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=217161</guid>
-            <pubDate>Thu, 07 Jul 2022 01:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=217161">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220707095501_b781eeab6b9f31264566b7c13b53ff8f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=217161">카드 전원, DSP미디어와 계속 함께 간다!</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220707095501_b781eeab6b9f31264566b7c13b53ff8f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
