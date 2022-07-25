@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 11:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 12:31:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포토] 진, 귀여움 비상선언]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/355081</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/355081</guid>
+            <pubDate>Mon, 25 Jul 2022 12:30:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/355081">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/07/25/885169a2-3f66-4f98-9e22-52b4740f32d9.jpg" alt="[포토] 진, 귀여움 비상선언">        <div class="text-box">            <p class="summary">[포토] 진, 귀여움 비상선언</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/07/25/885169a2-3f66-4f98-9e22-52b4740f32d9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 마크, 코로나 확진…"단독 콘서트 불참" [공식입장]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/355049</link>
@@ -86,14 +94,6 @@
             <pubDate>Sun, 24 Jul 2022 03:37:58 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/354945">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/07/24/d9716d08-e799-413c-808f-d39633eea39b.jpg" alt="세븐틴, ‘_WORLD’ 안무 영상 공개...완벽+경쾌한 칼군무">        <div class="text-box">            <p class="summary">세븐틴, ‘_WORLD’ 안무 영상 공개...완벽+경쾌한 칼군무</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/07/24/d9716d08-e799-413c-808f-d39633eea39b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['도시어부4' 뱀뱀, 대광어 84cm 신기록→다음 주 2PM 이준호 출격 ‘옷소매’ 케미 기대 UP]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/354933</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/354933</guid>
-            <pubDate>Sun, 24 Jul 2022 03:37:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/354933">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/07/24/964ceff9-47ee-49dc-ab64-b0eca9c6139d.jpg" alt="'도시어부4' 뱀뱀, 대광어 84cm 신기록→다음 주 2PM 이준호 출격 ‘옷소매’ 케미 기대 UP">        <div class="text-box">            <p class="summary">'도시어부4' 뱀뱀, 대광어 84cm 신기록→다음 주 2PM 이준호 출격 ‘옷소매’ 케미 기대 UP</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/07/24/964ceff9-47ee-49dc-ab64-b0eca9c6139d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
