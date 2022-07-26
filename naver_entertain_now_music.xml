@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-07-26T16:22:13.874Z</updated>
+    <updated>2022-07-26T17:19:43.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫사랑, 타이틀곡 '첫사랑' MV 티저 공개…열일곱 소녀들의 청량함]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003629132</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003629132"/>
+        <updated>2022-07-26T17:19:28.438Z</updated>
+        <content type="html"><![CDATA[그룹 첫사랑(CSR)이 데뷔 기대감을 고조시켰다. 첫사랑(CSR)은 25일 공식 SNS를 통해 첫 번째 미니앨범 '시퀀스 : 7272(Sequence : 7272)'의 타이틀곡 '첫사랑 (Pop? Pop!)' 뮤직비]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[포토] 멋진녀석들 의연, '감탄을 부르는 멋진 모습']]></title>
         <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004729516</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004729493"/>
         <updated>2022-07-26T14:15:05.506Z</updated>
         <content type="html"><![CDATA[그룹 스테이씨 시은이 26일 오후 서울 상암동 SBS 프리즘타워에서 열린 SBS M '더쇼' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 스테이씨 세은, '귀여워~귀여워~']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004729492</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004729492"/>
-        <updated>2022-07-26T14:15:05.506Z</updated>
-        <content type="html"><![CDATA[그룹 스테이씨 세은이 26일 오후 서울 상암동 SBS 프리즘타워에서 열린 SBS M '더쇼' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
     </entry>
 </feed>
