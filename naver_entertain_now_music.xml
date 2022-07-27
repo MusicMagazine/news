@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-07-27T19:15:25.648Z</updated>
+    <updated>2022-07-27T20:18:23.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫사랑, K팝 최초 동갑내기 걸그룹의 시작 '첫사랑(Pop? Pop!)' [MD동영상]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003629685</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003629685"/>
+        <updated>2022-07-27T20:18:07.031Z</updated>
+        <content type="html"><![CDATA[걸그룹 첫사랑이 27일 오후 서울 용산구 마스터카드홀에서 진행된 첫 번째 미니앨범 '시퀀스 : 7272(Sequence : 7272)' 발매 기념 쇼케이스에서 타이틀곡 '첫사랑(Pop? Pop!)의 멋진 퍼포먼스를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['킹 오브 킹' 임영웅, 올 상반기만 376억원 돈방석…앨범 판매량만 262억원]]></title>
         <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000869185</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004730034"/>
         <updated>2022-07-27T14:16:27.254Z</updated>
         <content type="html"><![CDATA[김호정 아나운서가 27일 오후 서울 신촌동 연세대학교 백주년기념관콘서트홀에서 열린 그룹 ATBO(에이티비오) 데뷔 앨범 ‘The Beginning : 開花(더 비기닝 : 개화)’ 발매 기념 쇼케이스에서 사회를 보고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Never a Dull Moment’ 싱어송라이터 반엘, ‘기타’ 아닌 ‘키타’ 연주?]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000827908</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000827908"/>
-        <updated>2022-07-27T13:45:00.783Z</updated>
-        <content type="html"><![CDATA[실력파 뮤지션, 반엘이 아리랑TV ‘Never a Dull Moment’에서 수준급의 ‘키타’ 실력을 선보인다. 오는 28일 오후 1시 30분에 방송되는 ‘Never a Dull Moment’는 전 세계 팬들 새로운]]></content>
     </entry>
 </feed>
