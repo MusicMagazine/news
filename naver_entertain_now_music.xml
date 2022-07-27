@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-07-27T15:18:23.290Z</updated>
+    <updated>2022-07-27T16:22:10.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['킹 오브 킹' 임영웅, 올 상반기만 376억원 돈방석…앨범 판매량만 262억원]]></title>
+        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000869185</id>
+        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000869185"/>
+        <updated>2022-07-27T16:21:54.427Z</updated>
+        <content type="html"><![CDATA[가수 임영웅. 제공 | 물고기뮤직 가수 임영웅이 ‘2022년 상반기! 탑 티어급 매출을 올린 스타 베스트 10’에서 당당 1위에 등극했다. 27일 방송된 엠넷 ‘TMI NEWS SHOW’에서 올해 상반기 스타들의 매]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["흑백에서 컬러로"…ATBO, 똘똘 뭉쳐서 더 강렬하게(종합)]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000163470</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000827908"/>
         <updated>2022-07-27T13:45:00.783Z</updated>
         <content type="html"><![CDATA[실력파 뮤지션, 반엘이 아리랑TV ‘Never a Dull Moment’에서 수준급의 ‘키타’ 실력을 선보인다. 오는 28일 오후 1시 30분에 방송되는 ‘Never a Dull Moment’는 전 세계 팬들 새로운]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] ATBO 김연규, '멋진 모습에 눈길~']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004730033</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004730033"/>
-        <updated>2022-07-27T13:45:00.784Z</updated>
-        <content type="html"><![CDATA[그룹 ATBO(에이티비오) 김연규가 27일 오후 서울 신촌동 연세대학교 백주년기념관콘서트홀에서 열린 데뷔 앨범 ‘The Beginning : 開花(더 비기닝 : 개화)’ 발매 기념 쇼케이스에서 포토타임을 갖고 있다.]]></content>
     </entry>
 </feed>
