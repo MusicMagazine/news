@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-07-27T06:20:17.874Z</updated>
+    <updated>2022-07-27T07:17:17.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[T포토] 김민재 '천재의원 유세풍 입니다']]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001224061</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001224061"/>
+        <updated>2022-07-27T07:17:17.202Z</updated>
+        <content type="html"><![CDATA[배우 김민재가 27일 오후 온라인으로 진행된 tvN 새 월화드라마 ‘조선 정신과 의사 유세풍’(이하 ’유세풍’) 제작발표회에서 포즈를 취하고 있다. 시즌제로 제작되는 ‘조선 정신과 의사 유세풍’은 침 못 놓는 천재의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제니퍼 로페즈♥벤 애플렉, 달달한 파리 신혼여행 포착 [파파라치컷]]]></title>
         <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000608055</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000884321"/>
         <updated>2022-07-26T12:29:48.115Z</updated>
         <content type="html"><![CDATA[영화 '한산 용의 출현' VIP 시사회가 26일 오후 서울 송파구 신천동 롯데시네마 월드타워에서 열렸다. AOA 신혜정이 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오영수-김경화 '한산 VIP시사회 참석' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000884319</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000884319"/>
-        <updated>2022-07-26T12:29:48.116Z</updated>
-        <content type="html"><![CDATA[영화 '한산 용의 출현' VIP 시사회가 26일 오후 서울 송파구 신천동 롯데시네마 월드타워에서 열렸다. 배우 오영수, 김경화가 포토타임을 갖고 있다.]]></content>
     </entry>
 </feed>
