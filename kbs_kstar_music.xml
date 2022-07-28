@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 05:26:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 06:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴진스, 데뷔 앨범 ‘New Jeans’ 예약판매 돌풍]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=221063</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=221063</guid>
+            <pubDate>Thu, 28 Jul 2022 06:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=221063">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220728144337_da5d43b7e487c4de16f40ed9b1c6ecf1_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=221063">뉴진스, 데뷔 앨범 ‘New Jeans’ 예약판매 돌풍</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220728144337_da5d43b7e487c4de16f40ed9b1c6ecf1_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뮤비가 좋다] 수장 박재범...하이어뮤직의 변하지 않는 멋]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=220966</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=219713"> 진·지민·뷔·정국, 그리고 '베니 블랑코X스눕독' 특급 컬래버레이션</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220721104517_903e154c3f1fc185273f12b3e2c0b33e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["이번엔 기타맨" 김호중, 'PANORAMA' 콘셉트 포토]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=219702</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=219702</guid>
-            <pubDate>Thu, 21 Jul 2022 04:39:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=219702">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220721103358_9519ad45d8b2d33b657cd713d70a9466.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=219702">"이번엔 기타맨" 김호중, 'PANORAMA' 콘셉트 포토</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220721103358_9519ad45d8b2d33b657cd713d70a9466.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
