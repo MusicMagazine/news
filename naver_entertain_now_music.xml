@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-07-28T15:17:36.533Z</updated>
+    <updated>2022-07-28T16:24:34.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유키스 수현, 첫 솔로 앨범 '소주의 요정' 발표…무한 매력 예고]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001482099</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001482099"/>
+        <updated>2022-07-28T16:24:17.484Z</updated>
+        <content type="html"><![CDATA[그룹 유키스(U-KISS) 수현의 신곡 '소주의 요정' 뮤직비디오 티저 영상이 공개됐다. 소속사 탱고뮤직은 28일 공식 SNS를 통해 유키스 수현의 첫 번째 미니앨범 'COUNT ON ME'(카운트 온 미)의 타이틀]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["자유를 향한 외침"…에이티즈, 새로움이 주는 설렘(종합)]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000163803</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004730548"/>
         <updated>2022-07-28T10:17:05.671Z</updated>
         <content type="html"><![CDATA[그룹 에이티즈가 28일 오후 서울 군자동 세종대학교 대양홀에서 열린 신보 '더 월드 에피소드 1:무브먼트(THE WORLD EP.1:MOVEMENT)' 발매 쇼케이스에 참석해 질문에 답하고 있다. 홍중은 에이티즈의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['엠카' 첫사랑, 두근두근 설렘..17살 동갑 소녀들의 핫 데뷔]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003074913</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003074913"/>
-        <updated>2022-07-28T10:17:05.672Z</updated>
-        <content type="html"><![CDATA[걸 그룹 첫사랑(수아 금희 시현 서연 유나 두나 예함, CSR)이 데뷔 무대에서 두근거리는 설렘을 선사했다. 첫사랑은 28일 오후 방송된 Mnet 음악 프로그램 '엠 카운트다운'에 출연해 첫 번째 미니앨범 'Sequ]]></content>
     </entry>
 </feed>
