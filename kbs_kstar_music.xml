@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 06:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 07:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강다니엘 일본 활동  "8월 싱글, 10월 미니앨범 발표"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=221263</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=221263</guid>
+            <pubDate>Fri, 29 Jul 2022 07:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=221263">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220729151212_ec774518c11e0c558595d96f047c9f59.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=221263">강다니엘 일본 활동  "8월 싱글, 10월 미니앨범 발표"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220729151212_ec774518c11e0c558595d96f047c9f59.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[글로벌 걸그룹 있지, 미국 팝스타와 협업 '브레이크 마이 하트 마이셀프']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=221221</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=220223">투모로우바이투게더 ‘Valley of Lies’, 아이튠즈 차트 정상</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220724090917_9a640b97dcf08a7b40ca119f0ea1a06a_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김호중 ‘PANORAMA’ 타이틀곡 ‘주마등’, 사랑과 우정에 대한 잔상]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=220130</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=220130</guid>
-            <pubDate>Sat, 23 Jul 2022 03:28:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=220130">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220723080446_590227958656bce3aa26225f276ff773.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=220130">김호중 ‘PANORAMA’ 타이틀곡 ‘주마등’, 사랑과 우정에 대한 잔상</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220723080446_590227958656bce3aa26225f276ff773.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
