@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-07-29T04:48:08.565Z</updated>
+    <updated>2022-07-29T05:28:18.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홍콩 아이돌 콘서트 중 스크린 추락…댄서 1명 중태]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011334871</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011334871"/>
+        <updated>2022-07-29T05:28:17.838Z</updated>
+        <content type="html"><![CDATA[유다연 인턴 기자 = 홍콩의 인기 칸토팝 보이밴드 '미러(Mirror)'의 콘서트 도중 대형 스크린이 추락해 댄서 두명이 부상을 입었다. 28일(현지시간) AP통신 등 해외 매체는 "'미러'의 콘서트 도중 대형 비디]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍콩 아이돌 그룹 콘서트서 대형 스크린 추락 사고…1명 중태]]></title>
         <id>https://entertain.naver.com/now/read?oid=396&amp;aid=0000620150</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000884713"/>
         <updated>2022-07-28T03:40:44.902Z</updated>
         <content type="html"><![CDATA[싱어송라이터 서기의 새 디지털 싱글 '낮잠' 쇼케이스가 28일 오전 서울 용산구 한남동 블루스퀘어에서 열렸다. 서기가 쇼케이스를 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서기 '공감되는 가사' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000884711</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000884711"/>
-        <updated>2022-07-28T03:40:44.911Z</updated>
-        <content type="html"><![CDATA[싱어송라이터 서기의 새 디지털 싱글 '낮잠' 쇼케이스가 28일 오전 서울 용산구 한남동 블루스퀘어에서 열렸다. 서기가 포토타임을 갖고 있다.]]></content>
     </entry>
 </feed>
