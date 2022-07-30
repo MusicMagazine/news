@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-07-30T10:16:25.207Z</updated>
+    <updated>2022-07-30T11:15:12.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영탁의 ‘잠 못 이루는 밤’]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000828353</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000828353"/>
+        <updated>2022-07-30T11:14:56.955Z</updated>
+        <content type="html"><![CDATA[가수 영탁이 콘서트의 벅찬 감동으로 잠 못 이루는 밤을 노래했다. 영탁은 30일 자신의 사회관계망서비스(SNS)에 “자야 되는데, 꿈이 아니길.. 고마워요 내 사람들 탁쇼 출발”이라고 적고 사진과 함께 영상도 올렸다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[투모로우바이투게더 첫 월드투어…美 틴보그→컨시퀀스 '호평']]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001482711</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000828339"/>
         <updated>2022-07-30T07:15:30.281Z</updated>
         <content type="html"><![CDATA[걸그룹 블랙핑크(BLACKPINK)가 컴백 전 선보인 3D 아바타 뮤직비디오가 화제다. 블랙핑크는 지난 29일 오후 1시 경 ‘배틀그라운드 모바일’ 인게임 콘서트 스페셜 트랙인 ‘Ready For Love’(레디 포]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘찬또배기’ 이찬원, ‘참 좋은 날’ 음원 800만 스트리밍 돌파]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001482651</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001482651"/>
-        <updated>2022-07-30T06:17:34.985Z</updated>
-        <content type="html"><![CDATA[이찬원의 '참 좋은 날' 음원 영상이 800만 조회 수를 넘어섰다. '참 좋은 날'은 팬들을 생각하며 이찬원이 직접 작곡/작사에 참여한 팬송으로, 2021년 12월 9일 음원 영상이 게재되었다. 이 노래는 그의 단독]]></content>
     </entry>
 </feed>
