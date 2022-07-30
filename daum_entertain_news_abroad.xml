@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-07-30T06:17:51.176Z</updated>
+    <updated>2022-07-30T07:15:47.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윌 스미스, 크리스 록에 사과 영상 "내 행동 무책임했다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220730111249925</id>
+        <link href="https://entertain.v.daum.net/v/20220730111249925"/>
+        <updated>2022-07-30T07:15:21.631Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;배우 윌 스미스가 코미디언 겸 배우 크리스 록을 공개 폭행했던 것을 사과했다. 앞서 사과문을 통해 한차례 사과했던 바. 이번에는 영상을 통해 다시 한 번 사죄하는 마음을 전달했다. 윌 스미스는 지난 29일(한국 시간) 자신의 인스타그램에 동영상을 올리며 “크리스 록에게 연락을 취했는데 그는 내게 ‘얘기할 생각이 없다’고 하더라.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[58살 브래드 피트 "예술가와 연애중", 6명의 자녀들과도 잘 지내]]></title>
         <id>https://entertain.v.daum.net/v/20220730060704979</id>
@@ -32,12 +39,5 @@
         <link href="https://entertain.v.daum.net/v/20220729165901725"/>
         <updated>2022-07-29T08:20:30.683Z</updated>
         <content type="html"><![CDATA[[TV리포트=박설이 기자]홍콩 보이그룹 미러 콘서트 중 대형 모니터가 떨어져 댄서 2명이 다치는 사건이 벌어졌다. 그런데, 공연장에서의 안전사고가 처음이 아니었다. 28일 홍콩 홍관에서 열린 미러의 콘서트 중 공중에 매달려있던 가로 4m, 세로 4m, 무게 600kg에 달하는 초대형 스크린이 추락하는 사고가 발생했다. 현지 매체에 따르면 두 피해자 중 중상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍콩 아이돌 공연 중 대형 전광판 추락..댄서 2명 중상]]></title>
-        <id>https://entertain.v.daum.net/v/20220729153440238</id>
-        <link href="https://entertain.v.daum.net/v/20220729153440238"/>
-        <updated>2022-07-29T07:13:59.304Z</updated>
-        <content type="html"><![CDATA[[OSEN=지민경 기자]&nbsp; 홍콩 인기 아이돌 MIRROR의 콘서트 도중 대형 전광판이 무대로 떨어지는 사고가 발생했다. 29일 중국 매체 시나연예 보도에 따르면 지난 28일 12인조 아이돌 그룹 MIRROR은 홍콩의 한 체육관에서 콘서트를 개최했고, 공연 도중 줄에 매달려 있던 600kg에 달하는 대형 스크린이 무대 위로 떨어졌다. 이 사고로 두 명의]]></content>
     </entry>
 </feed>
