@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-07-30T12:24:11.936Z</updated>
+    <updated>2022-07-30T13:25:33.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[동방신기, 日 신곡 ‘우츠로이’ 31일 선공개...8월 17일 새 싱글 발매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000885241</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000885241"/>
+        <updated>2022-07-30T13:25:17.129Z</updated>
+        <content type="html"><![CDATA[동방신기의 일본 신곡 ‘UTSUROI’(우츠로이)가 31일 베일을 벗는다. 동방신기는 7월 31일 0시 한국과 일본을 비롯한 각종 글로벌 음악 플랫폼을 통해 새 싱글 타이틀 곡 ‘UTSUROI’ 음원을 선공개할 예정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영탁의 ‘잠 못 이루는 밤’]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000828353</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003577383"/>
         <updated>2022-07-30T07:15:30.280Z</updated>
         <content type="html"><![CDATA[윌 스미스가 아카데미 시상식에서 코미디언 크리스 록을 폭행했던 일을 정식으로 사과했다. 30일(한국시간) 배우 윌 스미스는 자신의 인스타그램을 통해 5분 44초 분량의 긴 사과 영상을 게재했다. 공개된 영상 속에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙핑크, 메타버스 점령하다]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000828339</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000828339"/>
-        <updated>2022-07-30T07:15:30.281Z</updated>
-        <content type="html"><![CDATA[걸그룹 블랙핑크(BLACKPINK)가 컴백 전 선보인 3D 아바타 뮤직비디오가 화제다. 블랙핑크는 지난 29일 오후 1시 경 ‘배틀그라운드 모바일’ 인게임 콘서트 스페셜 트랙인 ‘Ready For Love’(레디 포]]></content>
     </entry>
 </feed>
