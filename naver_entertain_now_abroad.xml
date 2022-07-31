@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-07-31T14:13:41.783Z</updated>
+    <updated>2022-07-31T15:16:49.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사실은 카일리 제너보다 너무한 테일러 스위프트[할리웃통신]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001224351</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001224351"/>
+        <updated>2022-07-31T15:16:48.567Z</updated>
+        <content type="html"><![CDATA[미국의 팝스타 테일러 스위프트가 2022년 한 해 가장 많은 탄소를 배출한 스타라는 오명을 썼다. 지난 29일(현지시간) 데일리 메일 등 해외 매체들은 마케팅 회사 야드가 조사한 올해 가장 많은 이산화탄소를 배출한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“폭행은 용납될 수 없는 것” 윌 스미스, 크리스 록에 공개사과[할리웃통신]]]></title>
         <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001224337</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=052&amp;aid=0001770372"/>
         <updated>2022-07-29T09:16:38.853Z</updated>
         <content type="html"><![CDATA[홍콩 아이돌 그룹 미러의 콘서트 도중 대형 스크린이 추락하는 사고가 발생해 세간의 충격을 자아냈다. 29일 홍콩 현지 매체들에 따르면 지난 28일 홍콩 콜로세움에서 개최된 미러의 콘서트에서 대형 스크린이 무대 위로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍콩 아이돌 콘서트 중 대형 스크린 추락 사고…댄서 1명 중태]]></title>
-        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000869792</id>
-        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000869792"/>
-        <updated>2022-07-29T09:16:38.856Z</updated>
-        <content type="html"><![CDATA[홍콩의 보이밴드 ‘미러’(Mirror)의 콘서트 도중 대형 스크린이 추락하는 사고가 발생했다. 29일 홍콩의 한 매체에 따르면 지난 28일 홍콩 콜로세움에서 열린 미러의 콘서트에서 대형 스크린이 무대 위로 추락하는]]></content>
     </entry>
 </feed>
