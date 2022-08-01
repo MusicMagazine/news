@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-08-01T13:43:19.143Z</updated>
+    <updated>2022-08-01T14:17:33.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘열린음악회’ 이수영, 감성과 가창력으로 채운 무대]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000828656</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000828656"/>
+        <updated>2022-08-01T14:17:19.491Z</updated>
+        <content type="html"><![CDATA[가수 이수영이 객석을 감성으로 물들였다. 이수영은 지난달 31일 방송된 KBS1 ‘열린음악회’에 출연해 황홀한 라이브를 선사했다. 이수영은 ‘광화문 연가’를 첫 곡으로 불렀다. 애절하고도 감미로운 목소리로 무대를 꽉]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“첫 음반, 쿠키 같은 선물 되길”…뉴진스 ‘Cookie’ MV 공개]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000885460</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001483462"/>
         <updated>2022-08-01T09:19:00.454Z</updated>
         <content type="html"><![CDATA['민희진 걸그룹' 뉴진스(NewJeans)가 '쿠키' 굽는 마음으로 준비한 데뷔 앨범의 음원을 발표했다. 오늘(1일) 뉴진스(민지, 다니엘, 하니, 해린, 혜인)의 첫 번째 미니앨범 'New Jeans'음원이 각종]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[방송소식] 박재범·더콰이엇, 엠넷 '쇼미더머니11' 프로듀서]]></title>
-        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013348351</id>
-        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013348351"/>
-        <updated>2022-08-01T09:19:00.458Z</updated>
-        <content type="html"><![CDATA[JTBC 새 예능 '두 번째 세계'…폴킴 MC 오명언 기자 김우진 인턴기자 = ▲ 박재범·더콰이엇, 엠넷 '쇼미더머니11' 프로듀서 = 엠넷은 힙합 오디션 프로그램 '쇼미더머니11' 프로듀서 라인업을 1일 공개했다.]]></content>
     </entry>
 </feed>
