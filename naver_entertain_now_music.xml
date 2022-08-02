@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-08-02T13:39:33.306Z</updated>
+    <updated>2022-08-02T14:16:44.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김호중, 클래식 정규 2집 초동 70만장 육박…트바로티 또 통했다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000870778</id>
+        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000870778"/>
+        <updated>2022-08-02T14:16:27.947Z</updated>
+        <content type="html"><![CDATA[가수 김호중이 막강한 음반 파워를 자랑했다. 2일 국내 음반 판매량 집계 사이트 한터차트에 따르면, 김호중은 지난달 27일 발매한 클래식 정규 2집 ‘PANORAMA’(파노라마)로 초동 판매량(집계 기준 7월 27일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김호중, 클래식 2집 초동 70만 장 육박... 트바로티 화력 증명[공식]]]></title>
         <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001224539</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003631228"/>
         <updated>2022-08-02T09:15:12.468Z</updated>
         <content type="html"><![CDATA[걸그룹 퍼플키스(PURPLE KISS)가 다채로운 매력을 드러냈다. 퍼플키스(박지은, 나고은, 도시, 이레, 유키, 채인, 수안)는 지난 1일 공식 SNS를 통해 네 번째 미니앨범 '기키랜드(Geekyland)' 인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비티파크' 크래비티, '레이트 나이트' 어쿠스틱 완곡…왜?]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011341422</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011341422"/>
-        <updated>2022-08-02T09:15:12.469Z</updated>
-        <content type="html"><![CDATA[김주희 인턴 기자 = 그룹 크래비티(CRAVITY)가 유쾌한 케미를 자랑했다. 크래비티는 지난 1일 공식 SNS를 통해 '크래비티 파크(CRAVITY PARK) EP.65 힐링 특집 2 | 시즌 5(SEASON 5)]]></content>
     </entry>
 </feed>
