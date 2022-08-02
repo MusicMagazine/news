@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-08-02T10:19:45.935Z</updated>
+    <updated>2022-08-02T11:14:14.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박봄-헤이즈→예린 '싱포레스트' 26일 첫 방송]]></title>
+        <id>https://entertain.v.daum.net/v/20220802195153564</id>
+        <link href="https://entertain.v.daum.net/v/20220802195153564"/>
+        <updated>2022-08-02T11:13:38.566Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 박봄-헤이즈→예린 ‘싱포레스트’ 26일 첫 방송 [공식] SBS 감성 리메이크 뮤직쇼 '싱포레스트'가 26일 찾아온다. '싱포레스트'는 MZ세대를 대표하는 뮤지션들이 1980년대부터 2000년대에 이르는 명곡을 요즘 감성으로 재조명하는 힐링 음악 프로그램이다. 걸그룹 2NE1 출신 박봄을 비롯해 발라드 세손 정승환, 헤이즈, 김필 등이 합류했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중국 간 제시카 걸그룹 재데뷔..센터는 실패]]></title>
         <id>https://entertain.v.daum.net/v/20220802191741654</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220802155951723"/>
         <updated>2022-08-02T07:16:33.686Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 가수 성시경 공연이 9월에도 찾아온다. 성시경은 오는 9월 3일, 4일 양일간 서울 장충체육관에서 ‘2022 성시경 with friends [자, 오늘은]’을 개최한다. 해당 공연에서는 양희은, 장필순, 장혜진, 한동준, 김조한, 하림, 나윤권, 정승환 등 명품 가수들과 어디서도 볼 수 없는 무대를 선보일 예정이다. 이번 명품 라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[괴물신인 탄생..뉴진스, 데뷔곡 'Attention' 벅스 일간차트 1위]]></title>
-        <id>https://entertain.v.daum.net/v/20220802155938680</id>
-        <link href="https://entertain.v.daum.net/v/20220802155938680"/>
-        <updated>2022-08-02T07:16:33.686Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 어도어 그룹 뉴진스(NewJeans)가 음원 발매 6시간 만에 국내 일간 음원 차트 1위에 올랐다. 뉴진스(민지, 하니, 다니엘, 해린, 혜인)는 8월 1일 오후 6시 데뷔 앨범 ‘New Jeans’ 음원을 발표했다. 이번 음반에 수록된 ‘Attention’, ‘Hype Boy’, ‘Cookie’, ‘Hurt’ 등 4곡 모두 1일]]></content>
     </entry>
 </feed>
