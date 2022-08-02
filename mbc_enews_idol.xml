@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 11:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 12:34:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포토] 진, '찐 파이팅~!']]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/355872</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/355872</guid>
+            <pubDate>Tue, 02 Aug 2022 12:33:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/355872">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/08/02/f864b78c-f79f-47f5-9c25-082d296b2525.jpg" alt="[포토] 진, '찐 파이팅~!'">        <div class="text-box">            <p class="summary">[포토] 진, '찐 파이팅~!'</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/08/02/f864b78c-f79f-47f5-9c25-082d296b2525.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[포토] 뉴진스 혜린, '귀여운 앞머리']]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/355859</link>
@@ -86,14 +94,6 @@
             <pubDate>Tue, 02 Aug 2022 05:42:39 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/355825">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/08/02/d0c1de2c-5487-4c1f-8187-d90e565ea238.jpg" alt="엑디즈 건일 " 어떤="" 상황에서도="" 당황하지="" 않고="" 연주하려고="" 안대="" 쓰고="" 합주="" 연습"="" (정희)"="">        <div class="text-box">            <p class="summary">엑디즈 건일 "어떤 상황에서도 당황하지 않고 연주하려고 안대 쓰고 합주 연습" (정희)</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/08/02/d0c1de2c-5487-4c1f-8187-d90e565ea238.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엑디즈 건일 "엑디즈는 짙은 파랑, 박진영 PD님이 천천히 멀리 보라고 말씀" (정희)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/355823</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/355823</guid>
-            <pubDate>Tue, 02 Aug 2022 05:42:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/355823">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/08/02/14bf90ec-cf66-48a3-972f-2eb7fc83302b.jpg" alt="엑디즈 건일 " 엑디즈는="" 짙은="" 파랑,="" 박진영="" pd님이="" 천천히="" 멀리="" 보라고="" 말씀"="" (정희)"="">        <div class="text-box">            <p class="summary">엑디즈 건일 "엑디즈는 짙은 파랑, 박진영 PD님이 천천히 멀리 보라고 말씀" (정희)</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/08/02/14bf90ec-cf66-48a3-972f-2eb7fc83302b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
