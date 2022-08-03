@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-08-03T16:23:16.854Z</updated>
+    <updated>2022-08-03T17:19:23.889Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단, '퍼미션 투 댄스' 日 오리콘 누적 재생수 3억회 돌파]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003631904</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003631904"/>
+        <updated>2022-08-03T17:19:07.659Z</updated>
+        <content type="html"><![CDATA[그룹 방탄소년단의 '퍼미션 투 댄스(Permission to Dance)'가 다시 한번 일본에서 뜨거운 인기를 입증했다. 3일 오리콘이 발표한 최신 차트(8월 8일 자/집계기간 : 7월 25일~31일)에 따르면, 방]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박진영 JYP, ESG 보고서 발간…"국내 엔터사 처음"]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011343743</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004732690"/>
         <updated>2022-08-03T15:18:14.120Z</updated>
         <content type="html"><![CDATA[그룹 첫사랑(CSR) 수아가 3일 오후 경기도 고양시 MBC 드림센터에서 열린 MBC M '쇼 챔피언' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 첫사랑 서연, '뾰로통한 표정이 사랑스러워~']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004732689</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004732689"/>
-        <updated>2022-08-03T15:18:14.121Z</updated>
-        <content type="html"><![CDATA[그룹 첫사랑(CSR) 서연이 3일 오후 경기도 고양시 MBC 드림센터에서 열린 MBC M '쇼 챔피언' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
     </entry>
 </feed>
