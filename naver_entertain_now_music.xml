@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-08-03T19:15:27.458Z</updated>
+    <updated>2022-08-03T20:18:48.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최예나, 청량 서머퀸으로 돌아왔다 '스마트폰(SMARTPHONE)' [MD동영상]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003631920</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003631920"/>
+        <updated>2022-08-03T20:18:32.549Z</updated>
+        <content type="html"><![CDATA[가수 최예나(YENA)가 3일 오후 서울 광진구 예스24라이브홀에서 진행된 두 번째 미니앨범 '스마트폰(SMARTPHONE)' 발매 기념 미디어 쇼케이스에서 타이틀곡 '스마트폰(SMARTPHONE)'의 멋진 퍼포먼스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단, '퍼미션 투 댄스' 日 오리콘 누적 재생수 3억회 돌파]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003631904</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004732691"/>
         <updated>2022-08-03T15:18:14.119Z</updated>
         <content type="html"><![CDATA[그룹 첫사랑(CSR) 두나가 3일 오후 경기도 고양시 MBC 드림센터에서 열린 MBC M '쇼 챔피언' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 첫사랑 수아, '싱그러운 미소~']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004732690</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004732690"/>
-        <updated>2022-08-03T15:18:14.120Z</updated>
-        <content type="html"><![CDATA[그룹 첫사랑(CSR) 수아가 3일 오후 경기도 고양시 MBC 드림센터에서 열린 MBC M '쇼 챔피언' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
     </entry>
 </feed>
