@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-08-03T15:18:29.055Z</updated>
+    <updated>2022-08-03T16:23:16.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박진영 JYP, ESG 보고서 발간…"국내 엔터사 처음"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011343743</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011343743"/>
+        <updated>2022-08-03T16:22:57.818Z</updated>
+        <content type="html"><![CDATA[JYP엔터테인먼트(이하 JYP)가 국내 엔터테인먼트사 중 처음으로 ESG 보고서를 발간했다고 3일 밝혔다. ESG는 기업의 비재무적 요소인 환경(Environment), 사회(Social), 지배 구조(Governa]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["지금 입문해도 충분"…최예나, 청량+해피 '게임 히어로'(종합)]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000164893</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004732689"/>
         <updated>2022-08-03T15:18:14.121Z</updated>
         <content type="html"><![CDATA[그룹 첫사랑(CSR) 서연이 3일 오후 경기도 고양시 MBC 드림센터에서 열린 MBC M '쇼 챔피언' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 첫사랑 두나, '귀여운 미소']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004732688</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004732688"/>
-        <updated>2022-08-03T15:18:14.123Z</updated>
-        <content type="html"><![CDATA[그룹 첫사랑(CSR) 두나가 3일 오후 경기도 고양시 MBC 드림센터에서 열린 MBC M '쇼 챔피언' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
     </entry>
 </feed>
