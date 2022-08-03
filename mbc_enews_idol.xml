@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 22:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 23:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[차은우, 보석보다 반짝이는 비주얼 [화보]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/355997</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/355997</guid>
+            <pubDate>Wed, 03 Aug 2022 23:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/355997">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/08/04/0d3e71f8-a7c7-42ce-924c-b6b5b5210818.jpg" alt="차은우, 보석보다 반짝이는 비주얼 [화보]">        <div class="text-box">            <p class="summary">차은우, 보석보다 반짝이는 비주얼 [화보]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/08/04/0d3e71f8-a7c7-42ce-924c-b6b5b5210818.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[포토] 최예나, '오늘~도~ 난 귀딱하게~']]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/355981</link>
@@ -86,14 +94,6 @@
             <pubDate>Wed, 03 Aug 2022 08:22:02 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/355971">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/08/03/f57b9bfe-54e0-42fa-aea2-c05bd96b5524.jpg" alt="[포토] 최예나, '스마트폰' 포인트 안무~">        <div class="text-box">            <p class="summary">[포토] 최예나, '스마트폰' 포인트 안무~</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/08/03/f57b9bfe-54e0-42fa-aea2-c05bd96b5524.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 최예나, 여러분의 '스마트폰'이 되고파!]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/355970</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/355970</guid>
-            <pubDate>Wed, 03 Aug 2022 07:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/355970">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/08/03/5b06e9c3-63b9-4f8f-b79f-b7a29e9b66f6.jpg" alt="[포토] 최예나, 여러분의 '스마트폰'이 되고파!">        <div class="text-box">            <p class="summary">[포토] 최예나, 여러분의 '스마트폰'이 되고파!</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/08/03/5b06e9c3-63b9-4f8f-b79f-b7a29e9b66f6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
