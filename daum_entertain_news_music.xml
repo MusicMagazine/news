@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-08-04T16:23:21.709Z</updated>
+    <updated>2022-08-04T17:25:49.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['청춘스타' 아이돌파 최종우승, 김푸름 2위]]></title>
+        <id>https://entertain.v.daum.net/v/20220805015920709</id>
+        <link href="https://entertain.v.daum.net/v/20220805015920709"/>
+        <updated>2022-08-04T17:25:18.418Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김종은 기자] '청춘스타'에서 아이돌파가 최종 우승을 차지했다. 4일 밤 방송된 채널A 예능프로그램 '청춘스타'에서는 파란만장했던 서사의 대미를 장식할 파이널 무대가 생방송으로 펼쳐졌다. 이날 파이널 무대는 1차전 '나의 스타'와 2차전 '나의 청춘'을 콘셉트로 두 번으로 나뉘어 진행됐다. 점수 산정 방식도 공개됐다. 최종 우승자는 엔젤뮤]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국가부' 손승연·유주, 100점 무대로 팀 승리 이끌어]]></title>
         <id>https://entertain.v.daum.net/v/20220805000710135</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220804185726422"/>
         <updated>2022-08-04T10:17:16.536Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 빅스 레오의 새 앨범 트랙리스트가 공개됐다. 레오는 8월 4일 공식 SNS를 통해 세 번째 미니앨범 ‘PIANO MAN Op.9’의 트랙리스트를 공개했다. 레오의 이번 새 앨범에는 타이틀곡 ‘Losing game’을 비롯해 ‘Beautiful Love’, ‘So easy’, ‘Chilling’, ‘Blue Rain’까지 총 다섯 곡]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김재환 김준수→아이키 정승환 '리슨어게인 페스티벌' 합류]]></title>
-        <id>https://entertain.v.daum.net/v/20220804182651687</id>
-        <link href="https://entertain.v.daum.net/v/20220804182651687"/>
-        <updated>2022-08-04T10:17:16.540Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] ‘리슨어게인 페스티벌 2022’가 2차 라인업이 공개됐다. 최근 공개된 ‘리슨어게인 페스티벌 2022’가 2차 라인업에는 퓨전 국악 밴드 AUX, 국악계의 아이돌 김준수, 계속해서 듣고 싶은 목소리의 주인공 김재환, 크로스오버 그룹 라포엠, 팬심을 훔치는 댄스 크루 훅(HOOK)과 아이키, 감성 보이스 장인 정승환, 정통 헤비메탈]]></content>
     </entry>
 </feed>
