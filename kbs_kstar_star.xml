@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 11:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 12:29:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꽃중년의 미소...배우 박희순의 순한맛 매력]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=222380</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=222380</guid>
+            <pubDate>Fri, 05 Aug 2022 12:28:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=222380">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220805101324_6d47378885e36d8f147cade3f31471d4.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=222380">꽃중년의 미소...배우 박희순의 순한맛 매력</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220805101324_6d47378885e36d8f147cade3f31471d4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["교황 베네딕토 16세, 교황 프란치스코" 연극 '두 교황' 스페셜 포스터]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=222211</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=220596">[책] 에드워드 애슈턴 SF '미키7' , 봉준호 감독 차기작 원작소설</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220726101102_e4869bc4739d7b58089f3552f71b26e8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[화보] 데뷔 9주년 정해인만의 매거진 발행! '팀 정 해 인']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=220580</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=220580</guid>
-            <pubDate>Tue, 26 Jul 2022 05:38:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=220580">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220726094740_2fbfa4f712176e11cdcb85c44833aa96.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=220580">[화보] 데뷔 9주년 정해인만의 매거진 발행! '팀 정 해 인'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220726094740_2fbfa4f712176e11cdcb85c44833aa96.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
