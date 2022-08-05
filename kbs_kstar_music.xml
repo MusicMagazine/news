@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 22:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 23:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트와이스, 새 앨범 'BETWEEN 1&2' 타이틀곡 'Talk that Talk']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=222513</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=222513</guid>
+            <pubDate>Fri, 05 Aug 2022 23:14:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=222513">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220806071433_4efb8ccf8330c53a2539dc187b884934.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=222513">트와이스, 새 앨범 'BETWEEN 1&amp;2' 타이틀곡 'Talk that Talk'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220806071433_4efb8ccf8330c53a2539dc187b884934.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴진스, 더현대 팝업 스토어 오픈]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=222486</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=221555">슈퍼주니어 3년 만의 월드투어, 태국 방콕 'SUPER SHOW 9'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220801072743_c6fe8542c76cf9b72fc4f990f4fe042d_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[걸그룹 트라이비, ‘LEVIOSA’ 콘셉트 포토]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=221383</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=221383</guid>
-            <pubDate>Sun, 31 Jul 2022 23:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=221383">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220730163731_fca197211c6df102388549015f3b0674.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=221383">걸그룹 트라이비, ‘LEVIOSA’ 콘셉트 포토</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220730163731_fca197211c6df102388549015f3b0674.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
