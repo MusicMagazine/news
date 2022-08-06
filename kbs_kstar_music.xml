@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Aug 2022 06:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 07:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진·지민·뷔·정국X베니 블랑코 ‘Bad Decisions’, 글로벌 인기]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=222547</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=222547</guid>
+            <pubDate>Sat, 06 Aug 2022 07:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=222547">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220806083314_992f765b9492f6b58875d4969d30b412_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=222547">진·지민·뷔·정국X베니 블랑코 ‘Bad Decisions’, 글로벌 인기 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220806083314_992f765b9492f6b58875d4969d30b412_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트와이스, 새 앨범 'BETWEEN 1&2' 타이틀곡 'Talk that Talk']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=222513</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=221591">[콘서트] 첫 단독 콘서트, JUST B의 폭넓은 콘셉트 소화력</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220801083504_9fa6f73b981a7ec2b1c63f5dcb286385.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼주니어 3년 만의 월드투어, 태국 방콕 'SUPER SHOW 9']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=221555</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=221555</guid>
-            <pubDate>Sun, 31 Jul 2022 23:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=221555">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220801072743_c6fe8542c76cf9b72fc4f990f4fe042d_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=221555">슈퍼주니어 3년 만의 월드투어, 태국 방콕 'SUPER SHOW 9'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220801072743_c6fe8542c76cf9b72fc4f990f4fe042d_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
