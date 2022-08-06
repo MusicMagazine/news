@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-08-06T17:17:02.256Z</updated>
+    <updated>2022-08-06T18:19:50.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이랑·비비·황소윤…'펜타포트' 둘째날은 2030 여성 서사]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011348454</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011348454"/>
+        <updated>2022-08-06T18:19:36.829Z</updated>
+        <content type="html"><![CDATA[이랑(36), 비비(BIBI·김형서·24), 우효(29), 미셸 자우너(33)가 이끄는 재패니즈 브렉퍼스트(Japanese Breakfast), 황소윤(25)이 프런트 퍼슨으로 있는 '새소년'…. 6일 오후 인천 송]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['재패니즈 브렉퍼스트' 미셸 자우너, 무대로 연주한 生]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011348428</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000612391"/>
         <updated>2022-08-06T09:14:42.103Z</updated>
         <content type="html"><![CDATA[BAE173(비에이이일칠삼)이 컴백을 앞두고 새 앨범 'ODYSSEY:DaSH(오디세이 대시)’ 콘셉트 포토 A버전을 공개했다. 8월 6일 BAE173(제이민·한결·유준·무진·준서·영서·도하·빛·도현)은 공식 SNS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BAE173, 형형색색 헤어 컬러로 과감한 변신]]></title>
-        <id>https://entertain.naver.com/now/read?oid=408&amp;aid=0000163507</id>
-        <link href="https://entertain.naver.com/now/read?oid=408&amp;aid=0000163507"/>
-        <updated>2022-08-06T09:14:42.103Z</updated>
-        <content type="html"><![CDATA[BAE173(비에이이일칠삼)의 새 앨범 'ODYSSEY:DaSH(오디세이 대시)’ 콘셉트 포토 A버전이 공개됐다. 6일 BAE173(제이민·한결·유준·무진·준서·영서·도하·빛·도현)은 공식 SNS에 네 번째 미니앨범]]></content>
     </entry>
 </feed>
