@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-08-07T14:15:26.355Z</updated>
+    <updated>2022-08-07T15:15:42.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[잔나비의 '사과 없는 사과문'…"한놈만 제끼면 돼" 발언 논란ing [종합]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001485993</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001485993"/>
+        <updated>2022-08-07T15:15:25.518Z</updated>
+        <content type="html"><![CDATA[공연 중 발언으로 여론의 뭇매를 맞은 밴드 잔나비(최정훈, 김도형, 장경준)가 사과 후에도 쓴소리를 듣고 있다. 잔나비는 지난 6일 2022 펜타포트 락 페스티벌 무대에 올랐다. 잔나비는 서브 헤드라이너였으며, 이날]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘인천펜타포트 락페스티벌 2022’  헤드라이너 뱀파이어 위켄드 흥겨운 무대 펼쳐]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000829704</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003077268"/>
         <updated>2022-08-07T09:16:03.564Z</updated>
         <content type="html"><![CDATA[그룹 골든차일드(Golden Child)가 새 앨범 프리뷰 영상으로 컴백 초읽기에 돌입했다. 소속사 울림엔터테인먼트는 지난 6일 오후 6시 공식 SNS 및 유튜브 채널을 통해 골든차일드(최보민, 홍주찬, 김동현, 김]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송가인, 부산 찢고 광주로]]></title>
-        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001224968</id>
-        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001224968"/>
-        <updated>2022-08-07T09:16:03.565Z</updated>
-        <content type="html"><![CDATA[가수 송가인이 부산에 이어 광주 콘서트로 관객들과 만난다. 송가인은 지난 6일 개최된 ‘2022 전국투어 연가(戀歌)’ 부산 콘서트 무대에 올라 신 트로트퀸의 존재감을 발산했다. 이번 무대엔 송가인의 친오빠 조성재가]]></content>
     </entry>
 </feed>
