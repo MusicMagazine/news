@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-08-07T12:25:30.180Z</updated>
+    <updated>2022-08-07T13:26:06.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[있지(ITZY), 'JYP 걸그룹 왕관' 견딜 거라 믿지(MIDZY)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011349421</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011349421"/>
+        <updated>2022-08-07T13:25:52.574Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 6~7일 SK올림픽핸드볼경기장서 첫 단독 콘서트 월드 투어 '체크메이트' 포문 [서울=뉴시스]이재훈 기자 = 그 유명한 어깨춤으로 시작하는 '워너비(WANNABE)', 데뷔곡 '달라달라', 차트 성적에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["나이 들어도 마음은 소년"…더보이즈, 첫 월투로 이룬 성장 (엑's 현장)[종합]]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001485959</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000871891"/>
         <updated>2022-08-07T09:16:03.566Z</updated>
         <content type="html"><![CDATA[그룹 있지(ITZY)가 자신감 넘치게 첫 월드투어의 포문을 열었다. 있지(예지, 리아, 류진, 채령, 유나)의 첫 월드투어 ‘체크메이트’(CHECKMATE)가 7일 오후 5시 서울 올림픽공원 SK 올림픽 핸드볼경기장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["한놈만 제끼면 돼" 잔나비 실언→논란에 사과 "흥분에 못 이겨" [전문]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001485919</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001485919"/>
-        <updated>2022-08-07T09:16:03.568Z</updated>
-        <content type="html"><![CDATA[밴드 잔나비(최정훈, 김도형, 장경준)가 공연 중 발언으로 논란에 휩싸인 가운데, 사과문을 올렸다. 잔나비는 7일 공식 인스타그램에 "어제 펜타포트 락 페스티벌 공연 중 발언에 대해 말씀드린다"며 "꿈에 그리던 무대]]></content>
     </entry>
 </feed>
