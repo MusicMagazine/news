@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 01:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 03:39:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[콘서트] 엔플라잉 단독 콘서트..."함께 무대를 즐기며 힐링하셨으면"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=222848</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=222848</guid>
+            <pubDate>Mon, 08 Aug 2022 03:37:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=222848">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220808110342_885c3cc3b0622647ba13814d29c23b42.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=222848">[콘서트] 엔플라잉 단독 콘서트..."함께 무대를 즐기며 힐링하셨으면"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220808110342_885c3cc3b0622647ba13814d29c23b42.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 8월 19일 컴백 확정...신곡 제목 '핑크 베놈']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=222805</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=221794">뉴진스 데뷔곡  ‘Attention’, 음원 차트 점령</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220802083238_cacd12036d8982eb7fd5d4c051f6aaaf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세븐틴, 음악방송 4관왕... 청량틴의 진가 입증!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=221628</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=221628</guid>
-            <pubDate>Mon, 01 Aug 2022 01:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=221628">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220801094411_14bf1b857385d551e8d39184f2dd8869_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=221628">세븐틴, 음악방송 4관왕... 청량틴의 진가 입증!</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220801094411_14bf1b857385d551e8d39184f2dd8869_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
