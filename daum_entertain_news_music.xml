@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-08-08T20:19:21.647Z</updated>
+    <updated>2022-08-08T21:16:03.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[돌아온 뮤직 페스티벌, 이열치열 8월 불태운다]]></title>
+        <id>https://entertain.v.daum.net/v/20220809060105210</id>
+        <link href="https://entertain.v.daum.net/v/20220809060105210"/>
+        <updated>2022-08-08T21:15:30.314Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 정하은기자]30도가 넘는 폭염도, 쏟아지는 폭우도 페스티벌의 열기를 막을 순 없었다. ‘페스티벌의 계절’ 여름의 절정인 8월, 코로나19로 인한 3년간의 체증을 해소할 뮤직 페스티벌이 줄지어 열리고 있다. 지난 5~7일 인천 송도 달빛축제공원에서 열린 ‘2022 인천 펜타포트 록 페스티벌’에는 3일 간 13만명에 이르는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[있지, 첫 월드투어 서울 콘서트 성황.. '달라달라'부터 '스니커즈'까지 히트곡 총망라]]></title>
         <id>https://entertain.v.daum.net/v/20220809014744466</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220808183018065"/>
         <updated>2022-08-08T10:18:49.592Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 그룹 골든차일드(Golden Child)가 강렬한 신곡 '리플레이'로 컴백했다. 골든차일드의 여섯 번째 미니 앨범 '아우라(AURA)'의 발매 기념 미디어 쇼케이스가 8일 오후 서울시 광진구 예스24 라이브홀에서 진행됐다. '아우라'는 골든차일드가 10개월 만에 공개하는 앨범으로,&nbsp;강렬하고 섹시한 매력과 지금껏 보여주지 않은 색]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBS 측 "최백호, 김호중 추석특집쇼 게스트? 최종 협의 중"]]></title>
-        <id>https://entertain.v.daum.net/v/20220808182109767</id>
-        <link href="https://entertain.v.daum.net/v/20220808182109767"/>
-        <updated>2022-08-08T10:18:49.593Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 윤성열 기자] /사진=SBS, 스타뉴스 SBS가 '김호중의 한가위 판타지아'에 가수 최백호의 게스트 출연을 놓고 논의 중이다. SBS 측 관계자는 8일 스타뉴스에 "'김호중의 한가위 판타지아'에 출연할 게스트로 최백호를 최종 협의 중인 단계"라고 밝혔다. '김호중의 한가위 판타지아'는 추석특집으로 진행되는 가수 김호중의 TV 최초 단독쇼다.]]></content>
     </entry>
 </feed>
