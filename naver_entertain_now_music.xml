@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-08-09T19:18:00.397Z</updated>
+    <updated>2022-08-09T20:18:18.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['청량+하이틴' 트라이비, 악동으로 돌아왔다 '키스(KISS)' [MD동영상]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003634119</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003634119"/>
+        <updated>2022-08-09T20:18:01.050Z</updated>
+        <content type="html"><![CDATA[걸그룹 트라이비(송선, 켈리, 현빈, 지아, 소은, 미레)가 9일 오후 서울 노들섬 라이브하우스에서 진행된 세 번째 싱글 '레비오사(LEVIOSA)' 발매 기념 쇼케이스에서 타이틀곡 '키스(KISS)'의 멋진 무대를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[현아&던, 첫 듀엣곡 '핑퐁' MV 1억뷰 돌파 [공식]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003634099</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004734983"/>
         <updated>2022-08-09T14:19:46.741Z</updated>
         <content type="html"><![CDATA[그룹 퍼플키스가 9일 오후 서울 상암동 SBS 프리즘타워에서 열린 SBS M '더쇼' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 트렌드지, '상남자 카리스마']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004734982</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004734982"/>
-        <updated>2022-08-09T14:19:46.745Z</updated>
-        <content type="html"><![CDATA[그룹 트렌드지가 9일 오후 서울 상암동 SBS 프리즘타워에서 열린 SBS M '더쇼' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
     </entry>
 </feed>
