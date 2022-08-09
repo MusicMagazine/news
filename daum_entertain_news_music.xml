@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-08-09T13:46:01.465Z</updated>
+    <updated>2022-08-09T14:20:01.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대중음악 리메이크 열풍.. 원곡도 리메이크곡도 인기 상승 중]]></title>
+        <id>https://entertain.v.daum.net/v/20220809224859137</id>
+        <link href="https://entertain.v.daum.net/v/20220809224859137"/>
+        <updated>2022-08-09T14:19:30.491Z</updated>
+        <content type="html"><![CDATA[과거의 노래나 작품을 현재 시대에 맞게 재해석해 새롭게 다시 만드는 것을 의미하는&nbsp;‘리메이크’.&nbsp;기존 작품의 작품성과 인기를 일부 가져가면서&nbsp;독특한 해석을 통해 자신만의 색을 알릴 수 있다는 장점이 있다. 그렇기 때문에 영화, 드라마, 노래 등 대중문화에서 자주 사용된다. 특히 노래, 대중음악에서는 최근 다양한 리메이크가&nbsp;나오고 있다. 리메이크돼 새롭게 나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송가인, 전국투어 강릉 공연 취소..코로나19 재확산 여파]]></title>
         <id>https://entertain.v.daum.net/v/20220809223302997</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220809181348246"/>
         <updated>2022-08-09T09:17:09.775Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 이승록 기자] 그룹 BAE173(비에이이일칠삼, 제이민·한결·유준·무진·준서·영서·도하·빛·도현)이 네 번째 미니앨범 ‘ODYSSEY:DaSH(오디세이:대시)’ 콘셉트 포토를 공개하며 컴백 열기를 고조시키고 있다. 9일 공식 SNS를 통해 제이민, 유준, 무진의 콘셉트 포토 B버전을 추가 공개한 것이다. 사진 속 멤버들은 무심한 듯 시크한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["네가 뛰면 난 날아"..트라이비, 자신만만 '퍼포먼스 맛집' 탄생]]></title>
-        <id>https://entertain.v.daum.net/v/20220809180012774</id>
-        <link href="https://entertain.v.daum.net/v/20220809180012774"/>
-        <updated>2022-08-09T09:17:09.777Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 트라이비(TRI.BE)가 자신감 가득한 '악동' 매력을 품고 돌아왔다. 트라이비(송선, 켈리, 진하, 현빈, 지아, 소은, 미레) 세 번째 싱글 'LEVIOSA(레비오사)'와 타이틀곡 'KISS(키스)' 뮤직비디오가 9일 오후 6시 각종 음원사이트를 통해 공개됐다. 지난해 10월 발매한 첫 미니앨범 'VENI VIDI VI]]></content>
     </entry>
 </feed>
