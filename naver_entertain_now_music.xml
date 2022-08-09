@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-08-09T16:21:08.581Z</updated>
+    <updated>2022-08-09T17:20:46.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[현아&던, 첫 듀엣곡 '핑퐁' MV 1억뷰 돌파 [공식]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003634099</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003634099"/>
+        <updated>2022-08-09T17:20:32.207Z</updated>
+        <content type="html"><![CDATA[현아(HyunA)와 던(DAWN)이 첫 듀엣곡 뮤직비디오로 1억 뷰를 달성했다. 9일 소속사 피네이션에 따르면 현아&amp;던의 첫 EP [1+1=1]의 타이틀곡 '핑퐁(PING PONG)' 뮤직비디오는 이날 오전 기준 유]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["3년 만에 음악방송"…코요태 'GO', 아이돌 못지않은 청량미]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004675349</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004734982</id>
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004734982"/>
         <updated>2022-08-09T14:19:46.745Z</updated>
-        <content type="html"><![CDATA[그룹 트렌드지가 9일 오후 서울 상암동 SBS 프리즘타워에서 열린 SBS M '더쇼' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 트렌드지, '카리스마 넘치는 강렬한 모습']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004734981</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004734981"/>
-        <updated>2022-08-09T14:19:46.746Z</updated>
         <content type="html"><![CDATA[그룹 트렌드지가 9일 오후 서울 상암동 SBS 프리즘타워에서 열린 SBS M '더쇼' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
     </entry>
 </feed>
