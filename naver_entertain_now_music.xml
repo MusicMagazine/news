@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-08-10T16:21:43.249Z</updated>
+    <updated>2022-08-10T17:22:52.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트와이스 나연, 솔로 데뷔곡 '팝!' MV 유튜브 1억뷰 돌파]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003634488</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003634488"/>
+        <updated>2022-08-10T17:22:37.592Z</updated>
+        <content type="html"><![CDATA[그룹 트와이스 나연의 솔로 데뷔곡 '팝(POP!)' 뮤직비디오가 유튜브 1억 뷰를 달성했다. 나연이 6월 24일 발매한 미니 1집 '아이엠 나연(IM NAYEON)'의 타이틀곡 '팝!(POP!)' 뮤비는 10일 오전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화엄사 ‘2022년 모기장영화음악회’ 만원사례]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000830365</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003634397"/>
         <updated>2022-08-10T12:29:53.405Z</updated>
         <content type="html"><![CDATA[그룹 르세라핌(LE SSERAFIM)의 데뷔 100일을 기념해 멤버 허윤진이 자작곡을 공개했다. 9일 허윤진은 데뷔 100일을 맞이해 사운드 클라우드를 통해 자작곡 '레이즈 유어 글라스(Raise y_our glas]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 엔하이픈, '시선 호강 퍼포먼스'(서울페스타)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004735506</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004735506"/>
-        <updated>2022-08-10T12:29:53.406Z</updated>
-        <content type="html"><![CDATA[그룹 엔하이픈이 10일 오후 서울 잠실 종합운동장에서 열린 '서울페스타 2022 개막공연 '에 참석해 사회를 보고 있다. 서울페스타 2022 개막공연 에는 싸이(PSY), 비(RAIN), 타이거JK, 윤미래, Biz]]></content>
     </entry>
 </feed>
