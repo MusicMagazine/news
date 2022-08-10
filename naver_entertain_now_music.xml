@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-08-10T17:22:52.951Z</updated>
+    <updated>2022-08-10T18:20:06.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[펜타곤 키노, 첫 솔로 '포즈' 아이튠즈 톱 앨범 12개 지역 1위]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003634492</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003634492"/>
+        <updated>2022-08-10T18:19:47.948Z</updated>
+        <content type="html"><![CDATA[그룹 펜타곤 키노의 첫 솔로 앨범 '포즈(POSE)'가 국내외 음원 차트를 장악했다. 9일 발매된 키노의 스페셜 싱글 '포즈(POSE)'는 아이튠즈 톱 앨범(Top Album) 부문에서 사우디아라비아, 아르헨티나,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트와이스 나연, 솔로 데뷔곡 '팝!' MV 유튜브 1억뷰 돌파]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003634488</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000830341"/>
         <updated>2022-08-10T12:29:53.403Z</updated>
         <content type="html"><![CDATA[싱어송라이터 존케이(John K)가 새 노래 ‘Guitars and Drugs’를 발매했다고 소속 레이블 소니뮤직이 10일 전했다. 발매와 동시에 페스티벌에서 내한 무대를 선보였고, 다채로운 매체와의 컬래버레이션으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[르세라핌 허윤진, 데뷔 100일 기념 첫 자작곡 공개]]></title>
-        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003634397</id>
-        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003634397"/>
-        <updated>2022-08-10T12:29:53.405Z</updated>
-        <content type="html"><![CDATA[그룹 르세라핌(LE SSERAFIM)의 데뷔 100일을 기념해 멤버 허윤진이 자작곡을 공개했다. 9일 허윤진은 데뷔 100일을 맞이해 사운드 클라우드를 통해 자작곡 '레이즈 유어 글라스(Raise y_our glas]]></content>
     </entry>
 </feed>
