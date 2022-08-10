@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-08-10T18:20:06.144Z</updated>
+    <updated>2022-08-10T19:13:20.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우영우' 박원순 모티브 논란.. "드라마는 창작물로 봐야"]]></title>
+        <id>https://entertain.v.daum.net/v/20220811040619934</id>
+        <link href="https://entertain.v.daum.net/v/20220811040619934"/>
+        <updated>2022-08-10T19:12:53.937Z</updated>
+        <content type="html"><![CDATA[정상급 인기를 누리는 ENA 드라마 ‘이상한 변호사 우영우’가 때아닌 정치적 논란에 휩싸였다. 일각에서 드라마의 최신 에피소드가 고 박원순 전 서울시장을 의도적으로 모티브화했다는 주장을 제기하면서다. 전문가들은 드라마를 보고 의견을 낼 수는 있지만, 일부의 추측이 과도하게 공론화되는 것에 우려를 표했다. 창작 활동에 영향을 미칠 정도로 지나친 확대 해석도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['라디오스타' 진서연 "'원 더 우먼' 役, 이부진 참고"]]></title>
         <id>https://entertain.v.daum.net/v/20220811001606951</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220810233343485"/>
         <updated>2022-08-10T15:17:54.253Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = '라디오스타' 배우 박경혜가 배우 혜리, 변우석, 최우성과 함께 연기 공부를 한다고 고백했다. 10일 오후 방송된 MBC 예능 프로그램 '라디오스타'에서는 '흥행 메이트' 특집으로 꾸며져 배우 진서연, 최덕문, 박명훈, 박경혜가 함께했다. 박경혜가 혜리와의 친분을 자랑했다. 혜리와 드라마 '청일전자 미쓰리', '간 떨어지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나는 SOLO' 경륜선수 영식, 옥순에 직진 "본능"]]></title>
-        <id>https://entertain.v.daum.net/v/20220810232807434</id>
-        <link href="https://entertain.v.daum.net/v/20220810232807434"/>
-        <updated>2022-08-10T15:17:54.254Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 이기은 기자] '나는 SOLO' 영식, 옥순에게 마음을 고백했다. 10일 밤 방송된 SBS플러스 예능프로그램 '나는 SOLO'에서는 9기 영수, 영호, 영철, 영식, 상철, 광수, 여성 영숙, 영자, 옥순, 순자, 현숙, 정숙 등의 썸 과정이 공개됐다. 이날 영식은 마음이 있는 옥순에게 과거의 실수를 만회하고 싶은 마음을 드러내며, 여전히 애]]></content>
     </entry>
 </feed>
