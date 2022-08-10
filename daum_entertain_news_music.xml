@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-08-10T12:30:09.985Z</updated>
+    <updated>2022-08-10T13:33:19.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[템페스트 29일 컴백]]></title>
+        <id>https://entertain.v.daum.net/v/20220810220015291</id>
+        <link href="https://entertain.v.daum.net/v/20220810220015291"/>
+        <updated>2022-08-10T13:32:41.876Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 템페스트 29일 컴백 [공식] 그룹 템페스트(TEMPEST)가 29일 두 번째 미니앨범으로 컴백한다. 이번에 공개된 커밍순 포스터에는 해바라기가 피어있는 푸른 들판과 청량한 바다 등의 배경이 사진 필름에 담겼다. 하단에는 '2022.08.29 6PM KST', 'COMING SOON'이라는 문구로 기대감을 더했다. 템페스트는 지난 3월 첫 번]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김재중 뜨거운 인기..아시아 투어 서울콘 전석 매진]]></title>
         <id>https://entertain.v.daum.net/v/20220810210010073</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220810155043736"/>
         <updated>2022-08-10T07:14:59.460Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 가수 이승환이 코로나19에 확진돼 안성 콘서트를 취소했다. 10일 블리스이엔티는 티켓 예매 사이트 인터파크를 통해 "2022 이승환 콘서트 '우리 그때' 안성 공연이 취소되었다"라고 밝혔다. 이어 "8월 13일 안성맞춤아트홀 공연 준비 중 아티스트의 코로나19 양성 판정으로 인하여 부득이하게 공연을 취소하게 되었다"라고 설명했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴진스 측, 악의적 비방에 법적 대응 예고 "선처와 합의는 없음"]]></title>
-        <id>https://entertain.v.daum.net/v/20220810154720639</id>
-        <link href="https://entertain.v.daum.net/v/20220810154720639"/>
-        <updated>2022-08-10T07:14:59.460Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 김민지기자]그룹 뉴진스의 소속사 어도어가 악성 게시글에 법적 대응을 예고했다. 하이브 산하 레이블 어도어 측은 10일 공식 SNS 계정을 통해 “당사는 뉴진스 및 당사 콘텐츠와 관련한 악의적 비방, 허위사실 유포, 명예훼손 등의 행위에 대해 지속적으로 법적 대응을 할 방침이다”라고 알렸다. 이어 “당사는 팬 여러분의 제]]></content>
     </entry>
 </feed>
