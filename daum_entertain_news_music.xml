@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-08-10T13:33:19.628Z</updated>
+    <updated>2022-08-10T14:16:18.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소녀시대 데뷔 15주년 기념 스페셜 팬이벤트 9월 3일 개최]]></title>
+        <id>https://entertain.v.daum.net/v/20220810230013198</id>
+        <link href="https://entertain.v.daum.net/v/20220810230013198"/>
+        <updated>2022-08-10T14:15:44.479Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김수진 기자] 걸그룹 소녀시대가 5일 오전 서울 강남구 삼성동 인터컨티넨탈 서울 코엑스에서 열린 정규 7집 'FOREVER 1'(포에버 원) 발매기념 기자간담회에 참석해 포즈를 취하고 있다.   'FOREVER 1'은 동명의 타이틀 곡 'FOREVER 1'을 비롯해 다양한 분위기의 총 10곡이 수록됐다. 2022.08.05 /사진=김창현 기자 c]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[템페스트 29일 컴백]]></title>
         <id>https://entertain.v.daum.net/v/20220810220015291</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220810155341839"/>
         <updated>2022-08-10T07:14:59.449Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이태수 기자 = 가수 겸 사업가로 활동하는 제시카가 두 번째 소설 '브라이트'를 내놨다. 2007년 데뷔한 그는 전 세계에서 사랑받는 인기 걸그룹으로 활약하다가 2014년 돌연 팀을 떠나 솔로 활동을 개시했다. 그는 자신의 패션 브랜드 '블랑 &amp; 에클레어'를 만들어 사업가로도 이름을 알렸고, 최근에는 중국 오디션 프로그램에 도전해 걸그룹]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이승환, 코로나19 확진..13일 안성 콘서트 취소]]></title>
-        <id>https://entertain.v.daum.net/v/20220810155043736</id>
-        <link href="https://entertain.v.daum.net/v/20220810155043736"/>
-        <updated>2022-08-10T07:14:59.460Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 가수 이승환이 코로나19에 확진돼 안성 콘서트를 취소했다. 10일 블리스이엔티는 티켓 예매 사이트 인터파크를 통해 "2022 이승환 콘서트 '우리 그때' 안성 공연이 취소되었다"라고 밝혔다. 이어 "8월 13일 안성맞춤아트홀 공연 준비 중 아티스트의 코로나19 양성 판정으로 인하여 부득이하게 공연을 취소하게 되었다"라고 설명했다.]]></content>
     </entry>
 </feed>
