@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-08-11T15:18:12.780Z</updated>
+    <updated>2022-08-11T16:21:10.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트와이스, 첫 영어 싱글 ‘더 필즈’ MV 유튜브 3억 뷰…통산 15번째]]></title>
+        <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0002027760</id>
+        <link href="https://entertain.naver.com/now/read?oid=016&amp;aid=0002027760"/>
+        <updated>2022-08-11T16:20:54.653Z</updated>
+        <content type="html"><![CDATA[그룹 트와이스의 첫 영어 싱글 ‘더 필즈(The Feels)’ 뮤직비디오가 유튜브에서 조회수 3억회를 달성했다. 11일 소속사 JYP엔터테인먼트에 따르면 지난해 10월 1일 공개된 트와이스의 ‘더 필즈’ 뮤직비디오가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴진스, 색다르게 거둔 새로운 성과들[TF초점]]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000166424</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000830551"/>
         <updated>2022-08-11T10:19:22.125Z</updated>
         <content type="html"><![CDATA[걸그룹 버가부(bugAboo)가 긍정 에너지로 팬들과 소통에 나섰다. 버가부(초연, 유우나, 레이니, 지인, 은채, 시안)는 11일 오후 2시 5분부터 방송된 TBN 한국교통방송 ‘박철의 방방곡곡’에 출연했다. 활기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘음원 인앱결제 수수료’ 문제 해법은?]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000830550</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000830550"/>
-        <updated>2022-08-11T10:19:22.140Z</updated>
-        <content type="html"><![CDATA[구글이 인앱결제 수수료를 도입하면서 국내 음원 플랫폼 사업자의 부담이 가중된 것을 두고 문제 해결을 위해 저작권료 정산 대상에서 인앱결제 수수료를 제외해달라는 업계 주장이 나왔다. 국내 최대 음원 플랫폼 멜론 신지영]]></content>
     </entry>
 </feed>
