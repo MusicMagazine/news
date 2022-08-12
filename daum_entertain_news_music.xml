@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-08-12T15:18:04.983Z</updated>
+    <updated>2022-08-12T16:24:39.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차은우, 9월 3일 첫 국내 대면 팬미팅]]></title>
+        <id>https://entertain.v.daum.net/v/20220813010013241</id>
+        <link href="https://entertain.v.daum.net/v/20220813010013241"/>
+        <updated>2022-08-12T16:24:04.037Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 차은우, 9월 3일 첫 국내 대면 팬미팅 [공식] 아스트로 차은우가 아시아 팬미팅 투어를 진행 중인 가운데 서울에서 피날레를 장식한다. 차은우는 오는 9월 3일 오후 2시와 7시, 총 2회차에 걸쳐 The-K 호텔 서울 그랜드 볼룸에서 개인 팬미팅 투어 '2022 Just One 10 Minute &lt;Starry Caravan&gt;'(2022 저스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비·싸이·NCT드림까지, '서울페스타' 개막식 꽉 채운 한류 중심 'K팝']]></title>
         <id>https://entertain.v.daum.net/v/20220812222545289</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220812153219569"/>
         <updated>2022-08-12T07:14:44.324Z</updated>
         <content type="html"><![CDATA[가수 케이윌이 오는 10월 전국 투어 콘서트를 연다. 케이윌은 오는 10월 서울을 비롯해 총 4개 지역을 시작으로 ‘히어 앤드 나우(HERE AND NOW)’ 전국 투어 콘서트로 팬들과 만난다. 전국 투어는 10월 7일(금)부터 9일(일)까지 서울 ‘장충체육관’에서 개최되며, 이어 10월 22일(토)부터 23일(일)까지 창원 ‘KBS 창원홀’, 11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케이윌, 3년만 단독 콘서트..10월 전국 투어 개최]]></title>
-        <id>https://entertain.v.daum.net/v/20220812151959233</id>
-        <link href="https://entertain.v.daum.net/v/20220812151959233"/>
-        <updated>2022-08-12T06:20:14.403Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 가수 케이윌이 3년만에 단독 콘서트를 연다. 케이윌은 오는 10월 서울을 비롯해 총 4개 지역을 시작으로 '히어 앤드 나우(HERE AND NOW)' 전국 투어 콘서트를 진행한다. 전국 투어는 10월 7일부터 9일까지 서울 장충체육관에서 개최되며, 이어 10월 22일부터 23일까지 창원 KBS 창원홀, 11월 5일부터 6일까지]]></content>
     </entry>
 </feed>
