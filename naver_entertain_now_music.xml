@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-08-12T12:28:15.162Z</updated>
+    <updated>2022-08-12T13:40:57.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비·싸이·NCT드림까지, '서울페스타' 개막식 꽉 채운 한류 중심 'K팝' [종합]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004677746</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004677746"/>
+        <updated>2022-08-12T13:40:40.086Z</updated>
+        <content type="html"><![CDATA[가수 비부터 싸이까지 K팝 대표 아티스트들이 '서울페스타'의 포문을 열었다. 12일 KBS 2TV에서 ‘서울페스타 2022’의 개막식 ‘K-POP SUPER LIVE’가 방송됐다. 이 자리는 아스트로 멤버 차은우와]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘서울 페스타 2022’ 네이처, 개막 달군 핫퍼포먼스 ‘RICA RICA’]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000830786</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004736569"/>
         <updated>2022-08-12T10:19:32.673Z</updated>
         <content type="html"><![CDATA[그룹 트라이비 켈리가 12일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 위클리 이수진, '볼수록 기분 좋아지는 미소']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004736566</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004736566"/>
-        <updated>2022-08-12T10:19:32.675Z</updated>
-        <content type="html"><![CDATA[그룹 위클리 이수진이 12일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content>
     </entry>
 </feed>
