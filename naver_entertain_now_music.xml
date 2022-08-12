@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-08-12T21:15:28.784Z</updated>
+    <updated>2022-08-12T22:17:09.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대세 임영웅, ‘무지개’ 뮤직비디오 700만 돌파]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001488332</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001488332"/>
+        <updated>2022-08-12T22:16:52.804Z</updated>
+        <content type="html"><![CDATA[임영웅의 ‘무지개’ 뮤직비디오가 지속적으로 인기를 끌고 있다. 지난 2022년 5월 28일 임영웅 공식 유튜브 채널 ‘임영웅’에는 “임영웅 (Lim Young Woong) - 무지개 (Rainbow) MV”라는 제목]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단 지민, 태어난지 9800일 기념 '최애돌' 1위 기부요정..'태어나줘서 고마워♥']]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003078633</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004736586"/>
         <updated>2022-08-12T12:27:58.752Z</updated>
         <content type="html"><![CDATA[그룹 첫사랑 서연이 12일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박창근·김영흠·김동현·손진욱, ‘국가부’ 음원 발매]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000830784</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000830784"/>
-        <updated>2022-08-12T12:27:58.753Z</updated>
-        <content type="html"><![CDATA[국민가수 박창근, 김영흠, 김동현, 손진욱이 여름밤 감성을 전한다. 박창근, 김영흠, 김동현, 손진욱이 참여한 ‘국가가 부른다 Part24’ 음원이 12일 각종 온라인 음원 사이트를 통해 발매됐다. 앨범에는 지난 1]]></content>
     </entry>
 </feed>
