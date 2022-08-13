@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-08-13T13:28:02.753Z</updated>
+    <updated>2022-08-13T14:15:51.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김장훈 "공연 도중 졸도? 아니다…초현실적인 상태"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011361968</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011361968"/>
+        <updated>2022-08-13T14:15:36.643Z</updated>
+        <content type="html"><![CDATA[김현숙 인턴 기자 = 가수 김장훈이 자신이 공연 도중 졸도했다는 설에 "사실이 아니다"라고 해명했다. 김장훈은 13일 소셜 미디어에 "졸도 아니다. 말로 표현할 수 없는 무대에서만 일어나는 초현실적인 상태인지라 설명]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더보이즈(THE BOYZ), 신곡 하이라이트 메들리 공개..청량美 발산[스타IN★]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003078752</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011361598"/>
         <updated>2022-08-13T06:18:36.535Z</updated>
         <content type="html"><![CDATA[걸그룹 '뉴진스(NewJeans)'의 데뷔곡 '어텐션(Attention)'이 세계 최대 음원 플랫폼 스포티파이의 글로벌 차트에 진입했다. 그룹 '방탄소년단'(BTS) 소속사 하이브(HYBE)의 레이블이자 민희진 대표]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임영웅 '아버지' 뮤비 100만뷰 넘어섰다 '감동의 히어로']]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003078700</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003078700"/>
-        <updated>2022-08-13T06:18:36.539Z</updated>
-        <content type="html"><![CDATA[가수 임영웅의 '아버지' 뮤직비디오가 100만뷰를 달성했다. 임영웅 정규 1집 'IM HERO' 수록곡 '아버지' 뮤직비디오는 13일 기준 조회수 100만뷰를 넘어섰다. '진달래꽃'의 우지민이 작사, 작곡하고 장재원]]></content>
     </entry>
 </feed>
