@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-08-13T09:16:12.402Z</updated>
+    <updated>2022-08-13T10:17:20.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원호, 유니버스와 첫 콜라보..19일 신곡 'Don't hesitate' 발매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003078722</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003078722"/>
+        <updated>2022-08-13T10:17:03.258Z</updated>
+        <content type="html"><![CDATA[가수 원호가 돌아온다. 13일 글로벌 팬덤 플랫폼 유니버스(UNIVERSE) 측은 "오는 19일 오후 6시 가수 원호(WONHO)의 신곡 'Don't hesitate'를 발매한다"고 밝혔다. 유니버스는 오는 14일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이브, 日 데뷔 전부터 열도 접수! 리더 안유진 “신기해”]]></title>
         <id>https://entertain.naver.com/now/read?oid=408&amp;aid=0000164079</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=408&amp;aid=0000164061"/>
         <updated>2022-08-13T06:18:36.548Z</updated>
         <content type="html"><![CDATA[가수 하성운이 새로운 타이틀곡 'FOCUS'로 컴백한다. 하성운은 13일 공식 SNS를 통해 오는 24일 발매하는 일곱 번째 미니앨범 'Strange World (스트레인지 월드)'의 트랙리스트 이미지를 공개했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[컴백 트라이비, 네이버NOW ‘점심어택’ 접수]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000830850</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000830850"/>
-        <updated>2022-08-13T06:18:36.549Z</updated>
-        <content type="html"><![CDATA[걸그룹 트라이비가 ‘신흥 예능 걸그룹’의 탄생을 알렸다. 트라이비는 지난 12일 오후 방송된 네이버NOW의 예능 ‘점심어택’에서 MC 데니안, 손호영과 함께 한 비하인드 사진을 공개했다. 공개한 이미지에서 트라이비의]]></content>
     </entry>
 </feed>
