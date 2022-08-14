@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-08-14T20:16:59.102Z</updated>
+    <updated>2022-08-14T21:15:14.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블랙핑크, 이번주 뜬다..전세계 차트 삼킬까]]></title>
+        <id>https://entertain.v.daum.net/v/20220815060012575</id>
+        <link href="https://entertain.v.daum.net/v/20220815060012575"/>
+        <updated>2022-08-14T21:14:40.126Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 황미현 기자 = 그룹 블랙핑크가 이번 주 컴백한다. 블랙핑크는 오는 19일 선공개 곡 '핑크 베놈'으로 컴백한다. 이후 9월16일 정규2집 '본 핑크'를 발매한다. 선공개곡을 발표한 이후 약 한달뒤 정규 앨범을 발표하는 독특한 방식이다. '핑크 베놈'으로 컴백하는 블랙핑크는 약 1년10개월 만에 완전체로 팬들 앞에 선다. '핑크 베놈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅의 힐링보이스가 선사한 정체는?]]></title>
         <id>https://entertain.v.daum.net/v/20220815014052572</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220814201350502"/>
         <updated>2022-08-14T11:14:50.700Z</updated>
         <content type="html"><![CDATA[[OSEN=박판석 기자]&nbsp;&nbsp;가수 임영웅이 101일간 14만명이 넘는 관객을 만난 전국 투어 콘서트를 성대하게 마무리 했다. 20곡이 훌쩍 넘는 노래로 180분 넘게 감동적인 무대를 만들었다. 무려 81만명의 콘서트 티켓 대기열을 만든 임영웅의 전설은 이제 시작이다. 14일 오후 온라인 생중계 된 전국투어 콘서트 'IM HERO' 서울 공연에서 임영웅이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["101일의 단콘 피날레" 전세대 아우른 '히어로' 임영웅]]></title>
-        <id>https://entertain.v.daum.net/v/20220814200837437</id>
-        <link href="https://entertain.v.daum.net/v/20220814200837437"/>
-        <updated>2022-08-14T11:14:50.700Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 정하은기자]가수 임영웅이 101일간의 데뷔 첫 단독 전국투어 콘서트의 화려한 피날레를 장식했다. 임영웅이 지난 12일부터 14일까지 3일간 올림픽체조경기장(KSPO DOME)에서 전국 투어 콘서트 ‘아임 히어로(IM HERO)’를 펼쳤다. 특히 14일 서울의 마지막 공연은 아쉽게 티켓을 구하지 못한 팬덤 ‘영웅시대’를]]></content>
     </entry>
 </feed>
