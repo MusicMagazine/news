@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-08-14T14:15:49.698Z</updated>
+    <updated>2022-08-14T15:17:33.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[심신 '세종대왕 소헌왕후 선발대회 축하공연' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000887941</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000887941"/>
+        <updated>2022-08-14T15:17:32.341Z</updated>
+        <content type="html"><![CDATA['2022 세종대왕 소헌왕후 선발대회'가 14일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. 가수 심신이 축하공연을 펼치고 있다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임가현 '세종대왕 소헌왕후 선발대회 소헌왕후 선' [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000887940</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000887900"/>
         <updated>2022-08-14T12:27:35.335Z</updated>
         <content type="html"><![CDATA['2022 세종대왕 소헌왕후 선발대회'가 14일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. 박연정 참가자가 한복 패션쇼를 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세종대왕 소헌왕후 선발대회 '아름다운 한복' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000887896</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000887896"/>
-        <updated>2022-08-14T12:27:35.336Z</updated>
-        <content type="html"><![CDATA['2022 세종대왕 소헌왕후 선발대회'가 14일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. 현금임 참가자가 한복 패션쇼를 갖고 있다.]]></content>
     </entry>
 </feed>
