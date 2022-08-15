@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-08-15T05:03:25.054Z</updated>
+    <updated>2022-08-15T05:42:36.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[73억 집 강도 들었다..女가수 SNS 집 자랑 때문? [Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004678909</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004678909"/>
+        <updated>2022-08-15T05:42:35.679Z</updated>
+        <content type="html"><![CDATA[머라이어 캐리의 저택이 강도에게 털린 사실이 뒤늦게 알려졌다. 14일(현지 시각) 외신 보도에 따르면 지난달 머라이어 캐리가 이탈리아 카프리에서 휴가를 보내고 있는 동안 그의 미국 애틀랜타 집에 도둑이 들었다. 당시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美배우 앤 헤이시, 연명치료 중단…장기기증 후 하늘로(종합)]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013375623</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000887928"/>
         <updated>2022-08-14T14:15:49.082Z</updated>
         <content type="html"><![CDATA['2022 세종대왕 소헌왕후 선발대회'가 14일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. 김효진 참가자가 미를 수상한 뒤 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김혜진 '모도리 부문 미' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000887927</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000887927"/>
-        <updated>2022-08-14T14:15:49.082Z</updated>
-        <content type="html"><![CDATA['2022 세종대왕 소헌왕후 선발대회'가 14일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. 김혜진 참가자가 모도리 부문 미를 수상한 뒤 포즈를 취하고 있다.]]></content>
     </entry>
 </feed>
