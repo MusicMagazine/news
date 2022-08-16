@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-08-16T14:15:47.080Z</updated>
+    <updated>2022-08-16T15:17:26.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ESG 페스티벌 ‘ 𝟸]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000831351</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000831351"/>
+        <updated>2022-08-16T15:17:11.973Z</updated>
+        <content type="html"><![CDATA[문화예술콘텐츠 기업 ‘스튜디오 빌리빈’과 ‘아트로버 컴퍼니’ 이 오는 10월 15일부터 16일까지 양일간 난지 한강지구 젊음의 광장 일대에서 ‘2022 ESGFESTIVAL US, Earth Festival’(이하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘연애치유사’ 윤언니, 싱글 ‘그 자리에서’ 발표]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000831342</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=408&amp;aid=0000164336"/>
         <updated>2022-08-16T09:14:45.613Z</updated>
         <content type="html"><![CDATA[그룹 트라이비(TRI.BE)가 코카-콜라와 함께한 두 번째 컬래버레이션 음원을 예고, 대세 행보를 이어간다. 트라이비는 오는 20일 오전 3시 30분(한국 시각 기준) 국내외 각종 온라인 음원사이트에서 신곡 'Mem]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[B1A4 공찬, 3년만 단독 팬미팅 성료…무한 '팬 사랑' 빛났다]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001489174</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001489174"/>
-        <updated>2022-08-16T09:14:45.614Z</updated>
-        <content type="html"><![CDATA[그룹 B1A4 공찬이 3년 만의 대면 팬미팅을 통해 팬들을 만났다. 공찬은 지난 13일 오후 3시와 7시 흰물결아트센터 화이트홀에서 ‘2022 B1A4 ♥ BANA - HAPPY GONGCHAN DAY’을 개최했다.]]></content>
     </entry>
 </feed>
