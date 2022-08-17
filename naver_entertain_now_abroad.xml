@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-08-17T03:58:58.296Z</updated>
+    <updated>2022-08-17T05:08:53.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안젤리나 졸리, '폭행·아동학대' 브래드 피트 수사한 FBI 상대 고소 [엑's 할리우드]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001489508</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001489508"/>
+        <updated>2022-08-17T05:08:52.136Z</updated>
+        <content type="html"><![CDATA[안젤리나 졸리가 전 남편 브래드 피트의 폭행 건에 대한 FBI(미국 연방 수사국)의 대응에 FBI를 고소한 사실이 알려졌다. 16일(현지시간) 미국 버라이어티는 2016년 당시 수사를 담당한 FBI 요원의 기록을 확]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윌 스미스 폭행 비꼰 조 크라비츠, "인터넷에 내 의견 내기 무섭다"[Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004679752</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000888263"/>
         <updated>2022-08-16T12:27:20.783Z</updated>
         <content type="html"><![CDATA[16일 오후 서울 송파구 잠실야구장에서 '2022 프로야구' 삼성 라이온즈와 LG 트윈스의 경기가 열렸다. 스테이씨가 특별공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이사-재이 '신나는 무대' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000888261</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000888261"/>
-        <updated>2022-08-16T12:27:20.784Z</updated>
-        <content type="html"><![CDATA[16일 오후 서울 송파구 잠실야구장에서 '2022 프로야구' 삼성 라이온즈와 LG 트윈스의 경기가 열렸다. 스테이씨 아이사, 재이가 특별공연을 펼치고 있다.]]></content>
     </entry>
 </feed>
