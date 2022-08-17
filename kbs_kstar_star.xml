@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 22:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 23:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["오디오 무비"  곽경택 스릴러 '극동', 바이브 9월 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=224385</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=224385</guid>
+            <pubDate>Wed, 17 Aug 2022 23:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=224385">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220818075344_9d37062df0ffd484d2d280b61222af06.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=224385">"오디오 무비"  곽경택 스릴러 '극동', 바이브 9월 공개 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220818075344_9d37062df0ffd484d2d280b61222af06.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유튜버 김계란, 강호동 "(신상을) 공개할 자신 있나" 질문에 진땀]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=224279</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=222181">황민현 보러 모여라~ 단독 오프라인 팬미팅 전회차 매진!</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220804084755_a553efc64de53373f6bc91907fc0f5b6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이어령의 마지막 수업' 김지수 작가의 오디오콘텐츠 재탄생]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=222164</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=222164</guid>
-            <pubDate>Wed, 03 Aug 2022 23:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=222164">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220804074343_87d7ca6e67257703c6b2c8025a1c1dfb.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=222164">'이어령의 마지막 수업' 김지수 작가의 오디오콘텐츠 재탄생</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220804074343_87d7ca6e67257703c6b2c8025a1c1dfb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
