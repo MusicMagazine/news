@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-08-17T12:32:41.402Z</updated>
+    <updated>2022-08-17T13:47:24.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[밴드 업스타, 새 노래 ‘신비화’ 공개]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000831576</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000831576"/>
+        <updated>2022-08-17T13:47:07.459Z</updated>
+        <content type="html"><![CDATA[‘전국대학가요제’에서 대상을 수상했던 밴드 업스타가 로칼하이레코즈를 통해 디지털 싱글 ‘신비화’로 돌아왔다. 17일 음원사이트를 통해 밴드 업스타의 ‘신비화’가 발매됐다. 신곡 ‘신비화’는 한 사람이 바라보고 동경했]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[밴드 문없는집, EP ‘한가로운 생각’ 발매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000831572</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000831572"/>
+        <updated>2022-08-17T13:47:07.462Z</updated>
+        <content type="html"><![CDATA[풍성한 사운드로 평범할 수 있는 주제를 비범하게 노래로 풀어내는 밴드 문없는집이 로칼하이레코즈를 통해 EP ‘한가로운 생각’을 공개했다. 17일 정오 각종 음원사이트를 통해 문없는집 EP ‘한가로운 생각’이 발매됐다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘18일 발매’ 박재범, 새 노래 ‘Bite’ 뮤비 티저 공개]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000831567</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013381557"/>
         <updated>2022-08-17T10:18:01.259Z</updated>
         <content type="html"><![CDATA[NCT 태용과 '구글 포 코리아' K팝 아티스트 대표해 참석 가수 강타와 그룹 NCT의 태용이 구글코리아의 온라인 콘퍼런스 '구글 포 코리아'에 K팝 아티스트를 대표해 참석했다고 소속사 SM엔터테인먼트가 17일 밝혔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[굿모닝 팬케잌, 하이틴 영화 감성의 신보 ‘Jenny’ 발매 [공식]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001489697</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001489697"/>
-        <updated>2022-08-17T10:18:01.264Z</updated>
-        <content type="html"><![CDATA[굿모닝 팬케잌가 신곡을 발표했다, EMA 측은 다양한 스펙트럼을 가진 2인조 밴드 굿모닝 팬케잌(Goodmorning Pancake)이 17일(수) 오후 6시 신곡을 발표했다고 밝혔다. 그들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문없는집, '여름 구름' 같은 음반…'한가로운 생각']]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011368843</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011368843"/>
-        <updated>2022-08-17T10:18:01.265Z</updated>
-        <content type="html"><![CDATA[밴드 '문없는집'이 17일 새 EP '한가로운 생각'을 공개했다. 문없는집 멤버들이 '여름 구름'처럼 유유히 흘러가는 생각들을 모아둔 소곡집이다. 타이틀곡은 '방학을 기다리던 날들'이다. 졸업을 앞둔 상황에서 한 시]]></content>
     </entry>
 </feed>
