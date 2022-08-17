@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 06:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 07:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유튜버 김계란, 강호동 "(신상을) 공개할 자신 있나" 질문에 진땀]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=224279</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=224279</guid>
+            <pubDate>Wed, 17 Aug 2022 07:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=224279">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220817084919_c28b2b7aa11f0b835ae30691111595b3.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=224279">유튜버 김계란, 강호동 "(신상을) 공개할 자신 있나" 질문에 진땀</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220817084919_c28b2b7aa11f0b835ae30691111595b3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 '모래시계' "다음 시즌을 기대해"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=224162</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=222164">'이어령의 마지막 수업' 김지수 작가의 오디오콘텐츠 재탄생</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220804074343_87d7ca6e67257703c6b2c8025a1c1dfb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[확신의 롤라, 강홍석의 위엄...'킹키부츠']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=222088</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=222088</guid>
-            <pubDate>Wed, 03 Aug 2022 06:17:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=222088">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220803130706_9b59a57ea216f3c297c1f50129b9d2bb.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=222088">확신의 롤라, 강홍석의 위엄...'킹키부츠'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220803130706_9b59a57ea216f3c297c1f50129b9d2bb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
