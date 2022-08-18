@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-08-18T11:15:47.791Z</updated>
+    <updated>2022-08-18T12:32:18.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘여름 바람 같은 인디 아티스트’ 안아, 세 노래 ‘천천히’ 발매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000831820</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000831820"/>
+        <updated>2022-08-18T12:32:01.726Z</updated>
+        <content type="html"><![CDATA[싱어송라이터 듀오 안아가 로칼하이레코즈를 통해 디지털 싱글 ‘천천히’로 돌아왔다. 18일 각종 음원사이트를 통해 안아의 신곡 ‘천천히’가 발매됐다. 신곡 ‘천천히’는 잔잔한 피아노와 포근한 나일론 기타 연주로 사랑]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['엠카' 뉴진스, 소녀시대 넘고 1위…"영광스러운 상 기분 좋다"[종합]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004680935</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003636864"/>
         <updated>2022-08-18T09:18:30.606Z</updated>
         <content type="html"><![CDATA[‘슈퍼밴드’ 홍이삭이 17일 공식 SNS 등을 통해 새 디지털 싱글 ‘있을게’ 콘셉트 포토를 공개했다. 공개된 사진 속 홍이삭은 그동안 보여준 댄디하고 훈훈한 모습이 아닌 시크하고 세련된 매력을 발산하고 있어 눈길을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BAE173, 英 NME 집중 조명…"단기간 완벽한 앨범 준비 놀라워"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001490038</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001490038"/>
-        <updated>2022-08-18T09:18:30.607Z</updated>
-        <content type="html"><![CDATA[BAE173(비에이이일칠삼)이 영국의 저명 음악 매거진 NME의 집중 조명을 받았다. NME는 17일(현지시각) 공식 홈페이지를 통해 BAE173(제이민, 한결, 유준, 무진, 준서, 영서, 도하, 빛, 도현)의 새]]></content>
     </entry>
 </feed>
