@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-08-19T09:17:39.795Z</updated>
+    <updated>2022-08-19T10:21:11.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴진스 '뮤직뱅크' 1위, '민희진 걸그룹' 음악방송 휩쓰는 중]]></title>
+        <id>https://entertain.v.daum.net/v/20220819183227672</id>
+        <link href="https://entertain.v.daum.net/v/20220819183227672"/>
+        <updated>2022-08-19T10:20:36.559Z</updated>
+        <content type="html"><![CDATA[[OSEN=연휘선 기자] ‘뮤직뱅크’에서 뉴진스가 1위를 차지했다. 19일 오후 방송된 KBS 2TV 음악 프로그램 ‘뮤직뱅크’에서는 뉴진스가 '어텐션(Attention)'으로&nbsp;2022년 8월 3주차 1위를 가져갔다. 이날 '뮤직뱅크' 1위 후보로는 뉴진스의 '어텐션'과 소녀시대의 '포에버원(Forever1)'이 올랐다. 뉴진스는 최근 데뷔한 신인 걸그]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["멈추지마"..원호, 독보적 바이브로 뽑아낸 질주감 '돈트 헤지테이트']]></title>
         <id>https://entertain.v.daum.net/v/20220819180104088</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220819142811365"/>
         <updated>2022-08-19T06:21:46.975Z</updated>
         <content type="html"><![CDATA[[티브이데일리 황서연 기자] 아이슬란드 밴드 시규어 로스가 장비 운송에 차질이 생겨 내한 공연을 당일 취소했다. 19일 오후 공연기획사 프라이빗커브는 예매 관객들에게 공연 당일 취소 공지를 전했다. 기획사 측은 "시규어 로스 공연 장비를 운송하기로 했던 항공편에 긴급한 문제가 생겼다고 전달 받았다"라며 "공연 장비가 오늘 아침 서울에 도착해야 했으나 비행기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시규어 로스, 내한 공연 당일 취소.."장비 운송 항공편 결항"]]></title>
-        <id>https://entertain.v.daum.net/v/20220819135547216</id>
-        <link href="https://entertain.v.daum.net/v/20220819135547216"/>
-        <updated>2022-08-19T05:26:20.067Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 아이슬란드 밴드 시규어 로스(Sigur Ros)가 공연 장비 운송 항공편의 결항으로 인해 내한 공연을 당일 취소했다. 19일 공연기획사 프라이빗커브는 공식 SNS를 통해 "시규어 로스 내한 공연이 부득이한 사정으로 취소되었다"고 밝혔다. 공연기획사 측은 "당일 시규어 로스 공연 장비 운송 항공편 결항으로 인하여 장비가 제 시간에]]></content>
     </entry>
 </feed>
