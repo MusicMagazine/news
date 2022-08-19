@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-08-19T17:26:17.569Z</updated>
+    <updated>2022-08-19T18:22:36.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[3년 만에 돌아오는 '그랜드 민트 페스티벌'…10㎝·이승윤]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011373663</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011373663"/>
+        <updated>2022-08-19T18:22:20.648Z</updated>
+        <content type="html"><![CDATA[3년 만에 돌아오는 가을 음악 축제 '그랜드 민트 페스티벌 2022'(Grand Mint Festival 2022·GMF2022)에 10㎝와 이승윤이 출연한다. 20일 주최사 민트 페이퍼에 따르면, 두 뮤지션은 오는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원어스, 신보 '말루스' 트랙리스트 공개…타이틀곡은 '세임 센트']]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003637435</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004739018</id>
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004739018"/>
         <updated>2022-08-19T10:20:55.938Z</updated>
-        <content type="html"><![CDATA[그룹 소녀시대 티파니가 12일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 사전 녹화를 마친 후 방송국을 나서고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 소녀시대 티파니, '예쁘게 하트~']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004739016</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004739016"/>
-        <updated>2022-08-19T10:20:55.939Z</updated>
         <content type="html"><![CDATA[그룹 소녀시대 티파니가 12일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 사전 녹화를 마친 후 방송국을 나서고 있다.]]></content>
     </entry>
 </feed>
