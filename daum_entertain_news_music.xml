@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-08-19T11:15:09.169Z</updated>
+    <updated>2022-08-19T12:30:33.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지속가능한 페스티벌 지향하는 '2022 조이올팍페스티벌']]></title>
+        <id>https://entertain.v.daum.net/v/20220819203248398</id>
+        <link href="https://entertain.v.daum.net/v/20220819203248398"/>
+        <updated>2022-08-19T12:29:56.187Z</updated>
+        <content type="html"><![CDATA[매년 티켓 수익의 일부를 ‘사랑의 달팽이’에 기부해 온 조이올팍페스티벌이 2022년에는 ESG 실천을 표방하며 착한 페스티벌로 나아간다. 9월 24일, 9월 25일 양일간 서울 올림픽공원 88잔디마당에서 펼쳐지는 조이올팍페스티벌은 지난 7월, 티켓 오픈과 동시에 잔나비, 자이언티, 박재범, 홀리뱅 등 화려한 라인업을 발표하며 많은 관심과 기대를 모았으]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴진스 '뮤직뱅크' 1위, '민희진 걸그룹' 음악방송 휩쓰는 중]]></title>
         <id>https://entertain.v.daum.net/v/20220819183227672</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220819145948459"/>
         <updated>2022-08-19T06:21:46.975Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 블랙핑크(제니, 로제, 리사, 지수)가 기대를 저버리지 않는 신곡으로 돌아왔다. 블랙핑크는 8월 19일 오후 1시 국내외 음원 사이트를 통해 새 싱글 'Pink Venom'(핑크 베놈)을 공개했다. 이번 싱글은 블랙핑크가 9월 16일 정규 2집 'BORN PINK'(본 핑크) 발매에 앞서 선공개곡 형식으로 선보인 신곡이다. 블]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시규어 로스, 오늘 내한 공연 취소 "항공편 문제"]]></title>
-        <id>https://entertain.v.daum.net/v/20220819142811365</id>
-        <link href="https://entertain.v.daum.net/v/20220819142811365"/>
-        <updated>2022-08-19T06:21:46.975Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 황서연 기자] 아이슬란드 밴드 시규어 로스가 장비 운송에 차질이 생겨 내한 공연을 당일 취소했다. 19일 오후 공연기획사 프라이빗커브는 예매 관객들에게 공연 당일 취소 공지를 전했다. 기획사 측은 "시규어 로스 공연 장비를 운송하기로 했던 항공편에 긴급한 문제가 생겼다고 전달 받았다"라며 "공연 장비가 오늘 아침 서울에 도착해야 했으나 비행기]]></content>
     </entry>
 </feed>
