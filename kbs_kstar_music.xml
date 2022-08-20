@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 23:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 01:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 'Pink Venom', 아이튠즈-유튜브 강타]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=224826</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=224826</guid>
+            <pubDate>Sat, 20 Aug 2022 01:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=224826">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220820084252_09165c74dcdf3ccefa6fafff23771da8.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=224826">블랙핑크 'Pink Venom', 아이튠즈-유튜브 강타</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220820084252_09165c74dcdf3ccefa6fafff23771da8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모모랜드 주이의 컴백...'아이 두' 티저 공개]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=224653</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=223565">위키미키 최유정, 래퍼 안병웅과 이별한 남녀에 관한 음원 발매!</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220812102941_8bb2921895c67287cee3d782bbcb2d4e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박지훈, 가요계 컴백 준비 막바지..."이전과는 또 다른 새로운 모습"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=223550</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=223550</guid>
-            <pubDate>Fri, 12 Aug 2022 04:29:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=223550">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220812102036_eb546afb3eaf6d1c76ac122f407e9c9f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=223550">박지훈, 가요계 컴백 준비 막바지..."이전과는 또 다른 새로운 모습" </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220812102036_eb546afb3eaf6d1c76ac122f407e9c9f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
