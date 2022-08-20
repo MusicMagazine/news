@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-08-20T20:16:43.522Z</updated>
+    <updated>2022-08-20T21:14:50.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['뛰어난' 이찬원, '감성적인 목소리의 스타' 1위]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003080558</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003080558"/>
+        <updated>2022-08-20T21:14:34.937Z</updated>
+        <content type="html"><![CDATA[가수 이찬원이 '감성적인 목소리 스타' 1위에 오르며 인기를 빛냈다. 이찬원은 8월 14일부터 8월 20일까지 익사이팅 디시에서 진행된 '빗소리와 함께 들으면 더욱 분위기있는 감성적인 목소리의 스타는?' 설문에서 1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제노 '장난꾸러기'[★포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003080555</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004739218"/>
         <updated>2022-08-20T17:17:28.462Z</updated>
         <content type="html"><![CDATA[그룹 소녀시대가 20일 오후 경기도 수원시 수원월드컵경기장에서 열린 'SMTOWN LIVE 2022 : SMCU EXPRESS @HUMAN CITY_SUWON'에 참석해 공연을 펼치고 있다. 이번 공연은 2017년]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 동방신기, '엔딩 포즈는 확실하게' (SMTOWN LIVE 2022)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004739217</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004739217"/>
-        <updated>2022-08-20T17:17:28.463Z</updated>
-        <content type="html"><![CDATA[그룹 동방신기가 20일 오후 경기도 수원시 수원월드컵경기장에서 열린 'SMTOWN LIVE 2022 : SMCU EXPRESS @HUMAN CITY_SUWON'에 참석해 공연을 펼치고 있다. 이번 공연은 2017년]]></content>
     </entry>
 </feed>
