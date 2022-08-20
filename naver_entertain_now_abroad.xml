@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-08-20T07:15:44.176Z</updated>
+    <updated>2022-08-20T08:20:33.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[해리 스타일스, 열 살 연상 올리비아와 키스 포착…애정전선 굳건 [N해외연예]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0006288014</id>
+        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0006288014"/>
+        <updated>2022-08-20T08:20:32.325Z</updated>
+        <content type="html"><![CDATA[팝스타 해리 스타일스(28)와 열 살 연상의 영화 감독 올리비아 와일드 커플이 키스를 나눴다. 18일(현지시간) 미국 연예매체 스플래시뉴스는 뉴욕에서 포착한 해리 스타일스와 올리비아 와일드 사진을 공개했다. 스플래시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[벤 애플렉♥제니퍼 로페즈, 재혼 괜히 했나..구급차 출동 왜?(종합)[Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004682053</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013386694"/>
         <updated>2022-08-19T12:30:32.453Z</updated>
         <content type="html"><![CDATA[할리우드 배우 에런 테일러 존슨이 19일 오후 서울 용산구 CGV용산아이파크몰에서 열린 영화 '불릿 트레인' 레드카펫 행사에서 포즈를 취하고 있다. 2022.8.19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에런 테일러 존슨, 귀여운 브이]]></title>
-        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013386693</id>
-        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013386693"/>
-        <updated>2022-08-19T12:30:32.458Z</updated>
-        <content type="html"><![CDATA[할리우드 배우 에런 테일러 존슨이 19일 오후 서울 용산구 CGV용산아이파크몰에서 열린 영화 '불릿 트레인' 레드카펫 행사에서 팬들에게 인사하고 있다. 2022.8.19]]></content>
     </entry>
 </feed>
