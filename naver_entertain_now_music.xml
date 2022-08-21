@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-08-21T08:20:36.087Z</updated>
+    <updated>2022-08-21T09:15:37.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최예나, '스마트폰' 활동 성료…긍정 에너지 전한 게임 히어로]]></title>
+        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000875488</id>
+        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000875488"/>
+        <updated>2022-08-21T09:15:22.724Z</updated>
+        <content type="html"><![CDATA[가수 YENA(최예나)가 ‘SMARTPHONE’ 막방까지 상큼·발랄하고 긍정적인 에너지를 전했다. 최예나는 21일 방송된 SBS ‘인기가요’에 출연해 두 번째 미니앨범 ‘SMARTPHONE(스마트폰)’의 동명의 타이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이브, '애프터 라이크'로 세 번째 신드롬 예고…컴백 D-1]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003637890</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001491087"/>
         <updated>2022-08-21T05:18:17.475Z</updated>
         <content type="html"><![CDATA[임영웅의 8월 21일 지니뮤직 차트 속 남다른 존재감이 눈길을 끈다. 지니뮤직에 따르면, 임영웅의 노래들이 TOP100 차트 상위권에서 남다른 존재감을 드러내고 있다. 8월 21일 오전 8시 기준, 1위 ‘사랑은 늘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 갓 더 비트, '눈 뗄 수 없는 멋진 모습' (SMTOWN LIVE 2022)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004739295</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004739295"/>
-        <updated>2022-08-21T05:18:17.475Z</updated>
-        <content type="html"><![CDATA[그룹 갓 더 비트(GOT the beat)가 20일 오후 경기도 수원시 수원월드컵경기장에서 열린 'SMTOWN LIVE 2022 : SMCU EXPRESS @HUMAN CITY_SUWON'에 참석해 공연을 펼치고 있]]></content>
     </entry>
 </feed>
