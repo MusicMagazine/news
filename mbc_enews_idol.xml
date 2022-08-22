@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 03:59:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 05:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포토] 카이, 섹시 '시크 큐티' 반전]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/357588</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/357588</guid>
+            <pubDate>Mon, 22 Aug 2022 05:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/357588">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/08/22/8ca3d75b-fe97-40bb-a123-382cb288a9a1.jpg" alt="[포토] 카이, 섹시 '시크 큐티' 반전">        <div class="text-box">            <p class="summary">[포토] 카이, 섹시 '시크 큐티' 반전</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/08/22/8ca3d75b-fe97-40bb-a123-382cb288a9a1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[포토] 닝닝, 독보적 매력]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/357584</link>
@@ -86,14 +94,6 @@
             <pubDate>Mon, 22 Aug 2022 03:58:47 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/357574">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/08/22/03ae4bc3-e15b-4d57-940d-003fe5ce9571.jpg" alt="[포토] 닝닝, 기품 있게~">        <div class="text-box">            <p class="summary">[포토] 닝닝, 기품 있게~</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/08/22/03ae4bc3-e15b-4d57-940d-003fe5ce9571.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 윈터, '청초 시크']]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/357573</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/357573</guid>
-            <pubDate>Mon, 22 Aug 2022 03:58:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/357573">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/08/22/b7903101-048a-4375-bfcd-de61d3e70274.jpg" alt="[포토] 윈터, '청초 시크'">        <div class="text-box">            <p class="summary">[포토] 윈터, '청초 시크'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/08/22/b7903101-048a-4375-bfcd-de61d3e70274.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
