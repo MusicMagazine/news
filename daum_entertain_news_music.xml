@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-08-22T20:15:40.209Z</updated>
+    <updated>2022-08-22T21:16:13.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['3연타 히트' 아이브, 걸그룹 홍수 속 4세대 강자 굳히기]]></title>
+        <id>https://entertain.v.daum.net/v/20220823060006351</id>
+        <link href="https://entertain.v.daum.net/v/20220823060006351"/>
+        <updated>2022-08-22T21:15:38.121Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 정하은기자]걸그룹 아이브(IVE)가 3연타 히트로 4세대 강자 굳히기에 나선다. 아이브(안유진·가을·레이·장원영·리즈·이서)는 22일 새 싱글 ‘애프터 라이크’(After LIKE)를 발매하고 컴백한다. 지난 4월 두 번째 싱글 ‘러브 다이브’(LOVE DIVE) 이후 4개월 만의 신보다. 특히 데뷔 싱글 ‘일레븐’과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[불고기디스코, 24일 새 싱글 발매→9월 단독공연 개최]]></title>
         <id>https://entertain.v.daum.net/v/20220823050451819</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220822175605080"/>
         <updated>2022-08-22T09:16:51.038Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이덕행 기자] /사진=WM엔터테인먼트 '명곡 맛집' 온앤오프(ONF)의 신곡 'Your Song' 뮤직비디오가 역대 뮤직비디오 중 첫 2천만 뷰를 돌파했다. 22일 소속사 WM엔터테인먼트는 "온앤오프의 스페셜 앨범 'Storage of ONF'의 타이틀곡 'Your Song' 뮤직비디오가 지난 21일 오전 9시경 조회수 2천만 건을 기록했다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이브 컴백, '애프터 라이크' 흥행 3연타 '가보자고']]></title>
-        <id>https://entertain.v.daum.net/v/20220822174520805</id>
-        <link href="https://entertain.v.daum.net/v/20220822174520805"/>
-        <updated>2022-08-22T09:16:51.046Z</updated>
-        <content type="html"><![CDATA[[동아닷컴]  아이브 컴백, ‘애프터 라이크’ 흥행 3연타 ‘가보자고’ [DA:투데이] 아이브(IVE)가 세 번째 싱글로 컴백한다. 오늘(22일) 오후 6시 세 번째 싱글 'After LIKE(애프터 라이크)'를 발매하고 흥행 3연타를 노린다. 아이브의 'After LIKE'는 사랑스럽고 우아한 '자기애'를 기반으로 자신감 넘치는 사랑의 태도를 주문한다.]]></content>
     </entry>
 </feed>
