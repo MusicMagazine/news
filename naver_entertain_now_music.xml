@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-08-22T19:16:08.853Z</updated>
+    <updated>2022-08-22T20:15:40.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[불고기디스코, 24일 새 싱글 발매→9월 단독공연 개최]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000618639</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000618639"/>
+        <updated>2022-08-22T20:15:21.060Z</updated>
+        <content type="html"><![CDATA[밴드 불고기디스코가 새 싱글 발매와 함께 단독 공연을 개최한다. 불고기디스코는 8월 24일 오후 6시 콕재즈, 이루리와 협업한 두 번째 작품 ‘사실은 난 말야’를 발매한다. 이를 기념해 오는 9월 3일 단독 공연을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3년 만에 돌아온 ‘송도맥주축제’ 26일 개막]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000832505</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003582266"/>
         <updated>2022-08-22T10:18:25.668Z</updated>
         <content type="html"><![CDATA[가수 자이언티가 크리에이티브 회사 '스탠다드프렌즈(STANDARD FRIENDS)'를 설립한다. 오늘(22일) 크리에이티브 회사 '스탠다드프렌즈'는 인스타그램 공식 계정을 통해 자이언티가 본격적인 회사 경영에 나서게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CIX "'오케이 낫', 그야말로 '사랑' 그 자체"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011376987</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011376987"/>
-        <updated>2022-08-22T10:18:25.670Z</updated>
-        <content type="html"><![CDATA[기사내용 요약 오늘 미니 5집 발매 장인영 인턴 기자 = "우리와 가장 잘 맞는 앨범이지 않나." 그룹 씨아이엑스(CIX)가 농익은 성숙미로 1년 만에 돌아왔다. CIX는 22일 오후 서울 서대문구 연세대학교 백주년]]></content>
     </entry>
 </feed>
