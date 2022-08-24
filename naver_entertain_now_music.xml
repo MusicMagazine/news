@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-08-24T20:18:47.968Z</updated>
+    <updated>2022-08-24T21:16:27.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["한류 열풍 주역은" 제4회 뉴시스 한류엑스포 오늘 개막]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011382036</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011382036"/>
+        <updated>2022-08-24T21:16:11.077Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 '2022 뉴시스 한류엑스포' 25일 오후 5시부터 서울 조선팰리스 강남서울서 열려 '제4회 뉴시스 한류엑스포'가 오늘 막을 올린다. 뉴시스는 25일 오후 5시부터 서울 강남구 조선팰리스 강남서울에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[나의 인생곡(83)] 김수철 '못다 핀 꽃 한송이', 초지일관 의지 표현]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000168715</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000876699</id>
         <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000876699"/>
         <updated>2022-08-24T11:15:41.258Z</updated>
-        <content type="html"><![CDATA[걸그룹 우아(woo!ah!)가 24일 고척스카이돔에서 열린 2022 KBO리그 키움과 KIA의 경기에 앞서 그라운드 공연을 하고 있다. 2022. 8. 24. 고척 | 박진업기자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토]우아, 흥겨운 그라운드 공연]]></title>
-        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000876697</id>
-        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000876697"/>
-        <updated>2022-08-24T11:15:41.259Z</updated>
         <content type="html"><![CDATA[걸그룹 우아(woo!ah!)가 24일 고척스카이돔에서 열린 2022 KBO리그 키움과 KIA의 경기에 앞서 그라운드 공연을 하고 있다. 2022. 8. 24. 고척 | 박진업기자]]></content>
     </entry>
 </feed>
