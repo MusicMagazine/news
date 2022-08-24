@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2022-08-24T18:28:40.477Z</updated>
+    <updated>2022-08-24T19:15:44.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신애라 “♥차인표가 미쳤다고 할 텐데..” 애처로운 눈빛 (원하는대로)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001000176</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0001000176"/>
+        <updated>2022-08-24T19:15:36.856Z</updated>
+        <content type="html"><![CDATA[MBN 새 예능 ‘무작정 투어-원하는대로’ 신애라가 고소 공포증을 호소한다. 25일 ‘무작정 투어-원하는대로’(이하 ‘원하는대로’)는 대한민국 대표 여배우들의 리얼 무계획 여행기를 담는 예능이다. 메인 MC이자 여행]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김민철X홍서희, KBS 단막극 ‘프리즘’ 출연]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001000175</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0001000162"/>
         <updated>2022-08-24T15:18:55.130Z</updated>
         <content type="html"><![CDATA[그룹 샤이니 키가 8월 30일 오후 5시부터 유튜브 및 틱톡 샤이니 채널을 통해 새 앨범 발매 기념 ‘KEY 키 ‘Gasoline’ Countdown Live’(키 ‘가솔린’ 카운트다운 라이브)를 진행한다. 이날 방]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방민아 코로나19 확진…"서울여성영화제 개막식 불참"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=009&amp;aid=0005008752</id>
-        <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0005008752"/>
-        <updated>2022-08-24T15:18:55.133Z</updated>
-        <content type="html"><![CDATA[배우 방민아가 코로나19 확진 판정을 받았다. 제24회 서울국제여성영화제 측은 24일 공식 SNS를 통해 “홍보대사 방민아 배우의 코로나 19 확진으로 25일 개막식 불참 및 26일 스타 토크 ‘걸스 걸스 걸스’가]]></content>
     </entry>
 </feed>
