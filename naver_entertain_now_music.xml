@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-08-25T14:17:01.018Z</updated>
+    <updated>2022-08-25T15:16:44.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[실리카겔, 시공을 초월한 곡 ‘NO PAIN(노페인)’ 발매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000833172</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000833172"/>
+        <updated>2022-08-25T15:16:28.438Z</updated>
+        <content type="html"><![CDATA[밴드 실리카겔 (Silica Gel)이 25일 각종 온라인 음원사이트를 통해 디지털 싱글 ‘NO PAIN (노페인)’을 발매했다. 싱글 ‘NO PAIN’은 지난 3월 성료한실리카겔의 단독 공연 ‘신서사이즈’에서 첫]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제16회 경향실용음악콩쿠르 시상식[포토뉴스]]]></title>
         <id>https://entertain.naver.com/now/read?oid=032&amp;aid=0003169021</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004741802"/>
         <updated>2022-08-25T12:31:18.893Z</updated>
         <content type="html"><![CDATA[그룹 프로미스나인 이새롬이 25일 오후 서울 잠실동 학생체육관에서 열린 2022 K 글로벌 하트 드림 어워즈 레드카펫 행사에 참석하고 있다. 2022 K 글로벌 하트 드림 어워즈는 싸이, NCT DREAM, 투모로우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 프로미스나인 박지원, '배우 뺨치는 미모']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004741801</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004741801"/>
-        <updated>2022-08-25T12:31:18.894Z</updated>
-        <content type="html"><![CDATA[그룹 프로미스나인 박지원이 25일 오후 서울 잠실동 학생체육관에서 열린 2022 K 글로벌 하트 드림 어워즈 레드카펫 행사에 참석하고 있다. 2022 K 글로벌 하트 드림 어워즈는 싸이, NCT DREAM, 투모로우]]></content>
     </entry>
 </feed>
