@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-08-26T14:16:18.026Z</updated>
+    <updated>2022-08-26T15:18:14.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트와이스 지효 “TALK THAT TALK out now”]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000833386</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000833386"/>
+        <updated>2022-08-26T15:17:56.717Z</updated>
+        <content type="html"><![CDATA[걸그룹 트와이스 멤버 지효가 파격적인 변신을 했다. 지효는 26일 SNS를 통해 “TALK THAT TALK out now”라는 글과 함께 사진을 올렸다. 사진 속 지효는 코르셋 스타일의 블루 민소매 원피스를 입고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안예은, 국제앰네스티 한국지부 50주년 축하 음원 ‘우리, 여기’ 30일 발매]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000833379</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=052&amp;aid=0001781799"/>
         <updated>2022-08-26T09:16:51.443Z</updated>
         <content type="html"><![CDATA[브랜뉴뮤직의 9인조 보이그룹 YOUNITE(유나이트)가 팬들과 함께 만드는 특별한 팬미팅을 위해 직접 나섰다. 25일 오후 3시, 엠넷과 엠넷플러스에서 동시에 공개된 '케이팝 메이커 프로세스 1' 영상에서 YOUNI]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여은, '바이트 미' OST '별이 될게' 발매…디셈버 원곡 재해석]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001493399</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001493399"/>
-        <updated>2022-08-26T09:16:51.445Z</updated>
-        <content type="html"><![CDATA[그룹 멜로디데이 출신 여은이 웹툰 '바이트 미' OST 가창자로 나섰다. 26일 각종 온라인 음원사이트를 통해 여은이 참여한 웹툰 '바이트 미(Bite me)' OST '별이 될게'가 발매됐다. '별이 될게'는 원곡]]></content>
     </entry>
 </feed>
