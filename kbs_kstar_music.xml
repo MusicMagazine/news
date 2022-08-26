@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 23:29:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 01:23:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[일문일답] 트와이스의 새 앨범 'BETWEEN 1&2' ....  "원스와 트와이스 사이 얘기들"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=226078</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=226078</guid>
+            <pubDate>Fri, 26 Aug 2022 01:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=226078">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220826091445_a3feb92a0289515ceb090969e46c8379.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=226078">[일문일답] 트와이스의 새 앨범 'BETWEEN 1&amp;2' ....  "원스와 트와이스 사이 얘기들"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220826091445_a3feb92a0289515ceb090969e46c8379.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, '2030 부산세계박람회' 유치 기원 콘서트]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=225854</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=224940">블랙핑크, MTV VMAs '올해의 그룹' 후보</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220821093847_92cb3ed202ba20ba2eff76c87710e30a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 신기록  ‘Pink Venom’ 뮤비, 29시간 만에 1억뷰]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=224935</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=224935</guid>
-            <pubDate>Sun, 21 Aug 2022 03:39:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=224935">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220821093543_e2cee10916f46cfc10e8d28a58a8ab7f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=224935">블랙핑크 신기록  ‘Pink Venom’ 뮤비, 29시간 만에 1억뷰 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220821093543_e2cee10916f46cfc10e8d28a58a8ab7f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
