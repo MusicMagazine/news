@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-08-27T14:13:37.892Z</updated>
+    <updated>2022-08-27T15:17:23.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[보기 드문 음원 톱5..2·3·4세대 걸그룹 경쟁]]></title>
+        <id>https://entertain.v.daum.net/v/20220828000010409</id>
+        <link href="https://entertain.v.daum.net/v/20220828000010409"/>
+        <updated>2022-08-27T15:16:48.612Z</updated>
+        <content type="html"><![CDATA[16년 차 소녀시대와 7년 차 블랙핑크 그리고 신인 아이브·뉴진스 [더팩트 | 정병근 기자] 25일 자 멜론 일간차트를 보면 상위 10개의 음원이 모두 걸그룹 곡이다. 특히 톱5에 2~4세대 걸그룹이 공존하하고 경쟁을 펼치는 희귀한 모습이다. 최근 음원차트는 걸그룹이 절대적 강세를 보이고 있는데 8월 들어 특히 더 두드러졌다. 4세대 신인 걸그룹 아이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[입대 앞둔 하성운, 단독 콘서트 개최]]></title>
         <id>https://entertain.v.daum.net/v/20220827180010070</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220827153402283"/>
         <updated>2022-08-27T07:15:03.960Z</updated>
         <content type="html"><![CDATA[[텐아시아=우빈 기자] 그룹 뉴진스가 '쿠키(Cookie)'가 선정성 논란을 반박했다.&nbsp; 뉴진스의 소속사 어도어는 "이 곡은 'CD를 굽다'라는 표현이 '쿠키를 굽다'라는 표현과 같다는 아이디어에 착안해 걸그룹 신(Scene)에서 흔히 시도되지 않은 비트를 기반으로 앞으로 우리가 시도하려는 새로운 도전을 상징한다"고 설명했다. 그러면서 "'쿠키'는 곡]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['음악중심' 뉴진스vs더보이즈vs블랙핑크, 1위 후보 격돌]]></title>
-        <id>https://entertain.v.daum.net/v/20220827153335280</id>
-        <link href="https://entertain.v.daum.net/v/20220827153335280"/>
-        <updated>2022-08-27T07:15:03.960Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 뉴진스, 더보이즈, 블랙핑크가 1위 후보로 만났다. 8월 27일 방송된 MBC ‘쇼! 음악중심’에서는 8월 마지막 주 1위 후보가 공개 됐다. 이날 방송에서는 뉴진스의 ‘Attention’(어텐션), 더보이즈의 ‘WHISPER’(위스퍼), 블랙핑크의 ‘Pink Venom’(핑크 베놈)이 1위 후보로 올랐다. 지난 주 방송에서]]></content>
     </entry>
 </feed>
