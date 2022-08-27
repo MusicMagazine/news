@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-08-27T12:30:05.260Z</updated>
+    <updated>2022-08-27T13:30:00.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴진스, ‘쿠키’ 선정성 논란에 “불필요한 의심”(공식입장 전문)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000890138</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000890138"/>
+        <updated>2022-08-27T13:29:40.853Z</updated>
+        <content type="html"><![CDATA[걸그룹 뉴진스가 ‘쿠키’의 선정성 논란에 대해 해명과 함께 입장을 밝혔다. 소속사 어도어 측은 27일 공식홈페이지에 “뉴진스의 7월 22일 데뷔 이후 여러분께서 보여주신 놀라운 관심과 사랑에 진심으로 감사드린다”라고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅, 샴푸 홈쇼핑 판매도 조기 매진시켰다..역시 국민 '트롯왕자']]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003082431</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000877637"/>
         <updated>2022-08-27T08:19:28.149Z</updated>
         <content type="html"><![CDATA[그룹 블랙핑크가 ‘핑크 베놈’(Pink Venom) 무대를 최초 공개했다. 소속사 YG 엔터테인먼트 측은 27일 공식 유튜브에 ‘핑크 베놈’ 스페셜 스테이지(SPECIAL STAGE) 영상을 공개했다. 블랙핑크는 Y]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밴드 루시, '개미가 타고 있어요' OST 'Ant, Go Run!' 발표]]></title>
-        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003640031</id>
-        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003640031"/>
-        <updated>2022-08-27T08:19:28.150Z</updated>
-        <content type="html"><![CDATA[티빙 ‘개미가 타고 있어요’ OST를 제작하는 모스트콘텐츠가 27일 오후 6시 주요 음원 사이트를 통해 개미가 타고 있어요 OST part.2 ‘Ant, Go Run - LUCY’를 발매한다. ‘Ant, Go Run]]></content>
     </entry>
 </feed>
