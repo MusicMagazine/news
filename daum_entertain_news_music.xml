@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-08-28T19:14:12.916Z</updated>
+    <updated>2022-08-28T20:17:20.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[K팝 음반 월간 판매량 첫 1천만장 돌파.."글로벌 팬덤 확장"]]></title>
+        <id>https://entertain.v.daum.net/v/20220829050007695</id>
+        <link href="https://entertain.v.daum.net/v/20220829050007695"/>
+        <updated>2022-08-28T20:16:43.485Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이태수 기자 = 지난달 K팝 음반 판매량이 글로벌 팬덤 확장 등에 힘입어 사상 처음으로 1천만장을 돌파하는 신기록을 썼다. 29일 써클차트(옛 가온차트) 김진우 수석연구위원에 따르면 올해 7월 실물 음반 판매량(1∼400위 합산)은 전월보다 40.2%나 증가한 1천82만7천324장으로 집계됐다. 2010년 써클차트 집계가 시작된 이래 월]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이달의 소녀, 9월 日 싱글 발매.. 열도정복 선언]]></title>
         <id>https://entertain.v.daum.net/v/20220828223103091</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220828134106525"/>
         <updated>2022-08-28T04:54:44.698Z</updated>
         <content type="html"><![CDATA[[OSEN=지민경 기자]&nbsp;블랙핑크가 컴백 첫 주 글로벌 유튜브 뮤직 차트 1위를 휩쓸었다. 28일 유튜브가 발표한 최신 차트(8월 19일~8월 25일 집계)에 따르면 블랙핑크의 'Pink Venom'이 글로벌 유튜브 송 톱100 정상에 올랐다. 아울러 1주일 동안 가장 많이 본 뮤직비디오 역시 'Pink Venom'이었으며, 최고 아티스트 부문 또한 블]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙핑크, 글로벌 유튜브 1위 싹쓸이]]></title>
-        <id>https://entertain.v.daum.net/v/20220828133914469</id>
-        <link href="https://entertain.v.daum.net/v/20220828133914469"/>
-        <updated>2022-08-28T04:54:44.698Z</updated>
-        <content type="html"><![CDATA[지금 글로벌 유튜브는 블랙핑크 천하다. 블랙핑크가 컴백 첫 주 글로벌 유튜브 뮤직 차트 1위를 휩쓸었다. 28일 유튜브가 발표한 최신 차트(8월 19일~8월 25일 집계)에 따르면 블랙핑크의 ‘Pink Venom’이 글로벌 유튜브 송 톱100 정상에 올랐다. 또한 1주일 동안 가장 많이 본 뮤직비디오 역시 ‘Pink Venom’이었으며, 최고 아티스]]></content>
     </entry>
 </feed>
