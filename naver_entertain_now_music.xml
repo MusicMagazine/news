@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-08-28T13:28:30.839Z</updated>
+    <updated>2022-08-28T14:17:01.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이달의 소녀, 9월 日 싱글 발매... 열도정복 선언[공식]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001226968</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001226968"/>
+        <updated>2022-08-28T14:16:43.580Z</updated>
+        <content type="html"><![CDATA[걸그룹 이달의 소녀가 열도 사냥에 도전한다. 이달의 소녀는 오는 9월 28일 두 번째 일본 싱글 ‘JAPAN 2nd SINGLE 「LUMINOUS」’를 발매한다. 동명의 타이틀 곡 ‘LUMINOUS’는 이달의 소녀만]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[투모로우바이투게더 'Cat ＆ Dog 뮤비 1억뷰 돌파..통산 4번째(공식)]]></title>
         <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003583671</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000621203"/>
         <updated>2022-08-28T08:19:11.601Z</updated>
         <content type="html"><![CDATA[탁상행정도 이런 탁상행정이 없다. 이쯤 되면 2030 부산세계박람회(이하 부산 엑스포) 유치할 자격도 부족한 것이 아닐까. 2030 엑스포 차기 유치 국가는 내년 11월 국제박람회기구(BIE) 회원국 170개국이 참]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[왓IS] ‘콘셉트 장인’ 원어스, 신보 ‘말루스’가 기대되는 이유]]></title>
-        <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003227056</id>
-        <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003227056"/>
-        <updated>2022-08-28T07:16:27.063Z</updated>
-        <content type="html"><![CDATA[그룹 원어스(ONEUS)가 작정했다. 데뷔 이래 앨범마다 탄탄한 서사와 다채로운 콘셉트로 음악 팬들의 시선을 사로잡으며 데뷔 4년 차를 맞은 원어스가 다음 달 5일 새 미니앨범 ‘말루스’(MALUS)를 발매하고 컴백]]></content>
     </entry>
 </feed>
