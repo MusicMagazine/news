@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-08-29T13:39:21.844Z</updated>
+    <updated>2022-08-29T14:19:52.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["3년만의 K팝 공연에 눈물 날 것 같아"…도쿄돔 달군 'SM타운']]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013405721</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013405721"/>
+        <updated>2022-08-29T14:19:35.022Z</updated>
+        <content type="html"><![CDATA[10∼50대 다양한 연령층 팬들 도쿄로 27∼29일 사흘 공연 전석 매진 총 15만명 관람 박성진 특파원 무라타 사키코 통신원 = SM엔터테인먼트가 3년 만에 일본 도쿄의 도쿄돔에서 개최한 'SM타운 라이브 2022]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하성운, 단독 콘서트 소감 “유달리 기억에 남을 공연, 영원히 기억할 것”]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000833782</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000621779"/>
         <updated>2022-08-29T10:19:02.101Z</updated>
         <content type="html"><![CDATA[밴드 데이식스(DAY6) 리더 성진이 데뷔 7주년을 기념해 전역 당일 팬 마이데이(MY DAY)들과 재회한다. 8월 29일 데이식스 소속사 JYP엔터테인먼트에 따르면 성진은 9월 7일 오후 서울 강남구 모처에서 진행]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[월드&포토] VMA '2관왕' 블랙핑크]]></title>
-        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013405596</id>
-        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013405596"/>
-        <updated>2022-08-29T10:19:02.102Z</updated>
-        <content type="html"><![CDATA[미국의 유명 대중음악 시상식인 '2022 MTV 비디오 뮤직 어워즈'(VMA)가 열린 28일(현지시간) 미국 뉴저지주 푸르덴셜센터. 한 4인조 걸그룹이 등장하자 시상식장은 곧 현지 팬들의 환호로 뜨겁게 달아올랐습니다]]></content>
     </entry>
 </feed>
