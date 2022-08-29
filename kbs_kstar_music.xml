@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 06:05:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 07:21:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[콘서트] 포레스텔라, 전국투어 대장정 마무리!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=226551</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=226551</guid>
+            <pubDate>Mon, 29 Aug 2022 07:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=226551">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220829153552_494eec7adc964729d15b81849c3c312d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=226551">[콘서트] 포레스텔라, 전국투어 대장정 마무리!</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220829153552_494eec7adc964729d15b81849c3c312d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크, K-POP 걸그룹 최초 MTV VMAs 2관왕!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=226522</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=225219">김재환 'Empty Dream(엠프티 드림)' 콘셉트 필름 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220823073202_bf2bdffd589b21648379b73fb1b75754_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원어스 이도 상의 탈의...비주얼 티저 첫 주자!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=225060</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=225060</guid>
-            <pubDate>Mon, 22 Aug 2022 01:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=225060">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220822084403_529e0b2d41afea8aaa898545198e7c3b_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=225060">원어스 이도 상의 탈의...비주얼 티저 첫 주자!</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220822084403_529e0b2d41afea8aaa898545198e7c3b_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
