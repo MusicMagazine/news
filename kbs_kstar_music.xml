@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 01:46:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 04:11:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크, K-POP 걸그룹 최초 MTV VMAs 2관왕!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=226522</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=226522</guid>
+            <pubDate>Mon, 29 Aug 2022 04:08:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=226522">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220829111613_a037678598c490f1e7e8061e7af68c12.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=226522">블랙핑크, K-POP 걸그룹 최초 MTV VMAs 2관왕!</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220829111613_a037678598c490f1e7e8061e7af68c12.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[콘서트] 카리스마 폭발! 국민가수 박창근...전국투어 본격적 시작!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=226474</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=225060">원어스 이도 상의 탈의...비주얼 티저 첫 주자!</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220822084403_529e0b2d41afea8aaa898545198e7c3b_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[콘서트] FT아일랜드 "다 함께 신나게 놀아보자"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=225049</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=225049</guid>
-            <pubDate>Mon, 22 Aug 2022 01:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=225049">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220822083950_089f141f2b327facdaefdeb8fbbfc32d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=225049">[콘서트] FT아일랜드 "다 함께 신나게 놀아보자"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220822083950_089f141f2b327facdaefdeb8fbbfc32d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
