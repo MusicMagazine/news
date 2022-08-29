@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-08-29T12:31:37.784Z</updated>
+    <updated>2022-08-29T13:39:21.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하성운, 단독 콘서트 소감 “유달리 기억에 남을 공연, 영원히 기억할 것”]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000833782</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000833782"/>
+        <updated>2022-08-29T13:39:05.857Z</updated>
+        <content type="html"><![CDATA[가수 하성운이 단독 콘서트로 열정과 진심을 전했다. 하성운은 지난 27일과 28일 서울 세종대 대양홀에서 ‘2022 HA SUNG WOON CONCERT - Welcome to Strange World (웰컴 투 스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[피네이션 “현아·던 전속계약 만료”[공식]]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000833779</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013405596"/>
         <updated>2022-08-29T10:19:02.102Z</updated>
         <content type="html"><![CDATA[미국의 유명 대중음악 시상식인 '2022 MTV 비디오 뮤직 어워즈'(VMA)가 열린 28일(현지시간) 미국 뉴저지주 푸르덴셜센터. 한 4인조 걸그룹이 등장하자 시상식장은 곧 현지 팬들의 환호로 뜨겁게 달아올랐습니다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 템페스트 '성숙해진 모습으로 돌아왔다']]></title>
-        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000878162</id>
-        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000878162"/>
-        <updated>2022-08-29T10:19:02.104Z</updated>
-        <content type="html"><![CDATA[보이그룹 템페스트(TEMPEST)가 29일 서울 광진구 예스24라이브홀에서 열린 두 번째 미니앨범 ‘샤이닝 업’(SHINING UP) 발매 기념 쇼케이스에서 수록곡 ‘START UP’ 공연을 하고 있다. 2022.]]></content>
     </entry>
 </feed>
