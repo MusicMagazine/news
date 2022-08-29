@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2022-08-29T16:22:53.366Z</updated>
+    <updated>2022-08-29T17:22:11.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빌리, 사랑스러운 비주얼[화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001001110</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0001001110"/>
+        <updated>2022-08-29T17:22:02.069Z</updated>
+        <content type="html"><![CDATA[그룹 빌리의 화보가 공개돼 시선을 끈다. 세 번째 미니앨범 'the Billage of perception: chapter two'으로 컴백을 앞둔 빌리는 이번 화보에서 컴백 티저 비주얼과는 상반된 분위기의 사랑스러]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[태연 화보, 잡티없이 뽀얀 피부+차분한 분위기]]></title>
         <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001686534</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0005010660"/>
         <updated>2022-08-29T13:39:13.769Z</updated>
         <content type="html"><![CDATA[수영 선수 출신 박태환이 인생 첫 믹스 커피를 맛봤다. 29일 오후 방송된 MBC 예능프로그램 '안싸우면 다행이야'(이하 '안다행')에서는 박세리, 박태환, 강남이 무인도에서 아침을 맞는 모습이 전파를 탔다. 이날]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['강철볼', 첫 탈락전 스타트! "상대팀 박살내겠다" 불타는 의지]]></title>
-        <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003227325</id>
-        <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003227325"/>
-        <updated>2022-08-29T13:39:13.770Z</updated>
-        <content type="html"><![CDATA[채널A '강철볼-피구 전쟁'의 선공개 영상에서 첫 서바이벌 탈락전의 모습이 공개됐다. '강철볼' 공식 인스타그램에는 29일 선공개 영상이 올라왔으며, "강철 출신 특) 베네핏은 못 참음..베네핏이 걸린 양보 없는 대]]></content>
     </entry>
 </feed>
