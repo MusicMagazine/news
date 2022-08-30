@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-08-30T15:17:26.860Z</updated>
+    <updated>2022-08-30T16:23:20.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[눈물 쏟은 신지민, 감성팔이 승부수 "39kg까지 빠져"]]></title>
+        <id>https://entertain.v.daum.net/v/20220831011003260</id>
+        <link href="https://entertain.v.daum.net/v/20220831011003260"/>
+        <updated>2022-08-30T16:22:44.419Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) AOA 출신 신지민이&nbsp;2년 만에 눈물의 복귀 무대를 치렀다.&nbsp; 30일 첫 방송된 JTBC 예능프로그램 '두 번째 세계'에서는 유빈, 신지민, 문별, 미미, 엑시, 주이, 문수아, 김선유의 새로운 도전이 시작됐다.&nbsp; 방송 전부터 신지민의 복귀작으로 화제를 불러모은 '두 번째 세계'는 이날 신지민의 본 무대 전까지 흔한 리액션도 공]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['화밤' 은가은, 김민교 '일편단심' 재해석]]></title>
         <id>https://entertain.v.daum.net/v/20220831001410888</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220830180009261"/>
         <updated>2022-08-30T09:16:49.277Z</updated>
         <content type="html"><![CDATA[[동아닷컴] 그룹 샤이니 키가 오늘(30일) 오후 6시 정규 2집 [Gasoline(가솔린)]을 발매했다. 앨범과 동명의 타이틀 곡 ‘가솔린 (Gasoline)’은 키가 직접 작사에 참여한 힙합 댄스 곡이다. 자신만의 길을 향해 거침없이 직진하는 모습을 가솔린의 폭발적인 화력에 비유, 키의 넘치는 자신감과 포부를 보여준다. 함께 공개된 ‘가솔린 (G]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["건드리면 폭발" 샤이니 키, 거침없는 자신감 '가솔린']]></title>
-        <id>https://entertain.v.daum.net/v/20220830180008255</id>
-        <link href="https://entertain.v.daum.net/v/20220830180008255"/>
-        <updated>2022-08-30T09:16:49.280Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 샤이니 키가 거침없는 매력을 발산한다. 키는 8월 30일 오후 6시 정규 2집 앨범 'Gasoline(가솔린)'을 발매, 타이틀곡 '가솔린' 음원과 뮤직비디오를 공개했다. 이번 앨범은 지난해 9월 발매된 첫번째 미니앨범 'BAD LOVE' 이후 11개월 만의 솔로 컴백이자 지난 2018년 11월 발표한 정규 1집 'FACE' 이]]></content>
     </entry>
 </feed>
