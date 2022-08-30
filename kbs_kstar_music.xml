@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 07:28:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 08:22:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[일문일답] 솔라와 문별, 유닛 '마마무+'  "또 다른 매력, 또 다른 케미"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=226714</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=226714</guid>
+            <pubDate>Tue, 30 Aug 2022 08:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=226714">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220830160849_22bb12ce92d915bb9964bdfd2bebe133.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=226714">[일문일답] 솔라와 문별, 유닛 '마마무+'  "또 다른 매력, 또 다른 케미"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220830160849_22bb12ce92d915bb9964bdfd2bebe133.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뮤비가 좋다] 하성운, 'FOCUS' 퍼포먼스 비디오 공개...팬들 열광!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=226651</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=225368">[콘서트] 이준호 단독 콘서트...일본 팬들 열광시킨 '비포 미드나잇'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220823100837_5ce08011356fb1d0d3c51a6bfc18b2dc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하성운, 타이틀곡 퍼포먼스로 팬들 매료]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=225363</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=225363</guid>
-            <pubDate>Tue, 23 Aug 2022 04:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=225363">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220823100606_289685d1cdaf1c8a65639a8e55b947c0.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=225363">하성운, 타이틀곡 퍼포먼스로 팬들 매료</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220823100606_289685d1cdaf1c8a65639a8e55b947c0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
