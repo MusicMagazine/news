@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-08-30T11:15:57.095Z</updated>
+    <updated>2022-08-30T12:32:00.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['신선해' 신인선, 9·10월 미국 메릴랜드·뉴욕 공연 예정]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003083205</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003083205"/>
+        <updated>2022-08-30T12:31:43.020Z</updated>
+        <content type="html"><![CDATA['미스터 트롯' 출신 가수 신인선이 미국 순회 공연 예정이다. 신인선 소속사 빅컬쳐엔터테인먼트(대표이사 석현수)에 따르면 신인선은 오는 9월 24일(현지 시간 기준) 미국 메릴랜드에서 열리는 제 44회 메릴랜드 한인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘더쇼’ BAE173, 스트릿 감성부터 에너제틱 파워까지…‘걸음마(get him UGH)’와 ‘DaSH’]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000833956</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001494778"/>
         <updated>2022-08-30T09:17:09.489Z</updated>
         <content type="html"><![CDATA[샤이니 키가 소녀시대 완전체 곡 작업을 하던 프로듀서 켄지에게 자신의 곡도 부탁했다고 밝혔다. 키의 두 번째 정규앨범 'Gasoline'(가솔린) 발매 기념 온라인 기자간담회가 30일 오후 진행됐다. 타이틀곡 '가솔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전상근, 웹툰 '연애의 발견' 컬래버 음원 가창 참여…9월 8일 발매]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000890577</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000890577"/>
-        <updated>2022-08-30T09:17:09.490Z</updated>
-        <content type="html"><![CDATA[가수 전상근이 네이버 웹툰 '연애의 발견' OST에 참여한다. 전상근이 가창한 네이버 웹툰 '연애의 발견' 컬래버레이션 음원 '사랑의 시작은 고백에서부터'가 오는 9월 8일 발매된다. '사랑의 시작은 고백에서부터'는]]></content>
     </entry>
 </feed>
