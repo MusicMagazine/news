@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 22:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 23:16:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[황치열‧강다니엘‧김호중‧영탁, ‘더팩트 뮤직 어워즈’  합류]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=227002</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=227002</guid>
+            <pubDate>Wed, 31 Aug 2022 23:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=227002">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220901074523_9e5183cbaa4b2556d9bbd3250fe8b9ba.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=227002">황치열‧강다니엘‧김호중‧영탁, ‘더팩트 뮤직 어워즈’  합류</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220901074523_9e5183cbaa4b2556d9bbd3250fe8b9ba.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["대작의 귀환" 뮤지컬 '엘리자벳' 오늘 시즌 개막]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=226699</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=225332">KBS 명품대기획  '의궤, 8일간의 축제' 책으로 출간</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220823092921_58515fb5d95e525ab531b66fff6c6075.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하희라-임호 주연 연극 '러브레터' 아련한 첫사랑 감성]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=225237</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=225237</guid>
-            <pubDate>Tue, 23 Aug 2022 01:29:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=225237">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220823074624_9fb6925b81efedf62e02e86bf8d68c41.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=225237">하희라-임호 주연 연극 '러브레터' 아련한 첫사랑 감성 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220823074624_9fb6925b81efedf62e02e86bf8d68c41.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
