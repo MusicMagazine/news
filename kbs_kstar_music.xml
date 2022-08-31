@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 01:54:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 04:31:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[투모로우바이투게더 ‘GOOD BOY GONE BAD’ 일본 발매 쇼케이스]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=226892</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=226892</guid>
+            <pubDate>Wed, 31 Aug 2022 04:29:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=226892">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220831125134_45d9749b9d2b933f4abf6cb8a4f97950.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=226892">투모로우바이투게더 ‘GOOD BOY GONE BAD’ 일본 발매 쇼케이스 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220831125134_45d9749b9d2b933f4abf6cb8a4f97950.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['발라드 황제' 신승훈, '미소속에 비친 그대' 서울 공연 성료]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=226819</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=225413">트와이스, 새 앨범 'BETWEEN 1&amp;2' 하이라이트 메들리  </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220823145605_ba2f370ee8cea6eafc835d8e26328ca9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마마무, 유닛으로 출격! '마마무 플러스']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=225373</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=225373</guid>
-            <pubDate>Tue, 23 Aug 2022 04:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=225373">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220823101058_24752f4a33e1c50dd898ce2245cc70e1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=225373">마마무, 유닛으로 출격! '마마무 플러스'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220823101058_24752f4a33e1c50dd898ce2245cc70e1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
