@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-09-01T12:29:18.636Z</updated>
+    <updated>2022-09-01T13:36:26.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우기 '행복 미소' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000891112</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000891112"/>
+        <updated>2022-09-01T13:36:25.843Z</updated>
+        <content type="html"><![CDATA[여자 아이들 우기가 1일 오후 서울 성수동 대림창고에서 열린 패션 브랜드 행사에 참석하고 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우기 '상큼 매력' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000891109</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000891109"/>
+        <updated>2022-09-01T13:36:25.845Z</updated>
+        <content type="html"><![CDATA[여자 아이들 우기가 1일 오후 서울 성수동 대림창고에서 열린 패션 브랜드 행사에 참석하고 있다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우기 '인형 비주얼' [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000891108</id>
@@ -90,7 +104,7 @@
         <content type="html"><![CDATA[모델 최소라가 1일 오후 서울 성수동 대림창고에서 열린 패션 브랜드 행사에 참석하고 있다.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[페기 구 '파�Ю岵� 시스루 패션' [MK포토]]]></title>
+        <title type="html"><![CDATA[페기 구 '파격적인 시스루 패션' [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000891095</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000891095"/>
         <updated>2022-09-01T12:29:17.867Z</updated>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000891043"/>
         <updated>2022-09-01T08:24:06.731Z</updated>
         <content type="html"><![CDATA[배우 한소희가 1일 오후 서울 성수동에서 열린 패션쇼 행사에 참석하고 있다. 이날 행사에는 배우 한소희, 서현진, 주현영, 모델 송해나, 아이린, 김나영 등이 참석해 자리를 빛냈다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주현영 '귀여운 인사' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000891041</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000891041"/>
-        <updated>2022-09-01T08:24:06.731Z</updated>
-        <content type="html"><![CDATA[배우 주현영이 1일 오후 서울 성수동에서 열린 패션쇼 행사에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김나영 '숏컷 매력' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000891040</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000891040"/>
-        <updated>2022-09-01T08:24:06.743Z</updated>
-        <content type="html"><![CDATA[방송인 김나영이 1일 오후 서울 성수동에서 열린 패션쇼 행사에 참석하고 있다.]]></content>
     </entry>
 </feed>
