@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-09-02T14:15:22.099Z</updated>
+    <updated>2022-09-02T15:19:10.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['히든싱어7' 손지창‧이경영 "김민종, 형 같은 동생"]]></title>
+        <id>https://v.daum.net/v/20220902232207480</id>
+        <link href="https://v.daum.net/v/20220902232207480"/>
+        <updated>2022-09-02T15:18:31.789Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 이기은 기자] '히든싱어7' 손지창, 이경영이 김민종 성품을 극찬했다. 2일 밤 방송된 JTBC 예능프로그램 '히든싱어7'에서는 가수 김민종, 모창 능력자들의 대결이 공개됐다. 이날 전현무는 과거 남성 듀오로 활약했던 손지창, 김민종의 불화설 여부를 궁금해 했다. 이에 손지창은 “사실 민종이는 굉장히 동생이지만 형 같은 동생이다. 사람 챙기고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[갓세븐 제이비, 21일 솔로 컴백]]></title>
         <id>https://v.daum.net/v/20220902223007169</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220902174119979"/>
         <updated>2022-09-02T09:15:55.557Z</updated>
         <content type="html"><![CDATA[[스타뉴스 윤성열 기자] /사진제공=아이오케이컴퍼니 7인조 걸 그룹 앨리스(ALICE) 멤버 이제이(EJ)의 부친이 교통사고 수습 중 불의의 사고로 사망했다. 소속사 아이오케이 컴퍼니는 "지난 1일 오후 3시5분쯤 전남 순천시 서면 순천-완주고속도로 서면 5터널(전주 방면)에서 A씨가 몰던 25톤 탱크로리 차량이 앞선 교통사고로 나란히 정차 중인 승용차]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앨리스 이제이 부친상 "안타까운 교통사고..母와 빈소 지켜"]]></title>
-        <id>https://v.daum.net/v/20220902173340784</id>
-        <link href="https://v.daum.net/v/20220902173340784"/>
-        <updated>2022-09-02T09:15:55.559Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 전아람 기자) &nbsp;걸그룹 앨리스(ALICE)의 이제이(EJ)가 부친상을 당했다. 2일 소속사 아이오케이 컴퍼니는 "지난 1일 오후 3시5분쯤 전남 순천시 서면 순천~완주고속도로 서면 5터널(전주 방면)에서 A씨가 몰던 25톤 탱크로리 차량이 교통사고를 냈다"고 전했다. 이어 "나란히 정차 중인 승용차 4대를 덮치는 이 사고로, 승용차 운전자인]]></content>
     </entry>
 </feed>
