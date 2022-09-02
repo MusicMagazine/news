@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-09-02T18:20:30.851Z</updated>
+    <updated>2022-09-02T19:13:27.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김호중 전국투어 돌입..시작은 서울]]></title>
+        <id>https://v.daum.net/v/20220903040012677</id>
+        <link href="https://v.daum.net/v/20220903040012677"/>
+        <updated>2022-09-02T19:12:54.114Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 김호중 전국투어 돌입…시작은 서울 [공식] 가수 김호중이 전국투어 콘서트에 돌입한다. 2일 소속사 생각엔터테인먼트에 따르면 김호중은 오는 30일부터 10월 2일까지 서울 송파구 올림픽 체조경기장(케이스포돔)에서 전국투어 콘서트 ‘2022 KIM HO JOONG CONCERT TOUR [ ARISTRA ]’(이하 ‘아리스트라’)를 연다. 김호중]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['히든싱어7' 손지창‧이경영 "김민종, 형 같은 동생"]]></title>
         <id>https://v.daum.net/v/20220902232207480</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220902174739175"/>
         <updated>2022-09-02T09:15:55.557Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 그룹 아이브(IVE, 안유진·가을·레이·장원영·리즈·이서)가 세 번째 싱글 '애프터 라이크(After LIKE)'로 '밀리언셀러'에 등극했다. 9월 1일 써클 차트(구 가온차트)에 따르면 지난 8월 22일 발매한 아이브의 '애프터 라이크'는 108만 1,201장의 판매고를 올렸다. 이는 지난해부터 올해 데뷔한 신인 그룹 중 최고의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앨리스 이제이 父, 교통사고 수습 중 탱크로리 덮쳐 사망 '비보']]></title>
-        <id>https://v.daum.net/v/20220902174119979</id>
-        <link href="https://v.daum.net/v/20220902174119979"/>
-        <updated>2022-09-02T09:15:55.557Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 윤성열 기자] /사진제공=아이오케이컴퍼니 7인조 걸 그룹 앨리스(ALICE) 멤버 이제이(EJ)의 부친이 교통사고 수습 중 불의의 사고로 사망했다. 소속사 아이오케이 컴퍼니는 "지난 1일 오후 3시5분쯤 전남 순천시 서면 순천-완주고속도로 서면 5터널(전주 방면)에서 A씨가 몰던 25톤 탱크로리 차량이 앞선 교통사고로 나란히 정차 중인 승용차]]></content>
     </entry>
 </feed>

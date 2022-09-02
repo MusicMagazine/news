@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-09-02T18:20:30.850Z</updated>
+    <updated>2022-09-02T19:13:27.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에릭남, 11월 서울 공연…3년8개월만]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011400577</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011400577"/>
+        <updated>2022-09-02T19:13:12.302Z</updated>
+        <content type="html"><![CDATA[한국계 미국 국적 가수 에릭남이 월드투어의 하나로 서울에서 공연한다. 3일 라이브네이션코리아에 따르면, 에릭남은 오는 11월20일 광장동 예스24 라이브홀에서 팬들을 만난다. 국내에서 2019년 2월 블루스퀘어 아이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대도서관, 플로오디오 콘텐츠 ‘내가수 뽕차게’ 공개]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000834700</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000834666"/>
         <updated>2022-09-02T12:32:11.041Z</updated>
         <content type="html"><![CDATA[‘신흥 발라드 여제’ 가수 HYNN(박혜원)이 보그 화보를 통해 트렌디하고 세련된 매력을 발산했다. 최근 패션매거진 ‘보그코리아’ 9월호를 통해 HYNN(박혜원)을 비롯한 WSG워너비 멤버들의 감각적인 모습을 담은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임영웅, 스타왕중왕 8주 연속 1위 '쾌거'..지금은 영웅시대]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003084081</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003084081"/>
-        <updated>2022-09-02T12:32:11.043Z</updated>
-        <content type="html"><![CDATA[가수 임영웅이 스타왕중왕 랭킹 투표에서 8주 연속 정상에 등극했다. 임영웅은 8월 26일 오후 3시 1분부터 9월 2일 오후 3시까지 진행된 8월 4주(8차) 스타왕중왕 랭킹 투표에서 1위를 차지했다. 임영웅은 이번]]></content>
     </entry>
 </feed>
