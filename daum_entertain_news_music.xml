@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-09-03T15:17:11.524Z</updated>
+    <updated>2022-09-03T16:21:16.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한강 노을 아래서 박주원X손태진의 콜라보 공연을 보는 즐거움]]></title>
+        <id>https://v.daum.net/v/20220904005112035</id>
+        <link href="https://v.daum.net/v/20220904005112035"/>
+        <updated>2022-09-03T16:20:38.992Z</updated>
+        <content type="html"><![CDATA[[헤럴드경제 = 서병기 선임기자]강력태풍이 온다고 하니 잔뜩 겁이 난다. 지난 1일 열린 ‘2022 AUTUMN 노들 노을 페스타’에서의 박주원과 손태진의 콜라보 공연은 음악과 날씨가 완벽한 조화를 이뤘다. 공연이 열린 서울 노들섬 3층 테라스는 조망이 가장 뛰어난 곳이다. 아름다운 한강의 노을 아래서 맥주를 마시며 라이브 콘서트를 즐길 수 있다. 지난 6]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스테이씨, 美 9만 관객 사로 잡았다]]></title>
         <id>https://v.daum.net/v/20220903232310641</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220903153702585"/>
         <updated>2022-09-03T07:14:58.877Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이하나 기자] 뉴진스, 블랙핑크, 아이브가 1위 후보로 만났다. 9월 3일 방송된 MBC ‘쇼! 음악중심’에서는 9월 첫째 주 1위 후보가 공개 됐다. 이날 방송에서는 뉴진스의 ‘Attention’(어텐션), 블랙핑크의 ‘Pink Venom’(핑크 베놈), 아이브의 ‘After LIKE’(애프터 라이크)가 1위 후보에 올랐다. 뉴진스, 블랙]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['프로듀스2' 출신 정동수, 사생활‧욕설 논란 사과]]></title>
-        <id>https://v.daum.net/v/20220903151607355</id>
-        <link href="https://v.daum.net/v/20220903151607355"/>
-        <updated>2022-09-03T06:21:17.171Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 이기은 기자] Mnet ‘프로듀스101 시즌2’에 출연한 정동수가 사생활 논란을 정식 사과했다. 정동수는 앞서 팬에게 욕설을 내뱉은 일과 문란한 사생활 논란에 휩싸인 바 있다. 이에 그는 3일 자신의 SNS를 통해 “저의 미성숙하고 잘못된 행동으로 인해 불쾌감과 상처를 받으신 당사자 모든 분께 진심으로 죄송하다”고 밝혔다. 이어 그는 욕설 의]]></content>
     </entry>
 </feed>

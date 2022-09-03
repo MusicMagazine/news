@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-09-03T15:17:11.500Z</updated>
+    <updated>2022-09-03T16:21:16.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[서병기 연예톡톡]한강 노을 아래서 박주원X손태진의 콜라보 공연을 보는 즐거움]]></title>
+        <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0002036565</id>
+        <link href="https://entertain.naver.com/now/read?oid=016&amp;aid=0002036565"/>
+        <updated>2022-09-03T16:21:00.060Z</updated>
+        <content type="html"><![CDATA[강력태풍이 온다고 하니 잔뜩 겁이 난다. 지난 1일 열린 ‘2022 AUTUMN 노들 노을 페스타’에서의 박주원과 손태진의 콜라보 공연은 음악과 날씨가 완벽한 조화를 이뤘다. 공연이 열린 서울 노들섬 3층 테라스는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스테이씨(STAYC), 美 9만 관객 사로 잡았다]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003084280</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013417527"/>
         <updated>2022-09-03T12:27:18.893Z</updated>
         <content type="html"><![CDATA[3일 오후 강원 원주시 간현관광지 특설무대에서 열린 'MBC 강변가요제 뉴챌린지' 본선 무대에서 구만이 경연을 펼치고 있다. 2022.9.3]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여성 4인조 BGH4, 길옥윤 ‘빛과 그림자’ 리메이크 버전 오늘 발매]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000624311</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000624311"/>
-        <updated>2022-09-03T12:27:18.894Z</updated>
-        <content type="html"><![CDATA[여성 4인조 보컬 그룹 BGH4(비지에이치포)가 길옥윤 곡 ‘빛과 그림자’를 리메이크 했다. BGH4는 가비엔제이 프로젝트 그룹 H7미인 멤버들로 구성된 여성 4인조. 9월 3일 오후 6시 각종 음원사이트를 통해 ‘]]></content>
     </entry>
 </feed>
