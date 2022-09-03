@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-09-03T18:19:35.246Z</updated>
+    <updated>2022-09-03T19:16:04.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남아공 아빠 앤디 "아이들 자연에서 뛰놀아야"…고민 토로]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011401186</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011401186"/>
+        <updated>2022-09-03T19:15:48.559Z</updated>
+        <content type="html"><![CDATA[장인영 인턴 기자 = 남아프리카공화국 아빠 앤디의 '자연주의' 육아 일상이 공개된다. 오는 4일 오후 9시 10분 방송하는 MBC TV 예능물 '물 건너온 아빠들'에서는 '뉴페이스' 남아공 아빠 앤디의 자연주의 육아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[서병기 연예톡톡]한강 노을 아래서 박주원X손태진의 콜라보 공연을 보는 즐거움]]></title>
         <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0002036565</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013417528</id>
         <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013417528"/>
         <updated>2022-09-03T12:27:18.892Z</updated>
-        <content type="html"><![CDATA[3일 오후 강원 원주시 간현관광지 특설무대에서 열린 'MBC 강변가요제 뉴챌린지' 본선 무대에서 구만이 경연을 펼치고 있다. 2022.9.3]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구만, 레트로 감성 물씬]]></title>
-        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013417527</id>
-        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013417527"/>
-        <updated>2022-09-03T12:27:18.893Z</updated>
         <content type="html"><![CDATA[3일 오후 강원 원주시 간현관광지 특설무대에서 열린 'MBC 강변가요제 뉴챌린지' 본선 무대에서 구만이 경연을 펼치고 있다. 2022.9.3]]></content>
     </entry>
 </feed>
