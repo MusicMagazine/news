@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-09-03T14:15:58.953Z</updated>
+    <updated>2022-09-03T15:17:11.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스테이씨(STAYC), 美 9만 관객 사로 잡았다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003084280</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003084280"/>
+        <updated>2022-09-03T15:16:55.098Z</updated>
+        <content type="html"><![CDATA[그룹 스테이씨 (STAYC)가 글로벌 관객들을 열광케 했다. 소속사 하이업엔터테인먼트에 따르면 스테이씨 (수민, 시은, 아이사, 세은, 윤, 재이)는 지난달 19일부터 21일까지 'KCON 2022 LA (케이콘 2]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강변가요제 '화려한 부활'…7080부터 MZ세대까지 함께 즐겼다(종합)]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013417562</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000624311"/>
         <updated>2022-09-03T12:27:18.894Z</updated>
         <content type="html"><![CDATA[여성 4인조 보컬 그룹 BGH4(비지에이치포)가 길옥윤 곡 ‘빛과 그림자’를 리메이크 했다. BGH4는 가비엔제이 프로젝트 그룹 H7미인 멤버들로 구성된 여성 4인조. 9월 3일 오후 6시 각종 음원사이트를 통해 ‘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강변가요제 '화려한 부활'…7080부터 MZ세대까지 함께 즐겼다]]></title>
-        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013417517</id>
-        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013417517"/>
-        <updated>2022-09-03T12:27:18.899Z</updated>
-        <content type="html"><![CDATA[21년만에 원주에서 가족형 오디션 프로그램으로 거듭 태어나 5천여 관객 세대·연령 뛰어넘는 '명불허전' 무대에 박수갈채 부모 세대에 '추억과 향수' 선사…자녀 세대는 '호기심' 발동 (원주=연합뉴스) 이재현 기자 =]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-09-03T14:15:58.955Z</updated>
+    <updated>2022-09-03T15:17:11.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스테이씨, 美 9만 관객 사로 잡았다]]></title>
+        <id>https://v.daum.net/v/20220903232310641</id>
+        <link href="https://v.daum.net/v/20220903232310641"/>
+        <updated>2022-09-03T15:16:36.817Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김수진 기자] 스테이씨 (STAYC) /사진제공=하이업엔터테인먼트그룹 스테이씨 (STAYC)가 글로벌 관객들을 열광케 했다. 소속사 하이업엔터테인먼트에 따르면 스테이씨 (수민, 시은, 아이사, 세은, 윤, 재이)는 지난달 19일부터 21일까지 'KCON 2022 LA (케이콘 2022 LA)' 무대에 오른 뒤 지난달 23일부터 1일까지 미국 6]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['히든싱어7' 김민종·레이든 협업곡 '비원' 발매]]></title>
         <id>https://v.daum.net/v/20220903230352528</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220903151607355"/>
         <updated>2022-09-03T06:21:17.171Z</updated>
         <content type="html"><![CDATA[[티브이데일리 이기은 기자] Mnet ‘프로듀스101 시즌2’에 출연한 정동수가 사생활 논란을 정식 사과했다. 정동수는 앞서 팬에게 욕설을 내뱉은 일과 문란한 사생활 논란에 휩싸인 바 있다. 이에 그는 3일 자신의 SNS를 통해 “저의 미성숙하고 잘못된 행동으로 인해 불쾌감과 상처를 받으신 당사자 모든 분께 진심으로 죄송하다”고 밝혔다. 이어 그는 욕설 의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하이브 레이블즈 재팬 첫 글로벌 그룹 탄생, 지코→엔하이픈 지원사격]]></title>
-        <id>https://v.daum.net/v/20220903145332130</id>
-        <link href="https://v.daum.net/v/20220903145332130"/>
-        <updated>2022-09-03T06:21:17.180Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 하이브 레이블즈 재팬의 첫 글로벌 그룹이 탄생한다. 하이브 레이블즈 재팬은 9월 3일 오후 4시 공식 유튜브 채널과 니혼TV, 훌루 인 재팬(Hulu in Japan) 등을 통해 ‘앤 오디션- 더 하울링 - 파이널 라운드’를 전 세계 동시 생중계(일부 지역 제외)한다. 국내에서는 하이브 레이블즈 공식 유튜브 채널을 통해 시청할 수]]></content>
     </entry>
 </feed>
