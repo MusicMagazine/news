@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-09-03T13:30:20.255Z</updated>
+    <updated>2022-09-03T14:15:58.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강변가요제 '화려한 부활'…7080부터 MZ세대까지 함께 즐겼다(종합)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013417562</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013417562"/>
+        <updated>2022-09-03T14:15:41.485Z</updated>
+        <content type="html"><![CDATA[21년 만에 원주에서 가족형 오디션 프로그램으로 거듭 태어나 5천여 관객 세대·연령 뛰어넘는 '명불허전' 무대에 박수갈채 부모 세대에 '추억과 향수' 선사…자녀 세대는 '호기심' 발동 (원주=연합뉴스) 이재현 기자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[21년 만에 부활한 MBC 강변가요제]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013417554</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013417517"/>
         <updated>2022-09-03T12:27:18.899Z</updated>
         <content type="html"><![CDATA[21년만에 원주에서 가족형 오디션 프로그램으로 거듭 태어나 5천여 관객 세대·연령 뛰어넘는 '명불허전' 무대에 박수갈채 부모 세대에 '추억과 향수' 선사…자녀 세대는 '호기심' 발동 (원주=연합뉴스) 이재현 기자 =]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘라이브온’ 요아리, ‘빛그림’으로 매력적 보이스 자랑]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000891397</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000891397"/>
-        <updated>2022-09-03T12:27:18.900Z</updated>
-        <content type="html"><![CDATA[‘라이브온’ 요아리가 ‘빛그림’으로 완벽한 라이브를 자랑했다. 요아리는 3일 오후 4시부터 방송된 아리랑TV ‘라이브온’에 출연했다. 이번 ‘라이브온’에서도 요아리는 매혹적인 분위기를 풍기는 동시에 귀를 홀리는 목소]]></content>
     </entry>
 </feed>

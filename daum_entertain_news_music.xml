@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-09-03T13:30:20.265Z</updated>
+    <updated>2022-09-03T14:15:58.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['히든싱어7' 김민종·레이든 협업곡 '비원' 발매]]></title>
+        <id>https://v.daum.net/v/20220903230352528</id>
+        <link href="https://v.daum.net/v/20220903230352528"/>
+        <updated>2022-09-03T14:15:23.338Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = '히든싱어' 시즌7의 세 번째 히든 송이 음원으로 공개됐다. JTBC 음악 예능 '히든싱어7'의 '에피소드 3' 음원이 3일 낮 12시 각종 음원사이트를 통해 발매됐다. 이번 시즌의 세 번째 히든 송으로 공개되는 음원은 김민종의 '비원(悲願)'으로, DJ 레이든이 협업해 색다른 매력을 담아냈다. '비원'은 이별을 마주한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['J에게' 이선희·'담다디' 이상은의 강변가요제 21년만에 '부활']]></title>
         <id>https://v.daum.net/v/20220903221706250</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220903145332130"/>
         <updated>2022-09-03T06:21:17.180Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 하이브 레이블즈 재팬의 첫 글로벌 그룹이 탄생한다. 하이브 레이블즈 재팬은 9월 3일 오후 4시 공식 유튜브 채널과 니혼TV, 훌루 인 재팬(Hulu in Japan) 등을 통해 ‘앤 오디션- 더 하울링 - 파이널 라운드’를 전 세계 동시 생중계(일부 지역 제외)한다. 국내에서는 하이브 레이블즈 공식 유튜브 채널을 통해 시청할 수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["열애 차치, 피해자"..뷔‧제니, 프라이버시 추락 史]]></title>
-        <id>https://v.daum.net/v/20220903145207116</id>
-        <link href="https://v.daum.net/v/20220903145207116"/>
-        <updated>2022-09-03T06:21:17.189Z</updated>
-        <content type="html"><![CDATA[☞ 기사 내용 요약 뷔·제니 해킹범, 두문불출 범행 프라이버시 주기 유출, 피해자 심적 압박 노렸나 목적은 돈vs관심 유력 [티브이데일리 이기은 기자] 방탄소년단(BTS) 뷔(V, 김태형), 블랙핑크(BLACKPINK) 제니 사생활 사진 유출이 업계 경종을 울리는 가운데, 해킹범의 두문불출 향후 행보를 향한 팬들의 우려가 높아지고 있다. 지난 5월부터 두]]></content>
     </entry>
 </feed>
