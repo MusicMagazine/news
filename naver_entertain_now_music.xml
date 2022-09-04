@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-09-04T11:13:08.656Z</updated>
+    <updated>2022-09-04T12:30:41.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블랙핑크, 'Pink Venom'으로 '인기가요' 1위..음방 4관왕(공식)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003585252</id>
+        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003585252"/>
+        <updated>2022-09-04T12:30:26.280Z</updated>
+        <content type="html"><![CDATA[블랙핑크가 음악방송 4관왕을 달성했다. 그룹 블랙핑크의 정규 2집 선공개곡 'Pink Venom'이 4일 오후 방송된 SBS '인기가요' 9월 첫째주 1위를 차지했다. 이로써 블랙핑크는 'Pink Venom'을 통해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원어스 표 섹시 향에 빠지다…컴백 기대 포인트 셋]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000891467</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003585203"/>
         <updated>2022-09-04T06:19:57.058Z</updated>
         <content type="html"><![CDATA[에스파가 일본 도쿄 걸즈 컬렉션 엔딩 무대를 장식했다. 에스파는 지난 3일 펼쳐진 제35회 마이나비 도쿄걸즈컬렉션 2022에 참석, 강렬한 퍼포먼스를 펼쳤다. 특히 도쿄걸즈컬렉션은 매회 2만명 이상의 관객을 동원하는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랭키, 美 타이달 플레이리스트 커버 장식]]></title>
-        <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003228066</id>
-        <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003228066"/>
-        <updated>2022-09-04T06:19:57.059Z</updated>
-        <content type="html"><![CDATA[보이그룹 블랭키(BLANK2Y)가 빌보드에 이어 타이달(TIDAL)에서도 집중 조명을 받았다. 소속사 키스톤엔터테인먼트는 최근 블랭키가 글로벌 고음질 음원 스트리밍 플랫폼 타이달의 ‘마스터스 플레이리스트’ 커버 아티]]></content>
     </entry>
 </feed>
