@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-09-04T09:15:22.114Z</updated>
+    <updated>2022-09-04T10:16:50.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블랙핑크의 힘, 음원성적만으로 음악방송 4관왕 달성]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001227689</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001227689"/>
+        <updated>2022-09-04T10:16:32.395Z</updated>
+        <content type="html"><![CDATA[걸그룹 블랙핑크가 음악방송 4관왕의 금자탑을 세웠다. 오로지 음원성적만으로 이룬 쾌거다. 블랙핑크의 ‘Pink Venom’은 4일 방송된 SBS ‘인기가요’에서 1위를 차지하며 음악방송 4관왕을 달성했다. 이는 방송]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘인기가요’ 퍼펙트 트라이비 홀릭]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000834899</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=408&amp;aid=0000166023"/>
         <updated>2022-09-04T06:19:57.061Z</updated>
         <content type="html"><![CDATA[소녀시대가 대규모 스페셜 팬 이벤트로 데뷔 15주년 활동을 성공적으로 마무리했다. 3일 오후 7시 소녀시대의 ‘2022 Girls’ Generation Special Event - Long Lasting Love’(]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투, 싱글 3집 '굿 보이 곤 배드' 日 오리콘 일간차트 정상]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011401747</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011401747"/>
-        <updated>2022-09-04T06:19:57.062Z</updated>
-        <content type="html"><![CDATA[그룹 '투모로우바이투게더(TXT·투바투)'가 일본 오리콘 차트 정상을 차지했다. 4일 일본 오리콘이 발표한 최신 차트(9월2일자)에 따르면 투모로우바이투게더의 일본 싱글 3집 '굿 보이 곤 배드(GOOD BOY GO]]></content>
     </entry>
 </feed>
