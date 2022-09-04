@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-09-04T19:14:31.048Z</updated>
+    <updated>2022-09-04T20:19:17.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["갑자기 목소리가…" 캐나다 가수 위켄드, LA공연 중 중단]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013418953</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013418953"/>
+        <updated>2022-09-04T20:18:59.964Z</updated>
+        <content type="html"><![CDATA[김태종 특파원 = 캐나다 싱어송라이터 위켄드(The Weekend)가 3일(현지시간) 로스앤젤레스(LA) 콘서트 도중 목소리가 쉬는 바람에 갑자기 공연을 중단했다. 4일 LA타임스 등 현지 매체에 따르면 위켄드는 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블랙핑크, '인기가요' 1위…'핑크베놈' 음악방송 4관왕]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011402078</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003084376"/>
         <updated>2022-09-04T06:19:57.055Z</updated>
         <content type="html"><![CDATA[가수 임영웅이 국내 주요 음원 플랫폼 지니(Genie) 실시간 차트 톱10을 점령하며 인기를 빛냈다. 임영웅은 9월 4일 오전 8시 기준 지니 실시간 차트 톱10에 무려 9곡을 진입시켰다. 지난해 10월 발매한 KB]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임영웅, 멜론 톱10 석권]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003084375</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003084375"/>
-        <updated>2022-09-04T06:19:57.057Z</updated>
-        <content type="html"><![CDATA[가수 임영웅이 국내 최대 음원 플랫폼 멜론(Melon) 톱10 상위권을 석권하며 존재감을 빛냈다. 임영웅은 9월 4일 오전 8시 기준 멜론 메인차트인 TOP100 톱10에 5곡을 랭크시켰다. 지난해 10월 발매된 ']]></content>
     </entry>
 </feed>
