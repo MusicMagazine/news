@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-09-05T20:19:16.866Z</updated>
+    <updated>2022-09-05T21:16:43.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅 '보금자리' 9월 둘째 주 '더트롯쇼' 1위]]></title>
+        <id>https://v.daum.net/v/20220906060320716</id>
+        <link href="https://v.daum.net/v/20220906060320716"/>
+        <updated>2022-09-05T21:16:05.208Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 문완식 기자] 가수 임영웅이 '보금자리'로 '더트롯쇼' 1위에 오르며 인기를 빛냈다. 임영웅은 9월 5일 방송된 SBS FiL, SBS M '더트롯쇼'에서 '보금자리'로 9월 둘째 주 1위를 차지했다. 임영웅은 음원점수+시청자 선호도점수 4318, 방송점수+사전투표점수 2300, 실시간투표 2000으로 총점 8618점을 기록, 1위에 올]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엑소 시우민, 26일 데뷔 첫 솔로 앨범 발매]]></title>
         <id>https://v.daum.net/v/20220905234508551</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220905173935448"/>
         <updated>2022-09-05T09:17:52.533Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 보이그룹 크래비티(세림, 앨런, 정모, 우빈, 원진, 민희, 형준, 태영, 성민)가 새 앨범으로 돌아온다. 크래비티는 9월 4일 오후 공식 SNS를 통해 미니 4집 앨범 'NEW WAVE'(뉴 웨이브) 스케줄러 이미지를 선보였다. 지난달 커밍순 이미지를 기습 공개하며 9월 컴백을 예고한 크래비티는 스케줄러 이미지를 통해 27일로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['시네마' 임윤성, '미드나잇 드라이버' M/V 촬영장 비하인드 컷 공개]]></title>
-        <id>https://v.daum.net/v/20220905173928442</id>
-        <link href="https://v.daum.net/v/20220905173928442"/>
-        <updated>2022-09-05T09:17:52.533Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 보컬리스트 겸 트럼펫 연주자 임윤성이 강렬한 카리스마를 뽐냈다. AW엔터테인먼트는 지난 9월 4일 오후 6시 공식 SNS 채널을 통해 임윤성의 첫 솔로 싱글 ‘Midnight Driver(미드나잇 드라이버)’ 뮤직비디오 촬영장에서 찍은 사진 여러 장을 공개했다. 사진 속 임윤성은 화이트톤과 레드톤의 두 배경으로 상반된 분위기를 자]]></content>
     </entry>
 </feed>
