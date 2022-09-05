@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 01:44:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 04:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뮤비가 좋다] 아이브에게 완전히 푹 빠졌다는 게 중요한 거지 '애프터 라이크']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=227594</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=227594</guid>
+            <pubDate>Mon, 05 Sep 2022 04:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=227594">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220905125849_d50a59703e0c3486729d81c78bb8ab29.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=227594">[뮤비가 좋다] 아이브에게 완전히 푹 빠졌다는 게 중요한 거지 '애프터 라이크'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220905125849_d50a59703e0c3486729d81c78bb8ab29.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크, 정규 2집 'BORN PINK'  글로벌 음악 시장 정조준]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=227516</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=225677">열일하는 홍이삭, 활발한 음악 활동으로 팬들 만난다</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220824140617_a5de99112739a2bc64556bf5f14c5402.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뮤비가 좋다] 'Pink Venom' 독 품은 블랙핑크, "자 오늘 밤이야~"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=225567</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=225567</guid>
-            <pubDate>Wed, 24 Aug 2022 06:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=225567">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220824101812_5324effbef3ce49a9817ca27b5b0b2d1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=225567">[뮤비가 좋다] 'Pink Venom' 독 품은 블랙핑크, "자 오늘 밤이야~"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220824101812_5324effbef3ce49a9817ca27b5b0b2d1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
