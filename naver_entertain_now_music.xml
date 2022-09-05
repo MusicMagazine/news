@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-09-05T14:18:57.201Z</updated>
+    <updated>2022-09-05T15:17:25.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["아슬아슬한 섹시"…원어스, 직관적인 유혹(종합)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000170975</id>
+        <link href="https://entertain.naver.com/now/read?oid=629&amp;aid=0000170975"/>
+        <updated>2022-09-05T15:17:07.554Z</updated>
+        <content type="html"><![CDATA[5일 오후 6시 미니 8집 'MALUS' 발매 그룹 원어스(ONEUS)가 섹시를 장착해 한층 성장하고 성숙한 퍼포먼스를 완성했다. 원어스(RAVN(레이븐)·서호·이도·건희·환웅·시온)가 5일 오후 1시 30분 서울]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위나, 데뷔곡 ‘Like Psycho’ 무대 공개…입덕 유발 ‘핫루키’(심플리케이팝)]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000891661</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004746334"/>
         <updated>2022-09-05T10:19:09.315Z</updated>
         <content type="html"><![CDATA[그룹 트라이비 켈리가 2일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HK직캠｜CIX 현석, '감탄만 나오는 멋진 남자' (뮤직뱅크 출근길)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004746333</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004746333"/>
-        <updated>2022-09-05T10:19:09.315Z</updated>
-        <content type="html"><![CDATA[그룹 CIX 현석이 2일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content>
     </entry>
 </feed>
