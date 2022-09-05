@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-09-05T18:21:39.467Z</updated>
+    <updated>2022-09-05T19:13:02.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오징어게임' 비영어 드라마 최초 에미상 4개 부문 수상]]></title>
+        <id>https://v.daum.net/v/20220906040406271</id>
+        <link href="https://v.daum.net/v/20220906040406271"/>
+        <updated>2022-09-05T19:12:30.636Z</updated>
+        <content type="html"><![CDATA[넷플릭스 시리즈 ‘오징어게임’이 미국 방송계 최고 권위상으로 꼽히는 에미상 시상식에서 비영어 드라마 최초로 트로피를 들어올리며 K드라마 신기록을 세웠다. 미국 로스앤젤레스 마이크로소프트 극장에서 4일(현지시간) 열린 제74회 크리에이티브 아츠 프라임타임 에미상 시상식에서 ‘오징어게임’은 게스트상·스턴트퍼포먼스상·시각효과상·프로덕션디자인상 등 4개 부문에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['동상이몽2'·'최강야구' 줄줄이 결방..태풍 힌남노 특보 방송가 초비상]]></title>
         <id>https://v.daum.net/v/20220906012754396</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220905232804434"/>
         <updated>2022-09-05T15:16:51.807Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 서지현 기자] '미스터리 듀엣' 최백호가 후배 가수 린에 대한 애정을 드러냈다. 5일 밤 방송된 MBN '미스터리 듀엣'에서는 린-최백호가 듀엣 파트너로 호흡을 맞췄다. 이날 린은 최백호와 인연에 대해 "데뷔 1, 2년차쯤에 라디오에 같이 출연했다. 그때 선생님이 '청사포'를 라이브로 불러주셨는데 제가 엉엉 울었다. 뭔가 추억이 있는 것도 아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['법대로' 이승기♥이세영, 과거 연인 사이→건물주X세입자로 재회]]></title>
-        <id>https://v.daum.net/v/20220905232700426</id>
-        <link href="https://v.daum.net/v/20220905232700426"/>
-        <updated>2022-09-05T15:16:51.808Z</updated>
-        <content type="html"><![CDATA['법대로 사랑하라' 이승기가 이세영에 대한 감정을 밝혔다. 5일 방송된 KBS 월화드라마 '법대로 사랑하라'에서는 김정호(이승기 분)과 김유리(이세영 분)의 갈등 모습이 그려졌다. 이날 김유리은 황대표(김원해 분)과 함께 하는 식사 자리에서 "저 카페하려 한다"고 밝혔다. 이후 모교 근처에 카페 자리를 알아봤다. 큰 고민없이 바로 계약한 김유리는]]></content>
     </entry>
 </feed>

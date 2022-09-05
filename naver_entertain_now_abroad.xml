@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-09-05T18:21:39.461Z</updated>
+    <updated>2022-09-05T19:13:02.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 코미디언 빌 머리, 기부용 2억5천만원 이더리움 도난당해]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013422005</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013422005"/>
+        <updated>2022-09-05T19:13:01.748Z</updated>
+        <content type="html"><![CDATA[정윤섭 특파원 = 영화 '고스트버스터즈' 시리즈에서 주연을 맡았던 미국 유명 코미디언 빌 머리가 자선단체에 기부하기 위해 마련했던 2억5천만 원어치 이더리움을 해커에게 도난당했다. 가상화폐 보안업체 프로젝트 벤크먼은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임윤아 '즐거운 만남' [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000891663</id>
@@ -171,12 +178,5 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000891607</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000891607"/>
         <updated>2022-09-05T07:29:59.177Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김재환 '가을 분위기 물씬~' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000891605</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000891605"/>
-        <updated>2022-09-05T07:29:59.178Z</updated>
-        <content type="html"><![CDATA[가수 김재환이 미니 5집 '엠프티 드림(Empty Dream)' 을 발매하고 5일 오후 서울 강남구 청담동 일지아트홀에서 기념 쇼케이스를 가졌다. 김재환이 분위기 넘치는 쇼케이스 무대를 선보이고 있다.]]></content>
     </entry>
 </feed>
