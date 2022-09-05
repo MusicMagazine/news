@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-09-05T07:29:59.756Z</updated>
+    <updated>2022-09-05T08:19:13.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[日 개그맨 이토다 준, 19살 연하 모델과 재혼 “8년 연애 끝 결혼”]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000624941</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000624941"/>
+        <updated>2022-09-05T08:19:13.044Z</updated>
+        <content type="html"><![CDATA[일본 개그맨 겸 배우 이토다 준이 재혼했다. 개그 듀오 스피드 웨건 멤버 이토다 준은 9월 5일 개인 SNS를 통해 모델 하치야 아미와의 결혼 소식을 알렸다. 이토다 준은 "교제 중이던 모델 하치야 아미와 결혼했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김재환 '그 시절 우리는' [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000891610</id>
@@ -171,12 +178,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000891542"/>
         <updated>2022-09-05T06:02:10.920Z</updated>
         <content type="html"><![CDATA[그룹 원어스의 8번째 미니앨범 'MALUS(말루스)'발매 기념 쇼케이스가 5일 오후 서울 노원구 월계동 광운대학교에서 열렸다. 원어스 이도가 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원어스 건희 '완벽 비주얼' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000891541</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000891541"/>
-        <updated>2022-09-05T06:02:10.921Z</updated>
-        <content type="html"><![CDATA[그룹 원어스의 8번째 미니앨범 'MALUS(말루스)'발매 기념 쇼케이스가 5일 오후 서울 노원구 월계동 광운대학교에서 열렸다. 원어스 건희가 포토타임을 갖고 있다.]]></content>
     </entry>
 </feed>
