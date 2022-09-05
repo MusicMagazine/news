@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2022-09-05T16:22:36.390Z</updated>
+    <updated>2022-09-05T17:23:05.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이하나 “꼭 잠근 단추 셔츠, 고지식한 캐릭터의 습관” (삼남매가 용감하게)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001002562</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0001002562"/>
+        <updated>2022-09-05T17:22:57.768Z</updated>
+        <content type="html"><![CDATA[배우 이하나가 KBS2 새 주말드라마 ‘삼남매가 용감하게’에 출연하는 이유를 말했다. ‘삼남매가 용감하게’(극본 김인영, 연출 박만영)는 가족을 위해 양보하고 성숙해야 했던 K-장녀와 톱스타로 가족을 부양해야 했던]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["기가막힌 명곡 퍼레이드"…'안나, 차이코프스키' 첫공 성료]]></title>
         <id>https://entertain.naver.com/now/read?oid=437&amp;aid=0000312730</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0001002554"/>
         <updated>2022-09-05T14:18:48.462Z</updated>
         <content type="html"><![CDATA[가수 버나드 박이 신곡 '하루종일 부르지' 뮤직비디오 티저를 공개했다. 애니메이션으로 제작된 티저는 부드러운 피아노 선율이 감수성을 물들이는 가운데, 아기자기한 캐릭터들의 소소한 일상이 따스한 분위기를 전한다. 영상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오나미♥박민, 본식 화보 공개…그림 같은 투 샷]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000891665</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000891665"/>
-        <updated>2022-09-05T14:18:48.466Z</updated>
-        <content type="html"><![CDATA[개그우먼 오나미와 전 축구선수 박민의 본식 사진이 공개됐다. 해피메리드컴퍼니는 5일 오후 "오나미와 박민이 지난 4일 서울 강남구의 한 호텔에서 결혼식을 올렸다"며 "많은 하객이 오나미·박민 부부의 앞날을 축복하기]]></content>
     </entry>
 </feed>

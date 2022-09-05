@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-09-05T16:22:36.388Z</updated>
+    <updated>2022-09-05T17:23:05.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[너바나 앨범커버 ‘알몸 아기’ 소송 또 기각]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000835134</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000835134"/>
+        <updated>2022-09-05T17:22:50.003Z</updated>
+        <content type="html"><![CDATA[미국 전설적 록밴드 너바나의 1991년 앨범 표지에 갓난아기 시절 알몸 사진이 실린 당사자가 제기한 소송이 또 기각됐다. 4일(현지시간) 영국 BBC 방송과 뉴욕타임스(NYT)에 따르면 미국 캘리포니아 중부 연방지방]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인천공항공사 ‘2022 인천공항스카이 페스티벌’ 개최]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000835133</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004746337"/>
         <updated>2022-09-05T10:19:09.312Z</updated>
         <content type="html"><![CDATA[그룹 빌리 문수아가 2일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HK직캠｜이진혁, '이른 아침에도 빛나는 잘생김' (뮤직뱅크 출근길)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004746336</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004746336"/>
-        <updated>2022-09-05T10:19:09.313Z</updated>
-        <content type="html"><![CDATA[가수 이진혁이 2일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content>
     </entry>
 </feed>
