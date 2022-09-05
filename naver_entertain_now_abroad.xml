@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-09-05T09:18:29.400Z</updated>
+    <updated>2022-09-05T10:19:24.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[위켄드, 목소리 안 나와 공연 중단 "팬분들께 사과"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=079&amp;aid=0003682435</id>
+        <link href="https://entertain.naver.com/now/read?oid=079&amp;aid=0003682435"/>
+        <updated>2022-09-05T10:19:23.907Z</updated>
+        <content type="html"><![CDATA[캐나다 출신의 알앤비 뮤지션이자 싱어송라이터인 위켄드(The Weekend)가 갑자기 목소리가 나오지 않아 콘서트를 중단했다. 위켄드는 4일(한국 시간) 공식 트위터에 글을 올려 "첫 곡을 부를 때 목이 쉬어서 망연]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日 개그맨 이토다 준, 19살 연하 모델과 재혼 “8년 연애 끝 결혼”]]></title>
         <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000624941</id>
@@ -171,12 +178,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000891543"/>
         <updated>2022-09-05T06:02:10.916Z</updated>
         <content type="html"><![CDATA[그룹 원어스의 8번째 미니앨범 'MALUS(말루스)'발매 기념 쇼케이스가 5일 오후 서울 노원구 월계동 광운대학교에서 열렸다. 방송인 박소연이 행사 진행을 하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원어스 이도 '강렬한 눈빛' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000891542</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000891542"/>
-        <updated>2022-09-05T06:02:10.920Z</updated>
-        <content type="html"><![CDATA[그룹 원어스의 8번째 미니앨범 'MALUS(말루스)'발매 기념 쇼케이스가 5일 오후 서울 노원구 월계동 광운대학교에서 열렸다. 원어스 이도가 포토타임을 갖고 있다.]]></content>
     </entry>
 </feed>
