@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-09-06T18:19:22.410Z</updated>
+    <updated>2022-09-06T19:14:53.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신애라, 박하선에게 "말 놓는다" 반말 시도]]></title>
+        <id>https://v.daum.net/v/20220907040022828</id>
+        <link href="https://v.daum.net/v/20220907040022828"/>
+        <updated>2022-09-06T19:14:24.061Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 사진 제공=MBNMBN 예능 ‘무작정 투어-원하는대로’ 신애라가 박하선에게 드디어 반말을 시도한다. 8일 ‘무작정 투어-원하는대로’(이하 ‘원하는대로’) 3회에서는 ‘여행 가이드’ 신애라-박하선과 ‘박하선 친구’ 이소연, 정유미가 여행 메이트로 합류해 충북 단양으로 1박2일 여행을 떠나는 모습이 그려진다. 이날 신애라는 기록적인 폭우에도,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오케이' 김보민 "♥김남일에 결혼말고 연애만 하자고".. 오은영 "연애 고수" 깜짝]]></title>
         <id>https://v.daum.net/v/20220907004202940</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220906224007926"/>
         <updated>2022-09-06T13:41:23.658Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = '신발 벗고 돌싱포맨'에 출연한 방송인 샘 해밍턴이 윌리엄, 벤틀리 형제의 수입에 대해 이야기했다. 6일 오후에 방송된 SBS 예능 프로그램 '신발 벗고 돌싱포맨'(이하 '돌싱포맨')에서는 대한 외국인 샘 해밍턴, 조나단·파트리샤 남매가 함께했다. 샘 해밍턴은 '윌벤져스'로 불리며 많은 사랑을 받고 있는 윌리엄, 벤틀리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우 김영재, 새 드라마 '슈룹' 민승윤 역 출연]]></title>
-        <id>https://v.daum.net/v/20220906223746898</id>
-        <link href="https://v.daum.net/v/20220906223746898"/>
-        <updated>2022-09-06T13:41:23.660Z</updated>
-        <content type="html"><![CDATA[배우 김영재가 tvN 새 드라마 ‘슈룹’에 출연을 확정했다고 6일 소속사가 전했다. tvN 새 드라마 ‘슈룹’은 우산을 뜻하는 옛말로, 사고뭉치 왕자들을 위해 치열한 왕실 교육 전쟁에 뛰어드는 중전의 파란만장 궁중 분투기를 그린 드라마다. 조선 1% 로열패밀리의 특별한 왕실 교육과 궁중 엄마들의 뜨거운 교육열을 그리며 공감 짙은 감동의 이야기를 전할]]></content>
     </entry>
 </feed>
