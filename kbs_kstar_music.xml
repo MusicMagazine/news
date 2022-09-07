@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 07:41:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 08:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['오페라의 유령' 팬들 모여라~ 글로벌 에디션 앨범 발매!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=228199</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=228199</guid>
+            <pubDate>Wed, 07 Sep 2022 08:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=228199">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220907095911_4da17f67ad24bb6d16206dc81aaecc1d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=228199">'오페라의 유령' 팬들 모여라~ 글로벌 에디션 앨범 발매!</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220907095911_4da17f67ad24bb6d16206dc81aaecc1d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 새 앨범 타이틀 곡 "Shut Down"....  힙한 매력의 결정체]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=228167</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=226256">블랙핑크 ‘Pink Venom’ 뮤비 2억뷰 돌파</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220827084535_c68ce201e6da7ac50afc51eb89e9b47d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[일문일답] 트와이스의 새 앨범 'BETWEEN 1&2' ....  "원스와 트와이스 사이 얘기들"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=226078</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=226078</guid>
-            <pubDate>Fri, 26 Aug 2022 01:20:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=226078">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220826091445_a3feb92a0289515ceb090969e46c8379.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=226078">[일문일답] 트와이스의 새 앨범 'BETWEEN 1&amp;2' ....  "원스와 트와이스 사이 얘기들"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220826091445_a3feb92a0289515ceb090969e46c8379.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
