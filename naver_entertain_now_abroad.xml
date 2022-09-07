@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-09-07T08:22:42.076Z</updated>
+    <updated>2022-09-07T09:18:00.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미드 '스매시' 배우, 비행기 추락 사고로 '임신' 여동생 가족 잃어]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001497905</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001497905"/>
+        <updated>2022-09-07T09:18:00.023Z</updated>
+        <content type="html"><![CDATA[미국의 배우 메건 힐티의 가족이 비행기 사고를 당하는 비극이 벌어졌다. 6일(이하 현지시간) 미국 피플지는 미 해안 경비대의 발표를 인용, 지난 5일 워싱턴의 푸젯 사운드에서 10명의 승객을 태운 수상비행기가 추락했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팝업★]저스틴 비버, 안면 마비 고통 호소..건강 악화로 월드투어 전면 취소]]></title>
         <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003586106</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001497811"/>
         <updated>2022-09-07T06:16:04.184Z</updated>
         <content type="html"><![CDATA[콘서트 도중 목소리 이상을 이유로 공연을 중단했던 캐나다 출신 싱어송라이터 위켄드(The Weeknd)가 근황을 전했다. 위켄드는 6일(현지시간) 자신의 인스타그램에 "의사가 말하길 목소리는 괜찮다고 하고, 휴식을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤아 '화사한 미소' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000892019</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000892019"/>
-        <updated>2022-09-07T06:16:04.186Z</updated>
-        <content type="html"><![CDATA[배우 임윤아가 7일 오후 서울 강남구 현대백화점에서 열린 '친환경 여행 서약식'에 참석해 포토타임을 갖고 있다.]]></content>
     </entry>
 </feed>
