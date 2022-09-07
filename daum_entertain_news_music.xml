@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-09-07T20:20:17.924Z</updated>
+    <updated>2022-09-07T21:15:19.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트와이스 나연, 올리브데올리브 모델 전격 발탁]]></title>
+        <id>https://v.daum.net/v/20220908060006052</id>
+        <link href="https://v.daum.net/v/20220908060006052"/>
+        <updated>2022-09-07T21:14:43.736Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 트와이스 나연이 올리브데올리브 모델로 발탁됐다. 올리브데올리브 측은 최근 가수 나연이 브랜드 올리브데올리브(Olive Des Olive)의 모델로 발탁됐다고 밝혔다. 브랜드 관계자는 “발랄하고 상큼한 매력의 소유자인 나연과 올리브데올리브의 걸리시하고 러블리한 무드를 위트있게 표현했다”라며 화보 현장의 분위기를 전했다. 공개된 화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NCT127 태용·유타·도영, 카리스마 티저 공개]]></title>
         <id>https://v.daum.net/v/20220907233022364</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220907175924076"/>
         <updated>2022-09-07T09:17:22.256Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 안정훈 기자 = "아무런 활동도 하지 않았는데 팬분들이 떠나지 않고 기다려주셨습니다. 그분들을 위해서 다시 돌아왔습니다." 가수 임재범이 자신의 아픈 추억을 삼킨 채 팬들을 위로하는 정규 7집을 완성했다. 임재범은 7일 오후 서울 강남구에서 열린 쇼케이스에서 "이제는 내가 팬들에게 기대는 거 같다"며 공백기를 기다려준 팬들에게 고마움을 전]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['데뷔 26주년' 강타가 추는 '요즘 댄스'는.."내가 추니 뉴트로"]]></title>
-        <id>https://v.daum.net/v/20220907175018766</id>
-        <link href="https://v.daum.net/v/20220907175018766"/>
-        <updated>2022-09-07T09:17:22.257Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 하지원 기자) 가수 강타가 정규 4집 타이틀곡 'Eyes On You' 안무 비화를 언급했다. 7일 오후 강타 정규 4집 ‘Eyes On You’ 발매 기념 온라인 기자간담회가 열렸다. 이번 앨범은 강타 데뷔 26주년을 기념하는 앨범이자, 지난 2005년 발매된 정규 3집 ‘Persona’(페르소나) 이후 17년 만에 발표하는 정규 앨범이다.]]></content>
     </entry>
 </feed>
