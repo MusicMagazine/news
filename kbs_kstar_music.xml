@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 23:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 01:24:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뮤비가 좋다] 뉴진스 'Hype Boy'를 향해 발산하는 5인 5색의 매력]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=228326</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=228326</guid>
+            <pubDate>Thu, 08 Sep 2022 01:22:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=228326">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220908100538_b796ff86bb1234050ec57c1e976af5c7.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=228326">[뮤비가 좋다] 뉴진스 'Hype Boy'를 향해 발산하는 5인 5색의 매력</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220908100538_b796ff86bb1234050ec57c1e976af5c7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[11월의 세븐틴, 일본 첫 번째 EP ‘DREAM’ & 돔 투어]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=228314</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=226474">[콘서트] 카리스마 폭발! 국민가수 박창근...전국투어 본격적 시작!</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220829090003_2dc36b5eb5c328a5a5a95427c964ff7e_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스 데뷔활동 마무리, ‘Attention’ 음악방송 5관왕!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=226457</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=226457</guid>
-            <pubDate>Mon, 29 Aug 2022 01:44:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=226457">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220829083815_592aaa1545903cf324416aa03c1949d3.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=226457">뉴진스 데뷔활동 마무리, ‘Attention’ 음악방송 5관왕!</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220829083815_592aaa1545903cf324416aa03c1949d3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
