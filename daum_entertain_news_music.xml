@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-09-09T20:19:51.822Z</updated>
+    <updated>2022-09-09T21:17:29.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[추석 귀향길에 듣는 '9와 4분의 3 승강장..']]></title>
+        <id>https://v.daum.net/v/20220910060024141</id>
+        <link href="https://v.daum.net/v/20220910060024141"/>
+        <updated>2022-09-09T21:16:53.696Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 한해선 기자] [편집자주] [★고막보약]은 국가가 허락한 보약 같이 귀한 음악을 여러분의 고막에 선사해드리는 시간입니다. 신곡 추천, 숨겨진 명곡 재조명, 가사의 재해석 등을 합니다. 그룹 투모로우바이투게더(TOMORROW X TOGETHER)가 9일 오후 서울 광진구 예스24라이브홀에서 진행된 미니 4집 'minisode 2: Thursday]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크래비티 "가족들과 함께 '부기 우기' 어때요?"]]></title>
         <id>https://v.daum.net/v/20220909163906265</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220909103833305"/>
         <updated>2022-09-09T04:04:19.319Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] 밴드 더로즈(The Rose)가 신곡으로 돌아온다. 더로즈(김우성, 박도준, 이재형, 이하준)가 오는 16일 정규앨범 'HEAL (힐)'의 선공개 싱글 'Childhood (차일드후드)' 발매를 확정했다. 이와 함께 9일 0시 공식 SNS 채널을 통해 선공개 싱글의 커버 아트 이미지를 공개했다. 공개된 이미지엔 흐릿한 멤버들의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투모로우바이투게더 "운명의 실체 확인" 日 콘서트 성료]]></title>
-        <id>https://v.daum.net/v/20220909102212036</id>
-        <link href="https://v.daum.net/v/20220909102212036"/>
-        <updated>2022-09-09T01:27:53.371Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이슬기 기자] 그룹 투모로우바이투게더가 일본 오사카, 지바에서 콘서트를 성황리에 마쳤다. 투모로우바이투게더는 지난 3일과 4일 일본 오사카의 오오키니 아레나 마이시마, 7일과 8일 지바현의 마쿠하리 이벤트홀에서 월드투어 ‘TOMORROW X TOGETHER WORLD TOUR  IN JAPAN’을 개최했다. 이번 공연은 투모로우바이투게더가 데뷔]]></content>
     </entry>
 </feed>
