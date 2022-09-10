@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-09-10T11:14:13.388Z</updated>
+    <updated>2022-09-10T12:30:03.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[있지, 또 日 ‘엠스테’ 접수 출격]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000835961</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000835961"/>
+        <updated>2022-09-10T12:29:45.509Z</updated>
+        <content type="html"><![CDATA[ITZY(있지)가 다시 한 번 일본 열도를 들썩이게 한다. ITZY는 일본 대표 음악 프로그램인 TV아사히 ‘뮤직 스테이션’(이하 ‘엠스테’)에 출연한다. ‘엠스테’는 지난 9일 공식 SNS 채널을 통해 “ITZY가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NCT 드림이 부른 13만의 꿈&감동]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000835960</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001498949"/>
         <updated>2022-09-10T06:24:39.865Z</updated>
         <content type="html"><![CDATA[그룹 에이티즈(ATEEZ)가 2022 하반기 월드투어의 미국 공연을 추가 개최한다. 에이티즈의 소속사 KQ엔터테인먼트는 애틀랜타(Atlanta) 공연을 1회 더 늘린데 이어 오클랜드(Oakland)를 투어 리스트에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙핑크 ‘핑크 베놈’ 영국 싱글 40위 3주연속 차트인]]></title>
-        <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003228838</id>
-        <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003228838"/>
-        <updated>2022-09-10T06:24:39.865Z</updated>
-        <content type="html"><![CDATA[그룹 블랙핑크의 정규 2집 선공개곡 ‘핑크 베놈’(Pink Venom)이 영국 오피셜 싱글 차트 ‘톱 100’에 3주 연속 진입했다. ‘핑크 베놈’은 9일(현지시간) 공개된 최신 차트에서 지난주 37위보다 하락한 4]]></content>
     </entry>
 </feed>
