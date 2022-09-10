@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-09-10T19:14:56.163Z</updated>
+    <updated>2022-09-10T20:18:47.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에이티즈, 美 오클랜드 추가…10개 도시 15회 월드투어]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011413602</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011413602"/>
+        <updated>2022-09-10T20:18:31.842Z</updated>
+        <content type="html"><![CDATA[그룹 '에이티즈(ATEEZ)'가 올해 하반기 월드투어의 미국 공연을 추가했다. 11일 소속사 KQ엔터테인먼트에 따르면, 에이티즈는 최근 11월21일 애틀랜타(Atlanta) 공연을 1회 더 늘린데 이어 11월5일 오]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[투모로우바이투게더, 日 골드디스크 첫 '더블 플래티넘' 인증]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011413598</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=021&amp;aid=0002530403"/>
         <updated>2022-09-10T08:21:25.997Z</updated>
         <content type="html"><![CDATA[그룹 방탄소년단이 민족의 대명절 추석을 맞아 팬들에게 따뜻한 인사를 전했다. 방탄소년단은 10일 공식 SNS에 ‘방탄소년단이 아미들에게 추석인사 하는 법’이라는 문구와 함께 추석 인사를 담은 영상을 공개했다. 방탄소]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT DREAM 잠실 달궜다…102개 지역·13만 5000명 열광]]></title>
-        <id>https://entertain.naver.com/now/read?oid=021&amp;aid=0002530402</id>
-        <link href="https://entertain.naver.com/now/read?oid=021&amp;aid=0002530402"/>
-        <updated>2022-09-10T08:21:25.998Z</updated>
-        <content type="html"><![CDATA[그룹 NCT DREAM(엔시티 드림, 에스엠엔터테인먼트 소속)의 잠실 주경기장 단독 콘서트가 성황리에 막을 내렸다. NCT DREAM 단독 콘서트 ‘THE DREAM SHOW2-In A DREAM’(더 드림 쇼2-인]]></content>
     </entry>
 </feed>
