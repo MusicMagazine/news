@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-09-10T16:22:35.046Z</updated>
+    <updated>2022-09-10T17:23:16.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ITZY, 日 대표 음방 '엠스테'· '베뉴101' 스페셜 방송 출연 [공식]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003086069</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003086069"/>
+        <updated>2022-09-10T17:23:00.553Z</updated>
+        <content type="html"><![CDATA[ITZY(있지)가 일본 대표 음악 프로그램인 TV아사히 '뮤직 스테이션'(이하 '엠스테')에 출연한다. '엠스테'는 지난 9일 공식 SNS 채널을 통해 "ITZY가 오는 23일 '엠스테' 4시간 스페셜 방송에 출연한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“칠드림 이제부터 시작”…NCT 드림, 잠실 주경기장 콘서트 성료]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000892803</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=021&amp;aid=0002530401"/>
         <updated>2022-09-10T08:21:26.001Z</updated>
         <content type="html"><![CDATA[아이브·케이윌·몬스타엑스·크래비티 추석 인사 공개…"풍성한 연휴 보내세요" 스타쉽엔터테인먼트(스타쉽) 소속 아티스트들이 팬들에게 활기찬 추석 인사를 전했다. 스타쉽은 지난 9일과 10일 양일간 각 아티스트 공식 SN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙핑크, 스포티파이 주간 차트 7위·英 오피셜 차트 40위]]></title>
-        <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0002039291</id>
-        <link href="https://entertain.naver.com/now/read?oid=016&amp;aid=0002039291"/>
-        <updated>2022-09-10T08:21:26.001Z</updated>
-        <content type="html"><![CDATA[그룹 블랙핑크의 정규 2집 선공개곡 ‘핑크 베놈(Pink Venom)’이 전 세계 음악 차트를 완전히 강타했다. 스포티파이가 9일(현지시간) 발표한 최신 차트에 따르면 블랙핑크의 ‘핑크 베놈’은 톱 송 글로벌 주간]]></content>
     </entry>
 </feed>
