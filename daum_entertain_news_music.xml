@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-09-10T14:16:57.923Z</updated>
+    <updated>2022-09-10T15:18:54.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장민호 오늘 생일..트롯픽 이벤트 주인공]]></title>
+        <id>https://v.daum.net/v/20220911000024992</id>
+        <link href="https://v.daum.net/v/20220911000024992"/>
+        <updated>2022-09-10T15:18:16.413Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 장민호 오늘(11일) 생일…트롯픽 이벤트 주인공 [DA:차트] 가수 장민호가 트롯픽 생일 이벤트를 받는다. 11일 트롯 문화를 사랑하는 사람들을 응원하는 서비스 트롯픽(trotpick)에 따르면 장민호는 9월 생일자를 대상으로 한 스페셜 투표에서 이벤트 주인공으로 선정됐다. 이번 투표는 지난 7월 18일부터 24일까지 미리 진행됐다. 트롯픽의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴진스가 또.. K팝 역사 새로 썼다]]></title>
         <id>https://v.daum.net/v/20220910230531776</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220910174811536"/>
         <updated>2022-09-10T09:17:13.265Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김명미 기자] 가수 정기고가 ‘개미가 타고 있어요’ OST 마지막 주자로 나선다. ‘개미가 타고 있어요’ OST를 제작하는 모스트콘텐츠는 9월 10일 오후 6시 주요 음원 사이트를 통해 정기고의 '괜찮은 척'을 발매한다. '괜찮은 척'은 부드럽고 잔잔한 피아노 선율 위에 정기고의 부드럽고 섬세한 보이스가 더해져 시청자들의 감성을 자극하는 곡이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이티즈, 하반기 월드투어 美 공연 추가 개최 '뜨거운 관심']]></title>
-        <id>https://v.daum.net/v/20220910170630161</id>
-        <link href="https://v.daum.net/v/20220910170630161"/>
-        <updated>2022-09-10T08:21:05.777Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 에이티즈(ATEEZ)가 2022 하반기 월드투어 미국 공연을 추가 개최한다. 소속사 KQ엔터테인먼트는 최근 월드투어 '더 펠로우십 : 브레이크 더 월(THE FELLOWSHIP : BREAK THE WALL)' 티켓을 오픈한 뒤 공연 개최지 모두 폭발적인 관심을 받자 애틀랜타(Atlanta) 공연을 1회 더 늘렸다. 또 오클랜드 (]]></content>
     </entry>
 </feed>
