@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-09-11T09:17:44.001Z</updated>
+    <updated>2022-09-11T10:18:22.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독]찾았다 예능원석..미미 "지금만 같아라~한가위 같아라~" [★FULL인터뷰]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003086204</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003086204"/>
+        <updated>2022-09-11T10:18:05.388Z</updated>
+        <content type="html"><![CDATA["저는 '찐' 날 것이에요~" tvN 예능 프로그램 '뿅뿅 지구오락실'(이하 '지구오락실')에서 맹활약 중인 걸 그룹 오마이걸의 미미(27·김미현). 예능계 '미다스의 손' 나영석PD를 만나 그야말로 '포텐'이 터졌]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미미로즈, ‘AWESOME’ 하이라이트 메들리 공개]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000892901</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001499091"/>
         <updated>2022-09-11T04:08:10.867Z</updated>
         <content type="html"><![CDATA[이찬원의 '힘을 내세요' 라이브 영상이 700만 조회수를 넘어섰다. 지난 2021년 10월 31일, 이찬원 공식 유튜브 채널 '이찬원'에 '이찬원 힘을 내세요 Live Clip' 영상이 게재되었다. 이찬원의 생애 첫]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임영웅, 멜론 차트 'TOP 10' 또 점령…식지 않는 인기]]></title>
-        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000881367</id>
-        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000881367"/>
-        <updated>2022-09-11T04:08:10.872Z</updated>
-        <content type="html"><![CDATA[가수 임영웅이 온라인 음원 사이트 멜론 TOP 10을 상위권을 점령했다. 11일 멜론에 따르면 임영웅의 노래 6곡이 TOP 10에 진입, 상위권에 안착했다. 2위 ‘사랑은 늘 도망가’, 4위 ’우리들의 블루스‘, 6]]></content>
     </entry>
 </feed>
