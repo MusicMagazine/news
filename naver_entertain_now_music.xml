@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-09-11T08:22:07.929Z</updated>
+    <updated>2022-09-11T09:17:44.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미미로즈, ‘AWESOME’ 하이라이트 메들리 공개]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000892901</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000892901"/>
+        <updated>2022-09-11T09:17:27.232Z</updated>
+        <content type="html"><![CDATA[신인 걸그룹 미미로즈(mimiirose)가 가요계에 활짝 피어난다. 11일 정오 미미로즈(최연재, 인효리, 한예원, 윤지아, 서윤주) 공식 SNS 채널을 통해 데뷔 앨범 ‘AWESOME’(어썸)의 하이라이트 메들리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팝업★]뉴진스 "장점은 자연스러움..우리를 세상에 알린 'Attention' 질리지 않아"]]></title>
         <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003586739</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000881367"/>
         <updated>2022-09-11T04:08:10.872Z</updated>
         <content type="html"><![CDATA[가수 임영웅이 온라인 음원 사이트 멜론 TOP 10을 상위권을 점령했다. 11일 멜론에 따르면 임영웅의 노래 6곡이 TOP 10에 진입, 상위권에 안착했다. 2위 ‘사랑은 늘 도망가’, 4위 ’우리들의 블루스‘, 6]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙핑크, 지수 이어 제니 티저포스터 공개...펑키한 'Shut Down']]></title>
-        <id>https://entertain.naver.com/now/read?oid=408&amp;aid=0000166549</id>
-        <link href="https://entertain.naver.com/now/read?oid=408&amp;aid=0000166549"/>
-        <updated>2022-09-11T04:08:10.873Z</updated>
-        <content type="html"><![CDATA[블랙핑크(BLACKPINK) 제니의 티저포스터가 공개됐다. 정규 2집 발매를 앞둔 블랙핑크가 11일, 전날 첫 주자로 나선 지수에 이어 제니의 개인 티저포스터를 공개했다. 짙은 언더 아이라인과 상반된 누드톤 입술 메]]></content>
     </entry>
 </feed>
