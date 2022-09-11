@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-09-11T06:22:13.537Z</updated>
+    <updated>2022-09-11T07:18:05.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김재중, 타이틀곡 'NOBODY LIKE YOU' 스포 라이브 공개]]></title>
+        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000881382</id>
+        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000881382"/>
+        <updated>2022-09-11T07:17:49.663Z</updated>
+        <content type="html"><![CDATA[가수 김재중이 스포 라이브로 컴백에 대한 기대를 더했다. 씨제스 엔터테인먼트는 11일(오늘) 자정 김재중의 세 번째 정규 앨범 [BORN GENE(본 진)]의 타이틀곡 ‘NOBODY LIKE YOU’의 스포 라이브]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[킹덤, 새 멤버 훤 세계관 "폭풍의 왕국 이끌 왕"]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003086176</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001499083"/>
         <updated>2022-09-11T04:08:10.882Z</updated>
         <content type="html"><![CDATA[가수 천재원은 겸손하고 성실한 면모로 10여 년의 세월을 달려온 '트로트 싱어송라이터'다. 그저 노래를 부르고, 노래를 만드는 것이 좋아 지금껏 우직하게 달려온 그의 열정 가득한 인생 이야기가 많은 이들에게 감동을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙핑크 ‘핑크 베놈’, 전세계 유튜브 차트 1위]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000835998</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000835998"/>
-        <updated>2022-09-11T04:08:10.883Z</updated>
-        <content type="html"><![CDATA[블랙핑크의 정규 2집 선공개곡 ‘핑크 베놈(Pink Venom)’이 전세계 유튜브 차트에서 3주 연속 1위를 기록했다. 11일 유튜브가 발표한 최신 차트(2022.09.02~2022.09.08)에 따르면 블랙핑크의]]></content>
     </entry>
 </feed>
