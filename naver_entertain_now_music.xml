@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-09-12T11:17:06.272Z</updated>
+    <updated>2022-09-12T12:36:41.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[정채연, 드라마 촬영 중 쇄골 골절…내일 수술]]></title>
+        <title type="html"><![CDATA[에이티즈, 체력이 월드 클래스..'아육대' 금메달 2관왕 "미칠 듯 달려"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003086361</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003086361"/>
+        <updated>2022-09-12T12:36:23.751Z</updated>
+        <content type="html"><![CDATA[그룹 에이티즈(ATEEZ)가 월드클래스 체력을 자랑하며 눈길을 끌었다. 최근 방송된 MBC '2022 추석특집 아이돌스타 선수권대회'에는 에이티즈가 출연해 금메달 2관왕을 달성해 팀 전체 우승을 이끌었다. 60m 단]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정채연, 드라마 촬영 중 쇄골 부러져…내일 수술]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013433982</id>
         <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013433982"/>
         <updated>2022-09-12T11:16:50.291Z</updated>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004697125"/>
         <updated>2022-09-12T06:16:37.533Z</updated>
         <content type="html"><![CDATA[그룹 갓세븐 멤버 제이비(JAY B)가 신곡의 뮤직비디오 티저를 공개했다. 소속사 카덴차레코즈는 12일 0시에 공식 SNS를 통해 JAY B의 두 번째 EP ‘Be Yourself(비 유어셀프)'의 타이틀곡 'go]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명품보컬 임영웅, 유튜브 주간 인기 뮤직비디오 차트 TOP3…솔로 1위]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001499428</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001499428"/>
-        <updated>2022-09-12T06:16:37.533Z</updated>
-        <content type="html"><![CDATA[임영웅의 ‘다시 만날 수 있을까’의 인기가 눈길을 끈다. 9월 2일 – 9월 8일 한국 유튜브 뮤직 차트에 따르면, 임영웅의 ‘다시 만날 수 있을까’가 주간 차트 3위를 차지했다. 이는 솔로 가수 1위에]]></content>
     </entry>
 </feed>
