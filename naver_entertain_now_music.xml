@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-09-12T18:25:21.320Z</updated>
+    <updated>2022-09-12T19:17:26.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장사익 "영혼과 영혼이 만나는 때…깨끗함을 유지해야죠"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011414942</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011414942"/>
+        <updated>2022-09-12T19:17:09.784Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 10월5일 '장사익 소리판'…4년 만에 세종문화회관 무대 팬데믹 지나 '사람이 사람을 만나'는 자리 마종기 '우화의 강' 등 시 네 편에 곡 붙인 신곡 발표 대중음악 기반 재즈·국악 아우르는 '장사익류]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NCT 127, '질주' 카운트다운 라이브]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011414938</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004697130"/>
         <updated>2022-09-12T06:16:37.531Z</updated>
         <content type="html"><![CDATA[가수 라비(RAVI)가 올가을을 독보적 유니크 감성으로 물들인다. 라비는 12일 오후 6시에 각종 음원 사이트를 통해 다섯 번째 EP 앨범 '러브 앤 홀리데이(LOVE&amp;HOLIDAY)'를 발표한다. '러브 앤 홀리데]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혼성 듀오 정흠밴드, K-어쿠스틱으로 파리 첫 인사]]></title>
-        <id>https://entertain.naver.com/now/read?oid=415&amp;aid=0000012739</id>
-        <link href="https://entertain.naver.com/now/read?oid=415&amp;aid=0000012739"/>
-        <updated>2022-09-12T06:16:37.533Z</updated>
-        <content type="html"><![CDATA[혼성 어쿠스틱 듀오 정흠밴드가 프랑스 파리에서 단독 콘서트를 연다. 정흠밴드는 오는 15일, 16일 양일간 프랑스 파리에 위치한 라이브 공연장 Tata Monique에서 단독 공연 ‘처음 뵙겠습니다. 파리’를 통해]]></content>
     </entry>
 </feed>
