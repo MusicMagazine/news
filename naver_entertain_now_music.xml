@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-09-12T17:29:50.970Z</updated>
+    <updated>2022-09-12T18:25:21.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NCT 127, '질주' 카운트다운 라이브]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011414938</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011414938"/>
+        <updated>2022-09-12T18:25:03.206Z</updated>
+        <content type="html"><![CDATA[김현숙 인턴 기자 = 그룹 '엔시티(NCT) 127'이 신곡 '질주(2 Baddies)' 뮤직비디오 선공개에 앞서 카운트다운 라이브를 펼친다. 13일 소속사 SM엔터테인먼트에 따르면, NCT 127은 '질주' 뮤직비]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이티즈, 체력이 월드 클래스..'아육대' 금메달 2관왕 "미칠 듯 달려"]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003086361</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=415&amp;aid=0000012739"/>
         <updated>2022-09-12T06:16:37.533Z</updated>
         <content type="html"><![CDATA[혼성 어쿠스틱 듀오 정흠밴드가 프랑스 파리에서 단독 콘서트를 연다. 정흠밴드는 오는 15일, 16일 양일간 프랑스 파리에 위치한 라이브 공연장 Tata Monique에서 단독 공연 ‘처음 뵙겠습니다. 파리’를 통해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갓세븐 JAY B, 자유+유쾌 에너지로 컴백..21일 'Be Yourself' 발매]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004697125</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004697125"/>
-        <updated>2022-09-12T06:16:37.533Z</updated>
-        <content type="html"><![CDATA[그룹 갓세븐 멤버 제이비(JAY B)가 신곡의 뮤직비디오 티저를 공개했다. 소속사 카덴차레코즈는 12일 0시에 공식 SNS를 통해 JAY B의 두 번째 EP ‘Be Yourself(비 유어셀프)'의 타이틀곡 'go]]></content>
     </entry>
 </feed>
