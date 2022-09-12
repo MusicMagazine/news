@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 13:46:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 14:23:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["K팝, 더 뜨거워진다"  KCON, 사우디아라비아 개최]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=228660</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=228660</guid>
+            <pubDate>Mon, 12 Sep 2022 14:22:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=228660">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220912090205_5946744091629cfc86c60577ff691396_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=228660">"K팝, 더 뜨거워진다"  KCON, 사우디아라비아 개최</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220912090205_5946744091629cfc86c60577ff691396_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT DREAM  '더 드림 쇼2 – 인 어 드림' 단독콘서트 성료]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=228639</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=226623">마마무의 첫 유닛 '마마무+' 싱글 'Better'  오늘 발매 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220830082614_bb65d3e09269e5dda84eb0b450268b8b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단,2022 MTV VMA '올해의 그룹'  4년 연속수상]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=226617</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=226617</guid>
-            <pubDate>Tue, 30 Aug 2022 06:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=226617">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220830082049_398bb22360193336a4a29d16a7bb8ce6_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=226617">방탄소년단,2022 MTV VMA '올해의 그룹'  4년 연속수상</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220830082049_398bb22360193336a4a29d16a7bb8ce6_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
