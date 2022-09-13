@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-09-13T14:25:34.062Z</updated>
+    <updated>2022-09-13T15:19:58.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[팝스타 존 레전드, 정규 8집 ‘레전드’로 컴백]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000836348</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000836348"/>
+        <updated>2022-09-13T15:19:40.933Z</updated>
+        <content type="html"><![CDATA[‘전설의 현재 진행형’ 세계적 팝스타 존 레전드(John Legend)가 2년 만에 정규 앨범 ‘레전드(LEGEND)’로 컴백했다. 유니버설뮤직은 존 레전드가 리퍼블릭 레코드(Republic Records)로 레이블]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘2022 대구포크페스티벌’ 레전드 포크가수 김명상 출연]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000836345</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000836345"/>
+        <updated>2022-09-13T15:19:40.933Z</updated>
+        <content type="html"><![CDATA[‘거기 지금 누구인가’의 레전드 포크가수 김명상이 ‘2022 대구포크페스티벌’에 출연한다. 김명상은 오는 30일 열리는 이번 무대에서 30주년 추억의 히트가요 ‘거기 지금 누구인가’와 대구응원가 ‘대구 사나이’를 노]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에버랜드 ‘레드앤그릴’ 바비큐 페스티벌개최]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000836343</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004749051"/>
         <updated>2022-09-13T13:47:35.452Z</updated>
         <content type="html"><![CDATA[그룹 로켓펀치 쥬리가 13일 오후 서울 상암동 SBS 프리즘타워에서 열린 SBS M '더쇼' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 로켓펀치 다현, '오늘도 예쁨']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004749050</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004749050"/>
-        <updated>2022-09-13T13:47:35.454Z</updated>
-        <content type="html"><![CDATA[그룹 로켓펀치 다현이 13일 오후 서울 상암동 SBS 프리즘타워에서 열린 SBS M '더쇼' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 로켓펀치 윤경, '언제나 밝은 에너지 가득~']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004749049</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004749049"/>
-        <updated>2022-09-13T13:47:35.456Z</updated>
-        <content type="html"><![CDATA[그룹 로켓펀치 윤경이 13일 오후 서울 상암동 SBS 프리즘타워에서 열린 SBS M '더쇼' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
     </entry>
 </feed>
