@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-09-13T10:21:04.230Z</updated>
+    <updated>2022-09-13T11:17:26.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[로꼬 "동갑내기 여자친구와 올가을 결혼..가사 속 '소이라떼' 그녀"]]></title>
+        <id>https://v.daum.net/v/20220913195326077</id>
+        <link href="https://v.daum.net/v/20220913195326077"/>
+        <updated>2022-09-13T11:16:47.631Z</updated>
+        <content type="html"><![CDATA[[서울경제] 가수 로꼬가 동갑내기 여자친구와 부부가 된다. 로꼬는 13일 자신의 인스타그램에 장문의 글을 게재하며 올가을 결혼식을 올린다고 발표했다. 그는 "전역 직후, 어린 시절부터 같은 동네에서 자란 동갑내기 친구를 오랜만에 만나게 됐다. 왜인지 모르게 같이 보내는 시간이 설레기만 했고, 금세 연인 사이로 발전했다"며 "지난 2년 동안 한결같이 서로의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔믹스, 다크 반전 분위기로 컴백..'ENTWURF']]></title>
         <id>https://v.daum.net/v/20220913191505446</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220913161813716"/>
         <updated>2022-09-13T07:37:47.138Z</updated>
         <content type="html"><![CDATA[[스포츠조선 정빛 기자] 가수 겸 배우 황민현이 세 번째 보티즈 프로젝트곡 '다시 만나는 날에'로 새로운 장르에 도전한다. 13일 오후 6시 각종 음원 사이트를 통해 공개하는 '다시 만나는 날에'는 락발라드 장르로, 싱어송라이터 콜드(Colde)가 작사한 서정적인 가사와 황민현의 감미로운 보컬이 어우러진 곡이다. 헤어진 연인에 대한 그리움과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지코 '새삥' 입소문 통했다, 멜론 일간차트 TOP 10 입성]]></title>
-        <id>https://v.daum.net/v/20220913155609905</id>
-        <link href="https://v.daum.net/v/20220913155609905"/>
-        <updated>2022-09-13T07:37:47.138Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 가수 겸 프로듀서 지코가 음원 차트 최상위권에 진입했다. 지코가 프로듀싱한 Mnet ‘스트릿 맨 파이터’ 미션곡 ‘새삥 (Prod. ZICO) (Feat. 호미들)’ 음원은 9월 6일 각종 음원 사이트를 통해 공개됐다. 음원 발매 이래 시작된 입소문은 꾸준한 순위 상승으로 이어졌다. '새삥'은 멜론, 지니, 벅스 등 국내 주요 음]]></content>
     </entry>
 </feed>
