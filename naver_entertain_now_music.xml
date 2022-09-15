@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-09-15T13:48:42.572Z</updated>
+    <updated>2022-09-15T14:24:32.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스포티파이, 글로벌 K힙합 플레이리스트 ‘KrOWN’ 최다 스트리밍 기록 공개]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000836881</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000836881"/>
+        <updated>2022-09-15T14:24:15.483Z</updated>
+        <content type="html"><![CDATA[오디오·음원 스트리밍 플랫폼 ‘스포티파이(Spotify)’가 지난 1일 새롭게 선보인 공식 한국힙합 플레이리스트 ‘KrOWN’에서 가장 많이 스트리밍된 K힙합 아티스트와 트랙 톱 30 리스트를 15일 전격 공개했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AB6IX X 라일리, 신곡 ‘Moonlight’  공개]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000836871</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000836842"/>
         <updated>2022-09-15T09:19:11.879Z</updated>
         <content type="html"><![CDATA[‘록밴드 성지’ 롤링홀에서 ‘Rolling Project :CMYK’ 롤링 프로젝트 대장정의 그 두 번째 공연에 선정된 3팀의 라이브 클립의 영상이 롤링홀 SNS계정에 공개가 된 후 15일 모방일과 온라인에서 화제가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['KCON 2022 LA' 특집 방송, 스페셜 스테이지 대거 예고]]></title>
-        <id>https://entertain.naver.com/now/read?oid=052&amp;aid=0001789553</id>
-        <link href="https://entertain.naver.com/now/read?oid=052&amp;aid=0001789553"/>
-        <updated>2022-09-15T09:19:11.882Z</updated>
-        <content type="html"><![CDATA[Mnet '엠카운트다운'이 지난 8월 미국 로스앤젤레스에서 개최된 'KCON 2022 LA' 주요 무대를 만나볼 수 있는 특집 방송을 선보인다. 15일 방송되는 Mnet '엠카운트다운'에서는 지난 8월 19일부터 2]]></content>
     </entry>
 </feed>
