@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-09-15T10:19:35.244Z</updated>
+    <updated>2022-09-15T11:16:51.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김태연, 대중들을 위한 힐링송 '수고했어요 오늘도' [MD동영상]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003646264</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003646264"/>
+        <updated>2022-09-15T11:16:35.099Z</updated>
+        <content type="html"><![CDATA['미스트롯2' 출신 가수 김태연이 15일 오전 서울 청담동 일지아트홀에서 진행된 첫번째 디지털 싱글 '수고했어요 오늘도' 발매 쇼케이스에서 타이틀곡 '수고했어요 오늘도'의 멋진 무대를 선보였다. '수고했어요 오늘도']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신지, 결혼설 불거진 '반쪽'..알고보니 코요태 신곡이었네]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004699189</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000836833"/>
         <updated>2022-09-15T08:23:38.383Z</updated>
         <content type="html"><![CDATA[SM엔터테인먼트 창업자인 이수만 총괄 프로듀서가 라이크기획 계약 종료를 시사했다. SM엔터테인먼트는 15일 입장을 내고 “당사는 라이크기획과 이수만 총괄 프로듀서의 프로듀싱 계약에 관해 다각도의 검토와 논의를 진행해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[렌(최민기), 韓·日 솔로 팬콘 개최]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000836831</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000836831"/>
-        <updated>2022-09-15T08:23:38.385Z</updated>
-        <content type="html"><![CDATA[그룹 뉴이스트 출신 겸 뮤지컬 배우 렌(최민기)이 데뷔 10년 만에 한국과 일본에서 솔로 팬콘을 개최한다. 15일 소속사 빅플래닛메이드엔터는 “렌이 오는 11월 초 한국과 일본에서 단독 팬콘 ‘2022 렌 팬콘 더]]></content>
     </entry>
 </feed>
