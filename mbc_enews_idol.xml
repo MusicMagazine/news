@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 11:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 12:32:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SM엔터테인먼트, NCT127 앨범 백커버에 도영 이미지 누락에 사과]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/359932</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/359932</guid>
+            <pubDate>Fri, 16 Sep 2022 12:31:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/359932">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/09/16/ae652197-0b29-43b5-83c1-66f857d6b676.jpg" alt="SM엔터테인먼트, NCT127 앨범 백커버에 도영 이미지 누락에 사과">        <div class="text-box">            <p class="summary">SM엔터테인먼트, NCT127 앨범 백커버에 도영 이미지 누락에 사과</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/09/16/ae652197-0b29-43b5-83c1-66f857d6b676.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[움짤] 아이브 완전체, 4세대 원탑]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/359887</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 16 Sep 2022 07:28:29 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/359918">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/09/16/e3e2f1d0-c57d-4855-8195-e5d683a1a6bd.jpg" alt="[포토] 미미로즈 한예원, '시원한 우아미'">        <div class="text-box">            <p class="summary">[포토] 미미로즈 한예원, '시원한 우아미'</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/09/16/e3e2f1d0-c57d-4855-8195-e5d683a1a6bd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 미미로즈 화려한 'ROSE' 무대]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/359916</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/359916</guid>
-            <pubDate>Fri, 16 Sep 2022 07:28:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/359916">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/09/16/2c6b119e-5ae5-4c15-91f0-c0b4352ac17c.jpg" alt="[포토] 미미로즈 화려한 'ROSE' 무대">        <div class="text-box">            <p class="summary">[포토] 미미로즈 화려한 'ROSE' 무대</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/09/16/2c6b119e-5ae5-4c15-91f0-c0b4352ac17c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
