@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-09-18T06:22:50.565Z</updated>
+    <updated>2022-09-18T07:18:51.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울 서남부 예술중심지 관악아트홀 재개관 '눈길']]></title>
+        <id>https://v.daum.net/v/20220918152209885</id>
+        <link href="https://v.daum.net/v/20220918152209885"/>
+        <updated>2022-09-18T07:18:13.581Z</updated>
+        <content type="html"><![CDATA[서울 관악구(박준희 구청장) 관악아트홀이 오는 20일 1년 동안의 리모델링 공사를 마치고 재개관한다. 관악아트홀은 서울 서남권을 대표해 다양한 사람들을 한곳으로 모은 ‘커뮤니티아트홀’이 될 것으로 기대된다. 관악아트홀은 2002년 개관 후 20년간 지역주민들의 문화예술 공간을 책임진 지역 유일의 공연장으로, 사업비 37억 5000만 원을 들여 지난해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블랙핑크, 어나더 클래스]]></title>
         <id>https://v.daum.net/v/20220918151200695</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220918101306432"/>
         <updated>2022-09-18T01:46:35.903Z</updated>
         <content type="html"><![CDATA[[OSEN=강서정 기자] 가수 김호중의 전시회 ‘별의 노래’가 웅장하고 화려한 아트로 관람객들의 발길을 붙잡고 있다. 지난 17일 더 서울라이티움에서 개막한 김호중의 전시회 2022 김호중 展 ‘별의 노래’(이하 ‘별의 노래’)는 오픈 시간 10시부터 김호중과 팬덤 ‘아리스’를 그려낸 작품들을 보러 온 관람객들로 북적였다. 특히 ‘별의 노래’ 개최 기념]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이브, 'After LIKE'로 4세대 대표그룹 각인..신인상 거머쥘까]]></title>
-        <id>https://v.daum.net/v/20220918100659340</id>
-        <link href="https://v.daum.net/v/20220918100659340"/>
-        <updated>2022-09-18T01:46:35.903Z</updated>
-        <content type="html"><![CDATA[[OSEN=김채연 기자] ’MZ 워너비 아이콘' 아이브(IVE)가&nbsp;‘After LIKE’로 음악방송&nbsp;9관왕을 달성한 가운데 신인상 수상에 눈길이 쏠린다. 아이브(멤버 안유진,&nbsp;가을,&nbsp;레이,&nbsp;장원영,&nbsp;리즈,&nbsp;이서)는&nbsp;17일 방송된&nbsp;MBC ‘쇼!&nbsp;음악중심’에 출연해 세 번째 싱글&nbsp;‘애프터 라이크(After LIKE)’의 동명의 타이틀곡&nbsp;‘After LIKE]]></content>
     </entry>
 </feed>
