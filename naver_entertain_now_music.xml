@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-09-18T15:20:06.793Z</updated>
+    <updated>2022-09-18T16:23:30.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["'엔진'이라서, '엔하이픈'이라서 다행"…꼭 2년 전 이날이 기억나네]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011425248</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011425248"/>
+        <updated>2022-09-18T16:23:11.984Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 17~18일 SK올림픽핸드볼경기장서 첫 월드투어 포문 총 8000명 운집 [서울=뉴시스]이재훈 기자 = "오늘 정말 '엔진이라서 다행이다'라는 감정을 느끼게 해주고 싶었는데…. 멤버들도 보면서 그렇게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최유정, 떡잎부터 달랐던 '러블리 스웨그'(영상)]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000173102</id>
@@ -66,7 +73,7 @@
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003647198</id>
         <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003647198"/>
         <updated>2022-09-18T13:35:21.977Z</updated>
-        <content type="html"><![CDATA['원톱' 아이유. 무슨 말이 더 필요한가. 가수 아이유가 18일 오후 7시 서울 송파구 잠실종합운동장 올림픽주경기장에서 단독 콘서트 '더 골든 아워(The Golden Hour) : 오렌지 태양 아래' 둘째 날 공연]]></content>
+        <content type="html"><![CDATA['원톱' 아이유. 무슨 말이 더 필요할까. 가수 아이유가 18일 오후 7시 서울 송파구 잠실종합운동장 올림픽주경기장에서 단독 콘서트 '더 골든 아워(The Golden Hour) : 오렌지 태양 아래' 둘째 날 공연]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아이유, 전곡이 명곡…주경기장 가득 채운 '3시간 떼창' [종합]]]></title>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001501750"/>
         <updated>2022-09-18T12:30:54.015Z</updated>
         <content type="html"><![CDATA[가수 박재범이 아이유를 향한 존경의 마음을 드러냈다. 18일 오후 2022 아이유(IU) 단독 콘서트 '더 골든 아워 (The Golden Hour) : 오렌지 태양 아래(이하 '더 골든 아워')'가 서울 송파구 잠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박재범 "아이유, 존경하는 아티스트…그냥 '원탑'"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=408&amp;aid=0000167267</id>
-        <link href="https://entertain.naver.com/now/read?oid=408&amp;aid=0000167267"/>
-        <updated>2022-09-18T12:30:54.016Z</updated>
-        <content type="html"><![CDATA[가수 박재범이 아이유 콘서트 게스트로 출격했다. 18일 오후 서울 송파구 잠실종합운동장 올림픽주경기장에서 아이유 단독 콘서트 'The Golden Hour: 오렌지 태양 아래'가 개최됐다. 이번 아이유의 단독 콘서트]]></content>
     </entry>
 </feed>
