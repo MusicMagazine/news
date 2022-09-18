@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-09-18T22:16:54.717Z</updated>
+    <updated>2022-09-18T23:19:14.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바이올라 데이비스 '우먼 킹' 美 박스오피스 1위]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011425371</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011425371"/>
+        <updated>2022-09-18T23:19:13.498Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 아프리카 다호미 왕국 이야기 그려내 영화 '우먼 킹'(The Woman King)이 미국 주말 박스오피스 1위에 올랐다. 미국 박스오피스 집계 사이트 박스오피스 모조(Box Office Mojo)에 따]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“파파라치들아! 날 좀 내버려둬”, 넷째 임신 블레이크 라이블리 뿔났다[해외이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003647238</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013445893"/>
         <updated>2022-09-18T08:22:37.541Z</updated>
         <content type="html"><![CDATA[넷플릭스 한국 시리즈 '오징어 게임'으로 제74회 에미상에서 남우주연상을 받은 배우 이정재(오른쪽)가 배우 정우성과 18일 오후 인천국제공항 제2터미널로 귀국하고 있다. 2022.9.18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에미상 트로피와 함께 귀국하는 이정재]]></title>
-        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013445892</id>
-        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013445892"/>
-        <updated>2022-09-18T08:22:37.544Z</updated>
-        <content type="html"><![CDATA[넷플릭스 한국 시리즈 '오징어 게임'으로 제74회 에미상에서 남우주연상을 받은 배우 이정재가 18일 오후 인천국제공항 제2터미널로 귀국해 트로피를 들어보이고 있다. 2022.9.18]]></content>
     </entry>
 </feed>
