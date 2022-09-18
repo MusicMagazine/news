@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-09-18T08:22:38.286Z</updated>
+    <updated>2022-09-18T09:17:54.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단 진, K팝 아티스트 최초·최장 샤잠 '글로벌 주간 톱10' 15주 '톱2']]></title>
+        <id>https://v.daum.net/v/20220918181602452</id>
+        <link href="https://v.daum.net/v/20220918181602452"/>
+        <updated>2022-09-18T09:17:21.412Z</updated>
+        <content type="html"><![CDATA[[텐아시아=김순신 기자] 방탄소년단(BTS) 진이 세계 최대 음원 검색 플랫폼 샤잠(Shazam)에서 또다시 신기록을 경신하며 '글로벌 샤잠킹'의 독보적 파워를 빛냈다. 진은 9월 16일 발표된 '샤잠 글로벌 주간 톱10 아티스트'(week's top 10 artists) 차트에서 2위에 이름을 올리며 15주째 '톱2'를 기록했다. 이는&nbsp;K팝 아티스트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['인기가요' 블랙핑크, 출연 없이도 1위..정규 컴백 전 예열 완료]]></title>
         <id>https://v.daum.net/v/20220918171230266</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220918115018213"/>
         <updated>2022-09-18T04:14:28.184Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) ([엑's 인터뷰②]에 이어) 가수 김소연이 자신만의 색깔과 내실을 다지기 위한 고민을 엿보였다.&nbsp; JTBC '싱어게인2-무명가수전(이하 '싱어게인2')' 준우승자로 대중 앞에 선지 어느덧 7개월 가까이 흘렀다. 김소연은 지난 2월, '싱어게인2' 종영 후 '유명가수전-배틀어게인'에 이어 '싱어게인2' 전국투어 콘서트까지 소화하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김소연 "'싱어게인2' 준우승, 결과에 취하지 않아"]]></title>
-        <id>https://v.daum.net/v/20220918115012212</id>
-        <link href="https://v.daum.net/v/20220918115012212"/>
-        <updated>2022-09-18T04:14:28.185Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) ([엑's 인터뷰①]에 이어) 가수 김소연이 이뤄낸 '싱어게인2' 준우승의 서사는 바로 단단한 내공에서 비롯된 것이었다.&nbsp; JTBC '싱어게인2-무명가수전(이하 '싱어게인2')' 애청자라면 김소연의 극적인 서사를 잊을 수 없을 것이다. 1차전을 제외하고 파이널 진출전까지 패자부활전을 치르며 불굴의 의지를 발휘, 결국 최종 준우승]]></content>
     </entry>
 </feed>
