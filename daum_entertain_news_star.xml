@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-09-18T05:43:16.748Z</updated>
+    <updated>2022-09-18T06:22:50.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['현재는 아름다워' 윤시윤X배다빈→서범준, 세 커플이 전한 종영 인사]]></title>
+        <id>https://v.daum.net/v/20220918151510744</id>
+        <link href="https://v.daum.net/v/20220918151510744"/>
+        <updated>2022-09-18T06:22:21.148Z</updated>
+        <content type="html"><![CDATA[[스포츠투데이 임시령 기자] '현재는 아름다워' 윤시윤, 배다빈, 오민석, 서동미, 서범준, 최예빈이 종영 소감을 밝혔다. 18일 KBS2 주말드라마 '현재는 아름다워'(극본 하명희·연출 김성근)가 최종회를 앞두고 있는 가운데, 지난 6개월의 대장정 속에서 시청자들과 함께 울고 웃었던 李가네 세 커플이 아쉬운 종영 소감을 전했다. 윤시윤과 배다빈, 오민]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['먼훗날에' 박정운, 17일 별세..추모곡 발표]]></title>
         <id>https://v.daum.net/v/20220918143502007</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220918114724148"/>
         <updated>2022-09-18T04:14:33.360Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이해정 기자] '라디오쇼' 박명수가 종영한 프로그램 '무한도전'을 언급했다. 9월 18일 방송된 KBS 쿨FM '박명수의 라디오쇼'는 청취자들의 사연으로 꾸며졌다. 한 청취자는 "요즘 나이가 들어서 그런 건지 베개 자국이 잘 사라지지 않는다"고 문자를 보냈다. 박명수는 "저도 그렇다"며 "나이가 더 들면 잘 때 아무 베개나 베지 않고 좋은 성]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['리슨 업' 라이언전, 830점으로 레드존 탈출 성공]]></title>
-        <id>https://v.daum.net/v/20220918114036020</id>
-        <link href="https://v.daum.net/v/20220918114036020"/>
-        <updated>2022-09-18T04:14:33.362Z</updated>
-        <content type="html"><![CDATA[‘리슨 업’ 라이언전이 탈락 위기에서 벗어났다. 지난 17일 오후 방송된 KBS2 프로듀서 배틀 프로그램 ‘Listen-Up’(이하 ‘리슨 업’)에서는 4라운드의 최종 결과가 공개됐다. 이날 정키가 총점 878점을 받으며 ‘리슨 업’ 역대 최고 점수를 기록했다. 이에 일대일 데스매치에서 승리한 이대휘, 팔로알토, 정키, 라이언전이 히트존에 들었고, 4]]></content>
     </entry>
 </feed>

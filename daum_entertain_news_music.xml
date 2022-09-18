@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-09-18T05:43:16.744Z</updated>
+    <updated>2022-09-18T06:22:50.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블랙핑크, 어나더 클래스]]></title>
+        <id>https://v.daum.net/v/20220918151200695</id>
+        <link href="https://v.daum.net/v/20220918151200695"/>
+        <updated>2022-09-18T06:22:15.828Z</updated>
+        <content type="html"><![CDATA[그룹 블랙핑크가 새 앨범 발매 당일 하루 동안 100만장 넘는 앨범을 판매하며 차원이 다른 걸그룹임을 입증했다. 블랙핑크는 지난 16일 정규 2집 '본 핑크'(BORN PINK)를 발매했다. 블랙핑크가 2년 만에 내놓는 정규 앨범이라는 점에서 뜨거운 관심을 모은 이 앨범은 선주문량이 200만장을 넘기며 심상치 않은 기세를 보이더니 급기야 발매 당일 밀리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트라이비, '웬디의 영스트리트'서 훈훈한 선후배 케미 선사]]></title>
+        <id>https://v.daum.net/v/20220918150807628</id>
+        <link href="https://v.daum.net/v/20220918150807628"/>
+        <updated>2022-09-18T06:22:15.832Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 김민지기자]그룹 트라이비(TRI.BE)가 레드벨벳 웬디와 훈훈한 선후배 케미스트리를 뽐냈다. 트라이비 송선, 소은, 미레는 지난 17일 방송된 SBS 파워FM ‘웬디의 영스트리트’에 출연한 가운데 비하인드 컷을 공개했다. 이날 방송에서 경쾌한 첫인사로 포문을 연 송선, 소은, 미레는 최근 발매한 세 번째 싱글 ‘레비오사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["故 박정운, 공연하고 싶다고 수술했는데 끝내.."]]></title>
         <id>https://v.daum.net/v/20220918142543795</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220918100659340"/>
         <updated>2022-09-18T01:46:35.903Z</updated>
         <content type="html"><![CDATA[[OSEN=김채연 기자] ’MZ 워너비 아이콘' 아이브(IVE)가&nbsp;‘After LIKE’로 음악방송&nbsp;9관왕을 달성한 가운데 신인상 수상에 눈길이 쏠린다. 아이브(멤버 안유진,&nbsp;가을,&nbsp;레이,&nbsp;장원영,&nbsp;리즈,&nbsp;이서)는&nbsp;17일 방송된&nbsp;MBC ‘쇼!&nbsp;음악중심’에 출연해 세 번째 싱글&nbsp;‘애프터 라이크(After LIKE)’의 동명의 타이틀곡&nbsp;‘After LIKE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트라이비, 웬디와 '훈훈 케미'..'영스' 비하인드컷 공개]]></title>
-        <id>https://v.daum.net/v/20220918100020188</id>
-        <link href="https://v.daum.net/v/20220918100020188"/>
-        <updated>2022-09-18T01:46:35.903Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 한해선 기자] /사진=SBS 파워FM ‘웬디의 영스트리트’ 그룹 트라이비(TRI.BE)가 레드벨벳 웬디와 훈훈한 선후배 케미스트리를 뽐냈다. 트라이비 송선, 소은, 미레는 지난 17일 오후 방송된 SBS 파워FM '웬디의 영스트리트'에 출연한 가운데 비하인드 컷을 공개했다. 이날 방송에서 경쾌한 첫인사로 포문을 연 송선, 소은, 미레는 최근]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['매일이 리즈' 아이브, 'After LIKE' 9관왕..올해 통산 32관왕]]></title>
-        <id>https://v.daum.net/v/20220918095737137</id>
-        <link href="https://v.daum.net/v/20220918095737137"/>
-        <updated>2022-09-18T01:46:35.904Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 한해선 기자] /사진=스타쉽엔터테인먼트 그룹 아이브(IVE, 안유진, 가을, 레이, 장원영, 리즈, 이서)가 'After LIKE'로 음악방송 9관왕을 달성했다. 아이브는 17일 방송된 MBC '쇼! 음악중심'에 출연해 세 번째 싱글 '애프터 라이크(After LIKE)'의 동명의 타이틀곡 'After LIKE(애프터 라이크)'로 무대를 선보]]></content>
     </entry>
 </feed>

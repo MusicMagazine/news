@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 05:43:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 06:22:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[추자현, ‘작은 아씨들’과 ’수리남’의 특별함]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=229483</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=229483</guid>
+            <pubDate>Sun, 18 Sep 2022 06:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=229483">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220918070547_5d64c0192db8c75f4e41bcf566f46a38.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=229483">추자현, ‘작은 아씨들’과 ’수리남’의 특별함</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220918070547_5d64c0192db8c75f4e41bcf566f46a38.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네이버웹툰 IP라인업,  '법대로사랑하라', ‘금수저’, ‘가우스전자’ 등 6편 영상화]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=229147</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=226479">카카오 미드폼 드라마 '어쩌다 전원일기', 넷플릭스에서도 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220829093441_98a42a9ff2474199628fb23af4910edb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대만 배우 허광한, 팬미팅을 위해 내한]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=226438</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=226438</guid>
-            <pubDate>Mon, 29 Aug 2022 06:04:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=226438">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220829080900_eca1e5090b597589d5a6a5be6c9ba410.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=226438">대만 배우 허광한, 팬미팅을 위해 내한 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220829080900_eca1e5090b597589d5a6a5be6c9ba410.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
