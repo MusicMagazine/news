@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-09-19T19:18:54.322Z</updated>
+    <updated>2022-09-19T20:20:32.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[선우정아 첫 컬래버 앨범 발매, 우원재→수민 피처링 참여]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000630199</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000630199"/>
+        <updated>2022-09-19T20:20:15.451Z</updated>
+        <content type="html"><![CDATA[뮤지션 선우정아가 새로운 EP 앨범에 함께한 피처링진을 공개했다. 선우정아는 오는 9월 23일 오후 6시 새 EP ‘Studio X {1. Phase}’를 발매한다. 이번 앨범은 선우정아가 처음으로 다양한 아티스트들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅, 이런 헤어가 어울린다고? 아이돌 스타일링까지 완벽 소화]]></title>
         <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000883521</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000883516"/>
         <updated>2022-09-19T10:21:19.942Z</updated>
         <content type="html"><![CDATA[JYP의 7인조 신인걸그룹 엔믹스(NMIXX)가 19일 예스24라이브홀에서 두번째 미니앨범 ‘엔트워프(ENTWURF) 쇼케이스를 열고 팬들 곁으로 다가왔다. NMIXX 규진이 포토타임에 임하고 있다. 7개월 만에 발]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 엔믹스 지니, '사랑스럽게 하트~']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004751547</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004751547"/>
-        <updated>2022-09-19T10:21:19.943Z</updated>
-        <content type="html"><![CDATA[그룹 엔믹스(NMIXX) 지니가 19일 서울 광장동 예스24 라이브홀에서 열린 두 번째 싱글 앨범 'ENTWURF(엔트워프)' 발매 기념 쇼케이스에서 포토타임을 갖고 있다. 지난 2월 데뷔 싱글 ‘AD MARE’(애]]></content>
     </entry>
 </feed>
