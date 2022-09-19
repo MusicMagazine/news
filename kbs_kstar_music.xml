@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 07:39:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 08:26:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뮤비가 좋다] 형광CT 등장...네오 끝판왕 태우고 달리는 NCT 127의 '질주']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=229646</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=229646</guid>
+            <pubDate>Mon, 19 Sep 2022 08:25:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=229646">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220919085617_f1d4bb40416092e885752dd204f8c405.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=229646">[뮤비가 좋다] 형광CT 등장...네오 끝판왕 태우고 달리는 NCT 127의 '질주'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220919085617_f1d4bb40416092e885752dd204f8c405.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[세븐틴 "일본발매  ‘DREAM’ 재킷 이미지입니다"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=229397</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=227911">[뮤비가 좋다] 언제나 영원히 "지금은 소녀시대~" 'FOREVER 1'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220906102150_89886f7f84d6e6c16949c61f6b81cec1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[일문일답]  버나드 박 "하루종일 부르지" 발매]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=227885</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=227885</guid>
-            <pubDate>Tue, 06 Sep 2022 01:43:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=227885">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220906095139_c3f6aaa24b8fbe5be29a3ea2b42bd80d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=227885">[일문일답]  버나드 박 "하루종일 부르지" 발매 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220906095139_c3f6aaa24b8fbe5be29a3ea2b42bd80d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
