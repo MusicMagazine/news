@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-09-19T13:49:57.462Z</updated>
+    <updated>2022-09-19T14:26:42.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주6회 한식당 방문... 매즈 미켈슨의 특별한 한식사랑[할리웃통신]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001228983</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001228983"/>
+        <updated>2022-09-19T14:26:41.985Z</updated>
+        <content type="html"><![CDATA[덴마크 출신의 배우 매즈 미켈슨의 특별한 ‘한식 사랑’이 전해져 화제다. 지난 17일(현지시간), 체코 프라하에 위치한 한 한식당 SNS에는 “여러 번 방문해주신 할리우드 배우님 감사하다”라는 글과 함께 사진이 게재]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배다빈 '매력 숏컷' [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000894403</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000894378"/>
         <updated>2022-09-19T11:16:03.241Z</updated>
         <content type="html"><![CDATA[영화 '늑대사냥' VIP 시사회가 19일 오후 서울 CGV용산아이파크몰에서 열렸다. 에이핑크 오하영, 김남주가 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서영희 '부드러운 미소' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000894377</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000894377"/>
-        <updated>2022-09-19T11:16:03.242Z</updated>
-        <content type="html"><![CDATA[영화 '늑대사냥' VIP 시사회가 19일 오후 서울 CGV용산아이파크몰에서 열렸다. 배우 서영희가 포토타임을 갖고 있다.]]></content>
     </entry>
 </feed>
