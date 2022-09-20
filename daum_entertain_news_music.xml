@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-09-20T14:29:51.873Z</updated>
+    <updated>2022-09-20T15:19:05.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정다경 오늘 생일..트롯픽 이벤트 주인공]]></title>
+        <id>https://v.daum.net/v/20220921000045693</id>
+        <link href="https://v.daum.net/v/20220921000045693"/>
+        <updated>2022-09-20T15:18:29.291Z</updated>
+        <content type="html"><![CDATA[[동아닷컴]   정다경 오늘(21일) 생일…트롯픽 이벤트 주인공 [DA:차트] 가수 정다경이 트롯픽 생일 이벤트를 받는다. 21일 트롯 문화를 사랑하는 사람들을 응원하는 서비스 트롯픽(trotpick)에 따르면 정다경은 9월 생일자를 대상으로 한 스페셜 투표에서 이벤트 주인공으로 선정됐다. 이번 투표는 지난달 22일부터 28일까지 진행됐다. 트롯픽의 생일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[르세라핌, 아픔 딛고 활동 재개]]></title>
         <id>https://v.daum.net/v/20220920192202835</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220920144036391"/>
         <updated>2022-09-20T06:04:57.588Z</updated>
         <content type="html"><![CDATA[[OSEN=김채연 기자] 가수 YB와 이선희가 함께 해양생물을 위한 회복의 노래를 불렀다. YB와 이선희는 19일 대국민 해양환경보전 프로젝트의 캠페인송 ‘지지 않겠다는 약속’을 발매했다. 이번 프로젝트는 현재 전 세계가 해양쓰레기로 인해 몸살을 앓고, 바다생물들은 해양쓰레기와 미세플라스틱으로 인해 고통받는 것을 상기시키기 위해 진행됐다. 특히 바다의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前 원더걸스 선예 "배신자라고 하는 분들, 뭘 더 원하는 건지.."]]></title>
-        <id>https://v.daum.net/v/20220920143841293</id>
-        <link href="https://v.daum.net/v/20220920143841293"/>
-        <updated>2022-09-20T06:04:57.588Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김현식 기자] 가수 선예가 그룹 원더걸스 탈퇴 건을 두고 자신을 배신자로 지칭하는 누리꾼들을 향해 날을 세웠다. 선예는 20일 자신의 SNS 계정에 올린 장문의 글에서 “얼마전 ‘금쪽상담소’에서 나온 원더걸스 탈퇴에 관련된 이야기들에 관해 참 이런저런 의견이 많으신 것 같아 이 일을 마무리 짓고 싶은 마음에 저도 제 생각을 정리해 드리]]></content>
     </entry>
 </feed>
