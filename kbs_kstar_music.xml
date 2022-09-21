@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Sep 2022 22:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Sep 2022 23:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['10월의 르세라핌', 새 앨범 ‘ANTIFRAGILE’ 컴백]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=230162</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=230162</guid>
+            <pubDate>Wed, 21 Sep 2022 23:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=230162">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220922080939_0abf361bc97b4e23b32c9d6cf0df3d71.JPG" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=230162">'10월의 르세라핌', 새 앨범 ‘ANTIFRAGILE’ 컴백</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220922080939_0abf361bc97b4e23b32c9d6cf0df3d71.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[네이처 소희의 따뜻한 위로...'길을 걷다']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=230088</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=228199">'오페라의 유령' 팬들 모여라~ 글로벌 에디션 앨범 발매!</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220907095911_4da17f67ad24bb6d16206dc81aaecc1d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 새 앨범 타이틀 곡 "Shut Down"....  힙한 매력의 결정체]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=228167</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=228167</guid>
-            <pubDate>Tue, 06 Sep 2022 23:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=228167">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220907080848_82b5f3caef38cb41b934375f91d8f47c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=228167">블랙핑크 새 앨범 타이틀 곡 "Shut Down"....  힙한 매력의 결정체</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220907080848_82b5f3caef38cb41b934375f91d8f47c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
