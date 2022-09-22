@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-09-22T13:47:47.960Z</updated>
+    <updated>2022-09-22T14:27:32.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['국가부' 소향 "노래방 31점 나와, 기계 고장인가 싶었다"]]></title>
+        <id>https://v.daum.net/v/20220922224920267</id>
+        <link href="https://v.daum.net/v/20220922224920267"/>
+        <updated>2022-09-22T14:27:03.679Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김한길 기자] '국가부' 가수 소향이 노래방 에피소드를 전했다. 22일 밤 방송된 TV CHOSUN 예능프로그램 '국가가 부른다'(이하 '국가부')는 김장훈, 원미연, 소향, 이현, 소냐, 애즈원 이민이 출연해 '천상의 목소리 특집'으로 꾸며졌다. 이날 붐은 소향에게 "잠시 후 노래방 마스터에게 점수를 받아야 하는데, 혹시 노래방 가본 적 있]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['음주운전' 빅톤 허찬 "잘못된 선택으로 큰 실망감 안겨"]]></title>
         <id>https://v.daum.net/v/20220922223404164</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220922192157010"/>
         <updated>2022-09-22T11:16:27.908Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] MBC '옷소매 붉은 끝동'이 한류드라마부문 작품상을 수상했다. 22일 오후 서울 영등포구 여의도 KBS홀에서 '서울드라마어워즈 2022'가 열렸다. 배우 주상욱과 그룹 에이핑크 겸 배우 정은지가 진행을 맡았다. 이날 '서울드라마어워즈 2022' 한류드라마부문 작품상은 '옷소매 붉은 끝동'이 차지했다. '옷소매 붉은 끝동']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지우학' 한류드라마 작품상 "가슴 뛰는 순간 다시 경험해"]]></title>
-        <id>https://v.daum.net/v/20220922192150009</id>
-        <link href="https://v.daum.net/v/20220922192150009"/>
-        <updated>2022-09-22T11:16:27.916Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 넷플릭스 오리지널 '지금 우리 학교는'이 한류드라마부문 작품상을 수상했다. 22일 오후 서울 영등포구 여의도 KBS홀에서 '서울드라마어워즈 2022'가 열렸다. 배우 주상욱과 그룹 에이핑크 겸 배우 정은지가 진행을 맡았다. 이날 '서울드라마어워즈 2022' 한류드라마부문 작품상은 '지금 우리 학교는'에게 돌아갔다. '지금]]></content>
     </entry>
 </feed>
