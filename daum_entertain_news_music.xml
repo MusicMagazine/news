@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-09-23T09:20:36.605Z</updated>
+    <updated>2022-09-23T10:20:35.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가수 인도우, '버려'로 컴백..신예 래퍼 '클라우디오'와 협업]]></title>
+        <id>https://v.daum.net/v/20220923182723781</id>
+        <link href="https://v.daum.net/v/20220923182723781"/>
+        <updated>2022-09-23T10:20:02.964Z</updated>
+        <content type="html"><![CDATA[가수 인도우(INDOW)가 새 싱글 앨범을 발매한다. 23일 인도우 소속사 (주)일공이팔은 “인도우가 오는 28일 오후 6시 새 디지털 싱글 앨범 ‘버려’를 발매한다. 지난달 발매한 ‘Paradise’에서 사랑으로 인해 느끼는 행복함을 달콤하게 담아냈던 인도우가 이번 앨범에서는 피처링 아티스트로 참여한 래퍼 클라우디오와 함께 자신만의 가을 감성을 표현]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['뮤뱅' 라필루스, '그라타타' 첫방 팬심 제대로 저격]]></title>
         <id>https://v.daum.net/v/20220923181848606</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220923153137946"/>
         <updated>2022-09-23T06:52:58.282Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이경호 기자] 그룹 NMIXX(엔믹스)/사진=JYP엔터테인먼트걸그룹 NMIXX(엔믹스)가 신곡 'DICE'(다이스) 뮤직비디오 비하인드 컷을 공개했다. NMIXX는 지난 19일 두 번째 싱글 'ENTWURF'(엔트워프)와 타이틀곡 'DICE'를 발매했다. 신곡 'DICE'는 어떤 역경에도 무너지지 않고 계속해서 전진해 나가겠다는 메시지를 담았다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔믹스, 음반차트 1위→MV 비하인드컷 공개 '러블리 카리스마']]></title>
-        <id>https://v.daum.net/v/20220923150841334</id>
-        <link href="https://v.daum.net/v/20220923150841334"/>
-        <updated>2022-09-23T06:52:58.283Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 NMIXX(엔믹스)가 다채로운 매력이 담긴 신곡 비하인드컷을 공개했다. NMIXX는 9월 19일 두 번째 싱글 'ENTWURF'(엔트워프)를 발매했다. 타이틀곡 'DICE'(다이스)는 어떤 역경에도 무너지지 않고 계속 전진해 나가겠다는 메시지가 담긴 노래다. 두 가지 이상의 장르를 한 곡에 융합해 다채로운 매력을 느낄 수 있는]]></content>
     </entry>
 </feed>
