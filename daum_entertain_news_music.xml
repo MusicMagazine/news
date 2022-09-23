@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-09-23T20:19:53.715Z</updated>
+    <updated>2022-09-23T21:17:42.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["중소 기획사는 웁니다" 아이돌 시장에도 적용된 물가상승률]]></title>
+        <id>https://v.daum.net/v/20220924060009824</id>
+        <link href="https://v.daum.net/v/20220924060009824"/>
+        <updated>2022-09-23T21:17:12.710Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 황미현 기자 = 소비자들을 울리는 고물가 사태가 중소 기획사들까지 시름하게 만들고 있다. 의상 비용부터 댄서비, 공연대행사 비용, 뮤직비디오 제작 비용 등이 한꺼번에 값이 오르며 아이돌 앨범을 제작하고 무대에 세우는데 이전보다 훨씬 높은 비용이 들고 있기 때문. 올해 소비자 물가는 물론 임금, 환율 등이 동시 다발적으로 오르며 아이돌을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["지코가 해냈다"..블랙핑크·아이브 꺾고 '새삥' 차트 1위]]></title>
         <id>https://v.daum.net/v/20220923232002238</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220923165659567"/>
         <updated>2022-09-23T08:23:05.995Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 보이그룹 에이티즈(ATEEZ)가 하반기 두 번째 월드투어 포문을 연다. 에이티즈는 9월 22일 오후 공식 SNS를 통해 2022 하반기 월드투어 ‘더 펠로우십 : 브레이크 더 월(THE FELLOWSHIP : BREAK THE WALL)’ 로고가 새겨진 포스터를 선보였다. 블랙 앤 화이트 무드의 해당 이미지에는 QR코드가 삽입됐다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더블 밀리언셀러' 블랙핑크, 2년 공백 무색한 커리어하이]]></title>
-        <id>https://v.daum.net/v/20220923160108071</id>
-        <link href="https://v.daum.net/v/20220923160108071"/>
-        <updated>2022-09-23T07:33:58.701Z</updated>
-        <content type="html"><![CDATA[[OSEN=지민경 기자] 그룹 블랙핑크가 K팝 걸그룹의 신기록을 또 한 번 갈아치우며 새 역사를 쓰고 있다. 블랙핑크는 지난 16일 정규&nbsp;2집&nbsp;'BORN PINK’를 발매하고 화려한 귀환을 알렸다. 지난 2020년 10월 발표한 정규 1집 ‘THE ALBUM’에 이어 약 2년 만에 선보이는 정규 앨범인 만큼 발매 전부터 글로벌 팬들의 기대가 하늘을 치솟]]></content>
     </entry>
 </feed>
