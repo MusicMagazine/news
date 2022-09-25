@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Sep 2022 04:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Sep 2022 05:37:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미래소년 ‘Drip N’ Drop’ 리안∙장유빈∙이준혁 반전 콘셉트 포토]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=230620</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=230620</guid>
+            <pubDate>Sun, 25 Sep 2022 05:36:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=230620">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220925083828_9829183dcd1247e5f25696e20cade545.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=230620">미래소년 ‘Drip N’ Drop’ 리안∙장유빈∙이준혁 반전 콘셉트 포토</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220925083828_9829183dcd1247e5f25696e20cade545.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[일문일답] ‘컴백’ 갓세븐 제이비(JAY B), “자유로움을 내포하고 있는 앨범”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=230269</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=228326">[뮤비가 좋다] 뉴진스 'Hype Boy'를 향해 발산하는 5인 5색의 매력</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220908100538_b796ff86bb1234050ec57c1e976af5c7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[11월의 세븐틴, 일본 첫 번째 EP ‘DREAM’ & 돔 투어]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=228314</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=228314</guid>
-            <pubDate>Wed, 07 Sep 2022 23:17:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=228314">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220908071510_3ae09e71e986b46eaea75572b50726d8_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=228314">11월의 세븐틴, 일본 첫 번째 EP ‘DREAM’ &amp; 돔 투어</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220908071510_3ae09e71e986b46eaea75572b50726d8_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
