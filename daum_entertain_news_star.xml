@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-09-26T17:31:36.092Z</updated>
+    <updated>2022-09-26T18:22:48.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마이 카·애프터 양..왓챠, '아트버스터' 영화 5편 공개]]></title>
+        <id>https://v.daum.net/v/20220927031616715</id>
+        <link href="https://v.daum.net/v/20220927031616715"/>
+        <updated>2022-09-26T18:22:25.032Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]황지향 인턴 기자 = 국내 OTT '왓챠'에서 각종 영화제에서 찬사를 받은 아트버스터 영화들을 감상할 수 있다. 왓챠는 '왓챠 익스클루시브'를 통해 2022년 제94회 아카데미 시상식에서 세계적으로 주목받은 '드라이브 마이 카'와 '나의 집은 어디인가', 제23회 전주국제영화제 개막작 '애프터 양'을 포함해 '듀얼: 나를 죽여라', ']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['결혼지옥' 무기력 아내, 남편 가정폭력 고백.. 오은영 "트라우마 회복 필요"]]></title>
         <id>https://v.daum.net/v/20220927003604005</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220926230916372"/>
         <updated>2022-09-26T14:32:44.976Z</updated>
         <content type="html"><![CDATA[지난 24일과 25일 이틀 동안 서울 난지한강공원에서 ‘2022 렛츠락페스티벌’이 이어졌다. 야외 록음악 페스티벌인 이 공연에는 국내 인기 록밴드를 중심으로 다양한 장르의 아티스트들이 출연했다. 25일에는 데뷔 25주년 스페셜 앨범을 발매한 밴드 자우림, 록 음악 양대 산맥인 노브레인과 크라잉넛, 페스티벌 섭외 1순위 소란부터 밴드 기프트, 아도이,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이국주 "헤어진 지 반년"..'인만추' 연애관 고백]]></title>
-        <id>https://v.daum.net/v/20220926230441357</id>
-        <link href="https://v.daum.net/v/20220926230441357"/>
-        <updated>2022-09-26T14:32:44.977Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = '동상이몽2' 코미디언 이국주가 자신의 연애관을 솔직하게 고백했다. 26일 오후 10시에 방송된 SBS 예능 프로그램 '동상이몽2-너는 내 운명'(이하 '동상이몽2')에서는 이현이, 홍성기 부부와 만난 송해나, 이국주의 모습이 담겼다. 이날 이현이가 절친한 송해나, 이국주와 회동했다. 이국주가 "헤어진 지 반년 됐다, 새]]></content>
     </entry>
 </feed>
