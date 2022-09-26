@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-09-26T19:17:56.364Z</updated>
+    <updated>2022-09-26T20:18:56.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['블랙핑크 스타일'로 성장..마침내 美 빌보드200 1위까지]]></title>
+        <id>https://v.daum.net/v/20220927050025199</id>
+        <link href="https://v.daum.net/v/20220927050025199"/>
+        <updated>2022-09-26T20:18:28.127Z</updated>
+        <content type="html"><![CDATA[블랙핑크(사진=YG엔터테인먼트)[이데일리 스타in 김현식 기자] 블랙핑크(BLACKPINK·지수, 제니, 로제, 리사)가 K팝 걸그룹 최초로 미국 빌보드 메인 앨범 차트 빌보드200 정상에 올랐다. 이들은 데뷔 6년여 만에 K팝 역사에 새 이정표를 세우며 팀의 가치를 한층 더 끌어올렸다. 이번 기록은 새 월드투어를 비롯해 향후 펼칠 글로벌 활동에도 긍정적]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[케플러, 10월13일 컴백..티저 포스터 공개]]></title>
         <id>https://v.daum.net/v/20220926233008520</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220926180008326"/>
         <updated>2022-09-26T09:23:11.730Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이덕행 기자] /사진='THE WAR' 뮤직비디오 라포엠이 새 앨범으로 돌아왔다. 26일 라포엠의 새 앨범 'THE WAR'가 각종 온라인 음원사이트를 통해 공개됐다. 9개월 만에 공개한 새앨범 'THE WAR'는 하루하루 고된 삶의 전쟁터 속에서 살아 나가고 있는 이들에게 전하는 승전보와 같은 앨범이다. 새벽의 어둠이 가장 짙어진 뒤에야 비]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["내일의 승리를 위해" 라포엠, 크로스오버의 진수 'THE WAR']]></title>
-        <id>https://v.daum.net/v/20220926180008328</id>
-        <link href="https://v.daum.net/v/20220926180008328"/>
-        <updated>2022-09-26T09:23:11.759Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 그룹 라포엠(LA POEM)이 크로스오버의 진수를 들려준다. 라포엠은 9월 26일 오후 6시 각종 음원 사이트를 통해 새 싱글 '더 워(THE WAR)' 음원과 뮤직비디오를 발표했다. 타이틀곡 'The War'는 모든 것을 포기하고 싶은 상황에서도 승리의 환희를 위해 꿋꿋이 나아가는 삶을 이야기한 곡이다. 잔잔한 사운드로 시작해]]></content>
     </entry>
 </feed>
