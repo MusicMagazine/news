@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-09-26T20:18:56.839Z</updated>
+    <updated>2022-09-26T21:18:59.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스키즈→트레저, 10월 열띤 보이그룹 컴백 릴레이]]></title>
+        <id>https://v.daum.net/v/20220927060016169</id>
+        <link href="https://v.daum.net/v/20220927060016169"/>
+        <updated>2022-09-26T21:18:30.232Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 정하은기자]10월 열띤 보이그룹 컴백 릴레이가 예고됐다. 올 여름 걸그룹이 강세였다면, NCT 127을 시작으로 10월부턴 각 소속사를 대표하는 보이그룹들이 컴백 바통을 받는다. 최근 KSPO DOME(올림픽체조경기장) 단독 공연을 성료하며 한층 성장한 모습을 보여준 스트레이 키즈(Stray Kids)가 컴백 활동에 돌]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['블랙핑크 스타일'로 성장..마침내 美 빌보드200 1위까지]]></title>
         <id>https://v.daum.net/v/20220927050025199</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220926180011332"/>
         <updated>2022-09-26T09:23:11.730Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 김정수 기자] 가수 아도라가 26일 오후 서울 청담동 일지아트홀에서 진행된 첫 번째 미니 앨범 'Adorable REbirth’ 발매 기념 쇼케이스에서 타이틀곡 '매지컬 심포니(Magical Symphony)'의 멋진 무대를 선보였다. ‘Magical symphony’는 이전 ‘Trouble? TRAVEL!’ 에서 보여주었던 다채로운 심]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["내일의 승리를 위해"..라포엠, 전쟁 같은 삶에서 외치는 승전보 'THE WAR']]></title>
-        <id>https://v.daum.net/v/20220926180008326</id>
-        <link href="https://v.daum.net/v/20220926180008326"/>
-        <updated>2022-09-26T09:23:11.730Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이덕행 기자] /사진='THE WAR' 뮤직비디오 라포엠이 새 앨범으로 돌아왔다. 26일 라포엠의 새 앨범 'THE WAR'가 각종 온라인 음원사이트를 통해 공개됐다. 9개월 만에 공개한 새앨범 'THE WAR'는 하루하루 고된 삶의 전쟁터 속에서 살아 나가고 있는 이들에게 전하는 승전보와 같은 앨범이다. 새벽의 어둠이 가장 짙어진 뒤에야 비]]></content>
     </entry>
 </feed>
