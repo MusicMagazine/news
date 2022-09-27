@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-09-27T16:29:41.859Z</updated>
+    <updated>2022-09-27T17:35:17.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아도라, 발라드도 잘하죠? '별 하나' 첫무대]]></title>
+        <id>https://v.daum.net/v/20220928020003992</id>
+        <link href="https://v.daum.net/v/20220928020003992"/>
+        <updated>2022-09-27T17:34:45.354Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 김정수 기자] 가수 아도라가 26일 오후 서울 청담동 일지아트홀에서 진행된 첫 번째 미니 앨범 'Adorable REbirth’ 발매 기념 쇼케이스에서 수록곡 '별 하나'의 멋진 무대를 선보였다. ‘별 하나’는 소중한 이를 향한 마음을 담은 곡으로, 소중한 사람과 함께하는 순간이 영원하길 바라는 가사와 이를 풀어내는 ADORA만의 세련된]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스트레이 키즈, 8색 청춘 영화 느낌..개인 티저 추가 공개]]></title>
         <id>https://v.daum.net/v/20220927233007067</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220927173108799"/>
         <updated>2022-09-27T09:28:16.188Z</updated>
         <content type="html"><![CDATA[[OSEN=선미경 기자] 용준형은 음악으로 ‘정준영 절친’ 꼬리표를 뗄 수 있을까. 그룹 하이라이트 출신 용준형이 드디어 본격적인 홀로서기에 나선다. 4년 만에 음악으로 팬들 곁에 돌아오는 것. 비스트, 하이라이트 시절 히트곡을 쏟아낸 프로듀서이기도 한 만큼 음악으로 복귀에 성공할지 관심이 모아진다. 용준형은 현재 4년여 만에 새 앨범 발매를 앞두고 막]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[활동 쉼표? 방탄소년단, 잦은 노출에 '오히려 좋아']]></title>
-        <id>https://v.daum.net/v/20220927172804654</id>
-        <link href="https://v.daum.net/v/20220927172804654"/>
-        <updated>2022-09-27T08:30:50.108Z</updated>
-        <content type="html"><![CDATA[활동을 쉬어간다는 말에 놀랐던 ‘아미’(그룹 방탄소년단 팬덤명)들의 마음이 진정됐다. 방탄소년단이 개인 활동을 통한 잦은 노출로 연일 화제를 모으고 있기 때문이다. 방탄소년단은 지난 6월 당분간 단체 활동을 멈추고 개인 위주로 활동할 것을 알렸다. 2013년 데뷔 후 9년간 단체 활동을 고집한 데다 현재 글로벌 가요계의 정점에 서서 최전성기를 맞고 있]]></content>
     </entry>
 </feed>
