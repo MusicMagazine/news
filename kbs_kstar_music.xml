@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Sep 2022 01:30:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Sep 2022 04:09:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스트레이 키즈, 10월 컴백 새 앨범 'MAXIDENT' 및 타이틀곡 'CASE 143']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=230964</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=230964</guid>
+            <pubDate>Tue, 27 Sep 2022 04:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=230964">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220927092714_f64b7f5e0bdd50f7413126fe8e5f6f9d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=230964">스트레이 키즈, 10월 컴백 새 앨범 'MAXIDENT' 및 타이틀곡 'CASE 143' </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220927092714_f64b7f5e0bdd50f7413126fe8e5f6f9d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, 이번엔 부산을 물들인다  ‘BTS <Yet To Come> THE CITY in BUSAN’]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=230925</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=228752">방탄소년단 ‧ NCT 드림, ‘2022 더팩트 뮤직 어워즈(TMA)’ 합류</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220913082705_267aae4b159c97f380cc6bf0b1c48e7f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 'Shut Down' 로제 개인 포스터]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=228736</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=228736</guid>
-            <pubDate>Tue, 13 Sep 2022 04:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=228736">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220913075642_0cf78c7732df506d123ed4b4aa669826_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=228736">블랙핑크 'Shut Down' 로제 개인 포스터  </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220913075642_0cf78c7732df506d123ed4b4aa669826_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
