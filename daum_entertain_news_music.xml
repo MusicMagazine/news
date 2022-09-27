@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-09-27T20:21:01.708Z</updated>
+    <updated>2022-09-27T21:16:51.887Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유리천장 부순 블랙핑크, 'K팝 걸그룹' 흐름을 바꾸다]]></title>
+        <id>https://v.daum.net/v/20220928060001720</id>
+        <link href="https://v.daum.net/v/20220928060001720"/>
+        <updated>2022-09-27T21:16:21.394Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 정하은기자]2년만에 돌아온 블랙핑크(BLACKPINK)는 건재했다. “컴백이 아냐 떠난 적 없으니까”라는 타이틀곡 ‘셧 다운’의 가사처럼 이들의 자신감이 영국과 미국 차트의 ‘유리천장’을 부수며 K팝의 역사를 새로 썼다. 블랙핑크가 한국 걸그룹으론 처음으로 미국과 영국의 메인 앨범차트 1위를 차지했다. 걸그룹이 영미 양대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아도라, 발라드도 잘하죠? '별 하나' 첫무대]]></title>
         <id>https://v.daum.net/v/20220928020003992</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220927173341892"/>
         <updated>2022-09-27T09:28:16.180Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이경호 기자] 그룹 아이브(IVE)./사진제공=스타쉽엔터테인먼트 'MZ 워너비 아이콘' 그룹 아이브(IVE. 안유진, 가을, 레이, 장원영, 리즈, 이서)가 '애프터 라이크(After LIKE)'로 주간 차트 1위의 자리를 지켰다. 아이브는 세 번째 싱글 타이틀곡 '애프터 라이크(After LIKE)'로 국내 음원 사이트 멜론, 지니 9월 3주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용준형, 음악으로 '정준영 친구' 꼬리표 뗄까]]></title>
-        <id>https://v.daum.net/v/20220927173108799</id>
-        <link href="https://v.daum.net/v/20220927173108799"/>
-        <updated>2022-09-27T09:28:16.188Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자] 용준형은 음악으로 ‘정준영 절친’ 꼬리표를 뗄 수 있을까. 그룹 하이라이트 출신 용준형이 드디어 본격적인 홀로서기에 나선다. 4년 만에 음악으로 팬들 곁에 돌아오는 것. 비스트, 하이라이트 시절 히트곡을 쏟아낸 프로듀서이기도 한 만큼 음악으로 복귀에 성공할지 관심이 모아진다. 용준형은 현재 4년여 만에 새 앨범 발매를 앞두고 막]]></content>
     </entry>
 </feed>
