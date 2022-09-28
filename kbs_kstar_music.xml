@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Sep 2022 08:27:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Sep 2022 09:23:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[11월의 장민호, 전국투어 ‘호시절 : 好時節’ 개최]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=231150</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=231150</guid>
+            <pubDate>Wed, 28 Sep 2022 09:22:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=231150">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220928144552_91d85efb13910a0ab932cb8a150f47d5.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=231150">11월의 장민호, 전국투어 ‘호시절 : 好時節’ 개최 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220928144552_91d85efb13910a0ab932cb8a150f47d5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스트레이 키즈, 10월 컴백 새 앨범 'MAXIDENT' 및 타이틀곡 'CASE 143']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=230964</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=229009">'위키미키' 최유정,  'Sunflower'로 솔로 데뷔</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220914164449_0849206df456792e30bc2e468538fae4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 ‧ NCT 드림, ‘2022 더팩트 뮤직 어워즈(TMA)’ 합류]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=228752</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=228752</guid>
-            <pubDate>Tue, 13 Sep 2022 04:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=228752">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220913082705_267aae4b159c97f380cc6bf0b1c48e7f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=228752">방탄소년단 ‧ NCT 드림, ‘2022 더팩트 뮤직 어워즈(TMA)’ 합류</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220913082705_267aae4b159c97f380cc6bf0b1c48e7f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
