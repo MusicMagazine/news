@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Sep 2022 23:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Sep 2022 01:42:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[르세라핌, 새 앨범 ‘ANTIFRAGILE’ 콘셉트 포토 “시련을 마주할수록 더 단단해진다”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=231300</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=231300</guid>
+            <pubDate>Thu, 29 Sep 2022 01:42:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=231300">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220929093951_08a81c24179d3847bae8194833f53169.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=231300">르세라핌, 새 앨범 ‘ANTIFRAGILE’ 콘셉트 포토 “시련을 마주할수록 더 단단해진다” </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220929093951_08a81c24179d3847bae8194833f53169.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[11월의 장민호, 전국투어 ‘호시절 : 好時節’ 개최]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=231150</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=229014">블랙핑크 리사, 'Shut Down'  16일 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220914164813_5a128a6446992ccc1cc6cdfcc22e590f_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['위키미키' 최유정,  'Sunflower'로 솔로 데뷔]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=229009</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=229009</guid>
-            <pubDate>Wed, 14 Sep 2022 09:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=229009">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220914164449_0849206df456792e30bc2e468538fae4.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=229009">'위키미키' 최유정,  'Sunflower'로 솔로 데뷔</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220914164449_0849206df456792e30bc2e468538fae4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
