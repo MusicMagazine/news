@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-09-29T12:35:44.944Z</updated>
+    <updated>2022-09-29T13:51:59.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[터치드, '그레이트 서울 인베이전' 최종 우승 '상금 1억']]></title>
+        <id>https://v.daum.net/v/20220929224724891</id>
+        <link href="https://v.daum.net/v/20220929224724891"/>
+        <updated>2022-09-29T13:51:29.201Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김한길 기자] 밴드 터치드가 '그레이트 서울 인베이전(GSI)' 최종 우승을 차지했다. 29일 밤 방송된 Mnet 밴드 서바이벌 프로그램 '그레이트 서울 인베이전(GSI)' 12회(최종회)는 파이널 생방송 경연으로 그려졌다. 생방송 파이널 경연에는 유다빈밴드, 설(SURL), 터치드가 올랐다. 이날 유다빈밴드가 가장 먼저 무대에 올라 변화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블랙핑크, '엠카' 1위..엑소 시우민 솔로 데뷔무대]]></title>
         <id>https://v.daum.net/v/20220929193114040</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220929180025615"/>
         <updated>2022-09-29T09:25:25.532Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 래퍼 비오(BE'O)가 솔직한 가사가 매력적인 신곡으로 5개월 만에 돌아왔다. 비오의 첫 번째 미니앨범 'FIVE SENSES (파이브 센시스)'와 타이틀곡 '자격지심 (Feat. ZICO)' 뮤직비디오가 29일 오후 6시 공개됐다.&nbsp; 비오가 데뷔 2년 만에 선보이는 미니 1집 'FIVE SENSES'는 누구나 한 번쯤은 겪어봤]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["성공이 배 아파" 지코 손잡은 비오, '자격지심' 털고 훨훨]]></title>
-        <id>https://v.daum.net/v/20220929180020605</id>
-        <link href="https://v.daum.net/v/20220929180020605"/>
-        <updated>2022-09-29T09:25:25.533Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김노을 기자] /사진=빅플래닛메이드가수 비오가 지코의 지원사격 속 '자격지심'을 고백했다. 비오는 29일 오후 6시 각종 온라인 음원 사이트를 통해 첫 번째 미니앨범 '파이브 센시스'(FIVE SENSES)를 발매하고 타이틀곡 '자격지심 (Feat. ZICO)' 뮤직비디오를 공개했다. '파이브 센시스'는 다섯 가지 감각이 특별하게 와닿았던 순]]></content>
     </entry>
 </feed>
