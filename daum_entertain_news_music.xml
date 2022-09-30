@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-09-30T09:28:57.797Z</updated>
+    <updated>2022-09-30T10:20:15.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이영지, 웹예능 굿즈 수익금 사랑의 열매 2000만원 기부 "감사"]]></title>
+        <id>https://v.daum.net/v/20220930190940542</id>
+        <link href="https://v.daum.net/v/20220930190940542"/>
+        <updated>2022-09-30T10:19:45.471Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 윤상근 기자] /사진제공=사랑의열매 래퍼 이영지가 사랑의열매 사회복지공동모금회(회장 조흥식) 기부 선행에 나섰다. 이영지는 30일 자신이 출연하고 있는 웹예능 '차린건 쥐뿔도 없지만'(이하 차쥐뿔)의 굿즈 '합법적 망나니 컵' 판매수익금 2000만원을 사랑의 열매에 기부했다. 이영지의 기부금은 소외계층의 생계비 지원 등에 사용될 예정이다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NCT 127 '뮤직뱅크' 1위 질주..새 MC 이채민 첫 합류 "영광"]]></title>
         <id>https://v.daum.net/v/20220930182019589</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220930133635739"/>
         <updated>2022-09-30T04:37:04.589Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김명미 기자] 가수 겸 배우 김세정이 일본 팬들을 만난다. 9월 30일 젤리피쉬엔터테인먼트는 11월 11일 일본에서 ‘KIM SEJEONG 1st ASIA FANMEETING 2022 SEJEONG’S SESANG DIARY‘을 개최한다고 밝혔다. 이번 아시아 투어는 서울을 비롯한 인도네시아와 태국 팬미팅을 확정했으나, 팬들의 뜨거운 성원과 쇄도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마룬5 내한 공연 확정, 11월 고척돔 달군다]]></title>
-        <id>https://v.daum.net/v/20220930131200182</id>
-        <link href="https://v.daum.net/v/20220930131200182"/>
-        <updated>2022-09-30T04:37:04.589Z</updated>
-        <content type="html"><![CDATA[[TV리포트=박설이 기자]&nbsp;마룬5가 11월 한국을 찾는다. 마룬5는 록과 팝, R&amp;B 사운드와 매혹적인 선율이 조화를 이룬 감각적이고 세련된 음악으로 전 세계 음악팬들을 사로잡았다. 2004년 ‘최우수 신인 아티스트’ 부문 수상을 시작으로 2005년과 2007년에는 최우수 팝 듀오/그룹 퍼포먼스 부문 등 총 3개의 그래미상을 거머쥐었으며, 전 세계적으로 1]]></content>
     </entry>
 </feed>
