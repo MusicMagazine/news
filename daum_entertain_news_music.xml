@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-09-30T04:37:33.750Z</updated>
+    <updated>2022-09-30T06:10:52.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴진스, K팝 걸그룹 최초 데뷔곡 멜론 TOP 100 1·2위 정복]]></title>
+        <id>https://v.daum.net/v/20220930143925663</id>
+        <link href="https://v.daum.net/v/20220930143925663"/>
+        <updated>2022-09-30T06:10:23.074Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 뉴진스(민지, 하니, 다니엘, 해린, 혜인)가 K팝 걸그룹 역사에 한 획을 그었다. 국내 음원 사이트 멜론이 9월 30일 발표한 ‘Melon Data Lab’(멜론 데이터 랩) 매거진에 따르면 뉴진스는 역대 걸그룹 최초로 데뷔곡 ‘Attention’(어텐션)과 ‘Hype boy’(하입 보이)를 멜론 ‘TOP 100’ 1위와 2]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김세정, 일본 팬미팅 개최 확정..글로벌 스타 우뚝]]></title>
         <id>https://v.daum.net/v/20220930133635739</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220930101056161"/>
         <updated>2022-09-30T02:01:25.615Z</updated>
         <content type="html"><![CDATA[아이즈 ize 김성대(대중음악 평론가)"같은 시대에 살면서 공통 의식을 가지는 비슷한 연령층의 사람들."사전에선 세대(世代)를 위와 같이 정의내린다. 좀 더 들어가면 원래 세(世)와&nbsp;대(代)란 가계(家系)의 핵심 개념으로, 특히 선대와 후대의 연속성을 중시했다고 한다. 뜬금없이 웬 세대 얘기냐 할 수도 있다.&nbsp;이유는 지금부터 쓸 내용이 4세대 국내 걸그룹]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스트레이 키즈, 월드투어 지역 추가..총 16개 도시 32회 '역대급 규모']]></title>
-        <id>https://v.daum.net/v/20220930100804009</id>
-        <link href="https://v.daum.net/v/20220930100804009"/>
-        <updated>2022-09-30T02:01:25.617Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 스트레이 키즈(Stray Kids)가 한층 많은 글로벌 음악 팬들과 만난다. 소속사 JYP엔터테인먼트 측은 9월 29일 오후 스트레이 키즈 공식 SNS 채널을 통해 두 번째 월드투어 'Stray Kids 2nd World Tour "MANIAC"'(스트레이 키즈 두 번째 월드투어 "매니악") 추가 개최를 알리는 포스터를 공개했]]></content>
     </entry>
 </feed>
