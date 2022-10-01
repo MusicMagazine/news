@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-10-01T04:28:36.897Z</updated>
+    <updated>2022-10-01T06:00:48.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이유 측 "코로나19 음성 판정, 정상 활동"]]></title>
+        <id>https://v.daum.net/v/20221001134406921</id>
+        <link href="https://v.daum.net/v/20221001134406921"/>
+        <updated>2022-10-01T06:00:20.691Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 이기은 기자] 가수 겸 배우 아이유가 신종 코로나바이러스 감염증(코로나19) 음성 판정을 받았다. 1일 아이유의 소속사 EDAM엔터테인먼트 측은 "아이유의 코로나19 검사 결과에 대해 안내드린다. 아이유는 해외 입국 이후 밀접접촉자임을 인지했고 PCR 검사를 받았으며, 금일 최종 '음성' 판정을 받았다"라고 밝혔다. 이어 "이에 따라 금일(1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블랙핑크, 스포티파이 주간 차트 2위..인기 질주ing]]></title>
         <id>https://v.daum.net/v/20221001131142630</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221001100912811"/>
         <updated>2022-10-01T01:50:42.009Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 스트레이 키즈(Stray Kids)가 시크와 설렘을 오가는 반전 무드로 팬심을 사로잡았다. 스트레이 키즈는 10월 7일 오후 1시(미국 동부시간 기준 0시) 새 미니 앨범 'MAXIDENT'(맥시던트)와 타이틀곡 'CASE 143'(케이스 143)을 발매하고 컴백한다.&nbsp; JYP엔터테인먼트는 9월 30일 스트레이 키즈 공식 SNS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["사건 발생" 스트레이 키즈, 첫 사랑 노래서 어떤 색 보여줄까]]></title>
-        <id>https://v.daum.net/v/20221001100528761</id>
-        <link href="https://v.daum.net/v/20221001100528761"/>
-        <updated>2022-10-01T01:50:42.014Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김노을 기자] /사진=JYP엔터테인먼트그룹 스트레이 키즈(Stray Kids)가 시크와 설렘을 오갔다. 스트레이 키즈는 오는 10월 7일 오후 1시(미국 동부시간 기준 0시) 새 미니 앨범 'MAXIDENT'(맥시던트)와 타이틀곡 'CASE 143'(케이스 143)을 발매하고 컴백한다. 이와 관련 JYP엔터테인먼트는 10월 1일 자정 단체 및]]></content>
     </entry>
 </feed>
