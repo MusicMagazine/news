@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-10-01T06:40:46.302Z</updated>
+    <updated>2022-10-01T07:25:42.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마룬5, 11월 내한공연 개최..4년 만에 고척돔 찾는다]]></title>
+        <id>https://v.daum.net/v/20221001155453339</id>
+        <link href="https://v.daum.net/v/20221001155453339"/>
+        <updated>2022-10-01T07:25:12.032Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김노을 기자] /사진=라이브네이션코리아스타 밴드 마룬5(Maroon 5)가 내한 공연을 개최한다. 라이브네이션코리아에 따르면 그래미 어워드 수상자이자 'Sugar', 'Memories', 'Maps', 'Moves Like Jagger', 'Payphone', 'Lucky Strike', 'This Love', 'Sunday Morning' 등]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['음악중심' 블랙핑크vs아이브vsNCT127, 박빙 1위 대결]]></title>
         <id>https://v.daum.net/v/20221001153613138</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221001111303564"/>
         <updated>2022-10-01T04:28:08.546Z</updated>
         <content type="html"><![CDATA[[OSEN=선미경 기자] 그룹 블랙핑크의 정규&nbsp;2집&nbsp;'BORN PINK'가 각종 글로벌 음원 차트에서 인기 롱런 조짐을 보이고 있어 주목된다. 1일(현지시각)&nbsp;스포티파이 차트는 블랙핑크의 정규&nbsp;2집&nbsp;'BORN PINK'가 지난 일주일(2022.09.23~2022.09.29)동안 전 세계서 두 번째로 많이 재생된 앨범이라고 밝혔다.&nbsp;이로써 블랙핑크는 지난]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이브, '러브 다이브' 美 빌보드 25주 연속 차트인..글로벌 인기도 막강]]></title>
-        <id>https://v.daum.net/v/20221001110952515</id>
-        <link href="https://v.daum.net/v/20221001110952515"/>
-        <updated>2022-10-01T04:28:08.547Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자] 그룹 아이브(IVE)가 25주째 글로벌 인기를 증명하고 있다. 미국 음악 전문 매체 빌보드가 27일(이하 현지시각) 발표한 최신 차트(10월 1일 자)에 따르면 아이브의 세 번째 싱글 '애프터 라이크(After LIKE)'와 두 번째 싱글 '러브 다이브(LOVE DIVE)'가 각각 5주, 25주 연속 차트인에 성공했다.&nbsp; 빌보드]]></content>
     </entry>
 </feed>
