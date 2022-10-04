@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-10-04T14:37:58.617Z</updated>
+    <updated>2022-10-04T15:24:09.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["이 곡이 적격"..슬기, 지난 8년이 보증하는 솔로 출격]]></title>
+        <id>https://v.daum.net/v/20221005000023128</id>
+        <link href="https://v.daum.net/v/20221005000023128"/>
+        <updated>2022-10-04T15:23:39.676Z</updated>
+        <content type="html"><![CDATA[4일 첫 솔로 앨범 '28 Reasons' 발매 [더팩트 | 정병근 기자] 레드벨벳 슬기가 '올라운더'로서 자신의 진가를 첫 솔로 앨범에 꾹 눌러 담았다. 그 어떤 말보다 지난 8년간의 모습이 이 앨범의 보증수표다. 슬기가 4일 오후 2시 첫 솔로 앨범 '28 Reasons(투애니에잇 리즌스)' 발매 온라인 기자간담회를 진행했다. 데뷔 8년 만에 첫]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['화밤' 국악계 아이돌 김준수, 여심 홀렸다]]></title>
         <id>https://v.daum.net/v/20221004233607979</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221004180002543"/>
         <updated>2022-10-04T09:24:09.654Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이덕행 기자] /사진='기어이 또' 뮤직비디오원위가 팬들을 위한 특별한 신곡을 발매했다. 4일 오후 6시 원위의 새 싱글 '기어이 또 (Still Here)'가 각 종 음원사이트를 통해 공개됐다. 타이틀곡 '기어이 또 (Still Here)'는 멤버 용훈의 자작곡이다. 멜로디와 가사에 집중할 수 있게 짜임새 있는 연주가 인상적이며, 원위만의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['프듀 사태' 피해자 엑스원, 개별 활동으로 승승장구]]></title>
-        <id>https://v.daum.net/v/20221004174406016</id>
-        <link href="https://v.daum.net/v/20221004174406016"/>
-        <updated>2022-10-04T09:24:09.654Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김지하 기자] ‘프로듀스’ 시리즈 조작 사태로 데뷔와 동시에 역사 속으로 사라진 프로젝트 그룹 엑스원 멤버들이 각자의 위치에서 활발한 활동을 펼치고 있다. 지난 2019년 엠넷 ‘프로듀스X101’을 통해 결성된 엑스원(김요한, 김우석, 한승우, 형준, 우즈, 손동표, 이한결, 남도현, 차준호, 민희, 은상)은 제대로 된 활동을 시작하기도 전]]></content>
     </entry>
 </feed>
