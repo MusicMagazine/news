@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-10-04T19:22:34.757Z</updated>
+    <updated>2022-10-04T20:22:24.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다시 뭉친 완전체 마마무, 제대로 일 낼까]]></title>
+        <id>https://v.daum.net/v/20221005050014561</id>
+        <link href="https://v.daum.net/v/20221005050014561"/>
+        <updated>2022-10-04T20:21:52.303Z</updated>
+        <content type="html"><![CDATA[마마무(사진=RBW)[이데일리 스타in 윤기백 기자] ‘믿듣맘무’(믿고 듣는 마마무) 마마무가 돌아온다. 신곡 ‘일낼라’(ILLELLA)라는 제목처럼, 모처럼 뭉친 완전체 마마무가 제대로 일을 낼 수 있을지 귀추가 주목된다. 마마무는 오는 11일 미니 12집 ‘마이크 온’(MIC ON)을 발표하고 약 1년 만에 완전체 활동에 나선다. 지난해 9월 데뷔 7]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서도밴드, 단독 콘서트 '인플루언서' 성료]]></title>
         <id>https://v.daum.net/v/20221005015929744</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221004180028575"/>
         <updated>2022-10-04T09:24:09.641Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 밴드 원위(ONEWE)가 신곡 '기어이 또'를 발매하며 군백기 그리움을 달랬다. 4일 원위는 각종 온라인 음원 사이트를 통해 신곡 '기어이 또 (Still Here)'를 발매하고, 뮤직비디오를 공개했다. '기어이 또'는 멤버 용훈의 자작곡으로, 원위만의 감성이 담긴 락 발라드 곡이다. 특히 각각 지난 7월, 8월 입대한 용훈, 강]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["널 망치고 구원해" 레드벨벳 슬기, 벗어날 수 없는 마성의 올라운더]]></title>
-        <id>https://v.daum.net/v/20221004180006554</id>
-        <link href="https://v.daum.net/v/20221004180006554"/>
-        <updated>2022-10-04T09:24:09.651Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 레드벨벳 멤버 슬기가 솔로 데뷔곡으로 마성의 매력을 증명했다. 슬기는 10월 4일 오후 6시 국내외 음원 사이트를 통해 새 앨범 '28 Reasons'(투애니에잇 리즌스)를 발매했다. 이번 앨범은 슬기가 가요계 입성 8년 만에 처음으로 선보인 솔로 앨범이다. 슬기는 2014년 SM엔터테인먼트 소속 그룹 레드벨벳 멤버로 데뷔했다]]></content>
     </entry>
 </feed>
