@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Oct 2022 06:31:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Oct 2022 07:28:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영탁 ‘TAK SHOW’, 11월 서울 앙코르 콘서트 연다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=231986</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=231986</guid>
+            <pubDate>Tue, 04 Oct 2022 07:27:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=231986">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221004152416_eb82177fa8e1b132c476f84f58d19f2e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=231986">영탁 ‘TAK SHOW’, 11월 서울 앙코르 콘서트 연다</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221004152416_eb82177fa8e1b132c476f84f58d19f2e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 '용의자 X의 헌신' 캐스팅 라인업 공개.  11월 개막]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=231383</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=227560">[현장] 박은빈 첫 단독 팬미팅 ‘은빈노트 : 빈(斌)칸’  </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220905100720_9808335cb5649b81605656c187c2fc65.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장] 쉬광한(쉬광한) 한국 팬미팅, "함께 해서 행복했습니다."]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=227543</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=227543</guid>
-            <pubDate>Mon, 05 Sep 2022 01:43:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=227543">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220905090823_96f0c1f8a345833935383647e4e39646.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=227543">[현장] 쉬광한(쉬광한) 한국 팬미팅, "함께 해서 행복했습니다."</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220905090823_96f0c1f8a345833935383647e4e39646.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
