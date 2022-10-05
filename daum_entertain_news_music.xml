@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-10-05T20:20:16.510Z</updated>
+    <updated>2022-10-05T21:17:56.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우리들의 쇼10' 김영옥‧정진향, 장민호 광팬]]></title>
+        <id>https://v.daum.net/v/20221006060207853</id>
+        <link href="https://v.daum.net/v/20221006060207853"/>
+        <updated>2022-10-05T21:17:25.827Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 이기은 기자] ‘우리들의 쇼10’ 배우 김영옥, 스타 노래 강사 정진향 등이 첫 방송 흥을 돋웠다. 5일 밤 방송된 MBN 음악프로그램 ‘우리들의 쇼10’ 첫 방송 1회에서는 강혜연, 고영열, 김나희, 김다현, 김희재, 나태주, 양지은 등의 음악 대결이 포문을 열었다. 이날 트로트의 광팬으로 알려진 배우 김영옥을 비롯해 스타 노래 강사 정진향]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[11년차 백호, 솔로 아티스트로 여는 두 번째 챕터]]></title>
         <id>https://v.daum.net/v/20221006050002849</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221005180903566"/>
         <updated>2022-10-05T09:22:45.592Z</updated>
         <content type="html"><![CDATA[그룹 아이브의 경북대학교 축제 불발 관련 논란이 이틀째 이어진 가운데, 섭외를 맡았던 에이전시가 자사의 잘못을 인정하며 아이브 및 경북대 측에 사과했다. 아이브의 경북대학교 대동제 출연 관련 섭외를 진행한 더메르센 에이전시(이하 더메르센)는 5일 "이번 출연 이슈로 인해 혼선을 빚게 된 점 정중히 사과드린다"면서 "오해가 없으시도록 아이브 섭외 과정과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["롱 리브 더 킹" 킹덤, 귀공자 변신..더 웅장해진 세계관 '백야']]></title>
-        <id>https://v.daum.net/v/20221005180317382</id>
-        <link href="https://v.daum.net/v/20221005180317382"/>
-        <updated>2022-10-05T09:22:45.593Z</updated>
-        <content type="html"><![CDATA[[OSEN=지민경 기자] 그룹 킹덤이 귀공자로 변신했다. 킹덤은 5일 오후 6시 각종 음원사이트를 통해 미니 5집 '히스토리 오브&nbsp;킹덤&nbsp;: 파트 5. 루이(History Of Kingdom : Part Ⅴ. Louis)’ 전곡 음원과 타이틀곡 ‘백야' 뮤직비디오를 공개했다. 지난 3월 발매한 미니 4집 '히스토리 오브 킹덤 : 파트 4. 단’ 이후 7개]]></content>
     </entry>
 </feed>
