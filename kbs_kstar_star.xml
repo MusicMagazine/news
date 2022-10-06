@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Oct 2022 21:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Oct 2022 22:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 [안나,차이코프스키],  표트로 차이콥스키의 음악과 삶]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=232103</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=232103</guid>
+            <pubDate>Thu, 06 Oct 2022 22:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=232103">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221005104216_9e00279c2408ad5fe457d89ecdc71f9e_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=232103">뮤지컬 [안나,차이코프스키],  표트로 차이콥스키의 음악과 삶</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221005104216_9e00279c2408ad5fe457d89ecdc71f9e_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['다음 소희' 샛별 김시은 "전보다 나은 세상이 되었으면"  (매거진 마리끌레르)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=232232</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=228446">방탄소년단 추석 인사 “더도 말고 덜도 말고 한가위만 같기를”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220910143430_1247c718214fec27341127b6041d3131_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스의 처음하는 추석 인사....  “보름달처럼 행복으로 가득 찬 연휴 되시길”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=228388</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=228388</guid>
-            <pubDate>Thu, 08 Sep 2022 23:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=228388">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220909070309_f65c4767c5f1184697b2334f8a459379.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=228388">뉴진스의 처음하는 추석 인사....  “보름달처럼 행복으로 가득 찬 연휴 되시길”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220909070309_f65c4767c5f1184697b2334f8a459379.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
