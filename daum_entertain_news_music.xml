@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-10-07T20:21:26.199Z</updated>
+    <updated>2022-10-07T21:17:57.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["얼마나 네 빛이 예쁜지" 자존감 지킴이 NCT 127 '윤슬']]></title>
+        <id>https://v.daum.net/v/20221008060003050</id>
+        <link href="https://v.daum.net/v/20221008060003050"/>
+        <updated>2022-10-07T21:17:29.699Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 한해선 기자] [편집자주] [★고막보약]은 보약 같이 귀한 음악을 여러분의 고막에 선사해드리는 시간입니다. 신곡 추천, 숨겨진 명곡 재조명, 가사의 재해석 등을 합니다. 그룹 NCT127이 16일 진행된 정규 4집 '질주'(2 Baddies) 발매 기념 기자간담회에 앞서 포즈를 취하고 있다. 이번 앨범에는 타이틀곡 '질주'(2 Baddies)를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[음악 빅데이터 플랫폼 기업 한터글로벌, '혁신기업 국가대표 1000' 선정돼]]></title>
         <id>https://v.daum.net/v/20221007230733410</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221007163019694"/>
         <updated>2022-10-07T08:23:27.042Z</updated>
         <content type="html"><![CDATA[국내 최초 OST 축제가 서울숲에서 열린다. 국내 최초로 OST를 테마로 한 'OST포레스트(FOR:REST)'가 한글날의 대체공휴일인 오는 10일 서울 성동구에 위치한 서울숲 가족마당에서 개최된다. 실외 행사에 대한 방역 조치가 완화되는 흐름 속에서 야외 축제들이 속속 정상화되고 있는 가운데, 올해 처음으로 개최되는 'OST포레스트' 역시 풍성한 볼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라이언 레이놀즈, 스트레이 키즈 신곡에 또 사랑고백 "대형사건"]]></title>
-        <id>https://v.daum.net/v/20221007154133827</id>
-        <link href="https://v.daum.net/v/20221007154133827"/>
-        <updated>2022-10-07T07:27:27.932Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 캐나다 배우 라이언 레이놀즈(Ryan Reynolds)가 K팝 그룹 스트레이 키즈(Stray Kids/방찬, 리노, 창빈, 현진, 한, 승민, 아이엔, 필릭스)에게 애정을 표했다. 라이언 레이놀즈는 10월 7일 자신이 운영 중인 회사 'Maximum Effort' 공식 트위터 계정으로 스트레이 키즈 공식 트위터에 게재된 신곡 뮤직비]]></content>
     </entry>
 </feed>
