@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-10-07T13:53:49.259Z</updated>
+    <updated>2022-10-07T14:36:07.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[음악 빅데이터 플랫폼 기업 한터글로벌, '혁신기업 국가대표 1000' 선정돼]]></title>
+        <id>https://v.daum.net/v/20221007230733410</id>
+        <link href="https://v.daum.net/v/20221007230733410"/>
+        <updated>2022-10-07T14:35:35.987Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 음악 빅데이터 기반의 글로벌 플랫폼 기업 (주)한터글로벌(대표이사 곽영호)이 '혁신기업 국가대표 1000' 과학기술정보통신부 기업 부문에 선정되었다고 지난 6일 밝혔다. 혁신기업 국가대표 1000은 산업통상자원부, 중소벤처기업부, 과학기술정보통신부, 특허청, 문화체육관광부 등 12개의 정부부처가 총 1,043개 혁신성장 기업을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하성운, 코로나19로 미뤘던 군 복무.."24일 입대"]]></title>
         <id>https://v.daum.net/v/20221007204100118</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221007154133827"/>
         <updated>2022-10-07T07:27:27.932Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 캐나다 배우 라이언 레이놀즈(Ryan Reynolds)가 K팝 그룹 스트레이 키즈(Stray Kids/방찬, 리노, 창빈, 현진, 한, 승민, 아이엔, 필릭스)에게 애정을 표했다. 라이언 레이놀즈는 10월 7일 자신이 운영 중인 회사 'Maximum Effort' 공식 트위터 계정으로 스트레이 키즈 공식 트위터에 게재된 신곡 뮤직비]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미리 듣는 권진아 표 이별 감성, 프리 리스닝 공개]]></title>
-        <id>https://v.daum.net/v/20221007154059804</id>
-        <link href="https://v.daum.net/v/20221007154059804"/>
-        <updated>2022-10-07T07:27:27.932Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 싱어송라이터 권진아 신곡 일부가 공개됐다. 소속사 안테나는 10월 6일 공식 SNS를 통해 권진아의 새 디지털 싱글 ‘진심이었던 사람만 바보가 돼’ 프리 리스닝 영상을 공개했다. 공개된 영상에는 가을 느낌이 물씬 풍기는 아련한 분위기의 권진아의 이미지가 담겨있다. 신곡 ‘진심이었던 사람만 바보가 돼’ 음원 일부가 공개, 중독성 높]]></content>
     </entry>
 </feed>
