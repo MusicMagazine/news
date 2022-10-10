@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-10-10T10:19:55.894Z</updated>
+    <updated>2022-10-10T11:18:04.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크러쉬 "조심 제스처가 하이파이브 거부로..오해 속상해"]]></title>
+        <id>https://v.daum.net/v/20221010195206795</id>
+        <link href="https://v.daum.net/v/20221010195206795"/>
+        <updated>2022-10-10T11:17:30.672Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김한길 기자] 가수 크러쉬가 공연 도중 생긴 오해에 대해 직접 해명했다. 크러쉬는 10일 자신의 SNS에 "페스티벌에서 공연 도중 생긴 상황에 오해가 더 커지지 않았으면 하는 마음에 글을 올린다"고 운을 뗐다. 이어 크러쉬는 "저는 공백기와 코로나로 인해 약 2년간 만나지 못했던 팬분들을 공연을 통해 직접 대면하게 되어 너무 기뻤고, 조금이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크러쉬 "공연 중 하이파이브 거부 아냐, 조심하란 제스처"]]></title>
         <id>https://v.daum.net/v/20221010190110312</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221010113943409"/>
         <updated>2022-10-10T04:15:15.470Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 르세라핌(LE SSERAFIM) 신보 음원 일부가 공개됐다. 르세라핌(김채원, 사쿠라, 허윤진, 카즈하, 홍은채)은 10월 10일 하이브 레이블즈 유튜브 채널, 쏘스뮤직 공식 SNS에 하이라이트 메들리 영상을 게재했다. 이번 영상은 르세라핌의 미니 2집 ‘ANTIFRAGILE’(안티프래자일)에 수록된 5곡의 하이라이트 음원과 콘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조남지대, 오늘 신곡 발매..조세호X남창희의 힙합]]></title>
-        <id>https://v.daum.net/v/20221010112357133</id>
-        <link href="https://v.daum.net/v/20221010112357133"/>
-        <updated>2022-10-10T04:15:15.471Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 그룹 조남지대(조세호, 남창희)가 힙합에 도전한다. 딩고 프리스타일은 10월 10일 오후 6시 각종 음원사이트를 통해 조남지대의 신곡 '사랑받지 못하는 남자, 배달받지 못하는 남자'를 발매한다. 음원 '사랑받지 못하는 남자, 배달받지 못하는 남자'는 배달 음식 주문 내역에 담긴 추억을 회상하며 서로 다른 곳을 바라보는 두 사람의 이]]></content>
     </entry>
 </feed>
