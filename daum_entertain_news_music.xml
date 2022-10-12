@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-10-12T18:28:24.893Z</updated>
+    <updated>2022-10-12T19:23:19.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[워너·마마무·비투비..11월 '2022 K-뮤직, 평창' 열린다]]></title>
+        <id>https://v.daum.net/v/20221013033309853</id>
+        <link href="https://v.daum.net/v/20221013033309853"/>
+        <updated>2022-10-12T19:22:49.042Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]정진아 인턴 기자 = 코로나19로 인해 어려웠던 대중음악공연산업과 관광산업을 연계하는 축제가 열린다. 13일 한국대중음악공연산업협회에 따르면, 협회·문화체육관광부·강원도·평창군은 오는 11월 3~6일 강원 평창군 알펜시아 일대에서 '2022 K-뮤직, 평창'을 펼친다. 평창은 해발 700m에 위치한 도시로 2018년 평창 동계올림픽이 열렸]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['수요일도 밤이 좋아' 양지은, 고음 레전드]]></title>
         <id>https://v.daum.net/v/20221013001807916</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221012181532892"/>
         <updated>2022-10-12T09:23:23.975Z</updated>
         <content type="html"><![CDATA[가수 박지훈이 새 앨범 ‘디 앤서(THE ANSWER)’로 ‘답’을 찾았다. 12일 오후 5시 박지훈의 여섯 번째 미니앨범 ‘디 앤서’ 발매 기념 온라인 미디어 쇼케이스가 개최됐다. 새 앨범 ‘디 앤서’의 6곡에는 ‘넌 나의 답’이라는 메시지가 담겼다. 박지훈은 팬들과 대중에게 받고 싶은 ‘답’으로 “다양한 모습을 가진 가수이자 배우, 다방면에서 활]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["음악 대하는 태도 달라져"..박지훈, 다시 되새기는 '초심']]></title>
-        <id>https://v.daum.net/v/20221012181319856</id>
-        <link href="https://v.daum.net/v/20221012181319856"/>
-        <updated>2022-10-12T09:23:23.975Z</updated>
-        <content type="html"><![CDATA[가수 박지훈이 가수로서 ‘초심’을 담은 앨범으로 돌아온다. 박지훈의 여섯 번째 미니앨범 ‘디 앤서’(THE ANSWER)는 지난해 10월 발매한 미니 5집 ‘핫 앤 콜드’(HOT&amp;COLD) 이후 약 1년 만의 신보다. 강렬하게, 때론 부드럽게 오로지 박지훈만의 목소리를 통해 ‘넌 나의 유일한 답’이라는 메시지를 전한다. 박지훈은 12일 열린 컴백 기념 쇼케]]></content>
     </entry>
 </feed>
