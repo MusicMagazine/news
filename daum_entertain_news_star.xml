@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-10-13T15:21:46.471Z</updated>
+    <updated>2022-10-13T16:27:12.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김종국 "LA 식당서 방탄소년단 '지민' 우연히 만나→계산은 NO".. 폭소]]></title>
+        <id>https://v.daum.net/v/20221014003736942</id>
+        <link href="https://v.daum.net/v/20221014003736942"/>
+        <updated>2022-10-13T16:26:48.006Z</updated>
+        <content type="html"><![CDATA[[OSEN=박근희 기자] 김종국이 미국에서 방탄소년단 지민과 우연히 마주쳤다. 13일 오후 김종국 유튜브 채널에는 ’20대 아이돌과 27년 전 아이돌 (Feat. 르세라핌)’이라는 제목의 영상이 게재됐다. 프로미스나인. 투모로우바이투모로우 등의 하이브 아이돌들이 짐종국에도 많이 출연했다. 이를 들은 김종국은 “방탄만 남았다. 나올 때 됐잖아. 재석이형도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['원하는대로' 박진희X최정윤 25년 찐 우정.. "나쁜 일 생기면 딸 부탁한다고"]]></title>
         <id>https://v.daum.net/v/20221014002100846</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221013232804431"/>
         <updated>2022-10-13T15:21:21.922Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 김준석 기자] 신화 멤버 신혜성이 음주 측정을 거부하다가 현행범으로 체포됐다. 13일 방송된 KBS2 '연중 플러스'에서는 음주 측정 거부 혐의로 체포된 그룹 신화의 신혜성의 소식이 전해졌다. 이날 신혜성의 체포 당시 CCTV가 공개됐다. 신혜성이 몰고온 차량은 도로 한복판에서 브레이크와 비상등]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신혜성, 과거에도 음주운전..차량 절도 혐의 등 검찰 송치 예정]]></title>
-        <id>https://v.daum.net/v/20221013232351395</id>
-        <link href="https://v.daum.net/v/20221013232351395"/>
-        <updated>2022-10-13T14:26:36.005Z</updated>
-        <content type="html"><![CDATA[‘연중 플러스’ 신혜성이 검찰 송치 예정이다. 13일 오후 방송된 KBS2 ‘연중 플러스’에서는 가수 신혜성의 음주운전  체포에 관한 내용이 전파를 탔다. 이날 ‘연중 플러스’가 확보한 CCTV에서 지난 11일 오전 1시경 인적이 없는 한밤중 도로 위 흰색 SUV 차량이 포착됐다. 도로 위 차는 도로 한복판에 10분가량 브레이크 등과 비상등을 연속]]></content>
     </entry>
 </feed>
