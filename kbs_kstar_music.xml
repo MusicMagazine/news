@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Oct 2022 04:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Oct 2022 05:46:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단, 부산세계박람회 유치기원 콘서트  'BTS < Yet To Come> in BUSAN']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=233449</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=233449</guid>
+            <pubDate>Sat, 15 Oct 2022 05:44:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=233449">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221015123802_93014c09b1098d10eed5c02669a1d43b_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=233449">방탄소년단, 부산세계박람회 유치기원 콘서트  'BTS &lt; Yet To Come&gt; in BUSAN' </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221015123802_93014c09b1098d10eed5c02669a1d43b_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, 아메리칸 뮤직 어워드(AMA) 2개 부문 노미네이트]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=233207</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=230824">[일문일답] 라포엠 싱글 'THE WAR'  "9개월 만에 컴백, 전쟁같이 준비한 앨범"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220926163635_f7bf45965747aab249302c0ea0b1adb4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엑소 시우민, 솔로 데뷔 "Brand New"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=230814</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=230814</guid>
-            <pubDate>Mon, 26 Sep 2022 07:32:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=230814">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220926162946_32578095ebd31160faf6a0ae26b921de_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=230814">엑소 시우민, 솔로 데뷔 "Brand New"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220926162946_32578095ebd31160faf6a0ae26b921de_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
