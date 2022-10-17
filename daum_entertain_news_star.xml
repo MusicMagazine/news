@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-10-17T16:35:56.952Z</updated>
+    <updated>2022-10-17T17:40:56.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김건, 외야수 전격 데뷔..독기 충전 스피드 공격]]></title>
+        <id>https://v.daum.net/v/20221018020011030</id>
+        <link href="https://v.daum.net/v/20221018020011030"/>
+        <updated>2022-10-17T17:40:29.913Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 사진 제공=채널A채널A 스포츠 예능 ‘강철볼-피구전쟁’의 ‘강철국대’ 14인이 대성고와의 4차 평가전에서 젖 먹던 힘까지 발휘한다. 18일 ‘강철볼’ 9회에서는 대한민국 피구 국가대표로서 국제대회를 준비하고 있는 ‘강철국대’ 14인이 평가전 ‘3전 3패’라는 스코어 속, 대전 대성고와 4차전에 나서는 모습이 공개된다. 앞서 진행된 대천고와의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['동상이몽2' 오상진♥김소영, 극과 극 일상→'無논리' 설전까지]]></title>
         <id>https://v.daum.net/v/20221018004801780</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221017235700453"/>
         <updated>2022-10-17T15:24:43.954Z</updated>
         <content type="html"><![CDATA['동상이몽2' 오상진-김소영 부부의 일상이 공개됐다. 17일 방송된 SBS 예능프로그램 '동상이몽2- 너는 내 운명'(이하 '동상이몽2')에서는 오상진과 김소영의 다른 일상이 그려졌다. 이날  오상진은 오전부터 전시회를 찾았고, 품위있는 일탈에 보는 이의 실소를 자아냈다. 같은 시각 김소영은 직원들과 주간 브리핑을 하며 런칭 임박한 신제품을 체크했다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이렇게 난폭한 사람 처음" 산후우울증·생활고→매일 폭언 쏟는 부부]]></title>
-        <id>https://v.daum.net/v/20221017235638450</id>
-        <link href="https://v.daum.net/v/20221017235638450"/>
-        <updated>2022-10-17T15:24:43.955Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] '결혼지옥' 술만 마시면 이어지는 폭언이 고민인 부부가 출연했다. 17일 방송된 MBC 예능프로그램 '오은영 리포트-결혼지옥'에서는 과한 술이 고민인 부부가 출연했다. 쌍둥이를 키우고 있는 부부. 아내는 홀로 쌍둥이를 육아하며 피곤한 나날을 보내고 있었다. 육아에 밀린 집안일까지 하느라 아내에겐 쉬는 시간이]]></content>
     </entry>
 </feed>
