@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-10-17T18:33:10.576Z</updated>
+    <updated>2022-10-17T19:32:13.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[맏형 진, 입대 약속 지켰다.. "이달 말 입영 연기 취소 예정"]]></title>
+        <id>https://v.daum.net/v/20221018041013546</id>
+        <link href="https://v.daum.net/v/20221018041013546"/>
+        <updated>2022-10-17T19:31:48.657Z</updated>
+        <content type="html"><![CDATA[그룹 방탄소년단(BTS)이 결국 군에 입대한다. 전 세계에 K팝을 알리고 한국의 위상을 높인 BTS의 공적을 감안해 병역 특례에 대한 논의가 있었으나 BTS는 입대를 최종 선택했다. 소속사 빅히트뮤직은 17일 입장문을 통해 “우선 곧 개인 활동을 갖는 멤버 진은 10월 말 입영 연기 취소를 신청할 예정”이라며 “이후 병무청의 입영 관련 절차를 따르게 될]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김건, 외야수 전격 데뷔..독기 충전 스피드 공격]]></title>
         <id>https://v.daum.net/v/20221018020011030</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221018000012474"/>
         <updated>2022-10-17T15:24:43.953Z</updated>
         <content type="html"><![CDATA[드라마 '빅마우스'·영화 '공조2'·소녀시대 활동까지 모두 흥행 정제되지 않은 스타는 어떤 모습일까. 연예계는 대중의 관심을 받는 스타도 많고, 이들을 팔로우하는 매체도 많다. 모처럼 인터뷰가 잡혀도 단독으로 대면하는 경우가 드물다. 다수의 매체 기자가 함께 인터뷰를 하다 보니 내용도 비슷하다. 심지어 사진이나 영상마저 소속사에서 만들어 배포하는 경우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['동상이몽2' 오상진, 전시회→수영 '한량 일상'.. CEO 김소영과 정반대]]></title>
-        <id>https://v.daum.net/v/20221017235700453</id>
-        <link href="https://v.daum.net/v/20221017235700453"/>
-        <updated>2022-10-17T15:24:43.954Z</updated>
-        <content type="html"><![CDATA['동상이몽2' 오상진-김소영 부부의 일상이 공개됐다. 17일 방송된 SBS 예능프로그램 '동상이몽2- 너는 내 운명'(이하 '동상이몽2')에서는 오상진과 김소영의 다른 일상이 그려졌다. 이날  오상진은 오전부터 전시회를 찾았고, 품위있는 일탈에 보는 이의 실소를 자아냈다. 같은 시각 김소영은 직원들과 주간 브리핑을 하며 런칭 임박한 신제품을 체크했다]]></content>
     </entry>
 </feed>
