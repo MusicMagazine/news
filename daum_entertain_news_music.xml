@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-10-21T15:27:49.450Z</updated>
+    <updated>2022-10-21T16:31:45.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스트레이 키즈, 美 케이팝 차트쇼 '케이팝레이더' 1위]]></title>
+        <id>https://v.daum.net/v/20221022003402656</id>
+        <link href="https://v.daum.net/v/20221022003402656"/>
+        <updated>2022-10-21T16:31:16.501Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김수진 기자] 그룹 스트레이 키즈(Stray Kids)가 미국 전역으로 방송되는 케이팝 전용 차트쇼 '케이팝레이더 (K-POP RADAR)'의 위클리 팬덤 차트에서 1위를 차지했다. 케이팝 전용 차트 프로그램 '케이팝레이더'는 21일 케이팝레이더 위클리 팬덤 차트를 발표했다. 이번 차트에서 스트레이 키즈의 신곡 '케이스 원포쓰리(CASE 143]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장민호 트랙리스트 공개..타이틀곡은 '사랑 너였니']]></title>
         <id>https://v.daum.net/v/20221021234507353</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221021170906677"/>
         <updated>2022-10-21T08:25:36.536Z</updated>
         <content type="html"><![CDATA[그룹 방탄소년단(BTS) 진이 '월드클래스'다운 솔로 행보를 예고했다. 진은 오는 28일 첫 솔로 싱글 ‘디 애스트로넛(The Astronaut)’을 발표한다. ‘디 애스트로넛’은 지난 15일 부산 아시아드주경기장에서 열린 'BTS '옛 투 컴' 인 부산' 공연 당시 깜짝 예고한 솔로 프로젝트 곡으로, 진이 아미(ARMY)를 향한 애정을 담아 만든 곡이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임영웅 콘서트, 초고속 매진 속 불법거래 몸살 "강제 취소+블랙리스트"]]></title>
-        <id>https://v.daum.net/v/20221021164537947</id>
-        <link href="https://v.daum.net/v/20221021164537947"/>
-        <updated>2022-10-21T08:25:36.536Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 가수 임영웅 측이 콘서트 불법 예매 단속에 나섰다. 임영웅 소속사 물고기 뮤직 측은 10월 20일 오후 공식 팬카페에 “2022 임영웅 콘서트 ‘IM HERO’(아임 히어로) 앙코르 공연은 지정 예매처가 아닌 다른 경로를 통한 매매, 개인 간의 직거래, 인터넷 중고 거래 등 불법 거래 행위를 엄격히 금지한다”며 “지속적인 모니터링]]></content>
     </entry>
 </feed>
