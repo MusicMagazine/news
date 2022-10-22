@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Oct 2022 22:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Oct 2022 23:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정은지 앨범 'log', 콘셉트 포토 공개 "서른 번째 기록"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=234372</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=234372</guid>
+            <pubDate>Sat, 22 Oct 2022 23:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=234372">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221022080611_bfcaf9848dace2762a1c40375b31d5ac.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=234372">정은지 앨범 'log', 콘셉트 포토 공개 "서른 번째 기록"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221022080611_bfcaf9848dace2762a1c40375b31d5ac.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에이핑크 정은지,  리메이크 앨범 "나에게로 떠나는 여행"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=234089</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=232653">NiziU(니쥬), 데뷔 첫 단독 투어 'Light it Up' 성료</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221010075426_f2c449800226b20461d74374d6b641aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[르세라핌, ‘2022 더팩트 뮤직 어워즈’ 신인상 수상]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=232628</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=232628</guid>
-            <pubDate>Mon, 10 Oct 2022 01:41:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=232628">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221010073512_28b5c505e58b7202a07e56b001dcf68a.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=232628">르세라핌, ‘2022 더팩트 뮤직 어워즈’ 신인상 수상</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221010073512_28b5c505e58b7202a07e56b001dcf68a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
