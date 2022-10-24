@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Oct 2022 04:31:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Oct 2022 06:19:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 조유리  "연기도, 노래도, 인터뷰도 유리답게" (두번째 싱글 'Op.22 Y-Waltz : in Minor')]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=234591</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=234591</guid>
+            <pubDate>Mon, 24 Oct 2022 06:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=234591">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221024084758_17ce832f31c5c9b2ea8d40223eca5716.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=234591">[인터뷰] 조유리  "연기도, 노래도, 인터뷰도 유리답게" (두번째 싱글 'Op.22 Y-Waltz : in Minor')</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221024084758_17ce832f31c5c9b2ea8d40223eca5716.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정은지 앨범 'log', 콘셉트 포토 공개 "서른 번째 기록"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=234372</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=232640">이채연, ‘HUSH RUSH’ 콘셉트 포토 “인플루언서로 변신!"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221010074106_6900ba4efb6c5d8657551a8acbef1b85.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NiziU(니쥬), 데뷔 첫 단독 투어 'Light it Up' 성료]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=232653</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=232653</guid>
-            <pubDate>Mon, 10 Oct 2022 01:41:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=232653">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221010075426_f2c449800226b20461d74374d6b641aa.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=232653">NiziU(니쥬), 데뷔 첫 단독 투어 'Light it Up' 성료</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221010075426_f2c449800226b20461d74374d6b641aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
