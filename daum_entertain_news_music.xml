@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-10-24T14:42:03.281Z</updated>
+    <updated>2022-10-24T15:24:33.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['윤형빈 제작' 에이블루, 편견 이겨낸 첫발]]></title>
+        <id>https://v.daum.net/v/20221025000016175</id>
+        <link href="https://v.daum.net/v/20221025000016175"/>
+        <updated>2022-10-24T15:24:05.583Z</updated>
+        <content type="html"><![CDATA[첫 번째 싱글 앨범 'Color_the start' 발표 [더팩트 | 정병근 기자] 개그맨 윤형빈이 아이돌그룹을 제작했다. 6인조 그룹 에이블루(ABLUE)다. 자체 프로듀싱 능력을 갖춘 이들은 본인들만의 이야기로 첫발을 뗐다. 에이블루가 24일 오후 2시 서울 서교동 윤형빈소극장에서 첫 번째 싱글 앨범 'Color_the start(컬러_더 스타트)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로이킴, 담담 목소리 '괜찮을거야' MV 티저 공개]]></title>
         <id>https://v.daum.net/v/20221024233006016</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221024180614142"/>
         <updated>2022-10-24T09:31:40.771Z</updated>
         <content type="html"><![CDATA[활동을 시작한 신인 그룹 퀸즈아이. 빅마운틴엔터테인먼트 제공  &nbsp; 걸그룹 퀸즈아이(Queenz Eye)가 멤버 전원이 데뷔앨범서 안무 구상에 참여했던 사실을 알렸다. 퀸즈아이는 24일 오후 서울 강남구 선릉로 일지아트홀에서 진행된 자신들의 데뷔 앨범 ‘퀸즈 테이블’(Queenz Table) 발매 기념 쇼케이스에서 첫 무대 준비 과정에 대해 전했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[출사표 낸 퀸즈아이, 新 퍼포먼스 맛집 영업 시작]]></title>
-        <id>https://v.daum.net/v/20221024180336030</id>
-        <link href="https://v.daum.net/v/20221024180336030"/>
-        <updated>2022-10-24T09:31:40.775Z</updated>
-        <content type="html"><![CDATA[그룹 퀸즈아이가 24일 서울 강남구 청담동 일지아트홀에서 열린 데뷔 앨범 ‘퀸즈 테이블’(Queenz Table) 발매 기념 쇼케이스에서 기념촬영을 하고 있다.(사진=이영훈 기자)[이데일리 스타in 김현식 기자] “맛있는 음식처럼 음악과 퍼포먼스를 즐겨주세요.” 신인 걸그룹 퀸즈아이(Queenz Eye)가 ‘퍼포먼스 여왕이 되겠다’는 당찬 포부를 품고]]></content>
     </entry>
 </feed>
