@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Oct 2022 10:26:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Oct 2022 11:21:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정유정 소설  '종의 기원',  뮤지컬로 만들어진다 "악인의 탄생기"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=234610</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=234610</guid>
+            <pubDate>Mon, 24 Oct 2022 11:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=234610">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221024085949_839485e85a67b1418ee962d4d078ae01.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=234610">정유정 소설  '종의 기원',  뮤지컬로 만들어진다 "악인의 탄생기"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221024085949_839485e85a67b1418ee962d4d078ae01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가수 챈슬러, 29일 결혼 "인생 2막 예약"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=234506</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=232103">뮤지컬 [안나,차이코프스키],  표트로 차이콥스키의 음악과 삶</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221005104216_9e00279c2408ad5fe457d89ecdc71f9e_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['다음 소희' 샛별 김시은 "전보다 나은 세상이 되었으면"  (매거진 마리끌레르)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=232232</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=232232</guid>
-            <pubDate>Wed, 05 Oct 2022 10:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=232232">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221005161525_7b904a840be7f7440b15b08dd7775721.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=232232">'다음 소희' 샛별 김시은 "전보다 나은 세상이 되었으면"  (매거진 마리끌레르)</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221005161525_7b904a840be7f7440b15b08dd7775721.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
