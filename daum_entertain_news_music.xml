@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-10-24T12:39:20.560Z</updated>
+    <updated>2022-10-24T14:01:38.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하이라이트, 11월 7일 컴백..신비로운 트레일러 공개]]></title>
+        <id>https://v.daum.net/v/20221024230012865</id>
+        <link href="https://v.daum.net/v/20221024230012865"/>
+        <updated>2022-10-24T14:01:06.672Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] [사진 = 어라운드어스 제공]그룹 하이라이트(Highlight/윤두준, 양요섭, 이기광, 손동운)가 오는 11월 7일 네 번째 미니앨범 'AFTER SUNSET'(애프터 선셋)을 발매한다. 공개된 트레일러 영상은 유리로 된 방 안에 멈춰 있는 하이라이트와, 방 밖에서 이들을 지켜보는 하이라이트의 대조적인 모습을 보여준다. 이어 두 공간이 한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오메가엑스 오해 풀었다고? 쓰러진 멤버 향해 "아프면 그만둬라" 폭언 '충격']]></title>
         <id>https://v.daum.net/v/20221024203125209</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221024180102928"/>
         <updated>2022-10-24T09:31:40.776Z</updated>
         <content type="html"><![CDATA[그룹 몬스타엑스 기현이 솔로로 컴백, 독보적인 보컬 매력을 또 한 번 자랑했다. 기현은 24일 오후 6시 첫 번째 미니앨범 '유스(YOUTH)'를 발매했다. 기현의 솔로 컴백은 약 7개월만. 앞서 데뷔 앨범 '보이저(VOYAGER)'를 통해 시원하고 깔끔한 보컬을 자랑했던 기현은 이번에 한층 청량한 매력을 품고 돌아왔다. '유스'는 가장 순수했던 어린 시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["눈치볼 필요없어" 조유리, 달콤 쌉싸름한 위로 'Loveable']]></title>
-        <id>https://v.daum.net/v/20221024180016903</id>
-        <link href="https://v.daum.net/v/20221024180016903"/>
-        <updated>2022-10-24T09:31:40.779Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 가수 조유리가 모든 사람들은 사랑받아 마땅한 존재라는 위로의 메시지를 전했다. 조유리는 10월 24일 오후 6시 각종 음원 사이트를 통해 두 번째 싱글 'Op.22 Y-Waltz : in Minor'(오프스 넘버 22 와이 왈츠 : 인 마이너)을 공개했다. 이번 싱글은 조유리가 6월 발표한 첫 번째 미니 앨범 'Op.22 Y-Wal]]></content>
     </entry>
 </feed>
