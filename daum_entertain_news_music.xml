@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-10-25T19:39:29.348Z</updated>
+    <updated>2022-10-25T20:22:22.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[3분도 길다..요즘 K팝, 짧아야 뜬다]]></title>
+        <id>https://v.daum.net/v/20221026050031461</id>
+        <link href="https://v.daum.net/v/20221026050031461"/>
+        <updated>2022-10-25T20:21:52.728Z</updated>
+        <content type="html"><![CDATA[뉴진스(사진=어도어)[이데일리 스타in 김현식 기자] “짧은 노래가 잘 먹힌다.” 요즘 K팝의 히트 공식을 대변하는 말이다. 3분만 넘겨도 러닝타임이 긴 노래 축에 속할 정도로 짧은 음악을 내놓는 게 대세가 됐다. 음원차트 최상위권에 오른 인기곡 대부분이 약속이나 한 듯 3분 직전인 2분 후반대에서 매듭지어진다. 에이핑크, EXID, 모모랜드 등 인기 K]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TFN, '아마존' MV 티저 공개..말론 페네 연출]]></title>
         <id>https://v.daum.net/v/20221025234508477</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221025183727689"/>
         <updated>2022-10-25T10:23:25.946Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 박윤진 기자] 가수 로이킴이 "후회라는 감정에 익숙하지 않다"고 밝혔다. 로이킴은 25일 오후 5시 진행된 네 번째 정규 앨범 '그리고' 발매 기념 온라인 기자간담회에서 '가장 후회되는 순간'을 묻자 이같이 대답했다. 로이킴은 "되돌릴 수 없음을 알고 있고, 후회라는 감정이 더 나은 나를 만들어준다고 생각하지 않는다"며 "막연히 후회란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라잇썸, 6인조 개편..휘연·지안 탈퇴]]></title>
-        <id>https://v.daum.net/v/20221025183709676</id>
-        <link href="https://v.daum.net/v/20221025183709676"/>
-        <updated>2022-10-25T10:23:25.946Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 최하나 기자] 그룹 라잇썸이 6인조로 개편된다. 소속사 큐브 엔터테인먼트는 25일 "LIGHTSUM(라잇썸)을 항상 사랑해 주시고 응원해 주시는 팬 여러분께 갑작스러운 소식을 전하게 되어 진심으로 죄송하다는 말씀드립니다"라면서 "당사는 신중한 논의 끝에 LIGHTSUM을 6인 체제(상아, 초원, 나영, 히나, 주현, 유정)로 개편하여 활동을]]></content>
     </entry>
 </feed>
