@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-10-25T14:39:05.237Z</updated>
+    <updated>2022-10-25T15:25:30.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TFN, '아마존' MV 티저 공개..말론 페네 연출]]></title>
+        <id>https://v.daum.net/v/20221025234508477</id>
+        <link href="https://v.daum.net/v/20221025234508477"/>
+        <updated>2022-10-25T15:24:58.291Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] [사진제공=MLD엔터테인먼트]그룹 TFN(티에프앤)이 남미 마이다스 손 '말론 페네(Marlon Peña)'와 만났다. TFN은 공식 SNS 채널을 통해 미니앨범 'BEFORE SUNRISE Part. 4(비포 선라이즈 파트 4)'의 타이틀곡 'AMAZON(아마존)' 롱 버전 뮤직비디오 티저를 공개했다. 영상에서 멤버들은 숲속에서 무언가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이석훈, 비주얼 진화 유죄..새 앨범 사진 공개]]></title>
         <id>https://v.daum.net/v/20221025233012348</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221025183709676"/>
         <updated>2022-10-25T10:23:25.946Z</updated>
         <content type="html"><![CDATA[[티브이데일리 최하나 기자] 그룹 라잇썸이 6인조로 개편된다. 소속사 큐브 엔터테인먼트는 25일 "LIGHTSUM(라잇썸)을 항상 사랑해 주시고 응원해 주시는 팬 여러분께 갑작스러운 소식을 전하게 되어 진심으로 죄송하다는 말씀드립니다"라면서 "당사는 신중한 논의 끝에 LIGHTSUM을 6인 체제(상아, 초원, 나영, 히나, 주현, 유정)로 개편하여 활동을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["지금의 소중함" 로이킴, 공백 끝 활동 시작]]></title>
-        <id>https://v.daum.net/v/20221025183323556</id>
-        <link href="https://v.daum.net/v/20221025183323556"/>
-        <updated>2022-10-25T10:23:25.948Z</updated>
-        <content type="html"><![CDATA[가수 로이킴이 긴 공백기를 끝내고 돌아왔다. 로이킴의 정규 4집 ‘그리고’ 발매 기자간담회가 25일 온라인으로 진행됐다. ‘그리고’는 지난 2015년 이후 7년 만에 발매하는 정규 앨범이자, 지난해 12월 군 제대 후 첫 컴백이다. 전작으로도 지난 2020년 발매한 싱글 앨범 ‘살아가는 거야’ 이후 2년 5개월 만의 활동 재개로 시선을 모은다. 이]]></content>
     </entry>
 </feed>
