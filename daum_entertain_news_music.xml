@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-10-26T13:51:06.130Z</updated>
+    <updated>2022-10-26T14:25:20.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘수밤’ 다시 봐도 레전드, 김용임 가요제]]></title>
+        <id>https://v.daum.net/v/20221026230007764</id>
+        <link href="https://v.daum.net/v/20221026230007764"/>
+        <updated>2022-10-26T14:24:50.141Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 이기은 기자] ‘수밤’이 김용임 가요제를 또 한 번 조명했다. 26일 밤 방송된 TV조선 예능프로그램 ‘수요일도 밤이 좋아’에서는 가수 김용임 가요제 2편이 레전드가 클로즈업 했다. 앞서 김태연은 김용임의 깊숙한 세월 연륜이 드러난 ‘훨훨훨’을 선곡했다. 그의 남다른 보이스와 스킬을 바라본 장민호는 “와, 장난 아니다”라며 혀를 내둘렀다. 김]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서툴지만 진솔한 첫사랑…이펙스의 '사랑가']]></title>
         <id>https://v.daum.net/v/20221026203002849</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221026181110225"/>
         <updated>2022-10-26T09:18:42.561Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김현식 기자] “이날만을 기다렸다!” 신예 걸그룹 클라씨(CLASS:y·(형서, 채원, 혜주, 리원, 지민, 보은, 선유)가 정성 들여 준비한 새 앨범으로 돌아왔다. 음악과 뮤직비디오 완성도에 대한 자신감과 활동 의지는 최고조에 달해 있다. 클라씨는 26일 오후 4시 서울 강남구 청담동 일지아트홀에서 새 앨범 ‘데이&amp;나이트’(Day&amp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이펙스 표 '사랑歌' 탄생…자신감 가득 채운 6개월만 컴백]]></title>
-        <id>https://v.daum.net/v/20221026181108222</id>
-        <link href="https://v.daum.net/v/20221026181108222"/>
-        <updated>2022-10-26T09:18:42.569Z</updated>
-        <content type="html"><![CDATA[그룹 이펙스(EPEX)가 6개월 만에 컴백했다. 이펙스(위시, 금동현, 뮤, 아민, 백승, 에이든, 예왕, 제프)는 26일 오후 네 번째 EP 사랑의 서 챕터 1. '퍼피 러브(Puppy Love)' 발매 기념 쇼케이스를 진행했다. 이날 이펙스는 장난감 병정을 연상케 하는 빨간 의상을 맞춰 입고 등장했다. 첫사랑에 빠진 소년을 표현한 풋풋한 변신이 시선을]]></content>
     </entry>
 </feed>
