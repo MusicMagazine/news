@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Oct 2022 09:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Oct 2022 10:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[신간] 엔터테인먼트사의 25가지 업무 비밀 “한 팀의 아티스트를 성공시키려면 백 명의 전문가가 필요하다”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=234914</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=234914</guid>
+            <pubDate>Wed, 26 Oct 2022 10:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=234914">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221026131818_ec2dcf9827a5a204fbc097aab79b3dca.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=234914">[신간] 엔터테인먼트사의 25가지 업무 비밀 “한 팀의 아티스트를 성공시키려면 백 명의 전문가가 필요하다”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221026131818_ec2dcf9827a5a204fbc097aab79b3dca.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우 박은빈, 필리핀 마닐라에서 '아시아 팬미팅 투어' 스타트]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=234818</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=232605">뮤지컬 '스위니토드' 하반기 공연계 돌풍 예약</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221010070027_605205c2d6a7895b272ef5c8754cc2ac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["내 이름은 박지후"  '벌새, 지금우리학교는,그리고 작은아씨들']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=232243</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=232243</guid>
-            <pubDate>Sat, 08 Oct 2022 03:28:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=232243">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221005162828_27f2c263f02b81783bfa35e963775b47_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=232243">"내 이름은 박지후"  '벌새, 지금우리학교는,그리고 작은아씨들'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221005162828_27f2c263f02b81783bfa35e963775b47_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
