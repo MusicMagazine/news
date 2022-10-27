@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-10-27T14:28:14.959Z</updated>
+    <updated>2022-10-27T15:20:29.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["어설퍼도 괜찮아"…조유리, 털어내니 보이는 것]]></title>
+        <id>https://v.daum.net/v/20221028000003561</id>
+        <link href="https://v.daum.net/v/20221028000003561"/>
+        <updated>2022-10-27T15:19:38.121Z</updated>
+        <content type="html"><![CDATA[두 번째 싱글 'Op.22 Y-Waltz : in Minor' 발매 [더팩트 | 정병근 기자] 조유리는 프로젝트 그룹 아이즈원(IZ*ONE) 활동 종료 후 운신의 폭이 넓어졌다. 솔로 가수로 데뷔했고 연기도 시작했다. 본인 스스로 "돌이켜 봤는데 다시 돌아가도 지금 1년처럼 열심히 살 자신이 없더라"고 말할 정도로 참 열심히 달렸다. 그 지나온 자리에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이찬혁, 기행과 예술 사이]]></title>
         <id>https://v.daum.net/v/20221027194451720</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221027174246010"/>
         <updated>2022-10-27T09:18:57.569Z</updated>
         <content type="html"><![CDATA[[동아닷컴]  원어스 레이븐(본명 김영조)이 팀에서 탈퇴한다. 소속사 RBW는 27일 공식입장문을 통해 “무거운 마음으로 멤버 레이븐의 원어스 탈퇴를 안내한다. 해당 이슈 관련해 당사자인 레이븐은 원어스 멤버들 및 팬들에게 끼치는 피해를 우려해 자진 탈퇴에 대한 의사를 전달했다”며 “당사는 레이븐을 비롯한 원어스 멤버들과 신중한 논의를 나눈 끝에 자진 탈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쎄이, 오늘 정규 2집 '씨네마' 발표…한 편의 영화]]></title>
-        <id>https://v.daum.net/v/20221027173937928</id>
-        <link href="https://v.daum.net/v/20221027173937928"/>
-        <updated>2022-10-27T09:18:57.570Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 하지원 기자) R&amp;B 싱어송라이터 SAAY (쎄이)가 그려낸 한 편의 영화와 같은 작품이 드디어 깨어난다. 쎄이는 27일 오후 6시 두 번째 정규앨범 'S:INEMA(씨네마)'를 발매하고 리스너들을 만난다. 쎄이는 자신의 인생을 한 편의 영화와 같았다고 말한다. 할머니의 죽음을 직접 마주하며 인간의 '죽음과 삶'에 대해, 수많은 이별과 만남을]]></content>
     </entry>
 </feed>
