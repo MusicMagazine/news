@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Oct 2022 06:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Oct 2022 07:17:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장민호, 정규 2집 'Eternal' 내달 1일 발매]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=235237</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=235237</guid>
+            <pubDate>Sat, 29 Oct 2022 07:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=235237">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221029084949_5dcf41c3608f228a1e7cdb3c90cb66ab.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=235237">장민호, 정규 2집 'Eternal' 내달 1일 발매 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221029084949_5dcf41c3608f228a1e7cdb3c90cb66ab.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 진, 신곡 ‘The Astronaut’ MV .. 지구에 불시착한 우주인]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=235154</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=233207">방탄소년단, 아메리칸 뮤직 어워드(AMA) 2개 부문 노미네이트</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221014075316_b1db6a52ab9cc11ccdc758913e821d1a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[르세라핌 ‘ANTIFRAGILE’ 뮤직비디오 티저 공개 "어느 날 운석이 떨어진다면?"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=233202</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=233202</guid>
-            <pubDate>Fri, 14 Oct 2022 01:49:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=233202">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221014074914_0772fd61cd6322a7875767e84491870c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=233202">르세라핌 ‘ANTIFRAGILE’ 뮤직비디오 티저 공개 "어느 날 운석이 떨어진다면?"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221014074914_0772fd61cd6322a7875767e84491870c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
