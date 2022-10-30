@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-10-30T13:34:21.907Z</updated>
+    <updated>2022-10-30T14:17:14.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이칠린, 콘텐츠 공개·앨범 발매 연기…이태원 참사 애도]]></title>
+        <id>https://v.daum.net/v/20221030224731193</id>
+        <link href="https://v.daum.net/v/20221030224731193"/>
+        <updated>2022-10-30T14:16:27.899Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 박윤진 기자] 걸그룹 아이칠린이 이태원 참사 희생자를 추모하는 뜻에서 컴백을 연기했다. 30일 소속사 케이엠이엔티는 "아이칠린의 세 번째 디지털 싱글 'Draw(MY TIME)' 발매와 더불어 프로모션 콘텐츠 공개 일정이 연기됐다"고 밝혔다. 아이칠린은 오는 3일 컴백할 예정이었다. 소속사는 "기다리셨을 팬 여러분들의 너른 양해 부탁드리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[드리핀, 컴백 일정 잠정 연기 "깊은 애도"]]></title>
         <id>https://v.daum.net/v/20221030222005054</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221030180351583"/>
         <updated>2022-10-30T09:17:17.458Z</updated>
         <content type="html"><![CDATA[[OSEN=김채연 기자] 가수 정은지가 솔로 앨범 ‘log’ 발매를 연기한다. 30일 소속사 IST엔터테인먼트 측은 공식 팬카페를 통해 “11월 2일 발매 예정이던 리메이크 앨범 ‘log’는 이번 이태원 참사와 국가 애도기간에 따라 발매 연기됐음을 알려드린다”고 밝혔다. 이어 소속사 측은 “IST엔터테인먼트와 이티스트인 정은지 모두 삼가 고인의 명복을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드리핀, 이태원 참사 애도 위해 신보 발매 잠정 연기]]></title>
-        <id>https://v.daum.net/v/20221030175649462</id>
-        <link href="https://v.daum.net/v/20221030175649462"/>
-        <updated>2022-10-30T09:17:17.465Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 안태현 기자 = 그룹 드리핀이 이태원 참사 애도의 뜻을 전하기 위해 앨범 발매를 연기했다. 30일 소속사 울림엔터테인먼트 측은 "오는 11월1일 예정되었던 드리핀 정규 1집 '빌런 : 디 엔드'(Villain : The End) 앨범 발매 및 쇼케이스가 국가 애도 기간이 선포됨에 따라 잠정 연기되었음을 안내드린다"라고 밝혔다. 이어 "변]]></content>
     </entry>
 </feed>
