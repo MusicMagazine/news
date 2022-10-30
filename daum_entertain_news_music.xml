@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-10-30T04:47:22.772Z</updated>
+    <updated>2022-10-30T05:24:48.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영탁 "마음 무겁다", 장윤정 "밤잠 설쳐"···'이태원 참사'에 당일 공연 긴급취소]]></title>
+        <id>https://v.daum.net/v/20221030140127631</id>
+        <link href="https://v.daum.net/v/20221030140127631"/>
+        <updated>2022-10-30T05:24:10.823Z</updated>
+        <content type="html"><![CDATA[[서울경제] 29일 밤 발생한 이태원 압사 참사와 관련, 예정됐던 가수들의 공연도 속속 취소되고 있다. 가수 영탁 측은 30일 오후 진행 예정이던 '2022 영탁 단독 콘서트 "TAK SHOW" - 안동' 공연 취소 소식을 전했다. 영탁은 이날 자신의 SNS 계정을 통해 "어제 이태원 참사에 마음이 무겁다"면서 "오늘 예정이었던 안동 콘서트를 현시점에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["마음 무거워" 영탁, 이태원 압사 참사에 안동 공연 취소]]></title>
         <id>https://v.daum.net/v/20221030131401623</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221030084800213"/>
         <updated>2022-10-30T01:30:30.497Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박아름 기자] 8개월 만에 완전체 앨범으로 돌아오는 하이라이트가 남다른 비주얼을 자랑했다. 하이라이트는 10월 29일과 30일 0시 공식 SNS를 통해 네 번째 미니앨범 ‘AFTER SUNSET’(애프터 선셋) 두 번째 ‘MIDNIGHT’(미드나잇) 버전 콘셉트 포토를 공개했다. 공개된 사진 속 하이라이트는 어둠이 내려앉은 도심을 환하게 밝히고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단 진 솔로도 해외서 통했다 “스포티파이 차트 진입”]]></title>
-        <id>https://v.daum.net/v/20221030084033136</id>
-        <link href="https://v.daum.net/v/20221030084033136"/>
-        <updated>2022-10-30T01:30:30.499Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박아름 기자] 방탄소년단 진 ‘The Astronaut’가 스포티파이 ‘데일리 톱 송 글로벌(Daily Top Songs Global)’ 차트 상위권에 안착했다. 세계 최대 음악 스트리밍 업체 스포티파이 ‘데일리 톱 송 글로벌’ 최신 차트(10월 28일 자)에 따르면 방탄소년단 진이 지난 10월 28일 발표한 솔로 싱글 ‘The Astronaut]]></content>
     </entry>
 </feed>
