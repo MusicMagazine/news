@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Oct 2022 03:48:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Oct 2022 04:51:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크,  월드투어 'BORN PINK' 美 댈러스에서 스타트]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=235461</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=235461</guid>
+            <pubDate>Mon, 31 Oct 2022 04:47:59 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=235461">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221031124411_0056aa9bb781b7648f56d40805d0211a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=235461">블랙핑크,  월드투어 'BORN PINK' 美 댈러스에서 스타트</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221031124411_0056aa9bb781b7648f56d40805d0211a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[투모로우바이투게더, 첫 월드투어 ‘ACT : LOVE SICK’ 성료… “다음 챕터 기대해 달라”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=235341</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=233586">"부산세계박람회 유치를 위해!"  BTS 'Yet To Come' in BUSAN 성황리 개최</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221016174348_72c0f8cbc0f8ce060059362893265eb5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["하이브!" 방탄소년단·세븐틴·투모로우바이투게더, ‘AMA’·‘MTV EMA’ 나란히 노미네이트]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=233521</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=233521</guid>
-            <pubDate>Sat, 15 Oct 2022 23:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=233521">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221016065817_aa1c0f86a76dcfb37e5bf37d60c7cbf0.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=233521">"하이브!" 방탄소년단·세븐틴·투모로우바이투게더, ‘AMA’·‘MTV EMA’ 나란히 노미네이트</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221016065817_aa1c0f86a76dcfb37e5bf37d60c7cbf0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
