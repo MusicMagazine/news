@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-11-01T16:26:10.298Z</updated>
+    <updated>2022-11-01T17:26:43.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[옥주현, '이태원 참사'로 먹먹한 작별 "인생 참 덧없네..정말 좋아했어"]]></title>
+        <id>https://v.daum.net/v/20221102015827573</id>
+        <link href="https://v.daum.net/v/20221102015827573"/>
+        <updated>2022-11-01T17:26:20.078Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] 그룹 핑클 출신 배우 옥주현이 이태원 참사로 인해 지인과 먹먹한 작별을 했다. 옥주현은 2일 “심하게 고된 촬영 중에도 늘 햇살처럼 맑게 웃던 OO. 졸작 마치고 다시 돌아오겠다던 OO와의 시간, 대화가 선명해질수록 감각과 감정이 어찌할 바른 모른 채로 점점 더 요동치고 종일 땅이 꺼져라 한숨만 파게 되더라. 인생 참 덧없네..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘커튼콜’ 강하늘, 고두심 집 입성... 정지소와 가짜 부부 연극 시작]]></title>
         <id>https://v.daum.net/v/20221102003604281</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221101231409572"/>
         <updated>2022-11-01T14:23:57.979Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 서지현 기자] '커튼콜' 하지원이 호텔 매각을 막기 위해 최대훈을 찾아갔다. 1일 밤 방송된 KBS2 월화드라마 '커튼콜'에서는 호텔을 지키기 위해 둘째 오빠 박세규(최대훈)를 찾아간 박세연(하지원) 모습이 그려졌다. 이날 박세규는 자신을 찾아온 박세연에게 "너 호텔 매각권 얘기하려는 거잖아. 네 편 들어주라고"라며 "안돼. 너도 알잖아. 나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['커튼콜' 성동일, 강하늘에 연기 비용으로 3억 제시]]></title>
-        <id>https://v.daum.net/v/20221101231127528</id>
-        <link href="https://v.daum.net/v/20221101231127528"/>
-        <updated>2022-11-01T14:23:57.981Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] '커튼콜' 성동일이 강하늘에 연기를 해주는 조건으로 3억 원을 제시했다. 1일 밤 방송된 KBS2 월화드라마 '커튼콜'(극본 조성걸·연출 윤상호) 2회에서는 정상철(성동일)의 제안을 고민하는 유재헌(강하늘)의 모습이 그려졌다. 이날 유재헌은 정상철에게 북한에 있는 자금순(고두심)의 손자를 연기해 달라는 부탁을 받게 됐다. 의]]></content>
     </entry>
 </feed>
