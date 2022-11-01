@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-11-01T13:49:06.577Z</updated>
+    <updated>2022-11-01T14:24:24.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔하이픈, 日 오리콘 주간 앨범 1위…자체 최다 판매량 경신]]></title>
+        <id>https://v.daum.net/v/20221101230014217</id>
+        <link href="https://v.daum.net/v/20221101230014217"/>
+        <updated>2022-11-01T14:23:52.244Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 그룹 ENHYPEN(엔하이픈/정원, 희승, 제이, 제이크, 성훈, 선우, 니키)이 일본 첫 정규앨범으로 오리콘 차트를 휩쓸고 있다. 1일 일본 오리콘이 발표한 차트(11월 7일 자/집계기간 10월 24일~30일)에 따르면, ENHYPEN의 일본 정규 1집 ‘定め(사다메)’는 23만 3,000장의 판매량으로 오리콘 주간 앨범 랭킹 정상에 올랐다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가수 로즈아나 , 앨범 ‘California Hotel ’ 발매]]></title>
         <id>https://v.daum.net/v/20221101220925277</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221101161015734"/>
         <updated>2022-11-01T07:19:15.941Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 김민지기자]가수 용준형이 이태원 참사 애도에 동참하며 단독 콘서트 일정을 잠정 연기한다. 1일 소속사 블랙메이드 측은 공식 입장을 통해 “이태원에서 발생한 사고로 11월 5일 24시까지 국가 애도 기간이 선포됨에 따라 공연 잠정 연기 결정을 내리게 됐다”고 밝혔다. 이어 “본 공연을 기다려 주셨을 팬 여러분께 사과의 말]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박재정, 콘서트 티켓 오픈 일정 연기 "유명 달리한 분들 애도"]]></title>
-        <id>https://v.daum.net/v/20221101160730633</id>
-        <link href="https://v.daum.net/v/20221101160730633"/>
-        <updated>2022-11-01T07:19:15.960Z</updated>
-        <content type="html"><![CDATA[[TV리포트=박설이 기자]가수 박재정이 콘서트 티켓 예매 오픈 일정을 미룬다. 1일 박재정의 소속사인 로맨틱팩토리 측은 "지난달 31일 진행 예정이었던 박재정 콘서트 '편지 2' 티켓 예매가 국가 애도 기간에 따라 11월 7일 저녁 7시로 연기됐다"고 밝혔다. 이어 "변경된 일정으로 인해 예매에 착오 없으시길 바라며, 팬 여러분의 너른 양해 부탁 드린다"면]]></content>
     </entry>
 </feed>
