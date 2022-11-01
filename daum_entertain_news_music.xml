@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-11-01T09:20:07.532Z</updated>
+    <updated>2022-11-01T10:19:41.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카카오엔터, 김호중 소속사 생각엔터에 100억대 지분 투자]]></title>
+        <id>https://v.daum.net/v/20221101182434609</id>
+        <link href="https://v.daum.net/v/20221101182434609"/>
+        <updated>2022-11-01T10:19:13.366Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 윤성열 기자]  /사진=이동훈 기자 photoguy@카카오엔터테인먼트가 가수 김호중 소속사 생각엔터테인먼트의 지분을 일부 취득했다. 1일 생각엔터테인먼트에 따르면 카카오엔터테인먼트는 최근 생각엔터테인먼트의 지분 10%를 취득했다. 지분 매입가는 약 100억 원대로 알려졌다. 생각엔터테인먼트에는 가수 김호중을 비롯해 서인영, 소연, 한혜진,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[멜로망스, 전국투어 콘서트 티켓 오픈 연기 "국가 애도 동참"]]></title>
         <id>https://v.daum.net/v/20221101172002494</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221101160202408"/>
         <updated>2022-11-01T07:19:15.960Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 정하은기자]활짝 피어나지 못한 채 스러져버렸다. 배우 故 이지한이 마지막 안녕을 고했다. 이태원 참사로 세상을 떠난 이지한이 영면에 들었다. 1일 오후 1시 30분 경기 고양시 덕양구에 위치한 화정 명지 장례식장에서 발인식이 엄수됐다. 장지는 서울 추모공원이다. 이지한은 지난달 29일 서울 용산구 이태원 일대에서 발생한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아스트로 라키, 팬 두 번 울린 역대급 사랑꾼]]></title>
-        <id>https://v.daum.net/v/20221101160007316</id>
-        <link href="https://v.daum.net/v/20221101160007316"/>
-        <updated>2022-11-01T07:19:15.966Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 최하나 기자] 그룹 아스트로 라키가 배우 박보연과의 열애를 인정했다. 그러나 열애 인정 과정에서 팬들을 기만했던 정황이 드러나면서 비난을 받고 있다. 지난달 31일 라키와 박보연의 열애설이 제기됐다. 열애설에 가장 먼저 입을 연 건 박보연의 소속사 매니지먼트 구다. 매니지먼트 구 측은 박보연과 라키의 열애설에 대해 동료 사이일 뿐이라면서 선]]></content>
     </entry>
 </feed>
