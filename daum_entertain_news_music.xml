@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-11-02T12:36:16.402Z</updated>
+    <updated>2022-11-02T13:53:03.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔플라잉 김재현 코로나19 확진 “당분간 4인 체제”]]></title>
+        <id>https://v.daum.net/v/20221102223531627</id>
+        <link href="https://v.daum.net/v/20221102223531627"/>
+        <updated>2022-11-02T13:52:31.845Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 엔플라잉 김재현이 코로나19 확진 판정을 받았다. 소속사 FNC엔터테인먼트는 2일 “엔플라잉 김재현이 가벼운 목감기 증세를 보여 선제적 대응 차원에서 코로나19 PCR 검사를 실시해 양성 판정을 받았다. 김재현은 현재 가벼운 목감기  증상 외에 별다른 증상을 보이지 않고 있다. 7일까지 자가 격리 조치에 따를 예정”이라고 밝혔다. 또한, “김]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔하이픈, 美 빌보드 ‘핫 트렌딩 송즈’ 10곡 차트인]]></title>
         <id>https://v.daum.net/v/20221102183859617</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221102133919149"/>
         <updated>2022-11-02T05:00:28.899Z</updated>
         <content type="html"><![CDATA[[OSEN=선미경 기자] 그룹 르세라핌(LE SSERAFIM)이 미국 빌보드 총 9개 부문 차트에 이름을 올렸다. 미국 음악 전문 매체 빌보드가 1일(현지시각) 발표한 최신 차트(11월 5일 자)에 따르면, 르세라핌(김채원, 사쿠라, 허윤진, 카즈하, 홍은채)의 미니 2집 ‘ANTIFRAGILE’(안티프래자일)이 ‘빌보드 200’에 14위로 진입했으며]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[르세라핌, 美 ‘빌보드200’ 14위 포함 9개 부문 차트인]]></title>
-        <id>https://v.daum.net/v/20221102133607054</id>
-        <link href="https://v.daum.net/v/20221102133607054"/>
-        <updated>2022-11-02T05:00:28.902Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 르세라핌(김채원, 사쿠라, 허윤진, 카즈하, 홍은채)이 미국 빌보드에서 괄목할 만한 성적을 거뒀다. 미국 음악 전문 매체 빌보드가 11월 1일(현지시간) 발표한 최신 차트(11월 5일 자)에 따르면 르세라핌 미니 2집 ‘ANTIFRAGILE’(안티프래자일)은 빌보드 메인 앨범 차트 ‘빌보드 200’에 14위로 진입했다. 이외에]]></content>
     </entry>
 </feed>
