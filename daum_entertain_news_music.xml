@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-11-03T21:15:02.014Z</updated>
+    <updated>2022-11-03T22:15:16.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단 진 'The Astronaut' 일본 열도 달궜다..인기 고공행진]]></title>
+        <id>https://v.daum.net/v/20221104070051554</id>
+        <link href="https://v.daum.net/v/20221104070051554"/>
+        <updated>2022-11-03T22:14:44.215Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 문완식 기자] 방탄소년단(BTS) 진의 솔로 싱글 'The Astronaut'(디 애스트로넛)이 일본 열도를 뜨겁게 달구며 인기 고공행진을 이어가고 있다. 진의 'The Astronaut'은  11월 2일 빌보드 재팬(Billboard Japan)이 발표한 차트(11월 5일 자)에서 종합 송 차트인 '핫 100'을 비롯해 '다운로드 송'과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTS 공백기 우려는 기우…"대중과 거리감 좁혀"]]></title>
         <id>https://v.daum.net/v/20221104060037882</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221103111109403"/>
         <updated>2022-11-03T03:29:46.652Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 가수 백기동이 새 싱글을 선보인다. 11월 3일 정오 로칼하이레코즈를 통해 백기동의 새 디지털 싱글 ‘그 사람 (My only one)’이 발매된다. ‘그 사람 (My only one)’은 대중의 마음을 흔들어 놓을 만한, 깨질 것 같이 아름다운 피아노 선율과 스트링으로 가슴 아픈 사랑을 표현한 곡이다. 불가능한 사람을 향한 짝사랑]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前엑소 타오, SM연습생 출신 가수와 가족 모임..또 열애설]]></title>
-        <id>https://v.daum.net/v/20221103105229432</id>
-        <link href="https://v.daum.net/v/20221103105229432"/>
-        <updated>2022-11-03T03:29:46.653Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 안윤지 기자] 가수 타오, 쉬이양 /사진=각 인스타그램그룹 엑소 출신 가수 타오(황쯔타오)가 이번엔 열애설 상대와 가족 모임을 가졌다. 지난 1일 중국 시나연예뉴스 등 현지 언론은 타오가 최근 가수 쉬이양을 데리고 자신의 어머니를 만났다고 보도했다. 함께 공개된 사진 속엔 타오가 쉬이양에게 국을 떠주는가 하면 미소를 지으며 즐거운 대화를 나눈]]></content>
     </entry>
 </feed>
