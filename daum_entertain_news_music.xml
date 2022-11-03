@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-11-03T07:15:17.665Z</updated>
+    <updated>2022-11-03T08:23:56.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['역주행 1위' 데뷔 17년차 윤하가 일으킨 대형사건]]></title>
+        <id>https://v.daum.net/v/20221103170402702</id>
+        <link href="https://v.daum.net/v/20221103170402702"/>
+        <updated>2022-11-03T08:23:18.456Z</updated>
+        <content type="html"><![CDATA[[이데일리 스타in 김현식 기자] 마침내 정상 고지까지 왔다. 음원차트에서 대형 사건을 일으킨 가수 윤하의 깜짝 역주행송 ‘사건의 지평선’ 얘기다. 주요 음악플랫폼 중 지니에서는 이미 2일 일간 차트에서 1위를 찍었고, 같은 날 기준 멜론 일간 차트에서는 2위까지 순위가 올랐다. 윤하는 햇수로 국내 가요계 데뷔 17년차(일본 데뷔로 따지면 햇수로 19년차]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[알랭 들롱 ‘필립의 야망’ OST - 필립 사르드, 스탄 게츠와 런던 심포니 오케스트라]]></title>
         <id>https://v.daum.net/v/20221103154446701</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221103100458543"/>
         <updated>2022-11-03T01:19:15.886Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 가수 에일리(Ailee)가 전국투어 콘서트 '한 걸음 더' 대전 공연을 연기했다. 소속사 팝뮤직(에이투지엔터테인먼트) 측은 11월 3일 "오는 5일과 6일 양일간 진행 예정이었던 '2022 에일리 전국투어 콘서트 한 걸음 더' 대전 공연이 내년 1월 28일과 29일로 연기됐다"라고 밝혔다. 이어 "국가 애도 기간에 동참하고자 콘서트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤태화 ‘커피여우 김삼월’ OST로 발라더 변신…5일 발매]]></title>
-        <id>https://v.daum.net/v/20221103093949463</id>
-        <link href="https://v.daum.net/v/20221103093949463"/>
-        <updated>2022-11-03T01:19:15.886Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 가수 윤태화가 OST를 통해 발라더로 변신한다. 11월 5일 정오 각종 온라인 음원사이트를 통해 윤태화가 참여한 웹툰 ‘커피여우 김삼월’ OST ‘소식도 없는 너를 기다려’가 발매된다. ‘소식도 없는 너를 기다려’는 실력파 작곡가 팀 필승불패, 육상희, 이주용이 의기투합해 만든 곡으로, 이별 후의 그리움과 복잡한 마음을 담아낸 팝]]></content>
     </entry>
 </feed>
