@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-11-05T08:20:07.388Z</updated>
+    <updated>2022-11-05T09:17:21.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“‘ANTIFRAGILE’ 그 자체” 르세라핌, 사고→코로나 악재에도 굳건한 인기]]></title>
+        <id>https://v.daum.net/v/20221105180616992</id>
+        <link href="https://v.daum.net/v/20221105180616992"/>
+        <updated>2022-11-05T09:16:52.197Z</updated>
+        <content type="html"><![CDATA[[OSEN=지민경 기자] 그룹 르세라핌이 연이은 악재 속에서도 굳건한 인기를 자랑하고 있다. 르세라핌은 지난 10월 17일 두 번째 미니앨범 ‘ANTIFRAGILE’(안티프래자일)을 발표하고 5개월 만에 컴백을 알렸다. 르세라핌은 미니 2집 발매 하루 만에 40만 8,833장의 판매고를 올리며 화려한 출발을 알렸다. 하지만 컴백 이틀 만인 19일 교통사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[르세라핌 허윤진, 코로나19 확진..."격리 해제까지 4인 체제 활동"]]></title>
         <id>https://v.daum.net/v/20221105162400203</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221105074010071"/>
         <updated>2022-11-05T04:25:00.257Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 그룹 NCT127 인도네시아 자카르타 콘서트가 중단된 가운데 현지 프로모터가 멤버들과 팬, 소속사 SM엔터테인먼트에 사과했다. NCT127은 11월 4일 인도네시아 자카르타에서 두번째 월드투어 'NEO CITY : JAKARTA –THE LINK'를 진행했으나 6곡을 남기고 중단됐다. 현지 프로모터 DyandraGlobal Ed]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단 지민, '베스트 K팝 남성 초고음 보컬 레인지' 1위..하늘이 내린 노랫소리 '고음 천재']]></title>
-        <id>https://v.daum.net/v/20221105073720056</id>
-        <link href="https://v.daum.net/v/20221105073720056"/>
-        <updated>2022-11-05T04:25:00.257Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 문완식 기자] 방탄소년단(BTS) 지민이 가장 뛰어난 초고음 음역의 K팝 남성 가수에 선정됐다. 지민은 글로벌 팬 투표 사이트 샤이닝 어워즈(Shining Awards)가 지난 10월 한 달간 진행한 'Best Kpop Male Highest Vocal Range' 투표에서 11만 4500표를 획득, 48.15%의 득표율로 1위를 차지했다.]]></content>
     </entry>
 </feed>
