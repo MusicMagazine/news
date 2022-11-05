@@ -1,8 +1,351 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://enews.imbc.com/ThemeIdol</id>
-    <title>MBC 연예 ─ 아이돌</title>
-    <updated>2022-11-05T15:17:14.333Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://enews.imbc.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>KBS연예 ─ 연예</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 05 Nov 2022 16:20:19 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 "여신님이 보고 계셔"...  얼마나 열심히 연습하고 있나.]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=235890</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=235890</guid>
+            <pubDate>Sat, 05 Nov 2022 16:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=235890">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221104083910_a1e8664d3c53daf4f5fdac5adb70a864.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=235890">뮤지컬 "여신님이 보고 계셔"...  얼마나 열심히 연습하고 있나.</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221104083910_a1e8664d3c53daf4f5fdac5adb70a864.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 '종의 기원' 캐스팅 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=235565</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=235565</guid>
+            <pubDate>Sat, 05 Nov 2022 16:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=235565">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221101101238_8f6671443c06eaeef98e34d795fe5280.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=235565">뮤지컬 '종의 기원' 캐스팅 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221101101238_8f6671443c06eaeef98e34d795fe5280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[히가시노 게이고 '나미야 잡화점의 기적' 윌라 오디오북 서비스]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=235445</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=235445</guid>
+            <pubDate>Sat, 05 Nov 2022 16:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=235445">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221031121305_9b3f6dae2847fe4fa8a8083cff0b51b4_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=235445">히가시노 게이고 '나미야 잡화점의 기적' 윌라 오디오북 서비스</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221031121305_9b3f6dae2847fe4fa8a8083cff0b51b4_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['이태원 참사' 방송-영화-가요계 애도 물결 "한마음 동참"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=235421</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=235421</guid>
+            <pubDate>Sat, 05 Nov 2022 16:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=235421">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221031080436_2f6e7dd4a93e8ed097537aa5c8576583.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=235421">'이태원 참사' 방송-영화-가요계 애도 물결 "한마음 동참"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221031080436_2f6e7dd4a93e8ed097537aa5c8576583.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이승현, 2022 미스코리아 진 당선]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=235142</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=235142</guid>
+            <pubDate>Sat, 05 Nov 2022 16:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=235142">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221028103034_e87908b2d05411834f3524d3cce18e3e_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=235142">이승현, 2022 미스코리아 진 당선</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221028103034_e87908b2d05411834f3524d3cce18e3e_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[god, 데뷔 23주년 연말 콘서트 '2022 god ON']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=235115</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=235115</guid>
+            <pubDate>Sat, 05 Nov 2022 16:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=235115">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221028081744_f913a439b64a102e5629e6eec5a63783_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=235115">god, 데뷔 23주년 연말 콘서트 '2022 god ON'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221028081744_f913a439b64a102e5629e6eec5a63783_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[역사채널 명가 '히스토리',  '시어도어 루스벨트' 2부작 특별 편성]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=235098</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=235098</guid>
+            <pubDate>Sat, 05 Nov 2022 16:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=235098">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221028075128_1709ca692dea80c354ccad2b71bda78c_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=235098">역사채널 명가 '히스토리',  '시어도어 루스벨트' 2부작 특별 편성</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221028075128_1709ca692dea80c354ccad2b71bda78c_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 '영웅' 아홉 번째 출정식...  “가슴 뜨거워지는 순간 느끼길”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=235093</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=235093</guid>
+            <pubDate>Sat, 05 Nov 2022 16:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=235093">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221028073954_6e065d10401b2e5596d638f8b3ed00b6.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=235093">뮤지컬 '영웅' 아홉 번째 출정식...  “가슴 뜨거워지는 순간 느끼길”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221028073954_6e065d10401b2e5596d638f8b3ed00b6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[신간] 엔터테인먼트사의 25가지 업무 비밀 “한 팀의 아티스트를 성공시키려면 백 명의 전문가가 필요하다”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=234914</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=234914</guid>
+            <pubDate>Sat, 05 Nov 2022 16:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=234914">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221026131818_ec2dcf9827a5a204fbc097aab79b3dca.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=234914">[신간] 엔터테인먼트사의 25가지 업무 비밀 “한 팀의 아티스트를 성공시키려면 백 명의 전문가가 필요하다”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221026131818_ec2dcf9827a5a204fbc097aab79b3dca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우 박은빈, 필리핀 마닐라에서 '아시아 팬미팅 투어' 스타트]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=234818</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=234818</guid>
+            <pubDate>Sat, 05 Nov 2022 16:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=234818">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221025083927_422e1d5340c29fe155cc9536dedd4fa4_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=234818">배우 박은빈, 필리핀 마닐라에서 '아시아 팬미팅 투어' 스타트</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221025083927_422e1d5340c29fe155cc9536dedd4fa4_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정유정 소설  '종의 기원',  뮤지컬로 만들어진다 "악인의 탄생기"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=234610</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=234610</guid>
+            <pubDate>Sat, 05 Nov 2022 16:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=234610">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221024085949_839485e85a67b1418ee962d4d078ae01.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=234610">정유정 소설  '종의 기원',  뮤지컬로 만들어진다 "악인의 탄생기"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221024085949_839485e85a67b1418ee962d4d078ae01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가수 챈슬러, 29일 결혼 "인생 2막 예약"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=234506</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=234506</guid>
+            <pubDate>Sat, 05 Nov 2022 16:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=234506">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221023072631_32d49fd4c7617c77f658d8a9e879012c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=234506">가수 챈슬러, 29일 결혼 "인생 2막 예약"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221023072631_32d49fd4c7617c77f658d8a9e879012c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[화보] 르세라핌 '에스콰이어' 단체화보 “우리는 꿈을 보며 앞으로 나아가는 그룹”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=234257</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=234257</guid>
+            <pubDate>Sat, 05 Nov 2022 16:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=234257">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221021160255_01211e7d394653ded551b3edb4efb68e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=234257">[화보] 르세라핌 '에스콰이어' 단체화보 “우리는 꿈을 보며 앞으로 나아가는 그룹”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221021160255_01211e7d394653ded551b3edb4efb68e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[포토] 곽동연 "웃기더라도 왕관"  (매거진  얼루어 화보)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=234366</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=234366</guid>
+            <pubDate>Sat, 05 Nov 2022 16:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=234366">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221022080132_645ea7811642f1c83af971f22d5450fd.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=234366">[포토] 곽동연 "웃기더라도 왕관"  (매거진  얼루어 화보)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221022080132_645ea7811642f1c83af971f22d5450fd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[화보] '20세기 소녀' 김유정X변우석X박정우X노윤서 '엘르' 화보]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=234074</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=234074</guid>
+            <pubDate>Sat, 05 Nov 2022 16:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=234074">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221021072657_f609354dbd338f4c426ec0a650ab9aff.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=234074">[화보] '20세기 소녀' 김유정X변우석X박정우X노윤서 '엘르' 화보</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221021072657_f609354dbd338f4c426ec0a650ab9aff.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['뮤지컬' 영웅 돌아온다...  정성화-양준모-민우혁, 안중근 변신]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=233712</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=233712</guid>
+            <pubDate>Sat, 05 Nov 2022 16:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=233712">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221017082344_483fca00370592084d64013d745d823c_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=233712">'뮤지컬' 영웅 돌아온다...  정성화-양준모-민우혁, 안중근 변신</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221017082344_483fca00370592084d64013d745d823c_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[seezn 오리지널 '미드나잇 호러: 6개의 밤'... 여섯 편의 공포 스릴러]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=233382</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=233382</guid>
+            <pubDate>Sat, 05 Nov 2022 16:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=233382">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221015073947_a89a67d0e4acbd30d882d956d2e41dbd.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=233382">seezn 오리지널 '미드나잇 호러: 6개의 밤'... 여섯 편의 공포 스릴러</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221015073947_a89a67d0e4acbd30d882d956d2e41dbd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT127 월드투어, 美 뉴어크 공연 "환상적 밤!"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=233535</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=233535</guid>
+            <pubDate>Sat, 05 Nov 2022 16:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=233535">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221016071711_de75ec3bf39d095fd4f2e07ad2adc44d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=233535">NCT127 월드투어, 美 뉴어크 공연 "환상적 밤!"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221016071711_de75ec3bf39d095fd4f2e07ad2adc44d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우 김고은, 데뷔 10주년 팬미팅 ‘고은날’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=233576</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=233576</guid>
+            <pubDate>Sat, 05 Nov 2022 16:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=233576">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221016173356_5b74709f91d70a0abdd5560abf31bd28.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=233576">배우 김고은, 데뷔 10주년 팬미팅 ‘고은날’ </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221016173356_5b74709f91d70a0abdd5560abf31bd28.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[BIFF] 권율, 부산국제영화제 폐막식 "깔끔한 진행"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=233528</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=233528</guid>
+            <pubDate>Sat, 05 Nov 2022 16:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=233528">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221016072328_7d258cd72b73ef9454833a2b6e270257.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=233528">[BIFF] 권율, 부산국제영화제 폐막식 "깔끔한 진행"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221016072328_7d258cd72b73ef9454833a2b6e270257.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
