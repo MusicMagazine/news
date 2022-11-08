@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-11-08T19:22:33.760Z</updated>
+    <updated>2022-11-08T20:19:37.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[4세대 아이돌, 어떻게 빌보드 초고속으로 접수했나]]></title>
+        <id>https://v.daum.net/v/20221109050024821</id>
+        <link href="https://v.daum.net/v/20221109050024821"/>
+        <updated>2022-11-08T20:19:04.685Z</updated>
+        <content type="html"><![CDATA[(그래픽=김정훈 기자)[이데일리 스타in 윤기백 기자] 4세대 K팝 아이돌의 미국 빌보드 메인차트 진입 속도가 빨라졌다. 그룹 방탄소년단, 블랙핑크로 대표되는 3세대 아이돌의 경우 빌보드 메인차트(핫100·빌보드200) 진입까지 최소 1년 10개월에서 많게는 6년까지 걸렸지만, 2010년대 후반 데뷔한 4세대 아이돌의 경우 빌보드 메인차트 진입까지 1년도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7년 연습생 방예담, 솔로로 날개 달까]]></title>
         <id>https://v.daum.net/v/20221108213727336</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221108165415227"/>
         <updated>2022-11-08T08:23:49.884Z</updated>
         <content type="html"><![CDATA[최근 유튜브 검색창에 'Blackpink Concert(블랙핑크 콘서트)'를 검색하면 'mess'라는 연관 검색어가 뜬다. '엉망인 상태'를 뜻하는 영단어인 'mess'가 콘서트 직캠 영상에 꼬리표처럼 붙게 된 지금의 상황은 '실력파 그룹'으로 글로벌 시장에 발돋움했던 블랙핑크의 이전 행보와는 꽤나 상반되는 모습이다. 데뷔 7년 차 블랙핑크에겐 지금 어떤]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장원영 측 “수능 미응시→아이브 활동 전념” 이서 한림예고 합격]]></title>
-        <id>https://v.daum.net/v/20221108164512907</id>
-        <link href="https://v.daum.net/v/20221108164512907"/>
-        <updated>2022-11-08T08:23:49.884Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 아이브 멤버 장원영이 수능에 응시하지 않고 가수 활동에 매진한다. 아이브 소속사 스타쉽엔터테인먼트 측은 11월 8일 뉴스엔에 "2023학년도 대학수학능력시험 응시 대상자인 아이브 장원영은 대학 진학과 관련해 최종적으로 올해 수능에 응시하지 않기로 결정했다"고 밝혔다. 장원영은 오랜 시간 소속사와 함께 수능 응시 여부 관련 논의]]></content>
     </entry>
 </feed>
