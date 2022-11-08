@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-11-08T12:35:40.192Z</updated>
+    <updated>2022-11-08T13:42:52.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[7년 연습생 방예담, 솔로로 날개 달까]]></title>
+        <id>https://v.daum.net/v/20221108213727336</id>
+        <link href="https://v.daum.net/v/20221108213727336"/>
+        <updated>2022-11-08T13:42:19.892Z</updated>
+        <content type="html"><![CDATA[[OSEN=선미경 기자] ‘K팝스타 시즌2’ 출신 방예담이 트레저를 떠난다. 오디션 프로그램에서 발굴돼 YG에서 7년의 연습생 기간을 거쳤던 방예담이 트레저를 떠나 솔로로 새 출발을 할지 그의 행보에 이목이 집중된다. YG엔터테인먼트는 8일 트레저의 공식 팬 커뮤니티에 “마시호, 방예담과 오랜 논의 끝에 전속계약을 종료했다”라고 발표했다. 이로써 트레저]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엑소 수호 "언젠가 직접 만나 감사 인사드릴게요"]]></title>
         <id>https://v.daum.net/v/20221108200101045</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221108164512907"/>
         <updated>2022-11-08T08:23:49.884Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 아이브 멤버 장원영이 수능에 응시하지 않고 가수 활동에 매진한다. 아이브 소속사 스타쉽엔터테인먼트 측은 11월 8일 뉴스엔에 "2023학년도 대학수학능력시험 응시 대상자인 아이브 장원영은 대학 진학과 관련해 최종적으로 올해 수능에 응시하지 않기로 결정했다"고 밝혔다. 장원영은 오랜 시간 소속사와 함께 수능 응시 여부 관련 논의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트레저, 마시호·방예담 탈퇴로 10인 체제 재편 "전속계약 종료"]]></title>
-        <id>https://v.daum.net/v/20221108163729621</id>
-        <link href="https://v.daum.net/v/20221108163729621"/>
-        <updated>2022-11-08T08:23:49.884Z</updated>
-        <content type="html"><![CDATA[[스포츠한국 김두연 기자]&nbsp; 그룹 트레저가 마시호, 방예담의 탈퇴로 10인 체제로 재편된다.&nbsp; 8일 소속사 YG엔터테인먼트(이하 'YG')는 팬 커뮤니티 위버스를 통해 "앞으로 트레저는 최현석, 지훈, 요시, 준규, 윤재혁, 아사히, 도영, 하루토, 박정우, 소정환 10인 체제로 팀을 재편해 활동할 예정"이라고 밝혔다.&nbsp; 이어 "마시호, 방예담]]></content>
     </entry>
 </feed>
