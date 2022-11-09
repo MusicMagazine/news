@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Nov 2022 03:32:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Nov 2022 04:43:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["BTS도, 진도 핫"   美 빌보드 차트  순항]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=236496</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=236496</guid>
+            <pubDate>Wed, 09 Nov 2022 04:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=236496">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221109083851_b9290e59c49d7642d74f1668b34f5272.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=236496">"BTS도, 진도 핫"   美 빌보드 차트  순항</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221109083851_b9290e59c49d7642d74f1668b34f5272.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빅톤 미니8집 'Choice' 콘셉트 포토 공개... 이달 15일 발표]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=236252</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=233907">블랙핑크, 월드투어 서울에서 스타트  "BORN PINK - SEOUL"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221018161651_77391487f35a7f5428fc23ee1e13f1ce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[르세라핌 ‘컴백쇼’, "ANTIFRAGILE 활동 스타트~"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=233861</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=233861</guid>
-            <pubDate>Sat, 05 Nov 2022 18:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=233861">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221018083838_f05da333cc71321c4f4ee3a40ebce88c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=233861">르세라핌 ‘컴백쇼’, "ANTIFRAGILE 활동 스타트~"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221018083838_f05da333cc71321c4f4ee3a40ebce88c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
