@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-11-11T10:19:49.104Z</updated>
+    <updated>2022-11-11T11:15:40.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[르세라핌, 2주 연속 '뮤직뱅크' 1위…'안티프레자일' 2관왕 질주]]></title>
+        <id>https://v.daum.net/v/20221111195955713</id>
+        <link href="https://v.daum.net/v/20221111195955713"/>
+        <updated>2022-11-11T11:15:10.299Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] 걸그룹 르세라핌이 ‘뮤직뱅크’ 1위를 차지하며 2주 연속 1위라는 기록을 쌓았다. 11일 KBS2 ‘뮤직뱅크’ 측은 공식 홈페이지를 통해 11월 2주차 K-차트를 공개했다. 집계기간은 지난달 31일부터 지난 6일까지로, 디지털 음원(60%)과 방송횟수(20%), 시청자 선호도(10%), 음반(5%), 소셜미디어(5%)를 합산한]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“청하 동생 그룹” 밴디트, 3년 만 해체 “새로운 길”]]></title>
+        <id>https://v.daum.net/v/20221111192807237</id>
+        <link href="https://v.daum.net/v/20221111192807237"/>
+        <updated>2022-11-11T11:15:10.300Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 이기은 기자] 그룹 밴디트(BVNDIT)가 데뷔 3년 만에 해체한다. 11일 소속사 MNH엔터테인먼트는 공식입장을 통해 "멤버들과 심도 있는 논의 끝에 10월을 마지막으로 밴디트(이연 송희 시명 정우 승은)의 전속계약을 종료하기로 했다"고 밝혔다. 이어 "멤버들은 각자 새로운 시작을 서로 응원하기로 했으며, 당사 또한 멤버들의 앞날을 응원하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['29일 컴백' 카라 측 "신곡 MV 촬영 완료"]]></title>
         <id>https://v.daum.net/v/20221111190429935</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221111173758133"/>
         <updated>2022-11-11T09:16:40.828Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 긱스(Geeks) 황문섭(루이)가 신곡을 발표한다. 루이의 새 싱글 '욕심'은 11월 12일 오후 6시 멜론, 지니, 벅스 등 온라인 음원사이트를 통해 공개된다. '욕심'은 물질 만능 시대에 사람들이 자신의 삶 속에서 눈을 가린 채 잃어가고 있는 것들에 대한 상실감을 노래한 시티팝 장르의 곡이다. 뮤직비디오에는 댄스 크루 'LOCK]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송가인, 한 달 만 공연 재개‥부천 팬 만난다]]></title>
-        <id>https://v.daum.net/v/20221111172134728</id>
-        <link href="https://v.daum.net/v/20221111172134728"/>
-        <updated>2022-11-11T08:21:52.097Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 가수 송가인이 부천 팬들을 만난다. 송가인은 11월 12, 13일 오후 5시 부천 실내체육관에서 ‘2022 전국투어 연가(戀歌)' 부천 공연을 개최한다. ‘2022 전국투어 연가’ 천안 콘서트 이후 약 한 달 만 공연이다. 송가인은 지난 5월부터 ‘2022 전국투어 연가’ 공연을 통해 서울, 대구, 전주, 일산, 인천, 수원, 부]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[큐브엔터 "아이들 컴백→3분기 만에 지난해 매출 초과 달성"]]></title>
-        <id>https://v.daum.net/v/20221111172027700</id>
-        <link href="https://v.daum.net/v/20221111172027700"/>
-        <updated>2022-11-11T08:21:52.097Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 안윤지 기자] 그룹 (여자)아이들 /사진제공=큐브엔터테인먼트큐브엔터테인먼트가 3분기 만에 지난해 매출을 초과 달성했다. 소속사 큐브엔터테인먼트(이하 '큐브엔터')가 11일 공시를 통해 3분기 실적을 발표했다. 큐브엔터는 3분기 연결 누적 매출 796억원, 누적 영업이익 42억원을 달성하며 전년 동기 누적 실적 대비 각각 50%, 23% 증가하였]]></content>
     </entry>
 </feed>
