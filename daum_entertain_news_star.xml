@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-11-11T16:23:30.652Z</updated>
+    <updated>2022-11-11T17:20:23.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['작가' 기안84, 런던 사치갤러리 초청-로이터 통신 인터뷰까지.. 송민호 깜짝 등장]]></title>
+        <id>https://v.daum.net/v/20221112012603292</id>
+        <link href="https://v.daum.net/v/20221112012603292"/>
+        <updated>2022-11-11T17:19:59.453Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 김태형기자] 영국 런던에 간 기안84가 작가로서 사치 갤러리(Saatchi Gallery)에 입성했다. 11일 방송된 MBC ‘나 혼자 산다’에는 웹툰 작가 기안84가 영국 전통의 현대미술관 사치 갤러리에 초청받아 눈길을 끌었다. 그는 “꿈을 안고 영국의 수도 런던에 왔다”며 자신의 근황]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘나혼산’ 기안84, 사치 갤러리 전시로 영국行→크러쉬, 동네 ‘핵인싸’ 등극]]></title>
         <id>https://v.daum.net/v/20221112010600188</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221111230440279"/>
         <updated>2022-11-11T14:17:12.856Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 임유리 기자] 김태진이 ‘연예가중계’ 리포터를 그만두게 된 사연을 털어놨다. 11일 김구라의 유튜브 채널 ‘구라철’에는 리포터와 VJ로 활동했던 김태진, 박슬기, 찰스가 출연해 근황에 대해 이야기하는 영상이 게재됐다. 영상에서 근황에 대해 묻자 김태진은 “나는 ‘연예가중계’를 2003년 11월, 내가 24살 때 시작을 해서 2022년]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["6살 내 앞에서 차에 치여 돌아가신 父"  여경래 셰프, 충격적인 과거의 아픔]]></title>
-        <id>https://v.daum.net/v/20221111225442173</id>
-        <link href="https://v.daum.net/v/20221111225442173"/>
-        <updated>2022-11-11T14:17:12.856Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 김수현기자] 대한민국 대표 중식 대가 여경래 셰프가 충격적인 아버지의 죽음에 대해 털어놓았다. 11일 방송된 채널A '오은영의 금쪽상담소'에서는 여경래, 여경옥 형제 셰프의 고민이 공개됐다. 형제의 중식 경력을 합치면 93년, 명불허전 중식계 대가 형제인 여경래 여경옥 형제가 찾아왔다. 화교]]></content>
     </entry>
 </feed>
