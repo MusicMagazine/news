@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Nov 2022 01:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Nov 2022 03:22:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김서형, 키이스트와 인연 이어간다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=236960</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=236960</guid>
+            <pubDate>Sat, 12 Nov 2022 03:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=236960">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221112085859_c251037ba7fcc910e465c72210f93ec5.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=236960">김서형, 키이스트와 인연 이어간다</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221112085859_c251037ba7fcc910e465c72210f93ec5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오TV '고막소년단',  "데뷔 쇼케이스를 기대해"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=236868</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=234074">[화보] '20세기 소녀' 김유정X변우석X박정우X노윤서 '엘르' 화보</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221021072657_f609354dbd338f4c426ec0a650ab9aff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['뮤지컬' 영웅 돌아온다...  정성화-양준모-민우혁, 안중근 변신]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=233712</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=233712</guid>
-            <pubDate>Sat, 05 Nov 2022 16:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=233712">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221017082344_483fca00370592084d64013d745d823c_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=233712">'뮤지컬' 영웅 돌아온다...  정성화-양준모-민우혁, 안중근 변신</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221017082344_483fca00370592084d64013d745d823c_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
