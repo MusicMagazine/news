@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-11-14T12:36:36.409Z</updated>
+    <updated>2022-11-14T13:47:28.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정은지 "30세에 리메이크 앨범, 팬들과의 약속 때문…고집 많이 피워"]]></title>
+        <id>https://v.daum.net/v/20221114220102904</id>
+        <link href="https://v.daum.net/v/20221114220102904"/>
+        <updated>2022-11-14T13:46:59.497Z</updated>
+        <content type="html"><![CDATA[[텐아시아=김서윤 기자] "30세에 리메이크 앨범 낸 건 팬들과의 약속. 당연한 수순이었다. 제가 하고 싶었던 걸 약속한 거라 개인적인 보람이 컸고, 반대로 씁쓸하기도 했다. 노래를 부르는 데 여러 가지 장면들이 떠올랐다. 서울에 올라와서 많은 일들이 있었고 또 하면서 보내왔구나&nbsp;이런 생각이 들었다" '언젠가 서른이 되면' 리메이크 앨범을 꼭 내겠다고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['턱 부상' 김성규 "전보다 더 건강"…솔로 데뷔 10주년 팬미팅 성료]]></title>
         <id>https://v.daum.net/v/20221114192450729</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221114180011799"/>
         <updated>2022-11-14T09:17:58.285Z</updated>
         <content type="html"><![CDATA[[동아닷컴] 베리베리 사랑을 이야기하다…소년미 가득 ‘탭탭’ (종합)[DA:신곡] 보이그룹 베리베리가 소년미 가득한 모습으로 돌아왔다. 베리베리는 14일 오후 6시 세 번째 싱글앨범 ‘Liminality-EP.LOVE’을 발매하고 타이틀곡 ‘Tap Tap’ 뮤직비디오를 공개했다. 이번 앨범은 베리베리가 지난 4월 첫 정규 앨범 SERIES ‘O’ [ROU]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EXO 첸, 또 명품 발라드 냈다 '사라지고 있어'…MV 주연 박해수]]></title>
-        <id>https://v.daum.net/v/20221114180006784</id>
-        <link href="https://v.daum.net/v/20221114180006784"/>
-        <updated>2022-11-14T09:17:58.287Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 이승록 기자] 그룹 엑소 멤버 첸이 14일 오후 6시 새 솔로 앨범 '사라지고 있어'(Last Scene)를 발표하고 컴백했다. 소속사 SM엔터테인먼트에 따르면 '사라지고 있어'는 "아름다운 피아노 선율과 스트링 연주가 조화를 이루는 발라드 장르의 곡"으로 가사는 "모든 것이 마지막이 되어 점점 사라져가는 이별의 단면을 그렸다"는 설명이]]></content>
     </entry>
 </feed>
