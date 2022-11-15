@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-11-15T03:15:38.830Z</updated>
+    <updated>2022-11-15T04:21:05.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엑소 첸, 31개 지역 아이튠즈 1위 등극]]></title>
+        <id>https://v.daum.net/v/20221115122700478</id>
+        <link href="https://v.daum.net/v/20221115122700478"/>
+        <updated>2022-11-15T04:20:30.074Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 엑소 멤버 첸이 세계 각국 차트 정상에 올랐다. 11월 15일 소속사 SM엔터테인먼트에 따르면 첸은 14일 공개한 3번째 솔로 미니 앨범 ‘사라지고 있어 (Last Scene)’로 브라질과 멕시코, 칠레 등 총 31개 지역 아이튠즈 톱 앨범 차트 1위를 차지했다. 이번 앨범에는 타이틀 곡 ‘사라지고 있어 (Last Scene)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['음주측정 거부' 신혜성 검찰 송치..절도는 '증거 불충분']]></title>
         <id>https://v.daum.net/v/20221115120714938</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221115103020285"/>
         <updated>2022-11-15T03:14:58.856Z</updated>
         <content type="html"><![CDATA[[OSEN=선미경 기자] 그룹 레드벨벳(Red Velvet,&nbsp;에스엠엔터테인먼트 소속)이 새 미니앨범 타이틀 곡 ‘Birthday’(벌스데이)로 짜릿한 에너지를 선사한다. 오는&nbsp;28일 발매되는 레드벨벳의 새 미니앨범 ‘The ReVe Festival 2022 - Birthday’(더 리브 페스티벌&nbsp;2022&nbsp;– 벌스데이)는 타이틀 곡 ‘Birthday’를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오마이걸 유아, 위풍당당 변신도 통했다…2연속 히트 성공]]></title>
-        <id>https://v.daum.net/v/20221115102809184</id>
-        <link href="https://v.daum.net/v/20221115102809184"/>
-        <updated>2022-11-15T03:14:58.859Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 오마이걸 멤버 유아가 위풍당당한 변신으로 2연속 히트에 성공했다. 11월 14일 오후 6시 각종 음원 사이트를 통해 공개된 유아 두 번째 미니 앨범 ‘SELFISH’(셀피쉬) 타이틀곡 ‘Selfish’는 국내 주요 음원 포털 최상위권을 장악했다. 해당 곡은 발매 당일 국내 음원 포털 벅스 실시간 차트에서 최고순위 3위를 기록하]]></content>
     </entry>
 </feed>
