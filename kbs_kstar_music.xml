@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Nov 2022 23:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Nov 2022 03:17:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김세정, 일본에서 '아시아 팬미팅 피날레’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=237660</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=237660</guid>
+            <pubDate>Wed, 16 Nov 2022 03:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=237660">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221116082439_52281a59db1312b16e784e5c9355217e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=237660">김세정, 일본에서 '아시아 팬미팅 피날레’</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221116082439_52281a59db1312b16e784e5c9355217e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, 3년 연속 그래미어워드 노미네이트]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=237634</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=236314">마이클 잭슨 'Thriller' 40주년,  글로벌 캠페인</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221107113759_4adf6ff9d21ec47a7ae12b0858d7bca8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강다니엘 컴백, 'The Story' 리패키지 'RETOLD' 24일 발매]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=236280</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=236280</guid>
-            <pubDate>Tue, 15 Nov 2022 12:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=236280">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221107081158_a464bbe98ec57ca4bfb8ab452d4cb069.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=236280">강다니엘 컴백, 'The Story' 리패키지 'RETOLD' 24일 발매</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221107081158_a464bbe98ec57ca4bfb8ab452d4cb069.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
