@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-11-21T15:26:01.990Z</updated>
+    <updated>2022-11-21T16:22:31.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[게리 올드만, 직접 은퇴 언급 "80세 전에 연기 끊을 것" [Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004744474</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004744474"/>
+        <updated>2022-11-21T16:22:30.688Z</updated>
+        <content type="html"><![CDATA[영국 배우 게리 올드만의 은퇴 가능성이 제기됐다. 20일(현지시간) 미국 연예매체들은 게리 올드만이 최근 인터뷰에서 "연기를 끊을 것"이라고 언급했다고 보도했다. 외신들에 따르면 게리 올드만은 최근 '슬로 호시스'와]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“80세까지 연기하고 싶지 않아” 은퇴 선언한 게리 올드만[할리웃통신]]]></title>
         <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001235200</id>
@@ -171,12 +178,5 @@
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013589574</id>
         <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013589574"/>
         <updated>2022-11-21T06:22:25.100Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[플로렌스 퓨, 빅토리아 베컴 파격적 시스루 드레스 입고 “아찔 몸매”[해외이슈]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003669901</id>
-        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003669901"/>
-        <updated>2022-11-21T06:22:25.101Z</updated>
-        <content type="html"><![CDATA[‘블랙 위도우’ 플로렌스 퓨(26)가 빅토리아 베컴(48)의 시스루 드레스를 입고 멋을 냈다. 그는 19일(현지시간) 미국 LA에서 열린 ‘2022 거버넌스 어워즈’ 행사에 참석했다. 사진 속 퓨는 몸매가 훤히 드러]]></content>
     </entry>
 </feed>
