@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-11-21T14:18:56.320Z</updated>
+    <updated>2022-11-21T15:26:01.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NMIXX, 크리스마스 시즌 송 ‘Funky Glitter Christmas’ 뮤비 티저 첫 선]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000850592</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000850592"/>
+        <updated>2022-11-21T15:25:45.124Z</updated>
+        <content type="html"><![CDATA[신예 걸그룹 NMIXX(엔믹스)가 크리스마스 시즌 송 뮤직비디오 티저를 첫 선보이며 색다른 매력 보따리를 풀었다. NMIXX는 오는 23일 오후 6시 새 디지털 싱글 ‘Funky Glitter Christmas’(펑]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[포토]서울석세스대상, 엔버드의 축하 공연]]></title>
         <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000902164</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000850563"/>
         <updated>2022-11-21T12:40:19.901Z</updated>
         <content type="html"><![CDATA[그랜드 민트 페스티벌, 뷰티풀 민트 라이프, 해브어나이스데이, 힙합플레이야 페스티벌 등 대형 음악 페스티벌을 연이어 선보여온 민트페이퍼가 실내형 페스티벌 ‘카운트다운판타지(COUNTDOWNFANTASY / 이하 CD]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허각X2F(신용재·김원주), ‘크리스마스 콘서트 GIFT’ 티켓 오픈 당일 전석 매진]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000850560</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000850560"/>
-        <updated>2022-11-21T11:22:48.739Z</updated>
-        <content type="html"><![CDATA[가수 허각, 보컬 듀오 2F(이프)가 공연장을 꽉 채운 관객들과 크리스마스를 함께 보낸다. 21일 오후 인터파크 티켓을 통해 예매를 시작한 ‘2022 허각&amp;2F 크리스마스 콘서트: GIFT’(이하 ’GIFT‘)는 전]]></content>
     </entry>
 </feed>
