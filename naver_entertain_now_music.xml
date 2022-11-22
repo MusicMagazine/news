@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-11-22T18:23:44.268Z</updated>
+    <updated>2022-11-22T19:14:19.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[드림팝 밴드 ‘시가렛 애프터 섹스’ 내한공연]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000850831</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000850831"/>
+        <updated>2022-11-22T19:14:02.371Z</updated>
+        <content type="html"><![CDATA[드림팝 밴드 ‘시가렛 애프터 섹스(Cigarettes After Sex)’가 2023년 2월, 단독 공연으로 다시 한국을 찾는다. 2008년 프런트맨 그레그 곤잘레즈(Greg Gonzalez)의 솔로 프로젝트로 시작]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[포토] HYNN, '무대 가득 채우는 성량']]></title>
         <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004778241</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004778211</id>
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004778211"/>
         <updated>2022-11-22T18:23:27.389Z</updated>
-        <content type="html"><![CDATA[그룹 우아! 나나가 22일 오후 서울 상암동 SBS 프리즘타워에서 열린 SBS M '더쇼' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 우아! 나나, '놀란 표정이 귀여워']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004778210</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004778210"/>
-        <updated>2022-11-22T18:23:27.391Z</updated>
         <content type="html"><![CDATA[그룹 우아! 나나가 22일 오후 서울 상암동 SBS 프리즘타워에서 열린 SBS M '더쇼' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
     </entry>
 </feed>
