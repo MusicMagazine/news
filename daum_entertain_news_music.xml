@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-11-22T14:22:19.202Z</updated>
+    <updated>2022-11-22T18:23:44.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나비, 높은 곳 아닌 옆에 머물기 위한 날갯짓]]></title>
+        <id>https://v.daum.net/v/20221123000003356</id>
+        <link href="https://v.daum.net/v/20221123000003356"/>
+        <updated>2022-11-22T18:23:08.466Z</updated>
+        <content type="html"><![CDATA["1등 가수가 아니라 오래 친구처럼 손잡고 갈 수 있는 가수 되고 싶어" [더팩트 | 정병근 기자] 14년 동안 활동했는데 그 길이 평탄할 수만은 없다. 힘든 시기를 극복하고 다시 날아오를 수 있느냐가 중요하다. 가수 나비는 다시 날갯짓을 시작했다. 이전보다 더 힘차고 안정적이다. 그가 날아가고자 하는 곳은 1등 가수가 아니다. 손잡고 같이 가는 가수]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[초대 보컬을 초대 보컬들로 대체한 ABTB의 세 번째 도전]]></title>
         <id>https://v.daum.net/v/20221122195505338</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221122175302435"/>
         <updated>2022-11-22T10:18:19.478Z</updated>
         <content type="html"><![CDATA[[텐아시아=김서윤 기자] 템페스트가 '소년미'와 '성숙미'를 모두 장착하고 돌아왔다. 템페스트는 22일 오후 서울 강북구에 위치한 성신여대 운정그린캠퍼스 대강당에서 세 번째 미니앨범 '온앤온(ON&nbsp;and&nbsp;ON)'발매 기념 쇼케이스를 열고 컴백을 알렸다. '온앤온'은 지난 8월 발매한 '샤이닝 업(SHINING UP)' 이후 3개월 만에 선보이는 신곡.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공황장애 극복·10kg 감량…'똑순이' 김민희, 다시 무대로]]></title>
-        <id>https://v.daum.net/v/20221122173450854</id>
-        <link href="https://v.daum.net/v/20221122173450854"/>
-        <updated>2022-11-22T10:18:19.480Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김현식 기자] ‘똑순이’라는 수식어로 잘 알려진 배우 겸 김민희가 트롯 가수로 돌아왔다. 이번이 벌써 3번째 앨범이다. 김민희는 22일 오후 4시 서울 마포구 서교동 롤링홀에서 연 언론 쇼케이스에서 “제가 이렇게 나와도 되나 하는 미안한 마음이 있다”고 웃으며 “전 끼를 가지고 태어난 사람이라고 생각한다. 저의 끼를 좋은 무대에 쓰고]]></content>
     </entry>
 </feed>
