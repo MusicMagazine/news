@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 03:39:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 05:19:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["Indigo/ RM" 방탄소년단 RM,  Identity Film 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=238696</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=238696</guid>
+            <pubDate>Wed, 23 Nov 2022 05:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=238696">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221123071608_2fd63b4f26411fbb396adeddb7fc7fc8_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=238696">"Indigo/ RM" 방탄소년단 RM,  Identity Film 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221123071608_2fd63b4f26411fbb396adeddb7fc7fc8_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, 美 아메리칸 뮤직 어워드 5년 연속 수상]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=238509</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=237126">블랙핑크, '붐바야' 뮤직비디오 15억뷰 돌파</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221113084438_16c821d8a2884f101581bfbbd9935bc3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ITZY 류진, 미니앨범 "CHESHIRE" 걸크러쉬 매력]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=237120</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=237120</guid>
-            <pubDate>Tue, 15 Nov 2022 12:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=237120">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221113083822_b4f54efa7a23a3395366ea9f1c3c3738.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=237120">ITZY 류진, 미니앨범 "CHESHIRE" 걸크러쉬 매력</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221113083822_b4f54efa7a23a3395366ea9f1c3c3738.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
