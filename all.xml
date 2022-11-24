@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 08:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 09:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -689,6 +689,14 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221114114529_bf7b00f10c55cbac2cf7ad9696b49c0d_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['방과후 설렘 시즌2 소년판타지', 28일 두 번째 티저 공개 (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/366209</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/366209</guid>
+            <pubDate>Thu, 24 Nov 2022 09:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/366209">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/11/24/594a069d-9bed-4974-a71a-1e90925c02e7.jpg" alt="'방과후 설렘 시즌2 소년판타지', 28일 두 번째 티저 공개">        <div class="text-box">            <p class="summary">'방과후 설렘 시즌2 소년판타지', 28일 두 번째 티저 공개</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/11/24/594a069d-9bed-4974-a71a-1e90925c02e7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아스트로 측 "라키 활동중단 NO…허위사실 유감" [전문] (MBC 연예 ─ 아이돌)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/366203</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/366203</guid>
@@ -769,12 +777,11 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/11/24/ac7995b1-9816-42fb-b66a-50ebc2a756bf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['솔로 출격' 방탄소년단 RM '인디고', 사진에 묻어난 '멋' (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/366146</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/366146</guid>
-            <pubDate>Wed, 23 Nov 2022 23:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/366146">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/11/24/5bfc73bc-0b49-4b45-971a-1fe38f237776.jpg" alt="'솔로 출격' 방탄소년단 RM '인디고', 사진에 묻어난 '멋'">        <div class="text-box">            <p class="summary">'솔로 출격' 방탄소년단 RM '인디고', 사진에 묻어난 '멋'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/11/24/5bfc73bc-0b49-4b45-971a-1fe38f237776.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[구하라 가슴에 묻은 카라의 ‘무브 어게인’ (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20221124180902660</link>
+            <guid>https://v.daum.net/v/20221124180902660</guid>
+            <pubDate>Thu, 24 Nov 2022 09:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[고(故) 구하라가 세상을 떠난지 3년. 그녀를 가슴에 묻은 카라는 데뷔 15주년을 맞아 도약을 준비 중이다. 구하라는 지난 2019년 11월 24일 향년 28세의 나이로 세상을 떠났다. 구하라는 자택에서 숨진 채 발견됐는데 신변을 비관하는 내용이 담겨있는 손글씨 메모가 발견된 점 등 타살 혐의점이 드러나지 않아 스스로 세상을 등진 것으로 결론났다. 구하라는]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KBS 설 대기획 ‘송골매 콘서트’ 순식간에 매진…추가 좌석 오픈 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
@@ -875,11 +882,60 @@
             <content:encoded><![CDATA[[동아닷컴]  걸그룹 에이핑크(Apink) 정은지가 ‘열일’ 행보를 이어나가는 가운데 연말 단독 콘서트까지 연다. 올해 초 “연기에 집중하겠다”며 그룹을 탈퇴하고 연기자로 전향한 손나은보다 몇 배로 바쁘게 움직이고 있다. 올해 초 tvN 드라마 ‘술꾼도시여자들’ 출연진과 예능 ‘산꾼도시여자들’을 함께한 정은지. 그는 뜨거운 여름 JTBC 예능 ‘두 번째]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 진 12월 13일 입대…경기 연천 신병교육대 입소 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20221124131456202</link>
-            <guid>https://v.daum.net/v/20221124131456202</guid>
-            <pubDate>Thu, 24 Nov 2022 05:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 방탄소년단 진 12월 13일 입대…경기 연천 신병교육대 입소 [종합] 방탄소년단 진이 내달 육군 현역으로 입대한다. 그룹 내 첫 주자로 ‘군백기(군대 공백기)’를 보낸다. 24일 업계 등에 따르면 방탄소년단 멤버 진은 12월 13일 경기 연천에 위치한 모 무대 사단으로 입소한다. 그는 해당 사단의 신병교육대에서 5주간 기초군사훈련을 받은 후]]></content:encoded>
+            <title><![CDATA[전미도·폴킴·홍현희·아이키, 문화체육관광부 장관 표창 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20221124181757902</link>
+            <guid>https://v.daum.net/v/20221124181757902</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 이승길 기자] 전미도, 폴킴, 홍현희, 아이키 등이 문화체육관광부 장관 표창을 수상했다. 대중문화예술 분야 최고 권위의 정부 포상인 '2022 대한민국 대중문화예술상' 시상식이 24일 국립극장 해오름극장에서 개최됐다. 이날 문화체육관광부 장관 표창은 ▲ 성우 김영선, ▲ 뮤지컬배우 김선영, ▲ 기획/제작자 한승원, ▲ 배우 전미도, ▲ 희]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[임영웅, MV 찍다 심장 철렁→놀라도 스태프 돕는 스윗함‥촬영 비하인드 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20221124180245482</link>
+            <guid>https://v.daum.net/v/20221124180245482</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 가수 임영웅이 ‘폴라로이드’ 뮤직비디오 촬영 비하인드를 공개했다. 지난 11월 23일 임영웅의 공식 유튜브 채널에는 ‘임영웅 MV 촬영하다 심장 떨어진 썰 풀어요’라는 제목의 영상이 게재 됐다. 영상에서 ‘폴라로이드’ 뮤직비디오 촬영을 앞둔 임영웅은 대기실에서 노래를 흥얼거리며 코드를 연습했다. 하얀 천들로 장식된 촬영장에서]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["이승기 XX버릴거야" 폭언 파문…권진영 대표, 뭐라고 입열까? (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20221124180154449</link>
+            <guid>https://v.daum.net/v/20221124180154449</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 이승록 기자] 후크엔터테인먼트 권진영 대표가 어떤 입장을 내놓을지 대중의 이목이 집중되고 있다. 23일 디스패치가 권진영 대표의 음성이 녹음된 파일을 단독 보도하며 파문이 일었기 때문이다. 녹음 파일에서 권진영 대표는 이승기가 내용증명 보낸 것에 분노하며 소속사 회의에서 "내 이름을 걸고 죽여버릴 거야. 내 나머지 인생을 이승기를 죽이는]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['올빼미' 김성철 "신스틸러? 과분…30대 접어들며 욕심 내려놔" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20221124180039399</link>
+            <guid>https://v.daum.net/v/20221124180039399</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 배우 김성철(31)이 지난 23일 개봉한 영화 '올빼미'에서 진한 인상을 남겼다. 한국예술종합학교 연극원 연기과 출신인 그는 2014년 뮤지컬 '사춘기'로 데뷔, 2017년 '슬기로운 감빵생활'을 통해 인기를 얻었다. 이후 드라마와 영화, 뮤지컬을 오가며 활발한 활동을 펼친 그는 '서치 아웃'(2020) 후 2년 만에 스]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[다니엘, 월드컵 일본전 패배에 씁쓸…타쿠야 "보여줄게 완전히 달라진 나" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20221124174056697</link>
+            <guid>https://v.daum.net/v/20221124174056697</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 이승길 기자] 독일 출신 방송인 다니엘 린데만이 '2022 카타르 월드컵' 일본과의 경기를 본 뒤 씁쓸한 표정을 지었다. 다니엘은 24일 독일이 일본에 패한 경기를 본 뒤 일본 맥주를 마시는 모습을 담은 동영상을 업로드했다. 표정은 더 없이 씁쓸했다. 일본 출신 방송인 테라다 타쿠야를 태그하는 것도 잊지 않았다. 두 사람은 JTBC '비정]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뉴진스∙아이브부터 키까지 ‘올해의 앨범 디자인 10선’ 공개 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20221124173426457</link>
+            <guid>https://v.daum.net/v/20221124173426457</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[한 해 케이팝을 돌아보는 ‘2022 K-POP RADAR 컨퍼런스’의 전 세션 영상이 공개돼 팬들의 뜨거운 반응을 받고 있다. 음악 전문 스타트업 스페이스오디티가 선보이는 케이팝 전문 컨퍼런스 ‘2022 K-POP RADAR 컨퍼런스’가 지난 23일 전격 오픈됐다. 이 가운데 ‘올해를 빛낸 케이팝 10선: 2022 K-POP 10 PICKS’ 결과에]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['12월 23일 결혼' 박수홍, 청첩장→웨딩화보 공개 "더 단단해져..잘 살겠다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20221124173024324</link>
+            <guid>https://v.daum.net/v/20221124173024324</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김나연 기자] 방송인 박수홍이 직접 청첩장과 함께 결혼 소식을 전했다. 24일, 박수홍이 운영하는 유튜브 채널 '검은고양이 다홍'에는 "수다홍 여러분!! 저 결혼합니다홍!"이라는 제목의 영상이 업로드 됐다. 박수홍은 영상을 통해 '12월 23일'이라는 날짜가 새겨진 청첩장을 공개했다. 청첩장 한 가운데에는 박수홍의 소중한 반려묘 다홍이의 사진]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['돈쭐2' 하이틴 스타 최제우, 명리학자로 변신…절친 김승현 반대 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20221124172103948</link>
+            <guid>https://v.daum.net/v/20221124172103948</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 백지연 기자] '돈쭐내러 왔습니다2' 최제우(전 최창민)가 제이쓴에게 아들과 관련된 명리학 조언을 건넨다. 24일 저녁 8시 방송되는 채널 IHQ 예능 프로그램 '돈쭐내러 왔습니다2' 34회에서는 서울시 종로구 창신동에 위치한 한 돼지갈비 맛집을 '돈쭐(돈으로 혼쭐)' 내주는 먹피아 조직의 모습이 공개된다. 이날 의뢰인은 형부가 운영 중인]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[김영광 "'썸바디'는 기괴한 멜로…변신 보여줘서 기뻐" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
@@ -931,60 +987,11 @@
             <content:encoded><![CDATA[창작자를 위한 제도 개정 필요성에 각계각층 인사들이 목소리를 모았다. '저작권법 개정 공청회'가 24일 서울시 영등포구 여의도 국회도서관 대강당 지하 1층에서 개최됐다. 행사에는 더불어민주당 김용민·유정주 국회의원과 한국음악저작권협회 추가열 회장·박학기 부회장·발제자 인하대 로스쿨 홍승기 교수·고려대 이대희 교수를 포함한 각계 인사들 200여 명이 참]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['돈쭐2' 명리학자 최제우 "제이쓴, 늦은 나이에 자식 인연 만나" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20221124164916525</link>
-            <guid>https://v.daum.net/v/20221124164916525</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김지하 기자] '돈쭐내러 왔습니다2' 최제우(전 최창민)가 제이쓴에게 아들과 관련된 명리학 조언을 건넨다. 24일 저녁 8시 방송되는 채널 IHQ 예능 프로그램 '돈쭐내러 왔습니다2' 34회에서는 서울시 종로구 창신동에 위치한 한 돼지갈비 맛집을 '돈쭐(돈으로 혼쭐)' 내주는 먹피아 조직의 모습이 공개된다. 이날 의뢰인은 형부가 운영 중인]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['23세 연하♥' 박수홍, '동치미' 손절설까지 현명히 잡은 결혼식 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20221124164322346</link>
-            <guid>https://v.daum.net/v/20221124164322346</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=장우영 기자] 23살 연하 여성과 함께 결혼식 없이 결혼 생활을 시작한 박수홍이 ‘진짜 결혼’ 생활에 돌입한다. 박수홍은 결혼과 함께 ‘동치미’와 의리까지 지켰다. ‘손절설’에 대한 대답을 결혼식과 결혼식 공개로 현명하게 풀어냈다. 박수홍은 오는 12월 23일 23살 연하 아내 김다예 씨와 결혼식을 올린다. 두 사람은 결혼식은 올리지 않은 상]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[서현우, '헤어질 결심'→'연매살'까지..2022년 꽉 채운 대세 활약 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20221124164127271</link>
-            <guid>https://v.daum.net/v/20221124164127271</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 사진='헤어질 결심', '썬더버드', '정직한 후보2' 스틸컷배우 서현우가 2022년을 꽉 채운 필모로 화제를 모으고 있다. 배우 서현우가 스크린부터 안방극장, 로코부터 스타일리시 현실 누아르까지 넓은 스펙트럼을 자랑하며 이목을 사로잡고 있다. 자신이 가진 내공을 가감 없이 발휘하며 작품에 날개를 달고 활력을 더해 등장만으로도 반]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[모노트리 황현 "제게 '대체 어떤 사랑을 했을까?' 묻는 이들에게" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20221124163638118</link>
-            <guid>https://v.daum.net/v/20221124163638118</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=공미나 기자] K팝신에서 가수가 아닌 프로듀서가 탄탄한 팬덤을 보유한 경우는 드물다. 모노트리 황현 대표 프로듀서는 드물게 팬덤을 보유한 창작자다. 샤이니 '방백', 소녀시대 '첫눈에', 온앤오프 '사랑하게 될 거야' 등 일명 '숨은 명곡'들을 만들어온 그는 'K팝 베토벤'이라는 수식어까지 얻었다. 이런 그가 자신만의 감성을 담아 에세이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[송중기 파워? '재벌집 막내아들', 글로벌 OTT서 50여개국 1위 달성 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20221124163533059</link>
-            <guid>https://v.daum.net/v/20221124163533059</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 이승길 기자] 배우 송중기가 주연을 맡은 JTBC 금토일드라마 '재벌집 막내아들'이 미국과 브라질, 영국을 포함한 전 세계 50여 개국에서 1위 왕좌를 거머쥐었다. 글로벌 OTT 라쿠텐 비키(Rakuten Viki)에 따르면 '재벌집 막내아들'(영제: Reborn Rich)은 서비스 론칭 5일이 지난 시점인 23일(현지시간) 기준 미국,]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[후크 사태에 등 터지는 이서진·이선희 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20221124163404985</link>
-            <guid>https://v.daum.net/v/20221124163404985</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 송오정 기자] 가수 겸 배우 이승기가 소속사 후크엔터테인먼트(이하 후크엔터) 및 권진영 대표와 음원료 정산 문제로 갈등을 빚고 있는 가운데, 이 불씨가 같은 소속사 가수 이선희와 배우 이서진에게까지 불똥 튀었다. 24일 미국 LA에서 이서진의 근황이 포착됐다는 보도가 전해졌다. 보도 내용에 따르면 이서진은 미국 프로농구(NBA) LA레이커스]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['12월 23일 결혼' 박수홍, 웨딩 화보·'다홍이' 청첩장 직접 공개 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20221124163246912</link>
-            <guid>https://v.daum.net/v/20221124163246912</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조윤선 기자] 개그맨 박수홍이 힘든 시간 자신의 곁을 지켜준 23세 연하 아내와 마침내 결혼식을 올리고 진짜 부부가 된다. 박수홍은 오는 12월 23일 서울 모처에서 23세 연하 아내 김다예 씨와 결혼식을 올린다. 지난해 7월 혼인신고를 하고 법적 부부가 된 두 사람은 약 1년 4개월 만에 결혼식을 치르게 됐다. 결혼]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['2년 열애' 라치카 가비♥조이택 "헤어졌다"..소속사 "사생활 확인불가" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20221124162907728</link>
-            <guid>https://v.daum.net/v/20221124162907728</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김나연 기자] 라치카 가비와 배우 조이택이 결별설에 휩싸였다. 24일 가비의 소속사 그리고엔터테인먼트는 OSEN에 가비와 조이택의 결별설과 관련 "아티스트의 사생활이라 사실 확인은 어려울 것 같다"고 조심스러운 입장을 전했다. 앞서 지난 22일 유튜브 채널 '스튜디오 와플'에는 '바퀴달린입3' 3회 영상이 업로드 됐다. 문제가 된 것은 영상]]></content:encoded>
+            <title><![CDATA[조 조나스 "스파이더맨 될 기회 있었는데…감독한테 연락도 해" (다음 연예 ─ 뉴스 ─ 해외)]]></title>
+            <link>https://v.daum.net/v/20221124181844929</link>
+            <guid>https://v.daum.net/v/20221124181844929</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) 조나스 브라더스의 조 조나스가 과거 스파이더맨으로 활약할 수 있었다고 언급했다. 23일(현지시간) 미국 버라이어티와의 인터뷰에서 조 조나스는 '배역을 따내지 못했을 때 좌절감을 느꼈던 적이 있느냐'는 질문에 "이름을 댈 수 있는 것만 몇 개는 될 거다. 그 순간에는 회복 불능이 되거나 패배감을 느낀다. 하지만 그 사람이 훌륭했다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["돈 빼앗겨 죽은 사람들 옷 입고 살아"..'러브 액츄얼리' 여배우의 비극 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
@@ -1050,25 +1057,95 @@
             <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]세계적 힙합스타 카녜이 웨스트(45)가 직원들에게 전 부인 킴 카다시안(42)의 노골적인 이미지를 보여주었다는 충격적 주장이 제기됐다. 22일(현지시간) 롤링스톤에 따르면, 한 젊은 직원은 2018년 취업면접에서 카녜이 웨스트가 킴 카다시안의 노골적인 사진을 보여주었다고 밝혔다. 또 다른 직원 역시 카녜이 웨스트가 크리에이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[日 AKB48 오카다 나나, 열애설 사과→졸업 발표…"이런 사람이라 미안" (다음 연예 ─ 뉴스 ─ 해외)]]></title>
-            <link>https://v.daum.net/v/20221123180137354</link>
-            <guid>https://v.daum.net/v/20221123180137354</guid>
-            <pubDate>Wed, 23 Nov 2022 10:22:17 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) 최근 열애설에 휩싸였던 일본의 아이돌 그룹 AKB48 팀A 소속 오카다 나나가 결국 졸업을 발표했다. 오카다 나나는 23일 오후 "주간지 건으로 큰 폐를 끼쳐드린 점 정말 죄송하다"며 "사과의 코멘트가 늦은 것도 죄송하다"고 시작되는 장문의 입장문을 게재했다. 그는 "그동안 응원해주신 팬 분들을 배신하는 행동을 해서 상처를 입혀]]></content:encoded>
+            <title><![CDATA[pH-1, 정규 2집 수록곡 ‘DEAD GIRL’ 라이브 클립 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000851288</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000851288</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[아티스트 pH-1이 ‘DEAD GIRL’로 묵직한 감성을 선사했다. 24일 하이어뮤직 공식 유튜브 계정을 통해 pH-1의 두 번째 정규앨범 ‘BUT FOR NOW LEAVE ME ALONE (벗 포 나우 리브 미 얼]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“‘아바타:물의 길’ 중국 개봉 확정, 흥행 청신호” (다음 연예 ─ 뉴스 ─ 해외)]]></title>
-            <link>https://v.daum.net/v/20221123175134997</link>
-            <guid>https://v.daum.net/v/20221123175134997</guid>
-            <pubDate>Wed, 23 Nov 2022 10:22:17 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]제임스 카메론 감독의 ‘아바타:물의 길’이 중국에서 개봉한다. 20세기 스튜디오는 22일 중국에서 가장 인기 있는 소셜 미디어 플랫폼 중 하나인 시나 웨이보에 공식 게시물을 통해 개봉 계획을 확인했다. 그 회사는 또한 새로운 포스터뿐만 아니라 영화의 예고편도 공유했다. 이 영화는 중국에서 12월 16일 개봉 예정이며, 아이맥]]></content:encoded>
+            <title><![CDATA[저스트비, 미니 3집 '= (NEUN)' 초동 커리어 하이…계단식 성장 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001528169</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001528169</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 저스트비(JUST B)가 계단식 성장으로 '커리어 하이'를 기록했다. 24일 국내 음반 판매량 집계 사이트 한터차트에 따르면, 저스트비(임지민, 이건우, 배인, JM, 전도염, 김상우)의 세 번째 미니앨범 '=]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[영화찍다 눈맞은 '10살 연상연하' 커플..불륜∙불화∙폭로 들끓다가 결국 결별 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
-            <link>https://v.daum.net/v/20221123173422394</link>
-            <guid>https://v.daum.net/v/20221123173422394</guid>
-            <pubDate>Wed, 23 Nov 2022 10:22:17 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자] 영화로 만난 말 많고 탈 많았던 두 사람이 결국 영화처럼 헤어졌다.&nbsp; 피플 등 외신은&nbsp;최근 배우 겸 감독 올리비아 와일드와 가수 겸 배우 해리 스타일스가 2년여 열애 끝 결별했다고 보도했다. 10살 연상연하 커플인 올리비아 와일드와 해리 스타일스의 결별은&nbsp;미묘한 상황의 결과였다고.&nbsp;한 소식통은 "올리비아에게 결별은&nbsp;어려웠다. 그]]></content:encoded>
+            <title><![CDATA[허니제이 ‘볼록’ 당당한 D라인 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000851281</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000851281</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[댄서 허니제이가 선명한 D라인을 공개했다. 24일 허니제이는 자신의 인스타그램에 “모닝샷”이라는 글과 함께 사진을 올렸다. 공개된 사진 속 폴라로이드 사진에는 상의를 걷어 올린 허니제이의 모습이 담겼다. 지난 9월]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[차승원→아이키까지…‘MMA2022’ 시상자 라인업 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000908659</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000908659</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[배우, 가수, 크리에이터 등이 MMA2022를 더욱 화려하게 꾸민다. 카카오엔터테인먼트(대표 이진수, 김성수)의 뮤직플랫폼 멜론(Melon)은 ‘MMA2022 Presented by 카카오뱅크’(MELON MUSIC]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[송골매 콘서트, 오픈 동시에 매진...좌석 추가 오픈 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001235621</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001235621</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[‘모두 다 사랑하리’, ‘어쩌다 마주친 그대’, ‘세상 모르고 살았노라’, ‘빗물’ 등 히트곡을 낸 밴드 송골매의 콘서트 티켓이 오픈과 동시에 매진됐다. 송골매는 ‘KBS 설 대기획 송골매 콘서트 &lt;40년만의 비행&gt;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[차승원→아이키, '멜론뮤직어워드' 시상자 라인업 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011556286</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011556286</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[장지윤 인턴 기자 = 올 한 해 사랑받은 스타들이 '멜론뮤직어워드' 시상자로 나선다. 카카오엔터테인먼트의 뮤직플랫폼 멜론은 24일 '멜론뮤직어워드(MMA2022 Presented by 카카오뱅크, 이하 MMA2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우원재, 오늘(24일) '콤마' 발매…쉼표로 전할 묵직한 위로 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001528159</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001528159</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[우원재가 새 EP 'comma (콤마)'를 통해 진솔한 생각을 전한다. 우원재는 24일 오후 6시 국내외 각종 온라인 음원 사이트를 통해 EP 'comma'를 발매한다. 'comma'는 쉼표 (,)라는 의미 그대로]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뉴진스∙아이브부터 키까지 ‘올해의 앨범 디자인 10선’ 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000851279</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000851279</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[한 해 케이팝을 돌아보는 ‘2022 K-POP RADAR 컨퍼런스’의 전 세션 영상이 공개돼 팬들의 뜨거운 반응을 받고 있다. 음악 전문 스타트업 스페이스오디티가 선보이는 케이팝 전문 컨퍼런스 ‘2022 K-POP]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[카라 니콜, 한층 더 성숙해진 비주얼 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000851278</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000851278</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 카라(KARA)가 멤버 니콜이 상반된 매력 눈길을 끌었다. 카라(박규리, 한승연, 니콜, 강지영, 허영지)는 24일 오전 0시 공식 홈페이지에 스페셜 앨범 ‘MOVE AGAIN’의 티저 이미지를 공개했다. 사진]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[첫 경기 D-day…풍물밴드 이상, '흥해라 대한민국' 응원 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001528149</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001528149</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[풍물밴드 이상이 2022 FIFA 카타르 월드컵 대한민국 대표팀 흥원가 챌린지 영상을 공개했다. 23일 공개된 챌린지 영상은 지난 10일 발매한 2022 FIFA 카타르 월드컵 대한민국 흥원가 '흥해라 대한민국'에]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['송가인 후배' 김도희, 오늘(24일) '끝이 선명했던 우리였기에' 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003107340</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003107340</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[가수 김도희가 심상치 않은 다크 매력을 선보인다. 김도희는 24일 정오 각종 음원사이트를 통해 신곡 '끝이 선명했던 우리였기에'를 발매, 한층 성숙해진 콘셉트로 음악 스펙트럼을 입증한다. 신곡 '끝이 선명했던 우리였]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘D-DAY’ 강다니엘, 특별한 서사의 방점 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000851275</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000851275</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[강다니엘이 더욱 깊이 있는 스토리로 돌아온다. 소속사 커넥트엔터테인먼트는 24일 강다니엘의 새 앨범 ‘The Story : Repackage RETOLD’이 이날 오후 6시 발매된다고 알렸다. 이번 앨범은 지난 5월]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우원재, 오늘 새 앨범 '콤마' 발매…쉼표로 전할 위로 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011556251</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011556251</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[장지윤 인턴 기자 = 우원재가 새 EP '콤마(comma)'로 돌아온다. 우원재는 24일 오후 6시 국내외 각종 온라인 음원 사이트를 통해 EP '콤마'를 발매한다. '콤마'는 쉼표를 뜻하며 '쉼'을 통해 깨달은 감]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[차승원-안효섭-아이키 등...MMA2022 시상자 라인업 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
@@ -1155,270 +1232,193 @@
             <content:encoded><![CDATA[일회성 계약으로 장래 수익을 모두 제작사 혹은 출판사에게 넘기는 이른바 ‘매절계약’으로 인한 창작자의 피해를 방지하고자 저작권법을 개정해야 한다는 주장이 나왔다. 한국음악저작권협회(이하 한음저협)는 24일 국회도서관]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[新기록 어디까지…임영웅, 유튜브 누적 조회수 17억 7000만 뷰 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000908652</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000908652</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[가수 임영웅이 매주 신기록을 써내려 가고 있다. 24일 기준 임영웅 공식 유튜브 채널 ‘임영웅’에 따르면 총 조회수가 17억 7천만 뷰를 넘어섰다. 이는 지난 19일에 17억6천만 뷰를 기록 하고 5일만에 다시 천만]]></content:encoded>
+            <title><![CDATA[아이스큐브 "백신 접종 거부 후 119억짜리 배역 잃어"[★할리우드] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003107347</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003107347</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[래퍼 겸 배우 아이스큐브가 코로나19 백신 접종을 거부해 배역을 잃었다고 밝혔다. 22일(현지시간) 버라이어티 등 다수의 현지 매체에 따르면 아이스큐브는 한 팟캐스트에 출연해 "백신 접종을 거부한 후 코미디 영화 ']]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘이승기 스승’ 이선희도 후크의 을이었다 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000851255</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000851255</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[“이선희가 권 대표 개인적인 심부름까지...” 23일 유튜브 채널 ‘연예 뒤통령 이진호’에는 “이승기 후크 갈등.. 이선희 소름 돋는 실제 반응”이라는 영상이 올라왔다. 앞서 이승기는 ‘내 여자라니까’, ‘삭제’ 등]]></content:encoded>
+            <title><![CDATA["카타르 시차적응" 정형돈, 韓vs우루과이 앞두고 결연한 표정 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003107346</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003107346</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[개그맨 정형돈이 2022 FIFA 카타르 월드컵 한국 경기를 앞두고 카타르로 떠났다. 정형돈의 아내 한유라는 24일 "드디어 오늘 밤. 두근두근. 한국vs우루과이전"이라는 글과 함께 여러 장의 사진을 공개했다. 공개]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[온스테이지, '원테이크 콘서트' 콘텐츠…"공연 현장감 살려" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013599438</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013599438</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[네이버문화재단은 인디 뮤지션 창작 지원 플랫폼 '온스테이지'에서 '원테이크 콘서트' 콘텐츠를 선보인다고 24일 밝혔다. 네이버문화재단은 곡을 한 번에 연주하는 원테이크 구성으로 공연의 현장감을 영상에 녹였다. 실제]]></content:encoded>
+            <title><![CDATA[‘크림슨 하트’ 르세라핌 웹툰·웹소설 나왔다 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003242542</link>
+            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003242542</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[4세대 대표 걸그룹 르세라핌의 웹툰과 웹소설이 나왔다. 르세라핌과 협업한 하이브의 네 번째 오리지널 스토리 ‘크림슨 하트’의 웹툰과 웹소설이 드디어 베일을 벗었다. 하이브는 ‘크림슨 하트’의 웹툰을 24일 오후 10]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[정동하, 오늘 '단골집' 간다…1년2개월만에 신곡 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011556049</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011556049</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[정진아 인턴 기자 = 가수 정동하의 신곡 '단골집'이 공개된다. 24일 소속사 뮤직원컴퍼니에 따르면, 정동하는 이날 오후 6시 음원사이트를 통해 신곡 '단골집'을 발매한다. '단골집'은 헤어진 연인과 함께 가던 '단]]></content:encoded>
+            <title><![CDATA[뱀뱀, '환승연애2'로 한국서 인지도 올린 과몰입러의 일상 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000582217</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000582217</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[가수 뱀뱀이 셀카를 공개했다. 뱀뱀은 24일 브이 이모지 하나와 함께 한 장의 사진을 게재했다. 공개된 사진 속에는 뱀뱀의 모습이 담겼다. 뱀뱀은 누워서 셀카를 찍었다. 그는 브이 포즈를 취하며 카메라를 응시하고 있]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아이브 '애프터 라이크', 美 빌보드 13주 연속 차트인 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000903083</link>
-            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000903083</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[아이브(IVE, 안유진·가을·레이·장원영·리즈·이서)가 미국 빌보드 차트에서 세 번째 싱글 ‘애프터 라이크(After LIKE)’로 13주 연속 차트 진입에 성공했다. 아이브는 미국 음악 전문 매체 빌보드가 22일(]]></content:encoded>
+            <title><![CDATA[최현욱 "'약한영웅'이 신예들의 반란? 예상한 것 이상의 호평" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000322723</link>
+            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000322723</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[웨이브 오리지널 드라마 '약한영웅 Class 1'(이하 '약한영웅')의 배우 최현욱이 작품 공개 후 쏟아진 호평에 관해 이야기했다. 최현욱은 24일 오후 서울 종로구 삼청동 한 카페에서 진행된 인터뷰를 통해 '신예들]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김호중과 함께 크리스마스를…29일 대전 콘서트 티켓 예매 오픈 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000908650</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000908650</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[가수 김호중이 대전 시민들과 함께 크리스마스를 보낸다. 오는 29일 오후 8시 인터파크 티켓을 통해 김호중의 첫 전국투어 콘서트 ‘2022 KIM HO JOONG CONCERT TOUR [ ARISTRA ]’(이하]]></content:encoded>
+            <title><![CDATA[김선영, 우아한 손인사 [포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001018187</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001018187</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[뮤지컬배우 김선영이 24일 서울 중구 장충동 국립극장에서 열린 ‘2022 대한민국 대중문화예술상’ 시상식 레드카펫에서 포즈를 취하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[쏜애플, 3년만에 스탠딩 공연…'불구경' 전석 매진 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011556006</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011556006</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[장지윤 인턴 기자 = 밴드 쏜애플의 브랜드 콘서트 '불구경'이 전석 매진됐다. 24일 소속사 엠피엠지 뮤직은 "오는 12월 23일~25일 3일간 노들섬 다목적홀 숲에서 열리는 쏜애플 콘서트 '불구경'이 23일 오후]]></content:encoded>
+            <title><![CDATA[김선영, 문화체육관광부 장관표창 받아요 [포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001018186</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001018186</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[뮤지컬배우 김선영이 24일 서울 중구 장충동 국립극장에서 열린 ‘2022 대한민국 대중문화예술상’ 시상식 레드카펫에서 포즈를 취하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아이브, 49주째 美 빌보드 차트인 ‘공백없는 인기’ (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000657416</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000657416</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 아이브(안유진, 가을, 레이, 장원영, 리즈, 이서)가 공백 없는 인기 행진 중이다. 11월 22일(현지시간) 미국 매체 빌보드가 발표한 최신 차트(11월 26일 자)에 따르면 아이브 3번째 싱글 타이틀곡 '애]]></content:encoded>
+            <title><![CDATA[이성민, 헤맑은 인사 [포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001018185</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001018185</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이성민이 24일 서울 중구 장충동 국립극장에서 열린 ‘2022 대한민국 대중문화예술상’ 시상식 레드카펫에서 포즈를 취하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['사건의 지평선' 윤하 3관왕, 임영웅 4관왕…47주차 써클차트 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011556004</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011556004</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[정진아 인턴 기자 = 47주차 써클차트(구 가온차트)에서 가수 윤하가 3관왕, 가수 임영웅이 4관왕을 차지했다. 24일 써클차트를 운영하는 한국음악콘텐츠협회는 "47주차(집계기간: 2022.11.13.~2022.11]]></content:encoded>
+            <title><![CDATA[이성민, 긴장한 입장 [포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001018184</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001018184</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이성민이 24일 서울 중구 장충동 국립극장에서 열린 ‘2022 대한민국 대중문화예술상’ 시상식 레드카펫에 오르고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가비 측 "조이택과 결별? 아티스트 사생활 확인불가"[공식입장] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003600927</link>
-            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003600927</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[댄서 가비와 조이택의 결별설이 흘러나왔다. 24일 가비의 소속사 그리고 엔터테인먼트 측은 헤럴드POP에 조이택과의 결별설 관련해 "아티스트 사생활이라 확인이 불가하다"고 밝혔다. 지난 22일 웹예능 '바퀴달린입3']]></content:encoded>
+            <title><![CDATA[이성민, 팬들의 환호에 너털 웃음 [포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001018183</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001018183</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이성민이 24일 서울 중구 장충동 국립극장에서 열린 ‘2022 대한민국 대중문화예술상’ 시상식 레드카펫에서 포즈를 취하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우원재, 오늘 (24일) EP 발매…쉼표로 전할 공감+위로 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001817714</link>
-            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001817714</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[래퍼 우원재 씨가 새 EP [comma (콤마)]를 통해 진솔한 생각을 전한다. 우원재 씨는 24일 오후 6시 국내외 각종 온라인 음원 사이트를 통해 EP [comma]를 발매한다. EP [comma]는 쉼표 (,)]]></content:encoded>
+            <title><![CDATA[지코, 쿨한 입장 [포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001018182</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001018182</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[래퍼 지코가 24일 서울 중구 장충동 국립극장에서 열린 ‘2022 대한민국 대중문화예술상’ 시상식 레드카펫에 오르고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[BTS 뷔를 팝아트로? 김호석 ‘혼그림전2’ (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000851246</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000851246</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[트랜드와 철학이 손잡았다. 30일 국내 최초 모바일 페인팅을 선보였던 김호석 작가의 두 번째 개인전 ‘혼그림전2’가 당진 송악 ‘미노갤러리’에서 열린다. 그의 철학적 사유가 담긴 그림 10점과 그룹 방탄소년단의 얼굴]]></content:encoded>
+            <title><![CDATA[지코, 수줍게 엄지척! [포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001018181</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001018181</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[래퍼 지코가 24일 서울 중구 장충동 국립극장에서 열린 ‘2022 대한민국 대중문화예술상’ 시상식 레드카펫에서 포즈를 취하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[두리, 위문열차’ 비하인드 컷…러블리 미모+청량 매력 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001528086</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001528086</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[가수 두리가 우월한 비주얼을 뽐냈다. 두리는 지난 23일 국방TV ‘위문열차’ 공연 무대 비하인드 컷과 함께 “나라를 위해 밤낮으로 고생하시는 우리 용사님들과 즐거운 시간 보내고 왔다”라며 “아기자기 귀여운 두리 팻]]></content:encoded>
+            <title><![CDATA[지코, 쿨한 올블랙 [포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001018180</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001018180</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[래퍼 지코가 24일 서울 중구 장충동 국립극장에서 열린 ‘2022 대한민국 대중문화예술상’ 시상식 레드카펫에서 포즈를 취하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[T포토] 허영만 '보관문화훈장 수상자' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001235610</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001235610</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[만화가 허영만이 24일 오후 서울 중구 국립극장 해오름극장에서 진행된 '2022 대한민국 대중문화예술상' 시상식에 참석해 레드카펫을 밟고 있다. 대중문화예술상은 문화체육관광부(장관 박보균)가 주최하고 한국콘텐츠진흥원]]></content:encoded>
+            <title><![CDATA[구하라 가슴에 묻은 카라의 ‘무브 어게인’[MK뮤직] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0005050485</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0005050485</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[고(故) 구하라가 세상을 떠난지 3년. 그녀를 가슴에 묻은 카라는 데뷔 15주년을 맞아 도약을 준비 중이다. 구하라는 지난 2019년 11월 24일 향년 28세의 나이로 세상을 떠났다. 구하라는 자택에서 숨진 채 발]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘돌싱글즈3‘ 전다빈, 매니지먼트 계약 체결…박한별·강지영과 한솥밥 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000629974</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000629974</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[‘돌싱글즈3’에 출연한 화제 인물 전다빈이 배우 전문 매니지먼트사와 계약을 체결했다. 24일 이엘파크는 “전다빈과 함께하게 되어 매우 기쁘다. 매니지먼트 네트워크를 앞세워 재능을 발휘할 수 있도록 지원을 아끼지 않겠]]></content:encoded>
+            <title><![CDATA[지코, 사랑스러운 2종 하트 [포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001018179</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001018179</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[래퍼 지코가 24일 서울 중구 장충동 국립극장에서 열린 ‘2022 대한민국 대중문화예술상’ 시상식 레드카펫에서 포즈를 취하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[폴킴, 고막남친의 달콤한 하트 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006480235</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006480235</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[= 가수 폴킴이 24일 오후 서울 중구 국립극장 해오름극장에서 진행된 '2022 대한민국 대중문화예술상' 시상식에서 포즈를 취하고 있다. 2022.11.24/뉴스1]]></content:encoded>
+            <title><![CDATA[폴킴, 멀리서 시선 사로잡는 민트 [포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001018178</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001018178</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[가수 폴킴이 24일 서울 중구 장충동 국립극장에서 열린 ‘2022 대한민국 대중문화예술상’ 시상식 레드카펫에 오르고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박수홍, 청첩장 공개…“힘든 일 함께 겪으며 단단해졌습니다” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003757754</link>
-            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003757754</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[‘검은고양이 다홍’ 유튜브 캡처 오는 12월 결혼식을 올리는 방송인 박수홍(53)이 청첩장을 공개했다. 박수홍은 24일 자신의 유튜브 채널 ‘검은고양이 다홍’에 ‘여러분 저 결혼합니다’라는 제목의 영상을 게재했다.]]></content:encoded>
+            <title><![CDATA[폴킴, 수상에 축하공연까지 [포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001018177</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001018177</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[가수 폴킴이 24일 서울 중구 장충동 국립극장에서 열린 ‘2022 대한민국 대중문화예술상’ 시상식 레드카펫에서 포즈를 취하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토]장예원, 박선호 바라보며... (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000903114</link>
-            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000903114</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[배우 박선호(왼쪽)와 장예원 아나운서가 24일 서울 중구 국립극장 해오름극장에서 진행된 ‘2022 대한민국 대중문화예술상’ 시상식에 앞서 레드카펫을 밟으며 행사장으로 입장하고 있다. 2022. 11. 24. 박진업기]]></content:encoded>
+            <title><![CDATA[허영만 작가, 보관문화훈장 수훈자 선정 [포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001018176</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001018176</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[작가 허영만이 24일 서울 중구 장충동 국립극장에서 열린 ‘2022 대한민국 대중문화예술상’ 시상식 레드카펫에서 포즈를 취하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 한승원 '늠름한 포즈' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003242513</link>
-            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003242513</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[공연제작자 한승원이 24일 오후 서울 중구 국립극장 해오름극장에서 진행된 2022 대한민국 대중문화예술상 시상식 레드카펫 행사에 참석해 포토타임을 갖고 있다. 올해로 13회째를 맞이한 대한민국 대중문화예술상은 대중문]]></content:encoded>
+            <title><![CDATA[폴킴, 고막소년단의 하트 [포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001018175</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001018175</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[가수 폴킴이 24일 서울 중구 장충동 국립극장에서 열린 ‘2022 대한민국 대중문화예술상’ 시상식 레드카펫에서 포즈를 취하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카라 니콜, 'MOVE AGAIN' 개별티저 공개…'역동적 레드 이면의 세련본능' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=030&amp;aid=0003061620</link>
-            <guid>https://entertain.naver.com/now/read?oid=030&amp;aid=0003061620</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[카라(KARA)가 니콜을 피날레로 개별티저 릴레이를 마무리하며, 다채로운 반전을 품은 무대 위의 세련미를 예고했다. 24일 RBW(알비더블유) 측은 공식 홈페이지를 통해 니콜을 메인으로 한 카라 스페셜 앨범 'MOV]]></content:encoded>
+            <title><![CDATA[홍현희, 출산 후 첫 공식석상 [포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001018174</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001018174</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[코미디언 홍현희가 24일 서울 중구 장충동 국립극장에서 열린 ‘2022 대한민국 대중문화예술상’ 시상식 레드카펫에서 포즈를 취하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토]유아, 시상식에서 인사 드려요! (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000903113</link>
-            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000903113</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[오마이걸 유아가 24일 서울 중구 국립극장 해오름극장에서 진행된 ‘2022 대한민국 대중문화예술상’ 시상식에 앞서 레드카펫을 밟으며 행사장으로 입장하고 있다. 2022. 11. 24. 박진업기자]]></content:encoded>
+            <title><![CDATA[홍승옥, 성우 경력만 50년 [포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001018173</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001018173</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[성우 홍승옥이 24일 서울 중구 장충동 국립극장에서 열린 ‘2022 대한민국 대중문화예술상’ 시상식 레드카펫에서 포즈를 취하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[T포토] 엄용수 '코미디언계의 대부' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001235608</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001235608</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[개그맨 엄용수가 24일 오후 서울 중구 국립극장 해오름극장에서 진행된 '2022 대한민국 대중문화예술상' 시상식에 참석해 레드카펫을 밟고 있다. 대중문화예술상은 문화체육관광부(장관 박보균)가 주최하고 한국콘텐츠진흥원]]></content:encoded>
+            <title><![CDATA[[포토] 아이키, 화려한 오프닝 무대 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0005050483</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0005050483</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[‘2022 대한민국 대중문화예술상 시상식’이 24일 오후 장충동 국립극장 해오름 극장에서 열렸다. 시상식 진행은 장예원 아나운서와 배우 박선호가 맡았다. 댄서 아이키가 화려한 오프닝 무대를 선보이고 있다. &lt;다음은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[T포토] 폴킴 '문체부장관 표창 받아요~' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001235607</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001235607</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[가수 폴킴이 24일 오후 서울 중구 국립극장 해오름극장에서 진행된 '2022 대한민국 대중문화예술상' 시상식에 참석해 레드카펫을 밟고 있다. 대중문화예술상은 문화체육관광부(장관 박보균)가 주최하고 한국콘텐츠진흥원(원]]></content:encoded>
+            <title><![CDATA[박선호-장예원, 선남선녀의 등장 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001018172</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001018172</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[배우 박선호와 장예원이 24일 서울 중구 장충동 국립극장에서 열린 ‘2022 대한민국 대중문화예술상’ 시상식 레드카펫에 오르고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['전통가요 지킴이' 조명섭 원주시 홍보대사 됐다 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013599620</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013599620</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[원주 출신으로 지난해에는 관광 홍보대사로 활동 전통가요 지킴이 가수 조명섭이 강원 원주시의 홍보대사가 됐다. 위촉식은 24일 원주시청에서 원강수 원주시장 등이 참석한 가운데 열렸다. 조명섭은 2019년 KBS2TV]]></content:encoded>
+            <title><![CDATA['월드컵 충격' 독일 다니엘, 일본 타쿠야 공개 저격 "보여줄게 완전히 달라진 나" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003107343</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003107343</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[독일인 방송인 다니엘 린데만이 일본인 가수 타쿠야에게 불편한 심기를 드러냈다. 다니엘은 24일 타쿠야를 태그한 영상을 올리며 근황을 밝혔다. 영상 속 그는 일본 브랜드의 캔맥주를 마시며 장난스럽게 불편해하는 표정을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가비 측 “조이택과 결별설, 사생활이라 확인 불가” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0005050343</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0005050343</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[댄스 크루 라치카 가비가 배우 조이택과 결별설이 제기됐다. 가비 소속사 그리고엔터테인먼트 관계자는 24일 매일경제 스타투데이에 “가비의 결별설은 아티스트의 사생활”이라며 “사실 확인이 어렵다”고 밝혔다. 가비의 결별]]></content:encoded>
+            <title><![CDATA[다니엘, 일본 승리에 아사히 맥주 들고 '웃픈 분노' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006480346</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006480346</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[독일 출신 방송인 다니엘 린데만이 카라트월드컵에서 일본에게 패한 독일을 생각하며 씁쓸해했다. 24일 다니엘 린데만은 일본인 친구 가수 타쿠야를 태그하며 영상을 올렸다. 두 사람은 과거 JTBC 예능 프로그램 '비정상]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토]유아, 입술 삐죽! (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000903112</link>
-            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000903112</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[오마이걸 유아가 24일 서울 중구 국립극장 해오름극장에서 진행된 ‘2022 대한민국 대중문화예술상’ 시상식에 앞서 레드카펫을 밟으며 행사장으로 입장하고 있다. 2022. 11. 24. 박진업기자]]></content:encoded>
+            <title><![CDATA[조 조나스 "스파이더맨 될 기회 있었는데…감독한테 연락도 해" [엑's 할리우드] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001528176</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001528176</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[조나스 브라더스의 조 조나스가 과거 스파이더맨으로 활약할 수 있었다고 언급했다. 23일(현지시간) 미국 버라이어티와의 인터뷰에서 조 조나스는 '배역을 따내지 못했을 때 좌절감을 느꼈던 적이 있느냐'는 질문에 "이름을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토]유아, 아름다운 미소 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000903110</link>
-            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000903110</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[오마이걸 유아가 24일 서울 중구 국립극장 해오름극장에서 진행된 ‘2022 대한민국 대중문화예술상’ 시상식에 앞서 레드카펫을 밟으며 행사장으로 입장하고 있다. 2022. 11. 24. 박진업기자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[성전환 유튜버 풍자, 조세호 향한 '럽스타그램'…"오빠, 나도 사랑해" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006480219</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006480219</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[트랜스젠더 유튜버 풍자가 방송인 조세호와 달달한 애정 행각(?)을 벌여 이목이 쏠리고 있다. 24일 풍자는 자신의 SNS를 통해 "응 오빠 나도사랑해"라는 글과 함께 사진을 공개했다. 이날 돌직구 고백(?)을 날린]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 허영만 '만화가의 자태' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003242512</link>
-            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003242512</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[만화가 허영만이 24일 오후 서울 중구 국립극장 해오름극장에서 진행된 2022 대한민국 대중문화예술상 시상식 레드카펫 행사에 참석해 포토타임을 갖고 있다. 올해로 13회째를 맞이한 대한민국 대중문화예술상은 대중문화]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 오마이걸 유아 '아름다운 미소' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003242511</link>
-            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003242511</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 오마이걸 유아가 24일 오후 서울 중구 국립극장 해오름극장에서 진행된 2022 대한민국 대중문화예술상 시상식 레드카펫 행사에 참석해 포토타임을 갖고 있다. 올해로 13회째를 맞이한 대한민국 대중문화예술상은 대중]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토]폴킴, 대중문화예술상에서 인사 드려요! (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000903108</link>
-            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000903108</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[가수 폴킴이 24일 서울 중구 국립극장 해오름극장에서 진행된 ‘2022 대한민국 대중문화예술상’ 시상식에 참석하면서 취재진을 향해 포즈를 취하고 있다. 2022. 11. 24. 박진업기자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토]유아, 레드카펫 밟으며 우아하게! (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000903107</link>
-            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000903107</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[오마이걸 유아가 24일 서울 중구 국립극장 해오름극장에서 진행된 ‘2022 대한민국 대중문화예술상’ 시상식에 앞서 레드카펫을 밟으며 행사장으로 입장하고 있다. 2022. 11. 24. 박진업기자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“정신과 치료 받은 적 있어” 이승기, 음원정산 논란 속 과거발언 재조명 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000629973</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000629973</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[가수 겸 배우 이승기의 과거 발언이 재조명되고 있다. 최근 온라인 커뮤니티를 통해 이승기가 과거 정신과 치료 경험을 고백한 장면이 재조명되며 관심이 쏠리고 있다. 현재 소속사 후크엔터테인먼트의 음원 수익 정산 관련]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토]유아, 미모 뽐내며... (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000903106</link>
-            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000903106</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[오마이걸 유아가 24일 서울 중구 국립극장 해오름극장에서 진행된 ‘2022 대한민국 대중문화예술상’ 시상식에 앞서 레드카펫을 밟으며 행사장으로 입장하고 있다. 2022. 11. 24. 박진업기자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 오마이걸 유아 '하트도 시크하게' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003242510</link>
-            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003242510</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 오마이걸 유아가 24일 오후 서울 중구 국립극장 해오름극장에서 진행된 2022 대한민국 대중문화예술상 시상식 레드카펫 행사에 참석해 포토타임을 갖고 있다. 올해로 13회째를 맞이한 대한민국 대중문화예술상은 대중]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 오마이걸 유아 '살짝 머금은 미소' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003242509</link>
-            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003242509</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 오마이걸 유아가 24일 오후 서울 중구 국립극장 해오름극장에서 진행된 2022 대한민국 대중문화예술상 시상식 레드카펫 행사에 참석해 포토타임을 갖고 있다. 올해로 13회째를 맞이한 대한민국 대중문화예술상은 대중]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 오마이걸 유아 '시크함 그 자체' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003242508</link>
-            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003242508</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 오마이걸 유아가 24일 오후 서울 중구 국립극장 해오름극장에서 진행된 2022 대한민국 대중문화예술상 시상식 레드카펫 행사에 참석해 포토타임을 갖고 있다. 올해로 13회째를 맞이한 대한민국 대중문화예술상은 대중]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘피파여신’ 곽민선, 카타르로 떠났다…SBS 스포츠 리포터 활약 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003242507</link>
-            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003242507</guid>
-            <pubDate>Thu, 24 Nov 2022 08:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[[일간스포츠 이세빈] 사진=SBS Sports ‘스브스루패스’ 영상 캡처 아나운서 출신 방송인 곽민선이 카타르로 떠났다. 소속사 스타잇엔터테인먼트는 최근 축구와 e스포츠계에서 두각을 드러내고 있는 곽민선이 2022 카타르 월드컵 기간 SBS 스포츠 리포터로 활약한다고 24일 밝혔다. 곽민선은 스포츠, 게임 아나운서로 활약...]]></content:encoded>
+            <title><![CDATA[이 배우들이 모두 한 집에 살았었다고? [Oh!쎈 레터] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004746423</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004746423</guid>
+            <pubDate>Thu, 24 Nov 2022 09:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[지금 보면 믿어지지 않는 사실이 있다. 이 배우들이 모두 '한집살이'를 했다는 것. 로버트 패틴슨(35), 제이미 도넌(39), 에디 레드메인(40), 앤드류 가필드(38), 그리고 찰리 콕스(39)가 그 주인공들.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[할리웃POP]칸예, 직원들에 전처 킴 카다시안 노골적 사진 유출했다 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
@@ -1580,20 +1580,6 @@
             <guid>https://entertain.naver.com/now/read?oid=008&amp;aid=0004821489</guid>
             <pubDate>Wed, 23 Nov 2022 11:16:51 GMT</pubDate>
             <content:encoded><![CDATA[대만 배우 쉬시위안(서희원·46)이 전 시어머니의 폭로에 대해 전면 반박했다. 쉬시위안은 23일(한국시간) 자신의 인스타그램에 "저와 제 여동생(서희제)은 마약을 할 수 없다. 심장이 좋지 않기 때문"이라며 "동생은]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['구준엽♥' 서희원, 전 시어머니 폭로에 반박…"마약, 불륜 NO" (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=018&amp;aid=0005373500</link>
-            <guid>https://entertain.naver.com/now/read?oid=018&amp;aid=0005373500</guid>
-            <pubDate>Wed, 23 Nov 2022 10:22:43 GMT</pubDate>
-            <content:encoded><![CDATA[구준엽과 결혼한 대만 배우 서희원이 그가 마약을 했다는 전 시어머니 장란의 폭로를 정면 반박했다. 서희원은 23일 자신의 SNS를 통해 “저와 제 여동생(서희제)는 마약을 할 수 없다. 저희는 심장이 좋지 않기 때문]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[日 AKB48 오카다 나나, 열애설 사과→졸업 발표…"이런 사람이라 미안" [엑's 재팬] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001527763</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001527763</guid>
-            <pubDate>Wed, 23 Nov 2022 10:22:43 GMT</pubDate>
-            <content:encoded><![CDATA[최근 열애설에 휩싸였던 일본의 아이돌 그룹 AKB48 팀A 소속 오카다 나나가 결국 졸업을 발표했다. 오카다 나나는 23일 오후 "주간지 건으로 큰 폐를 끼쳐드린 점 정말 죄송하다"며 "사과의 코멘트가 늦은 것도 죄]]></content:encoded>
         </item>
     </channel>
 </rss>
