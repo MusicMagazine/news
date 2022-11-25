@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-11-25T17:22:24.264Z</updated>
+    <updated>2022-11-25T18:23:48.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[싸이 "'강남스타일' 뜬 이유 아직 몰라…히트곡 더 없어도 좋아"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013603023</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013603023"/>
+        <updated>2022-11-25T18:23:30.379Z</updated>
+        <content type="html"><![CDATA['강남스타일' 성공 10주년 맞아 NYT 인터뷰…"지금은 내 할일 할 것" 강건택 특파원 = 가수 싸이(45)가 10년 전 '강남스타일'의 글로벌 성공이 오히려 자신을 괴롭혔다고 털어놨다. 한동안 추가 히트곡을 내야]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이달소 츄, 갑질과 폭언으로 퇴출?..스태프 "그래봤자 지우는 잘될 것" [스타이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003107752</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000851535"/>
         <updated>2022-11-25T12:37:03.854Z</updated>
         <content type="html"><![CDATA[아이돌그룹 트렌드지(TRENDZ)가 ‘VAGABOND’ 무대로 끝없는 성장을 이뤄냈다. 트렌드지(하빛‧리온‧윤우‧한국‧라엘‧은일‧예찬)는 25일 오후]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유다빈밴드, 콘서트 ‘우리의 밤’ 개최···25일 티켓 오픈]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000851532</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000851532"/>
-        <updated>2022-11-25T11:14:36.960Z</updated>
-        <content type="html"><![CDATA[인디밴드 ‘유다빈밴드’가 특별한 콘서트로 팬들을 만난다. 유다빈밴드가 오는 12월 9일부터 11일까지 3일간 이어질 콘서트 ‘우리의 밤’을 서울 마포구 창전동에 위치한 엠피엠지 빌딩 2층 라운지엠(LOUNGE M.)]]></content>
     </entry>
 </feed>
