@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-11-26T15:18:27.301Z</updated>
+    <updated>2022-11-26T19:14:25.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['페임'·'플래시댄스'의 가수 겸 배우 아이린 카라 별세]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013603885</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013603885"/>
+        <updated>2022-11-26T19:14:25.154Z</updated>
+        <content type="html"><![CDATA[강건택 특파원 = 영화 '페임'과 '플래시댄스'의 주제가로 유명한 미국의 가수 겸 배우 아이린 카라가 25일(현지시간) 플로리다주 자택에서 별세했다고 AP·AFP통신이 26일 전했다. 향년 63세. 홍보 담당자인 주]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이브 ‘베스트 여자그룹상 수상’ [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000909112</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000909078"/>
         <updated>2022-11-26T11:17:31.544Z</updated>
         <content type="html"><![CDATA[‘멜론뮤직어워드’(MMA2022) 레드카펫 행사가 26일 오후 서울 구로구 고척스카이돔에서 열렸다. 아이브 레이가 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이브 가을 ‘솔직 하트’ [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000909077</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000909077"/>
-        <updated>2022-11-26T11:17:31.544Z</updated>
-        <content type="html"><![CDATA[‘멜론뮤직어워드’(MMA2022) 레드카펫 행사가 26일 오후 서울 구로구 고척스카이돔에서 열렸다. 아이브 가을이 포토타임을 갖고 있다.]]></content>
     </entry>
 </feed>
