@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-11-27T19:13:52.593Z</updated>
+    <updated>2022-11-27T20:15:32.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영겁이거나 영화롭거나…'72세' 조용필·최백호의 '찰나'들]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011560455</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011560455"/>
+        <updated>2022-11-27T20:15:14.711Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 '가왕'·'낭만가객'이라 불리는 1950년생 동갑내기 최근 나란히 신곡 '찰나' 발매 대형 톱가수·늦깎이 가수, 행보·장르는 달라 칠순 넘은 나이에도 앞을 내다보며 도전·실험정신 공통점 [서울=뉴시스]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[걸그룹 이젠 이모팬이 키운다, 여덕의 진화]]></title>
         <id>https://entertain.naver.com/now/read?oid=025&amp;aid=0003241623</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=438&amp;aid=0000051695"/>
         <updated>2022-11-27T07:14:10.701Z</updated>
         <content type="html"><![CDATA[르세라핌(LE SSERAFIM)이 ‘MMA 2022’ 2관왕을 거머쥐었다. 르세라핌(김채원, 사쿠라, 허윤진, 카즈하, 홍은채)은 26일(토) 서울 고척 스카이돔에서 개최된 ‘MMA2022 Presented by 카]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ATBO, 첫 음악 시상식 등장부터 ‘파격’]]></title>
-        <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003242993</id>
-        <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003242993"/>
-        <updated>2022-11-27T07:14:10.702Z</updated>
-        <content type="html"><![CDATA[그룹 ATBO(에이티비오)가 ‘블록버스터’급 무대로 첫 음악 시상식부터 ‘급이 다른’ 등장을 펼쳐 화제다. ATBO는 지난 26일 고척 스카이돔에서 개최된 ‘멜론뮤직어워드2022’에서 대표 활동 곡인 ‘애티튜드’(A]]></content>
     </entry>
 </feed>
