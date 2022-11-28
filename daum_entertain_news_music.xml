@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-11-28T19:13:13.820Z</updated>
+    <updated>2022-11-28T20:25:22.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['마마 어워즈' 오늘부터 이틀간 개최…카라 컴백·제이홉 솔로무대 '최초공개']]></title>
+        <id>https://v.daum.net/v/20221129050007329</id>
+        <link href="https://v.daum.net/v/20221129050007329"/>
+        <updated>2022-11-28T20:24:42.900Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 박윤진 기자] CJ ENM 음악 시상식 '2022 마마 어워즈(MAMA AWARDS)'가 29~30일 이틀에 걸쳐 일본 교세라 돔 오사카에서 개최된다. 공식 행사명을 '마마 어워즈'로 탈바꿈한 이번 시상식은 코로나19 팬데믹 이후 3년 만에 해외에서 열린다. 올해 콘셉트는 '케이팝 세계시민의식(KPOP WORLD CITIZENSHIP)']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TRADE L, 12월 1일 신곡 ‘덮어 ’ 발표]]></title>
         <id>https://v.daum.net/v/20221128220941318</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221128172151568"/>
         <updated>2022-11-28T09:17:16.887Z</updated>
         <content type="html"><![CDATA[[동아닷컴]  블록베리 “이달의 소녀 9명 계약 해지 소송? 사실무근” [공식입장] 그룹 이달의 소녀에서 퇴출된 츄가 소속사 블록베리크리에이티브와 갈등 중인 가운데 나머지 멤버들도 소속사를 상대로 줄줄이 소송 중이라는 보도가 나왔다. 28일 JTBC는 “이달의 소녀 비비·현진을 제외한 9명(희진·하슬·여진·김립·진솔·최리·이브·고원·올리비아 헤)이 최근]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 키치해진 레드벨벳 ‘Birthday’…선주문 71만장]]></title>
-        <id>https://v.daum.net/v/20221128164807476</id>
-        <link href="https://v.daum.net/v/20221128164807476"/>
-        <updated>2022-11-28T08:20:29.790Z</updated>
-        <content type="html"><![CDATA[걸그룹 레드벨벳이 28일 새 미니앨범 ‘더 리브 페스티벌 2022 - 버스데이’(The ReVe Festival 2022 - Birthday)를 발표한다. 지난 3월 낸 미니앨범 ‘필 마이 리듬’(Feel My Rhythm) 이후 8개월 만의 신보다. 레드벨벳은 이날 오후 온라인 기자간담회를 갖고 "우리 멤버들의 마음마저 훔친 곡"이라며 신곡들을 소개했다]]></content>
     </entry>
 </feed>
