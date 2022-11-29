@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-11-29T02:58:30.702Z</updated>
+    <updated>2022-11-29T03:30:27.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[할리웃POP]비욘세, 80kg에서 다이어트 대성공..구릿빛 각선미]]></title>
+        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003601779</id>
+        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003601779"/>
+        <updated>2022-11-29T03:30:26.620Z</updated>
+        <content type="html"><![CDATA[비욘세가 남편 제이 지와 데이트를 했다. 29일(한국시간) 미국 연예매체 스플래쉬닷컴은 팝스타 비욘세와 그의 남편 제이 지의 근황을 담은 사진을 공개했다. 보도에 따르면 두 사람은 이날 미국 캘리포니아주 LA에 있는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“영국서 남성 성범죄 7건 추가 기소” 케빈 스페이시, 스릴러 영화 캐스팅 “뛰어난 배우”[해외이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003672892</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000909314"/>
         <updated>2022-11-28T08:21:07.479Z</updated>
         <content type="html"><![CDATA[영화 ‘압꾸정’ 언론시사회가 28일 오후 서울 롯데시네마 건대입구에서 열렸다. 배우 오나라가 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정경호 ‘멋진 손인사’ [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000909313</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000909313"/>
-        <updated>2022-11-28T08:21:07.479Z</updated>
-        <content type="html"><![CDATA[영화 ‘압꾸정’ 언론시사회가 28일 오후 서울 롯데시네마 건대입구에서 열렸다. 배우 정경호가 포토타임을 갖고 있다.]]></content>
     </entry>
 </feed>
