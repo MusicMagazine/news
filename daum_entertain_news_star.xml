@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-11-30T16:24:28.985Z</updated>
+    <updated>2022-11-30T18:21:11.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['골때녀' 한포 연합팀 대결…FC박지성, FC피구에 '6대 3' 대승]]></title>
+        <id>https://v.daum.net/v/20221201022402357</id>
+        <link href="https://v.daum.net/v/20221201022402357"/>
+        <updated>2022-11-30T18:20:39.845Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 박지성이 루이스 피구를 또 한 번 꺾었다. 30일 방송된 SBS '골 때리는 그녀들'(이하 '골때녀')에서는 박지성과 루이스 피구가 감독으로서 대결을 펼쳤다. 이날 두 사람은 한국과 포르투갈 한포 연합팀을 만들어 대결했다. FC박지성은 박선영과 서기를 포함한 연합팀을 이끌고 루이스 피구는 에바, 아유미, 김승혜를 포함한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['골때녀' 루이스 피구-박지성, "서기가 원픽…그녀는 메시니까"]]></title>
         <id>https://v.daum.net/v/20221201003603714</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221130233922202"/>
         <updated>2022-11-30T16:23:58.449Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이태수 기자 = 그룹 방탄소년단(BTS)이 엠넷 주최 연말 음악 시상식 '2022 마마 어워즈'(MAMA AWARDS)에서 올해 신설된 '대상 위의 대상' 격인 '마마 플래티넘'(MAMA PLATINUM)을 최초로 수상했다. '마마 플래티넘'은 한 해에 4개 부문 대상을 모두 석권한 경력이 있는 가수에게 주어지는 상이다. 방탄소년단은 지난]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['골때녀' 하석주, "후배들이 자랑스러워"…대표팀 패배에도 '끝까지 응원']]></title>
-        <id>https://v.daum.net/v/20221130233901200</id>
-        <link href="https://v.daum.net/v/20221130233901200"/>
-        <updated>2022-11-30T16:23:58.450Z</updated>
-        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 하석주 감독이 후배들을 응원했다. 30일 방송된 SBS '골 때리는 그녀들'(이하 '골때녀')에서는 카타르 월드컵을 방구석에서 응원하는 골때녀의 모습이 그려졌다. 이날 방송에서 골때녀 멤버들은 하버지와 하석주와 함께 카타르 월드컵 방구석 응원전을 펼쳤다. 현역 때보다 훨씬 긴장한 하석주는 후배들을 진심으로 응원했다. 그러]]></content>
     </entry>
 </feed>
