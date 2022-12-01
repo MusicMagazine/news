@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 05:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 06:20:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["유혹의 레드" 뮤지컬 '물랑 루즈!'...   ‘레디 투 루즈(Ready to Rouge) 포스터’ 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=239639</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=239639</guid>
+            <pubDate>Thu, 01 Dec 2022 06:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=239639">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221201063003_9235c57fa2df1e7fd2c6b5cb5169e7c9.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=239639">"유혹의 레드" 뮤지컬 '물랑 루즈!'...   ‘레디 투 루즈(Ready to Rouge) 포스터’ 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221201063003_9235c57fa2df1e7fd2c6b5cb5169e7c9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 '물랑 루즈' 크리에이티브, "원작영화보다 풍성한 음악, 원작만큼의 화려함, 그리고 한국만의 열정"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=239512</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=238562">[공연評] 태양의 서커스: 뉴 알레그리아 “피 땀 눈물로 완성된 퍼포먼스”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221121163342_5ea4b648d73c89b89f27bebec33a3faf_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윌라,  이문열의 '삼국지'에서 '사람의 아들'까지 오디오북으로 듣는다]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=238530</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=238530</guid>
-            <pubDate>Mon, 21 Nov 2022 13:43:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=238530">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221121141409_718bd9ce4739b7fc125def56b99faf8b_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=238530">윌라,  이문열의 '삼국지'에서 '사람의 아들'까지 오디오북으로 듣는다</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221121141409_718bd9ce4739b7fc125def56b99faf8b_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
