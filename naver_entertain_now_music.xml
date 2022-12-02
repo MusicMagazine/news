@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-12-02T18:18:21.566Z</updated>
+    <updated>2022-12-02T19:13:19.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["16강은 행복 회로"라던 딘딘, 2번째 사과 "진심으로 죄송합니다. 감사합니다"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000905710</id>
+        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000905710"/>
+        <updated>2022-12-02T19:13:03.487Z</updated>
+        <content type="html"><![CDATA[가수 딘딘. 출처 | 스포츠서울DB, 딘딘 채널 가수 딘딘이 대한민국 축구 대표팀의 16강 진출 확정에 다시 한번 사과했다. 딘딘은 3일 새벽 2022 피파 카타르 월드컵 H조 조별예선 3차전에서 대한민국 축구팀이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[60초 TMA] NCT DREAM 제노 “요 드림 쩔어주자 파이팅!” (영상)]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000188162</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001531426"/>
         <updated>2022-12-02T11:11:39.363Z</updated>
         <content type="html"><![CDATA[2일 오후 서울 청담동 일지아트홀에서 가수 홍진영 데뷔 15주년 기념 미니앨범 'Color Mood(컬러 무드)' 발매 쇼케이스가 열렸다. 이날 쇼케이스에 참석한 홍진영이 취재진의 질문에 답하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['데뷔 15주년' 홍진영 컴백 쇼케이스, '니가 있었다' 무대 직캠[엑's 영상]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001531425</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001531425"/>
-        <updated>2022-12-02T11:11:39.364Z</updated>
-        <content type="html"><![CDATA[2일 오후 서울 청담동 일지아트홀에서 가수 홍진영 데뷔 15주년 기념 미니앨범 'Color Mood(컬러 무드)' 발매 쇼케이스가 열렸다. 이날 쇼케이스에 참석한 홍진영이 수록곡 '니가 있었다' 무대를 선보이고 있다]]></content>
     </entry>
 </feed>
