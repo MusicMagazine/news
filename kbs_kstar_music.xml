@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Dec 2022 04:23:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 05:13:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['블랙핑크' 유럽투어, 영국 THE O2에서 스타트]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=239792</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=239792</guid>
+            <pubDate>Sat, 03 Dec 2022 05:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=239792">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221202231152_d1b52d6b292e020ebb887cc5bd377e01.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=239792">'블랙핑크' 유럽투어, 영국 THE O2에서 스타트</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221202231152_d1b52d6b292e020ebb887cc5bd377e01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, 美 빌보드 2022년 연말 결산 차트 장식]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=239717</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=237660">김세정, 일본에서 '아시아 팬미팅 피날레’</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221116082439_52281a59db1312b16e784e5c9355217e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 3년 연속 그래미어워드 노미네이트]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=237634</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=237634</guid>
-            <pubDate>Tue, 15 Nov 2022 23:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=237634">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221116075207_b448c1382f9407f4621e00e59b07ccb4_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=237634">방탄소년단, 3년 연속 그래미어워드 노미네이트</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221116075207_b448c1382f9407f4621e00e59b07ccb4_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
