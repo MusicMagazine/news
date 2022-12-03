@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-12-03T08:23:06.876Z</updated>
+    <updated>2022-12-03T09:14:42.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['홍자매' 홍지윤·홍주현, 신곡 'Snowly' 발매..첫 듀엣으로 연말 달군다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004751996</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004751996"/>
+        <updated>2022-12-03T09:14:26.411Z</updated>
+        <content type="html"><![CDATA[‘홍자매’ 가수 홍지윤과 홍주현이 첫 듀엣곡 'Snowly'를 발매하며 연말을 포근하게 장식한다. 오늘(3일) 오후 6시 홍지윤과 홍주현은 크리스마스를 따뜻하게 만들어줄 신곡 'Snowly'를 발표하며 리스너들에게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이브, 데뷔 1년을 돌아보다]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000853002</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001236710"/>
         <updated>2022-12-03T06:25:27.441Z</updated>
         <content type="html"><![CDATA[가수 헤이즈(Heize)가 첫 단독 콘서트 '헤이즈 시티'를 개최한다. 헤이즈는 3일 서울 서대문구 이화여자대학교 삼성홀에서 첫 번째 단독 콘서트 '헤이즈 시티(Heize 1st Concert 'Heize City']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[릴리릴리, 신곡 'SUNSHINE' 3일 발매..듀오 아이돌의 귀환]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003110023</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003110023"/>
-        <updated>2022-12-03T06:25:27.441Z</updated>
-        <content type="html"><![CDATA[실력파 여성 듀오 릴리 릴리(lilli lilli)가 신곡을 발매한다. 릴리릴리의 신곡 'SUNSHINE'은 멤버들의 매력적인 보이스와 따뜻한 감성이 돋보이는 발라드 곡으로 날씨처럼 변덕스럽고 답답하게만 느껴지는 세]]></content>
     </entry>
 </feed>
