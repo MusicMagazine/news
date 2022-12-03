@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-12-03T20:22:48.229Z</updated>
+    <updated>2022-12-03T21:14:05.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연말 컴백 기피 옛말…RM·신화 유닛→슈퍼주니어, 12월 가요대전 예고]]></title>
+        <id>https://v.daum.net/v/20221204060025866</id>
+        <link href="https://v.daum.net/v/20221204060025866"/>
+        <updated>2022-12-03T21:13:29.390Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 김민지 기자 = 올해는 12월에도 대형 가수들이 앞다퉈 컴백, 가요계의 열기가 연말까지 뜨거울 전망이다. 12월의 첫날에는 다채로운 장르의 가수들이 한꺼번에 앨범을 냈다. 밴드 자우림은 데뷔 25년 만에 첫 크리스마스 시즌 스페셜 앨범 '메리 스푸키 크리스마스'(MERRY SPOOKY X-MAS)를 발매했다. 앨범에는 크리스마스를 연상시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단 진 오늘 생일…아이돌픽 이벤트 주인공]]></title>
         <id>https://v.daum.net/v/20221204000015336</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221203135013066"/>
         <updated>2022-12-03T05:13:06.870Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) ([엑's 인터뷰②]에 이어) 팀에 위기가 찾아올 수록 더욱 단단해질 수 있는 비결, 그것은 바로 NTX(엔티엑스)로 꿈을 이루겠다는 이들의 간절하고 분명한 목표가 있기 때문이다.&nbsp; 무려 1년 8개월이라는 공백기를 끝내고 다시 가요계 돌아온 NTX(형진, 윤혁, 재민, 창훈, 호준, 로현, 은호, 승원, 지성)가 놀라운 성장을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NTX "아이돌 시장 미래 불확실, 차별화된 음악 필요"]]></title>
-        <id>https://v.daum.net/v/20221203135008065</id>
-        <link href="https://v.daum.net/v/20221203135008065"/>
-        <updated>2022-12-03T05:13:06.872Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) ([엑's 인터뷰①]에 이어) 1990년대를 주름잡던 전설의 아이돌 보이그룹을 다시 만난 듯 하다. 그룹 NTX(엔티엑스)가 내세우는 힙합의 '멋', 자유분방하고 개성 강한 이들의 존재감이 강렬하다.&nbsp; 시공간을 초월하는 세계관과 획일화된 비주얼, 콘셉트, 착장 등 흔히 우리가 생각하는 요즘 아이돌의 틀을 깼다. 레트로한 감성과]]></content>
     </entry>
 </feed>
