@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-12-03T09:14:42.494Z</updated>
+    <updated>2022-12-03T10:25:53.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS RM '들꽃놀이', 87개국 아이튠즈 '톱 송' 정상]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013621320</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013621320"/>
+        <updated>2022-12-03T10:25:34.007Z</updated>
+        <content type="html"><![CDATA[멜론 '톱 100' 차트도 상위권 진입 그룹 방탄소년단(BTS) 리더 RM이 2일 발표한 첫 솔로 음반 '인디고'(Indigo) 타이틀곡 '들꽃놀이'가 전 세계 87개국 아이튠즈 '톱 송' 차트 1위에 올랐다고 소속]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['홍자매' 홍지윤·홍주현, 신곡 'Snowly' 발매..첫 듀엣으로 연말 달군다]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004751996</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000910236"/>
         <updated>2022-12-03T06:25:27.441Z</updated>
         <content type="html"><![CDATA[트로트 가수 박군이 신곡을 발표한다. 3일 오후 6시 각종 온라인 음원사이트를 통해 발매되는 박군의 신곡 ‘아침밥상’은 흥겨운 멜로디와 박군의 파워풀하면서도 애절한 가창력이 더해진 트로트 곡이다. 바쁘고 힘들게 살아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헤이즈, 오늘(3일) 첫 단독 콘서트 개최…"깜짝 게스트 준비"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001236710</id>
-        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001236710"/>
-        <updated>2022-12-03T06:25:27.441Z</updated>
-        <content type="html"><![CDATA[가수 헤이즈(Heize)가 첫 단독 콘서트 '헤이즈 시티'를 개최한다. 헤이즈는 3일 서울 서대문구 이화여자대학교 삼성홀에서 첫 번째 단독 콘서트 '헤이즈 시티(Heize 1st Concert 'Heize City']]></content>
     </entry>
 </feed>
