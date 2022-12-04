@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-12-04T02:52:48.808Z</updated>
+    <updated>2022-12-04T03:23:08.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유머를 아는 정우성 "그래서, 원하시는 대답이 뭐예요?"]]></title>
+        <id>https://v.daum.net/v/20221204121003090</id>
+        <link href="https://v.daum.net/v/20221204121003090"/>
+        <updated>2022-12-04T03:22:41.962Z</updated>
+        <content type="html"><![CDATA[[낡은 노트북]에서는 그 동안 인터뷰 현장에서 만났던 배우들과의 대화 중 기사에 더 자세히 담지 못해 아쉬웠던, 하지만 기억 속에 쭉 남아있던 한 마디를 노트북 속 메모장에서 다시 꺼내 되짚어봅니다. [편집자주] (엑스포츠뉴스 김유진 기자) "(캐릭터와 실제 나이가 비슷한데, 영화 내용처럼 집에서 결혼 얘기를 계속 듣지 않는지 묻자) 결혼한 사람이 이런 질]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박명수 “40살에 고지혈증 진단‥유산소 운동 중요해”]]></title>
         <id>https://v.daum.net/v/20221204115029740</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221204101024366"/>
         <updated>2022-12-04T02:52:19.837Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] 음원과 음반 점수가 0점인데 1위를 차지하면서 ‘뮤직뱅크’의 1위 선정 기준이 다시 도마 위에 올랐다. ‘음반뱅크’에 이어 ‘방점뱅크’라는 오명과 함께 공신력도 잃은 분위기. 지난 2일 방송된 KBS2 ‘뮤직뱅크’의 12월 첫째주 1위 후보에는 윤하의 ‘시간의 지평선’과 걸그룹 첫사랑의 ‘러브티콘’이 1위 후보에 올랐다. 윤하의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['슈룹' 강찬희, 친부 김재범 죽였다…흑막은 김해숙]]></title>
-        <id>https://v.daum.net/v/20221204100140235</id>
-        <link href="https://v.daum.net/v/20221204100140235"/>
-        <updated>2022-12-04T02:52:19.838Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=김현록 기자]궁중 암투의 흑막 김해숙의 손에 놀아난 강찬희가 아버지 김재범을 살해했다. 3일 방송된 tvN 토일드라마 ‘슈룹’(극본 박바라, 연출 김형식, 기획 스튜디오드래곤, 제작 하우픽쳐스)에서는 중전 화령(김혜수), 국왕 이호(최원영), 대비(김해숙)가 각자 역모자 이익현(김재범)을 추격하던 가운데 대비의 술수로 이익현이 아들 의성]]></content>
     </entry>
 </feed>
