@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-12-07T10:22:58.911Z</updated>
+    <updated>2022-12-07T11:18:34.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘쇼챔피언’ 템페스트, 강렬한 에너지 ‘Dragon’]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000910936</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000910936"/>
+        <updated>2022-12-07T11:18:17.691Z</updated>
+        <content type="html"><![CDATA[그룹 템페스트(TEMPEST)가 강렬한 에너지를 전했다. 템페스트는 7일 방송된 MBC M ‘쇼! 챔피언’(이하 ‘쇼챔’)에 출연해 미니 3집 ‘ON and ON(온앤온)’ 타이틀곡 ‘Dragon(飛上)(드래곤)’]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이수호, '모니카 리믹스' 발매…바밍타이거 프로듀서 겸 비디오디렉터]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011581006</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=416&amp;aid=0000290196"/>
         <updated>2022-12-07T10:22:42.106Z</updated>
         <content type="html"><![CDATA[국내 최장수 아이돌 그룹 신화의 첫 유닛 신화 WDJ(이민우, 김동완 전진)가 스포티파이(Spotify)의 선택을 받아 글로벌 팬심을 훔치고 있다. 소속사 라이브웍스컴퍼니 측은 지난 6일 신화 WDJ 첫 번째 미니앨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백' 정승환, '겨울이 좋아졌어' 하이라이트 메들리 공개..감성 윈터송]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004753993</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004753993"/>
-        <updated>2022-12-07T10:22:42.110Z</updated>
-        <content type="html"><![CDATA[가수 정승환의 새 싱글 ‘겨울이 좋아졌어’ 하이라이트 메들리 영상이 공개됐다. 소속사 안테나는 공식 SNS를 통해 정승환의 윈터 싱글 ‘겨울이 좋아졌어’ 하이라이트 메들리 영상을 공개했다. 공개된 영상에는 타이틀곡]]></content>
     </entry>
 </feed>
