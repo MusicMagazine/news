@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-12-08T02:34:48.826Z</updated>
+    <updated>2022-12-08T03:18:35.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘15주년’ 완전체 카라, 한국 넘어 일본으로]]></title>
+        <id>https://v.daum.net/v/20221208120012695</id>
+        <link href="https://v.daum.net/v/20221208120012695"/>
+        <updated>2022-12-08T03:17:58.232Z</updated>
+        <content type="html"><![CDATA[그룹 카라(박규리, 한승연, 니콜, 강지영, 허영지)가 뜻깊은 15주년을 보내고 있다. 2007년 데뷔한 카라는 지난달 29일 데뷔 15주년 기념 앨범 ‘무브 어게인(MOVE AGAIN)’을 발매했다. ‘무브 어게인’은 앨범명 그대로 찬란했던 무대 위 카라의 모습을 다시 한번 팬들에게 보여 주겠다는 멤버들의 의지와 포부가 담겼다. 박규리, 한승연, 니콜,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단 진, 아미 배려 '조용한 입대' 선택..마음도 '남신']]></title>
         <id>https://v.daum.net/v/20221208112605144</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221208092726951"/>
         <updated>2022-12-08T01:03:34.761Z</updated>
         <content type="html"><![CDATA[라필루스 베시(사진=MLD엔터테인먼트)[이데일리 스타in 윤기백 기자] 그룹 라필루스 베시가 건강 문제로 잠시 휴식을 취한다. 소속사 MLD엔터테인먼트는 8일 “라필루스 멤버 베시는 최근 건강상태가 좋지 않아 당분간 충분한 휴식과 안정을 취하는 것이 좋을 것 같다는 전문의의 처방을 받았다”며 “현재는 무리하지 않는 선에서 일상생활이 가능한 상태로 회복하고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ITZY, 초동 판매량 63만 장 돌파…또 ‘커리어 하이’]]></title>
-        <id>https://v.daum.net/v/20221208091026430</id>
-        <link href="https://v.daum.net/v/20221208091026430"/>
-        <updated>2022-12-08T01:03:34.761Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 ITZY(있지)가 앨범 초동 판매량(첫 주 판매량) 자체 최고 기록을 재차 경신했다. ITZY가 11월 30일 발매한 미니 앨범 'CHESHIRE'(체셔)는 음반 집계 사이트 한터차트 기준 초동(발매일 기준 일주일 동안의 음반 판매량) 63만 3,248장을 기록했다. 이는 지난 7월 발매한 미니 5집 'CHECKMATE'(체]]></content>
     </entry>
 </feed>
