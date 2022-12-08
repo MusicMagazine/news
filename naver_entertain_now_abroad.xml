@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-12-08T19:19:24.852Z</updated>
+    <updated>2022-12-08T21:15:41.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[셀린 디온, 희귀 신경질환으로 노래 힘들어…모든 공연 중단]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011583372</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011583372"/>
+        <updated>2022-12-08T21:15:40.505Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 근육 경직과 경련으로 성대 사용 노래하기 어려워 "공연 위해 모든 노력 다 하는데 현 상태로는 불가능" [서울=뉴시스]유세진 기자 = 휘트니 휴스턴, 머라이어 캐리와 함께 세계 3대 디바로 꼽히는 세계]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[셀린 디온 “온몸이 경직되는 질병 앓아, 걷기도 힘들어 공연 취소” 눈물의 고백[해외이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003676215</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000911125"/>
         <updated>2022-12-08T12:26:56.445Z</updated>
         <content type="html"><![CDATA[윤제균 감독이 8일 오후 서울 용산구 CGV용산아이파크몰에서 진행된 영화 ‘영웅’(감독 윤제균)언론시사회에 참석해 포즈를 취하고 있다. 영화 ‘영웅’은 1909년 10월, 하얼빈에서 이토 히로부미를 사살한 뒤 일본]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배정남 ‘유쾌한 입담’ [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000911123</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000911123"/>
-        <updated>2022-12-08T12:26:56.447Z</updated>
-        <content type="html"><![CDATA[배우 배정남이 8일 오후 서울 용산구 CGV용산아이파크몰에서 진행된 영화 ‘영웅’(감독 윤제균)언론시사회에 참석해 포즈를 취하고 있다. 영화 ‘영웅’은 1909년 10월, 하얼빈에서 이토 히로부미를 사살한 뒤 일본]]></content>
     </entry>
 </feed>
