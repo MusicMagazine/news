@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-12-08T18:17:41.555Z</updated>
+    <updated>2022-12-08T19:19:24.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김종서 “오랜만에 공연, 음악이 더 재밌어졌어요”]]></title>
+        <id>https://v.daum.net/v/20221209040204591</id>
+        <link href="https://v.daum.net/v/20221209040204591"/>
+        <updated>2022-12-08T19:18:49.044Z</updated>
+        <content type="html"><![CDATA[가수 김종서가 단독 콘서트로 돌아온다. 공연 제목은 ‘비-컷(B-Cut)’. 오는 9~10일 양일간 서울 신사동 윤당아트홀에서 직접 찍은 사진전과 콘서트를 함께 연다. 김종서는 지난 1995년 서울 세종문화회관에서 단독 콘서트를 연 최초의 록 가수다. 수많은 공연 경험이 있지만, 사진전과 공연을 함께 여는 건 처음이다. 가수 김장훈이 공연 연출도 맡았다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔하이픈 니키 오늘 생일…아이돌픽 이벤트 주인공]]></title>
         <id>https://v.daum.net/v/20221209000024690</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221208140304662"/>
         <updated>2022-12-08T05:18:44.072Z</updated>
         <content type="html"><![CDATA[[OSEN=선미경 기자]&nbsp; 그룹 NCT DREAM(엔시티 드림,&nbsp;에스엠엔터테인먼트 소속)이 겨울 앨범 수록곡 ‘발자국&nbsp;(Walk With You)’으로 설렘을 자극한다. NCT DREAM&nbsp;겨울 스페셜 미니앨범 ‘Candy’(캔디)는 동명의 타이틀 곡 ‘Candy’를 비롯한 총&nbsp;6곡이 수록되며, NCT DREAM의 겨울 감성을 만날 수 있어 전 세계 팬들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세븐틴·임영웅·아이브→이준호·한소희, '2022 AAA' 참석]]></title>
-        <id>https://v.daum.net/v/20221208140022549</id>
-        <link href="https://v.daum.net/v/20221208140022549"/>
-        <updated>2022-12-08T05:18:44.074Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 전 세계 팬들이 사랑하는 초호화 스타들이 ‘2022 Asia Artist Awards’에 모인다. 오는 13일 개최되는 ‘2022 Asia Artist Awards IN JAPAN’(2022 아시아 아티스트 어워즈, 이하 ‘2022 AAA’)에는 올 한 해 동안 국내외에서 많은 사랑을 받은 가수, 배우들이 참석한다. 가장 먼저 국]]></content>
     </entry>
 </feed>
