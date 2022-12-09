@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-12-09T21:23:45.060Z</updated>
+    <updated>2022-12-09T22:23:35.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['파친코'. 미국영화연구소 '올해 10대 TV 프로그램' 선정]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013634526</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013634526"/>
+        <updated>2022-12-09T22:23:34.602Z</updated>
+        <content type="html"><![CDATA[올해의 10대 영화에는 '아바타2'와 '탑건2' 정윤섭 특파원 = 미국 스트리밍 플랫폼 애플TV+가 제작한 한국 오리지널 드라마 '파친코'가 미국영화연구소(AFI)의 '올해의 10대 TV 프로그램'에 선정됐다. AF]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['동생 잃은' 닉 카터, 10대 자폐 소녀 성폭행 혐의 파장.."방송 취소"[Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004755555</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000911384"/>
         <updated>2022-12-09T09:19:40.194Z</updated>
         <content type="html"><![CDATA[‘제58회 대종상 영화제’가 9일 오후 서울 광진구 건국대학교 새천년홀에서 개최됐다. 오나라가 레드카펫을 밟고 있다. 화양동(서울)=김영구 MK스포츠 기자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김혜윤 ‘청순 미소’ [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000911381</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000911381"/>
-        <updated>2022-12-09T09:19:40.196Z</updated>
-        <content type="html"><![CDATA[‘제58회 대종상 영화제’가 9일 오후 서울 광진구 건국대학교 새천년홀에서 개최됐다. 김혜윤이 레드카펫을 밟고 있다. 화양동(서울)=김영구 MK스포츠 기자]]></content>
     </entry>
 </feed>
