@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-12-09T09:19:40.719Z</updated>
+    <updated>2022-12-09T10:16:52.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김혜윤 ‘하트가 반짝 반짝’ [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000911428</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000911428"/>
+        <updated>2022-12-09T10:16:51.855Z</updated>
+        <content type="html"><![CDATA[‘제58회 대종상 영화제’가 9일 오후 서울 광진구 건국대학교 새천년홀에서 개최됐다. 김혜윤이 레드카펫을 밟고 있다. 화양동(서울)=김영구 MK스포츠 기자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조윤서 ‘순백의 아름다움’ [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000911426</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000911371</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000911371"/>
         <updated>2022-12-09T09:19:40.203Z</updated>
-        <content type="html"><![CDATA[‘제58회 대종상 영화제’가 9일 오후 서울 광진구 건국대학교 새천년홀에서 개최됐다. 옹성우가 레드카펫을 밟고 있다. 화양동(서울)=김영구 MK스포츠 기자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[옹성우 ‘여심 녹이는 하트’ [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000911369</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000911369"/>
-        <updated>2022-12-09T09:19:40.204Z</updated>
         <content type="html"><![CDATA[‘제58회 대종상 영화제’가 9일 오후 서울 광진구 건국대학교 새천년홀에서 개최됐다. 옹성우가 레드카펫을 밟고 있다. 화양동(서울)=김영구 MK스포츠 기자]]></content>
     </entry>
 </feed>
