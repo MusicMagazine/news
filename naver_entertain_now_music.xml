@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-12-09T12:29:10.318Z</updated>
+    <updated>2022-12-09T13:22:14.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NCT 쟈니, 재현, 정우 광고 촬영 중 구조물 무너져 부상]]></title>
+        <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0002076481</id>
+        <link href="https://entertain.naver.com/now/read?oid=016&amp;aid=0002076481"/>
+        <updated>2022-12-09T13:21:55.661Z</updated>
+        <content type="html"><![CDATA[그룹 NCT의 멤버 쟈니, 재현, 정우가 광고 촬영 중 사고를 당했다. 9일 소속사 SM엔터테인먼트에 따르면 이날 쟈니, 재현, 정우가 광고 촬영 중 정글짐 세트 구조물이 무너지면서 부상을 입었다. 소속사 측은 “부]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘MZ세대 대표 주자’ 위클리, ‘야오키 프로젝트’ 첫 음원 공개]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000854318</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003111734"/>
         <updated>2022-12-09T09:19:24.172Z</updated>
         <content type="html"><![CDATA[그룹 트렌드지(TRENDZ·하빛, 리온, 윤우, 한국, 라엘, 은일, 예찬)가 존재감을 각인시켰다. 트렌드지는 지난달 12일 첫 번째 싱글 앨범 'BLUE SET Chapter. UNKNOWN CODE'를 발매하며]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브랜뉴뮤직, 연말 패밀리 싱글 '브랜뉴 비전' 17일 발매]]></title>
-        <id>https://entertain.naver.com/now/read?oid=408&amp;aid=0000174767</id>
-        <link href="https://entertain.naver.com/now/read?oid=408&amp;aid=0000174767"/>
-        <updated>2022-12-09T09:19:24.173Z</updated>
-        <content type="html"><![CDATA[브랜뉴뮤직이 연말 패밀리 싱글 브랜뉴이어 2022 ‘BRANDNEW V1S1ON(브랜뉴 비전)’을 발매한다. 8일 오후 브랜뉴뮤직은 공식 SNS 채널들을 통해 이번 브랜뉴이어 2022 싱글의 커버 이미지를 공개했다.]]></content>
     </entry>
 </feed>
