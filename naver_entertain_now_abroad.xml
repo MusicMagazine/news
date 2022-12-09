@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-12-09T22:23:35.313Z</updated>
+    <updated>2022-12-09T23:15:37.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[47살 케이트 윈슬렛, “40대 여성은 섹시함과 아름다움 포용해야”[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003676642</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003676642"/>
+        <updated>2022-12-09T23:15:37.047Z</updated>
+        <content type="html"><![CDATA[영화 ‘타이타닉’의 케이트 윈슬렛(47)이 40대 여성들에게 자신감을 가지라고 조언했다. 그는 8일(현지시간) BBC의 ‘우먼즈 아워(Women's Hour) 팟캐스트에 출연해 40대가 인생에서 얼마나 중요한지 강조]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['파친코'. 미국영화연구소 '올해 10대 TV 프로그램' 선정]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013634526</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000911385"/>
         <updated>2022-12-09T09:19:40.193Z</updated>
         <content type="html"><![CDATA[‘제58회 대종상 영화제’가 9일 오후 서울 광진구 건국대학교 새천년홀에서 개최됐다. 김혜윤이 레드카펫을 밟고 있다. 화양동(서울)=김영구 MK스포츠 기자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오나라 ‘우아한 순백 드레스 자태’ [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000911384</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000911384"/>
-        <updated>2022-12-09T09:19:40.194Z</updated>
-        <content type="html"><![CDATA[‘제58회 대종상 영화제’가 9일 오후 서울 광진구 건국대학교 새천년홀에서 개최됐다. 오나라가 레드카펫을 밟고 있다. 화양동(서울)=김영구 MK스포츠 기자]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-12-09T22:23:35.304Z</updated>
+    <updated>2022-12-09T23:15:37.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단 RM의 각성, 사람이 먼저 돼야 한다]]></title>
+        <id>https://v.daum.net/v/20221210080048725</id>
+        <link href="https://v.daum.net/v/20221210080048725"/>
+        <updated>2022-12-09T23:15:03.612Z</updated>
+        <content type="html"><![CDATA[[서울경제] 한 주에 수백 개씩 쏟아지는 신곡. 그중에서도 놓치면 정말 아쉬운 노래가 있죠. 추승현 기자가 컴백 가수들의 앨범을 직접 듣고 분석해서 소개합니다. 이주의 가요, 추천 들어갑니다!    그룹 방탄소년단 RM보다 인간 김남준의 색깔이 짙다. 이렇게 솔직해도 되나 싶을 정도로 깊은 소회와 다짐이 다 담겼다. 자연스러운 모습으로 다가온 그의 이야]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NCT 127 쟈니·재현·정우·태일, 광고 촬영 중 부상 “병원 정밀검사”]]></title>
         <id>https://v.daum.net/v/20221210070925360</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221209200246630"/>
         <updated>2022-12-09T11:17:54.644Z</updated>
         <content type="html"><![CDATA[[동아닷컴] NCT 쟈니-재현-정우 광고 촬영 중 부상→병원行 “정밀검진 필요” [전문] NCT 쟈니와 재현 그리고 정우가 광고 촬영 중 부상을 입고 병원으로 이송됐다. 9일 소속사 SM엔터테인먼트는 NCT 쟈니, 재현, 정우가 광고 촬영 중 정글짐 세트 구조물이 무너지면서 부상을 입었다고 밝혔다. 소속사에 따르면 세 사람은 부상 직후 병원으로 이동, 검]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이티즈 만든 스타 프로듀서 이든, 다음 달 비연예인과 결혼]]></title>
-        <id>https://v.daum.net/v/20221209192202931</id>
-        <link href="https://v.daum.net/v/20221209192202931"/>
-        <updated>2022-12-09T11:17:54.645Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 조은별기자]보이그룹 에이티즈를 만든 스타 프로듀서 이든(본명 김용환·34)이 다음 달 비연예인과 결혼한다. 9일 가요계에 따르면 이든은 오랜 시간 교제해온 비연예인 연인과 다음 달 백년가약을 맺는다. 가수 출신인 이든은 2017년 비투비의 ‘그리워하다’로 이름을 알리기 시작, 여자친구, 가수 베이빌론 등 인기 아티스트들의]]></content>
     </entry>
 </feed>
