@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-12-11T02:49:47.139Z</updated>
+    <updated>2022-12-11T03:28:33.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[먼데이키즈 절절한 감성 ‘추억일기’ 발매 “뮤직드라마 제작까지”]]></title>
+        <id>https://v.daum.net/v/20221211122133014</id>
+        <link href="https://v.daum.net/v/20221211122133014"/>
+        <updated>2022-12-11T03:27:51.925Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박아름 기자] 먼데이키즈가 겨울 발라드로 컴백한다. 가수 먼데이키즈(이진성)는 12월 11일 오후 6시 각종 온라인 음원사이트를 통해 ODRP 뮤직드라마 프로젝트 신곡 ‘추억 일기’를 발매한다. ‘추억 일기’는 한 남자가 너무나도 사랑했던 이에게 잊지 못하는 감정을 절절히 표현한 곡으로 한 번 들어도 기억에 남는 진한 인트로부터 말하듯 전하는 후]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[티아라 소연, 제주行+지연 결혼식 불참..'불화설 솔솔']]></title>
         <id>https://v.daum.net/v/20221211112249014</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221211090619686"/>
         <updated>2022-12-11T01:14:23.012Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박아름 기자] 걸그룹 브랜드평판 12월 빅데이터 분석 결과 뉴진스가 1위를 차지했다. 블랙핑크, 레드벨벳이 그 뒤를 이었다. 한국기업평판연구소는 걸그룹 브랜드평판 빅데이터 분석을 위해 지난 11월 11일부터 12월 11일까지 측정한 브랜드 빅데이터 51,632,684개를 분석, 걸그룹 브랜드에 대한 참여지수, 미디어지수, 소통지수, 커뮤니티지수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴진스, 12월 걸그룹 브랜드평판 '1위']]></title>
-        <id>https://v.daum.net/v/20221211090533681</id>
-        <link href="https://v.daum.net/v/20221211090533681"/>
-        <updated>2022-12-11T01:14:23.012Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 뉴진스가 걸그룹 브랜드평판 1위에 올랐다. 11일 한국기업평판연구소가 발표한 자료에 따르면 걸그룹 브랜드평판 12월 빅데이터 분석 결과&nbsp;뉴진스가 1위를, 블랙핑크가 2위를, 레드벨벳이 3위를 차지했다. 한국기업평판연구소는 걸그룹 브랜드평판 빅데이터 분석을 위해 지난달 11일부터 오늘(11일)까지 브랜드 빅데이터&nbsp;51,632,68]]></content>
     </entry>
 </feed>
