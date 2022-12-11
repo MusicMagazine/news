@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-12-11T11:16:18.657Z</updated>
+    <updated>2022-12-11T12:27:11.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[4년만에 뭉친 god "팬들과 함께 하는 시간, 우리가 살아가는 이유죠"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013635950</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013635950"/>
+        <updated>2022-12-11T12:26:56.063Z</updated>
+        <content type="html"><![CDATA[2018년 20주년 콘서트 이후 단독 콘서트 어머님께·촛불 하나·길 등 히트곡 21곡 열창 "내일 회사 가서 부장님이 목소리 왜 그러냐고 물으면 저희 콘서트 갔다 왔다고 하세요. 근데 혹시 여기에 부장님들이 계신 건]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사카모토 류이치, '암투병 서사' 없이도 뿜어냈을 온라인공연의 숭고함]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011586273</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003112079"/>
         <updated>2022-12-11T07:23:12.049Z</updated>
         <content type="html"><![CDATA[가수 임영웅의 공식 유튜브 채널 구독자가 145만 명을 돌파했다. 11일 기준 임영웅 공식 유튜브 채널 구독자수는 145만 명을 돌파했다. 2011년 12월 2일 개설된 임영웅 채널의 누적 조회수는 17억 9600만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘히트맨’ 조영수+김광수 의기투합 에스페로, 크로스음악이 뜬다 [뮤직와치]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000664311</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000664311"/>
-        <updated>2022-12-11T07:23:12.050Z</updated>
-        <content type="html"><![CDATA[뉴스엔 이재환 star@ 히트 작곡가 조영수가 가요계 '마이다스의 손'으로 불리는 김광수 대표와 손잡고 크로스오버 음악에 도전장을 던졌다. 조영수는 임영웅이 불러 히트한 '이젠 나를 믿어요'를 비롯해 트로트곡 뿐 아]]></content>
     </entry>
 </feed>
