@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-12-11T18:18:12.859Z</updated>
+    <updated>2022-12-11T20:25:30.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[레드벨벳X에스파, SMTOWN 겨울 앨범 "Beautiful Christmas"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=438&amp;aid=0000052020</id>
+        <link href="https://entertain.naver.com/now/read?oid=438&amp;aid=0000052020"/>
+        <updated>2022-12-11T20:25:13.688Z</updated>
+        <content type="html"><![CDATA[레드벨벳(Red Velvet)과 에스파(aespa, 에스엠엔터테인먼트 소속)가 SMTOWN 겨울 앨범을 통해 특급 컬래버레이션을 선보인다. ‘2022 Winter SMTOWN : SMCU PALACE’(2022 윈터]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4년만에 뭉친 god "팬들과 함께 하는 시간, 우리가 살아가는 이유죠"]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013635950</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013635643"/>
         <updated>2022-12-11T07:23:12.046Z</updated>
         <content type="html"><![CDATA['마지막 황제', '아쿠아' 등 13곡 연주…"정규 공연 힘에 부쳐" 일본 영화 음악의 거장 사카모토 류이치가 직장암 투병의 고통을 승화한 섬세한 연주를 선보였다. 사카모토 류이치는 11일 온라인 피아노 독주회 '류]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임영웅, 유튜브 구독자 145만 돌파..'영웅시대' 신화는 진행중]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003112079</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003112079"/>
-        <updated>2022-12-11T07:23:12.049Z</updated>
-        <content type="html"><![CDATA[가수 임영웅의 공식 유튜브 채널 구독자가 145만 명을 돌파했다. 11일 기준 임영웅 공식 유튜브 채널 구독자수는 145만 명을 돌파했다. 2011년 12월 2일 개설된 임영웅 채널의 누적 조회수는 17억 9600만]]></content>
     </entry>
 </feed>
