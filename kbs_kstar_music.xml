@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 04:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 05:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레드벨벳X에스파, SMTOWN 겨울 앨범 "Beautiful Christmas"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=241083</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=241083</guid>
+            <pubDate>Mon, 12 Dec 2022 05:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=241083">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221211174943_37ea3c948c18f7b9b8f40bfc11b81284.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=241083">레드벨벳X에스파, SMTOWN 겨울 앨범 "Beautiful Christmas"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221211174943_37ea3c948c18f7b9b8f40bfc11b81284.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, 피플스 초이스 어워즈 3관왕]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=240539</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=238475">[일문일답] 루시드폴, 정규10집 "긴 여행을 마친 기분"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221121080909_11ebe125391eacc9b8c15d818a940812.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스 데뷔곡 ‘Attention’, 스포티파이 스트리밍 '1억 뷰!"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=238439</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=238439</guid>
-            <pubDate>Mon, 21 Nov 2022 09:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=238439">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221121073330_7b15e16ebc449ddf4d64dca8437d85f9.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=238439">뉴진스 데뷔곡 ‘Attention’, 스포티파이 스트리밍 '1억 뷰!"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221121073330_7b15e16ebc449ddf4d64dca8437d85f9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
