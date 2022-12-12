@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-12-12T13:25:38.195Z</updated>
+    <updated>2022-12-12T14:18:33.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[위아이, 스페셜 싱글 타이틀곡 ‘기프트 포 유’ MV 티저 공개]]></title>
+        <id>https://v.daum.net/v/20221212224504734</id>
+        <link href="https://v.daum.net/v/20221212224504734"/>
+        <updated>2022-12-12T14:18:00.265Z</updated>
+        <content type="html"><![CDATA[그룹 위아이(WEi)가 따뜻하고 신나는 분위기의 캐럴을 예고했다. 위아이(장대현, 김동한, 유용하, 김요한, 강석화, 김준서)는 12일 0시 공식 SNS를 통해 크리스마스 스페셜 싱글 ‘기프트 포 유(Gift For You)’와 동명의 타이틀곡 뮤직비디오 티저를 공개했다. 공개된 영상 속 여섯 멤버는 양손 가득 크리스마스 선물을 들고 하나둘씩 모여들며 오색]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[몬스타엑스 컴백, 2023년 1월 9일 새 미니앨범 발표]]></title>
         <id>https://v.daum.net/v/20221212210052817</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221212155726553"/>
         <updated>2022-12-12T07:20:07.246Z</updated>
         <content type="html"><![CDATA[[OSEN=지민경 기자]&nbsp;‘믿듣퍼’ 몬스타엑스(MONSTA X)가 9개월 만에 컴백한다. 몬스타엑스는 지난 11일 오후 공식 SNS를 통해 열두 번째 미니앨범 'REASON(리즌)'의 커밍순 이미지를 공개하며 컴백 소식을 전했다. 강렬한 블랙의 이미지에는 새 미니앨범명 'REASON'과 함께 발매 일시가 2023년 1월 9일 오후 6시로 공개돼 있어 글]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘믿듣퍼’ 귀환…몬스타엑스, 1월 9일 신보 ‘REASON’ 컴백]]></title>
-        <id>https://v.daum.net/v/20221212155618522</id>
-        <link href="https://v.daum.net/v/20221212155618522"/>
-        <updated>2022-12-12T07:20:07.247Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] ‘믿듣퍼’(믿고 듣는 퍼포먼스 장인) 그룹 몬스타엑스(MONSTA X)가 새로운 음악과 무대로 가요계 귀환한다. 몬스타엑스는 12월 11일 오후 공식 SNS를 통해 12번째 미니 앨범 'REASON'(리즌) 커밍순 이미지를 공개하며 컴백 소식을 전했다. 강렬한 블랙의 이미지에는 새 앨범명 'REASON'은 물론 발매 일시 2023년]]></content>
     </entry>
 </feed>
