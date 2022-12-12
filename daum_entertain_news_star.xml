@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-12-12T17:19:57.544Z</updated>
+    <updated>2022-12-12T18:18:35.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박찬욱 '헤어질 결심', 골든글로브 비영어권 영화상 후보]]></title>
+        <id>https://v.daum.net/v/20221213031005045</id>
+        <link href="https://v.daum.net/v/20221213031005045"/>
+        <updated>2022-12-12T18:18:03.926Z</updated>
+        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 정윤섭 특파원 = 박찬욱 감독의 영화 '헤어질 결심'이 12일(현지시간) 미국 양대 영화상 중 하나인 골든글로브에서 비영어권 영화상 후보에 올랐다. 제80회 골든글로브를 주관하는 미국 할리우드외신기자협회(HFPA)는 이날 '비영어권 영화 작품상'(Best Picture Non-English Language) 부문 후보에 한국의 '헤]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤기원, 예능-웹드-OTT 싹쓸이···‘효자촌’지나 ‘러브인블루’너머 ‘고양막걸리’까지]]></title>
         <id>https://v.daum.net/v/20221213014844686</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221212234940019"/>
         <updated>2022-12-12T15:23:02.504Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] '연매살' 이순재의 선한 조언이 연기 인생 위기를 극복하는데 도움이 됐다. 12일 방송된 tvN '연예인 매니저로 살아남기'에서는 기억을 점점 잃어가는 배우 이순재의 이야기가 공개됐다. 88세 배우 이순재는 아직도 후배들의 대사까지 모두 외우고 있었다. 이순재는 까마득한 후배 배우에게 "상대방 대사까지 몽땅]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연매살' 이순재, 허성태에 쓴소리 "쓸모 없지면 버리는 스타일"]]></title>
-        <id>https://v.daum.net/v/20221212231504849</id>
-        <link href="https://v.daum.net/v/20221212231504849"/>
-        <updated>2022-12-12T14:18:05.408Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 송오정 기자] 드라마 '연예인 매니저로 살아남기'에서 이순재가 서류 속 성과에 따라 사람을 쓰고 자르는 허성태에게 쓴소리를 날렸다. 12일 방송된 tvN '연예인 매니저로 살아남기'(이하 '연매살')에서 이순재(이순재)가 구해준(허성태)과 만났다. 이순재는 메쏘드엔터 사옥을 방문하다 돌아가는 길에 새 대표가 된 구해준과 마주쳤다. 구해준이 고]]></content>
     </entry>
 </feed>
