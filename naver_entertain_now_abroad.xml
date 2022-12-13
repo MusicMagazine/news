@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-12-13T20:17:13.362Z</updated>
+    <updated>2022-12-13T21:13:52.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아바타2' 캐머런 감독, 영화 홍보하다가 코로나19 걸려]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013640189</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013640189"/>
+        <updated>2022-12-13T21:13:51.705Z</updated>
+        <content type="html"><![CDATA[정윤섭 특파원 = 영화 '아바타:물의 길'(이하 아바타2)을 만든 제임스 캐머런 감독이 이 영화의 개봉을 앞두고 홍보 활동을 하다가 신종 코로나바이러스 감염증(코로나19)에 걸렸다. '아바타2' 제작사인 20세기 스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로이킴 ‘날렵해진 턱선’ [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912153</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000912129"/>
         <updated>2022-12-13T13:23:51.560Z</updated>
         <content type="html"><![CDATA[‘2022 아시아 아티스트 어워즈(2022 AAA)’ 시상식이 13일 오후 일본 나고야 니혼가이시홀에서 열렸다. 아이브 장원영이 AAA 시상식에 참석하고 있다. 사진=2022AAA MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍화연 ‘청정 미소’ [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912128</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000912128"/>
-        <updated>2022-12-13T13:23:51.561Z</updated>
-        <content type="html"><![CDATA[배우 홍화연이 13일 오후 서울 용산구 CGV용산아이파크몰에서 진행된 영화 ‘영웅’(감독 윤제균)VIP 시사회에 참석해 포즈를 취하고 있다. 영화 ‘영웅’은 1909년 10월, 하얼빈에서 이토 히로부미를 사살한 뒤]]></content>
     </entry>
 </feed>
