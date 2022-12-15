@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-12-15T14:17:58.209Z</updated>
+    <updated>2022-12-15T16:24:13.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[추억소환·새 출발·새 시리즈…연말연초 그룹 기대작]]></title>
+        <id>https://v.daum.net/v/20221216000007644</id>
+        <link href="https://v.daum.net/v/20221216000007644"/>
+        <updated>2022-12-15T16:23:38.143Z</updated>
+        <content type="html"><![CDATA[NCT DREAM-에이티즈-뉴진스-이달의 소녀-몬스타엑스-투모로우바이투게더 연말연시 릴레이 컴백 [더팩트 | 정병근 기자] 많은 가수들이 콘서트에 집중하며 한 해를 마무리하는 가운데 앨범 막바지 준비에 분주한 팀들이 있다. 라인업도 화려하다. 2022년을 보름여 앞둔 시점에서 슈퍼주니어를 시작으로 NCT DREAM, 에이티즈 등 보이그룹이 연말을 장식]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["폰으로 뭐 보길래?"…뉴진스 신곡 스포, 민희진답다 "메롱"]]></title>
         <id>https://v.daum.net/v/20221215213530569</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221215164315179"/>
         <updated>2022-12-15T08:27:25.662Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김종은 기자] 가수 존박이 아내와의 첫 만남을 회상했다. 15일 오후 방송된 SBS 파워FM '두시탈출 컬투쇼'(이하 '컬투쇼')에는 존박과 스텔라장이 출연해 특선 라이브 코너를 꾸몄다. 존박은 지난 6월, 1년간 교제한 비연예인과 비공개로 결혼식을 올린 바 있다. 그는 아내와 어떻게 만났냐는 물음에 "우연히 운명처럼 식사 자리에서 만났다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['포스트 BTS' 르세라핌·뉴진스]]></title>
-        <id>https://v.daum.net/v/20221215161407145</id>
-        <link href="https://v.daum.net/v/20221215161407145"/>
-        <updated>2022-12-15T08:27:25.674Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김한길 기자] 그룹 방탄소년단(BTS)의 맏형 진이 입대하면서 '군백기(군대+공백기)'의 스타트를 끊은 가운데, 동생 그룹인 르세라핌(LE SSERAFIM)과 뉴진스(NewJeans)가 그들의 빈자리를 채울 거라는 전망이 제기되고 있다. 하이브(HYBE)는 방탄소년단이 주력인 회사다. 그러나 최근 방탄소년단이 진을 필두로 입대를 결정하면서]]></content>
     </entry>
 </feed>
