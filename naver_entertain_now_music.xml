@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-12-15T13:24:58.409Z</updated>
+    <updated>2022-12-15T14:17:58.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스민, 예술적 소신을 엿볼 수 있는 첫 EP ‘스며든다’ 발매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000855542</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000855542"/>
+        <updated>2022-12-15T14:17:40.346Z</updated>
+        <content type="html"><![CDATA[싱어송라이터 스민이 15일 첫 EP ‘스며든다’를 발매했다. 2013년부터 룬디마틴 리더이자 보컬로 활동해온 그녀는 밴드를 기반으로 국악, 재즈, 월드뮤직 등 다양한 예술 장르와의 콜라보를 통해 쌓아온 음악적 스펙트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최예나, 솔로 데뷔 약 1년 만에 ‘MZ세대 워너비’ 등극]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000855536</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001535730"/>
         <updated>2022-12-15T10:17:06.373Z</updated>
         <content type="html"><![CDATA['개가수' 김영철이 재즈 장르까지 소화하며 연말을 경쾌한 감성으로 물들였다. 김영철 새 싱글 '내돈내산 빵' 음원과 뮤직비디오가 15일 오후 6시 각종 온라인 음원사이트를 통해 발매됐다. 신곡 '내돈내산 빵'은 가볍]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오마이걸 유아, 두 번째 솔로 팬사인회 성료..팬들로 인산인해]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003113495</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003113495"/>
-        <updated>2022-12-15T10:17:06.374Z</updated>
-        <content type="html"><![CDATA[걸 그룹 오마이걸(OH MY GIRL)의 멤버 유아(YooA)가 두 번째 솔로 앨범 'SELFISH'(셀피쉬) 팬 사인회를 성공적으로 마쳤다. 유아는 지난 11일 서울 홍대 H-Stage에서 키트앨범 제작 업체 키트]]></content>
     </entry>
 </feed>
