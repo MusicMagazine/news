@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 08:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 10:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 유럽투어-프랑스,  'BLACKPINK WORLD TOUR [BORN PINK] PARIS' (KBS연예 ─ 음악)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=241970</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=241970</guid>
+            <pubDate>Fri, 16 Dec 2022 10:13:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=241970">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221216090404_b894fa9a06d30dfd2488580fa2393465.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=241970">블랙핑크 유럽투어-프랑스,  'BLACKPINK WORLD TOUR [BORN PINK] PARIS'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221216090404_b894fa9a06d30dfd2488580fa2393465.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[투모로우바이투게더, ‘이름의 장: TEMPTATION’으로 1월 컴백 (KBS연예 ─ 음악)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=241748</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=239121">러블리즈 출신 정예인, 디지털 싱글 ‘버스정류장’ 콘셉트 포토 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221126095350_c2defe21eccf5c07032d20ee1f93be2d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["Indigo/ RM" 방탄소년단 RM,  Identity Film 공개 (KBS연예 ─ 음악)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=238696</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=238696</guid>
-            <pubDate>Wed, 23 Nov 2022 05:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=238696">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221123071608_2fd63b4f26411fbb396adeddb7fc7fc8_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=238696">"Indigo/ RM" 방탄소년단 RM,  Identity Film 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221123071608_2fd63b4f26411fbb396adeddb7fc7fc8_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[리디, 히가시노 게이고 신작 '희망의 끈' 전자책  출간 (KBS연예 ─ 연예)]]></title>
@@ -688,92 +688,162 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221204102017_cfb3c481e285f341788edfaaf78792dd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘나 혼자 산다’ 키, 35년 직장생활한 엄마 위한 뭉클한 승진파티 (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/368229</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/368229</guid>
-            <pubDate>Fri, 16 Dec 2022 08:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/368229">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/16/b748672b-2630-4130-8dae-7bc68def84f8.jpg" alt="‘나 혼자 산다’ 키, 35년 직장생활한 엄마 위한 뭉클한 승진파티">        <div class="text-box">            <p class="summary">‘나 혼자 산다’ 키, 35년 직장생활한 엄마 위한 뭉클한 승진파티</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/16/b748672b-2630-4130-8dae-7bc68def84f8.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[포토] 영훈, 약속해줘~ (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/368266</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/368266</guid>
+            <pubDate>Fri, 16 Dec 2022 10:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/368266">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/16/fda83e2f-6c29-4d0e-9326-aa4e469a7acf.jpg" alt="[포토] 영훈, 약속해줘~">        <div class="text-box">            <p class="summary">[포토] 영훈, 약속해줘~</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/16/fda83e2f-6c29-4d0e-9326-aa4e469a7acf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[방탄소년단, 연말무대가 기대되는 아이돌 1위(아이돌챔프) (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/368215</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/368215</guid>
-            <pubDate>Fri, 16 Dec 2022 02:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/368215">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/16/ae143724-4990-4ab5-ae9f-b18681bf9e8d.jpeg" alt="방탄소년단, 연말무대가 기대되는 아이돌 1위(아이돌챔프)">        <div class="text-box">            <p class="summary">방탄소년단, 연말무대가 기대되는 아이돌 1위(아이돌챔프)</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/16/ae143724-4990-4ab5-ae9f-b18681bf9e8d.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[[포토] 현재, 내가 더 보이즈 현재다 (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/368265</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/368265</guid>
+            <pubDate>Fri, 16 Dec 2022 10:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/368265">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/16/6ce0b041-5eaf-43c0-b365-765d170b496a.jpg" alt="[포토] 현재, 내가 더 보이즈 현재다">        <div class="text-box">            <p class="summary">[포토] 현재, 내가 더 보이즈 현재다</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/16/6ce0b041-5eaf-43c0-b365-765d170b496a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[마마무 문별, '프레즌트' MV 티저 영상 공개…선물 같은 비주얼 (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/368213</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/368213</guid>
-            <pubDate>Fri, 16 Dec 2022 02:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/368213">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/16/59162498-60d4-4b29-bc9a-c4475ed96813.jpg" alt="마마무 문별, '프레즌트' MV 티저 영상 공개…선물 같은 비주얼">        <div class="text-box">            <p class="summary">마마무 문별, '프레즌트' MV 티저 영상 공개…선물 같은 비주얼</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/16/59162498-60d4-4b29-bc9a-c4475ed96813.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[포토] 필릭스, 스트레이키즈 엘프 (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/368264</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/368264</guid>
+            <pubDate>Fri, 16 Dec 2022 10:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/368264">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/16/baa10ab2-f3a7-4743-b309-699a848134be.jpg" alt="[포토] 필릭스, 스트레이키즈 엘프">        <div class="text-box">            <p class="summary">[포토] 필릭스, 스트레이키즈 엘프</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/16/baa10ab2-f3a7-4743-b309-699a848134be.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 RM, 롤링홀 ‘Indigo’ 라이브 공연 영상 공개…“10년간 기다린 순간” (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/368185</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/368185</guid>
-            <pubDate>Fri, 16 Dec 2022 01:05:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/368185">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/16/b759cf9c-bde8-481c-a3f1-de06596ddb3d.jpg" alt="방탄소년단 RM, 롤링홀 ‘Indigo’ 라이브 공연 영상 공개…“10년간 기다린 순간”">        <div class="text-box">            <p class="summary">방탄소년단 RM, 롤링홀 ‘Indigo’ 라이브 공연 영상 공개…“10년간 기다린 순간”</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/16/b759cf9c-bde8-481c-a3f1-de06596ddb3d.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[포토] 에이티즈 여상, 잘생김 (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/368263</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/368263</guid>
+            <pubDate>Fri, 16 Dec 2022 10:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/368263">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/16/ba74669e-2ab4-4e10-9712-dac1afa8396f.jpg" alt="[포토] 에이티즈 여상, 잘생김">        <div class="text-box">            <p class="summary">[포토] 에이티즈 여상, 잘생김</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/16/ba74669e-2ab4-4e10-9712-dac1afa8396f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[케플러 샤오팅,우아+고혹 돋보이는 발레 화보로 中 매거진 표지 장식 (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/368184</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/368184</guid>
-            <pubDate>Fri, 16 Dec 2022 01:05:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/368184">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/16/176a3a1a-474d-42c3-97e0-7d3239b95056.jpg" alt="케플러 샤오팅,우아+고혹 돋보이는 발레 화보로 中 매거진 표지 장식">        <div class="text-box">            <p class="summary">케플러 샤오팅,우아+고혹 돋보이는 발레 화보로 中 매거진 표지 장식</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/16/176a3a1a-474d-42c3-97e0-7d3239b95056.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[포토] 고우림, 김연아 러버 (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/368262</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/368262</guid>
+            <pubDate>Fri, 16 Dec 2022 10:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/368262">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/16/e1ec391b-c7be-40e9-ba59-492000d17eb9.jpg" alt="[포토] 고우림, 김연아 러버">        <div class="text-box">            <p class="summary">[포토] 고우림, 김연아 러버</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/16/e1ec391b-c7be-40e9-ba59-492000d17eb9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 뷔, 日서점가에서도 1위 '무슨 일?' (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/368183</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/368183</guid>
-            <pubDate>Fri, 16 Dec 2022 01:05:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/368183">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/16/f02ea988-492e-4372-80ac-f4dc97a8f211.jpg" alt="방탄소년단 뷔, 日서점가에서도 1위 '무슨 일?'">        <div class="text-box">            <p class="summary">방탄소년단 뷔, 日서점가에서도 1위 '무슨 일?'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/16/f02ea988-492e-4372-80ac-f4dc97a8f211.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[포토] 고우림, 연느 사랑해 (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/368261</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/368261</guid>
+            <pubDate>Fri, 16 Dec 2022 10:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/368261">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/16/14c12f17-76cd-4626-b233-e76754d2e874.jpg" alt="[포토] 고우림, 연느 사랑해">        <div class="text-box">            <p class="summary">[포토] 고우림, 연느 사랑해</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/16/14c12f17-76cd-4626-b233-e76754d2e874.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘진범’ 송덕호의 폭주 → 이성 잃고 이혜리 공격 ‘소름’ (일당백집사) (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/368181</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/368181</guid>
-            <pubDate>Fri, 16 Dec 2022 01:05:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/368181">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/16/9c58084e-7b5a-4f23-92af-855d843af08e.jpg" alt="‘진범’ 송덕호의 폭주 → 이성 잃고 이혜리 공격 ‘소름’ (일당백집사)">        <div class="text-box">            <p class="summary">‘진범’ 송덕호의 폭주 → 이성 잃고 이혜리 공격 ‘소름’ (일당백집사)</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/16/9c58084e-7b5a-4f23-92af-855d843af08e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[포토] 있지 채령, 물오른 미니마우스 (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/368260</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/368260</guid>
+            <pubDate>Fri, 16 Dec 2022 10:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/368260">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/16/62c6d217-9efe-498f-b7b9-5d6b1e97325f.jpg" alt="[포토] 있지 채령, 물오른 미니마우스">        <div class="text-box">            <p class="summary">[포토] 있지 채령, 물오른 미니마우스</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/16/62c6d217-9efe-498f-b7b9-5d6b1e97325f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[클라씨, '2022 MBC 가요대제전' 출연 확정…데뷔 후 첫 연말 무대 (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/368159</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/368159</guid>
-            <pubDate>Thu, 15 Dec 2022 07:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/368159">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/15/99c9d028-b327-46b7-ae66-a820ac44d037.jpg" alt="클라씨, '2022 MBC 가요대제전' 출연 확정…데뷔 후 첫 연말 무대">        <div class="text-box">            <p class="summary">클라씨, '2022 MBC 가요대제전' 출연 확정…데뷔 후 첫 연말 무대</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/15/99c9d028-b327-46b7-ae66-a820ac44d037.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[포토] 에스파 닝닝, 우아한 고혹냥 (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/368259</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/368259</guid>
+            <pubDate>Fri, 16 Dec 2022 10:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/368259">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/16/1684c34e-3062-4b95-b894-2593d74f04a0.jpg" alt="[포토] 에스파 닝닝, 우아한 고혹냥">        <div class="text-box">            <p class="summary">[포토] 에스파 닝닝, 우아한 고혹냥</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/16/1684c34e-3062-4b95-b894-2593d74f04a0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이달의 소녀, 츄 없는 단체 티저 공개 (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/368150</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/368150</guid>
-            <pubDate>Thu, 15 Dec 2022 04:23:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/368150">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/15/c067b567-6b4b-43ae-971e-43b7cc222bb5.jpg" alt="이달의 소녀, 츄 없는 단체 티저 공개">        <div class="text-box">            <p class="summary">이달의 소녀, 츄 없는 단체 티저 공개</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/15/c067b567-6b4b-43ae-971e-43b7cc222bb5.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[포토] 예지, 눈빛교환 한거 있지~ (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/368258</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/368258</guid>
+            <pubDate>Fri, 16 Dec 2022 10:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/368258">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/16/1d9bce72-895b-4e7c-af5a-e4d54be2bf14.jpg" alt="[포토] 예지, 눈빛교환 한거 있지~">        <div class="text-box">            <p class="summary">[포토] 예지, 눈빛교환 한거 있지~</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/16/1d9bce72-895b-4e7c-af5a-e4d54be2bf14.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[마마무 문별, 스페셜 싱글 '더 프레즌트' 트랙리스트 공개 (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/368144</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/368144</guid>
-            <pubDate>Thu, 15 Dec 2022 04:23:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/368144">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/15/3e728388-2c36-4a6e-983d-ac1a815c381e.jpg" alt="마마무 문별, 스페셜 싱글 '더 프레즌트' 트랙리스트 공개">        <div class="text-box">            <p class="summary">마마무 문별, 스페셜 싱글 '더 프레즌트' 트랙리스트 공개</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/15/3e728388-2c36-4a6e-983d-ac1a815c381e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[포토] 있지 류진, 심쿵 포인트 (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/368257</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/368257</guid>
+            <pubDate>Fri, 16 Dec 2022 10:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/368257">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/16/9092ff7b-4fa8-4685-828a-3e69f55da330.jpg" alt="[포토] 있지 류진, 심쿵 포인트">        <div class="text-box">            <p class="summary">[포토] 있지 류진, 심쿵 포인트</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/16/9092ff7b-4fa8-4685-828a-3e69f55da330.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[빅톤 정수빈 "선택엔 책임이 따른다는 가치관에 맞게 살고파" (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/368140</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/368140</guid>
-            <pubDate>Thu, 15 Dec 2022 04:23:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/368140">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/15/dfebd598-3051-40a6-b819-138d72b3b9f4.jpg" alt="빅톤 정수빈 " 선택엔="" 책임이="" 따른다는="" 가치관에="" 맞게="" 살고파""="">        <div class="text-box">            <p class="summary">빅톤 정수빈 "선택엔 책임이 따른다는 가치관에 맞게 살고파"</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/15/dfebd598-3051-40a6-b819-138d72b3b9f4.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[포토] 있지 유나, 바비인형 엣지~ (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/368256</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/368256</guid>
+            <pubDate>Fri, 16 Dec 2022 10:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/368256">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/16/5586976a-028e-4584-81f9-0cac6aa4a1e2.jpg" alt="[포토] 있지 유나, 바비인형 엣지~">        <div class="text-box">            <p class="summary">[포토] 있지 유나, 바비인형 엣지~</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/16/5586976a-028e-4584-81f9-0cac6aa4a1e2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["말할 수 없어"..이달의 소녀, 츄 퇴출 후폭풍 감당해낼까 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20221216183018773</link>
+            <guid>https://v.daum.net/v/20221216183018773</guid>
+            <pubDate>Fri, 16 Dec 2022 10:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=선미경 기자] 그룹 이달의 소녀가 새해 첫 컴백을 앞두고 우여곡절을 겪고 있다. ‘츄 퇴출’ 이슈로 팀이 한 번 흔들린 상황에서 컴백을 강행하며 멤버들의 마음도 편하지 않을 상황. 한 차례 폭풍이 지난간 후 모든 논란을 감당해야 하는 것은 남은 멤버들의 몫이었다. 이달의 소녀는 오는 1월 3일 새 오리지널 앨범 ‘제로(0)’를 발표하고 컴백한]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[알렉사, '2022 AAA' 수상→UN 안보리 행사 연설 "빛 비추길" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20221216182050501</link>
+            <guid>https://v.daum.net/v/20221216182050501</guid>
+            <pubDate>Fri, 16 Dec 2022 10:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 안윤지 기자] 가수 알렉사 /사진제공=지비레이블가수 알렉사 /사진제공=지비레이블가수 알렉사(AleXa)가 K팝 대표 아티스트로 UN 안보리 행사에 참석해 뜻깊은 목소리를 냈다. 알렉사는 지난 15일 미국 뉴욕에 위치한 더 타임스 센터에서 열린 '2024-25년 UN 안보리 비상임국 진출을 위한 행사'에 참석해 미니 콘서트를 진행했다. UN 대]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[츄 논란 의식했나? 이달의 소녀, 컴백 쇼케이스 진행 안 한다 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20221216180716092</link>
+            <guid>https://v.daum.net/v/20221216180716092</guid>
+            <pubDate>Fri, 16 Dec 2022 10:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 최근 츄를 퇴출한 걸그룹 이달의 소녀가 컴백 쇼케이스 행사를 열지 않기로 했다. 소속사 블록베리크리에이티브 측은 16일 공식입장을 통해 "이달의 소녀가 컴백하는 1월 3일, 당일 별도의 미디어 쇼케이스 및 팬 쇼케이스는 진행하지 않는다"고 밝혔다. 알려진 바에 따르면 블록베리크리에이티브는 이날 별도의 행사를 진행하지 않는 대]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아이브 ‘러브 다이브’ 美 타임 선정 ‘올해 최고의 K팝’ (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20221216180112969</link>
+            <guid>https://v.daum.net/v/20221216180112969</guid>
+            <pubDate>Fri, 16 Dec 2022 10:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 그룹 아이브(안유진, 가을, 레이, 장원영, 리즈, 이서)가 미국 시사 전문지 타임(TIME)의 주목을 받았다. 아이브 두 번째 싱글 타이틀곡 '러브 다이브'는 12월 13일(현지시간) 발표된 타임 '2022 베스트 K-팝 노래와 앨범(The Best K-pop Songs and Albums of 2022)'의 '베스트 K-팝 노래]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["단지 널 사랑해, 이렇게 말했지"…NCT DREAM, '캔디' 리메이크했다 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20221216180013927</link>
+            <guid>https://v.daum.net/v/20221216180013927</guid>
+            <pubDate>Fri, 16 Dec 2022 10:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 이승록 기자] NCT DREAM이 선배 H.O.T.의 히트곡 '캔디'를 리메이크했다. NCT DREAM의 겨울 스페셜 미니앨범 '캔디(Candy)'가 16일 오후 6시 각종 음악 사이트에서 발표됐다. 소속사 SM엔터테인먼트에 따르면 "'캔디'는 H.O.T.가 1996년 발표한 정규 1집 수록곡 '캔디'를 NCT DREAM만의 색깔로 재해석]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[보고싶었던 WSG워너비 사파이어, 다시 모여 완성한 '우리의 계절' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20221216180009920</link>
+            <guid>https://v.daum.net/v/20221216180009920</guid>
+            <pubDate>Fri, 16 Dec 2022 10:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 조혜진 기자) 사파이어(4FIRE) 나비, 쏠(SOLE), 엄지윤이 WSG워너비 프로젝트 종료 후에도 우정을 이어가며 훈훈한 겨울을 선물했다. 사파이어의 나비, 쏠, 엄지윤이 참여한 신곡 '우리의 계절' 음원과 뮤직비디오가 16일 오후 6시 공개됐다. 사파이어는 MBC 예능프로그램 '놀면 뭐하니?' WSG워너비 프로젝트를 통해 탄생한 그룹이다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[틴탑 천지, 군백기 끝 솔로 컴백…감미로운 이별송 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20221216180009922</link>
+            <guid>https://v.daum.net/v/20221216180009922</guid>
+            <pubDate>Fri, 16 Dec 2022 10:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 그룹 틴탑 천지가 오늘(16일) 오후 6시, 첫 싱글 앨범 [too late]를 발표했다. 군백기(군 복무로 인한 공백기)를 마치고 컴백, 틴탑의 리드 보컬로서 감미로운 겨울 발라드로 감성을 자극했다. [too late]는 떠나가는 상대에 대해 아직 정리되지 않은 마음 그리고 돌이킬 수 없는 그 관계를 천지의 시선으로 쓴 앨범이다. 천지는]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["아름답고 찬란한" WSG워너비 4FIRE, 설렘빛 '우리의 계절' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20221216180001899</link>
+            <guid>https://v.daum.net/v/20221216180001899</guid>
+            <pubDate>Fri, 16 Dec 2022 10:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김노을 기자] /사진=아메바컬쳐WSG워너비 4FIRE가 설렘 가득한 겨울날을 노래했다. 16일 오후 6시 각종 온라인 음원사이트를 통해 MBC 예능 프로그램 '놀면 뭐하니?' WSG워너비 프로젝트를 통해 탄생한 그룹 4FIRE의 신곡 '우리의 계절'이 발매됐따. 신곡 '우리의 계절'은 겨울 시즌송으로, 나비와 쏠(SOLE), 엄지윤의 밝고 따]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[레드벨벳X에스파에 유.원.미·투-원즈…연말 컬래버 대축제 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20221216175417803</link>
+            <guid>https://v.daum.net/v/20221216175417803</guid>
+            <pubDate>Fri, 16 Dec 2022 10:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[레드벨벳X에스파(사진=SM엔터테인먼트)[이데일리 스타in 김현식 기자] ‘예상 못했던 역대급 조합’. 레드벨벳과 에스파의 컬래버레이션 곡 ‘뷰티풀 크리스마스’(Beautiful Christmas)가 발매된 이후 뒤따른 K팝 팬들의 반응이다. ‘뷰티풀 크리스마스’는 경쾌한 스윙 리듬이 돋보이는 캐럴 댄스곡이다. ‘소중한 사람과 함께 하는 오늘이 최고의 순간]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[新 모멘텀 뉴진스·앤팀 활약, 하이브 주가 껑충 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20221216174408597</link>
+            <guid>https://v.daum.net/v/20221216174408597</guid>
+            <pubDate>Fri, 16 Dec 2022 10:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 김한길 기자] 하이브(HYBE) 주가가 소속 아티스트들의 활약에 힘입어 강세다. 하이브 주가는 지난해 11월, 42만1500원이라는 사상 최고가를 찍으며 승승장구했지만, 방탄소년단(BTS)의 그룹 활동 중단과 입대 관련 문제가 장기화되면서 부진을 거듭했다. 특히 지난 10월 13일에는 10만7000원까지 떨어지면서 공모가(13만5000원)를]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[홍진영 ‘걸 인 더 미러’ K팝 여자 가수 최초 아마존 5개차트 1위 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
@@ -811,179 +881,109 @@
             <content:encoded><![CDATA[[OSEN=박소영 기자] 가수 김호중과 송가인이 듀엣곡으로 합을 맞춘다. 16일 소속사 생각엔터테인먼트에 따르면, 김호중과 송가인은 듀엣곡 발매를 확정, 두 사람의 듀엣곡은 TV조선 ‘복덩이들고(GO)’ 최종회에서 공개될 예정이다. 트로트 경연 프로그램인 ‘미스트롯’과 ‘미스터트롯’ 출신인 송가인과 김호중은 장르 불문 소화력과 가창력을 지니고 있다는 점]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[범진, ‘우린 한 편의 소설로 남겠죠’ 발매 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20221216155102738</link>
-            <guid>https://v.daum.net/v/20221216155102738</guid>
-            <pubDate>Fri, 16 Dec 2022 08:21:45 GMT</pubDate>
-            <content:encoded><![CDATA[싱어송라이터 범진이 눈물 메이커로 컴백했다. 범진은 16일 정오 각종 음원사이트를 통해 신곡 ‘우린 한 편의 소설로 남겠죠 (이별소설)’을 발매했다. 이번 디지털 싱글 ‘우린 한 편의 소설로 남겠죠 (이별소설)’은 기억 저편 서랍에 깊숙이 넣어둔, 결실을 맺지 못한 사랑 이야기를 그려낸 미디엄 템포 발라드 곡이다. 추운 날씨와 어울리는 현실적인 가사와 마치]]></content:encoded>
+            <title><![CDATA[유재석+택시기사=셜록과 왓슨? ‘짬바’ 폭발한다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20221216191357757</link>
+            <guid>https://v.daum.net/v/20221216191357757</guid>
+            <pubDate>Fri, 16 Dec 2022 10:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴]  유재석이 택시 기사와 ‘셜록과 왓슨’ 콤비를 결성한다. 17일 방송되는 MBC ‘놀면 뭐하니?’에서는 지난번 실패로 끝난 ‘우당탕탕 전원 탑승’ 재도전이 펼쳐진다. “한번 더 기회를 줘”라며 의지를 불태운 멤버들의 뜻에 따라 다시 컴백한 업그레이드된 ‘우당탕탕 전원 탑승’에 관심이 집중된다. 제작진에 따르면 앞서 ‘우당탕탕 전원 탑승’이 유]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[음악으로만 증명하기 어려운 ‘도끼’의 현실 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20221216155007709</link>
-            <guid>https://v.daum.net/v/20221216155007709</guid>
-            <pubDate>Fri, 16 Dec 2022 08:21:45 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 윤지혜 칼럼] 가수는 음악으로만 인정받고 사랑받는 게 당연하다. 문제는 인정과 사랑을 받아야 할 대상이 대중이며, 대중이 어떤 음악을, 가수를 인정하고 사랑하게 된다는 건 그 음악에 담긴 가수의 삶에 영향을 받고 있다는 의미라는 데 있다. 즉, 어떤 가수가 대중에게 자신의 음악이 사랑받고 인정받을수록 지켜야 하는 의무와 져야 하는 책임이 지대]]></content:encoded>
+            <title><![CDATA['안다행' 이연복, 막내 탈출 도전 "주방 안 돌아갈 것" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20221216190550596</link>
+            <guid>https://v.daum.net/v/20221216190550596</guid>
+            <pubDate>Fri, 16 Dec 2022 10:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[이연복이 주방장 승격에 도전한다. 19일 방송되는 MBC '안싸우면 다행이야'(이하 '안다행')에서 '선수촌도' 입성한 이연복·레이먼킴·정호영의 이야기가 이어진다. 앞서 경력 50년 차 중식의 대가 이연복이 막내로 전락하며 굴욕을 맛보는 모습이 그려졌다. 이에 더해 이연복은 밥 짓기에 실패하는 등 허당기를 한껏 발산하며 시청자들에게 큰 웃음을 안겼다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[송가인·김호중, 듀엣곡 발매 확정..'복덩이들고' 최종회서 공개 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20221216154247498</link>
-            <guid>https://v.daum.net/v/20221216154247498</guid>
-            <pubDate>Fri, 16 Dec 2022 08:21:45 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김노을 기자] 가수 김호중(왼쪽), 송가인 /사진=생각엔터테인먼트가수 김호중과 송가인이 듀엣곡을 발매한다. 16일 소속사 생각엔터테인먼트에 따르면 김호중과 송가인은 듀엣곡 발매를 확정했다. 두 사람의 듀엣곡은 TV조선 '복덩이들고(GO)' 최종회에서 공개될 예정이다. 트로트 경연 프로그램인 TV조선 '미스트롯'과 '미스터트롯' 출신인 송가인과]]></content:encoded>
+            <title><![CDATA[이범수 아내가 던진 '상식'..'카더라 통신' 분노→갑질의혹 멈출까 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20221216190033485</link>
+            <guid>https://v.daum.net/v/20221216190033485</guid>
+            <pubDate>Fri, 16 Dec 2022 10:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김수형 기자]&nbsp;신한대학교&nbsp;학과 제자들을 상대로 '갑질'&nbsp;의혹이 불거진 이범수에 관한 논란이 뜨거운 가운데, 그의 아내이자 통역사인 이윤진이 심경글을 공개했다. 이범수의 갑질의혹도 멈출 수 있을까. 최근 공연예술학과 교수로 재직 중인 배우 이범수가&nbsp;학생들을 상대로 폭언, 차별을 했다는 소위 '갑질' 의혹에 휩싸인 것과 관련해 조사 중이다. 그러]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아이브 '러브 다이브', 美 타임지 선정 '올해 최고의 K팝 노래' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20221216152028809</link>
-            <guid>https://v.daum.net/v/20221216152028809</guid>
-            <pubDate>Fri, 16 Dec 2022 06:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=선미경 기자] 그룹 아이브(IVE)의 매력 속으로 전 세계 K팝 팬들이 다이브(DIVE) 하고 있다. 아이브(안유진·가을·레이·장원영·리즈·이서)는 미국 시사 전문지 타임(TIME)이 지난 13일(현지시각) 발표한 '2022 베스트 K-팝 노래와 앨범(The Best K-pop Songs and Albums of 2022)'에서 '베스트 K-]]></content:encoded>
+            <title><![CDATA[이범수, '교수 갑질' 둘러싼 진실게임...♥이윤진 "기억·기록 다 망상 아닐 것" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20221216185359317</link>
+            <guid>https://v.daum.net/v/20221216185359317</guid>
+            <pubDate>Fri, 16 Dec 2022 10:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 정안지 기자] 배우 이범수의 아내이자 통역사인 이윤진이 최근 불거진 이범수의 교수 '갑질 의혹'에 관해 "학생들이 두렵다"면서 심경을 전했다. 16일 이윤진은 자신의 인스타그램에 이범수와 신한대학교 학생들과 몽골 봉사를 다녀오고, 학과 학생들이 집에 놀러왔던 추억을 떠올리며 "즐거운 담소를 나눴던 추억이 생생하다"고 했다. 이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김호중X송가인, 듀엣곡 발표…‘복덩이들고’에서 공개 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20221216150417241</link>
-            <guid>https://v.daum.net/v/20221216150417241</guid>
-            <pubDate>Fri, 16 Dec 2022 06:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] [사진 제공 : 생각엔터테인먼트, 포켓돌스튜디오]가수 김호중과 송가인이 듀엣곡을 발매한다. 16일 소속사 생각엔터테인먼트에 따르면, 김호중과 송가인은 듀엣곡 발매를 확정, 두 사람의 듀엣곡은 TV조선 ‘복덩이들고(GO)’ 최종회에서 공개될 예정이다. 듀엣곡은 작곡가 조영수의 작품이며 둘은 오는 22일 녹음을 진행한다. 트로트 경연 프로그램]]></content:encoded>
+            <title><![CDATA['유깻잎과 이혼' 최고기 "주택 이사 매우 만족…신용카드도 거의 없애" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20221216185001218</link>
+            <guid>https://v.daum.net/v/20221216185001218</guid>
+            <pubDate>Fri, 16 Dec 2022 10:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김현숙 인턴기자) 유튜버 최고기가 이사 근황을 전했다. 지난 15일 최고기는 유튜브 채널 '최고기 종합채널'에 '주택으로 이사하고 첫방송! 자연광 너무 좋습니다'라는 제목의 영상을 게재했다. 최근 주택으로 이사를 했다는 최고기는 "아직 다 정리가 안 돼 랜선집들이는 나중에 하겠다. 방과 마루에 바로 햇빛이 들어와 아침인지 밤인지 확인이 가능하]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘복덩이 남매’ 김호중X송가인, 듀엣곡 발매 확정 “22일 녹음” (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20221216150352225</link>
-            <guid>https://v.daum.net/v/20221216150352225</guid>
-            <pubDate>Fri, 16 Dec 2022 06:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] '복덩이 가수 남매' 김호중과 송가인이 뭉쳤다. 소속사 생각엔터테인먼트 측은 12월 16일 "김호중과 송가인이 듀엣곡 발매를 확정했다. 듀엣곡은 TV조선 ‘복덩이들고(GO)’ 최종회에서 공개될 예정"이라고 밝혔다. 트로트 경연 프로그램인 ‘미스트롯’과 ‘미스터트롯’ 출신인 송가인과 김호중은 장르 불문 소화력과 가창력을 지니고 있다는]]></content:encoded>
+            <title><![CDATA["셜록과 왓슨" 유재석, 조력자와 깜짝 공조...정체는? (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20221216184600135</link>
+            <guid>https://v.daum.net/v/20221216184600135</guid>
+            <pubDate>Fri, 16 Dec 2022 10:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트 = 하수나 기자] ‘놀면 뭐하니?’ 유재석이, 명탐정 셜록으로 변신한다.&nbsp; 17일 방송되는 MBC 예능 ‘놀면 뭐하니?’에서는 ‘우당탕탕 전원 탑승’ 재도전이 펼쳐진다.&nbsp;&nbsp; 이번 ‘우당탕탕 전원 탑승’미션은 더 어려운 난이도로 돌아온다. 제작진이 건넨 사진 힌트만 보고 미션 장소로 가야 하는 것.&nbsp; 이에 유재석은 명탐정 셜록 홈즈에 빙의해 추리]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['츄 퇴출' 이달의 소녀, 컴백 행사 없다.."쇼케이스 진행 NO" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20221216150204145</link>
-            <guid>https://v.daum.net/v/20221216150204145</guid>
-            <pubDate>Fri, 16 Dec 2022 06:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=선미경 기자] 그룹 이달의 소녀가 멤버 츄 퇴출 논란 이후 첫 컴백을 앞두고 있는 가운데, 쇼케이스 행사 없이 일정으 소화한다. 소속사 블록베리크리에이티브 측은 16일 OSEN에 "이달의 소녀가 2023년 1월 3일 컴백을 예고한 가운데, 발매 당일 별도의 미디어 쇼케이스 및 팬 쇼케이스 진행은 없을 것 같다"라고 입장을 밝혔다. 보통 컴백과]]></content:encoded>
+            <title><![CDATA[밥도 못 짓던 이연복 달라졌다…주방장 승격 도전 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20221216184229051</link>
+            <guid>https://v.daum.net/v/20221216184229051</guid>
+            <pubDate>Fri, 16 Dec 2022 10:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴]  이연복이 주방장 승격에 도전한다. 19일 방송되는 MBC ‘안싸우면 다행이야’(‘안다행’)에는 ‘선수촌도’에 입도한 특급 셰프 이연복, 레이먼킴, 정호영 이야기가 전파를 탄다. 앞서 경력 50년 차 중식의 대가 이연복이 선수촌도에서 막내로 전락하며 굴욕을 맛봤다. 또 이연복은 밥 짓기에도 실패하는 등 허당기를 한껏 발산해 웃음을 안겼다. 제]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김호중X송가인, ‘국민 복덩이’ 듀오 온다 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20221216150023079</link>
-            <guid>https://v.daum.net/v/20221216150023079</guid>
-            <pubDate>Fri, 16 Dec 2022 06:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[가수 김호중과 송가인이 환상적인 하모니를 선보인다. 16일 소속사 생각엔터테인먼트에 따르면, 김호중과 송가인은 듀엣곡 발매를 확정, 두 사람의 듀엣곡은 TV조선 ‘복덩이들고(GO)’ 최종회에서 공개될 예정이다. 트로트 경연 프로그램인 ‘미스트롯’과 ‘미스터트롯’ 출신인 송가인과 김호중은 장르 불문한 소화력과 뛰어난 가창력으로 이번 컬래버에 대한 기대]]></content:encoded>
+            <title><![CDATA[오건영 부부장 “외국인 자본, 대거 빠져나가 치명타 될 수 있다” (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20221216183921992</link>
+            <guid>https://v.daum.net/v/20221216183921992</guid>
+            <pubDate>Fri, 16 Dec 2022 10:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[세계적 경기 침체 속에서도 미국 달러는 20년 만에 최고치다. 그야말로 킹달러(King Dollar) 시대가ㅣ 왔다. 오는 18일 오후 7시 10분 KBS1에서 방송되는 ‘이슈 PICK 쌤과 함께’는 세계를 휘청이게 만든 달러 초강세의 원인과 그 영향을 집중 분석한 ‘킹달러, 불패 신화는 영원한가?’ 편이 방송된다. 이번에 초대된 ‘쌤’은 글로벌 경제]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이승기 "후크와 소송 돈 때문 아냐···50억 정산금 전액 기부할 것" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20221216145935031</link>
-            <guid>https://v.daum.net/v/20221216145935031</guid>
-            <pubDate>Fri, 16 Dec 2022 06:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[[서울경제] 가수 겸 배우 이승기가 후크엔터테인먼트의 일방적인 정산금 지급에 분노했다. 이승기는 16일 자신의 인스타그램에 "오늘 아침 약 50억원 정도 금액이 내 통장에 입금됐다는 문자를 받았다"며 "후크엔터테인먼트(이하 후크)는 아마도 내가 단순히 돈을 받고자 법적 대응을 했다고 생각하는 듯하다. 그 흔한 음원 정산서 한 번 받아본 적 없었는데 또 이]]></content:encoded>
+            <title><![CDATA[‘손숙 남편’ 원로 연극인 김성옥 별세, 향년 87세 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20221216183535898</link>
+            <guid>https://v.daum.net/v/20221216183535898</guid>
+            <pubDate>Fri, 16 Dec 2022 10:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 연극계 원로인 배우이자 극단 신협 전 대표 김성옥이 16일 별세했다. 향년 87세. 16일 신시컴퍼니에 따르면 김성옥은 이날 작고헀다. 김성욱은 1935년 전남 목포 출생이다. 목포 중·고등학교를 거쳐 고려대 문리과대학 사학과를 졸업했다. 1956년 창극 ‘적벽가’ 조연으로 무대에 서기 시작한 김성옥은 1960년 연극 ‘수업’으로 연극 배우의]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김호중X송가인 입맞춘다…듀엣곡 발매 확정 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20221216145807986</link>
-            <guid>https://v.daum.net/v/20221216145807986</guid>
-            <pubDate>Fri, 16 Dec 2022 06:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 오윤주 기자] 가수 김호중과 송가인이 듀엣곡으로 합을 맞춘다. 16일 소속사 생각엔터테인먼트에 따르면, 김호중과 송가인은 듀엣곡을 발매를 확정 지었다. 두 사람의 듀엣곡은 종합편성채널 TV조선 '복덩이들고(GO)' 최종회에서 공개될 예정이다. 트로트 경연 프로그램인 '미스트롯'과 '미스터트롯' 출신인 송가인과 김호중은 장르 불문 소화력과]]></content:encoded>
+            <title><![CDATA[단순한 후크, 50억 줬으니 끝?…이승기 "법정 다툼 계속" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20221216183002763</link>
+            <guid>https://v.daum.net/v/20221216183002763</guid>
+            <pubDate>Fri, 16 Dec 2022 10:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이슬 기자) 후크가 이승기에게 50억 원을 입금하며 '음원 정산 0원' 갈등이 끝나는 듯 했지만, 이제 시작인가 보다. 이승기의 주장을 모두 반박하던 후크&nbsp;엔터테인먼트(이하 후크)가 입장을 바꿨다. 당초 후크는 이승기의 '음원 정산 0원' 주장에 "사실과 다르다"고 맞섰다. 하지만 음원료 미지급 논란이 후크 권진영 대표의 갑질, 횡령, 탈세,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[공포영화 ‘므이2’ 베트남 김태희로 불리는 치 푸 내한 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20221216171518920</link>
-            <guid>https://v.daum.net/v/20221216171518920</guid>
-            <pubDate>Fri, 16 Dec 2022 08:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 김범석 기자] 공포영화 ‘므이’가 베트남에 이어 최근 인도네시아 리메이크가 확정됐다. K 공포의 매운맛이 동남아를 사로잡고 있다. ‘므이’는 지난 2007년 개봉한 조안 차예련 주연 호러물. 지성원 작가가 호찌민, 달랏 등 귀신 출몰 지역을 다니며 초상화에 얽힌 10가지 비밀을 다룬 영화다. ‘므이’는 베트남어로 ‘10’이다. 김태경 감독이 연출]]></content:encoded>
+            <title><![CDATA['아바타: 물의 길' 기대 못 미친 평일 관객? 주말 특수 기대 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20221216182902747</link>
+            <guid>https://v.daum.net/v/20221216182902747</guid>
+            <pubDate>Fri, 16 Dec 2022 10:14:46 GMT</pubDate>
+            <content:encoded><![CDATA['아바타: 물의 길'이 적수 없는 박스오피스 1위를 달리고 있지만, 평일 관객수는 기대치에 비해 저조하다. 하지만 실망하긴 이르다. 주말 특수로 반등의 기회를 삼을 예정이다. 지난 14일 개봉한 영화 '아바타: 물의 길(제임스 카메론 감독)'은 개봉 첫날 35만, 둘째날 29만명을 넘겨 누적 관객수 65만명을 기록했다. 이 같은 수치는 극장가 비수]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['대상' 박수홍, 결혼 앞두고 겹경사 "다음 주 결혼 앞두고 커다란 선물" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20221216171226875</link>
-            <guid>https://v.daum.net/v/20221216171226875</guid>
-            <pubDate>Fri, 16 Dec 2022 08:21:50 GMT</pubDate>
-            <content:encoded><![CDATA['2022 한류문화대상 시상식' 박수홍 수상 결혼 앞두고 겹경사 [OSEN=최나영 기자] 한류닷컴(주)과 케이매거진 (K-MAGAZINE)이 공동 주관하는 2022 '한류문화대상 시상식'에서 &nbsp;개그맨 박수홍이 방송.예능인부문에서 대상을 수상했다. 지난 14일 서울 엘리에나호텔 5층 그랜드볼륨에서 열린 시상식은 개그맨 김주철과 아나운서 김지윤이 사회를 맡]]></content:encoded>
+            <title><![CDATA['여행의 맛' 조동아리X센 언니들, 시즌1 마지막 여행...울컥한 사연? (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20221216182900743</link>
+            <guid>https://v.daum.net/v/20221216182900743</guid>
+            <pubDate>Fri, 16 Dec 2022 10:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트 = 하수나 기자] 조동아리와 센 언니들이 ‘여행의 맛’ 시즌1을 마무리하며 울컥한 마음을 드러낸다. 16일 방송되는 TV조선 ‘여행의 맛’에서는 조동아리(김용만, 지석진, 김수용)와 센 언니들(이경실, 박미선, 조혜련)의 일본 여행 마지막 이야기가 펼쳐진다. 이날 조동아리와 센 언니들은 직접 장인에게 초밥을 만드는 법을 배울 수 있는 식당으로]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["역시 레전드, 다른 의미로 또 울컥" 카라 반기는 대중의 마음 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20221216170901798</link>
-            <guid>https://v.daum.net/v/20221216170901798</guid>
-            <pubDate>Fri, 16 Dec 2022 08:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[소피마르소의 머리 위로 헤드폰이 내려앉은 순간, 사랑은 시작됐습니다. 소녀의 눈앞에 완전히 다른 세상이 펼쳐졌지요. 아등바등 사느라 자주 놓치게 되는 당신의 낭만을 위하여, 잠시 헤드폰을 써보면 어떨까요. 어쩌면 현실보단 노래 속의 꿈들이 진실일지도 모르니까요. Dreams are my reality. &lt;기자말&gt; [손화신 기자] ▲ &nbsp;카라(강]]></content:encoded>
+            <title><![CDATA[하슬 "어떤 말도 할 수 없어"..츄 퇴출심경 담았나→11인 컴백 확정 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20221216182128531</link>
+            <guid>https://v.daum.net/v/20221216182128531</guid>
+            <pubDate>Fri, 16 Dec 2022 10:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김수형 기자] 츄 퇴출논란 후 11인조로 재편성한 이달의 소녀가&nbsp;컴백을 알린 가운데 멤버 하슬의 발언이 주목을 끌고 있다.&nbsp;&nbsp; 앞서 소속사 블록베리크리에이티브 측은 16일 OSEN에 "이달의 소녀가 2023년 1월 3일 컴백을 예고한 가운데, 발매 당일 별도의 미디어 쇼케이스 및 팬 쇼케이스 진행은 없을 것 같다"라고 입장을 밝혔다.&nbsp;별도의]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[문세윤 "결혼기념일에 아내 손 잡고 다녀"→뚱3, 부러움 폭발 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20221216170430699</link>
-            <guid>https://v.daum.net/v/20221216170430699</guid>
-            <pubDate>Fri, 16 Dec 2022 08:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트 = 하수나 기자] '맛있는 녀석들' 문세윤이 결혼기념일에 아내의 손을 잡고 다닌다고 고백, 미혼 멤버들의 부러움을 자아냈다. 16일 방송되는 채널 IHQ '맛있는 녀석들'에서 민어회와 소힘줄탕을 먹는 뚱5의 모습이 공개된다.&nbsp; 이날 홍윤화는 "오늘이 저의 4번째 결혼기념일이다"라며 남편 김민기의 서프라이즈 이벤트를 회상해 부러움을 자아냈다.]]></content:encoded>
+            <title><![CDATA[“경찰 무책임” 몬스타엑스 형원 눈물→분노 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20221216182041498</link>
+            <guid>https://v.daum.net/v/20221216182041498</guid>
+            <pubDate>Fri, 16 Dec 2022 10:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴]  교통사고처리특례법 이면이 공개됐다. 15일 방송된 JTBC ‘한문철의 블랙박스 리뷰’(약칭 ‘한블리’)에서는 신호를 잘 지킨 어린이와 아무 문제없이 등교하던 어린이들이 한순간의 사고로 인해 신체적 상해는 물론 마음의 상처까지 입게 된 사연이 공개돼 스튜디오를 웃음바다로 만들었다. 먼저 신호를 위반한 오토바이 운전자가 보행자 신호에 길을 건너]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[곽동연 "'빈센조' 종방연 156명 모여...시즌2? 작가님 손에" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20221216170200622</link>
-            <guid>https://v.daum.net/v/20221216170200622</guid>
-            <pubDate>Fri, 16 Dec 2022 08:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=노민택 기자] 배우 곽동연이 쉴 새 없이 일하는 이유에 대해 밝혔다. 16일 방송된 MBC FM4U '두시의 데이트 뮤지, 안영미입니다'에 곽동연이 게스트로 출연했다. 이날 안영미는 "왜 이렇게 열심히 일하냐"라고 질문했다. 이에 곽동연은 "도시가스비도 내야 되고 이것저것 돈 쓸 때도 많다"대답했다. 곽동연은 최근 '괴이', '육사오', '빅마]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["다비치부터 CEO까지" 강민경, 몸 10개도 부족하겠네 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20221216170122602</link>
-            <guid>https://v.daum.net/v/20221216170122602</guid>
-            <pubDate>Fri, 16 Dec 2022 08:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=연휘선 기자] 가수는 기본, CEO에 유튜버까지 다비치의 강민경이 몸이 열 개라도 부족한 일상을 뽐냈다. 강민경은 지난 15일 개인 유튜브 채널 '걍밍경'에 '빨빨거리고 돌아댕기는 걍밍경 연말 일상'이라는 제목의 영상을 게재했다. 공개된 영상에는 연말에도 바쁘게 일정을 소화하는 강민경의 모습이 담겼다.&nbsp; 그는 여성 듀오 그룹 다비치의 멤버이자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이승기와 후크의 다른 계산법, 50억 받은 이승기의 선택은 기부 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20221216165402395</link>
-            <guid>https://v.daum.net/v/20221216165402395</guid>
-            <pubDate>Fri, 16 Dec 2022 08:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=우빈 기자] 후크엔터테인먼트(이하 후크)와 미정산금 소송을 진행 중인 가수 겸 배우 이승기가 후크의 계산법에 분노했다. 그는 후크가 멋대로 계산해 입금한 '50억'과 앞으로 받을 미정산금도 기부하겠다고 밝혔다. 단순히 돈을 받고자 벌인 소송이 아니기에 소송 경비를 제외하고 사회에 환원하겠다는 것. 이승기는 지난 18년간 후크로부터 음원 수익을]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[주종혁X배윤경, 청춘들을 향한 위로와 응원의 메시지 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20221216165108333</link>
-            <guid>https://v.daum.net/v/20221216165108333</guid>
-            <pubDate>Fri, 16 Dec 2022 08:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]‘드라마스페셜 2022’의 일곱 번째 단막극 ‘아쉬탕가를 아시나요’ 주종혁과 배윤경이 서로의 빈자리를 채워주는 현실 로코로 안방극장 설렘 지수를 높였다. 어제(15일) 방송된 KBS 2TV ‘드라마 스페셜 2022’ 일곱 번째 단막극 ‘아쉬탕가를 아시나요(연출 이대경 / 극본 염제이)’는 꼬일 대로 꼬인 요가 강사 강나라(배]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘두데’ 곽동연 “‘빈센조’ 종방연에 160명 모여...시즌2 희망” (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20221216164203111</link>
-            <guid>https://v.daum.net/v/20221216164203111</guid>
-            <pubDate>Fri, 16 Dec 2022 08:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[배우 곽동연이 ‘빈센조’ 시즌2를 기대했다. 16일 방송된 MBC FM4U ‘두시의 데이트 뮤지 안영미입니다’(이하 ‘두데’)에는 음악극 ‘올드 위키드 송’에 출연하는 배우 곽동연이 게스트로 출연했다. 곽동연은 올해 티빙 오리지널 시리즈 ‘괴이’를 시작으로 드라마 ‘빅마우스’와 ‘가우스전자’, 영화 ‘육사오’, 오디오 무비 ‘극동’까지 5편의 출연작에서 활]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘영웅’ 쉬운 길 마다하고 국뽕, 신파로 풀지 않은 이유 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20221216162224535</link>
-            <guid>https://v.daum.net/v/20221216162224535</guid>
-            <pubDate>Fri, 16 Dec 2022 08:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 김범석 전문기자] ‘해운대’ ‘국제시장’을 연출한 쌍천만 윤제균 감독의 장점은 누구보다 신파에 강하다는 사실이다. 관객의 눈물과 웃음 버튼을 누구보다 잘 알고 있다는 뜻이다. 하지만 이런 신파 코드는 감독의 약점으로도 거론된다. 도마 안중근 의사의 엄숙한 삶을 그린 ‘영웅’을 보기 전 가장 먼저 든 키워드도 국뽕과 신파였다. 가슴으로 뜨거운 감정]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이달의 소녀 하슬, '츄 퇴출' 후 첫 심경.."어떤 말도 할 수 없다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20221216162019476</link>
-            <guid>https://v.daum.net/v/20221216162019476</guid>
-            <pubDate>Fri, 16 Dec 2022 08:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=선미경 기자] 그룹 이달의 소녀 멤버 하슬이 멤버 츄의 퇴출 이슈 이후 처음으로 팬들에게 직접 심경을 밝혔다. 하슬은 지난 15일 이달의 소녀의 공식 팬카페에 “안녕하세요. 이달의 소녀 하슬입니다”라는 제목으로 장문의 글을 게재했다. 먼저 하슬은 “벌써 6년이라는 시간이 흘렀네요. 항상 오빛(공식 팬덤)들에게 큰 힘이 됐으면 좋겠는데 갈수록]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['마이너스 가수'로 18년 버틴 이승기...후크의 일방적 '50억' 투척에 터진 분노 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20221216161619388</link>
-            <guid>https://v.daum.net/v/20221216161619388</guid>
-            <pubDate>Fri, 16 Dec 2022 08:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조윤선 기자] "'마이너스 가수'라는 말을 들으며 18년을 버텼으니까요. 그런 제가 후크를 상대로 소송에 나선 건 밀린 돈 때문이 아닙니다." 가수 겸 배우 이승기가 후크 엔터테인먼트의 일방적 태도에 결국 18년간 참아왔던 분노를 토해냈다. 후크 엔터테인먼트는 16일 "먼저 이번 일로, 가장 힘들고 어려운 시간을 보내고 있을 이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[주춤한 '아바타2'…놀라운 '올빼미' 흥행 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20221216160703201</link>
-            <guid>https://v.daum.net/v/20221216160703201</guid>
-            <pubDate>Fri, 16 Dec 2022 08:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 임시령 기자] '올빼미'가 21일 연속 박스오피스 1위를 차지하며 저력을 입증했다. 배우들의 호연, 작품성, 입소문의 결과다. '올빼미'는 다소 부진했던 극장가에 새로운 역사를 써내려가는 중이다. '올빼미'(감독 안태진·제작 씨제스엔터인먼트)는 밤에만 앞이 보이는 맹인 침술사가 세자의 죽음을 목격한 뒤 진실을 밝히는 모습을 그린 스릴러다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[192분 '아바타2' 극장가 주차대란…무료주차 3시간 룰 못 바꾸는 이유 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20221216160007980</link>
-            <guid>https://v.daum.net/v/20221216160007980</guid>
-            <pubDate>Fri, 16 Dec 2022 08:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=강효진 기자] 영화 '아바타: 물의 길'이 3시간이 넘는 러닝타임으로 관객들에게 뜻밖의 고민을 안기고 있다. 지난 14일 한국에서 전세계 최초 개봉한 '아바타: 물의 길'은 월드 와이드 역대 흥행 순위 1위를 기록한 '아바타'에 이어 13년 만에 공개되는 속편이다. 판도라 행성에서 '제이크 설리'와 '네이티리'가 이룬 가족이 겪게 되는]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[후크 "채무부존재 소송" vs 이승기 "밀린 돈 때문 아냐" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20221216160001964</link>
-            <guid>https://v.daum.net/v/20221216160001964</guid>
-            <pubDate>Fri, 16 Dec 2022 08:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 이경호 기자]  가수 겸 배우 이승기./사진=김휘선 기자 hwijpg@후크엔터테인먼트, 가수 겸 배우 이승기가 음원 수익료 정산 갈등에 대한 입장을 밝혔다. 16일 후크엔터테인먼트(이하 후크엔터)와 이승기가 음원 수익료 정산 문제와 관련해 각각의 입장을 전했다. 먼저, 이날 오전 후크엔터는 공식입장을 통해 이승기의 음원 수익료 정산 문제에]]></content:encoded>
+            <title><![CDATA[NCT 드림보다 먼저 태어난 '캔디', X→MZ세대 대통합 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20221216180016929</link>
+            <guid>https://v.daum.net/v/20221216180016929</guid>
+            <pubDate>Fri, 16 Dec 2022 10:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이슬 기자) NCT DREAM(엔시티 드림)이 H.O.T.의 'Candy'를 재해석했다. 16일 NCT DREAM은 겨울 스페셜 미니앨범 'Candy'(캔디)를 발매하고, 동명의 타이틀곡 'Candy'의 뮤직비디오를 공개했다. 'Candy'는 NCT DREAM만의 따뜻한 겨울 감성이 담긴 앨범이다. 동명의 타이틀 곡 'Candy'를 포함해 ']]></content:encoded>
         </item>
         <item>
             <title><![CDATA['이혼' 안젤라베이비·황효명, 같은 집으로...11개월 만 재결합? (다음 연예 ─ 뉴스 ─ 해외)]]></title>
@@ -1056,564 +1056,529 @@
             <content:encoded><![CDATA[[OSEN=최나영 기자] 배우 겸 감독 안젤리나 졸리(47)가&nbsp;17세의 딸 자하라가 범죄 피해자 입법을 옹호하기 위해 국회의사당에서 정치인들을 만나는 장면을 팬들과 공유하면서 부모로서의 자랑스러움을 드러냈다.&nbsp; 졸리는 17세의 딸 자하라를 미국 워싱턴 DC로 데려와 딸이&nbsp;국회의사당에서 국회의원들과 이야기하는 모습을 담은 사진을 14일(현지시간) 자신의]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[넷플릭스, 日 인기 만화 '시티헌터' 실사화…스즈키 료헤이 주연 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
-            <link>https://v.daum.net/v/20221215191308174</link>
-            <guid>https://v.daum.net/v/20221215191308174</guid>
-            <pubDate>Thu, 15 Dec 2022 10:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) 일본의 인기 만화 '시티헌터'가 할리우드에서 실사로 리메이크된다. 14일(현지시간) 넷플릭스는 '시티헌터'의 실사 드라마 제작 소식을 전하며 스즈키 료헤이가 주인공 료 사에바 역을 맡고&nbsp;'스트로베리 나이트' 시리즈, '위험한 비너스' 등으로 알려진 사토 유이치 감독이 연출을 맡는다고 발표했다. 호조 츠카사 작가가 1985년부터]]></content:encoded>
+            <title><![CDATA[[포토] (여자)아이들, '믿고 듣는 아이돌'(KBS가요대축제) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004788333</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004788333</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 (여자)아이들이 16일 오후 서울 잠실 실내체육관에서 열린 ‘2022 KBS 가요대축제:Y2K’(이하'가요대축제') 레드카펫 행사에 참석했다. 한편, 올해 ‘가요대축제’에는 보아, 코요태, 김우석, 엔시티127]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[고래사냥 반대라더니...'아바타2' 감독, 日서 돌고래쇼 봤다 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
-            <link>https://v.daum.net/v/20221215180830800</link>
-            <guid>https://v.daum.net/v/20221215180830800</guid>
-            <pubDate>Thu, 15 Dec 2022 09:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=신은주 기자] '아바타: 물의 길'의 제임스 캐머런 감독이 비판 여론에 휩싸였다. 지난 10일 제임스 캐머런 감독과 배우 샘 워싱턴, 조 샐다나, 시고니 위버 등은 영화 '아바타: 물의 길'(이하 '아바타2') 홍보를 위해 일본을 방문했다. 이날 일본에서 열린 기자간담회에서는 돌고래쇼가 진행됐다. 쇼에 동원된 돌고래들은 사육사를 부리에 태워 높]]></content:encoded>
+            <title><![CDATA[[Ms포토] 더보이즈 현재 '귀공자 비주얼' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=445&amp;aid=0000089476</link>
+            <guid>https://entertain.naver.com/now/read?oid=445&amp;aid=0000089476</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[더보이즈 현재가 16일 오후 서울 송파구 잠실 실내체육관에서 열린 '2022 KBS 가요대축제:Y2K'(이하'가요대축제') 레드카펫 행사에 참석해 포즈를 취하고 있다. 한편, 올해 '가요대축제'에는 보아, 코요태,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['엘렌쇼' 공동제작자, 호텔서 숨진 채 발견 "타살 정황 無" (다음 연예 ─ 뉴스 ─ 해외)]]></title>
-            <link>https://v.daum.net/v/20221215174315174</link>
-            <guid>https://v.daum.net/v/20221215174315174</guid>
-            <pubDate>Thu, 15 Dec 2022 09:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김종은 기자] '엘렌 드제너러스 쇼'의 DJ로 유명한 댄서 겸 배우 스티븐 보스가 사망했다. 향년 40세. 미국 연예매체 버라이어티는 14일(현지시간) "'트위치'로 불리기도 했던 스티븐 보스가 극단적 선택으로 생을 마감했다"고 보도했다. 故스티븐 보스의 가족은 그의 죽음을 인정하며 "이런 소식을 전하게 돼 마음이 부겁다. 스티븐은 어두운]]></content:encoded>
+            <title><![CDATA[[포토] 최예나, '귀여운 오리 포즈~'(KBS가요대축제) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004788331</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004788331</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[가수 최예나가 16일 오후 서울 잠실 실내체육관에서 열린 ‘2022 KBS 가요대축제:Y2K’(이하'가요대축제') 레드카펫 행사에 참석했다. 한편, 올해 ‘가요대축제’에는 보아, 코요태, 김우석, 엔시티127, 엔시]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[안젤라베이비·황효명, 이혼 11개월 만에 재결합설..집 앞서 포착 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
-            <link>https://v.daum.net/v/20221215173129827</link>
-            <guid>https://v.daum.net/v/20221215173129827</guid>
-            <pubDate>Thu, 15 Dec 2022 09:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=지민경 기자] 중국 톱스타 안젤라베이비와 황효명 부부가&nbsp;지난 1월 이혼한 가운데 11개월 만에 재결합설이 불거지고 있다. 15일(현지 시간) 중국 매체 시나연예 보도에 따르면 최근 황효명이 안젤라베이비의 집에 차를 타고 돌아가는 모습이 포착돼 두 사람의 관계에 대한 관심이 높아지고 있다. 보도에 따르면 안젤라베이비는 최근 중국 상하이에 위치한]]></content:encoded>
+            <title><![CDATA['4세대 청순돌' 아일리원, 첫 미니앨범 발매...1월 5일 컴백 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001238291</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001238291</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[‘4세대 청순돌’ 아일리원(ILY:1)이 새해 컴백한다. 내년 1월 5일 앨범을 발매하는 아일리원(아라, 리리카, 하나, 로나, 나유, 엘바)은 16일 공식 SNS 계정을 통해 첫 번째 미니앨범 ‘A DREAM OF]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['노민우 열애설' 아야세 하루카, 사토 타케루와 연말 결혼 발표? (다음 연예 ─ 뉴스 ─ 해외)]]></title>
-            <link>https://v.daum.net/v/20221215173000749</link>
-            <guid>https://v.daum.net/v/20221215173000749</guid>
-            <pubDate>Thu, 15 Dec 2022 09:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=박설이 기자]배우 노민우와 열애설에 휩싸였던 일본 배우 아야세 하루카가 결혼을 발표할 가능성이 제기됐다. 일본 주간지 주간여성 등 매체는 최근 아야세 하루카와 사토 타케루가 올 연말 결혼 발표를 할 수 있다고 보도했다. 아야세 하루카는 37세이며, 사토 타케루는 4살 여린 33세다. 두 사람의 열애설은 이미 오래 전부터 불거졌던 바. 아야세 하]]></content:encoded>
+            <title><![CDATA[[Ms포토] 펜타곤 '유니버스 사랑해' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=445&amp;aid=0000089462</link>
+            <guid>https://entertain.naver.com/now/read?oid=445&amp;aid=0000089462</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[펜타곤이 16일 오후 서울 송파구 잠실 실내체육관에서 열린 '2022 KBS 가요대축제:Y2K'(이하'가요대축제') 레드카펫 행사에 참석해 포즈를 취하고 있다. 한편, 올해 '가요대축제'에는 보아, 코요태, 김우석,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[홍진영 ‘걸 인 더 미러’ K팝 여자 가수 최초 아마존 5개차트 1위 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000666758</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000666758</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[가수 홍진영이 신곡 ‘걸 인 더 미러’(Girl in the mirror)로 아마존 2연속 정상에 올랐다. 홍진영의 글로벌 에이전시 제이피 포레스트(JP forest) 박준일 대표는 12월 16일 홍진영이 지난 12]]></content:encoded>
+            <title><![CDATA[[Ms포토] 펜타곤 후이 '전역했어요' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=445&amp;aid=0000089461</link>
+            <guid>https://entertain.naver.com/now/read?oid=445&amp;aid=0000089461</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[펜타곤 후이가 16일 오후 서울 송파구 잠실 실내체육관에서 열린 '2022 KBS 가요대축제:Y2K'(이하'가요대축제') 레드카펫 행사에 참석해 포즈를 취하고 있다. 한편, 올해 '가요대축제'에는 보아, 코요태, 김]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄 RM, 'KBS 뉴스9' 출연...진 입대 비하인드 푼다 [공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001238248</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001238248</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 방탄소년단 RM이 'KBS 뉴스 9'에 출격한다. KBS는 RM이 오는 18일 방송되는 KBS 1TV 'KBS 뉴스 9' 새 코너 '뉴스를 만나다'에 출연한다고 알렸다. '뉴스를 만나다'는 이재석 앵커가 한국]]></content:encoded>
+            <title><![CDATA[[포토] 에스파, '광야로 걸어가~'(KBS가요대축제) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004788328</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004788328</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 에스파가 16일 오후 서울 잠실 실내체육관에서 열린 ‘2022 KBS 가요대축제:Y2K’(이하'가요대축제') 레드카펫 행사에 참석했다. 한편, 올해 ‘가요대축제’에는 보아, 코요태, 김우석, 엔시티127, 엔시]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['대상' 박수홍, 결혼 앞두고 겹경사 "다음 주 결혼 앞두고 커다란 선물" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004758612</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004758612</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:04 GMT</pubDate>
-            <content:encoded><![CDATA['2022 한류문화대상 시상식' 박수홍 수상 결혼 앞두고 겹경사 한류닷컴(주)과 케이매거진 (K-MAGAZINE)이 공동 주관하는 2022 '한류문화대상 시상식'에서 개그맨 박수홍이 방송.예능인부문에서 대상을 수상했]]></content:encoded>
+            <title><![CDATA[[Ms포토] 고우림 '김연아♥' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=445&amp;aid=0000089460</link>
+            <guid>https://entertain.naver.com/now/read?oid=445&amp;aid=0000089460</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[포레스텔라 고우림이 16일 오후 서울 송파구 잠실 실내체육관에서 열린 '2022 KBS 가요대축제:Y2K'(이하'가요대축제') 레드카펫 행사에 참석해 포즈를 취하고 있다. 한편, 올해 '가요대축제'에는 보아, 코요태]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김호중X송가인, 듀엣곡 발매 확정…‘복덩이들고’ 최종회서 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003246522</link>
-            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003246522</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[가수 김호중과 송가인이 듀엣곡으로 합을 맞춘다. 김호중의 소속사 생각엔터테인먼트에 따르면, 김호중과 송가인은 듀엣곡 발매를 확정했다. ‘미스트롯’과 ‘미스터트롯’ 출신인 송가인과 김호중은 뛰어난 가창력과 장르 불문]]></content:encoded>
+            <title><![CDATA[[Ms포토] 포레스텔라 '목소리만큼 멋있어' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=445&amp;aid=0000089459</link>
+            <guid>https://entertain.naver.com/now/read?oid=445&amp;aid=0000089459</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[포레스텔라가 16일 오후 서울 송파구 잠실 실내체육관에서 열린 '2022 KBS 가요대축제:Y2K'(이하'가요대축제') 레드카펫 행사에 참석해 포즈를 취하고 있다. 한편, 올해 '가요대축제'에는 보아, 코요태, 김우]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[코요태, 18일 대구 콘서트로 연말 장식…히트곡 총망라 예고 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912572</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912572</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 코요태가 대구 공연의 열기를 벌써부터 뜨겁게 만들고 있다. 코요태는 오는 18일 오후 5시 대구 천마아트센터 그랜드홀에서 2022 코요태 콘서트 투어 ‘LET’s KOYOTE!’를 개최한다. 이번 콘서트 투어]]></content:encoded>
+            <title><![CDATA[[Ms포토] 포레스텔라 고우림 '피겨퀸 향한 사랑' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=445&amp;aid=0000089458</link>
+            <guid>https://entertain.naver.com/now/read?oid=445&amp;aid=0000089458</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[포레스텔라 고우림이 16일 오후 서울 송파구 잠실 실내체육관에서 열린 '2022 KBS 가요대축제:Y2K'(이하'가요대축제') 레드카펫 행사에 참석해 포즈를 취하고 있다. 한편, 올해 '가요대축제'에는 보아, 코요태]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["강렬하게, 끌린다"…에이티즈, 홍중X성화X윤호X여상 '스핀 오프 : 프롬 더 위트니스' 개인 콘셉트 포토 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003678492</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003678492</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 에이티즈(ATEEZ)가 국내 첫 싱글 앨범의 개인 콘셉트 포토 공개를 시작했다. 16일 에이티즈는 싱글 1집 ‘스핀 오프 : 프롬 더 위트니스(SPIN OFF : FROM THE WITNESS)’의 홍중, 성화]]></content:encoded>
+            <title><![CDATA[[포토] 에스파, '차원이 다른 비주얼'(KBS가요대축제) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004788327</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004788327</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 에스파가 16일 오후 서울 잠실 실내체육관에서 열린 ‘2022 KBS 가요대축제:Y2K’(이하'가요대축제') 레드카펫 행사에 참석했다. 한편, 올해 ‘가요대축제’에는 보아, 코요태, 김우석, 엔시티127, 엔시]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[코요태, 특별한 연말 선물...18일 대구 콘서트 '렛츠 코요태!' 개최 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=445&amp;aid=0000089386</link>
-            <guid>https://entertain.naver.com/now/read?oid=445&amp;aid=0000089386</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 코요태가 대구를 찾아 콘서트 투어의 뜨거운 열기를 잇는다. 코요태는 오는 18일 오후 5시 대구 천마아트센터 그랜드홀에서 2022 코요태 콘서트 투어 'LET's KOYOTE!'(렛츠 코요태!)를 개최한다. 이]]></content:encoded>
+            <title><![CDATA[[Ms포토] 스트레이키즈 '무대 찢을게' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=445&amp;aid=0000089441</link>
+            <guid>https://entertain.naver.com/now/read?oid=445&amp;aid=0000089441</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[스트레이키즈가 16일 오후 서울 송파구 잠실 실내체육관에서 열린 '2022 KBS 가요대축제:Y2K'(이하'가요대축제') 레드카펫 행사에 참석해 포즈를 취하고 있다. 한편, 올해 '가요대축제'에는 보아, 코요태, 김]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[NCT 127, 인생네컷에서 만나는 ‘질주’ (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000855728</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000855728</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127과 함께 담기는 인생네컷이 출시됐다. 16일 인생네컷 측은 16일부터 2023년 1월 25일까지 NCT 127 정규 4집 ‘질주’ 비하인드 포토로 디자인한 프레임을 전국 인생네컷 약 400개 매장과 AP]]></content:encoded>
+            <title><![CDATA[[Ms포토] 에이티즈 윤호-성화 '누가봐도 TOP스포' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=445&amp;aid=0000089440</link>
+            <guid>https://entertain.naver.com/now/read?oid=445&amp;aid=0000089440</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[에이티즈 윤호, 성화가 16일 오후 서울 송파구 잠실 실내체육관에서 열린 '2022 KBS 가요대축제:Y2K'(이하'가요대축제') 레드카펫 행사에 참석해 포즈를 취하고 있다. 한편, 올해 '가요대축제'에는 보아, 코]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빌리(Billlie), ‘RING ma Bell’로 영국 DAZED 선정 ‘베스트 K-POP’ 1위 등극 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000855727</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000855727</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[걸그룹 빌리(Billlie)가 영국 DAZED에게 음악성을 인정 받았다. 영국 매거진 DAZED는 14일(이하 현지 시간) 공식 홈페이지에 빌리의 ‘RING ma Bell (what a wonderful world)]]></content:encoded>
+            <title><![CDATA[[Ms포토] 에이티즈 '에이티니 설레는 비주얼' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=445&amp;aid=0000089438</link>
+            <guid>https://entertain.naver.com/now/read?oid=445&amp;aid=0000089438</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[에이티즈가 16일 오후 서울 송파구 잠실 실내체육관에서 열린 '2022 KBS 가요대축제:Y2K'(이하'가요대축제') 레드카펫 행사에 참석해 포즈를 취하고 있다. 한편, 올해 '가요대축제'에는 보아, 코요태, 김우석]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[후크 "정산금 54억 지급" vs 이승기 "일방적 입금, 기부할 것"(종합) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013646544</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013646544</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[후크 "채무부존재 확인 소송"…이승기 "정확한 계산 위해 법정 다툼" 이태수 안정훈 기자 = 가수 겸 배우 이승기와 소속사 후크엔터테인먼트간 음원 수익 정산금 분쟁이 결국 법정 공방으로 이어질 것으로 보인다. 후크엔]]></content:encoded>
+            <title><![CDATA[[Ms포토] ITZY(있지) '5색 비주얼' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=445&amp;aid=0000089437</link>
+            <guid>https://entertain.naver.com/now/read?oid=445&amp;aid=0000089437</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[ITZY(있지)가 16일 오후 서울 송파구 잠실 실내체육관에서 열린 '2022 KBS 가요대축제:Y2K'(이하'가요대축제') 레드카펫 행사에 참석해 포즈를 취하고 있다. 한편, 올해 '가요대축제'에는 보아, 코요태,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 RM, 18일 'KBS 뉴스 9' 출연…심층 인터뷰 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013646528</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013646528</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 방탄소년단(BTS)의 리더 RM이 KBS 뉴스 스튜디오를 찾는다. KBS 1TV는 주말 오후 9시에 방송되는 'KBS 뉴스9'를 부분 개편하고, 일요일 심층 인터뷰 코너인 '뉴스를 만나다' 첫 손님으로 RM을]]></content:encoded>
+            <title><![CDATA[[포토] 투모로우바이투게더, '압도적 잘생김~'(KBS가요대축제) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004788325</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004788325</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 투모로우바이투게더가 16일 오후 서울 잠실 실내체육관에서 열린 ‘2022 KBS 가요대축제:Y2K’(이하'가요대축제') 레드카펫 행사에 참석했다. 한편, 올해 ‘가요대축제’에는 보아, 코요태, 김우석, 엔시티1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이달의 소녀 하슬, '츄 퇴출' 후 "어떤 말도 할 수 없어" 의미심장 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001238240</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001238240</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 이달의 소녀 멤버 하슬이 팬 카페에 심경을 담은 글을 적었다. 츄가 퇴출된 뒤 처음으로 적은 글이어서 주목된다. 하슬은 15일 이달의 소녀 공식 팬 카페에 '안녕하세요 이달의 소녀 하슬입니다'라는 제목의 글을]]></content:encoded>
+            <title><![CDATA[[Ms포토] 있지 류진 '단발미모' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=445&amp;aid=0000089436</link>
+            <guid>https://entertain.naver.com/now/read?oid=445&amp;aid=0000089436</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[있지 류진이 16일 오후 서울 송파구 잠실 실내체육관에서 열린 '2022 KBS 가요대축제:Y2K'(이하'가요대축제') 레드카펫 행사에 참석해 포즈를 취하고 있다. 한편, 올해 '가요대축제'에는 보아, 코요태, 김우]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[로즈, '소방서 옆 경찰서' OST 부른다..짙은 감성 선사 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003113824</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003113824</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[가수 로즈(ROSE)가 '소방서 옆 경찰서'에 짙은 감성을 불어넣는다. 다날엔터테인먼트에 따르면 16일 오후 6시 각종 온라인 음원사이트에서 로즈가 참여한 SBS 금토드라마 '소방서 옆 경찰서' OST Part.6]]></content:encoded>
+            <title><![CDATA[[Ms포토] (여자)아이들 '빛나는 존재들' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=445&amp;aid=0000089435</link>
+            <guid>https://entertain.naver.com/now/read?oid=445&amp;aid=0000089435</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[(여자)아이들이 16일 오후 서울 송파구 잠실 실내체육관에서 열린 '2022 KBS 가요대축제:Y2K'(이하'가요대축제') 레드카펫 행사에 참석해 포즈를 취하고 있다. 한편, 올해 '가요대축제'에는 보아, 코요태,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[알렉사, UN 안보리 행사서 연설 "여성들 대담하게 나아가길" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001238239</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001238239</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[가수 알렉사(AleXa)가 K팝 대표 아티스트로 UN 안보리 행사에 참석했다. 알렉사는 15일(현지시간) 미국 뉴욕 더 타임스 센터에서 열린 '2024-25년 UN 안보리 비상임국 진출을 위한 행사'에 참석해 미니]]></content:encoded>
+            <title><![CDATA[[Ms포토] 원어스 '멋짐 가득' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=445&amp;aid=0000089433</link>
+            <guid>https://entertain.naver.com/now/read?oid=445&amp;aid=0000089433</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[원어스가 16일 오후 서울 송파구 잠실 실내체육관에서 열린 '2022 KBS 가요대축제:Y2K'(이하'가요대축제') 레드카펫 행사에 참석해 포즈를 취하고 있다. 한편, 올해 '가요대축제'에는 보아, 코요태, 김우석,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김호중X송가인, 특급 컬래버...듀엣곡 발매 확정 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001238238</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001238238</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[가수 김호중과 송가인이 특급 컬래버로 뭉친다. 16일 생각엔터테인먼트에 따르면, 현재 ‘복덩이들고’에서 함께 출연중인 김호중과 송가인은 듀엣곡 발매를 확정했다. 두 사람의 듀엣곡은 작곡가 조영수의 작품으로 알려졌다.]]></content:encoded>
+            <title><![CDATA[[포토] 투모로우바이투게더, '귀공자 느낌 물씬~'(KBS가요대축제) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004788323</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004788323</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 투모로우바이투게더가 16일 오후 서울 잠실 실내체육관에서 열린 ‘2022 KBS 가요대축제:Y2K’(이하'가요대축제') 레드카펫 행사에 참석했다. 한편, 올해 ‘가요대축제’에는 보아, 코요태, 김우석, 엔시티1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[전설의 귀환…소녀시대·카라의 데뷔 15주년 컴백[이진송의 아니 근데] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=032&amp;aid=0003193333</link>
-            <guid>https://entertain.naver.com/now/read?oid=032&amp;aid=0003193333</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[2009년 전후의 K팝 전성기를 추억하십니까? 알록달록한 컬러 스키니진을 옷장에 들인 적 있으십니까? 멜빵 바지만 보면 냅다 엉덩이를 흔들고 싶으십니까? ‘다시 만난 세계’의 전주를 들으면 눈물이 고이십니까? 일이]]></content:encoded>
+            <title><![CDATA[김태형X지하용 크러핀, 한중 동시 음원공개쇼케이스도 '성공적' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=629&amp;aid=0000190591</link>
+            <guid>https://entertain.naver.com/now/read?oid=629&amp;aid=0000190591</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[크리스마스 이브에 강촌서 첫 게릴라 이벤트수익금 전액 기부 가수 김태형과 지하용이 의기투합한 프로젝트 그룹 '크러핀'이 첫 음원 공개에 이어 성공적인 쇼케이스를 이끌며 본격 활동에 돌입한다. 크러핀은 15일 크리스마]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이달소 하슬, "지금은 어떤 말도 할 수 없어…서로 힘이 되어주길" 심경 고백[전문] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000908596</link>
-            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000908596</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 이달의 소녀 멤버 하슬이 팬들에게 의미심장한 심경을 전했다. 하슬은 지난 15일 이달의 소녀 공식 팬카페를 통해 “벌써 6년이라는 시간이 흘렀다. 항상 오빛들에게 큰 힘이 되었으면 좋겠는데 갈수록 제 부족함만]]></content:encoded>
+            <title><![CDATA[[Ms포토] 최예나 '귀여워' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=445&amp;aid=0000089432</link>
+            <guid>https://entertain.naver.com/now/read?oid=445&amp;aid=0000089432</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[최예나가 16일 오후 서울 송파구 잠실 실내체육관에서 열린 '2022 KBS 가요대축제:Y2K'(이하'가요대축제') 레드카펫 행사에 참석해 포즈를 취하고 있다. 한편, 올해 '가요대축제'에는 보아, 코요태, 김우석,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빌리, 2022 AAA '포텐셜상' 수상에 감격 "앞으로 더 성장할게요" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003113814</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003113814</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 빌리가 '2022 AAA' 포텐셜상 수상에 감격했다. 빌리 공식 트위터에는 지난 14일 "Thank you to AAA! We love you Belllie've"라는 글과 함께 사진이 게재됐다. 사진에는 13]]></content:encoded>
+            <title><![CDATA[[Ms포토] 에스파 카리나 '너무 예뻐' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=445&amp;aid=0000089431</link>
+            <guid>https://entertain.naver.com/now/read?oid=445&amp;aid=0000089431</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[에스파 카리나가 16일 오후 서울 송파구 잠실 실내체육관에서 열린 '2022 KBS 가요대축제:Y2K'(이하'가요대축제') 레드카펫 행사에 참석해 포즈를 취하고 있다. 한편, 올해 '가요대축제'에는 보아, 코요태,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[유명 밴드 보컬父, 9억원 사기로 징역3년 "죄질 불량" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000908592</link>
-            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000908592</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[유명 밴드 보컬의 아버지가 아파트 분양 대행권 등을 빌미로 9억원을 편취한 혐의(사기)로 실형을 선고받고 법정 구속됐다. 16일 법조계에 따르면 수원지법 형사11단독 김유랑 부장판사는 지난 15일 사기 혐의로 기소된]]></content:encoded>
+            <title><![CDATA[[Ms포토] 에스파 윈터 '시선을 사로잡는 미모' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=445&amp;aid=0000089430</link>
+            <guid>https://entertain.naver.com/now/read?oid=445&amp;aid=0000089430</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[에스파 윈터가 16일 오후 서울 송파구 잠실 실내체육관에서 열린 '2022 KBS 가요대축제:Y2K'(이하'가요대축제') 레드카펫 행사에 참석해 포즈를 취하고 있다. 한편, 올해 '가요대축제'에는 보아, 코요태, 김]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한리이X장우람 프로듀서 ‘머스트 해브 러브’ 리메이크 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003246518</link>
-            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003246518</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[크리스마스 캐럴 ‘머스트 해브 러브’가 새롭게 찾아온다. 가수 한리이와 보컬 트레이너이자 프로듀서 장우람이 ‘머스트 해브 러브’(Must Have Love) 리메이크 음원을 발매한다. 지난 2006년 발매된 ‘머스트]]></content:encoded>
+            <title><![CDATA[[포토] 케플러, '괴물 신인'(KBS가요대축제) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004788319</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004788319</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 케플러가 16일 오후 서울 잠실 실내체육관에서 열린 ‘2022 KBS 가요대축제:Y2K’(이하'가요대축제') 레드카펫 행사에 참석했다. 한편, 올해 ‘가요대축제’에는 보아, 코요태, 김우석, 엔시티127, 엔시]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아이브 ‘러브 다이브’, 美 타임지 선정 올해 최고의 K팝 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001238235</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001238235</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[아이브(IVE)의 히트곡 '러브 다이브(Love Dive)'가 타임지가 꼽은 올해의 최고 K팝으로 꼽혔다. 미국 시사 전문지 타임(TIME)이 지난 13일(현지시간) 발표한 '2022 베스트 K-팝 노래와 앨범(Th]]></content:encoded>
+            <title><![CDATA[[포토] 펜타곤 '시크하게 올블랙' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003950895</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003950895</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022 KBS 가요대축제 레드카펫이 16일 서울 송파구 잠실실내체육관에서 열렸다. 펜타곤이 포토타임을 갖고 있다. /2022.12.16]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[홍진영, '걸 인 더 미러' 아마존 5개 차트 1위..K팝 여가수 최초 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003113804</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003113804</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[가수 홍진영이 글로벌 앨범 '걸 인더 미러'(Girl in the mirror)로 여성 아티스트 최초 아마존 2연속 정상에 올랐다. 독보적인 콘셉트와 음악으로 글로벌 시장의 주목을 받고 있는 홍진영의 'Girl in]]></content:encoded>
+            <title><![CDATA[유재석+택시기사=셜록과 왓슨? ‘짬바’ 폭발한다 (놀뭐) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001022381</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001022381</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[유재석이 택시 기사와 ‘셜록과 왓슨’ 콤비를 결성한다. 17일 방송되는 MBC ‘놀면 뭐하니?’에서는 지난번 실패로 끝난 ‘우당탕탕 전원 탑승’ 재도전이 펼쳐진다. “한번 더 기회를 줘”라며 의지를 불태운 멤버들의]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김호중X송가인, 레전드 컬래서 성사...듀엣곡 발매 "복정이들고"서 최초 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=445&amp;aid=0000089384</link>
-            <guid>https://entertain.naver.com/now/read?oid=445&amp;aid=0000089384</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[가수 김호중과 송가인이 함께 환상적인 하모니를 선사한다. 16일 소속사 생각엔터테인먼트는 김호중과 송가인의 듀엣곡 발매를 확정지었다고 밝혔다. 두 사람의 듀엣곡은 TV조선 '복덩이들고(GO)' 최종회에서 공개될 예정]]></content:encoded>
+            <title><![CDATA[[사진]더보이즈,'올 블랙으로 깔끔하게' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004758665</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004758665</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[16일 오후 서울 잠실 실내체육관에서 ‘2022 KBS 가요대축제:Y2K’ 레드카펫 행사가 진행됐다. 그룹 더보이즈가 무대 위에서 포즈를 취하고 있다. 2022.12.16]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['데뷔 9일차' &TEAM, 日 오리콘 주간 합산 랭킹 1위 등극 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001238234</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001238234</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:04 GMT</pubDate>
-            <content:encoded><![CDATA['하이브 첫 일본 그룹' &amp;TEAM(앤팀)이 데뷔 앨범으로 한국과 일본 양국에서 뜨거운 반응을 얻고 있다. &amp;TEAM(의주, 후마, 케이, 니콜라스, 유마, 조, 하루아, 타키, 마키)의 데뷔 앨범 'First Ho]]></content:encoded>
+            <title><![CDATA[[포토] 더보이즈 '모두 센터급 비주얼' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003950894</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003950894</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022 KBS 가요대축제 레드카펫이 16일 서울 송파구 잠실실내체육관에서 열렸다. 더보이즈가 포토타임을 갖고 있다. /2022.12.16]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아이브 '러브 다이브', 美 타임 선정 '올해의 K팝 노래' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011595675</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011595675</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 아이브가 글로벌 영향력을 입증했다. 미국 시사 전문지 타임(TIME)이 최근 발표한 2022 '베스트 K-팝 노래' 부문에 아이브의 두 번째 싱글 타이틀곡 '러브 다이브' 이름을 올렸다. 타임지는 '러브 다이브]]></content:encoded>
+            <title><![CDATA[[포토S] 더보이즈 영훈, 남자의 청순미 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000400499</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000400499</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022 KBS 가요대축제 레드카펫 행사가 16일 오후 서울 송파구 잠실 실내체육관 농구장에서 열렸다. 더보이즈 영훈이 포즈를 취하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[원로 연극인 김성옥, 향년 87세로 금일 별세…손숙 남편상 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=030&amp;aid=0003066490</link>
-            <guid>https://entertain.naver.com/now/read?oid=030&amp;aid=0003066490</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[배우 손숙의 남편이자 67년 연기인생을 걷던 원로 연극인 김성옥이 결국 별세했다. 16일 제작자 신시컴퍼니 측은 공식채널을 통해 배우 겸 연극연출가 김성옥의 별세소식을 전했다. 故 김성옥은 1956년 연극데뷔 이후]]></content:encoded>
+            <title><![CDATA[[포토] 펜타곤, 슈트 매력 뽐내며 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0005061419</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0005061419</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[‘2022 KBS 가요대축제’가 16일 오후 잠실동 잠실 실내체육관에서 열렸다. 이날 가요대축제는 보아, 김우석, 엔시티 127(NCT 127), 엔시티 드림(NCT DREAM), 펜타곤, 더보이즈, 프로미스나인,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빌리 '링 마 벨', 英 데이즈드 선정 '2022 베스트 K팝' 1위 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000325388</link>
-            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000325388</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[빌리(시윤·수현·츠키·션·하람·문수아·하루나)가 영국 유명 매거진 데이즈드(DAZED)에게 음악성을 인정받았다. 데이즈드는 14일(현지시간) 공식 홈페이지에 빌리의 '링 마 벨 (왓 어 원더풀 월드)(RING ma]]></content:encoded>
+            <title><![CDATA[[T포토] 현재 '더비 약속해줘~' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001238292</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001238292</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 더보이즈 현재가 16일 오후 서울 송파구 잠실 실내체육관에서 열린 ‘2022 KBS 가요대축제:Y2K’(이하'가요대축제') 레드카펫 행사에 참석하고 있다. 한편, 올해 ‘가요대축제’에는 보아, 코요태, 김우석,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아이브 ‘LOVEDIVE’, 美 타임지 선정 ‘올 최고의 K팝 노래’ (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000631950</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000631950</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계가 ‘MZ 워너비 아이콘’ 아이브(IVE)의 매력 속으로 다이브(DIVE) 하고 있다. 아이브(안유진·가을·레이·장원영·리즈·이서)는 미국 시사 전문지 타임(TIME)이 지난 13일(현지시간) 발표한 '202]]></content:encoded>
+            <title><![CDATA[[포토] 스트레이키즈 현진 '훈훈 그 자체' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003246575</link>
+            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003246575</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 스트레이키즈 현진이 16일 오후 서울 송파구 잠실종합운동장에서 진행된 '2022 KBS 가요대축제' 포토월 행사에 참석해 포즈를 취하고 있다. /2022.12.16.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[영상] 황금색에 새겨진 BTS 로고…데뷔 10주년 기념 메달 출시 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013646638</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013646638</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 한국조폐공사는 2023년 그룹 방탄소년단(BTS) 데뷔 10주년을 맞아 이를 기념하기 위한 공식 기념 메달을 16일 국내·외에 출시했습니다. 메달 앞면에는 방탄소년단 영문명인 'BTS'와 멤버들의 영문 이름을 새겼고, 양 측면에는 데뷔 연도인 '2013'과 10주년이 되는 해인 '2023'을 각인했습니다...]]></content:encoded>
+            <title><![CDATA[[포토] 스트레이키즈 필릭스 '그 하트 저에게 주세요' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003246574</link>
+            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003246574</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 스트레이키즈 필릭스가 16일 오후 서울 송파구 잠실종합운동장에서 진행된 '2022 KBS 가요대축제' 포토월 행사에 참석해 포즈를 취하고 있다. /2022.12.16.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이윤진, 남편 이범수 갑질 의혹에 "한없이 질책, 오해 퍼지지 않길" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000325387</link>
-            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000325387</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이범수가 일명 '교수 갑질 의혹'에 휩싸인 가운데, 아내 이윤진이 심경을 밝혔다. 16일 이윤진은 SNS를 통해 장문의 글을 게재했다. 이범수가 과거 신한대학교 제자들과 봉사활동을 했던 사진도 함께 올렸다. 이]]></content:encoded>
+            <title><![CDATA[[포토] 있지 채령 '고급진 미모' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003246573</link>
+            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003246573</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 있지 채령이 16일 오후 서울 송파구 잠실종합운동장에서 진행된 '2022 KBS 가요대축제' 포토월 행사에 참석해 포즈를 취하고 있다. /2022.12.16.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["튼튼한 차 타세요" 조현아 차상태… 범퍼 박살났네 '헉' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000878581</link>
-            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000878581</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 어반자카파 멤버 조현아가 자신의 차 상태를 공개했다. 16일 조현아는 "차량 협찬은 맞지만 협찬 유무 상관없이 정말 제가 직접 겪은 차량 사고 관련 꼭 공유하고 싶은 내용이 있어서 글을 남겨요"라며 "며칠 전,]]></content:encoded>
+            <title><![CDATA[[포토] 스트레이키즈 '눈호강 비주얼' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003246572</link>
+            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003246572</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 스트레이키즈가 16일 오후 서울 송파구 잠실종합운동장에서 진행된 '2022 KBS 가요대축제' 포토월 행사에 참석해 포즈를 취하고 있다. /2022.12.16.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김호중X송가인, 듀엣곡 발매 확정…‘복덩이들고’ 최종회서 공개 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003246522</link>
-            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003246522</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[가수 김호중과 송가인이 듀엣곡으로 합을 맞춘다. 김호중의 소속사 생각엔터테인먼트에 따르면, 김호중과 송가인은 듀엣곡 발매를 확정했다. ‘미스트롯’과 ‘미스터트롯’ 출신인 송가인과 김호중은 뛰어난 가창력과 장르 불문]]></content:encoded>
+            <title><![CDATA[[포토] 포레스텔라 '좋은 무대 기대하세요' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003950893</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003950893</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022 KBS 가요대축제 레드카펫이 16일 서울 송파구 잠실실내체육관에서 열렸다. 포레스텔라가 포토타임을 갖고 있다. /2022.12.16]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[게시판] 세종학당재단, 주한 외국 공관에 학당 사업 설명회 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013646627</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013646627</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[▲ 세종학당재단(이사장 이해영)은 16일 서울 중구 롯데호텔에서 30개국 주한 외국 공관 관계자를 초청해 현지에서 한국어·한국문화를 보급하는 세종학당 사업 설명회를 개최했다. 이 중에는 세종학당이 없는 동티모르, 몰]]></content:encoded>
+            <title><![CDATA[[포토S] 더보이즈 영훈, '만화 찢고 나왔네' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000400498</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000400498</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022 KBS 가요대축제 레드카펫 행사가 16일 오후 서울 송파구 잠실 실내체육관 농구장에서 열렸다. 더보이즈 영훈이 포즈를 취하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이범수 아내 이윤진 "앞에선 웃고 뒤에선 '카더라' 두려워" 장문 심경글 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000908598</link>
-            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000908598</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이범수 아내 이윤진 씨. 출처 | 이윤진 채널 배우 이범수의 아내 이윤진씨가 학생 갑질 의혹을 받고 있는 교수 남편에 대해 장문의 해명글을 올렸다. 지난 2014년부터 의정부시 신한대 공연예술학부 교수로 일하고]]></content:encoded>
+            <title><![CDATA[조현아, 남산 터널서 큰 사고 당했다.."튼튼한 차 타세요" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003113941</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003113941</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[가수 조현아가 남산 터널에서 차량 사고를 당했다. 조현아는 16일 자신의 인스타그램에 "차량협찬은 맞지만 협찬유무 상관없이 정말 제가 직접 겪은 차량 사고 관련 꼭 공유하고 싶은 내용이 있어서 글을 남겨요"라고 말문]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[안선영 "40세에 심한 난산...산부인과 최악의 출산 케이스" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003950824</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003950824</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[방송인 안선영이 출산 당시 힘들었던 기억을 떠올렸다. 안선영은 16일 "최고의 성형은 다이어트. 같은 사람 맞나요? 오늘 유튜브 자료 찾느라 예전 사진 뒤져보는데 눈물겹네요"라며 다이어트 전후 비교 사진을 올렸다.]]></content:encoded>
+            <title><![CDATA[[포토] 있지 류진 '심쿵' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003950892</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003950892</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022 KBS 가요대축제 레드카펫이 16일 서울 송파구 잠실실내체육관에서 열렸다. 있지가 포토타임을 갖고 있다. /2022.12.16]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이승기 "소송, 돈 때문 아냐…미정산금 얼마 되든 전액 기부" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=079&amp;aid=0003718229</link>
-            <guid>https://entertain.naver.com/now/read?oid=079&amp;aid=0003718229</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[가수 겸 배우 이승기가 후크 엔터테인먼트로부터 받지 못한 음원 정산금 중 소송 경비를 제한 전액을 사회에 환원하겠다고 밝혔다. 이승기는 16일 오후 자신의 인스타그램에 글을 올려 "저는 지금까지 음원 정산을 받을 돈]]></content:encoded>
+            <title><![CDATA[[포토] 프로미스나인 '빛나는 미모' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003950891</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003950891</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022 KBS 가요대축제 레드카펫이 16일 서울 송파구 잠실실내체육관에서 열렸다. 프로미스나인이 포토타임을 갖고 있다. /2022.12.16]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[방송소식] KBS 다큐 '성여', URTI 국제다큐멘터리대상 동상 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013646619</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013646619</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[아리랑TV, 싱가포르 채널에 전주시 관광 홍보 영상 방송 강애란 기자 김우진 인턴기자 = ▲ KBS 다큐 '성여', URTI 국제다큐멘터리대상 동상 = KBS 1TV는 '다큐 인사이트- 성여'가 지난 15일 프랑스에]]></content:encoded>
+            <title><![CDATA[[포토] 에이티즈 '여유 넘치는 손인사' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003246571</link>
+            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003246571</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 에이티즈가 16일 오후 서울 송파구 잠실종합운동장에서 진행된 '2022 KBS 가요대축제' 포토월 행사에 참석해 포즈를 취하고 있다. /2022.12.16.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[후크 "미정산금 41억 지급" vs 이승기 "전액 기부…계산법 이해 못해"(종합) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006523814</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006523814</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[후크 엔터테인먼트 측이 가수 겸 배우 이승기(35)에게 미정산된 음원 정산금을 전액 지급하면서 정산금 관련 분쟁을 종결하겠다고 나선 가운데, 이승기는 미정산금을 기부하고 계속해서 법정 싸움을 이어가겠다고 밝혔다. 소]]></content:encoded>
+            <title><![CDATA[[사진]프로미스나인 이나경,'여신의 볼하트' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004758664</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004758664</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[16일 오후 서울 잠실 실내체육관에서 ‘2022 KBS 가요대축제:Y2K’ 레드카펫 행사가 진행됐다. 그룹 프로미스나인 이나경이 무대 위에서 포즈를 취하고 있다. 2022.12.16]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ITZY(있지) 리아, '환혼 : 빛과 그림자' 첫 OST 주자…18일 '푸른꽃' 발표 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=030&amp;aid=0003066487</link>
-            <guid>https://entertain.naver.com/now/read?oid=030&amp;aid=0003066487</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[ITZY(있지) 리아가 '환혼' 새로운 시즌을 밝히는 첫 OST 주자로 나선다. 16일 CJ ENM 측은 ITZY 리아가 가창한 tvN 토일드라마 ‘환혼: 빛과 그림자’(연출 박준화, 극본 홍정은 홍미란) 첫 OST]]></content:encoded>
+            <title><![CDATA[[T포토] 에이티즈 '가요대축제 출격' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001238290</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001238290</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 에이티즈가 16일 오후 서울 송파구 잠실 실내체육관에서 열린 ‘2022 KBS 가요대축제:Y2K’(이하'가요대축제') 레드카펫 행사에 참석하고 있다. 한편, 올해 ‘가요대축제’에는 보아, 코요태, 김우석, 엔시]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[전문] 이윤진 "이범수, 차별·갑질 논란 한없이 자책…소을·다을이와 즐겁게 인사했는데" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003950823</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003950823</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이범수의 아내 이윤진이 남편의 학생 차별 및 갑질 의혹에 대한 심경을 고백했다. 이윤진은 15일 "신한대학교 몽골 봉사를 학생들과 함께 간 기억이 있다. 한 기수의 학과 친구들이 단체로 우리 집에 놀러온 적도]]></content:encoded>
+            <title><![CDATA[[포토] 있지 채령-유나 '너무 예뻐!' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003950890</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003950890</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022 KBS 가요대축제 레드카펫이 16일 서울 송파구 잠실실내체육관에서 열렸다. 있지가 포토타임을 갖고 있다. /2022.12.16]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['오늘은 좀 매울지도 몰라' 김서형, 점층적 오열 연기…명불허전 존재감 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000400451</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000400451</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:12 GMT</pubDate>
-            <content:encoded><![CDATA['오늘은 좀 매울지도 몰라' 김서형이 적재적소 감정 연기로 극을 풍성하게 만들고 있다. 왓챠 오리지널 드라마 '오늘은 좀 매울지도 몰라'에서 소소한 행복을 찾아가는 다정으로 분한 김서형이 힘든 현실 속에서도 웃음을]]></content:encoded>
+            <title><![CDATA[[포토] 있지 예지 '오늘도 예쁨' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003950889</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003950889</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022 KBS 가요대축제 레드카펫이 16일 서울 송파구 잠실실내체육관에서 열렸다. 있지가 포토타임을 갖고 있다. /2022.12.16]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한승연, 카라 데뷔 15주년 변함없는 미모...'남는건 셀카밖에 없드아' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000585848</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000585848</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 카라 한승연이 근황을 전했다. 16일 한승연은 "뮤직비디오...셀카밖에 없드아..."라는 글과 함께 사진을 게재했다. 사진 속 한승연은 뮤직비디오 촬영 중 찍었던 사진을 공개했다. 한편 카라는 지난달 29일 일]]></content:encoded>
+            <title><![CDATA[[포토] 있지 리아 '수줍은 미소' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003950888</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003950888</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022 KBS 가요대축제 레드카펫이 16일 서울 송파구 잠실실내체육관에서 열렸다. 있지가 포토타임을 갖고 있다. /2022.12.16]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[유재석, 명탐정 셜록 홈즈 빙의…택시 기사와 공조 케미('놀면 뭐하니?') (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000400449</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000400449</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[유재석이 명탐정 셜록 홈즈에 빙의해 택시 기사와 공조를 펼친다. 17일 방송되는 MBC 예능프로그램 '놀면 뭐하니?'에서는 실패로 끝났던 '우당탕탕 전원 탑승'이 멤버들의 "한번 더 기회를 줘"라는 의지에 따라 한층]]></content:encoded>
+            <title><![CDATA[[포토] 포레스텔라, 천상의 보이스 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0005061418</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0005061418</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[‘2022 KBS 가요대축제’가 16일 오후 잠실동 잠실 실내체육관에서 열렸다. 이날 가요대축제는 보아, 김우석, 엔시티 127(NCT 127), 엔시티 드림(NCT DREAM), 펜타곤, 더보이즈, 프로미스나인,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[환경 보호하자던 '아바타: 물의 길', 日 돌고래쇼 관람 논란 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000325385</link>
-            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000325385</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:12 GMT</pubDate>
-            <content:encoded><![CDATA['아바타: 물의 길' 팀이 돌고래 쇼 관람으로 비판을 받고 있다. 최근 영화 '아바타: 물의 길' 제임스 카메론 감독을 비롯해 배우 조 샐다나, 샘 워싱턴, 시고니 위버 등은 각국을 돌며 개봉 프로모션을 진행했다.]]></content:encoded>
+            <title><![CDATA[[사진]프로미스나인,'상큼 발랄 깜찍' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004758663</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004758663</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[16일 오후 서울 잠실 실내체육관에서 ‘2022 KBS 가요대축제:Y2K’ 레드카펫 행사가 진행됐다. 그룹 프로미스나인이 무대 위에서 포즈를 취하고 있다. 2022.12.16]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['돌싱글즈3' 조예영, 소두인데 뒤로 간 ♥한정민에 투정 폭발 "여보가 대빵?" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000585846</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000585846</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:12 GMT</pubDate>
-            <content:encoded><![CDATA['돌싱글즈3' 커플 한정민과 조예영이 커플샷을 공개하며 얼굴 크기를 두고 귀여운 말씨름을 했다. 조예영은 16일 "꼭 얼굴 쪼꼼한 애들(?)이 뒤로 가드라"라며 한정민과 함께 찍은 사진을 게재했다. 이를 본 한정민은]]></content:encoded>
+            <title><![CDATA[[포토S] 프로미스나인 이채영, 빠져드는 미모 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000400496</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000400496</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022 KBS 가요대축제 레드카펫 행사가 16일 오후 서울 송파구 잠실 실내체육관 농구장에서 열렸다. 프로미스나인 이채영이 포즈를 취하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['불후의 명곡' 김조한 특집…환희 "오늘만큼은 우승 하고 싶다" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000400448</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000400448</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:12 GMT</pubDate>
-            <content:encoded><![CDATA['대한민국 R&amp;B 대디' 김조한이 '불후의 명곡-아티스트 김조한' 특집으로 돌아온다. 오는 17일 방송되는 KBS2 음악 예능프로그램 '불후의 명곡' 585회는 '아티스트 김조한' 특집으로 꾸며진다. 올해 '왕중왕전]]></content:encoded>
+            <title><![CDATA[프로미스나인 이채영 ‘매력 하트’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912628</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912628</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022 KBS 가요대축제 포토월이 16일 오후 서울 송파구 잠실 실내체육관에서 열렸다. 프로미스나인 이채영이 포토타임을 갖고 있다. 잠실(서울)=천정환 MK스포츠 기자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘SF9’ 로운, 겨울 한파도 녹여줄 따스한 공항패션과 선그라스 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000585845</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000585845</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[보이그룹 SF9의 멤버 겸 배우 로운이 훈훈한 남친룩의 정석을 완성했다. 16일 오전 가수 겸 배우 로운이 콘서트 일정 참석차 김포국제공항을 통해 일본 도쿄로 출국했다. 이날 로운은 파라다이스 블루 폴리파유 보머 재]]></content:encoded>
+            <title><![CDATA[프로미스나인 이새롬 ‘반가운 인사’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912627</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912627</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022 KBS 가요대축제 포토월이 16일 오후 서울 송파구 잠실 실내체육관에서 열렸다. 프로미스나인 이새롬이 포토타임을 갖고 있다. 잠실(서울)=천정환 MK스포츠 기자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 제이홉, 새해 美에서 보낸다…타임스퀘어에서 공연 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000400447</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000400447</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 방탄소년단(BTS) 멤버 제이홉이 미국 타임스퀘어에서 새해를 맞는다. 16일 방탄소년단 공식 SNS에 따르면 제이홉은 31일(이하 현지시간) 미국 ABC TV 유명 새해맞이 프로그램 '딕 클락스 뉴 이어스 로킨]]></content:encoded>
+            <title><![CDATA[펜타곤 ‘가요대축제 기대하세요’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912626</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912626</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022 KBS 가요대축제 포토월이 16일 오후 서울 송파구 잠실 실내체육관에서 열렸다. 펜타곤이 포토타임을 갖고 있다. 잠실(서울)=천정환 MK스포츠 기자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이승기와 후크의 다른 계산법, 50억 받은 이승기의 선택은 기부 [TEN피플] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000585844</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000585844</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[후크엔터테인먼트(이하 후크)와 미정산금 소송을 진행 중인 가수 겸 배우 이승기가 후크의 계산법에 분노했다. 그는 후크가 멋대로 계산해 입금한 '50억'과 앞으로 받을 미정산금도 기부하겠다고 밝혔다. 단순히 돈을 받고]]></content:encoded>
+            <title><![CDATA[더보이즈 ‘가요대축제 즐겨요~’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912625</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912625</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022 KBS 가요대축제 포토월이 16일 오후 서울 송파구 잠실 실내체육관에서 열렸다. 더보이즈가 포토타임을 갖고 있다. 잠실(서울)=천정환 MK스포츠 기자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[배우 김성옥, 오늘(16일) 별세...손숙 배우자상 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001826565</link>
-            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001826565</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[배우 김성옥 씨가 별세했다. 향년 87세. 16일 신시컴퍼니는 김성옥 씨가 이날 세상을 떠났다고 밝혔다. 고인의 아내인 배우 손숙 씨는 자녀들과 함께 상주로 빈소를 지킬 예정이다. 빈소는 봉황장례문화원에 마련됐다.]]></content:encoded>
+            <title><![CDATA[고우림 ‘김연아의 남자’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912623</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912623</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022 KBS 가요대축제 포토월이 16일 오후 서울 송파구 잠실 실내체육관에서 열렸다. 포레스텔라 고우림이 포토타임을 갖고 있다. 잠실(서울)=천정환 MK스포츠 기자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['이혼' 안젤라베이비·황효명, 같은 집으로...11개월 만 재결합? [룩@차이나] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001238242</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001238242</guid>
-            <pubDate>Fri, 16 Dec 2022 08:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[지난 1월 이혼한 안젤라 베이비, 황효명 부부의 재결합설이 불거지고 있다. 15일 중국 시나연예는 최근 황효명이 안젤라베이비의 집에 차를 타고 돌아가는 모습이 포착돼 두 사람의 관계에 대한 관심이 높아지고 있다고 보]]></content:encoded>
+            <title><![CDATA[에스파 닝닝 ‘도발적인 하트’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912622</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912622</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022 KBS 가요대축제 포토월이 16일 오후 서울 송파구 잠실 실내체육관에서 열렸다. 에스파 닝닝이 포토타임을 갖고 있다. 잠실(서울)=천정환 MK스포츠 기자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['헤어질 결심' 英가디언 선정 '올해의 영화' 9위 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013646286</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013646286</guid>
-            <pubDate>Fri, 16 Dec 2022 06:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[박찬욱 감독의 영화 '헤어질 결심'이 영국 일간 가디언이 선정한 '올해의 영화' 9위에 올랐다. 15일(현지시간) 가디언이 연말 발표하는 '2022 최고의 영화 50' 명단에서 '헤어질 결심'이 9위를 차지했다. 이]]></content:encoded>
+            <title><![CDATA[에이티즈 ‘가요대축제 기대하세요’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912620</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912620</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022 KBS 가요대축제 포토월이 16일 오후 서울 송파구 잠실 실내체육관에서 열렸다. 에이티즈가 포토타임을 갖고 있다. 잠실(서울)=천정환 MK스포츠 기자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[조니 뎁, 불치병 11살 소년 위해 ‘잭 스패로우 선장’ 복귀 “행운을 빈다”[해외이슈] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003678465</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003678465</guid>
-            <pubDate>Fri, 16 Dec 2022 06:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[할리우드 스타 조니 뎁(59)이 영화 ‘캐리비안의 해적’의 잭 스패로우 선장으로 깜짝 복귀했다. 시리즈 6편이 아니라 불치병에 걸린 11살 소년을 위해서였다. 15일(현지시간) BBC에 따르면, 코리는 두 번의 심장]]></content:encoded>
+            <title><![CDATA[김연아♥?고우림 ‘달달한 하트’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912619</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912619</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022 KBS 가요대축제 포토월이 16일 오후 서울 송파구 잠실 실내체육관에서 열렸다. 포레스텔라 고우림이 포토타임을 갖고 있다. 잠실(서울)=천정환 MK스포츠 기자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[브리트니 스피어스, "내 가족에게 받아들여진 적 無" [엑's 해외이슈] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001536050</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001536050</guid>
-            <pubDate>Fri, 16 Dec 2022 06:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[팝가수 브리트니 스피어스가 자신이 가족들에게 받아들여지지 못하고 있다고 털어놓으며 또다시 누드 사진을 공개했다. 브리트니 스피어스는 15일(현지시간) "여러분 모두를 위한 아름다운 선물이 있다. 맞아, 바로 그거다"]]></content:encoded>
+            <title><![CDATA[민니 ‘치명적 하트’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912618</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912618</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022 KBS 가요대축제 포토월이 16일 오후 서울 송파구 잠실 실내체육관에서 열렸다. 아이들 민니가 포토타임을 갖고 있다. 잠실(서울)=천정환 MK스포츠 기자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[차은우 ‘치명적인 눈빛’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912554</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912554</guid>
-            <pubDate>Fri, 16 Dec 2022 06:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[가수 겸 배우 차은우가 16일 오후 서울 송파구 롯데백화점 에비뉴엘 잠실점에서 열린 명품 주얼리 브랜드 포토 행사에 참석하고 있다. 잠실(서울)=천정환 MK스포츠 기자]]></content:encoded>
+            <title><![CDATA[미연 ‘상큼 발랄한 하트’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912617</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912617</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022 KBS 가요대축제 포토월이 16일 오후 서울 송파구 잠실 실내체육관에서 열렸다. 아이들 미연이 포토타임을 갖고 있다. 잠실(서울)=천정환 MK스포츠 기자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[차은우 ‘빠져드는 매력’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912553</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912553</guid>
-            <pubDate>Fri, 16 Dec 2022 06:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[가수 겸 배우 차은우가 16일 오후 서울 송파구 롯데백화점 에비뉴엘 잠실점에서 열린 명품 주얼리 브랜드 포토 행사에 참석하고 있다. 잠실(서울)=천정환 MK스포츠 기자]]></content:encoded>
+            <title><![CDATA[우기 ‘귀여운 하트’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912616</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912616</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022 KBS 가요대축제 포토월이 16일 오후 서울 송파구 잠실 실내체육관에서 열렸다. 아이들 우기가 포토타임을 갖고 있다. 잠실(서울)=천정환 MK스포츠 기자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[차은우 ‘압도적 잘생김’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912552</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912552</guid>
-            <pubDate>Fri, 16 Dec 2022 06:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[가수 겸 배우 차은우가 16일 오후 서울 송파구 롯데백화점 에비뉴엘 잠실점에서 열린 명품 주얼리 브랜드 포토 행사에 참석하고 있다. 잠실(서울)=천정환 MK스포츠 기자]]></content:encoded>
+            <title><![CDATA[슈화 ‘청순 하트’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912614</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912614</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022 KBS 가요대축제 포토월이 16일 오후 서울 송파구 잠실 실내체육관에서 열렸다. 아이들 슈화가 포토타임을 갖고 있다. 잠실(서울)=천정환 MK스포츠 기자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[차은우 ‘매력적인 눈빛’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912551</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912551</guid>
-            <pubDate>Fri, 16 Dec 2022 06:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[가수 겸 배우 차은우가 16일 오후 서울 송파구 롯데백화점 에비뉴엘 잠실점에서 열린 명품 주얼리 브랜드 포토 행사에 참석하고 있다. 잠실(서울)=천정환 MK스포츠 기자]]></content:encoded>
+            <title><![CDATA[우기 ‘치명적인 드레스 뒤태’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912612</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912612</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022 KBS 가요대축제 포토월이 16일 오후 서울 송파구 잠실 실내체육관에서 열렸다. 아이들 우기가 포토타임을 갖고 있다. 잠실(서울)=천정환 MK스포츠 기자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[차은우 ‘잘생긴 하트’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912550</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912550</guid>
-            <pubDate>Fri, 16 Dec 2022 06:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[가수 겸 배우 차은우가 16일 오후 서울 송파구 롯데백화점 에비뉴엘 잠실점에서 열린 명품 주얼리 브랜드 포토 행사에 참석하고 있다. 잠실(서울)=천정환 MK스포츠 기자]]></content:encoded>
+            <title><![CDATA[유나 ‘어마어마한 다리 길이’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912611</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912611</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022 KBS 가요대축제 포토월이 16일 오후 서울 송파구 잠실 실내체육관에서 열렸다. 있지 유나가 포토타임을 갖고 있다. 잠실(서울)=천정환 MK스포츠 기자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[차은우 ‘완벽’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912549</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912549</guid>
-            <pubDate>Fri, 16 Dec 2022 06:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[가수 겸 배우 차은우가 16일 오후 서울 송파구 롯데백화점 에비뉴엘 잠실점에서 열린 명품 주얼리 브랜드 포토 행사에 참석하고 있다. 잠실(서울)=천정환 MK스포츠 기자]]></content:encoded>
+            <title><![CDATA[있지 리아‘ 치명적인 눈빛’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912609</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912609</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022 KBS 가요대축제 포토월이 16일 오후 서울 송파구 잠실 실내체육관에서 열렸다. 있지 리아가 포토타임을 갖고 있다. 잠실(서울)=천정환 MK스포츠 기자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[차은우 ‘잘생겼다’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912548</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912548</guid>
-            <pubDate>Fri, 16 Dec 2022 06:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[가수 겸 배우 차은우가 16일 오후 서울 송파구 롯데백화점 에비뉴엘 잠실점에서 열린 명품 주얼리 브랜드 포토 행사에 참석하고 있다. 잠실(서울)=천정환 MK스포츠 기자]]></content:encoded>
+            <title><![CDATA[있지 유나 ‘골반에 하트’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912608</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912608</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022 KBS 가요대축제 포토월이 16일 오후 서울 송파구 잠실 실내체육관에서 열렸다. 있지 유나가 포토타임을 갖고 있다. 잠실(서울)=천정환 MK스포츠 기자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[차은우 ‘잠실 백화점에 뜬 만찢남’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912546</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912546</guid>
-            <pubDate>Fri, 16 Dec 2022 06:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[가수 겸 배우 차은우가 16일 오후 서울 송파구 롯데백화점 에비뉴엘 잠실점에서 열린 명품 주얼리 브랜드 포토 행사에 참석하고 있다. 잠실(서울)=천정환 MK스포츠 기자]]></content:encoded>
+            <title><![CDATA[있지 리아‘ 여신 미모’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912607</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912607</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022 KBS 가요대축제 포토월이 16일 오후 서울 송파구 잠실 실내체육관에서 열렸다. 있지 리아가 포토타임을 갖고 있다. 잠실(서울)=천정환 MK스포츠 기자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[차은우 등장 ‘백화점 들썩들썩’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912545</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912545</guid>
-            <pubDate>Fri, 16 Dec 2022 06:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[가수 겸 배우 차은우가 16일 오후 서울 송파구 롯데백화점 에비뉴엘 잠실점에서 열린 명품 주얼리 브랜드 포토 행사에 참석하고 있다. 잠실(서울)=천정환 MK스포츠 기자]]></content:encoded>
+            <title><![CDATA[있지 류진 ‘확실한 컨셉’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912606</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912606</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022 KBS 가요대축제 포토월이 16일 오후 서울 송파구 잠실 실내체육관에서 열렸다. 있지 류진이 포토타임을 갖고 있다. 잠실(서울)=천정환 MK스포츠 기자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[차은우 ‘예쁜 남자’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912544</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912544</guid>
-            <pubDate>Fri, 16 Dec 2022 04:17:40 GMT</pubDate>
-            <content:encoded><![CDATA[가수 겸 배우 차은우가 16일 오후 서울 송파구 롯데백화점 에비뉴엘 잠실점에서 열린 명품 주얼리 브랜드 포토 행사에 참석하고 있다. 잠실(서울)=천정환 MK스포츠 기자]]></content:encoded>
+            <title><![CDATA[카리나 ‘섹시한 하트’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912605</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912605</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022 KBS 가요대축제 포토월이 16일 오후 서울 송파구 잠실 실내체육관에서 열렸다. 에스파 카리나가 포토타임을 갖고 있다. 잠실(서울)=천정환 MK스포츠 기자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[차은우 ‘손짓 한번에 백화점 들썩‘ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912543</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912543</guid>
-            <pubDate>Fri, 16 Dec 2022 04:17:40 GMT</pubDate>
-            <content:encoded><![CDATA[가수 겸 배우 차은우가 16일 오후 서울 송파구 롯데백화점 에비뉴엘 잠실점에서 열린 명품 주얼리 브랜드 포토 행사에 참석하고 있다. 잠실(서울)=천정환 MK스포츠 기자]]></content:encoded>
+            <title><![CDATA[최예나 ‘사랑스러운 하트’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912603</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912603</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022 KBS 가요대축제 포토월이 16일 오후 서울 송파구 잠실 실내체육관에서 열렸다. 최예나가 포토타임을 갖고 있다. 잠실(서울)=천정환 MK스포츠 기자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['아바타2' 日 행사에 등장한 돌고래쇼…감독 "동물들 허락 받았을 거라 믿어" [엑's 할리우드] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001536005</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001536005</guid>
-            <pubDate>Fri, 16 Dec 2022 04:17:40 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '아바타: 물의 길'(아바타2, 감독 제임스 카메론) 홍보차 일본을 방문했던 제임스 카메론 감독이 뜻밖의 비판 여론에 휩싸였다. 지난 10일 제임스 카메론 감독과 존 랜도 프로듀서, 배우 샘 워싱턴, 조 샐다나]]></content:encoded>
+            <title><![CDATA[최예나 ‘귀여운 삐삐처럼~’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912602</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912602</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022 KBS 가요대축제 포토월이 16일 오후 서울 송파구 잠실 실내체육관에서 열렸다. 최예나가 포토타임을 갖고 있다. 잠실(서울)=천정환 MK스포츠 기자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[故아론 카터 약혹녀, 1살 아들 되찾았다..재산 관리자 되나[Oh!llywood] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004758484</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004758484</guid>
-            <pubDate>Fri, 16 Dec 2022 04:17:40 GMT</pubDate>
-            <content:encoded><![CDATA[고(故) 아론 카터의 약혼녀 멜라니 마틴이 1살 아들 프린스의 양육권을 되찾았다. 15일(현지시각) 외신 보도에 따르면 지난 목요일 미국 로스앤젤레스에서 열린 법원 청문회 이후 고 아론 카터와 멜라니 마틴의 아들 프]]></content:encoded>
+            <title><![CDATA[윈터 ‘단발 매력에 풍덩~’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912601</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912601</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022 KBS 가요대축제 포토월이 16일 오후 서울 송파구 잠실 실내체육관에서 열렸다. 에스파 윈터가 포토타임을 갖고 있다. 잠실(서울)=천정환 MK스포츠 기자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['DCEU 하차' 헨리 카빌, '위쳐' 복귀는 NO [엑's 할리우드] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001535952</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001535952</guid>
-            <pubDate>Fri, 16 Dec 2022 02:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[DC 확장 유니버스(DCEU)에서 완전히 하차하게 된 헨리 카빌이 넷플릭스 오리지널 시리즈 '위쳐'로 복귀할 수 있을까. 지난 14일(현지시간) 제임스 건 DC 스튜디오 공동 CEO는 헨리 카빌이 차기 슈퍼맨 영화에]]></content:encoded>
+            <title><![CDATA[에스파 윈터 ‘치명적인 레드립’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912600</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912600</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022 KBS 가요대축제 포토월이 16일 오후 서울 송파구 잠실 실내체육관에서 열렸다. 에스파 윈터가 포토타임을 갖고 있다. 잠실(서울)=천정환 MK스포츠 기자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘아바타2’ 샘 워싱턴, “아내가 알코올중독에 빠진 나를 구했다…8년째 금주”[해외이슈] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003678393</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003678393</guid>
-            <pubDate>Fri, 16 Dec 2022 02:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘아바타:물의 길’의 샘 워싱턴(46)이 알코올중독에 빠졌던 과거 경험담을 들려주었다. 그는 15일(현지시간) 버라이어티와 인터뷰에서 “2009년 ‘아바타’가 성공한 이후 일등석 비행기에서 빈둥거리며 샴페인 4]]></content:encoded>
+            <title><![CDATA[에스파 윈터 ‘단발 여신’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912599</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912599</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022 KBS 가요대축제 포토월이 16일 오후 서울 송파구 잠실 실내체육관에서 열렸다. 에스파 윈터가 포토타임을 갖고 있다. 잠실(서울)=천정환 MK스포츠 기자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['85세' 제인 폰다, 항암치료 성공적…"암 완화되고 있어" [엑's 해외이슈] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001535927</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001535927</guid>
-            <pubDate>Fri, 16 Dec 2022 01:06:29 GMT</pubDate>
-            <content:encoded><![CDATA[암 투병 중인 할리우드의 원로 배우 제인 폰다가 희소식을 전했다. 제인 폰다는 15일(현지시간) 자신의 블로그에 '최고의 생일 선물!!'이라는 제목의 글을 게재했다. 그는 "지난 주 종양학자로부터 암이 완화되고 있고]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BTS 제이홉, 美 새해맞이 방송 출연…타임스스퀘어서 공연 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013645286</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013645286</guid>
-            <pubDate>Fri, 16 Dec 2022 01:06:13 GMT</pubDate>
-            <content:encoded><![CDATA[히트곡 '버터' 포함 3곡 무대 예정 그룹 방탄소년단(BTS)의 제이홉이 오는 31일(이하 현지시간) 미국 ABC TV 유명 새해맞이 프로그램 '딕 클락스 뉴 이어스 로킨 이브'(Dick Clark's New Yea]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘미나리’ 정이삭 감독, “재난 블록버스터 ‘트위스터’ 속편 연출”[해외이슈] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003678379</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003678379</guid>
-            <pubDate>Fri, 16 Dec 2022 01:06:29 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘미나리’의 정이삭 감독이 1996년 개봉한 재난 블록버스터 ‘트위스터’의 메가폰을 잡는다. 버라이어티는 15일(현지시간) “정이삭 감독이 헬렌 헌트와 故 빌 팩스턴이 주연한 ‘트위스터’의 속편 감독을 위한 협]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“암 완화되고 있다”, 봉준호에 오스카 작품상 수여 85살 여배우 “기쁘다”[해외이슈] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003678366</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003678366</guid>
-            <pubDate>Fri, 16 Dec 2022 01:06:29 GMT</pubDate>
-            <content:encoded><![CDATA[아카데미 시상식에서 ‘기생충’ 봉준호 감독에게 작품상을 수여해 한국에서도 널리 알려진 할리우드 배우 제인 폰다(85)가 암 완화 소식을 을렸다. 그는 15일(현지시간) 블로그를 통해 “지난주에 종약학자로부터 내 암이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['강직인간 증후군' 셀린 디온, 몸 굳고 있다?.."애들 보며 버텨" (종합)[Oh!llywood] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004758385</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004758385</guid>
-            <pubDate>Fri, 16 Dec 2022 01:06:29 GMT</pubDate>
-            <content:encoded><![CDATA[팝스타 셀린 디온의 건강 악화설이 불거졌다. 15일(현지시각) 외신 보도에 따르면 셀린 디온은 이달 초 휘귀병인 강직 인간 증후군 진단을 받았다. 치유에 집중하고자 예정된 공연을 취소할 정도. 셀린 디온은 2017년]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['아바타: 물의 길' 로튼 토마토 82%…예상보다 낮은 외신 평가 '호불호'(종합)[Oh!쎈 이슈] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004758367</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004758367</guid>
-            <pubDate>Fri, 16 Dec 2022 01:06:29 GMT</pubDate>
-            <content:encoded><![CDATA[제임스 카메론 감독의 신작 ‘아바타: 물의 길’이 로튼 토마토 지수에서 82%를 보였다. ‘탑건: 매버릭’이 기록했던 96%와 비교하면 14%P나 차이가 난다. 15일(현지 시간) 로튼 토마토 집계를 보면 호의적인]]></content:encoded>
+            <title><![CDATA[에스파 카리나 ‘여전사 느낌으로’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912598</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912598</guid>
+            <pubDate>Fri, 16 Dec 2022 10:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022 KBS 가요대축제 포토월이 16일 오후 서울 송파구 잠실 실내체육관에서 열렸다. 에스파 카리나가 포토타임을 갖고 있다. 잠실(서울)=천정환 MK스포츠 기자]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 08:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 10:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 유럽투어-프랑스,  'BLACKPINK WORLD TOUR [BORN PINK] PARIS']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=241970</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=241970</guid>
+            <pubDate>Fri, 16 Dec 2022 10:13:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=241970">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221216090404_b894fa9a06d30dfd2488580fa2393465.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=241970">블랙핑크 유럽투어-프랑스,  'BLACKPINK WORLD TOUR [BORN PINK] PARIS'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221216090404_b894fa9a06d30dfd2488580fa2393465.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[투모로우바이투게더, ‘이름의 장: TEMPTATION’으로 1월 컴백]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=241748</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=239121">러블리즈 출신 정예인, 디지털 싱글 ‘버스정류장’ 콘셉트 포토 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221126095350_c2defe21eccf5c07032d20ee1f93be2d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["Indigo/ RM" 방탄소년단 RM,  Identity Film 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=238696</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=238696</guid>
-            <pubDate>Wed, 23 Nov 2022 05:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=238696">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221123071608_2fd63b4f26411fbb396adeddb7fc7fc8_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=238696">"Indigo/ RM" 방탄소년단 RM,  Identity Film 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221123071608_2fd63b4f26411fbb396adeddb7fc7fc8_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
