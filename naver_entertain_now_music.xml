@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-12-17T10:15:03.527Z</updated>
+    <updated>2022-12-17T11:12:37.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘음악중심’ 위앤유, ‘하루 하루’로 선보인 완벽한 하모니]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912825</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000912825"/>
+        <updated>2022-12-17T11:12:20.154Z</updated>
+        <content type="html"><![CDATA[보컬 그룹 위앤유(WeNU)가 고품격 라이브로 힐링을 선사했다. 위앤유는 17일 방송된 MBC ‘쇼! 음악중심’에 출연해 데뷔곡 ‘하루 하루’ 무대를 선보였다. 이날 위앤유는 겨울 분위기가 물씬 풍기는 무대에서 따뜻]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트레저, 일본 인기 애니 '블랙 클로버' 극장판 주제가까지 섭렵]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011596472</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003114197"/>
         <updated>2022-12-17T07:13:59.688Z</updated>
         <content type="html"><![CDATA['Tickets are sold out now.' 가수 임영웅이 오는 2월 역사적인 미국 콘서트를 여는 가운데 티켓이 오픈과 동시에 전석 매진을 기록하며 뜨거운 인기를 입증했다. 임영웅은 내년 2월 11일~12일 양]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송가인, 25일 생일 팬미팅 '해피 가인 데이' 개최…"곧 만나요" 기대 증폭]]></title>
-        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000908657</id>
-        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000908657"/>
-        <updated>2022-12-17T07:13:59.689Z</updated>
-        <content type="html"><![CDATA[가수 송가인이 생일 팬미팅에 대한 기대감을 높였다. 송가인은 16일 자신의 생일 팬미팅 ‘해피 가인 데이’ 포스터를 공개하며 “네 번째 서울의 달 팬미팅! 곧 만나요”라고 덧붙였다. 송가인은 12월 26일 생일을 맞]]></content>
     </entry>
 </feed>
