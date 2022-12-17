@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-12-17T22:17:31.963Z</updated>
+    <updated>2022-12-17T23:13:36.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제임스 카메론, '타이타닉' 디카프리오 사망 논쟁 뿌리 뽑는다..연구 발표 [Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004759340</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004759340"/>
+        <updated>2022-12-17T23:13:36.102Z</updated>
+        <content type="html"><![CDATA[감독 제임스 카메론(68)이 영화 '타이타닉'의 이른바 레오나르도 디카프리오 사망 논쟁 종식(?)에 나선다. 카메론은 '타이타닉'의 마지막에 그려진 잭 도슨(레오나르도 디카프리오)의 죽음에 대한 팬들의 반발 이론을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유현주 프로 ‘섹시한 블랙 드레스 자태’ [MK화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912826</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000912799"/>
         <updated>2022-12-17T11:12:36.809Z</updated>
         <content type="html"><![CDATA[2022 SBS 연예대상 포토월이 17일 오후 서울 마포구 상암동 SBS프리즘타워에서 열렸다. 골때녀 조혜련이 포토타임을 갖고 있다. 상암동(서울)=천정환 MK스포츠 기자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[채리나 ‘상큼 하트’ [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912798</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000912798"/>
-        <updated>2022-12-17T11:12:36.810Z</updated>
-        <content type="html"><![CDATA[2022 SBS 연예대상 포토월이 17일 오후 서울 마포구 상암동 SBS프리즘타워에서 열렸다. 골때녀 채리나가 포토타임을 갖고 있다. 상암동(서울)=천정환 MK스포츠 기자]]></content>
     </entry>
 </feed>
