@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-12-17T11:12:37.496Z</updated>
+    <updated>2022-12-17T14:17:59.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NCT DREAM ‘Candy’ 공개 동시에 음원 차트 1위]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912830</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000912830"/>
+        <updated>2022-12-17T14:17:43.116Z</updated>
+        <content type="html"><![CDATA[그룹 NCT DREAM의 윈터송 ‘Candy’(캔디)의 인기가 뜨겁다. 지난 16일 오후 6시 공개된 NCT DREAM의 겨울 앨범 타이틀 곡 ‘Candy’는 벅스, 바이브 1위를 비롯해 각종 음원 차트 최상위권을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘음악중심’ 위앤유, ‘하루 하루’로 선보인 완벽한 하모니]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912825</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003114198"/>
         <updated>2022-12-17T07:13:59.688Z</updated>
         <content type="html"><![CDATA[가수 임영웅의 '엄마의 노래' 무대 영상이 1000만 뷰를 달성하며 감동을 입증했다. 임영웅이 2020년 7월 31일 공식 유튜브 채널에 공개한 '엄마의 노래' 영상은 12월 17일 조회수 1000만 뷰를 달성했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['SOLD OUT' 임영웅, 美콘서트 티켓 전석 매진[★NEWSing]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003114197</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003114197"/>
-        <updated>2022-12-17T07:13:59.688Z</updated>
-        <content type="html"><![CDATA['Tickets are sold out now.' 가수 임영웅이 오는 2월 역사적인 미국 콘서트를 여는 가운데 티켓이 오픈과 동시에 전석 매진을 기록하며 뜨거운 인기를 입증했다. 임영웅은 내년 2월 11일~12일 양]]></content>
     </entry>
 </feed>
