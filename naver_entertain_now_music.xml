@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-12-17T19:19:11.466Z</updated>
+    <updated>2022-12-17T21:21:13.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팝업★]故샤이니 종현, 오늘(18일) 5주기..여전히 사무치는 이름]]></title>
+        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003605265</id>
+        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003605265"/>
+        <updated>2022-12-17T21:20:56.976Z</updated>
+        <content type="html"><![CDATA[샤이니 종현이 세상을 떠난지 어느새 5년이라는 시간을 흘렀다. 지난 2017년 12월 18일 故종현이 우울증으로 세상을 떠났다. 향년 27세. 갑작스러운 소식에 가족과 멤버들은 물론 SM 엔터테인먼트 식구들, 동료]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NCT DREAM ‘Candy’ 공개 동시에 음원 차트 1위]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000912830</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001536416"/>
         <updated>2022-12-17T07:13:59.687Z</updated>
         <content type="html"><![CDATA[임영웅의 '엄마의 노래' 무대가 지속적으로 인기를 끌고 있다. 지난 2020년 7월 임영웅 공식 유튜브 채널 '임영웅'에는 "임영웅 [엄마의노래] 사랑의콜센타"라는 제목의 영상이 게재됐다. 영상 속에는 '엄마의 노래]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임영웅 '엄마의 노래' 60번째 천만뷰]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003114198</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003114198"/>
-        <updated>2022-12-17T07:13:59.688Z</updated>
-        <content type="html"><![CDATA[가수 임영웅의 '엄마의 노래' 무대 영상이 1000만 뷰를 달성하며 감동을 입증했다. 임영웅이 2020년 7월 31일 공식 유튜브 채널에 공개한 '엄마의 노래' 영상은 12월 17일 조회수 1000만 뷰를 달성했다.]]></content>
     </entry>
 </feed>
