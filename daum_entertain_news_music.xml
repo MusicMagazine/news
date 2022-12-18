@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-12-18T13:18:19.069Z</updated>
+    <updated>2022-12-18T14:13:39.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔시티 드림·슈퍼주니어·베이빌론·SM타운·로칼하이레코즈]]></title>
+        <id>https://v.daum.net/v/20221218230919807</id>
+        <link href="https://v.daum.net/v/20221218230919807"/>
+        <updated>2022-12-18T14:12:59.654Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 가요팀] 2022년 12월 셋째 주에도 다채로운 곡들이 수록된 새 앨범들이 발매돼 리스너들의 귓가를 즐겁게 했다. 그룹 엔시티 드림(NCT DREAM)부터 슈퍼주니어(SUPER JUNIOR), 베이빌론(Babylon), SM타운(SMTOWN), 로칼하이레코즈(Localhigh Records)까지 그 어느 때보다 다양한 장르의 신보가 이름을 올]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[완전체 카라, 완전한 컴백]]></title>
         <id>https://v.daum.net/v/20221218162014977</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221218070337355"/>
         <updated>2022-12-17T22:16:58.968Z</updated>
         <content type="html"><![CDATA[[스타뉴스 문완식 기자] 방탄소년단(BTS) 뷔가 세계 최대 음원 플랫폼 스포티파이(Spotify)에서 1100만 팔로워 대기록을 세우며 글로벌 인기를 빛냈다. 뷔는 12월 12일 스포티파이 페이지 팔로워 1100만 명을 돌파했다. 12월 18일 오전 현재 1105만 7482명을 기록하고 있다. 뷔는 앨범이나 믹스테이프 없이 K팝 아티스트 사상 최초로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임영웅 영웅시대 평택웅패밀리, 한사랑쉼터 300만원 기부]]></title>
-        <id>https://v.daum.net/v/20221218065940248</id>
-        <link href="https://v.daum.net/v/20221218065940248"/>
-        <updated>2022-12-17T22:16:58.969Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 문완식 기자] 가수 임영웅/사진=이동훈 기자 photoguy@가수 임영웅의 팬들이 기부로 따뜻한 사랑을 전했다. 임영웅 팬클럽 영웅시대 평택웅패밀리(회장 김미령)는 지난 12월 12일 경기도 평택시 사회복지법인 연꽃마을 한사랑쉼터(원장 한경옥)에 기부금 300만원을 전달했다. 평택웅패밀리는 "어른들로부터 보호받고 사랑받아야 하는 아동들이 어]]></content>
     </entry>
 </feed>
