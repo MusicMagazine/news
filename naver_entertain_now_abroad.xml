@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-12-19T19:22:15.290Z</updated>
+    <updated>2022-12-19T20:18:05.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 'ET'의 외계인 모형, 경매에서 33억원에 낙찰]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013650778</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013650778"/>
+        <updated>2022-12-19T20:18:05.135Z</updated>
+        <content type="html"><![CDATA[특수효과 거장이 1981년 제작…"85개 관절 가진 공학적 걸작" '십계'에서 홍해 가른 모세의 지팡이는 5억8천만원에 팔려 정윤섭 특파원 = 고전의 반열에 오른 SF 영화 'ET'에서 실제 촬영에 사용됐던 외계인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[앰버 허드, 전남편 조니 뎁에 13억원 지급…'진흙탕 소송' 합의]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013650768</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000913126"/>
         <updated>2022-12-19T07:13:51.322Z</updated>
         <content type="html"><![CDATA[개그맨 김원효, 가수 금잔디, 문희경, 영기(왼쪽부터)가 19일 오후 SBS 라디오 파워FM ‘두시탈출 컬투쇼’ 참석을 위해 서울 양천구 SBS 목동 사옥으로 들어서고 있다. 환한 표정짓는 김원효, 금잔디, 문희경,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김원효 ‘소리 질러~’ [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000913123</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000913123"/>
-        <updated>2022-12-19T07:13:51.323Z</updated>
-        <content type="html"><![CDATA[개그맨 김원효가 19일 오후 SBS 라디오 파워FM ‘두시탈출 컬투쇼’ 참석을 위해 서울 양천구 SBS 목동 사옥으로 들어서고 있다. 환한 표정짓는 김원효. 목동(서울)=김영구 MK스포츠 기자]]></content>
     </entry>
 </feed>
