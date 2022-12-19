@@ -1,8 +1,351 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://kstar.kbs.co.kr/list.html?cate=ST</id>
-    <title>KBS연예 ─ 연예</title>
-    <updated>2022-12-19T15:22:10.804Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://kstar.kbs.co.kr/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>KBS연예 ─ 연예</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 19 Dec 2022 18:18:34 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[전시] 이집트 미라展:부활을 위한 여정 (예술의전당 서예박물관)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=242259</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=242259</guid>
+            <pubDate>Mon, 19 Dec 2022 18:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=242259">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221219080124_f68d6b42f4dd40a606dd61b6dc3038f3.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=242259">[전시] 이집트 미라展:부활을 위한 여정 (예술의전당 서예박물관)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221219080124_f68d6b42f4dd40a606dd61b6dc3038f3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] 아이비 & 김지우 “사틴의 속셈과 물랑루즈의 앞날” (뮤지컬 ‘물랑루즈’ 간담회)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=242327</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=242327</guid>
+            <pubDate>Mon, 19 Dec 2022 18:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=242327">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221219071642_6e0dde96023182e540d7cdd2803b4c15_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=242327">[인터뷰] 아이비 &amp; 김지우 “사틴의 속셈과 물랑루즈의 앞날” (뮤지컬 ‘물랑루즈’ 간담회)  </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221219071642_6e0dde96023182e540d7cdd2803b4c15_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[화보] 이선빈-한선화- 정은지 '퍼스트룩' 커버]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=241898</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=241898</guid>
+            <pubDate>Mon, 19 Dec 2022 18:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=241898">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221216075614_da3bed2eb32a3408054a9d37628da82f.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=241898">[화보] 이선빈-한선화- 정은지 '퍼스트룩' 커버 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221216075614_da3bed2eb32a3408054a9d37628da82f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[화보] 케플러 샤오팅, 중국 잡지 표지 장식]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=241962</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=241962</guid>
+            <pubDate>Mon, 19 Dec 2022 18:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=241962">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221216085350_1cf6d557d880aacef3a3693269a99e46.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=241962">[화보] 케플러 샤오팅, 중국 잡지 표지 장식</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221216085350_1cf6d557d880aacef3a3693269a99e46.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['링크아트센터' 개관, 대학로의 새로운 랜드마크 탄생]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=241946</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=241946</guid>
+            <pubDate>Mon, 19 Dec 2022 18:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=241946">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221216084102_573f32702ef9d6e9b292be6f5007a409.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=241946">'링크아트센터' 개관, 대학로의 새로운 랜드마크 탄생</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221216084102_573f32702ef9d6e9b292be6f5007a409.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조성진, '헨델: 하프시코드 모음곡 미뉴에트' 발매]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=241939</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=241939</guid>
+            <pubDate>Mon, 19 Dec 2022 18:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=241939">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221216083159_97fd71f170dcdd53b5065419585f08dc.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=241939">조성진, '헨델: 하프시코드 모음곡 미뉴에트' 발매 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221216083159_97fd71f170dcdd53b5065419585f08dc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리디, 히가시노 게이고 신작 '희망의 끈' 전자책  출간]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=241892</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=241892</guid>
+            <pubDate>Mon, 19 Dec 2022 18:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=241892">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221216074458_d6bc2b4d770324c7340f8870c25fb3a0_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=241892">리디, 히가시노 게이고 신작 '희망의 끈' 전자책  출간</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221216074458_d6bc2b4d770324c7340f8870c25fb3a0_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김세정, ‘2022 AAA’ 2관왕]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=241887</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=241887</guid>
+            <pubDate>Mon, 19 Dec 2022 18:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=241887">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221216074157_0e1bfc7aa3ada73a0ff13cbe86bf460a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=241887">김세정, ‘2022 AAA’ 2관왕</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221216074157_0e1bfc7aa3ada73a0ff13cbe86bf460a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[화보] "우리는 모두 독립군이다" 영화 '영웅' 배우들 퍼스트룩]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=241761</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=241761</guid>
+            <pubDate>Mon, 19 Dec 2022 18:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=241761">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221215154230_2c7dd0c8074408cc8d54d04c10bbfff3.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=241761">[화보] "우리는 모두 독립군이다" 영화 '영웅' 배우들 퍼스트룩 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221215154230_2c7dd0c8074408cc8d54d04c10bbfff3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["베토벤의 비밀" 뮤지컬 ‘베토벤; Beethoven Secret’ 컨셉 포토 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=241588</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=241588</guid>
+            <pubDate>Mon, 19 Dec 2022 18:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=241588">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221214160732_81faaec1a59732aef9e7dcf218ecd075.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=241588">"베토벤의 비밀" 뮤지컬 ‘베토벤; Beethoven Secret’ 컨셉 포토 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221214160732_81faaec1a59732aef9e7dcf218ecd075.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윌라, 히가시노 게이고 '녹나무의 파수꾼' 오디오북 출시]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=241586</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=241586</guid>
+            <pubDate>Mon, 19 Dec 2022 18:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=241586">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221214154506_fd7fa98ce49e1dbc94be19acb50b2b38_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=241586">윌라, 히가시노 게이고 '녹나무의 파수꾼' 오디오북 출시</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221214154506_fd7fa98ce49e1dbc94be19acb50b2b38_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴진스, 2022 AAA 2관왕,  신인상 & 대상 올해의 퍼포먼스]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=241497</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=241497</guid>
+            <pubDate>Mon, 19 Dec 2022 18:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=241497">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221214073150_8e5c38e1d777f9bf9dce7ef6517def7c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=241497">뉴진스, 2022 AAA 2관왕,  신인상 &amp; 대상 올해의 퍼포먼스</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221214073150_8e5c38e1d777f9bf9dce7ef6517def7c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[르세라핌, ‘2022 AAA’  신인상·베스트 뮤지션상 수상]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=241492</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=241492</guid>
+            <pubDate>Mon, 19 Dec 2022 18:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=241492">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221214072824_0b0af95c0eaaa9161bcb1540999c1e4d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=241492">르세라핌, ‘2022 AAA’  신인상·베스트 뮤지션상 수상</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221214072824_0b0af95c0eaaa9161bcb1540999c1e4d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EMK2023 뮤지컬 라인업, "베토벤, 레베카, 몬테크리스토, 그리고 베르사유의 장미까지"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=241313</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=241313</guid>
+            <pubDate>Mon, 19 Dec 2022 18:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=241313">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221213105515_14e498a6f77479fb08d2fd4dcac40dc9.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=241313">EMK2023 뮤지컬 라인업, "베토벤, 레베카, 몬테크리스토, 그리고 베르사유의 장미까지"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221213105515_14e498a6f77479fb08d2fd4dcac40dc9.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[공연評] 웨스트 사이드 스토리 “원스 어폰 어 타임 인 뒷골목”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=241234</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=241234</guid>
+            <pubDate>Mon, 19 Dec 2022 18:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=241234">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221212105419_4603986955c9bbd0b3ea33437e5e9834.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=241234">[공연評] 웨스트 사이드 스토리 “원스 어폰 어 타임 인 뒷골목” </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221212105419_4603986955c9bbd0b3ea33437e5e9834.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['윌라' 올해 최고인기 오디오북은? 이민진 작가 '파친코']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=241200</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=241200</guid>
+            <pubDate>Mon, 19 Dec 2022 18:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=241200">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221212090356_291df85e66552c9f2492620de87a720d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=241200">'윌라' 올해 최고인기 오디오북은? 이민진 작가 '파친코'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221212090356_291df85e66552c9f2492620de87a720d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[옹성우, 대종상 뉴웨이브상 수상... "좋은 작품으로 인사드릴 것"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=241184</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=241184</guid>
+            <pubDate>Mon, 19 Dec 2022 18:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=241184">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221212071015_81c75617628ae100afc553fc10fd95a7.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=241184">옹성우, 대종상 뉴웨이브상 수상... "좋은 작품으로 인사드릴 것"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221212071015_81c75617628ae100afc553fc10fd95a7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박상남, tvN드라마 ‘성스러운 아이돌’ 캐스팅]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=240665</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=240665</guid>
+            <pubDate>Mon, 19 Dec 2022 18:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=240665">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221208110006_9e2fe0a9df1643d536dccdef80e46772.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=240665">박상남, tvN드라마 ‘성스러운 아이돌’ 캐스팅</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221208110006_9e2fe0a9df1643d536dccdef80e46772.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['빈 필하모닉 신년음악회, 베를린 필하모닉 갈라' 메가박스 중계]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=240812</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=240812</guid>
+            <pubDate>Mon, 19 Dec 2022 18:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=240812">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221209135717_b05457615fd27e2633dad1a214f600d3.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=240812">'빈 필하모닉 신년음악회, 베를린 필하모닉 갈라' 메가박스 중계</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221209135717_b05457615fd27e2633dad1a214f600d3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['잠적' 권유리, "이야기가 풍부한 사람으로 남고 싶어"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=240503</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=240503</guid>
+            <pubDate>Mon, 19 Dec 2022 18:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=240503">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221207093912_1037397e6466639b88862edbb66f16a2.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=240503">'잠적' 권유리, "이야기가 풍부한 사람으로 남고 싶어"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221207093912_1037397e6466639b88862edbb66f16a2.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
