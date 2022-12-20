@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-12-20T14:25:18.953Z</updated>
+    <updated>2022-12-20T16:20:32.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브래드 피트, 59번째 생일은 20대 여친과 함께[할리웃통신]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001238780</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001238780"/>
+        <updated>2022-12-20T16:20:32.071Z</updated>
+        <content type="html"><![CDATA[할리우드 배우 브래드 피트가 새로운 사랑을 만났다. 30세 연하의 여자 친구 이네스 드 라몬이 그 주인공이다. 19일(현지시간) 미국의 연예매체 페이지 식스는 "피트가 라몬과 59번째 생일을 함께했다"고 보도했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로버트 드니로, 한밤중 강도 침입에 아찔... 범인은 전과 26범[할리웃통신]]]></title>
         <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001238778</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000913254"/>
         <updated>2022-12-20T08:19:05.813Z</updated>
         <content type="html"><![CDATA[20일 오후 서울 성수동 메가박스 성수점에서 영화 ‘교섭’ 제작보고회가 열렸다. 이날 제작보고회에 참석한 배우 현빈. 성수동(서울)=천정환 MK스포츠 기자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 ‘교섭’ 연출한 임순례 감독 [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000913253</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000913253"/>
-        <updated>2022-12-20T08:19:05.814Z</updated>
-        <content type="html"><![CDATA[20일 오후 서울 성수동 메가박스 성수점에서 영화 ‘교섭’ 제작보고회가 열렸다. 이날 제작보고회에 참석한 임순례 감독. 성수동(서울)=천정환 MK스포츠 기자]]></content>
     </entry>
 </feed>
