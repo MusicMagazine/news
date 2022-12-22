@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-12-22T11:22:16.276Z</updated>
+    <updated>2022-12-22T13:22:05.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문별 "마마무 음악과 차별화, 보컬-랩 경계 없는 음악"]]></title>
+        <id>https://v.daum.net/v/20221222203906224</id>
+        <link href="https://v.daum.net/v/20221222203906224"/>
+        <updated>2022-12-22T13:21:30.556Z</updated>
+        <content type="html"><![CDATA[[OSEN=선미경 기자] 그룹 마마무 멤버 문별이 준비한 선물 같은 앨범이 찾아온다.&nbsp; 문별은 오늘(22일) 오후 6시에 각종 음원 사이트를 통해 스페셜 싱글 'The Present'를 공개했다.&nbsp; 신보 'The Present'는 문별이 생일을 맞아 팬들에게 전하는 선물 같은 앨범이다. 전곡 작사, 작곡에 참여해 추운 겨울 지나 봄 여름 가을 겨울까지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["빅마마 이지영, 춤도 춰?"…몸치 극복 솔로 '퀸' 열정]]></title>
         <id>https://v.daum.net/v/20221222195003278</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221222170655422"/>
         <updated>2022-12-22T10:15:39.914Z</updated>
         <content type="html"><![CDATA[그룹 이달의 소녀가 멤버 츄의 퇴출 여파로 논란에 휩싸인 가운데 프로모션을 진행 중이던 새 앨범 컴백 프로젝트를 무기한 연기하기로 결정했다. 이달의 소녀 소속사 블록베리크리에이티브(이하 블록베리)는 22일 공식 팬카페를 통해 현 사태와 관련한 장문의 글을 게재했다. 해당 글에서 블록베리는 "당사를 둘러싼 여러 일들로 이달의 소녀 팬 여러분께 많은 걱정을 끼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["모두가 주인공이 되길" 빅마마 이지영, 자존감 빼앗는 세상에서 전하는 응원가 '퀸']]></title>
-        <id>https://v.daum.net/v/20221222165802122</id>
-        <link href="https://v.daum.net/v/20221222165802122"/>
-        <updated>2022-12-22T10:15:39.914Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 김민지기자]“보다 자주적인 삶을 살고 싶은 마음을 담았다. 남녀불문하고 여러분 자신만의 주인공이 되시라는 의미를 담고 있다.” 22일 오후 서울 강남구 일지아트홀에서 그룹 빅마마 멤버 이지영의 신곡 ‘퀸’(Queen) 발매 쇼케이스가 진행됐다. 이날 이지영은 “원래 리드미컬한 곡을 좋아한다. 원래부터 하고 싶었는데 이]]></content>
     </entry>
 </feed>
