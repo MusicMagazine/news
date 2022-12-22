@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-12-22T10:16:15.850Z</updated>
+    <updated>2022-12-22T11:22:16.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신수지 ‘국대 출신의 탄탄한 복근’ [MK화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000913759</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000913759"/>
+        <updated>2022-12-22T11:22:15.461Z</updated>
+        <content type="html"><![CDATA[대한민국을 빛낸 10인 대상 시상식이 22일 오후 서울 강남구 논현동 엘리에나 호텔에서 열렸다. 리듬체조 국가대표 출신 신수지가 포토타임을 갖고 있다. 한편 신수지는 리듬체조 선수 은퇴 후 방송인으로 활동하고 있다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["취향 안 변하네" 디카프리오, 23세 금발 여배우와 데이트]]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004832099</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000913728"/>
         <updated>2022-12-22T10:16:15.266Z</updated>
         <content type="html"><![CDATA[22일 오후 보컬 그룹 빅마마의 멤버 이지영이 신곡 ‘Queen‘으로 솔로 컴백 쇼케이스 무대를 선보였다. 이지영이 쇼케이스에 앞서 포토타임을 갖고 있다. 선릉(서울)= 김재현 MK스포츠 기자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김문성 메이콘텐츠 대표 ‘MK스포츠와 MOU 협약’ [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000913726</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000913726"/>
-        <updated>2022-12-22T10:16:15.267Z</updated>
-        <content type="html"><![CDATA[22일 오후 주)메이콘텐츠 본사에서 메이콘텐츠와 MK스포츠의 MOU 협약식이 열렸다. 메이콘텐츠와 MK스포츠는 공연과 콘서트 등 제작을 비롯해 다양한 분야의 홍보업무를 함께 수행하는데 상호 협력하기로 협약했다. 김문]]></content>
     </entry>
 </feed>
