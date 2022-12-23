@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-12-23T09:20:04.613Z</updated>
+    <updated>2022-12-23T11:19:45.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[후크 "이승기 광고료 편취? 사실무근"]]></title>
+        <id>https://v.daum.net/v/20221223184840062</id>
+        <link href="https://v.daum.net/v/20221223184840062"/>
+        <updated>2022-12-23T11:19:09.029Z</updated>
+        <content type="html"><![CDATA[이승기(왼쪽)와 권진영 후크엔터테인먼트 대표(사진=이데일리DB)[이데일리 스타in 윤기백 기자] “후크가 연예인에게 지급할 돈 중의 일부를 편취하였다는 내용은 사실이 아닙니다.” 후크엔터테인먼트가 ‘이승기에게 지급해야 할 광고모델료 중 일부를 편취했다’는 이승기 법률대리인의 주장에 대해 정면반박했다. 후크엔터테인먼트는 23일 공식 보도자료를 내고 “어제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카라, 日접수 나선다..오늘 10년만에 '뮤직 스테이션' 연말특집 출격]]></title>
         <id>https://v.daum.net/v/20221223174743017</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221223151712909"/>
         <updated>2022-12-23T06:26:16.011Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김한길 기자] 가수 헤이즈(Heize)가 공연 연습 도중, 왼쪽 다리 무릎 인대 파열 및 경미한 골절상을 입었다. 소속사 피네이션(P NATION)은 23일 "헤이즈는 지난 21일 오후 공연 연습 도중, 왼쪽 다리 무릎 인대 파열 및 경미한 골절상을 입었다"고 밝혔다. 그러면서 "부상 직후 곧바로 병원 치료를 받았으며, 건강과 활동에 큰]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['쇼미더머니', 올해 12월 음원 차트도 점령? 8곡 더 쏟아진다]]></title>
-        <id>https://v.daum.net/v/20221223151535868</id>
-        <link href="https://v.daum.net/v/20221223151535868"/>
-        <updated>2022-12-23T06:26:16.012Z</updated>
-        <content type="html"><![CDATA[이영지(사진=Mnet)[이데일리 스타in 김현식 기자] 8곡이 더 쏟아진다. Mnet 힙합 서바이벌 프로그램 ‘쇼미더머니11’ 세미 파이널에 진출한 톱8 참가자들의 경연곡이 12월 음원 차트를 뒤흔들지 주목된다. 기존에 발표된 ‘쇼미더머니11’ 경연곡들은 국내 주요 음악 플랫폼 차트에서 꾸준히 인기몰이 중이다. 톱8 진출자 중 한 명인 이영지가 16일]]></content>
     </entry>
 </feed>
