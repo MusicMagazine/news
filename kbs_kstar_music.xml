@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 03:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 04:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[일문일답] 마마무 문별 'The Present'... "선물 주머니 같은 앨범"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=242905</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=242905</guid>
+            <pubDate>Fri, 23 Dec 2022 04:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=242905">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221223082334_03410c6619f86103ebb6a54c700aae7b.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=242905">[일문일답] 마마무 문별 'The Present'... "선물 주머니 같은 앨범"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221223082334_03410c6619f86103ebb6a54c700aae7b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엑스디너리 히어로즈, 데뷔 첫 단독 콘서트  "세계 최강 밴드 되는 그날까지 함께해 주길"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=242393</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=239397">'카라'  컴백 D-1, 신곡 'WHEN I MOVE' 뮤직비디오 티저 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221128075032_f6999b795540bd6abf2b1c7d0b4176ff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 RM, ‘Indigo’  "4년 동안의 역사"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=239390</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=239390</guid>
-            <pubDate>Mon, 28 Nov 2022 10:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=239390">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221128073200_51279beacc2e46319fc99e0f87626b5b.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=239390">방탄소년단 RM, ‘Indigo’  "4년 동안의 역사"  </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221128073200_51279beacc2e46319fc99e0f87626b5b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
