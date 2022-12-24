@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Dec 2022 13:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2022 15:18:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ITZY의크리스마스, "연말도 함께 행복하세요!"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=243112</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=243112</guid>
+            <pubDate>Sat, 24 Dec 2022 15:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243112">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221224194956_90ecdbb98d86f77e68f2c8e9ebeaed06.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=243112">ITZY의크리스마스, "연말도 함께 행복하세요!"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221224194956_90ecdbb98d86f77e68f2c8e9ebeaed06.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[일문일답] 마마무 문별 'The Present'... "선물 주머니 같은 앨범"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=242905</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=239246">샤이니 민호, 솔로 데뷔...  ‘CHASE’ 12월 6일 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221127071155_cebd5dc6762eeddf9938e6fb515d65d3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['카라'  컴백 D-1, 신곡 'WHEN I MOVE' 뮤직비디오 티저]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=239397</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=239397</guid>
-            <pubDate>Mon, 28 Nov 2022 10:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=239397">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221128075032_f6999b795540bd6abf2b1c7d0b4176ff.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=239397">'카라'  컴백 D-1, 신곡 'WHEN I MOVE' 뮤직비디오 티저 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221128075032_f6999b795540bd6abf2b1c7d0b4176ff.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
