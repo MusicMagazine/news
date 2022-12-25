@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-12-25T14:13:35.178Z</updated>
+    <updated>2022-12-25T15:23:18.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김연지, ‘빨간풍선’ 첫 번째 OST 주자…'폭발적 가창력']]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001539148</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001539148"/>
+        <updated>2022-12-25T15:23:01.997Z</updated>
+        <content type="html"><![CDATA[가수 김연지가 TV조선 드라마 ‘빨간풍선’ OST의 첫 번째 주자로 발탁되었다. 김연지가 부른 드라마 ‘빨간풍선’의 OST Part.1 ‘빨간풍선’이 오늘 25일 오후 6시 각종 음원사이트를 통해 발매된다. 드라마]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프레디 카소&큐엠, '엠파이어 스테이트 모텔' 선공개..붐뱁의 변주]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003116328</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003248140"/>
         <updated>2022-12-25T04:19:59.785Z</updated>
         <content type="html"><![CDATA[가수 여은이 2022년 겨울 리메이크 열풍을 이어간다. 여은은 2010년 남성듀오디셈버가 발표한 ‘배운게 사랑이라’를 자신만의 감성으로 새로이 해석해 25일 발매했다. 드라마 OST와 싱글 음원 발표, 뮤지컬에 이르]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] TXT 휴닝카이, '팬들에게 멋진 손인사~' (2022 SBS 가요대전)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004791609</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004791609"/>
-        <updated>2022-12-25T04:19:59.787Z</updated>
-        <content type="html"><![CDATA[그룹 투모로우바이투게더(TXT) 휴닝카이가 24일 오후 서울 고척동 고척스카이돔에서 열린 '2022 SBS 가요대전' 레드카펫 행사에 참석해 포토타임을 갖고 있다.]]></content>
     </entry>
 </feed>
