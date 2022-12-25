@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-12-25T11:17:51.475Z</updated>
+    <updated>2022-12-25T12:31:42.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[프레디 카소&큐엠, '엠파이어 스테이트 모텔' 선공개..붐뱁의 변주]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003116328</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003116328"/>
+        <updated>2022-12-25T12:31:23.599Z</updated>
+        <content type="html"><![CDATA[프로듀서 프레디 카소(Fredi Casso)와 래퍼 QM이 '엠파이어 스테이트 모텔'을 선공개했다. 25일 오후 9시 VMC 공식 유튜브 채널을 통해 새 EP '엠파이어 스테이트 모텔'(Empire State Mot]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AOA 출신 지민, 파격 노출 셀카..팔뚝 덮은 타투 '주목']]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003116315</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004791609"/>
         <updated>2022-12-25T04:19:59.787Z</updated>
         <content type="html"><![CDATA[그룹 투모로우바이투게더(TXT) 휴닝카이가 24일 오후 서울 고척동 고척스카이돔에서 열린 '2022 SBS 가요대전' 레드카펫 행사에 참석해 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] TXT 수빈, '멋지다~' (2022 SBS 가요대전)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004791608</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004791608"/>
-        <updated>2022-12-25T04:19:59.796Z</updated>
-        <content type="html"><![CDATA[그룹 투모로우바이투게더(TXT) 수빈이 24일 오후 서울 고척동 고척스카이돔에서 열린 '2022 SBS 가요대전' 레드카펫 행사에 참석해 포토타임을 갖고 있다.]]></content>
     </entry>
 </feed>
