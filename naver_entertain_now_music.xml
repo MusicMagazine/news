@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-12-25T15:23:18.434Z</updated>
+    <updated>2022-12-25T16:27:06.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[Ms앨범] "닉값 증명" 에스파 윈터, 겨울에 꽃피운 비주얼]]></title>
+        <id>https://entertain.naver.com/now/read?oid=445&amp;aid=0000090636</id>
+        <link href="https://entertain.naver.com/now/read?oid=445&amp;aid=0000090636"/>
+        <updated>2022-12-25T16:26:52.113Z</updated>
+        <content type="html"><![CDATA[지난 24일 오후 서울 구로구 고척스카이돔에서 '2022 SBS 가요대전'이 열렸다. 이날 '2022 SBS 가요대전' 포토월 행사에 참석한 에스파 윈터가 포즈를 취하고 있다. 한편, 샤이니 키, 아스트로 차은우,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김연지, ‘빨간풍선’ 첫 번째 OST 주자…'폭발적 가창력']]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001539148</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004791612"/>
         <updated>2022-12-25T04:19:59.784Z</updated>
         <content type="html"><![CDATA[그룹 아스트로 차은우가 24일 오후 서울 고척동 고척스카이돔에서 열린 '2022 SBS 가요대전' 레드카펫 행사에 참석해 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여은, 디셈버 원곡 ‘배운게 사랑이라’ 감동 리메이크]]></title>
-        <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003248140</id>
-        <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003248140"/>
-        <updated>2022-12-25T04:19:59.785Z</updated>
-        <content type="html"><![CDATA[가수 여은이 2022년 겨울 리메이크 열풍을 이어간다. 여은은 2010년 남성듀오디셈버가 발표한 ‘배운게 사랑이라’를 자신만의 감성으로 새로이 해석해 25일 발매했다. 드라마 OST와 싱글 음원 발표, 뮤지컬에 이르]]></content>
     </entry>
 </feed>
