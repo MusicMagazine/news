@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-12-25T04:20:15.369Z</updated>
+    <updated>2022-12-25T05:14:00.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원어스, 크리스마스 맞아 귀여운 산타&루돌프로 변신]]></title>
+        <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003248145</id>
+        <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003248145"/>
+        <updated>2022-12-25T05:13:44.745Z</updated>
+        <content type="html"><![CDATA[그룹 원어스(ONEUS)가 크리스마스를 맞아 훈훈한 인사를 전했다. 원어스는 24일 공식 SNS를 통해 팬들에게 보내는 크리스마스 메시지와 함께 시온의 캐럴 커버 영상 ‘어스레코드: 헤브유어셀프 어 메리 리틀 크리스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[포토] 차은우, '심쿵' (2022 SBS 가요대전)]]></title>
         <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004791615</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004791590</id>
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004791590"/>
         <updated>2022-12-25T04:19:59.835Z</updated>
-        <content type="html"><![CDATA[그룹 엔하이픈 성훈이 24일 오후 서울 고척동 고척스카이돔에서 열린 '2022 SBS 가요대전' 레드카펫 행사에 참석해 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 엔하이픈 성훈, '감탄을 부르는 멋짐' (2022 SBS 가요대전)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004791589</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004791589"/>
-        <updated>2022-12-25T04:19:59.836Z</updated>
         <content type="html"><![CDATA[그룹 엔하이픈 성훈이 24일 오후 서울 고척동 고척스카이돔에서 열린 '2022 SBS 가요대전' 레드카펫 행사에 참석해 포토타임을 갖고 있다.]]></content>
     </entry>
 </feed>
