@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-12-25T10:16:17.088Z</updated>
+    <updated>2022-12-25T11:17:51.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에스페로ㆍ양지은ㆍ스트레이키즈ㆍ포레스텔라ㆍ마마무 문별]]></title>
+        <id>https://v.daum.net/v/20221225195717702</id>
+        <link href="https://v.daum.net/v/20221225195717702"/>
+        <updated>2022-12-25T11:17:14.034Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 가요팀] 12월 넷째주(12월 19일~25일)에는 그룹 에스페로와 스트레이키즈, 포레스텔라가 새 앨범을 냈다. 가수 양지은과 그룹 마마무의 문별도 연말 신보로 새로운 매력을 드러냈다. ◆ 에스페로 - '로맨스 온 클래식'(Romance on Classic) (발매일 12월 20일) 에스페로의 데뷔 앨범 '로맨스 온 클래식'에는 더블 타이틀곡]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서태지 컴백은?··· “30주년 조용히 지나가”]]></title>
         <id>https://v.daum.net/v/20221225151557138</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221225085835796"/>
         <updated>2022-12-25T01:02:53.964Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박아름 기자] 에스페로 임현진이 지독한 연습벌레이자 엄친아 스펙으로 주목받고 있다. 지난 12월 20일 데뷔한 크로스오버 그룹 에스페로 막내 임현진이 첫 무대부터 뛰어난 실력을 입증하면서 그의 남다른 스펙에 관심이 쏠리고 있다. 임현진은 앞서 공개된 리더 남형근 서울대 후배이며 선화예중과 선화예고를 졸업한 후 서울대학교 음악대학에 재학 중인 수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영탁, 12월 트로트 가수 브랜드 평판 톱3]]></title>
-        <id>https://v.daum.net/v/20221225085608777</id>
-        <link href="https://v.daum.net/v/20221225085608777"/>
-        <updated>2022-12-25T01:02:53.965Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 문완식 기자] 가수 영탁이 12월 트로트 가수 브랜드 평판 톱3에 오르며 인기를 입증했다. 영탁은 12월 25일 발표된 트로트 가수 브랜드평판 2022년 12월 빅데이터 분석결과, 3위를 차지했다. 1위는 임영웅, 2위는 이찬원이었다. 영탁 브랜드는 참여지수 81만 6846 미디어지수 156만 4416 소통지수 83만 7988 커뮤니티지수]]></content>
     </entry>
 </feed>
