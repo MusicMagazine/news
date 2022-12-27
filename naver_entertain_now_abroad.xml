@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-12-27T01:06:24.124Z</updated>
+    <updated>2022-12-27T02:13:17.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['前 AKB48' 시노다 마리코, 불륜으로 위자료 청구 피소 [엑's 재팬]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001539483</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001539483"/>
+        <updated>2022-12-27T02:13:16.419Z</updated>
+        <content type="html"><![CDATA[불륜 스캔들에 휩싸인 AKB48 출신 배우 시노다 마리코가 남편으로부터 소송을 당했다. 지난 26일 일본의 주간신조는 시노다 마리코와 그의 남편이 별거를 시작한 당일 6시간 동안 벌어진 상황에 대한 녹음본 일부를 입]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“카녜이 웨스트와 공동양육 너무 힘들어”, 킴 카다시안 눈물 쏟아[해외이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003681616</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003681310"/>
         <updated>2022-12-26T01:06:37.492Z</updated>
         <content type="html"><![CDATA[제임스 카메론 감독의 ‘아바타:물의 길’이 글로벌 흥행 수익 1조원을 돌파하며 견고한 흥행세를 유지하고 있다. 25일(현지시간) 버라이어티에 따르면, ‘아바타:물의 길’은 북미에서 2억 5,370만 달러, 해외에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아바타:물의 길' 전 세계 매출액 1조원 넘겼다]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011609734</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011609734"/>
-        <updated>2022-12-26T01:06:37.498Z</updated>
-        <content type="html"><![CDATA[기사내용 요약 2주 연속 미국 주말 박스오피스 정상 미국 내 매출액 2억5370만 달러 기록 전 세계 매출액 8억8140만 달러 달성 약 1조1300억원 달해…10억 달러 가능 [서울=뉴시스] 손정빈 기자 = 영화]]></content>
     </entry>
 </feed>
