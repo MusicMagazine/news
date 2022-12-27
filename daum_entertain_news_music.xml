@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-12-27T11:13:09.011Z</updated>
+    <updated>2022-12-27T15:16:02.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비투비 이민혁 속옷 화보…압도적 피지컬 ‘황소 같아’]]></title>
+        <id>https://v.daum.net/v/20221228000015209</id>
+        <link href="https://v.daum.net/v/20221228000015209"/>
+        <updated>2022-12-27T15:15:25.721Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 비투비 이민혁 속옷 화보…압도적 피지컬 ‘황소 같아’ 비투비 이민혁이 압도적인 피지컬을 자랑했다. 이민혁은 최근 공개된 한 언더웨어 화보에서 황소 같은 바디로 멋진 컷을 완성했다. 그는 로고 프린트가 포인트인 라운지 티셔츠와 언더웨어를 착용해 훈훈한 매력을 발산했다. 컬러감이 돋보이는 이글 로고 패턴의 드로즈를 착용한 컷에서는 남성미를 발산하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTS→블랙핑크, 대규모 해외 공연 재개..다시 열린 글로벌 문]]></title>
         <id>https://v.daum.net/v/20221227200822054</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221227163001480"/>
         <updated>2022-12-27T10:19:59.222Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 정하은기자]그룹 (여자)아이들 소연이 코로나19에 확진됐다. 27일 큐브엔터테인먼트는 “소연이 인후통 증상이 있어 선제적 대응 차원에서 진행한 자가 검사 키트에서 양성임을 확인했다”며 “이후 PCR 검사를 진행, 최종 확진 판정을 받았다”고 밝혔다. 소연은 코로나19 백신 3차까지 접종을 완료한 상태로 현재 모든 일정을 중단]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이들 소연, 코로나19 확진 일정 중단...'MBC 가요대제전' 출연은?]]></title>
-        <id>https://v.daum.net/v/20221227162513338</id>
-        <link href="https://v.daum.net/v/20221227162513338"/>
-        <updated>2022-12-27T10:19:59.222Z</updated>
-        <content type="html"><![CDATA[(MHN스포츠 이현지 기자) 그룹 (여자)아이들 소연이 코로나19에 확진됐다.&nbsp; 27일 소속사 큐브 엔터테인먼트(이하 큐브)는 공식입장을 통해 (여자)아이들 멤버 소연이 코로나19 확진 판정을 받았다고 밝혔다.&nbsp; 큐브는 "소연은 오늘(27일) 인후통 증상이 있어 선제적 대응 차원에서 진행한 자가 검사 키트에서 양성임을 확인했다. 이후 PCR 검]]></content>
     </entry>
 </feed>
