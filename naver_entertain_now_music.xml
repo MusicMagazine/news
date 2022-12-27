@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-12-27T03:15:52.938Z</updated>
+    <updated>2022-12-27T04:25:33.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘소녀 리버스’ 국내 최초 버추얼 아이돌 데뷔 서바이벌 “걸그룹 30인의 새 도전” [종합]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003248454</id>
+        <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003248454"/>
+        <updated>2022-12-27T04:25:16.251Z</updated>
+        <content type="html"><![CDATA[전현직 K팝 걸그룹 멤버 30인이 이름도 정체도 숨긴 채 버추얼 아이돌 데뷔 서바이벌을 펼친다. 27일 오전 서울 마포구 상암 스탠포드코리아호텔 그랜드볼룸에서 카카오엔터 ‘소녀 리버스’(GIRL’S RE:VERSE)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[포토] 눈 크게 뜬 아이키 사진은 귀하다]]></title>
         <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004792350</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003248437"/>
         <updated>2022-12-27T03:15:34.829Z</updated>
         <content type="html"><![CDATA[‘서바이벌의 아이콘’ 댄서 아이키가 가상 세계 서바이벌에 임한 소감을 밝혔다. 27일 오전 서울 마포구 상암 스탠포드코리아호텔 그랜드볼룸에서 카카오엔터 ‘소녀 리버스’ 제작발표회가 열린 가운데, 바다, 붐, 아이키,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최장 시간 위버스 라이브 진행한 아티스트는?]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011612188</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011612188"/>
-        <updated>2022-12-27T03:15:34.832Z</updated>
-        <content type="html"><![CDATA[정진아 인턴 기자 = 글로벌 팬커뮤니티 '위버스(Weverse)'의 누적 포스팅 수가 3억 3000만 건을 돌파했다. 아티스트 게시물도 30만 건을 넘어섰다. 27일 하이브에 따르면, 위버스가 올 한 해 팬덤 이슈를]]></content>
     </entry>
 </feed>
