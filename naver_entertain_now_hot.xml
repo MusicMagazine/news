@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2022-12-28T18:23:14.791Z</updated>
+    <updated>2022-12-28T19:13:49.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘보이즈 플래닛’ 시그널송, 29일 ‘엠카’ 최초 공개]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001024685</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0001024685"/>
+        <updated>2022-12-28T19:13:41.058Z</updated>
+        <content type="html"><![CDATA[Mnet '보이즈 플래닛(BOYS PLANET)' 시그널송이 29일(목) 19시 09분 '엠카운트다운'을 통해 최초 공개된다. 보이즈 플래닛 시그널송 ‘난 빛나(HERE I AM)’는 일렉트로닉에 프로그레시브 하우스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최수종, 가마솥 밥 첫 도전…♥하희라와 살림 취향 반대 (세컨하우스)]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001024684</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003954785"/>
         <updated>2022-12-28T14:14:54.702Z</updated>
         <content type="html"><![CDATA['2022 카타르 월드컵' 축구 국가대표 조규성 선수가 손흥민 선수와의 첫 만남을 언급했다. 28일 방송된 tvN '유 퀴즈 온 더 블럭'에서는 대한민국 월드컵 사상 최초로 한 경기 멀티골을 기록한 조규성 선수가 어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이연복, 식당 폐업 직접 해명 "부산 매장만 인력난으로 폐업" ('라스')]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003954784</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003954784"/>
-        <updated>2022-12-28T14:14:54.702Z</updated>
-        <content type="html"><![CDATA['중식의 대가' 이연복 셰프가 식당 폐업 오보에 대해 직접 해명에 나섰다. 28일 방송된 MBC '라디오스타'는 이연복, 김병현, 노사연, 히밥이 출연하는 '수요일은 밥이 좋아' 특집으로 꾸며졌다. 이날 이연복은 최]]></content>
     </entry>
 </feed>
