@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-12-29T21:14:49.658Z</updated>
+    <updated>2022-12-29T22:15:26.751Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[할리웃POP]아리아나 그란데, 콘서트 폭탄테러 그후..어린이 병원에 5년간 선물 보냈다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003607362</id>
+        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003607362"/>
+        <updated>2022-12-29T22:15:26.117Z</updated>
+        <content type="html"><![CDATA[아리아나 그란데가 2017년 자신의 콘서트 중 폭탄 테러가 발생한 맨체스터 지역에 크리스마스 선물을 5년간 보내고 있다고 외신이 보도했다. 30일(한국시간) 미국 연예매체 페이지 식스 등 외신에 따르면 해당 지역 병]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기안84 ‘떨리는 포토타임’ [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000914845</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000914778"/>
         <updated>2022-12-29T12:34:54.125Z</updated>
         <content type="html"><![CDATA[2022 MBC 방송연예대상 포토월이 29일 오후 서울 마포구 상암동 MBC에서 열렸다. 박진주, 이미주가 포토타임을 갖고 있다. 상암동(서울)=천정환 MK스포츠 기자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박진주 ‘우아한 블랙 드레스 자태’ [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000914774</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000914774"/>
-        <updated>2022-12-29T12:34:54.125Z</updated>
-        <content type="html"><![CDATA[2022 MBC 방송연예대상 포토월이 29일 오후 서울 마포구 상암동 MBC에서 열렸다. 박진주가 포토타임을 갖고 있다. 상암동(서울)=천정환 MK스포츠 기자]]></content>
     </entry>
 </feed>
