@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2022-12-30T18:25:20.723Z</updated>
+    <updated>2022-12-30T19:17:51.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘모솔 12기’ 영식→광수, 희비 엇갈렸나 “첫사랑이 되어줘” 간절 (나는솔로)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001025096</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0001025096"/>
+        <updated>2022-12-30T19:17:42.468Z</updated>
+        <content type="html"><![CDATA[SBS PLUS와 ENA의 리얼 데이팅 프로그램 ‘나는 SOLO(나는 솔로)’ 모태솔로 12기가 설레는 첫 데이트 선택에 돌입한다. 제작진이 공개한 예고편에서 ‘모태솔로 12기’는 “첫 선택 들어가겠다”는 말과 함께]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘SMTOWN LIVE’ 기대 포인트]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001025095</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000911289"/>
         <updated>2022-12-30T14:12:53.793Z</updated>
         <content type="html"><![CDATA[배우 이종석이 영예의 대상 주인공이 됐다. 30일 오후 서울 마포구 상암동 MBC 미디어센터 공개홀에서는 ‘2022 MBC 연기대상’이 열렸다. 김성주와 최수영이 MC를 맡았다. 올 한해 MBC는 ‘마녀의 게임’,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2022 mbc 연기대상] '금수저' 육성재·'빅마우스' 임윤아, 최우수연기상]]></title>
-        <id>https://entertain.naver.com/now/read?oid=417&amp;aid=0000882642</id>
-        <link href="https://entertain.naver.com/now/read?oid=417&amp;aid=0000882642"/>
-        <updated>2022-12-30T14:12:53.796Z</updated>
-        <content type="html"><![CDATA[배우 육성재와 임윤아가 미니시리즈 부문 최우수 연기상을 받았다. 30일 저녁 서울 마포구 상암동 MBC 공개홀에서 '2022 MBC 연기대상' 시상식이 열렸다. 시상식은 방송인 김성주, 배우 최수영의 진행으로 개최됐]]></content>
     </entry>
 </feed>
