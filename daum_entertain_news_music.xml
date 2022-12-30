@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2022-12-30T17:16:56.595Z</updated>
+    <updated>2022-12-30T18:25:20.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘SMTOWN LIVE’ 기대 포인트]]></title>
+        <id>https://v.daum.net/v/20221231030009761</id>
+        <link href="https://v.daum.net/v/20221231030009761"/>
+        <updated>2022-12-30T18:24:43.231Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 전 세계 무료 온라인 공연 'SMTOWN LIVE 2023 : SMCU PALACE@KWANGYA'(에스엠타운 라이브 2023 : SMCU 팰리스@광야)이 2023년 1월 1일 오후 1시(한국시간 기준) 개최되는 가운데, 기대포인트를 정리했다. 공연은 유튜브, Beyond LIVE, 일본 KNTV, 틱톡, 인스타그램, 아이돌플러스 등을 통해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘쇼미더머니11’ 이영지 파워, 우승자 각축전]]></title>
         <id>https://v.daum.net/v/20221231001313431</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221230170010366"/>
         <updated>2022-12-30T08:17:56.375Z</updated>
         <content type="html"><![CDATA[[텐아시아=강민경 기자] 걸그룹 시크릿넘버, 뉴진스, 르세라핌, (여자)아이들, 드림캐쳐, 아이유, 아이브, 블랙핑크, 케플러, 소녀시대가 텐아시아 아티스트 톱텐(TENASIA ARTIST TOP TEN) K-POP GIRL BRAND 부문 12월 아티스트로 선정됐다. 지난 12일부터 25일까지 텐아시아 투표 서비스를 통해 아티스트 톱텐 K-POP BO]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이석훈·임영웅·윤하, 12월 'ARTIST TOP TEN' HOT GENRE BRAND 주인공]]></title>
-        <id>https://v.daum.net/v/20221230170006361</id>
-        <link href="https://v.daum.net/v/20221230170006361"/>
-        <updated>2022-12-30T08:17:56.375Z</updated>
-        <content type="html"><![CDATA[[텐아시아=강민경 기자] SG워너비 이석훈, 임영웅, 윤하, 지코, 테이, 크러쉬, 비오, 10CM, 멜로망스, #안녕이 텐아시아 아티스트 톱텐(TENASIA ARTIST TOP TEN) 12월 'HOT GENRE BRAND' 주인공이 됐다. 지난 12일부터 25일까지 텐아시아 투표 서비스를 통해 아티스트 톱텐 K-POP BOY BRAND, K-POP]]></content>
     </entry>
 </feed>
