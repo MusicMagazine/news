@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-12-30T14:13:02.709Z</updated>
+    <updated>2022-12-30T16:18:41.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[별, 정규 6집 ‘Startrail’ 콘셉트 포토[화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000858523</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000858523"/>
+        <updated>2022-12-30T16:18:23.664Z</updated>
+        <content type="html"><![CDATA[가수 별이 콘셉트 포토와 커버 이미지를 공개하며 컴백 기대감을 고조시켰다. 콴엔터테인먼트는 지난 28일 공식 SNS를 통해 여섯 번째 정규앨범 ‘Startrail(스타트레일)’ 발매를 앞둔 별의 첫 번째 콘셉트 포토]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ITZY, 투어 비하인드 담은 ‘IT’z TOUR BOOK’ 열다]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000858518</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004765808"/>
         <updated>2022-12-30T09:15:14.311Z</updated>
         <content type="html"><![CDATA[7년만에 YG엔터테인먼트에서 만든 새로운 걸그룹이 나온다. YG엔터테인먼트는 선택과 집중을 통해 투애니원과 블랙핑크를 성공시켰다. 2023년에도 초대형 걸그룹의 탄생을 예고했다. YG엔터테인먼트는 30일 오후 3시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘따로 또 함께’ BTS, 화려했던 2022]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000858478</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000858478"/>
-        <updated>2022-12-30T09:15:14.312Z</updated>
-        <content type="html"><![CDATA[그룹 방탄소년단이 다양한 활동으로 2022년을 화려하게 마무리했다. 방탄소년단은 팀 활동은 물론이고, 개별 활동까지 전방위적인 활약으로 2022년을 ‘방탄소년단’으로 가득 채웠다. ◆ ‘Proof’부터 협업곡까지..]]></content>
     </entry>
 </feed>
