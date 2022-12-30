@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-12-30T13:20:16.862Z</updated>
+    <updated>2022-12-30T14:13:02.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임윤아 ‘빼어난 드레스 자태’ [MK화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000915007</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000915007"/>
+        <updated>2022-12-30T14:13:02.042Z</updated>
+        <content type="html"><![CDATA[30일 오후 상암 MBC에서 2022 MBC 연기대상 시상식이 열렸다. 드라마 ‘빅마우스’의 임윤아가 포토월에서 포즈를 취하고 있다. 임윤아의 포토타임 모습을 화보로 소개한다. 볼하트 선보이는 임윤아 임윤아가 볼하트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이종석 ‘양 손으로 브이’ [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000915006</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000914981"/>
         <updated>2022-12-30T13:20:16.297Z</updated>
         <content type="html"><![CDATA[30일 오후 상암 MBC에서 2022 MBC 연기대상 시상식이 열렸다. 드라마 ‘일당백집사’의 송덕호가 포토월에서 포즈를 취히고 있다. 상암동(서울) 김재현 MK스포츠 기자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연우 ‘하트 날립니다’[MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000914980</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000914980"/>
-        <updated>2022-12-30T13:20:16.298Z</updated>
-        <content type="html"><![CDATA[30일 오후 상암 MBC에서 2022 MBC 연기대상 시상식이 열렸다. 드라마 ‘금수저’의 연우가 포토월에서 포즈를 취히고 있다. 상암동(서울) 김재현 MK스포츠 기자]]></content>
     </entry>
 </feed>
