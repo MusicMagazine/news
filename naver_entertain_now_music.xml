@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2022-12-30T12:24:57.857Z</updated>
+    <updated>2022-12-30T13:20:16.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새해 주목할 아티스트는? 민트페이퍼 오디션 ‘원콩쿨’ 개최]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000858512</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000858512"/>
+        <updated>2022-12-30T13:19:58.002Z</updated>
+        <content type="html"><![CDATA[민트페이퍼의 공개 오디션 ‘One Concours(원콩쿨)’이 돌아온다. ‘One Concours(원콩쿨, 이하 ‘원콩쿨’)’은 ‘그랜드 민트페스티벌’, ‘뷰티풀 민트 라이프’ 등 국내 대형 페스티벌을 기획한 민트페]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YG는 계획이 다 있었구나..7년만 7인조 차세대 걸그룹 2023년 포문 (종합)]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004765895</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003117570"/>
         <updated>2022-12-30T08:18:16.788Z</updated>
         <content type="html"><![CDATA[그룹 블랙핑크의 더블랙레이블 이적설에 대해 YG가 입장을 밝혔다. YG엔터테인먼트는 30일 스타뉴스에 "블랙핑크의 더블랙레이블 이적설은 사실무근"이라고 입장을 전했다. 이날 한 매체는 블랙핑크가 YG엔터테인먼트와 계]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백' 에이티즈, 타이틀곡 '할라지아' 뮤비 공개]]></title>
-        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001239859</id>
-        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001239859"/>
-        <updated>2022-12-30T08:18:16.790Z</updated>
-        <content type="html"><![CDATA[에이티즈가 첫 싱글 앨범으로 화려하게 컴백, 타이틀곡 ‘할라지아(HALAZIA)’의 뮤직비디오를 전격 공개했다. 오늘(30일) 오후 2시 에이티즈는 첫 싱글 앨범 ‘스핀 오프 : 프롬 더 위트니스’를 발매하고 타이틀]]></content>
     </entry>
 </feed>
