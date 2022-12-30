@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-12-30T19:17:51.629Z</updated>
+    <updated>2022-12-30T22:18:50.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“23살 내 딸이 48살 디카프리오에게 홀딱 반했다”, 아빠는 나이가 걱정돼[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003682928</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003682928"/>
+        <updated>2022-12-30T22:18:49.536Z</updated>
+        <content type="html"><![CDATA[할리우드 톱스타 레오나르도 디카프리오(48)가 배우 빅토리아 라마스(23)와 열애설이 난 가운데 빅토리아의 아버지이자 배우인 로렌조 라마스(64)가 둘의 관계를 언급했다. 로렌조 라마스는 29일(현지시간) 뉴욕포스트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[74살 에어로스미스 보컬, 49년 전 미성년자 성폭행 혐의 피소]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013673395</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000914983"/>
         <updated>2022-12-30T13:20:16.295Z</updated>
         <content type="html"><![CDATA[30일 오후 상암 MBC에서 2022 MBC 연기대상 시상식이 열렸다. 드라마 ‘금혼령’의 김영대가 포토월에서 포즈를 취히고 있다. 상암동(서울) 김재현 MK스포츠 기자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김우석 ‘미소가 멋져’ [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000914982</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000914982"/>
-        <updated>2022-12-30T13:20:16.296Z</updated>
-        <content type="html"><![CDATA[30일 오후 상암 MBC에서 2022 MBC 연기대상 시상식이 열렸다. 드라마 ‘금혼령’의 김우석이 포토월에서 포즈를 취히고 있다. 상암동(서울) 김재현 MK스포츠 기자]]></content>
     </entry>
 </feed>
