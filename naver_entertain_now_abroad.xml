@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2022-12-31T06:26:22.316Z</updated>
+    <updated>2022-12-31T08:17:38.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['퀸' 브라이언 메이, 이젠 'Sir'…英 기사작위 받는다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011619860</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011619860"/>
+        <updated>2022-12-31T08:17:37.445Z</updated>
+        <content type="html"><![CDATA[영국의 전설적인 록 밴드 '퀸'의 기타리스트 브라이언 메이(75)가 기사(Sir)가 됐다. 30일(현지시간) AP통신 등 외신에 따르면, 메이는 영국 정부가 이날 발표한 '2023년 기사 작위 수훈 명단'에 포함됐다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['퀸' 기타리스트 브라이언 메이, 英 기사 된다]]></title>
         <id>https://entertain.naver.com/now/read?oid=277&amp;aid=0005199315</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000914992</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000914992"/>
         <updated>2022-12-30T13:20:16.287Z</updated>
-        <content type="html"><![CDATA[30일 오후 상암 MBC에서 2022 MBC 연기대상 시상식이 열렸다. 드라마 ‘일당백집사’의 이혜리가 포토월에서 포즈를 취히고 있다. 상암동(서울) 김재현 MK스포츠 기자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이혜리 ‘하트 받으세요’ [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000914991</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000914991"/>
-        <updated>2022-12-30T13:20:16.288Z</updated>
         <content type="html"><![CDATA[30일 오후 상암 MBC에서 2022 MBC 연기대상 시상식이 열렸다. 드라마 ‘일당백집사’의 이혜리가 포토월에서 포즈를 취히고 있다. 상암동(서울) 김재현 MK스포츠 기자]]></content>
     </entry>
 </feed>
