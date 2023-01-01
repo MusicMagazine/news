@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2023-01-01T11:17:26.459Z</updated>
+    <updated>2023-01-01T13:22:35.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 흑인자매 걸그룹 '포인터 시스터스' 둘째 애니타 별세]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013675584</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013675584"/>
+        <updated>2023-01-01T13:22:34.687Z</updated>
+        <content type="html"><![CDATA[1970∼1980년대 다수 히트곡…'페어리테일'로 1975년 그래미상 1970∼1980년대에 큰 인기를 누린 미국의 흑인 자매 걸그룹 '포인터 시스터스'의 1세대 멤버 애니타 포인터(74)가 별세했다고 이 가수와 밴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘지젤 번천과 이혼’ 톰 브래디, 26살 슬로바키아 미녀모델과 열애중[해외이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003683411</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000915232"/>
         <updated>2022-12-31T12:24:00.730Z</updated>
         <content type="html"><![CDATA[배우 하지원과 강하늘이 31일 오후 서울 영등포구 여의도 KBS 신관 공개홀에서 진행된 ‘2022 KBS 연기대상’에 참석해 포토월에서 포즈를 취하고 있다. 여의도동(서울)=김영구 MK스포츠 기자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예지원 ‘변함없는 미모’ [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000915231</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000915231"/>
-        <updated>2022-12-31T12:24:00.731Z</updated>
-        <content type="html"><![CDATA[배우 예지원이 31일 오후 서울 영등포구 여의도 KBS 신관 공개홀에서 진행된 ‘2022 KBS 연기대상’에 참석해 포토월에서 포즈를 취하고 있다. 여의도동(서울)=김영구 MK스포츠 기자]]></content>
     </entry>
 </feed>
