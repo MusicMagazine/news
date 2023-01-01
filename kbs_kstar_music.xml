@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Jan 2023 08:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Jan 2023 10:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[YG, 신인 걸그룹 '베이비몬스터' 첫 공개 영상]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=244172</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=244172</guid>
+            <pubDate>Sun, 01 Jan 2023 10:12:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=244172">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230101085532_ee6f73e1d66a54bd20d024dd378fe263.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=244172">YG, 신인 걸그룹 '베이비몬스터' 첫 공개 영상 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230101085532_ee6f73e1d66a54bd20d024dd378fe263.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가수 별, 정규 앨범 'Startrail'로 1월 컴백]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=243973</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=240417">방탄소년단 RM, ‘Still Life’ 뮤직비디오... “여전히 앞으로 나아갈 것”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221207071734_8dba3f84b71ac7960d41a6bd8e98ae3b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[씨엔블루 강민혁, 대만 단독 팬미팅...   “더 좋은 사람되기 위해 매 순간 노력하며 성장하겠다”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=240342</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=240342</guid>
-            <pubDate>Tue, 06 Dec 2022 14:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=240342">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221206125159_9164c653916600e172e56d3e448f7782.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=240342">씨엔블루 강민혁, 대만 단독 팬미팅...   “더 좋은 사람되기 위해 매 순간 노력하며 성장하겠다”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221206125159_9164c653916600e172e56d3e448f7782.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
