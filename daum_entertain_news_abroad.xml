@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-01-01T02:50:43.578Z</updated>
+    <updated>2023-01-01T03:29:47.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS 제이홉, 美 새해맞이쇼도 찢었다…빗속에서도 빛난 무대장인]]></title>
+        <id>https://v.daum.net/v/20230101120539715</id>
+        <link href="https://v.daum.net/v/20230101120539715"/>
+        <updated>2023-01-01T03:29:22.175Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 방탄소년단(BTS) 멤버 제이홉이 빗줄기 속에서도 무대 장인 면모를 증명했다. 제이홉은 12월 31일(현지시간) 미국 뉴욕 타임스스퀘어 무대에서 진행된 ABC-TV '딕 클라크스 뉴이어스 로킹 이브(DICK CLARK’S NEW YEAR’S ROCKIN EVE, 이하 뉴이어스 로킹 이브)'에 출연했다. 이번 공연 참석을 위해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘지지 하디드♥’ 디카프리오, 바로 옆집 132억에 구입 “왜?”]]></title>
         <id>https://v.daum.net/v/20230101105603337</id>
@@ -18,12 +25,5 @@
         <link href="https://v.daum.net/v/20230101061052193"/>
         <updated>2022-12-31T22:20:48.038Z</updated>
         <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 정윤섭 특파원 = 미국 인기 드라마 '워킹데드'의 스핀오프 시리즈에 출연했던 18살 배우 타일러 샌더스가 마약성 진통제인 펜타닐에 중독돼 사망한 것으로 나타났다. 31일(현지시간) 미국 연예 전문 매체 TMZ와 NBC 방송 등에 따르면 로스앤젤레스(LA) 카운티 검시관은 샌더스가 펜타닐 과다복용 때문에 사망했다고 결론내렸다. 샌더스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아바타2' 개봉 2주 만에 전세계 수익 10억↑ 달러 돌파]]></title>
-        <id>https://v.daum.net/v/20221231115622480</id>
-        <link href="https://v.daum.net/v/20221231115622480"/>
-        <updated>2022-12-31T03:15:36.429Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 ‘아바타: 물의 길’이 전세계 10억 달러 이상의 수익을 돌파했다. 30일(현지 시간) 미국 박스오피스 모조 집계 결과 ‘아바타: 물의 길’은 북미에서 3억 5811만 7914달러(4523억 292만 5382원)를, 해외에서 8억 1060만 달러(1조 237억 8780만 원)를 벌었다. 이에 따라 ‘아바타: 물의 길’ 전체]]></content>
     </entry>
 </feed>
