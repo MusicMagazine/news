@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-01-03T10:21:31.575Z</updated>
+    <updated>2023-01-03T11:16:59.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[딥플로우 수장 VMC "모든 아티스트 전속계약 종료, 크루로 돌아간다"]]></title>
+        <id>https://v.daum.net/v/20230103201547655</id>
+        <link href="https://v.daum.net/v/20230103201547655"/>
+        <updated>2023-01-03T11:16:23.776Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김노을 기자] /사진=VMC래퍼 딥플로우가 수장으로 있는 VMC (비스메이저컴퍼니)가 모든 아티스트와 전속계약을 종료하고 크루로 돌아간다. VMC는 3일 오후 공식 SNS를 통해 "2011년에 결성한 비스메이저 크루는 2014년 컴퍼니로 전환하여 9년간 레이블로 운영됐다. 그리고 2023년 1월, VMC는 그동안의 사업 전개와 모든 아티스트의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[통쾌함과 불편함 사이, 뉴진스 'OMG'에 쏠린 두 시선]]></title>
         <id>https://v.daum.net/v/20230103184303375</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230103162806733"/>
         <updated>2023-01-03T08:26:10.381Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김지하 기자] 데뷔 10년차에 접어든 그룹 갓세븐(GOT7)이 글로벌 시장에서 따로 또 같이 만점 활약을 보여주고 있다. 갓세븐은 지난 2013년 먼저 데뷔한 프로젝트 듀오 JJ프로젝트 멤버인 제이비(JAY B)와 진영에 보컬 영재, 막내 유겸, 대만계 미국인 마크, 태국인 뱀뱀, 홍콩 출신 잭슨 등으로 꾸려진 7인조 그룹이다. 2014년]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트와이스, 1월 20일 영어 싱글 발매→3월 미니 12집 컴백]]></title>
-        <id>https://v.daum.net/v/20230103162519631</id>
-        <link href="https://v.daum.net/v/20230103162519631"/>
-        <updated>2023-01-03T08:26:10.382Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 트와이스(지효, 나연, 정연, 모모, 사나, 미나, 다현, 채영, 쯔위)가 신곡을 발표한다. 트와이스는 1월 3일 공식 SNS를 통해 1월 20일 오후 2시(한국시간) 영어 가사로 된 싱글 'MOONLIGHT SUNRISE'(문라이트 선라이즈)를 발매한다고 공지했다. 영어 싱글 발표는 두 번째다. 트와이스는 2021년 10월]]></content>
     </entry>
 </feed>
