@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-01-04T16:38:04.509Z</updated>
+    <updated>2023-01-04T17:21:01.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제이플라 'The Hare', 美 빌보드-샤잠-아마존 차트 석권]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001240622</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001240622"/>
+        <updated>2023-01-04T17:20:42.784Z</updated>
+        <content type="html"><![CDATA['천만 유튜버' 싱어송라이터 제이플라(J.Fla)가 글로벌 음원 차트 커리어하이를 달성했다. 제이플라의 두 번째 프리 싱글 ‘The Hare’는 최근 미국 빌보드 ‘디지털 송 세일즈 TOP 200’에서 99위에 오르]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영탁, 유쾌한 코믹댄스 ‘머선129’ 영상 SNS 올려]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000859416</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003608341"/>
         <updated>2023-01-04T10:25:03.296Z</updated>
         <content type="html"><![CDATA[싱어송라이터 제이플라(J.Fla)가 글로벌 음원 차트 커리어하이를 달성했다. 제이플라의 두 번째 프리 싱글 ‘The Hare(더 헤어)’는 최근 미국 빌보드 ‘디지털 송 세일즈 TOP 200’에서 99위에 오르며 처]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아스트로와 다른, 문빈&산하의 '섹시' (엑's 현장)[종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001542633</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001542633"/>
-        <updated>2023-01-04T10:25:03.299Z</updated>
-        <content type="html"><![CDATA[그룹 아스트로 유닛 문빈&amp;산하가 '섹시' 콘셉트로 또 한 번 팬들의 마음을 저격한다. 문빈&amp;산하의 세 번째 미니앨범 'INCENSE(인센스)' 발매 기념 쇼케이스가 4일 오후 서울 광진구 예스24 라이브홀에서 진행됐]]></content>
     </entry>
 </feed>
