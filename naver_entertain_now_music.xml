@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-01-04T19:18:57.032Z</updated>
+    <updated>2023-01-04T20:16:33.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[퍼플키스, ESG실천 홍보대사 위촉...선한 영향력]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001240625</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001240625"/>
+        <updated>2023-01-04T20:16:16.595Z</updated>
+        <content type="html"><![CDATA[걸그룹 퍼플키스가 사회공헌 활동에 함께한다. 알비더블유(RBW) 소속 퍼플키스는 굿위드어스와 바인 우정통운의 CSR의 일환으로 론칭하는 공유가치 실현을 위한 공유플랫폼 바인웍스(VINE WORS) 협약식에서 홍보대사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에스페로X김호중 집에서 본다...18일 온라인 콘서트]]></title>
         <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001240624</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=438&amp;aid=0000052602"/>
         <updated>2023-01-04T10:25:03.293Z</updated>
         <content type="html"><![CDATA[블랙핑크의 '뚜두뚜두 (DDU-DU DDU-DU)' 뮤직비디오가 유튜브에서 20억뷰를 돌파했다. K팝 그룹 뮤직비디오 최초이자 최고 조회수다. 4일 YG엔터테인먼트에 따르면 블랙핑크의 '뚜두뚜두 (DDU-DU DDU]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RM 화엄사 방문.."군 면제 못받아 서운한가" 대답은?]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003118901</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003118901"/>
-        <updated>2023-01-04T10:25:03.294Z</updated>
-        <content type="html"><![CDATA[톱 아이돌그룹 방탄소년단(BTS, RM 진 지민 제이홉 슈가 뷔 정국) 멤버 RM(본명 김남준)이 화엄사를 다녀오며 근황을 알렸다. RM은 자신의 병역과 관련한 의미심장한 질문도 받았다. 4일 대한불교조계종 화엄사]]></content>
     </entry>
 </feed>
