@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-01-05T20:21:35.180Z</updated>
+    <updated>2023-01-05T21:15:51.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴진스·아이브, 인기 질주 속 논란으로 시끌]]></title>
+        <id>https://v.daum.net/v/20230106060019018</id>
+        <link href="https://v.daum.net/v/20230106060019018"/>
+        <updated>2023-01-05T21:15:12.493Z</updated>
+        <content type="html"><![CDATA[뉴진스(사진=어도어)[이데일리 스타in 김현식 기자] 4세대 걸그룹을 대표하는 뉴진스와 아이브가 나란히 논란에 휘말렸다. 데뷔 이후 가파른 성장세를 보이며 단기간에 K팝 시장의 중심에 선 이들이 논란을 매듭짓고 인기 질주를 이어갈지 주목된다. 뉴진스는 지난 2일 발매한 신곡 ‘OMG’의 뮤직비디오로 인해 논란에 휩싸였다. 자신을 의사라고 착각하는 환자 역]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SF9 다원, 심정지 환자 목격→응급조치 "팬 이벤트 불참"]]></title>
         <id>https://v.daum.net/v/20230105223624065</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230105180003109"/>
         <updated>2023-01-05T09:16:05.322Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이덕행 기자] 2022.12.22 걸그룹 하이키 인터뷰 /사진=이동훈 기자 photoguy@그룹 하이키가 새 앨범으로 돌아왔다. 하이키는 5일 오후 6시 각종 음원 사이트를 통해 첫 미니앨범 'Rose Blossom'을 발매했다. 이번 앨범은 피지컬적인 건강미를 표현했던 전작 'ATHLETIC GIRL', 'RUN'과 다르게 내적인 건강함에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["너와 나의 꿈" 아일리원, 걸그룹 판타지 계보 잇는 '별꽃동화']]></title>
-        <id>https://v.daum.net/v/20230105180001101</id>
-        <link href="https://v.daum.net/v/20230105180001101"/>
-        <updated>2023-01-05T09:16:05.324Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 안윤지 기자] /사진=아일리원 '별꽃동화' 뮤직비디오 영상 캡처그룹 아일리원(리리카, 나유, 로나, 하나, 아라, 엘바)이 걸그룹 판타지 계보를 잇는다. 아일리원은 5일 오후 6시 각종 음원사이트를 통해 첫 번째 미니앨범 'A DREAM OF ILY:1(어 드림 오브 아일리원)'의 타이틀곡 '별꽃동화'를 발매했다. 이번 앨범에는 1번 트랙이자]]></content>
     </entry>
 </feed>
