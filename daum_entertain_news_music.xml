@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-01-06T11:22:22.675Z</updated>
+    <updated>2023-01-06T13:26:03.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NCT 해찬 건강 이상 증세로 활동중단 “치료-안정 필요”]]></title>
+        <id>https://v.daum.net/v/20230106221055031</id>
+        <link href="https://v.daum.net/v/20230106221055031"/>
+        <updated>2023-01-06T13:25:25.448Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] NCT 해찬 건강 이상 증세로 활동중단 “치료-안정 필요” [전문] NCT 해찬이 건강 이상 증세로 잠시 휴식기를 가진다. 소속사 SM엔터테인먼트는 6일 NCT 팬 커뮤니티를 통해 해찬의 일정 불참 소식을 전했다. 이들은 “해찬은 최근 가슴 두근거림과 답답함 등의 컨디션 이상 증세를 느껴 매니저와 함께 병원을 찾아 상담 및 검진을 받았다. 치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NCT 측 “해찬 컨디션 이상, 스케줄 보류”]]></title>
         <id>https://v.daum.net/v/20230106200407041</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230106161535519"/>
         <updated>2023-01-06T08:18:13.467Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 하이키(서이, 리이나, 휘서, 옐)가 신곡 무대를 최초 공개한다. 1월 6일 소속사 GLG에 따르면 하이키는 이날 오후 방송되는 KBS 2TV '뮤직뱅크'에 출연한다. 하이키는 이날 방송에서 첫 번째 미니 앨범 'Rose Blossom'(로즈 블러썸) 타이틀곡 '건물 사이에 피어난 장미' 무대를 펼친다. 앞서 하이키는 데뷔곡]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[르세라핌 유튜브 구독자 200만 돌파, 글로벌 인기]]></title>
-        <id>https://v.daum.net/v/20230106160351141</id>
-        <link href="https://v.daum.net/v/20230106160351141"/>
-        <updated>2023-01-06T07:13:59.364Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 르세라핌(김채원, 사쿠라, 허윤진, 카즈하, 홍은채)이 유튜브 구독자 수 200만 명을 돌파했다. 1월 6일 소속사 쏘스뮤직에 따르면 르세라핌 공식 유튜브 채널 구독자는 5일 오후 2시경 200만 명을 넘겼다. 르세라핌은 해당 채널을 통해 ‘DAY OFF’, ‘르니버스’, ‘르세라핌 컴퍼니’ 등 다채로운 자체 콘텐츠, 안무 연]]></content>
     </entry>
 </feed>
