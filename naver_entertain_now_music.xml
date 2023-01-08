@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-01-08T08:26:30.195Z</updated>
+    <updated>2023-01-08T09:18:23.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독] 佛 DJ 겸 가수 FKJ 2월 한국 재공연 확정]]></title>
+        <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003250697</id>
+        <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003250697"/>
+        <updated>2023-01-08T09:18:06.567Z</updated>
+        <content type="html"><![CDATA[프랑스의 DJ 겸 뮤지선 FKJ(프렌치 키위 주스)가 다음달 다시 한국을 찾는다. 지난해 공연 장비 배송문제로 3년 만의 내한공연을 부득이하게 취소했던 FKJ가 다음달 26일 서울 강서구 KBS 아레나에서 ‘FKJ]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['김호중 극찬' 에스페로, '엔드리스' 라이브..짙은 여운 [인기가요]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003119816</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=021&amp;aid=0002550450"/>
         <updated>2023-01-08T05:22:27.706Z</updated>
         <content type="html"><![CDATA[오는 30일 컴백하는 보이그룹 NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 다채로운 티징 콘텐츠를 예고하며 컴백 카운트다운에 돌입했다. 6일 0시 NCT 127 공식 SNS 계정을 통해 공개된 스케줄 포]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴진스, 한지 홍보영상 찍고 중국 악플테러 표적(종합)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011631893</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011631893"/>
-        <updated>2023-01-08T05:22:27.706Z</updated>
-        <content type="html"><![CDATA[그룹 '뉴진스'가 한지 홍보 영상으로 중국 인터넷 이용자들로부터 악성 댓글에 시달리고 있다. 문화체육관광부와 한국공예·디자인문화진흥원은 뉴진스가 함께 한 '2022 한지분야 한류연계 협업콘텐츠 기획개발 지원' 사업]]></content>
     </entry>
 </feed>
