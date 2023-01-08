@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2023-01-08T18:16:58.268Z</updated>
+    <updated>2023-01-08T19:14:04.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배성재, 월요일부터 킹받게 하네…박지훈 ‘저장’ 따라해 (쇼킹받는 차트)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001026571</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0001026571"/>
+        <updated>2023-01-08T19:13:54.822Z</updated>
+        <content type="html"><![CDATA[MBC에브리원 예능 ‘쇼킹받는 차트’ 배성재가 박지훈의 유행어를 따라한다. 9일 ‘쇼킹받는 차트’에서는 ‘내 메모리 속에 저장’을 주제로 한 차트가 공개된다. 스마트폰 문자, 컴퓨터 검색기록 등 전자기기에 저장된 메]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이정은, 경계심 폭발→김동휘, 의문男 제압 무슨 일? (미씽2)]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001026570</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=445&amp;aid=0000092060"/>
         <updated>2023-01-08T16:18:22.546Z</updated>
         <content type="html"><![CDATA[8일 오후 인천광역시 도원체육관에서 '신한은행 SOL2033-2023 여자프로농구 올스타 페스티벌'이 진행됐다. 오마이걸이 하프타임 댄스타임에서 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Ms포토]오마이걸 유빈 '감출 수 없는 미소']]></title>
-        <id>https://entertain.naver.com/now/read?oid=445&amp;aid=0000092059</id>
-        <link href="https://entertain.naver.com/now/read?oid=445&amp;aid=0000092059"/>
-        <updated>2023-01-08T16:18:22.547Z</updated>
-        <content type="html"><![CDATA[8일 오후 인천광역시 도원체육관에서 '신한은행 SOL2033-2023 여자프로농구 올스타 페스티벌'이 진행됐다. 오마이걸 유빈이 하프타임 댄스타임에서 공연을 펼치고 있다.]]></content>
     </entry>
 </feed>
