@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-01-08T09:18:23.206Z</updated>
+    <updated>2023-01-08T10:14:36.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이브, ‘골든디스크어워즈’ 디지털 음원 부문 대상 포함 3관왕 올라]]></title>
+        <id>https://v.daum.net/v/20230108185238326</id>
+        <link href="https://v.daum.net/v/20230108185238326"/>
+        <updated>2023-01-08T10:14:03.809Z</updated>
+        <content type="html"><![CDATA[[헤럴드경제 = 서병기 선임기자]그룹 아이브(IVE: 안유진.가을.레이.장원영.리즈.이서)가 데뷔 이래 강력했던 자신들의 파워를 또 한 번 입증하며 새해 쾌조의 출발을 알렸다. 아이브는 지난 7일(토) 태국 방콕 라자망갈라 국립 경기장에서 열린 ‘제37회 골든디스크어워즈 with 틱톡(이하 ‘골든디스크어워즈’)’에서 ‘디지털 음원 부문 대상’과 ‘베스트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이브, '골든디스크' 디지털 음원 대상 등 3관왕]]></title>
         <id>https://v.daum.net/v/20230108181709882</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230108094023575"/>
         <updated>2023-01-08T01:05:48.913Z</updated>
         <content type="html"><![CDATA[[OSEN=선미경 기자] 그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 ‘골든디스크’에서 다관왕을 기록하며 세계적인 인기를 과시했다. 세븐틴은 지난 7일 태국 방콕의 라자망갈라국립경기장에서 열린 제37회 ‘골든디스크어워즈(이하 ‘골든디스크’)’에서 음반 부문 ‘본상’, ‘베스트 퍼포먼스’]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴진스, 블랙핑크 아이브 제치고 걸그룹 브랜드평판 1위]]></title>
-        <id>https://v.daum.net/v/20230108090524141</id>
-        <link href="https://v.daum.net/v/20230108090524141"/>
-        <updated>2023-01-08T01:05:48.913Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박아름 기자] 뉴진스가 걸그룹 브랜드평판 1위를 차지했다. 1월 8일 한국기업평판연구소에 따르면 뉴진스는 걸그룹 브랜드평판 2023년 1월 빅데이터 분석 결과 1위를 기록했고, 블랙핑크, 아이브가 그 뒤를 이었다. 한국기업평판연구소는 걸그룹 브랜드평판 빅데이터 분석을 위해 지난해 12월 8일부터 1월 8일까지 측정한 브랜드 빅데이터 55,441,]]></content>
     </entry>
 </feed>
