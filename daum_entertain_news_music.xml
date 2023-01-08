@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-01-08T06:18:57.620Z</updated>
+    <updated>2023-01-08T07:14:42.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['컴백' 몬스타엑스, 'REASON' 기대 포인트 셋]]></title>
+        <id>https://v.daum.net/v/20230108154018691</id>
+        <link href="https://v.daum.net/v/20230108154018691"/>
+        <updated>2023-01-08T07:14:06.299Z</updated>
+        <content type="html"><![CDATA[[OSEN=선미경 기자] 그룹 몬스타엑스(MONSTA X)가 또 한 번 무한의 세계로 나아간다. 몬스타엑스는 오는 9일 오후 6시에 열두 번째 미니앨범 'REASON(리즌)'으로 컴백해 독보적인 색깔을 드러내며 뚜렷해진 몬스타엑스의 존재감을 명확하게 증명할 예정이다. 전작 'SHAPE of LOVE(셰이프 오브 러브)' 이후 9개월 만에 'REASON']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴진스, 中 네티즌 표적 됐다..한지 홍보영상 찍었다가 '악플 테러']]></title>
         <id>https://v.daum.net/v/20230108151630139</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230108073022284"/>
         <updated>2023-01-08T01:05:48.933Z</updated>
         <content type="html"><![CDATA[[스타뉴스 문완식 기자] 방탄소년단(BTS) 지민이 해피 바이러스로 전 세계 팬들을 사로잡았다. 일본 매체 케이팝몬스터는 최근 ''트러블조차 즐기려는 마음이 정말 멋있고 감동"이라며 방탄소년단 유튜브 채널 방탄TV에 공개된 에피소드를 통해 지민의 긍정 화법을 조명했다. 영상에서 멤버들과 함께 '시아노타이프(cyanotype)' 아트워크를 체험한 지민은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단 지민, 2022 가장 재능있는 K팝 아이돌 1위..'트리플 크라운']]></title>
-        <id>https://v.daum.net/v/20230108071953225</id>
-        <link href="https://v.daum.net/v/20230108071953225"/>
-        <updated>2023-01-08T01:05:48.933Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 문완식 기자] 방탄소년단(BTS) 지민이 '2022 가장 재능있는 K-POP 아이돌' 1위에 오르며 남다른 인기를 빛냈다. 지민은 미국 '더 네티즌 리포트'(The Netizens Report)에서 실시한 '2022 가장 재능있는 K-POP 아이돌(The Most Talented K-Pop Idols Of 2022) 설문조사에서 1위를 기록했]]></content>
     </entry>
 </feed>
