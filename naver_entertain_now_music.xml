@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-01-08T02:45:43.300Z</updated>
+    <updated>2023-01-08T03:20:04.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김민석, 골든디스크 첫 본상]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000860051</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000860051"/>
+        <updated>2023-01-08T03:19:46.874Z</updated>
+        <content type="html"><![CDATA[멜로망스 김민석이 데뷔 이래 첫 골든디스크 어워즈 본상을 수상했다. 7일 오후 태국 방콕 라자망갈라 스타디움에서 열린 ‘37회 골든디스크 어워즈 with 틱톡’(이하 골든디스크 어워즈)에서 김민석은 디지털 음원 부문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[르세라핌, '골든디스크' 신인상 "2023년도 멋진 한 해로 만들어갈 것"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=408&amp;aid=0000177014</id>
+        <link href="https://entertain.naver.com/now/read?oid=408&amp;aid=0000177014"/>
+        <updated>2023-01-08T03:19:46.879Z</updated>
+        <content type="html"><![CDATA[르세라핌(LE SSERAFIM)이 국내 시상식 9관왕을 달성했다. 르세라핌(김채원, 사쿠라, 허윤진, 카즈하, 홍은채)이 지난 7일 오후 8시(한국시간) 태국 방콕 라자망갈라 스타디움에서 개최된 ‘제37회 골든디스크]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박창근, '불후의 명곡' 첫 출연에 최종 우승 차지]]></title>
         <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000912929</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000912905"/>
         <updated>2023-01-08T01:06:06.291Z</updated>
         <content type="html"><![CDATA[코요태가 콘서트 투어의 마지막을 장식하는 서울 공연의 시작을 성황리에 마무리했다. 코요태는 지난 7일 오후 6시 세종대학교 대양홀에서 2022 코요태 콘서트 투어 ‘LET’s KOYOTE!’ 서울 공연을 개최했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TFN 케빈, 조수미와 황홀한 듀엣]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000860028</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000860028"/>
-        <updated>2023-01-08T01:06:06.293Z</updated>
-        <content type="html"><![CDATA[보이그룹 TFN(티에프앤) 케빈이 세계적인 성악가 조수미 콘서트의 단독 게스트로 초청됐다. 7일, 케빈은 서울 종로구 링크아트센터에서 열린 조수미 콘서트 ‘Dream with me(드림 위드 미)’에 참석해 무대를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴진스, 블랙핑크 아이브 제치고 걸그룹 브랜드평판 1위]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000675432</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000675432"/>
-        <updated>2023-01-08T01:06:06.294Z</updated>
-        <content type="html"><![CDATA[뉴진스가 걸그룹 브랜드평판 1위를 차지했다. 1월 8일 한국기업평판연구소에 따르면 뉴진스는 걸그룹 브랜드평판 2023년 1월 빅데이터 분석 결과 1위를 기록했고, 블랙핑크, 아이브가 그 뒤를 이었다. 한국기업평판연구]]></content>
     </entry>
 </feed>

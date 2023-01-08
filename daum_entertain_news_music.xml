@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-01-08T02:45:42.963Z</updated>
+    <updated>2023-01-08T03:20:04.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김기태 "허스키 음색, '두뇌공조'와 시너지 기대"]]></title>
+        <id>https://v.daum.net/v/20230108115943653</id>
+        <link href="https://v.daum.net/v/20230108115943653"/>
+        <updated>2023-01-08T03:19:28.118Z</updated>
+        <content type="html"><![CDATA[[이데일리 스타in 김현식 기자] ‘싱어게인2’ 우승자 출신 가수 김기태가 힘찬 목소리로 신작 드라마의 등장을 널리 알렸다. KBS 2TV 새 월화드라마 ‘두뇌공조’ 첫 번째 OST ‘위 아’(We are)가 김기태가 가창한 곡이다. 8일 이데일리와 서면 인터뷰를 진행한 김기태는 “독특하면서도 힘 있는 보이스를 지닌 보컬을 찾다가 저에게 참여 제안을 하신]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트레저, 2023년도 폭풍 질주한다]]></title>
         <id>https://v.daum.net/v/20230108095017682</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230108070306123"/>
         <updated>2023-01-07T22:14:45.634Z</updated>
         <content type="html"><![CDATA[그룹 방탄소년단(BTS)과 아이브(IVE)가 ‘37회 골든디스크 어워즈’ 대상의 주인공이 됐다. 7일 오후 8시(한국시간) 태국 방콕 라자망갈라 스타디움에서 ‘37회 골든디스크 어워즈 with 틱톡’이 개최됐다. 이날 디지털 음원 부문 대상은 아이브, 음반 부문 대상은 방탄소년단에게 각각 돌아갔다. 아이브는 신인상과 디지털 음원 부문 본상까지 3관왕, 방탄]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이브, 신인이 견딘 대상의 무게…"불안한 마음→겁내지 않아" 다짐]]></title>
-        <id>https://v.daum.net/v/20230108070025074</id>
-        <link href="https://v.daum.net/v/20230108070025074"/>
-        <updated>2023-01-07T22:14:45.634Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 아이브가 '2023 골든디스크'에서도 신인상과 대상을 동시 수상했다. 여러 시상식에서 신인상과 대상을 동시에 싹쓸이한 이들은 단기간에 이뤄낸 성취에 "불안했던 마음"이 있었다는 솔직한 고백과 함께, "겁내지 않겠다"는 다짐을 함께 전했다. 제37회 골든디스크 어워즈가 7일 태국 방콕 라자망갈라 스타디움에서 개최됐다. 화려한]]></content>
     </entry>
 </feed>
