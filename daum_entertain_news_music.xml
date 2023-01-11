@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-01-11T14:19:22.083Z</updated>
+    <updated>2023-01-11T16:30:11.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하남석 '밤에 떠난 여인', 슬픈 겨울노래]]></title>
+        <id>https://v.daum.net/v/20230112000125558</id>
+        <link href="https://v.daum.net/v/20230112000125558"/>
+        <updated>2023-01-11T16:29:39.233Z</updated>
+        <content type="html"><![CDATA[나이트클럽서 친형 빈자리 대신 노래하다 실력 인정 기차역에서 요양차 떠나는 연인과 별리의 아픔 묘사 [더팩트ㅣ강일홍 기자] 하남석(본명 김홍규)은 70년대 초까지 언더그라운드 라이브 클럽에서 포크 팝 가수로 활동하다 74년 솔로 1집 '밤에 떠난 여인'을 발표하며 정식 데뷔했다. 이 곡은 지금도 반세기 가까이 그의 인생곡으로 우뚝 서 있다. '하얀 손]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강민경, '열정페이' 논란에 또 해명+신입 월급 인상 "내 불찰"]]></title>
         <id>https://v.daum.net/v/20230111221017727</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230111162008334"/>
         <updated>2023-01-11T09:17:05.663Z</updated>
         <content type="html"><![CDATA[그룹 TNX의 멤버 천준혁이 건강 이상으로 인해 활동을 잠정 중단한다. 소속사 피네이션은 11일 “천준혁은 최근 체력 저하로 인한불안 증세로 전문 의료 기관에서 검사를 진행, 충분한 휴식과 안정이 필요하다는 전문의의 진단을 받았다”고 밝혔다. 이어 “천준혁을 포함한 TNX 멤버들과 당사는 충분한 논의와 깊은 고민 끝에 천준혁은 건강 회복에 집중하기로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TNX 측 "천준혁 불안증세…치료 위해 활동 중단"]]></title>
-        <id>https://v.daum.net/v/20230111161845296</id>
-        <link href="https://v.daum.net/v/20230111161845296"/>
-        <updated>2023-01-11T09:17:05.664Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 명희숙 기자) 그룹 TNX 천준혁이 활동을 중단한다. 소속사 피네이션 측은 11일 공식 보도자료를 통해 "천준혁의 추후 활동 관련하여 안내드린다"고 전했다. 소속사 측은 "천준혁은 최근 체력 저하로 인한 불안 증세로 전문 의료 기관에서 검사를 진행, 충분한 휴식과 안정이 필요하다는 전문의의 진단을 받았다"며 "이에 천준혁을 포함한 TNX 멤버]]></content>
     </entry>
 </feed>
