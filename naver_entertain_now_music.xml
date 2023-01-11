@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-01-11T13:25:18.477Z</updated>
+    <updated>2023-01-11T14:19:22.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['청실홍실' 원로가수 안다성 별세, 향년 93]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011638649</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011638649"/>
+        <updated>2023-01-11T14:19:05.721Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 '바닷가에서' '사랑이 메아리칠 때' 등 히트곡 내 '청실홍실' '바닷가에서' '사랑이 메아리칠 때' 등을 부른 원로가수 안다성(본명 안영길·安泳吉) 옹이 별세했다. 향년 93. 11일 박성서 대중음악]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강민경, '열정페이' 논란에 또 해명+신입 월급 인상 "내 불찰"[전문]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003120643</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003120618"/>
         <updated>2023-01-11T11:15:38.283Z</updated>
         <content type="html"><![CDATA['트롯 비타민' 윤서령이 다가올 생일을 맞이해 라이브 방송으로 팬들과 특급 소통에 나섰다. 윤서령은 11일 오후 6시 공식 SNS 채널을 통해 라이브 방송을 진행, 오는 13일인 생일을 앞두고 팬들과 다채로운 이야기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['설운도 子' 이승현, NFT 재능기부 참여…"희망과 기쁨 전했으면"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001545258</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001545258"/>
-        <updated>2023-01-11T11:15:38.285Z</updated>
-        <content type="html"><![CDATA[‘불타는 트롯맨’ 이승현이 NFT를 통한 의미 있는 재능기부에 참여한다. 이승현은 2022년 음원, PFP, 가상인간등 다양한 카테고리의 엔터테인먼트 IP 기반 NFT를 발행하여 독보적인 위치를 만들어낸 ENTC의]]></content>
     </entry>
 </feed>
