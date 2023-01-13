@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-01-13T18:24:45.366Z</updated>
+    <updated>2023-01-13T19:14:28.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[투바투, '방탄 동생→4세대 리더'로 변신 예고...결연한 눈빛]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001241941</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001241941"/>
+        <updated>2023-01-13T19:14:12.251Z</updated>
+        <content type="html"><![CDATA['4세대 리더' 투모로우바이투게더가 결연한 눈빛을 담은 신보 콘셉트 포토를 공개했다. 투모로우바이투게더는 13일 0시 공식 SNS에 미니 5집 '이름의 장: TEMPTATION'의 'Farewell' 버전 단체 및]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원어스, 美 FOX TV '굿데이 뉴욕' 두번째 출연]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003121270</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000861275"/>
         <updated>2023-01-13T12:28:04.736Z</updated>
         <content type="html"><![CDATA[아티스트 pH-1이 첫 해외 투어를 대규모로 준비하고 있다. pH-1은 오는 23일(현지 시간)부터 시작되는 북미 투어를 시작으로 3월과 4월 아시아와 유럽에서도 월드 투어 ‘ABOUT DAMN TIME’(어바웃댐]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태양, BTS 지민과 협업한 신곡 발매…글로벌 히트 기대감]]></title>
-        <id>https://entertain.naver.com/now/read?oid=422&amp;aid=0000579234</id>
-        <link href="https://entertain.naver.com/now/read?oid=422&amp;aid=0000579234"/>
-        <updated>2023-01-13T12:28:04.738Z</updated>
-        <content type="html"><![CDATA[그룹 빅뱅의 멤버 태양이 신곡 '바이브'를 발표했습니다. 방탄소년단 멤버 지민이 피처링을 맡았는데요. 발매 전부터 이미 빌보드 '핫 트렌드 송'에서 1위에 오르는 등 글로벌한 파워를 과시하고 있습니다. 신새롬 기자입]]></content>
     </entry>
 </feed>
