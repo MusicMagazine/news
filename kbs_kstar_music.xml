@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Jan 2023 06:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Jan 2023 09:16:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트와이스, 영어싱글 'MOONLIGHT SUNRISE' 단체 티저]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=246022</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=246022</guid>
+            <pubDate>Sat, 14 Jan 2023 09:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=246022">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230114170511_47459b58e730c76d6e1dd62ce2b2dee6.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=246022">트와이스, 영어싱글 'MOONLIGHT SUNRISE' 단체 티저  </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230114170511_47459b58e730c76d6e1dd62ce2b2dee6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 127 월드투어 , 미국 휴스턴 공연 성료]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=245877</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=243710">마마무 솔라, 폭발적 EDM  "WET! - Paradise"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221228164716_de944f78e18cb83dfa8870692d61ceb1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엠씨더맥스 이수, "공연은 계속된다"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=243704</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=243704</guid>
-            <pubDate>Wed, 28 Dec 2022 09:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243704">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221228164052_1cb7cfcccbaa7a811fbb3f3af248bb32.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=243704">엠씨더맥스 이수, "공연은 계속된다"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221228164052_1cb7cfcccbaa7a811fbb3f3af248bb32.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
