@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-01-15T11:20:55.340Z</updated>
+    <updated>2023-01-15T14:14:06.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나얼·별·몬스타엑스·SF9·짙은]]></title>
+        <id>https://v.daum.net/v/20230115230917184</id>
+        <link href="https://v.daum.net/v/20230115230917184"/>
+        <updated>2023-01-15T14:13:28.796Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 가요팀] 2023년 1월 둘째 주에도 다채로운 곡들이 수록된 새 앨범들이 발매돼 리스너들의 귓가를 즐겁게 했다. 가수 나얼부터 별, 몬스타엑스(MONSTA X), SF9(에스에프나인), 짙은까지 그 어느 때보다 다양한 장르의 신보가 이름을 올렸다. ◆ 나얼, 싱글 앨범 '소울팝시티(Soul Pop City)' (발매일 1월 12일) 타이틀곡]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['복면가왕' 신이 내린 목소리 5연승 성공, 퀸 와사비→제이세라 실력자 등장]]></title>
         <id>https://v.daum.net/v/20230115194317421</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230115121649464"/>
         <updated>2023-01-15T04:17:09.925Z</updated>
         <content type="html"><![CDATA[[OSEN=선미경 기자] 그룹 몬스타엑스(MONSTA X)의 컴백에 해외 유수 매체들의 집중 조명이 이어지고 있다.&nbsp;&nbsp; 몬스타엑스는 지난 9일 열두 번째 미니앨범 'REASON(리즌)'으로 9개월 만에 컴백한 가운데, 국내를 넘어 해외에서도 연일 몬스타엑스의 컴백 축하 소식과 함께 신보에 대한 호평이 쏟아지고 있다.&nbsp; 먼저 미국 음악 전문 매체 빌보드는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하이키 "블랙핑크처럼… '1등' 아이돌 될래요"]]></title>
-        <id>https://v.daum.net/v/20230115115321048</id>
-        <link href="https://v.daum.net/v/20230115115321048"/>
-        <updated>2023-01-15T04:17:09.926Z</updated>
-        <content type="html"><![CDATA[하이키(사진=GLG)[이데일리 스타in 윤기백 기자] “이번 활동을 통해 하이키의 존재를 대중에게 제대로 각인시키고 싶어요. 한 단계 훅 성장할 수 있는 디딤돌이 됐으면 합니다.” 위풍당당하고 발랄한 매력을 뽐냈던 하이키가 확 달라져 돌아왔다. 데뷔곡 ‘애슬레틱 걸’, 두 번째 곡 ‘런’을 통해 보여줬던 스포티한 매력이 전혀 연상되지 않을 만큼, 한층 차]]></content>
     </entry>
 </feed>
