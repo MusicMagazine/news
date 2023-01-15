@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-01-15T09:15:38.194Z</updated>
+    <updated>2023-01-15T10:14:39.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블랙핑크, 프랑스 영부인 자선 콘서트 참석차 파리行]]></title>
+        <id>https://v.daum.net/v/20230115182920606</id>
+        <link href="https://v.daum.net/v/20230115182920606"/>
+        <updated>2023-01-15T10:13:59.835Z</updated>
+        <content type="html"><![CDATA[(파리=연합뉴스) 현혜란 특파원 = 걸그룹 블랙핑크가 프랑스에서 콘서트를 마친 지 한 달 반 만에 다시 파리를 찾는다. 에마뉘엘 마크롱 대통령의 부인 브리지트 마크롱 여사가 이사장으로 있는 자선 단체가 주최하는 자선 콘서트를 위해서다. 블랙핑크는 마크롱 여사가 이끄는 프랑스 병원재단이 이달 25일(현지시간) 개최하는 갈라 콘서트 참석자 명단에 이름을 올렸다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['인기가요' 뉴진스 1위, 'OMG' 퍼포먼스 공개 하자마자 트로피 싹쓸이]]></title>
         <id>https://v.daum.net/v/20230115170415357</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230115113535835"/>
         <updated>2023-01-15T04:17:09.926Z</updated>
         <content type="html"><![CDATA[[OSEN=선미경 기자] '보이즈 플래닛'(BOYS PLANET)의 국내외 인기가 벌써부터 뜨겁다. 케이블채널 엠넷 '보이즈 플래닛' 전 연습생들이 지난달 29일 Mnet '엠카운트다운'에서 시그널송 '난 빛나 (Here I Am)' 퍼포먼스를 펼친 가운데, 해당 영상이 공개 다음날 150만 뷰를 훌쩍 넘긴 것. 시청 국가 및 지역도 한국을 포함해 16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이게 ‘내한 공연’? 마이클 볼튼, 논란과 환호 사이]]></title>
-        <id>https://v.daum.net/v/20230115112856750</id>
-        <link href="https://v.daum.net/v/20230115112856750"/>
-        <updated>2023-01-15T04:17:09.930Z</updated>
-        <content type="html"><![CDATA[세계적인 팝 가수 마이클 볼튼의 내한 공연이 관객들의 뭇매를 맞았다. 지난 14일 서울 구로구 고척스카이돔에서는 ‘앙코르, 마이클 볼튼 라이브 인 서울’ 공연이 개최됐다. 15일까지 이틀간 개최되는 이번 공연에는 첫날에는 유미와 정홍일, 둘째날에는 소향과 K2 김성면이 게스트로 예정돼 기대를 더했다. 그러나 첫 공연 시작과 함께 상황은 반전됐다. 마]]></content>
     </entry>
 </feed>
