@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-01-15T14:14:06.443Z</updated>
+    <updated>2023-01-15T15:14:48.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원호, 단독 콘서트 비화 공개..의상 리폼+디테일 체크 '세심']]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003121572</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003121572"/>
+        <updated>2023-01-15T15:14:33.727Z</updated>
+        <content type="html"><![CDATA[가수 원호(WONHO)가 비하인드 영상을 통해 섬세함의 끝판왕 면모를 드러냈다. 원호는 지난 14일 오후 개인 유튜브 채널 '오호호(ohhoho)'를 통해 지난해 12월 개최한 2022 원호 콘서트 '에브리데이 크리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[르세라핌 사쿠라, 코로나19 확진…"다른 멤버들 음성"]]></title>
         <id>https://entertain.naver.com/now/read?oid=408&amp;aid=0000177708</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001546571"/>
         <updated>2023-01-15T07:13:40.617Z</updated>
         <content type="html"><![CDATA[팝 가수 마이클 볼튼(Michael Bolton) 내한 공연 제작사가 처음부터 본 공연인 마이클 볼튼의 공연을 한 시간 가량 게스트들 공연 이후 진행하려 계획한 것으로 확인됐다. 15일 엑스포츠뉴스 취재 결과, 마이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘인기가요’ 르세라핌VS뉴진스, 4세대 걸그룹 1티어 1위 후보 맞대결]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004774081</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004774081"/>
-        <updated>2023-01-15T07:13:40.617Z</updated>
-        <content type="html"><![CDATA[‘인기가요’에서 르세라핌과 뉴진스가 맞붙었다. 15일 방송된 SBS 음악 프로그램 ‘인기가요’에서는 투모로우바이투게더 연진, 배우 노정의와 서범준의 진행 아래 2023년 1월 셋째주 1위 후보가 공개됐다. 이날 1위]]></content>
     </entry>
 </feed>
