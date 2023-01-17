@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 16:24:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 17:18:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에이핑크 정은지, 대만 단독 콘서트 "트래블로그"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=246342</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=246342</guid>
+            <pubDate>Tue, 17 Jan 2023 17:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=246342">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230117081712_73ca0b94a22ba0c0823247582bc6de01.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=246342">에이핑크 정은지, 대만 단독 콘서트 "트래블로그"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230117081712_73ca0b94a22ba0c0823247582bc6de01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트와이스, 영어싱글 'MOONLIGHT SUNRISE' 단체 티저]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=246022</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=243827">르세라핌의 ‘DAY OFF' "시즌2는 제주도 여행기!"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221229164316_63837e433519e1db792144ac78b44ba5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마마무 솔라, 폭발적 EDM  "WET! - Paradise"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=243710</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=243710</guid>
-            <pubDate>Wed, 28 Dec 2022 09:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243710">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221228164716_de944f78e18cb83dfa8870692d61ceb1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=243710">마마무 솔라, 폭발적 EDM  "WET! - Paradise"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221228164716_de944f78e18cb83dfa8870692d61ceb1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
