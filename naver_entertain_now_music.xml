@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-01-20T18:18:34.153Z</updated>
+    <updated>2023-01-20T19:14:19.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[태양, 컴백하자마자 '엠카' 1위...글로벌 인기 입증]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001242836</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001242836"/>
+        <updated>2023-01-20T19:14:03.740Z</updated>
+        <content type="html"><![CDATA[태양이 컴백과 동시에 음악방송 1위를 차지했다. 19일 가수 태양은 Mnet 음악 프로그램 '엠카운트다운'에서 지난 13일 발매된 디지털 싱글 'VIBE (Feat. Jimin of BTS)'으로 컴백, 동시에 1위]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송골매 배철수 "KBS 대기획 끝으로 음악할 생각 없다"]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011654418</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004802206</id>
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004802206"/>
         <updated>2023-01-20T11:19:12.213Z</updated>
-        <content type="html"><![CDATA[그룹 하이키 리이나가 20일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 하이키 리이나, '예쁜 볼하트~']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004802205</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004802205"/>
-        <updated>2023-01-20T11:19:12.214Z</updated>
         <content type="html"><![CDATA[그룹 하이키 리이나가 20일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content>
     </entry>
 </feed>
