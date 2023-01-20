@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-01-20T15:16:08.052Z</updated>
+    <updated>2023-01-20T18:18:34.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송골매 배철수 "KBS 대기획 끝으로 음악할 생각 없다"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011654418</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011654418"/>
+        <updated>2023-01-20T18:18:16.943Z</updated>
+        <content type="html"><![CDATA[장인영 인턴 기자 = KBS가 설 대기획으로 록밴드 송골매(배철수·구창모) 콘서트를 선보인다. 오는 21일 오후 9시20분 방송하는 KBS 2TV 대기획 '송골매 콘서트 - 40년만의 비행'에서는 남녀노소 전 세대가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[밴드 혼즈, 첫 정규앨범 ‘Romance’ 23일 발매···“음악을 통해 진심이 닿길 바래요”]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000862718</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004802205</id>
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004802205"/>
         <updated>2023-01-20T11:19:12.214Z</updated>
-        <content type="html"><![CDATA[그룹 하이키 리이나가 20일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 하이키 리이나, '햇살보다 눈부신 미모']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004802204</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004802204"/>
-        <updated>2023-01-20T11:19:12.216Z</updated>
         <content type="html"><![CDATA[그룹 하이키 리이나가 20일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content>
     </entry>
 </feed>
