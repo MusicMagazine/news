@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-01-20T13:32:21.724Z</updated>
+    <updated>2023-01-20T15:16:08.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[밴드 혼즈, 첫 정규앨범 ‘Romance’ 23일 발매···“음악을 통해 진심이 닿길 바래요”]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000862718</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000862718"/>
+        <updated>2023-01-20T15:15:51.905Z</updated>
+        <content type="html"><![CDATA[록밴드 Hon’z(혼즈)가 자신들의 첫 정규앨범 ‘Romance‘를 오는 23일 발매한다. ‘Romance’는 싱글앨범 ‘White Swan’ 이후 약 1년 만에 선보이는 신보로 담백하고 솔직한 가사와 여러가지 사랑]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['세금 체납' 도끼, 신곡 '체납'에 담은 속내 "화려한 삶에도 그늘은 져" [쥬크박스]]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001548923</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004802204"/>
         <updated>2023-01-20T11:19:12.216Z</updated>
         <content type="html"><![CDATA[그룹 하이키 리이나가 20일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 하이키 서이, '돋보이는 깜찍 미모']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004802203</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004802203"/>
-        <updated>2023-01-20T11:19:12.221Z</updated>
-        <content type="html"><![CDATA[그룹 하이키 서이가 20일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content>
     </entry>
 </feed>
