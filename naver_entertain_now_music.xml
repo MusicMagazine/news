@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-01-22T07:17:44.522Z</updated>
+    <updated>2023-01-22T08:17:47.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원호, 생애 첫 떡국 만들기 도전..요리 초보의 반란]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003123369</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003123369"/>
+        <updated>2023-01-22T08:17:31.724Z</updated>
+        <content type="html"><![CDATA[가수 원호(WONHO)가 설날을 맞아 생애 첫 떡국 만들기에 도전했다. 원호는 지난 21일 오후 8시 개인 유튜브 채널 '오호호'(ohhoho)를 통해 2023년 설맞이 특별한 떡국 만들기 영상을 게재했다. 공개된]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅, 트로트 가수 브랜드 평판 1위 '25개월 연속']]></title>
         <id>https://entertain.naver.com/now/read?oid=052&amp;aid=0001840661</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=408&amp;aid=0000178323"/>
         <updated>2023-01-22T03:23:18.959Z</updated>
         <content type="html"><![CDATA[그룹 세븐틴의 스페셜 유닛 부석순 멤버 도겸이 신보 ‘SECOND WIND’ 오피셜 포토를 통해 천진난만한 매력을 발산했다. 오늘(22일) 0시 부석순(승관, 도겸, 호시)은 세븐틴 공식 SNS에 내달 6일 오후 6]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['K-POP아이돌이란 무엇일까③' 이니셜N [엔터XENTER]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001549200</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001549200"/>
-        <updated>2023-01-22T03:23:18.960Z</updated>
-        <content type="html"><![CDATA[(K-POP아이돌이란 무엇일까②에 이어). 자연수 = Natural number = 0과 음수가 아닌 양의 정수. 이번 제목인 이니셜N에서 N이 이 자연수를 뜻하며, K-POP아이돌 산업의 핵심인 아이돌에 대해 생각]]></content>
     </entry>
 </feed>
