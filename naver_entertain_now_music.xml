@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-01-22T09:18:45.196Z</updated>
+    <updated>2023-01-22T10:16:13.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차은우, 만두 빚는 실력이…“나 진짜 일등 신랑감이다”]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000862852</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000862852"/>
+        <updated>2023-01-22T10:15:57.138Z</updated>
+        <content type="html"><![CDATA[아스트로 멤버 차은우가 뜻밖의 요리실력을 자랑했다. 22일 차은우의 유튜브 채널에는 ‘모두가 극찬한 맛 l 은우의 설날맞이 떡국 만들기’라는 제목의 영상이 올라왔다. 이날 차은우는 설날을 맞이해 떡국 만들기에 나섰다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘불후의 명곡’ 장윤정만이 줄 수 있는 값진 선물[종합]]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000862851</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000680615"/>
         <updated>2023-01-22T04:27:02.436Z</updated>
         <content type="html"><![CDATA[남성 4인조 크로스오버 그룹 에스페로(Espero) 인기가 심상치 않다. 데뷔 한 달이 되지 않은 에스페로 인기가 날로 치솟으며 2023년 가요계 핵으로 떠올랐다. 에스페로(남형근, 허천수, 켄지, 임현진)는 성악을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴진스 ‘Ditto’, 공개 33일째 스포티파이 1억 스트리밍 돌파]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000918964</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000918964"/>
-        <updated>2023-01-22T04:27:02.436Z</updated>
-        <content type="html"><![CDATA[뉴진스의 ‘Ditto’가 스포티파이에서 1억 회 스트리밍을 기록했다. 22일 세계 최대 음악 스트리밍 업체 스포티파이에 따르면, 지난달 19일 공개된 뉴진스(민지, 하니, 다니엘, 해린, 혜인) 싱글 앨범 ‘OMG’]]></content>
     </entry>
 </feed>
