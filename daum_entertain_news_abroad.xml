@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-01-23T05:23:42.124Z</updated>
+    <updated>2023-01-23T06:22:26.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['언홀리' 샘 스미스 "내가 아델이라고?" 황당 루머에 한 말]]></title>
+        <id>https://v.daum.net/v/20230123144230720</id>
+        <link href="https://v.daum.net/v/20230123144230720"/>
+        <updated>2023-01-23T06:22:01.197Z</updated>
+        <content type="html"><![CDATA[[TV리포트=박설이 기자]팝스타 샘 스미스가 자신을 둘러싼 루머를 언급해 눈길을 끈다. 샘 스미스는 최근 공개된 '더 드류 베리모어 쇼' 예고 영상에서 진행자인 드류 베리모어는 샘 스미스에게 "들어본 것 중 가장 이상한 루머는?"이라고 물었고, 샘 스미스는  "사람들이 아델이 여장한 나라고 생각한다. 우리가 같은 방에 같이 있었던 적이 없었기 때문이라더라"]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['심장마비' 리사 마리 프레슬리, 극단 선택한 子 옆에 영면.."무덤 옮겼다"]]></title>
         <id>https://v.daum.net/v/20230123141257520</id>
@@ -88,12 +95,5 @@
         <link href="https://v.daum.net/v/20230122155950329"/>
         <updated>2023-01-22T07:17:19.264Z</updated>
         <content type="html"><![CDATA[[스포츠조선 정빛 기자] 할리우드 배우 제레미 레너가 재활 중인 근황을 밝혔다. 제레미 레너는 22일 "아침 운동과 결심은 이 특별한 새해를 모두 바꿔놓았다. 가족 전체에게 비극을 낳아, 단결해 실행 가능한 사랑에 빠르게 집중했다"라고 했다. 이어 "가족과 저에 대한 메시지, 사려 깊은 마음에 모두 감사드린다. 여러분에게 많은 사랑과 감사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['38세' 오브리 오데이, 첫 아이 임신 "나 엄마 된다"]]></title>
-        <id>https://v.daum.net/v/20230122145425759</id>
-        <link href="https://v.daum.net/v/20230122145425759"/>
-        <updated>2023-01-22T07:17:19.273Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;가수 오브리 오데이(38)가 임신했다. 20일(현지 시간) 페이지 식스에 따르면 오브리 오데이는 지난 화요일(17일) 미국 로스앤젤레스에서 열린 SPiN 어워즈 갈라에서 임신했다는 추측을 불러일으켰다. 이날 오데이는 타이트한 주름 장식의 흰색 드레스를 입고, 볼륨감 넘치는 금발머리로 스타일링했다. 또한 스모키 아이와 누드립의 시]]></content>
     </entry>
 </feed>
