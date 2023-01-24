@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Jan 2023 16:29:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jan 2023 19:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['누구에겐 유쾌하고, 누구에겐 통쾌한' 뮤지컬 <레드북>, 3월 대학로로 돌아온다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=246508</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=246508</guid>
+            <pubDate>Tue, 24 Jan 2023 19:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=246508">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230118100304_1b9911f18de14601a52c150c9c157373.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=246508">'누구에겐 유쾌하고, 누구에겐 통쾌한' 뮤지컬 &lt;레드북&gt;, 3월 대학로로 돌아온다</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230118100304_1b9911f18de14601a52c150c9c157373.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[화보] 박은빈, 일본 패션매거진 '앙앙' 커버 장식]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=246632</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=244912">[전시] 마리아 스바르보바의 사진들 "컬러풀 노스탤지어"... '어제의 미래 : FUTURO RETRO展'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230105173047_0c6da501c2003347eb29eaa9817180ba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[히가시노 게이고 '녹나무의 파수꾼' 윌라 오디오북 베스트]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=244758</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=244758</guid>
-            <pubDate>Sat, 07 Jan 2023 11:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=244758">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230104101543_2f71c25d299aa076549a43c995963029.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=244758">히가시노 게이고 '녹나무의 파수꾼' 윌라 오디오북 베스트</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230104101543_2f71c25d299aa076549a43c995963029.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
