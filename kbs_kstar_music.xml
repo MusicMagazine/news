@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 02:22:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 03:16:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[르세라핌, 일본 데뷔 쇼케이스 "새로운 시작!"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=247254</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=247254</guid>
+            <pubDate>Thu, 26 Jan 2023 03:14:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=247254">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230126075608_e5b153a7d118562b8120eb4451ba161e_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=247254">르세라핌, 일본 데뷔 쇼케이스 "새로운 시작!"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230126075608_e5b153a7d118562b8120eb4451ba161e_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김호중-송가인, 듀엣곡 ‘당신을 만나’  오늘 발매]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=247202</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=244351">걸그룹 하이키, 미니앨범 'Rose Blossom' 5일 발매</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230102132536_e3684c78f4c4d79e2fafdeb44395929b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이콘, 143엔터테인먼트와 전속계약  "결코 깨지지 않는 완전체"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=244328</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=244328</guid>
-            <pubDate>Tue, 03 Jan 2023 08:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=244328">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230102121758_de0f12cf9ec48f8f303258e33858b8c4_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=244328">아이콘, 143엔터테인먼트와 전속계약  "결코 깨지지 않는 완전체"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230102121758_de0f12cf9ec48f8f303258e33858b8c4_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
