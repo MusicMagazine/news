@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2023-01-26T18:23:13.320Z</updated>
+    <updated>2023-01-26T19:13:15.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘스위니토드’ 전미도♥이규형 “애드리브 잘 받아, 연출부가 말릴 정도” [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001029414</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0001029414"/>
+        <updated>2023-01-26T19:13:08.221Z</updated>
+        <content type="html"><![CDATA[배우 전미도와 이규형이 패션 매거진 하퍼스 바자 커플 화보를 공개했다. 뮤지컬 ‘스위니토드’를 통해 호흡을 맞춘 두 배우는 이번 화보에서 극 중 토드와 러빗처럼, 무자비한 욕망을 품은 고혹적인 연인의 모습을 표현했다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주현영 “‘더글로리’ 박연진 보고 짜릿, 악역 해보고파” [화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001029413</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=445&amp;aid=0000093508"/>
         <updated>2023-01-26T14:24:01.504Z</updated>
         <content type="html"><![CDATA[26일 오후 서울 종로구 휘겸재에서 한 브랜드 포토콜 행사가 열렸다. 배우 이재욱이 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘컴백’ 부석순 승관, 빠져드는 눈빛]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001029401</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0001029401"/>
-        <updated>2023-01-26T14:24:01.505Z</updated>
-        <content type="html"><![CDATA[그룹 세븐틴 유닛 부석순(승관, 도겸, 호시) 멤버 승관이 신보 ‘SECOND WIND’ 두 번째 버전 오피셜 포토를 통해 강렬한 비주얼을 뽐냈다. 사진 속 승관은 ‘사점(Dead Point)’을 지나 앞으로 달려가]]></content>
     </entry>
 </feed>
