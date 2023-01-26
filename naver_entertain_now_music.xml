@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-01-26T14:24:10.779Z</updated>
+    <updated>2023-01-26T15:21:36.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[멜론, 아티스트 명예의 기록 전시 ‘멜론의 전당’ 오픈]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000863551</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000863551"/>
+        <updated>2023-01-26T15:21:19.379Z</updated>
+        <content type="html"><![CDATA[20여년 역사의 최대 뮤직플랫폼 멜론에서 대한민국 음악사를 만들어낸 주역들의 명예로운 기록을 전시 및 축하하는 뜻 깊은 공간을 선보인다. 카카오엔터테인먼트(대표 이진수, 김성수)의 뮤직플랫폼 멜론(Melon)은 국내]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[팝밴드 히미츠, 새 공연 콘셉트 ‘Weird Toy Shop’ 2월 5일 개최]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000863549</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001243311"/>
         <updated>2023-01-26T10:24:40.532Z</updated>
         <content type="html"><![CDATA[가수 던(김효종, 28)이 새로운 활동을 예고했다. 26일 던은 자신의 인스타그램에 새로운 프로필 사진과 함께 "New place, new music Coming soon"이라는 글을 게재했다. 던이 새로운 소속사와]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SF9 로운, 얼굴 가리면 유죄..심쿵 '남친짤' 생성 [스타IN★]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003124254</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003124254"/>
-        <updated>2023-01-26T10:24:40.533Z</updated>
-        <content type="html"><![CDATA[그룹 SF9의 멤버 겸 배우 로운이 '남친짤'(남자친구 짤)을 공개했다. 로운은 26일 자신의 인스타그램에 별다른 문구 없이 두 장의 사진을 게재했다. 공개된 사진에는 코트를 걸친 로운이 앞머리로 얼굴을 가린 채 후]]></content>
     </entry>
 </feed>
