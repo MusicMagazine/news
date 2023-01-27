@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-01-27T16:29:59.921Z</updated>
+    <updated>2023-01-27T17:23:06.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 방송인 제이 레노, 얼굴 화상 이어 오토바이 사고 골절상]]></title>
+        <id>https://v.daum.net/v/20230128020058730</id>
+        <link href="https://v.daum.net/v/20230128020058730"/>
+        <updated>2023-01-27T17:22:37.868Z</updated>
+        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 정윤섭 특파원 = 미국의 유명 방송 진행자이자 코미디언인 제이 레노(72)가 얼굴 화상으로 수술을 받은 지 두 달 만에 오토바이 사고로 골절상을 당했다고 27일(현지시간) AP 통신이 보도했다. 레노는 지난 17일 오토바이를 타다가 떨어져 쇄골과 갈비뼈, 무릎뼈가 부러지는 사고를 당했다. 다만, 그는 현재 건강 상태는 괜찮다면서 곧]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[샘 스미스 "커밍아웃 후 지나가는 사람이 침 뱉어…충격이었다"]]></title>
         <id>https://v.daum.net/v/20230127180110598</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230127081025241"/>
         <updated>2023-01-26T23:20:49.198Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] 브리트니 스피어스가 자신의 안위를 걱정해 경찰에 신고해 준 팬들에게 오히려 사생활 침해를 주장하며 불쾌감을 토로했다. 브리트니 스피어스는 26일 자신의 트위터에 “알다시피 장난 전화 때문에 경찰이 우리 집으로 출동했다. 나는 팬들을 사랑하고 존중하지만 이번에는 너무 지나쳤다. 내 사생활이 침해됐다”는 글을 남겼다. 이어 그는 “]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아바타2', 역대 흥행 5위…'어벤져스:인피니티 워' 제쳐]]></title>
-        <id>https://v.daum.net/v/20230127043629351</id>
-        <link href="https://v.daum.net/v/20230127043629351"/>
-        <updated>2023-01-26T22:14:37.424Z</updated>
-        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 정윤섭 특파원 = 제임스 캐머런 감독의 영화 '아바타:물의 길'('아바타2')이 26일(현지시간) 역대 글로벌 흥행 5위에 올랐다. 미국 연예 매체 버라이어티에 따르면 '아바타2'의 전 세계 박스오피스가 이날 현재 20억5천400만 달러(2조5천357억 원)로 집계돼 마블 영화 '어벤져스:인피니티 워'가 세운 흥행 성적 20억5천2]]></content>
     </entry>
 </feed>
