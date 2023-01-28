@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-01-28T20:19:21.192Z</updated>
+    <updated>2023-01-28T21:17:34.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신세계인터내셔널, 래퍼 스눕독과 협업한 스니커즈 판매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013723627</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013723627"/>
+        <updated>2023-01-28T21:17:17.261Z</updated>
+        <content type="html"><![CDATA[신세계인터내셔날이 미국의 힙합 뮤지션 스눕독과 협업해 스니커즈를 선보인다. 신세계인터내셔날이 수입·판매하는 스위스 럭셔리 브랜드 필립 플레인은 오는 30일 라이브 방송으로 스눕독과 협업한 스니커즈 컬렉션 '플레인도그]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이 배경음악이 빈지노 신곡이라고? 피처링 누군가 봤더니]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003691566</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000917538"/>
         <updated>2023-01-28T08:24:21.345Z</updated>
         <content type="html"><![CDATA[가수 크러쉬(Crush)가 ‘크러쉬 아워’ 프로젝트의 마지막 챕터를 장식한다. 크러쉬는 28일 서울 올림픽공원 KSPO DOME(체조경기장)에서 ‘크러쉬 온 유 투어 ‘크러쉬 아워’ 앙코르’(CRUSH ON YOU]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘한류퀸’ 카라, 데뷔 15주년 일본 팬미팅 전석 매진]]></title>
-        <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003254034</id>
-        <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003254034"/>
-        <updated>2023-01-28T08:24:21.349Z</updated>
-        <content type="html"><![CDATA[그룹 카라(KARA)가 약 8년 만에 일본 팬들을 만난다. 카라는 오는 2월 23일 일본 오사카 오릭스 극장, 26일 후쿠오카 기타큐슈 솔레이유홀, 3월 3일 파시피코 요코하마 국립대홀에서 개최되는 카라 15주년 팬]]></content>
     </entry>
 </feed>
