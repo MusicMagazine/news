@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-01-28T15:15:15.871Z</updated>
+    <updated>2023-01-28T17:21:45.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이 배경음악이 빈지노 신곡이라고? 피처링 누군가 봤더니]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003691566</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003691566"/>
+        <updated>2023-01-28T17:21:29.238Z</updated>
+        <content type="html"><![CDATA[래퍼 빈지노가 구독자 18만명을 보유한 자신의 공식 유튜브 채널을 새단장하고 신곡이 담긴 새 영상을 게재했다. 빈지노는 자신의 다양한 일상을 보여주는 새 영상의 배경음악으로 신곡을 기습 공개했다. Y2K92의 지빈이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[류지현, 청순+러블리까지 다 되는 만능 ‘청춘스타’(음중)]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000920004</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003254034"/>
         <updated>2023-01-28T08:24:21.349Z</updated>
         <content type="html"><![CDATA[그룹 카라(KARA)가 약 8년 만에 일본 팬들을 만난다. 카라는 오는 2월 23일 일본 오사카 오릭스 극장, 26일 후쿠오카 기타큐슈 솔레이유홀, 3월 3일 파시피코 요코하마 국립대홀에서 개최되는 카라 15주년 팬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴진스, 스포티파이 '주간 톱 송' 차트서 'Ditto' 18위·'OMG' 24위]]></title>
-        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003691527</id>
-        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003691527"/>
-        <updated>2023-01-28T08:24:21.351Z</updated>
-        <content type="html"><![CDATA[그룹 뉴진스(NewJeans)의 싱글 앨범 'OMG'의 글로벌 인기가 이어지고 있다. 세계 최대 음악 스트리밍 업체 스포티파이가 27일(현지시간) 발표한 최신 주간차트(1월 26일 자)에 따르면, 뉴진스의 새 앨범]]></content>
     </entry>
 </feed>
