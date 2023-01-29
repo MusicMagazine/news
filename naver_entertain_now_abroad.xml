@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2023-01-29T20:23:53.337Z</updated>
+    <updated>2023-01-29T21:13:27.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아카데미 여우주연상 '깜짝 후보'에 할리우드 '와글와글']]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013724670</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013724670"/>
+        <updated>2023-01-29T21:13:27.046Z</updated>
+        <content type="html"><![CDATA['부정한 홍보 활동' 의혹 제기에 '호들갑 떨지 말라' 반박도 정윤섭 특파원 = 저예산 인디영화에 출연한 영국 배우가 미국 아카데미상(오스카상) 여우주연상 후보에 깜짝 지명된 것을 놓고 할리우드에서 뒤늦게 논란이 불]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[레오나르도 디카프리오, 900명 집단 자살 부른 사이비 교주 된다[할리웃통신]]]></title>
         <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001243626</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013723756"/>
         <updated>2023-01-29T01:09:40.526Z</updated>
         <content type="html"><![CDATA[27일 기준 수익 총 2조5천623억 원 …한국서도 1천253억 원 김태종 특파원 = 제임스 캐머런 감독의 영화 '아바타:물의 길'('아바타2')이 역대 글로벌 흥행 4위에 올랐다. 28일(현지시간) 미국 영화 매체]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["1시간에 300억원 두바이 공연"…비욘세, 성소수자 비판 받은 이유]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011662943</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011662943"/>
-        <updated>2023-01-29T01:09:40.527Z</updated>
-        <content type="html"><![CDATA[미국 팝 슈퍼스타 비욘세가 자신을 지지해온 성 소수자들로부터 비판을 받고 있다. 그녀가 동성애를 금지한 아랍에미리트(UAE) 두바이에서 거액을 받고 선보인 호화 콘서트 때문이다. 29일 영국 가디언·BBC뉴스 등 외]]></content>
     </entry>
 </feed>
