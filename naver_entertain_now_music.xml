@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-01-30T13:26:48.969Z</updated>
+    <updated>2023-01-30T14:16:03.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘프렌치 일렉트로닉 소울’ 걸작 디제이 캠, 앨범 ‘Soulshine’ 2LP 발매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000864176</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000864176"/>
+        <updated>2023-01-30T14:15:46.391Z</updated>
+        <content type="html"><![CDATA[프렌치 풍미가 넘치는 프로듀서 디제이 캠 (DJ CAM)의 소울 걸작 앨범 “소울샤인 (Soulshine)”이 2LP로 발매가 됐다고 굿인터내셔널 레이블이 30일 전했다. 전설적인 펑크 그룹 ‘카메오 (Cameo)’]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가수 이소정, 새 싱글 ‘오랜만이야 안녕’ 2월 2일 발매]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000864175</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004804791"/>
         <updated>2023-01-30T11:24:37.156Z</updated>
         <content type="html"><![CDATA[그룹 에잇턴(8TURN) 경민이 30일 오후 서울 청담동 일지아트홀에서 열린 첫 번째 미니앨범 '8TURNRISE(에잇턴라이즈)' 발매 기념 쇼케이스에 참석해 포토타임을 갖고 있다. '8TURNRISE'는 익숙함에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아일리원, ‘음악중심’-‘인기가요’ 연속 출격]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000864139</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000864139"/>
-        <updated>2023-01-30T11:24:37.163Z</updated>
-        <content type="html"><![CDATA[걸그룹 아일리원(ILY:1)이 온기 가득한 무대로 주말 음악방송을 사로잡았다. 아일리원(아라, 리리카, 하나, 로나, 나유, 엘바)은 지난 28일과 29일 방송된 MBC ‘쇼 음악중심’, SBS ‘인기가요’에 출연해]]></content>
     </entry>
 </feed>
