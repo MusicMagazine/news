@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2023-01-30T11:24:52.513Z</updated>
+    <updated>2023-01-30T12:30:38.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[초대 ‘웬즈데이’ 배우, 뇌졸중으로 사망[할리웃통신]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001243799</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001243799"/>
+        <updated>2023-01-30T12:30:37.295Z</updated>
+        <content type="html"><![CDATA[할리우드 배우 리사 로링이 사망했다. 향년 64세. 30일(현지시간) CNN 등 매체들에 따르면 로링은 지난 28일 뇌졸중으로 세상을 떠났다. 로링의 딸 바네사는 성명을 통해 “어머니는 두 딸의 손을 잡고 평화롭게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['브리저튼' 히로인 다프네, 시즌3 출연 안 한다 [할리웃통신]]]></title>
         <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001243790</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000920383"/>
         <updated>2023-01-30T07:24:45.515Z</updated>
         <content type="html"><![CDATA[그룹 에잇턴의 데뷔 앨범 ‘에잇턴라이즈(8TURNRISE)’ 발매 기념 쇼케이스가 30일 오후 서울 청담동 일지아트홀에서 진행됐다. 에잇턴 민호가 데뷔 무대를 갖고 있다. 청담동(서울)=천정환 MK스포츠 기자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에잇턴 윤규 ‘데뷔 무대를 즐겨’ [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000920382</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000920382"/>
-        <updated>2023-01-30T07:24:45.516Z</updated>
-        <content type="html"><![CDATA[그룹 에잇턴의 데뷔 앨범 ‘에잇턴라이즈(8TURNRISE)’ 발매 기념 쇼케이스가 30일 오후 서울 청담동 일지아트홀에서 진행됐다. 에잇턴 윤규가 데뷔 무대를 갖고 있다. 청담동(서울)=천정환 MK스포츠 기자]]></content>
     </entry>
 </feed>
