@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2023-02-01T16:28:37.631Z</updated>
+    <updated>2023-02-01T18:26:38.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송지효, ‘런닝맨’ 멤버들이 보면 깜짝 놀랄 ‘러블리’ [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001030590</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0001030590"/>
+        <updated>2023-02-01T18:26:29.071Z</updated>
+        <content type="html"><![CDATA[송지효, ‘런닝맨’ 멤버들이 보면 깜짝 놀랄 ‘러블리’ [화보] 배우 송지효가 사랑스러운 동화 속 주인공으로 변신했다. 이번 화보는 ‘시크릿 가든’이라는 치유의 정원 콘셉트로 각각의 배우가 동화 속 주인공이 돼 따뜻]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오현규, 모델인 줄…조각같은 복근 공개 [화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001030589</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003966548"/>
         <updated>2023-02-01T15:24:00.787Z</updated>
         <content type="html"><![CDATA['라디오스타' 김해준의 박세리와의 스캔들에 대해 해명했다. 1일 방송된 MBC '라디오스타'에서는 박세리, 이수지, 김해준, 곽튜브가 출연했다. 이날 김해준은 박세리와의 스캔들에 대해 언급했다. 그는 박세리와 예능]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“물음표 남아있어”... 12기 광수, 옥순과 ‘만남 실패’ (‘나는 솔로’)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=009&amp;aid=0005082512</id>
-        <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0005082512"/>
-        <updated>2023-02-01T15:24:00.789Z</updated>
-        <content type="html"><![CDATA[‘나는 솔로’ 12기 광수가 복잡한 마음을 드러냈다. 1일 방송된 ENA PLAY(이엔에이플레이)와 SBS PLUS의 리얼 데이팅 프로그램 ‘나는 SOLO’에서는 12기 광수와 영철이 대화하는 모습이 전파를 탔다.]]></content>
     </entry>
 </feed>
