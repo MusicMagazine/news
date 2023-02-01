@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2023-02-01T18:26:38.268Z</updated>
+    <updated>2023-02-01T19:18:54.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美아카데미, 오스카상 후보 '깜짝지명' 논란 英여배우 자격 유지]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013732458</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013732458"/>
+        <updated>2023-02-01T19:18:53.932Z</updated>
+        <content type="html"><![CDATA[스타 배우들의 '입소문 홍보'로 논란…관련 규정 정비하기로 정윤섭 특파원 = 오스카상을 주관하는 미국 영화예술과학아카데미(AMPAS)는 1일(현지시간) 여우주연상 후보로 깜짝 지명돼 논란이 불거졌던 영국 여배우 앤드]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애쉬튼 커쳐 “내가 불륜으로 사생아를 낳았다고? 있을 수 없는 일”[할리웃통신]]]></title>
         <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001244166</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000920755"/>
         <updated>2023-02-01T12:35:31.766Z</updated>
         <content type="html"><![CDATA[잇지 예지, 리아, 류진, 채령, 유나(왼쪽부터)가 1일 오후 서울 강동구 성수동에서 진행된 한 글로벌 기술 기업 포토행사에 참석해 포즈를 취하고 있다. 성수동(서울)=김영구 MK스포츠 기자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한선화 ‘완벽한 비율’ [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000920754</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000920754"/>
-        <updated>2023-02-01T12:35:31.767Z</updated>
-        <content type="html"><![CDATA[한선화가 1일 오후 서울 강동구 성수동에서 진행된 한 글로벌 기술 기업 포토행사에 참석해 포즈를 취하고 있다. 성수동(서울)=김영구 MK스포츠 기자]]></content>
     </entry>
 </feed>
