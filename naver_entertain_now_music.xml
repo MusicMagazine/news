@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-02-04T16:19:09.822Z</updated>
+    <updated>2023-02-04T17:14:06.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[르세라핌, 글로벌 스포티파이 '주간 톱 송' 15주 연속 진입]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003693690</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003693690"/>
+        <updated>2023-02-04T17:13:48.795Z</updated>
+        <content type="html"><![CDATA[그룹 르세라핌(LE SSERAFIM)이 글로벌 스포티파이 '차트 붙박이'가 됐다. 4일(한국시간) 음악 스트리밍 업체 스포티파이에 따르면, 르세라핌의 미니 2집 타이틀곡 '안티프래자일(ANTIFRAGILE)'이 글로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손호준, 3월 5일 日 팬미팅 개최 [공식]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003693688</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011674849"/>
         <updated>2023-02-04T11:17:15.897Z</updated>
         <content type="html"><![CDATA[그룹 더보이즈 멤버 현재가 일본 전범기 문양이 새겨진 모자를 썼다가 논란이 일자 소속사가 사과했다. 소속사 IST엔터테인먼트는 3일 공식 입장문을 통해 "금일 공개된 콘텐츠에 문제의 문양이 있는 모자를 착용한 장면이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아일리원, '음악중심' 화사하게 물들인 요정..감성 스테이지]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003126361</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003126361"/>
-        <updated>2023-02-04T11:17:15.899Z</updated>
-        <content type="html"><![CDATA[걸 그룹 아일리원(ILY:1, 아라 리리카 하나 로나 나유 엘바)이 '별꽃동화'로 토요일 오후를 화사하게 물들였다. 아일리원은 4일 방송된 MBC 음악프로그램 '쇼 음악중심'에 출연해 첫 번째 미니앨범 'A DREA]]></content>
     </entry>
 </feed>
