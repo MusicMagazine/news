@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-02-05T05:23:10.362Z</updated>
+    <updated>2023-02-05T06:26:37.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원호, 단독 콘서트 비하인드 공개.."팬들 많이 울어서 슬퍼"]]></title>
+        <id>https://v.daum.net/v/20230205152419155</id>
+        <link href="https://v.daum.net/v/20230205152419155"/>
+        <updated>2023-02-05T06:26:00.247Z</updated>
+        <content type="html"><![CDATA[[OSEN=지민경 기자]&nbsp;가수 원호(WONHO)가 비하인드 영상을 통해 뜨거웠던 단독 콘서트의 열기를 되새기게 했다. 원호는 지난&nbsp;4일 오후&nbsp;8시 개인 유튜브 채널&nbsp;'오호호(ohhoho)'를 통해 지난해&nbsp;12월 개최한&nbsp;2022&nbsp;원호 콘서트&nbsp;'에브리데이 크리스마스'(2022 WONHO CONCERT 'Everyday Christmas')&nbsp;비하인드를 깜짝]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김의영, '미스트롯2' 5위→8년만 첫 정규 "'오뚝이' 수식어 얻고파"]]></title>
         <id>https://v.daum.net/v/20230205141912946</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230205081322884"/>
         <updated>2023-02-04T23:14:33.051Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 뉴진스가 데뷔곡 ‘Hype boy’(하입 보이)로 뜨거운 인기를 누렸다. 2월 5일 스포티파이에 따르면 ‘Hype boy’는 3일 기준 누적 2억 101만 6,566회 재생됐다. 이는 지난해 8월 1일 음원이 공개된 지 186일 만의 쾌거다. 뉴진스가 스포티파이에서 2억 스트리밍을 기록한 건 처음이다. 1억 스트리밍 기록은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“세대를 대변하는 목소리” 투모로우바이투게더, 해외 매체 호평 세례]]></title>
-        <id>https://v.daum.net/v/20230205081022863</id>
-        <link href="https://v.daum.net/v/20230205081022863"/>
-        <updated>2023-02-04T23:14:33.053Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 투모로우바이투게더(수빈, 연준, 범규, 태현, 휴닝카이)가 신보 ‘이름의 장: TEMPTATION’로 해외 유수 매체들의 호평을 받았다. 영국 음악 매거진 NME는 최근 “전 트랙이 연결되는 내러티브를 갖고 있어 쉽게 따라갈 수 있다는 것이 미니 5집의 특징”이라고 평하며 각각의 트랙에 담긴 이야기를 짚었다. NME는 “투모]]></content>
     </entry>
 </feed>
