@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-02-05T10:25:10.714Z</updated>
+    <updated>2023-02-05T11:12:57.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["백현 돌아왔다"…'엑소 완전체' 준비됐지? K팝 또 박살 낼 각오 [종합]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001554000</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001554000"/>
+        <updated>2023-02-05T11:12:42.045Z</updated>
+        <content type="html"><![CDATA[그룹 엑소(EXO) 백현이 오늘(5일) 소집 해제을 알리며 팀 내 여섯 번째 '군필' 멤버가 되었다. 앞서 시우민, 디오, 수호, 첸, 찬열에 이어 병역 의무를 마치고 팬들 곁으로 돌아온 백현의 활동 복귀 소식에 엑]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단, 美그래미 향한 세번째 도전...이번엔 열릴까?]]></title>
         <id>https://entertain.naver.com/now/read?oid=416&amp;aid=0000292080</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000921200"/>
         <updated>2023-02-05T05:22:52.533Z</updated>
         <content type="html"><![CDATA[가수 임창정이 ‘멍청이’ 리액션으로 깜짝 스포일러를 하며 궁금증을 높였다. 5일 자정 소속사 예스아이엠엔터테인먼트는 공식 SNS 채널에 임창정 미니 3집의 타이틀곡 ‘멍청이’ 리액션 영상을 게재했다. 공개된 영상에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[르세라핌, 日오리콘 차트 역주행…1위 탈환]]></title>
-        <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003255405</id>
-        <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003255405"/>
-        <updated>2023-02-05T05:22:52.535Z</updated>
-        <content type="html"><![CDATA[그룹 르세라핌의 일본 데뷔 싱글이 오리콘 차트 1위를 탈환했다. 3일 자 오리콘 차트에 따르면 르세라핌의 현지 데뷔 싱글 ‘피어리스’가 2만 6430장 판매되면서 일간 싱글 랭킹 1위를 차지했다. 이번 음반은 해당]]></content>
     </entry>
 </feed>
