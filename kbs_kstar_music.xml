@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 01:03:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 02:22:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에이핑크 정은지 '트래블로그', 홍콩 단독 콘서트]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=248742</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=248742</guid>
+            <pubDate>Mon, 06 Feb 2023 02:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=248742">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230206082422_a9ba1d0f7ba4c3f2a31997b5b559973f.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=248742">에이핑크 정은지 '트래블로그', 홍콩 단독 콘서트 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230206082422_a9ba1d0f7ba4c3f2a31997b5b559973f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[YG 신인 걸그룹 베이비몬스터,  태국 출신 '파리타 ']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=248233</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=245353">뉴진스 ‘OMG’, 일본 오리콘차트 정상 직행</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230109072600_5ce403fcaa66cd3b200f55e49b934e83_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싱어송라이터 윤새, ‘우주를 넘어’ 발매... "감각적인 사운드, EDM + 청아한 보컬"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=245127</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=245127</guid>
-            <pubDate>Mon, 09 Jan 2023 04:24:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=245127">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230107092626_8d47fe40d1117c7130c9039f41baea8f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=245127">싱어송라이터 윤새, ‘우주를 넘어’ 발매... "감각적인 사운드, EDM + 청아한 보컬"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230107092626_8d47fe40d1117c7130c9039f41baea8f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
