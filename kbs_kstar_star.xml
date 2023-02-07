@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 23:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Feb 2023 03:23:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["데스노트는 계속된다" 라이토와 엘의 두뇌싸움,  4월 샤롯데에서 시작된다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=248770</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=248770</guid>
+            <pubDate>Tue, 07 Feb 2023 03:22:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=248770">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230206170446_fba045a331e876e088733c12fb19bfe6.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=248770">"데스노트는 계속된다" 라이토와 엘의 두뇌싸움,  4월 샤롯데에서 시작된다</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230206170446_fba045a331e876e088733c12fb19bfe6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 '미드나잇 : 앤틀러스'  "3년 만에, 세 번째재 시즌 개막"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=248635</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=246691">"10년 전 진범은?" 잔혹심리 스릴러 ''인터뷰', 5년 만에 무대로</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230119151350_6fe7dfbd88d07c36faa489494b0ae4f1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신예 황보운, 키이스트 전속 계약]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=246529</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=246529</guid>
-            <pubDate>Fri, 20 Jan 2023 04:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=246529">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230118102043_68c0be352ec8868a1879518d24588cc9.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=246529">신예 황보운, 키이스트 전속 계약</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230118102043_68c0be352ec8868a1879518d24588cc9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
