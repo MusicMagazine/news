@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2023-02-08T17:15:09.301Z</updated>
+    <updated>2023-02-08T18:22:15.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박서진, 3월 단독 콘서트 개최…‘미트2’ 탈락 아쉬움 지운다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001031961</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0001031961"/>
+        <updated>2023-02-08T18:22:07.508Z</updated>
+        <content type="html"><![CDATA['장구의 신' 박서진이 오는 3월 5일 서울 올림픽공원 SK핸드볼경기장에서 단독 콘서트 '박서진 쇼(Show)'를 개최한다. 공연 소식과 함께 공개된 포스터는 스피커와 마이크, 장구가 놓여 있는 무대 위로 점프하고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이브, 재재와 함께하는 첫 팬콘 포인트3]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001031960</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0001031958"/>
         <updated>2023-02-08T16:21:57.963Z</updated>
         <content type="html"><![CDATA[강진 피해를 입은 튀르키예를 위한 스타들의 기부가 이어지고 있다. 방송인 장성규는 8일 SNS에 “더 이상 피해가 없길 바란다”며 대한적십자를 통해 개인 유튜브 채널 ‘장성규니버스’ 수익금 2300만 원을 기부했다고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프랑스서 ‘괴물’ 재개봉, 봉준호 마스터클래스 개최 [연예뉴스 HOT]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001031957</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0001031957"/>
-        <updated>2023-02-08T16:21:57.964Z</updated>
-        <content type="html"><![CDATA[봉준호 감독이 2006년 영화 ‘괴물’로 프랑스 관객을 만난다. 봉 감독은 3월 8일 프랑스에서 4K화질로 리마스터링한 ‘괴물’의 재개봉을 앞두고 26일과 27일 파리와 리옹에서 각각 마스터클래스를 개최한다. 26일]]></content>
     </entry>
 </feed>
