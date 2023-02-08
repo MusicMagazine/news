@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-02-08T16:22:06.141Z</updated>
+    <updated>2023-02-08T17:15:09.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이브, 재재와 함께하는 첫 팬콘 포인트3]]></title>
+        <id>https://v.daum.net/v/20230209020013805</id>
+        <link href="https://v.daum.net/v/20230209020013805"/>
+        <updated>2023-02-08T17:14:34.110Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] [사진 : 스타쉽엔터테인먼트]그룹 아이브(IVE: 안유진.가을.레이.장원영.리즈.이서)가 MC 재재와 첫 팬콘을 함께 한다. 아이브는 오는 11일(토)과 12일(일) 양일간 서울 올림픽공원 올림픽홀에서 첫 번째 팬 콘서트 '더 프롬 퀸즈(The Prom Queens)'를 개최한다. 여기에 웹예능 '문명특급' MC이자 국내 대표 연반인으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송민경 "더 씨야 후 7년…이제 진짜 새 출발"]]></title>
         <id>https://v.daum.net/v/20230209000049977</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230208182909259"/>
         <updated>2023-02-08T10:17:35.962Z</updated>
         <content type="html"><![CDATA[[스타뉴스 한해선 기자] 이수만 SM엔터테인먼트 설립자인 이수만 프로듀서가 해외에서 급거 귀국했다고 알려졌다. 8일 가요계에 따르면, 최근 미국에서 체류하던 이수만은 지난 7일 오후 인천국제공항을 통해 한국에 귀국했다. 이수만은 미국에서 팔 골절 부상을 입어 한국에 귀국한 후 서울 한 병원으로 이동해 입원 치료를 받는 중이라고 알려졌다. 카카오는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이브, '프롬 퀸'이 되기까지..첫 팬콘 관전 포인트 셋]]></title>
-        <id>https://v.daum.net/v/20230208182208057</id>
-        <link href="https://v.daum.net/v/20230208182208057"/>
-        <updated>2023-02-08T10:17:35.963Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이승훈 기자] /사진=스타쉽엔터테인먼트걸 그룹 아이브(IVE)가 'MZ 워너비 아이콘' 입지를 굳힌다. 아이브(안유진, 가을, 레이, 장원영, 리즈, 이서)는 오는 11일, 12일 양일간 서울 올림픽공원 올림픽홀에서 첫 번째 팬 콘서트 '더 프롬 퀸즈(The Prom Queens)'를 개최한다. 데뷔 이후 아이브는 신드롬을 일으키며 음악방송]]></content>
     </entry>
 </feed>
