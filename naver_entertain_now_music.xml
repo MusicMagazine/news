@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-02-08T19:25:08.354Z</updated>
+    <updated>2023-02-08T20:16:54.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["마이클 잭슨 노래 저작권, 최대 1조1천억원에 매각 임박"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013746115</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013746115"/>
+        <updated>2023-02-08T20:16:37.557Z</updated>
+        <content type="html"><![CDATA[美 연예매체 "잭슨 유산 관리 법인, 소니 그룹과 매각 협상" 정윤섭 특파원 = '팝의 황제' 마이클 잭슨이 부른 주옥같은 히트곡들의 저작권을 최대 1조1천억 원에 매각하는 계약 체결이 임박했다고 8일(현지시간) 미]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[TF인터뷰] 송민경 "더 씨야 후 7년…이제 진짜 새 출발"]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000199764</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003694911"/>
         <updated>2023-02-08T10:17:57.678Z</updated>
         <content type="html"><![CDATA[가수 임창정이 8일 오후 서울 청담동 일지아트홀에서 진행된 세 번째 미니앨범 '멍청이' 발매기념 쇼케이스에서 팬들에 대해 "팬들이 아니라 이제는 지인 같다"라고 이야기했다. 한편 임창정의 새 미니앨범은 지난 2017]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임창정, '소주한잔' 영향 받아 주류 출시 "다시 술 마신다"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003127407</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003127407"/>
-        <updated>2023-02-08T10:17:57.679Z</updated>
-        <content type="html"><![CDATA[가수 임창정이 히트곡 '소주한잔'의 영향으로 주류를 출시한다. 8일 오후 서울 강남구 청담동 일지아트홀에서 임창정의 세 번째 미니앨범 '멍청이' 발매 기념 쇼케이스가 열렸다. 이날 임창정은 "저의 곡 '소주한잔'으로]]></content>
     </entry>
 </feed>

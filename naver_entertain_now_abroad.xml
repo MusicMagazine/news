@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2023-02-08T19:25:08.355Z</updated>
+    <updated>2023-02-08T20:16:54.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["마이클 잭슨 노래 저작권, 최대 1조1천억원에 매각 임박"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013746115</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013746115"/>
+        <updated>2023-02-08T20:16:53.574Z</updated>
+        <content type="html"><![CDATA[美 연예매체 "잭슨 유산 관리 법인, 소니 그룹과 매각 협상" 정윤섭 특파원 = '팝의 황제' 마이클 잭슨이 부른 주옥같은 히트곡들의 저작권을 최대 1조1천억 원에 매각하는 계약 체결이 임박했다고 8일(현지시간) 미]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마돈나, 외모 비하 악성 댓글에 "나이 차별·여성 혐오" 비판]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013746060</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000921762"/>
         <updated>2023-02-08T15:25:00.367Z</updated>
         <content type="html"><![CDATA[아이들 우기가 8일 오후 서울 DDP에서 열린 명품 브랜드 행사에 참석해 포토타임을 갖고 있다. 동대문(서울)=천정환 MK스포츠 기자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비비 ‘긴장되는 포토월’ [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000921761</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000921761"/>
-        <updated>2023-02-08T15:25:00.368Z</updated>
-        <content type="html"><![CDATA[가수 비비가 8일 오후 서울 DDP에서 열린 명품 브랜드 행사에 참석해 포토타임을 갖고 있다. 동대문(서울)=천정환 MK스포츠 기자]]></content>
     </entry>
 </feed>
