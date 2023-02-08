@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2023-02-08T18:22:15.989Z</updated>
+    <updated>2023-02-08T19:25:08.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마돈나, 외모 비하 악성 댓글에 "나이 차별·여성 혐오" 비판]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013746060</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013746060"/>
+        <updated>2023-02-08T19:25:07.598Z</updated>
+        <content type="html"><![CDATA["세상은 45살 넘은 여성들 벌주려 해…내 클로즈업 사진만 얘기" 정윤섭 특파원 = 미국의 팝스타 마돈나(64)가 자신의 외모를 비하하는 온라인 악성 댓글을 정면으로 비판했다. 마돈나는 8일(현지시간) 인스타그램에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송혜교 ‘반가운 인사’ [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000921785</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000921761"/>
         <updated>2023-02-08T15:25:00.368Z</updated>
         <content type="html"><![CDATA[가수 비비가 8일 오후 서울 DDP에서 열린 명품 브랜드 행사에 참석해 포토타임을 갖고 있다. 동대문(서울)=천정환 MK스포츠 기자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[선미 ‘클로즈업 미모에 심쿵’ [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000921760</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000921760"/>
-        <updated>2023-02-08T15:25:00.369Z</updated>
-        <content type="html"><![CDATA[가수 선미가 8일 오후 서울 DDP에서 열린 명품 브랜드 행사에 참석해 포토타임을 갖고 있다. 동대문(서울)=천정환 MK스포츠 기자]]></content>
     </entry>
 </feed>
