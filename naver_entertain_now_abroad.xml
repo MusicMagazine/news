@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2023-02-09T12:33:00.234Z</updated>
+    <updated>2023-02-09T13:28:50.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[팀 알렌, 영화 ‘토이 스토리5’ 버즈 목소리 연기 복귀 암시]]></title>
+        <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003256278</id>
+        <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003256278"/>
+        <updated>2023-02-09T13:28:50.253Z</updated>
+        <content type="html"><![CDATA[배우 팀 알렌이 영화 ‘토이 스토리5’로 버즈 라이트이어 목소리 연기 복귀를 암시했다. 팀 알렌은 9일(한국시간) 자신의 SNS에 “곧 만나. 우디. 너는 슬프고 이상한 작은 남자이며 난 널 동정해. 그리고 우리는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[팀 앨런, ‘토이스토리5’ 버즈 목소리 복귀 확정[해외이슈](공식)]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003695453</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001245091"/>
         <updated>2023-02-09T03:29:29.416Z</updated>
         <content type="html"><![CDATA[이제 한 집에 살지 않으면 넷플릭스를 같이 볼 수 없다. 8일(현지 시간) 미국 연예 매체 버라이어티(Variety)에 따르면 스트리밍 서비스 플랫폼 넷플릭스는 이날 계정 공유를 본격적으로 단속하겠다는 뜻을 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['핑크플로이드' 워터스 "러 침공 이유 있다" 발언으로 역풍]]></title>
-        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013747207</id>
-        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013747207"/>
-        <updated>2023-02-09T03:29:29.417Z</updated>
-        <content type="html"><![CDATA[러시아 초청으로 유엔 안보리 연설…"침공 도발한 자들 규탄" 서방국 반발…우크라 대사 "러 선전 도구 됐다" 비난 영국 록 밴드 '핑크 플로이드'의 창립 멤버인 로저 워터스가 8일(현지시간) 유엔 안전보장이사회 연설]]></content>
     </entry>
 </feed>
