@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-02-09T19:15:18.990Z</updated>
+    <updated>2023-02-09T20:21:50.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크리스 보티·크리스찬 맥브라이드·태양, 서재패 2차 라인업]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011684797</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011684797"/>
+        <updated>2023-02-09T20:21:33.865Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 5월 26~28일 올림픽공원 로맨틱 재즈를 들려주는 미국 트럼페터 크리스 보티(Chris Botti), 그래미 어워즈 8관왕의 거장인 미국 재즈 베이시스트 크리스찬 맥브라이드가 이끄는 쿼텟 크리스찬 맥]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['내일을 향해 쏴라' 주제가 만든 美 작곡가 버트 배커랙 별세]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013748827</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000866313"/>
         <updated>2023-02-09T12:32:44.113Z</updated>
         <content type="html"><![CDATA[DKZ(디케이지) 멤버 종형, 민규가 뮤지컬 활동에 박차를 가한다. DKZ(디케이지) 멤버 종형, 민규가 다가오는 3월 뮤지컬 새 작품으로 팬들을 만난다. 10일부터 뮤지컬 ‘드라큘라’ 부산 공연에 임하는 종형은 창]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랭키(BLANK2Y), ‘KM차트’ 남성 루키 1위 등극]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000866312</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000866312"/>
-        <updated>2023-02-09T12:32:44.113Z</updated>
-        <content type="html"><![CDATA[아이돌그룹 블랭키(BLAN2KY)가 독보적 ‘4세대 라이징 스타’로 존재감을 뽐냈다. 블랭키는 한국매니지먼트연합이 주관하는 ‘KM차트’ 2023년 1월 차트에서 남자 신인 부문 1위를 차지했다. 블랭키는 에이머스,]]></content>
     </entry>
 </feed>
