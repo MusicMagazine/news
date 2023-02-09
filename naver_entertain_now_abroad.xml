@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2023-02-09T15:22:19.540Z</updated>
+    <updated>2023-02-09T16:28:38.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디즈니, 직원 7천 명 해고...디즈니+ 가입자수 감소 영향]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001245149</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001245149"/>
+        <updated>2023-02-09T16:28:38.357Z</updated>
+        <content type="html"><![CDATA[디즈니가 정리 해고를 위해 칼을 빼든다. 8일(현지 시간) 디즈니 CEO 밥 아이거는 2022년 분기 실적 발표에서 비용 절감을 위해 직원 7,000여 명을 감축할 예정이라고 밝혔다. 이는 지난해 10월 기준 전 세]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[팀 알렌, 영화 ‘토이 스토리5’ 버즈 목소리 연기 복귀 암시]]></title>
         <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003256278</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013747317"/>
         <updated>2023-02-09T04:19:13.343Z</updated>
         <content type="html"><![CDATA[조준형 특파원 = 배우 유아인이 프로포폴을 상습 투약한 혐의로 경찰 조사를 받고 있다는 소식이 중국에서도 큰 화제가 됐다. 중국 대표 소셜미디어(SNS)인 웨이보에는 9일 오전 현재 유아인 사건 관련 글의 누적 열람]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스, 계정 공유 단속 시작...이제 친구들과 못 본다]]></title>
-        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001245091</id>
-        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001245091"/>
-        <updated>2023-02-09T03:29:29.416Z</updated>
-        <content type="html"><![CDATA[이제 한 집에 살지 않으면 넷플릭스를 같이 볼 수 없다. 8일(현지 시간) 미국 연예 매체 버라이어티(Variety)에 따르면 스트리밍 서비스 플랫폼 넷플릭스는 이날 계정 공유를 본격적으로 단속하겠다는 뜻을 밝혔다.]]></content>
     </entry>
 </feed>
