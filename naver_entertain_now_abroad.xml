@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2023-02-09T16:28:38.942Z</updated>
+    <updated>2023-02-09T17:24:46.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공유 못 만나도 돼...이제 누구나 '오징어게임' 참가할 수 있다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001245150</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001245150"/>
+        <updated>2023-02-09T17:24:45.936Z</updated>
+        <content type="html"><![CDATA[공유가 주는 티켓이 없어도 '오징어 게임'에 참가할 수 있다. 8일(현지 시간) 미국 연예 매체 버라이어티(Variety)에 따르면 글로벌 VR 위치 기반 엔터테인먼트 샌드박스 VR이 넷플릭스와 손잡고 한국의 극악무]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디즈니, 직원 7천 명 해고...디즈니+ 가입자수 감소 영향]]></title>
         <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001245149</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001245095"/>
         <updated>2023-02-09T05:21:06.584Z</updated>
         <content type="html"><![CDATA[44세 남자 주인공 앤디 샘버그와 71세 여자 주인공 진 스마트가 만난다. 8일(현지 시간) 할리우드 리포터에 따르면 앤디 샘버그(44)와 진 스마트(71)가 로맨틱 코미디 영화 '42.6년'의 주연으로 캐스팅됐다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유아인 프로포폴 혐의 중국서 화제…의류광고서 삭제]]></title>
-        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013747317</id>
-        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013747317"/>
-        <updated>2023-02-09T04:19:13.343Z</updated>
-        <content type="html"><![CDATA[조준형 특파원 = 배우 유아인이 프로포폴을 상습 투약한 혐의로 경찰 조사를 받고 있다는 소식이 중국에서도 큰 화제가 됐다. 중국 대표 소셜미디어(SNS)인 웨이보에는 9일 오전 현재 유아인 사건 관련 글의 누적 열람]]></content>
     </entry>
 </feed>
