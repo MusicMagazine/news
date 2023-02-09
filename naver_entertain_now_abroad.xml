@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2023-02-09T02:58:25.316Z</updated>
+    <updated>2023-02-09T03:29:30.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스, 계정 공유 단속 시작...이제 친구들과 못 본다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001245091</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001245091"/>
+        <updated>2023-02-09T03:29:29.416Z</updated>
+        <content type="html"><![CDATA[이제 한 집에 살지 않으면 넷플릭스를 같이 볼 수 없다. 8일(현지 시간) 미국 연예 매체 버라이어티(Variety)에 따르면 스트리밍 서비스 플랫폼 넷플릭스는 이날 계정 공유를 본격적으로 단속하겠다는 뜻을 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['핑크플로이드' 워터스 "러 침공 이유 있다" 발언으로 역풍]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013747207</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013747207"/>
+        <updated>2023-02-09T03:29:29.417Z</updated>
+        <content type="html"><![CDATA[러시아 초청으로 유엔 안보리 연설…"침공 도발한 자들 규탄" 서방국 반발…우크라 대사 "러 선전 도구 됐다" 비난 영국 록 밴드 '핑크 플로이드'의 창립 멤버인 로저 워터스가 8일(현지시간) 유엔 안전보장이사회 연설]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['겨울왕국3'·'토이스토리5' 나온다 [공식]]]></title>
         <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001245088</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000921781"/>
         <updated>2023-02-08T15:25:00.345Z</updated>
         <content type="html"><![CDATA[배우 이민호가 8일 오후 서울 DDP에서 열린 명품 브랜드 행사에 참석해 포토타임을 갖고 있다. 동대문(서울)=천정환 MK스포츠 기자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이민호 ‘부드러운 미소’ [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000921780</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000921780"/>
-        <updated>2023-02-08T15:25:00.346Z</updated>
-        <content type="html"><![CDATA[배우 이민호가 8일 오후 서울 DDP에서 열린 명품 브랜드 행사에 참석해 포토타임을 갖고 있다. 동대문(서울)=천정환 MK스포츠 기자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김다미 ‘명품 패션’ [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000921779</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000921779"/>
-        <updated>2023-02-08T15:25:00.346Z</updated>
-        <content type="html"><![CDATA[배우 김다미가 8일 오후 서울 DDP에서 열린 명품 브랜드 행사에 참석해 포토타임을 갖고 있다. 동대문(서울)=천정환 MK스포츠 기자]]></content>
     </entry>
 </feed>
