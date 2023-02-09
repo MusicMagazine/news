@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 05:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 07:18:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박재범, 싱글 'Yesterday', 수록곡 "Love Is Ugly" 화사 피처링]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=249235</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=249235</guid>
+            <pubDate>Thu, 09 Feb 2023 07:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=249235">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230209145622_04fb0dee864a5916f033ea6da56a73c1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=249235">박재범, 싱글 'Yesterday', 수록곡 "Love Is Ugly" 화사 피처링</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230209145622_04fb0dee864a5916f033ea6da56a73c1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 앤솔러지 앨범 ‘Proof’,  롱런]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=249066</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=245877">NCT 127 월드투어 , 미국 휴스턴 공연 성료</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230113081705_a3e00eb3bb2cf11ac057626f3b95d4d9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임시완, 첫 팬 콘서트 ‘WHY I AM in SEOUL’ 내달 11일 개최]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=245869</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=245869</guid>
-            <pubDate>Fri, 13 Jan 2023 18:23:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=245869">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230113081240_3ba5a40bb861d7856238220296c7f1e6.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=245869">임시완, 첫 팬 콘서트 ‘WHY I AM in SEOUL’ 내달 11일 개최  </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230113081240_3ba5a40bb861d7856238220296c7f1e6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
