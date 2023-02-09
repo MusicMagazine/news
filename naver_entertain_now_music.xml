@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-02-09T17:24:46.513Z</updated>
+    <updated>2023-02-09T18:25:02.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['내일을 향해 쏴라' 주제가 만든 美 작곡가 버트 배커랙 별세]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013748827</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013748827"/>
+        <updated>2023-02-09T18:24:45.178Z</updated>
+        <content type="html"><![CDATA[작사가 핼 데이비드와 함께 1960년대 '히트곡 듀오'로 명성 그래미·아카데미·토니상 석권…오바마, 최고음악가상 수여 정윤섭 특파원 = 영화 '내일을 향해 쏴라'의 주제가 '레인드롭스 킵 폴링 온 마이 헤드'(Rai]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NCT 드림, 日 데뷔 싱글 발매 당일 오리콘 차트 1위]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003695475</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000866312"/>
         <updated>2023-02-09T12:32:44.113Z</updated>
         <content type="html"><![CDATA[아이돌그룹 블랭키(BLAN2KY)가 독보적 ‘4세대 라이징 스타’로 존재감을 뽐냈다. 블랭키는 한국매니지먼트연합이 주관하는 ‘KM차트’ 2023년 1월 차트에서 남자 신인 부문 1위를 차지했다. 블랭키는 에이머스,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투모로우바이투게더, 강당을 런웨이로..美친 교복핏 (’플리예고LIVE’)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004786574</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004786574"/>
-        <updated>2023-02-09T12:32:44.113Z</updated>
-        <content type="html"><![CDATA[그룹 투모로우바이투게더가 5인 5색 교복 자태를 뽐냈다. 뮤플리는 9일 오후 공식 유튜브 채널을 통해 ‘[플리예고LIVE] 교복 입고 강당 찢는 툽깅이들’ 영상을 게재했다. 공개된 영상 속에는 강당에서 교복을 입고]]></content>
     </entry>
 </feed>
