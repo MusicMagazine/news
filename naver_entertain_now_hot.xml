@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2023-02-10T17:20:22.855Z</updated>
+    <updated>2023-02-10T18:19:29.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시온, ‘박재범의 드라이브’ 야외 코너 게스트…30년 만에 처음]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001032288</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0001032288"/>
+        <updated>2023-02-10T18:19:20.263Z</updated>
+        <content type="html"><![CDATA[KBS2 ‘더 시즌즈-박재범의 드라이브’가 더 다채로워진 무대와 토크를 준비한다. 오는 12일 ‘더 시즌즈-박재범의 드라이브’에는 가수 십센치, 멜로망스, 시온, 저스디스, 적재가 출연한다. 이날 방송에서는 ‘더 시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박진주, 단체 줄넘기 대역죄인되나 “톱날이 날아온다 생각해” (놀뭐)]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001032287</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0005086911"/>
         <updated>2023-02-10T14:18:09.435Z</updated>
         <content type="html"><![CDATA[‘슈퍼맨이 돌아왔다’ 젠이 모델 오디션에 도전했다. 10일 방송된 KBS2 예능프로그램 ‘슈퍼맨이 돌아왔다’(이하 ‘슈돌’)에서는 사유리와 젠이 ‘더 글로리’에 출연한 아역 배우 오지율을 만나는 모습이 그려졌다. 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M.O.M 지석진, 감성 끌어올린 ‘지금 고백합니다’ MV 티저]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001032280</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0001032280"/>
-        <updated>2023-02-10T14:18:09.435Z</updated>
-        <content type="html"><![CDATA[MSG워너비 M.O.M(이하 M.O.M) 지석진이 개인 SNS를 통해 신곡 '지금 고백합니다' 마지막 뮤직비디오 개인 티저 영상을 공개했다. 티저 영상은 부드러운 사운드 위로 울려 퍼지는 지석진의 로맨틱한 음색으로]]></content>
     </entry>
 </feed>
