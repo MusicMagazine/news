@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-02-10T15:16:42.700Z</updated>
+    <updated>2023-02-10T16:21:01.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이수만, SM 경영·프로듀싱 안 한다···하이브 측에 의결권 위임]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000866567</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000866567"/>
+        <updated>2023-02-10T16:20:44.884Z</updated>
+        <content type="html"><![CDATA[SM엔터테인먼트 대주주인 가수 이수만이 자신의 지분 대부분을 경쟁사 하이브에 넘긴 것은 SM을 둘러싼 경영권 분쟁이 급박하게 돌아갔기 때문으로 관측된다. 10일 업계에 따르면 이수만 지분 매각 상대방으로 그간 하이브]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김민종 이어 유영진도 이수만 지지···SM 내홍 더욱 깊어질 듯]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000866562</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003614426"/>
         <updated>2023-02-10T13:33:42.816Z</updated>
         <content type="html"><![CDATA[가수 김호중이 트렌드상 트로트를 수상했다. 10일 오후 서울 송파구 잠실실내체육관에서 '30주년 한터뮤직어워즈 2022'가 개최됐다. 김호중은 트바로티답게 트렌드상 트로트를 수상해 2관왕의 영예를 안았다. 김호중은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 빌리 하루나, '귀여움 가득~' (한터뮤직어워즈 2022)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004809332</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004809332"/>
-        <updated>2023-02-10T13:33:42.817Z</updated>
-        <content type="html"><![CDATA[그룹 빌리 하루나가 10일 오후 서울 잠실동 잠실실내체육관에서 열린 '한터뮤직어워즈 2022' 레드카펫 행사에 참석해 포토타임을 갖고 있다.]]></content>
     </entry>
 </feed>

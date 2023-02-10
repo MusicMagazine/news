@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2023-02-10T15:16:42.695Z</updated>
+    <updated>2023-02-10T16:21:01.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이드리스 엘바 "날 '흑인 배우'라 부르지 마" [할리웃통신]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001245314</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001245314"/>
+        <updated>2023-02-10T16:21:00.496Z</updated>
+        <content type="html"><![CDATA[배우 이드리스 엘바는 틀 안에 갇히는 것에 지쳤다. 9일(현지 시간) 미국 매체 버라이어티(Variety)에 따르면 배우 이드리스 엘바는 한 인터뷰를 통해 '흑인 배우'가 자신의 경력에 제약적인 꼬리표가 됐다며 고충]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손준호-김소현 ‘레드카펫 러브 스토리’ [MK화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000922134</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000922104"/>
         <updated>2023-02-10T11:23:30.951Z</updated>
         <content type="html"><![CDATA[베리베리 호영이 10일 오후 서울 잠실실내체육관에서 열린 한터뮤직어워즈 레드카펫에 참석해 포토타임을 갖고 있다. 한터뮤직어워즈 라인업에는 강다니엘, 김호중, 드림캐쳐, 루시, 베리베리, 블랭키, 블리처스, 비오, 빌]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베리베리 강민 ‘눈동자에 풍덩~’ [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000922103</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000922103"/>
-        <updated>2023-02-10T11:23:30.952Z</updated>
-        <content type="html"><![CDATA[베리베리 강민이 10일 오후 서울 잠실실내체육관에서 열린 한터뮤직어워즈 레드카펫에 참석해 포토타임을 갖고 있다. 한터뮤직어워즈 라인업에는 강다니엘, 김호중, 드림캐쳐, 루시, 베리베리, 블랭키, 블리처스, 비오, 빌]]></content>
     </entry>
 </feed>
