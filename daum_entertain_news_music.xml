@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-02-10T13:33:58.913Z</updated>
+    <updated>2023-02-10T14:18:17.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김호중, 본상·트로트상 2관왕 영예 "아리스에 바치겠다" 뭉클]]></title>
+        <id>https://v.daum.net/v/20230210230803623</id>
+        <link href="https://v.daum.net/v/20230210230803623"/>
+        <updated>2023-02-10T14:17:43.905Z</updated>
+        <content type="html"><![CDATA[[스포츠투데이 임시령 기자] 가수 김호중이 제30회 한터뮤직어워즈에서 2관왕을 차지했다. 10일 저녁 7시부터 서울 잠실실내체육관에서 제30회 한터뮤직어워즈가 진행됐다. 진행은 S.E.S 출신 유진, CIX 현석, 이펙스 백승이 맡았다. 이날 한터뮤직어워즈 본상인 올해의 아티스트상은 강다니엘 김호중 블랙핑크 세븐틴 스테이씨 스트레이키즈 에스파 NCT12]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대상 없는데 왜 이틀로?…'2관왕' 김호중으로 '피날레']]></title>
         <id>https://v.daum.net/v/20230210221008116</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230210183851147"/>
         <updated>2023-02-10T11:22:58.743Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] KBS 2TV '뮤직뱅크'가 임영웅의 방송 점수를 조작했다는 의혹에 대해 무혐의 처분을 받았다고 2월 10일 밝혔다. 지난해 5월 13일 방송된 KBS 2TV '뮤직뱅크'에서는 임영웅이 '다시 만날 수 있을까'로 르세라핌의 'FEARLESS'(피어리스)와 함께 1위 후보에 올랐다. 당시 임영웅은 디지털 음원 점수 1148점과 음반]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한동근, 히트곡 메이커 제피와 재협업…'이별을 축하해']]></title>
-        <id>https://v.daum.net/v/20230210183009034</id>
-        <link href="https://v.daum.net/v/20230210183009034"/>
-        <updated>2023-02-10T11:22:58.755Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김현식 기자] 가수 한동근이 신곡 ‘이별을 축하해’로 10일 컴백했다. ‘진심으로 너의 이별을 축하해 / 이별 후 맞이한 첫 생일 축하해 / Happy birthday without me without me / 모자란 나를 잊고 행복하기를 / 나와의 이별을 축하해 - ♪’ ‘이별을 축하해’는 전 연인을 향한 애틋한 마음을 역설적인 풀]]></content>
     </entry>
 </feed>
