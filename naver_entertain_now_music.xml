@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-02-10T18:19:29.377Z</updated>
+    <updated>2023-02-10T19:19:20.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정현경 대표 "뮤직카우, 미국서도 가능성 입증할 것" [인터뷰]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=018&amp;aid=0005422833</id>
+        <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005422833"/>
+        <updated>2023-02-10T19:19:02.421Z</updated>
+        <content type="html"><![CDATA[정현경 뮤직카우 총괄대표(사진=뮤직카우) “뮤직카우는 아무도 자산으로 간주하지 않았던 음악저작권의 정당한 가치를 발견하고 새로운 정의를 부여해 문화금융이란 혁신적인 시장을 만들어 가고 있습니다. 문화산업의 진일보한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이수만, SM 경영·프로듀싱 안 한다···하이브 측에 의결권 위임]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000866567</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004809333"/>
         <updated>2023-02-10T13:33:42.815Z</updated>
         <content type="html"><![CDATA[그룹 빌리 수현이 10일 오후 서울 잠실동 잠실실내체육관에서 열린 '한터뮤직어워즈 2022' 레드카펫 행사에 참석해 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한터뮤직어워즈 2022]김호중, 트로트 트렌드상.."행복한 날 만들어 드릴 것"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003614426</id>
-        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003614426"/>
-        <updated>2023-02-10T13:33:42.816Z</updated>
-        <content type="html"><![CDATA[가수 김호중이 트렌드상 트로트를 수상했다. 10일 오후 서울 송파구 잠실실내체육관에서 '30주년 한터뮤직어워즈 2022'가 개최됐다. 김호중은 트바로티답게 트렌드상 트로트를 수상해 2관왕의 영예를 안았다. 김호중은]]></content>
     </entry>
 </feed>

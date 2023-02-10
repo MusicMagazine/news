@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2023-02-10T18:19:29.380Z</updated>
+    <updated>2023-02-10T19:19:20.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김종민, 또 사기쳤다…유선호 “이제 형들 안 믿어” (1박2일)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001032289</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0001032289"/>
+        <updated>2023-02-10T19:19:11.034Z</updated>
+        <content type="html"><![CDATA[KBS2 예능 ‘1박 2일’ 여섯 멤버가 촬영 시작부터 흥미진진한 선택의 기로에 선다. 오는 12일 ‘1박 2일 시즌4’(이하 ‘1박 2일’) ‘유산을 지켜라’ 특집에서는 ‘케미 폭발’ 멤버들의 서울 여행기가 그려진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시온, ‘박재범의 드라이브’ 야외 코너 게스트…30년 만에 처음]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001032288</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003969898"/>
         <updated>2023-02-10T14:18:09.434Z</updated>
         <content type="html"><![CDATA[배우 소유진이 클래스가 다른 사교육을 공개했다. 10일 소유진은 "아이스하키도 따라가고~공연도 함께보고~ 씩씩한 우리 세은이♡사랑해!!"라며 "아이스하키 꿈나무" 해시태그를 넣었다. 공개한 영상에는 최근 5살 생일을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘더 글로리’ 연진이 딸 오지율, 송혜교 미담 공개... “촬영할 때 옷 벗어줘” (‘슈돌’)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=009&amp;aid=0005086911</id>
-        <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0005086911"/>
-        <updated>2023-02-10T14:18:09.435Z</updated>
-        <content type="html"><![CDATA[‘슈퍼맨이 돌아왔다’ 젠이 모델 오디션에 도전했다. 10일 방송된 KBS2 예능프로그램 ‘슈퍼맨이 돌아왔다’(이하 ‘슈돌’)에서는 사유리와 젠이 ‘더 글로리’에 출연한 아역 배우 오지율을 만나는 모습이 그려졌다. 이]]></content>
     </entry>
 </feed>
