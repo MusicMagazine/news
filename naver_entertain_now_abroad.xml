@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2023-02-11T10:20:20.648Z</updated>
+    <updated>2023-02-11T12:26:02.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[크리스틴 스튜어트, 양성애자 소설가 전기 영화 출연[할리웃통신]]]></title>
+        <title type="html"><![CDATA['우리 생애 나날들' 코디 롱고, 34세로 사망]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011687086</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011687086"/>
+        <updated>2023-02-11T12:26:01.446Z</updated>
+        <content type="html"><![CDATA[미국 드라마 '할리우드 하이츠(Hollywood Heights)'와 '우리 생애 나날들(Days of Our Lives)'로 현지에서 유명한 배우 코디 롱고가 34세의 나이로 사망했다. 10일(이하 현지시간) 미국]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크리스틴 스튜어트, 양성애자 소설가 전기영화 출연[할리웃통신]]]></title>
         <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001245343</id>
         <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001245343"/>
         <updated>2023-02-11T10:20:20.061Z</updated>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000922219"/>
         <updated>2023-02-11T10:20:20.089Z</updated>
         <content type="html"><![CDATA[케플러 김채현이 11일 오후 서울 잠실실내체육관에서 열린 한터뮤직어워즈 레드카펫에 참석해 포토타임을 갖고 있다. 한터뮤직어워즈 라인업에는 강다니엘, 김호중, 드림캐쳐, 루시, 베리베리, 블랭키, 블리처스, 비오, 빌]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘브링 잇 온’ 코디 롱고, 자택서 숨진 채 발견... 향년 34세[할리웃통신]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001245340</id>
-        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001245340"/>
-        <updated>2023-02-11T10:20:20.090Z</updated>
-        <content type="html"><![CDATA[할리우드 배우 코디 롱고가 세상을 떠났다. 향년 34세. 10일(현지시간) TMZ 등 미국 매체들에 따르면 롱고는 지난 8일 텍사스 오스틴의 위치한 자택에서 숨진 채 발견됐다. 경찰은 남편과 연락이 닿지 않는데 불안]]></content>
     </entry>
 </feed>
