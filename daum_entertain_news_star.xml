@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-02-12T05:20:50.961Z</updated>
+    <updated>2023-02-12T06:19:26.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[집 날리고, 저작권 팔고…비·임창정, 아이돌 제작 쉽지 않아]]></title>
+        <id>https://v.daum.net/v/20230212150521756</id>
+        <link href="https://v.daum.net/v/20230212150521756"/>
+        <updated>2023-02-12T06:18:58.028Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] “집 한 채 들었다”, “저작권료 다 팔았다” 가수 비와 임창정이 각각 보이그룹 싸이퍼, 걸그룹 미미로즈를 론칭하면서 한 말이다. 자신의 뒤를 이을 후배들을 직접 제작하고 키우면서 자신감을 보였지만 막상 성적은 초라해 진퇴양난에 빠졌다. 임창정은 11일 채널A ‘뉴스A’에 출연해 미니 3집 ‘멍청이’를 발매한 소감과 함께 걸그룹]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사랑의 이해' 유연석 "벌써 40대, 책임감 커졌죠"]]></title>
         <id>https://v.daum.net/v/20230212135511508</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230212104717053"/>
         <updated>2023-02-12T03:18:50.646Z</updated>
         <content type="html"><![CDATA[기대가 너무 컸던 탓일까. '법쩐'이 제목처럼 법과 쩐(돈)으로 확실한 복수를 그려냈지만 어딘가 아쉬움이 남는다. 지난 11일 SBS '법쩐' 마지막 회가 전파를 탔다. '법쩐'은 카르텔에 맞서 싸우는 돈 장사꾼 은용(이선균)과 법률 기술자 준경(문채원)의 통쾌한 복수극을 내세웠다. 드라마 '여왕의 교실' '태양의 후예' 김원석 작가와 영화 '대외비' ']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이상민, 이혼 기자회견 비화 "최민수 깜짝 등장에 당황"]]></title>
-        <id>https://v.daum.net/v/20230212103903909</id>
-        <link href="https://v.daum.net/v/20230212103903909"/>
-        <updated>2023-02-12T03:18:50.654Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 송오정 기자] 이상민 이혼 기자회견에 깜짝 등장해 모두를 놀라게 했던 최민수가 그 비하인드를 밝힌다. 12일 방송되는 SBS '미운 우리 새끼'(이하 '미우새')에서는 이상민과 최진혁이 서로에게 남다른 사연으로 얽힌 배우 최민수의 작업실을 찾아가는 모습이 그려진다. 특히, 이상민은 줄곧 화제가 됐던 이혼 당시 기자회견 비화가 공개될 예정이다.]]></content>
     </entry>
 </feed>
