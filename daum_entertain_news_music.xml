@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-02-13T20:17:59.127Z</updated>
+    <updated>2023-02-13T21:16:15.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Z세대는 왜 뉴진스를 좋아하나?]]></title>
+        <id>https://v.daum.net/v/20230214060004450</id>
+        <link href="https://v.daum.net/v/20230214060004450"/>
+        <updated>2023-02-13T21:15:38.072Z</updated>
+        <content type="html"><![CDATA[요즘 애들 참 이해하기가 어렵다. 나도 나름 X세대로 살아오면서 기성세대에게 반항도 해보고 신인류라는 이름으로 아날로그와 디지털을 모두 겪으며 살아왔는데 Z세대라 불리는 요즘 애들은 참 이해하기가 어렵다. 우리집에도 Z세대가 한 명 살고 있다. 요즘은 미디어마다 MZ세대를 이해해야 한다고 떠들고 있는데 한 편으로는 서운한 마음도 있다. 기성세대도 MZ세대를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이달소 PD표' 트리플에스, 10만 장 판매→유닛 지킬 수 있을까?]]></title>
         <id>https://v.daum.net/v/20230213201003062</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230213172540652"/>
         <updated>2023-02-13T10:23:02.526Z</updated>
         <content type="html"><![CDATA[그룹 트리플에스가 새로운 세계를 예고했다. 트리플에스 10인조 디멘션의 새 앨범 ‘어셈블’ 발매 쇼케이스가 13일 서울 용산구 블루스퀘어 마스터카드홀에서 진행됐다. 트리플에스는 새로운 조합의 유닛 ‘디멘션’을 계속 만들어가는 그룹으로, 최종적으로는 24명의 멤버가 공개될 예정이다. ‘어셈블’은 트리플에스의 팬 투표로 선정된 첫 디멘션이 선보이는 앨범]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['따로 또 같이' 트리플에스 첫 10인조, 10만장 넘어 유닛 유지할까]]></title>
-        <id>https://v.daum.net/v/20230213171952438</id>
-        <link href="https://v.daum.net/v/20230213171952438"/>
-        <updated>2023-02-13T08:24:07.376Z</updated>
-        <content type="html"><![CDATA[[서울경제] 확장형 그룹 트리플에스(tripleS)가 데뷔 후 첫 완전체로 컴백했다. ‘따로 또 같이’를 지향하는 이들은 컴백할 때마다 새로운 조합을 보여줄 수 있는 것이 가장 큰 장점. 이제 이들의 특별한 세계관이 대중에게 통할 것인지가 관건이다. 13일 오후 서울 용산구 블루스퀘어 마스터카드홀에서 트리플에스 10인조의 첫 미니앨범 ‘어셈블(ASSEM]]></content>
     </entry>
 </feed>
