@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-02-14T15:20:55.517Z</updated>
+    <updated>2023-02-14T18:24:09.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디즈니 전 부사장 데이브 홀리스, 47세로 별세]]></title>
+        <id>https://v.daum.net/v/20230215030530438</id>
+        <link href="https://v.daum.net/v/20230215030530438"/>
+        <updated>2023-02-14T18:23:44.850Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 디즈니 전 부사장 데이브 홀리스가 47세의 나이로 사망했다. 14일(한국 시간) 미국 연예 매체 버라이어티(Variety) 등 주요 외신에 따르면 2018년까지 디즈니 부사장직에 있었던 데이브 홀리스가 토요일 밤 텍사스 오스틴에 있는 자택에서 사망했다. 그는 47세였다. 데이브 홀리스는 최근 심장과 관련된 건강 문제로 병원에 입원]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[메간 폭스·머신 건 켈리, 피 나눈 약혼→1년 만에 불화 "싸워서 말 안 해"]]></title>
         <id>https://v.daum.net/v/20230214195824634</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230214115820918"/>
         <updated>2023-02-14T03:20:58.300Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 감독 홍상수(63)와 배우 김민희(41)가 올해도 베를린 국제영화제로 향하는 가운데, 회고전에 동행해 눈길을 끈다. 홍상수와 김민희는 지난 13일(현지 시각) 프랑스 파리에 위치한 시네마테크 프랑세즈에서 열린 홍상수 감독의 회고전에 참석했다.&nbsp; 오는 3월 5일까지 이어질 홍 감독의 회고전 개막작은 베를린영화제에서 은곰상-심사위원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전세계 연예인 소득 1위는? 제임스 카메론 8위∙女 1명]]></title>
-        <id>https://v.daum.net/v/20230214115519852</id>
-        <link href="https://v.daum.net/v/20230214115519852"/>
-        <updated>2023-02-14T03:20:58.301Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 지난 해&nbsp;전 세계에서 가장 많은 돈을 번 연예인은 누구일까? 13일(현지시간) 미국 경제 매체 포브스가 집계, 발표한&nbsp;'2022년 소득 톱10 엔터테이너'에 따르면 영국의 프로그레시브 록밴드 제네시스가 지난해 연예인 소득 1위를 차지했다.&nbsp;스태프들에게&nbsp;지급한 돈과 각종&nbsp;운영비,&nbsp;수수료 등을 제외한&nbsp;소득을 종합적으로 계산한 것이다]]></content>
     </entry>
 </feed>
