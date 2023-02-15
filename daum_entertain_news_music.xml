@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-02-15T14:21:10.109Z</updated>
+    <updated>2023-02-15T16:21:27.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사랑의 하모니 '야화', 진한 감동 멜로디]]></title>
+        <id>https://v.daum.net/v/20230216000050879</id>
+        <link href="https://v.daum.net/v/20230216000050879"/>
+        <updated>2023-02-15T16:20:49.373Z</updated>
+        <content type="html"><![CDATA[맏형 이경화 작사 둘째 이경오 작곡, 3형제 '하모니' 81년 강변가요제서 '별이여 사랑이여'로 대상 수상 [더팩트ㅣ강일홍 기자] 사랑의 하모니(이경화, 이경오, 이경배)는 81년 제2회 MBC강변가요제에서 '별이여 사랑이여'로 대상을 수상한 그룹이다. 이들은 안양공전 재학 중이던 80년 트리오를 결성한 3형제 그룹으로, 캠퍼스 가수로 활동하다 이듬해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[킹덤 탈락…‘피크타임’ 무명 아이돌 실력 평가전]]></title>
         <id>https://v.daum.net/v/20230215214606801</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230215175017405"/>
         <updated>2023-02-15T09:16:08.296Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 퍼플키스(PURPLE KISS)가 치열한 '4세대 걸그룹' 경쟁에서 자신들만의 무기를 꼽았다. 실력으로 무장한 이들이 '4세대 복병'으로 거듭날 수 있을지 관심이 모인다. 퍼플키스(나고은, 도시, 이레, 유키, 채인, 수안)의 다섯 번째 미니앨범 'Cabin Fever' 발매 기념 쇼케이스가 15일 오후 서울 광진구 건국대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“베스트보다 디 온리”…9개월 공백 끝낸 ‘TNX’의 정체성]]></title>
-        <id>https://v.daum.net/v/20230215173743975</id>
-        <link href="https://v.daum.net/v/20230215173743975"/>
-        <updated>2023-02-15T09:16:08.297Z</updated>
-        <content type="html"><![CDATA[지난해 5월 데뷔한 그룹 TNX는 신인으로선 보기 드물게 긴 공백을 가졌다. 무려 9개월이라는 시간이 누군가에겐 초조함과 불안함의 시간일 수 있지만, 이들은 이 시간을 팀의 ‘정체성’을 찾는 값진 시간으로 여겼다. TNX는 15일 오후 서울 용산구 블루스퀘어 마스터카드홀에서 두 번째 미니앨범 ‘러브 네버 다이즈’(Love Never Dies) 발매 기념 쇼]]></content>
     </entry>
 </feed>
