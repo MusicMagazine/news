@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-02-15T12:28:17.409Z</updated>
+    <updated>2023-02-15T14:21:10.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[킹덤 탈락…‘피크타임’ 무명 아이돌 실력 평가전]]></title>
+        <id>https://v.daum.net/v/20230215214606801</id>
+        <link href="https://v.daum.net/v/20230215214606801"/>
+        <updated>2023-02-15T14:20:35.977Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 이기은 기자] '피크타임'이 데뷔한 아이돌 팀의 각양각색 실력을 낱낱이 해부했다. 15일 밤 방송된 JTBC 새 예능프로그램 '피크타임(PEAK TIME)' 첫 방송 1회에서는 심사위원 이승기, 티파니 영, 박재범, 이기광, 김성규, 심재원, 라이언전 등을 필두로 한 과거 아이돌 팀의 오디션이 시작됐다. 이날 고스트9을 비롯해 앞서 다양한 오]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[브레이브걸스 'Goodbye' 해체 임박? 마의 7년 못넘나]]></title>
         <id>https://v.daum.net/v/20230215205426093</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230215173743975"/>
         <updated>2023-02-15T09:16:08.297Z</updated>
         <content type="html"><![CDATA[지난해 5월 데뷔한 그룹 TNX는 신인으로선 보기 드물게 긴 공백을 가졌다. 무려 9개월이라는 시간이 누군가에겐 초조함과 불안함의 시간일 수 있지만, 이들은 이 시간을 팀의 ‘정체성’을 찾는 값진 시간으로 여겼다. TNX는 15일 오후 서울 용산구 블루스퀘어 마스터카드홀에서 두 번째 미니앨범 ‘러브 네버 다이즈’(Love Never Dies) 발매 기념 쇼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TNX 은휘 "타이틀곡 핵심='착각한 게 아니라니까 사랑이라니까'"]]></title>
-        <id>https://v.daum.net/v/20230215173232812</id>
-        <link href="https://v.daum.net/v/20230215173232812"/>
-        <updated>2023-02-15T09:16:08.297Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 노한빈 기자] 보이그룹 TNX 멤버 은휘가 '러브 네버 다이즈' 가사에 애정을 드러냈다. 15일 서울 용산구 블루스퀘어 마스터카드홀에서 TNX의 두 번째 미니앨범 '러브 네버 다이즈(Love Never Dies)' 발매 기념 쇼케이스가 진행됐다. 이날 활동 중단 중인 TNX 멤버 천준혁은 참석하지 않았다. '러브 네버 다이즈'는 10대의]]></content>
     </entry>
 </feed>
