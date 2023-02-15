@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-02-15T22:19:58.167Z</updated>
+    <updated>2023-02-15T23:23:45.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[레이디 가가·비욘세가 '출연료' 안 주는 '슈퍼볼 공연' 서는 이유]]></title>
+        <id>https://v.daum.net/v/20230216080530386</id>
+        <link href="https://v.daum.net/v/20230216080530386"/>
+        <updated>2023-02-15T23:23:23.483Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 세계 최대 공연 '슈퍼볼 하프타임 쇼'에 선 비욘세, 마돈나, 레이디 가가, 리한나를 비롯한 톱스타들은 돈을 한 푼도 받지 못했다. 지난 12일(현지 시간) 가수 리한나는 미국 애리조나주 스테이트 팜 스타디움에서 열린 미식축구 슈퍼볼 경기에서 하프타임 공연을 펼쳤다. 리한나의 공연은 전 세계 약 1억 9천만 명이 시청하는 등 뜨거]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["다이애나빈 연기한 에마 코린, '마블 빌런'으로 변신"]]></title>
         <id>https://v.daum.net/v/20230216060756657</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230215145630857"/>
         <updated>2023-02-15T06:20:53.564Z</updated>
         <content type="html"><![CDATA[[TV리포트=이수연 기자] 마블의 최강 빌런 정복자 캉이 '천둥의 신' 토르를 죽일까. 혹은 이미 죽였을지도 모른다. 15일 마블 스튜디오가 '앤트맨과 와스프: 퀀텀매니아'(이하 '앤트맨 3')를 공개하며 MCU 페이즈 5의 시작을 알렸다. '앤트맨 3'는 미지의 세계 양자 영역에 빠져버린 앤트맨 패밀리가 무한한 우주를 다스리는 정복자 캉을 마주하며 시공]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인기 아역배우가 마약이라니…오스틴 마조스, 노숙자 시설서 사망]]></title>
-        <id>https://v.daum.net/v/20230215132014008</id>
-        <link href="https://v.daum.net/v/20230215132014008"/>
-        <updated>2023-02-15T06:20:53.565Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 정빛 기자] 할리우드 배우 오스틴 마조스가 사망했다. 13일(이하 현지 시간) CNN 등 외신에 따르면, 오스틴 마조스는 지난 11일 미국 로스앤젤레스(LA) 노숙자 주택 시설에서 사망했다. 향년 27세. 유명한 아역 배우 출신이고 영화 배우를 꿈꿨던 그가 왜 노숙자들을 위한 전용 주거 시설에서 지낸 것인지는 알려지지 않았다.]]></content>
     </entry>
 </feed>
