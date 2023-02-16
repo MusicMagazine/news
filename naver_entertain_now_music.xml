@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-02-16T19:12:58.288Z</updated>
+    <updated>2023-02-16T20:16:55.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[타블로 "BTS 슈가, 에픽하이 팬 중 말도 안되게 성공"[슈취타]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003129839</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003129839"/>
+        <updated>2023-02-16T20:16:40.682Z</updated>
+        <content type="html"><![CDATA[힙합 그룹 에픽하이 멤버 타블로가 방탄소년단(BTS) 슈가에 대해 칭찬했다. 16일 방탄TV는 슈가의 콘텐츠인 '슈취타' 5회의 티저를 공개했다. 이날 슈가는 "나의 롤모델이자 이젠 정말 친한 형님이 됐다. 난 진심]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[처조카 이성수 SM 대표, 이수만 겨냥 '폭로전'은 하이브와 '명분싸움']]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011697084</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003129812"/>
         <updated>2023-02-16T12:26:48.321Z</updated>
         <content type="html"><![CDATA[이성수 SM엔터테인먼트(이하 SM) 대표가 이수만 SM 전 총괄 프로듀서(이하 이수만)를 둔 폭로전을 개시했다. 이에 하이브와 이수만이 각각 입장을 밝히며 'SM 인수전'에 더욱 불을 지폈다. 최근 이성수, 탁영준]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘엠카운트다운’ 스테이씨, 화려한 컴백 ‘Teddy Bear’···화제의 챌린지곡 ‘Poppy’ 첫 공개]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000867828</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000867828"/>
-        <updated>2023-02-16T11:18:50.145Z</updated>
-        <content type="html"><![CDATA[걸그룹 스테이씨(STAYC)가 ‘Teddy Bear’로 화려하게 컴백했다. 스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)는 16일 방송된 Mnet ‘엠카운트다운’에 출연해 네 번째 싱글앨범 ‘Teddy Bear]]></content>
     </entry>
 </feed>
