@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-02-17T13:24:52.062Z</updated>
+    <updated>2023-02-17T14:18:38.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다듀 최자, 3년 만난 연인과 7월 결혼 "예식 비공개 진행"]]></title>
+        <id>https://v.daum.net/v/20230217223407255</id>
+        <link href="https://v.daum.net/v/20230217223407255"/>
+        <updated>2023-02-17T14:17:59.396Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 소속사 아메바컬쳐가 소속 가수 최자의 결혼에 대한 공식입장을 밝혔다. 아메바컬쳐는 17일 밤 공식입장을 통해 "당사 소속 아티스트 최자가 3년 여간 묵묵히 사랑을 키워온 연인과 오는 7월 결혼식을 올린다"라고 밝혔다. 소속사 측에 따르면 예식은 가까운 친지와 지인들만 초청한 비공개 형식으로 진행된다. 이와 관련 소속사 측은 비연]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다듀 최자, 비연예인 여성과 3년 열애 끝 7월 결혼..동료들 축하 물결]]></title>
         <id>https://v.daum.net/v/20230217222156197</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230217165041801"/>
         <updated>2023-02-17T11:12:58.005Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] 그룹 아이브(IVE)가 4월 정규 앨범으로 컴백을 준비 중이다. 17일 스타쉽엔터테인먼트는 OSEN에 “아이브가 4월 발매를 목표로 정규 앨범을 준비 중이다”고 밝혔다. 아이브가 4월에 정규 앨범을 내게 된다면 지난해 8월 발매한 세 번째 싱글 ‘After LIKE’(애프터 라이크) 이후 약 8개월 만의 컴백이다. 2021년 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이브 측 "4월 목표로 정규앨범 준비 중"]]></title>
-        <id>https://v.daum.net/v/20230217163409474</id>
-        <link href="https://v.daum.net/v/20230217163409474"/>
-        <updated>2023-02-17T11:12:58.005Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 그룹 아이브가 4월 컴백을 준비 중이다. 17일 소속사 스타쉽엔터테인먼트는 마이데일리에 "아이브가 4월 발매를 목표로 정규앨범 준비 중"이라고 밝혔다. 아이브가 4월에 컴백한다면 지난해 8월 발매한 세 번째 싱글 '애프터 라이크(After LIKE)' 이후 약 8개월 만이다. 목표대로 정규앨범을 발매할 경우 그간 싱글만을]]></content>
     </entry>
 </feed>
