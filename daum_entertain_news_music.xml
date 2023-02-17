@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-02-17T14:18:38.515Z</updated>
+    <updated>2023-02-17T15:21:21.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SM 이성수 대표, 사임 발표···"하이브 적대적 M&A 인정하라"]]></title>
+        <id>https://v.daum.net/v/20230217232900528</id>
+        <link href="https://v.daum.net/v/20230217232900528"/>
+        <updated>2023-02-17T15:20:45.743Z</updated>
+        <content type="html"><![CDATA[[서울경제] SM엔터테인먼트 이성수 대표가 이수만 전 총괄 프로듀서와 손잡고 최대 주주가 된 하이브에게 "적대적 M&amp;A(인수합병)을 인정하라"고 지적하며, 대표이사 및 등기이사직에서 사임하겠다고 발표했다. 17일 오후 이 대표는 유튜브 채널을 통해 2차 성명 발표 영상을 공개했다. 이는 전날 이수만의 역외 탈세 의혹 등을 제기한 성명 발표에 이은 것이다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다듀 최자, 3년 만난 연인과 7월 결혼 "예식 비공개 진행"]]></title>
         <id>https://v.daum.net/v/20230217223407255</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230217171653512"/>
         <updated>2023-02-17T11:12:57.997Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 명희숙 기자) 가수 정동원이 팬들에게 감사편지를 전했다. 정동원은 17일 공식 팬카페를 통해 자필 손편지를 게재했다. 3년이라는 시간 동안 함께해 준 팬들을 향한 감사의 마음을 표현한 편지에는 정동원의 진심 어린 말들이 담겨 있어 팬들을 감동케 했다. 편지에서 정동원은 “올해가 시작되던 1월 1일, 17살이 되면서 데뷔 후 지난 3년 동안의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이브, 4연속 히트 정조준.."4월 정규앨범 컴백 목표"]]></title>
-        <id>https://v.daum.net/v/20230217165041801</id>
-        <link href="https://v.daum.net/v/20230217165041801"/>
-        <updated>2023-02-17T11:12:58.005Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] 그룹 아이브(IVE)가 4월 정규 앨범으로 컴백을 준비 중이다. 17일 스타쉽엔터테인먼트는 OSEN에 “아이브가 4월 발매를 목표로 정규 앨범을 준비 중이다”고 밝혔다. 아이브가 4월에 정규 앨범을 내게 된다면 지난해 8월 발매한 세 번째 싱글 ‘After LIKE’(애프터 라이크) 이후 약 8개월 만의 컴백이다. 2021년 1]]></content>
     </entry>
 </feed>
