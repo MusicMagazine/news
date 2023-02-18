@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Feb 2023 10:24:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Feb 2023 12:30:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박진영, 미국 'GROOVE BACK 투어' 피날레... "60세까지 최고의 공연 보여드릴 것"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=250335</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=250335</guid>
+            <pubDate>Sat, 18 Feb 2023 12:28:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=250335">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230218090918_51cd2b15395980b4311c5caf3ea53d85.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=250335">박진영, 미국 'GROOVE BACK 투어' 피날레... "60세까지 최고의 공연 보여드릴 것"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230218090918_51cd2b15395980b4311c5caf3ea53d85.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이찬원, 정규1집 타이틀곡 ‘풍등’ MV 티저 공개]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=249997</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=247441">뉴진스 ,싱글앨범 ‘OMG’ 밀리언셀러 달성</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230127131829_ef852cf99a862256c39ec26aa627482e_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TNX, 'Love Never Dies' 콘셉트 포토 공개... 내달 15일 컴백]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=247361</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=247361</guid>
-            <pubDate>Fri, 27 Jan 2023 02:41:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=247361">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230127075317_21d71c03890ca2444a6cecfca5b589d3.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=247361">TNX, 'Love Never Dies' 콘셉트 포토 공개... 내달 15일 컴백</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230127075317_21d71c03890ca2444a6cecfca5b589d3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
