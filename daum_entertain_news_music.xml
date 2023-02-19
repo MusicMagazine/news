@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-02-19T02:50:26.160Z</updated>
+    <updated>2023-02-19T03:20:11.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단독 MC도 해냈다…화사, 오늘 ‘MMM Simile’ 음원 발매]]></title>
+        <id>https://v.daum.net/v/20230219120216648</id>
+        <link href="https://v.daum.net/v/20230219120216648"/>
+        <updated>2023-02-19T03:19:32.449Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 마마무 멤버 화사가 단독 MC 도전을 성공적으로 마무리했다. tvN 심야 음악 예능 '화사쇼'는 2월 18일 방송된 8회를 끝으로 종영했다. 이날 방송에서 화사는 게스트로 출연한 윤종신의 음악 이야기에 귀를 기울였고, 적재적소의 리액션과 질문으로 편안한 분위기를 이끌었다. 화사는 윤종신과 듀엣 무대를 선보이기도 했다. '본]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세븐틴, '써클차트 어워즈' 2관왕 '음반 강자' 저력 입증]]></title>
         <id>https://v.daum.net/v/20230219113231102</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230219073021577"/>
         <updated>2023-02-19T01:11:16.898Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 2022년 음원 차트에서는 성적이 부진했던 남자 아이돌. 반면 음반 차트에서는 탄탄한 팬덤을 기반으로 수많은 기록을 만들어냈다. '써클차트 뮤직 어워즈 2022'가 18일 오후 서울시 송파구 올림픽공원 KSPO DOME(구 체조경기장)에서 개최됐다. 이날 진행은 NCT 도영, (여자)아이들 미연이 맡았다. 이날 올해의 가수상(피지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이브·르세라핌·케플러, 데뷔곡으로 '올해의 가수상']]></title>
-        <id>https://v.daum.net/v/20230219073012572</id>
-        <link href="https://v.daum.net/v/20230219073012572"/>
-        <updated>2023-02-19T01:11:16.899Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 2022년 음원 차트는 걸그룹의 강세가 돋보였다. 아이브, 케플러, 르세라핌, 뉴진스, 에스파, 태연, 블랙핑크 등 여자 가수들이 '써클차트 뮤직 어워즈' 디지털 음원 부문 올해의 가수상에 이름을 올린 가운데, 해당 부문 남자 수상자는 방탄소년단이 유일하다. '써클차트 뮤직 어워즈 2022'가 18일 오후 서울시 송파구 올림픽공원]]></content>
     </entry>
 </feed>
