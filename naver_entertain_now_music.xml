@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-02-19T17:17:42.526Z</updated>
+    <updated>2023-02-19T18:19:11.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SM·하이브, 이번주도 격랑 속…연이어 기업설명회 '여론전']]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011700062</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011700062"/>
+        <updated>2023-02-19T18:18:54.787Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 이수만, SM 상대 신주 발행 금지 가처분신청 첫 심문기일 SM엔터테인먼트와 하이브의 경영권 다툼이 이번 주에도 격랑에 휘말린다. 하루가 다르게 상황이 급변하고 있는데, 이번 주가 변곡점이 될 것이라고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[저스트비, 방탄소년단→블랙핑크까지...압도적 커버 퍼포먼스(써클차트 뮤직 어워즈)]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000923515</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=416&amp;aid=0000292584"/>
         <updated>2023-02-19T09:15:09.939Z</updated>
         <content type="html"><![CDATA['모든 가능성의 아이돌' 트리플에스가 '인기가요'를 특별한 매력을 물들였다. 트리플에스는 19일 오후 방송한 SBS '인기가요'에 출연해 'ASSEMBLE'의 타이틀곡 'Rising' 퍼포먼스를 선사했다. 비비드한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인기가요' 트리플에스, 감각적 '라이징' 퍼포먼스..유니크 매력]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003130416</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003130416"/>
-        <updated>2023-02-19T09:15:09.951Z</updated>
-        <content type="html"><![CDATA[걸 그룹 트리플에스가 '인기가요'를 특별한 매력을 물들였다. 트리플에스는 19일 방송된 SBS 음악 프로그램 '인기가요'에 출연해 'ASSEMBLE'의 타이틀곡 'Rising' 퍼포먼스를 선사했다. 트리플에스는 비비]]></content>
     </entry>
 </feed>
