@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-02-19T16:22:15.071Z</updated>
+    <updated>2023-02-19T17:17:42.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[현재 1위 에녹, 황영웅·신성 전통파 자존심 회복할까?]]></title>
+        <id>https://v.daum.net/v/20230220020010599</id>
+        <link href="https://v.daum.net/v/20230220020010599"/>
+        <updated>2023-02-19T17:17:10.371Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] [사진 제공=‘크레아 스튜디오’]MBN 예능 ‘불타는 트롯맨’ 손태진과 에녹이 개인전에서 비주류의 반란을 일으킨 가운데, ‘정통파’ 황영웅-신성과 ‘MZ 트롯’ 박민수-민수현이 자존심을 회복할지 궁금해진다. 지난 ‘불타는 트롯맨’(불트) 9회에서는 최후의 결승전으로 가는 마지막 관문인 준결승전 ‘듀엣전’에 이어 ‘개인전’이 펼쳐졌다. 이어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[심수창VS장원삼, 골든글러브 막상막하 대결 승자는?]]></title>
         <id>https://v.daum.net/v/20230220010012334</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230219231500887"/>
         <updated>2023-02-19T15:22:30.318Z</updated>
         <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 별이 남편 부럽지 않은 예능감을 선보였다. 19일 방송된 SBS '런닝맨'에서는 제1회 윈터페스티벌이 진행됐다. 이날 방송에는 가수 별과 개그맨 허경환, 가수 서기가 게스트로 등장해 눈길을 끌었다. 별의 등장에 멤버들은 "오늘 별이 남편이 하는 프로그램에 나왔지만 남편 하고는 떨어져 있고 싶다고 하더라"라고 별의 특별 요]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['런닝맨' M.O.M, 윈터 페스티벌 초대 가수로 등장…'완벽 립싱크 무대' 눈길]]></title>
-        <id>https://v.daum.net/v/20230219230600871</id>
-        <link href="https://v.daum.net/v/20230219230600871"/>
-        <updated>2023-02-19T15:22:30.319Z</updated>
-        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 제1회 윈터 페스티벌에 M.O.M이 초대 가수로 등장했다. 19일 방송된 SBS '런닝맨'에서는 제1회 윈터페스티벌이 진행됐다. 이날 방송에서 멤버들은 영하 10도 한파의 빙판 위에서 오프닝을 진행했다. 그리고 제작진은 오늘의 윈터 페스티벌을 위해 특별 무대가 준비됐다고 밝혀 눈길을 끌었다. 특별 무대를 준비한 초대 가수]]></content>
     </entry>
 </feed>
