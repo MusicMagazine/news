@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2023-02-20T18:18:43.804Z</updated>
+    <updated>2023-02-20T19:19:06.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주현영, 긴 머리 변신…방콕 축제 핫걸 [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001034419</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0001034419"/>
+        <updated>2023-02-20T19:18:59.753Z</updated>
+        <content type="html"><![CDATA[배우 주현영의 화보가 공개됐다. 방콕에서 진행된 페스티벌 현장을 배경으로 진행된 이번 화보 촬영에서 주현영은 트레이드 마크인 단발 머리에서 벗어나 긴 생머리로 변신, 색다른 모습을 보여줬다. 화보 속 주현영은 길게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[곽동연 “‘올드 위키드 송’ 보내기 아쉽다” 성황리 마무리]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001034418</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000412275"/>
         <updated>2023-02-20T16:25:23.571Z</updated>
         <content type="html"><![CDATA['써클차트 뮤직 어워즈 2022'가 지난 18일 오후 서울 송파구 방이동 올림픽공원 KSPO DOME에서 열렸다. 스테이씨가 무대를 펼치고 있다. 2022년 K팝을 빛낸 영광의 주인공들을 한자리에서 만나본 '써클차트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토S] 부석순, '세븐틴을 대표해서']]></title>
-        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000412274</id>
-        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000412274"/>
-        <updated>2023-02-20T16:25:23.572Z</updated>
-        <content type="html"><![CDATA['써클차트 뮤직 어워즈 2022'가 지난 18일 오후 서울 송파구 방이동 올림픽공원 KSPO DOME에서 열렸다. 올해의 그룹상을 수상한 세븐틴 호시, 도겸, 승관이 소감을 말하고 있다. 2022년 K팝을 빛낸 영광]]></content>
     </entry>
 </feed>
