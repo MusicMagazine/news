@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-02-20T16:25:36.645Z</updated>
+    <updated>2023-02-20T18:18:43.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[라포엠, 3월 8일 컴백…22일 선공개곡 '닻' 공개]]></title>
+        <id>https://v.daum.net/v/20230221020009765</id>
+        <link href="https://v.daum.net/v/20230221020009765"/>
+        <updated>2023-02-20T18:17:58.229Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 크로스오버 그룹 라포엠(LA POEM)이 오는 3월 8일 컴백을 확정했다. 20일 소속사 스튜디오 잼(Studio JAMM)은 "라포엠이 오는 3월 8일 두 번째 미니앨범 '디 알케미스트(The Alchemist)'를 발매한다"고 밝혔다. 이어 "이에 앞서 선공개곡 '닻 (anchor)'으로 새 앨범에 대한 기대감을 북돋을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴진스, 끝 모를 상승세… 더 치열해질 걸그룹 경쟁]]></title>
         <id>https://v.daum.net/v/20230221000004223</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230220181529916"/>
         <updated>2023-02-20T09:17:20.443Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 노한빈 기자] 걸그룹 스테이씨(STAYC)와 보이그룹 NCT 127(엔시티 127)이 한터차트 2월 셋째 주 주간차트를 점령했다. 실시간 음악차트인 한터차트는 20일 오전 10시 2023년 2월 3주 차 주간 월드차트, 음반차트 그리고 인증차트를 발표했다. 음반, 음원, 인증, SNS, 미디어 등 케이팝 아티스트의 글로벌 데이터를 바탕으]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돌아온 황금 막내 더보이즈 에릭..더비들도 환영한 완전체 컴백]]></title>
-        <id>https://v.daum.net/v/20230220181446886</id>
-        <link href="https://v.daum.net/v/20230220181446886"/>
-        <updated>2023-02-20T09:17:20.449Z</updated>
-        <content type="html"><![CDATA[[OSEN=박준형 기자] 그룹 더보이즈 막내 에릭이 건강하게 돌아왔다. 더보이즈 미니 8집 '비 어웨이크'(BE AWAKE)' 발매 쇼케이스가 20일 오후 서울 예스24 라이브홀에서 열렸다. 지난해 8월 발매한 미니 7집 ‘비 어웨어'(BE AWARE) 이후 6개월 만. 신곡으로는 지난 12월 스페셜 싱글 곡인 ‘올 어바웃 유'(All About You]]></content>
     </entry>
 </feed>
