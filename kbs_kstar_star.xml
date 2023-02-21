@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 21:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 22:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[화보] 윤종석, 한복 벗고 시크한 매력 발산 (퍼스트룩 화보)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=250865</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=250865</guid>
+            <pubDate>Tue, 21 Feb 2023 22:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=250865">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230222070424_de6394980aeea2470d172da7545c4464.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=250865">[화보] 윤종석, 한복 벗고 시크한 매력 발산 (퍼스트룩 화보)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230222070424_de6394980aeea2470d172da7545c4464.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 '데스노트' "흑과 백, 두뇌대결이 시작된다"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=250081</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=246758">김재영-윤소희, 오디오 드라마 '드라마 헤어져서 팝니다' 캐스팅</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230119212514_015ba3f8920dc2d865a113a4fc391bed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['누구에겐 유쾌하고, 누구에겐 통쾌한' 뮤지컬 <레드북>, 3월 대학로로 돌아온다]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=246508</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=246508</guid>
-            <pubDate>Tue, 24 Jan 2023 19:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=246508">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230118100304_1b9911f18de14601a52c150c9c157373.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=246508">'누구에겐 유쾌하고, 누구에겐 통쾌한' 뮤지컬 &lt;레드북&gt;, 3월 대학로로 돌아온다</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230118100304_1b9911f18de14601a52c150c9c157373.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
