@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 22:15:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 01:04:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3월의 지민, 솔로앨범 'FACE' 발매  "새 시작 준비하는 이야기 담아"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=250882</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=250882</guid>
+            <pubDate>Wed, 22 Feb 2023 01:03:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=250882">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230222072213_52ff52b257934ef2657c49d2a5e82ad5.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=250882">3월의 지민, 솔로앨범 'FACE' 발매  "새 시작 준비하는 이야기 담아"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230222072213_52ff52b257934ef2657c49d2a5e82ad5.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[3월의 트와이스, 미니12집  'READY TO BE' 컴백]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=250757</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=248214">문빈&amp;산하 유닛, 첫 팬콘 월드투어… 3월 18일 서울 스타트</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230202093237_4a206595d1021b79b19602b27b83c6c9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 ‘MIC Drop’ 뮤직비디오, 13억뷰 돌파]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=248059</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=248059</guid>
-            <pubDate>Wed, 01 Feb 2023 12:32:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=248059">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230201072825_ef21752ba55f5bf3182203391b703644.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=248059">방탄소년단 ‘MIC Drop’ 뮤직비디오, 13억뷰 돌파</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230201072825_ef21752ba55f5bf3182203391b703644.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
