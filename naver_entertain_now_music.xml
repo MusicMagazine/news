@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-02-23T19:16:24.956Z</updated>
+    <updated>2023-02-23T20:21:21.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[드림시어터, 4월 내한공연…6년 만에 9번째]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011708872</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011708872"/>
+        <updated>2023-02-23T20:21:04.990Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 4월26일 서울 블루스퀘어 마스터카드홀 프로그레시브 메탈의 상징으로 통하는 미국 밴드 '드림 시어터'(DREAM THEATER·드림씨어터)가 6년 만에 내한공연한다. 24일 공연 기획사 프라이빗 커브에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미성년 성학대 혐의 'R&B 제왕' 알 켈리, 복역 기간 1년 더 늘어]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013776472</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000869307"/>
         <updated>2023-02-23T11:13:17.704Z</updated>
         <content type="html"><![CDATA[아이돌그룹 저스트비(JUST B)가 3개월 만에 음악 방송에 재소환된 이유를 무대로 증명했다. 저스트비(임지민, 이건우, 배인, JM, 전도염, 김상우)는 23일 방송된 Mnet 음악 프로그램 ‘엠카운트다운’에 출연]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아스트로 라키 친동생, 하우로 '핫데뷔' "형이 늘 조언" [엑's 현장]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001561366</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001561366"/>
-        <updated>2023-02-23T11:13:17.705Z</updated>
-        <content type="html"><![CDATA[신인 보이그룹 하우(HAWW)의 정근이 친형인 아스트로 라키의 아낌없는 조언 속 데뷔를 했다. 하우(지민, 정근, 민용, 찬영, 주호, 루이, 서빈)은 23일 오후 서울 강남구 슈피겐홀에서 첫 번째 미니앨범 'HOW]]></content>
     </entry>
 </feed>
