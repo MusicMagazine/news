@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-02-24T14:13:59.247Z</updated>
+    <updated>2023-02-24T15:16:48.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[말립, BANA와 계약만료]]></title>
+        <id>https://v.daum.net/v/20230225001005317</id>
+        <link href="https://v.daum.net/v/20230225001005317"/>
+        <updated>2023-02-24T15:16:07.418Z</updated>
+        <content type="html"><![CDATA[DJ이자 프로듀서 ‘말립(Maalib)’과 비스츠앤네이티브스(이하 ‘BANA’)의 전속 계약이 종료되었고, 서로의 앞날을 응원하기로 했다. 2020년에 BANA에 합류했던 ‘말립’은 서울의 음악 트랜드를 이끌어가는 집단 ‘360 사운즈’와 오직 바이닐로만 음악을 플레이하는 파티 브랜드 ’스트릭틀리 바이닐(Strictly Vinyl)’의 프로듀서이자 D]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트와이스 사나·지효·미나, 와일드한 분위기 티저 공개]]></title>
         <id>https://v.daum.net/v/20230224230010818</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230224164127163"/>
         <updated>2023-02-24T08:18:45.903Z</updated>
         <content type="html"><![CDATA[[스타뉴스 윤상근 기자] /사진제공=알비더블유(RBW), DSP미디어 '한류 퀸' 카라(KARA)가 일본에서 8년 만에 팬미팅을 개최하며 현지를 뜨겁게 달궜다. 카라(박규리 한승연 니콜 강지영 허영지)는 지난 23일 일본 오사카 오릭스 극장에서 'KARA 15TH ANNIVERSARY FAN MEETING 2023~MOVE AGAIN~'을 열고 팬들과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['쇼미11' 준우승 허성현, '미드나잇 로우'로 컴백]]></title>
-        <id>https://v.daum.net/v/20230224162839832</id>
-        <link href="https://v.daum.net/v/20230224162839832"/>
-        <updated>2023-02-24T08:18:45.909Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김현식 기자] 래퍼 허성현(Huh)이 싱글 ‘미드나잇 로우’(Midnight law)를 24일 내놓는다. 지난해 Mnet 힙합 서바이벌 프로그램 ‘쇼미더머니11’에서 준우승한 이후 처음으로 낸 신보다. ‘미드나잇 로우’와 ‘HDYF’ 2곡을 담았다. 음원은 이날 오후 6시 각종 음악 플랫폼을 통해 공개한다. 타이틀곡 ‘미드나잇 로우’]]></content>
     </entry>
 </feed>
