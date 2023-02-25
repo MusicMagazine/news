@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Feb 2023 07:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Feb 2023 08:19:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘메타버스 그룹’ 에스파, 단독 콘서트 오늘 개막]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=251197</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=251197</guid>
+            <pubDate>Sat, 25 Feb 2023 08:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=251197">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230225162558_078d9a37bfd18c50783c08c38c11b569.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=251197">‘메타버스 그룹’ 에스파, 단독 콘서트 오늘 개막</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230225162558_078d9a37bfd18c50783c08c38c11b569.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 지민, ‘FACE’, 타이틀곡은 "Like Crazy"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=251067</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=248751">거미, 20주년 전국투어 콘서트 'BE ORIGIN' 성료.. “20년 동안 노래할 수 있었던 건 여러분 덕분"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230206165154_51bf5f493c51d50de93772bbafd56cf4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이핑크 정은지 '트래블로그', 홍콩 단독 콘서트]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=248742</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=248742</guid>
-            <pubDate>Mon, 06 Feb 2023 02:19:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=248742">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230206082422_a9ba1d0f7ba4c3f2a31997b5b559973f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=248742">에이핑크 정은지 '트래블로그', 홍콩 단독 콘서트 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230206082422_a9ba1d0f7ba4c3f2a31997b5b559973f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

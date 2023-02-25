@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Feb 2023 07:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Feb 2023 08:19:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조우진, '수리남'으로 디렉터스컷 어워즈 남자배우상 수상]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=251209</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=251209</guid>
+            <pubDate>Sat, 25 Feb 2023 08:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=251209">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230225163621_b04d801a85294740ae6b268a5ba99fb6.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=251209">조우진, '수리남'으로 디렉터스컷 어워즈 남자배우상 수상</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230225163621_b04d801a85294740ae6b268a5ba99fb6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[화보] 이충주 '물랑루즈!' 크리스티안 (매거진 '더네이버')]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=251006</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=247389">"연극으로 만난다"  '셰익스피어 인 러브' 개막</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230127094615_3ef5aa1b5e89bbb72b1d579aea67f5fd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[공연評] 뮤지컬 ‘영웅’ 안중근의 꿈과 이토 히로부미의 꿈의 차이]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=247816</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=247816</guid>
-            <pubDate>Mon, 30 Jan 2023 05:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=247816">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230130091927_79d93312135e3a8330b77976e6425dbd.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=247816">[공연評] 뮤지컬 ‘영웅’ 안중근의 꿈과 이토 히로부미의 꿈의 차이   </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230130091927_79d93312135e3a8330b77976e6425dbd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
