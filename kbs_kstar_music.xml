@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Feb 2023 21:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Feb 2023 22:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[킹덤, 3월 23일 미니 6집 컴백]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=251289</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=251289</guid>
+            <pubDate>Sat, 25 Feb 2023 22:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=251289">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230226065609_b268f93c957bcafada56da2c9134179f_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=251289">킹덤, 3월 23일 미니 6집 컴백 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230226065609_b268f93c957bcafada56da2c9134179f_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘메타버스 그룹’ 에스파, 단독 콘서트 오늘 개막]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=251197</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=249066">방탄소년단 앤솔러지 앨범 ‘Proof’,  롱런 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230208071707_3cfaad507b90e4d33517097d75ead7ac_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거미, 20주년 전국투어 콘서트 'BE ORIGIN' 성료.. “20년 동안 노래할 수 있었던 건 여러분 덕분"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=248751</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=248751</guid>
-            <pubDate>Mon, 06 Feb 2023 22:17:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=248751">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230206165154_51bf5f493c51d50de93772bbafd56cf4.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=248751">거미, 20주년 전국투어 콘서트 'BE ORIGIN' 성료.. “20년 동안 노래할 수 있었던 건 여러분 덕분"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230206165154_51bf5f493c51d50de93772bbafd56cf4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
