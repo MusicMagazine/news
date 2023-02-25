@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-02-25T19:11:47.990Z</updated>
+    <updated>2023-02-25T21:13:26.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅 '다시 만날 수 있을까' 음원+MV 4500만뷰]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003132131</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003132131"/>
+        <updated>2023-02-25T21:13:09.283Z</updated>
+        <content type="html"><![CDATA[가수 임영웅이 '다시 만날 수 있을까'로 또 하나의 기록을 세우며 눈부신 기록 행진을 이어갔다. 임영웅의 '다시 만날 수 있을까'는 2월 25일 음원 영상과 뮤직비디오 합산 조회수 4500만 뷰를 넘어섰다. '다시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김희재, '더트롯쇼' MC 데뷔 성공적..'먼데이남자' 등극]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003132112</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005432004"/>
         <updated>2023-02-25T08:19:15.628Z</updated>
         <content type="html"><![CDATA[블랭키 영빈(사진=키스톤엔터테인먼트) ‘아이돌 데이트 폭력’ 당사자로 지목된 그룹 블랭키 영빈이 잘못을 인정하고 팀을 탈퇴한다. 소속사 키스톤엔터테인먼트는 25일 “금일 한 커뮤니티를 통해 제기된 사안에 대해 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘음중’ 스테이씨, 청량하다]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000869648</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000869648"/>
-        <updated>2023-02-25T08:19:15.629Z</updated>
-        <content type="html"><![CDATA[그룹 스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)가 청량한 매력을 발산했다. 스테이씨는 25일 MBC ‘쇼! 음악중심’에 출연해 네 번째 싱글앨범 ‘테디 베어(Teddy Bear)’의 동명의 타이틀곡 ‘테디]]></content>
     </entry>
 </feed>
