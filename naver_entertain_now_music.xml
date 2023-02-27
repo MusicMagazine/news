@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-02-27T16:20:35.706Z</updated>
+    <updated>2023-02-27T17:15:16.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[롤링홀28주년 기념 해리빅버튼 단독콘서트 ‘Planet of the Buttons’ 3월 26일 개최]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000870071</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000870071"/>
+        <updated>2023-02-27T17:14:54.086Z</updated>
+        <content type="html"><![CDATA[하드록 밴드 해리빅버튼이 오는 3월26일 개관28주년을 맞이한 롤링홀에서 신곡과 함께 단독콘서트 무대를 준비한다. 해리빅버튼 (왼쪽부터 우석제(베이스), 이성수(보컬/기타), 최보경(드럼) – 사진제공 :]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크래비티, 신보 ‘마스터 : 피스’ 첫 단체 콘셉트 포토 공개]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000870070</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001562734"/>
         <updated>2023-02-27T11:18:10.810Z</updated>
         <content type="html"><![CDATA[솔로 가수로 첫 발을 내딛은 가수 황민현이 '세 번의 데뷔' 과정을 통한 성장을 엿보였다. 27일 오후 서울 광진구 예스24 라이브홀에서 황민현 첫 번째 미니 앨범 '트루스 오어 라이(Truth or Lie)' 발매]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토]김현중, 'MY SUN' 열창]]></title>
-        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000924601</id>
-        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000924601"/>
-        <updated>2023-02-27T11:18:10.810Z</updated>
-        <content type="html"><![CDATA[가수 김현중이 27일 서울 강남구 일지아트홀에서 열린 세 번째 정규앨범 ‘MY SUN’ 발매 기념 미디어 쇼케이스에서 타이틀곡 ‘MY SUN’을 열창하고 있다. 2023. 2. 27. 박진업기자]]></content>
     </entry>
 </feed>
