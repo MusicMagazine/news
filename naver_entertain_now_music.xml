@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-02-27T18:20:54.668Z</updated>
+    <updated>2023-02-27T20:16:31.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김현중, 아버지와 아들 그리고 팬을 위해 노래하다 'MY SUN']]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003701252</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003701252"/>
+        <updated>2023-02-27T20:16:16.504Z</updated>
+        <content type="html"><![CDATA[가수 김현중이 27일 오후 서울 강남구 청담동 일지아트홀에서 진행된 정규 3집 앨범 '마이 선(MY SUN)' 발매 기념 쇼케이스에서 타이틀곡 '마이 선'의 멋진 무대를 선보였다. '마이 선'은 앨범과 동명의 타이틀]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[롤링홀28주년 기념 해리빅버튼 단독콘서트 ‘Planet of the Buttons’ 3월 26일 개최]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000870071</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000924521"/>
         <updated>2023-02-27T11:18:10.809Z</updated>
         <content type="html"><![CDATA[그룹 TFN(티에프앤)이 일본에서의 활동을 이어간다. 소속사 MLD엔터테인먼트에 따르면 TFN은 오는 4월 26일 일본 오리지널 두 번째 미니앨범 ‘OUR TEEN:YELLOW SIDE(아워 틴:옐로 사이드)’를 발]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["아직 안 죽었구나"…황민현, '대외적' 이미지 왜 깼나 (엑's 현장)[종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001562734</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001562734"/>
-        <updated>2023-02-27T11:18:10.810Z</updated>
-        <content type="html"><![CDATA[솔로 가수로 첫 발을 내딛은 가수 황민현이 '세 번의 데뷔' 과정을 통한 성장을 엿보였다. 27일 오후 서울 광진구 예스24 라이브홀에서 황민현 첫 번째 미니 앨범 '트루스 오어 라이(Truth or Lie)' 발매]]></content>
     </entry>
 </feed>
