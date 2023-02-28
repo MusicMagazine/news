@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-02-28T17:17:35.835Z</updated>
+    <updated>2023-02-28T18:21:16.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[밴드 라쿠나, 록밴드계 전설 못의 '날개' 재해석]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001247042</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001247042"/>
+        <updated>2023-02-28T18:20:56.653Z</updated>
+        <content type="html"><![CDATA[록밴드계의 명곡 '날개'가 다시 찾아온다. 28일 Lacuna(라쿠나)의 버전으로 재탄생한 '날개'가 발매된다. 한국을 대표하는 록밴드 못(Mot)의 정규 1집 '비선형 (Non-Linear)'에 수록된 '날개'는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘호랑수월가’ 유주, 신곡‘느껴봐 처절히 당해봐 (You’re Fxxked Up!)’ 컴백]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000870295</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003132771"/>
         <updated>2023-02-28T13:24:30.029Z</updated>
         <content type="html"><![CDATA[배우 박보연과의 열애설로 주목을 받았던 아이돌그룹 아스트로 멤버 라키가 결국 팀을 탈퇴한다. 소속사 판타지오는 28일 공식입장을 통해 " 7년간 아스트로 멤버로 함께 해온 라키와 깊은 대화를 나눈 끝에, 당사와의 전]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TAN 주안·현엽·창선, ‘ESSEGE’ 영상 공개]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000870276</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000870276"/>
-        <updated>2023-02-28T13:24:30.032Z</updated>
-        <content type="html"><![CDATA[아이돌그룹 TAN(티에이엔)이 3인 3색 ‘ESSEGE’(에세지)로 본격 컴백 카운트다운에 돌입했다. 지난 25일부터 27일까지 TAN(창선·주안·재준·성혁·현엽·태훈·지성) 공식 SNS 채널을 통해 1주년 기념 스]]></content>
     </entry>
 </feed>
