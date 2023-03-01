@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-03-01T13:27:34.725Z</updated>
+    <updated>2023-03-01T14:14:06.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['방탄소년단' RM 개인 정보 3년 동안 무단 열람한 본 코레일 직원 적발]]></title>
+        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000925057</id>
+        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000925057"/>
+        <updated>2023-03-01T14:13:51.499Z</updated>
+        <content type="html"><![CDATA[출처 | SBS ‘8뉴스’ 한국철도공사(코레일) 직원이 그룹 방탄소년단(BTS) 리더 RM의 승차권 정보를 비롯해 주소, 휴대전화 번호 등 개인 정보를 무단 열람한 사실이 적발됐다. SBS ‘8뉴스’ 보도에 따르면]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트라이비, '쇼챔' MC도 반했다…상큼 발랄 '위 아 영']]></title>
         <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004816168</id>
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004816168"/>
-        <updated>2023-03-01T13:27:18.299Z</updated>
+        <updated>2023-03-01T14:13:51.500Z</updated>
         <content type="html"><![CDATA[그룹 트라이비(TRI .BE)가 상상 초월 퍼포먼스로 저력을 뽐냈다. 트라이비는 1일 오후 방송된 MBC M '쇼! 챔피언'에서 두 번째 미니앨범 '웨이(W.A.Y)'의 타이틀곡 '위 아 영(WE ARE YOUNG)]]></content>
     </entry>
     <entry>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011717741"/>
         <updated>2023-03-01T08:22:28.753Z</updated>
         <content type="html"><![CDATA[그룹 트와이스 멤버 사나, 지효, 미나가 매력을 뽐냈다. 소속사 JYP엔터테인먼트는 1일 새 앨범 '레디 투 비(READY TO BE)' 두 번째 개인 티저를 공개했다. 티저에는 사나, 지효, 미나의 모습이 담겼다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방랑자로 돌아온 엑소 카이, 강렬한 '로버' 티저]]></title>
-        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003701743</id>
-        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003701743"/>
-        <updated>2023-03-01T07:16:12.736Z</updated>
-        <content type="html"><![CDATA[그룹 엑소 멤버 카이가 컴백 열기를 높이고 있다. 지난달 27일부터 공개된 카이 새 솔로앨범 '로버(Rover)' 티저 이미지와 무드 샘플러 영상은 미스터리한 나선형 공간을 배경으로 한 카이의 시크하고 강렬한 비주얼]]></content>
     </entry>
 </feed>
