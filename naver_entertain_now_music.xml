@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-03-01T12:28:07.172Z</updated>
+    <updated>2023-03-01T13:27:34.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트라이비, '쇼챔' MC도 반했다…상큼 발랄 '위 아 영']]></title>
+        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004816168</id>
+        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004816168"/>
+        <updated>2023-03-01T13:27:18.299Z</updated>
+        <content type="html"><![CDATA[그룹 트라이비(TRI .BE)가 상상 초월 퍼포먼스로 저력을 뽐냈다. 트라이비는 1일 오후 방송된 MBC M '쇼! 챔피언'에서 두 번째 미니앨범 '웨이(W.A.Y)'의 타이틀곡 '위 아 영(WE ARE YOUNG)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제이세라, ‘넌 내가 보고싶지 않나봐’ 음원 공개…섬세한 이별 감성]]></title>
         <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003259866</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003701743"/>
         <updated>2023-03-01T07:16:12.736Z</updated>
         <content type="html"><![CDATA[그룹 엑소 멤버 카이가 컴백 열기를 높이고 있다. 지난달 27일부터 공개된 카이 새 솔로앨범 '로버(Rover)' 티저 이미지와 무드 샘플러 영상은 미스터리한 나선형 공간을 배경으로 한 카이의 시크하고 강렬한 비주얼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권진아표 응원가는 어떨까?…‘더 플래그’ D-1]]></title>
-        <id>https://entertain.naver.com/now/read?oid=021&amp;aid=0002559153</id>
-        <link href="https://entertain.naver.com/now/read?oid=021&amp;aid=0002559153"/>
-        <updated>2023-03-01T07:16:12.738Z</updated>
-        <content type="html"><![CDATA[싱어송라이터 권진아가 2일 컴백한다. 2일 오후 6시 각종 음원 사이트에 공개되는 새 EP ‘더 플래그’(The Flag)는 지난 2021년 2월 ‘우리의 방식’ 이후 권진아가 약 2년 만에 내놓는 피지컬 앨범이다.]]></content>
     </entry>
 </feed>
