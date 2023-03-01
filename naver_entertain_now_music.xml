@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-03-01T18:18:55.846Z</updated>
+    <updated>2023-03-01T19:15:20.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[슈주, 이 난리통에...사우디 여행 예능 '램프의 기사' 론칭]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001247086</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001247086"/>
+        <updated>2023-03-01T19:15:03.063Z</updated>
+        <content type="html"><![CDATA[SM과 하이브가 여론전을 펼치고 있는 가운데, 슈퍼주니어가 사우디아라비아 관광청과 함께 예능 프로그램을 론칭한다. 슈퍼주니어의 여행 예능 '램프의 기사'에는 이특, 신동, 은혁, 동해, 려욱, 규현 등 멤버 6명이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[나의 인생곡(109)] 김범수 '하루', 듣는 것만으로 '힐링']]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000203458</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000870427"/>
         <updated>2023-03-01T08:22:28.752Z</updated>
         <content type="html"><![CDATA[싱어송라이터 권진아가 뮤직비디오 티저로 컴백에 기대감을 더했다. 권진아는 지난달 28일 공식 SNS에 새 EP ‘더 플래그(The Flag)’의 타이틀곡 ‘레이즈 업 더 플래그’ 뮤직비디오 티저 영상을 게재했다. 영]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트의 미래는?[스경X초점]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000870425</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000870425"/>
-        <updated>2023-03-01T08:22:28.752Z</updated>
-        <content type="html"><![CDATA[SM엔터테인먼트(이하 SM)의 미래가 여전히 양팔 저울 위에 올라있다. 하이브와 SM 경영진이 SM의 경영권을 두고 치열한 공방을 벌여온 가운데, 최대 주주의 지분을 확보했던 하이브의 SM 인수에 적신호가 켜지면서]]></content>
     </entry>
 </feed>
