@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 20:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 22:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[니콜, 디지털 싱글 ‘Mysterious’ 9일 발매]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=252133</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=252133</guid>
+            <pubDate>Thu, 02 Mar 2023 22:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=252133">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230302132221_1ed46c9d829893a1227b8170c7df0c81.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=252133">니콜, 디지털 싱글 ‘Mysterious’ 9일 발매</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230302132221_1ed46c9d829893a1227b8170c7df0c81.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[권진아,  'The Flag' 발매  "위로와 공감"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=252044</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=249781">이찬원, 'ONE' 하이라이트 메들리 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230214073817_8c7d11a3732821026b6829a982c06bcd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[걸그룹 '트라이비', 두 번째 미니앨범 ‘W.A.Y’로 컴백]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=249768</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=249768</guid>
-            <pubDate>Mon, 13 Feb 2023 23:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=249768">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230214072014_e205cb97fd3559eed79edd9d2986214c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=249768">걸그룹 '트라이비', 두 번째 미니앨범 ‘W.A.Y’로 컴백</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230214072014_e205cb97fd3559eed79edd9d2986214c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
