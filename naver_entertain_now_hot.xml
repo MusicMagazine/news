@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2023-03-02T17:14:36.353Z</updated>
+    <updated>2023-03-02T18:20:42.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김남길의 다양한 얼굴[화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001036260</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0001036260"/>
+        <updated>2023-03-02T18:20:33.605Z</updated>
+        <content type="html"><![CDATA[배우 김남길의 화보가 공개됐다. 이번 화보는 판타지부터 누와르, 시대물까지 다양한 장르를 넘나들며 연기의 스펙트럼을 넓히고 있는 배우 김남길의 끝없는 확장성을 담았다. 공개된 화보에는 배우로서 영향력은 물론 사회적]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황영웅, '불타는 트롯맨' 하차 "변명 안 해, 하지만…" [전문]]]></title>
         <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004816645</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0006661605"/>
         <updated>2023-03-02T16:20:50.422Z</updated>
         <content type="html"><![CDATA[가수 백아연(30)이 결혼한다. 현재 열애 중인 백아연은 자신의 사회관계망서비스(SNS) 계정에 "갑작스런 결혼 소식에 많은 분들이 놀라셨을 거라고 생각한다"라며 "인생의 대사인만큼 신중하고 조심스럽게 알리고 싶었는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조진웅 "최원영♥심이영 결혼식 때 사회 실수...딸 임신 중인데 '득남'하라고" ('텐트밖2')[종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003977038</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003977038"/>
-        <updated>2023-03-02T16:20:50.426Z</updated>
-        <content type="html"><![CDATA[배우 조진웅이 데뷔 첫 고정 예능 프로그램에서 반전 매력을 드러냈다. 2일 첫 방송된 tvN '텐트 밖은 유럽-스페인 편'에서는 스페인 바르셀로나 캠핑장에서 첫 캠핑에 도전하는 조진웅, 최원영, 박명훈, 권율의 모습]]></content>
     </entry>
 </feed>
