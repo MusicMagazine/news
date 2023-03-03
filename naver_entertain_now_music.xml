@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-03-03T18:17:34.463Z</updated>
+    <updated>2023-03-03T21:12:10.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하차 황영웅, '불트' 전국투어 참여하나…"제작사 소관"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011722292</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011722292"/>
+        <updated>2023-03-03T21:11:52.342Z</updated>
+        <content type="html"><![CDATA[황영웅이 '불타는 트롯맨' 콘서트에 참여할 것으로 보인다. MBN 오디션 불타는 트롯맨은 3일 황영웅의 콘서트 출연 여부 관련 "전국투어는 제작사 쇼플레이 소관"이라며 "제작팀과 무관한 사안"이라고 알렸다. 황영웅이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이글파이브' 출신 리치, 3인조 그룹 '드림맨즈'로 데뷔]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004800342</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003133485"/>
         <updated>2023-03-03T11:14:43.190Z</updated>
         <content type="html"><![CDATA[법원이 이수만 전 SM엔터테인먼트(이하 SM) 총괄 프로듀서가 SM 현 경영진을 상대로 낸 가처분 신청을 받아들인 가운데, SM 최대주주 하이브가 법원의 판단을 존중한다는 입장을 밝혔다. 하이브는 3일 "서울동부지방]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이수만 "제게 '더 베스트'는 하이브…전 2막으로 넘어가"(종합)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011722208</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011722208"/>
-        <updated>2023-03-03T11:14:43.191Z</updated>
-        <content type="html"><![CDATA[기사내용 요약 SM 상대 제기한 '신주·전환사채 발행금지 가처분' 인용 관련 입장 이수만 전 SM엔터테인먼트 총괄 프로듀서가 자신이 SM을 상대로 제기한 카카오에 대한 신주 및 전환사채 발행금지 가처분을 법원이 인용]]></content>
     </entry>
 </feed>
