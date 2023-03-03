@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-03-03T17:16:42.593Z</updated>
+    <updated>2023-03-03T18:17:34.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이글파이브' 출신 리치, 3인조 그룹 '드림맨즈'로 데뷔]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004800342</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004800342"/>
+        <updated>2023-03-03T18:17:18.140Z</updated>
+        <content type="html"><![CDATA[가수 리치 (본명 이대용)가 남성 3인조 신인그룹 '드림맨즈(Dream Menz)'로 깜짝 컴백 소식을 전했다. 오늘(4일) 가수 리치가 신인그룹 '드림맨즈(Dream Menz)'로 출사표를 던졌다. 드림맨즈는 '꿈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['트롯 프린스' 양지원, '훅업' 첫방 앞두고 낚시인 팬사인회]]></title>
         <id>https://entertain.naver.com/now/read?oid=018&amp;aid=0005436000</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011722208"/>
         <updated>2023-03-03T11:14:43.191Z</updated>
         <content type="html"><![CDATA[기사내용 요약 SM 상대 제기한 '신주·전환사채 발행금지 가처분' 인용 관련 입장 이수만 전 SM엔터테인먼트 총괄 프로듀서가 자신이 SM을 상대로 제기한 카카오에 대한 신주 및 전환사채 발행금지 가처분을 법원이 인용]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디어클라우드, ‘배철수의 음악캠프’ 게스트 출격]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000870920</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000870920"/>
-        <updated>2023-03-03T11:14:43.192Z</updated>
-        <content type="html"><![CDATA[모던록밴드 디어클라우드(Dear Cloud)가 라디오 청취자들과 만났다. 디어클라우드(나인, 이랑, 토근)는 3일 MBC FM4U ‘배철수의 음악캠프’에 출연했다. 이날 디어클라우드는 ‘배철수의 음악캠프’의 ‘음악캠]]></content>
     </entry>
 </feed>
