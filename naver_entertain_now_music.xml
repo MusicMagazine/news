@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-03-04T11:14:14.147Z</updated>
+    <updated>2023-03-04T13:25:21.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제이티앤마커스 '새벽감성'으로 1년3개월만 컴백]]></title>
+        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000925597</id>
+        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000925597"/>
+        <updated>2023-03-04T13:24:51.872Z</updated>
+        <content type="html"><![CDATA[그룹 JT&amp;MARCUS 제공 | MLD엔터테인먼트 그룹 제이티앤마커스(JT&amp;MARCUS)가 컴백을 하루 앞두고 신곡 티저 이미지를 공개했다. JT&amp;MARCUS의 소속사 MLD엔터테인먼트는 지난 3일과 4일 공식 SN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소년판타지, ‘음중’ 첫 출격…본방사수 부르는 비주얼+실력!]]></title>
         <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003260440</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011722648"/>
         <updated>2023-03-04T08:18:46.974Z</updated>
         <content type="html"><![CDATA[군 복무 중인 그룹 방탄소년단 진(30·김석진)이 멤버들과 만났다. 진은 4일 인스타그램에 "어서와"라는 글과 함께 사진을 게재했다. 사진에는 면회를 온 지민, 제이홉과 함께 인증샷을 남기고 있는 진의 모습이 담겼다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['구독자 46만' 폴킴, 유튜브 채널 뺏겼나? 팬들 뿔났다]]></title>
-        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000925576</id>
-        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000925576"/>
-        <updated>2023-03-04T08:18:46.983Z</updated>
-        <content type="html"><![CDATA[가수 폴킴. 제공 | 뉴런뮤직 46만 7000여명의 구독자를 보유한 가수 폴킴의 개인 유튜브 채널이 전 소속사에 넘어간 것을 두고 팬들 사이에 불만의 목소리가 터져 나오고 있다. 지난 3일 폴킴 소속사였던 뉴런뮤직]]></content>
     </entry>
 </feed>
