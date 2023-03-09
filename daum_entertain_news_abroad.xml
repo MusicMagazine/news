@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-03-09T21:17:54.572Z</updated>
+    <updated>2023-03-09T22:15:35.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아바타 2', 전세계 3위지만 '탑건2'는 못 꺾어]]></title>
+        <id>https://v.daum.net/v/20230310070600416</id>
+        <link href="https://v.daum.net/v/20230310070600416"/>
+        <updated>2023-03-09T22:15:06.158Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 제임스 카메론의 '아바타: 물의 길'이 역대 세 번째로 높은 수익을 올린 영화라는 타이틀을 얻었지만, 현지에서 '탑건: 매버릭'을 이길 수는 없었다. '아바타: 물의 길'(이하 '아바타 2')은 역대 최고 흥행작 중 하나인 것은 분명하지만 '탑건: 매버릭'의 북미 성적에 필적할 수는 없다. 바로 '아바타 2'의 북미 박스오피스 흥]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[케리 카토나, '3억 람보르기니' 몰면서 세금 안 내]]></title>
         <id>https://v.daum.net/v/20230310060240549</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230309151227446"/>
         <updated>2023-03-09T07:13:36.247Z</updated>
         <content type="html"><![CDATA[[TV리포트=이수연 기자] 백인 중심의 할리우드 시상식을 공개적으로 비난한 배우 양자경이 아카데미 규칙 위반 논란에 휩싸였다. 8일 제95회 아카데미 시상식(오스카)에서 아시아계 배우 최초로 여우주연상 후보에 오른 양자경은 자신의 소셜네트워크서비스를 통해 패션지 보그의 기사 일부분을 공유했다. 양자경이 공유한 기사에는 "오스카에서 비백인 여우주연상 수상자가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘탑건:매버릭’ 레이디 가가, 오스카 시상식 무대서 노래하지 않는 이유]]></title>
-        <id>https://v.daum.net/v/20230309142428109</id>
-        <link href="https://v.daum.net/v/20230309142428109"/>
-        <updated>2023-03-09T07:13:36.248Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영화 ‘탑건:매버릭’에서 ‘홀드 마이 핸드(Holy my hand)’를 불러 제95회 아카데미 시상식에서 주제가상 후보에 오른 레이디 가가(36)가 무대에 오르지 않을 예정이다. 아카데미 프로듀서 글렌 와이스는 8일(현지시간) “레이디 가가와 좋은 관계를 맺고 있지만, 지금 가가는 ‘조커2’를 촬영 중이다”라고 전했다. 이]]></content>
     </entry>
 </feed>
