@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-03-09T15:18:10.129Z</updated>
+    <updated>2023-03-09T16:19:51.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['팬텀싱어4', 3년 만의 귀환…관전포인트는?]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011734102</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011734102"/>
+        <updated>2023-03-09T16:19:34.421Z</updated>
+        <content type="html"><![CDATA[문예빈 인턴 기자 = '팬텀싱어4'가 지난 시즌 방영 이후 3년 만에 돌아온다. JTBC '팬텀싱어4(기획 김형중·김희정, 연출 전수경)'가 뜨거운 기대 속에 10일 첫 방송된다. 국내 최초 크로스오버 남성 4중창]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임성은, "돈 많이 주고 이혼 도장 받았다"...2천 평 스파 사업 접고 귀국 고민(특종세상)]]></title>
         <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000927255</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000872244"/>
         <updated>2023-03-09T11:15:45.610Z</updated>
         <content type="html"><![CDATA[아이돌그룹 8TURN(에잇턴)이 ‘3월의 루키’를 증명했다. 8TURN(재윤, 명호, 민호, 윤성, 해민, 경민, 윤규, 승헌)은 9일 방송된 Mnet ‘엠카운트다운’에 출연해 첫 번째 미니앨범 ‘8TURNRISE(]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘소년판타지’, 일본 최대 OTT 채널 ‘AbemaTV’ 동시 방송 확정]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000872243</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000872243"/>
-        <updated>2023-03-09T11:15:45.613Z</updated>
-        <content type="html"><![CDATA[‘소년판타지’가 한국과 일본 열도에서 동시 방송된다. 9일 ‘소년판타지-방과후 설렘 시즌2’(이하 소년판타지) 제작사 펑키스튜디오 측은 “오는 23일 MBC에서 첫 방송 되는 ‘소년판타지’가 일본 최대 인터넷 플랫폼]]></content>
     </entry>
 </feed>
