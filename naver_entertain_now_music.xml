@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-03-09T13:33:54.335Z</updated>
+    <updated>2023-03-09T14:15:47.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[픽시, 팬덤 윈시 플랫폼 오픈...아티스트X팬 직접 소통 [공식]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004803965</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004803965"/>
+        <updated>2023-03-09T14:15:29.554Z</updated>
+        <content type="html"><![CDATA[걸그룹 픽시가 팬들과 소통 창구를 열며 컴백에 박차를 가하고 있다. 픽시(PIXY, 디아, 수아, 린지, 로라, 다정)는 오늘(9일) 오후 6시부터 팬덤 플랫폼 비스테이지에 공식 홈페이지를 열고 팬덤 '윈시'와 소통]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘미스터트롯2’ 이홍기, 박성온 무대에 “화가 났다” 왜?]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000872272</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000698909"/>
         <updated>2023-03-09T11:15:45.614Z</updated>
         <content type="html"><![CDATA[‘소년판타지’가 한국과 일본에서 동시 방송된다. MBC '소년판타지-방과후 설렘 시즌2'(이하 '소년판타지') 제작사 펑키스튜디오 측은 “오는 23일 MBC에서 첫 방송 되는 ‘소년판타지’가 일본 최대 인터넷 플랫폼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이티즈, 유럽 공연도 성료..팬 이벤트에 감동 "원동력"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003135012</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003135012"/>
-        <updated>2023-03-09T11:15:45.615Z</updated>
-        <content type="html"><![CDATA[보이 그룹 에이티즈(ATEEZ)가 유럽 공연도 성료하며 현지 인기를 입증했다. 9일 소속사 KQ엔터테인먼트에 따르면 지난 7일(현지 시간)부터 8일까지 프랑스 파리 '아코르 아레나'에서 진행된 에이티즈의 2023 월]]></content>
     </entry>
 </feed>
