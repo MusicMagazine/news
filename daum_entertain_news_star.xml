@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-03-09T18:21:59.388Z</updated>
+    <updated>2023-03-09T19:13:01.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원본 영상 공개한 ‘피지컬: 100’… 제작진 “승부 조작 없었다”]]></title>
+        <id>https://v.daum.net/v/20230310040817305</id>
+        <link href="https://v.daum.net/v/20230310040817305"/>
+        <updated>2023-03-09T19:12:28.129Z</updated>
+        <content type="html"><![CDATA[넷플릭스 예능 ‘피지컬: 100’ 제작진이 결승전 원본 영상을 공개하며 승부 조작 의혹을 부인했다. ‘피지컬: 100’을 연출한 장호기 PD는 9일 서울 마포구 MBC 골든마우스홀에서 열린 기자간담회에서 준우승한 경륜 선수 정해민이 “제작진이 경기를 두 차례 중단시켜 결과에 영향을 미쳤다”고 주장한 데 대해 해명했다. 장 PD는 “우승자인 우진용이 경기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뷔 뒷걸음질치게 만든 '서진이네' 이서진X뷔 '대환장' 케미]]></title>
         <id>https://v.daum.net/v/20230310020016845</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230310000411371"/>
         <updated>2023-03-09T15:17:39.838Z</updated>
         <content type="html"><![CDATA[[티브이데일리 최하나 기자] ‘연중플러스’ 김혜선이 국제결혼에 대해 이야기했다. 9일 밤 방송된 KBS2 ’연중플러스’에서는 김혜선과 스테판 지겔 부부가 출연해 다양한 이야기를 나눴다. 스테판 지겔은 “혜선 덕분에 나는 요즘 너무 행복하다”며 아내에 대한 애정을 드러냈다. 김혜선은 “제가 독일 유학생활을 했을 때 남편과 소개팅을 했다. 처음 만나자마자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미스터트롯2' 안성훈 준결승 찢었다, "남자 소찬휘" 극찬]]></title>
-        <id>https://v.daum.net/v/20230310000406368</id>
-        <link href="https://v.daum.net/v/20230310000406368"/>
-        <updated>2023-03-09T15:17:39.851Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 황서연 기자] '미스터트롯2' 안성훈이 주영훈의 극찬을 받았다. 9일 밤 방송한 TV조선 예능프로그램 '미스터트롯2'에서는 톱7을 결정하는 준결승전 무대가 펼쳐졌다. 이날 안성훈은 3번을 뽑아 세 번째로 무대에 섰다. 안성훈은 풀블룸이 작곡한 '싹가능'을 열창했다. '싹가능'은 당신이 원하는 것 모두 싹 들어주겠다는 유쾌한 메시지가 담긴 댄스]]></content>
     </entry>
 </feed>
