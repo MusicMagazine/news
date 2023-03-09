@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-03-09T16:19:51.669Z</updated>
+    <updated>2023-03-09T17:14:10.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블랙핑크 지수 솔로 데뷔 임박...'꽃' 보다 아름다운 포스]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001247654</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001247654"/>
+        <updated>2023-03-09T17:13:54.937Z</updated>
+        <content type="html"><![CDATA[글로벌 걸그룹 블랭핑크 지수가 화려한 솔로 데뷔를 앞두고 있다. 9일 YG 엔터테인먼트는 지수의 데뷔 첫 솔로 앨범명은 'ME'로 오는 31일 오후 1시에 공개된다고 발표했다. 'ME'는 사전적인 의미로 '나'를 뜻]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['팬텀싱어4', 3년 만의 귀환…관전포인트는?]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011734102</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004803866"/>
         <updated>2023-03-09T11:15:45.609Z</updated>
         <content type="html"><![CDATA[‘엠카운트다운’에서 온유가 컴백한 가운데 온유가 샤이니 멤버들을 언급했다. 9일 방송된 M.NET 음악 ‘엠카운트다운’에서 온유가 컴백 소감을 전했다. 제이홉과 스테이씨가 1위후보에 오른 가운데 가수들의 무대를 만나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘엠카’ 8TURN(에잇턴), 파워 넘치는 ‘WE’···포미닛 ‘미쳐’ 재해석도]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000872244</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000872244"/>
-        <updated>2023-03-09T11:15:45.610Z</updated>
-        <content type="html"><![CDATA[아이돌그룹 8TURN(에잇턴)이 ‘3월의 루키’를 증명했다. 8TURN(재윤, 명호, 민호, 윤성, 해민, 경민, 윤규, 승헌)은 9일 방송된 Mnet ‘엠카운트다운’에 출연해 첫 번째 미니앨범 ‘8TURNRISE(]]></content>
     </entry>
 </feed>
