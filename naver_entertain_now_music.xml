@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-03-10T20:14:36.070Z</updated>
+    <updated>2023-03-10T21:15:43.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김희재, '선한스타' 가왕전 상금 기부…누적 기부금 3천만 원 육박]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001567266</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001567266"/>
+        <updated>2023-03-10T21:15:24.839Z</updated>
+        <content type="html"><![CDATA[김희재의 '선한스타' 가왕전 기부금이 2,837만 원으로 늘어났다. 지난 10일 (재)한국소아암재단(이사장: 이성희)은 김희재가 '선한스타' 2월 가왕전에서 상금을 획득하며, 소아암, 백혈병 환아들을 위해 전액 기부]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트와이스, 최전성기는 아직 오지 않았다[TF초점]]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000205249</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011735837"/>
         <updated>2023-03-10T10:16:07.029Z</updated>
         <content type="html"><![CDATA[JYP엔터테인먼트 걸그룹 '니쥬(NiziU)'가 일본 오리콘 주간 디지털 싱글 랭킹 통산 세 번째 정상에 올랐다. 8일 오리콘에 따르면, 니쥬는 신곡 '파라다이스(Paradise)'로 최신 오리콘 주간 디지털 싱글]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드러머 리노, 팬미팅서 XR 어플리케이션 알린다]]></title>
-        <id>https://entertain.naver.com/now/read?oid=018&amp;aid=0005440381</id>
-        <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005440381"/>
-        <updated>2023-03-10T10:16:07.033Z</updated>
-        <content type="html"><![CDATA[드러머 리노(본명 박병기)가 특별한 팬미팅을 펼친다. 리노는 “11일 오후 1시 서울 서초구 BOK기도의집에서 팬미팅 ‘심장털리노 걸리적거리노’를 개최한다”고 10일 밝혔다. XR(확장현실) 기술을 활용해 제작한 어]]></content>
     </entry>
 </feed>
