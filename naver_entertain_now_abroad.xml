@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2023-03-10T18:19:42.614Z</updated>
+    <updated>2023-03-10T19:16:02.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스크림6' 작가 "네브 캠벨 돌아와"...대표 배우 공백 우려 [할리웃통신]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001247743</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001247743"/>
+        <updated>2023-03-10T19:16:01.583Z</updated>
+        <content type="html"><![CDATA[영화 '스크림' 1편부터 5편까지 주인공을 밭았던 배우 네브 캠벨이 영화 '스크림 6'에 출연하지 않는다. 이에 작가 케빈 윌리엄슨은 아쉬움을 토로했다. 현지 매체 페이지 식스에 따르면 지난 6일(현지 시간) 뉴욕에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디즈니 CEO "디즈니 테마파크 너무 비싸" [헐리웃통신]]]></title>
         <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001247742</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004804002"/>
         <updated>2023-03-09T23:18:52.317Z</updated>
         <content type="html"><![CDATA[논란의 '흑인 인어공주' 새 포스터가 공개됐다. 2023년 첫 번째 디즈니 라이브 액션 '인어공주'(The Little Mermaid, 수입/배급: 월트디즈니컴퍼니 코리아, 감독: 롭 마샬, 출연: 할리 베일리, 멜]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아바타 2', 전세계 3위지만 '탑건2'는 못 꺾어 [할리웃통신]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001247660</id>
-        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001247660"/>
-        <updated>2023-03-09T22:15:34.669Z</updated>
-        <content type="html"><![CDATA[제임스 카메론의 '아바타: 물의 길'이 역대 세 번째로 높은 수익을 올린 영화라는 타이틀을 얻었지만, 현지에서 '탑건: 매버릭'을 이길 수는 없었다. '아바타: 물의 길'(이하 '아바타 2')은 역대 최고 흥행작 중]]></content>
     </entry>
 </feed>

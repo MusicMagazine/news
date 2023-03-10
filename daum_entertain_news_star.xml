@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-03-10T18:19:42.613Z</updated>
+    <updated>2023-03-10T19:16:02.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“버추얼 아이돌, 전세계 K팝 팬덤이 좋아하는 요소 고민했죠”]]></title>
+        <id>https://v.daum.net/v/20230311040814174</id>
+        <link href="https://v.daum.net/v/20230311040814174"/>
+        <updated>2023-03-10T19:15:32.028Z</updated>
+        <content type="html"><![CDATA[2023년 1월 25일, 4인조 걸그룹 메이브(MAVE:)가 데뷔했다. 메이브는 감정의 자유를 찾아 미래에서 온 네 명의 소녀가 현실 세계에 불시착했다는 세계관을 내세웠다. 데뷔곡 ‘판도라’엔 감정을 잃어버린 미래 세계에서 희망을 찾겠다는 내용이 담겼다. 메이브는 버추얼 걸그룹이다. 그룹명엔 메타버스 시대의 진정한 흐름을 보여주겠다는, K팝 시장에 새로운]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[곽튜브 "이걸 내보내면 어떡해요"…어땠길래]]></title>
         <id>https://v.daum.net/v/20230311023209915</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230311000112348"/>
         <updated>2023-03-10T15:15:39.834Z</updated>
         <content type="html"><![CDATA[최근까지 JMS 신도로 활동…'출연자 논란 비상' 걸린 오디션 프로그램들 [더팩트ㅣ김샛별 기자] 오디션 프로그램들이 출연자들의 과거로 몸살을 앓고 있습니다. 특히 논란을 묵인한 채 출연을 강행했던 '불타는 트롯맨'의 사례를 본 만큼 더욱 조심스러워하는 모양새입니다. 보이그룹 멤버는 사이비 종교 신도였던 부모의 과거에 발목이 잡혔습니다. 현재는 탈퇴했다고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더글로리' 파트2 공개…BTS 슈가, '기부요정' 변신]]></title>
-        <id>https://v.daum.net/v/20230311000106345</id>
-        <link href="https://v.daum.net/v/20230311000106345"/>
-        <updated>2023-03-10T15:15:39.835Z</updated>
-        <content type="html"><![CDATA[파트2로 돌아온 '더 글로리', 파트1 신드롬 이어갈까 [더팩트ㅣ김샛별 기자] 모두가 기다리던 드라마의 파트2가 공개됐습니다. 신드롬을 일으켰던 만큼 높은 인기를 또 한 번 보여줄 수 있을지 이목이 집중됩니다. 생일마다 '기부 요정'으로 변신해 뜻깊은 기념일을 맞는 인기그룹 멤버도 있습니다. 올해도 도움이 필요한 곳에 따뜻함을 전하며 선한 영향력을 전파]]></content>
     </entry>
 </feed>
