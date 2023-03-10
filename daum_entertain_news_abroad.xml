@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-03-10T01:12:28.781Z</updated>
+    <updated>2023-03-10T03:25:02.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[‘프렌즈’ 58살 여배우 “노화방지 위해 필러주사 너무 맞아, 지금은 후회”]]></title>
+        <title type="html"><![CDATA[“아내 살해 혐의” 로버트 블레이크 심장병으로 사망, 향년 89세]]></title>
+        <id>https://v.daum.net/v/20230310112230064</id>
+        <link href="https://v.daum.net/v/20230310112230064"/>
+        <updated>2023-03-10T03:24:38.394Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘로스트 하이웨이’의 미스터리 사나이 로버트 블레이크가 심장병으로 세상을 떠났다. 향년 89세. 버라이어티는 9일(현지시간) “로버트 블레이크가 목요일 로스앤젤레스에 있는 자택에서 심장병으로 사망했다”고 보도했다. 1970년대 인기 TV 수사극 ‘베레타’로 에미상을 수상한 블레이크는 지난 2001년 5월 결혼한 지 6개월]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘프렌즈’ 58살 여배우 “노화방지 위해 필러주사 많이 맞아, 지금은 후회”]]></title>
         <id>https://v.daum.net/v/20230310101017090</id>
         <link href="https://v.daum.net/v/20230310101017090"/>
         <updated>2023-03-10T01:12:00.562Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230309160712087"/>
         <updated>2023-03-09T07:13:36.240Z</updated>
         <content type="html"><![CDATA[[OSEN=유수연 기자] 배우 티모시 샬라메가 윌리 웡카로 돌아온다. 지난 1일(현지시각) 남미 매체 ‘BOLAVIP’에 따르면, 티모시 샬라메가 등장하는 영화 ‘웡카’가 오는 12월 15일 북미 극장가에서 개봉될 예정이다. 다만, 국내 개봉일은 알려지지 않았다. ‘웡카’는 판타지 뮤지컬 장르로 영화 ‘찰리와 초콜릿 공장’(감독 팀 버튼 2005)의 주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[휴 그랜트, 촬영장서 아역 보호자에 버럭.."창피해" 공개 사과]]></title>
-        <id>https://v.daum.net/v/20230309160030692</id>
-        <link href="https://v.daum.net/v/20230309160030692"/>
-        <updated>2023-03-09T07:13:36.242Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] 휴 그랜트가 영화 촬영장에서 소리친 일화를 사과했다. 8일(현지 시각) 야후 엔터테인먼트에 따르면 휴 그랜트는 최근 영화 ‘던전 앤 드래곤: 도적들의 명예’ 촬영 첫날 현장에서 큰소리를 냈다. 그는 “첫날 눈에 띄는 여성이 있어서 크게 화를 냈다. 촬영 관계자인 줄 알아서 그랬다”고 밝혔다. 하지만 이 여성은 아역 배우의 보호자]]></content>
     </entry>
 </feed>
