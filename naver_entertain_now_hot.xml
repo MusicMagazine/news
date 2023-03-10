@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2023-03-10T19:16:02.329Z</updated>
+    <updated>2023-03-10T20:14:36.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여자는 시기·질투만 한다고요?…'정년이'는 다릅니다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0006677822</id>
+        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0006677822"/>
+        <updated>2023-03-10T20:14:28.698Z</updated>
+        <content type="html"><![CDATA["엄니, 국극 마치고 박수 소리 들으면 컴컴해서 봬지지도 않던 관중석이 보여요. 눈앞이 훤해지고 세상 만물이 내 안으로 들어옵디다. 엄니, 나 눈감고 살기는 글렀어라." 1950년대를 풍미한 여성 국극(國劇)을 소재]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[첫방 '팬텀싱어4' 기다린 보람 있었다…실력파 참가자 집결(종합)]]></title>
         <id>https://entertain.naver.com/now/read?oid=437&amp;aid=0000335162</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0005100014"/>
         <updated>2023-03-10T14:14:03.867Z</updated>
         <content type="html"><![CDATA[‘서진이네’ 이서진이 직원 복지에 힘쓰며 경영 철학을 전했다. 10일 방송된 tvN 예능프로그램 ‘서진이네’에서는 주말 대목을 맞이해 여러 가지 음식을 맛볼 수 있는 콤보 메뉴와 양념치킨을 만드는 모습이 전파를 탔다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김새론 변호인 "대형로펌? 생활고 사실..월세살이중 수임료도 낮아"[종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003980614</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003980614"/>
-        <updated>2023-03-10T14:14:03.868Z</updated>
-        <content type="html"><![CDATA[배우 김새론이 첫 공판에서 생활고를 호소하며 선처를 요청해 논란이 일자 변호인이 이와 관련한 입장을 직접 밝혔다. 지난 8일 검찰은 '음주운전 혐의'로 재판에 넘겨진 배우 김새론에게 벌금 2000만원을 구형했다. 김]]></content>
     </entry>
 </feed>
