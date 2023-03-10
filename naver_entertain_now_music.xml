@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-03-10T14:14:12.809Z</updated>
+    <updated>2023-03-10T15:16:13.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트와이스, 최전성기는 아직 오지 않았다[TF초점]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000205249</id>
+        <link href="https://entertain.naver.com/now/read?oid=629&amp;aid=0000205249"/>
+        <updated>2023-03-10T15:15:54.473Z</updated>
+        <content type="html"><![CDATA[새 앨범 'READY TO BE' 발매 글로벌 인기 급상승, 여전히 성장 중 9년 차인 트와이스는 여전히 더 높은 곳을 향해 간다. 2년 차에 이미 국내를 평정하고 3년 차에 일본 시장에 진출해 굳건하게 뿌리를 내리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마일리 사이러스, 무한한 여름휴가…정규 8집 발매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011736151</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011736151"/>
+        <updated>2023-03-10T15:15:54.479Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 빌보드 메인 앨범차트 '빌보드 200' 1위 유력 선발매곡 '플라워스', 메인 싱글차트 '핫100' 6주 1위 [서울=뉴시스]이재훈 기자 = 미국 팝스타 마일리 사이러스(31)가 여덟 번째 정규 앨범]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마마무 솔라, ‘판도라 : 조작된 낙원’ 첫 OST ‘Eternal’ 주인공 낙점]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000872541</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005440381"/>
         <updated>2023-03-10T10:16:07.033Z</updated>
         <content type="html"><![CDATA[드러머 리노(본명 박병기)가 특별한 팬미팅을 펼친다. 리노는 “11일 오후 1시 서울 서초구 BOK기도의집에서 팬미팅 ‘심장털리노 걸리적거리노’를 개최한다”고 10일 밝혔다. XR(확장현실) 기술을 활용해 제작한 어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘음중’ 800회 특집, 강미나·SF9 찬희 스페셜 MC→명곡 재해석 무대]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000699177</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000699177"/>
-        <updated>2023-03-10T10:16:07.036Z</updated>
-        <content type="html"><![CDATA['쇼! 음악중심'이 800회를 맞는다. 3월 11일 방송되는 MBC ‘쇼! 음악중심’(이하 음중) 800회 특집에는 배우 강미나와 SF9 찬희가 스페셜 MC로 출격한다. 또한 케이팝 팬들을 위해 완벽한 합을 자랑하는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['음주운전' 남태현 "잘못 대한 질책, 달게 받겠다"(종합)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011735830</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011735830"/>
-        <updated>2023-03-10T10:16:07.040Z</updated>
-        <content type="html"><![CDATA[기사내용 요약 "택시와 충돌 후 수십m 운전 아닌 약 5m 이동" 해명 가수 남태현(30)이 마약 파문에 이어 음주운전 논란까지 휩싸인 가운데 사과를 하면서도 일부 혐의에 대해선 억울해했다. 남태현 소속사 노네임 뮤]]></content>
     </entry>
 </feed>

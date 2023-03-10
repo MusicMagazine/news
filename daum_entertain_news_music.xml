@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-03-10T14:14:12.826Z</updated>
+    <updated>2023-03-10T15:16:13.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트와이스, 최전성기는 아직 오지 않았다]]></title>
+        <id>https://v.daum.net/v/20230311000015327</id>
+        <link href="https://v.daum.net/v/20230311000015327"/>
+        <updated>2023-03-10T15:15:34.190Z</updated>
+        <content type="html"><![CDATA[새 앨범 'READY TO BE' 발매 글로벌 인기 급상승, 여전히 성장 중 [더팩트 | 정병근 기자] 9년 차인 트와이스는 여전히 더 높은 곳을 향해 간다. 2년 차에 이미 국내를 평정하고 3년 차에 일본 시장에 진출해 굳건하게 뿌리를 내리더니 더 나아가 이젠 미국에서 꽃을 피웠다. '아이돌 마의 7년'을 단순히 지난 것에 그치지 않고 새로운 모멘텀]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘팬텀싱어4’ 국악인‧성악 수저까지, 재주꾼 총집결]]></title>
         <id>https://v.daum.net/v/20230310230407711</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230310162727331"/>
         <updated>2023-03-10T08:19:02.929Z</updated>
         <content type="html"><![CDATA[[동아닷컴]  남태현 음주운전 사과 “질책 달게 받고 자숙, 깊이 반성” [전문] 가수 남태현이 음주운전을 인정하고 사과했다. 남태현은 10일 자신의 인스타그램을 통해 자필 사과문을 공개했다. 그는 “내 잘못으로 인하여 심려를 끼쳐드린 것에 대하여 머리 숙여 사과드린다”며 “내 경솔한 판단으로 인하여 발생한 이번 잘못에 변명의 여지가 없으며 너무나 부끄럽]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['외모+실력' 최우진, '보이즈 플래닛' 숨은 보석 연습생]]></title>
-        <id>https://v.daum.net/v/20230310161522037</id>
-        <link href="https://v.daum.net/v/20230310161522037"/>
-        <updated>2023-03-10T07:19:49.811Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 한해선 기자] /사진=엠넷 '보이즈 플래닛' 방송 캡처 보이 그룹 데뷔 서바이벌 엠넷 '보이즈 플래닛'에서 숨은 보석을 조명해 본다. '보이즈 플래닛'에서 아직 높은 순위권은 아니지만 실력과 비주얼을 겸비한 레드스타트 ENM 연습생 최우진이 눈길을 끈다. 최우진은 당차고 패기 넘치는 모습과 다재다능한 일당백의 매력으로 최종 9인을 향한 도전을]]></content>
     </entry>
 </feed>
