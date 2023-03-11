@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-03-11T14:13:48.459Z</updated>
+    <updated>2023-03-11T15:17:02.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[갓세븐 영재 "신곡 'Errr day', 부모님 러브스토리 참고했다"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003135431</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003135431"/>
+        <updated>2023-03-11T15:16:46.716Z</updated>
+        <content type="html"><![CDATA[그룹 갓세븐(GOT7) 영재가 'Errr Day'를 통해 달달하고 청량한 매력으로 돌아온다. 영재는 소속사 써브라임을 통해 12일 발매 예정인 새 디지털 싱글 앨범 'Errr Day'(얼 데이) 발매 소감과 에피소드]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트레이드 엘, 17일 신보 발매…스무살에 펼칠 새로운 감성]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003705964</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001567370"/>
         <updated>2023-03-11T07:13:18.349Z</updated>
         <content type="html"><![CDATA[케이팝 아이돌이 되기 위해 모인 연습생들의 수는 계속해서 증가하고 있다. 연습생들은 데뷔 전 일찍이 탄탄한 팬덤으로 현역 아이돌보다 더 많은 관심을 받고 있다. '보이즈 플래닛', '피크타임', '소년판타지' 등 그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트와이스, 美 '더 투나잇 쇼'서 신곡 퍼포먼스 첫 공개]]></title>
-        <id>https://entertain.naver.com/now/read?oid=018&amp;aid=0005440566</id>
-        <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005440566"/>
-        <updated>2023-03-11T07:13:18.352Z</updated>
-        <content type="html"><![CDATA[사진 출=Todd Owyoung/NBC, JYP엔터테인먼트 트와이스가 미국 유명 방송에서 신곡 ‘SET ME FREE’(셋 미 프리) 무대를 최초 공개하고 국내외 뜨거운 컴백 열기를 자랑했다. 트와이스는 3월 10일]]></content>
     </entry>
 </feed>
