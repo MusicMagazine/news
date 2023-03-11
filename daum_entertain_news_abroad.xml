@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-03-11T01:02:43.600Z</updated>
+    <updated>2023-03-11T02:13:07.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘크리스 록 폭행’ 윌 스미스, ‘나쁜 녀석들4’로 복귀 시도]]></title>
+        <id>https://v.daum.net/v/20230311110728547</id>
+        <link href="https://v.daum.net/v/20230311110728547"/>
+        <updated>2023-03-11T02:12:39.066Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]지난해 3월 제94회 아카데미 시상식에서 크리스 록(58)을 폭행해 파문을 일으칸 윌 스미스(54)가 영화 ‘나쁜 녀석들4’로 복귀한다. 버라이어티는 10일(현지시간) “소식통에 따르면 스미스는 상업적 명성을 되찾기 위해 소니픽쳐스의 '나쁜 녀석들 4'와 넷플릭스의 ‘패스트 앤 루스’를 연달아 촬영할 준비가 되어 있다”고 보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제시카 알바 "13세부터 성희롱 당해..할리우드서 난 전사였다"]]></title>
         <id>https://v.daum.net/v/20230311100021775</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230310112230064"/>
         <updated>2023-03-10T03:24:38.394Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘로스트 하이웨이’의 미스터리 사나이 로버트 블레이크가 심장병으로 세상을 떠났다. 향년 89세. 버라이어티는 9일(현지시간) “로버트 블레이크가 목요일 로스앤젤레스에 있는 자택에서 심장병으로 사망했다”고 보도했다. 1970년대 인기 TV 수사극 ‘베레타’로 에미상을 수상한 블레이크는 지난 2001년 5월 결혼한 지 6개월]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘프렌즈’ 58살 여배우 “노화방지 위해 필러주사 많이 맞아, 지금은 후회”]]></title>
-        <id>https://v.daum.net/v/20230310101017090</id>
-        <link href="https://v.daum.net/v/20230310101017090"/>
-        <updated>2023-03-10T01:12:00.562Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]90년대 인기 시트콤 ‘프렌즈’의 커트니 콕스(58)가 필러 주사를 너무 많이 맞은 것에 대해 후회했다. 그는 9일(현지시간) 팟캐스트 ‘글로스 앤젤레스’에 출연해 “필러주사를 맞는 것은 도미노 효과”라면서 “당신은 자신이 조금 이상해 보인다는 것을 깨닫지 못하고 스스로에게 정상적으로 보이기 때문에 더 많은 것을 계속하게 된]]></content>
     </entry>
 </feed>
