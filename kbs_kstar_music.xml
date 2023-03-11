@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Mar 2023 03:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Mar 2023 06:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["글로벌 트와이스"  '더 투나잇 쇼 스타링 지미 펄론'서 신곡 퍼포먼스 첫 선]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=253347</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=253347</guid>
+            <pubDate>Sat, 11 Mar 2023 06:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=253347">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230311122131_0f38583bee47a333b59f8cc57e5b41b9.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=253347">"글로벌 트와이스"  '더 투나잇 쇼 스타링 지미 펄론'서 신곡 퍼포먼스 첫 선</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230311122131_0f38583bee47a333b59f8cc57e5b41b9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['부드러운 지민' , 솔로앨범 ‘FACE’ 콘셉트 포토 ‘Software ver.’ 공개]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=253335</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=251526">"제이홉의 시간" 솔로싱글 'on the street' 3월 3일 전격 발표</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230227080620_47a1cd785766a971c86f1dc10a0f2a2e_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에스파, 첫 단독 콘서트  '히트곡 퍼레이드 + 미공개 신곡 + 솔로 무대"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=251513</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=251513</guid>
-            <pubDate>Sun, 26 Feb 2023 23:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=251513">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230227074809_7d4d801940223f5010f1f0f9e38bc3b9.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=251513">에스파, 첫 단독 콘서트  '히트곡 퍼레이드 + 미공개 신곡 + 솔로 무대"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230227074809_7d4d801940223f5010f1f0f9e38bc3b9.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
