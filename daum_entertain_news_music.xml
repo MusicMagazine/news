@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-03-12T19:16:12.987Z</updated>
+    <updated>2023-03-12T21:12:40.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[르세라핌 "내일 없는 것처럼 연습하는 우리, 오래 갈게요"]]></title>
+        <id>https://v.daum.net/v/20230313060142102</id>
+        <link href="https://v.daum.net/v/20230313060142102"/>
+        <updated>2023-03-12T21:12:04.606Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김노을 기자] 걸그룹 르세라핌(LESSERAFIM)이 서울 종로구 스타뉴스 사옥에서 진행된 '2022 아시아 아티스트 어워즈 인 재팬'(2022 Asia Artist Awards In Japen, 이하 2022 AAA) 수상 인터뷰에 앞서 포즈를 취하고 있다.  르세라핌은 '2022 AAA'에서 신인상과 베스트 뮤지션상을 수상하며 2관왕에 올랐다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세븐틴, 캐럿과 20년 더 ‘같이 가요’‥눈물도 함께라면 힐링]]></title>
         <id>https://v.daum.net/v/20230312230138739</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230312181905144"/>
         <updated>2023-03-12T10:14:35.038Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 그룹 세븐틴(Seventeen) 유닛 부석순이 버논과 함께 '파이팅해야지'를 꾸몄다.&nbsp; 12일 오후 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노) 일곱 번째 팬미팅 '세븐틴 인 캐럿 랜드(SEVENTEEN in CARAT LAND)'가 진행됐다. 지난 10일부터 3일 간]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['리빙 레전드' 보아, 20년 받고 20년 더 함께 해요]]></title>
-        <id>https://v.daum.net/v/20230312181607109</id>
-        <link href="https://v.daum.net/v/20230312181607109"/>
-        <updated>2023-03-12T10:14:35.039Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 최하나 기자]‘퍼포먼스 여제’ 가수 보아가 데뷔 20주년 기념 콘서트를 성공적으로 마쳤다. 리빙 레전드 보아의 명곡으로만 꽉 채운 공연으로 관객들을 열광케 했다. 보아 데뷔 20주년 단독 콘서트 ‘BoA 20th Anniversary Live – THE BoA : Musicality’(보아 20th 애니버서리 라이브 – 더 보아 : 뮤지컬리]]></content>
     </entry>
 </feed>
