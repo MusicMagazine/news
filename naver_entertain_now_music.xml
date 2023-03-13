@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-03-13T15:15:48.755Z</updated>
+    <updated>2023-03-13T16:18:34.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘멀티 플래티넘’ 아티스트 에바 캐시디, 신작 ‘I Can Only Be Me’ 발매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000873006</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000873006"/>
+        <updated>2023-03-13T16:18:17.699Z</updated>
+        <content type="html"><![CDATA[에바 캐시디가 런던 심포니 오케스트라와 함께 돌아왔다 크리스토퍼 윌리스 (Christopher Willis: 스탈린의 죽음, 미키 마우스 작곡가)와 윌리엄 로스 (William Ross: 스타워즈, 해리포터 작곡가)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카카오 손잡은 'SM 3.0', 올해 신인 3팀으로 시험대[TF초점]]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000205607</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005441703"/>
         <updated>2023-03-13T10:16:23.925Z</updated>
         <content type="html"><![CDATA[크래비티(사진=각 방송사 방송화면 캡처) 그룹 크래비티(CRAVITY)가 컴백 첫 주 활동을 성료했다. 크래비티는 지난 9일 Mnet ‘엠카운트다운’과 11일 MBC ‘쇼! 음악중심’에 출연해 미니 5집 ‘마스터:]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['포미닛·(여자)아이들 디렉터' 임용운, 걸그룹 론칭 예고]]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004820299</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004820299"/>
-        <updated>2023-03-13T10:16:23.928Z</updated>
-        <content type="html"><![CDATA[그룹 포미닛, (여자)아이들 디렉터 임용운 대표가 새 걸그룹을 선보인다. 소속사 스타팅하우스엔터테인먼트는 13일 "올해 상반기를 목표로 신인 걸그룹 스타팅 걸스를 선보일 것"이라고 밝혔다. 스타팅 걸스는 차별화된 퍼]]></content>
     </entry>
 </feed>
