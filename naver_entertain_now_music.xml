@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-03-13T12:26:40.384Z</updated>
+    <updated>2023-03-13T13:23:53.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['유튜브 제왕' 임영웅, 인기 아티스트 TOP2…남자 솔로가수 1위]]></title>
+        <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0002115778</id>
+        <link href="https://entertain.naver.com/now/read?oid=016&amp;aid=0002115778"/>
+        <updated>2023-03-13T13:23:35.862Z</updated>
+        <content type="html"><![CDATA[가수 임영웅이 유튜브 인기 아티스트 전체 TOP2를, 남자 솔로가수로는 1위를 각각 기록했다. 13일 유튜브 음악 차트 및 통계에 따르면 지난 주(3월 3일 ~ 3월 9일) 유튜브 코리아 인기 아티스트 2위를 기록했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NCT 제노, 코로나19 재확진 “재택 치료 중, 팬사인회 연기”]]></title>
         <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003262132</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000872953"/>
         <updated>2023-03-13T10:16:23.941Z</updated>
         <content type="html"><![CDATA[아이돌그룹 트렌드지(TRENDZ)가 신보 ‘NEW DAYZ’ 뮤직비디오를 통해 가요계에 새로운 패러다임을 제시한다. 트렌드지(하빛, 리온, 윤우, 한국, 라엘, 은일, 예찬)는 오는 15일 오후 6시 두 번째 싱글]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레이디 가가·리아나, 아카데미 시상식 무대 장식…묵직한 존재감]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001568247</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001568247"/>
-        <updated>2023-03-13T10:16:23.942Z</updated>
-        <content type="html"><![CDATA[세계적인 뮤지션 레이디 가가와 리아나가 제95회 아카데미 시상식 무대를 장식했다. 레이디 가가와 리아나는 오늘(13일) 오전 9시(한국시간) 미국 LA 할리우드 돌비극장에서 열린 제95회 아카데미 시상식(오스카) 무]]></content>
     </entry>
 </feed>
