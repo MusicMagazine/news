@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 02:38:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 06:18:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["손석구, 나무 위에 오르다" 연극 '나무 위의 군대' 6월 개막]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=253606</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=253606</guid>
+            <pubDate>Mon, 13 Mar 2023 06:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=253606">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230313125318_2d1856894bf3dad47d41c28244d0ead7.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=253606">"손석구, 나무 위에 오르다" 연극 '나무 위의 군대' 6월 개막</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230313125318_2d1856894bf3dad47d41c28244d0ead7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Life] 알리익스프레스 한국 서비스 강화, "해외직구를 국내쇼핑처럼 쉽고, 빠르게"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=253182</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=251006">[화보] 이충주 '물랑루즈!' 크리스티안 (매거진 '더네이버')</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230223092810_d64774851f7f8731929362acc6c8a589_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“LISTEN” 정재일 음악감독, DECCA 디지털음원 발매]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=251129</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=251129</guid>
-            <pubDate>Fri, 24 Feb 2023 14:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=251129">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230224212045_31dca0cee47b40e92c7ba9cd9bdbf89a.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=251129">“LISTEN” 정재일 음악감독, DECCA 디지털음원 발매</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230224212045_31dca0cee47b40e92c7ba9cd9bdbf89a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
