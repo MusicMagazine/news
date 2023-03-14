@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-03-14T04:20:51.734Z</updated>
+    <updated>2023-03-14T05:13:37.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단 제이홉 빌보드 핫100 60위 '자체 최고 성적']]></title>
+        <id>https://v.daum.net/v/20230314140111486</id>
+        <link href="https://v.daum.net/v/20230314140111486"/>
+        <updated>2023-03-14T05:12:50.649Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 윤상근 기자] /사진=빅히트뮤직 [윤상근 스타뉴스 기자] 톱 아이돌그룹 방탄소년단(BTS, RM 진 지민 제이홉 슈가 뷔 정국) 멤버 제이홉이 영국 오피셜 싱글차트 에 이어 빌보드 핫100 차트 데뷔에도 성공했다. 제이홉의 '온 더 스트리트'(on the street/with J. Cole)는 지난 13일(현지 시각) 빌보드가 발표한 202]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YG 신인 걸그룹 베이비몬스터, 총 조회수 2억뷰 돌파]]></title>
         <id>https://v.daum.net/v/20230314131200140</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230314103928171"/>
         <updated>2023-03-14T04:20:17.825Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;'보이즈 플래닛' 김민성이 뉴욕 메디슨스퀘어 가든 전광판 광고에 깜짝 등장했다. 최근 미국 뉴욕 메디슨스퀘어 가든에는 지난 2월부터 방송 중인 Mnet 서바이벌 오디션 프로그램 '보이즈 플래닛'에 출연하며 강한 인상을 남긴 레드스타트이엔엠 소속 연습생 김민성이 깜짝 등장해 시선을 모았다. 이는 김민성을 응원하는 팬이 뉴욕 메디슨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT DREAM, 21일 ‘Beatbox’ 영어 버전 발매]]></title>
-        <id>https://v.daum.net/v/20230314102315448</id>
-        <link href="https://v.daum.net/v/20230314102315448"/>
-        <updated>2023-03-14T04:20:17.826Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 보이그룹 NCT DREAM(엔시티 드림)이 새 영어 싱글을 발표한다. NCT DREAM이 영어 버전으로 새롭게 녹음한 싱글 ‘Beatbox’(비트박스)는 3월 21일 오후 1시(한국시간, ET 21일 0시) 아이튠즈, 애플뮤직, 스포티파이, 플로, 멜론, 지니 등 각종 음악 사이트에서 발매된다. ‘Beatbox’는 지난해 5월 발매]]></content>
     </entry>
 </feed>
