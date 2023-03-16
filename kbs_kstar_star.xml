@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 23:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 04:20:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우 홍서연, 씨엘엔컴퍼니에 새 둥지]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=254065</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=254065</guid>
+            <pubDate>Thu, 16 Mar 2023 04:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=254065">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230316102717_087ce2f66003d5935bc059f9df63d28d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=254065">배우 홍서연, 씨엘엔컴퍼니에 새 둥지</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230316102717_087ce2f66003d5935bc059f9df63d28d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[신간] 지넷 윈터슨 '프랭키스슈타인' .. '프랑켄슈타인'의 갈바니즘에서 21세기 AI로]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=253735</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=251109">차선우, 셰익스피어극 도전  '헬로, 더 헬: 오델로' 이아고 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230224172005_def50f67ad3412b7e20e2baf45944836.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[송강 일본 팬미팅 '"강이로운 순간"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=251104</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=251104</guid>
-            <pubDate>Sat, 25 Feb 2023 22:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=251104">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230224171420_6db91656af1224e6691bab79e2b33870.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=251104">송강 일본 팬미팅 '"강이로운 순간" </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230224171420_6db91656af1224e6691bab79e2b33870.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
