@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-03-16T19:15:53.111Z</updated>
+    <updated>2023-03-16T20:15:15.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[K팝·영화…韓日 문화교류, 양국 정상회담 계기 '가속화']]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011747659</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011747659"/>
+        <updated>2023-03-16T20:14:54.190Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 韓, 日 대중문화 개방 25주년·日 내 '겨울연가'로 촉발된 한류 20주년 ·한일 '대중문화 교류'가 양국 정상회담을 계기로 가속화할 것으로 보인다. 최근 한국에서 일본 영화가 흥행 열풍을 일으키고 있]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제이홉 "입대 날짜 나왔다…슬슬 준비할 시점"]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011747638</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000873906"/>
         <updated>2023-03-16T11:13:44.462Z</updated>
         <content type="html"><![CDATA[보컬리스트 한동근이 16일 신곡 ‘그대가 첫사랑인 이유’를 발매한다. 지난 13일, 브랜뉴뮤직은 공식 SNS 채널들을 통해 한동근의 새 싱글 ‘그대가 첫사랑인 이유’의 티저 사진을 공개하며 신곡 발매 소식을 전했는데]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTS·NCT·임영웅…OTT·스크린, 왜 K팝 다큐에 빠졌나[SS뮤직]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000928996</id>
-        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000928996"/>
-        <updated>2023-03-16T11:13:44.463Z</updated>
-        <content type="html"><![CDATA[방탄소년단 영화 ‘BTS 옛 투 컴 인 시네마’(왼쪽)와 임영웅 영화 ‘아임 히어로 더 파이널’. 제공 | CGV K팝의 글로벌 열풍에 영화관도 온라인 동영상 서비스(OTT)도 가수들의 면면을 담은 콘텐츠로 채워지고]]></content>
     </entry>
 </feed>
