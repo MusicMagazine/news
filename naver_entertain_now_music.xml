@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-03-16T16:22:07.896Z</updated>
+    <updated>2023-03-16T17:18:55.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제이홉 "입대 날짜 나왔다…슬슬 준비할 시점"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011747638</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011747638"/>
+        <updated>2023-03-16T17:18:34.997Z</updated>
+        <content type="html"><![CDATA[글로벌 슈퍼 그룹 '방탄소년단'(BTS) 멤버 제이홉(29·정호석)이 입대 초읽기에 들어갔다. 제이홉은 지난 16일 하이브 글로벌 팬 커뮤니티 플랫폼 위버스를 통한 라이브 방송에서 "정확하게 말씀을 드리지는 못하지만]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘미스터트롯2’ 안성훈 眞, 상금 5억 안았다...善 박지현·美 진해성[종합]]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000873941</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000928996"/>
         <updated>2023-03-16T11:13:44.463Z</updated>
         <content type="html"><![CDATA[방탄소년단 영화 ‘BTS 옛 투 컴 인 시네마’(왼쪽)와 임영웅 영화 ‘아임 히어로 더 파이널’. 제공 | CGV K팝의 글로벌 열풍에 영화관도 온라인 동영상 서비스(OTT)도 가수들의 면면을 담은 콘텐츠로 채워지고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['입대' 제이홉, 트와이스 제치고 '엠카' 2주 연속 1위[★밤TView]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003136844</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003136844"/>
-        <updated>2023-03-16T11:13:44.466Z</updated>
-        <content type="html"><![CDATA[방탄소년단(BTS) 제이홉이 '엠카운트다운' 2주 연속 1위를 차지했다. 제이홉은 16일 방송된 Mnet '엠카운트다운'에서 솔로 싱글 '온 더 스트리트(on the street/with J.Cole)'로 트와이스를]]></content>
     </entry>
 </feed>
