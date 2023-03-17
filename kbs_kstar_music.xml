@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 21:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 01:05:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 지민, 첫 솔로 앨범 선공개 곡 'Set Me Free Pt.2' 오늘 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=254218</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=254218</guid>
+            <pubDate>Fri, 17 Mar 2023 01:04:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=254218">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230317072118_5f499792b113dc383563f658e1c10e7b.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=254218">방탄소년단 지민, 첫 솔로 앨범 선공개 곡 'Set Me Free Pt.2' 오늘 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230317072118_5f499792b113dc383563f658e1c10e7b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김호중, 클래식 콘서트 ‘트바로티’…“아리스 열정에 마음 따뜻해졌다”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=254175</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=252773">엔믹스(NMIXX) 컴백 , 미니앨범 '엑스페르고'.. 20일 발매 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230307081337_f12a8c37eaca9cba21dce1cc48c61e84.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 美 ‘키즈 초이스 어워드’서 4년 연속 ‘페이보릿 뮤직 그룹’ 수상]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=252531</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=252531</guid>
-            <pubDate>Mon, 06 Mar 2023 03:24:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=252531">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230306073655_791f26e55de0e64e4f31d2103750718e.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=252531">방탄소년단, 美 ‘키즈 초이스 어워드’서 4년 연속 ‘페이보릿 뮤직 그룹’ 수상</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230306073655_791f26e55de0e64e4f31d2103750718e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
