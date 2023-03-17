@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-03-17T16:24:48.338Z</updated>
+    <updated>2023-03-17T17:17:53.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[썸머케익, 4월 1일 데뷔 첫 단독 콘서트 '케익 샵' 개최]]></title>
+        <id>https://v.daum.net/v/20230318020004819</id>
+        <link href="https://v.daum.net/v/20230318020004819"/>
+        <updated>2023-03-17T17:17:17.451Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 가수 썸머케익(SUMMER CAKE)이 데뷔 첫 단독 콘서트를 개최한다. 17일 소속사 TSC는 오는 4월 1일 마포구에 위치한 스튜디오 까에에서 썸머케익의 데뷔 첫 단독 콘서트 '썸머케익 첫 번째 콘서트 - 케익 샵(SUMMER CAKE 1st CONCERT – CAKE SHOP)' 개최 소식과 함께 공식 포스터를 오픈했다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘국가부’ 90‘s 팝 예찬, 쑥쑥 자라난 이병찬]]></title>
         <id>https://v.daum.net/v/20230318001207426</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230317175146915"/>
         <updated>2023-03-17T09:18:32.219Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 장우혁의 디지털 싱글 ‘FEEL IT(필 잇)’ 뮤직비디오 첫번째 티저가 공개됐다. 16일 장우혁 소속사 WH CREATIVE 측은 디지털싱글 ‘FEEL IT’의 뮤직비디오 첫번째 티저를 공개했다. 10초 가량의 짧은 티저에는 가상 현실 같은 공간 속 올드 스포츠카를 몰고 달리던 장우혁이 한 통의 전화를 받는 모습이 담겼다. 이번]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이달소 4명 새 소속사 둥지? "심각한 우려" 분쟁 예고 '파장']]></title>
-        <id>https://v.daum.net/v/20230317174447739</id>
-        <link href="https://v.daum.net/v/20230317174447739"/>
-        <updated>2023-03-17T09:18:32.221Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 윤상근 기자] /사진=스타뉴스 [윤상근 스타뉴스 기자]걸그룹 이달의 소녀 멤버 전희진, 김정은(김립), 정진솔, 최예림(최리)이 모드하우스와 전속계약을 맺은 가운데 향후 행보에 관심이 쏠린다. 반면 멤버들과 전속계약 분쟁 갈등을 빚었던 블록베리는 반발하는 모양새다. 소속사 모드하우스는 17일 "이달의 소녀 전 멤버 전희진, 김정은, 정진솔, 최]]></content>
     </entry>
 </feed>
