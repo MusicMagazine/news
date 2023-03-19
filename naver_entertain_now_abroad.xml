@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2023-03-19T13:21:34.886Z</updated>
+    <updated>2023-03-19T15:16:48.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[샘 닐, 혈액암 3기 투병 “‘쥬라기 공원’ 홍보 중 진단 받아”[할리웃통신]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001248540</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001248540"/>
+        <updated>2023-03-19T15:16:47.714Z</updated>
+        <content type="html"><![CDATA[영화 '쥬라기 공원' 시리즈로 잘 알려진 배우 샘 닐이 혈액암 투병을 고백했다. 19일(현지시간) 뉴질랜드 매체들에 따르면 닐은 오는 23일 발매되는 자서전 '내가 이걸 말했던가?'를 통해 혈액암 3기 투병기를 공개]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘존 윅’·‘프린지’ 배우 랜스 레드딕 돌연사…향년 61세]]></title>
         <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003793770</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004810569"/>
         <updated>2023-03-19T01:08:48.351Z</updated>
         <content type="html"><![CDATA[배우 기네스 팰트로가 이번에는 '이상한' 건강법으로 다시금 구설수 여왕'임을 입증했다. 그를 둘러싼 양극단 반응도 눈에 띈다. 팰트로는 최근 '기아 다이어트'로 뭇매를 맞은 자신의 건강 팁에 대한 입장을 밝혔다. 그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['가슴 보형물 제거' 블랙 차이나, 턱선 필러 용해 시술 "녹여서 행복해"[Oh!llywood]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004810563</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004810563"/>
-        <updated>2023-03-19T01:08:48.352Z</updated>
-        <content type="html"><![CDATA[성형수술 사실을 밝혔던 가수 겸 사업가 블랙 차이나가 필러 용해 시술을 받아 기분이 좋다고 털어놨다. 지난 17일(현지 시간) 블랙 차이나는 자신의 SNS를 통해 “얼굴 필러를 다 녹여서 너무 행복하다”고 털어놨다.]]></content>
     </entry>
 </feed>
