@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-03-20T15:19:26.311Z</updated>
+    <updated>2023-03-20T16:21:33.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[친절한 해리 스타일스, 아이돌의 '오래된 미래']]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011753118</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011753118"/>
+        <updated>2023-03-20T16:21:16.773Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 데뷔 12년 만에 첫 내한공연…1만5천명 운집 방탄소년단 RM·슈가·뷔·정국, 블랙핑크 로제·제니 객석 목격담도 [서울=뉴시스]이재훈 기자 = 가슴 부분이 깊게 파인 데다가 반짝거리기까지 한 워터멜론(]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미스피츠, 신곡 ‘초록숲’ 발매···봄 알리는 ‘초록숲’ 라이브 클립]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000874603</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003137683"/>
         <updated>2023-03-20T15:19:11.458Z</updated>
         <content type="html"><![CDATA[그룹 방탄소년단 멤버 제이홉이 가수 윤미래, 타이거 JK와 조우했다. 윤미래는 20일 "Ghood vibes Love and Hope #jhope #feelghoodmusic #ghoodtimes #너무잘웃어줘서"라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘소년판타지’, 태국, 싱가포르, 말레이시아, 인도네시아 등 12개국 동시 방송]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000874564</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000874564"/>
-        <updated>2023-03-20T15:19:11.459Z</updated>
-        <content type="html"><![CDATA[MBC ‘소년판타지’가 국내를 넘어 아시아 전역 글로벌 시청자들과 만난다. 20일 ‘소년판타지’ 측은 일본 OTT ‘ABEMA’(아베마)를 비롯한 글로벌 영상 스트리밍 플랫폼 아이치이(iQiyi)를 통해 대만, 싱가]]></content>
     </entry>
 </feed>
