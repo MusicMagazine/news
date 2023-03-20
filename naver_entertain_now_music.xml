@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-03-20T03:16:11.147Z</updated>
+    <updated>2023-03-20T04:16:59.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장예은, 오늘(20일) 솔로로 새 출발…본격 데뷔 카운트다운 시작]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000927631</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000927631"/>
+        <updated>2023-03-20T04:16:43.558Z</updated>
+        <content type="html"><![CDATA[가수 장예은이 본격적인 솔로 데뷔 카운트다운을 시작했다. 20일 정오 각종 온라인 음원사이트를 통해 장예은의 리드 싱글 ‘Strange way to love(스트레인지 웨이 투 러브)’가 발매된다. 오케스트라성 팝]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트와이스, 美 '빌보드 200' 2위…K팝 걸그룹 최고 판매량]]></title>
         <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004822705</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011751597"/>
         <updated>2023-03-20T03:15:52.035Z</updated>
         <content type="html"><![CDATA[문예빈 인턴 기자 = 그룹 트레저(TREASURE)가 자카르타에서 2회 공연을 성황리에 마쳤다. 20일 소속사 YG엔터테인먼트에 따르면, 트레저는 지난 18~19일(현지시간) 인도네시아 자카르타에 위치한 아이스 BS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빌리, 미니 4집 수록곡 트레일러 오픈..신비로운 보컬+랩 '기대감 UP']]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003137465</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003137465"/>
-        <updated>2023-03-20T03:15:52.041Z</updated>
-        <content type="html"><![CDATA[걸그룹 빌리(Billlie)가 독보적인 세계관 '빌리버스'를 예고했다. 빌리(시윤, 션, 츠키, 문수아, 하람, 수현, 하루나)는 19일과 20일 0시 공식 유튜브 채널과 SNS에 네 번째 미니앨범 'the Bill]]></content>
     </entry>
 </feed>
