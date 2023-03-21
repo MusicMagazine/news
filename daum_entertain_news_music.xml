@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-03-21T17:12:15.257Z</updated>
+    <updated>2023-03-21T18:17:56.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[루시, 4월 앙코르 콘서트 개최…'환상+황홀' 밴드 퍼포먼스 예고]]></title>
+        <id>https://v.daum.net/v/20230322030003392</id>
+        <link href="https://v.daum.net/v/20230322030003392"/>
+        <updated>2023-03-21T18:17:14.299Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 밴드 루시(LUCY)가 앙코르 콘서트를 개최한다. 21일 소속사 미스틱스토리는 "루시(신예찬, 최상엽, 조원상, 신광일)가 오는 4월 22일~23일 양일간 서울 올림픽공원 올림픽홀에서 앙코르 콘서트 '인서트 코인: 퍼레이드(INSERT COIN: parade)'를 개최한다. 업그레이드된 스케일 속에 더욱 완성도 높은 무대를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['인도 출신 K팝 가수' 프리얀카, 솔로 데뷔한다…비욘드이엔티와 전속계약]]></title>
         <id>https://v.daum.net/v/20230322020004296</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230321173024318"/>
         <updated>2023-03-21T12:23:54.117Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) '미스터트롯' 시즌1 출신 가수 임영웅, 김호중, 김희재가 KBS 주말극 OST 흥행 공식을 성공시키며 존재감을 발휘하고 있다.&nbsp; TV조선 '미스터트롯' 출신 가수들의 주말극 OST 활약이 무섭다. '신사와 아가씨' 첫 OST로 '대박'을 터뜨린 임영웅을 시작으로 '삼남매가 용감하게' OST 첫 주자 김호중 그리고 김희재 역시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트리플에스, 새 글로벌 멤버 니엔 합류…3개국어 구사]]></title>
-        <id>https://v.daum.net/v/20230321172702206</id>
-        <link href="https://v.daum.net/v/20230321172702206"/>
-        <updated>2023-03-21T12:23:54.117Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 송오정 기자] 그룹 트리플에스(tripleS)의 새로운 글로벌 멤버가 베일을 벗었다. 지난 20일 오후 소속사 모드하우스는 트리플에스의 공식 SNS 채널를 통해 S13 니엔(Nien)의 티저 영상을 공개하고 '코스모스(COSMOS)' 합류를 알렸다. 영상 속 니엔은 순백의 원피스로 청초하면서도 빛나는 매력을 발산했다. 또한 깊은 눈빛으로 카메]]></content>
     </entry>
 </feed>
