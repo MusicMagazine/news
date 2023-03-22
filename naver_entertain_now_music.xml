@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-03-22T16:18:04.716Z</updated>
+    <updated>2023-03-22T18:16:44.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[포맨, 그리운 명곡 소환한다...바이브 '미친거니' 리메이크]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001248974</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001248974"/>
+        <updated>2023-03-22T18:16:27.403Z</updated>
+        <content type="html"><![CDATA[보컬 그룹 포맨(4MEN)이 그리운 명곡을 소환한다. 22일 소속사 메이저나인은 포맨(하은, 한빈, 요셉)이 오는 27일 'Made in 4MEN' 프로젝트 두 번째 음원인 '미친거니'를 발매한다고 공식적으로 발표했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["추워, 옷 입어" 현아, 양팔로 겨우 가린 상반신 탈의+파격 금발]]></title>
         <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000930347</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004823972</id>
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004823972"/>
         <updated>2023-03-22T12:25:05.150Z</updated>
-        <content type="html"><![CDATA[가수 니콜이 22일 오후 경기도 고양시 MBC 드림센터에서 열린 MBC M '쇼 챔피언' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 니콜, '눈뗄 수 없는 화려한 퍼포먼스']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004823971</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004823971"/>
-        <updated>2023-03-22T12:25:05.151Z</updated>
         <content type="html"><![CDATA[가수 니콜이 22일 오후 경기도 고양시 MBC 드림센터에서 열린 MBC M '쇼 챔피언' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
     </entry>
 </feed>
