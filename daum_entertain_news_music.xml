@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-03-22T13:18:36.215Z</updated>
+    <updated>2023-03-22T14:18:38.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뱀뱀, 독보적 콘셉트 MV 티저 공개]]></title>
+        <id>https://v.daum.net/v/20230322231508419</id>
+        <link href="https://v.daum.net/v/20230322231508419"/>
+        <updated>2023-03-22T14:17:55.236Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 제공-어비스컴퍼니가수 뱀뱀이 첫 정규앨범 ‘Sour &amp; Sweet’ 타이틀 곡 뮤직비디오 티저 영상을 공개했다. 영상에는 드라마 타이즈 형식 뮤직비디오의 전반적인 이야기를 암시하는 장면들이 압축적으로 담겨있다. 어딘가를 올려다 보는 모습과 얼굴에 가면을 착용한 모습 등 다소 신비로운 분위기를 연출하는 화면과 더불어  “What is this]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이브 이어 이채연·에이핑크도...'신나라레코드' 손절]]></title>
         <id>https://v.daum.net/v/20230322202530421</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230322145807480"/>
         <updated>2023-03-22T06:15:53.414Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김종은 기자] '피크타임'에서 충격의 탈락자가 속출한다. 22일 방송되는 JTBC 예능프로그램 '피크타임(PEAK TIME)' 7회에서는 반전 드라마가 속출한 눈물의 1차 합탈식이 그려진다. 1차 합탈식은 2월 16일부터 3월 16일까지 진행된 1차 글로벌 투표와 1, 2라운드 베네핏을 합쳐 순위가 매겨진다. 글로벌 투표는 팀과 개인(1표]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['쇼미더머니 흑구' 블랙나인, 새신랑 된다…5월 웨딩마치]]></title>
-        <id>https://v.daum.net/v/20230322142245914</id>
-        <link href="https://v.daum.net/v/20230322142245914"/>
-        <updated>2023-03-22T06:15:53.415Z</updated>
-        <content type="html"><![CDATA[블랙나인[이데일리 스타in 김현식 기자] 래퍼 블랙나인(BLACK NINE)이 새신랑이 된다. 22일 이데일리 취재결과 블랙나인은 오는 5월 비연예인 연인과 결혼식을 올린다. 가족, 친지, 지인들을 결혼식에 초대해 기쁨을 함께 나눌 예정이다. 블랙나인은 이날 본지와의 통화에서 “결혼을 앞두고 있는 것이 맞다”며 “결혼 상대가 비연예인인 만큼 자세한 신상]]></content>
     </entry>
 </feed>
