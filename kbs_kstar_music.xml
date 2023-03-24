@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 23:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 01:00:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오엔터, 글로벌 행보..  아이브(IVE), 첫 정규앨범으로 북미 진출]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=254947</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=254947</guid>
+            <pubDate>Fri, 24 Mar 2023 00:58:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=254947">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230324092759_a38e72e7cbb090762c0fac524e4779f4.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=254947">카카오엔터, 글로벌 행보..  아이브(IVE), 첫 정규앨범으로 북미 진출</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230324092759_a38e72e7cbb090762c0fac524e4779f4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS 지민, 첫 솔로 앨범 'FACE' 전곡, 오늘 전 세계 동시 발표]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=254884</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=253157">방탄소년단 지민 ‘FACE’, 하드웨어 콘셉트 포토 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230310074040_72213431f883f8f6f2425626d0b326c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 지민, ‘FACE’  무드 포토 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=253003</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=253003</guid>
-            <pubDate>Wed, 08 Mar 2023 02:52:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=253003">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230308073955_9a028f25760a9c3c6dd67f14baad11a8.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=253003">방탄소년단 지민, ‘FACE’  무드 포토 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230308073955_9a028f25760a9c3c6dd67f14baad11a8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
