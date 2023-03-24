@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-03-24T17:14:14.383Z</updated>
+    <updated>2023-03-24T18:19:08.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MZ 감성 신인 걸그룹 '에이디야', 마지막 멤버 공개...미모 무엇]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001249213</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001249213"/>
+        <updated>2023-03-24T18:18:51.316Z</updated>
+        <content type="html"><![CDATA[빠르게 변화하는 트렌드에 발맞춰 함께할 이른바 '요즘 아이들'이 신규 K-팝 걸그룹 에이디야(ADYA)로서 새로운 출발을 알린다. 소속사 스타팅하우스엔터테인먼트(이하 '스타팅하우스')는 24일 공식 소셜네트워크서비스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신화, '최장수 아이돌'의 씁쓸한 25살 생일 [엑's 이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001573053</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004824843"/>
         <updated>2023-03-24T11:14:04.019Z</updated>
         <content type="html"><![CDATA[그룹 체리블렛 유주가 24일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 체리블렛 채린, '단아한 미모 뽐내며~']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004824842</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004824842"/>
-        <updated>2023-03-24T11:14:04.021Z</updated>
-        <content type="html"><![CDATA[그룹 체리블렛 채린이 24일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content>
     </entry>
 </feed>
