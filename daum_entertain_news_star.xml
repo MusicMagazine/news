@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-03-24T18:19:08.338Z</updated>
+    <updated>2023-03-24T19:14:07.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우즈, 5월부터 첫 월드투어…서울 등 11개도시]]></title>
+        <id>https://v.daum.net/v/20230325040006984</id>
+        <link href="https://v.daum.net/v/20230325040006984"/>
+        <updated>2023-03-24T19:13:37.112Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]싱어송라이터 우즈가 데뷔 첫 월드투어에 나선다. 24일 소속사 이담엔터테인먼트에 따르면 우즈는 오는 5월 20일과 21일 서울을 시작으로 자카르타 쿠알라룸푸르 마닐라 오사카 도쿄 방콕 멕시코 리마 산티아고 상파울루 등 전 세계 11개 도시에서 우즈 2023 우즈 월드투어 '우리'(OO-LI)를 개최한다. 이담 측은 "공개된]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘나혼산’ 이창섭, 쭈굴美 혼밥→한강 나들이 “내향형은 이해할 것”]]></title>
         <id>https://v.daum.net/v/20230325005700416</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230324233805899"/>
         <updated>2023-03-24T15:14:39.015Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 정유나 기자] '나혼자 산다' 박나래가 수면 내시경 검사 중 코쿤을 애타게 찾아 눈길을 끌었다. 24일 방송된 MBC '나 혼자 산다'에서는 전현무, 박나래, 이장우의 제1회 팜유 피지컬 심포지엄 두 번째 이야기가 그려졌다. 이날 전현무, 박나래, 이장우는 수면 내시경 검사를 진행했다. 세 사람은 "무 용종을 기원한다"면서 각]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박나래, 대장 내시경에 헛소리 “변 나와요...기네스북 올라”]]></title>
-        <id>https://v.daum.net/v/20230324233715879</id>
-        <link href="https://v.daum.net/v/20230324233715879"/>
-        <updated>2023-03-24T15:14:39.016Z</updated>
-        <content type="html"><![CDATA[‘나 혼자 산다’ 박나래가 헛소리했다. 24일 오후 방송된 MBC 예능프로그램 ‘나 혼자 산다’에서는 팜유 건강검진이 이어졌다. 이날 내시경을 하러 들어간 박나래는 자세가 민망하다며 위장 내시경용 구강 보호대를 착용했다. 마취제가 들어가고 불안 가득한 눈을 하고 있던 그는 “이거 수면제예요?”라며 순식간에 잠들었다. 위내시경이 시작되고 이장우는 “]]></content>
     </entry>
 </feed>
