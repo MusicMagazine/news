@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-03-25T04:16:07.003Z</updated>
+    <updated>2023-03-25T05:16:21.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['컴백' 에이핑크, 5명서도 빛났다]]></title>
+        <id>https://v.daum.net/v/20230325135136812</id>
+        <link href="https://v.daum.net/v/20230325135136812"/>
+        <updated>2023-03-25T05:15:45.226Z</updated>
+        <content type="html"><![CDATA[[OSEN=선미경 기자] 그룹 에이핑크(Apink)가 새 미니앨범 첫 번째 단체 포토 공개에 이어, 무드 필름을 공개해 기대를 높였다. IST엔터테인먼트 측은 지난 24일 에이핑크(박초롱, 윤보미, 정은지, 김남주, 오하영) 공식 SNS 및 유튜브 채널을 통해 열 번째 미니앨범 ‘SELF(셀프)’의 단체 포토와 무드 필름을 공개해 글로벌 K팝 팬들의 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘K팝 대세’ 스트레이 키즈, 데뷔 5주년 …줏대있게 잘 컸다]]></title>
         <id>https://v.daum.net/v/20230325130905405</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230324234505961"/>
         <updated>2023-03-24T15:14:33.465Z</updated>
         <content type="html"><![CDATA[[동아닷컴] [사진 제공 = 울림엔터테인먼트]그룹 드리핀(DRIPPIN, 차준호 황윤성 김동윤 이협 주창욱 김민서)이 '세븐 신스(SEVEN SINS)' 콘셉트 트레일러를 기습 공개하며 4월 컴백을 알렸다. 영상은 잔잔하면서도 묵직한 피아노 선율과 함께 클래식하고 고풍스러운 서재의 모습을 비추며 시작돼 단번에 시선을 압도했다. 영상 말미 쓸쓸해 보이는 왕]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마마무+, 힙하고 쿨한 데님 스타일 티저]]></title>
-        <id>https://v.daum.net/v/20230324230010403</id>
-        <link href="https://v.daum.net/v/20230324230010403"/>
-        <updated>2023-03-24T14:14:18.243Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] [사진제공=알비더블유(RBW)][사진제공=알비더블유(RBW)][사진제공=알비더블유(RBW)][사진제공=알비더블유(RBW)][사진제공=알비더블유(RBW)]유닛 마마무+(마마무 플러스/솔라, 문별)가 첫 싱글 앨범 'ACT 1, SCENE 1'(액트 원, 신 원)의 타이틀곡 'GGBB'(지지비비)의 티저 사진을 공개했다. 사진 속 마마무+는 무]]></content>
     </entry>
 </feed>
