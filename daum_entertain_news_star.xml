@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-03-25T18:14:53.799Z</updated>
+    <updated>2023-03-25T19:12:26.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김나영, 명품 C사 니트 공방서 '제니' 따라잡기 “엄마들의 제니라고”]]></title>
+        <id>https://v.daum.net/v/20230326033024789</id>
+        <link href="https://v.daum.net/v/20230326033024789"/>
+        <updated>2023-03-25T19:11:53.560Z</updated>
+        <content type="html"><![CDATA[[OSEN=박하영 기자] 방송인 김나영이 블랙핑크 제니를 향한 애정을 드러냈다. 25일 김나영은 자신의 유튜브 채널 ‘김나영의 nofilter TV’에서 ‘제니가 즐겨입는 바로 그 브랜드! 백화점 오픈전 입어만 봤어요’라는 제목의 영상을 공개했다. 영상 속 김나영은 한 백화점을 방문했다. 그는 “여기가 매장이다. 저도 처음 와본다. C사의 니트 공방이라고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[심은우, 사과했더니 학폭 인정으로 “제2의 연진이 낙인 힘들어”]]></title>
         <id>https://v.daum.net/v/20230326023819765</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230325232929513"/>
         <updated>2023-03-25T15:12:23.364Z</updated>
         <content type="html"><![CDATA[[TV리포트=이혜미 기자] 가수 코드 쿤스트가 ‘놀토’ 측에 음모론을 제기했다. 25일 tvN ‘놀라운 토요일’에선 코드 쿤스트와 카이가 게스트로 출연해 받아쓰기를 함께했다. 이날 코드 쿤스트는 “내가 ‘놀토’에 나올 때마다 항상 못하지 않았나. 그래서 최근 방송을 챙겨봤는데 제작진들이 확실히 음원에 손을 대고 있다고 느꼈다”며 ‘음모론’을 제기, ‘놀토’]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫방 ‘한국인의 식판’ 황희찬 “울버햄튼에 한식당X, 동료들에게 한식 알리고파”]]></title>
-        <id>https://v.daum.net/v/20230325232900512</id>
-        <link href="https://v.daum.net/v/20230325232900512"/>
-        <updated>2023-03-25T15:12:23.366Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 김민지 영양사가 이끄는 ‘한국인의 식판’ 팀이 영국 울버햄튼에 한식을 널리 알리고 싶다는 황희찬의 바람을 이뤄줄 수 있을까. 25일 JTBC ‘세계로 가는 한국인의 식판’ 첫 방송에선 황희찬이 의뢰인으로 출연해 “울버햄튼 가족들에게 한식을 대접하고 싶다”는 바람을 전했다. 이날 김민지 영양사를 중심으로 한 식판 팀은 국가대표 축구]]></content>
     </entry>
 </feed>
