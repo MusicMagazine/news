@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-03-25T01:00:03.241Z</updated>
+    <updated>2023-03-25T02:05:40.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빌리, 5월 17일 日 정식 데뷔]]></title>
+        <id>https://v.daum.net/v/20230325100002691</id>
+        <link href="https://v.daum.net/v/20230325100002691"/>
+        <updated>2023-03-25T02:05:01.786Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 그룹 빌리(Billlie)가 한국을 넘어 일본 접수에 나선다. 빌리(시윤, 션, 츠키, 문수아, 하람, 수현, 하루나)는 지난 24일 오는 5월 17일 데뷔 싱글 '긴가민가요 (더 스트레인지 월드 - 일본어 버전(GingaMingaYo (the strange world) - Japanese ver. -)' 발매 소식을 알렸]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[빌리, 5월 17일 日 정식 데뷔..'GingaMingaYo'로 열도 달군다]]></title>
         <id>https://v.daum.net/v/20230325095216624</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230324185257010"/>
         <updated>2023-03-24T10:13:54.200Z</updated>
         <content type="html"><![CDATA[[동아닷컴] 그룹 방탄소년단 지민의 첫 솔로 앨범 'FACE'의 전곡과 타이틀곡 'Like Crazy' 뮤직비디오가 24일 오후 1시 공개됐다. 뮤직비디오는 꿈속을 헤매는 듯한 몽환적 분위기에 지민의 공허한 눈빛과 애절한 음색이 어우러져 보는 이들을 빠져들게 만든다. 'Like Crazy'는 신스 팝(Synth Pop) 장르로, 강렬한 신스 사운드와]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단 지민 "첫 솔로 'FACE', 어디서도 꺼내지 않은 진짜 지민"]]></title>
-        <id>https://v.daum.net/v/20230324184817941</id>
-        <link href="https://v.daum.net/v/20230324184817941"/>
-        <updated>2023-03-24T10:13:54.201Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자] "어디에서도 꺼내지 않은 저의 진솔한 감정, 진짜 지민의 모습이 녹아 있다." 그룹 방탄소년단 멤버 지민이 데뷔 후 처음 발매하는 솔로 앨범 ‘페이스(FACE)’로 돌아왔다. 군백기를 겪으며 솔로로 다양한 활동을 이어가고 있는 방탄소년단 멤버들. 지민은 그동안 느껴던 여러 감정들과 마주며 온전히 그만의 목소리로 진심을 녹여냈다.]]></content>
     </entry>
 </feed>
