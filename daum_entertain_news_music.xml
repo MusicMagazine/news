@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-03-26T09:12:15.725Z</updated>
+    <updated>2023-03-26T10:14:04.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[투모로우바이투게더 “꿈 꿔왔던 공연장서 무대할 수 있어 기뻐”]]></title>
+        <id>https://v.daum.net/v/20230326183426818</id>
+        <link href="https://v.daum.net/v/20230326183426818"/>
+        <updated>2023-03-26T10:13:26.703Z</updated>
+        <content type="html"><![CDATA[[OSEN=지민경 기자] 그룹 투모로우바이투게더가 체조경기장에서 두 번째 월드투어의 시작을 알렸다. 투모로우바이투게더는 25일과 26일 양일간 서울 올림픽공원 KSPO DOME에서 두 번째 월드투어 'TOMORROW X TOGETHER WORLD TOUR 'ACT : SWEET MIRAGE’(이하 'ACT : SWEET MIRAGE')를 열고 21,00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[투모로우바이투게더 "체조경기장 콘서트, 드디어 꿈 이뤘다"]]></title>
         <id>https://v.daum.net/v/20230326174235041</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230326160829608"/>
         <updated>2023-03-26T07:12:19.597Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;그룹 킹덤이 동양美 가득한 무대를 펼쳤다. 킹덤(훤, 자한, 단, 아서, 무진, 루이, 아이반)은 26일 오후 방송된 SBS '인기가요'에 출연해 여섯 번째 미니앨범 'History Of Kingdom : Part Ⅵ. MUJIN(히스토리 오브 킹덤 : 파트 6. 무진)' 타이틀곡 '혼(魂; Dystopia)' 무대를 선보였다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돌아온 스윗소로우 전한 깊은 감동→콘서트도 연다]]></title>
-        <id>https://v.daum.net/v/20230326153253864</id>
-        <link href="https://v.daum.net/v/20230326153253864"/>
-        <updated>2023-03-26T07:12:19.603Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박아름 기자] 스윗소로우가 따뜻한 고백으로 깊은 감동을 주고 있다. 스윗소로우는 지난 3월 25일 전 온라인 음원 사이트를 통해 정규 5집 PART. 2 'Nevertheless(네버더레스)'를 발매, 뜨거운 반응을 얻고 있다. 더블 타이틀곡 '사랑이었던 거야'는 스윗소로우의 달콤한 '러브송'이다. 사랑하는 사람 곁에서 햇살 가득한 봄처럼 머물겠]]></content>
     </entry>
 </feed>
