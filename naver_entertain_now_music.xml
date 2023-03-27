@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-03-27T19:15:28.815Z</updated>
+    <updated>2023-03-27T20:16:03.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하세가와 요헤이, 레코드소개 '글쓰기 독창성' 미학]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011766649</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011766649"/>
+        <updated>2023-03-27T20:15:45.646Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 '도쿄(TOKYO) 레코드 100' 출간…70~80년대 日 시티팝 정수 韓 레코드숍 김밥레코즈와 협업…레이블 첫 책 출간 [서울=뉴시스]이재훈 기자 = 사람의 고유성은 그가 듣고 소개하는 음악에서도 생]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[와쏭 "뉴진스 하입보이는 이제 그만"[일문일답]]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011766623</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003139485"/>
         <updated>2023-03-27T10:14:24.433Z</updated>
         <content type="html"><![CDATA[그룹 방탄소년단 멤버 지민의 솔로곡 뮤직비디오가 단시간에 기록적인 조회수를 달리고 있다. 27일 오후 6시 기준, 지민이 발표한 첫 솔로 앨범 'FACE'의 타이틀곡 'Like Crazy' 뮤직비디오는 하이브 레이블]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['셰익스피어 인 러브' 김성철, 공연계 치트키.."재미·감동 선사했길"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004815764</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004815764"/>
-        <updated>2023-03-27T09:14:51.231Z</updated>
-        <content type="html"><![CDATA[배우 김성철이 연극 ‘셰익스피어 인 러브’ 종연 소감을 전했다. 27일 소속사 스토리제이컴퍼니 측은 연극 ‘셰익스피어 인 러브’에서 뮤즈를 통해 잃어버린 예술적 영감과 재능을 되찾고 싶은 신예 작가 윌 셰익스피어 역]]></content>
     </entry>
 </feed>
