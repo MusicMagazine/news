@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-03-27T10:14:41.431Z</updated>
+    <updated>2023-03-27T11:11:50.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“4세대 컴백 대전” 아이브·에스파·르세라핌 온다..뜨거워진 봄 가요계]]></title>
+        <id>https://v.daum.net/v/20230327193819289</id>
+        <link href="https://v.daum.net/v/20230327193819289"/>
+        <updated>2023-03-27T11:11:12.281Z</updated>
+        <content type="html"><![CDATA[[OSEN=지민경 기자] 올 봄 가요계에 4세대 걸그룹 대전이 벌어진다. 아이브를 비롯해, 르세라핌, 에스파 등 4세대 대표 걸그룹이 4월과 5월 컴백을 예고하며 K팝 팬들을 설레게 하고 있다. 가장 먼저 출격한 그룹은 엔믹스다. 지난해 데뷔 싱글 'AD MARE'(애드 마레)와 싱글 2집 'ENTWURF'(엔트워프) 활동을 통해 독보적인 노래 실력과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세븐틴 "데뷔 9년차, 스스로를 사랑하게 됐어요"]]></title>
         <id>https://v.daum.net/v/20230327191113969</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230327164000902"/>
         <updated>2023-03-27T09:14:28.999Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 빌리(Billlie)가 한층 깊어진 빌리버스(빌리+유니버스)를 선보인다. 빌리(시윤, 션, 츠키, 문수아, 하람, 수현, 하루나)는 오는 28일 미니 4집 'the Billage of perception: chapter three(더 빌리지 오브 퍼셉션: 챕터 쓰리)'를 발매한다. 전작 이후 약 7개월 만에 선보이는 신보로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엑소 세훈, 때아닌 혼전임신 루머..SM “허위 사실, 법적 대응”]]></title>
-        <id>https://v.daum.net/v/20230327161457857</id>
-        <link href="https://v.daum.net/v/20230327161457857"/>
-        <updated>2023-03-27T09:14:29.001Z</updated>
-        <content type="html"><![CDATA[[OSEN=지민경 기자] 그룹 엑소의 세훈 측이 온라인 상에 퍼진 허위 루머에 강경 대응을 예고했다. 세훈의 소속사 SM엔터테인먼트 측은 27일 OSEN에 “온라인에 유포된 세훈 관련 루머는 전혀 근거 없는 허위 사실로, 사실과 다른 악의적인 내용을 유포한 명백한 범죄행위다”라고 밝혔다. 이어 “현재 게시글이 삭제된 상황이나, 최초 게시자 및 루머 유포]]></content>
     </entry>
 </feed>
