@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 20:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 21:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["에이핑크가 온다!" 미니10집 ‘SELF’ 첫 단체 포토]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=255351</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=255351</guid>
+            <pubDate>Mon, 27 Mar 2023 21:13:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=255351">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230327073708_ab32e5d0f48adbb4eb2d0a7dbb139ce8.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=255351">"에이핑크가 온다!" 미니10집 ‘SELF’ 첫 단체 포토</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230327073708_ab32e5d0f48adbb4eb2d0a7dbb139ce8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[투모로우바이투게더, 월드투어 'ACT : SWEET MIRAGE'  서울에서 화려한 스타트]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=255393</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=253872">BTS 지민,  ‘Set Me Free Pt.2’ MV티저 "웅장한 스케일, 역대급 퍼포먼스 예고"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230315073548_fcad5011b2582afccdb071ea34708eee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["여전히 건재한 전설!" 이광조, 45주년 기념 콘서트 '나들이' 성료]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=253706</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=253706</guid>
-            <pubDate>Tue, 14 Mar 2023 04:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=253706">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230314084443_87ba17c8d38c7de43e0d55b91e69babe.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=253706">"여전히 건재한 전설!" 이광조, 45주년 기념 콘서트 '나들이' 성료</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230314084443_87ba17c8d38c7de43e0d55b91e69babe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
