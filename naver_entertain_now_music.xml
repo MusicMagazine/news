@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-03-27T14:26:05.985Z</updated>
+    <updated>2023-03-27T15:17:24.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[싱어송라이터 장기하, 4월 소극장 공연 '해!' 개최…기대감UP]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001573846</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001573846"/>
+        <updated>2023-03-27T15:17:07.350Z</updated>
+        <content type="html"><![CDATA[장기하가 4월 소극장 공연으로 관객과 만난다. 두루두루 아티스트 컴퍼니는 장기하 소극장 공연 '해!'가 4월 21일부터 30일까지 무신사 개러지에서 개최된다고 밝혔다. 이번 공연은 밴드 편성으로 진행되며, 새롭게 선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[케플러, 미니 4집 ‘LOVESTRUCK!’ 아이콘택트 버전 개인 콘셉트 포토 공개]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000876147</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001573762"/>
         <updated>2023-03-27T09:14:51.244Z</updated>
         <content type="html"><![CDATA[그룹 아이브(IVE)가 '키치'한 선공개곡으로 첫 정규앨범의 서막을 화려하게 열었다. 아이브(안유진, 가을, 레이, 장원영, 리즈, 이서) 정규 1집 'I’ve IVE(아이해브 아이브)'의 프리 릴리즈곡 'Kitsc]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[멋지다, 아이브의 새로운 멋…'키치' [신곡in가요]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004825551</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004825551"/>
-        <updated>2023-03-27T09:14:51.247Z</updated>
-        <content type="html"><![CDATA[그룹 아이브(IVE)가 '멋쁨(멋지고 예쁨)' 바이브를 품고 돌아왔다. 아이브(안유진, 가을, 레이, 장원영, 리즈, 이서)는 27일 정규 1집 '아이해브 아이브(I've IVE)'의 선공개곡 '키치(Kitsch)']]></content>
     </entry>
 </feed>
