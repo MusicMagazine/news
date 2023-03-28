@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 20:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 23:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 '트레이스 유' 캐스팅 라인업 공개... "10년을 더 뜨겁게"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=255750</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=255750</guid>
+            <pubDate>Tue, 28 Mar 2023 23:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=255750">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230329073340_f2f0aeaa5316857c674504ba27edb9a2.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=255750">뮤지컬 '트레이스 유' 캐스팅 라인업 공개... "10년을 더 뜨겁게"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230329073340_f2f0aeaa5316857c674504ba27edb9a2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[출판사 '인플루엔셜',  판타지 브랜드 ‘래빗홀’ 론칭... "한국 장르소설 선보일 예정"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=255640</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=253182">[Life] 알리익스프레스 한국 서비스 강화, "해외직구를 국내쇼핑처럼 쉽고, 빠르게"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230310081156_258c5a103b132677bce79fe5222f82fe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["오스칼 프랑소와 드 자르제를 찾습니다" 뮤지컬 '베르사유의 장미' 오디션]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=252768</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=252768</guid>
-            <pubDate>Mon, 06 Mar 2023 23:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=252768">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230307080416_a3e12c0d582c4df4995e71906d6f6fbf.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=252768">"오스칼 프랑소와 드 자르제를 찾습니다" 뮤지컬 '베르사유의 장미' 오디션 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230307080416_a3e12c0d582c4df4995e71906d6f6fbf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
