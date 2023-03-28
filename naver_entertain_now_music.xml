@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-03-28T13:27:16.379Z</updated>
+    <updated>2023-03-28T14:19:10.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[피프티 피프티, 빌보드 '핫 100' 진입…K팝 최단 기록]]></title>
+        <id>https://entertain.naver.com/now/read?oid=422&amp;aid=0000591002</id>
+        <link href="https://entertain.naver.com/now/read?oid=422&amp;aid=0000591002"/>
+        <updated>2023-03-28T14:18:54.078Z</updated>
+        <content type="html"><![CDATA[걸그룹 피프티 피프티가 첫 싱글 '큐피드'로 빌보드 메인 싱글 차트 '핫 100'에 이름을 올렸습니다. 빌보드는 현지시간 27일, 공식 사회관계망서비스를 통해 "큐피드가 이번 주 '핫 100'에 100위로 진입했다"]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[드림노트, 선공개곡 ‘BLUE’ 흑백 콘셉트 포토 공개]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000876445</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005451443"/>
         <updated>2023-03-28T10:15:04.918Z</updated>
         <content type="html"><![CDATA[가수 김호중이 소속사 생각엔터테인먼트 아티스트들과 손잡고 금의환향을 한다. 김호중을 비롯해 한혜진, 강예슬 등 생각엔터테인먼트 아티스트들이 김호중의 고향 김천에서 열리는 ‘신바람 행복 콘서트’ 무대에 오른다. ‘신바]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김호중과 떠나는 크루즈여행 매진…팬미팅의 새로운 장 될까]]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004826055</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004826055"/>
-        <updated>2023-03-28T10:15:04.919Z</updated>
-        <content type="html"><![CDATA[가수 김호중이 팬들과 함께 떠나는 크루즈 여행 '선상의 아리아'가 일반 판매를 시작하자마자 매진됐다. 소속사 생각엔터테인먼트는 "오는 6월 5일부터 포항에서 출발해 11일 부산으로 돌아오는 6박 7일 일정의 크루즈]]></content>
     </entry>
 </feed>
