@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 23:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 01:04:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[화보] 김혜준은 오디션 쇼핑 중 (코스모폴리탄)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=255602</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=255602</guid>
+            <pubDate>Tue, 28 Mar 2023 01:03:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=255602">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230328095618_b7fd6a138a4417f5f9f7b9977d610024.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=255602">[화보] 김혜준은 오디션 쇼핑 중 (코스모폴리탄)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230328095618_b7fd6a138a4417f5f9f7b9977d610024.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이문열 소설 '변경', 윌라 오디오북으로 듣는다]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=255403</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=252745">지창욱, 제16회 아시아필름어워즈  '넥스트 제너레이션상' 선정</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230307072626_a9c01d42a31eac593852462bbb88c0ab_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 '물랑루즈!' 서울 초연 대성공...  "104회 공연, 객석점유율 90%, 15만 관객"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=252561</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=252561</guid>
-            <pubDate>Mon, 06 Mar 2023 03:24:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=252561">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230306081305_531cc40015a287d7580eae414887cb4e.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=252561">뮤지컬 '물랑루즈!' 서울 초연 대성공...  "104회 공연, 객석점유율 90%, 15만 관객"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230306081305_531cc40015a287d7580eae414887cb4e.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
