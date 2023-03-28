@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-03-28T18:18:16.388Z</updated>
+    <updated>2023-03-28T20:14:38.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이별 장인' 헤이즈, 4월 5일 컴백 발표...오열 주의]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001249524</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001249524"/>
+        <updated>2023-03-28T20:14:21.442Z</updated>
+        <content type="html"><![CDATA['이별 장인'이라 불리는 가수 헤이즈(Heize)가 9개월 만에 복귀 소식을 알렸다. 헤이즈 소속사 피네이션은 28일 공식 소셜네트워크서비스를 통해 'COMPING UP NEXT' 티저 영상을 게재해 헤이즈의 컴백]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[피프티 피프티, 빌보드 '핫 100' 진입…K팝 최단 기록]]></title>
         <id>https://entertain.naver.com/now/read?oid=422&amp;aid=0000591002</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011768913"/>
         <updated>2023-03-28T10:15:04.917Z</updated>
         <content type="html"><![CDATA[그룹 '아이브'(IVE)가 첫 정규 앨범 '아이해브 아이브(I've IVE)' 발매를 앞두고 확실한 예열(豫熱)을 하고 있다. 28일 소속사 스타쉽 엔터테인먼트에 따르면, 아이브의 첫 정규앨범 '아이해브 아이브'의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김호중, 고향 김천서 금의환향 무대… 생각엔터 아티스트들과 총출동]]></title>
-        <id>https://entertain.naver.com/now/read?oid=018&amp;aid=0005451443</id>
-        <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005451443"/>
-        <updated>2023-03-28T10:15:04.918Z</updated>
-        <content type="html"><![CDATA[가수 김호중이 소속사 생각엔터테인먼트 아티스트들과 손잡고 금의환향을 한다. 김호중을 비롯해 한혜진, 강예슬 등 생각엔터테인먼트 아티스트들이 김호중의 고향 김천에서 열리는 ‘신바람 행복 콘서트’ 무대에 오른다. ‘신바]]></content>
     </entry>
 </feed>
