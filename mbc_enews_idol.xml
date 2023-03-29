@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 10:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 12:28:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장우혁, 시간이 멈춘 'FEEL IT' 미니 팬미팅 현장]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/377584</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/377584</guid>
+            <pubDate>Wed, 29 Mar 2023 12:28:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/377584">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/03/29/41b5e64a-9497-4900-b2f9-ecb3b8918eff.jpg" alt="장우혁, 시간이 멈춘 'FEEL IT' 미니 팬미팅 현장">        <div class="text-box">            <p class="summary">장우혁, 시간이 멈춘 'FEEL IT' 미니 팬미팅 현장</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/03/29/41b5e64a-9497-4900-b2f9-ecb3b8918eff.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[포토] 장우혁, 지지 않는 태양]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/377582</link>
@@ -86,14 +94,6 @@
             <pubDate>Wed, 29 Mar 2023 10:14:14 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/377573">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/03/29/a10e8c4d-dcaf-414a-ba8f-44986ef6c467.jpg" alt="[포토] 장우혁, 내가 H.O.T. 미래다">        <div class="text-box">            <p class="summary">[포토] 장우혁, 내가 H.O.T. 미래다</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/03/29/a10e8c4d-dcaf-414a-ba8f-44986ef6c467.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 장우혁, 리빙 레전드]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/377572</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/377572</guid>
-            <pubDate>Wed, 29 Mar 2023 10:14:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/377572">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/03/29/2b5a1a20-b23a-45eb-bc07-e46397740063.jpg" alt="[포토] 장우혁, 리빙 레전드">        <div class="text-box">            <p class="summary">[포토] 장우혁, 리빙 레전드</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/03/29/2b5a1a20-b23a-45eb-bc07-e46397740063.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
