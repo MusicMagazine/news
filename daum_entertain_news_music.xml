@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-03-29T19:15:31.516Z</updated>
+    <updated>2023-03-29T20:19:02.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[싸이 “‘강남스타일’=아다리..가장 행복하고 가장 불안했던 시기”]]></title>
+        <id>https://v.daum.net/v/20230330051022632</id>
+        <link href="https://v.daum.net/v/20230330051022632"/>
+        <updated>2023-03-29T20:18:23.797Z</updated>
+        <content type="html"><![CDATA[[OSEN=지민경 기자] 가수 싸이가 ‘강남스타일’ 신드롬 당시의 심경을 밝혔다. 29일 오후 첫 방송된 Mnet ‘Mnet&nbsp;PRIME&nbsp;SHOW(엠넷&nbsp;프라임&nbsp;쇼)’에서는 싸이와 (여자)아이들이 출연해 색다른 무대를 선보였다. ‘엠넷&nbsp;프라임&nbsp;쇼'는 '콘트라스트'(Contrast) 콘셉트를 활용, 동시대에 공존하는 상반된 두 아티스트가 한 무대에서 만나는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[청하, 7년 몸담은 MNH엔터 떠난다]]></title>
         <id>https://v.daum.net/v/20230330010114288</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230329182830389"/>
         <updated>2023-03-29T10:14:19.857Z</updated>
         <content type="html"><![CDATA[[OSEN=지민경 기자] 그룹 방탄소년단 측이 악성 게시물 작성자에 대한 법적 대응 진행 상황을 공개했다. 방탄소년단의 소속사 빅히트 뮤직 측은 29일 공식 팬 커뮤니티 위버스를 통해 "당사는 최근 팬 여러분의 제보와 자체 모니터링을 통해 수집한 모욕, 명예훼손 게시물 증거 자료를 토대로 수사기관에 다수의 고소장을 제출했다"고 밝혔다. 소속사 측은 "특]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["일한적 없어"…황영웅, 이번엔 거짓 경력 의혹]]></title>
-        <id>https://v.daum.net/v/20230329181328043</id>
-        <link href="https://v.daum.net/v/20230329181328043"/>
-        <updated>2023-03-29T10:14:19.857Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김한길 기자] 폭행 전과 등 과거 논란으로 '불타는 트롯맨'에서 하차한 황영웅에 대한 또 다른 논란이 제기됐다. 이번엔 거짓 경력 의혹이다. 지난 28일 연예 소식을 전문으로 다루는 한 유튜버는 자신의 채널을 통해 "황영웅이 가난했고, 흙수저라고 하는데 모두 사실이 아니다"라고 주장했다. 그는 "황영웅의 아버지는 고급 세단을 끌 정도로 경제]]></content>
     </entry>
 </feed>
