@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-03-30T12:25:24.776Z</updated>
+    <updated>2023-03-30T13:20:07.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘新 음색 여신’ Aylah(아일라), 4월 1일 데뷔 싱글 ‘Anomaly’ 발매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000877020</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000877020"/>
+        <updated>2023-03-30T13:19:50.361Z</updated>
+        <content type="html"><![CDATA[신예 싱어송라이터 Aylah(아일라)가 뮤직비디오 티저로 데뷔 기대감을 높였다. Aylah는 오는 4월 1일 첫 싱글 ‘Anomaly (변수)’를 발매하고 가요계에 정식 데뷔한다. 지난 29일 Aylah의 유튜브 채]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가수 방용국, 신생 기획사 YY엔터테인먼트 전속계약]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000877013</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000876979"/>
         <updated>2023-03-30T10:16:58.726Z</updated>
         <content type="html"><![CDATA[싱어송라이터 치즈가 ‘딜리버리맨’ 다섯 번째 OST에 참여했다. 지니 TV 오리지널 ‘딜리버리맨’의 음원 제작을 맡은 Studio M-Lab은 30일 “치즈가 가창한 ‘딜리버리맨’의 다섯 번째 OST ‘애쓰지 말아요]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["날 미워하는 건 내가 제일 잘해"…류수정, '러블리즈 출신' 뗄 정규앨범 첫걸음 [쥬크박스]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001575253</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001575253"/>
-        <updated>2023-03-30T10:16:58.728Z</updated>
-        <content type="html"><![CDATA[류수정이 데뷔 9년 만에 처음으로 솔로 정규앨범을 발매한다. 이에 앞서 선공개곡으로 자작곡을 선정, 자신만의 확고한 색깔을 예고해 그의 본격 솔로 행보에 기대를 높였다. 30일 오후 6시 류수정의 첫 번째 정규 앨범]]></content>
     </entry>
 </feed>
