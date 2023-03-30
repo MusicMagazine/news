@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-03-30T14:13:27.425Z</updated>
+    <updated>2023-03-30T15:17:13.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이브, 과감한 변주와 당당한 태도]]></title>
+        <id>https://v.daum.net/v/20230331000010500</id>
+        <link href="https://v.daum.net/v/20230331000010500"/>
+        <updated>2023-03-30T15:16:36.264Z</updated>
+        <content type="html"><![CDATA[선공개곡 'Kitsch'로 정체성 강화 3연속 음원차트 1위 등극 [더팩트 | 정병근 기자] 아이브(IVE)가 과감하고 당당한 변주로 정체성을 더 확고히함과 동시에 입지를 더욱 공고히 했다. 국내 최다 이용자 수를 보유한 멜론의 일간차트 1위는 지난 연말부터 무려 99일 동안 뉴진스의 'Ditto(디토)'였다. 쟁쟁한 가수들과 수많은 곡들이 나왔지만]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NCT 도재정, 나른+따뜻 분위기 티저 공개]]></title>
         <id>https://v.daum.net/v/20230330230010948</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230330172700678"/>
         <updated>2023-03-30T10:16:38.248Z</updated>
         <content type="html"><![CDATA[[스타뉴스 최혜진 기자] /사진=빅히트 뮤직그룹 방탄소년단 지민이 솔로 앨범 'FACE'를 발매하고 24일 오후 서울 여의도 KBS 공개홀에서 진행되는 '뮤직뱅크' 사전녹화를 위해 도착하고 있다. 2023.03.24 /사진=임성균 기자 tjdrbs23@[최혜진 스타뉴스 기자] 솔로로 데뷔한 보이 그룹 방탄소년단(BTS) 지민이 '열일' 행보를 보이고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몬스타엑스 아이엠, 첫 솔로앨범 '듀얼리티' LP 발매]]></title>
-        <id>https://v.daum.net/v/20230330170322732</id>
-        <link href="https://v.daum.net/v/20230330170322732"/>
-        <updated>2023-03-30T08:16:40.203Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] 몬스타엑스 아이엠, 첫 솔로앨범 '듀얼리티' LP 발매 [공식] 그룹 몬스타엑스(MONSTA X) 멤버 아이엠이 첫 솔로앨범 'DUALITY(듀얼리티)'를 LP 앨범으로 선보인다. 아이엠이 2021년 2월 발표한 'DUALITY'는 독보적인 아이엠만의 세계를 엿볼 수 있는 앨범으로 겉과 속의 다음, 내면의 이중성에 대한 내용을 노래를 풀어냈다]]></content>
     </entry>
 </feed>
