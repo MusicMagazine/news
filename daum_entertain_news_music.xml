@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-03-31T19:11:13.547Z</updated>
+    <updated>2023-03-31T22:17:46.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단 진, 샤잠 '글로벌 주간 톱10 아티스트' 1위..총 19회 1위 '샤잠킹']]></title>
+        <id>https://v.daum.net/v/20230401070715416</id>
+        <link href="https://v.daum.net/v/20230401070715416"/>
+        <updated>2023-03-31T22:17:05.884Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 문완식 기자] [문완식 스타뉴스 기자] 방탄소년단(BTS) 진이 세계 최대의 음원 검색 플랫폼 샤잠(Shazam)에서 '글로벌 주간 톱10 아티스트' 1위에 오르며 '샤잠킹' 면모를 빛냈다. 진은 3월 31일 발표된 샤잠 '글로벌 주간 톱10 아티스트'(week's top 10 artists) 차트 1위에 올랐다. 진은 총 19회의 1위를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황영웅 측 "학폭 무게감에 무지, 후회+반성..활동 계획無"]]></title>
         <id>https://v.daum.net/v/20230331212456762</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230331180406665"/>
         <updated>2023-03-31T10:14:36.926Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김종은 기자] 가수 황영웅 측이 최근 불거진 여러 논란들에 대한 입장을 밝혔다. "20일부로 황영웅의 매니지먼트를 담당하게 됐다"는 더 우리엔터테인먼트는 31일 공식 입장문을 통해 황영웅의 거짓 경력 의혹, 학폭 논란, 향후 활동 계획 등에 대해 말했다. 이날 더 우리엔터테인먼트는 먼저 황영웅의 거짓 경력 의혹에 대해 해명했다. 소속사 측은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“번쩍 빛이나”…‘소년판타지’ 소년들이 꿈꾸는 ‘FANTASY’]]></title>
-        <id>https://v.daum.net/v/20230331180302647</id>
-        <link href="https://v.daum.net/v/20230331180302647"/>
-        <updated>2023-03-31T10:14:36.926Z</updated>
-        <content type="html"><![CDATA[‘소년판타지’ 소년들이 시그널 송 ‘판타지’로 꿈을 향한 여행을 노래한다. MBC ‘소년판타지-방과후 설렘 시즌2’(이하 ‘소년판타지’) 측은 31일 오후 6시 각종 음원사이트를 통해 시그널 송 ‘FANTASY’(판타지)를 발매했다. ‘FANTASY’(판타지)는 당신의 환상 속 소년들의 꿈을 향한 여행을 담은 곡이다. 화려한 오케스트라 연주로 웅장하게 시작]]></content>
     </entry>
 </feed>
