@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Apr 2023 22:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2023 23:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에이핑크 'SELF', 'Magazine' 버전 콘셉트 포토 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=256192</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=256192</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=256192">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230402075402_64481c5803d25a3b59b6a4ce22352944.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=256192">에이핑크 'SELF', 'Magazine' 버전 콘셉트 포토 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230402075402_64481c5803d25a3b59b6a4ce22352944.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["지민 파워, 슈퍼 파워"  솔로 앨범 ‘FACE’, 초동 145만장 돌파]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=256002</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=254947">카카오엔터, 글로벌 행보..  아이브(IVE), 첫 정규앨범으로 북미 진출</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230324092759_a38e72e7cbb090762c0fac524e4779f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 지민, 첫 솔로 앨범 'FACE' 전곡, 오늘 전 세계 동시 발표]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=254884</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=254884</guid>
-            <pubDate>Thu, 23 Mar 2023 23:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=254884">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230324074729_d194b2ccedbf72b81146f7c2b35f1f2f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=254884">BTS 지민, 첫 솔로 앨범 'FACE' 전곡, 오늘 전 세계 동시 발표</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230324074729_d194b2ccedbf72b81146f7c2b35f1f2f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Apr 2023 22:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2023 23:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에이핑크 'SELF', 'Magazine' 버전 콘셉트 포토 공개 (KBS연예 ─ 음악)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=256192</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=256192</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=256192">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230402075402_64481c5803d25a3b59b6a4ce22352944.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=256192">에이핑크 'SELF', 'Magazine' 버전 콘셉트 포토 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230402075402_64481c5803d25a3b59b6a4ce22352944.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["지민 파워, 슈퍼 파워"  솔로 앨범 ‘FACE’, 초동 145만장 돌파 (KBS연예 ─ 음악)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=256002</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=254947">카카오엔터, 글로벌 행보..  아이브(IVE), 첫 정규앨범으로 북미 진출</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230324092759_a38e72e7cbb090762c0fac524e4779f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 지민, 첫 솔로 앨범 'FACE' 전곡, 오늘 전 세계 동시 발표 (KBS연예 ─ 음악)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=254884</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=254884</guid>
-            <pubDate>Thu, 23 Mar 2023 23:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=254884">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230324074729_d194b2ccedbf72b81146f7c2b35f1f2f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=254884">BTS 지민, 첫 솔로 앨범 'FACE' 전곡, 오늘 전 세계 동시 발표</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230324074729_d194b2ccedbf72b81146f7c2b35f1f2f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[화보] 송강, 일본 패션 매거진 '누메로 도쿄' 특별판 커버 장식 (KBS연예 ─ 연예)]]></title>
@@ -692,7 +692,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/377876</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/377876</guid>
             <pubDate>Sat, 01 Apr 2023 10:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/377876">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/04/01/227da0ca-7961-4815-86f8-6e222395daac.jpg" alt="“도쿄에서 5년 살아” 카라 강지영, 일본 현지서 여전한 인기 과시 (배틀트립2)">        <div class="text-box">            <p class="summary">“도쿄에서 5년 살아” 카라 강지영, 일본 현지서 여전한 인기 과시 (배틀트립2)</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/377876" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/04/01/227da0ca-7961-4815-86f8-6e222395daac.jpg" alt="“도쿄에서 5년 살아” 카라 강지영, 일본 현지서 여전한 인기 과시 (배틀트립2)">        <div class="text-box">            <p class="summary">“도쿄에서 5년 살아” 카라 강지영, 일본 현지서 여전한 인기 과시 (배틀트립2)</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/04/01/227da0ca-7961-4815-86f8-6e222395daac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -700,7 +700,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/377875</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/377875</guid>
             <pubDate>Sat, 01 Apr 2023 10:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/377875">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/04/01/76827864-3020-4207-900f-ecda4403dde1.jpg" alt="청아한 레드벨벳 조이×허스키한 하동균 입 맞춘다">        <div class="text-box">            <p class="summary">청아한 레드벨벳 조이×허스키한 하동균 입 맞춘다</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/377875" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/04/01/76827864-3020-4207-900f-ecda4403dde1.jpg" alt="청아한 레드벨벳 조이×허스키한 하동균 입 맞춘다">        <div class="text-box">            <p class="summary">청아한 레드벨벳 조이×허스키한 하동균 입 맞춘다</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/04/01/76827864-3020-4207-900f-ecda4403dde1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -708,7 +708,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/377873</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/377873</guid>
             <pubDate>Sat, 01 Apr 2023 10:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/377873">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/04/01/65e4bbc3-7f3b-425b-91b7-25e85b960deb.jpg" alt="“예쁘네” 엑소 카이, 11년 ‘찐팬’에 설렘 유발 현실 남친美">        <div class="text-box">            <p class="summary">“예쁘네” 엑소 카이, 11년 ‘찐팬’에 설렘 유발 현실 남친美</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/377873" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/04/01/65e4bbc3-7f3b-425b-91b7-25e85b960deb.jpg" alt="“예쁘네” 엑소 카이, 11년 ‘찐팬’에 설렘 유발 현실 남친美">        <div class="text-box">            <p class="summary">“예쁘네” 엑소 카이, 11년 ‘찐팬’에 설렘 유발 현실 남친美</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/04/01/65e4bbc3-7f3b-425b-91b7-25e85b960deb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -716,7 +716,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/377864</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/377864</guid>
             <pubDate>Sat, 01 Apr 2023 05:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/377864">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/04/01/df6efa0b-1e09-4143-9d75-577a81b65fa5.jpg" alt="블랙핑크 지수, 신기록…첫 솔로 앨범 하루만 87만 장 판매">        <div class="text-box">            <p class="summary">블랙핑크 지수, 신기록…첫 솔로 앨범 하루만 87만 장 판매</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/377864" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/04/01/df6efa0b-1e09-4143-9d75-577a81b65fa5.jpg" alt="블랙핑크 지수, 신기록…첫 솔로 앨범 하루만 87만 장 판매">        <div class="text-box">            <p class="summary">블랙핑크 지수, 신기록…첫 솔로 앨범 하루만 87만 장 판매</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/04/01/df6efa0b-1e09-4143-9d75-577a81b65fa5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -724,7 +724,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/377860</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/377860</guid>
             <pubDate>Sat, 01 Apr 2023 05:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/377860">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/04/01/9b994607-21d4-46a3-a3e8-d20de62db5c3.jpeg" alt="방탄소년단 제이홉, 육군 현역 입대…" 별도="" 행사="" no"="" [공식입장]"="">        <div class="text-box">            <p class="summary">방탄소년단 제이홉, 육군 현역 입대…"별도 행사 NO" [공식입장]</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/377860" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/04/01/9b994607-21d4-46a3-a3e8-d20de62db5c3.jpeg" alt="방탄소년단 제이홉, 육군 현역 입대…" 별도="" 행사="" no"="" [공식입장]"="">        <div class="text-box">            <p class="summary">방탄소년단 제이홉, 육군 현역 입대…"별도 행사 NO" [공식입장]</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/04/01/9b994607-21d4-46a3-a3e8-d20de62db5c3.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -732,7 +732,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/377859</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/377859</guid>
             <pubDate>Sat, 01 Apr 2023 05:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/377859">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/04/01/0186fb52-c514-4d7a-9cf3-7eaf270db248.jpg" alt="박초롱 “날 사랑하지 않을 이유 있나?”…에이핑크, 멋스러운 비주얼 과시">        <div class="text-box">            <p class="summary">박초롱 “날 사랑하지 않을 이유 있나?”…에이핑크, 멋스러운 비주얼 과시</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/377859" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/04/01/0186fb52-c514-4d7a-9cf3-7eaf270db248.jpg" alt="박초롱 “날 사랑하지 않을 이유 있나?”…에이핑크, 멋스러운 비주얼 과시">        <div class="text-box">            <p class="summary">박초롱 “날 사랑하지 않을 이유 있나?”…에이핑크, 멋스러운 비주얼 과시</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/04/01/0186fb52-c514-4d7a-9cf3-7eaf270db248.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -740,7 +740,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/377855</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/377855</guid>
             <pubDate>Sat, 01 Apr 2023 05:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/377855">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/04/01/ff6d3cdb-22fa-42b0-9c56-c7ff7a2f547d.jpg" alt="블랙핑크 지수, 솔로곡 ‘꽃’으로 글로벌 차트 장악! 아이튠즈 57개국 ‘1위’">        <div class="text-box">            <p class="summary">블랙핑크 지수, 솔로곡 ‘꽃’으로 글로벌 차트 장악! 아이튠즈 57개국 ‘1위’</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/377855" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/04/01/ff6d3cdb-22fa-42b0-9c56-c7ff7a2f547d.jpg" alt="블랙핑크 지수, 솔로곡 ‘꽃’으로 글로벌 차트 장악! 아이튠즈 57개국 ‘1위’">        <div class="text-box">            <p class="summary">블랙핑크 지수, 솔로곡 ‘꽃’으로 글로벌 차트 장악! 아이튠즈 57개국 ‘1위’</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/04/01/ff6d3cdb-22fa-42b0-9c56-c7ff7a2f547d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -748,7 +748,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/377696</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/377696</guid>
             <pubDate>Sat, 01 Apr 2023 02:06:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/377696">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/03/31/72765c34-854e-4595-a456-4bd1750d8a1b.jpg" alt="학폭 의혹→AV배우 파티…출연자 과거 논란에 저무는 '피크타임' [이슈VS이슈]">        <div class="text-box">            <p class="summary">학폭 의혹→AV배우 파티…출연자 과거 논란에 저무는 '피크타임' [이슈VS이슈]</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/377696" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/03/31/72765c34-854e-4595-a456-4bd1750d8a1b.jpg" alt="학폭 의혹→AV배우 파티…출연자 과거 논란에 저무는 '피크타임' [이슈VS이슈]">        <div class="text-box">            <p class="summary">학폭 의혹→AV배우 파티…출연자 과거 논란에 저무는 '피크타임' [이슈VS이슈]</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/03/31/72765c34-854e-4595-a456-4bd1750d8a1b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -756,7 +756,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/377843</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/377843</guid>
             <pubDate>Sat, 01 Apr 2023 02:06:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/377843">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/04/01/83cd4005-4dc1-4c90-9e0d-12593faf8e1c.png" alt="김우석, 'Blank Page' 뮤직 썸네일 공개…미공개 사진 시선집중">        <div class="text-box">            <p class="summary">김우석, 'Blank Page' 뮤직 썸네일 공개…미공개 사진 시선집중</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/377843" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/04/01/83cd4005-4dc1-4c90-9e0d-12593faf8e1c.png" alt="김우석, 'Blank Page' 뮤직 썸네일 공개…미공개 사진 시선집중">        <div class="text-box">            <p class="summary">김우석, 'Blank Page' 뮤직 썸네일 공개…미공개 사진 시선집중</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/04/01/83cd4005-4dc1-4c90-9e0d-12593faf8e1c.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -764,7 +764,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/377832</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/377832</guid>
             <pubDate>Fri, 31 Mar 2023 15:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/377832">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/03/31/d87c24a7-bb25-48c2-ada1-ea3ca09b451a.jpg" alt="[움짤] BTS 지민, 어느 '봄날'의 박지민">        <div class="text-box">            <p class="summary">[움짤] BTS 지민, 어느 '봄날'의 박지민</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/377832" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/03/31/d87c24a7-bb25-48c2-ada1-ea3ca09b451a.jpg" alt="[움짤] BTS 지민, 어느 '봄날'의 박지민">        <div class="text-box">            <p class="summary">[움짤] BTS 지민, 어느 '봄날'의 박지민</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/03/31/d87c24a7-bb25-48c2-ada1-ea3ca09b451a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -772,8 +772,22 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/377811</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/377811</guid>
             <pubDate>Fri, 31 Mar 2023 11:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/377811">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/03/31/dc97b391-88cd-4911-8fc2-8e2cc0d62405.jpg" alt="'중소의 기적' 하이키, 프로야구 시구·시타…" 승리="" 기운="" 드릴="" 것""="">        <div class="text-box">            <p class="summary">'중소의 기적' 하이키, 프로야구 시구·시타…"승리 기운 드릴 것"</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/377811" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/03/31/dc97b391-88cd-4911-8fc2-8e2cc0d62405.jpg" alt="'중소의 기적' 하이키, 프로야구 시구·시타…" 승리="" 기운="" 드릴="" 것""="">        <div class="text-box">            <p class="summary">'중소의 기적' 하이키, 프로야구 시구·시타…"승리 기운 드릴 것"</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/03/31/dc97b391-88cd-4911-8fc2-8e2cc0d62405.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴진스, 멜론 최초 3개월 연속 1~3위 ‘싹쓸이’..역대급 음원 강자 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20230402080503091</link>
+            <guid>https://v.daum.net/v/20230402080503091</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=지민경 기자]&nbsp;뉴진스(NewJeans)가 국내 음원 시장 최대 점유율을 자랑하는 멜론에서 3개월 연속 1~3위를 싹쓸이했다. 2일 소속사 어도어(ADOR)에 따르면 뉴진스(민지, 하니, 다니엘, 해린, 혜인)의 ‘Ditto’는 2023년 3월 월간 차트 1위를 차지했다. ‘Ditto’에 이어 ‘OMG’가 2위, ‘Hype boy’는 3위를 기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[지민, 韓 솔로 첫 빌보드 ‘핫100’ 1위 역사 쓸까 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20230402080305078</link>
+            <guid>https://v.daum.net/v/20230402080305078</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 방탄소년단(BTS) 지민의 신곡이 미국 빌보드 ‘핫 100’ 1위로 핫샷 데뷔할 것으로 예측되면서 한국 솔로 가수 최고 성적을 경신할 지 주목된다. 31일(현지시간) 공개된 미국 빌보드 예측 순위에 따르면 지민의 첫 솔로 앨범 ‘페이스’(FACE) 타이틀곡 ‘라이크 크레이지’(Like Crazy)는 오는 4일 공개되는 빌보드 메인 싱글 차트 ‘핫 10]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아이브→에이핑크…봄바람과 함께 오는 걸그룹 컴백 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
@@ -867,18 +881,102 @@
             <content:encoded><![CDATA[[티브이데일리 이기은 기자] '트롯맨' 황영웅, 학폭 의혹에 대한 입장을 밝혔다. 1일 황영웅은 공식 팬카페를 통해 장문의 글을 게재했다. 앞서 황영웅은 과거 학교 폭력 의혹에 관해 이를 인정하고 사과한 바, 지난 3일 MBN 예능프로그램 '불타는 트롯맨'에서 자진 하차했다. 이후 약 한 달 만에 직접 근황을 전한 것. 이날 황영웅은 "정말 부족한 것 많은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[블랙핑크 지수 '플라워 하우스' 등장..성수동에 핀 '꽃 여신' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20230401152129373</link>
-            <guid>https://v.daum.net/v/20230401152129373</guid>
-            <pubDate>Sat, 01 Apr 2023 08:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 한해선 기자] /사진=YG엔터테인먼트/사진=YG엔터테인먼트 [한해선 스타뉴스 기자] 누가 꽃이야? 그룹 블랙핑크 멤버 지수가 솔로 출격과 함께 지난 3월 31일 서울 성수동에 마련된 '플라워 하우스'를 찾았다. 지수는 이날 성수동 'Platz S'에서 첫 솔로 앨범 'ME' 발매를 기념해 'JISOO'S FLOWER HOUSE' 팬 이벤트를]]></content:encoded>
+            <title><![CDATA[‘천하제일장사2’ 김동현vs모태범, 단 3초에 갈렸다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230402080637105</link>
+            <guid>https://v.daum.net/v/20230402080637105</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[‘천하제일장사2’가 엎치락뒤치락 하는 씨름 대결로 가늠할 수 없는 승부의 묘미를 선사했다. 1일 방송된 ‘천하제일장사2’ 2회에서는 농구팀(현주엽, 우지원, 박광재), 축구팀(송종국, 김용대, 백지훈), 격투팀(김동현, 명현만, 정다운), 피지컬팀(조진형, 마선호, 김경진), 레슬링팀(남경진, 황도현, 김형원), 동계팀(모태범, 서영우, 강한) 등 6]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 제이홉, 4월 현역 입대.."따뜻한 격려 부탁" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20230401145954998</link>
-            <guid>https://v.daum.net/v/20230401145954998</guid>
-            <pubDate>Sat, 01 Apr 2023 06:20:57 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 안윤지 기자] 그룹 방탄소년단(BTS) 제이홉 /사진=김창현 기자 chmt@[안윤지 스타뉴스 기자] 그룹 방탄소년단 멤버 제이홉이 진에 이어 두 번째로 입대한다. 소속사 빅히트 뮤직은 1일 공식 팬 커뮤니티 위버스를 통해 "제이홉은 병역의무의 이행을 위해 육군 현역병으로 입대할 예정"이라고 밝혔다. 제이홉의 입대 날짜가 정확하게 알려지지는]]></content:encoded>
+            <title><![CDATA['오페라의 유령', 조승우와 클래식의 성공적인 만남 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230402080207070</link>
+            <guid>https://v.daum.net/v/20230402080207070</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[[부산=티브이데일리 황서연 기자] 13년 만의 기다림이 끝났다. 마침내 한국어로 노래하는 유령을 만나게 된 한국 관객들의 설렘이 인산인해를 이룬 극장 로비에서부터 느껴졌다. 새로운 도전에 나선 조승우는 뮤지컬계 고전으로 손꼽히는 '오페라의 유령'을 만나 또 한 번 배우로서의 진가를 입증했다. 세계 4대 뮤지컬로 꼽히는 '오페라의 유령'은 19세기 파리 오페]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[세상이 온통 "임지연♥이도현"…'더글로리' 과몰입 깨부순 '현실 커플' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230402080014013</link>
+            <guid>https://v.daum.net/v/20230402080014013</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김예나 기자) '더 글로리'에서 문동은(송혜교)의 복수를 돕겠다며 망나니를 자처하더니, 현실은 복수의 대상과 사랑을 키웠다. 이제 우리 모두 '더 글로리' 세계관 과몰입에서 깨야할 때다.&nbsp; 배우 임지연과 이도현이 지난 1일 공개 열애 중임을 밝혔다. 넷플릭스 오리지널 '더 글로리'로 인연을 맺어 사랑을 키웠다는 것. 배우들끼리 함께한 워크샵과]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[군인이 된 고3 학생들의 처절한 사투…'방과 후 전쟁활동' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230402080011009</link>
+            <guid>https://v.daum.net/v/20230402080011009</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 오명언 기자 = 미동도 없이 상공에 떠 있는 보라색 미확인 구체가 전 세계로 퍼진 지 벌써 1년. 금세 그 존재에 익숙해진 시민들은 평소와 다를 바 없는 일상을 이어가지만, 구체 하나가 지상으로 추락하면서부터 상황은 급격하게 변한다. 한 개의 구체에서 분열된 세포는 사단 하나를 전멸시킬 만큼 치명적인데, 고개를 들었을 때 시야에 보이는]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['서진이네' 박서준 입덕예능…만능 박부장의 매력 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230402080008007</link>
+            <guid>https://v.daum.net/v/20230402080008007</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 윤효정 기자 = 배우 박서준이 '서진이네'의 컨트롤타워 박부장으로 맹활약하며 시청자들의 시선을 집중시키고 있다. 지난 2월24일 시작해 매주 금요일 시청자와 만나고 있는 tvN 예능 프로그램 '서진이네'는 '윤식당' 이사에서 사장으로 승진한 이서진을 중심으로 멕시코에서 한국의 분식 식당을 차리고 운영하는 과정을 담은 프로그램. '윤식당]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[황제성·이수지, 폼 미쳤다…'천의 얼굴'로 맞은 전성기 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230402080005000</link>
+            <guid>https://v.daum.net/v/20230402080005000</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=정서희 기자] 변신의 귀재 코미디언 황제성과 이수지가 정신을 쏙 빼놓는 패러디로 전성기를 맞았다. 최근 황제성과 이수지가 미친 모사력으로 '얼굴 천재'라 불리며 방송가와 온라인상을 장악하고 있다. 황제성은 팝스타 샘 스미스 '언 홀리' 커버를 자신의 소셜미디어 계정에 공개하며 뜨거운 반응을 이끌어냈다. 누적 조회 수 2000만 회를 넘]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[장항준, 시드머니식 교육법 "학원 안 보내고 딸 통장에 입금" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230402080002991</link>
+            <guid>https://v.daum.net/v/20230402080002991</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 송오정 기자] 영화감독 장항준이 '시드머니식' 딸 교육법을 공개했다. 1일 방송된 MBC '전지적 참견 시점'(이하 '전참시')에서는 장항준이 딸을 학원에 보내지 않은 이유를 밝혔다. 장항준 감독과 김은희 작가의 유전자를 그대로 물려받은 딸 윤서 양은 청소년문학상에서 수상할 정도로 벌써 글쓰기에 두각을 나타내 모두의 감탄을 자아냈다. 이에 감]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['장사천재 백사장' 오늘 첫 방송…백종원의 세계 밥장사 도전기 '관전 포인트3' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230402075524955</link>
+            <guid>https://v.daum.net/v/20230402075524955</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠한국 조은애 기자] '장사천재 백사장'이 드디어 오늘(2일) 베일을 벗는다. tvN '장사천재 백사장'(연출 이우형)은 대한민국 최고의 외식 경영 전문가 백종원이 한식 불모지에서 직접 창업부터 운영까지 나서는 일명 '백종원의 세계 밥장사 도전기'다. 경력직 특급 신입 백종원의 좌충우돌 해외 창업기가 큰 기대를 모으고 있는 가운데, 첫 방송]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['모범택시2' 이제훈, 브레이크 없는 흥행 자체 최고 19.4% (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230402075312941</link>
+            <guid>https://v.daum.net/v/20230402075312941</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:30 GMT</pubDate>
+            <content:encoded><![CDATA['모범택시2' 이제훈이 범죄 소굴 클럽 '블랙썬'을 둘러싼 의문사의 존재를 알고 복수 대행에 착수했다. 지난 1일 방송된 SBS 금토극 '모범택시2' 12화에는 이제훈(김도기)이 신재하(온하준)와 관련성이 의심되는 클럽 '블랙썬'의 실체를 면밀히 파헤치기 위해 가드 신분으로 위장 취업, 화려한 조명 뒤에 가려져 있던 추악한 범죄들을 목격하는 모습이 그려]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['오페라의 유령'은 왜 부산으로 먼저 갔을까 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230402074007862</link>
+            <guid>https://v.daum.net/v/20230402074007862</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=부산, 장진리 기자] 13년 만에 한국어 공연으로 귀환한 뮤지컬 ‘오페라의 유령’이 서울에 앞서 부산에 상륙했다. ‘오페라의 유령’은 지난달 30일 부산 남구 문현동 드림씨어터에서 개막해 오는 6월 18일까지 관객을 만난다. 이 작품은 19세기 파리 오페라 하우스를 배경으로 얼굴을 마스크로 가린 채 오페라 하우스 지하에 숨어 사는 천재]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[정경호, ♥최수영 챙기는 다정 스윗남…데이트도 일타강사 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230402072352771</link>
+            <guid>https://v.daum.net/v/20230402072352771</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=장우영 기자] 배우 정경호가 스윗함이 느껴지는 남친짤로 핑크빛 설렘을 선사했다. 1일 정경호는 여러 이모티콘과 함께 일상을 담아 팬들에게 보였다. 정경호는 ‘일타스캔들’ 이후 바빴던 촬영장에서 벗어나 평온하면서도 자유로운 일상을 보내고 있다. 여행을 떠난 듯한 정경호는 저녁 식사를 즐기면서도 내추럴한 비주얼로 보는 이들의 심장을 저격했다. 특]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['그알' 백 경사 피살사건…단숨에 제압하고 총기 탈취한 진범은 '대전 은행강도 살인사건'의 범인? (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230402071801735</link>
+            <guid>https://v.daum.net/v/20230402071801735</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS연예뉴스 | 김효정 에디터] 21년 만에 찾아낸 백 경사의 총기, 그 날의 진실은? 1일 방송된 SBS '그것이 알고싶다'(이하 '그알')에서는 '총잡이와 칼잡이 - 전주 백 경사 피살사건'라는 부제로 백 경사 피살사건과 대전 은행강도 살인 사건의 진범 이승만, 이정학을 조명했다. 지난 2002년 9월 20일, 전주의 금암 2 파출소에서는 끔찍한 일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['This is Jung Kook' 방탄소년단 정국, 마성의 핫가이 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230402071620728</link>
+            <guid>https://v.daum.net/v/20230402071620728</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 문완식 기자] 방탄소년단(BTS) 정국이 마성의 매력으로 전 세계 팬들을 사로잡았다. 최근 미국 패션 브랜드 캘빈클라인은 공식 유튜브 및 소셜미디어를 통해 'On set with Jung Kook'이라는 제목으로 정국의 촬영 장면이 담긴 영상을 공개했다. 정국은 청청 데님 의상에 펌을 넣은 장발로 등장해 스윗한 미소와 함께 'This is]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[임지연, ♥이도현 열애인정 첫 극장 나들이..'리바운드' 시사 참석 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230402071219707</link>
+            <guid>https://v.daum.net/v/20230402071219707</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=하수정 기자] '사랑에 빠진' 배우 임지연이 열애 인정 이후 처음으로 VIP 시사회에 참석한다. 내일(3일) 열리는 영화 '리바운드' 시사회에 참석할 예정이다. 2일 OSEN 취재에 따르면, 임지연은 오는 3일 오후 서울 CGV 용산아이파크몰에서 진행되는 농구영화 '리바운드'의 VIP 시사회에 참석한다. '리바운드'는 임지연의 전작 '장미맨션]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['진짜가 나타났다!' 백진희ㆍ안재현, 살벌한 신경전 "아는 척 안 할 것" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
@@ -888,102 +986,11 @@
             <content:encoded><![CDATA[[티브이데일리 최하나 기자] ‘진짜가 나타났다!’ 백진희와 안재현이 서로를 오해했다. 1일 저녁 방송된 KBS2 주말드라마 ‘진짜가 나타났다!’(극본 조정주·연출 한준서) 3회에서는 이인옥(차화연)이 가출한 뒤 우연히 오연두(백진희)와 술을 마시게 됐다. 공태경은 술을 못 마시는 이인옥이 인사불성일 정도로 술에 취한 것을 보고 분노했다. 또한 공태경은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['한국인의 식판' 황희찬, 어머니와 등장 "영국에서 급식이라니" 감격 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230402070103624</link>
-            <guid>https://v.daum.net/v/20230402070103624</guid>
-            <pubDate>Sat, 01 Apr 2023 22:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 송오정 기자] 축구선수 황희찬의 어머니가 모습을 드러냈다. 1일 방송된 JTBC '한국인의 식판'에서는 황희찬이 소속된 울버햄튼FC를 위한 급식 두 번째 이야기가 전해졌다. 울버햄튼FC 유소년 및 선수들 그리고 구단 회장, 총괄셰프 등의 K-급식에 호평이 쏟아지는 가운데, 드디어 급식을 의뢰한 황희찬이 모습을 드러냈다. 배식받으며 황희찬은 "]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['아는형님' 형원, 민혁과 몸싸움? "상처주는 말에 몸 날라가" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230402070045614</link>
-            <guid>https://v.daum.net/v/20230402070045614</guid>
-            <pubDate>Sat, 01 Apr 2023 22:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 황미현 기자 = 몬스타엑스 형원이 민혁에게 달려든 적이 있다고 밝혔다. 1일 오후 8시50분 방송된 JTBC '아는형님'에는 몬스타엑스의 민혁, 주헌, 형원, 아이엠, 기현이 게스트로 출연했다. 이날 형원은 민혁과 싸운 적이 있다는 이야기를 꺼냈다. 이에 민혁은 "난 기억이 나지 않는다"며 의아해했다. 이에 형원은 "잠을 가지고 이야]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['놀뭐' 주주 시크릿, 위문 열차 등장…장병들 반응 어땠나 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230402070027602</link>
-            <guid>https://v.daum.net/v/20230402070027602</guid>
-            <pubDate>Sat, 01 Apr 2023 22:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 황미현 기자 = 주주 시크릿이 위문 열차에 등장, 장병들을 설레게 만들었다. 지난 1일 오후 6시25분 방송된 MBC '놀면 뭐하니?'에는 원탑과 주주 시크릿의 행사 모습이 담겼다. 이날 원탑과 주주 시크릿은 한 공군 부대에 위문열차 무대에 오르게 됐다. 원탑에 앞서 주주 시크릿이 먼저 장병들 앞에 서게 됐다. 화면에 주주 시크릿의]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[그리 “연애할 때 거짓말 절대 하지 말아야” (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230402070008568</link>
-            <guid>https://v.daum.net/v/20230402070008568</guid>
-            <pubDate>Sat, 01 Apr 2023 22:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 그리가 자신의 연애 스타일을 전했다. KBS 2TV ‘이별도 리콜이 되나요?’(약칭 ‘이별 리콜’)는 20대 MZ세대의 화끈하고, 때로는 바짓가랑이라도 잡고 싶어하는 절실한 사랑과 연애 이야기를 그렸다. 리콜 플래너 그리는 ‘이별 리콜’ 속 유일한 20대로 성유리, 양세형, 장영란이 놓치는 부분을 예리하게 잡아내며 자신의 역할을 톡톡히 해내]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이솔로몬, 1일 삼성 라이온즈 홈경기 초청 애국가 제창 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230402065714554</link>
-            <guid>https://v.daum.net/v/20230402065714554</guid>
-            <pubDate>Sat, 01 Apr 2023 22:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김수진 기자] 이솔로몬/사진제공=삼성 라이온즈 [김수진 스타뉴스 기자] 이솔로몬이 야구장에서 빛나는 존재감을 드러냈다. 이솔로몬은 프로야구 2023시즌이 개막한 1일 대구 삼성라이온즈파크에서 개최된 삼성 라이온즈와 NC 다이노스의 경기에 앞서 애국가를 제창했다. 관계자에 따르면 이날 이솔로몬은 특유의 힘 있고 묵직한 보이스로 애국가를 제창하]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이다은 "리은이 돌 때쯤 이혼해, '언어 발달' 신경 못썼다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230402063759448</link>
-            <guid>https://v.daum.net/v/20230402063759448</guid>
-            <pubDate>Sat, 01 Apr 2023 22:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선닷컴 김준석 기자] 이다은이 딸 리은이에게 미안한 마음을 밝혔다. 지난 1일 방송된 KBS 2TV '살림하는 남자들 시즌2'(이하 '살림남2')에서는 아이 생각에 자책하는 이다은의 모습이 그려졌다. 이날 윤남기는 아침 일찍 도시락을 준비했다. 이에 이다은은 "내가 요리 못하는게 진짜 괜찮아?"라고 조심스럽게 물었다. 윤남기는 "진짜]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['신성한 이혼' 한혜진, 세상 편견 딛고 성장할까 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230402063206406</link>
-            <guid>https://v.daum.net/v/20230402063206406</guid>
-            <pubDate>Sat, 01 Apr 2023 22:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] ‘신성한, 이혼’ 이혼 스캔들로 세상의 시선에 숨기 바빴던 한혜진이 달라졌다. 아들과 그리고 자신을 위해 맞서겠다 다짐하고 나섰다. 1일 밤 방송된 JTBC 새 토일드라마 ‘신성한, 이혼'(극본 유영아ㆍ연출 이재훈) 9회에서는 이서진(한혜진)이 이혼 스캔들로 인한 구설수로 힘들어하는 모습이 그려졌다. 이날 이서진은 재활용 쓰]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[지연, ♥황재균 사로잡은 매력?.."내조도 필요 없다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230402063152401</link>
-            <guid>https://v.daum.net/v/20230402063152401</guid>
-            <pubDate>Sat, 01 Apr 2023 22:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조윤선 기자] 티아라 출신 지연이 야구선수인 남편 황재균을 사로잡은 매력이 공개됐다. 1일 기안84의 유튜브 채널 '인생84'에는 '유부남 황재균 선수와의 만남'이라는 제목으로 영상이 게재됐다. 기안84는 황재균과 만나 "결혼식 후 처음 본다"며 반가움을 드러냈다. 그러면서 "결혼식에 천 명이 넘게 왔는데 그 사람들 한 명 한 명]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[조현아 "수지=여자 최수종…집 데려다주고 아플 때 집 청소까지" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230402063005378</link>
-            <guid>https://v.daum.net/v/20230402063005378</guid>
-            <pubDate>Sat, 01 Apr 2023 22:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=정혜원 기자] 그룹 어반자카파 조현아가 가수 겸 배우 수지를 '여자 최수종'이라고 불렀다. 최근 유튜브 채널 '조현아의 목요일 밤'에는 '술 마시고 노래하고 예쁘고 귀엽고 웃기고 그 어려운 걸 수지가 해냅니다'라는 제목의 영상이 게재됐다. 조현아와 수지는 서로 "예쁘다"라고 말하며 인사했다. 두 사람은 "우리는 평소에 레몬을 먹으면 얼]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[분노·결핍·혼돈…조승우의 ‘유령’ (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230402060203103</link>
-            <guid>https://v.daum.net/v/20230402060203103</guid>
-            <pubDate>Sat, 01 Apr 2023 21:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[배우 조승우는 20대 초반 뮤지컬 ‘오페라의 유령’ 오디션을 봐 라울 역에 합격했지만 정작 무대에 오르지는 못했다. 공연 제작사 신입직원이 실수로 오디션 결과를 반대로 전한 탓이었다. 조승우는 뮤지컬 대신 영화 ‘후아유’(감독 최호)에 출연했다. 그 후 20여년. 충무로 흥행 왕으로 자리매김한 그가 마침내 ‘오페라의 유령’ 무대에 섰다. 이번엔 라울이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[거북이 터틀맨, 오늘 15주기…여전히 그리운 목소리 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230402060006010</link>
-            <guid>https://v.daum.net/v/20230402060006010</guid>
-            <pubDate>Sat, 01 Apr 2023 21:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 혼성그룹 거북이 리더 고(故) 터틀맨(본명 임성훈)이 세상을 떠난 지 15년이 흘렀다. 터틀맨은 2008년 4월 2일 자택에서 급성 심근경색으로 세상을 떠났다. 향년 38세. 고인은 사망 후 경기도 안성에 위치한 한 추모관에 안치됐다. 터틀맨은 2001년 거북이 1집 앨범 'Go! Boogi!'(고! 부기!)로 가요계 데뷔했다. 이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['전참시' 풍자, '자존감 지킴이' 절친 김대영과 훈훈한 우정 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230402051003781</link>
-            <guid>https://v.daum.net/v/20230402051003781</guid>
-            <pubDate>Sat, 01 Apr 2023 21:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 이아영 기자 = 풍자가 김대영과의 훈훈한 우정을 자랑했다. 1일 방송된 MBC '전지적 참견 시점'에서는 풍자와 메이크업 아티스트 김대영의 참견 영상이 공개됐다. 풍자의 메이크업 아티스트 김대영은 "스태프와 아티스트 사이가 아니라 제일 잘 맞는 친구다"고 말했다. 김대영은 풍자는 물론 이영자와 제시의 메이크업도 담당하고 있어서 '전지적]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['살림남' 현진영, 용돈 인상 협상 실패→저금통 털다 발각 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230402045003730</link>
-            <guid>https://v.daum.net/v/20230402045003730</guid>
-            <pubDate>Sat, 01 Apr 2023 21:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 이아영 기자 = 현진영이 아내로부터 용돈을 받아 생활하는 이유를 밝혔다. 1일 방송된 KBS 2TV '살림하는 남자들'에서는 현진영이 아내 오서운에게 용돈을 올려달라고 했다. 현진영과 오서운은 반려견들과 반려견 카페에 갔다. 반려견을 아끼는 현진영은 강아지들에게도 강아지용 라테를 주문해 줬다. 재밌게 놀고 집에 돌아가려는데 현진영과 오서]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[현빈♥︎손예진·이도현♥︎임지연, 드라마 찍다가 눈 맞은 커플들 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230402042823718</link>
-            <guid>https://v.daum.net/v/20230402042823718</guid>
-            <pubDate>Sat, 01 Apr 2023 21:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김채연 기자] 오랜만에 배우 커플이 탄생했다. 넷플릭스 ‘더 글로리’에서 함께 호흡을 맞춘 배우 이도현과 임지연이 조심스럽게 열애를 인정했다. 1일 한 매체에서 임지연과 이도현이 열애 중이라고 보도한 가운데 임지연의 소속사 아티스트컴퍼니 측은 이날 OSEN에 “두 사람은 친한 선후배 사이에서 좋은 감정을 가지고 조심스럽게 알아가고 있는 단계입니]]></content:encoded>
+            <title><![CDATA[졸리, 피트와 이혼 후 두 번의 열애설 상대는? "서서히 되살아나고 있다" (다음 연예 ─ 뉴스 ─ 해외)]]></title>
+            <link>https://v.daum.net/v/20230402074518892</link>
+            <guid>https://v.daum.net/v/20230402074518892</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자] 배우 안젤리나 졸리가 최근 데이트 소문에 휩싸여 눈길을 끄는 가운데 배우 브래드 피트와 이혼 후 그의 열애 관련 사생활이 다시한 번 주목받고 있다. 지난 주, 페이지 식스는 졸리가 미국 캘리포니아 말리부에 있는 유명 레스토랑&nbsp;노부에서 로스차일드 은행 가문의&nbsp;훈남&nbsp;막내 상속자인 데이비드 메이어 드 로스차일드와 함께 3시간 동안 점]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[리즈 위더스푼, 이혼 1주일만에 톰 브래디와?..열애설 1도 신경 안써 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
@@ -1026,6 +1033,48 @@
             <guid>https://v.daum.net/v/20230401084933232</guid>
             <pubDate>Sat, 01 Apr 2023 02:07:07 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]할리우드 배우 레오나르도 디카프리오(48)는 25살 이하 여성과 열애를 즐기는 것으로 유명하다. 오죽하면 ‘25살 법칙’이라는 말까지 나왔을까. 데일리메일은 3월 31일(현지시간) 디카프리오가 최근까지 만난 25살 이하 여성과 즐겼던 데이트 타임라인을 정리했다. ‘타이타닉’ 개봉 2년 후, 당시 24살이었단 디카프리오는 당]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뉴진스, 멜론 최초 3개월 연속 1~3위 '싹쓸이' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003141022</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003141022</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[걸그룹 뉴진스(NewJeans)가 국내 최대 음원 플랫폼 멜론에서 3개월 연속 1~3위를 싹쓸이했다. 2일 소속사 어도어(ADOR)에 따르면 뉴진스(민지, 하니, 다니엘, 해린, 혜인)의 'Ditto'는 2023년]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뉴진스, 멜론 최초 3개월 연속 1~3위 ‘싹쓸이’..역대급 음원 강자 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004820098</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004820098</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[뉴진스(NewJeans)가 국내 음원 시장 최대 점유율을 자랑하는 멜론에서 3개월 연속 1~3위를 싹쓸이했다. 2일 소속사 어도어(ADOR)에 따르면 뉴진스(민지, 하니, 다니엘, 해린, 혜인)의 ‘Ditto’는 2]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[싸이커스, 에이티즈 동생 그룹이 왔다 'ROCKSTAR" 무대 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003714200</link>
+            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003714200</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 싸이커스(xikers - 헌터, 진식, 현우, 수민, 민재, 유준, 준민, 예찬, 정훈, 세은)가 29일 오후 서울 상암동 SBS 프리즘타워에서 진행된 미니 1집 '하우스 오브 트리키 : 도어벨 링잉(HOUSE]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[에이핑크 'SELF', 'Magazine' 버전 콘셉트 포토 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=438&amp;aid=0000054611</link>
+            <guid>https://entertain.naver.com/now/read?oid=438&amp;aid=0000054611</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[걸그룹 에이핑크(Apink)가 컴백 전 3차 콘셉트 포토로 압도적 카리스마를 발산했다. IST엔터테인먼트 측은 에이핑크 공식 SNS 채널을 통해 열 번째 미니앨범 ‘SELF(셀프)’의 ‘Magazine(매거진)’ 버]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이자연→강혜연, 2일 충북 옥천서 '2023 찾아가는 전국민 희망콘서트' 출 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001576123</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001576123</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 충북 옥천서 '2023 찾아가는 전 국민 희망콘서트'가 개최된다. 대한가수협회(회장 이자연)는 '2023 찾아가는 전국민 희망콘서트' 첫 공연이 4월 2일 오후 4시 충북 옥천묘목공원 메인 무대에서 개최된다고]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[유진-바다-조권, 튀르키예·시리아 지진 피해 어린이 돕기 바자회 나서 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001576122</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001576122</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[유진, 바다, 조권이 튀르키예·시리아 지진 피해 어린이 돕기에 나선다. 유니세프한국위원회는 4월 8일 바다, 유진, 조권 등과 함께 1유로프로젝트에서 '튀르키예·시리아 지진피해 어린이 돕기' 그린하트 바자회를 개최한]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[에이티즈-선미부터 오마이걸-뱀뱀까지…카타르 최초 K-POP 페스티벌 라인업 '눈길' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
@@ -1161,46 +1210,109 @@
             <content:encoded><![CDATA[블랙핑크 지수가 낸 첫 번째 솔로 앨범 ‘미’(ME)가 발매 첫날 87만 장이 팔리며 K-팝 여성 솔로 가수 중 단일 음반 판매량 최고 기록을 세웠다. 1일 소속사 YG엔터테인먼트에 따르면 전날 오후 1시에 공개된]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[BTS 제이홉, 육군 현역으로 입대…입대일은 비공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=021&amp;aid=0002564459</link>
-            <guid>https://entertain.naver.com/now/read?oid=021&amp;aid=0002564459</guid>
-            <pubDate>Sat, 01 Apr 2023 09:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 방탄소년단(BTS)의 제이홉이 육군 현역으로 입대한다. 1일 소속사 빅히트뮤직은 글로벌 팬 커뮤니티 위버스를 통해 "제이홉은 병역 의무의 이행을 위해 육군 현역병으로 입대할 예정"이라고 공지했다. 그러나 제이홉]]></content:encoded>
+            <title><![CDATA[이솔로몬, 삼성 라이온즈 VS NC 다이노스 개막식 애국가 제창 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0005110292</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0005110292</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[국민가수 이솔로몬이 야구장에서 빛나는 존재감을 선보였다. 이솔로몬은 프로야구 2023시즌이 개막한 1일 대구 삼성라이온즈파크에서 개최된 삼성 라이온즈와 NC 다이노스의 경기에 앞서 애국가를 제창했다. 이날 이솔로몬은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[청아한 레드벨벳 조이×허스키한 하동균 입 맞춘다 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=408&amp;aid=0000184616</link>
-            <guid>https://entertain.naver.com/now/read?oid=408&amp;aid=0000184616</guid>
-            <pubDate>Sat, 01 Apr 2023 09:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[가수 하동균과 레드벨벳 조이가 함께 하모니를 선보인다. 1일 PJ 엔터테인먼트는 “히트곡 프로듀서 K.imazine이 새로운 웰메이드 앨범 프로젝트 ’K.Ballad Signature project’를 론칭한다. 이]]></content:encoded>
+            <title><![CDATA[지민, 韓 솔로 첫 빌보드 ‘핫100’ 1위 역사 쓸까[MK뮤직] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0005110289</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0005110289</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 방탄소년단(BTS) 지민의 신곡이 미국 빌보드 ‘핫 100’ 1위로 핫샷 데뷔할 것으로 예측되면서 한국 솔로 가수 최고 성적을 경신할 지 주목된다. 31일(현지시간) 공개된 미국 빌보드 예측 순위에 따르면 지민]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[트렌드지, 강남 버스킹 ‘글로벌 팬 사로잡다’ (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000877323</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000877323</guid>
-            <pubDate>Sat, 01 Apr 2023 09:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 트렌드지(TRENDZ)가 깜짝 버스킹 공연으로 대중들을 만났다. 트렌드지(하빛, 리온, 윤우, 한국, 라엘, 은일, 예찬)는 1일 오후 4시 서울 강남구에 있는 강남스퀘어에서 버스킹 공연을 진행했다. 이날 ‘베]]></content:encoded>
+            <title><![CDATA[마마무 화사, 상의는 어디로?…신이 내린 완벽 S라인 [M+★SNS] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001732784</link>
+            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001732784</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[마마무 화사가 완벽한 몸매를 뽐냈다. 화사는 1일 자신의 인스타그램에 “우리 평생 재밌게 살자”이라는 글과 함께 사진을 올렸다. 공개된 사진에는 화사가 상의는 아무것도 걸치지 않은 채 카메라 앞에 선 모습이 담겨 있]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['컴백' 케플러, 고양이 캐릭터 케냥이 깜짝 공개..행운 부적 선물 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004819876</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004819876</guid>
-            <pubDate>Sat, 01 Apr 2023 09:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 케플러(Kep1er)가 캐릭터 '케냥이(KE NYANG-E)'를 깜짝 공개했다. 케플러(최유진, 샤오팅, 마시로, 김채현, 김다연, 히카루, 휴닝바히에, 서영은, 강예서)는 1일 0시에 공식 SNS를 통해 공식]]></content:encoded>
+            <title><![CDATA['조선변호사' 우도환 복수 이제부터가 진짜 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000337727</link>
+            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000337727</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:52 GMT</pubDate>
+            <content:encoded><![CDATA['조선변호사' 우도환이 반전에 반전을 거듭했다. 지난 1일 방송된 MBC 금토극 '조선변호사' 2회에는 우도환(강한수)의 처참했던 어린 시절 이야기와 복수를 결심하게 된 이유가 드러났다. 앞서 한양에 정착한 외지부]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[믿고 듣는 '톱100귀' 유재석… 주주 시크릿, 차트 상승세 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=018&amp;aid=0005454215</link>
-            <guid>https://entertain.naver.com/now/read?oid=018&amp;aid=0005454215</guid>
-            <pubDate>Sat, 01 Apr 2023 09:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[‘놀면 뭐하니?’ 주주 시크릿(박진주·이미주)이 톱100귀 유재석의 바람대로 날고 있다. MBC 예능 ‘놀면 뭐하니?’의 프로젝트 그룹 주주 시크릿의 데뷔곡 ‘밤이 무서워요’가 뜨거운 반응을 얻고 있다. 주주 시크릿]]></content:encoded>
+            <title><![CDATA[황제성·이수지, 폼 미쳤다…'천의 얼굴'로 맞은 전성기[초점S] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000419997</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000419997</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[변신의 귀재 코미디언 황제성과 이수지가 정신을 쏙 빼놓는 패러디로 전성기를 맞았다. 최근 황제성과 이수지가 미친 모사력으로 '얼굴 천재'라 불리며 방송가와 온라인상을 장악하고 있다. 황제성은 팝스타 샘 스미스 '언]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이솔로몬, KBO 리그 개막전 삼성-NC전 애국가 제창 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000877321</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000877321</guid>
-            <pubDate>Sat, 01 Apr 2023 09:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[가수 이솔로몬이 야구장에서 존재감을 발산했다. 이솔로몬은 프로야구 KBO 리그 2023년 시즌이 개막한 1일 대구 삼성라이온즈파크에서 열린 삼성과 NC의 경기에 앞서 애국가를 불렀다. 이솔로몬은 특유의 힘 있고 묵직]]></content:encoded>
+            <title><![CDATA[[Y랭킹] 패션 베스트 블랙핑크 리사 VS 워스트 김다미 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001868101</link>
+            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001868101</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[Y랭킹 코너는 YTN star의 기자들이 지난 한 주간 스타들의 패션을 살펴보고 투표를 통해 순위를 정한다. 이번 주에는 날씨가 완연한 봄으로 접어들면서 화사해진 스타들의 패션을 보는 재미가 한 층 더 커졌다. 그중]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[군인이 된 고3 학생들의 처절한 사투…'방과 후 전쟁활동' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013853502</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013853502</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[원작과 다른 오락적 재미…무너진 개연성은 아쉽단 반응 미동도 없이 상공에 떠 있는 보라색 미확인 구체가 전 세계로 퍼진 지 벌써 1년. 금세 그 존재에 익숙해진 시민들은 평소와 다를 바 없는 일상을 이어가지만, 구체]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['서진이네' 박서준 입덕예능…만능 박부장의 매력 [N초점] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006721262</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006721262</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[배우 박서준이 '서진이네'의 컨트롤타워 박부장으로 맹활약하며 시청자들의 시선을 집중시키고 있다. 지난 2월24일 시작해 매주 금요일 시청자와 만나고 있는 tvN 예능 프로그램 '서진이네'는 '윤식당' 이사에서 사장으]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['모범택시2' 이제훈, 브레이크 없는 흥행 자체 최고 19.4% (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000337726</link>
+            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000337726</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:52 GMT</pubDate>
+            <content:encoded><![CDATA['모범택시2' 이제훈이 범죄 소굴 클럽 '블랙썬'을 둘러싼 의문사의 존재를 알고 복수 대행에 착수했다. 지난 1일 방송된 SBS 금토극 '모범택시2' 12화에는 이제훈(김도기)이 신재하(온하준)와 관련성이 의심되는]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[최준희, ♥남친과 진한 키스 1초전..부산 교복데이트 '달달' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003141017</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003141017</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[고 최진실 딸 최준희가 남자친구와의 부산 교복 데이트 순간을 간직했다. 최준희는 최근 공개한 스틸 영상에서 남자친구와 교복을 입고 함께 찍은 사진들을 나열했다. 최준희는 사진과 함께 "너의 하늘이 아닌 우리의 바다"]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['오페라의 유령'은 왜 부산으로 먼저 갔을까 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000419994</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000419994</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[13년 만에 한국어 공연으로 귀환한 뮤지컬 '오페라의 유령'이 서울에 앞서 부산에 상륙했다. '오페라의 유령'은 지난달 30일 부산 남구 문현동 드림씨어터에서 개막해 오는 6월 18일까지 관객을 만난다. 이 작품은]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['더 글로리' 염혜란 "현남이는 하와이에 가고 싶을 것…많이 웃고 행복하자" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000419991</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000419991</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[배우 염혜란이 '더 글로리' 속 자신의 캐릭터 강현남에게 영상 편지를 남겼다. 최근 소속사 에이스팩토리는 공식 유튜브 채널과 포스트를 통해 염혜란의 화보 촬영 현장을 공개했다. 비하인드 영상에서 염혜란은 '더 글로리]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[박수홍♥김다예, 벚꽃놀이 즐겼네…이찬원과도 찰칵 [똑똑SNS] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000929772</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000929772</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[박수홍, 김다예 부부가 봄을 만끽했다. 박수홍 아내 김다예는 1일 자신의 인스타그램에 “남편이랑 결혼식 다녀오는 길에 벚꽃 앞에서 한 장”이라는 글을 게재했다. 이어 “오늘 날씨가 따뜻하고 좋네요”라고 덧붙였다. 이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['벌써 팔로워 86만' 박보검, 더블랙레이블 대표·임원 총출동 '훈훈' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003141013</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003141013</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[배우 박보검이 자신의 새 소속사 더블랙레이블로부터 남다른 지원을 받고 있음을 자랑했다. 박보검은 1일 "맛있게 잘 먹었습니다! 감사합니다♥"라는 글과 함께 자신이 합류한 새 드라마 촬영장에 밥차와 커피차를 선물해준]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['This is Jung Kook' 방탄소년단 정국, 마성의 핫가이 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003141011</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003141011</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[방탄소년단(BTS) 정국이 마성의 매력으로 전 세계 팬들을 사로잡았다. 최근 미국 패션 브랜드 캘빈클라인은 공식 유튜브 및 소셜미디어를 통해 'On set with Jung Kook'이라는 제목으로 정국의 촬영 장면]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['오페라의 유령' 조승우 "내 옷 아닌가 지치기도…절실한 마음으로 첫발" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
@@ -1273,109 +1385,18 @@
             <content:encoded><![CDATA[가수 정동원이 도로교통법을 위반한 지 얼마 되지 않아 활동 재개를 알렸다. 지난달 30일 정동원은 MBN '불타는 트롯맨', TV조선 '우리 이혼했어요2' 등을 연출한 서혜진 PD의 새 예능프로그램 '지구탐구생활'에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이다은 "리은이 돌 때쯤 이혼해, '언어 발달' 신경 못썼다" ('살림남2')[SC리뷰] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003989455</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003989455</guid>
-            <pubDate>Sat, 01 Apr 2023 22:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[이다은이 딸 리은이에게 미안한 마음을 밝혔다. 지난 1일 방송된 KBS 2TV '살림하는 남자들 시즌2'(이하 '살림남2')에서는 아이 생각에 자책하는 이다은의 모습이 그려졌다. 이날 윤남기는 아침 일찍 도시락을 준]]></content:encoded>
+            <title><![CDATA[[할리웃POP]러셀 크로우, 디카프리오 여성 취향 공개 조롱 '25세 이하, 금발 모델' (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003623297</link>
+            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003623297</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[러셀 크로우가 디카프리오의 여성 취향을 공개적으로 조롱했다. 2일(한국시간) 뉴질랜드 매체 뉴질랜드 헤럴드에 따르면 할리우드 배우 러셀 크로우(58)는 최근 여배우 케이트 리치와 함께 하는 아침쇼에 출연해 레오나르도]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[전현무 광선검 뽑고 난리→이은결도 감탄 “타고 나” (당나귀 귀) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001042306</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001042306</guid>
-            <pubDate>Sat, 01 Apr 2023 22:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[전현무가 이번에는 마술사 ‘무퍼필드’로 변신한다. 2일 방송되는 KBS 2TV ‘사장님 귀는 당나귀 귀’(약칭 ‘당나귀 귀’)에서는 이은결과 함께 하는 ‘인턴 마술사’ 전현무 연습 현장이 그려진다. 제작진에 따르면]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[지연, ♥황재균 사로잡은 매력?.."내조도 필요 없다" ('인생84')[종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003989454</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003989454</guid>
-            <pubDate>Sat, 01 Apr 2023 22:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[티아라 출신 지연이 야구선수인 남편 황재균을 사로잡은 매력이 공개됐다. 1일 기안84의 유튜브 채널 '인생84'에는 '유부남 황재균 선수와의 만남'이라는 제목으로 영상이 게재됐다. 기안84는 황재균과 만나 "결혼식]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전현무, 이은결 마술에 기겁→레전드 웃음 폭탄 (당나귀 귀) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001042305</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001042305</guid>
-            <pubDate>Sat, 01 Apr 2023 22:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[2일 방송되는 KBS 2TV ‘사장님 귀는 당나귀 귀’(약칭 ‘당나귀 귀’)에서는 MC들이 보스들의 일터로 직접 찾아가서 을로 살아보는 ‘릴레이 MC 미션’ 제 1탄 전현무, 이은결 편이 그려진다. 제작진에 따르면]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[조현아 "수지=여자 최수종…집 데려다주고 아플 때 집 청소까지" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000419985</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000419985</guid>
-            <pubDate>Sat, 01 Apr 2023 22:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 어반자카파 조현아가 가수 겸 배우 수지를 '여자 최수종'이라고 불렀다. 최근 유튜브 채널 '조현아의 목요일 밤'에는 '술 마시고 노래하고 예쁘고 귀엽고 웃기고 그 어려운 걸 수지가 해냅니다'라는 제목의 영상이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["신동엽 털어"… 황영웅 향한 어긋난 사랑 [김유림의 연예담] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000909016</link>
-            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000909016</guid>
-            <pubDate>Sat, 01 Apr 2023 22:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[상금 6억원을 차지할 최종 우승 후보였다가 과거사 논란으로 방송에서 하차하고 활동을 중단한 가수 황영웅을 둘러싼 어긋난 팬심이 눈살을 찌푸리게 하고 있다. 지난달 30일 방송된 MBC '실화탐사대'에서는 '기독교복음]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박보검, 새 소속사서 극진한 대접..촬영장에 대표·임원 총출동 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003989451</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003989451</guid>
-            <pubDate>Sat, 01 Apr 2023 21:14:02 GMT</pubDate>
-            <content:encoded><![CDATA[배우 박보검이 새 소속사로부터 받은 선물을 공개했다. 박보검은 1일 "맛있게 잘 먹었습니다! 감사합니다♥"라며 드라마 촬영장에 밥차와 커피차를 선물해준 소속사 식구들에게 고마움을 전했다. 소속사 더 블랙 레이블은 박]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[있지 예지, 아이유가 선물한 명품백 자랑 "아까워서 많이 못 들어" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000419980</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000419980</guid>
-            <pubDate>Sat, 01 Apr 2023 21:14:02 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 있지 예지가 아이유에게 받은 명품백을 자랑했다. 최근 유튜브 채널 더블유 코리아에는 '있지 예지가 아이유 선배님께 받은 소중한 가방! 그 안에 뭐가 들었게?'라는 제목의 영상이 게재됐다. 영상 속 예지는 "제가]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유선호, 게임 도중 예능감 大폭발→멤버들 막내 몰이 시작?(1박 2일) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001042304</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001042304</guid>
-            <pubDate>Sat, 01 Apr 2023 21:14:02 GMT</pubDate>
-            <content:encoded><![CDATA[‘1박 2일’이 아수라장으로 변해버린 미션 현장을 예고한다. 2일 오후 6시 15분 방송되는 KBS 2TV ‘1박 2일 시즌4’(이하 ‘1박 2일’) ‘밥도둑을 찾아라’에서는 밥도둑을 찾기 위한 예측불허 두뇌 싸움이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유재석, 게임 중 “방송 경력이 30년인데…” 분노 왜?(런닝맨) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001042303</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001042303</guid>
-            <pubDate>Sat, 01 Apr 2023 21:14:02 GMT</pubDate>
-            <content:encoded><![CDATA[‘런닝맨’에서 신상 게임 탄생을 예고한다. 2일 오후 방송되는 SBS ‘런닝맨’에서는 MZ 세대를 사로잡을 신상 게임이 탄생한다. 앞서 ‘런닝맨’은 지난 ‘일타수(手)캔들’ 레이스에서 배우 노윤서, 주우재와 함께 최]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[풍자 "돈 벌어서 부모님 집 제일 먼저 해드려...현재 고정 프로그램 10개" ('전참시')[종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003989445</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003989445</guid>
-            <pubDate>Sat, 01 Apr 2023 16:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[방송인 풍자가 돈 벌어서 제일 먼저 부모님께 집을 사드렸다고 밝혔다. 1일 방송된 MBC '전지적 참견 시점'에는 풍자가 출연해 날 것 그대로의 일상을 공개했다. 지난해 고정 프로그램만 17개를 했다는 풍자는 "그때]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[르세라핌 카즈하, 언제 봐도 대단한 '11자 복근좌'[스타IN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003140997</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003140997</guid>
-            <pubDate>Sat, 01 Apr 2023 16:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 르세라핌의 카즈하가 우월한 복근을 뽐냈다. 카즈하는 30일 자신의 인스타그램에 "연습실 vibe"'라는 멘트와 함께 여러 장의 사진을 게재했다. 공개된 사진 속 카즈하는 연습실에서 편안한 차림의 옷을 입고 거울]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박수홍♥김다예, 이찬원 만나 '엄지 척'..무슨 일? (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003140996</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003140996</guid>
-            <pubDate>Sat, 01 Apr 2023 16:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[방송인 박수홍과 아내 김다예가 여러 연예인을 만났다. 김다예는 1일 "남편이랑 결혼식 다녀오는 길에 벚꽃 앞에서 한 장. 오늘 날씨가 따뜻하고 좋네요♥"라며 사진을 두 장 공개했다. 사진 속에는 박수홍과 김다예가 지]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[카즈하 보고 있나? 고소영, -25세 '허리 노출 크롭톱' 완벽 소화 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003140994</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003140994</guid>
-            <pubDate>Sat, 01 Apr 2023 16:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[배우 고소영이 MZ세대 패션을 완벽 소화했다. 고소영은 1일 한 명품 매장에 방문해 의상을 시착해본 근황을 공개했다. 사진 속 고소영은 롱코트에 조거팬츠, 운동화를 매치하고 힙한 분위기를 선보였다. 또 다른 사진에서]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['그린나이트' 이주영 "극비리 촬영…판빙빙 진심으로 사랑했다" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000337725</link>
-            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000337725</guid>
-            <pubDate>Sat, 01 Apr 2023 16:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[선보이는 작업 하나 하나가 신비로운 이주영이다. 제73회 베를린국제영화제 파노라마 부문에 공식 초청돼 전세계 영화인들 앞에 첫 선을 보인 영화 '그린 나이트(GREEN NIGHT·한슈아이 감독)'의 이주영이 코스모폴]]></content:encoded>
+            <title><![CDATA[졸리, 피트와 이혼 후 두 번의 열애설 상대는? "서서히 되살아나고 있다" [Oh!llywood] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004820095</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004820095</guid>
+            <pubDate>Sat, 01 Apr 2023 23:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[배우 안젤리나 졸리가 최근 데이트 소문에 휩싸여 눈길을 끄는 가운데 배우 브래드 피트와 이혼 후 그의 열애 관련 사생활이 다시한 번 주목받고 있다. 지난 주, 페이지 식스는 졸리가 미국 캘리포니아 말리부에 있는 유명]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[오스카 여우조연상 배우, “남성→여성 트랜스젠더 딸과 함께 행복한 투샷”[해외이슈] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
@@ -1537,20 +1558,6 @@
             <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003623207</guid>
             <pubDate>Sat, 01 Apr 2023 02:07:32 GMT</pubDate>
             <content:encoded><![CDATA[안젤리나 졸리가 패션 디자이너로 활동을 시작할 것이라는 보도가 나왔다. 1일(한국시간) 미국 연예매체 페이지 식스 등 외신에 따르면 할리우드 배우 안젤리나 졸리는 최근 '아틀리에 졸리'라는 상표를 내고 의류 및 보석]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“옛날 얼굴이 그리워?”, 코성형 클로에 카다시안 “아니”[해외이슈] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003713742</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003713742</guid>
-            <pubDate>Sat, 01 Apr 2023 02:07:32 GMT</pubDate>
-            <content:encoded><![CDATA[할리우드 셀럽 킴 카다시안(42)의 여동생이자 유명 방송인 겸 사업가인 클로에 카다시안(38)이 자신의 외모를 언급한 네티즌의 질문에 쿨하게 대답했다. 그는 3월 30일(현지시간) 소셜미디어에 헬스장에서 열심히 운동]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[디카프리오, 지젤 번천→카밀라 모로네까지 ‘25살 이하 여성’과 열애 타임라인[해외이슈] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003713734</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003713734</guid>
-            <pubDate>Sat, 01 Apr 2023 02:07:32 GMT</pubDate>
-            <content:encoded><![CDATA[할리우드 배우 레오나르도 디카프리오(48)는 25살 이하 여성과 열애를 즐기는 것으로 유명하다. 오죽하면 ‘25살 법칙’이라는 말까지 나왔을까. 데일리메일은 3월 31일(현지시간) 디카프리오가 최근까지 만난 25살]]></content:encoded>
         </item>
     </channel>
 </rss>
