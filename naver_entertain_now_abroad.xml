@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2023-04-02T19:14:56.874Z</updated>
+    <updated>2023-04-02T21:11:34.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS 지민 '페이스' 빌보드 앨범 2위…K팝 솔로 최고 기록]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013854825</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013854825"/>
+        <updated>2023-04-02T21:11:33.356Z</updated>
+        <content type="html"><![CDATA[美 발매 첫 주 성적으로 올해 두 번째로 높아…'핫 100' 성적도 기대 그룹 방탄소년단(BTS)의 지민이 지난달 발표한 첫 솔로 음반 '페이스'(FACE)가 미국 빌보드 메인 앨범 차트 '빌보드 200' 2위에 올]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTS슈가, 인연깊은 故사카모토 애도 "평안하시길..R.I.P" (Oh!쎈 이슈) [종합]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004820756</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000929837"/>
         <updated>2023-04-02T07:13:22.609Z</updated>
         <content type="html"><![CDATA[2일 오후 서울 잠실야구장에서 ‘2023 프로야구’ 롯데 자이언츠와 두산 베어스의 경기가 열렸다. 세븐틴 도겸이 시구를 하고 있다. 잠실(서울)=천정환 MK스포츠 기자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[샤이니 민호 ‘제구 엉망 시구, 아쉬워요’ [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000929836</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000929836"/>
-        <updated>2023-04-02T07:13:22.609Z</updated>
-        <content type="html"><![CDATA[2일 오후 인천 SSG랜더스필드에서 ‘2023 KBO리그’ KIA 타이거즈와 SSG 랜더스 경기가 열렸다. 경기에 앞서 샤이니 민호가 시구를 하고 난 후 아쉬워 하고 있다. 인천=김영구 MK스포츠 기자]]></content>
     </entry>
 </feed>
