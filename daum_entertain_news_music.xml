@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-04-02T12:21:20.368Z</updated>
+    <updated>2023-04-02T14:11:07.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[레드벨벳 "이 밑은 전쟁"…강렬→러블리 다 보여준 '퀸의 품격']]></title>
+        <id>https://v.daum.net/v/20230402214001332</id>
+        <link href="https://v.daum.net/v/20230402214001332"/>
+        <updated>2023-04-02T14:10:27.919Z</updated>
+        <content type="html"><![CDATA[[텐아시아=윤준호 기자] 그룹 레드벨벳(Red Velvet)이 서울 공연의 마무리를 화려하게 수놓았다. 2일 오후 서울 송파구 올림픽공원 KSPO DOME에서 레드벨벳(웬디, 아이린, 슬기, 조이, 예리)의 네 번째 단독 콘서트 '알 투 브이(R to V)'가 성료 됐다. 이날 오후 4시로 예정됐던 레드벨벳의 공연. 올림픽공원 주변은 이미 수 시간 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["인간 벚꽃 그 자체"…레드벨벳, 봄 콘서트로 귀환]]></title>
         <id>https://v.daum.net/v/20230402212003097</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230402171119356"/>
         <updated>2023-04-02T08:19:04.947Z</updated>
         <content type="html"><![CDATA[[스타뉴스 최혜진 기자] /사진=SBS[최혜진 스타뉴스 기자] '인기가요' 뉴진스가 1위를 차지한 가운데 MC 노정의, 서범준이 눈물 섞인 작별 인사를 전했다. 2일 방송된 SBS 음악프로그램 '인기가요'에서는 걸 그룹 스테이씨의 '테디 베어'(Teddy Bear), 엔믹스의 '러브 미 라이크 디스'(Love Me Like This), 뉴진스의 '하이프]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인기가요' 킹덤, '혼' 쏙 빼놓는 시네마틱돌의 찬란한 무대]]></title>
-        <id>https://v.daum.net/v/20230402165905093</id>
-        <link href="https://v.daum.net/v/20230402165905093"/>
-        <updated>2023-04-02T08:19:04.948Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;그룹 킹덤이 찬란한 비주얼과 역동적인 퍼포먼스로 '인기가요'를 화려하게 수놓았다. 킹덤(훤, 자한, 단, 아서, 무진, 루이, 아이반)은 2일 오후 방송된 SBS '인기가요'에 출연해 여섯 번째 미니앨범 'History Of Kingdom : Part Ⅵ. MUJIN(히스토리 오브 킹덤 : 파트 6. 무진)' 타이틀곡 '혼(魂;]]></content>
     </entry>
 </feed>
