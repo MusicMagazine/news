@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-04-03T16:16:53.146Z</updated>
+    <updated>2023-04-03T17:13:51.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[샤키라, 바람핀 피케에게 작별인사...스페인 떠나 미국 정착]]></title>
+        <id>https://v.daum.net/v/20230404020800276</id>
+        <link href="https://v.daum.net/v/20230404020800276"/>
+        <updated>2023-04-03T17:13:25.996Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이예은 기자] 유명 싱어송라이터 샤키라(46)가 외도를 저지른 전애인이자 스페인 축구 선수인 피케(36)와의 영원한 결별을 선언했다. 알려진 바에 따르면 샤키라는 스페인을 떠나 미국으로 향한다.&nbsp; 샤키라는 3일(현지 시간) 자신의 소셜네트워크서비스를 통해 "제 아이들에게 안정감을 주기 위해 바르셀로나에 정착했습니다"라며 "우리는 행복을 추구하는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[감독 채드 스타헬스키, '존 윅 5' 제작 거절...이유는?]]></title>
         <id>https://v.daum.net/v/20230403184600293</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230403142806853"/>
         <updated>2023-04-03T06:16:38.984Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김종은 기자] 마블시네마틱유니버스(MCU)가 작품의 VFX(특수효과)는 물론, 감독의 고유 권한이라 할 수 있는 제작 및 편집에도 직접적으로 관여했다는 내부 폭로가 나왔다. 미국 매체 뉴욕 매거진과 벌처 등에서 일한 경력이 있는 크리스 리는 최근 팟캐스트 '더 타운 위드 매튜 벨로니'에 출연해 "MCU는 일부러 VFX에 익숙하지 않은 감독을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안젤리나 졸리, 재벌 3세와 데이트?...알고보니 비즈니스 미팅었다]]></title>
-        <id>https://v.daum.net/v/20230403133030848</id>
-        <link href="https://v.daum.net/v/20230403133030848"/>
-        <updated>2023-04-03T15:13:33.851Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이예은 기자] 배우 안젤리나 졸리(47)가 재벌 3세와 데이트하는 모습이 포착돼 열애설이 불거졌다. 외신 연예 매체 페이지 식스는 지난 1일(현지 시간) 안젤리나 졸리가 캘리포니아 말리부의 유명 인사들이 자주 찾는 식당에서 로스차일드 은행의 막내 상속자인 데이비드 메이어 드 로스차일드(44)와 함께 3시간 동안 점심 식사를 즐겼다고 보도했다.]]></content>
     </entry>
 </feed>
