@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 04:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 06:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진경, "이번엔 악역"  MBC '열녀박씨 계약결혼뎐' 캐스팅]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=255735</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=255735</guid>
+            <pubDate>Mon, 03 Apr 2023 06:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=255735">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230329072152_9b9428f75663b3f7e5fddca087ef9447.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=255735">진경, "이번엔 악역"  MBC '열녀박씨 계약결혼뎐' 캐스팅</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230329072152_9b9428f75663b3f7e5fddca087ef9447.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 '데스노트'  "전율의 무대, 다시 시작되다"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=256490</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=254152">인피니트 김성규, 뮤지컬 '레드북' 공연 시작 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230316152728_1379a3772031f793581a6bf33a185f66.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 홍서영, 씨엘엔컴퍼니에 새 둥지]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=254065</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=254065</guid>
-            <pubDate>Thu, 16 Mar 2023 04:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=254065">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230316102717_087ce2f66003d5935bc059f9df63d28d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=254065">배우 홍서영, 씨엘엔컴퍼니에 새 둥지</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230316102717_087ce2f66003d5935bc059f9df63d28d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
