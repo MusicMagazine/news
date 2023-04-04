@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-04-04T18:15:00.179Z</updated>
+    <updated>2023-04-04T19:10:28.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유튜브 쇼츠, 시청자 모으는 '금광' 됐다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011784248</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011784248"/>
+        <updated>2023-04-04T19:10:11.901Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 전 세계 일일 쇼츠 조회수 500억회 쇼츠, 음악 아티스트에겐 일종의 '금광' '팬 쇼츠'로 채널 순 방문자 수 80%↑ 새 구독자 과반수는 "쇼츠 보고 구독" 아티스트 작품성·스타일 '맛보기' 체험]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트렌드지, KBO 프로야구 개막 기념 ‘NEW DAYZ’ 야구장 퍼포먼스 공개]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000878037</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004828752"/>
         <updated>2023-04-04T16:17:58.453Z</updated>
         <content type="html"><![CDATA[그룹 아이칠린 재키가 4일 오후 서울 상암동 SBS 프리즘타워에서 열린 SBS M '더쇼' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 아이칠린 주니, '잘록한 개미허리 뽐내며']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004828751</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004828751"/>
-        <updated>2023-04-04T16:17:58.455Z</updated>
-        <content type="html"><![CDATA[그룹 아이칠린 주니가 4일 오후 서울 상암동 SBS 프리즘타워에서 열린 SBS M '더쇼' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
     </entry>
 </feed>

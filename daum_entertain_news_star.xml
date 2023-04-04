@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-04-04T18:15:00.208Z</updated>
+    <updated>2023-04-04T19:10:28.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지민, K팝 솔로 첫 빌보드 싱글 1위… 그룹·솔로 모두 ‘핫 100’ 정상]]></title>
+        <id>https://v.daum.net/v/20230405040517995</id>
+        <link href="https://v.daum.net/v/20230405040517995"/>
+        <updated>2023-04-04T19:09:56.175Z</updated>
+        <content type="html"><![CDATA[그룹 방탄소년단(BTS)의 지민이 K팝 솔로 가수 최초로 미국 빌보드 메인 싱글 차트 ‘핫100’에서 정상을 차지했다. 글로벌 K팝 스타로서 BTS의 저력이 멤버 개개인의 활동을 통해서도 입증된 셈이다. 4일 빌보드 공식 트위터를 통해 공개된 이번 주 싱글 차트 상위 10개 곡에 지민의 ‘라이크 크레이지’(Like Crazy)가 1위에 올랐다. 팝스타 마]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘만취운전’ 김새론, 오늘 1심 선고]]></title>
         <id>https://v.daum.net/v/20230405023300583</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230404235903011"/>
         <updated>2023-04-04T16:17:47.676Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 김준석 기자] 뮤지컬 배우 강은일이 성추행 누명으로 5개월간 억울하게 수감 생활을 했던 과거를 언급했다. 4일 방송한 채널S 예능 프로그램 '진격의 언니들'에는 강은일이 출연해 '성추행 누명'에 대해 이야기하며 당시의 CCTV 영상을 공개했다. 이날 강은일은 "추행 누명으로 피해를 입은 사람이 아닌배우 강은일로 기억해주길 바라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['돌싱포맨' 유지태 "김준호, 한 번 다녀왔으니 ♥김지민이 귀할 것"]]></title>
-        <id>https://v.daum.net/v/20230404235704003</id>
-        <link href="https://v.daum.net/v/20230404235704003"/>
-        <updated>2023-04-04T16:17:47.676Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 서지현 기자] '신발벗고 돌싱포맨' 유지태가 절친 김준호에게 '팩폭'을 가했다. 4일 밤 방송된 SBS '신발벗고 돌싱포맨'(이하 '돌싱포맨')에서는 배우 유지태, 강경헌이 출연했다. 이날 이상민은 "왠지 유지태랑 김준호가 비즈니스 절친이라는 의혹이 든다. 김준호가 방송마다 유지태에서 출연을 부탁하니까 '방송용 전화가 지쳤다'고 하던데"]]></content>
     </entry>
 </feed>
