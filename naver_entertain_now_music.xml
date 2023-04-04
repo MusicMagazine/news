@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-04-04T19:10:28.772Z</updated>
+    <updated>2023-04-04T21:11:33.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[IS시선] 정동원에 쏟아진 비난은 가혹하다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003267161</id>
+        <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003267161"/>
+        <updated>2023-04-04T21:11:14.517Z</updated>
+        <content type="html"><![CDATA[가수 정동원이 최근 원동기 면허를 딴 뒤 자동차 전용 도로에서 오토바이를 몰다 경찰에 적발됐다. 일주일 후엔 서혜진 PD의 새 예능 프로그램 ‘지구탐구생활’ 고정 출연을 논의 중이란 소식이 전해졌다. 이 두 소식이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[석광인 대기자의 성인가요 이야기] 관심 집중시킨 아이큐 ‘늑대’ 동영사]]></title>
+        <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003267159</id>
+        <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003267159"/>
+        <updated>2023-04-04T21:11:14.518Z</updated>
+        <content type="html"><![CDATA[유튜브에서 인기를 누리고 있는 노래 중에 ‘늑대’가 있다. 통기타를 연주하며 노래하는 가수 아이큐의 곡인데 지금까지 938만회의 조회수를 기록하고 있다. 요즘 성인가요계에서는 듣기 어려운 특이한 곡이다. 정열적인 탱]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유튜브 쇼츠, 시청자 모으는 '금광' 됐다]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011784248</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004828754"/>
         <updated>2023-04-04T16:17:58.452Z</updated>
         <content type="html"><![CDATA[그룹 아이칠린 지윤이 4일 오후 서울 상암동 SBS 프리즘타워에서 열린 SBS M '더쇼' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 아이칠린 채린, '도도한 눈빛']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004828753</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004828753"/>
-        <updated>2023-04-04T16:17:58.453Z</updated>
-        <content type="html"><![CDATA[그룹 아이칠린 채린이 4일 오후 서울 상암동 SBS 프리즘타워에서 열린 SBS M '더쇼' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 아이칠린 재키, '매력적인 미소']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004828752</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004828752"/>
-        <updated>2023-04-04T16:17:58.453Z</updated>
-        <content type="html"><![CDATA[그룹 아이칠린 재키가 4일 오후 서울 상암동 SBS 프리즘타워에서 열린 SBS M '더쇼' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
     </entry>
 </feed>
