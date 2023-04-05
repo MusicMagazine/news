@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2023-04-05T17:13:27.196Z</updated>
+    <updated>2023-04-05T19:15:14.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아델은 연애 중..."슬픈 곡 아닌, 희망찬 노래로 컴백할 것" [할리웃통신]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001250439</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001250439"/>
+        <updated>2023-04-05T19:15:13.669Z</updated>
+        <content type="html"><![CDATA['Hello' 등 다수의 히트곡을 보유한 팝가수 아델이 곧 새 음반으로 찾아온다. 4일(현지 시간) 영국 매체 더선은 "아델이 새 앨범에 수록될 모든 곡의 녹음을 마친 상태며 몇 주 안에 발매하기 위해 논의 중이다"]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘인디아나 존스5’ 칸 영화제 상영 확정, “해리슨 포드의 마지막 모험”[해외이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003715855</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004822480"/>
         <updated>2023-04-05T07:15:06.677Z</updated>
         <content type="html"><![CDATA[배우 토리 스펠링이 눈 궤양에 대한 위험성을 피력했다. 토리 스펠링은 최근 온라인을 통해 “너무 어리석다. 내 잘못이다. 내가 나 자신에게 이런 짓을 했다”며 자신의 렌즈 관리 부주의로 왼쪽 눈에 궤양이 생겼다고 고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘브래드 피트 전여친’, 해리 스타일스와 두달째 열애 “깜짝 고백”[해외이슈]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003715605</id>
-        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003715605"/>
-        <updated>2023-04-05T07:15:06.678Z</updated>
-        <content type="html"><![CDATA[할리우드 스타 브래드 피트(59)의 전 여친 에밀리 라타이코프스키(31)가 세계적 팝스타 해리 스타일스(29)와 두 달째 열애중이라는 사실을 암시했다. 이들은 지난달 24일 도쿄 길거리의 대형차 옆에서 서로 격렬하게]]></content>
     </entry>
 </feed>
