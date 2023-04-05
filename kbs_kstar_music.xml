@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 22:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 02:23:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슈가(Agust D), ‘사람 Pt.2 (feat. 아이유)’  7일 발표]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=256824</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=256824</guid>
+            <pubDate>Wed, 05 Apr 2023 02:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=256824">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230405072936_4e6d854da1dbb383080caa3f4bef4a8b.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=256824">슈가(Agust D), ‘사람 Pt.2 (feat. 아이유)’  7일 발표  </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230405072936_4e6d854da1dbb383080caa3f4bef4a8b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["5월의 르세라핌"  정규 1집 ‘UNFORGIVEN’으로 컴백]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=256681</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=255566">레드벨벳, 글로벌투어 ‘R to V’.. "이번 주말, 잠실에서 스타트"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230328080401_644217c8b3e3ed3de1d4f1fc57b3f07e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지민, 솔로 앨범 'FACE', '스포티파이 정상 - 오리콘 주간앨범 1위 직행']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=255561</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=255561</guid>
-            <pubDate>Mon, 27 Mar 2023 23:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=255561">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230328074932_d1b2f6490b284cc727f027a7f725ace6_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=255561">지민, 솔로 앨범 'FACE', '스포티파이 정상 - 오리콘 주간앨범 1위 직행'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230328074932_d1b2f6490b284cc727f027a7f725ace6_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
