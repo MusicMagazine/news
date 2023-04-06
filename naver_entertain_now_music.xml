@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-04-06T13:20:48.957Z</updated>
+    <updated>2023-04-06T14:16:20.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["벌써부터 상큼하네"…걸그룹 드림노트, 신곡 '레모네이드' 콘셉트 이거였다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003716237</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003716237"/>
+        <updated>2023-04-06T14:16:03.361Z</updated>
+        <content type="html"><![CDATA[걸그룹 드림노트(DreamNote, 유아이, 보니, 라라, 미소, 수민, 은조)가 다섯 번째 싱글 ‘Secondary Page(세컨더리 페이지)’의 타이틀곡 ‘Lemonade(레모네이드)’ 콘셉트 포토를 6일 공개했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘12일 컴백’ 드림노트, 톡톡 튀는 ‘Lemonade’ 콘셉트 포토]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000878598</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004823346"/>
         <updated>2023-04-06T09:13:48.457Z</updated>
         <content type="html"><![CDATA[그룹 뉴이스트 출신 가수 백호가 오는 5월 12일부터 14일까지 총 3일간 서울 광진구 YES24 라이브홀에서 미니 콘서트를 개최한다. 소속사 플레디스 엔터테인먼트는 6일 ‘2023 BAEKHO MINI CONCER]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔플라잉 김재현, 5월 25일 입소 “사회복무요원 대체복무”]]></title>
-        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000934209</id>
-        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000934209"/>
-        <updated>2023-04-06T09:13:48.459Z</updated>
-        <content type="html"><![CDATA[엔플라잉 김재현 제공 | FNC 밴드 엔플라잉 김재현이 국방의 의무를 다하기 위해 잠시 팬들의 곁을 떠난다. 김재현은 오는 5월 25일 훈련소에서 기초군사훈련을 받은 뒤 사회복무요원으로 국방의 의무를 이행할 예정이다]]></content>
     </entry>
 </feed>
