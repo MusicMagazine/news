@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-04-07T16:18:00.994Z</updated>
+    <updated>2023-04-07T17:12:05.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['트로트 여왕' 송가인 vs 양지은, 맞대결 성사될까?]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011791215</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011791215"/>
+        <updated>2023-04-07T17:11:47.687Z</updated>
+        <content type="html"><![CDATA[한유진 인턴 기자 = '불후의 명곡' 심수봉 특집의 2부 대결이 펼쳐진다. 8일 오후 6시 10분 방송하는 KBS 2TV '불후의 명곡'에서는 알리, 몽니, 송가인, 양지은, 탄(TAN) 등 총 5팀이 무대에 오른다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[래퍼 핀업, 새 싱글 ‘오래된 앨범’ 공개]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000878877</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=438&amp;aid=0000054768"/>
         <updated>2023-04-07T10:17:15.490Z</updated>
         <content type="html"><![CDATA[잠실종합운동장 올림픽주경기장에서 열리는 SEOUL FESTA 2023 개막공연 'K-POP SUPER LIVE'가 4월 30일 개최된다. 지난해 처음 막을 올린 'K-POP SUPER LIVE'가 폭발적인 성원에 힘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상큼한 레모네이드…드림노트, 컴백곡 콘셉트 포토 공개]]></title>
-        <id>https://entertain.naver.com/now/read?oid=018&amp;aid=0005458677</id>
-        <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005458677"/>
-        <updated>2023-04-07T10:17:15.492Z</updated>
-        <content type="html"><![CDATA[걸그룹 드림노트(DreamNote·유아이, 보니, 라라, 미소, 수민, 은조)가 컴백곡 ‘레모네이드’(Lemonade) 콘셉트 포토를 7일 공개했다. 드림노트는 ‘레모네이드’라는 곡명에 걸맞은 상큼한 분위기의 콘셉트]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2023-04-07T16:18:01.018Z</updated>
+    <updated>2023-04-07T17:12:05.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[IVE, YUJIN-GAEUL-REI, 'Beauty of Beauty']]></title>
+        <id>https://entertain.naver.com/now/read?oid=445&amp;aid=0000103242</id>
+        <link href="https://entertain.naver.com/now/read?oid=445&amp;aid=0000103242"/>
+        <updated>2023-04-07T17:11:56.176Z</updated>
+        <content type="html"><![CDATA[IVE, a popular idol, made a strong impression with another trendy mood. On the 5th, a new concept photo of first full-le]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[종합] ‘나혼산’ 전현무X기안84, 패션 대결→키, 양식조리기능사 필기 합격]]></title>
         <id>https://entertain.naver.com/now/read?oid=009&amp;aid=0005113500</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003992179"/>
         <updated>2023-04-07T14:11:43.141Z</updated>
         <content type="html"><![CDATA[타임머신 탔나요? 이효리가 '텐미닛' 시절의 '레전드 섹시 미모'로 돌아왔다. 의상부터 헤어스타일 등 모든 것이 20년전 그대로다. 최근 tvN '댄스가수 유랑단'은 공식 계정을 통해 댄스가수유랑단 첫 공연의 사진을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박서준, '서준이네' 욕심? "내 꿈, 마블 배우 아닌 이 가게 사장" ('서진이네')[종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003992178</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003992178"/>
-        <updated>2023-04-07T14:11:43.141Z</updated>
-        <content type="html"><![CDATA['서진이네' 박서준이 이서진을 잇는 '가게 사장'의 꿈을 꿨다. 7일 방송된 tvN '서진이네'에서는 영업 6일차 현장이 공개됐다. 자리가 만석이 됐음에도 손님들이 들어오자 한 손님은 자리를 양보했다. '서진이네'에]]></content>
     </entry>
 </feed>
