@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-04-07T14:11:51.698Z</updated>
+    <updated>2023-04-07T15:12:49.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에이디야, 이번엔 힐 댄스다..색다른 퍼포먼스]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003142635</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003142635"/>
+        <updated>2023-04-07T15:12:32.090Z</updated>
+        <content type="html"><![CDATA[데뷔를 앞둔 그룹 에이디야(ADYA, 연수·서원·세나·채은·승채)가 퍼포먼스로 색다른 매력을 자랑했다. 스타팅하우스엔터테인먼트는 지난 5일과 6일 공식 SNS에 에이디야의 퍼포먼스 영상을 게재했다. 앞서 NCT 12]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[진행도 잘하는 라붐 해인, 채널A 새 예능 MC 발탁 "영광이고, 책임감 든다"]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003716706</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003142590"/>
         <updated>2023-04-07T10:17:15.493Z</updated>
         <content type="html"><![CDATA[가수 김우석이 치명적인 매력을 발산했다. 김우석은 7일 오후 방송된 KBS 2TV '뮤직뱅크'에 출연해 미니 4집 'Blank Page(블랭크 페이지)'의 타이틀곡 'Dawn(던)' 무대를 선보였다. 이날 김우석은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['피크타임' 팀 8시 다크비, 30일 첫 日 단독 콘서트]]></title>
-        <id>https://entertain.naver.com/now/read?oid=018&amp;aid=0005458654</id>
-        <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005458654"/>
-        <updated>2023-04-07T10:17:15.495Z</updated>
-        <content type="html"><![CDATA[보이그룹 다크비(이찬, D1, 테오, GK, 희찬, 룬, 준서, 유쿠, 해리준)가 일본에서 단독 콘서트를 연다. 7일 소속사 브레이브엔터테인먼트에 따르면 다크비는 오는 30일 일본 도쿄 뉴피어홀에서 단독 콘서트를 개]]></content>
     </entry>
 </feed>
