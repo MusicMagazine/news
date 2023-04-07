@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-04-07T15:12:49.906Z</updated>
+    <updated>2023-04-07T16:18:00.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[래퍼 핀업, 새 싱글 ‘오래된 앨범’ 공개]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000878877</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000878877"/>
+        <updated>2023-04-07T16:17:46.625Z</updated>
+        <content type="html"><![CDATA[래퍼 P!nUp(핀업)이 옛 학창시절을 떠올리게 하는 신보로 향수병을 자극한다. 7일 음원사이트를 통해 P!nUp(핀업)의 디지털 싱글 ‘오래된 앨범’이 공개됐다. 디지털 싱글 ‘오래된 앨범’은 누구나 그리워하는 학]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이디야, 이번엔 힐 댄스다..색다른 퍼포먼스]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003142635</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005458677"/>
         <updated>2023-04-07T10:17:15.492Z</updated>
         <content type="html"><![CDATA[걸그룹 드림노트(DreamNote·유아이, 보니, 라라, 미소, 수민, 은조)가 컴백곡 ‘레모네이드’(Lemonade) 콘셉트 포토를 7일 공개했다. 드림노트는 ‘레모네이드’라는 곡명에 걸맞은 상큼한 분위기의 콘셉트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["완벽한 로판 비주얼"..김우석, 'Dawn' 컴백[뮤뱅]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003142590</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003142590"/>
-        <updated>2023-04-07T10:17:15.493Z</updated>
-        <content type="html"><![CDATA[가수 김우석이 치명적인 매력을 발산했다. 김우석은 7일 오후 방송된 KBS 2TV '뮤직뱅크'에 출연해 미니 4집 'Blank Page(블랭크 페이지)'의 타이틀곡 'Dawn(던)' 무대를 선보였다. 이날 김우석은]]></content>
     </entry>
 </feed>
