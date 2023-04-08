@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-04-08T14:15:15.763Z</updated>
+    <updated>2023-04-08T16:16:12.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“우리들의 청춘이었다” 카라, 9년만 눈물의 팬미팅]]></title>
+        <id>https://v.daum.net/v/20230409010200094</id>
+        <link href="https://v.daum.net/v/20230409010200094"/>
+        <updated>2023-04-08T16:15:32.739Z</updated>
+        <content type="html"><![CDATA[그룹 카라가 약 9년 만에 팬들과 마주하며 뜨거운 눈물을 흘렸다.&nbsp; 카라는 8일 오후 서울 세종대학교 대양홀에서 단독 팬미팅 ‘KARA 15TH ANNIVERSARY FAN MEETING 2023～MOVE AGAIN～IN SEOUL’(이하 ‘MOVE AGAIN’)을 개최했다. 카라의 국내 팬미팅은 지난 2014년 5월 열린 ‘2014 카밀리아데이 팬미팅’]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["나의 청춘" 카라, 故구하라 함께한 팬미팅…9년 그리움에 '눈물']]></title>
         <id>https://v.daum.net/v/20230408225013313</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230408140522850"/>
         <updated>2023-04-08T05:10:50.009Z</updated>
         <content type="html"><![CDATA[[OSEN=유수연 기자] 배우 박해수가 연극 ‘파우스트’와 관련한 이야기를 전했다. 지난 6일 서울 강서구에 위치한 LG아트센터 서울에서는 연극 ‘파우스트’의 배우 박해수의 인터뷰가 진행됐다. 지난달 31일 베일을 벗은 양정웅 연출의 연극 ‘파우스트’는 part.1은 신과 내기를 한 악마&nbsp;‘메피스토’가&nbsp;‘파우스트’에게 쾌락과 영혼을 맞바꾼 계약을 제안하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘겁 없는 배우’ 원진아, ‘파우스트’로 첫 연극…”계속 도전할 것”]]></title>
-        <id>https://v.daum.net/v/20230408135521740</id>
-        <link href="https://v.daum.net/v/20230408135521740"/>
-        <updated>2023-04-08T05:10:50.011Z</updated>
-        <content type="html"><![CDATA[[OSEN=유수연 기자] 배우 원진아가 ‘파우스트’로 첫 연극 도전에 나섰다. 지난 6일 서울 강서구에 위치한 LG아트센터 서울에서는 연극 ‘파우스트’의 배우 원진아의 인터뷰가 진행됐다. 지난달 31일 베일을 벗은 양정웅 연출의 연극 ‘파우스트’는 part.1은 신과 내기를 한 악마&nbsp;‘메피스토’가&nbsp;‘파우스트’에게 쾌락과 영혼을 맞바꾼 계약을 제안하며 벌]]></content>
     </entry>
 </feed>
