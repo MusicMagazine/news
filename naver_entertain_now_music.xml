@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-04-08T17:11:03.173Z</updated>
+    <updated>2023-04-08T18:16:28.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[죠지, 7년 만의 첫 정규앨범…'포에버']]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011791736</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011791736"/>
+        <updated>2023-04-08T18:16:12.064Z</updated>
+        <content type="html"><![CDATA[R&amp;B 싱어송라이터 죠지(30·이동민)가 데뷔 7년 만에 첫 정규 음반 'FRR'을 공개했다고 소속사 크래프트앤준이 9일 밝혔다. 총 10곡으로 구성된 이번 음반은 죠지가 살아오며 느꼈던 감정들을 풀어낸 이야기집이다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“우리들의 청춘이었다” 카라, 9년만 눈물의 팬미팅(종합)]]></title>
         <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003267942</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000934665"/>
         <updated>2023-04-08T11:09:53.768Z</updated>
         <content type="html"><![CDATA[임영웅이 8일 서울 월드컵경기장에서 열린 K리그1 FC서울과 대구FC와 경기 하프타임에 걸그룹아이브의 애프터 라이크(After LIKE)에 맞춰 댄스를 선보이고 있다.2023. 4. 8.최승섭기자 thunder@sportsseoul.com]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 임영웅 ‘완벽한 댄스가수로 변신’]]></title>
-        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000934664</id>
-        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000934664"/>
-        <updated>2023-04-08T11:09:53.768Z</updated>
-        <content type="html"><![CDATA[임영웅이 8일 서울 월드컵경기장에서 열린 K리그1 FC서울과 대구FC와 경기 하프타임에 걸그룹아이브의 애프터 라이크(After LIKE)에 맞춰 댄스를 선보이고 있다. 2023. 4. 8. 최승섭기자 thunder@sportsseoul.com임영웅이 8일 서울 월드컵경기장에서 열린 K리그1 FC서울과 대구FC와 경기 하프...]]></content>
     </entry>
 </feed>
