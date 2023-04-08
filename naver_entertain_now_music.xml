@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-04-08T12:26:11.911Z</updated>
+    <updated>2023-04-08T13:14:14.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅 시축이 새로 쓴 스포츠 역사..최다 관중→승리 요정 등극[종합]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003142774</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003142774"/>
+        <updated>2023-04-08T13:13:56.645Z</updated>
+        <content type="html"><![CDATA[가수 임영웅이 '임영웅 파워'를 제대로 보여줬다. 임영웅은 8일 오후 4시 30분 서울월드컵경기장에서 열린 프로축구 K리그 FC서울과 대구FC 경기에 시축자로 나섰다. 이후 임영웅은 관객들과 함께 경기를 관람했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅(Lim Young Woong), 하프타임 축하공연 풀영상 ‘HERO+After LIKE’ [SS쇼캠]]]></title>
         <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000934695</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000934660"/>
         <updated>2023-04-08T11:09:53.773Z</updated>
         <content type="html"><![CDATA[임영웅이 8일 서울 월드컵경기장에서 열린 K리그1 FC서울과 대구FC와 경기에 하프타임에 공연을 하고 나오며 엄지척을 하고 있다.2023. 4. 8.최승섭기자 thunder@sportsseoul.com]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 임영웅 ‘화이팅~’]]></title>
-        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000934659</id>
-        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000934659"/>
-        <updated>2023-04-08T11:09:53.775Z</updated>
-        <content type="html"><![CDATA[임영웅이 8일 서울 월드컵경기장에서 열린 K리그1 FC서울과 대구FC와 경기에 하프타임에 공연을 마치고 나오며 화이팅을 외치고 있다.2023. 4. 8.최승섭기자 thunder@sportsseoul.com]]></content>
     </entry>
 </feed>
