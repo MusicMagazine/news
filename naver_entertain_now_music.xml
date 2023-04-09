@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-04-09T11:14:39.382Z</updated>
+    <updated>2023-04-09T12:20:51.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이브, 첫 정규 'I've IVE'로 컴백..K팝 게임체인저 될까]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003142912</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003142912"/>
+        <updated>2023-04-09T12:20:35.236Z</updated>
+        <content type="html"><![CDATA[그룹 아이브(IVE, 안유진 가을 레이 장원영 리즈 이서)가 더 확고해진 스타일과 메시지로 돌아온다. 아이브는 오는 10일 첫 번째 정규 앨범 '아이해브 아이브(I've IVE)'를 발매하고 본격적인 활동에 나선다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지수 '꽃', 유니크 보컬…글로벌 팬 사로잡다]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004826114</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003717137"/>
         <updated>2023-04-09T05:12:02.530Z</updated>
         <content type="html"><![CDATA[그룹 케플러(Kep1er)의 컴백이 하루 앞으로 다가왔다. 케플러(최유진, 샤오팅, 마시로, 김채현, 김다연, 히카루, 휴닝바히에, 서영은, 강예서)는 오는 10일 오후 6시 네 번째 미니앨범 '러브스트럭(LOVES]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엑스디너리 히어로즈, 타이틀곡은 'Freakin' Bad'..전원 신보 작사·작곡 참여]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004825784</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004825784"/>
-        <updated>2023-04-09T05:12:02.531Z</updated>
-        <content type="html"><![CDATA[JYP엔터테인먼트(이하 JYP) 신인 밴드 엑스디너리 히어로즈(Xdinary Heroes, XH)가 4월 26일 신곡 'Freakin' Bad'(프리킹 배드)로 컴백한다. 엑스디너리 히어로즈는 9일 오후 12시 6분]]></content>
     </entry>
 </feed>
