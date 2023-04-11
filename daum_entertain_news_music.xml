@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-04-11T16:16:47.804Z</updated>
+    <updated>2023-04-11T20:13:33.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[패러디의 묘미…고아라의 ‘김 여사예요’ 인기 역주행]]></title>
+        <id>https://v.daum.net/v/20230412045004735</id>
+        <link href="https://v.daum.net/v/20230412045004735"/>
+        <updated>2023-04-11T20:12:57.518Z</updated>
+        <content type="html"><![CDATA[이젠 아득한 옛날이야기처럼 돼버렸지만 대한민국 경제가 고도성장을 하면서 승용차를 구입해 운전하는 주부들이 폭발적으로 늘어나던 시절이 있었다. 그에 따라 운전이 미숙한 여성 운전자들도 늘어날 수밖에 없었다. 미숙한 운전 탓에 교통의 흐름을 지체시키는 여성 운전자들에게 성격 급한 남성 운전자들이 놀리면서 비하하는 말로 ‘김 여사’라는 단어가 등장해 유행한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[드림노트, 올해 첫 썸머송으로 컴백한다…'레모네이드' MV 티저 '벌써 상큼']]></title>
         <id>https://v.daum.net/v/20230411211822950</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230411173602711"/>
         <updated>2023-04-11T11:13:18.895Z</updated>
         <content type="html"><![CDATA[[텐아시아=우빈 기자] 가수 고(故) 현미가 영원한 안식에 들었다.&nbsp; 현미의 영결식이 11일 오전 9시 서울 흑석동 중앙대학교병원 장례식장에서 엄수됐다. 현미의 두 아들과 조카인 배우 한상진, 가수 노사연이 눈물로 사랑하는 이를 떠나보냈다.&nbsp; 영결식엔 현미를 존경했던 많은 연예계 후배들이 찾았다. 코미디언 이용식이 진행을 맡았고 진행은 코미디언 이용]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이브 레이, 컴백과 동시에 활동 중단]]></title>
-        <id>https://v.daum.net/v/20230411165608315</id>
-        <link href="https://v.daum.net/v/20230411165608315"/>
-        <updated>2023-04-11T11:13:18.897Z</updated>
-        <content type="html"><![CDATA[[서울경제] 그룹 아이브 레이가 건강상의 문제로 활동을 중단한다. 소속사 스타쉽엔터테인먼트는 11일 공식입장을 통해 "레이는 최근 가슴 두근거림과 답답함 등의 컨디션 이상 증세를 느껴 병원을 찾아 상담 및 검진을 받았고, 치료와 안정이 필요하다는 의료진의 소견을 받았다"고 밝혔다. 이어 "전문 의료기관의 소견을 토대로 레이와 충분한 논의 후, 건강 회복을]]></content>
     </entry>
 </feed>
