@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2023-04-13T17:14:26.968Z</updated>
+    <updated>2023-04-13T18:15:53.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[솔로 데뷔 나선 장예은]]></title>
+        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0006747041</id>
+        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0006747041"/>
+        <updated>2023-04-13T18:15:44.757Z</updated>
+        <content type="html"><![CDATA[= 가수 장예은이 서울 종로구 뉴스1 사옥에서 인터뷰에 앞서 포즈를 취하고 있다. 2023.4.14/뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘조선변호사’, 미공개 스틸로 되돌아보는 우도환의 파란만장 인생사]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001045357</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003994686"/>
         <updated>2023-04-13T15:13:47.991Z</updated>
         <content type="html"><![CDATA[배우 이시영에게 '안전불감증' 꼬리가 붙었다. 이시영은 12일 "하와이에서 힘자랑을 해보았다"라는 글과 함께 사진을 게재했다. 공개한 사진에는 이시영이 하와이 하이킹 코스인 라니카이 필박스에서 인증샷을 남겼다. 브라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“너를 만나 뭐든 견딜 수 있었어”...현아, 前남친 던 응원]]></title>
-        <id>https://entertain.naver.com/now/read?oid=009&amp;aid=0005116361</id>
-        <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0005116361"/>
-        <updated>2023-04-13T15:13:47.992Z</updated>
-        <content type="html"><![CDATA[가수 현아가 전 남자친구 던을 응원했다. 현아는 13일 자신의 SNS에 이날 발표된 던의 신곡 ‘빛이 나는 너에게(Dear My Light)’ 뮤직비디오를 게재했다. 이와 함께 현아는 “가장 예쁠 때의 너를 만나서]]></content>
     </entry>
 </feed>
