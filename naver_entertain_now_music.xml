@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-04-13T19:12:47.860Z</updated>
+    <updated>2023-04-13T20:15:23.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이효리, SNS 중단 2년 7개월만에 새 계정 개설..팔로우 급증↑ [스타이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003144346</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003144346"/>
+        <updated>2023-04-13T20:15:06.600Z</updated>
+        <content type="html"><![CDATA[가수 이효리가 SNS 계정을 개설해 팬들의 관심을 모으고 있다. 이효리는 최근 인스타그램 새 계정을 개설했다. 2020년 9월 SNS 활동 중단 선언 후 약 2년 7개월 만이다. 당시 그는 "은근히 신경도 많이 쓰이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[9인조 남돌 나온다...꽃미남 그룹 '소디엑', 25일 데뷔]]></title>
         <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001251295</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000880217"/>
         <updated>2023-04-13T11:11:44.703Z</updated>
         <content type="html"><![CDATA[가수 리디아가 참여한 웹툰 ‘오, 보이!’ OST ‘그대 보이나요’가 공개된다. 오는 16일 정오 각종 온라인 음원사이트를 통해 리디아가 부른 웹툰 ‘Oh, Boy!(오, 보이!)’ OST ‘그대 보이나요’가 발매된]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘엠카운트다운’ 4월의 루키 싸이커스(xikers), 슈퍼 루키 존재감 증명]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000880215</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000880215"/>
-        <updated>2023-04-13T11:11:44.703Z</updated>
-        <content type="html"><![CDATA[신예 싸이커스(xikers)가 ‘슈퍼 루키’다운 진행 실력으로 눈길을 끌었다. 지난달 30일 미니 1집 ‘하우스 오브 트리키 : 도어벨 링잉(HOUSE OF TRICKY : Doorbell Ringing)’을 통해]]></content>
     </entry>
 </feed>
