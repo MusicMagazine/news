@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 06:16:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 07:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[화보] 배우 김민, '농구공 포스']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=258153</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=258153</guid>
+            <pubDate>Thu, 13 Apr 2023 07:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=258153">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230413153950_041b01cb9d8eb8da39c6b4e4fda5a636.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=258153">[화보] 배우 김민, '농구공 포스' </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230413153950_041b01cb9d8eb8da39c6b4e4fda5a636.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["5월, 그날이 다시 오면" 뮤지컬 '광주' 캐릭터 포스터]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=257166</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=255140">[화보] 있지 유나, 첫 단독화보 (매거진 코스모폴리탄)</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230325074755_903337f957ecaea0a06570ffca0de357.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김해나 ‘살인자의 쇼핑몰’ 민혜 역 캐스팅]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=254009</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=254009</guid>
-            <pubDate>Fri, 24 Mar 2023 00:58:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=254009">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230316090044_c1f46f79ad9268a1384543dcab19cb72.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=254009">김해나 ‘살인자의 쇼핑몰’ 민혜 역 캐스팅 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230316090044_c1f46f79ad9268a1384543dcab19cb72.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
