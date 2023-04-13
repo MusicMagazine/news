@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-04-13T18:15:53.799Z</updated>
+    <updated>2023-04-13T19:12:47.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[9인조 남돌 나온다...꽃미남 그룹 '소디엑', 25일 데뷔]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001251295</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001251295"/>
+        <updated>2023-04-13T19:12:30.650Z</updated>
+        <content type="html"><![CDATA[글로벌 신예 아이돌 그룹 소디엑(XODIAC)이 정식 데뷔를 앞두고 9인조 완전체 멤버들을 공개했다. 소디엑은 13일 공식 소셜네트워크서비스를 통해 정식 데뷔 9인을 최초 오픈, 단체 포토 사진을 공개했다. 공개된]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“널 만나서 뭐든 견딜 수 있었어” ‘재결합설’ 현아, 전 연인 ♥던 공개 응원]]></title>
         <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000936212</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000880215"/>
         <updated>2023-04-13T11:11:44.703Z</updated>
         <content type="html"><![CDATA[신예 싸이커스(xikers)가 ‘슈퍼 루키’다운 진행 실력으로 눈길을 끌었다. 지난달 30일 미니 1집 ‘하우스 오브 트리키 : 도어벨 링잉(HOUSE OF TRICKY : Doorbell Ringing)’을 통해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘엠카’ 박지훈, 깊어진 눈빛… 신곡 ‘블랭크 이펙트’로 화려한 무대]]></title>
-        <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003269182</id>
-        <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003269182"/>
-        <updated>2023-04-13T11:11:44.707Z</updated>
-        <content type="html"><![CDATA[가수 박지훈이 6개월 만의 컴백을 화려하게 알렸다. 박지훈은 13일 방송된 Mnet ‘엠카운트다운’(‘엠카’)에 출연해 일곱 번째 미니앨범 ‘블랭크 오어 블랙’(Blank or Black) 타이틀곡 ‘블랭크 이펙트’]]></content>
     </entry>
 </feed>
