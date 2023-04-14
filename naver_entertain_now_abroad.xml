@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2023-04-14T20:15:21.947Z</updated>
+    <updated>2023-04-14T21:13:11.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[테일러 스위프트, 결별 후 첫 행보...12만 끼 식사 기부 [할리웃통신]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001251458</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001251458"/>
+        <updated>2023-04-14T21:13:10.918Z</updated>
+        <content type="html"><![CDATA[팝 스타 테일러 스위프트가 월드투어 진행 중 선한 영향력을 펼치고 있다. 최근 테일러 스위프트가 플로리다주 탬파베이 지역에서 '더 에라 투어' 개최를 앞두고 해당 지역의 푸드 뱅크 조직에 기부를 한 것이 뒤늦게 알려]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[레이디 가가, 백악관 간다...예술계 위원장 임명 [할리웃통신]]]></title>
         <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001251456</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000932095"/>
         <updated>2023-04-14T11:13:40.698Z</updated>
         <content type="html"><![CDATA[14일 오후 서울 송파구 잠실야구장에서 ‘2023 프로야구’ 두산 베어스와 LG 트윈스의 경기가 열렸다. 유튜브 스타 다나카(개그맨 김경욱)가 시구를 하고 있다. 잠실(서울)=천정환 MK스포츠 기자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로켓펀치 수윤 ‘로켓 시구’ [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000932094</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000932094"/>
-        <updated>2023-04-14T11:13:40.702Z</updated>
-        <content type="html"><![CDATA[14일 오후 서울 고척스카이돔에서 ‘2023 KBO리그’ KIA 타이거즈와 키움 히어로즈 경기가 열렸다. 경기에 앞서 걸그룹 로켓펀치 수윤이 시구를 하고 있다. 고척(서울)=김영구 MK스포츠 기자]]></content>
     </entry>
 </feed>
