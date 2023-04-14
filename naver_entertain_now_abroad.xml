@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2023-04-14T16:19:18.392Z</updated>
+    <updated>2023-04-14T20:15:21.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[레이디 가가, 백악관 간다...예술계 위원장 임명 [할리웃통신]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001251456</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001251456"/>
+        <updated>2023-04-14T20:15:21.280Z</updated>
+        <content type="html"><![CDATA[가수 겸 배우 레이디 가가가 백악관으로 향한다. 13일(현지 시간) 미국 백악관 측은 조 바이든 대통령이 예술인문학위원회 공동 위원장으로 레이디 가가를 지명했다고 발표했다. 1982년 로널드 레이건 전 미 대통령이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[라이언 고슬링, 12년 만난 여친과 불화?..."사생활 지켜줘" [할리웃통신]]]></title>
         <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001251443</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000932094"/>
         <updated>2023-04-14T11:13:40.702Z</updated>
         <content type="html"><![CDATA[14일 오후 서울 고척스카이돔에서 ‘2023 KBO리그’ KIA 타이거즈와 키움 히어로즈 경기가 열렸다. 경기에 앞서 걸그룹 로켓펀치 수윤이 시구를 하고 있다. 고척(서울)=김영구 MK스포츠 기자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수윤 ‘긴 머리 날리며 청순 시구’ [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000932093</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000932093"/>
-        <updated>2023-04-14T11:13:40.703Z</updated>
-        <content type="html"><![CDATA[14일 오후 서울 고척스카이돔에서 ‘2023 KBO리그’ KIA 타이거즈와 키움 히어로즈 경기가 열렸다. 경기에 앞서 걸그룹 로켓펀치 수윤이 시구, 다현이 시타를 하고 있다. 고척(서울)=김영구 MK스포츠 기자]]></content>
     </entry>
 </feed>
