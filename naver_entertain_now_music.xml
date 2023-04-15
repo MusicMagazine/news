@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-04-15T11:15:56.274Z</updated>
+    <updated>2023-04-15T12:23:49.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블랙핑크 지수, ‘꽃’ 英 오피셜 차트 2주 연속 차트인]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000932299</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000932299"/>
+        <updated>2023-04-15T12:23:33.973Z</updated>
+        <content type="html"><![CDATA[블랙핑크 지수의 첫 솔로 앨범 [ME]가 각종 글로벌 음원 차트에서 꾸준한 인기를 이어가고 있다. 14일(현지시간) 발표된 영국 오피셜 차트 싱글 톱100에 따르면 지수의 솔로 앨범 [ME] 타이틀곡 ‘꽃(FLOWE]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[템페스트, '난장(Dangerous)'→'I'll Be There'까지..루X화랑 전곡 작사 '기대 UP']]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003144780</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004830268"/>
         <updated>2023-04-15T08:14:37.937Z</updated>
         <content type="html"><![CDATA[YG 신인 걸그룹 베이비몬스터(BABYMONSTER) 치키타가 수준급 가창력으로 전 세계 음악팬들의 관심을 집중시켰다. YG엔터테인먼트는 15일 공식 블로그에 치키타가 부른 'traitor' 커버 비디오를 게재했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['YG 新걸그룹' 베이비몬스터, 13세 맞아? 치키타 수준급 가창력]]></title>
-        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003625976</id>
-        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003625976"/>
-        <updated>2023-04-15T08:14:37.938Z</updated>
-        <content type="html"><![CDATA[YG 신인 걸그룹 베이비몬스터(BABYMONSTER) 치키타가 수준급 가창력을 선보였다. YG엔터테인먼트는 15일 공식 블로그에 치키타가 부른 'traitor' 커버 비디오를 게재했다. 앞서 데뷔 리얼리티 'Last]]></content>
     </entry>
 </feed>
