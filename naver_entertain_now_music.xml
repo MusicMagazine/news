@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-04-15T14:11:34.040Z</updated>
+    <updated>2023-04-15T15:12:23.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘음중’ 첫사랑(CSR), ‘빛을 따라서’ 떠나는 소녀들]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000880614</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000880614"/>
+        <updated>2023-04-15T15:12:06.923Z</updated>
+        <content type="html"><![CDATA[걸그룹 첫사랑(CSR)이 화사한 빛으로 ‘음악중심’ 무대를 장식했다. 첫사랑(수아, 금희, 시현, 서연, 유나, 두나, 예함)은 15일 방송된 MBC 음악 프로그램 ‘쇼! 음악중심’에 출연해 두 번째 미니앨범 ‘DE]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 피프티피프티 인기 美쳤다, 현지 레스토랑 떼창 진풍경]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000880597</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005464592"/>
         <updated>2023-04-15T08:14:37.933Z</updated>
         <content type="html"><![CDATA[사진=레이벡스 제공 싱어송라이터 그룹 잠골버스가 봄날의 설렘을 담은 신곡을 선보인다. 잠골버스(정윤섭, 안준헌, 김용, 정일호)는 오는 16일 오후 6시 각종 온라인 음원 사이트를 통해 신곡 ‘사랑이 불고 불어’를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태국 출신 13세' 베이비몬스터 치키타, 팬들 환호한 '압도적 무대']]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003144738</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003144738"/>
-        <updated>2023-04-15T08:14:37.934Z</updated>
-        <content type="html"><![CDATA[YG 신인 걸그룹 베이비몬스터(BABYMONSTER) 치키타가 수준급 가창력으로 전 세계 음악팬들의 관심을 집중시켰다. YG엔터테인먼트는 15일 공식 블로그에 치키타가 부른 'traitor' 커버 비디오를 게재했다.]]></content>
     </entry>
 </feed>
