@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 05:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 08:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유지태, '에드워드 호퍼 전시회' 오디오 가이드 ... 서울시립미술관 《에드워드 호퍼: 길 위에서》]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=259148</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=259148</guid>
+            <pubDate>Thu, 20 Apr 2023 08:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=259148">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230420162216_e5c6f9c25ffc35a835a99be3f16b0d87.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=259148">유지태, '에드워드 호퍼 전시회' 오디오 가이드 ... 서울시립미술관 《에드워드 호퍼: 길 위에서》</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230420162216_e5c6f9c25ffc35a835a99be3f16b0d87.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[화보] 표예진 '모범택시'와 '청춘월담' 다음은 '에스콰이어' 화보]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=259046</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=255750">뮤지컬 '트레이스 유' 캐스팅 라인업 공개... "10년을 더 뜨겁게"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230329073340_f2f0aeaa5316857c674504ba27edb9a2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[출판사 '인플루엔셜',  판타지 브랜드 ‘래빗홀’ 론칭... "한국 장르소설 선보일 예정"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=255640</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=255640</guid>
-            <pubDate>Tue, 28 Mar 2023 03:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=255640">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230328105404_4cdf1bf44915f6297ac925e3fc647bd0_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=255640">출판사 '인플루엔셜',  판타지 브랜드 ‘래빗홀’ 론칭... "한국 장르소설 선보일 예정"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230328105404_4cdf1bf44915f6297ac925e3fc647bd0_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
