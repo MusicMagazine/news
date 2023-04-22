@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-04-22T10:16:27.053Z</updated>
+    <updated>2023-04-22T11:16:26.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['보이스 코리아' 전철민, 신곡 '한강을 보다가 니 생각이 났어' 발매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003146588</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003146588"/>
+        <updated>2023-04-22T11:16:09.212Z</updated>
+        <content type="html"><![CDATA[가수 전철민이 신곡으로 돌아온다. 22일 전철민 측은 "엠오티 레이블 음악 프로젝트 '감성모음집' 세 번째 아티스트로 참여한 전철민의 신곡 '한강을 보다가 니 생각이 났어'가 이날 오후 6시 각종 음원사이트를 통해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[故 문빈, 달처럼 풍성했던 마음씨 쏟아지는 미담]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000882174</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000882166"/>
         <updated>2023-04-22T07:13:40.998Z</updated>
         <content type="html"><![CDATA[그룹 케플러(Kep1er)가 독특한 매력을 뽐냈다. 케플러는 최근 진행한 매거진 퍼스트룩과의 화보 촬영에서 고양이 인형과 하트 오브제 등 러블리한 매력을 배가시키는 다채로운 소품들을 활용해 유니크한 무드를 완성했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[할리데이, 태완 프로듀싱 신곡 발매]]></title>
-        <id>https://entertain.naver.com/now/read?oid=018&amp;aid=0005469573</id>
-        <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005469573"/>
-        <updated>2023-04-22T07:13:41.000Z</updated>
-        <content type="html"><![CDATA[가수 할리데이(Holiday)가 신곡 ‘파인드 유어스’(find yours)를 22일 발매했다. 할리데이는 2016년 데뷔 이후 다수의 싱글을 내고 레트로 블루스, 팝 알앤비 등 여러 장르의 음악을 선보였다. 정식]]></content>
     </entry>
 </feed>
