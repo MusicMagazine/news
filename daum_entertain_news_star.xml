@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-04-23T18:14:42.013Z</updated>
+    <updated>2023-04-23T19:10:39.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전세계 940만명이 뽑은 아이돌… 보이즈 플래닛의 ‘제베원’]]></title>
+        <id>https://v.daum.net/v/20230424040842423</id>
+        <link href="https://v.daum.net/v/20230424040842423"/>
+        <updated>2023-04-23T19:10:09.066Z</updated>
+        <content type="html"><![CDATA[‘가장 높은 곳에서 빛나고 싶다.’ 98명의 소년이 ‘아이돌 데뷔’라는 하나의 꿈을 품고 시작한 여정에서 최종 9명의 소년이 살아남았다. 엠넷의 아이돌 선발 프로그램 ‘보이즈 플래닛’을 통해 전세계 K팝 팬이 직접 뽑은 보이그룹 ‘제로베이스원’(제베원)이 탄생했다. 제베원의 최종 멤버를 뽑기 위한 ‘보이즈 플래닛’의 파이널 무대가 열린 지난 20일 서울]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['닥터 차정숙' 엄정화, 김병철·명세빈 불륜 눈치채고 감전→실신]]></title>
         <id>https://v.daum.net/v/20230424021606915</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230423223344797"/>
         <updated>2023-04-23T14:13:22.967Z</updated>
         <content type="html"><![CDATA[‘판도라 : 조작된 낙원’ 이상윤이 대통령에 당선됐다. 23일 오후 방송된 tvN 주말드라마 ‘판도라 : 조작된 낙원’에서는 대통령이 된 이상윤이 연구소를 폭파시키며 권현빈, 고윤빈, 홍우진을 살해한 장면이 전파를 탔다. 이날 고해수(장희진)는 차에 오르는 표재현(이상윤)을 살해하기 위해 총을 쐈고 이를 홍태라(이지아)가 막아서며 대신 맞게 됐다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['걸환장' 강남 "이상화 은퇴 이유? 운동 더 하면 못 걸을 수도 있다고"]]></title>
-        <id>https://v.daum.net/v/20230423222457759</id>
-        <link href="https://v.daum.net/v/20230423222457759"/>
-        <updated>2023-04-23T14:13:22.968Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 황미현 기자 = 강남이 이상화와 은퇴와 관련한 이야기를 나눴다. 23일 오후 9시25분 방송된 KBS 2TV '걸어서 환장 속으로'에는 강남, 이상화, 이연복이 출연해 여행기를 소개했다. 이날 강남과 이상화는 필리핀 보홀에서 초심 찾기 여행을 즐겼다. 이날 두 사람은 레저 후 식사를 하는 시간을 가졌다. 강남은 조심스럽게 이상화에게]]></content>
     </entry>
 </feed>
