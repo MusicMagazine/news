@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-04-24T19:13:09.441Z</updated>
+    <updated>2023-04-24T21:14:03.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[18살 CLC 장예은, 26살 솔로 가수 예은으로]]></title>
+        <id>https://v.daum.net/v/20230425051018121</id>
+        <link href="https://v.daum.net/v/20230425051018121"/>
+        <updated>2023-04-24T21:13:27.372Z</updated>
+        <content type="html"><![CDATA[[이데일리 스타in 김현식 기자] 톡 쏘는 콜라처럼 짜릿한 새 출발이다. 예은(장예은)이 가수 인생 2막을 시원하게 열어젖혔다. 18살이었던 2015년 걸그룹 CLC의 메인 래퍼로 가요계에 발을 들였던 예은이 어느덧 26살 솔로 가수가 되어 대중 앞에 다시 섰다. 솔로 데뷔 싱글명 ‘더 비기닝’(The Beginning)에선 그런 예은의 결연한 의지가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["텅텅 비어있었다"…마미손, 쏟아내고 채운 시간들]]></title>
         <id>https://v.daum.net/v/20230425000057337</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230424180004708"/>
         <updated>2023-04-24T09:15:42.175Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 '손오공' 그 자체가 된 강렬한 신곡으로 돌아왔다. 세븐틴은 24일 오후 6시 미니 10집 'FML'을 발매하고, 더블 타이틀곡 중 하나인 '손오공' 뮤직비디오를 공개했다. 미니 10집 앨범명인 'FML'은 영어 신조]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경서, 첫 전국투어 마무리.."잠시나마 쉼의 시간 됐기를"]]></title>
-        <id>https://v.daum.net/v/20230424175832659</id>
-        <link href="https://v.daum.net/v/20230424175832659"/>
-        <updated>2023-04-24T09:15:42.180Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이승훈 기자] /사진=꿈의엔진가수 경서가 데뷔 첫 전국투어를 성황리에 마쳤다. 경서는 22일 대구 영남대학교 천마아트센터 챔버홀에서 2023 전국투어 콘서트 '너와 나의 봄'의 마지막 공연을 개최했다. '너와 나의 봄'은 경서가 데뷔 후 처음으로 준비한 전국투어다. 지난달 25일과 26일 서울에서 출발해 부산에 이어 대구에서도 성공적으로]]></content>
     </entry>
 </feed>
