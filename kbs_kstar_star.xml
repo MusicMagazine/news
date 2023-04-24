@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Apr 2023 19:10:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 01:02:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이순재의 리어왕, 마곡 행차... 6월 1일 LG아트센터서울 개막]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=258951</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=258951</guid>
+            <pubDate>Mon, 24 Apr 2023 01:01:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=258951">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230419125908_3090acbbec394efdd4ff3e140f8b8aeb.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=258951">이순재의 리어왕, 마곡 행차... 6월 1일 LG아트센터서울 개막</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230419125908_3090acbbec394efdd4ff3e140f8b8aeb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[송승하, ‘미드나잇 호러’로 칸 시리즈 참석]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=259387</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=255962">[화보] 송강, 일본 패션 매거진 '누메로 도쿄' 특별판 커버 장식</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230331093242_4d3721c106270bb94adcbc25143db674.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장] 자동'차'와 '자동'차, 그리고 충전로봇”...  2023 서울모빌리티쇼, 오늘 킨텍스에서 개막]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=255939</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=255939</guid>
-            <pubDate>Fri, 31 Mar 2023 03:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=255939">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230331085616_8c995d46c0c1e31016e973bc8d1cdda8.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=255939">[현장] 자동'차'와 '자동'차, 그리고 충전로봇”...  2023 서울모빌리티쇼, 오늘 킨텍스에서 개막  </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230331085616_8c995d46c0c1e31016e973bc8d1cdda8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
