@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2023-04-24T21:14:03.715Z</updated>
+    <updated>2023-04-24T22:16:59.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제니퍼 로페즈, 몸매 타고나..."뭐든 엄청 잘 먹는다" [할리웃통신]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001252554</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001252554"/>
+        <updated>2023-04-24T22:16:58.794Z</updated>
+        <content type="html"><![CDATA[배우 벤 애플렉이 아내 제니퍼 로페즈에 대한 자랑을 쏟아냈다. 지난 21일(현지 시간) '드류 베리모어 쇼'에 출연한 벤 애플렉(50)이 아내 제니퍼 로페즈(53)의 몸매 관리 비결을 공개했다. 벤 애플렉은 아내에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안성훈 ‘틀린그림찾기’ 정답]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000934012</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000933984"/>
         <updated>2023-04-24T12:24:58.605Z</updated>
         <content type="html"><![CDATA[배우 이선균이 24일 오후 서울 강남구 메가박스 코엑스에서 열린 영화 ‘드림’ VIP 시사회에 참석해 포토타임을 갖고 있다. 삼성동(서울)=천정환 MK스포츠 기자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김우빈 ‘멋진 미소’ [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000933983</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000933983"/>
-        <updated>2023-04-24T12:24:58.605Z</updated>
-        <content type="html"><![CDATA[배우 김우빈이 24일 오후 서울 강남구 메가박스 코엑스에서 열린 영화 ‘드림’ VIP 시사회에 참석해 포토타임을 갖고 있다. 삼성동(서울)=천정환 MK스포츠 기자]]></content>
     </entry>
 </feed>
