@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 21:11:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 23:17:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[걸그룹 피프티 피프티, ‘큐피드’ 빌보드 ‘핫 100’ 50위]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=259857</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=259857</guid>
+            <pubDate>Tue, 25 Apr 2023 23:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=259857">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230426080332_a15feb82eb92e2729da140bfa3340d3f_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=259857">걸그룹 피프티 피프티, ‘큐피드’ 빌보드 ‘핫 100’ 50위</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230426080332_a15feb82eb92e2729da140bfa3340d3f_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[르세라핌, 정규1집 ‘UNFORGIVEN’ 위버스 앨범 사진]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=259519</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=257562">블랙핑크, 도쿄 돔 공연 "이틀 간 11만 명, 압도적 티켓파워 과시"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230410112837_98daacfde3a225a86d780ab5b03eabed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김준수의 특별한 봄, 일본  ‘더 베스트 발라드 스프링’ 콘서트 성료]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=257524</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=257524</guid>
-            <pubDate>Mon, 10 Apr 2023 02:35:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=257524">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230410102105_4e36b8d6a76d549914044929d1b995ee.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=257524">김준수의 특별한 봄, 일본  ‘더 베스트 발라드 스프링’ 콘서트 성료</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230410102105_4e36b8d6a76d549914044929d1b995ee.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
