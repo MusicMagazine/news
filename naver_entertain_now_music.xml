@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-04-26T15:16:26.835Z</updated>
+    <updated>2023-04-26T17:15:01.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다큐 '자우림, 더 원더랜드', 전주국제영화제서 첫선]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011826517</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011826517"/>
+        <updated>2023-04-26T17:14:44.588Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 지난해 25주년 맞은 팀 이야기·콘서트 활동기 그려 록밴드 '자우림'의 일대기를 다룬 다큐멘터리가 공개된다. 27일 소속사 인터파크 엔터테인먼트와 소속사 써티세븐스디그리(37th Degree)에 따르면]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박태환, 이상형 산다라박과 13년 만에 재회.. “연결고리는 지드래곤” (신랑수업)]]></title>
         <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000939604</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003147805"/>
         <updated>2023-04-26T10:18:26.633Z</updated>
         <content type="html"><![CDATA[아티스트 박현진이 BIG Naughty와 컬래버레이션을 선보인다. 박현진은 26일 오후 6시 하이어뮤직 공식 SNS를 통해 세 번째 싱글 '너 (Feat. BIG Naughty)'의 D-2 티저 이미지를 공개했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[르세라핌, 음악·메시지 물리적 현현…팝업 스토어 오픈]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011826177</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011826177"/>
-        <updated>2023-04-26T10:18:26.634Z</updated>
-        <content type="html"><![CDATA[기사내용 요약 오늘부터 5월7일까지 서울 성수동 쎈느서 운영 4세대 K팝 간판 걸그룹 '르세라핌(LE SSERAFIM)'의 첫 단독 팝업 스토어가 문을 열었다. 26일 소속사 쏘스뮤직에 따르면, 르세라핌은 이날부터]]></content>
     </entry>
 </feed>
