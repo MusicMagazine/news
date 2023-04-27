@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 22:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 23:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[화보] 비투비, '완전체 컴백' 준비완료]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=260116</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=260116</guid>
+            <pubDate>Thu, 27 Apr 2023 23:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=260116">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230428074105_832004104a7e17d893b3a94a3ef52f42.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=260116">[화보] 비투비, '완전체 컴백' 준비완료</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230428074105_832004104a7e17d893b3a94a3ef52f42.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김준수, 뮤지컬 '데스노트'와 함께 매거진 커버 장식]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=259970</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=258153">[화보] 배우 김민, '농구공 포스' </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230413153950_041b01cb9d8eb8da39c6b4e4fda5a636.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["5월, 그날이 다시 오면" 뮤지컬 '광주' 캐릭터 포스터]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=257166</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=257166</guid>
-            <pubDate>Mon, 10 Apr 2023 00:59:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=257166">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230407161528_20b518368d2e1e0f356b02106bc19e57.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=257166">"5월, 그날이 다시 오면" 뮤지컬 '광주' 캐릭터 포스터</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230407161528_20b518368d2e1e0f356b02106bc19e57.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
