@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-04-27T12:24:42.578Z</updated>
+    <updated>2023-04-27T13:18:28.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주은, 솔로 데뷔곡 ‘Easy Breezy‘ 발매…안무가 최영준 지원사격]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000934707</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000934707"/>
+        <updated>2023-04-27T13:18:11.764Z</updated>
+        <content type="html"><![CDATA[다이아 출신 주은의 솔로 데뷔곡이 베일을 벗었다. 주은은 27일 정오 각종 음원사이트를 통해 첫 싱글 ‘Easy Breezy’(이지 브리지)를 발매, 본격 솔로 활동에 나섰다. 이번 ‘Easy Breezy’는 그룹]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가수 카진, 웹툰 ‘카페 앵커리지’ OST ‘Blowing’ 29일 전격 발매]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000883536</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000934621"/>
         <updated>2023-04-27T12:24:24.666Z</updated>
         <content type="html"><![CDATA[스타들의 사소한 생활이 궁금하다고요? 배우부터 가수, 개그맨까지 그들의 모든 것을 파헤쳐보는 시간을 가져봤습니다. 그동안 팬과 일반인들이 궁금했던 사소하고도 은밀했던 사항, 스타의 A부터 Z까지를 ‘사소한 인터뷰’를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원어스, 선공개곡 '잇다 있다 잊었다'에 담은 음악적 자신감 [MD신곡]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003723667</id>
-        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003723667"/>
-        <updated>2023-04-27T12:24:24.668Z</updated>
-        <content type="html"><![CDATA[그룹 원어스가 신보 수록곡 '잇다 있다 잊었다(Unforgettable)' 뮤직비디오를 27일 선공개했다. '잇다 있다 잊었다'는 마치 영화 속 주인공 같았던 우리의 찬란한 순간을 떠올리게 하는 곡이다. 너를 잊었지]]></content>
     </entry>
 </feed>
