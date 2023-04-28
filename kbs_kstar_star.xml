@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 07:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 09:18:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["오페라를 노래하라!" 오디 뮤지컬 '일 테노레' 공개 오디션]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=260269</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=260269</guid>
+            <pubDate>Fri, 28 Apr 2023 09:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=260269">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230428163934_6f18d03b24c52dc0d6d38ee916e85c2d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=260269">"오페라를 노래하라!" 오디 뮤지컬 '일 테노레' 공개 오디션 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230428163934_6f18d03b24c52dc0d6d38ee916e85c2d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장] 신춘수 프로듀서 "위대한 오디, 우리는 브로드웨이로 간다!“]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=260170</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=258230">뮤지컬 ‘베토벤; Beethoven Secret’, "감동은 이어진다"...  오늘 세종문화회관 개막</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230414080734_c03233b84352de67e99fafecc360af83.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['썸바디' 강해림, 이번엔 드라마 ‘가스라이팅’]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=258117</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=258117</guid>
-            <pubDate>Fri, 14 Apr 2023 01:00:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=258117">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230413091216_d9d361bd654059e5882a888afc566767.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=258117">'썸바디' 강해림, 이번엔 드라마 ‘가스라이팅’ </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230413091216_d9d361bd654059e5882a888afc566767.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
