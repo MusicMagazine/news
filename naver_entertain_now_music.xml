@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-04-28T19:12:53.781Z</updated>
+    <updated>2023-04-28T20:13:19.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘하이어뮤직 프로듀서’ SMMT(써밋), 29일 첫 단독 콘서트···pH-1→김하온 (HAON) 게스트 출격]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000883838</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000883838"/>
+        <updated>2023-04-28T20:13:02.651Z</updated>
+        <content type="html"><![CDATA[아티스트 SMMT이 첫 단독 콘서트를 개최한다. SMMT은 29일 서울 용산구 현대카드 언더스테이지에서 첫 단독 콘서트 ‘현대카드 Curated 84 SMMT’을 개최하고 팬들을 만난다. ‘현대카드 Curated 8]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유나이트, 새 앨범 트랙리스트 공개...'청량+힙' 담아냈다]]></title>
         <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001253204</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003148459"/>
         <updated>2023-04-28T10:13:44.195Z</updated>
         <content type="html"><![CDATA[가수 겸 배우 이승기가 산뜻한 헤어 변신을 보여줬다. 이승기 소속사 휴먼메이드는 28일 "Lee Seung Gi ASIA TOUR [The Dreamer's Dream - Chapter2] D-6 #dreamers#]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['디어클라우드' 나인, 코로나 확진…"스케줄 중단"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011831507</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011831507"/>
-        <updated>2023-04-28T10:13:44.196Z</updated>
-        <content type="html"><![CDATA[정진아 인턴 기자 = 밴드 '디어클라우드' 보컬 나인(NINE9)이 코로나19 확진 판정을 받다았고 소속사 엠와이뮤직이 28일 밝혔다. 이날 진행한 PCR 검사에서 이 같은 결과가 나왔다. 나인의 현재 증상은 경미하]]></content>
     </entry>
 </feed>
