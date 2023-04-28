@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-04-28T20:13:18.994Z</updated>
+    <updated>2023-04-28T21:11:18.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인기 아이돌, 3주 컴백 프로모션하고 활동은 딱 1주…왜]]></title>
+        <id>https://v.daum.net/v/20230429060003586</id>
+        <link href="https://v.daum.net/v/20230429060003586"/>
+        <updated>2023-04-28T21:10:37.871Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 황미현 기자 = "컴백 전 프로모션은 한달, 컴백 후 활동은 딱 1주…아쉬워요." "티저로 찔끔찔끔 공개…오히려 컴백때 실망하기도." 최근 인기 아이돌들은 3주에서 길게는 한 달 전부터 새 앨범 관련 트랙리스트와 티저 등을 '조금씩' 공개하며 프로모션에 돌입한다. 그러나 정작 컴백 후에는 1주~2주로 짧은 공식 일정이 마무리된다. 일부]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신비, '절친' 故 문빈에 남긴 편지.."너의 행복만을 위해 살아"]]></title>
         <id>https://v.daum.net/v/20230429010427377</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230428175042502"/>
         <updated>2023-04-28T09:17:31.506Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 팝가수 비욘세(41)가 미국 정부에 270만 달러(한화 약 35악원)의 세금을 빚지고 있다는 국세청의 주장에 이의를 제기했다. 27일(현지시간) 페이지 식스가 입수한 미국 세무법원 문서에 따르면 비욘세는 지난 4월 17일 행정부가 자신의 2018년과 2019년 세금 신고서를 결정하는 과정에서 여러 가지 오류를 범했다고 주장하는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투모로우바이투게더, 오는 7월 日 정규 2집 'SWEET' 발매]]></title>
-        <id>https://v.daum.net/v/20230428173730027</id>
-        <link href="https://v.daum.net/v/20230428173730027"/>
-        <updated>2023-04-28T09:17:31.507Z</updated>
-        <content type="html"><![CDATA[[스포츠한국 모신정 기자]&nbsp;그룹 투모로우바이투게더가 오는 7월 일본 정규 2집을 낸다. 28일 소속사 빅히트 뮤직에 따르면, 투모로우바이투게더(수빈, 연준, 범규, 태현, 휴닝카이)는 7월 5일 두 번째 일본 정규 앨범 'SWEET'를 발매한다. 또한, 투모로우바이투게더는 'SWEET' 발매를 기념해 쇼케이스를 개최하고 현지 팬들과 만날 예정이다.]]></content>
     </entry>
 </feed>
