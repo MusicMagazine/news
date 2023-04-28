@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 04:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 05:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장] 신춘수 프로듀서 "위대한 오디, 우리는 브로드웨이로 간다!“]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=260170</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=260170</guid>
+            <pubDate>Fri, 28 Apr 2023 05:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=260170">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230428134448_18d15de9290af0f383d997ea7062c4e0.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=260170">[현장] 신춘수 프로듀서 "위대한 오디, 우리는 브로드웨이로 간다!“</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230428134448_18d15de9290af0f383d997ea7062c4e0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[화보] 비투비, '완전체 컴백' 준비완료]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=260116</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=258117">'썸바디' 강해림, 이번엔 드라마 ‘가스라이팅’ </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230413091216_d9d361bd654059e5882a888afc566767.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[화보] 배우 김민, '농구공 포스']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=258153</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=258153</guid>
-            <pubDate>Thu, 13 Apr 2023 07:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=258153">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230413153950_041b01cb9d8eb8da39c6b4e4fda5a636.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=258153">[화보] 배우 김민, '농구공 포스' </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230413153950_041b01cb9d8eb8da39c6b4e4fda5a636.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
