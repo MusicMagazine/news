@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Apr 2023 08:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Apr 2023 09:12:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SLL 작품, '백상예술대상’ 4관왕... '재벌집' 이성민'해방일지’ 박해영 작가]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=260334</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=260334</guid>
+            <pubDate>Sat, 29 Apr 2023 09:11:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=260334">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230429171746_497088cbfad88fa0f987123e184cc6b5.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=260334">SLL 작품, '백상예술대상’ 4관왕... '재벌집' 이성민'해방일지’ 박해영 작가</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230429171746_497088cbfad88fa0f987123e184cc6b5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[허광한, 백상 시상식 위해 내한... "이제훈 배려에 감사..작품 호흡 기대해"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=260329</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=258593">[화보] 전도연 아우라 '코스모폴리탄' 커버 장식</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230417090552_73d7a8e60285be2c16a40f5422bfe0dc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["어서 와, CNN앵커는 처음이지"  리차드 퀘스트,  DMZ와 PC방, K팝을 체험하다... CNN  ‘퀘스트 월드 오브 원더’ 서울편]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=258269</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=258269</guid>
-            <pubDate>Fri, 14 Apr 2023 08:14:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=258269">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230414163102_c8ef682dcb3b4c6d4d911d4b7abd8836.JPG" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=258269">"어서 와, CNN앵커는 처음이지"  리차드 퀘스트,  DMZ와 PC방, K팝을 체험하다... CNN  ‘퀘스트 월드 오브 원더’ 서울편 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230414163102_c8ef682dcb3b4c6d4d911d4b7abd8836.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-04-29T08:16:31.503Z</updated>
+    <updated>2023-04-29T09:12:43.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“1조 파티? 주최 아닌 게스트” 임창정, 주가조작 논란 후폭풍ing]]></title>
+        <id>https://v.daum.net/v/20230429173118131</id>
+        <link href="https://v.daum.net/v/20230429173118131"/>
+        <updated>2023-04-29T09:12:03.164Z</updated>
+        <content type="html"><![CDATA[[OSEN=지민경 기자] 가수 임창정이 주가조작 의혹에 휩싸이며 연일 이슈에 오르내리고 있는 가운데 주가조작단 1조원 파티에 참석했다는 사실이 드러나며 관심이 집중됐다. 임창정은 최근 외국계 증권사 SG(소시에테제네랄) 증권발 주가 폭락 사태에 가담했다는 의혹이 제기되며 논란의 중심에 섰다. 지난 24일부터 8개 종목의 매물은 외국계 증권사 SG(소시에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['음악중심' NCT 도재정, 아이브·지수 꺾고 1위 "더 열심히 하겠다"]]></title>
         <id>https://v.daum.net/v/20230429171315961</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230429113349099"/>
         <updated>2023-04-29T03:14:16.834Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 그룹 피프티 피프티(FIFTY FIFTY)가 또 하나의 기록을 세웠다. 4월 29일(현지시간) 발표된 영국 ‘오피셜 싱글차트 톱 100’에 피프티 피프티(FIFTY FIFTY) ‘CUPID‘가 18위에 올랐다. 피프티 피프티(FIFTY FIFTY)가 기록한 18위는 케이팝 걸그룹곡이 오른 최고 순위(솔로곡 기준)다. 피프티 피프티]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추모·주가 조작 연루·새 소속사 계약...쉴 틈 없는 가요계]]></title>
-        <id>https://v.daum.net/v/20230429112051971</id>
-        <link href="https://v.daum.net/v/20230429112051971"/>
-        <updated>2023-04-29T03:14:16.835Z</updated>
-        <content type="html"><![CDATA[이번 주 가요계는 눈물과 의혹, 그리고 새 출발까지 다방면의 이슈가 이어졌다. 세상을 떠난 그룹 아스트로 멤버 故 문빈을 향한 동료 연예인들의 계속된 추모를 시작으로 가수 임창정이 개입된 주가 조작 사태, 그리고 그룹 브레이브걸스가 새 소속사를 찾으며 완전체 새출발 소식까지 쉴 틈 없는 소식들이 가요계 한 주를 완성했다. ◇ 故 문빈 향한 동료 연예인들]]></content>
     </entry>
 </feed>
