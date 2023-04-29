@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Apr 2023 14:11:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Apr 2023 15:11:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포토] 예지, 눈빛이 다한거 있지]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/380706</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/380706</guid>
+            <pubDate>Sat, 29 Apr 2023 15:11:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/380706">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/04/30/33c60e06-81c6-42a2-b990-cec014078489.jpg" alt="[포토] 예지, 눈빛이 다한거 있지">        <div class="text-box">            <p class="summary">[포토] 예지, 눈빛이 다한거 있지</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/04/30/33c60e06-81c6-42a2-b990-cec014078489.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지드래곤, 태양 '쇼!음악중심' 본방사수하며 "엔딩요정! 최고였어요"]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/380696</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 28 Apr 2023 15:15:27 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/380585">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/04/28/74c9a1e6-09e7-492c-a22f-84b2766ac1ec.jpg" alt="뷔, 오늘은 라면 요리사! “팬분들 다 우실 듯...아무것도 모르던 애가” (서진이네)">        <div class="text-box">            <p class="summary">뷔, 오늘은 라면 요리사! “팬분들 다 우실 듯...아무것도 모르던 애가” (서진이네)</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/04/28/74c9a1e6-09e7-492c-a22f-84b2766ac1ec.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['지락실2' 이은지-미미-이영지-안유진, 그 멤버 그대로 돌아온다!]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/380523</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/380523</guid>
-            <pubDate>Fri, 28 Apr 2023 07:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/380523">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/04/28/40ab935f-e509-490b-9a56-37c535a5e9fb.jpg" alt="'지락실2' 이은지-미미-이영지-안유진, 그 멤버 그대로 돌아온다!">        <div class="text-box">            <p class="summary">'지락실2' 이은지-미미-이영지-안유진, 그 멤버 그대로 돌아온다!</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/04/28/40ab935f-e509-490b-9a56-37c535a5e9fb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
