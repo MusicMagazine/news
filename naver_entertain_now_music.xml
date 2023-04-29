@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-04-29T20:12:45.104Z</updated>
+    <updated>2023-04-29T21:10:53.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[피프티 피프티, 빌보드를 저격한 '큐피드' 화살 [★FOCUS]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003148706</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003148706"/>
+        <updated>2023-04-29T21:10:37.118Z</updated>
+        <content type="html"><![CDATA[그룹 피프티 피프티(FIFTY FIFTY, 새나 아란 키나 시오)가 연일 빌보드 차트를 누비고 있다. 그 누구도 몰랐던, 작은 중소기업이 이뤄낸 업적이다. 피프티 피프티는 지난 2월 첫 번째 싱글 앨범 '더 비기닝:]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[싸이, 흠뻑쇼 무대 뒤에서…"오늘로써 이게 저의 최선이었다, 그럼 어떻게 하느냐?"]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003724513</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004839029"/>
         <updated>2023-04-29T07:15:44.895Z</updated>
         <content type="html"><![CDATA[그룹 크랙시 채이가 28일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HK직캠｜케플러 마시로, 깨물어주고 싶은 깜찍함… '귀여움의 인간화' (뮤직뱅크 출근길)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004839028</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004839028"/>
-        <updated>2023-04-29T07:15:44.896Z</updated>
-        <content type="html"><![CDATA[그룹 케플러 마시로가 28일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content>
     </entry>
 </feed>
