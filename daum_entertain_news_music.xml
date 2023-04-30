@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-04-30T06:19:25.539Z</updated>
+    <updated>2023-04-30T07:15:41.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에스파 윈터, 컨디션 난조로 일본 나고야 콘서트 불참]]></title>
+        <id>https://v.daum.net/v/20230430155326620</id>
+        <link href="https://v.daum.net/v/20230430155326620"/>
+        <updated>2023-04-30T07:15:02.371Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 최하나 기자] 그룹 에스파(aespa) 윈터가 일본 나고야 콘서트에 불참한다. 에스파 측은 지난 29일 일본 공식 홈페이지를 통해 "에스파 멤버 윈터가 컨디션 난조로 의사와 논의한 결과 4월 29일, 30일에 진행되는 아이치 일본 가이시홀 공연 출연을 보류하게 됐다"고 공지했다. 해당 공연에는 윈터를 제외한 카리나, 지젤, 닝닝 3명이 참여한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[르세라핌, '걸그룹 퍼포먼스 최강자'인 이유..정규 1집 기대포인트 셋]]></title>
         <id>https://v.daum.net/v/20230430151656073</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230430101643115"/>
         <updated>2023-04-30T02:34:23.462Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 NCT 127(엔시티 127)이 일본 신곡 ‘Sunny Road’(써니 로드) 음원을 발매한다. NCT 127은 5월 1일 0시 멜론, 플로, 지니 등 국내 각종 음악 사이트를 통해 일본 신곡 ‘Sunny Road’ 음원을 공개한다. 신곡 ‘Sunny Road’는 건반 중심의 캐치한 멜로디 라인이 매력적인 팝 장르의 곡이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에스파 윈터, 컨디션 난조로 日 공연 불참]]></title>
-        <id>https://v.daum.net/v/20230430101201069</id>
-        <link href="https://v.daum.net/v/20230430101201069"/>
-        <updated>2023-04-30T02:34:23.462Z</updated>
-        <content type="html"><![CDATA[걸그룹 에스파 멤버 윈터가 컨디션 난조로 일본 공연에 불참한다. 29일 소속사 SM엔터테인먼트 측은 일본 공식 홈페이지를 통해 윈터가 29, 30일 공연에 불참한다고 알렸다. SM엔터테인먼트 측은 “항상 에스파에 대한 따뜻한 응원 진심으로 감사드린다. 에스파 멤버 윈터는 컨디션 난조로 의사와 논의한 결과 29, 30일 아이치 일본 가이시홀 공연에 불참하게]]></content>
     </entry>
 </feed>
