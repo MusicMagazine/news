@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Apr 2023 21:13:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Apr 2023 22:11:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[르세라핌, 정규앨범  'UNFORGIVEN'으로  오늘 컴백]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=260561</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=260561</guid>
+            <pubDate>Sun, 30 Apr 2023 22:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=260561">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230501061621_8367b13aaf1b3527dde5c76d27c12559.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=260561">르세라핌, 정규앨범  'UNFORGIVEN'으로  오늘 컴백 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230501061621_8367b13aaf1b3527dde5c76d27c12559.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[슈가, 첫 솔로 월드투어 ‘SUGA | Agust D TOUR D-DAY’]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=260550</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=257920">르세라핌, 정규 1집 ‘UNFORGIVEN’  "소녀들의 연대"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230412101836_738cfaac0e3529364e52696b1b2043c9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["윤종신의 2년" 풍성한 트랙리스트  '행보 2021, 2022 윤종신' 발매]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=257901</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=257901</guid>
-            <pubDate>Wed, 12 Apr 2023 00:56:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=257901">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230412095153_1b506e61e5d53e53494473bd3b0dfe5c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=257901">"윤종신의 2년" 풍성한 트랙리스트  '행보 2021, 2022 윤종신' 발매</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230412095153_1b506e61e5d53e53494473bd3b0dfe5c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
