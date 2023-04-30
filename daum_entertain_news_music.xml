@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-04-30T02:34:58.148Z</updated>
+    <updated>2023-04-30T03:12:45.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[헤이즈, TV 속 여배우가 되다]]></title>
+        <id>https://v.daum.net/v/20230430113521203</id>
+        <link href="https://v.daum.net/v/20230430113521203"/>
+        <updated>2023-04-30T03:12:12.555Z</updated>
+        <content type="html"><![CDATA[‘쉬즈 파인’ 쇼케이스(사진=이데일리DB)[이데일리 스타in 김현식 기자] 가요계 현장 곳곳을 누비며 모아둔 음반들을 다시 꺼내 들어보면서 추억 여행을 떠나보려 합니다. [편집자 주] 오늘 꺼내 들어본 서랍 속 CD는 가수 헤이즈(Heize, 장다혜)가 2019년 3월 19일 발매한 1집 ‘쉬즈 파인’(She’s Fine)입니다. 헤이즈가 앨범 발매 당일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[르세라핌·비투비·양지은… 음원강자 몰려온다]]></title>
         <id>https://v.daum.net/v/20230430111226881</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230430080016457"/>
         <updated>2023-04-29T23:12:23.552Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 안태현 기자 = 방탄소년단 슈가가 자신의 또 다른 활동명 '어거스트 디'(Agust D)로 솔로 아티스트의 면모를 십분 발휘하고 있다. 군 입대로 인한 그룹 활동 공백기 중 다양한 개인 활동을 펼치고 있는 방탄소년단 멤버들 중 다섯 번째로 솔로 활동을 나서게 된 슈가. 그는 솔로 앨범 '디데이'(D-DAY)를 통해 완벽한 홀로서기의 정석]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에스파 윈터, 컨디션 난조로 日 콘서트 불참.."티켓 환불"]]></title>
-        <id>https://v.daum.net/v/20230430074642352</id>
-        <link href="https://v.daum.net/v/20230430074642352"/>
-        <updated>2023-04-29T23:12:23.553Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자] 그룹 에스파 멤버 윈터가 컨디션 난조로 일본 공연에 불참했다. 에스파는 일본 공식 홈페이지를 통헤 29, 30일 공연에 윈터가 불참한다고 알렸다. 에스파 측은 “항상 에스파에 대한 따뜻한 응원 진심으로 감사드린다. 에스파 멤버 윈터는 컨디션 난조로 의사와 논의한 결과 29, 30일 아이치 일본 가이시홀 공연에 불참하게 됐다”라고]]></content>
     </entry>
 </feed>
