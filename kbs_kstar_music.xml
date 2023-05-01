@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 May 2023 22:15:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 May 2023 23:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[르세라핌, ‘UNFORGIVEN (feat. Nile Rodgers)’ 뮤직비디오 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=260703</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=260703</guid>
+            <pubDate>Mon, 01 May 2023 23:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=260703">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230502073709_1f3ff8e505ff45689643875d59e3f4cf.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=260703">르세라핌, ‘UNFORGIVEN (feat. Nile Rodgers)’ 뮤직비디오 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230502073709_1f3ff8e505ff45689643875d59e3f4cf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장] 르세라핌 컴백 "당당한 'UNFORGIVEN', 신나는 'No-Return'"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=260610</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=258081">9인조 아이돌 그룹 '소디엑'(XODIAC), 이달 데뷔 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230413080905_97cdc10953d4465a1c72137b326eb58c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[르세라핌, ‘UNFORGIVEN’  “5월 1일 컴백”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=258051</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=258051</guid>
-            <pubDate>Wed, 12 Apr 2023 23:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=258051">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230413074843_9f7670a18d77ac5e8eba6cb3f8a094a4.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=258051">르세라핌, ‘UNFORGIVEN’  “5월 1일 컴백” </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230413074843_9f7670a18d77ac5e8eba6cb3f8a094a4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
