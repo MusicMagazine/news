@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 May 2023 01:05:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 May 2023 03:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[신간] 앨러스데어 그레이 장편소설  <가여운 것들>]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=260600</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=260600</guid>
+            <pubDate>Mon, 01 May 2023 03:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=260600">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230501105053_37522f3272ebae9ce1353e3cc1bf4d27.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=260600">[신간] 앨러스데어 그레이 장편소설  &lt;가여운 것들&gt;</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230501105053_37522f3272ebae9ce1353e3cc1bf4d27.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이해준, 뮤지컬 ‘모차르트!’ 주인공 낙점]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=260188</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=259376">장민호, 대한민국연예예술상 '성인가요 올해의 가수상' 수상... "좋은 노래 열심히 들려드릴 것"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230422083921_37c51a2caa1f1faa85fe62fdff74dc8d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유지태, '에드워드 호퍼 전시회' 오디오 가이드 ... 서울시립미술관 《에드워드 호퍼: 길 위에서》]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=259148</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=259148</guid>
-            <pubDate>Thu, 20 Apr 2023 08:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=259148">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230420162216_e5c6f9c25ffc35a835a99be3f16b0d87.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=259148">유지태, '에드워드 호퍼 전시회' 오디오 가이드 ... 서울시립미술관 《에드워드 호퍼: 길 위에서》</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230420162216_e5c6f9c25ffc35a835a99be3f16b0d87.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
