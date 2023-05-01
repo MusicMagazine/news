@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-05-01T18:16:20.772Z</updated>
+    <updated>2023-05-01T19:13:03.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[투바투, 월드투어 뜨겁다...8월 자카르타·불라칸 추가공연 확정]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001253340</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001253340"/>
+        <updated>2023-05-01T19:12:44.177Z</updated>
+        <content type="html"><![CDATA[투모로우바이투게더가 팬들의 성원에 월드투어 추가 공연을 결정했다. 투모로우바이투게더(수빈, 연준, 범규, 태현, 휴닝카이)는 1일, 월드투어 'ACT : SWEET MIRAGE' 아시아 투어 추가 공연 포스터를 공개]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["'SAVE ME"...AB6IX, 5월 29일 컴백 확정]]></title>
         <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001253339</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004839570"/>
         <updated>2023-05-01T09:15:38.413Z</updated>
         <content type="html"><![CDATA[가수 강혜연이 새로운 매력의 감성으로 돌아왔다. 강혜연은 1일 정오 네 번째 디지털 싱글 앨범 '혜성(彗星):빗자루별'을 발매했다. '혜성(彗星):빗자루별'은 강혜연이 지난해 12월 발매한 싱글 '천치 바보야' 이후]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[흰, 에일리 '헤븐' 리메이크…14일 발매]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011834325</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011834325"/>
-        <updated>2023-05-01T09:15:38.414Z</updated>
-        <content type="html"><![CDATA[가수 흰(박혜원)이 에일리의 '헤븐'(Heaven)을 다시 부른다. 1일 소속사 뉴오더 엔터테인먼트에 따르면, 흰은 오는 14일 오후 6시 리메이크 음원 '헤븐'을 발매한다. '헤븐'은 지난 2012년 발매된 에일리]]></content>
     </entry>
 </feed>
