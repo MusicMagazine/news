@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 May 2023 05:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 May 2023 06:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장] 르세라핌 컴백 "당당한 'UNFORGIVEN', 신나는 'No-Return'"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=260610</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=260610</guid>
+            <pubDate>Mon, 01 May 2023 06:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=260610">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230501144609_23860b515283f9a2f6a5c1bc364c6d02.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=260610">[현장] 르세라핌 컴백 "당당한 'UNFORGIVEN', 신나는 'No-Return'"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230501144609_23860b515283f9a2f6a5c1bc364c6d02.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[르세라핌, 정규앨범  'UNFORGIVEN'으로  오늘 컴백]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=260561</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=258051">르세라핌, ‘UNFORGIVEN’  “5월 1일 컴백” </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230413074843_9f7670a18d77ac5e8eba6cb3f8a094a4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[르세라핌, 정규 1집 ‘UNFORGIVEN’  "소녀들의 연대"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=257920</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=257920</guid>
-            <pubDate>Wed, 12 Apr 2023 02:06:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=257920">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230412101836_738cfaac0e3529364e52696b1b2043c9.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=257920">르세라핌, 정규 1집 ‘UNFORGIVEN’  "소녀들의 연대"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230412101836_738cfaac0e3529364e52696b1b2043c9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
