@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 22:12:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 23:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슈퍼스타K7 출신 민서, 빌엔터테인먼트와 전속계약]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=260933</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=260933</guid>
+            <pubDate>Tue, 02 May 2023 23:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=260933">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230503081013_fbe6578b4c319c4b33dfe8665d8f3f94.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=260933">슈퍼스타K7 출신 민서, 빌엔터테인먼트와 전속계약</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230503081013_fbe6578b4c319c4b33dfe8665d8f3f94.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[경복궁 근정전에서 펼쳐진 뮤지컬 '세종 1446'... 2023 봄 궁중문화축전]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=260710</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=258951">이순재의 리어왕, 마곡 행차... 6월 1일 LG아트센터서울 개막</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230419125908_3090acbbec394efdd4ff3e140f8b8aeb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송승하, ‘미드나잇 호러’로 칸 시리즈 참석]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=259387</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=259387</guid>
-            <pubDate>Sat, 22 Apr 2023 01:02:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=259387">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230422085330_4530e2e5149ef749579699c720522d6c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=259387">송승하, ‘미드나잇 호러’로 칸 시리즈 참석 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230422085330_4530e2e5149ef749579699c720522d6c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
