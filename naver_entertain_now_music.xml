@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-05-03T19:16:09.533Z</updated>
+    <updated>2023-05-03T20:17:30.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이채연 '노크 챌린지'로 유튜브·틱톡서 급부상]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011839771</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011839771"/>
+        <updated>2023-05-03T20:17:13.853Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 '노크' 챌린지 흥행… 조회수 급상승 주간 조회수 6위·주간 구독자 수 8위 [서울=뉴시스]권세림 리포터 = K팝 아이돌 이채연이 유튜브, 틱톡 등 영상 플랫폼에서 무서운 기세로 떠오르고 있다. 최근]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘쇼챔’ 싸이커스(xikers), 활동 2주차 ‘록스타(ROCKSTAR)’ 무대]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000884749</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004840709"/>
         <updated>2023-05-03T15:12:59.835Z</updated>
         <content type="html"><![CDATA[그룹 드림노트 라라가 3일 오후 경기도 고양시 MBC 드림센터에서 열린 MBC M '쇼 챔피언' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 드림노트 은조, '레모네이드처럼 상큼하게~']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004840708</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004840708"/>
-        <updated>2023-05-03T15:12:59.837Z</updated>
-        <content type="html"><![CDATA[그룹 드림노트 은조가 3일 오후 경기도 고양시 MBC 드림센터에서 열린 MBC M '쇼 챔피언' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
     </entry>
 </feed>

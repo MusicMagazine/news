@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2023-05-03T19:16:09.542Z</updated>
+    <updated>2023-05-03T20:17:30.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윌리 넬슨, 로큰롤 명예의 전당 입성]]></title>
+        <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003809254</id>
+        <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003809254"/>
+        <updated>2023-05-03T20:17:29.272Z</updated>
+        <content type="html"><![CDATA[‘컨트리 뮤직의 무법자’ 윌리 넬슨이 로큰롤 명예의 전당에 입성했다. 뉴욕타임스(NYT)는 3일(현지시간) 로큰롤 명예의 전당 2023년 헌액 후보 투표에서 넬슨이 록밴드 ‘레이지 어게인스트 더 머신’ 등과 함께 대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["제이미 폭스, 위중한 상태…기도 필요하다"]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011839758</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004842999"/>
         <updated>2023-05-03T08:15:57.629Z</updated>
         <content type="html"><![CDATA[일본 유명 개그맨이 한국 망원시장을 방문해 비위생적인 행동을 보여 자국민에게까지 질타를 받고 있다. 2일 방송된 TBS 아침 정보 프로그램 '러빗!(LOVE it!)에서는 일본 개그맨 야마조에 히로시가 한국의 망원시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[할리웃POP]'결혼 2번, 자녀 7명' 케빈 코스트너, 68세에 이혼 소송 당해]]></title>
-        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003629388</id>
-        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003629388"/>
-        <updated>2023-05-03T08:15:57.630Z</updated>
-        <content type="html"><![CDATA[배우 케빈 코스트너(68)와 디자이너 크리스틴 바움가르트너(49) 부부가 결혼 18년 만에 이혼을 발표했다. 3일(한국시간) 미국 연예매체 페이지 식스 등 다수의 외신에 따르면 이들 부부는 성명을 내고 "화해할 수]]></content>
     </entry>
 </feed>
