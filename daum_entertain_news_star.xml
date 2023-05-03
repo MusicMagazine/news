@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-05-03T16:16:45.566Z</updated>
+    <updated>2023-05-03T17:14:09.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박정민 “아이브처럼 눈, 코, 입 적재적소에 붙어 있는 사람 흔치 않아”]]></title>
+        <id>https://v.daum.net/v/20230504011919564</id>
+        <link href="https://v.daum.net/v/20230504011919564"/>
+        <updated>2023-05-03T17:13:38.439Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 김태형기자] 배우 이제훈과 박정민이 솔직한 매력으로 다가왔다. 3일 이말년의 유튜브 채널 ‘침착맨’에는 ‘배우 이제훈 &amp; 박정민 초대석’이라는 영상이 게재됐다. 배우 박정민은 이제훈에 대해 “형이 어느 순간부터 굉장히 발랄해졌다고 해야 하나? 서글서글해졌다고 해야 하나?”라고 표현했다. 그 말에 이말년은 “일이 잘 풀리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['골때녀' 이영표 감독, "오범석 감독의 허경희 골키퍼 기용은 치명적 실수" 지적]]></title>
         <id>https://v.daum.net/v/20230504005701498</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230503234146869"/>
         <updated>2023-05-03T15:12:44.025Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조윤선 기자] 염경환이 '절친' 김구라의 TMI를 대방출했다. 3일 방송된 MBC '라디오스타'는 김응수, 권일용, 염경환, 손준호가 출연한 '나의 예능 아저씨' 특집으로 꾸며졌다. 홈쇼핑계에서 활약 중인 염경환은 이날 스케줄을 묻자 "일단 하나 찍고 왔다. 끝나고 또 찍으러 간다. 심지어 지금 이 시간에도 홈쇼핑 스케줄이 있]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트랄랄라 브라더스' 진해성 "시청률 8% 넘으면? 안성훈과 여장 약속"]]></title>
-        <id>https://v.daum.net/v/20230503234144866</id>
-        <link href="https://v.daum.net/v/20230503234144866"/>
-        <updated>2023-05-03T15:12:44.025Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 임시령 기자] '트랄랄라 브라더스' 진해성이 시청률 공약을 내걸었다. 3일 첫 방송된 TV조선 '트랄랄라 브라더스'에서는 '미스터트롯2' 안성훈, 박지현, 진해성, 나상도, 최수호, 진욱, 박성온, 송민준, 윤준협이 예능감을 펼치는 모습이 그려졌다. 이날 출연자들은 뽕 팀(윤준협, 송민준, 안성훈, 최수호, 박성온), 짝 팀(진해성, 박지]]></content>
     </entry>
 </feed>
