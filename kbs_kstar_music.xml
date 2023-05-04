@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 22:12:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 23:14:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ITZY(있지), 뮤직비디오 'WANNABE' 유튜브 5억 뷰 돌파]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=261207</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=261207</guid>
+            <pubDate>Thu, 04 May 2023 23:12:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=261207">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230505073451_5ce419bd4a7a53989487d212965a2266.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=261207">ITZY(있지), 뮤직비디오 'WANNABE' 유튜브 5억 뷰 돌파 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230505073451_5ce419bd4a7a53989487d212965a2266.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[르세라핌, 나일 로저스와 그래미닷컴 인터뷰 ...  “한계를 넘는 팀 될 것”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=261046</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=258353">트와이스 다섯 번째 월드투어, 오늘 서울에서 스타트 "READY TO BE"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230415071151_a3b8d7bbe86fc3dce3a98bc08231a30f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["포천에서 열리는 우드스탁!"  '우드스탁 뮤직 앤 아트페어 2023' 1차 라인업 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=258264</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=258264</guid>
-            <pubDate>Fri, 14 Apr 2023 08:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=258264">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230414162115_05359c3c77e16276ef6d99139eb9434e.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=258264">"포천에서 열리는 우드스탁!"  '우드스탁 뮤직 앤 아트페어 2023' 1차 라인업 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230414162115_05359c3c77e16276ef6d99139eb9434e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
