@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-05-05T12:23:40.797Z</updated>
+    <updated>2023-05-05T14:15:39.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“제이미 폭스 여전히 위독한 상태”, 의학적 합병증 심각]]></title>
+        <id>https://v.daum.net/v/20230505222516332</id>
+        <link href="https://v.daum.net/v/20230505222516332"/>
+        <updated>2023-05-05T14:15:13.235Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영화 ‘레이’로 아카데미 남우주연상을 수상한 제이미 폭스(55)의 건강이 여전히 좋지 않은 것으로 알려졌다. 폭스는 지난 4월 12일 "의학적 합병증"으로 병원에 입원했으며, 여전히 병실에 누워있는 상황이다. 한 소식통은 4일(현지시간) 페이지식스와 인터뷰에서 “아무 것도 변하지 않았다”면서 “그는 여전히 같은 상태”라고 말]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[톰 홀랜드♥︎젠데이아, 어셔 콘서트→NBA 경기장 포착..달달 데이트]]></title>
         <id>https://v.daum.net/v/20230505202745166</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230505005145727"/>
         <updated>2023-05-04T16:27:34.575Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 일본의 배우 토다 에리카가 결혼 3년 만에 아들을 얻었다. 4일 오후 토다 에리카는 "이번에 첫 아이가 탄생한 것을 보고드린다. 모자 모두 건강하다"며 "새로운 생명을 눈앞에 두고, 마음이 움직이는 나날을 보내고 있다. 항상 응원해주시는 여러분, 관계자분들, 많은 분들이 지지해주시고, 따뜻하게 지켜봐주셔서 진심으로 감사드린다"고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['제임스 코든쇼' 경영진 "매년 265억 적자…감당하기 어려웠다"]]></title>
-        <id>https://v.daum.net/v/20230504220216719</id>
-        <link href="https://v.daum.net/v/20230504220216719"/>
-        <updated>2023-05-04T13:19:33.649Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 미국 인기 프로그램 '제임스 코든 쇼'에서 폭로가 터져 나왔다. 4일(현지 시간) 영국 매체 데일리메일에 따르면 CBS '레이트 레이트 쇼 위드 제임스 코든(이하 '제임스 코든 쇼')'의 경영진이 매년 2천만 달러(한화 약 265억 원)의 손실을 보고 있었다고 밝혔다. 해당 프로그램의 진행자인 제임스 코든이 하차하면서 폭로가 나온]]></content>
     </entry>
 </feed>
