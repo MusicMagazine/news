@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-05-07T13:16:19.128Z</updated>
+    <updated>2023-05-07T14:13:18.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[H.O.T.→빅뱅·투애니원..재결합 기대감 높이는 근황[★FOCUS]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003150492</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003150492"/>
+        <updated>2023-05-07T14:13:03.810Z</updated>
+        <content type="html"><![CDATA[4세대를 넘어 5세대 K팝 아이돌이 데뷔를 앞두고 있는 2023년 현재, 반가운 1·2세대 아이돌이 근황을 공개했다. 1996년 1집 앨범 'We Hate All Kinds Of Violence'로 데뷔한 H.O.T]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['K-909', 5개월 만에 재개…아이브·비투비]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011844428</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000885250"/>
         <updated>2023-05-07T10:14:19.893Z</updated>
         <content type="html"><![CDATA[그룹 원어스(ONEUS)가 새롭게 다시 태어난다. 원어스(서호, 이도, 건희, 환웅, 시온)는 오는 8일 각종 음원 사이트를 통해 미니 9집 ‘PYGMALION’(피그말리온)을 발매한다. 전작인 미니 8집 ‘MALU]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘몬스터’ 유준원 직캠 무대영상에 달아오르는 팬심]]></title>
-        <id>https://entertain.naver.com/now/read?oid=018&amp;aid=0005479975</id>
-        <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005479975"/>
-        <updated>2023-05-07T10:14:19.895Z</updated>
-        <content type="html"><![CDATA[MBC 소년판타지 몬스터팀 (사진=온라인 커뮤니티 캡처) MBC 음악방송 ’쇼! 음악중심’에 출연한 ‘소년판타지’ 유준원의 직캠 영상이 화제를 모으고 있다. 어린 나이에도 불구하고 유준원이 무대에서 보여준 섹시한 춤]]></content>
     </entry>
 </feed>
