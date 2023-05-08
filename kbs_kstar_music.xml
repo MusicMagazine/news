@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 22:11:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 23:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에스파의 새로운 음악세계 "MY WORLD" 발표]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=261710</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=261710</guid>
+            <pubDate>Mon, 08 May 2023 23:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=261710">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230509074150_73bfe0ede41e2ae77cd1fec61bba4e9d.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=261710">에스파의 새로운 음악세계 "MY WORLD" 발표 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230509074150_73bfe0ede41e2ae77cd1fec61bba4e9d.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['아이칠린' 컴백, 신곡 'Siren' 11일 발표]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=261437</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=259440">슈가 ‘D-DAY’, 글로벌 빅 히트</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230423075826_a1b425548df3a3c9b685ce584503bfdc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈가 ‘D-DAY’ 타이틀곡 ‘해금’ 뮤직비디오 티저]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=259014</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=259014</guid>
-            <pubDate>Wed, 19 Apr 2023 23:12:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=259014">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230420072900_d72f4a46afa54fccff2334622eea7d22.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=259014">슈가 ‘D-DAY’ 타이틀곡 ‘해금’ 뮤직비디오 티저 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230420072900_d72f4a46afa54fccff2334622eea7d22.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
