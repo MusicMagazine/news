@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 22:11:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 03:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 '쿠로이 저택엔 누가 살고 있을까?'...  대학로에 웃음꽃이 피었습니다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=261906</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=261906</guid>
+            <pubDate>Wed, 10 May 2023 03:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=261906">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230510075242_49126dfdfff0426ffc61f6cefc055e49.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=261906">뮤지컬 '쿠로이 저택엔 누가 살고 있을까?'...  대학로에 웃음꽃이 피었습니다</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230510075242_49126dfdfff0426ffc61f6cefc055e49.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지주연, 코딜리아 맡다... 연극 ‘리어왕’  6월 1일 개막]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=261739</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=259930">[화보] 장기용, 전역 후 첫 화보 "쿨 앤 와일드" </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230426104538_574fdfa4396dc8b5ac08949275196b11.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소프라노 조수미, '2023 전국투어']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=259911</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=259911</guid>
-            <pubDate>Wed, 26 Apr 2023 01:00:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=259911">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230426095346_8742a5f140a150e6c76ee75e82d1b7e0.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=259911">소프라노 조수미, '2023 전국투어'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230426095346_8742a5f140a150e6c76ee75e82d1b7e0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
