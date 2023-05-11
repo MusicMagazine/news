@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 20:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 23:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단, 애니메이션 '베스티언즈' OST 'The Planet' 오늘 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=262184</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=262184</guid>
+            <pubDate>Thu, 11 May 2023 23:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=262184">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230512075502_0aa1609471c820d855c18a1806ed839c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=262184">방탄소년단, 애니메이션 '베스티언즈' OST 'The Planet' 오늘 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230512075502_0aa1609471c820d855c18a1806ed839c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ATBO(에이티비오) 신보 ‘더 비기닝: 飛上’... 18일 컴백]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=261343</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=260012">방탄소년단 슈가, 월드투어 'D-DAY' 미국 뉴욕에서 스타트</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230427075041_ba7a72d3e1150239ca7b9ac8d03c989e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["헬로 조용필"  'Road to 20 – Prelude 2' 오늘 발매]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=259917</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=259917</guid>
-            <pubDate>Wed, 26 Apr 2023 03:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=259917">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230426100042_a03a6c4d795064f6a963e37f30a2f66d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=259917">"헬로 조용필"  'Road to 20 – Prelude 2' 오늘 발매  </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230426100042_a03a6c4d795064f6a963e37f30a2f66d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
