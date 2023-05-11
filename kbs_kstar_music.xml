@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 21:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 02:07:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ATBO(에이티비오) 신보 ‘더 비기닝: 飛上’... 18일 컴백]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=261343</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=261343</guid>
+            <pubDate>Thu, 11 May 2023 02:05:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=261343">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230506080822_e7c09a2f5630d609d3c170b1bc101b89.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=261343">ATBO(에이티비오) 신보 ‘더 비기닝: 飛上’... 18일 컴백</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230506080822_e7c09a2f5630d609d3c170b1bc101b89.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[6월의 황치열, 미니 5집 'GIFT'로 컴백]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=261916</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=259917">"헬로 조용필"  'Road to 20 – Prelude 2' 오늘 발매  </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230426100042_a03a6c4d795064f6a963e37f30a2f66d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[걸그룹 피프티 피프티, ‘큐피드’ 빌보드 ‘핫 100’ 50위]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=259857</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=259857</guid>
-            <pubDate>Tue, 25 Apr 2023 23:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=259857">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230426080332_a15feb82eb92e2729da140bfa3340d3f_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=259857">걸그룹 피프티 피프티, ‘큐피드’ 빌보드 ‘핫 100’ 50위</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230426080332_a15feb82eb92e2729da140bfa3340d3f_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
