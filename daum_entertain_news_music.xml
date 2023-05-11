@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-05-11T12:23:27.178Z</updated>
+    <updated>2023-05-11T15:17:23.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['찐 글로벌 그룹' 엑신 "빌보드, 저희가 접수하겠습니다"]]></title>
+        <id>https://v.daum.net/v/20230511235815116</id>
+        <link href="https://v.daum.net/v/20230511235815116"/>
+        <updated>2023-05-11T15:16:48.015Z</updated>
+        <content type="html"><![CDATA[엑신(사진=박지만 사진작가)[이데일리 스타in 윤기백 기자] “한국에 인도, 러시아까지….” 지금까지 이런 걸그룹은 없었다. 글로벌 걸그룹 엑신(X:IN)이 바로 그 주인공이다. 엑신은 로아, 이샤, 치유, 노바, 아리아로 구성된 5인조 걸그룹이다. 한국인 멤버 셋에 인도에서 온 아리아, 러시아에서 온 노바까지 다양한 국적을 지닌 멤버 구성이 특징이다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성한빈, 제로베이스원 리더 됐다]]></title>
         <id>https://v.daum.net/v/20230511210813432</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230511181930873"/>
         <updated>2023-05-11T11:12:32.208Z</updated>
         <content type="html"><![CDATA[[TV리포트=성민주 기자] 가수 아이유에 대한 표절 고발이 접수된 가운데, 해당 곡의 작곡가들이 연달아 반박했다. 11일 '삐삐'의 작곡가 이종훈은 자신의 계정에 "일차적으로 표절 고발에 대한 대상을 잘못 고른 것에 유감스럽지 않을 수 없다. 저작권(지적 재산권)이라 함은 작곡가의 영역이지 가수의 영역이 아니다"라며 아이유를 향한 표절 고발을 비판했다. 또]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김동률 4년 만의 컴백 ‘황금가면’ 오늘 발표]]></title>
-        <id>https://v.daum.net/v/20230511180745567</id>
-        <link href="https://v.daum.net/v/20230511180745567"/>
-        <updated>2023-05-11T11:12:32.209Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 김동률이 '황금가면'으로 4년 만에 컴백한다. 김동률 신곡 '황금가면'이 5월 11일 발표됐다. 지난 2019년 8월 '여름의 끝자락' 이후 약 4년 만의 컴백이다. 신곡 ‘황금가면’은 데뷔 이후 가장 빠른 BPM의 곡으로. 올 어쿠스틱 밴드로 녹음돼 미디가 없던 시절의 빈티지한 사운드와 그루브를 정공법으로 재현했다. '황금가면'은]]></content>
     </entry>
 </feed>
