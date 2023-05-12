@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2023-05-12T19:12:09.270Z</updated>
+    <updated>2023-05-12T20:16:55.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조용필, 오늘 여덟 번째 잠실주경기장 단독 콘서트…응원봉 쏜다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013939115</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013939115"/>
+        <updated>2023-05-12T20:16:46.341Z</updated>
+        <content type="html"><![CDATA[신곡 '필링 오브 유'·'라' 처음 부를 듯 '가왕'(歌王) 조용필이 13일 오후 '꿈의 무대'로 불리는 서울 잠실종합운동장 올림픽주경기장에서 단독 공연 '2023 조용필&amp;위대한탄생 콘서트'를 연다. 소속사 YPC에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[종합] ‘나혼산’ 전현무→박나래, 10주년 패키지 여행... 몽골 대자연에 ‘감탄’]]></title>
         <id>https://entertain.naver.com/now/read?oid=009&amp;aid=0005129523</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=437&amp;aid=0000342862"/>
         <updated>2023-05-12T14:16:40.273Z</updated>
         <content type="html"><![CDATA[최종 파이널리스트 12인이 결정됐다. 12일 방송된 JTBC '팬텀싱어4'에서 결승으로 가는 마지막 본선 5라운드 두 번째 4중창 대결이 펼쳐졌다. 이날 열여섯 명의 참가자는 총 네 팀으로 나눠서 경연을 벌이게 됐다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[르세라핌 허윤진, 오늘 가족상…팬사인회 스케줄 불참]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0006803689</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0006803689"/>
-        <updated>2023-05-12T14:16:40.275Z</updated>
-        <content type="html"><![CDATA[그룹 르세라핌 멤버 허윤진이 가족상으로 인해 팬사인회 일정에 불참하게 됐다. 12일 소속사 쏘스뮤직 측은 팬 소통 커뮤니티인 위버스를 통해 "르세라핌 멤버 혀윤진이 가족상으로 인하여 오늘 예정된 팬사인회에 불참하게]]></content>
     </entry>
 </feed>
