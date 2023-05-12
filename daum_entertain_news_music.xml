@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-05-12T06:21:04.846Z</updated>
+    <updated>2023-05-12T07:15:02.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['김경호밴드' 김기홍, 알리&정동하 공연 밴드마스터로]]></title>
+        <id>https://v.daum.net/v/20230512153528413</id>
+        <link href="https://v.daum.net/v/20230512153528413"/>
+        <updated>2023-05-12T07:14:20.426Z</updated>
+        <content type="html"><![CDATA[[스포츠한국 조성진 기자]&nbsp;김경호 밴드 기타리스트이자 밴드마스터 김기홍이 알리&amp;정동하 무대 밴드마스터로 출격한다. 김기홍은 오는 20일(토) 오후 7시 영천 시민회관 스타홀 무대에서 열리는 정동하&amp;알리 '보컬의 정석-영천상륙작전' 콘서트 반주를 맡은 밴드의 마스터로 함께 한다. 이름 앞에 언제나 '노래 잘 부르는 가수'란 수식어가 붙는 정동하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데뷔 50주년 맞은 조영남, 신곡 발표]]></title>
         <id>https://v.daum.net/v/20230512145448070</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230512132402899"/>
         <updated>2023-05-12T06:20:23.104Z</updated>
         <content type="html"><![CDATA[[텐아시아=최지예 기자]가수 아이유의 소속사 EDAM엔터테인먼트가 표절 의혹에 대해 공식 입장을 발표했다. 12일 소속사 EDAM엔터테인먼트는 “지난 10일 표절 의혹과 관련한 저작권법 위반 고발 보도 이후 저작권 전문 법무법인을 선임하여 고발 내용을 확인했다”고 밝혔다. 소속사는 “현재까지 수사기관과 언론 보도를 통하여 확인한 바를 종합하면, 고발인은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이유 측 "일부 세력, 아티스트 흠집 위한 고발..책임 물을 것"]]></title>
-        <id>https://v.daum.net/v/20230512131939796</id>
-        <link href="https://v.daum.net/v/20230512131939796"/>
-        <updated>2023-05-12T06:20:23.106Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 안윤지 기자] 가수 겸 배우 아이유 /사진제공=EDAM엔터테인먼트가수 아이유의 소속사 EDAM엔터테인먼트가 표절 의혹에 대해 공식 입장을 발표했다. 12일 소속사 EDAM엔터테인먼트는 "지난 10일 표절 의혹과 관련한 저작권법 위반 고발 보도 이후 저작권 전문 법무법인을 선임하여 고발 내용을 확인했다"고 밝혔다. 소속사는 "현재까지 수사기]]></content>
     </entry>
 </feed>
