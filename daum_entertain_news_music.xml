@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-05-13T06:20:33.776Z</updated>
+    <updated>2023-05-13T07:16:22.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미주의 날갯짓..'무비 스타'를 꿈꾸는 이들에게]]></title>
+        <id>https://v.daum.net/v/20230513160115038</id>
+        <link href="https://v.daum.net/v/20230513160115038"/>
+        <updated>2023-05-13T07:15:45.755Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 이승훈 기자] /사진=안테나가수 미주가 꿈꾸는 '무비 스타'는 어떤 모습일까. 미주는 17일 솔로 데뷔 앨범 'Movie Star'(무비 스타)를 발매한다. 이는 데뷔 9년 차 미주의 새로운 시작을 담은 앨범. 그간 예능, MC, 광고, 패션 등 전방위적인 활동으로 존재감을 빛낸 미주가 이번에는 첫 번째 싱글 앨범 'Movie Star'로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김동률 "4년 공백, 마냥 재충전 아냐..의욕 상실하기도" 고백]]></title>
         <id>https://v.daum.net/v/20230513151915481</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230513110821029"/>
         <updated>2023-05-13T02:34:05.055Z</updated>
         <content type="html"><![CDATA[[OSEN=선미경 기자] JYP엔터테인먼트(이하 JYP) 보이밴드 엑스디너리 히어로즈(Xdinary Heroes, XH)가 록 에너지와 감성 음색을 만끽할 수 있는 영상들을 공개 중이다. 엑스디너리 히어로즈는 지난 달&nbsp;26일 새 미니 앨범 'Deadlock'(데드록)과 타이틀곡 'Freakin' Bad'(프리킹 배드)를 발매하고 컴백했다. JYP는 공식]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나얼의 ‘걸음을 멈추는 날’ 들어보셨나요?]]></title>
-        <id>https://v.daum.net/v/20230513110119943</id>
-        <link href="https://v.daum.net/v/20230513110119943"/>
-        <updated>2023-05-13T02:34:05.058Z</updated>
-        <content type="html"><![CDATA[뜰 것 같은데 안 뜬 노래 다들 하나씩은 갖고 계시죠. 좋은 노래는 결국 알려지기 마련입니다. ‘역주행각’은 일간스포츠가 역주행 가능성이 가득한 K팝 곡을 추천하는 코너입니다. 한 번 들으면 두 번 듣게 될 그 노래, 알려드립니다. 걸음을 멈추게 하는 목소리, 가수 나얼이다. 그의 가장 최근 발표 곡인 ‘걸음을 멈추는 날’에 다시 한 번 집중할 때다.]]></content>
     </entry>
 </feed>
