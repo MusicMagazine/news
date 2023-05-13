@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-05-13T16:20:13.681Z</updated>
+    <updated>2023-05-13T17:13:23.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['바람의 마에스트로' 조용필, '55주년 공연' 韓 음악 편람·근대사 요람]]></title>
+        <id>https://v.daum.net/v/20230514014134472</id>
+        <link href="https://v.daum.net/v/20230514014134472"/>
+        <updated>2023-05-13T17:12:48.214Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 '대중음악계 성지' 올림픽주경기장 여덟 회차 매진…3만5000명 운집 남녀노소 따라 부르는 25곡 구성…국내 제일 큰 노래방 방불케 해 신곡 '필링 오브 유' 첫 무대도 [서울=뉴시스]이재훈 기자 = 어떤 공연은 단순한 콘서트가 아니다. 인문학 나아가 사회학이 된다. 올해 데뷔 55주년을 맞은 '가왕(歌王)' 조용필(73)이 13일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[선우은숙 "결혼 너무 쉽게 생각했나?" 의문 제기...유병재 "막상 해보니까..."]]></title>
         <id>https://v.daum.net/v/20230514005715292</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230513231229859"/>
         <updated>2023-05-13T14:14:22.327Z</updated>
         <content type="html"><![CDATA[‘낭만닥터 김사부 3’ 한석규와 이경영의 신념이 충돌했다. 13일 오후 방송된 SBS 금토드라마 ‘낭만닥터 김사부 3’에서는 의사를 생각하는 이경영과 환자를 생각하는 한석규의 신념이 충돌하는 모습이 전파를 탔다. 이날 홀로 버스에서 내린 여자아이는 엄마에게 걸려 온 전화를 무시하고 터미널 직원에게 “돌담 병원이라고 아세요? 아빠 만나러 왔어요. 거기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서현, 코로나19 이후 첫 해외여행... 민낯+수영복 차림 다 공개]]></title>
-        <id>https://v.daum.net/v/20230513230114817</id>
-        <link href="https://v.daum.net/v/20230513230114817"/>
-        <updated>2023-05-13T14:14:22.331Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 배우 겸 가수 서현의 괌 여행의 행복을 전했다. 13일 서현이 운영하는 유튜브 채널을 통해 서현의 괌 여행기를 담은 영상이 공개됐다. 들뜬 얼굴로 공항을 찾은 서현은 “코로나19 이후 인천공항은 처음이다. 공항에 온 자체가 너무 좋다. 여러분들에게 즐거운 여행을 공유하기 위해 열심히 또 틈틈이 찍어보겠다”면서 설렘과 의욕을 보였다]]></content>
     </entry>
 </feed>
