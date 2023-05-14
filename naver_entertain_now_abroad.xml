@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2023-05-14T22:15:33.258Z</updated>
+    <updated>2023-05-14T23:12:57.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['가오갤3' 美서 2주 연속 1위…총 매출 5억 달러 육박]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011857962</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011857962"/>
+        <updated>2023-05-14T23:12:57.001Z</updated>
+        <content type="html"><![CDATA[마블 영화 '가디언즈 오브 갤럭시:Volume 3'(이하 '가오갤3')가 미국에서도 2주 연속 주말 박스오피스 1위를 달렸다. '가오갤3'는 12~14일 6050만 달러(박스오피스 모조 기준)를 벌어들어 개봉 2주차]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘가오갤3’ 피터퀼♥네뷸라 로맨스, 크리스 프랫 “감정 드러내지 않는 못된 여학생같아”[해외이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003729348</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000937734"/>
         <updated>2023-05-14T02:13:28.273Z</updated>
         <content type="html"><![CDATA[‘미스터트롯2’ TOP7이 무대를 선보이고 있다. TV CHOSUN ‘미스터트롯2-새로운 전설의 시작’(이하 ‘미스터트롯2’) 전국투어 콘서트 대구 공연이 지난 13일 대구 엑스코에서 열렸다. 이번 대구 공연에는 ‘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안성훈-진해성-박지현 ‘저장 부르는 애교 3종 세트’ [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000937733</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000937733"/>
-        <updated>2023-05-14T02:13:28.277Z</updated>
-        <content type="html"><![CDATA[‘미스터트롯2’ 안성훈, 진해성, 박지현이 무대를 선보이고 있다. TV CHOSUN ‘미스터트롯2-새로운 전설의 시작’(이하 ‘미스터트롯2’) 전국투어 콘서트 대구 공연이 지난 13일 대구 엑스코에서 열렸다. 이번]]></content>
     </entry>
 </feed>
