@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-05-15T19:12:24.664Z</updated>
+    <updated>2023-05-15T20:16:53.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[피프티 피프티, 틱톡에서 돌풍 일으킨 비결은?]]></title>
+        <id>https://v.daum.net/v/20230516043215638</id>
+        <link href="https://v.daum.net/v/20230516043215638"/>
+        <updated>2023-05-15T20:16:17.983Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 틱톡서 만들어진 '스페드 업' 버전이 확산 계기 각종 콘텐츠 배경음악으로 활용되며 인기 끌어 빌보드 핫 100 19위·영국 오피셜 차트 8위 기록 [서울=뉴시스]권세림 리포터 = 케이팝 걸그룹 피프티 피프티가 글로벌 음악 차트에서 연일 상승세를 나타내고 있다. 중소형 케이팝 기획사의 걸그룹이 전 세계에 이름을 알리며 '기적'을 써]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이유 왜 억울한가…유사성과 표절의 경계선]]></title>
         <id>https://v.daum.net/v/20230516000014528</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230515180309318"/>
         <updated>2023-05-15T11:11:27.310Z</updated>
         <content type="html"><![CDATA[(여자)아이들이 약 7개월 만에 퀸카로 변신해 돌아왔다. (여자)아이들(미연 민니 소연 우기 슈화)은 15일 오후 6시 각종 음원사이트를 통해 여섯 번째 미니 앨범 ‘I feel’(아이 필)을 발매했다. (여자)아이들의 신보 ‘I feel’은 타이틀곡 ‘퀸카’(Queencard)를 포함해 총 6곡이 수록됐으며, 전곡 작사·작곡에 멤버들이 직접 참여했다. 선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘칼군무 원조’ 틴탑·인피니트·샤이니, 2.5세대 오빠들이 온다]]></title>
-        <id>https://v.daum.net/v/20230515180153270</id>
-        <link href="https://v.daum.net/v/20230515180153270"/>
-        <updated>2023-05-15T11:11:27.312Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 정하은기자] 원조 ‘칼군무돌’이 돌아온다. ‘그때 그 시절’의 감성을 재현하는 보이그룹들의 줄컴백이다. 2세대 동방신기, 빅뱅, 슈퍼주니어와 함께 2000년대 후반에 데뷔해 2.5세대로 불리는 샤이니, 인피니트, 틴탑이 오랜만에 돌아온다. 이들은 엑소, 방탄소년단 등 3세대 아이돌이 전세계로 뻗어나갈 수 있는 밑바탕을 깔아준 이들이다.]]></content>
     </entry>
 </feed>
