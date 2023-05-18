@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2023-05-18T16:20:03.772Z</updated>
+    <updated>2023-05-18T18:15:09.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크리스탈, 자신감 넘치는 아우라 [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001052263</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0001052263"/>
+        <updated>2023-05-18T18:15:00.779Z</updated>
+        <content type="html"><![CDATA[배우 크리스탈(정수정)의 뷰티 화보가 '엘르' 6월호에 공개됐다. 영화 '거미집'을 통해 오랜만의 스크린 복귀를 알려온 배우 크리스탈(정수정)이 '엘르' 카메라 앞에 섰다. 크리스탈(정수정)은 한 컷 한 컷 촬영이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전여빈의 로맨틱한 여름날[화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001052262</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0005132362"/>
         <updated>2023-05-18T14:11:24.846Z</updated>
         <content type="html"><![CDATA[‘소년판타지’ 소연이 에너제틱 팀에 극찬했다. 18일 방송된 MBC 예능프로그램 ‘소년판타지- 방과후 설렘 시즌2’(이하 ‘소년판타지’)에서는 4학기 팀워크 미션 무대를 하는 소년들의 모습이 그려졌다. 이날 두 번째]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["故서세원, 프로포폴 100ml 맞아" 간호사 증언…"무조건 사망"('실화탐사대')]]></title>
-        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000429526</id>
-        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000429526"/>
-        <updated>2023-05-18T14:11:24.846Z</updated>
-        <content type="html"><![CDATA[고 서세원이 사망 당일 프로포폴 50ml 두 병, 총 100ml를 맞고 숨졌다는 현지 간호사 증언이 나왔다. 18일 방송된 MBC '실화탐사대'가 지난 4월 먼 이국땅 캄보디아에서 68세 나이로 갑작스러운 죽음을 맞]]></content>
     </entry>
 </feed>
