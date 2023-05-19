@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 05:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 06:19:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["솔로들을 위한 판" SLL 웹예능 ‘헌팅걸’ 시즌2... 이은지 돌아왔다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=263313</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=263313</guid>
+            <pubDate>Fri, 19 May 2023 06:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=263313">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230519142955_3cad2df22dffcaa52fa4a2d6e3e0e617.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=263313">"솔로들을 위한 판" SLL 웹예능 ‘헌팅걸’ 시즌2... 이은지 돌아왔다</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230519142955_3cad2df22dffcaa52fa4a2d6e3e0e617.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위키미키 지수연, 뮤지컬 ‘할란카운티’  엘레나 연기]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=263049</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=260428">제59회 백상예술대상, 박은빈 · '헤어질 결심' 대상... "K콘텐츠의 저력"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230430073732_ef13f02ecc741161d7fafa0a0d2a4e01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SLL 작품, '백상예술대상’ 4관왕... '재벌집' 이성민'해방일지’ 박해영 작가]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=260334</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=260334</guid>
-            <pubDate>Sat, 29 Apr 2023 09:11:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=260334">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230429171746_497088cbfad88fa0f987123e184cc6b5.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=260334">SLL 작품, '백상예술대상’ 4관왕... '재벌집' 이성민'해방일지’ 박해영 작가</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230429171746_497088cbfad88fa0f987123e184cc6b5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
