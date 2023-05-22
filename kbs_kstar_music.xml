@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 May 2023 22:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 04:17:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[초대형 신인’ 보이넥스트도어, "하이브 인프라+KOZ 음악성"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=263672</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=263672</guid>
+            <pubDate>Mon, 22 May 2023 04:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=263672">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230522075033_31a5e726e3220da333ae25167b3497b1_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=263672">초대형 신인’ 보이넥스트도어, "하이브 인프라+KOZ 음악성"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230522075033_31a5e726e3220da333ae25167b3497b1_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박재범, 싱글 ‘Candy’ 23일 발매.. 자이언티 피처링 특급 참여]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=263528</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=261343">ATBO(에이티비오) 신보 ‘더 비기닝: 飛上’... 18일 컴백</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230506080822_e7c09a2f5630d609d3c170b1bc101b89.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[6월의 황치열, 미니 5집 'GIFT'로 컴백]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=261916</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=261916</guid>
-            <pubDate>Wed, 10 May 2023 03:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=261916">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230510081549_f6943eedaff92393bfb7e3f37a37f1ae.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=261916">6월의 황치열, 미니 5집 'GIFT'로 컴백</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230510081549_f6943eedaff92393bfb7e3f37a37f1ae.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
