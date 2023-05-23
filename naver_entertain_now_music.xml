@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-05-23T14:16:37.965Z</updated>
+    <updated>2023-05-23T15:17:36.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[피프티 피프티, 빌보드 '핫100' 9주 연속 진입…K팝 걸그룹 신기록]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011875993</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011875993"/>
+        <updated>2023-05-23T15:17:17.791Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 블랙핑크·셀레나 고메즈 '아이스크림' 8주 연속 진입 기록 깨 '큐피드' 27일자 '핫100' 18위…1계단 하락했으나 여전히 상위권 [서울=뉴시스]이재훈 기자 = 영미권 싱글차트에 균열을 내고 있는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하이브, 中 진출 본격화하나…텐센트 뮤직과 음원유통 계약]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011875984</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000946411"/>
         <updated>2023-05-23T11:14:14.059Z</updated>
         <content type="html"><![CDATA[그룹 ‘에스파’ 윈터 그룹 ‘에스파(aespa)’의 윈터가 데뷔 전 말을 잘못해 곤욕을 치른 일화를 전했다. 23일 W 코리아에 ‘에스파의 숙소 안 멤버별 흔한 풍경? 너무 친숙해...’라는 영상이 공개됐다. 에스파]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소년판타지, ‘음중’ 이어 ‘더쇼’도 전소연과 함께…세미파이널 신곡 반응 뜨겁다!]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000888963</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000888963"/>
-        <updated>2023-05-23T11:14:14.060Z</updated>
-        <content type="html"><![CDATA[MBC ‘소년판타지’ 참가자들이 ‘쇼! 음악중심’에 이어 ‘더쇼’에도 출격했다. 23일 SBS M, SBS FiL ‘더쇼’가 방송된 가운데, 이날 ‘소년판타지’ @IN_어스 팀의 ‘SPACEMAN’, 러너즈 팀의 ‘]]></content>
     </entry>
 </feed>
