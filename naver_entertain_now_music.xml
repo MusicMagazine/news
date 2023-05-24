@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-05-24T16:20:35.946Z</updated>
+    <updated>2023-05-24T18:20:31.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['트렌드세터' 뉴진스, 美 타임 '2023 차세대 리더 선정']]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001256073</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001256073"/>
+        <updated>2023-05-24T18:20:12.174Z</updated>
+        <content type="html"><![CDATA[뉴진스(NewJeans)가 미국 시사주간지 타임(TIME)의 '2023 차세대 리더(Next Generation Leaders)'로 선정됐다. 매년 트렌드 선구자들을 발표하고 있는 타임은 23일(현지 시간) 올해 K]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[르세라핌, 후속곡 뮤비 공개...금기 깨는 퍼포먼스]]></title>
         <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001256071</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004848763"/>
         <updated>2023-05-24T14:12:11.727Z</updated>
         <content type="html"><![CDATA[그룹 (여자)아이들 소연이 24일 오후 경기도 고양시 MBC 드림센터에서 열린 MBC M '쇼 챔피언' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황인욱, 신곡 ‘이 새벽에 전화하는 건’ 뮤직비디오 티저 오픈]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000889316</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000889316"/>
-        <updated>2023-05-24T14:12:11.728Z</updated>
-        <content type="html"><![CDATA[가수 황인욱이 뮤직비디오 티저를 공개하며 신곡 열기를 이어간다. 황인욱은 지난 23일 하우엔터테인먼트 공식 SNS를 통해 새 싱글 ‘이 새벽에 전화하는 건’의 뮤직비디오 티저를 공개했다. 티저엔 함께 피아노를 연주하]]></content>
     </entry>
 </feed>
