@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-05-24T19:13:46.642Z</updated>
+    <updated>2023-05-24T20:13:11.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['로큰롤의 여왕' 티나 터너 별세…향년 83세]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013962698</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013962698"/>
+        <updated>2023-05-24T20:12:52.736Z</updated>
+        <content type="html"><![CDATA[1960∼1980년대 수많은 히트곡 남겨…그래미 8회 수상 임미나 특파원 = '로큰롤의 여왕'으로 불리며 1970∼80년대를 풍미한 팝 스타 티나 터너가 별세했다. 항년 83세. 로이터 통신과 뉴욕타임스(NYT) 등]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['트렌드세터' 뉴진스, 美 타임 '2023 차세대 리더 선정']]></title>
         <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001256073</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004848764</id>
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004848764"/>
         <updated>2023-05-24T14:12:11.725Z</updated>
-        <content type="html"><![CDATA[그룹 (여자)아이들 소연이 24일 오후 경기도 고양시 MBC 드림센터에서 열린 MBC M '쇼 챔피언' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] (여자)아이들 소연, '사랑스러움 가득~']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004848763</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004848763"/>
-        <updated>2023-05-24T14:12:11.727Z</updated>
         <content type="html"><![CDATA[그룹 (여자)아이들 소연이 24일 오후 경기도 고양시 MBC 드림센터에서 열린 MBC M '쇼 챔피언' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
     </entry>
 </feed>

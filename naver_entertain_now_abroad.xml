@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2023-05-24T19:13:46.666Z</updated>
+    <updated>2023-05-24T20:13:11.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['로큰롤의 여왕' 티나 터너 별세…향년 83세]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013962698</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013962698"/>
+        <updated>2023-05-24T20:13:10.219Z</updated>
+        <content type="html"><![CDATA[1960∼1980년대 수많은 히트곡 남겨…그래미 8회 수상 임미나 특파원 = '로큰롤의 여왕'으로 불리며 1970∼80년대를 풍미한 팝 스타 티나 터너가 별세했다. 항년 83세. 로이터 통신과 뉴욕타임스(NYT) 등]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['로큰롤 여왕' 티나 터너, 83세로 타계]]></title>
         <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0006827859</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0004011131"/>
         <updated>2023-05-24T06:16:19.807Z</updated>
         <content type="html"><![CDATA[그룹 방탄소년단 제이홉이 신병교육을 마친 후 근황을 전했다. 24일 제이홉은 팬 커뮤니티 플랫폼 '위버스'에 "아미 여러분!! 잘 수료했습니다. 여러분들이 보내주신 편지, 응원 정말 큰 도움이 되어 열심히 훈련받을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마블 합류' 플로렌스 퓨, 독립 영화계로부터 질타 받았다 [할리웃통신]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001255991</id>
-        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001255991"/>
-        <updated>2023-05-24T06:16:19.810Z</updated>
-        <content type="html"><![CDATA[마블에 합류한 배우 플로렌스 퓨가 독립 영화계로부터 질타를 받았다. 미국 매거진 타임은 23일(현지 시간) 플로렌스 퓨가 마블 시네마틱 유니버스에 합류하기로 결정했을 때, 독립 영화계 종사자들로부터 뭇매를 맞았다고]]></content>
     </entry>
 </feed>
