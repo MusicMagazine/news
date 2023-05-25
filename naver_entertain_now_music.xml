@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-05-25T15:16:50.217Z</updated>
+    <updated>2023-05-25T16:17:44.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["에스파 보려 여행 일정도 바꿔"…칸에서도 빛난 K팝 스타들]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0013965566</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0013965566"/>
+        <updated>2023-05-25T16:17:30.353Z</updated>
+        <content type="html"><![CDATA[블랙핑크 등장에 수백명 환호…영화제 화제성 견인 명품 브랜드도 마케팅 위해 뷔·로제·리사·에스파 초청 "파리 여행 중이었는데, 에스파가 온다는 말을 듣고 어제 급하게 비행기 타고 칸까지 왔어요. 너무 기대돼요." 2]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쇼뮤지컬 ‘드림하이’, 송삼동 역 음문석·이승훈·유태양표 넘버+퍼포먼스 인기]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000889622</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000889589"/>
         <updated>2023-05-25T14:17:19.802Z</updated>
         <content type="html"><![CDATA[5세대 아이돌그룹 루네이트(LUN8, 판타지오 소속)가 완성형 실력으로 데뷔 전부터 주목받고 있다. 루네이트(진수·카엘·타쿠마·준우·도현·이안·지은호·은섭)는 지난달부터 공식 유튜브 채널에 다양한 퍼포먼스 및 보컬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(여자)아이들 우기 “여름마다 목장에서 말 타.. 어렸을 때 상을 휩쓸었다”]]></title>
-        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000947271</id>
-        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000947271"/>
-        <updated>2023-05-25T14:17:19.805Z</updated>
-        <content type="html"><![CDATA[그룹 (여자)아이들 우기가 범상치 않은 과거를 밝혔다. 25일 유튜브 채널 ‘문명특급’에는 ‘(SUB) “맞아요 저 인기 많았어요··“ 당당히 퀸카였던 과거들 밝히는 아이들 역시 모두가 키쓰 키쓰를 원할만 하네요 /]]></content>
     </entry>
 </feed>
