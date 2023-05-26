@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-05-26T17:13:11.674Z</updated>
+    <updated>2023-05-26T19:12:28.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송강호 "'거미집' 배우들 칸 처음이라 더 기뻐…원동력"]]></title>
+        <id>https://v.daum.net/v/20230527032818265</id>
+        <link href="https://v.daum.net/v/20230527032818265"/>
+        <updated>2023-05-26T19:11:59.478Z</updated>
+        <content type="html"><![CDATA[(칸=뉴스1) 고승아 기자 = 배우 송강호가 '거미집'으로 제76회 칸 국제영화제를 방문한 것에 특별한 의미를 전했다. 송강호, 김지운 감독은 26일 오후(현지시간, 한국시간 27일 오전) 프랑스 남부 칸 팔레 데 페스티벌 영화진흥위원회 부스에서 영화 '거미집' 관련 인터뷰를 진행했다. 이날 송강호는 '거미집'으로 지난해 '브로커'에 이어 칸에 다시 온]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스윙스, 명품 시계 '풍덩' 지상렬에 "괜찮습니다" 대인배 면모]]></title>
         <id>https://v.daum.net/v/20230527014313028</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230526234513526"/>
         <updated>2023-05-26T16:20:37.619Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 이지현 기자 = 기안84가 이장우와 충돌 후 건강에 이상이 없다고 전했다. 26일 오후 방송된 MBC 예능 프로그램 '나 혼자 산다'에서는 전현무, 코드쿤스트 등 무지개 회원들이 기안84의 주요 부위(?)를 걱정했다. 이날 오프닝에서 전현무는 "몽골 10주년 여행 다녀와서 3주만에 만나는 거 아니냐, 다들 잘 지냈냐"라며 안부를 물었]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나는 솔로' 광수·영수, 여전히 모솔.. 오은영 매직으로 이번엔 탈출?]]></title>
-        <id>https://v.daum.net/v/20230526234200512</id>
-        <link href="https://v.daum.net/v/20230526234200512"/>
-        <updated>2023-05-26T16:20:37.622Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이지민 기자] 26일 채널A ‘오은영의 금쪽상담소’에 ‘나는 솔로’ 12기 모태 솔로 특집의 영수(정태희)와 광수(이희수)가 출연했다. 이들은 33세 변리사 이희수(광수), 39세 수학 강사 정태희(영수)로 화려한 스펙을 자랑하지만 방송 이후로도 여전히 연애를 하지 못했다고 밝혔다. 박나래가 “방송 후 개인적으로 연락 온 이성이 있냐”고 묻]]></content>
     </entry>
 </feed>
