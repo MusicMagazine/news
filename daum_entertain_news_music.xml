@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-05-27T08:14:45.167Z</updated>
+    <updated>2023-05-27T10:13:08.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이브 레이, 활동 재개…소속사 “컨디션 이상 증세 많이 호전”]]></title>
+        <id>https://v.daum.net/v/20230527171918809</id>
+        <link href="https://v.daum.net/v/20230527171918809"/>
+        <updated>2023-05-27T10:12:30.009Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 김현덕기자] 컨디션 이상으로 활동을 중단했던 걸그룹 아이브의 멤버 레이가 활동을 재개한다. 26일 아이브의 소속사 스타쉽 엔터테인먼트는 아이브 공식 팬카페를 통해 레이의 활동 재개 소식을 알렸다. 소속사는 “레이는 최근 컨디션 이상 증세가 많이 호전되어 팀 활동 합류 및 활동 재개를 결정했다”며 “당사는 향후 스케줄을 진행하는 동안 레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘음악중심’ 아이들 1위→몬스타엑스 주헌 솔로 데뷔]]></title>
         <id>https://v.daum.net/v/20230527163319334</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230527114020431"/>
         <updated>2023-05-27T03:13:04.029Z</updated>
         <content type="html"><![CDATA[[OSEN=선미경 기자] 그룹 드리핀(DRIPPIN)이 올해 가장 주목해야 할 보이그룹으로 선정됐다. 드리핀은 지난&nbsp;24일 미국 그래미(GRAMMYS)가 발표한&nbsp;'2023년 주목해야 할&nbsp;K팝 보이그룹 톱&nbsp;11(11 K-Pop Boy Groups To Watch In 2023)'에 선정되며 뜨거운 글로벌 인기를 증명했다. 그래미는&nbsp;"드리핀은 화려함을 잃지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[후크와 경제공동체 의혹받는 이선희, “레슨비 43억? 명예훼손 법적조치”]]></title>
-        <id>https://v.daum.net/v/20230527113909422</id>
-        <link href="https://v.daum.net/v/20230527113909422"/>
-        <updated>2023-05-27T03:13:04.031Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 김현덕기자] 가수 이선희 측이 소속사 후크엔터테인먼트와 경제공동체가 아니냐는 의혹에 대해 공식 입장을 밝혔다. 26일 이선희의 법률대리인 법무법인(유) 광장 측은 “이선희가 수사에 적극협조하고 성실히 조사에 임하며 관련 사실관계를 상세하게 소명했다”고 운을 뗐다. 이어 “수사 중인 사안에 대해 자세히 말씀드리기 어려운 점 양해를 부탁드]]></content>
     </entry>
 </feed>
