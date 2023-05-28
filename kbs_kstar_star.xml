@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 May 2023 21:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 May 2023 23:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[화보] 조아람 '닥터 전소라' 매거진 '얼루어' 화보]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=264726</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=264726</guid>
+            <pubDate>Sun, 28 May 2023 23:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=264726">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230529074609_5a41c510b946af04a4187b327a47e345.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=264726">[화보] 조아람 '닥터 전소라' 매거진 '얼루어' 화보</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230529074609_5a41c510b946af04a4187b327a47e345.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["안중근의 노래는 계속된다" 뮤지컬 '양웅' 지방투어 시작]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=264303</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=261062">김재중, 기획사 ‘인코드’ 설립… "K팝 미래 이끈다"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230504080610_c9f53b8b8d705f5176312724629135a9.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 '그날들' 10주년 기념공연 캐스팅 공개...  7월 12일부터 예술의전당 오페라극장]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=260984</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=260984</guid>
-            <pubDate>Wed, 03 May 2023 03:13:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=260984">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230503111654_b9d9b4997f072f603604ad09480df187.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=260984">뮤지컬 '그날들' 10주년 기념공연 캐스팅 공개...  7월 12일부터 예술의전당 오페라극장</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230503111654_b9d9b4997f072f603604ad09480df187.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

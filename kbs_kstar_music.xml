@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 May 2023 21:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 May 2023 23:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS 슈가, ‘SUGA | Agust D TOUR ‘D-DAY’’ 자카르타 콘서트]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=264720</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=264720</guid>
+            <pubDate>Sun, 28 May 2023 23:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=264720">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230529073156_bbe50bbb242118aae67954ff2f745f9b.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=264720">BTS 슈가, ‘SUGA | Agust D TOUR ‘D-DAY’’ 자카르타 콘서트</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230529073156_bbe50bbb242118aae67954ff2f745f9b.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[초특급 보이그룹 '보이넥스트도어' "화요일 데뷔합니다"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=264611</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=262680">[현장] 음악, 진화하고 융합된다...  이현, MIDNATT(미드낫) 되다</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230515165215_c2d45bf93e525e90028e493503bb90c2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, '베스티언즈' OST 'The Planet'  일본 오리콘 차트 정상]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=262602</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=262602</guid>
-            <pubDate>Sun, 14 May 2023 23:11:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=262602">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230515080303_72fe393567e89298a5a0b2c00f9a629f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=262602">방탄소년단, '베스티언즈' OST 'The Planet'  일본 오리콘 차트 정상</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230515080303_72fe393567e89298a5a0b2c00f9a629f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
