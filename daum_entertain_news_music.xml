@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-05-28T14:14:57.877Z</updated>
+    <updated>2023-05-28T18:14:50.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[샤이니, "여러분과 함께 한 15년, 매일이 빛났다" 15주년 팬미팅 성료]]></title>
+        <id>https://v.daum.net/v/20230529030157864</id>
+        <link href="https://v.daum.net/v/20230529030157864"/>
+        <updated>2023-05-28T18:14:13.956Z</updated>
+        <content type="html"><![CDATA[[스포츠한국 모신정 기자]&nbsp;"오늘의 콘셉트는 '에브리데이 이즈 샤이니데이'(Everyday is SHINee Day)입니다. 15년 동안 여러분과 함께 했었고 모든 날이 빛났다는 생각이 들었습니다. 샤이니라는 의미가 빛을 받는 사람이라는 의미도 있는데 여러분들이 저희가 빛을 받는 사람이 되도록 만들어주셨어요." 그룹 샤이니가 28일 오후 서울 잠실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“260만 구독자·4억뷰” 베이비몬스터, 데뷔 전부터 남다른 글로벌 주목도]]></title>
         <id>https://v.daum.net/v/20230528231309947</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230528160909546"/>
         <updated>2023-05-28T07:12:50.039Z</updated>
         <content type="html"><![CDATA[‘드림콘서트’[이데일리 스타in 김가영 기자] ‘2023 드림콘서트 트롯’이 남다른 스케일과 무대를 예고했다. ‘2023 드림콘서트 트롯(이하 ’드림콘서트 트롯‘)’은 28일 오후 5시 부산아시아드 보조 경기장에서 개최된다. 지난해 ‘드림콘서트 트롯’은 정상급 트롯 스타들의 환상적인 무대들을 선보이며 트롯 연합 대형 콘서트의 시작을 알렸다. 올해는 ‘20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이들vs에스파vs아이브, 1위 트로피 경쟁]]></title>
-        <id>https://v.daum.net/v/20230528155959412</id>
-        <link href="https://v.daum.net/v/20230528155959412"/>
-        <updated>2023-05-28T07:12:50.040Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 하지원 기자] '인기가요' (여자)아이들, 에스파, 아이브가 1위 후보로 맞붙는다. 5월 28일 방송된 SBS '인기가요'에서는 5월 마지막주 1위 후보가 공개됐다. 이날 1위 후보에는 (여자)아이들 '퀸카(Queencard)', 에스파(aespa) '스파이시(Spicy)', 아이브(IVE) '아이 엠(I AM)'이 올랐다. 세 팀은 1위 트로피]]></content>
     </entry>
 </feed>
