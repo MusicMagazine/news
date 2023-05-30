@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-05-30T12:30:03.261Z</updated>
+    <updated>2023-05-30T13:22:43.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘서울재즈페스티벌 2023’ 정세운 “관객들과 호흡할 수 있어 즐거워”]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000890380</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000890380"/>
+        <updated>2023-05-30T13:22:26.361Z</updated>
+        <content type="html"><![CDATA[‘싱어송라이돌’ 정세운이 ‘서울재즈페스티벌’ 무대로 페스티벌 섭외 0순위 명성을 입증했다. 정세운은 지난 28일 서울 올림픽공원에서 개최된 ‘서울재즈페스티벌 2023(Seoul Jazz Festival 2023)’에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김민희 “행복했고 벅찼던 무대”···‘2023 드림콘서트 트롯’ 최백호·진성과 인증샷]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000890366</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011887384"/>
         <updated>2023-05-30T10:14:19.142Z</updated>
         <content type="html"><![CDATA['DKZ 유닛' 나인투식스(종형·민규)의 데뷔가 하루 앞으로 다가왔다. 30일 소속사 동요엔터테인먼트에 따르면, 나인투식스는 오는 31일 첫 싱글 '굿 투 유(GOOD TO YOU)'를 발매한다. 나인투식스는 첫 싱]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CIX, ‘‘OK’ Episode 2 : I’m OK’ 아이튠즈 4개국 톱 앨범 차트 1위]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000890332</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000890332"/>
-        <updated>2023-05-30T10:14:19.143Z</updated>
-        <content type="html"><![CDATA[아이돌그룹 CIX(씨아이엑스)가 컴백과 동시에 국내외 음원 차트를 강타했다. 30일 글로벌 음원 스트리밍 플랫폼 아이튠즈에 따르면, 전날 발매된 CIX의 여섯 번째 EP ‘‘OK’ Episode 2 : I’m OK]]></content>
     </entry>
 </feed>
