@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-05-31T17:14:25.594Z</updated>
+    <updated>2023-05-31T19:15:29.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[밴드 SURL, 'YOUNG & ALIVE 2023' 개최...진짜 '예술' 보여준다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001256820</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001256820"/>
+        <updated>2023-05-31T19:15:12.655Z</updated>
+        <content type="html"><![CDATA[밴드 SURL(설)이 종합 문화 페스티벌 'YOUNG &amp; ALIVE'로 또 한 번 돌아온다. 소속사 엠피엠지 뮤직은 오는 6월 24일 토요일, 서울대학교 제1파워플랜트에서 SURL 'YOUNG &amp; ALIVE 2023]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가수 영탁, ‘신사답게’ 음원 유튜브 500만뷰 돌파]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000890698</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004851152"/>
         <updated>2023-05-31T17:14:09.154Z</updated>
         <content type="html"><![CDATA[그룹 카드(KARD) 전지우가 31일 오후 경기도 고양시 MBC 드림센터에서 열린 MBC M '쇼 챔피언' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 카드(KARD) 제이셉, '카리스마 넘치는 멋진 모습']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004851151</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004851151"/>
-        <updated>2023-05-31T17:14:09.155Z</updated>
-        <content type="html"><![CDATA[그룹 카드(KARD) 제이셉이 31일 오후 경기도 고양시 MBC 드림센터에서 열린 MBC M '쇼 챔피언' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
     </entry>
 </feed>
