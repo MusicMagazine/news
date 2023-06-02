@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 23:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 01:11:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['공동경비구역 JSA' 원작, 박상연 'DMZ' 재출간]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=265407</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=265407</guid>
+            <pubDate>Fri, 02 Jun 2023 01:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=265407">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230602092523_ca192726183f887a3ad9b02f27641921.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=265407">'공동경비구역 JSA' 원작, 박상연 'DMZ' 재출간</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230602092523_ca192726183f887a3ad9b02f27641921.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[화보] 조아람 '닥터 전소라' 매거진 '얼루어' 화보]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=264726</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=261071">뮤지컬 ‘모차르트!’ 4명의 볼프강 아마데우스 모차르트...  이해준- 수호 - 유회승 - 김희재</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230504082139_dd898cbb31f1d90deec593df874e04bd.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[김재중, 기획사 ‘인코드’ 설립… "K팝 미래 이끈다"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=261062</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=261062</guid>
-            <pubDate>Wed, 03 May 2023 23:14:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=261062">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230504080610_c9f53b8b8d705f5176312724629135a9.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=261062">김재중, 기획사 ‘인코드’ 설립… "K팝 미래 이끈다"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230504080610_c9f53b8b8d705f5176312724629135a9.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
