@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-06-03T09:13:56.820Z</updated>
+    <updated>2023-06-03T10:16:11.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TNX, 여름 물들일 청량돌..'Kick It 4 Now' MV 티저 공개]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003156888</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003156888"/>
+        <updated>2023-06-03T10:15:54.272Z</updated>
+        <content type="html"><![CDATA[보이 그룹 더뉴식스(TNX, 최태훈 우경준 장현수 천준혁 은휘 오성준)가 올 여름을 시원하게 물들일 청량 감성을 선사했다. 더뉴식스는 지난 2일 오후 8시 공식 SNS 계정을 통해 미니 3집 'BOYHOOD'의 타이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“알아서 진행해요” (여자)아이들 슈화, ‘문명특급’ 태도 눈살]]></title>
         <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003279752</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003735996"/>
         <updated>2023-06-03T08:14:39.353Z</updated>
         <content type="html"><![CDATA[첫 번째 싱글 ‘WHO!’를 발표한 보이그룹 보이넥스트도어(BOYNEXTDOOR 성호, 리우, 명재현, 태산, 이한, 운학)를 향한 일본의 관심이 뜨겁다. 일본 스포츠지 산케이 스포츠와 닛칸 스포츠는 지난달 31일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['닥터 차정숙', OST도 명가…오리지널 사운드 트랙 발매]]></title>
-        <id>https://entertain.naver.com/now/read?oid=018&amp;aid=0005500472</id>
-        <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005500472"/>
-        <updated>2023-06-03T08:14:39.354Z</updated>
-        <content type="html"><![CDATA[화제의 드라마 ‘닥터 차정숙’의 오리지널 사운드 트랙이 바로 오늘(3일) 정오 각종 음원 사이트를 통해 발매됐다. 전 채널 시청률 1위를 기록하며 ‘차정숙 열풍’을 이어가고 있는 JTBC 드라마 ‘닥터 차정숙’이 종]]></content>
     </entry>
 </feed>
