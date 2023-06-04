@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-06-04T17:10:45.560Z</updated>
+    <updated>2023-06-04T18:17:43.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에이티즈, 청양고추가 왜 거기서 나와?…신보 이색 프로모션]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003736373</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003736373"/>
+        <updated>2023-06-04T18:17:26.900Z</updated>
+        <content type="html"><![CDATA[그룹 에이티즈(ATEEZ) 새로운 프로모션으로 호기심을 자극하고 있다. 오는 6월 16일 발매를 앞두고 있는 에이티즈의 미니 9집 '더 월드 에피소드 2 : 아웃로우(THE WORLD EP.2 : OUTLAW)'의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[컴백 알렉사, 신곡 제목은 '줄리엣'이었다]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003736361</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001257226"/>
         <updated>2023-06-04T11:13:02.161Z</updated>
         <content type="html"><![CDATA[가수 알렉사가 오는 9일 신곡 ‘줄리엣’으로 컴백한다. 지난 3일 알렉사의 공식 채널을 통해 새 디지털 싱글의 콘셉트 필름이 공개됐다. 서정적인 무드가 돋보이는 35초 분량의 필름에는 ‘they say time he]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태연, 3년 5개월 만에 단독 콘서트 "기다려주셔서 감사해…보고싶었다"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000432638</id>
-        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000432638"/>
-        <updated>2023-06-04T11:13:02.162Z</updated>
-        <content type="html"><![CDATA[가수 태연이 3년 5개월 만에 단독 콘서트를 개최한 후 설레는 마음을 전했다. 태연은 4일 오후 서울 올림픽공원 KSPO DOME(구 체조경기장)에서 다섯 번째 단독 콘서트 '디 오드 오브 러브'를 개최했다. 이번]]></content>
     </entry>
 </feed>
