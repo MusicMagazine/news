@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-06-04T18:17:43.969Z</updated>
+    <updated>2023-06-04T19:11:53.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NCT 드림, 고척돔 전석 매진…서울 앙코르 콘서트 성료]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003736376</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003736376"/>
+        <updated>2023-06-04T19:11:38.099Z</updated>
+        <content type="html"><![CDATA[그룹 NCT 드림이 6만 시즈니(NCTzen, 팬덤 애칭)와 고척돔을 뚫었다. 6월 1~3일 3일간 서울 고척스카이돔에서 펼쳐진 '더 드림 쇼2 : 인 유어 드림(THE DREAM SHOW2 : In YOUR DRE]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이티즈, 청양고추가 왜 거기서 나와?…신보 이색 프로모션]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003736373</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000432641"/>
         <updated>2023-06-04T11:13:02.161Z</updated>
         <content type="html"><![CDATA[가수 태연이 16년 차 가수도 어쩔 수 없는 것을 털어놨다. 태연은 4일 오후 서울 올림픽공원 KSPO DOME(구 체조경기장)에서 다섯 번째 단독 콘서트 '디 오드 오브 러브'를 개최했다. 이번 콘서트는 2020년]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘9일 컴백’ 알렉사, 신곡 ‘줄리엣’ 발매]]></title>
-        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001257226</id>
-        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001257226"/>
-        <updated>2023-06-04T11:13:02.161Z</updated>
-        <content type="html"><![CDATA[가수 알렉사가 오는 9일 신곡 ‘줄리엣’으로 컴백한다. 지난 3일 알렉사의 공식 채널을 통해 새 디지털 싱글의 콘셉트 필름이 공개됐다. 서정적인 무드가 돋보이는 35초 분량의 필름에는 ‘they say time he]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-06-04T18:17:43.968Z</updated>
+    <updated>2023-06-04T19:11:53.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NCT 드림, 고척돔 전석 매진…서울 앙코르 콘서트 성료]]></title>
+        <id>https://v.daum.net/v/20230605040011131</id>
+        <link href="https://v.daum.net/v/20230605040011131"/>
+        <updated>2023-06-04T19:11:16.717Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 그룹 NCT 드림이 6만 시즈니(NCTzen, 팬덤 애칭)와 고척돔을 뚫었다. 6월 1~3일 3일간 서울 고척스카이돔에서 펼쳐진 '더 드림 쇼2 : 인 유어 드림(THE DREAM SHOW2 : In YOUR DREAM)'은 3회 공연 전석 매진으로 총 6만 관객을 동원했다. 오프닝 영상과 함께 와이어와 아크릴 박스 장치를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이티즈, 청양고추가 왜 거기서 나와?…신보 이색 프로모션]]></title>
         <id>https://v.daum.net/v/20230605030110737</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230604172207795"/>
         <updated>2023-06-04T11:12:42.574Z</updated>
         <content type="html"><![CDATA[[티브이데일리 가요팀] 6월 첫째주(5월 29일~6월 4일)에는 그룹 씨아이엑스(CIX)와 에이비식스(AB6IX), 스트레이키즈, 보이넥스트도어와 DKZ의 유닛 나인투식스 등 보이그룹들의 신보가 쏟아졌다. 가수 원슈타인과 그룹 아이콘 출신 비아이, 황치열 등도 새 앨범을 내고 활동을 시작했다. ◆ CIX - '오케이 에피소드 2 : 아임 오케이'('OK']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘인기가요’ 아이들, 에스파·아이브 꺾었다‥소연 “막방에 1위 감사”]]></title>
-        <id>https://v.daum.net/v/20230604165300323</id>
-        <link href="https://v.daum.net/v/20230604165300323"/>
-        <updated>2023-06-04T11:12:42.575Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '인기가요' 6월 첫째주 걸그룹 대전은 (여자)아이들의 승리였다. 6월 4일 오후 방송된 SBS '인기가요'에서는 (여자)아이들의 '퀸카'(Queencard)와 에스파(aespa)의 '스파이시(Spicy)', 아이브(IVE)의 '아이 엠(I AM)'이 1위 후보에 올랐다. 집계 결과 1위는 (여자)아이들에 돌아갔다. 이에 전소연은]]></content>
     </entry>
 </feed>
