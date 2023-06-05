@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-06-05T14:14:27.878Z</updated>
+    <updated>2023-06-05T15:18:01.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엑소 백현·시우민·첸 "재계약 과정 부당"..SM과 꼬꼬무 반박싸움[종합]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003157360</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003157360"/>
+        <updated>2023-06-05T15:17:44.179Z</updated>
+        <content type="html"><![CDATA[그룹 엑소 멤버 백현, 시우민, 첸(이하 첸백시)이 소속사 SM엔터테인먼트(이하 SM)를 상대로 전속계약 해지 통보를 한 가운데, 양측이 반박을 거듭하며 평행선을 달리고 있다. 5일 오후 첸백시 법률대리인 법무법인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SS501 출신 김규종, 커넥텀 엔터테인먼트 전속 계약[공식]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004864415</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001601026"/>
         <updated>2023-06-05T12:27:25.363Z</updated>
         <content type="html"><![CDATA[그룹 블랙핑크(BLACKPINK)가 오사카 밤하늘을 핑크빛으로 물들이며 두 번째 일본 돔 투어를 성공적으로 마무리했다. 블랙핑크는 지난 3일, 4일 양일간 일본 교세라 돔 오사카에서 'BLACKPINK WORLD T]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘훅 까놓고 말해서’ 17일, 24일 오후 6시 25분 방송 확정···3종 포스터 공개[공식]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000891499</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000891499"/>
-        <updated>2023-06-05T12:27:25.364Z</updated>
-        <content type="html"><![CDATA[윤종신, 이용진, 조현아가 출연하는 새 예능 파일럿 ‘훅 까놓고 말해서’(기획 김영진 / 연출 권락희, 이신지, 이하 ‘훅까말’)가 2주간 토요일 주말 저녁을 책임진다. 오는 17일 오후 6시 25분 첫 방송되는 M]]></content>
     </entry>
 </feed>
