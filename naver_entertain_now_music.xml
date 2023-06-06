@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-06-06T12:29:43.593Z</updated>
+    <updated>2023-06-06T13:16:53.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅 ‘모래알갱이’, 음원 차트 1위 석권]]></title>
+        <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003820206</id>
+        <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003820206"/>
+        <updated>2023-06-06T13:16:36.524Z</updated>
+        <content type="html"><![CDATA[발매 하루 만에 멜론 등서 정상 아이브 등 걸그룹 히트곡 제쳐 가수 임영웅(사진)의 신곡 ‘모래 알갱이’가 발매 하루 만에 국내 주요 음원 차트 1위를 휩쓸고 있다. 지난 5일 발매된 ‘모래 알갱이’는 6일 오전 9]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블랙핑크, 'BORN PINK' 일본 투어 성료]]></title>
         <id>https://entertain.naver.com/now/read?oid=438&amp;aid=0000056315</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003157436"/>
         <updated>2023-06-06T08:15:08.032Z</updated>
         <content type="html"><![CDATA[보이 그룹 크래비티(CRAVITY)가 남다른 예능감을 뽐냈다. 크래비티(세림, 앨런, 정모, 우빈, 원진, 민희, 태영, 형준, 성민)는 지난 5일 공식 유튜브를 통해 자체 콘텐츠 '크래비티 파크 시즌 7(이하 '비]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['DKZ 유닛' 나인투식스, 칼퇴춤에 워킹돌 변신 통했다]]></title>
-        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003736795</id>
-        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003736795"/>
-        <updated>2023-06-06T08:15:08.034Z</updated>
-        <content type="html"><![CDATA[그룹 DKZ의 유닛 나인투식스(NINE to SIX, 종형 민규)가 데뷔 첫 주 음악방송을 통해 강렬한 임팩트를 선사했다. 지난달 31일 첫 싱글 앨범 '굿 투 유(GOOD TO YOU)'를 발매한 나인투식스는 발매]]></content>
     </entry>
 </feed>
