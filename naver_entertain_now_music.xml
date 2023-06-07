@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-06-07T20:14:57.722Z</updated>
+    <updated>2023-06-07T21:13:52.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[알렉사 디지털 싱글 '줄리엣'으로 9일 컴백]]></title>
+        <id>https://entertain.naver.com/now/read?oid=438&amp;aid=0000056349</id>
+        <link href="https://entertain.naver.com/now/read?oid=438&amp;aid=0000056349"/>
+        <updated>2023-06-07T21:13:33.797Z</updated>
+        <content type="html"><![CDATA[신곡 발표를 앞둔 알렉사(AleXa)가 영화 속 한 장면 같은 콘셉트 포토로 강렬한 감성을 전했다. 알렉사는 공식 SNS에 신곡 '줄리엣(Juliet)' 콘셉트 포토를 공개했다. 콘셉트 포토는 알렉사의 얼굴이 클로즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['심신 딸' 벨→'박남정 딸' 시은, 가수 DNA 물려받은 2세 ★ [스타이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003157831</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001601645"/>
         <updated>2023-06-07T11:11:25.844Z</updated>
         <content type="html"><![CDATA[커셔스 클레이가 빈지노의 새 정규 앨범에 합류한다. 최근, 빈지노의 새 정규 앨범 '노비츠키'에 참여하는 아티스트로 커셔스 클레이가 공개됐다. 이 소식은 빈지노가 진행한 'LOVE WANT' 매거진 인터뷰를 통해 알]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AB6IX (에이비식스), 새 노래 ‘LOSER’로 컴백 후 첫 음악방송 1위···“모두 에비뉴분들 덕분”]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000891901</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000891901"/>
-        <updated>2023-06-07T11:11:25.848Z</updated>
-        <content type="html"><![CDATA[아이돌그룹 AB6IX가 신곡 ‘LOSER’로 컴백 후 첫 음악방송 1위 트로피를 거머쥐었다. 지난달 29일 일곱 번째 EP ‘THE FUTURE IS OURS : LOST’로 컴백한 AB6IX는 지난 6일 오후 방송]]></content>
     </entry>
 </feed>
