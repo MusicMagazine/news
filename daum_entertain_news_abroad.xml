@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-06-07T11:11:43.427Z</updated>
+    <updated>2023-06-07T12:24:23.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아놀드 슈왈제네거, '나치 군인' 아버지에 가정폭력 당했다]]></title>
+        <id>https://v.daum.net/v/20230607210030265</id>
+        <link href="https://v.daum.net/v/20230607210030265"/>
+        <updated>2023-06-07T12:23:56.223Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 배우 겸 정치인 아놀드 슈왈제네거가 어두웠던 유년 시절을 공개했다. 6일(현지 시간) 매체 뉴욕포스트에 따르면 아놀드 슈왈제네거는 오는 7일 공개되는 넷플릭스 다큐멘터리 '아놀드'에서 아버지 구스타프에 대해 언급할 예정이다. 아놀드 슈왈제네거는 나치당 간부였던 아버지를 '폭군'이라 묘사하며 가정 폭력으로 고통받아 왔다고 호소했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조지 윈스턴, 별세…'자연주의 피아니스트' 애도]]></title>
         <id>https://v.daum.net/v/20230607200143284</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230607151301411"/>
         <updated>2023-06-07T06:20:30.510Z</updated>
         <content type="html"><![CDATA[[뉴스엔 하지원 기자] 넷플릭스 리얼리티 쇼 ‘블링블링 엠파이어’에 출연했던 애나 셰이가 뇌졸중으로 사망했다. 향년 62세. 6월 6일(현지 시각) 미국 피플지 등 외신에 따르면 애나 셰이 가족은 성명을 통해 “사랑하는 어머니, 할머니이자 카리스마 넘치는 스타, 우리의 햇살이었던 애나 셰이가 뇌졸중으로 62세라는 이른 나이에 사망했다는 소식을 전하게 되어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스 헴스워스 “‘토르:러브 앤 썬더’, 너무 우스꽝스러웠다” 인정]]></title>
-        <id>https://v.daum.net/v/20230607144610300</id>
-        <link href="https://v.daum.net/v/20230607144610300"/>
-        <updated>2023-06-07T06:20:30.511Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 배우 크리스 헴스워스(39)가 ‘토르:러브 앤 썬더’의 아쉬움을 털어놓았다. ‘토르:러브 앤 썬더’는 전 세계적으로 7억 6,000만 달러를 벌어들이며 흥행에 성공했지만, 타이카 와이티티 감독의 우스꽝스러운 유머와 매력적이지 않은 시각효과 때문에 많은 마블 팬들이 외면했다. 한국에서도 271만 관객에 그쳤다. 헴스]]></content>
     </entry>
 </feed>
