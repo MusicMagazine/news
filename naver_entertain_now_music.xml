@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-06-08T16:16:57.267Z</updated>
+    <updated>2023-06-08T18:15:00.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘러브렌즈’ 박시환 “망사 같은 흰옷 입었다”]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000892239</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000892239"/>
+        <updated>2023-06-08T18:14:43.974Z</updated>
+        <content type="html"><![CDATA[가수 박시환이 신곡 스포일러부터 근황까지 전했다. 박시환은 8일 밤 방송된 BTN라디오 ‘러브렌즈 박시환입니다’(이하 ‘러브렌즈’)에 출연했다. 박시환은 “사연을 많이 보내주셨다. 청취자들의 일상을 만나보겠다”라며]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅 신곡 인기몰이, '모래 알갱이' MV 300만 뷰 돌파]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000220996</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000892169"/>
         <updated>2023-06-08T11:14:31.900Z</updated>
         <content type="html"><![CDATA[가수 유브이(UV)가 유튜브 채널을 오픈한다. 유브이(유세윤·뮤지)는 9일 오후 6시 유튜브 채널 ‘UV BANG(유브이 방)’을 오픈하고 또 한 번 큰 웃음을 선사한다. 새롭게 개설되는 ‘UV BANG’의 ‘유브이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인피니트 김성규, 컴백 타이틀곡 'Small Talk'..트랙리스트 공개]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004866049</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004866049"/>
-        <updated>2023-06-08T11:14:31.902Z</updated>
-        <content type="html"><![CDATA[가수 김성규가 역대급 명반 탄생을 예고했다. 소속사 더블에이치티엔이는 8일 0시에 공식 SNS를 통해 김성규의 다섯 번째 미니 앨범 '2023 에스에스 컬렉션(2023 S/S Collection)' 트랙리스트를 공개]]></content>
     </entry>
 </feed>
