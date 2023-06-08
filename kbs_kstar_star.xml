@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Jun 2023 20:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2023 23:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["외쳐, 오에오~"  뮤지컬 '스웨그에이지 외쳐,조선!' 오늘 개막]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=266171</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=266171</guid>
+            <pubDate>Thu, 08 Jun 2023 23:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=266171">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230608094217_f9419f774849a35586dc971dfb606282.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=266171">"외쳐, 오에오~"  뮤지컬 '스웨그에이지 외쳐,조선!' 오늘 개막</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230608094217_f9419f774849a35586dc971dfb606282.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대구국제뮤지컬페스티벌(DIMF) 폐막... 영국 '나인 투 파이브’  대상]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=265846</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=261963">아이유 측, '악성 글에 법적 대응' 예고... "절대 합의∙선처 없다"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230510165523_c8328b7ad1a830d3a63a761fa553071b.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 '쿠로이 저택엔 누가 살고 있을까?'...  대학로에 웃음꽃이 피었습니다]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=261906</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=261906</guid>
-            <pubDate>Wed, 10 May 2023 03:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=261906">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230510075242_49126dfdfff0426ffc61f6cefc055e49.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=261906">뮤지컬 '쿠로이 저택엔 누가 살고 있을까?'...  대학로에 웃음꽃이 피었습니다</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230510075242_49126dfdfff0426ffc61f6cefc055e49.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
