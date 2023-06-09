@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jun 2023 06:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 10:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['MIDNATT' 이현, JTBC  ‘K-909’ 출격 (KBS연예 ─ 음악)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=266279</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=266279</guid>
+            <pubDate>Fri, 09 Jun 2023 10:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=266279">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230609172845_7c99cfd7ce8a4f3d5e07f2a10bbb55fe.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=266279">'MIDNATT' 이현, JTBC  ‘K-909’ 출격</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230609172845_7c99cfd7ce8a4f3d5e07f2a10bbb55fe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, 데뷔 10주년 기념 싱글 'Take Two' 전 세계 동시 공개 (KBS연예 ─ 음악)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=266246</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=263906">카드(KARD), 오늘 컴백.. 미니 6집 'ICKY' </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230523101607_574452f2bcea0ba42c3575882b8e61ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초대형 신인’ 보이넥스트도어, "하이브 인프라+KOZ 음악성" (KBS연예 ─ 음악)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=263672</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=263672</guid>
-            <pubDate>Mon, 22 May 2023 04:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=263672">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230522075033_31a5e726e3220da333ae25167b3497b1_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=263672">초대형 신인’ 보이넥스트도어, "하이브 인프라+KOZ 음악성"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230522075033_31a5e726e3220da333ae25167b3497b1_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["외쳐, 오에오~"  뮤지컬 '스웨그에이지 외쳐,조선!' 오늘 개막 (KBS연예 ─ 연예)]]></title>
@@ -776,214 +776,277 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/06/09/d0515f3c-9102-4b10-8bc9-8169a65f2be3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[수지, 하이브 새 걸그룹 서바이벌 ‘R U Next?’ 테마송 가창 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20230609150907202</link>
-            <guid>https://v.daum.net/v/20230609150907202</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=지민경 기자]&nbsp;수지가 하이브 레이블즈의 새 걸그룹 서바이벌 프로그램 JTBC ‘R U Next?’(알유넥스트)의 테마송을 부른다. JTBC와 빌리프랩은 수지가 서바이벌 프로그램 ‘R U Next?’(제작사 스튜디오잼/머쉬룸컴퍼니)의 테마송 ‘전속력으로’ 가창자로 참여했다고 9일 밝혔다.&nbsp; ‘전속력으로’는 ‘R U Next?’의 정체성과 참가자]]></content:encoded>
+            <title><![CDATA[엑소, 첸백시·엑소 전속계약 분쟁 속 7월 10일 컴백 확정 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20230609182308924</link>
+            <guid>https://v.daum.net/v/20230609182308924</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 박윤진 기자] 그룹 엑소가 유닛 첸백시와 소속사 SM엔터테인먼트가 전속계약 분쟁을 벌이고 있는 가운데 컴백 날짜를 확정했다. SM엔터테인먼트는 9일 "엑소가 정규 7집을 오는 7월 10일 발매할 예정"이라며 "열심히 준비한 만큼 앨범 관련 프로모션은 계획대로 진행되며, 곧 세부 일정도 공개하겠다"고 밝혔다. 엑소는 올해 완전체 복귀를 준]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[수지, 가수로 컴백…하이브 新걸그룹 서바이벌 테마송 부른다 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20230609150802174</link>
-            <guid>https://v.daum.net/v/20230609150802174</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 수지가 가수로 컴백한다. JTBC와 빌리프랩 측은 6월 9일 "수지가 서바이벌 프로그램 ‘R U Next?’(알유넥스트)(제작사 스튜디오잼/머쉬룸컴퍼니)의 테마송 ‘전속력으로’ 가창자로 참여했다"고 밝혔다. JTBC와 빌리프랩에 따르면 ‘전속력으로’는 ‘R U Next?’의 정체성과 참가자들이 나아가야 할 방향성을 함축하고 있는]]></content:encoded>
+            <title><![CDATA[첫 번째 '베이스 캠프: 더 팩토리' 23일 프로보크 서울서 개최…티켓 오픈 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20230609180907593</link>
+            <guid>https://v.daum.net/v/20230609180907593</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 백지연 기자] 뮤직페스티벌 베이스 캠프가 개최된다. 6월 23일, 24일 양일간 영등포 프로보크서울에서 뮤직페스티벌 '베이스 캠프'가 개최된다. 인쇄소와 조명가게가 늘어져있던 을지로, 공장과 창고 일대였던 성수동, 방직공장이 있던 문래동이 재개발이 아닌 기존 과거의 모습에 현재가 어우러져 핫플레이스로 자리잡은 것처럼 공연도 더 이상 무대라는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[나일 로저스, 르세라핌 '언포기븐'을 왜 저렇게 연주했을까? (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20230609150758170</link>
-            <guid>https://v.daum.net/v/20230609150758170</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠한국 조성진 기자]&nbsp;그룹 르세라핌의 신작 'UNFORGIVEN'은 세계적인 펑키 리듬마스터 나일 로저스(Nile Rodgers) 피처링으로 발매 전부터 화제를 모았다. 르세라핌 '언포기븐'이 공개되며 반응도 "역시 나일 로저스" vs "뭐 저래" 등 각양각색이다. 나일 로저스는 이 곡에서 기타를 세션 했다. 그러나 일반인은 "도대체 기]]></content:encoded>
+            <title><![CDATA[엑소, 첸백시-SM 갈등 속 컴백 강행 "7월 10일 7집 발매" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20230609174939875</link>
+            <guid>https://v.daum.net/v/20230609174939875</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 윤성열 기자]  /사진=김창현 기자 chmt@보이 그룹 엑소가 오는 7월 10일 컴백한다. 소속사 SM엔터테인먼트 측 관계자는 9일 스타뉴스에 "엑소 정규 7집을 7월 10일 발매할 예정"이라며 "열심히 준비한 만큼 앨범 관련 프로모션은 계획대로 진행되며, 곧 세부 일정도 공개하겠다"고 밝혔다. 엑소는 올해 초 데뷔 11주년을 맞아 ']]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“함께여서 행복” 10주년 방탄소년단, 아미에게 전하는 진심 ‘Take Two’ (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20230609145308724</link>
-            <guid>https://v.daum.net/v/20230609145308724</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=지민경 기자] 그룹 방탄소년단이 10년 간 변함없이 함께한 아미들에게 진심어린 인사를 전한다. 방탄소년단은 9일 오후 1시(한국시간) 각종 음악 사이트를 통해 'Take Two’ 음원을 전 세계 동시 공개했다. 지난해 12월 맏형 진이 입대하며 군백기에 돌입한 방탄소년단은 오는 6월 13일 데뷔 10주년을 맞이해 완전체 방탄소년단의 목소리가]]></content:encoded>
+            <title><![CDATA[“We young forever” 방탄소년단, 영원히 끝나지 않을 청춘 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20230609174411746</link>
+            <guid>https://v.daum.net/v/20230609174411746</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 그룹 방탄소년단(RM, 진, 슈가, 제이홉, 지민, 뷔, 정국)이 10주년을 기념해 아미(ARMY, 방탄소년단 팬클럽명)들에게 진심을 고백했다. 방탄소년단은 6월 9일 오후 1시 국내외 음원 플랫폼을 통해 새 디지털 싱글 'Take Two'(테이크 투)를 발매했다. 이번 싱글은 방탄소년단이 완전체로서는 지난해 6월 10일 발표한]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘태계일주2’ PD “인도 열차 사고 애도, 고려해 편집” (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20230609144958609</link>
-            <guid>https://v.daum.net/v/20230609144958609</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[김지우 PD가 최근 발생한 인도의 열차 사고를 언급했다. 김 PD는 9일 서울 마포구 상암동 MBC신사옥에서 진행된 MBC 예능 ‘태어난 김에 세계일주 시즌2’ 제작발표회에서 “열차 사고가 일어나서 많은 분이 저희 프로그램도 그렇고 걱정 해주신 걸 알고 있다”고 말문을 열었다. 이어 “여행을 갔다온 곳에서 그런 사고가 일어났다는 것에 애도를 표한다.]]></content:encoded>
+            <title><![CDATA[잔나비, 21일 'pony' 프로젝트..최정훈의 추억여행 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20230609173011318</link>
+            <guid>https://v.daum.net/v/20230609173011318</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 윤상근 기자] /사진제공=페포니뮤직 그룹사운드 잔나비가 헤리티지 뮤직 프로젝트를 예고했다. 잔나비는 오는 21일 주요 온라인 음원사이트를 통해 '헤리티지 뮤직 프로젝트' 음원 'pony'(포니)를 발매한다. '헤리티지 뮤직 프로젝트'는 시간이 흘러도 변치 않는 기억 속 앞으로의 삶을 지탱하고 나아가게끔 하는 가치인 '헤리티지'를 재조명하는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[피원하모니, 발매 첫날 14만장 팔았다…확실한 커리어하이 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20230609144226365</link>
-            <guid>https://v.daum.net/v/20230609144226365</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] FNC엔터테인먼트 소속 보이그룹 피원하모니(P1Harmony, 기호 테오 지웅 인탁 소울 종섭)가 자신들의 자체 최고 기록을 경신하며 유의미한 결실을 맺었다. 6월 9일 음반 판매량 집계 사이트 한터차트에 따르면 피원하모니 미니 6집 앨범 ‘HARMONY : ALL IN’은 발매 하루 만에 약 14만 6,260장의 판매량을 기록했다]]></content:encoded>
+            <title><![CDATA['첸백시vsSM 분쟁'에도…하잖아, 엑소 컴백 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20230609172758257</link>
+            <guid>https://v.daum.net/v/20230609172758257</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 엑소(EXO)가 멤버 첸, 백현, 시우민과 소속사 SM 간 갈등에도 올여름 예정대로 컴백한다. 엑소가 오는 7월 10일 컴백을 알렸다. 소속사 SM엔터테인먼트(이하 SM)는 9일 엑스포츠뉴스에 "열심히 준비한 만큼 앨범 관련 프로모션은 계획대로 진행되며 곧 세부 일정도 공개할 것"이라고 밝혔다.&nbsp; 엑소는 일찍이 올해 완전체]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[제이플라 "데뷔 10년 만에 첫 정규…기다려준 팬들 감사" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20230609143054885</link>
-            <guid>https://v.daum.net/v/20230609143054885</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[싱어송라이터 제이플라(J.Fla)가 데뷔 10년 만에 첫 정규앨범을 발매했다. 제이플라는 지난 8일 각종 음원 사이트를 통해 첫 번째 정규앨범 'Burn the Flower'를 발매했다. 그녀의 실제 에피소드들을 담은 이번 앨범은 제이플라가 전곡 작사·작곡·편곡에 참여, 자신이 직접 느꼈던 감정과 생각, 느낌을 다양한 장르로 구현하며 생동감 있는 앨범을]]></content:encoded>
+            <title><![CDATA[온유 활동중단, 샤이니 컴백 빠진다 “숨 고르기, 건강하게 돌아오겠다” (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20230609172616217</link>
+            <guid>https://v.daum.net/v/20230609172616217</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 온유 활동중단, 샤이니 컴백 빠진다 “숨 고르기, 건강하게 돌아오겠다” [공식] 샤이니 온유가 활동을 중단한 가운데 팬들에게 직접 심경을 고백했다. 9일 소속사 SM엔터테인먼트는 이날 샤이니 팬 커뮤니티를 통해 “샤이니는 데뷔 15주년을 맞아 지난 5월 팬미팅을 시작으로, 정규 8집의 앨범 작업을 끝내고 6월 콘서트를 준비 중이었다”고 밝혔다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[수지, 걸그룹 오디션 '알유넥스트' 시그널송 부른다 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20230609141108111</link>
-            <guid>https://v.daum.net/v/20230609141108111</guid>
-            <pubDate>Fri, 09 Jun 2023 05:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 | 이승훈 기자] 가수 겸 배우 수지. /사진=김창현 기자 chmt@가수 겸 배우 수지가 'R U Next?'(이하 '알유넥스트') 시그널 송 가창자로 나선다. 9일 스타뉴스 단독 취재 결과, 수지는 오는 30일 첫 방송되는 JTBC '알유넥스트' 시그널 송에 참여한 것으로 확인됐다. '알유넥스트'는 하이브와 CJ ENM JV 레이블 빌리]]></content:encoded>
+            <title><![CDATA[알렉사, "신곡 '줄리엣' 전반 참여…더더욱 애착" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20230609172011050</link>
+            <guid>https://v.daum.net/v/20230609172011050</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[가수 알렉사(AleXa)가 직접 작사하고 작곡에 참여한 신곡 '줄리엣(Juliet)'으로 반전 매력을 선사했다. 알렉사는 9일 정오 새 디지털 싱글 '줄리엣'을 전 세계 동시 공개했다. 영어 가사로 된 곡으로 알렉사가 직접 가사를 썼고 작곡과 편곡에 참여했다. 알렉사가 곡 전반에 참여한 건 데뷔 후 처음으로, 퍼포먼스로 강렬한 인상을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“지성 샴푸 쓰네” 렌X프로미스나인 박지원, 비슷한듯 다른 취향 공개 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20230609140011744</link>
-            <guid>https://v.daum.net/v/20230609140011744</guid>
-            <pubDate>Fri, 09 Jun 2023 05:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=지민경 기자] 가수 렌과 프로미스나인의 박지원이 블라인드 메신저 대화를 통해 큰 웃음을 선사했다. 지난 7일 KODE 코드 유튜브 채널에는 ‘우리 사이.. 두피 타입까지 공유하는 사이..ㅣ렌&amp;프로미스나인 박지원 [셀폰KODE]’ 영상이 공개됐다. 이날 렌과 박지원은 서로의 정체를 모른채 메신저로 대화를 나누며 서로의 취향을 공유했다. 각자 선]]></content:encoded>
+            <title><![CDATA['쇼미10 우승' 조광일, 오늘 싱글 '곡예사2' 발매 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20230609171808009</link>
+            <guid>https://v.daum.net/v/20230609171808009</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=지민경 기자]&nbsp;Mnet '쇼미더머니10' 우승자 조광일이 '곡예사2'로 돌아온다. 조광일은 사자레코드 합류 후 첫 리드싱글로 자신의 최대 대표곡이자 '쇼미더머니10' 우승에 엄청난 기여를 한 ‘곡예사’의 두번째 버전&nbsp;‘곡예사2’를 오늘(9일) 저녁 6시를 기점으로 전 음원사이트를 통해 전격 발매한다. 발매 하루 전 딩고 프리스타일의 ‘킬링벌스]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[하이브 신인 보이넥스트도어, 음반 차트 최상위권 데뷔 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20230609135500604</link>
-            <guid>https://v.daum.net/v/20230609135500604</guid>
-            <pubDate>Fri, 09 Jun 2023 05:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 하이브 신인 보이그룹 보이넥스트도어(BOYNEXTDOOR)가 올해 신인 중 괄목할 만한 성과를 거뒀다. 6월 8일 써클차트 발표에 따르면 보이넥스트도어(성호, 리우, 명재현, 태산, 이한, 운학) 데뷔 싱글 ‘WHO!’는 최신 주간 차트(집계기간 5월 28일~6월 3일) 리테일 앨범 부문 2위를 차지했다. 보이넥스트도어 데뷔 싱글에]]></content:encoded>
+            <title><![CDATA[인피니트 "8월 19~20일 비워두길"…그 시절 오빠들 돌아온다 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20230609171704968</link>
+            <guid>https://v.daum.net/v/20230609171704968</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김나연 기자) 그룹 인피니트(INFINITE, 김성규 장동우 남우현 이성열 엘 이성종)가 5년 만에 완전체로 뭉치며 그간 기다려 온 팬들과 함께했다. 인피니트는 9일 0시 새롭게 오픈한 공식 유튜브 채널을 통해 ''인스피릿(팬덤명)' 별이 빛나는 열세 번째 여름밤'이라는 타이틀로 데뷔 13주년 기념 라이브 파티를 진행했다. 5년 만에 완전체로]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[알렉사 "빌보드 어워즈'서 만난 도자 캣과 협업 하고파" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20230609134553384</link>
-            <guid>https://v.daum.net/v/20230609134553384</guid>
-            <pubDate>Fri, 09 Jun 2023 05:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[가수 알렉사(AleXa)가 애정이 담긴 일문일답을 전했다. 알렉사는 9일 정오 새 디지털 싱글 '줄리엣'을 전 세계 동시 공개했다. 영어 가사로 된 곡으로 알렉사가 직접 가사를 썼고 작곡과 편곡에 참여했다. 알렉사가 곡 전반에 참여한 건 데뷔 후 처음으로, 퍼포먼스로 강렬한 인상을 남겼던 알렉사의 음악적 성장과 새로운 매력을 느낄 수 있다. '줄리엣']]></content:encoded>
+            <title><![CDATA[호주 출신 싱어송라이터 루엘, 더보이즈 선우와 글로벌 컬래버 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20230609170715709</link>
+            <guid>https://v.daum.net/v/20230609170715709</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 윤성열 기자] /사진제공=스튜디오 잼 'K-909'가 호주 출신 싱어송라이터 루엘(Ruel)과 K팝 그룹 더보이즈 멤버 선우의 컬래버레이션 무대를 마련했다. 9일 스튜디오 잼에 따르면 오는 10일 방송되는 JTBC 'K-909' 16회는 K팝 대세 가수들과 함께 전 세계 시청자를 찾아간다. 먼저 'K-909'의 시그니처 코너인 글로벌 컬래]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[알렉사 "빌보드 어워즈'서 만난 도자 캣과 협업 하고파" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20230609133014076</link>
-            <guid>https://v.daum.net/v/20230609133014076</guid>
-            <pubDate>Fri, 09 Jun 2023 05:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자]&nbsp;가수 알렉사(AleXa)가 직접 작사하고 작곡에 참여한 신곡 '줄리엣(Juliet)'으로 반전 매력을 선사했다.&nbsp; 알렉사는 9일 정오 새 디지털 싱글 '줄리엣'을 전 세계 동시 공개했다. 영어 가사로 된 곡으로 알렉사가 직접 가사를 썼고 작곡과 편곡에 참여했다. 알렉사가 곡 전반에 참여한 건 데뷔 후 처음으로, 퍼포먼스로 강렬한]]></content:encoded>
+            <title><![CDATA["시기가 시기인지라.." 온유·조이·천준혁, 아이돌 건강주의보 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20230609165615384</link>
+            <guid>https://v.daum.net/v/20230609165615384</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 김노을 기자] (왼쪽부터) 샤이니 온유, 레드벨벳 조이, 더뉴식스 천준혁 /사진=스타뉴스, SM엔터테인먼트"시기가 시기인지라 많은 생각을 했고, 상태가 돌아오지 않아 오해 또는 오류도 있었다고 생각이 든다. 다만 지키고 싶은 걸 잘 지켜나갈 수 있게, 앞으로가 더 중요하기에 이런 결단을 내렸다" - 샤이니 온유 샤이니 멤버 온유, 레드벨벳]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['데뷔 10주년' 방탄소년단의 새 시작, 영원히 함께 '테이크 투' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20230609130159558</link>
-            <guid>https://v.daum.net/v/20230609130159558</guid>
-            <pubDate>Fri, 09 Jun 2023 05:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김예나 기자) 그룹 방탄소년단(BTS)이 아미(팬덤)와 함께한 지난 10년의 추억을 담은 새 싱글 '테이크 투(Take Two)'로 감동을 나눴다.&nbsp; 방탄소년단(RM, 진, 슈가, 제이홉, 지민, 뷔, 정국) 데뷔 10주년 기념 싱글 '테이크 투'가 9일 오후 1시 각종 온라인 음원사이트를 통해 공개됐다.&nbsp; 이번 싱글 '테이크 투'는 올해 데]]></content:encoded>
+            <title><![CDATA[‘활동 중단’ 샤이니 온유 “숨 고르기 하는 시간..건강하게 돌아올 것” (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20230609164957191</link>
+            <guid>https://v.daum.net/v/20230609164957191</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=지민경 기자] 그룹 샤이니의 온유가 활동 중단을 알리며 팬들에게 인사를 전했다. 온유는 9일 자신의 인스타그램에 “놀라셨을 분들이 계실것같아서 제가 말씀 올리는게 맞다고 판단되어 이렇게 글을 쓰게 됐다”며 장문의 글을 게재했다. 그는 “건강만 잘 회복하고 돌아오겠다”며 “많은분께 심려 끼쳐드려 죄송하고 앞으로 함께 할 샤이니를 위해 잠깐 숨고]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단의 찬란한 두 번째 챕터..'TAKE TWO' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20230609130002527</link>
-            <guid>https://v.daum.net/v/20230609130002527</guid>
-            <pubDate>Fri, 09 Jun 2023 05:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 | 김노을 기자] /사진제공=빅히트 뮤직그룹 방탄소년단(BTS, RM·진·슈가·제이홉·지민·뷔·정국)이 데뷔 10주년을 찬란하게 기념했다. 방탄소년단은 9일 오후 1시(한국시간) 각종 음원 사이트를 통해 새 디지털 싱글 '테이크 투'(Take Two)를 전 세계 동시 발매했다. 방탄소년단이 완전체로 선보이는 신곡 음원은 지난해 6월 발매한 앤]]></content:encoded>
+            <title><![CDATA[페노메코, 피네이션 6월 컴백 주자..진지한 싸이 표정? (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20230609164620110</link>
+            <guid>https://v.daum.net/v/20230609164620110</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 윤상근 기자] /사진제공=피네이션(P NATION) 프로듀서 겸 아티스트 페노메코(PENOMECO)가 피네이션 다음 컴백 주자로 나선다. 피네이션(P NATION)은 9일 오후 12시 공식 SNS를 통해 '커밍 업 넥스트(COMING UP NEXT)' 이미지를 공개, 소속 아티스트 페노메코의 컴백 소식을 알렸다. 공개된 이미지에는 싸이가]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“해체 NO” 인피니트, 5년만 완전체 회동→8월 콘서트 예고까지 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20230609124701357</link>
-            <guid>https://v.daum.net/v/20230609124701357</guid>
-            <pubDate>Fri, 09 Jun 2023 05:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 그룹 인피니트(INFINITE, 김성규 장동우 남우현 이성열 엘 이성종)가 5년 만에 완전체로 뭉쳐 여름 콘서트를 예고했다. 인피니트는 6월 9일 0시 새롭게 오픈한 공식 유튜브 채널을 통해 ''인스피릿' 별이 빛나는 열세 번째 여름밤'이라는 타이틀로 데뷔 13주년 기념 라이브 파티를 진행했다. 5년 만에 완전체로 모습을 드러낸 인]]></content:encoded>
+            <title><![CDATA['컴백' 알렉사 "도자 캣과 협업하고파" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20230609164103953</link>
+            <guid>https://v.daum.net/v/20230609164103953</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 윤혜영 기자] 가수 알렉사(AleXa)가 직접 작사하고 작곡에 참여한 신곡 '줄리엣(Juliet)'으로 반전 매력을 선사했다. 알렉사는 9일 정오 새 디지털 싱글 '줄리엣'을 전 세계 동시 공개했다. 영어 가사로 된 곡으로 알렉사가 직접 가사를 썼고 작곡과 편곡에 참여했다. 알렉사가 곡 전반에 참여한 건 데뷔 후 처음으로, 퍼포먼스로 강렬한]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["이시언에 미안"…기안84, '태계일주2' 자신감 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230609151356315</link>
-            <guid>https://v.daum.net/v/20230609151356315</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스] 최지윤 기자 = "이시언 형에게 미안하지만, 시즌2가 더 재미있다." 웹툰작가 기안84가 태계일주2로 돌아온 소감을 밝혔다. 기안84는 9일 서울 상암동 MBC에서 열린 '태어난 김에 세계일주2'(태계일주2) 제작발표회에서 "시언 형에게 미안한데, 확실히 시즌2가 재미있다. 기대해도 좋을 것"이라며 "덱스는 처음 봤지만, 생각보다 잘]]></content:encoded>
+            <title><![CDATA[강호동-이승기 '강심장 리그', 시청률 하락 이유 있네 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230609191502934</link>
+            <guid>https://v.daum.net/v/20230609191502934</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[[김종성 기자] '유튜브 예능'의 시대가 도래했다. 예능에서 잔뼈가 굵은 김종국은 자신의 유튜브 채널 '짐종국'에서 헬스 관련 콘텐츠를 선보이며 큰 화제를 모았고, 국민MC 유재석은 '핑계고'에서 지인들과 지상파 예능에서 못다한 수다를 마음껏 떨고 있다. 그들보다 일찍 유튜브에 뛰어들었던 박명수는 '활명수'로, 이용진은 '튀르키예즈온더블럭'으로 수십에서 수]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[석방됐던 정바비, '불법촬영 및 폭행 혐의' 대법원 간다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230609151204278</link>
-            <guid>https://v.daum.net/v/20230609151204278</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 송오정 기자] 가수 겸 작곡가 정바비(본명 정대욱)가 불법 촬영 및 폭행 혐의로 항소심에서 감형받으면서 공분이 커지고 있다. 일각에선 불매운동 움직임까지 일고 있는 가운데, 검찰이 상고장을 제출했다는 소식이 전해졌다. 지난 1일 서울서부지법 형사항소1부(부장판사 우인성)는 성폭력범죄처벌법(카메라 등 이용 촬영) 위반 혐의 등으로 기소된 정바비]]></content:encoded>
+            <title><![CDATA[유재석→광수, 김종국→영철, 전소민→옥순 ‘런닝맨표 나는 솔로’ (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230609191357902</link>
+            <guid>https://v.daum.net/v/20230609191357902</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 오는 11일 오후 방송되는 SBS ‘런닝맨’에서 이세희, 한지은, 덱스가 예능 짝꿍을 찾아 나선다. 최근 진행된 녹화에서는 예능 짝꿍을 찾는 ‘나는 솔로지옥’ 레이스로 펼쳐졌다. ‘예능 베테랑’ 멤버들은 짝꿍 찾기에 과몰입하여 각자의 부캐를 방출했다. 유재석은 스타가 되고 싶은 ‘광수’로 분해 “유명해지고 싶다”며 거침없는 ‘MZ력’을 뽐냈]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘태계일주2’ PD “시즌1과 차이점은 깊이” (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230609151203275</link>
-            <guid>https://v.daum.net/v/20230609151203275</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[김지우 PD가 ‘태계일주2’ 이전 시즌과의 차별점을 밝혔다. 9일 서울 마포구 상암 MBC 신사옥에서는 MBC 새 예능 프로그램 ‘태어난김에 세계일주 시즌2’(이하 ‘태계일주2’) 제작발표회가 열렸다. 현장에는 기안84와 덱스, 빠니보틀, 김지우 PD가 참석했다. ‘태계일주2’는 태어난 김에 떠나는 기안84의 세계일주 과정을 담는다. 시즌1에서 지구 반대편]]></content:encoded>
+            <title><![CDATA[유아인, 마약 7종 투약 혐의 더해 유튜버 해외도피 지원 의혹도 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230609190909820</link>
+            <guid>https://v.daum.net/v/20230609190909820</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 마약류 5종 투약 혐의를 받는 배우 유아인(본명 엄홍식·37)이 향정신성의약품으로 분류된 의료용 마약을 최소 2종 추가 투약한 것으로 알려진 가운데, 수사와 관해 조사에 불응하고 있는 유명 유튜브 크리에이터의 해외 도피를 지원한 정황도 포착됐다. 경찰에 따르면 유아인은 7종 이상의 마약을 투약한 혐의로 9일 오전 검찰에 불]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘태계일주2’ 기안84, 겐지스강 입수 “신이 있는 것 같아” (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230609150601127</link>
-            <guid>https://v.daum.net/v/20230609150601127</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[웹툰작가 기안84가 인도에서 느낀 ‘영적’ 체험에 대해 이야기했다. 9일 서울 마포구 상암 MBC 신사옥에서는 MBC 새 예능 프로그램 ‘태어난김에 세계일주 시즌2’(이하 ‘태계일주2’) 제작발표회가 열렸다. 현장에는 기안84와 덱스, 빠니보틀, 김지우 PD가 참석했다. ‘태계일주2’는 태어난 김에 떠나는 기안84의 세계일주 과정을 담는다. 시즌1에서 지구]]></content:encoded>
+            <title><![CDATA[‘마약 7종→도피 지원’ 유아인, 끝없는 불법 정황 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230609190857814</link>
+            <guid>https://v.daum.net/v/20230609190857814</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[마약 투약 혐의를 받고 있는 배우 유아인이 죄질이 한없이 무거워지고 있다. 9일 채널A 보도에 따르면 유아인은 신성의약품으로 분류된 의료용 마약을 최소 2종 더 추가 투약한 것으로 확인됐다. 앞서 유아인이 투약한 것으로 알려진 마약은 프로포폴과 대마, 코카인, 케타민, 졸피뎀 다섯 종류였으나, 수면마취용으로 주로 쓰이는 ‘미다졸람’과 불면증 치료제인]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['나쁜엄마' 안은진 "일+삶의 만족도 높아"..뽀뽀신♥ 추가한 '자존감' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230609150308055</link>
-            <guid>https://v.daum.net/v/20230609150308055</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 | 한해선 기자] /사진=UAA "지금까지 맡았던 캐릭터가 저보다 품이 크고 멋있는 캐릭터들이어서 저는 캐릭터 복이 큰 사람이라고 생각해요." "평소에 제 마음과 건강 상태에 대해 관심을 많이 갖고 있는 편이에요. 나이가 들수록 그런 걸 지키는 게 커진 것 같아요. 일과 삶의 만족도가 굉장히 높은 상태인 것 같아요." 인터뷰 내내 보여준 배]]></content:encoded>
+            <title><![CDATA["마약 2종 추가+증인 해외도피 지원"…유아인, 마약파문 개미지옥 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230609190708795</link>
+            <guid>https://v.daum.net/v/20230609190708795</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 백지은 기자] 배우 유아인의 마약 파문이 점입가경이다. 서울경찰청 마약범죄수사대는 9일 유아인의 마약류 관리에 관한 법률 위반(향정) 등의 혐의로 검찰에 불구속 송치했다. 유아인은 대마 코카인 케타민 졸피뎀 프로포폴 등 다섯 종류의 마약을 투약한 혐의를 받아왔다. 그러나 경찰 조사 과정에서 수면마취용으로 쓰이는 미다졸람과 불면]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘태계일주2’ 김지우PD “덱스, 잘생긴 기안84같아..야생성 남달라” (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230609150017959</link>
-            <guid>https://v.daum.net/v/20230609150017959</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[‘태계일주2’를 연출한 김지우PD가 시즌2에 덱스를 섭외하게 된 이유를 밝혔다. 9일 서울 마포구 MBC 신사옥에서 ‘태어난 김에 세계일주2’ (이하 태계일주2)의 제작발표회가 열렸다. 이날 웹툰 작가 기안 84, 유튜버 빠니보틀과 UDT출신 덱스 그리고 연출자 김지우PD가 참여했다. MBC ‘태어난 김에 세계일주2’는 기안84가 인도를 떠나는 여행]]></content:encoded>
+            <title><![CDATA["악플보다 더 마음 아픈 건"…'결혼+임신' 차서원, 2차 손편지까지 쓴 이유 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230609190201681</link>
+            <guid>https://v.daum.net/v/20230609190201681</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=장진리 기자] 배우 차서원(이창엽, 32)이 두 번째 손편지로 팬들에게 진심을 전했다. 차서원이 주연한 티빙 오리지널 '비의도적 연애담'은 공식 SNS를 통해 "차서원이 조심스레 보낸 편지를 대신 전한다"라며 그가 쓴 자필 편지를 공개했다. 공개된 편지에서 차서원은 "최근 저의 소식에 많이 놀라셨으리라 생각한다"라며 "'비의도적 연애담]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박명수, '1박2일' 바가지 논란에 "지역 경제 살리려다 망치는 것" 일침 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230609150008947</link>
-            <guid>https://v.daum.net/v/20230609150008947</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=정혜원 기자] 방송인 박명수가 '1박 2일' 전통시장 바가지 논란에 일침을 가했다. 9일 방송된 KBS 쿨FM '박명수의 라디오쇼'에는 빅데이터 전문가 전민기가 출연해 박명수와 다양한 이야기를 나눴다. 이날 진행된 '검색N차트'에서 전민기는 최근 화제를 모았던 KBS 예능 프로그램 '1박 2일' 옛날과자 바가지 논란에 대해 언급했다.]]></content:encoded>
+            <title><![CDATA['나쁜엄마' 안은진 "캐릭터 복 있어, 좋은 날 반드시 온다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230609190001629</link>
+            <guid>https://v.daum.net/v/20230609190001629</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[[손화신 기자] '강호밖에 모르는 바보' 미주 역을 맡아 단단하면서도 밝고 사랑스러운 모습을 아낌없이 보여준 안은진. 그가 함께 한 &lt;나쁜엄마&gt;는 첫 방송 시청률 3.6%에서 출발해 자체 최고 시청률인 12.0%로 종영했다. 9일 오후 서울 강남구 역삼동의 한 카페에서 JTBC 수목드라마 &lt;나쁜엄마&gt;에서 이미주 역을 맡은 배우 안은진의 종영 라운드인터뷰가]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[덱스 "'태계일주2'·'피의 게임2', 모두 지옥 같았다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230609150000935</link>
-            <guid>https://v.daum.net/v/20230609150000935</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[크리에이터 덱스가 큰 노력을 담아 '태계일주2'와 '피의 게임2'를 촬영했다고 밝혔다. 그러면서 두 프로그램을 '행복한 지옥'에 비유했다. 9일 서울 마포구 상암동 MBC 1층 골든마우스홀에서는 '태어난 김에 세계일주2'(이하 '태계일주2')의 제작발표회가 진행됐다. 이 자리에는 김지우 PD와 기안84 덱스 빠니보틀이 참석했다. '태계일주2'는 기안84 덱]]></content:encoded>
+            <title><![CDATA['뮤뱅' 더뉴식스 컴백, Y2K 감성 선사한 'Kick It 4 Now' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230609185209481</link>
+            <guid>https://v.daum.net/v/20230609185209481</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 임시령 기자] 그룹 더뉴식스(TNX)가 1세대 아이돌 못지않은 Y2K 감성을 선사했다. 더뉴식스(최태훈, 우경준, 장현수, 천준혁, 은휘, 오성준)는 9일 오후 방송한 KBS2 '뮤직뱅크'에서 미니 3집 'BOYHOOD'의 타이틀곡 'Kick It 4 Now' 무대를 선보였다. 이날 더뉴식스는 보기만 해도 에너지가 샘솟는 무대로 모두의 시선을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘태계일주2’ 김지우 PD “인도 열차 사고, 애도 표하고 싶어…세밀하게 편집할 것” (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230609145958927</link>
-            <guid>https://v.daum.net/v/20230609145958927</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[‘태계일주2’ 김지우 PD가 인도 열차사고에 대해 애도를 표하며 조심스러운 소감을 전했다. 9일 오후 서울 마포구 MBC 골든마우스홀에서는 MBC 예능프로그램 ‘태어난 김에 세계일주2’(이하 ‘태계일주2’)의 제작발표회가 개최됐다. 이날 김지우 PD는 “제작발표회를 하기 얼마 전에 인도에서 열차 사고가 일어나서 많은 분들이 우리 프로그램에도 그렇고 걱정을]]></content:encoded>
+            <title><![CDATA["첸백시vsSM 분쟁 중인데"…엑소, 7월 10일 완전체 컴백→팬덤 분열 막을까 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230609184906423</link>
+            <guid>https://v.daum.net/v/20230609184906423</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 백지은 기자] 그룹 엑소의 기묘한 동거가 시작된다. 엑소가 7월 10일 완전체 컴백을 확정했다. 엑소의 완전체 컴백은 스페셜 앨범을 제외하면 2019년 11월 발표한 정규 6집 '옵세션' 이후 3년 8개월 만이다. 오랜 기다림 끝에 성사된 완전체 컴백이지만 이들을 바라보는 팬들의 마음이 편하지 만은 않다. 첸백시(백현 시우민]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[제이플라 "'번 더 플라워'…오로라를 보여드릴게요" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230609145900912</link>
-            <guid>https://v.daum.net/v/20230609145900912</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]문예빈 인턴 기자 = 싱어송라이터 제이플라가 데뷔 10년 만에 발표한 첫 정규 앨범에 대한 이야기를 전했다. 지난 8일 제이플라는 각종 음원 사이트를 통해 첫 번째 정규 앨범 '번 더 플라워(Burn the Flower)'를 발매했다. 그녀의 실제 에피소드들을 담은 이번 앨범은 제이플라가 전곡 작사·작곡·편곡에 참여해 자신이 직접 느꼈던]]></content:encoded>
+            <title><![CDATA[이지혜, 전남친 맛집에서 남편과 먹방? "헤어져도 핫플은 남아" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230609184331319</link>
+            <guid>https://v.daum.net/v/20230609184331319</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트 = 하수나 기자] 가수 이지혜가 가족과 함께 전 남친과의 추억이 있는 맛집을 방문했다.&nbsp; 8일 유튜브 채널 ‘관종언니’에선 ‘전남친 맛집에 현남편과 간다면?’이라는 제목의 영상이 업로드 됐다.&nbsp; 영상에는 이지혜가 남편과 함께 전남친과 자주 갔던 맛집을 방문하는 모습이 담겼다. 오프닝에서 이지혜는 ‘관종언니’가 재미가 없어졌다는 댓글을 보고 충격]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['태계일주2' 기안84 "이시언에 미안해" 말한 이유 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230609145809907</link>
-            <guid>https://v.daum.net/v/20230609145809907</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[웹툰작가 겸 방송인 기안84가 '태계일주2'로 돌아온다. 그는 이시언과 함께했던 시즌1보다 2가 더 재밌다고 귀띔해 시선을 모았다. 9일 서울 마포구 상암동 MBC 1층 골든마우스홀에서는 '태어난 김에 세계일주2'(이하 '태계일주2')의 제작발표회가 진행됐다. 이 자리에는 김지우 PD와 기안84 덱스 빠니보틀이 참석했다. '태계일주2'는 기안84 덱스 빠니]]></content:encoded>
+            <title><![CDATA['뮤직뱅크' 스트레이 키즈, 압도적인 점수로 1위 "겸손하게 활동할 것" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230609183803222</link>
+            <guid>https://v.daum.net/v/20230609183803222</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 임시령 기자] 그룹 스트레이 키즈가 '뮤직뱅크' 1위 트로피를 품에 안았다. 9일 방송된 KBS2 '뮤직뱅크' 6월 둘째주 1위 후보에는 (여자)아이들의 '퀸카'와 스트레이 키즈의 '특'이 이름을 올렸다. 1위 주인공은 스트레이 키즈였다. 스트레이 키즈는 총점 1만3481점이란 압도적인 점수로 1위를 차지했다. 2위 (여자)아이들은 5037]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[기안84 “덱스와 닮은 점? 키밖에…생각보다 도시 남자더라” (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230609145708883</link>
-            <guid>https://v.daum.net/v/20230609145708883</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 기안84 “덱스와 닮은 점? 키밖에…생각보다 도시 남자더라” (태계일주2) 기안84와 덱스가 서로 닮은 부분에 대해 언급했다. 먼저 기안84는 9일 오후 서울 마포구 상암 MBC 골든마우스홀에서 진행된 MBC ‘태어난 김에 세계일주 시즌2(태계일주2)’ 제작발표회에서 “일단 키는 비슷한데 체지방은 내가 좀 더 높아서 안 될 것 같다. 닮은 건]]></content:encoded>
+            <title><![CDATA["샤이니 위한 숨고르기"…온유 활동중단, 정규 8집+콘서트 불참 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230609183729211</link>
+            <guid>https://v.daum.net/v/20230609183729211</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 백지은 기자] 그룹 샤이니 온유가 컨디션 난조로 정규 8집 활동에 불참한다. 소속사 SM엔터테인먼트는 "최근 온유의 컨디션 난조가 계속됨에 따라 상담 및 검진을 받게 됐고 안정과 치료가 필요하다는 의료진의 소견을 받았다"고 밝혔다. 이어 "예정된 샤이니 콘서트 및 앨범 활동은 온유를 제외한 키 민호 태민이 진행한다. 온유의 활]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[웃음기를 뺀 라미란, 매달릴 수밖에 없던 '나쁜 엄마' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230609145707877</link>
-            <guid>https://v.daum.net/v/20230609145707877</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[아이즈 ize 이덕행 기자'응답하라 1988', '정직한 후보'를 비롯해 예능 '진짜 사나이', '언니들의 슬램덩크'까지, 라미란이 대중에게 강한 인상을 남긴 건 코믹한 모습이었다. 그리고 이런 모습은 배우 라미란이 아닌 인간 라미란과도 닮아 있다. 그러나 웃음기를 빼자 또 다른 모습이 보이기 시작했다. 아들의 미래를 위해 나쁜 엄마를 자처한 라미란은 그동]]></content:encoded>
+            <title><![CDATA['구미호뎐1938' 하도권 "마음 놓고 욕·미워할 수 있도록 노력" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230609183107107</link>
+            <guid>https://v.daum.net/v/20230609183107107</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 임시령 기자] 배우 하도권이 오늘(9일) '구미호뎐1938' 출연 비하인드를 전했다. 하도권은 tvN 토일드라마 '구미호뎐1938'에서 총독부 경무국장이자 일본 요괴 가토 류헤이로 분해 매 등장마다 임팩트를 선사하며 강렬한 인상을 남겼다. 극 중 가토 류헤이는 원하는 것을 얻기 위해서라면 수단과 방법을 가리지 않는 잔인한 면모도 보이며 극에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[덱스 "'태계일주2'·'피의게임2' 비교 못할만큼 다 지옥" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230609145707878</link>
-            <guid>https://v.daum.net/v/20230609145707878</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 유튜버 덱스가 '태어난 김에 세계일주2'와 '피의 게임2'를 비교했다. 덱스는 9일 서울 마포구 상암동 MBC 골든마우스홀에서 진행된 MBC '태어난 김에 세계일주2'(이하 '태계일주2') 제작발표회에서 "감히 비교할 수 없을 만큼 두 프로그램 다 지옥이었다"고 말해 웃음을 안겼다. 그는 이어 "그 프로그램의 스케줄이]]></content:encoded>
+            <title><![CDATA[미미로즈, 컴백 맞이 다이어트 박차…임창정 "라덕연교 발언 반성" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230609182832061</link>
+            <guid>https://v.daum.net/v/20230609182832061</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 백지은 기자] 그룹 미미로즈가 컴백 준비에 박차를 가하고 있다. 미미로즈는 8일 '다이어트 챌린지 2탄' 영상을 공개했다. 미미로즈는 다이어트 동기부여를 위해 각각 미션을 수행했다. 그 결과 서윤주가 고삼차, 최연재가 닭가슴살 셰이크 벌칙에 걸려 웃음을 자아냈다. 미미로즈는 지난해 데뷔 활동 당시 체력의 중요성을 느껴 이번 챌린]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['태계일주2' 김지우 PD "인도 열차 사고 희생자 애도…더 세밀하게 편집할 것" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230609145700864</link>
-            <guid>https://v.daum.net/v/20230609145700864</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 안소윤 기자] '태계일주2' 김지우PD가 인도 열차 충돌 참사 희생자들을 애도했다. 김 PD는 9일 서울 마포 상암 MBC 1층 골든마우스 홀에서 열린 MBC 새 예능 '태어난 김에 세계일주2'(이하 '태계일주2') 제작발표회에서 "저희가 먼저 여행 다녀온 곳에서 안타까운 사고가 발생해 마음이 무겁다"라고 했다. 앞서 지난 2일]]></content:encoded>
+            <title><![CDATA[샤이니→에스파, SM 핵심 그룹에 건강 적신호 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230609181030630</link>
+            <guid>https://v.daum.net/v/20230609181030630</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=신은주 기자] SM엔터테인먼트(이하 'SM') 소속 아티스트들의 건강에 적신호가 켜졌다. 9일 샤이니 온유의 컨디션 난조 소식이 전해졌다. SM은 "최근 온유의 컨디션 난조가 계속됨에 따라 상담 및 검진을 받게 됐고 안정과 치료가 필요하다는 의료진의 소견을 받았다"라고 밝혔다. 그러면서 "예정된 샤이니의 콘서트 및 앨범 활동은 온유를 제외한 키]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[주윤발 "스타가 되는 건 쉽지만, 배우 인생은 힘들다" (다음 연예 ─ 뉴스 ─ 해외)]]></title>
+            <link>https://v.daum.net/v/20230609191030834</link>
+            <guid>https://v.daum.net/v/20230609191030834</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=이수연 기자] 홍콩 톱스타 주윤발이 배우로 살아가는 데 대한 소회를 밝혔다. 9일(현지 시간) 중국 매체 시나연예에 따르면 주윤발은 최근 영화 '별규아도신' 제작발표회에 참석했다. 이날 주윤발은 배우와 스타는 다르다며 "스타가 되는 건 간단하지만 배우가 되는 것은 굉장히 힘들다"며 "배우는 작가와 배역을 위해 헌신을 다해야 한다"고 설명했다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[켄달 제너, 임신했나...예능서 깜짝 발언 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
+            <link>https://v.daum.net/v/20230609185530536</link>
+            <guid>https://v.daum.net/v/20230609185530536</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=이수연 기자] 모델 켄달 제너가 임신 의혹에 휩싸였다. 최근 공개된 리얼리티쇼 예고편 때문이다. 최근 Hulu 리얼리티쇼 '카다시안 패밀리 시즌3' 새 에피소드의 예고편에서 켄달 제너(27)가 임신에 대해 언급에 이목을 집중시켰다. 제작진은 켄달 제너에게 "중요한 질문은 '임신이 어떻게 진행되고 있는가'이다"라고 물었고 이에 켄달 제너는 수줍]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['카다시안家' 크리스 제너 "딸들 잘못은 모두 내 책임" (다음 연예 ─ 뉴스 ─ 해외)]]></title>
+            <link>https://v.daum.net/v/20230609182030848</link>
+            <guid>https://v.daum.net/v/20230609182030848</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=유비취 기자] 카다시안 자매의 엄마 크리스 제너가 자녀들의 행동에 책임을 통감했다. 8일(현지 시간) '카다시안 패밀리' 시즌 3에서 크리스 제너(67)는 자녀들이 자신의 장단점을 다 갖고 있다고 밝혔다. 그는 자녀들의 행동에 자신이 전적으로 책임을 지고 있다고 전했다. 이날 코트니 카다시안과 켄달 제너는 스트레스를 관리하고 정신적으로 스스로를]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[크리스 헴스워스, 제레미 레너 사고에 충격..."어벤져스도 죽을 수 있어" (다음 연예 ─ 뉴스 ─ 해외)]]></title>
+            <link>https://v.daum.net/v/20230609180208301</link>
+            <guid>https://v.daum.net/v/20230609180208301</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=이수연 기자] 할리우드 배우 크리스 헴스워스가 죽음에 대한 두려움을 이야기했다. 크리스 헴스워스는 최근 패션 매거진 GQ와의 인터뷰에서 지난 1월 큰 사고로 고생했던 동료 배우 제레미 레너를 언급했다. 그는 "우리('어벤져스' 배우들) 중 누구라도 먼저 떠날 수도 있겠단 생각을 했다"며 "어벤져스 단체 채팅방이 있다. 우리는 항상 그곳에서 거]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[앤지 화이트, MCU '아이언하트' 합류…도미니크 손과 호흡 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
+            <link>https://v.daum.net/v/20230609171834018</link>
+            <guid>https://v.daum.net/v/20230609171834018</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) 마블 시네마틱 유니버스(MCU) '아이언하트'에 새로운 배우가 합류한다. 8일(현지시간) 미국 데드라인은 '아이언하트'에 배우 앤지 화이트가 합류한다고 보도했다. 앤지 화이트는 FX 드라마 '파고'와 '시카고 PD' 등의 드라마와 '호프 스프링스 이터널' 등의 영화에 출연해왔다. 보도에 따르면 그는 극중 리리 윌리엄스(도미니크]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[엠마 왓슨, 새 사랑 찾았나?...데이트 장면 포착 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
+            <link>https://v.daum.net/v/20230609163707847</link>
+            <guid>https://v.daum.net/v/20230609163707847</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=이예은 기자] '해리 포터' 엠마 왓슨이 새로운 사랑을 시작했다는 소문이 확산하고 있다. 지난 5일(현지 시간) 외신 연예 매체 더 선은 영국 배우 엠마 왓슨이 3세 연하의 억만장자 브랜드 그린과 결별하고, 최근 새로운 남자와 데이트하는 장면이 포착됐다고 보도했다. 엠마 왓슨은 영국의 재벌 필립 그린의 아들 브랜드 그린과 약 18개월 동안]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[브래드 피트, 지나 데이비스와 '비밀 연애' 뒤늦게 알려져.."러브신 촬영 이후" (다음 연예 ─ 뉴스 ─ 해외)]]></title>
+            <link>https://v.daum.net/v/20230609163110690</link>
+            <guid>https://v.daum.net/v/20230609163110690</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자] 배우 브래드 피트가&nbsp;배우 지나 데이비스와 과거 비밀 연애를 했다고 데일리미러가 7일(현지시간)&nbsp;보도했다. 브래드 피트와 지나 데이비스는 피트의 출세작이라고 할 수 있는 영화 '델마와 루이스'(1991)에 함께 상대 역으로 출연했다. 피트는 조연이었지만 남다른 비주얼과 연기로 강렬한 존재감을 드러냈던 바다. 보도에 따르면 두 사람]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[브래드 피트 ‘델마와 루이스’ 8살 연상 지나 데이비스와 과거 비밀 열애설 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
+            <link>https://v.daum.net/v/20230609153400936</link>
+            <guid>https://v.daum.net/v/20230609153400936</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 브래드 피트가 '델마와 루이스'에 함께 출연했던 8살 연상 지나 데이비스와 비밀 연인 사이였다는 보도가 나왔다. 외신 더 미러는 과거 브래드 피트(59)가 1993년 개봉한 영화 '델마와 루이스'에 함께 출연한 지나 데이비스(67)와 비밀스런 관계였다고 보도했다. 이는 브래드 피트의 룸메이트였던 배우 제이슨 프리스틀리가 쓴 회고록을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[드류 베리모어 "스티븐 스필버그가 내 유일한 부모...친부는 날 학대" (다음 연예 ─ 뉴스 ─ 해외)]]></title>
+            <link>https://v.daum.net/v/20230609153208869</link>
+            <guid>https://v.daum.net/v/20230609153208869</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=유비취 기자] 배우 드류 베리모어가 거장 감독 스티븐 스필버그의 손에 자랐다고 고백했다. 지난 5일(현지 시간) 드류 베리모어(48)는 연예매체 'Vulture'(벌처)와의 인터뷰에서 스티븐 스필버그와의 특별한 인연을 고백했다. 드류 베리모어는 스티븐 스틸버그를 자신의 아버지라고 표현했다. 드류 베리모어는 스티븐 스필버그에 대해 "지금까지 내]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘씨 유 어게인’ 찰리 푸스, 오는 10월 5년만 내한 공연 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
@@ -1028,417 +1091,473 @@
             <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]‘캐리비안의 해적’ 시리즈 팬들의 실망할만한 소식이 전해졌다. 조니 뎁(60)이 ‘캐리비안의 해적6’ 복귀하지 않겠다고 밝혔다. 8일(현지시간) 데일리메일에 따르면 “조니 뎁이 ‘캐리비안의 해적’ 프랜차이즈로 돌아올 가능성에 대한 추측에도 불구하고, 그의 친구들은 뎁이 전 부인 앰버 허드가 그를 학대 혐의로 고발했을 때 디즈]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['日 국민배우' 히로스에 료코, 불륜 후 광고서도 사라져...은퇴하나 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
-            <link>https://v.daum.net/v/20230609121400961</link>
-            <guid>https://v.daum.net/v/20230609121400961</guid>
-            <pubDate>Fri, 09 Jun 2023 05:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=유비취 기자] 불륜 스캔들이 터진 일본의 톱 배우 히로스에 료코가 광고에서도 잘렸다. 지난 7일 일본 매체 주간 문춘은 히로스에 료코(42)가 미슐랭 1스타 프렌치 레스토랑의 유명 오너 셰프와 불륜을 저질렀다고 보도했다. 이로 인해 일본에서 톱 배우로서 왕성히 활동하던 히로스에 료코의 이미지에는 큰 타격이 생겼다. 8일 기린맥주 측은 히로스에]]></content:encoded>
+            <title><![CDATA[렌(최민기), 첫 솔로앨범 ‘Ren’dezvous’(랑데부) 전곡 음원 일부 첫 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000892425</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000892425</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[가수 렌(REN, 최민기)이 ‘Ren’dezvous’ 전곡 음원 일부를 최초로 공개했다. 렌은 9일 0시 공식 유튜브 채널에 첫 번째 솔로 미니앨범 ‘Ren’dezvous’ (랑데부)의 5곡 전곡 음원 일부를 담은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[니콜라스 홀트, 슈퍼맨으로 DCU 합류?…'슈퍼맨: 레거시' 오디션 진행 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
-            <link>https://v.daum.net/v/20230609110347501</link>
-            <guid>https://v.daum.net/v/20230609110347501</guid>
-            <pubDate>Fri, 09 Jun 2023 05:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자)&nbsp;&nbsp;DC 유니버스(DCU) 영화 '슈퍼맨: 레거시'(감독 제임스 건)의 캐스팅이 본격적으로 진행될 것으로 보인다. 8일(현지시간) 미국 데드라인은&nbsp;워너브라더스와 DC 필름즈가 수십 개의 오디션 테이프를 검토한 뒤 후보군을 추려 아버지의 날 주말이나 월요일, 화요일 중에 처음으로 대면 오디션을 진행할 예정이라고 단독보도했다. 이들에]]></content:encoded>
+            <title><![CDATA[세븐틴, 빌보드 재팬 2023 상반기 차트 ‘핫 앨범’·‘톱 앨범 세일즈’ K-팝 아티스트 최고 순위 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000892423</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000892423</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[아이돌그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 빌보드 재팬 ‘2023 상반기 차트’에서 두각을 나타내며 뜨거운 현지 인기를 재입증했다. 빌보드]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["동거 예정이라더니"…테일러 스위프트, 매티 힐리와 결별 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
-            <link>https://v.daum.net/v/20230609104617825</link>
-            <guid>https://v.daum.net/v/20230609104617825</guid>
-            <pubDate>Fri, 09 Jun 2023 05:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 팝 가수 테일러 스위프트가 영국 밴드 더1975의 멤버 매티 힐리와 결별했다. 미국 연예매체 TMZ는 최근 "테일러 스위프트와 매티 힐리가 헤어졌다"라고 보도했다. 두 사람 측근에 따르면 결별의 이유는 바쁜 스케줄과 성격 차이 때문이라고. 그런가 하면 또 다른 소식통은 피플에 "두 사람 사이에 더 이상 로맨스는 없지만, 무슨]]></content:encoded>
+            <title><![CDATA[더뉴식스, Y2K 감성으로 ‘뮤직뱅크’ 압도 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000892422</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000892422</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 더뉴식스(TNX)가 Y2K 감성으로 시선을 사로잡았다. 더뉴식스는 9일 오후 방송한 KBS2 ‘뮤직뱅크’에서 미니 3집 ‘보이후드’의 타이틀곡 ‘킥 잇 포 나우(Kick It 4 Now)’ 무대를 선보였다. 이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[테일러 스위프트, 매튜 힐리 결별 직후 농구선수 열애설 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
-            <link>https://v.daum.net/v/20230609103010175</link>
-            <guid>https://v.daum.net/v/20230609103010175</guid>
-            <pubDate>Fri, 09 Jun 2023 05:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 미국 가수 테일러 스위프트가 가수 매튜 힐리와 결별하자마자 열애설에 휩싸였다. 6월 7일(현지시간) 미국 매체 Seventeen, Inquirer 등은 테일러 스위프트가 매튜 힐리와 결별한 후 주말 오스틴 리브스와 한 바(술집)에서 목격됐다고 전했다. 오스틴 리브스는 미국 LA 레이커스 소속 농구선수다. 이번 열애설은 해프닝으로 종]]></content:encoded>
+            <title><![CDATA[‘구미호뎐1938’ 김소연 테마 OST ‘Keep Silence’, 스타 유튜버 겸 가수 그래쓰(GRASS) 가창 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000892421</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000892421</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[인상적인 2막을 펼치고 있는 tvN ‘구미호뎐1938’이 깊은 울림을 남기는 마지막 OST를 선보인다. tvN 토일드라마 ‘구미호뎐1938’(연출 강신효, 극본 한우리) 측은 오는 11일 정오 다섯 번째 OST로 스]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["바람난 피케와 결별" 샤키라, F1 슈퍼스타 루이스 해밀턴과 열애중 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
-            <link>https://v.daum.net/v/20230609102210841</link>
-            <guid>https://v.daum.net/v/20230609102210841</guid>
-            <pubDate>Fri, 09 Jun 2023 05:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]세계적 팝가수 샤키라(46)가 영국이 낳은 세계적인 포뮬러(F)1 드라이버 루이스 해밀턴(38)과 열애중이다. 한 소식통은 8일(현지시간) 연예매체 피플에 “이들이 일련의 공개적인 외출을 한 후, ‘재미있고 들뜬’ 관계를 유지하고 있다”고 말했다. 이어 “두 사람은 함께 시간을 보내며 '서로 알아가는' 단계에 있다"고 전했]]></content:encoded>
+            <title><![CDATA[스트레이키즈 '뮤직뱅크' 1위 등극 "스테이 고마워요"[★밤TView] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003158388</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003158388</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[스트레이키즈가 '특'으로 '뮤직뱅크' 1위에 올랐다. 스트레이키즈는 9일 방송된 KBS 2TV '뮤직뱅크' K-차트 1위를 차지했다. 이날 1위 후보로는 스트레이키즈 '특'과 (여자)아이들 '퀸카'가 올랐다. 스트레]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[디카프리오, '20세 연하' 지지 하디드와 상견례?..."부모님과 식사" (다음 연예 ─ 뉴스 ─ 해외)]]></title>
-            <link>https://v.daum.net/v/20230609095220430</link>
-            <guid>https://v.daum.net/v/20230609095220430</guid>
-            <pubDate>Fri, 09 Jun 2023 05:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=유수연 기자]&nbsp;배우 레오나르도 디카프리오와 모델 지지 하디드가 핑크빛 연애를 이어가고 있는 모양새다. 7일(현지 시간) 페이지 식스 등 현지 외신의 보도에 따르면&nbsp;레오나르도 런던의 고급 레스토랑에서 디카프리오(48)의&nbsp;부모님과 전 연인인 지지 하디드(28)가 함께한 것으로 전해졌다. 보도에 따르면 디카프리오는 아버지 조지 디카프리오와 새엄마인]]></content:encoded>
+            <title><![CDATA[조광일, '쇼미10' 우승 영광 다시…'곡예사2' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011905551</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011905551</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:06 GMT</pubDate>
+            <content:encoded><![CDATA['속사포 래퍼' 조광일이 9일 오후 6시 음원사이트에 새 싱글 '곡예사2'를 발매했다. '곡예사2'는 조광일이 케이블 음악채널 엠넷 힙합 서바이벌 프로그램 '쇼미더머니' 시즌 10(2021) 우승 당시 크게 기여를]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에스파 3人 MLB서 화려한 시구 데뷔…양키스 유니폼도 러블리하게 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
-            <link>https://v.daum.net/v/20230609093810790</link>
-            <guid>https://v.daum.net/v/20230609093810790</guid>
-            <pubDate>Fri, 09 Jun 2023 05:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 에스파가 첫 시구를 성공적으로 마쳤다. 그룹 에스파는 6월 8일(현지시간) 미국 뉴욕 양키스타디움에서 열린 '2023 메이저리그' 뉴욕 양키스와 시카고 화이트삭스의 더블헤더 2차전 경기에서 시구자로 나섰다. 건강 문제로 불참한 지젤을 제외한 카리나, 윈터, 닝닝이 야구장에 모습을 드러냈다. 양키스 유니폼을 각자의 개성에 맞춰]]></content:encoded>
+            <title><![CDATA['데뷔 10주년' BTS, 완전체 신곡 '테이크투' 발표 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=422&amp;aid=0000602842</link>
+            <guid>https://entertain.naver.com/now/read?oid=422&amp;aid=0000602842</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 방탄소년단(BTS)이 데뷔 10주년을 기념해 멤버 전원이 참여한 신곡 '테이크 투(Take Two)'를 발표했습니다. 소속사 빅히트뮤직은 방탄소년단이 팬클럽 '아미(ARMY)'에 감사하는 마음과 앞으로도 함께하]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[72살 빌 머레이, 43살 여가수 켈리스와 열애중 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
-            <link>https://v.daum.net/v/20230609092709340</link>
-            <guid>https://v.daum.net/v/20230609092709340</guid>
-            <pubDate>Fri, 09 Jun 2023 05:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]영화 ‘고스터 바스터즈’로 유명한 배우 빌 머레이(73)가 가수 켈리스(43)와 열애중이다. ‘US Sun’은 8일(현지시간) “머레이가 지난 주말 사우스 런던에서 열린 마이티 후플라 페스티벌에서 켈리스의 공연을 관람한 후 두 사람의 열애설이 불거졌다”고 전했다. 두 사람과 가까운 소식통은 US Sun에 그들이 같은 호텔에]]></content:encoded>
+            <title><![CDATA['아이돌 롤모델' 수지, 하이브 新 걸그룹 지원사격…'전속력으로' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011905546</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011905546</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[2.5세대 걸그룹 '미쓰에이' 출신 배우 수지가 하이브 레이블즈의 새 걸그룹 서바이벌 프로그램 JTBC '알 유 넥스트(R U Next)?'(제작사 스튜디오잼·머쉬룸컴퍼니) 테마송을 부른다. 9일 JTBC와 빌리프랩]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['웬즈데이2', 더 무섭게 돌아온다...로맨스도 싹 빠져 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
-            <link>https://v.daum.net/v/20230609080209762</link>
-            <guid>https://v.daum.net/v/20230609080209762</guid>
-            <pubDate>Thu, 08 Jun 2023 23:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=이예은 기자] 전 세계적인 흥행 신드롬을 일으킨 '웬즈데이'의 시즌2에서는 로맨스를 볼 수 없을 예정이다. 작품 분위기는 더 어둡게 변한다. 외신 연예 매체 버라이어티는 7일(현지 시간) 넷플릭스 '웬즈데이'로 스타덤에 오른 배우 제나 오르테가와의 인터뷰를 공개했다.&nbsp;극 중 주인공 웬즈데이 역을 맡은 제나 오르테가는 20살이라는 어린 나이에]]></content:encoded>
+            <title><![CDATA[엑소, 첸백시·엑소 전속계약 분쟁 속 7월 10일 컴백 확정 [공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003738018</link>
+            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003738018</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 엑소가 유닛 첸백시와 소속사 SM엔터테인먼트가 전속계약 분쟁을 벌이고 있는 가운데 컴백 날짜를 확정했다. SM엔터테인먼트는 9일 "엑소가 정규 7집을 오는 7월 10일 발매할 예정"이라며 "열심히 준비한 만큼]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[수지, 가수로 컴백…하이브 新걸그룹 서바이벌 테마송 부른다[공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000734536</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000734536</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[수지가 가수로 컴백한다. JTBC와 빌리프랩 측은 6월 9일 "수지가 서바이벌 프로그램 ‘R U Next?’(알유넥스트)(제작사 스튜디오잼/머쉬룸컴퍼니)의 테마송 ‘전속력으로’ 가창자로 참여했다"고 밝혔다. JTBC]]></content:encoded>
+            <title><![CDATA[피원하모니, 발매 첫날 전작 초동 돌파 '커리어 하이' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=018&amp;aid=0005504940</link>
+            <guid>https://entertain.naver.com/now/read?oid=018&amp;aid=0005504940</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 피원하모니(P1Harmony)가 미니 6집 발매 첫날 자체 초동 신기록을 세웠다. 9일 음반 판매량 집계 사이트 한터차트에 따르면 피원하모니의 미니 6집 ‘하모니 : 올 인’(HARMONY : ALL IN)은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뉴진스 ‘Ditto’, 빌보드 재팬 상반기 ‘핫 100’ 17위..K팝 최고 순위 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004866755</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004866755</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[뉴진스(NewJeans)가 빌보드 재팬 2023년 상반기 차트에서 괄목할 만한 성과를 거두며 글로벌 라이징 스타임을 다시 한번 증명했다. 9일 빌보드 재팬이 발표한 상반기 결산(집계기간 2022년 11월 28일~20]]></content:encoded>
+            <title><![CDATA[‘쇼미더머니 10’ 우승 조광일, 우승 견인 대표곡 두번째 버전 싱글 ‘곡예사2’ 전격 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000892417</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000892417</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[Mnet ‘쇼미더머니10’ 우승자 조광일이 사자레코드 합류 후 첫 리드싱글로 자신의 최대 대표곡이자 쇼미 우승에 엄청난 기여를 한 ‘곡예사’의 두번째 버전 ‘곡예사2’를 오늘 저녁 6시를 기점으로 전 음원사이트를 통]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빌리, '2023 월드 김치 캐나다 페스티벌' 출격…韓 문화 알린다 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001602377</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001602377</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 빌리(Billlie)가 한국 아티스트 대표로 세계 축제에 잇달아 공식 초청되며 '글로벌 대세' 존재감을 입증했다. 빌리(시윤, 션, 츠키, 문수아, 하람, 수현, 하루나)는 오는 23일 캐나다 서스캐처원 새스커]]></content:encoded>
+            <title><![CDATA['쇼미10' 우승 조광일, 오늘(9일) 새 싱글 '곡예사2' 발표 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003158385</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003158385</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[Mnet 힙합 경연 프로그램 '쇼 미 더 머니10' 우승자 조광일이 컴백했다. 조광일은 9일 오후 6시 각종 음악 사이트를 통해 새 싱글 '곡예사2'를 공개했다. 이번 싱글은 조광일이 소속사 사자레코드 합류 이후 공]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['초코 인 할리우드' 초코1, 할리우드서 美 유명 프로듀서 바비와 만남 '입틀막' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000433623</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000433623</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[초코1이 미국 유명 프로듀서 바비와 곡 작업을 함께한다. 9일 방송되는 M2 리얼리티 '초코 인 할리우드' 5회에서는 미국에서 알찬 시간을 보내고 있는 초코1의 일상들이 공개된다. 앨범 작업을 위해 떠난 미국 할리우]]></content:encoded>
+            <title><![CDATA[영탁, ‘재잘대’ 유튜브 음원 200만뷰 돌파 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000892416</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000892416</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[가수 영탁의 ‘재잘대(Chatter)’ 유튜브 음원이 200만뷰를 9일 돌파했다. ‘재잘대(Chatter)’는 영탁 첫 정규앨범 ‘MMM’ 의 두 번째 수록곡으로, 영탁과 지광민이 함께 작사·작곡·편곡한 디스코 팝]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뉴진스 ‘Ditto’ 빌보드 재팬 상반기 ‘핫100’ 최고 순위 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000892364</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000892364</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[뉴진스(NewJeans)가 빌보드 재팬 2023년 상반기 차트에서 괄목할 만한 성과를 거두며 글로벌 라이징 스타임을 다시 한번 증명했다. 9일 빌보드 재팬이 발표한 상반기 결산(집계기간 2022년 11월 28일~20]]></content:encoded>
+            <title><![CDATA[샤이니 온유, 잠깐 숨 고르기…콘서트·8집 활동 불참 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011905529</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011905529</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 '샤이니' 리더 온유가 건강 상의 이유로 활동을 잠정 중단한다. 소속사 SM엔터테인트는 9일 팬 커뮤니티 플랫폼 광야클럽에 "최근 온유의 컨디션 난조가 계속됨에 따라 상담 및 검진을 받게 됐고, 안정과 치료가]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[제이플라 "'번 더 플라워'…오로라를 보여드릴게요" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011905163</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011905163</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[문예빈 인턴 기자 = 싱어송라이터 제이플라가 데뷔 10년 만에 발표한 첫 정규 앨범에 대한 이야기를 전했다. 지난 8일 제이플라는 각종 음원 사이트를 통해 첫 번째 정규 앨범 '번 더 플라워(Burn the Flow]]></content:encoded>
+            <title><![CDATA[페노메코, 2개월만 초고속 컴백…6월 19일 신곡 발매 확정 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000942813</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000942813</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[프로듀서 겸 아티스트 페노메코(PENOMECO)가 초고속 컴백한다. 소속사 피네이션(P NATION)은 9일 오후 12시 공식 SNS를 통해 ‘커밍 업 넥스트(COMING UP NEXT)’ 이미지를 공개, 소속 아티]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['위버스콘 출격' 보이넥스트도어 "우리가 누군지 알 수 있도록 최선 다할 것" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003737970</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003737970</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[‘하이브 신인’ 보이넥스트도어(BOYNEXTDOOR, 성호 리우 명재현 태산 이한 운학)가 데뷔 이후 첫 페스티벌 무대를 앞둔 소감을 밝혔다. 지난달 30일 데뷔한 보이넥스트도어는 하이브와 KOZ엔터테인먼트가 함께]]></content:encoded>
+            <title><![CDATA[조광일, '쇼미10' 우승 이끈 '곡예사' 두 번째 버전 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000433670</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000433670</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:06 GMT</pubDate>
+            <content:encoded><![CDATA['쇼미더머니10' 우승자 조광일이 신곡으로 돌아온다. 조광일은 9일 오후 6시 싱글 '곡예사2'를 발매한다. 이 곡은 그가 사자레코드 합류 후 첫 리드싱글이자, '쇼미더머니10' 우승에 기여했던 '곡예사'의 두 번]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“함께여서 행복” 10주년 방탄소년단, 아미에게 전하는 진심 ‘Take Two’ [한낮의 신곡] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004866741</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004866741</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 방탄소년단이 10년 간 변함없이 함께한 아미들에게 진심어린 인사를 전한다. 방탄소년단은 9일 오후 1시(한국시간) 각종 음악 사이트를 통해 'Take Two’ 음원을 전 세계 동시 공개했다. 지난해 12월 맏형]]></content:encoded>
+            <title><![CDATA[VAV, 웰메이드 라틴팝 '디자이너'…군백기 끝내고 성숙+고혹美 장착 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001602436</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001602436</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 VAV(브이에이브이)가 긴 공백기에 마침표를 찍는다. VAV는 9일 자정 공식 SNS 채널을 통해 미니 7집 ‘Subconscious’(서브칸셔스)의 타이틀곡 ‘Designer’(디자이너) 뮤직비디오 티저 영상]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임영웅 팬클럽, 대구 취약계층 어르신 위해 무료 급식 봉사활동 진행…선한 영향력 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001602372</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001602372</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[임영웅 대구 팬클럽이 취약계층 어르신들을 위해 무료 급식 봉사활동을 실천했다. 대한적십자사 대구지사(회장 박명수)와 '대구영웅사랑 적십자봉사회'(회장 배정희)는 지난 7일, 두류공원에서 취약계층 어르신 1,000명을]]></content:encoded>
+            <title><![CDATA[엑소, 첸백시-SM 갈등 속 컴백 강행 "7월 10일 7집 발매" [공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003158372</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003158372</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[보이 그룹 엑소가 오는 7월 10일 컴백한다. 소속사 SM엔터테인먼트 측 관계자는 9일 스타뉴스에 "엑소 정규 7집을 7월 10일 발매할 예정"이라며 "열심히 준비한 만큼 앨범 관련 프로모션은 계획대로 진행되며, 곧]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘태계일주2’ PD “인도 열차 사고 애도, 고려해 편집” (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000892357</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000892357</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[김지우 PD가 최근 발생한 인도의 열차 사고를 언급했다. 김 PD는 9일 서울 마포구 상암동 MBC신사옥에서 진행된 MBC 예능 ‘태어난 김에 세계일주 시즌2’ 제작발표회에서 “열차 사고가 일어나서 많은 분이 저희]]></content:encoded>
+            <title><![CDATA[라필루스, 컴백 프로모션 시작…미니 2집 스케줄러 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000942810</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000942810</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 라필루스가 컴백 프로모션에 돌입했다. 9일 오후 라필루스(Lapillus)는 공식 SNS 채널을 통해 두 번째 미니앨범 ‘GIRL’s ROUND Part. 2(걸스 라운드 파트 2)’의 스케줄러를 공개했다. 공]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[제이플라, 데뷔 10년만 첫 정규.."구독자 1760만 명 상상 못해 감사"[일문일답] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003636000</link>
-            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003636000</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[싱어송라이터 제이플라 첫 정규앨범 발매 소감을 전했다. 제이플라는 지난 8일 각종 음원 사이트를 통해 첫 번째 정규앨범 'Burn the Flower'를 발매했다. 그의 실제 에피소드들을 담은 이번 앨범은 제이플라가]]></content:encoded>
+            <title><![CDATA[“We young forever” 방탄소년단, 영원히 끝나지 않을 청춘[들어보고서] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000734574</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000734574</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 방탄소년단(RM, 진, 슈가, 제이홉, 지민, 뷔, 정국)이 10주년을 기념해 아미(ARMY, 방탄소년단 팬클럽명)들에게 진심을 고백했다. 방탄소년단은 6월 9일 오후 1시 국내외 음원 플랫폼을 통해 새 디지털]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빌리 '월드 김치 캐나다 페스티벌' 무대 선다 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011905118</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011905118</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 빌리가 한국 아티스트 대표로 세계 축제에 잇달아 공식 초청되며 존재감을 입증했다. 9일 소속사 미스틱스토리에 따르면 빌리는 오는 23일 캐나다 서스캐처원 새스커툰에서 진행되는 '2023 월드 김치 캐나다 페스티]]></content:encoded>
+            <title><![CDATA[샤이니 온유, 활동중단 심경 "앞으로가 중요해 내린 결단…건강히 돌아올 것"[전문] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000433666</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000433666</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[샤이니 온유가 정규 8집 활동과 콘서트를 앞두고 활동중단을 하게 된 것에 대해 팬들에게 미안한 마음을 전했다. 9일 온유는 "놀라셨을 분들이 계실것 같아서 제가 말씀 올리는게 맞다고 판단되어 이렇게 글을 쓰게 됐다"]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[피원하모니, 발매 첫날 14만장 팔았다…확실한 커리어하이 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000734518</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000734518</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[FNC엔터테인먼트 소속 보이그룹 피원하모니(P1Harmony, 기호 테오 지웅 인탁 소울 종섭)가 자신들의 자체 최고 기록을 경신하며 유의미한 결실을 맺었다. 6월 9일 음반 판매량 집계 사이트 한터차트에 따르면 피]]></content:encoded>
+            <title><![CDATA[‘컴백 D-3’ VAV, ‘Designer’ 웰메이드 라틴팝으로 컴백···MV 티저 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000892412</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000892412</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[아이돌그룹 VAV(브이에이브이)가 긴 공백기에 마침표를 찍는다. VAV는 9일 SNS 채널을 통해 미니 7집 ‘Subconscious’(서브칸셔스)의 타이틀곡 ‘Designer’(디자이너) 뮤직비디오 티저 영상을 공]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 시크릿넘버 수담, '눈부신 미모에 시선강탈' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004854184</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004854184</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 시크릿넘버 수담이 9일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content:encoded>
+            <title><![CDATA[영탁, 김희진X윤서령 두자매 데뷔곡 프로듀싱 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=018&amp;aid=0005504750</link>
+            <guid>https://entertain.naver.com/now/read?oid=018&amp;aid=0005504750</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[두자매(사진=제이지스타) 가수 김희진과 윤서령이 트롯 2인조 그룹 두자매로 뭉친 가운데, 영탁이 프로듀싱한 ‘사랑은 마끼아또’로 정식 데뷔한다. 두자매는 오는 19일 낮 12시 각종 온라인 음원 사이트를 통해 ‘사랑]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 시크릿넘버 주, '돋보이는 깜찍 미모' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004854183</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004854183</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 시크릿넘버 주가 9일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content:encoded>
+            <title><![CDATA['14일 컴백' 다크비, 무더위 찢을 '파워 청량' 예고 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001602430</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001602430</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[컴백을 앞둔 그룹 다크비(DKB)가 청량 에너지를 예고했다. 브레이브 엔터테인먼트는 9일 다크비(이찬, 디원, 테오, 지케이, 희찬, 룬, 준서, 유쿠, 해리준)의 공식 유튜브 채널 및 SNS를 통해 미니 6집 'I]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 시크릿넘버 진희, '예쁘게 꽃받침~' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004854180</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004854180</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 시크릿넘버 진희가 9일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content:encoded>
+            <title><![CDATA[[포토] 보이넥스트도어 명재현, '부드러운 손인사~' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004854287</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004854287</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 보이넥스트도어 명재현이 9일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[제이플라 "데뷔 10년 만에 첫 정규…기다려준 팬들 감사" [일문일답] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=408&amp;aid=0000191131</link>
-            <guid>https://entertain.naver.com/now/read?oid=408&amp;aid=0000191131</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[싱어송라이터 제이플라(J.Fla)가 데뷔 10년 만에 첫 정규앨범을 발매했다. 제이플라는 지난 8일 각종 음원 사이트를 통해 첫 번째 정규앨범 'Burn the Flower'를 발매했다. 그녀의 실제 에피소드들을 담]]></content:encoded>
+            <title><![CDATA[유재석→광수, 김종국→영철, 전소민→옥순 ‘런닝맨표 나는 솔로’ (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001056199</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001056199</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[오는 11일 오후 방송되는 SBS ‘런닝맨’에서 이세희, 한지은, 덱스가 예능 짝꿍을 찾아 나선다. 최근 진행된 녹화에서는 예능 짝꿍을 찾는 ‘나는 솔로지옥’ 레이스로 펼쳐졌다. ‘예능 베테랑’ 멤버들은 짝꿍 찾기에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 시크릿넘버 민지, '귀여운 볼하트~' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004854179</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004854179</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 시크릿넘버 민지가 9일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content:encoded>
+            <title><![CDATA['활중' 샤이니 온유 "건강만 잘 회복하고 돌아올게요" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=079&amp;aid=0003778727</link>
+            <guid>https://entertain.naver.com/now/read?oid=079&amp;aid=0003778727</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[컨디션 난조로 활동을 중단하는 그룹 샤이니(SHINee) 온유가 직접 글을 올려 팬들을 달랬다. 온유는 9일 본인 인스타그램에 "안녕하세요. 온유입니다! 다름이 아니고 놀라셨을 분들이 계실 것 같아서 제가 말씀 올리]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 시크릿넘버 민지, '사랑스러운 손인사~' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004854178</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004854178</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 시크릿넘버 민지가 9일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content:encoded>
+            <title><![CDATA[[종합] "마약 2종 추가+증인 해외도피 지원"…유아인, 마약파문 개미지옥 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004017297</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004017297</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[배우 유아인의 마약 파문이 점입가경이다. 서울경찰청 마약범죄수사대는 9일 유아인의 마약류 관리에 관한 법률 위반(향정) 등의 혐의로 검찰에 불구속 송치했다. 유아인은 대마 코카인 케타민 졸피뎀 프로포폴 등 다섯 종류]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 시크릿넘버 레아, '귀여운 모습에 눈길' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004854177</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004854177</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 시크릿넘버 레아가 9일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content:encoded>
+            <title><![CDATA[[포토S] 정경호, '두산 김강우 어린이 팬과 함께' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000433686</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000433686</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023 신한은행 SOL KBO리그 두산 베어스와 KIA 타이거즈의 경기가 9일 오후 서울 송파구 잠실야구장에서 열렸다. 배우 정경호가 시구를 마친 후 시타를 한 두산 팬 김강우 어린이와 그라운드를 빠져나가고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[트리플에스 서다현 '낭만닥터 김사부 3' OST 발매…'오늘도 너야' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011905071</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011905071</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 트리플에스 멤버 서다현이 드라마 OST로 따뜻한 위로를 건넨다. OST 제작사 뮤직레시피는 9일 오후 6시 전 온라인 음원사이트에서 서다현의 SBS 금토드라마 '낭만닥터 김사부 3' OST 파트7 '오늘도 너야]]></content:encoded>
+            <title><![CDATA[[포토S] 시구 마친 정경호, 눈웃음 손인사 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000433685</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000433685</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023 신한은행 SOL KBO리그 두산 베어스와 KIA 타이거즈의 경기가 9일 오후 서울 송파구 잠실야구장에서 열렸다. 배우 정경호가 시구를 하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 시크릿넘버 디타, '귀여운 미소~' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004854176</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004854176</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 시크릿넘버 디타가 9일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content:encoded>
+            <title><![CDATA[박민영, 일본 행사서 과감 패션..훤히 드러냈네[스타IN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003158397</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003158397</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[배우 박민영이 시원시원한 근황을 공개했다. 9일 박민영은 자신의 인스타그램에 "따뜻하게 맞아주셔서 감사했습니다"라는 글과 함께 여러 장의 사진을 게재했다. 공개된 사진 속 박민영은 지난 8일 일본 도쿄에서 진행된 한]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 시크릿넘버 디타, '도도한 눈빛' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004854175</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004854175</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 시크릿넘버 디타가 9일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content:encoded>
+            <title><![CDATA["악플보다 더 마음 아픈 건"…'결혼+임신' 차서원, 2차 손편지까지 쓴 이유[종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000433684</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000433684</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[배우 차서원(이창엽, 32)이 두 번째 손편지로 팬들에게 진심을 전했다. 차서원이 주연한 티빙 오리지널 '비의도적 연애담'은 공식 SNS를 통해 "차서원이 조심스레 보낸 편지를 대신 전한다"라며 그가 쓴 자필 편지를]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 시크릿넘버 진희, '활짝 핀 꽃미모' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004854174</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004854174</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 시크릿넘버 진희가 9일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content:encoded>
+            <title><![CDATA[[포토S] 정경호, 시구 마치고 쑥스러운 미소 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000433682</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000433682</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023 신한은행 SOL KBO리그 두산 베어스와 KIA 타이거즈의 경기가 9일 오후 서울 송파구 잠실야구장에서 열렸다. 배우 정경호가 시구를 하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[BTS, 데뷔 10주년 기념 싱글 '테이크 투' 발표 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013992565</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013992565</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 방탄소년단(BTS)이 9일 데뷔 10주년을 기념하는 새 싱글 '테이크 투'(Take Two)를 발표했다고 소속사 빅히트뮤직이 밝혔다. 사진은 10주년 맞은 그룹 방탄소년단(BTS). 2023.6.9 [팬 커뮤니]]></content:encoded>
+            <title><![CDATA[[포토S] 정경호, 일타 강사의 시구! (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000433681</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000433681</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023 신한은행 SOL KBO리그 두산 베어스와 KIA 타이거즈의 경기가 9일 오후 서울 송파구 잠실야구장에서 열렸다. 배우 정경호가 시구를 하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘태계일주2’ 많이 사랑해주세요~ [DA포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001056180</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001056180</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[덱스, 기안84, 빠니보틀이 9일 오후 서울 마포구 상암 MBC 골든마우스홀에서 진행된 MBC ‘태어난 김에 세계일주 시즌2(태계일주2)’ 제작발표회에서 포즈를 취하고 있다. 기안84, 덱스, 빠니보틀이 인도에서 펼]]></content:encoded>
+            <title><![CDATA[연정훈X김종민, 2% 부족한 가창력→브레이크 댄스 (1박 2일) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001056198</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001056198</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[‘1박 2일’ 멤버들이 현리마을 어르신들과의 마을 잔치를 이어간다. 오는 11일 오후 6시 15분 방송되는 KBS 2TV ‘1박 2일 시즌4’(이하 ‘1박 2일’) ‘개미와 베짱이’에서는 ‘1박 2일’ 멤버들이 마을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[덱스·기안84·빠니보틀, 무계획 현지 밀착 여행! (태계일주2) [DA포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001056179</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001056179</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[덱스, 기안84, 빠니보틀이 9일 오후 서울 마포구 상암 MBC 골든마우스홀에서 진행된 MBC ‘태어난 김에 세계일주 시즌2(태계일주2)’ 제작발표회에서 포즈를 취하고 있다. 기안84, 덱스, 빠니보틀이 인도에서 펼]]></content:encoded>
+            <title><![CDATA[[포토S] 정경호, 깔끔한 시구 패션 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000433680</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000433680</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023 신한은행 SOL KBO리그 두산 베어스와 KIA 타이거즈의 경기가 9일 오후 서울 송파구 잠실야구장에서 열렸다. 배우 정경호가 시구를 하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[풍자 "내 치아 너무 재떨이 같더라" 래미네이트 시술 고백 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006856805</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006856805</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[방송인 풍자가 래미네이트 한 이유를 공개했다. 9일 유튜브 채널 '풍자테레비'에는 '나를 예언한 예언자 팬'이라는 제목의 영상이 올라왔다. 이날 풍자는 한 시청자가 "이가 엄청 하얀데 관리 하시는 거냐"라고 묻자 "]]></content:encoded>
+            <title><![CDATA[[포토] 정경호 '두산 승리 기원' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004017296</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004017296</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023 KBO리그 두산 베어스와 KIA 타이거즈의 경기가 9일 잠실구장에서 열렸다. 배우 정경호가 시구를 마친 뒤 인사를 건네고 있다. 잠실=박재만 기?2023.06.07]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빠니보틀, 여행유튜버와 떠나는 인도 여행 (태계일주2) [DA포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001056178</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001056178</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[빠니보틀이 9일 오후 서울 마포구 상암 MBC 골든마우스홀에서 진행된 MBC ‘태어난 김에 세계일주 시즌2(태계일주2)’ 제작발표회에서 포즈를 취하고 있다. 기안84, 덱스, 빠니보틀이 인도에서 펼치는 무계획 여행]]></content:encoded>
+            <title><![CDATA[[포토] 정경호 '힘차게 시구' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004017295</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004017295</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023 KBO리그 두산 베어스와 KIA 타이거즈의 경기가 9일 잠실구장에서 열렸다. 배우 정경호가 시구를 하고 있다. 잠실=박재만 기?2023.06.07]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에스파, 美 MLB 양키 스타디움서 데뷔 첫 시구 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001056177</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001056177</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 에스파(aespa)가 첫 메이저리그 시구에 나서 화제다. 멤버 지젤은 건강 문제로 불참했다. 에스파는 8일(현지시간) 미국 뉴욕 양키스 스타디움에서 열린 뉴욕 양키스와 시카고 화이트 삭스 경기의 시구자로 마운드]]></content:encoded>
+            <title><![CDATA[[포토] 정경호 '시구의 정석' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004017294</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004017294</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023 KBO리그 두산 베어스와 KIA 타이거즈의 경기가 9일 잠실구장에서 열렸다. 배우 정경호가 시구를 하고 있다. 잠실=박재만 기?2023.06.07]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빠니보틀, 유쾌한 웃음 (태계일주2) [DA포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001056176</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001056176</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[빠니보틀이 9일 오후 서울 마포구 상암 MBC 골든마우스홀에서 진행된 MBC ‘태어난 김에 세계일주 시즌2(태계일주2)’ 제작발표회에서 포즈를 취하고 있다. 기안84, 덱스, 빠니보틀이 인도에서 펼치는 무계획 여행]]></content:encoded>
+            <title><![CDATA[[포토] 정경호 '미트를 보고 힘차게 시구' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004017293</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004017293</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023 KBO리그 두산 베어스와 KIA 타이거즈의 경기가 9일 잠실구장에서 열렸다. 배우 정경호가 시구를 하고 있다. 잠실=박재만 기?2023.06.07]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빠니보틀, ‘태계일주2’ 최고! [DA포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001056175</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001056175</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[빠니보틀이 9일 오후 서울 마포구 상암 MBC 골든마우스홀에서 진행된 MBC ‘태어난 김에 세계일주 시즌2(태계일주2)’ 제작발표회에서 포즈를 취하고 있다. 기안84, 덱스, 빠니보틀이 인도에서 펼치는 무계획 여행]]></content:encoded>
+            <title><![CDATA[[포토] 정경호 '두산-KIA전 시구' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004017292</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004017292</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023 KBO리그 두산 베어스와 KIA 타이거즈의 경기가 9일 잠실구장에서 열렸다. 배우 정경호가 시구를 하고 있다. 잠실=박재만 기?2023.06.07]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[K팝 아티스트 최고 순위… 뉴진스, 빌보드 재팬 상반기 톱100 17위 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000346433</link>
-            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000346433</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[뉴진스(민지·하니·다니엘·해린·혜인)가 글로벌 라이징 스타임을 다시 한번 증명했다. 9일 빌보드 재팬이 발표한 상반기 결산(집계기간 2022년 11월 28일~2023년 5월 28일)에 따르면 뉴진스의 싱글 앨범 '오]]></content:encoded>
+            <title><![CDATA[김구라 "이혼의 표면적인 이유는 금전 문제로 서로 불신했기 때문" ('구라철') (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004017291</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004017291</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[김구라가 이혼한 이유를 솔직하게 밝혔다. 9일 김구라의 유튜브 '구라철'에는 '200% 마라맛 김구라의 매운맛 상담소'라는 제목으로 영상이 게재됐다. 이날 김구라는 '오은영의 금쪽상담소'를 패러디한 '흑은영의 개쪽상]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[덱스, 함께 떠나요! (태계일주2) [DA포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001056174</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001056174</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[덱스가 9일 오후 서울 마포구 상암 MBC 골든마우스홀에서 진행된 MBC ‘태어난 김에 세계일주 시즌2(태계일주2)’ 제작발표회에서 포즈를 취하고 있다. 기안84, 덱스, 빠니보틀이 인도에서 펼치는 무계획 여행 MB]]></content:encoded>
+            <title><![CDATA[[종합] "첸백시vsSM 분쟁 중인데"…엑소, 7월 10일 완전체 컴백→팬덤 분열 막을까 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004017290</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004017290</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 엑소의 기묘한 동거가 시작된다. 엑소가 7월 10일 완전체 컴백을 확정했다. 엑소의 완전체 컴백은 스페셜 앨범을 제외하면 2019년 11월 발표한 정규 6집 '옵세션' 이후 3년 8개월 만이다. 오랜 기다림 끝]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[덱스, 놀라운 기럭지 (태계일주2) [DA포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001056173</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001056173</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[덱스가 9일 오후 서울 마포구 상암 MBC 골든마우스홀에서 진행된 MBC ‘태어난 김에 세계일주 시즌2(태계일주2)’ 제작발표회에서 포즈를 취하고 있다. 기안84, 덱스, 빠니보틀이 인도에서 펼치는 무계획 여행 MB]]></content:encoded>
+            <title><![CDATA['뮤직뱅크' 더뉴식스, 중독성 甲 'Kick It 4 Now' 퍼포먼스 선사 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=030&amp;aid=0003106333</link>
+            <guid>https://entertain.naver.com/now/read?oid=030&amp;aid=0003106333</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 더뉴식스(TNX)가 특별한 Y2K 감성을 안겼다. 더뉴식스(최태훈, 우경준, 장현수, 천준혁, 은휘, 오성준)는 오늘(9일) 오후 방송한 KBS2 '뮤직뱅크'에서 미니 3집 'BOYHOOD'의 타이틀곡 'Kic]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[루엘·태용·미드낫… 'K-909' 글로벌 스타 즐비한 무대 맛집 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000346432</link>
-            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000346432</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:56 GMT</pubDate>
-            <content:encoded><![CDATA['K-909'가 위대한 도전에 나선 K팝 대세 가수들의 화려한 라인업으로 전 세계 시청자를 찾아간다. 10일 방송되는 JTBC 'K-909' 16회에서 최초 공개 무대 및 스페셜한 컬래버레이션이 공개된다. 먼저 'K]]></content:encoded>
+            <title><![CDATA[[포토] 신수지, 건강미 그 자체! (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004017283</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004017283</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023 KBO리그 LG 트윈스와 한화 이글스의 경기가 9일 대전 한화생명이글스파크에서 열렸다. 경기 전 신수지가 시구를 하고 있다. 대전=허상욱 기?2023.06.09]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[엔믹스 지우, 힙하고 상큼한 데님 스타일링 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000926814</link>
-            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000926814</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 엔믹스(NMIXX) 지우가 감각적인 데님 스타일링을 선보였다. 9일 엔믹스 공식 인스타그램에 "너무 늦어버렸닷"이라는 글과 함께 지우의 사진 여러 장이 게재됐다. 공개된 사진 속 지우는 숫자가 씌여진 스포트한]]></content:encoded>
+            <title><![CDATA['국민 첫사랑' 수지, 독보적 청순미.."안 익숙해지는 미모"[스타IN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003158392</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003158392</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[가수 겸 배우 수지가 물오른 미모를 뽐냈다. 수지는 9일 자신의 인스타그램을 통해 "오랜만에 유튜브 영상 업로드"라는 글과 함께 여러 장의 사진을 게재했다. 공개된 사진 속 수지는 차 안에서 셀카를 찍었다. 수지는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[덱스, 장발이 찰떡이야 (태계일주2) [DA포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001056172</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001056172</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[덱스가 9일 오후 서울 마포구 상암 MBC 골든마우스홀에서 진행된 MBC ‘태어난 김에 세계일주 시즌2(태계일주2)’ 제작발표회에서 포즈를 취하고 있다. 기안84, 덱스, 빠니보틀이 인도에서 펼치는 무계획 여행 MB]]></content:encoded>
+            <title><![CDATA[[공식] '첸백시 분쟁' 엑소, 7월 10일 완전체 컴백 확정 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004017276</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004017276</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 엑소가 7월 10일 컴백을 확정했다. 소속사 SM엔터테인먼트(이하 SM)는 9일 "7월 10일 엑소 정규 7집을 발매한다. 열심히 준비한 만큼 앨범 관련 프로모션은 계획대로 진행된다. 곧 세부 일정도 공개할 것]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[기안84, ‘태계일주’ 시즌2도 많이 기대해주세요~ [DA포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001056171</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001056171</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[기안84가 9일 오후 서울 마포구 상암 MBC 골든마우스홀에서 진행된 MBC ‘태어난 김에 세계일주 시즌2(태계일주2)’ 제작발표회에서 포즈를 취하고 있다. 기안84, 덱스, 빠니보틀이 인도에서 펼치는 무계획 여행]]></content:encoded>
+            <title><![CDATA[[종합] "샤이니 위한 숨고르기"…온유 활동중단, 정규 8집+콘서트 불참 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004017275</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004017275</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 샤이니 온유가 컨디션 난조로 정규 8집 활동에 불참한다. 소속사 SM엔터테인먼트는 "최근 온유의 컨디션 난조가 계속됨에 따라 상담 및 검진을 받게 됐고 안정과 치료가 필요하다는 의료진의 소견을 받았다"고 밝혔다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[기안84, 다같이 인도로 떠나요~ (태계일주2) [DA포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001056170</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001056170</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[기안84가 9일 오후 서울 마포구 상암 MBC 골든마우스홀에서 진행된 MBC ‘태어난 김에 세계일주 시즌2(태계일주2)’ 제작발표회에서 포즈를 취하고 있다. 기안84, 덱스, 빠니보틀이 인도에서 펼치는 무계획 여행]]></content:encoded>
+            <title><![CDATA[최희, 둘째 출산 후에도 '청순+늘씬' 대학생 비주얼[스타IN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003158389</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003158389</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[아나운서 출신 방송인 최희가 청순한 미모를 과시했다. 9일 최희는 자신의 인스타그램에 "포토존 너무 좋아서 사진 오랜만에 엄청 찍어봤어요"라는 글과 함께 여러 장의 사진을 게재했다. 공개된 사진 속 최희는 긴 생머리]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[샤이니 온유, 활동 중단…콘서트-8집 활동 빠진다 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=079&amp;aid=0003778616</link>
-            <guid>https://entertain.naver.com/now/read?oid=079&amp;aid=0003778616</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[올해 데뷔 15주년을 맞은 그룹 샤이니(SHINee) 온유가 건강 문제로 활동을 중단한다. 소속사 SM엔터테인먼트는 팬 커뮤니티 '광야 클럽'에 9일 공지를 올려 이같이 알렸다. SM 측은 "샤이니는 데뷔 15주년을]]></content:encoded>
+            <title><![CDATA[[비하인드 스테이지] 모비딕 이시영, “제 꿈은 영원히 록스타” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000646534</link>
+            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000646534</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 노래 잘 하는 가수는 많다. 그들의 역량을 좀더 다듬고 매력을 돋보이게 하는 직업이 있다. 바로 보컬 트레이너다. 정통 록그룹 모비딕의 보컬이기도 한 이시영은 명실공히 국내 보컬 트레이너 1세대로 꼽힌다. 그는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[기안84, 태어난 김에 사는 남자 (태계일주2) [DA포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001056169</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001056169</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[기안84가 9일 오후 서울 마포구 상암 MBC 골든마우스홀에서 진행된 MBC ‘태어난 김에 세계일주 시즌2(태계일주2)’ 제작발표회에서 포즈를 취하고 있다. 기안84, 덱스, 빠니보틀이 인도에서 펼치는 무계획 여행]]></content:encoded>
+            <title><![CDATA[주윤발 "스타가 되는 건 쉽지만, 배우 인생은 힘들다" [룩@차이나] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001258078</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001258078</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[홍콩 톱스타 주윤발이 배우로 살아가는 데 대한 소회를 밝혔다. 9일(현지 시간) 중국 매체 시나연예에 따르면 주윤발은 최근 영화 '별규아도신' 제작발표회에 참석했다. 이날 주윤발은 배우와 스타는 다르다며 "스타가 되]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['나쁜엄마' 안은진 "일+삶의 만족도 높아"..뽀뽀신♥ 추가한 '자존감'[★FULL인터뷰] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003158284</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003158284</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:56 GMT</pubDate>
-            <content:encoded><![CDATA["지금까지 맡았던 캐릭터가 저보다 품이 크고 멋있는 캐릭터들이어서 저는 캐릭터 복이 큰 사람이라고 생각해요." "평소에 제 마음과 건강 상태에 대해 관심을 많이 갖고 있는 편이에요. 나이가 들수록 그런 걸 지키는 게]]></content:encoded>
+            <title><![CDATA[정경호 ‘두산 응원해요’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000942829</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000942829</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[9일 오후 서울 잠실야구장에서 ‘2023 프로야구’ KIA 타이거즈와 두산 베어스의 경기가 열렸다. 두산은 시즌 2승 3패를 기록 중인 김동주가 선발로 나서 팀 4연승에 도전한다. KIA는 시즌 2승 6패를 기록 중]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김우빈, 우아한 슈트핏…부드러운 카리스마 눈길 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000926813</link>
-            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000926813</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[배우 김우빈이 훈훈한 비주얼을 선보였다. 9일 김우빈은 자신의 인스타그램에 지난 8일 참석한 한 스위스 워치 브랜드 행사에서 찍은 사진 여러 장을 게재했다. 사진 속 김우빈은 화이트 티셔츠에 아이보리 컬러 슈트를 입]]></content:encoded>
+            <title><![CDATA[켄달 제너, 임신했나...예능서 깜짝 발언 [할리웃통신] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001258077</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001258077</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[모델 켄달 제너가 임신 의혹에 휩싸였다. 최근 공개된 리얼리티쇼 예고편 때문이다. 최근 Hulu 리얼리티쇼 '카다시안 패밀리 시즌3' 새 에피소드의 예고편에서 켄달 제너(27)가 임신에 대해 언급에 이목을 집중시켰다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['태계일주2' PD "덱스=잘생긴 기안…기안84와 만남 궁금했다" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000433624</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000433624</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:56 GMT</pubDate>
-            <content:encoded><![CDATA['태어난 김에 세계일주 시즌2' 김지우 PD가 크리에이터 덱스에 대해 "잘생긴 기안84"라고 표현했다. 김지우 PD는 9일 서울 마포구 상암동 MBC 골든마우스홀에서 열린 MBC 새 예능 프로그램 '태어난 김에 세계]]></content:encoded>
+            <title><![CDATA[시구하는 정경호 ‘부드러운 눈빛’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000942820</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000942820</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[9일 오후 서울 잠실야구장에서 ‘2023 프로야구’ KIA 타이거즈와 두산 베어스의 경기가 열렸다. 두산은 시즌 2승 3패를 기록 중인 김동주가 선발로 나서 팀 4연승에 도전한다. KIA는 시즌 2승 6패를 기록 중]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이창섭, 결국 3년 만에 재입대 "환장하겠다" ('전과자') (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004017227</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004017227</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 비투비 이창섭이 결국 재입대를 했다. 9일 웹예능 '전과자' 채널에는 '결국 재입대했습니다 [육군3사관학교]'라는 제목의 영상이 공개됐다. 이창섭은 기차에 올라 영천으로 향했다. 50만 구독자 공약으로 내건 군]]></content:encoded>
+            <title><![CDATA[시구하는 정경호 ‘어린이에게 희망 선물’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000942819</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000942819</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[9일 오후 서울 잠실야구장에서 ‘2023 프로야구’ KIA 타이거즈와 두산 베어스의 경기가 열렸다. 두산은 시즌 2승 3패를 기록 중인 김동주가 선발로 나서 팀 4연승에 도전한다. KIA는 시즌 2승 6패를 기록 중]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박명수, '1박2일' 바가지 논란에 "지역 경제 살리려다 망치는 것" 일침('라디오쇼') (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000433622</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000433622</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[방송인 박명수가 '1박 2일' 전통시장 바가지 논란에 일침을 가했다. 9일 방송된 KBS 쿨FM '박명수의 라디오쇼'에는 빅데이터 전문가 전민기가 출연해 박명수와 다양한 이야기를 나눴다. 이날 진행된 '검색N차트'에]]></content:encoded>
+            <title><![CDATA[美 매체 "'인어공주' 흥행 부진, 중국·한국 인종차별 때문" (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001258071</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001258071</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[디즈니 실사 영화 '인어공주'가 한국과 중국에서 흥행하지 못한 이유가 인종차별 때문이라는 주장이 제기됐다. 지난 6일(현지시간) 미국 주요 매체 CNN은 "'인어공주'가 일부 관객의 인종차별적 반발 때문에 한국과 중]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘태계일주2’ 김지우PD “덱스, 잘생긴 기안84같아..야생성 남달라” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003280853</link>
-            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003280853</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[‘태계일주2’를 연출한 김지우PD가 시즌2에 덱스를 섭외하게 된 이유를 밝혔다. 9일 서울 마포구 MBC 신사옥에서 ‘태어난 김에 세계일주2’ (이하 태계일주2)의 제작발표회가 열렸다. 이날 웹툰 작가 기안 84,]]></content:encoded>
+            <title><![CDATA['카다시안家' 크리스 제너 "딸들 잘못은 모두 내 책임" [할리웃통신] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001258070</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001258070</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[카다시안 자매의 엄마 크리스 제너가 자녀들의 행동에 책임을 통감했다. 8일(현지 시간) '카다시안 패밀리' 시즌 3에서 크리스 제너(67)는 자녀들이 자신의 장단점을 다 갖고 있다고 밝혔다. 그는 자녀들의 행동에 자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[기안84 “덱스와 닮은 점? 키밖에…생각보다 도시 남자더라” (태계일주2) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001056168</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001056168</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[기안84 “덱스와 닮은 점? 키밖에…생각보다 도시 남자더라” (태계일주2) 기안84와 덱스가 서로 닮은 부분에 대해 언급했다. 먼저 기안84는 9일 오후 서울 마포구 상암 MBC 골든마우스홀에서 진행된 MBC ‘태어]]></content:encoded>
+            <title><![CDATA[크리스 헴스워스, 제레미 레너 사고에 충격..."어벤져스도 죽을 수 있어" [할리웃통신] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001258068</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001258068</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[할리우드 배우 크리스 헴스워스가 죽음에 대한 두려움을 이야기했다. 크리스 헴스워스는 최근 패션 매거진 GQ와의 인터뷰에서 지난 1월 큰 사고로 고생했던 동료 배우 제레미 레너를 언급했다. 그는 "우리('어벤져스' 배]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['태계일주2' 새 얼굴 덱스 "기안84, 사석에서도 엉뚱한지 궁금했다" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=445&amp;aid=0000118548</link>
-            <guid>https://entertain.naver.com/now/read?oid=445&amp;aid=0000118548</guid>
-            <pubDate>Fri, 09 Jun 2023 06:16:56 GMT</pubDate>
-            <content:encoded><![CDATA['태어난 김에 세계일주2'에 새롭게 합류한 덱스가 기안84에 대한 호기심이 있었다고 밝혔다. 9일 오후 서울 마포구 MBC 골든마우스홀에서 '태어난 김에 세계일주2'(이하 '태계일주2') 제작발표회가 열렸다. 이날은]]></content:encoded>
+            <title><![CDATA['구준엽♥' 서희원, 임신설 이어 건강이상설…"매일 누워서 자거나 먹어" [엑's 이슈] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001602438</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001602438</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[구준엽의 아내 서희원(쉬시위안)에 대한 건강 이상설이 다시금 제기돼 팬들의 우려를 사고 있다. 지난 8일 중국의 시나연예에 따르면 서희원의 이름이 실시간 검색어에 올랐다. 서희원의 동생인 서희제(쉬시디)가 한 인터뷰]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[앤지 화이트, MCU '아이언하트' 합류…도미니크 손과 호흡 [엑's 할리우드] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001602425</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001602425</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[마블 시네마틱 유니버스(MCU) '아이언하트'에 새로운 배우가 합류한다. 8일(현지시간) 미국 데드라인은 '아이언하트'에 배우 앤지 화이트가 합류한다고 보도했다. 앤지 화이트는 FX 드라마 '파고'와 '시카고 PD']]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[日 "'인어공주' 관람 시 간질 일으킬 수 있다"...경고 확산 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001258065</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001258065</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[디즈니 실사 영화 '인어공주'가 일본에서 개봉된 가운데 영화에 대한 경고문이 나왔다. 9일 월트 디즈니 재팬은 공식 홈페이지를 통해 빛에 민감한 관객이 '인어공주'를 관람할 경우 광과민성증후군과 간질 증상 등 다양한]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[엠마 왓슨, 새 사랑 찾았나?...데이트 장면 포착 [할리웃통신] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001258058</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001258058</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:22 GMT</pubDate>
+            <content:encoded><![CDATA['해리 포터' 엠마 왓슨이 새로운 사랑을 시작했다는 소문이 확산하고 있다. 지난 5일(현지 시간) 외신 연예 매체 더 선은 영국 배우 엠마 왓슨이 3세 연하의 억만장자 브랜드 그린과 결별하고, 최근 새로운 남자와 데]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[브래드 피트, 지나 데이비스와 '비밀 연애' 뒤늦게 알려져.."러브신 촬영 이후" [Oh!llywood] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004866802</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004866802</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[배우 브래드 피트가 배우 지나 데이비스와 과거 비밀 연애를 했다고 데일리미러가 7일(현지시간) 보도했다. 브래드 피트와 지나 데이비스는 피트의 출세작이라고 할 수 있는 영화 '델마와 루이스'(1991)에 함께 상대]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['파격 변신' 엠마 스톤...몰라볼 것 같은 비주얼 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001258050</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001258050</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[할리우드 배우 엠마 스톤이 거장 요르고스 란티모스의 신작으로 돌아온다. 8일(현지 시간) 서치라이트 픽처스는 영화 '푸어 띵스'의 공식 예고편을 공개했다. 이색적이고 독특한 영화 분위기가 이목을 끈다. 예고편 속 벨]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['가오갤' 크리스 프랫, 결혼 4주년 이벤트 인증...할리웃판 최수종 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001258049</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001258049</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[마블 영화 '가디언즈 오브 갤럭시' 시리즈의 배우 크리스 프랫이 달달한 결혼 4주년을 축하했다. 8일 크리스 프랫(43)은 소셜네트워크서비스를 통해 아내 캐서린 슈워제네거와의 결혼 4주년을 축하하는 글을 올렸다. 사]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[브래드 피트 ‘델마와 루이스’ 8살 연상 지나 데이비스와 과거 비밀 열애설 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000734544</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000734544</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[브래드 피트가 '델마와 루이스'에 함께 출연했던 8살 연상 지나 데이비스와 비밀 연인 사이였다는 보도가 나왔다. 외신 더 미러는 과거 브래드 피트(59)가 1993년 개봉한 영화 '델마와 루이스'에 함께 출연한 지나]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[드류 베리모어 "스티븐 스필버그가 내 유일한 부모...친부는 날 학대" [할리웃통신] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001258046</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001258046</guid>
+            <pubDate>Fri, 09 Jun 2023 10:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[배우 드류 베리모어가 거장 감독 스티븐 스필버그의 손에 자랐다고 고백했다. 지난 5일(현지 시간) 드류 베리모어(48)는 연예매체 'Vulture'(벌처)와의 인터뷰에서 스티븐 스필버그와의 특별한 인연을 고백했다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘씨 유 어게인’ 찰리 푸스, 오는 10월 5년만 내한 공연 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
@@ -1495,125 +1614,6 @@
             <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003737929</guid>
             <pubDate>Fri, 09 Jun 2023 05:15:19 GMT</pubDate>
             <content:encoded><![CDATA[‘캐리비안의 해적’ 시리즈 팬들의 실망할만한 소식이 전해졌다. 조니 뎁(60)이 ‘캐리비안의 해적6’ 복귀하지 않겠다고 밝혔다. 8일(현지시간) 데일리메일에 따르면 “조니 뎁이 ‘캐리비안의 해적’ 프랜차이즈로 돌아올]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['日 국민배우' 히로스에 료코, 불륜 후 광고서도 사라져...은퇴하나 [룩@재팬] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001258008</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001258008</guid>
-            <pubDate>Fri, 09 Jun 2023 05:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[불륜 스캔들이 터진 일본의 톱 배우 히로스에 료코가 광고에서도 잘렸다. 지난 7일 일본 매체 주간 문춘은 히로스에 료코(42)가 미슐랭 1스타 프렌치 레스토랑의 유명 오너 셰프와 불륜을 저질렀다고 보도했다. 이로 인]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[브래드 피트, 7세 연상 지나 데이비스와 과거 연인? "달콤했다" [N해외연예] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006856433</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006856433</guid>
-            <pubDate>Fri, 09 Jun 2023 05:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[할리우드 배우 브래드 피트(60)가 과거 함께 영화에 출연했던 배우 지나 데이비스(67)와 연인 관계였다는 주장이 제기됐다. 지난 7일(현지시간) 영국 매체 데일리 미러는 리들리 스콧 감독의 1991년 영화 '델마와]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MLB 첫 시구 ‘에스파’, 양키스의 ‘완승’에 승리 요정됐다 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000950902</link>
-            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000950902</guid>
-            <pubDate>Fri, 09 Jun 2023 05:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 ‘에스파’. AFP통신[스포츠서울 | 유다연인턴기자] 그룹 ‘에스파(aespa)’가 미국프로야구 메이저리그(MLB) 소속 구단 뉴욕 양키스에서 시구 후 승리 요정이 됐다.8일(현지시각) 에스파는 뉴욕 양키스와 시카고 화이트 삭스의 경기가 열린 양키스 스타디움에서 시구를 했다.건강 문제로 이번 활동에 불참하는 지젤 외...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[엠마 스톤, 여성 프랑켄슈타인 충격 변신..본 적 없는 비주얼 [Oh!llywood] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004866624</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004866624</guid>
-            <pubDate>Fri, 09 Jun 2023 05:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[프랑켄슈타인 스토리를 재해석한 영화 'Poor Things' 예고편이 공개됐다. 완전히 새로운 배우 엠마 스톤이라는 평. 서치라이트 픽처스(Searchlight Pictures)는 8일(현지시간) 요르고스 란티모스]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[찰리 푸스, 아시아 투어 진행 예고…5년 만에 내한 공연 확정 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001602318</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001602318</guid>
-            <pubDate>Fri, 09 Jun 2023 05:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[미국의 싱어송라이터 찰리 푸스가 세 번째 내한 공연을 진행한다. 찰리 푸스는 8일(현지시간) 공식 홈페이지와 SNS 채널을 통해 'THE 'CHARLIE' LIVE EXPERIENCE' 아시아 투어의 진행을 알렸다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘스파이더맨’ 톰 홀랜드, 연기 활동 잠정중단..”사생활 붕괴, 재충전 필요” (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003280791</link>
-            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003280791</guid>
-            <pubDate>Fri, 09 Jun 2023 05:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[할리우드 배우 톰 홀랜드가 연기 활동을 잠정 중단할 예정이다. 7일(현지시간, 이하 동일) 미국 버라이어티에 따르면 홀랜드는 최근 엑스트라와의 인터뷰에서 애플 TV+ 범죄 스릴러 영화 ‘더 크라우디드 룸’(The C]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[니콜라스 홀트, 슈퍼맨으로 DCU 합류?…'슈퍼맨: 레거시' 오디션 진행 [엑's 할리우드] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001602301</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001602301</guid>
-            <pubDate>Fri, 09 Jun 2023 05:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[DC 유니버스(DCU) 영화 '슈퍼맨: 레거시'(감독 제임스 건)의 캐스팅이 본격적으로 진행될 것으로 보인다. 8일(현지시간) 미국 데드라인은 워너브라더스와 DC 필름즈가 수십 개의 오디션 테이프를 검토한 뒤 후보군]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“블랙핑크 보고싶나봐” 셀레나 고메즈, 노상카페서 아이스크림 먹는 인증샷[해외이슈] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003737893</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003737893</guid>
-            <pubDate>Fri, 09 Jun 2023 05:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[세계적 팝스타 셀레나 고메즈(30)가 노상카페에서 아이스크림을 먹는 인증샷을 게재했다. 그는 8일(현지시간) 인스타그램에 “아이스크림 휴식”이라는 글과 함께 여러 장의 사진을 올렸다. 사진 속 고메즈는 핫팬츠를 입고]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[테일러 스위프트, 매튜 힐리 결별 직후 농구선수 열애설[할리우드비하인드] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000734402</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000734402</guid>
-            <pubDate>Fri, 09 Jun 2023 05:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[미국 가수 테일러 스위프트가 가수 매튜 힐리와 결별하자마자 열애설에 휩싸였다. 6월 7일(현지시간) 미국 매체 Seventeen, Inquirer 등은 테일러 스위프트가 매튜 힐리와 결별한 후 주말 오스틴 리브스와]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["바람난 피케와 결별" 샤키라, F1 슈퍼스타 루이스 해밀턴과 열애중[해외이슈] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003737873</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003737873</guid>
-            <pubDate>Fri, 09 Jun 2023 05:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[세계적 팝가수 샤키라(46)가 영국이 낳은 세계적인 포뮬러(F)1 드라이버 루이스 해밀턴(38)과 열애중이다. 한 소식통은 8일(현지시간) 연예매체 피플에 “이들이 일련의 공개적인 외출을 한 후, ‘재미있고 들뜬’]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[디카프리오, '20세 연하' 지지 하디드와 상견례?..."부모님과 식사" [Oh!llywood] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004866503</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004866503</guid>
-            <pubDate>Fri, 09 Jun 2023 05:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[배우 레오나르도 디카프리오와 모델 지지 하디드가 핑크빛 연애를 이어가고 있는 모양새다. 7일(현지 시간) 페이지 식스 등 현지 외신의 보도에 따르면 레오나르도 런던의 고급 레스토랑에서 디카프리오(48)의 부모님과 전]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[에스파 3人 MLB서 화려한 시구 데뷔…양키스 유니폼도 러블리하게 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000734326</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000734326</guid>
-            <pubDate>Fri, 09 Jun 2023 05:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[에스파가 첫 시구를 성공적으로 마쳤다. 그룹 에스파는 6월 8일(현지시간) 미국 뉴욕 양키스타디움에서 열린 '2023 메이저리그' 뉴욕 양키스와 시카고 화이트삭스의 더블헤더 2차전 경기에서 시구자로 나섰다. 건강 문]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘스파이더맨’ 톰 홀랜드, 활동 잠정 중단...“삶이 붕괴됐다” (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003821233</link>
-            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003821233</guid>
-            <pubDate>Fri, 09 Jun 2023 05:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[배우 톰 홀랜드. 세계일보 자료사진 할리우드 배우 톰 홀랜드(위 사진)가 연기 활동을 잠시 중단한다고 선언했다. 7일(현지시간) 미국 매체 버라이어티에 따르면, 최근 톰 홀랜드는 외신과 인터뷰를 통해 애플 TV 플러]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[72살 빌 머레이, 43살 여가수 켈리스와 열애중[해외이슈] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003737816</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003737816</guid>
-            <pubDate>Fri, 09 Jun 2023 05:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘고스터 바스터즈’로 유명한 배우 빌 머레이(73)가 가수 켈리스(43)와 열애중이다. ‘US Sun’은 8일(현지시간) “머레이가 지난 주말 사우스 런던에서 열린 마이티 후플라 페스티벌에서 켈리스의 공연을 관]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[팬에게 억지로 세제 먹인 日 걸그룹...여전히 반성 안 해 [룩@재팬] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001257880</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001257880</guid>
-            <pubDate>Fri, 09 Jun 2023 05:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[팬에게 억지로 세제를 먹인 일본 걸그룹이 논란에 휩싸였다. 지난 1일(현지 시간) 일본 현지 매체 비즈니스 저널은 언더 그라운드 걸그룹 플랑크 스타즈 멤버들이 한 남성팬에게 억지로 세제를 먹인 영상을 올렸다고 보도했]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[톰 홀랜드, 활동 잠정 중단 선언 "작품이 날 무너뜨려…힘든 시기" [N해외연예] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006855725</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006855725</guid>
-            <pubDate>Fri, 09 Jun 2023 05:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[할리우드 배우 톰 홀랜드가 활동 잠정 중단을 선언했다. 7일(현지시간) 버라이어티와 피플 등 미국 매체에 따르면 톰 홀랜드는 엑스트라와의 인터뷰에서 애플 TV+(플러스) 시리즈 '더 크라우디드 룸'의 고된 제작으로]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['웬즈데이2', 더 무섭게 돌아온다...로맨스도 싹 빠져 [할리웃통신] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001257879</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001257879</guid>
-            <pubDate>Thu, 08 Jun 2023 23:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계적인 흥행 신드롬을 일으킨 '웬즈데이'의 시즌2에서는 로맨스를 볼 수 없을 예정이다. 작품 분위기는 더 어둡게 변한다. 외신 연예 매체 버라이어티는 7일(현지 시간) 넷플릭스 '웬즈데이'로 스타덤에 오른 배우]]></content:encoded>
         </item>
     </channel>
 </rss>
