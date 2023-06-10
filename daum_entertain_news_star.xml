@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-06-10T02:46:43.679Z</updated>
+    <updated>2023-06-10T03:14:24.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안은진, 불안함을 내려놓고 완성한 이미주]]></title>
+        <id>https://v.daum.net/v/20230610114808911</id>
+        <link href="https://v.daum.net/v/20230610114808911"/>
+        <updated>2023-06-10T03:13:51.362Z</updated>
+        <content type="html"><![CDATA[아이즈 ize 이덕행 기자배우 안은진이 매 작품 들어가기 전에 세우는 목표는 '욕을 먹지 말자'는 것이다. 자신의 연기가 부족해 함께한 배우들과 작품에게 피해를 줄까 걱정이 들기 때문이다. 그러나 작품에서 보여지는 안은진의 모습은 왜 그런 걱정을 했는지 의문이 든다. 최근 종영한 '나쁜 엄마'에서도 비슷했다. 다만, 이번에는 조금 더 내려놓을 수 있었다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['계약해지 패소' 이달소 이브, 심경→새 출발 예고.."시작이 반"]]></title>
         <id>https://v.daum.net/v/20230610114424865</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230610102907108"/>
         <updated>2023-06-10T02:46:15.243Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=김현록 기자]‘하트시그널4’가 첫 데이트 이후 달라진 핑크빛 시그널로 분위기를 전환시켰다. 9일 방송된 러브라인 추리게임 채널A ‘하트시그널4’에선 본격적인 첫 데이트에 나서는 입주자들의 모습이 그려졌다. 이날 시그널 하우스에 두근거리는 설렘을 선사할 첫 데이트 상대는 남성 입주자들이 직접 준비한 화이트데이 선물을 통해 결정됐다. 가위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['은퇴' 한 윤성빈 "90-93kg 유지, 살면서 체지방량 10% 넘긴 적 없어"]]></title>
-        <id>https://v.daum.net/v/20230610102400051</id>
-        <link href="https://v.daum.net/v/20230610102400051"/>
-        <updated>2023-06-10T02:46:15.245Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이지현 기자] MBC '나 혼자 산다' 스켈레톤 금메달리스트 윤성빈이 현역 시절 못지않은 칼 같은 자기 관리 일상을 공개해 감탄을 불렀다. 김대호 MBC 아나운서는 출근 전 인근 공원에서 자연을 만끽하고 퇴근 후 나 혼자 고기 파티를 여는 'K-직장인'의 불금 행복 사수기를 공개해 미소와 공감을 자아냈다. 지난 9일 방송된 M]]></content>
     </entry>
 </feed>
