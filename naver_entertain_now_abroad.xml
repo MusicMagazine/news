@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2023-06-10T11:16:37.418Z</updated>
+    <updated>2023-06-10T13:17:10.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['브레이킹 배드' 마이크 바타예, 잠자다 심장마비로 사망…향년 52세]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011906119</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011906119"/>
+        <updated>2023-06-10T13:17:10.100Z</updated>
+        <content type="html"><![CDATA[미국 인기 드라마 '브레이킹 배드'에 출연한 배우 마이크 바타예가 심장마비로 사망했다. 9일(현지시간) 미국 TMZ와 영국 BBC 등 외신에 따르면, 바타예는 지난 1일 미국 미시간주의 자택에서 잠을 자다가 심장마비]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['엘리멘탈' 측 "진실한 감정 담는 게 픽사 영화의 성공 비결"]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004867443</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001258124"/>
         <updated>2023-06-09T14:12:44.208Z</updated>
         <content type="html"><![CDATA[오늘(9일, 현지 시간) 일본에서 개봉한 디즈니 실사판 영화 '인어공주'에 대한 반응이 심상치 않다. 일본 매체 마이도나 뉴스를 비롯해 다수의 외신은 '인어공주'의 흥행 실패를 예상하고 있다. 일본의 대표적인 영화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['토르 아빠' 안소니 홉킨스 "마블 영화 CG 촬영 너무 싫다" [할리웃통신]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001258122</id>
-        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001258122"/>
-        <updated>2023-06-09T14:12:44.209Z</updated>
-        <content type="html"><![CDATA['오딘' 안소니 홉킨스가 마블 영화의 CG 촬영이 너무 싫었다고 고백했다. 외신 연예 매체 더 뉴욕커는 지난 5일(현지 시간) 대배우 안소니 홉킨스와 진행한 인터뷰 내용을 공개했다. 안소니 홉킨스는 2011년 영화]]></content>
     </entry>
 </feed>
