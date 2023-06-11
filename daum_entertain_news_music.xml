@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-06-11T19:10:54.293Z</updated>
+    <updated>2023-06-11T20:16:12.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울이 보랏빛으로…BTS 10주년 페스타 본격 스타트]]></title>
+        <id>https://v.daum.net/v/20230612050128342</id>
+        <link href="https://v.daum.net/v/20230612050128342"/>
+        <updated>2023-06-11T20:15:34.031Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이태수 기자 = 그룹 방탄소년단(BTS) 데뷔 10주년을 맞아 12일부터 서울 곳곳이 팀을 상징하는 보랏빛으로 물드는 'BTS 10th 애니버서리 페스타' 오프라인 이벤트가 본격적으로 시작된다. 소속사 빅히트뮤직 등에 따르면 이날부터 남산서울타워, 세종문화회관, 세빛섬, 동대문디자인플라자(DDP), 롯데월드타워, 서울시청 본관, 반포·월드]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘위버스콘 페스티벌’ 반응 제일 뜨거웠던 무대는 뉴진스…“팬들 너무 보고 싶었다” 소감]]></title>
         <id>https://v.daum.net/v/20230612005209235</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230611185907960"/>
         <updated>2023-06-11T11:15:21.733Z</updated>
         <content type="html"><![CDATA[[티브이데일리 최하나 기자] ‘복면가왕’ 가수 오승원이 복면가수로 펼쳐졌다. 11일 저녁 방송된 MBC 예능프로그램 ‘복면가왕’에서는 복면가수들의 듀엣 대결이 펼쳐졌다. 이날 가만둘 리 없어와 호의가 계속되면의 대결이 이어졌다. 대결 결과 가만둘 리 없어가 호의가 계속되면을 꺾고 다음 라운드 진출에 성공했다. 솔로곡 무대와 함께 공개된 호의가 계속되면은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['복면가왕' 만년필=미래소년 손동표 "국민 남동생 수식어 얻고파"]]></title>
-        <id>https://v.daum.net/v/20230611185507906</id>
-        <link href="https://v.daum.net/v/20230611185507906"/>
-        <updated>2023-06-11T11:15:21.734Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 최하나 기자] ‘복면가왕’ 그룹 미래소년 손동표가 복면가수로 등장했다. 11일 저녁 방송된 MBC 예능프로그램 ‘복면가왕’에서는 복면가수들의 듀엣 대결이 펼쳐졌다. 이날 만년필과 밀크의 대결이 펼쳐졌다. 대결 결과 밀크가 다음 라운드 진출에 성공했다. 솔로곡 무대와 함께 공개된 만년필의 정체는 미래소년의 손동표였다. 손동표는 얻고 싶은]]></content>
     </entry>
 </feed>
