@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 22:14:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 23:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["BTS 10th Anniversary!" 방탄소년단, 오늘 데뷔 10주년 맞았다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=266677</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=266677</guid>
+            <pubDate>Mon, 12 Jun 2023 23:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=266677">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230613072737_bdd3cba76bf4ce9c128c34379745c803.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=266677">"BTS 10th Anniversary!" 방탄소년단, 오늘 데뷔 10주년 맞았다</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230613072737_bdd3cba76bf4ce9c128c34379745c803.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김호중,팬들과 떠난 크루즈 여행 ‘선상의 아리아’ 성료]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=266468</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=264611">초특급 보이그룹 '보이넥스트도어' "화요일 데뷔합니다"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230528072005_578551df88ce67d1b3a7c79e7ad1956c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['2023년 K-팝 기대주' 보이넥스트도어,  ‘One and Only’ 뮤직비디오 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=264325</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=264325</guid>
-            <pubDate>Fri, 26 May 2023 03:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=264325">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230526084704_3f57e9eaa565ddd30003e8943a0a9e23.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=264325">'2023년 K-팝 기대주' 보이넥스트도어,  ‘One and Only’ 뮤직비디오 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230526084704_3f57e9eaa565ddd30003e8943a0a9e23.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
