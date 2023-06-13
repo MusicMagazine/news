@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 23:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 01:08:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 '와일드 그레이' 오늘 본 공연 돌입]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=266760</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=266760</guid>
+            <pubDate>Tue, 13 Jun 2023 01:07:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=266760">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230613100308_efbe3d1615a4ac244663d0024f9828ea.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=266760">뮤지컬 '와일드 그레이' 오늘 본 공연 돌입</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230613100308_efbe3d1615a4ac244663d0024f9828ea.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제3회 K-뮤지컬국제마켓  개최... "뮤지컬 투자활성화와 글로벌 진출을 위하여"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=266582</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=263000">[화보] 뉴진스 다니엘, 패션지 커버 장식 (데이즈드)</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230517073926_0b5d99d97526f2ba80766652fa0ce642.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손여은 배우, 씨엘엔컴퍼니와 전속계약]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=262881</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=262881</guid>
-            <pubDate>Tue, 16 May 2023 08:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=262881">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230516162815_d0ca9d35d969acf49078b6d7e76dd0de.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=262881">손여은 배우, 씨엘엔컴퍼니와 전속계약</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230516162815_d0ca9d35d969acf49078b6d7e76dd0de.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
