@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-06-15T20:18:54.985Z</updated>
+    <updated>2023-06-15T21:12:09.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[씨스타, '기브 잇 투 미'로 여름 강타..'서머 퀸' 귀환]]></title>
+        <id>https://v.daum.net/v/20230616055307815</id>
+        <link href="https://v.daum.net/v/20230616055307815"/>
+        <updated>2023-06-15T21:11:31.543Z</updated>
+        <content type="html"><![CDATA[[편집자주] 추억을 소환할 때면 등장하는 말이 있죠. "라떼는 말이야(나 때는 말이야)~" 최혜진 기자가 10년 전, '라떼' 시절 즐겨듣던 히트곡을 소개합니다. [스타뉴스 | 최혜진 기자] 씨스타/사진=스타쉽 엔터테인먼트걸 그룹 씨스타가(효린 보라 소유 다솜) 2013년 여름을 강타했다. 섹시 콘셉트로 사랑받았던 '서머 퀸'(Summer Queen, 여름]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['美 빌보드' 휩쓴 피프티 피프티, 음원 정산 얼마나 받을까]]></title>
         <id>https://v.daum.net/v/20230616045959140</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230615175810081"/>
         <updated>2023-06-15T10:18:09.585Z</updated>
         <content type="html"><![CDATA[[OSEN=지민경 기자] 그룹 방탄소년단 슈가가 중국 한한령에 대해 언급했다. 슈가는 최근 위버스 라이브를 진행하던 중 한 팬이 중국 투어에 대해 질문하자 “중국에서 공연을 할 수가 없는 데 어떻게 중국 투어를 하지”라고 반문하며 “한국 가수 중 중국에서 공연하는 사람이 있나 없을 텐데”라고 답했다. 그는 “아미가 있는 곳이라면 어디든 가서 공연하고 싶]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VAV, 밴드 버전 '디자이너' 최초 공개 '완벽 라이브']]></title>
-        <id>https://v.daum.net/v/20230615175458915</id>
-        <link href="https://v.daum.net/v/20230615175458915"/>
-        <updated>2023-06-15T10:18:09.586Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 명희숙 기자) 그룹 VAV(브이에이브이)가 완벽한 라이브를 선보였다. 15일 오후 5시 유튜브 채널 ‘잇츠 라이브’(it’s Live)를 통해 VAV의 ‘Designer’ 밴드 버전 라이브 무대가 베일을 벗었다. 밴드 세션과 함께 선보인 ‘Designer’ 무대에서 VAV는 안정적인 보컬 실력을 자랑하는가 하면, 치명적이면서도 귀여운 매력을]]></content>
     </entry>
 </feed>
