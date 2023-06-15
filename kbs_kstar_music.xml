@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 21:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 23:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["기록하고, 기념하고" 방탄소년단 데뷔 10주년 기념 도서 'BEYOND THE STORY' ..내달 9일 발간]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=267231</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=267231</guid>
+            <pubDate>Thu, 15 Jun 2023 23:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=267231">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230616062211_e1a37b9800aa0b45d39762d71217d43d_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=267231">"기록하고, 기념하고" 방탄소년단 데뷔 10주년 기념 도서 'BEYOND THE STORY' ..내달 9일 발간</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230616062211_e1a37b9800aa0b45d39762d71217d43d_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다크비(DKB) 컴백, 미니 6집 ‘I Need Love’(아이 닛 럽)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=266920</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=264894">[현장] 똑똑똑!  보이넥스트도어 데뷔 ...  “하이브 막내,  KOZ는 다르다"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230530161703_6f13cc5ff2d38dde53a9cb29b533e9a4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[씨엔블루 정용화, ‘ALL-ROUNDER’ 단독 콘서트 성료]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=264866</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=264866</guid>
-            <pubDate>Tue, 30 May 2023 01:00:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=264866">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230530075930_8879d57483a53cdeec320f4de0f81d20.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=264866">씨엔블루 정용화, ‘ALL-ROUNDER’ 단독 콘서트 성료  </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230530075930_8879d57483a53cdeec320f4de0f81d20.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
