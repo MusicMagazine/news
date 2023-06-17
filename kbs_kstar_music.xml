@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Jun 2023 22:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jun 2023 23:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["방탄소년단과 함께한 10년" 김남준과 아미들, 여의도에서 자축... ‘BTS 10th Anniversary FESTA @여의도’ 개최]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=267442</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=267442</guid>
+            <pubDate>Sat, 17 Jun 2023 23:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=267442">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230618073913_70ce524f03225014629995c315020bee.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=267442">"방탄소년단과 함께한 10년" 김남준과 아미들, 여의도에서 자축... ‘BTS 10th Anniversary FESTA @여의도’ 개최</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230618073913_70ce524f03225014629995c315020bee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["기록하고, 기념하고" 방탄소년단 데뷔 10주년 기념 도서 'BEYOND THE STORY' ..내달 9일 발간]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=267231</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=265105">황치열, 6월 신보 발매..  미니5집 'GIFT' </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230531113919_deb1bf68000f3d61c9eb8cebb8a11b5c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장] 똑똑똑!  보이넥스트도어 데뷔 ...  “하이브 막내,  KOZ는 다르다"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=264894</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=264894</guid>
-            <pubDate>Tue, 30 May 2023 08:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=264894">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230530161703_6f13cc5ff2d38dde53a9cb29b533e9a4.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=264894">[현장] 똑똑똑!  보이넥스트도어 데뷔 ...  “하이브 막내,  KOZ는 다르다"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230530161703_6f13cc5ff2d38dde53a9cb29b533e9a4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
