@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-06-18T14:15:09.842Z</updated>
+    <updated>2023-06-18T15:12:21.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브루노마스, 9년 만 내한에 잠실벌 들썩]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000894238</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000894238"/>
+        <updated>2023-06-18T15:12:05.213Z</updated>
+        <content type="html"><![CDATA[팝스타 브루노 마스(28)의 내한 공연이 17~18일 양일에 걸쳐 서울 잠실종합운동장 올림픽주경기장에서 개최됐다. 브루노 마스는 “이 자리에 오기까지 너무 먼 길을 돌아왔다”며 9년 만의 만남임을 상기시킨 그는 이틀]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“보고 싶어요 베이비”…브루노 마스, 현장 뒤집은 센스 있는 개사]]></title>
         <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003282374</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003160654"/>
         <updated>2023-06-18T10:14:54.864Z</updated>
         <content type="html"><![CDATA[방송인 전현무가 메인 MC 선발' 면접장에서 맨발 투혼을 펼치는 장면이 포착됐다. 18일 오후 10시 45분에 방송되는 MBC '안하던 짓을 하고 그래'(이하 '안하던 짓') 2회는 대세 예능 MC로 거듭나기를 소망]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HK직캠｜더뉴식스 은휘, '교복 입고 멋진 모습으로 등장' (뮤직뱅크 출근길)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004857402</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004857402"/>
-        <updated>2023-06-18T10:14:54.867Z</updated>
-        <content type="html"><![CDATA[그룹 더뉴식스(TNX) 은휘가 16일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content>
     </entry>
 </feed>
