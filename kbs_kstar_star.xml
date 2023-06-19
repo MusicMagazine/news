@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 01:05:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 02:41:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 ‘22년 2개월’ "박열과 가네코 후미코, 사랑과 신념..  8월 개막]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=267580</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=267580</guid>
+            <pubDate>Mon, 19 Jun 2023 02:40:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=267580">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230619102220_c145c10d50e712f99389cf5a4c46625b.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=267580">뮤지컬 ‘22년 2개월’ "박열과 가네코 후미코, 사랑과 신념..  8월 개막 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230619102220_c145c10d50e712f99389cf5a4c46625b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023서울국제도서전 "책 속에 길이 있고, 책 밖에 사람이 있다"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=267523</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=263348">"그날의 그들이, 다시 그 자리에..." ​ 뮤지컬 '그날들' 7월 예술의전당 개막 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230519152455_70d6481c0d0a2416d12a7ea780f83536.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["솔로들을 위한 판" SLL 웹예능 ‘헌팅걸’ 시즌2... 이은지 돌아왔다]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=263313</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=263313</guid>
-            <pubDate>Fri, 19 May 2023 06:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=263313">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230519142955_3cad2df22dffcaa52fa4a2d6e3e0e617.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=263313">"솔로들을 위한 판" SLL 웹예능 ‘헌팅걸’ 시즌2... 이은지 돌아왔다</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230519142955_3cad2df22dffcaa52fa4a2d6e3e0e617.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
