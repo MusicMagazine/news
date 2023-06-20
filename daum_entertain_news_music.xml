@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-06-20T03:13:43.559Z</updated>
+    <updated>2023-06-20T04:18:48.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오마이걸 아린, 자립준비 청년 위해 2000만원 기부 "진심 응원"]]></title>
+        <id>https://v.daum.net/v/20230620131431124</id>
+        <link href="https://v.daum.net/v/20230620131431124"/>
+        <updated>2023-06-20T04:18:16.240Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 윤상근 기자] /사진=아린 걸그룹 오마이걸 멤버 아린이 지난 18일 생일을 맞아 아름다운재단에 2000만원을 기부했다. 아린은 20일 자신의 생일을 맞아 아름다운재단에 2000만원을 기부했다고 밝혔다. 기부금은 자립준비청년들의 건강한 홀로서기를 위해 사용될 예정이다. 자립준비청년을 응원하는 아린의 나눔은 이번이 3번째다. 지난 2021]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[레인보우 노트 ‘Summer party’ 발매, 청량한 시즌송]]></title>
         <id>https://v.daum.net/v/20230620114235551</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230620095753498"/>
         <updated>2023-06-20T01:05:47.868Z</updated>
         <content type="html"><![CDATA[(사진=스윙엔터테인먼트)[이데일리 스타in 윤기백 기자] 가수 김재환이 ‘J.A.M’ 있는 여정을 시작한다. 김재환은 20일 오후 6시 각종 음원 사이트를 통해 미니 6집 ‘잼’(J.A.M)을 발매한다. ‘잼’은 ‘Journey Above Music’의 약자로, ‘음악 그 이상을 향한 새로운 여정’이라는 의미를 담고 있다. 김재환은 꿈을 이룬 지금도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단 군백기 스타트..변화하는 K팝 빌보드 지형도]]></title>
-        <id>https://v.daum.net/v/20230620093006453</id>
-        <link href="https://v.daum.net/v/20230620093006453"/>
-        <updated>2023-06-20T01:05:47.869Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 윤상근 기자]  /사진제공=빅히트뮤직 얼마 전 10주년을 맞이한 방탄소년단(BTS, RM 진 지민 제이홉 슈가 뷔 정국)이 맏형 진을 시작으로 본격적인 현역 입대 러시 버튼을 누름으로써 장기간의 군백기에 돌입한 가운데 이른바 '방탄소년단 일변도'로 흘러가던 빌보드 차트에서의 K팝 지형도는 자연스럽게 세대교체와 변화의 바람을 맞이하고 있는 중이]]></content>
     </entry>
 </feed>
