@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-06-20T20:20:57.389Z</updated>
+    <updated>2023-06-20T21:14:11.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘창빈·방찬·한’ 쓰리라차, 스트레이 키즈 음악의 ‘성장 원동력’]]></title>
+        <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003282953</id>
+        <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003282953"/>
+        <updated>2023-06-20T21:13:43.463Z</updated>
+        <content type="html"><![CDATA[그룹 스트레이 키즈의 성장엔 쓰리라차가 있다. 스트레이 키즈는 JYP엔터테인먼트(이하 JYP)의 대표그룹으로 성장하며 큰 인기를 누리고 있다. 이들이 지난 2일 발매한 정규 3집 ‘파이브 스타’는 K팝 최초 음반 선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[석광인의 성인가요]밴드신의 미래 주역 발굴…서울 국제 아마추어밴드 페스티벌 개최]]></title>
         <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003282952</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000894714"/>
         <updated>2023-06-20T14:12:12.787Z</updated>
         <content type="html"><![CDATA[걸그룹 첫사랑(CSR)이 벨기에 현지를 뜨겁게 달궜다. 첫사랑(수아, 금희, 시현, 서연, 유나, 두나, 예함)은 지난 17일, 18일(현지시각) 벨기에 브뤼셀 브루케르 광장(Place de Brouckere)에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘7월 컴백’ 아일리원(ILY:1), 데뷔 첫 ‘드림콘서트’ 완벽 퍼포먼스로 채웠다]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000894711</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000894711"/>
-        <updated>2023-06-20T14:12:12.788Z</updated>
-        <content type="html"><![CDATA[걸그룹 아일리원(ILY:1)이 ‘드림콘서트’를 성공적으로 마쳤다. 아일리원(아라, 리리카, 하나, 로나, 나유, 엘바)은 지난 18일 일본 사이타마 슈퍼아레나에서 개최된 ‘2023 드림콘서트 in JAPAN(이하 드]]></content>
     </entry>
 </feed>
