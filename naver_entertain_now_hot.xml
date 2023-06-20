@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2023-06-20T18:14:12.114Z</updated>
+    <updated>2023-06-20T19:12:28.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안효섭, 의사 가운 벗은 낭만 여행자 [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001058552</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0001058552"/>
+        <updated>2023-06-20T19:12:19.380Z</updated>
+        <content type="html"><![CDATA[배우 안효섭이 의사 가운을 벗고 낭만 여행자로 변신했다. 안효섭은 패션 라이프스타일 잡지 얼루어 코리아(Allure Korea) 7월호 커버 모델로 선정돼 하와이에서 화보 촬영을 진행했다. 여행의 낭만과 즐거움이 물]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배너 “알바하다 ‘피크타임’ 우승, 오래 타는 장작불되고파” [화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001058551</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0004021968"/>
         <updated>2023-06-20T14:12:21.349Z</updated>
         <content type="html"><![CDATA[골육종 투병중인 열살 소녀는 휠체어에 앉아서 아이브를 보며 활짝 웃었다. "믿기지 않는 행복한 하루였어요!"라는 말과 함께 연신 웃음을 터뜨렸다. 아이브의 숨은 선행이 훈훈한 감동을 주고 있다. 최근 투병 중 대부분]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘GD 매형’ 김민준, ♥권다미와 첫만남 공개... “소개팅 전 길에서 마주쳐” (‘돌싱포맨’) [종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=009&amp;aid=0005146918</id>
-        <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0005146918"/>
-        <updated>2023-06-20T14:12:21.351Z</updated>
-        <content type="html"><![CDATA[‘돌싱포맨’ 배우 김민준이 아내 권다미와의 첫만남을 공개했다. 20일 방송된 SBS 예능프로그램 ‘신발 벗고 돌싱포맨’(이하 ‘돌싱포맨’)에서는 ‘연예계 절친’ 배우 김민준, 개그맨 허경환이 게스트로 출연하는 모습이]]></content>
     </entry>
 </feed>
