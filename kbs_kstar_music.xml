@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 21:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 01:09:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 오피셜북 ‘BEYOND THE STORY’ … “우리에게는 목표가 있어!”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=267896</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=267896</guid>
+            <pubDate>Wed, 21 Jun 2023 01:07:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=267896">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230621072921_b0415df46794f7f470c25651920612fe.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=267896">방탄소년단 오피셜북 ‘BEYOND THE STORY’ … “우리에게는 목표가 있어!”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230621072921_b0415df46794f7f470c25651920612fe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[7월의 뉴진스, 새 앨범 ‘Get Up’ 발매]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=267603</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=265704">슈가 월드투어, 'SUGA | Agust D TOUR D-DAY' 일본 공연 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230605094347_27aa96f11f5ae31cc37bd4d6f59d4718.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[일문일답] 황치열 'GIFT' 컴백,  "황치열님으로부터 선물, 도착했습니다~~"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=265282</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=265282</guid>
-            <pubDate>Thu, 01 Jun 2023 08:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=265282">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230601162057_ceb949ac4393c7cf0d86ad6c3e45b376.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=265282">[일문일답] 황치열 'GIFT' 컴백,  "황치열님으로부터 선물, 도착했습니다~~"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230601162057_ceb949ac4393c7cf0d86ad6c3e45b376.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
