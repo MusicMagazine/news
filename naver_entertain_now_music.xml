@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-06-21T17:16:38.239Z</updated>
+    <updated>2023-06-21T18:20:08.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘1theK’ 일본 가수 이마세 ‘700만뷰’·미국 연예인 깜짝 등장]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000895038</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000895038"/>
+        <updated>2023-06-21T18:19:47.725Z</updated>
+        <content type="html"><![CDATA[카카오엔터테인먼트의 글로벌 대표 K팝 미디어 ‘1theK(원더케이)’가 강력한 글로벌 영향력과 오리지널 콘텐츠 기획 제작 역량을 인정받으며, 국내는 물론 해외 아티스트들에게도 러브콜을 받고 있다고 21일 전했다. 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대한민국 1세대 재즈 보컬리스트 김준 헌정 앨범 ‘What a Wonderful World - A Tribute to Kim Jun’]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000895036</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004859087</id>
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004859087"/>
         <updated>2023-06-21T15:17:14.606Z</updated>
-        <content type="html"><![CDATA[가수 백예빈이 21일 오후 경기도 고양시 MBC 드림센터에서 열린 MBC M '쇼 챔피언' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 백예빈, '애교 가득한 미소~']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004859086</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004859086"/>
-        <updated>2023-06-21T15:17:14.607Z</updated>
         <content type="html"><![CDATA[가수 백예빈이 21일 오후 경기도 고양시 MBC 드림센터에서 열린 MBC M '쇼 챔피언' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
     </entry>
 </feed>
