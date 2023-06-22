@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-06-22T17:11:20.673Z</updated>
+    <updated>2023-06-22T18:15:10.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[라필루스, 인형극처럼 뻔한건 지겨워 'Marionette' 무대]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003743022</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003743022"/>
+        <updated>2023-06-22T18:14:49.973Z</updated>
+        <content type="html"><![CDATA[걸그룹 라필루스(샨티, 샤나, 유에, 베시, 서원, 하은)가 21일 오후 서울 강서구 렘넌트문화센터에서 진행된 두 번째 미니앨범 '걸스 라운드 파트 2(GIRL's ROUND Part. 2)' 발표 기념 미디어 쇼케]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[13m 초대형 아기상어, 부산 수영강에 뜬다···더핑크퐁컴퍼니-부산광역시, ‘2023 아기상어 부산 페스티벌’]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000895321</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000895276"/>
         <updated>2023-06-22T13:15:46.015Z</updated>
         <content type="html"><![CDATA[가수 영탁의 첫 정규앨범 ‘MMM’ 8번 트랙 ‘찬찬히’ 유튜브 음원이 300만뷰를 돌파한 것으로 22일 전해졌다. ‘MMM’에 실린 많은 곡이 그렇듯이 ‘찬찬히’ 역시 영탁과 그의 음악적 동반자 지광민이 작사·작곡]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱어송라이터 범진, 촉촉한 새 노래 ‘비는 내리고’ 발매]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000895274</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000895274"/>
-        <updated>2023-06-22T13:15:46.016Z</updated>
-        <content type="html"><![CDATA[싱어송라이터 범진이 신곡 ‘비는 내리고’로 ‘월간 범진’을 이어간다. 범진은 22일 각종 음원사이트를 통해 디지털 싱글 ‘비는 내리고’를 발매했다. ‘비는 내리고’는 비가 내리면 생각나는 그때의 사랑하는 사람들을 회]]></content>
     </entry>
 </feed>
