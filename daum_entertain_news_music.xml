@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-06-22T09:17:16.530Z</updated>
+    <updated>2023-06-22T10:13:37.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여자친구 예린, 1년 만에 돌아온다…빌엔터 첫 컴백 주자]]></title>
+        <id>https://v.daum.net/v/20230622183013844</id>
+        <link href="https://v.daum.net/v/20230622183013844"/>
+        <updated>2023-06-22T10:12:59.169Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 그룹 여자친구 출신 예린이 컴백한다. 21일 오후 6시 소속사 빌엔터테인먼트는 공식 유튜브 채널을 통해 예린의 커밍업 티저 영상을 공개했다. 커밍업 티저에는 예린의 영문 로고가 서서히 새겨지며 베일에 쌓였던 빌엔터 첫 컴백 주자가 예린임을 알렸다. 약 1년 만에 전해진 예린의 컴백 소식인 만큼 팬들의 기대감을 한껏 끌어올렸다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["쉼없이 써 내려간" 장민호의 '인생일기'…담담한 위로]]></title>
         <id>https://v.daum.net/v/20230622180011075</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230622155508058"/>
         <updated>2023-06-22T07:12:06.437Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 보이그룹 피원하모니(P1Harmony, 기호 테오 지웅 인탁 소울 종섭)가 미니 6집 앨범 활동을 성공적으로 마무리했다. 피원하모니는 6월 21일 MBC M ‘쇼! 챔피언’을 끝으로 미니 6집 ‘HARMONY : ALL IN’ 공식 활동에 마침표를 찍었다. 이들은 다양한 활동을 통해 자신들만의 매력을 유감없이 발휘했을 뿐만 아니라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[활동 종료 맞아? 아이브, 12주연속 美 빌보드 글로벌 차트 진입]]></title>
-        <id>https://v.daum.net/v/20230622155225927</id>
-        <link href="https://v.daum.net/v/20230622155225927"/>
-        <updated>2023-06-22T07:12:06.439Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 아이브(안유진, 가을, 레이, 장원영, 리즈, 이서)가 빌보드 차트에서도 롱런 중이다. 6월 21일(현지시간) 미국 음악 매체 빌보드가 발표한 최신 차트(6월 24일 자)에 따르면 아이브는 첫 번째 정규 앨범 '아이해브 아이브(I've IVE)' 더블 타이틀곡 '아이엠(I AM)'과 '키치(Kitsch)'로 글로벌 차트에 이름]]></content>
     </entry>
 </feed>
