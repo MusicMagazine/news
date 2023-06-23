@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2023-06-23T16:23:58.943Z</updated>
+    <updated>2023-06-23T17:13:26.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[종합] ‘나혼산’ 기안84, 전현무에 ‘고민 상담’... 노래방서 감정 북받쳐 ‘눈물’]]></title>
+        <title type="html"><![CDATA[싸이커스 “무대 통해 증명하겠다” 자유분방 소년美 [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001059242</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0001059242"/>
+        <updated>2023-06-23T17:13:13.768Z</updated>
+        <content type="html"><![CDATA[그룹 싸이커스(xikers)가 데뷔 후 첫 국내 화보를 촬영했다. 사진 속 싸이커스는 신인이라고 믿기 어려울만큼 자연스러운 포즈와 다채로운 표정으로 시선을 사로잡았다. 멤버들은 깔끔한 티셔츠와 청바지만으로도 팬들의]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[종합] ‘나혼산’ 기안84, 전현무에 ‘고민 상담’→ 노래방서 감정 북받쳐 ‘눈물’]]></title>
         <id>https://entertain.naver.com/now/read?oid=009&amp;aid=0005148761</id>
         <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0005148761"/>
         <updated>2023-06-23T16:23:48.574Z</updated>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0005148747"/>
         <updated>2023-06-23T13:23:05.510Z</updated>
         <content type="html"><![CDATA[골키퍼 전쟁의 승자는 누가 될까. 25일 오후 8시 20분에 방송되는 JTBC ‘뭉쳐야 찬다 2’에서는 대한민국 레전드 골키퍼 김병지가 ‘어쩌다벤져스’의 골키퍼 이형택, 김동현, 한건규와 특훈을 진행한다. 서울 대회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘김병지가 보고 있다’ 이형택vs김동현vs한건규, 무한 골키퍼 대전 (뭉찬2)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001059238</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0001059238"/>
-        <updated>2023-06-23T13:23:05.511Z</updated>
-        <content type="html"><![CDATA[‘키퍼즈’ 이형택, 김동현, 한건규의 키퍼대전이 시작된다. 오는 25일 오후 8시 20분에 방송되는 JTBC ‘뭉쳐야 찬다 2’에서는 대한민국 레전드 골키퍼 김병지가 ‘어쩌다벤져스’의 골키퍼 이형택, 김동현, 한건규]]></content>
     </entry>
 </feed>
