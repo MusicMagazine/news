@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-06-24T14:14:32.085Z</updated>
+    <updated>2023-06-24T16:19:27.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘2023 서울파크뮤직페스티벌’ 첫날 공연 성료]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000895652</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000895652"/>
+        <updated>2023-06-24T16:19:10.147Z</updated>
+        <content type="html"><![CDATA[도심으로 떠나는 뮤직 피크닉 ‘2023년 서울 파크 뮤직 페스티벌’(이하 파크뮤직 페스티벌)이 24일 서울 송파구 올림픽공원에서 개막됐다. 메인무대인 88잔디마당 파크 스테이지와 서브 무대인 88호수수변무대어쿠스틱]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에잇턴, 신곡 ‘엑셀’ 뮤직비디오 티저 공개 ‘올드스쿨 힙합+하드록’]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000895648</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003283720"/>
         <updated>2023-06-24T07:13:13.296Z</updated>
         <content type="html"><![CDATA[‘기적의 소녀들’ 피프티 피프티가 외부세력 개입 논란으로 구설에 올랐지만, 해외 음원차트순위에서 또 신기록을 쓰며 변함없는 저력을 입증했다. 피프티 피프티의 ‘큐피드’(Cupid)는 23일자 영국 ‘오피셜 싱글 차트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘트바로티’ 김호중, TV조선서 추석특집 단독쇼 “긍정 검토 중”]]></title>
-        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000955266</id>
-        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000955266"/>
-        <updated>2023-06-24T07:13:13.299Z</updated>
-        <content type="html"><![CDATA[가수 김호중. 제공 | 생각엔터테인먼트 ‘트바로티’ 김호중이 2023년 추석을 맞아 TV조선과 단독쇼 론칭을 긍정 검토 중이다. 24일 소속사 생각엔터테인먼트에 따르면 김호중은 TV조선과 추석 특집 단독쇼 론칭에 대]]></content>
     </entry>
 </feed>
