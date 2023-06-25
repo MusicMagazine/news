@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-06-25T03:10:32.342Z</updated>
+    <updated>2023-06-25T04:17:30.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[판타지 보이즈, 일본서 부는 인기 열풍]]></title>
+        <id>https://v.daum.net/v/20230625122654207</id>
+        <link href="https://v.daum.net/v/20230625122654207"/>
+        <updated>2023-06-25T04:16:55.855Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민우 기자] 판타지 보이즈(FANTASY BOYS) 일본 내 인기가 무서운 속도로 급증하고 있다. 최근 종영한 MBC ‘소년판타지 – 방과후 설렘 시즌2’(이하 ‘소년판타지’)가 일본 OTT 아베마를 통해 방영된 후 최종 데뷔조 FANTASY BOYS(판타지 보이즈)에 대한 일본 팬들의 관심이 배가 되고 있다. 그룹 FANTASY BOYS(판]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[허각, 신곡 ‘그냥 할게’ 발매]]></title>
         <id>https://v.daum.net/v/20230625112639215</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230624212301782"/>
         <updated>2023-06-24T12:23:41.066Z</updated>
         <content type="html"><![CDATA[[싱어송라이터 차여울] 쿠바행 티켓을 끊은 것은 다분히 충동적인 시작이었다. 페루 쿠스코에서 호기심에 잠깐 들렸던 살사 바에서, 살사라면 쿠바가 최고라는 어느 지나가는 관광객의 말에 이끌린 탓이다. 첫 날 수도 아바나에 도착하여 시내로 나갔을 때 들려오던 음악소리를 잊을 수 없다. 수많은 사람들 속에서 거리공연을 하고 있는 브라스 밴드가 있었다. 밴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['불후' 서문탁, 록의 진수…김동현 꺾고 최종 우승]]></title>
-        <id>https://v.daum.net/v/20230624200123115</id>
-        <link href="https://v.daum.net/v/20230624200123115"/>
-        <updated>2023-06-24T12:23:41.076Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김한길 기자] '불후의 명곡' 서문탁이 우승의 기쁨을 맛봤다. 24일 저녁 방송된 KBS2 예능프로그램 '불후의 명곡'(이하 '불후')에서는 조장혁 서문탁, 정인, 윤하, 김필, 포레스텔라, 김준수, 김기태, 윤성, 김동현 등이 출연해 '더 라스트 송(The Last Song)’ 특집으로 꾸며졌다. 이번 '더 라스트 송' 특집은 '가수 인]]></content>
     </entry>
 </feed>
