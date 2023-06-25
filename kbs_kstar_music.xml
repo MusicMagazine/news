@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Jun 2023 22:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jun 2023 23:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슈가, 1만 5천여 관객과 함께 한  ‘D-DAY’ 서울 공연... ‘SUGA | Agust D TOUR ‘D-DAY’ in SEOUL’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=268557</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=268557</guid>
+            <pubDate>Sun, 25 Jun 2023 23:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=268557">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230626073244_0a792a75cba88526399639df7b0da606.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=268557">슈가, 1만 5천여 관객과 함께 한  ‘D-DAY’ 서울 공연... ‘SUGA | Agust D TOUR ‘D-DAY’ in SEOUL’   </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230626073244_0a792a75cba88526399639df7b0da606.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 오피셜북 ‘BEYOND THE STORY’ … “우리에게는 목표가 있어!”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=267896</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=265922">블랙핑크, 'BORN PINK' 일본 투어 성료</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230606192130_b1a8a431a7e1436a1588cff1fede891e.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[슈가 월드투어, 'SUGA | Agust D TOUR D-DAY' 일본 공연]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=265704</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=265704</guid>
-            <pubDate>Mon, 05 Jun 2023 01:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=265704">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230605094347_27aa96f11f5ae31cc37bd4d6f59d4718.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=265704">슈가 월드투어, 'SUGA | Agust D TOUR D-DAY' 일본 공연 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230605094347_27aa96f11f5ae31cc37bd4d6f59d4718.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
