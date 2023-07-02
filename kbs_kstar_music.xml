@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jul 2023 22:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jul 2023 23:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[투모로우바이투게더, 일본 교세라 돔 오사카 공연]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=269475</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=269475</guid>
+            <pubDate>Sun, 02 Jul 2023 23:12:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=269475">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230703073231_9d65b5ef4433352c572d9c2a8f9fa47f.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=269475">투모로우바이투게더, 일본 교세라 돔 오사카 공연</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230703073231_9d65b5ef4433352c572d9c2a8f9fa47f.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[BTS 정국의 여름 노래, 내달 14일 솔로 싱글 'Seven' 발표]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=269160</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=266206">2PM 우영, 일본 부도칸 솔로 투어 공연 'Off the record'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230608112736_70439c695157552e07ea88fc949476b1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[알렉사 디지털 싱글 '줄리엣'으로 9일 컴백]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=266012</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=266012</guid>
-            <pubDate>Wed, 07 Jun 2023 21:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=266012">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230607072612_e6108db6e4c5b02f43c7c139c6f4b04d_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=266012"> 알렉사 디지털 싱글 '줄리엣'으로 9일 컴백</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230607072612_e6108db6e4c5b02f43c7c139c6f4b04d_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
