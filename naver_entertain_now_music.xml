@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-07-04T18:21:13.079Z</updated>
+    <updated>2023-07-04T20:16:48.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[친구여, 건배! 이찬원 '건배' 음원영상 300만뷰]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003164747</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003164747"/>
+        <updated>2023-07-04T20:16:31.279Z</updated>
+        <content type="html"><![CDATA[가수 이찬원의 '건배' 음원 영상이 300만 뷰를 돌파하며 인기를 빛냈다. 지난 2월 20일 이찬원 공식 유튜브 채널에 공개된 '건배' 음원 영상은 7월 4일 기준 300만 뷰를 넘어섰다. 이찬원 첫 정규 앨범 'O]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스트레이키즈·NCT·이펙스·ATBO·싸이커스, ‘2023 K 글로벌 하트 드림 어워즈’ 뜬다]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000897866</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004864249"/>
         <updated>2023-07-04T14:16:58.250Z</updated>
         <content type="html"><![CDATA[그룹 틴탑(Teentop) 리키가 4일 오후 서울 광장동 예스24 라이브홀에서 열린 새 앨범 'TEEN TOP [4SHO](틴탑 [포슈어])' 발매 기념 쇼케이스에 참석해 포토타임을 갖고 있다. 타이틀곡 ‘휙’은 펑]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 틴탑 천지, '부드러운 미소로 손가락 하트~']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004864248</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004864248"/>
-        <updated>2023-07-04T11:16:02.692Z</updated>
-        <content type="html"><![CDATA[그룹 틴탑(Teentop) 천지가 4일 오후 서울 광장동 예스24 라이브홀에서 열린 새 앨범 'TEEN TOP [4SHO](틴탑 [포슈어])' 발매 기념 쇼케이스에 참석해 포토타임을 갖고 있다. 타이틀곡 ‘휙’은 펑]]></content>
     </entry>
 </feed>
