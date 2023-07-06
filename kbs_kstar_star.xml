@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 02:59:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 04:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신예 윤종빈, AIMC와 전속 계약]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=270173</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=270173</guid>
+            <pubDate>Thu, 06 Jul 2023 04:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=270173">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230706130624_ef71ae30fb556881cc833967d33765fd.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=270173">신예 윤종빈, AIMC와 전속 계약 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230706130624_ef71ae30fb556881cc833967d33765fd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["뮤지컬 말고 연극" 빅스 레오,  '테베랜드' 첫 공연 성료]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=269262</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=264726">[화보] 조아람 '닥터 전소라' 매거진 '얼루어' 화보</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230529074609_5a41c510b946af04a4187b327a47e345.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["안중근의 노래는 계속된다" 뮤지컬 '양웅' 지방투어 시작]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=264303</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=264303</guid>
-            <pubDate>Thu, 25 May 2023 23:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=264303">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230526073032_c481b812cbf6926c720fb1ca8c6a9415_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=264303">"안중근의 노래는 계속된다" 뮤지컬 '양웅' 지방투어 시작 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230526073032_c481b812cbf6926c720fb1ca8c6a9415_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
