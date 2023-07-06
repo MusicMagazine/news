@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-07-06T13:31:53.332Z</updated>
+    <updated>2023-07-06T15:17:12.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[관악구 스트리트 댄스 축제 ‘2023 G.I.G  페스티벌’ 6만 글로벌 관객 운집]]></title>
+        <id>https://v.daum.net/v/20230706225723818</id>
+        <link href="https://v.daum.net/v/20230706225723818"/>
+        <updated>2023-07-06T15:16:37.295Z</updated>
+        <content type="html"><![CDATA[관악구가 축제로 물들고, 춤으로 진동했다. 지난 1일부터 2일까지 별빛내림천(도림천)에서 양일간 개최된 ‘2023 G.I.G Festival’이 6만여 명의 인파를 동원했다. 관악구(구청장 박준희)가 주최하고 관악문화재단(대표이사 차민태)이 주관하는 ‘2023 G.I.G Festival’은 관악구가 ‘가장 젋고 힘찬 청년특별시’를 표방하는 만큼, 청]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["속도위반 NO"…노라조 원흠, 조빈 현금 선물받고 '8월 결혼']]></title>
         <id>https://v.daum.net/v/20230706205004846</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230706161421263"/>
         <updated>2023-07-06T07:17:59.232Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 르세라핌(김채원, 사쿠라, 허윤진, 카즈하, 홍은채)이 데뷔 후 처음으로 영어 가창 곡을 발표했다. 르세라핌은 7월 6일 오후 1시 ‘이브, 프시케 그리고 푸른 수염의 아내 (English Ver.)’를 발매했다. 멤버 허윤진은 정규 1집 ‘UNFORGIVEN’의 수록곡 ‘이브, 프시케 그리고 푸른 수염의 아내’의 가사를 직]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피프티 피프티 저작권자 바꿔치기?..안성일의 꼼수인가 권리인가]]></title>
-        <id>https://v.daum.net/v/20230706160518826</id>
-        <link href="https://v.daum.net/v/20230706160518826"/>
-        <updated>2023-07-06T07:17:59.232Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자] 그룹 피프티 피프티가 소속사 어트랙트와 전속계약 갈등을 빚고 있는 가운데, 용역 업체 더기버스 측의 저작권자 바꿔치기의혹이 불거져 파장이 일고 있다. 더기버스 측은 문제가 없다는 1차 입장 이외에 추가적인 입장은 밝히지 않겠다는 방침이다. 6일 한 매체는 더기버스 안성일 대표가 꼼수로 피프티 피프티의 ‘큐피드(Cupid)’ 저작]]></content>
     </entry>
 </feed>
