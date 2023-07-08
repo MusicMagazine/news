@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-07-08T09:12:59.097Z</updated>
+    <updated>2023-07-08T10:18:26.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[샤이니, '음중' 1위로 3관왕 달성 "오랜만 컴백, 한결같은 팬 감사해"]]></title>
+        <id>https://v.daum.net/v/20230708181316842</id>
+        <link href="https://v.daum.net/v/20230708181316842"/>
+        <updated>2023-07-08T10:17:54.041Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김나연 기자) 그룹 샤이니가 에스파, 임영웅을 제치고 1위를 차지했다. 8일 방송된 MBC '쇼! 음악중심'에서는 샤이니가 1위를 차지했다. 이날 1위 후보로는 에스파, 임영웅이 오른 가운데, 1위 트로피는 샤이니가 거머쥐게 됐다. 샤이니 태민은 "오랜만에 컴백해서 여러분 앞에서 무대에 서게 됐는데 긴 시간 동안 한결같이 사랑해주시는 샤이니]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전소연 아닌 민니가 만든, '몽환의 정석' 노래들]]></title>
         <id>https://v.daum.net/v/20230708175002532</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230708115015445"/>
         <updated>2023-07-08T02:59:35.400Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) ([엑's 인터뷰②]에 이어) 전설의 뮤직페스티벌 '우드스탁 뮤직 앤 아트페어 2023(WOODSTOCK MUSIC &amp; ART FESTIVAL, 이하 '우드스탁 2023')은 타이틀이 곧 역사 그 자체다.&nbsp; '우드스탁 2023'이 경기 포천 한탄강 다목적광장 일대에서 펼쳐지는 이달 28일부터 30일까지 펼쳐진다. 도심을 벗어나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김은수 대표 "태양이 밴드셋…왜 아이돌이 '우드스탁'에?"]]></title>
-        <id>https://v.daum.net/v/20230708115008443</id>
-        <link href="https://v.daum.net/v/20230708115008443"/>
-        <updated>2023-07-08T02:59:35.406Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) ([엑's 인터뷰①]에 이어) 전설의 뮤직페스티벌 '우드스탁 뮤직 앤 아트페어 2023(WOODSTOCK MUSIC &amp; ART FESTIVAL, 이하 '우드스탁 2023')에 국내외 유명 아티스트들이 총출동해 자유와 평화를 노래한다.&nbsp; 이달 28일부터 30일까지 경기 포천 한탄강 다목적광장 일대에서 펼쳐지는 '우드스탁 2023']]></content>
     </entry>
 </feed>
