@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-07-10T16:20:36.423Z</updated>
+    <updated>2023-07-10T17:14:54.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[록밴드 해리빅버튼, 정규앨범 ‘빅피쉬 Big Fish’ 발매]]></title>
+        <id>https://v.daum.net/v/20230711012003771</id>
+        <link href="https://v.daum.net/v/20230711012003771"/>
+        <updated>2023-07-10T17:14:23.377Z</updated>
+        <content type="html"><![CDATA[록 밴드 해리빅버튼은 데뷔 12주년을 맞아 정규 3집 앨범인 “빅피쉬(Big Fish)”를 오늘 정오 공개한다. 앨범은 10편의 다채로운 영화에서 영감을 받아 각 트랙마다 독특한 스타일과 다양한 감정을 담고 있다. 팬데믹이라는 긴 터널을 지나오면서 수많은 공연이 취소되고 앨범 작업이 중단되기도 하였으나, 해리빅버튼의 음악적 스펙트럼은 오히려 확장되었다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘댄스가수 유랑단’ 측 “진심으로 사과, 깊은 양해 부탁드리겠습니다”···9일 공연 운영미숙 사과]]></title>
         <id>https://v.daum.net/v/20230711004403690</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230710232346988"/>
         <updated>2023-07-10T16:20:08.940Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 백지연 기자] '동상이몽 2'에서 손지창, 오연수가 가족에 남다른 애정을 보였다. 10일 밤 방송된 SBS 예능프로그램 '동상이몽 2'에서 손지창, 오연수 부부의 이야기가 그려졌다. 이날 방송에서 손지창은 "둘 다 편모슬하에서 자랐다. 어렸을 때 소원은 자가용 타고 뷔페 가는 게 소원이었다. 다른 가족들이 부러웠다"라고 말했다. 오연수는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘마당집’ 임지연, 살인계획 들통…분노한 김성오에 목졸렸다. 김태희 목숨도 경각]]></title>
-        <id>https://v.daum.net/v/20230710231954969</id>
-        <link href="https://v.daum.net/v/20230710231954969"/>
-        <updated>2023-07-10T16:20:08.947Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 박효실기자] 김태희의 살인사주가 들키며 깨어난 김성오가 되레 임지연의 목을 졸랐다. 김성오가 김태희의 목숨마저 노리며 끔찍한 반전을 맞았다. 10일 방송된 지니TV 오리지널 ENA ‘마당이 있는 집’(이하 ‘마당집’)에서 문주란(김태희 분)은 끔찍한 살인으로 자신과 아들의 삶을 완전히 파괴해버린 남편 박재호(김성오 분)]]></content>
     </entry>
 </feed>
