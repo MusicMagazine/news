@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2023-07-10T17:14:54.167Z</updated>
+    <updated>2023-07-10T18:17:23.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이경규 “떡볶이 쏟으면 네 인생도 끝”…정동원 위기 (지구탐구생활)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001062630</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0001062630"/>
+        <updated>2023-07-10T18:17:13.305Z</updated>
+        <content type="html"><![CDATA[MBN 예능 ‘지구탐구생활’ 정동원이 이경규가 직접 만든 10인분의 떡볶이를 옮기려다 위기에 직면한다. 11일 ‘지구탐구생활’ 10회에서는 정동원이 규셰프가 만든 떡볶이를 쏟는 대형사고를 저지르고는, 이를 수습하기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박하선, 앙큼한 고양이처럼…화보 비하인드컷]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001062629</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0004030205"/>
         <updated>2023-07-10T16:20:28.227Z</updated>
         <content type="html"><![CDATA[서장훈 용돈이 얼마였길래, 궁핍한 생활을 하던 노을이 "굶어죽으란 법은 없구나" 생각했을까. 10일 그룹 레인보우 멤버 조현영은 자신의 유튜브 채널 '그냥 조현영'에 '서장훈이 고깃집에서 노을에게 100만원을 준 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘동상이몽2’ 김병현 “메이저 리그 연금만 1~2억... 10억 넘게 사기 당해”]]></title>
-        <id>https://entertain.naver.com/now/read?oid=009&amp;aid=0005156535</id>
-        <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0005156535"/>
-        <updated>2023-07-10T16:20:28.229Z</updated>
-        <content type="html"><![CDATA[‘동상이몽2’ 전 메이저리거 김병현이 출연했다. 10일 방송된 SBS 예능프로그램 ‘동상이몽2- 너는 내 운명’(이하 ‘동상이몽2’)에서는 지난주에 이어 300회 특집으로 꾸며진 가운데 게스트로 김병현이 출연했다.]]></content>
     </entry>
 </feed>
