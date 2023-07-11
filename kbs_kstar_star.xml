@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 22:15:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 02:49:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[화보] 박하선 '엘르' 화보 비하인드 컷]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=270887</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=270887</guid>
+            <pubDate>Tue, 11 Jul 2023 02:49:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=270887">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230711083549_a9cf26ebedad6d69920b387b5d067519.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=270887">[화보] 박하선 '엘르' 화보 비하인드 컷 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230711083549_a9cf26ebedad6d69920b387b5d067519.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 10년, 청춘의 기록 ‘BEYOND THE STORY’]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=270555</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=266171">"외쳐, 오에오~"  뮤지컬 '스웨그에이지 외쳐,조선!' 오늘 개막</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230608094217_f9419f774849a35586dc971dfb606282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대구국제뮤지컬페스티벌(DIMF) 폐막... 영국 '나인 투 파이브’  대상]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=265846</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=265846</guid>
-            <pubDate>Mon, 05 Jun 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=265846">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230606072550_3a5c578ae8c98417ad11d4e79ddc8bae.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=265846">대구국제뮤지컬페스티벌(DIMF) 폐막... 영국 '나인 투 파이브’  대상</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230606072550_3a5c578ae8c98417ad11d4e79ddc8bae.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

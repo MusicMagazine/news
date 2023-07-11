@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 22:15:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 02:49:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 정국,  'Seven'  녹음 현장 깜짝 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=270881</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=270881</guid>
+            <pubDate>Tue, 11 Jul 2023 02:48:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=270881">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230711082940_b5276b429e03d253b9cf6c540521100d.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=270881">방탄소년단 정국,  'Seven'  녹음 현장 깜짝 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230711082940_b5276b429e03d253b9cf6c540521100d.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[투모로우바이투게더X조나스 브라더스 컬래버레이션, 'Do It Like That' MV 공개]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=270641</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=267442">"방탄소년단과 함께한 10년" 김남준과 아미들, 여의도에서 자축... ‘BTS 10th Anniversary FESTA @여의도’ 개최</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230618073913_70ce524f03225014629995c315020bee.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["기록하고, 기념하고" 방탄소년단 데뷔 10주년 기념 도서 'BEYOND THE STORY' ..내달 9일 발간]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=267231</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=267231</guid>
-            <pubDate>Thu, 15 Jun 2023 23:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=267231">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230616062211_e1a37b9800aa0b45d39762d71217d43d_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=267231">"기록하고, 기념하고" 방탄소년단 데뷔 10주년 기념 도서 'BEYOND THE STORY' ..내달 9일 발간</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230616062211_e1a37b9800aa0b45d39762d71217d43d_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
