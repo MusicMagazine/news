@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-07-11T19:16:36.918Z</updated>
+    <updated>2023-07-11T20:17:45.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[몬스타엑스 셔누X형원, 헤어 나올 수 없는 매력…'디 언씬' 트레일러 공개]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003750078</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003750078"/>
+        <updated>2023-07-11T20:17:27.639Z</updated>
+        <content type="html"><![CDATA[그룹 몬스타엑스(MONSTA X)의 셔누X형원이 역대급 연출과 스토리를 예고했다. 10일 몬스타엑스 공식 유튜브 채널을 통해 셔누X형원의 첫 번째 미니 앨범 '디 언씬(THE UNSEEN)'의 트레일러 영상이 공개됐]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['전원 전역' 온앤오프, 팬미팅 전석 매진…군백기 닫는 티켓 파워]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003750077</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000899332"/>
         <updated>2023-07-11T12:31:58.835Z</updated>
         <content type="html"><![CDATA[박테리아 감염으로 중환자실에 입원했던 미국 팝스타 마돈나가 SNS를 통해 회복 사실을 알렸다. 뉴욕타임스(NYT)는 10일(현지시간) 마돈나가 인스타그램에 셀피와 함께 자신의 건강 문제에 대한 성명을 올렸다고 보도했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘8월 9일 데뷔’ 엔싸인(n.SSign), 첫 단체 콘셉트 포토 공개]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000899329</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000899329"/>
-        <updated>2023-07-11T12:31:58.837Z</updated>
-        <content type="html"><![CDATA[신예 아이돌그룹 엔싸인(n.SSign)이 첫 단체 케미를 공개했다. 엔싸인은 11일 0시 공식 SNS를 통해 데뷔 앨범 ‘BIRTH OF COSMO(버스 오브 코스모)’의 첫 단체 콘셉트 포토를 게재했다. 사진 속]]></content>
     </entry>
 </feed>
