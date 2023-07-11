@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2023-07-11T17:14:07.441Z</updated>
+    <updated>2023-07-11T18:19:01.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이진혁 “삶의 우선순위는 일, 도전 원동력=팬” [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001062911</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0001062911"/>
+        <updated>2023-07-11T18:18:49.535Z</updated>
+        <content type="html"><![CDATA[가수 겸 배우 이진혁 롤링스톤 코리아와의 인터뷰로 근황을 알렸다. 인터뷰 속 이진혁은 “오래전부터 생일 팬미팅을 해보고 싶었다. 저한테도 의미가 크지만 우리 브이단(공식 팬클럽명)에게도 의미가 크지 않았나라고 느꼈다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이준혁, 정제된 눈빛 카리스마 [화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001062910</id>
@@ -66,7 +73,7 @@
         <id>https://entertain.naver.com/now/read?oid=009&amp;aid=0005157138</id>
         <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0005157138"/>
         <updated>2023-07-11T15:21:01.868Z</updated>
-        <content type="html"><![CDATA[‘강심장 리그’ 그리가 아빠 김구라의 연애 조언을 밝혔다. 11일 방송된 SBS 예능프로그램 ‘강심장 리그’에서는 그리가 17년 동안 앓은 트라우마를 고백하는 모습이 전파를 탔다. 이날 김호중은 “‘찐이야’ 원래 내]]></content>
+        <content type="html"><![CDATA[‘강심장 리그’ 그리가 아빠 김구라의 연애 조언을 언급했다. 11일 방송된 SBS 예능프로그램 ‘강심장 리그’에서는 그리가 17년 동안 앓은 트라우마를 고백하는 모습이 전파를 탔다. 이날 김호중은 “‘찐이야’ 원래]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘강심장 리그’ 김호중, “영탁 ‘찐이야’ 원래 내 노래였다” 웃음]]></title>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003287478"/>
         <updated>2023-07-11T14:14:45.865Z</updated>
         <content type="html"><![CDATA[이헤정이 부친의 재산 사회 환원에 대해 솔직한 심경을 전했다. 11일 방송된 SBS 예능프로그램 ‘신발 벗고 돌싱포맨’(이하 ‘돌싱포맨’)에서는 배우 박준금, 요리 연구가 이혜정, 개그맨 오정태가 게스트로 출연하는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[종합]'유재석 인증 돌아이' 김숙, 친한 작가 오빠에게 사기 당해…"나의 전재산이었다"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0004030592</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0004030592"/>
-        <updated>2023-07-11T13:25:15.806Z</updated>
-        <content type="html"><![CDATA['유재석 인증 진짜 돌아이'인 개그맨 김숙이 과거 친한 작기 오빠에게 사기를 당해 전재산을 날린 일화를 전했다. 11일 '뜬뜬 DdeunDdeun'에는 '이열치열은 핑계고'라는 제목의 영상이 게재됐다. 2회에 송은이]]></content>
     </entry>
 </feed>
