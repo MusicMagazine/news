@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 03:24:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 04:19:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230618073913_70ce524f03225014629995c315020bee.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[8월의 인피니트, 단독 콘서트 'COMEBACK AGAIN' (KBS연예 ─ 연예)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=271124</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=271124</guid>
+            <pubDate>Wed, 12 Jul 2023 04:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=271124">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230712124228_8a63706f85ec661e97107b4d9e609702.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=271124">8월의 인피니트, 단독 콘서트 'COMEBACK AGAIN'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230712124228_8a63706f85ec661e97107b4d9e609702.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘태양의서커스-루치아’,  "10월 서울 공연, 내년 부산 공연" (KBS연예 ─ 연예)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=271097</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=271097</guid>
@@ -671,28 +688,35 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230612093119_01f342b3321503234f7b576291577d45.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[드라마 '킹더랜드' 세계관, 카카오 웹툰으로 만난다 (KBS연예 ─ 연예)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=266575</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=266575</guid>
-            <pubDate>Mon, 12 Jun 2023 01:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=266575">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230612092230_efad81c83578756694b4be8f38683f9c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=266575">드라마 '킹더랜드' 세계관, 카카오 웹툰으로 만난다</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230612092230_efad81c83578756694b4be8f38683f9c.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[엔믹스 지우 "박진영 PD님께 좋은 모습 보여드리고 싶어 안 먹는 야채 먹어" (정희) (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/387756</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/387756</guid>
+            <pubDate>Wed, 12 Jul 2023 04:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/387756" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/12/78abf10b-264f-4744-ad03-3ec51b090e93.jpg" alt="엔믹스 지우 " 박진영="" pd님께="" 좋은="" 모습="" 보여드리고="" 싶어="" 안="" 먹는="" 야채="" 먹어"="" (정희)"="">        <div class="text-box">            <p class="summary">엔믹스 지우 "박진영 PD님께 좋은 모습 보여드리고 싶어 안 먹는 야채 먹어" (정희)</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/12/78abf10b-264f-4744-ad03-3ec51b090e93.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['몬디아나 존스' 몬스타엑스, 속고 속이는 접전+추격전…승자는? (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/387751</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/387751</guid>
+            <pubDate>Wed, 12 Jul 2023 04:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/387751" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/12/e7eab1bc-cd6d-47f0-ad72-3a7419c1096b.jpg" alt="'몬디아나 존스' 몬스타엑스, 속고 속이는 접전+추격전…승자는?">        <div class="text-box">            <p class="summary">'몬디아나 존스' 몬스타엑스, 속고 속이는 접전+추격전…승자는?</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/12/e7eab1bc-cd6d-47f0-ad72-3a7419c1096b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 진, '군복이 잘 어울리는 아이돌' 1위(아이돌챔프) (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/387743</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/387743</guid>
+            <pubDate>Wed, 12 Jul 2023 04:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/387743" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/12/f9854b0d-3e9a-45ee-83e6-ada4c9a9fbd3.png" alt="방탄소년단 진, '군복이 잘 어울리는 아이돌' 1위(아이돌챔프)">        <div class="text-box">            <p class="summary">방탄소년단 진, '군복이 잘 어울리는 아이돌' 1위(아이돌챔프)</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/12/f9854b0d-3e9a-45ee-83e6-ada4c9a9fbd3.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['쇼챔피언' KISS OF LIFE 데뷔→위아이 '하루 끝에' 최초 공개 (MBC 연예 ─ 아이돌)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/387738</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/387738</guid>
             <pubDate>Wed, 12 Jul 2023 01:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/387738">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/12/7a00f3df-1cf1-4375-bbb9-4d297d8a446b.jpg" alt="'쇼챔피언' KISS OF LIFE 데뷔→위아이 '하루 끝에' 최초 공개">        <div class="text-box">            <p class="summary">'쇼챔피언' KISS OF LIFE 데뷔→위아이 '하루 끝에' 최초 공개</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/387738" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/12/7a00f3df-1cf1-4375-bbb9-4d297d8a446b.jpg" alt="'쇼챔피언' KISS OF LIFE 데뷔→위아이 '하루 끝에' 최초 공개">        <div class="text-box">            <p class="summary">'쇼챔피언' KISS OF LIFE 데뷔→위아이 '하루 끝에' 최초 공개</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/12/7a00f3df-1cf1-4375-bbb9-4d297d8a446b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -700,7 +724,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/387728</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/387728</guid>
             <pubDate>Wed, 12 Jul 2023 01:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/387728">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/12/237ad3b7-12d6-4a3d-96da-f4a1bb3ce1e6.jpg" alt="엔믹스 설윤 " 한="" 달="" 동안="" 택배="" 안="" 가져가는="" 멤버="" 있어"(주간아이돌)="" "="">        <div class="text-box">            <p class="summary">엔믹스 설윤 "한 달 동안 택배 안 가져가는 멤버 있어"(주간아이돌) </p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/387728" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/12/237ad3b7-12d6-4a3d-96da-f4a1bb3ce1e6.jpg" alt="엔믹스 설윤 " 한="" 달="" 동안="" 택배="" 안="" 가져가는="" 멤버="" 있어"(주간아이돌)="" "="">        <div class="text-box">            <p class="summary">엔믹스 설윤 "한 달 동안 택배 안 가져가는 멤버 있어"(주간아이돌) </p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/12/237ad3b7-12d6-4a3d-96da-f4a1bb3ce1e6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -708,7 +732,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/387726</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/387726</guid>
             <pubDate>Wed, 12 Jul 2023 01:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/387726">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/12/c7c4eeb9-f0cd-4831-9f05-6d93f7a75bfe.jpg" alt="엔하이픈, '포켓몬스터' 컬래버곡 발표 " 모두="" 행복하길""="">        <div class="text-box">            <p class="summary">엔하이픈, '포켓몬스터' 컬래버곡 발표 "모두 행복하길"</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/387726" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/12/c7c4eeb9-f0cd-4831-9f05-6d93f7a75bfe.jpg" alt="엔하이픈, '포켓몬스터' 컬래버곡 발표 " 모두="" 행복하길""="">        <div class="text-box">            <p class="summary">엔하이픈, '포켓몬스터' 컬래버곡 발표 "모두 행복하길"</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/12/c7c4eeb9-f0cd-4831-9f05-6d93f7a75bfe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -716,7 +740,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/387709</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/387709</guid>
             <pubDate>Tue, 11 Jul 2023 18:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/387709">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/12/35f2d7f7-deb5-455b-b3ea-32ca840b7402.jpg" alt="[움짤] 엔믹스 설윤, 'O.O' 팅커벨">        <div class="text-box">            <p class="summary">[움짤] 엔믹스 설윤, 'O.O' 팅커벨</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/387709" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/12/35f2d7f7-deb5-455b-b3ea-32ca840b7402.jpg" alt="[움짤] 엔믹스 설윤, 'O.O' 팅커벨">        <div class="text-box">            <p class="summary">[움짤] 엔믹스 설윤, 'O.O' 팅커벨</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/12/35f2d7f7-deb5-455b-b3ea-32ca840b7402.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -724,7 +748,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/387684</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/387684</guid>
             <pubDate>Tue, 11 Jul 2023 12:31:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/387684">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/11/1dafc11c-9d28-4e5a-b85f-31889cfefa28.jpg" alt="몬스타엑스 주헌, 7월 24일 입대 " 이="" 시간은="" 쉼표"="" [전문]"="">        <div class="text-box">            <p class="summary">몬스타엑스 주헌, 7월 24일 입대 "이 시간은 쉼표" [전문]</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/387684" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/11/1dafc11c-9d28-4e5a-b85f-31889cfefa28.jpg" alt="몬스타엑스 주헌, 7월 24일 입대 " 이="" 시간은="" 쉼표"="" [전문]"="">        <div class="text-box">            <p class="summary">몬스타엑스 주헌, 7월 24일 입대 "이 시간은 쉼표" [전문]</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/11/1dafc11c-9d28-4e5a-b85f-31889cfefa28.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -732,7 +756,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/387658</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/387658</guid>
             <pubDate>Tue, 11 Jul 2023 09:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/387658">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/11/f2d49b2e-1d86-4485-97a2-87071c842f19.jpg" alt="기로 선 JYP 엔믹스, 박진영 등판→정체성은 '흔들' [종합]">        <div class="text-box">            <p class="summary">기로 선 JYP 엔믹스, 박진영 등판→정체성은 '흔들' [종합]</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/387658" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/11/f2d49b2e-1d86-4485-97a2-87071c842f19.jpg" alt="기로 선 JYP 엔믹스, 박진영 등판→정체성은 '흔들' [종합]">        <div class="text-box">            <p class="summary">기로 선 JYP 엔믹스, 박진영 등판→정체성은 '흔들' [종합]</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/11/f2d49b2e-1d86-4485-97a2-87071c842f19.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -740,7 +764,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/387675</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/387675</guid>
             <pubDate>Tue, 11 Jul 2023 09:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/387675">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/11/74c331e2-6010-4d7f-b5f3-57fcc2238c2b.jpg" alt="틴탑 " 데뷔="" 14년차인데="" 아직="" 20대,="" '휙'="" 챌린지="" 위해="" 안무="" 쉽게="" 만들어"="" (컬투쇼)"="">        <div class="text-box">            <p class="summary">틴탑 "데뷔 14년차인데 아직 20대, '휙' 챌린지 위해 안무 쉽게 만들어" (컬투쇼)</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/387675" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/11/74c331e2-6010-4d7f-b5f3-57fcc2238c2b.jpg" alt="틴탑 " 데뷔="" 14년차인데="" 아직="" 20대,="" '휙'="" 챌린지="" 위해="" 안무="" 쉽게="" 만들어"="" (컬투쇼)"="">        <div class="text-box">            <p class="summary">틴탑 "데뷔 14년차인데 아직 20대, '휙' 챌린지 위해 안무 쉽게 만들어" (컬투쇼)</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/11/74c331e2-6010-4d7f-b5f3-57fcc2238c2b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -748,39 +772,15 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/387673</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/387673</guid>
             <pubDate>Tue, 11 Jul 2023 07:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/387673">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/11/f15f5893-89c1-49bd-8bdd-443dd0b9fc34.jpg" alt="[포토] 엔믹스 컴백, 여름송 '파티 어클락' 무대 모음집">        <div class="text-box">            <p class="summary">[포토] 엔믹스 컴백, 여름송 '파티 어클락' 무대 모음집</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/387673" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/11/f15f5893-89c1-49bd-8bdd-443dd0b9fc34.jpg" alt="[포토] 엔믹스 컴백, 여름송 '파티 어클락' 무대 모음집">        <div class="text-box">            <p class="summary">[포토] 엔믹스 컴백, 여름송 '파티 어클락' 무대 모음집</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/11/f15f5893-89c1-49bd-8bdd-443dd0b9fc34.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[엔믹스, '믹스팝' 맞냐고? "꾸준히 노력 중" (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/387659</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/387659</guid>
-            <pubDate>Tue, 11 Jul 2023 07:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/387659">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/11/027d2536-74c2-4e53-a2ab-d19e5b45e72d.jpg" alt="엔믹스, '믹스팝' 맞냐고? " 꾸준히="" 노력="" 중""="">        <div class="text-box">            <p class="summary">엔믹스, '믹스팝' 맞냐고? "꾸준히 노력 중"</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/11/027d2536-74c2-4e53-a2ab-d19e5b45e72d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 엔믹스 설윤, 천수관음 요정 (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/387672</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/387672</guid>
-            <pubDate>Tue, 11 Jul 2023 07:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/387672">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/11/336075f0-e4d7-4844-b132-62c06f67dcf2.jpg" alt="[포토] 엔믹스 설윤, 천수관음 요정">        <div class="text-box">            <p class="summary">[포토] 엔믹스 설윤, 천수관음 요정</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/11/336075f0-e4d7-4844-b132-62c06f67dcf2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 엔믹스 설윤, 반짝반짝 우주를 담은 눈 (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/387670</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/387670</guid>
-            <pubDate>Tue, 11 Jul 2023 07:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/387670">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/11/a639f55f-c357-4fe9-811e-8c3253ee0b15.jpg" alt="[포토] 엔믹스 설윤, 반짝반짝 우주를 담은 눈">        <div class="text-box">            <p class="summary">[포토] 엔믹스 설윤, 반짝반짝 우주를 담은 눈</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/11/a639f55f-c357-4fe9-811e-8c3253ee0b15.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM 신인 보이그룹, 9월 초 데뷔…최강 5세대돌 '괴물 신인' 탄생 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <title><![CDATA[SM 신인 보이그룹, 9월 데뷔…최강 5세대돌 '괴물 신인' 탄생 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
             <link>https://v.daum.net/v/20230712121841151</link>
             <guid>https://v.daum.net/v/20230712121841151</guid>
             <pubDate>Wed, 12 Jul 2023 03:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 정빛 기자] SM엔터테인먼트(이하 SM)의 새로운 신인 보이그룹의 데뷔가 임박했다. 스포츠조선 취재 결과, SM 신인 보이그룹은 9월 초 데뷔를 목표로 한창 준비하고 있다. 현재 미국 로스앤젤레스(LA)에서 데뷔곡 뮤직비디오 촬영 중이다. SM 신인 보이그룹 멤버는 7인조로 구성된다. NCT로 활동했던 성찬, 쇼타로, SM 루]]></content:encoded>
+            <content:encoded><![CDATA[[스포츠조선 정빛 기자] SM엔터테인먼트(이하 SM)의 새로운 신인 보이그룹의 데뷔가 임박했다. 스포츠조선 취재 결과, SM 신인 보이그룹은 오는 9월 데뷔를 목표로 한창 준비하고 있다. 현재 미국 로스앤젤레스(LA)에서 데뷔곡 뮤직비디오 촬영 중이다. SM 신인 보이그룹은 NCT로 활동했던 성찬, 쇼타로, SM 루키즈로 공개된 은석, 승]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[신지의 시원한 고음으로 무더위 싹, 코요태 '바람' 왔어요~ (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
@@ -881,6 +881,83 @@
             <content:encoded><![CDATA[[스타뉴스 | 윤상근 기자] 걸그룹 블랙핑크(BLACKPINK) 리사가 10일 오전 온라인으로 진행된 첫 솔로 싱글 앨범 'LALISA' 발매 기념 쇼케이스에서 포즈를 취하고 있다.  'LALISA'는 힙합을 기반으로 한 강렬한 사운드, 카리스마 넘치는 랩, 최정점의 퍼포먼스를 한데 모아 리사만의 음악적 정체성을 살려낸 앨범이다. / 사진제공 = YG엔터테]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[故 이지수, 잠든 사이 사망 추정...유족 "최근 고열로 입원, 부검 의뢰" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230712131502123</link>
+            <guid>https://v.daum.net/v/20230712131502123</guid>
+            <pubDate>Wed, 12 Jul 2023 04:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[30세를 일기로 갑작스럽게 세상을 떠난 개그우먼 이지수 씨가 최근 고열로 입원했던 것으로 확인됐다. 유족은 정확한 사인을 알고자 부검을 진행했다. 오늘(12일)  유족들에 따르면 고(故) 이지수 씨는 지난 9일 서울 망원동 자취방에서 사망한 채 가족들에 발견됐다. 어머니 박 모 씨가 지난 4일 고인을 마지막으로 본 뒤 연락이 끊겼고, 걱정된 가족들이 경찰]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[빽가 "'연예인이 왜 비즈니스석 안 타' 그 말에 상처" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230712131351106</link>
+            <guid>https://v.daum.net/v/20230712131351106</guid>
+            <pubDate>Wed, 12 Jul 2023 04:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 김준석 기자] 빽가가 비행기 탑승 중 상처 받은 사연을 공개했다. 12일 방송된 KBS 쿨FM '박명수의 라디오쇼'에서는 송경아, 빽가와 함께하는 '빽가송의 소신발언'이 진행됐다. 이날 박명수는 '여행 스타일이 다른 커플'이라는 주제로 이야기를 나누다 "전 폐쇄공포증까지는 아닌데 비행기 좌석 중간에 끼면 좀이 쑤셔서 미치겠다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[엔믹스 지우 "박진영 PD님께 좋은 모습 보여드리고 싶어 안 먹는 야채 먹어" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230712131323093</link>
+            <guid>https://v.daum.net/v/20230712131323093</guid>
+            <pubDate>Wed, 12 Jul 2023 04:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[MBC FM4U '정오의 희망곡 김신영입니다'에 NMIXX 엔믹스가 출연했다. 12일(수) 방송된 MBC FM4U '정오의 희망곡 김신영입니다'에서는 엔믹스(릴리, 해원, 설윤, 배이, 지우, 규진)가 'Live On Air' 코너에서 새 앨범을 소개하고 이야기를 나눴다. 이날 DJ 김신영이 엔믹스의 싱글 3집 'A Midsummer NMIXX’s]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['오징어 게임2', 벌써부터 '말도 많고 탈도 많아' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230712125531730</link>
+            <guid>https://v.daum.net/v/20230712125531730</guid>
+            <pubDate>Wed, 12 Jul 2023 04:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=정현태 기자] 연예계 현재 상태, 즉 '연예계 현태(現態)'가 궁금하시다면 얼른 오세요~!! TV리포트 정현태 기자의 느낌(ː感動) 그대로 안내해 드릴게요:) '오징어 게임2'가 연이어 삐끗대고 있다. 더 이상의 논란은 불필요하다.&nbsp; 넷플릭스 오리지널 시리즈 '오징어 게임2'는 456억 원의 상금이 걸린 의문의 서바이벌에 참가한 사람들이 최후의]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['오징어게임 2'→'폭싹 속았수다' 대작에 초 치는 촬영장 논란 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230712124530564</link>
+            <guid>https://v.daum.net/v/20230712124530564</guid>
+            <pubDate>Wed, 12 Jul 2023 04:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=신은주 기자] 글로벌 대작 넷플릭스 '오징어게임 2'도 촬영장 논란을 피해 가지 못했다. 11일 온라인 소통 채널에는 '어제 촬영이 벼슬인 줄 알던 '오징어게임 2' 스태프 한 분 봤다'라는 제목의 글이 공개됐다. 해당 글을 업로드한 누리꾼은 "어제 낮에 인천공항에 카메라 잔뜩 있고 뭐 촬영 중인 것 같아서 보니까 배우 이정재가 있길래 '오징어]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이동건 "딸이 내 작품 볼 수 있을 때까지 오래 연기하고파" ② (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230712124412547</link>
+            <guid>https://v.daum.net/v/20230712124412547</guid>
+            <pubDate>Wed, 12 Jul 2023 04:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 김민지 기자 = 배우 이동건이 10년, 20년 뒤에도 연기를 하고 싶다는 바람을 드러냈다. 12일 오전 서울 강남구 도산대로 FNC엔터테인먼트 사옥에서 넷플릭스 오리지널 '셀러브리티'(극본 김이영/연출 김철규) 출연 배우 이동건 인터뷰가 진행됐다. 이동건은 지난달 26일 진행된 '셀러브리티' 제작발표회에서 4년간 공백기를 가진 이유에 대]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[유지태, '조재현 딸' 조혜정 주연 캐스팅..'톡투허'로 감독 컴백 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230712123713472</link>
+            <guid>https://v.daum.net/v/20230712123713472</guid>
+            <pubDate>Wed, 12 Jul 2023 04:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이유나 기자]영화배우 유지태가 오랜만에 영화감독으로 돌아온다. 유지태가 매가폰을 잡은 작품은 단편영화 '톡투허'다. 지난달 29일 첫 촬영을 시작한 유지태는 최근 모든 촬영을 마치고, 후반 작업 중에 있다. '톡투허'에는 유지태의 적극적인 섭외로 한국계 미국 배우로 영화 '인천상륙작전'에서 강한 인상을 남겼던 션 리차드와 '우리들]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['셀러브리티' 이동건 "이혼한 캐릭터, 내 삶 투영될 수밖에" ① (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230712123311417</link>
+            <guid>https://v.daum.net/v/20230712123311417</guid>
+            <pubDate>Wed, 12 Jul 2023 04:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 김민지 기자 = 배우 이동건이 '셀러브리티' 속 캐릭터에 자신의 경험을 투영했다고 말했다. 12일 오전 서울 강남구 도산대로 FNC엔터테인먼트 사옥에서 넷플릭스 오리지널 '셀러브리티'(극본 김이영/연출 김철규) 출연 배우 이동건 인터뷰가 진행됐다. 이날 이동건은 '셀러브리티'로 4년 만에 복귀한 것에 대해 "사실 나는 큰 공백 없이 촬]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[신병 된 손석구 '나무 위의 군대', 그들의 전쟁은 진행형 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230712123002352</link>
+            <guid>https://v.daum.net/v/20230712123002352</guid>
+            <pubDate>Wed, 12 Jul 2023 04:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김현정 기자) 지루한 일상을 보내고 있나요? 활력을 불어넣어 줄 문화생활을 해보는 건 어떨까요. 친구, 연인, 가족 또는 혼자 보러 가기 좋은 공연을 추천합니다. 김현정 엑스포츠뉴스 기자의 공연 에필로그를 담은 수요일 코너 (엑필로그)를 통해 뮤지컬·연극을 소개, 리뷰하고 배우의 연기를 돌아봅니다.&nbsp; 이주의 작품= 연극 ‘나무 위의 군대’ 태]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["괴물 키웠다"..최준희⋅김부선, 수면 위로 드러난 가족사 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230712122518283</link>
+            <guid>https://v.daum.net/v/20230712122518283</guid>
+            <pubDate>Wed, 12 Jul 2023 04:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=선미경 기자] 스타들의 가족사가 낱낱이 공개되고 있다. 외조모를 경찰에 신고하고 법적책임을 묻겠다는 최준희, 엄마에게 알리지 않고 몰래 결혼식을 올린 이루안의 이야기다. 고(故) 최진실의 딸 최준희와 배우 김부선의 딸 이루안이 가족사로 이슈화되고 있다. 상반된 입장을 내놓기도, 일방적으로 가족사를 공개하기도 하면서 갈등이 심화되고 있다. 당사]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이동건 “‘셀러브리티’는 새로운 시작… 선입견 없이 봐주길” (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230712122444277</link>
+            <guid>https://v.daum.net/v/20230712122444277</guid>
+            <pubDate>Wed, 12 Jul 2023 04:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이동건이 ‘셀러브리티’에서 아쉬운 부분이 있다고 고백했다. 12일 오전 서울 청담동 FNC엔터테인먼트 사옥에서 넷플릭스 시리즈 ‘셀러브리티’ 주연 이동건의 인터뷰가 진행됐다. 지난달 31일 공개된 ‘셀러브리티’는 유명해지기만 하면 돈이 되는 세계에 뛰어든 아리가 마주한 셀럽들의 화려하고도 치열한 민낯을 그린 이야기. 이동건은 극중 돈과 권력을 다]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[이수만, SM 주식 하이브에 팔더니…中 드론택시 업체 거액 투자 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
             <link>https://v.daum.net/v/20230712122215218</link>
             <guid>https://v.daum.net/v/20230712122215218</guid>
@@ -909,81 +986,11 @@
             <content:encoded><![CDATA[[티브이데일리 황서연 기자] 캐스팅 논란에 휩싸였던 넷플릭스 '오징어 게임2'이 촬영 시작과 동시에 촬영장에서 시민들에게 갑질을 했다는 구설에 올랐다. 11일 '오징어 게임2'(감독 황동혁) 촬영이 최근 시작됐다는 사실이 언론을 통해 알려졌다. '오징어 게임'은 456억원 상금이 걸린 의문의 서바이벌에 참가한 사람들이 최후의 승자가 되기 위해 목숨을 걸고]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빽가 "오늘 신곡 나와, 신나는 코요태풍", 박명수 "우중캠핑, 해보니 힐링" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230712121121013</link>
-            <guid>https://v.daum.net/v/20230712121121013</guid>
-            <pubDate>Wed, 12 Jul 2023 03:24:00 GMT</pubDate>
-            <content:encoded><![CDATA['박명수의 라디오쇼'에 빽가, 송경아가 출연했다. 12일(수) 방송된 KBS 쿨FM '박명수의 라디오쇼'에서는 빽가, 송경아가 '빽가송의 소신 발언' 코너에서 한 가지 주제에 대해 토론하고 청취자들의 연애, 결혼 관련 고민에 대해 조언했다. 이날 DJ 박명수가 "코요태는 신곡 나왔냐?"라고 묻자 빽가가 "오늘 음원이 나온다. 많이 들어달라"라고 답]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[빽가 “연예인인데 비즈니스 안 타면 이상하게 쳐다봐” (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230712120815963</link>
-            <guid>https://v.daum.net/v/20230712120815963</guid>
-            <pubDate>Wed, 12 Jul 2023 03:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 장예솔 기자] 가수 빽가가 연예인으로서 고충을 토로했다. 7월 12일 방송된 KBS 쿨FM '박명수의 라디오쇼'는 '빽가송의 소신 발언' 코너로 꾸며져 빽가와 송경아가 출연했다. 이날 여행 스타일에 관 얘기를 나누던 박명수는 "폐쇄공포증 까지는 아닌데 비행기 중간에 끼면 좀이 쑤신다"고 토로했다. 빽가 역시 "제가 187cm인데 일반석에 앉]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['셀러브리티' 이동건 "악역? 나도 할 수 있어..쾌감 느꼈다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230712120526908</link>
-            <guid>https://v.daum.net/v/20230712120526908</guid>
-            <pubDate>Wed, 12 Jul 2023 03:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 문지연 기자] 배우 이동건(43)이 악역을 연기한 소감을 밝혔다. 이동건은 12일 오전 서울 강남구의 FNC엔터테인먼트 사옥에서 넷플릭스 오리지널 시리즈 '셀러브리티'(김이영 극본, 김철규 연출) 인터뷰에 응했다. 이동건은 '셀러브리티'의 매력에 대해 "사실 제가 너무 모르는 세상의 이야기라고 생각이 들어서 '내가 할 수 있을]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[송경아 “♥남편 꼴보기 싫어, 집만 나가면 말 많아져” 폭로 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230712120249850</link>
-            <guid>https://v.daum.net/v/20230712120249850</guid>
-            <pubDate>Wed, 12 Jul 2023 03:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 장예솔 기자] 모델 송경아가 남편을 폭로했다. 7월 12일 방송된 KBS 쿨FM '박명수의 라디오쇼'는 '빽가송의 소신 발언' 코너로 꾸며져 빽가와 송경아가 출연했다. 이날 송경아는 "저희 남편이 집에서는 말을 안 하는데 밖에 나가면 그렇게 얘기를 한다. 꼴보기 싫다"고 폭로했다. 박명수는 "남편이 알아서 해주니까 편할 것 같다"고 수습하자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이동건 “딸 로아, 연기에 대한 열정 준 존재…오래 연기하고 싶다” (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230712120010640</link>
-            <guid>https://v.daum.net/v/20230712120010640</guid>
-            <pubDate>Wed, 12 Jul 2023 03:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 이동건 “딸 로아, 연기에 대한 열정 준 존재…오래 연기하고 싶다” (종합)[DA:인터뷰] 배우 이동건이 4년 만에 새 작품을 선보인 소감을 밝혔다. 새로운 출발선에 선 마음가짐과 앞으로의 활동 방향에 대해 언급했다. 이제는 멋있고 판타지적인 캐릭터보다 편안하게 자신이 묻어날 수 있는 작품을 하고 싶다고 바람을 전하기도 했다. 이동건은 12일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['셀러브리티' 이동건 "4년 만의 복귀, 중압감에 이틀 앓았다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230712115614531</link>
-            <guid>https://v.daum.net/v/20230712115614531</guid>
-            <pubDate>Wed, 12 Jul 2023 02:59:02 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김종은 기자] '셀러브리티' 배우 이동건이 오랜만에 복귀한 소감을 밝혔다. 이동건은 12일 오전 서울 강남구 FNC엔터테인먼트 사옥에서 진행된 넷플릭스 오리지널 '셀러브리티'(극본 김이영·연출 김철규) 공개 기념 인터뷰에서 "제작발표회 이후 뒤늦게 밀려온 중압감에 한 이틀을 앓았던 것 같다"라고 밝혔다. '셀러브리티'는 이동건의 약 4년 만]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[재테크 강조하던 현영, 월 7% 이자의 검은 유혹 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230712115004358</link>
-            <guid>https://v.daum.net/v/20230712115004358</guid>
-            <pubDate>Wed, 12 Jul 2023 02:59:02 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 서지현 기자] 이른바 '재테크 달인'으로 다수의 방송에 소개됐던 방송인 현영(유현영)이 600억원대 맘카페 사기 용의자와 엮였다. 그 역시 금전적 피해를 입었으나, 과연 그를 온전한 피해자로만 볼 수 있을진 미지수다. 검찰 공소장에 따르면 지난해 4월 29일 현영은 인천시 연수구 송도동에 위치한 한 카페에서 맘카페 운영자 A씨와 만났다. 당시]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[송경아 “♥남편과 여행 스타일 정반대, 여행지서 따로 다닌다” (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230712113422681</link>
-            <guid>https://v.daum.net/v/20230712113422681</guid>
-            <pubDate>Wed, 12 Jul 2023 02:59:02 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 장예솔 기자] 모델 송경아가 남편과 여행 스타일이 다르다고 고백했다. 7월 12일 방송된 KBS 쿨FM '박명수의 라디오쇼'는 '빽가송의 소신 발언' 코너로 꾸며져 빽가와 송경아가 출연했다. 이날 송경아는 여행 스타일에 대해 "저는 쉬는 스타일이다. 조식 안 먹고 잠을 잔다"고 밝혔다. 송경아는 "오늘 가족 여행을 가는데 남편은 저와 반대다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[젊은피 '귀공자'·'악마들' 아쉬움…허리라인 흥행 숙제 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230712113042502</link>
-            <guid>https://v.daum.net/v/20230712113042502</guid>
-            <pubDate>Wed, 12 Jul 2023 02:59:02 GMT</pubDate>
-            <content:encoded><![CDATA[허리라인 흥행은 여전히, 영 쉽지 않다. 영화 '범죄도시3(이상용 감독)'의 1000만 흥행으로 한국 영화계가 다시 활기를 띄는 모습이지만 본격적인 여름 대목 전 빈틈을 노린 작품들은 틈새에 끼이기만 했을 뿐 기대 만큼의 관객들의 선택을 받지는 못해 아쉬움을 남긴다. '관객이 영화관을 찾지 않는다'는 핑계는 더 이상 핑계가 되지 못한다. '그땐]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이연지 "롤모델은 서현진…자신만의 매력 녹여내는 모습에 매료" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230712111947972</link>
-            <guid>https://v.daum.net/v/20230712111947972</guid>
-            <pubDate>Wed, 12 Jul 2023 02:59:02 GMT</pubDate>
-            <content:encoded><![CDATA[매주 숨어있는 루키 배우들을 찾아 알려드리는 '숨은 루키 찾기!' 누구도 찾지 못한 보석 원석과도 같은 신예 루키 배우들의 매력을 파헤치고 소개한다. 처음 봐서 낯설지만 그래서 더 매력 있는 신인 배우들의 아이덴티티, 그리고 스토리. 앞으로 레귤러로 진행하는 '숨은 루키 찾기’에서 함께 루키 배우들을 찾아보는 건 어떨까? 이번 '숨은]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[오마이걸과 헤비메탈이 공존하는 페스티벌? (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230712111802877</link>
-            <guid>https://v.daum.net/v/20230712111802877</guid>
-            <pubDate>Wed, 12 Jul 2023 02:59:02 GMT</pubDate>
-            <content:encoded><![CDATA[[이현파 기자] ▲ &nbsp;2022 전주 얼티밋 뮤직 페스티벌에서 공연한 그룹 코요태ⓒ JUMF&nbsp; 뮤직 페스티벌의 계절인 여름이 시작되었다. 우선 지난 7월 8일과 9일에는 서울랜드에서 EDM 페스티벌이자 워터 페스티벌인 S20 코리아 송크란 뮤직 페스티벌이 열렸다. 오는 7월 15일에는 서울에서 스마일 러브 위크앤드 페스티벌이 열리고, 일산에서는 '해브 어 나]]></content:encoded>
+            <title><![CDATA[켈리 클락슨 "이혼 후 자녀가 '사랑'이 뭐냐고 물어...난처했다" (다음 연예 ─ 뉴스 ─ 해외)]]></title>
+            <link>https://v.daum.net/v/20230712124030500</link>
+            <guid>https://v.daum.net/v/20230712124030500</guid>
+            <pubDate>Wed, 12 Jul 2023 04:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=유비취 기자] 가수 켈리 클락슨이 이혼 후 자녀들 앞에서 난처한 상황에 놓였다고 털어놨다. 지난 4일(현지 시간) 팟캐스크 'Podcrushed(팟크러쉬드)'에 출연한 켈리 클락슨(41)이 이혼하면서 자녀들과 불편한 대화를 가져야 했다고 고백했다. 그는 자녀들이 사랑에 대해 물을 때 난처할 수밖에 없다고 전했다. 켈리 클락슨은 전 남편 브랜든]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[카디 비, 5살 딸 생일에 '3천만 원'짜리 에르메스 백 선물 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
@@ -998,13 +1005,6 @@
             <guid>https://v.daum.net/v/20230712115819592</guid>
             <pubDate>Wed, 12 Jul 2023 02:59:07 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;배우&nbsp;티모시&nbsp;샬라메가&nbsp;뮤지컬영화&nbsp;‘웡카’를&nbsp;통해&nbsp;관객들을&nbsp;순수한&nbsp;상상의&nbsp;세계로&nbsp;초대한다. 영화&nbsp;‘웡카’(감독&nbsp;폴&nbsp;킹,&nbsp;수입배급&nbsp;워너브러더스)의&nbsp;티저&nbsp;예고편이&nbsp;11일(현지&nbsp;시간)&nbsp;첫&nbsp;공개돼&nbsp;관심을&nbsp;모으고&nbsp;있다. ’웡카‘는&nbsp;로알드&nbsp;달의&nbsp;동화&nbsp;‘찰리와&nbsp;초콜릿&nbsp;공장’의&nbsp;등장인물&nbsp;중&nbsp;윌리&nbsp;웡카의&nbsp;과거를&nbsp;다룬&nbsp;영화.&nbsp;티모시&nbsp;샬라메는&nbsp;‘찰리와]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["내 가랑이에 얼굴을"..케빈 스페이시, 성범죄 재판서 男 피해자 폭로 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
-            <link>https://v.daum.net/v/20230712115342455</link>
-            <guid>https://v.daum.net/v/20230712115342455</guid>
-            <pubDate>Wed, 12 Jul 2023 02:59:07 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박소영 기자] 영화 ‘유주얼 서스펙트’로 반전 소름을 선사했던 배우 케빈 스페이시가 성범죄 재판을 받고 있다. 심지어 동성 피해자가 법정에 나서 적극적으로 자신의 피해를 알렸다. 10일(현지시각) 런던의 한 법정에서 케빈 스페이시의 성폭행 혐의에 대한 재판이 열렸다. 배우 지망생이었다는 남성 고소인은 오디션에서 만난 케빈 스페이시 집에 함께]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[일본 아이돌, 중국인 '팬클럽' 가입 못하게 막았다 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
@@ -1091,11 +1091,74 @@
             <content:encoded><![CDATA[[TV리포트=최은영 기자] 에미상을 수상한 작가 겸 감독 매니 코토(Manny Coto)가 별세했다. 향년 62세. 지난 9일 코토는 췌장암으로 13개월간의 투병 끝에 가족들이 지켜보는 가운데 자택에서 숨을 거뒀다. 코토는 '24: 라이브 어나더 데이', '24: 레거시', '아메리칸 호러 스토리', '스타트렉: 엔터프라이즈', '덱스터' 등의 작품으로 에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독]SM 신인 보이그룹, 9월 초 데뷔…최강 5세대돌 '괴물 신인' 탄생 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <title><![CDATA[몬스타엑스 아이엠, 첫 솔로 쇼케이스 투어 8월 개최 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004867106</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004867106</guid>
+            <pubDate>Wed, 12 Jul 2023 04:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 몬스타엑스 아이엠(I.M)이 첫 솔로 쇼케이스 투어를 개최한다. 아이엠은 오는 8월 5~6일 양일간 오후 5시 서울 YES24 라이브홀에서 '아이엠 쇼케이스 투어 인 서울 오버드라이브(I.M SHOWCASE T]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[몬스타엑스 아이엠, 첫 솔로 쇼케이스 투어 8월 개최 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003287594</link>
+            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003287594</guid>
+            <pubDate>Wed, 12 Jul 2023 04:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[몬스타엑스 아이엠(I.M)이 첫 솔로 쇼케이스 투어를 개최한다. 아이엠은 다음 달 5일부터 양일간 서울 광진구 예스24 라이브홀에서 ‘아이엠 쇼케이스 투어 인 서울 [오버드라이브]’(.M SHOWCASE TOUR I]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[더윈드, 8월 2일 컴백…'유스틴' 매력 폭발할 여름방학 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004867104</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004867104</guid>
+            <pubDate>Wed, 12 Jul 2023 04:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[5세대 신인 보이그룹 더윈드(The Wind)가 여름방학을 맞아 컴백한다. 더윈드(신재원, 김희수, 타나톤, 최한빈, 박하유찬, 안찬원, 장현준)는 오는 8월 2일 첫 번째 싱글 '레디(Ready) : 여름방학'을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[베일 벗은 (여자)아이들 첫 美 디싱 티저… 몽환적 ‘아이 두’ (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003287591</link>
+            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003287591</guid>
+            <pubDate>Wed, 12 Jul 2023 04:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 (여자)아이들(미연, 민니, 소연, 우기, 슈화)이 확 달라진 비주얼을 예고했다. 12일 (여자)아이들의 공식 SNS 채널을 통해 (여자)아이들의 미국 첫 번째 디지털 싱글 '아이 두‘(I DO)의 티저가 공개]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[윤서빈, 비주얼 물 올랐네…'파도쳐' 컴백 기대감 급상승 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004867103</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004867103</guid>
+            <pubDate>Wed, 12 Jul 2023 04:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[윤서빈이 완벽한 비주얼로 시선을 사로잡았다. 최근 윤서빈의 소속사 피스엔젤스컴퍼니는 공식 SNS를 통해 오는 7월 26일 발매되는 신곡 '파도쳐(LOVE IS LIKE A WAVE)'의 1차 콘셉트 포토를 순차적으로]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[인피니트 COMEBACK AGAIN, 7년 만에 완전체 콘서트 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000899494</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000899494</guid>
+            <pubDate>Wed, 12 Jul 2023 04:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[인피니트(INFINITE, 김성규, 장동우, 남우현, 이성열, 엘, 이성종)가 완전체로 단독 콘서트를 개최한다. 인피니트 컴퍼니는 12일 정오 공식 SNS와 유튜브 채널을 통해 ‘2023 인피니트 콘서트 ’컴백 어게]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소유, 신곡 '알로하'에 보라 피처링 '씨스타 의리' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001614904</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001614904</guid>
+            <pubDate>Wed, 12 Jul 2023 04:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[가수 소유가 보라와 함께 또 하나의 여름 대표곡을 선보인다. 소유는 지난 11일 소속사 빅플래닛메이드엔터 공식 SNS에 두 번째 미니앨범 'Summer Recipe'(썸머 레시피)의 트랙리스트 이미지를 공개했다. 트]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[위키미키 엘리, 경쟁팀도 극찬...밝은 에너지+시원한 보컬('퀸덤퍼즐') (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000440005</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000440005</guid>
+            <pubDate>Wed, 12 Jul 2023 04:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 위키미키 엘리가 경쟁팀의 감탄까지 이끌어냈다. 엘리는 11일 방송된 Mnet 서바이벌 프로그램 '퀸덤퍼즐' 올라운더 무대에 올랐다. 이날 방송에서 엘리는 '올라운더 배틀' 선공과 후공을 정하는 가위바위보에서 마]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[인피니트, 8월 콘서트 포스터 공개..완전체 위해 회사도 세웠다..대표=김성규 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003641840</link>
+            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003641840</guid>
+            <pubDate>Wed, 12 Jul 2023 04:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 인피니트(INFINITE, 김성규, 장동우, 남우현, 이성열, 엘, 이성종)의 단독 콘서트 완전체 포스터가 공개됐다. 소속사 인피니트 컴퍼니는 12일 정오 공식 SNS와 유튜브 채널을 통해 '2023 인피니트]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독]SM 신인 보이그룹, 9월 데뷔…최강 5세대돌 '괴물 신인' 탄생 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
             <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004030786</link>
             <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004030786</guid>
             <pubDate>Wed, 12 Jul 2023 03:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[SM엔터테인먼트(이하 SM)의 새로운 신인 보이그룹의 데뷔가 임박했다. 스포츠조선 취재 결과, SM 신인 보이그룹은 9월 초 데뷔를 목표로 한창 준비하고 있다. 현재 미국 로스앤젤레스(LA)에서 데뷔곡 뮤직비디오 촬]]></content:encoded>
+            <content:encoded><![CDATA[SM엔터테인먼트(이하 SM)의 새로운 신인 보이그룹의 데뷔가 임박했다. 스포츠조선 취재 결과, SM 신인 보이그룹은 오는 9월 데뷔를 목표로 한창 준비하고 있다. 현재 미국 로스앤젤레스(LA)에서 데뷔곡 뮤직비디오]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[방탄소년단, 그룹부터 솔로까지 美 빌보드 차트인 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
@@ -1203,70 +1266,112 @@
             <content:encoded><![CDATA[걸 그룹 KISS OF LIFE(키스오브라이프)가 밴드 라이브 세션과 함께 무대를 꾸민다. KISS OF LIFE는 12일 오후 5시 유튜브 잇츠 라이브(it's Live) 채널에서 첫 미니앨범 타이틀곡 '쉿'(Sh]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[오드아이써클, 이달소 새 출발 신호탄…국내외 신보 활동 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011968247</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011968247</guid>
-            <pubDate>Wed, 12 Jul 2023 02:59:16 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 '오드아이써클'이 가요 기획사 모드하우스의 새 프로젝트 아르테미스(ARTMS)의 시작을 알린다. 12일 모드하우스에 따르면, 오드아이써클(김립·진솔·최리)은 이날 오후 6시 새 미니앨범 '버전 업(Version]]></content:encoded>
+            <title><![CDATA[안보현, ‘부산촌놈 in 시드니’ 유종의 미…드라마 이어 예능도 접수 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000649548</link>
+            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000649548</guid>
+            <pubDate>Wed, 12 Jul 2023 04:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[배우 안보현이 '부산촌놈 in 시드니'를 마지막까지 유쾌하고 훈훈하게 채우며 마무리했다. 이에 예능과 드라마 모두 종횡무진 활약해 끊임없이 활동폭을 넓혀 나가며 2023년 상반기를 꽉 채웠다. 지난 10일 마지막 회]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['한·필 합작 오디션' 출신 호라이즌, 데뷔 전 콘셉트 포토로 '매력 발산' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001614885</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001614885</guid>
-            <pubDate>Wed, 12 Jul 2023 02:59:16 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 호라이즌(HORI7ON)이 새 콘셉트 포토를 공개했다. 지난 11일 호라이즌 공식 SNS 채널을 통해 이들의 데뷔 정규앨범 'Friend-SHIP(프렌드-십)'의 두 번째 콘셉트 포토가 공개됐다. 공개된 이미지]]></content:encoded>
+            <title><![CDATA[장원영, 초근접샷에 더 빛나 [스타★샷] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000649547</link>
+            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000649547</guid>
+            <pubDate>Wed, 12 Jul 2023 04:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 아이브 장원영이 근황을 전했다. 12일 장원영은 자신의 SNS에 여러 장의 사진을 게재했다. 사진=장원영 인스타그램 공개된 사진은 무대 의상을 입고 포즈를 취하는 그의 모습. 초근접샷에서도 살아남는 장원영의 무]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“팬콘 성원에 잊지 않고 준비”…판타지 보이즈, 9월 신곡 발표 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000949036</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000949036</guid>
-            <pubDate>Wed, 12 Jul 2023 02:59:16 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 판타지 보이즈(FANTASY BOYS)가 9월 신곡을 발표한다. 판타지 보이즈는 오는 9월 신곡을 공개, 오직 판타지 보이즈 만의 존재감이 담긴 음악으로 글로벌 팬을 만나겠다는 각오다. 판타지 보이즈는 “팬 콘]]></content:encoded>
+            <title><![CDATA[몬스타엑스 아이엠, 첫 솔로 쇼케이스 투어 8월 개최 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003287594</link>
+            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003287594</guid>
+            <pubDate>Wed, 12 Jul 2023 04:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[몬스타엑스 아이엠(I.M)이 첫 솔로 쇼케이스 투어를 개최한다. 아이엠은 다음 달 5일부터 양일간 서울 광진구 예스24 라이브홀에서 ‘아이엠 쇼케이스 투어 인 서울 [오버드라이브]’(.M SHOWCASE TOUR I]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[블랙핑크 리사, YG 재계약 난항설 제기…“논의중” 답변에도 여론·시장 초집중 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=030&amp;aid=0003116649</link>
-            <guid>https://entertain.naver.com/now/read?oid=030&amp;aid=0003116649</guid>
-            <pubDate>Wed, 12 Jul 2023 02:59:16 GMT</pubDate>
-            <content:encoded><![CDATA[블랙핑크 리사가 소위 '탈YG' 우려가 제기되면서, 여론과 시장의 시선이 쏠리고 있다. 12일 문화일보는 중국 측 에이전시의 말을 인용, 블랙핑크 리사와 YG 간의 재계약 난항 소식을 단독보도했다. 보도에 따르면 해]]></content:encoded>
+            <title><![CDATA[빽가 "'연예인이 왜 비즈니스석 안 타' 그 말에 상처"(라디오쇼) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004030814</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004030814</guid>
+            <pubDate>Wed, 12 Jul 2023 04:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[빽가가 비행기 탑승 중 상처 받은 사연을 공개했다. 12일 방송된 KBS 쿨FM '박명수의 라디오쇼'에서는 송경아, 빽가와 함께하는 '빽가송의 소신발언'이 진행됐다. 이날 박명수는 '여행 스타일이 다른 커플'이라는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[DSP 신인 걸그룹 영파씨, 하반기 데뷔…키겐 공동제작 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000439992</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000439992</guid>
-            <pubDate>Wed, 12 Jul 2023 02:59:16 GMT</pubDate>
-            <content:encoded><![CDATA[DSP미디어가 올 하반기 신인 걸그룹 영파씨(YOUNG POSSE)를 선보인다. DSP미디어는 12일 신인 걸그룹 영파씨의 로고를 공개하며 베일에 싸여 있던 그룹명을 공식 발표했다. 영파씨(YOUNG POSSE)는]]></content:encoded>
+            <title><![CDATA[블랙핑크 리사, 세계적 부호와 파리 데이트설 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0005157322</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0005157322</guid>
+            <pubDate>Wed, 12 Jul 2023 04:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 블랙핑크 리사의 재계약 불발 가능성이 제기된 가운데, 열애설도 나오며 관심이 집중되고 있다. 지난 10일 일부 해외 매체들은 리사와 프레데릭 아르노(Frederic Arnault)의 데이트설을 제기했다. 매체들]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2023 상반기 핫루키 모두 걸그룹…'걸그룹 초강세' 여전하네 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=415&amp;aid=0000019547</link>
-            <guid>https://entertain.naver.com/now/read?oid=415&amp;aid=0000019547</guid>
-            <pubDate>Wed, 12 Jul 2023 02:59:16 GMT</pubDate>
-            <content:encoded><![CDATA[뮤빗(Mubeat)의 팬덤 실험실이 상반기 결산 아티스트 리포트를 발표했다. 12일 공개된 상반기 결산 아티스트 리포트에는 올해 1월부터 6월까지 매월 전 세계 K팝 팬들에게 크게 사랑받았던 아티스트를 한눈에 확인할]]></content:encoded>
+            <title><![CDATA[[SC이슈] "전세계 부호 2위 아들과 파리 데이트"…블랙핑크 리사 열애설, YG 입장 밝힐까 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004030811</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004030811</guid>
+            <pubDate>Wed, 12 Jul 2023 04:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[블랙핑크 리사가 재벌 2세와의 열애설에 휘말렸다. 10일 해외 매체들은 리사가 프랑스 파리의 한 식당에서 명품 시계 브랜드 태그호이어의 CEO인 프레데릭 아르노와 데이트를 즐기는 모습이 포착됐다고 보도했다. 리사와]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[오마이걸, 믿고 보는 러블리 컴백..타이틀곡은 ‘여름이 들려' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004887298</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004887298</guid>
-            <pubDate>Wed, 12 Jul 2023 02:59:16 GMT</pubDate>
-            <content:encoded><![CDATA[오마이걸(OH MY GIRL)이 오는 24일 컴백을 앞두고 트랙리스트를 공개했다. 12일 소속사 WM엔터테인먼트는 공식 SNS 채널에 오마이걸 미니 9집 ‘Golden Hourglass’의 트랙리스트를 게시했다. 오]]></content:encoded>
+            <title><![CDATA[윤형빈 "재능 많던 故이지수, KBS 코미디 크루 뽑혀 기대 차 있었는데..."(인터뷰) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001908661</link>
+            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001908661</guid>
+            <pubDate>Wed, 12 Jul 2023 04:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[개그우먼 이지수 씨가 30세를 일기로 갑작스럽게 세상을 떠난 가운데, 고인을 발굴한 선배 개그맨 윤형빈 씨가 애도를 표했다. 윤형빈 씨는 오늘(12일) YTN과 전화 인터뷰에서 "개그를 사랑하고 밝고 좋은 친구였는데]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[피프티 피프티, 분쟁 중에도 美 빌보드 핫100 16주째 차트인 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=018&amp;aid=0005528234</link>
-            <guid>https://entertain.naver.com/now/read?oid=018&amp;aid=0005528234</guid>
-            <pubDate>Wed, 12 Jul 2023 02:59:16 GMT</pubDate>
-            <content:encoded><![CDATA[피프티 피프티(사진=어트랙트) 그룹 피프티 피프티(FIFTY FIFTY)가 소속사 어트랙트와의 전속계약 분쟁에도 미국 빌보드 핫100 차트 상위권에서 롱런하고 있다. 12일 빌보드에 따르면 피프티 피프티의 ‘큐피드’]]></content:encoded>
+            <title><![CDATA[[단독] 故 이지수, 잠든 사이 사망 추정...유족 "최근 고열로 입원, 부검 의뢰" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001908660</link>
+            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001908660</guid>
+            <pubDate>Wed, 12 Jul 2023 04:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[30세를 일기로 갑작스럽게 세상을 떠난 개그우먼 이지수 씨가 최근 고열로 입원했던 것으로 확인됐다. 유족은 정확한 사인을 알고자 부검을 진행했다. 오늘(12일) 유족들에 따르면 고(故) 이지수 씨는 지난 9일 서울]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[엔믹스, 컴백 쇼케이스 대성공..팬들과 한여름밤 꿈같은 시간 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003641825</link>
-            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003641825</guid>
-            <pubDate>Wed, 12 Jul 2023 02:59:16 GMT</pubDate>
-            <content:encoded><![CDATA[NMIXX(엔믹스)가 컴백한 가운데, 팬들과 꿈같은 시간을 보냈다. NMIXX는 지난 11일 세 번째 싱글 'A Midsummer NMIXX's Dream'(어 미드서머 엔믹스 드림)과 타이틀곡 'Party O'Cl]]></content:encoded>
+            <title><![CDATA[베일 벗은 (여자)아이들 첫 美 디싱 티저… 몽환적 ‘아이 두’ (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003287591</link>
+            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003287591</guid>
+            <pubDate>Wed, 12 Jul 2023 04:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 (여자)아이들(미연, 민니, 소연, 우기, 슈화)이 확 달라진 비주얼을 예고했다. 12일 (여자)아이들의 공식 SNS 채널을 통해 (여자)아이들의 미국 첫 번째 디지털 싱글 '아이 두‘(I DO)의 티저가 공개]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[리사, 루이비통 그룹 2세와 '파리 데이트?' 외신 발칵...YG는 반응無 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <title><![CDATA['악귀' 김태리는 왜 자꾸 한강다리에 갈까...김은희 작가 "안타까운 청춘 단상" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004030806</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004030806</guid>
+            <pubDate>Wed, 12 Jul 2023 04:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[SBS '악귀'에서 자주 등장하는 장소가 있다. 악귀에 씐 김태리가 찾아가는 한강다리다. SBS 금토드라마 '악귀'(극본 김은희, 연출 이정림, 제작 스튜디오S, BA엔터테인먼트)에서 한강다리는 의미 있는 공간이다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[정호영 셰프 “꽃게 때문에 직원들 자주 그만둬”(미친 원정대) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003287589</link>
+            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003287589</guid>
+            <pubDate>Wed, 12 Jul 2023 04:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[일식 셰프 정호영이 삿포로에서 쌓인 한을 풀었다. 11일 방송된 IHQ 예능 프로그램 ‘미친 원정대’에는 대만에 이어 일본 훗카이도 먹투어에 나선 이연복, 정호영, 원영호, 2AM 창민이 출연했다. 삿포로에 도착하자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[제11회 부코페, 숏박스→싱글벙글쇼 온다 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000949049</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000949049</guid>
+            <pubDate>Wed, 12 Jul 2023 04:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[‘제11회 부산국제코미디페스티벌(BICF)’의 1차 라인업이 공개됐다. 오는 8월 25일부터 9월 3일까지 10일간 부산 각지에서 분산 개최해 대한민국을 웃음으로 물들일 ‘제11회 부산국제코미디페스티벌(BICF)’(]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[유지태, '조재현 딸' 조혜정 주연 캐스팅..'톡투허'로 감독 컴백[공식] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004030792</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004030792</guid>
+            <pubDate>Wed, 12 Jul 2023 04:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[영화배우 유지태가 오랜만에 영화감독으로 돌아온다. 유지태가 매가폰을 잡은 작품은 단편영화 '톡투허'다. 지난달 29일 첫 촬영을 시작한 유지태는 최근 모든 촬영을 마치고, 후반 작업 중에 있다. '톡투허'에는 유지태]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[최준희, 외조모 욕설 공개 "너무 익숙하게 듣고 자라" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=079&amp;aid=0003790090</link>
+            <guid>https://entertain.naver.com/now/read?oid=079&amp;aid=0003790090</guid>
+            <pubDate>Wed, 12 Jul 2023 04:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[배우 고(故) 최진실의 딸이자 인플루언서인 최준희가 외할머니 정옥숙씨를 주거침입 혐의로 신고한 가운데, 정씨가 욕설하는 영상을 공개했다. 최준희는 11일 자신의 인스타그램 스토리에 외할머니 정옥숙씨 모습이 담긴 영상]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] 이동건 “‘셀러브리티’는 새로운 시작… 선입견 없이 봐주길” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003287584</link>
+            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003287584</guid>
+            <pubDate>Wed, 12 Jul 2023 04:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이동건이 ‘셀러브리티’에서 아쉬운 부분이 있다고 고백했다. 12일 오전 서울 청담동 FNC엔터테인먼트 사옥에서 넷플릭스 시리즈 ‘셀러브리티’ 주연 이동건의 인터뷰가 진행됐다. 지난달 31일 공개된 ‘셀러브리티’]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[블랙핑크 리사, 루이비통 그룹 2세와 '파리 데이트?' 외신 발칵...YG는 반응無 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
             <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004030787</link>
             <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004030787</guid>
             <pubDate>Wed, 12 Jul 2023 03:24:23 GMT</pubDate>
@@ -1336,109 +1441,25 @@
             <content:encoded><![CDATA[배우 유준상의 테니스 열정이 빛난 화보가 공개됐다. tvN 새 토일드라마 '경이로운 소문2: 카운터 펀치'와 뮤지컬 '그날들'로 올여름 종횡무진 활약을 예고한 유준상이 테니스 전문지 '테니스코리아' 7월호에서 남다른]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['닭, 싸움' 오늘 저녁 8시 50분 첫 방송! 관전 포인트는? (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000350895</link>
-            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000350895</guid>
-            <pubDate>Wed, 12 Jul 2023 02:59:25 GMT</pubDate>
-            <content:encoded><![CDATA[JTBC 치킨 요리 서바이벌 '셰프들의 치킨 전쟁, 닭, 싸움' (이하 '닭, 싸움')이 첫 방송을 앞두고 세 가지 관전 포인트를 공개했다. '닭, 싸움'은 한식·중식·양식·일식을 대표하는 일타 셰프 8인의 수제자들]]></content:encoded>
+            <title><![CDATA[켈리 클락슨 "이혼 후 자녀가 '사랑'이 뭐냐고 물어...난처했다" [할리웃통신] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001262742</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001262742</guid>
+            <pubDate>Wed, 12 Jul 2023 04:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[가수 켈리 클락슨이 이혼 후 자녀들 앞에서 난처한 상황에 놓였다고 털어놨다. 지난 4일(현지 시간) 팟캐스크 'Podcrushed(팟크러쉬드)'에 출연한 켈리 클락슨(41)이 이혼하면서 자녀들과 불편한 대화를 가져야]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[블랙핑크 리사, YG 재계약 불발?...소속사 "현재 논의 중" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=629&amp;aid=0000226977</link>
-            <guid>https://entertain.naver.com/now/read?oid=629&amp;aid=0000226977</guid>
-            <pubDate>Wed, 12 Jul 2023 02:59:25 GMT</pubDate>
-            <content:encoded><![CDATA[전속계약 만료 앞둔 블랙핑크, 향후 거취에 '이목 집중' YG엔터테인먼트(이하 YG)가 블랙핑크(BLACKPINK) 리사와 재계약 불발설을 부인했다. 소속사 YG 관계자는 12일 &lt;더팩트&gt;에 "(8월 이후 스케줄을]]></content:encoded>
+            <title><![CDATA[英팝스타 해리 스타일스, 비엔나 공연 중 관객에게 물건 테러 당해 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003287586</link>
+            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003287586</guid>
+            <pubDate>Wed, 12 Jul 2023 04:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[영국 출신 팝스타 해리 스타일스가 오스트리아 비엔나 공연 중 봉변을 당했따. 10일(이하 현지 시간) CNN 등 여러 현지 매체에 따르면 해리 스타일스는 이틀 전인 8일 비엔나에서 공연을 하다 관객이 던진 물건에 눈]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['짠당포, 탁재훈X김상욱 교수 의외의 케미 폭발 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000350894</link>
-            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000350894</guid>
-            <pubDate>Wed, 12 Jul 2023 02:59:25 GMT</pubDate>
-            <content:encoded><![CDATA[김상욱 교수와 탁재훈이 의외의 케미를 자랑했다. 11일(화) 방송된 JTBC 토크쇼 '짠당포'에는 다정한 물리학자 김상욱 교수가 출연해 짠내나던 20대 연애 이야기는 물론 학창 시절 트라우마까지 공개하며 진솔한 토크]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[윤종신 "채리나, 공연 도중 안티팬 때리러 무대서 내려갔다더라" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006922733</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006922733</guid>
-            <pubDate>Wed, 12 Jul 2023 02:59:25 GMT</pubDate>
-            <content:encoded><![CDATA[가수 윤종신이 후배 채리나에게 안티 팬들과 대치한 적이 있다는 소문에 대해 물었다. 지난 11일 방송된 JTBC '짠당포'에는 전설의 걸그룹 4인방 채리나, 나르샤, 산다라박, 채령이 출연했다. 이날 윤종신은 채리나]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이혜정, 중견기업 회장 父이어 母까지 재산 사회 환원.."그만 좀 하지" 솔직 고백 ('돌싱포맨')[종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004030772</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004030772</guid>
-            <pubDate>Wed, 12 Jul 2023 02:59:25 GMT</pubDate>
-            <content:encoded><![CDATA[이혜정과 탁재훈이 부친의 재산 재산 환원에 대한 솔직한 생각을 밝혔다. 11일 방송된 SBS '신발 벗고 돌싱포맨'에는 요리 연구가 이혜정, 배우 박준금, 개그맨 오정태가 출연했다. 이날 이상민은 이혜정에게 "친정아]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['40대 인턴' 라미란의 우당탕 직장생활…'잔혹한 인턴' 8월 공개 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0014060722</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0014060722</guid>
-            <pubDate>Wed, 12 Jul 2023 02:59:25 GMT</pubDate>
-            <content:encoded><![CDATA[레지던트로 취업했던 엄정화가 가고, 이번에는 경력직 인턴에 도전하는 주부 라미란이 안방극장을 찾는다. 티빙은 새 오리지널 시리즈 '잔혹한 인턴'을 내달 11일 처음 공개한다고 12일 밝혔다. '잔혹한 인턴'은 불혹의]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“뭐든지 하자...바쁘게 살 생각” 정재용, 상담 예능 프로 MC 출격 이유 [직격인터뷰] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003287573</link>
-            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003287573</guid>
-            <pubDate>Wed, 12 Jul 2023 02:59:25 GMT</pubDate>
-            <content:encoded><![CDATA[“뭐든지 해보자 주의...바쁘게 살 생각이다.” 그룹 DJ DOC 정재용이 OBS W 새 예능 프로그램 ‘정재용의 인생 신호등’의 MC로 발탁된 소감에 대해 이 같이 말했다. 이어 그는 “나부터 상담을 받아야 하는데]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[씨네+] 젊은피 '귀공자'·'악마들' 아쉬움…허리라인 흥행 숙제 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000350893</link>
-            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000350893</guid>
-            <pubDate>Wed, 12 Jul 2023 02:59:25 GMT</pubDate>
-            <content:encoded><![CDATA[허리라인 흥행은 여전히, 영 쉽지 않다. 영화 '범죄도시3(이상용 감독)'의 1000만 흥행으로 한국 영화계가 다시 활기를 띄는 모습이지만 본격적인 여름 대목 전 빈틈을 노린 작품들은 틈새에 끼이기만 했을 뿐 기대]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[팬투 권은비 클럽, 개설 10일 만에 가입자 수 400명 돌파 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001755521</link>
-            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001755521</guid>
-            <pubDate>Wed, 12 Jul 2023 02:59:25 GMT</pubDate>
-            <content:encoded><![CDATA[팬투에 개설된 가수 권은비 클럽 가입자 수가 개설 10일만에 400명을 돌파했다. 한류뱅크가 운영하는 글로벌 팬덤 플랫폼 팬투(FANTOO)의 권은비 팬클럽은 공식 클럽이 아닌 일반 유저가 개설한 클럽으로, 더욱 자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘코빅’, 이지수 추모 “웃음에 진심…열정 잊지 않겠다” [DA★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001062973</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001062973</guid>
-            <pubDate>Wed, 12 Jul 2023 02:59:25 GMT</pubDate>
-            <content:encoded><![CDATA[tvN ‘코미디 빅리그’ 제작진이 고인된 개그우먼 이지수를 추모했다. ‘코미디 빅리그’ 제작진은 12일 공식 인스타그램 계정을 통해 “누구보다 웃음에 진심이었던 코미디언 이지수 님을 ‘코미디 빅리그’는 기억합니다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[YG "블랙핑크, 현재 월드투어 중… 재계약 논의 중" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000350891</link>
-            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000350891</guid>
-            <pubDate>Wed, 12 Jul 2023 02:59:25 GMT</pubDate>
-            <content:encoded><![CDATA[전속 계약 종료를 앞둔 블랙핑크가 여전히 YG와 재계약을 두고 논의 중이다. YG엔터테인먼트는 12일 '8월 이후 스케줄을 협의하기 어려운 것은 투어 및 개인 일정 때문일 뿐 계약 여부와 관계 없다. 현재 재계약을]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[빽가 "형, 조수석에서 맞아본 적 없지"…김종민에 살벌한 경고 '왜?' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006922532</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006922532</guid>
-            <pubDate>Wed, 12 Jul 2023 02:59:25 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 코요태의 태국 여행 도중 빽가가 형 김종민에게 살벌한 경고장을 날렸다. 지난 11일 방송된 JTBC '뭉뜬리턴즈'에서는 지난 방송에 이어 데뷔 25주년 기념 여행을 떠난 코요태의 모습이 공개됐다. 이날 코요태는]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["이 정도면 럽스타?"… 한소희♥송혜교, 출연 불발에도 애정 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000934497</link>
-            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000934497</guid>
-            <pubDate>Wed, 12 Jul 2023 02:59:25 GMT</pubDate>
-            <content:encoded><![CDATA[배우 한소희와 송혜교가 여전히 아름다운 우정을 이어나가 훈훈함을 자아낸다. 최근 한소희는 자신의 인스타그램에 해외에서 찍은 여러 장의 셀카를 게재했다. 공개 사진 속 한소희는 어깨 라인을 드러낸 드레스로 고혹적인 매]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[최수영 “모든 예상 비껴가는, 반전 충만해” (남남) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001062972</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001062972</guid>
-            <pubDate>Wed, 12 Jul 2023 02:59:25 GMT</pubDate>
-            <content:encoded><![CDATA[전혜진, 최수영, 안재욱, 박성훈이 지니TV 오리지널 ‘남남’(극본 민선애 연출 이민우) 관전포인트를 짚었다. ‘남남’은 철부지 엄마와 쿨한 딸의 ‘남남’ 같은 대환장 한 집 살이와 그녀들의 썸과 사랑을 그린 작품이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["산후조리원 동기와 바람난 남편" 이혼전문변호사도 경악한 불륜 실화 ('옥문아') (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004030756</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004030756</guid>
-            <pubDate>Wed, 12 Jul 2023 02:59:25 GMT</pubDate>
-            <content:encoded><![CDATA['옥문아' 이혼 전문 변호사 양나래도 경악한 불륜 실화가 공개된다. 12일 KBS2 '옥탑방의 문제아들' 측은 ''사랑과 전쟁'보다 더한 상상초월 불륜실화. 산후조리원동기와 바람난 남편?!'이라는 제목의 선공개 영상]]></content:encoded>
+            <title><![CDATA[“케빈 스페이시, 男 배우 지망생 술 먹이고 구강 성교” 충격 주장[할리우드 비하인드] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000747223</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000747223</guid>
+            <pubDate>Wed, 12 Jul 2023 04:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[케빈 스페이시의 동성 성폭행 혐의 재판에서 충격적인 주장이 제기됐다. 미국 드라마 '하우스 오브 카드'에서 대통령 '프랜시스 언더우드' 역을 맡아 국내서도 유명한 배우 케빈 스페이시의 동성 성폭행 혐의 재판이 시작됐]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[카디 비, 5살 딸 생일에 '3천만 원'짜리 에르메스 백 선물 [할리웃통신] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
@@ -1593,27 +1614,6 @@
             <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011967286</guid>
             <pubDate>Tue, 11 Jul 2023 21:12:38 GMT</pubDate>
             <content:encoded><![CDATA[할리우드 유명 배우 케빈 스페이시(64)의 동성 성폭행 혐의를 다루는 법정에서 충격적인 증언이 나왔다. 10일(현지시간)영국 BBC·미국 버라이어티 등 외신에 따르면, 이날 영국 런던 사우스워크 크라운 법원에서 열린]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[리한나, 만삭에도 속옷만 입고 과감한 노출..핑크빛 자태[Oh!llywood] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004887086</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004887086</guid>
-            <pubDate>Tue, 11 Jul 2023 16:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[팝스파 리한나가 파격적인 노출에 도전했다. 11일(현지시각) 외신은 “리한나가 그녀의 란제리 라인의 새 컬렉션을 홍보하기 위해 섹시한 새 사진을 공유하면서 ‘아기 범프’를 괴시했다. 팬들은 리한나의 섹시한 사진을 확]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[케빈 스페이시 인생도 역대급 반전?..성범죄 12건+동성 피해자 충격 증언 (종합)[Oh!llywood] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004887080</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004887080</guid>
-            <pubDate>Tue, 11 Jul 2023 15:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[할리우드 배우 케빈 스페이시가 무려 12건의 성추행 및 성폭행 혐의로 재판을 받고 있는 가운데 동성 피해자가 목소리를 냈다. 10일(현지시각) 런던 법정에서 케빈 스페이시의 성폭행 혐의에 대한 재판이 열렸다. 남성]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[마돈나, 유산 관리 시작...매니저에게도 재산 나눠준다 [할리웃 통신] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001262677</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001262677</guid>
-            <pubDate>Tue, 11 Jul 2023 12:32:14 GMT</pubDate>
-            <content:encoded><![CDATA[팝스타 마돈나가 건강 상태 비상 이후 '유산 관리'를 시작했다. 최근 미국 한 언론매체에 따르면 마돈나(64)는 음악 활동을 통해 얻은 유산을 자녀 6명에게 모두 골고루 나눠주기로 했다. 그가 격렬하게 반대하는 것은]]></content:encoded>
         </item>
     </channel>
 </rss>
