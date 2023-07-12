@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 23:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 01:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘태양의서커스-루치아’,  "10월 서울 공연, 내년 부산 공연"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=271097</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=271097</guid>
+            <pubDate>Wed, 12 Jul 2023 01:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=271097">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230712082122_7e4c536745dfb169665a3a2fafb3f5a4.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=271097">‘태양의서커스-루치아’,  "10월 서울 공연, 내년 부산 공연"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230712082122_7e4c536745dfb169665a3a2fafb3f5a4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[화보] 박하선 '엘르' 화보 비하인드 컷]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=270887</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=266575">드라마 '킹더랜드' 세계관, 카카오 웹툰으로 만난다</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230612092230_efad81c83578756694b4be8f38683f9c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["외쳐, 오에오~"  뮤지컬 '스웨그에이지 외쳐,조선!' 오늘 개막]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=266171</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=266171</guid>
-            <pubDate>Thu, 08 Jun 2023 23:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=266171">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230608094217_f9419f774849a35586dc971dfb606282.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=266171">"외쳐, 오에오~"  뮤지컬 '스웨그에이지 외쳐,조선!' 오늘 개막</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230608094217_f9419f774849a35586dc971dfb606282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
