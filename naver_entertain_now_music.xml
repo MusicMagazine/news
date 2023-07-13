@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-07-13T03:03:20.043Z</updated>
+    <updated>2023-07-13T03:28:03.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[투모로우바이투게더, 2023년 상반기 美 CD 판매량 1위]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000747588</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000747588"/>
+        <updated>2023-07-13T03:27:47.399Z</updated>
+        <content type="html"><![CDATA[그룹 투모로우바이투게더가 2023년 상반기 미국 내 CD 판매량 1위를 차지했다. 7월 12일(현지시간) 미국의 엔터테인먼트 산업 데이터 조사 업체 Luminate가 공개한 2023년 상반기 리포트에 따르면 투모로우]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이브, 서머퀸 노린다...컬래버 음원 '아이 원트' 발매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000440276</id>
+        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000440276"/>
+        <updated>2023-07-13T03:27:47.404Z</updated>
+        <content type="html"><![CDATA[그룹 아이브가 펩시와 컬래버레이션 음원을 선보인다. 소속사 스타쉽엔터테인먼트와 펩시는 13일 오후 6시 각종 음원 사이트를 통해 '2023 펩시 캠페인' 주인공 아이브의 신곡 '아이 원트(I WANT)'를 공개한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이콘 김진환, 18일 솔로데뷔…라이브공연서 입대인사]]></title>
         <id>https://entertain.naver.com/now/read?oid=030&amp;aid=0003117015</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004867594"/>
         <updated>2023-07-13T03:03:02.546Z</updated>
         <content type="html"><![CDATA[가수 김소연이 12일 오후 경기도 고양시 MBC 드림센터에서 열린 MBC M '쇼 챔피언' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 김소연, '애교 가득한 미소~']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004867593</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004867593"/>
-        <updated>2023-07-13T03:03:02.548Z</updated>
-        <content type="html"><![CDATA[가수 김소연이 12일 오후 경기도 고양시 MBC 드림센터에서 열린 MBC M '쇼 챔피언' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이브, '서머 퀸'의 화려한 귀환…신곡 '아이 원트' 발매]]></title>
-        <id>https://entertain.naver.com/now/read?oid=408&amp;aid=0000194384</id>
-        <link href="https://entertain.naver.com/now/read?oid=408&amp;aid=0000194384"/>
-        <updated>2023-07-13T03:03:02.551Z</updated>
-        <content type="html"><![CDATA[걸그룹 아이브(IVE)가 신곡 '아이 원트(I WANT)를 공개한다. 펩시와 스타쉽엔터테인먼트(이하 스타쉽)는 13일 오후 6시 각종 음원 사이트를 통해 '2023 펩시 캠페인' 주인공 아이브의 신곡 '아이 원트(I]]></content>
     </entry>
 </feed>
