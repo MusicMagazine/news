@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2023-07-13T17:13:59.600Z</updated>
+    <updated>2023-07-13T18:18:21.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이정현 남편 “내가 의사지만, 내 주치의는 아내” 사랑꾼 (편스토랑)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001063413</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0001063413"/>
+        <updated>2023-07-13T18:18:11.184Z</updated>
+        <content type="html"><![CDATA[KBS2 예능 ‘신상출시 편스토랑’ 이정현의 남편이 아내 보디가드에 등극한다. 14일 ‘신상출시 편스토랑’에서는 작은 체구에 넘치는 에너지로, 연기, 육아, 요리까지 완벽하게 해내며 '집밥 여전사'로 불리는 이정현의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김숙·박나래 합류 ‘토밥좋아’ 새 포스터 공개]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001063412</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0005158361"/>
         <updated>2023-07-13T16:17:37.999Z</updated>
         <content type="html"><![CDATA[‘댄스가수 유랑단’ 엄정화가 센 언니로 변신했다. 13일 방송된 tvN 예능프로그램 ‘댄스가수 유랑단’에서는 엄정화가 이효리 ‘치티치티뱅뱅’ 무대를 준비하는 모습이 그려졌다. 이날 엄정화는 센 언니로 완벽하게 변신해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백' 있지 카리스마 장착]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001063405</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0001063405"/>
-        <updated>2023-07-13T16:17:38.001Z</updated>
-        <content type="html"><![CDATA[그룹 ITZY(있지)가 새 미니 앨범 'KILL MY DOUBT'(킬 마이 다웃) 콘셉트 사진과 영상을 추가 공개했다. 멤버 예지, 리아, 류진, 채령, 유나는 마치 경기를 앞둔 라커룸에서 비장함이 맴도는 분위기로]]></content>
     </entry>
 </feed>
