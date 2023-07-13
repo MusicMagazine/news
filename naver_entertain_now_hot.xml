@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2023-07-13T16:17:47.762Z</updated>
+    <updated>2023-07-13T17:13:59.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김숙·박나래 합류 ‘토밥좋아’ 새 포스터 공개]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001063412</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0001063412"/>
+        <updated>2023-07-13T17:13:48.572Z</updated>
+        <content type="html"><![CDATA[티캐스트 E채널 예능 '토요일은 밥이 좋아'가 새 멤버 김숙, 박나래의 모습이 담긴 포스터를 공개했다. 포스터에는 기존 멤버 현주엽, 히밥과 새로운 얼굴 박나래, 김숙이 한 테이블에 둘러앉아 음식을 먹고 있다. 친근]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[옥택연·원지안·박강현, 쉬는 시간에도 장꾸美 (가슴이 뛴다)]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001063411</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0001063405"/>
         <updated>2023-07-13T16:17:38.001Z</updated>
         <content type="html"><![CDATA[그룹 ITZY(있지)가 새 미니 앨범 'KILL MY DOUBT'(킬 마이 다웃) 콘셉트 사진과 영상을 추가 공개했다. 멤버 예지, 리아, 류진, 채령, 유나는 마치 경기를 앞둔 라커룸에서 비장함이 맴도는 분위기로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더보이즈 현재, 김완선과 댄스 호흡... “기쁜 마음으로 참여” (‘댄스가수 유랑단’)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=009&amp;aid=0005158360</id>
-        <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0005158360"/>
-        <updated>2023-07-13T16:17:38.003Z</updated>
-        <content type="html"><![CDATA[‘댄스가수 유랑단’ 김완선이 현재와 함께 커플 댄스를 췄다. 13일 방송된 tvN 예능프로그램 ‘댄스가수 유랑단’에서는 김완선 ‘Only One’ 커플 댄스 파트너로 그룹 더보이즈 현재가 출격하는 모습이 그려졌다.]]></content>
     </entry>
 </feed>
