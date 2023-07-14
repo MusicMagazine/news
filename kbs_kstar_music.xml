@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 22:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 23:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정국, 미국 GMA ‘2023 Summer Concert Series’  라이브 퍼포먼스]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=271561</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=271561</guid>
+            <pubDate>Fri, 14 Jul 2023 23:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=271561">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230715073022_9757d0010a9ddb84d7d2a95ad26cc81b.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=271561">정국, 미국 GMA ‘2023 Summer Concert Series’  라이브 퍼포먼스</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230715073022_9757d0010a9ddb84d7d2a95ad26cc81b.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[영탁 전국 투어콘서트, 계속된다... ‘탁쇼2’  7개 도시 공연]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=271323</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=268819">뉴진스, 새 앨범 ‘ASAP’ MV 티저 공개... "감각적인 비트, 파격적 비주얼"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230627081349_848b727a56dcf70e4842327807357b09.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[슈가, 1만 5천여 관객과 함께 한  ‘D-DAY’ 서울 공연... ‘SUGA | Agust D TOUR ‘D-DAY’ in SEOUL’]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=268557</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=268557</guid>
-            <pubDate>Sun, 25 Jun 2023 23:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=268557">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230626073244_0a792a75cba88526399639df7b0da606.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=268557">슈가, 1만 5천여 관객과 함께 한  ‘D-DAY’ 서울 공연... ‘SUGA | Agust D TOUR ‘D-DAY’ in SEOUL’   </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230626073244_0a792a75cba88526399639df7b0da606.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
