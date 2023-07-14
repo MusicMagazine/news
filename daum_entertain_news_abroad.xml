@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-07-14T08:19:18.591Z</updated>
+    <updated>2023-07-14T09:14:13.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[케빈 코스트너 전처, 양육비로 매달 1억 6천 받는다‥판결에 안심]]></title>
+        <id>https://v.daum.net/v/20230714180046912</id>
+        <link href="https://v.daum.net/v/20230714180046912"/>
+        <updated>2023-07-14T09:13:42.318Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 어마어마한 양육비를 요구한 크리스틴 바움가트너(Christine Baumgartner)가 판사의 판결에 안심한 것으로 알려졌다. 최근 미국 연예 매체 페이지식스에 따르면 크리스틴 바움가르트너는 판사가 케빈 코스트너(Kevin Costner)에게 양육비로 한 달에 약 13만 달러(한화 약 1억 6,458만 원)을 지불하라고 명령한 것]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카밀라 카베요, 손가락 욕설로 셀레나 고메즈와 '화끈' 우정 과시]]></title>
         <id>https://v.daum.net/v/20230714171600544</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230714115030961"/>
         <updated>2023-07-14T02:58:35.550Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 일본 미남 순위가 발표됐다. 여기에 하이브 소속 아이돌도 포함됐다. 13일 일본 매체 ViVi는 2023년 상반기 '이케맨'(꽃미남) 순위를 발표했다. 메구로 렌, 야기 유세이 등이 이름을 올렸고 하이브 레이블즈 재팬 소속 그룹 앤팀 멤버 케이도 순위에서 보였다. 해당 '이케맨' 순위는 지난 5월 10일부터 6월 18일까지 Vi]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주윤발 건강이상설, 코로나19 확진→뇌졸중으로 혼수상태 '충격']]></title>
-        <id>https://v.daum.net/v/20230714113809480</id>
-        <link href="https://v.daum.net/v/20230714113809480"/>
-        <updated>2023-07-14T02:58:35.553Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 최하나 기자] 홍콩 배우 주윤발이 건강이상설로 전세계 팬들의 충격을 자아내고 있다. 중국 매체 시나연예는 13일 주윤발이 지난 6일 뇌졸중으로 쓰러져 혼수상태라고 보도했다. 주윤발은 쓰러진지 일주일이 지난 현재까지도 의식을 되찾지 못하고 있다고 덧붙였다. 주윤발은 최근 영화 ‘별규아도신’ 홍보 활동에 참여할 정도로 건강에 이상이 없는 모습]]></content>
     </entry>
 </feed>
