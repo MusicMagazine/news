@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-07-15T13:20:31.758Z</updated>
+    <updated>2023-07-15T15:18:30.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소처럼 일하는 비아이..1년도 채 안된 '10월 전격 컴백' [공식]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004889895</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004889895"/>
+        <updated>2023-07-15T15:18:11.409Z</updated>
+        <content type="html"><![CDATA[아티스트 비아이(B.I)가 오는 10월 'L.O.L' Part.2 앨범을 완성한다. 비아이는 15일 0시 131레이블 공식 SNS를 통해 글로벌 앨범 프로젝트 'Love or Loved (러브 오어 러브드)' Par]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["인권침해" vs "일부가 물 흐려" 아이돌 팬들 수난사 '설왕설래'[초점S]]]></title>
         <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000440831</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000748445"/>
         <updated>2023-07-15T09:13:48.686Z</updated>
         <content type="html"><![CDATA[그룹 ZEROBASEONE(제로베이스원)이 괴물신인 면모를 보여주고 있다. 지난 7월 13일 세계 최대 음악 스트리밍 플랫폼 스포티파이에 따르면 ZEROBASEONE의 첫 번째 미니앨범 ‘YOUTH IN THE SH]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴진스 ‘Super Shy’, 英 오피셜 차트 59위 진입]]></title>
-        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000961673</id>
-        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000961673"/>
-        <updated>2023-07-15T09:13:48.690Z</updated>
-        <content type="html"><![CDATA[그룹 뉴진스. 사진|어도어 그룹 뉴진스(NewJeans)의 선공개 싱글 ‘슈퍼 샤이(Super Shy)’가 영국 오피셜 싱글 차트 ‘톱 100’ 진입에 성공했다. 음원이 발매된 지 1주일 만의 직행이다. 뉴진스 미니]]></content>
     </entry>
 </feed>
