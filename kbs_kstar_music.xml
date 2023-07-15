@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 23:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jul 2023 03:31:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정국 첫 솔로 싱글 ‘Seven’, 글로벌 히트]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=271601</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=271601</guid>
+            <pubDate>Sat, 15 Jul 2023 03:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=271601">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230715095147_a483eb8b85b3aee837c5d88d1cbe8795.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=271601">정국 첫 솔로 싱글 ‘Seven’, 글로벌 히트 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230715095147_a483eb8b85b3aee837c5d88d1cbe8795.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정국, 미국 GMA ‘2023 Summer Concert Series’  라이브 퍼포먼스]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=271561</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=268989">8월의 르세라핌, 첫 단독 투어 "LAME RISES"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230628153545_5a573e07896000ee4cf1df2cd072557d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스, 새 앨범 ‘ASAP’ MV 티저 공개... "감각적인 비트, 파격적 비주얼"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=268819</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=268819</guid>
-            <pubDate>Mon, 26 Jun 2023 23:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=268819">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230627081349_848b727a56dcf70e4842327807357b09.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=268819">뉴진스, 새 앨범 ‘ASAP’ MV 티저 공개... "감각적인 비트, 파격적 비주얼"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230627081349_848b727a56dcf70e4842327807357b09.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
