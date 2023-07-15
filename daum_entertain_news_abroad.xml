@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-07-15T05:14:08.546Z</updated>
+    <updated>2023-07-15T06:19:07.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크리스토퍼 놀란, “절대 영화 안만들겠다” 선언 “왜?”]]></title>
+        <id>https://v.daum.net/v/20230715145758345</id>
+        <link href="https://v.daum.net/v/20230715145758345"/>
+        <updated>2023-07-15T06:18:40.348Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 거장 크리스토퍼 놀란 감독이 배우 파업이 해결될때까지 영화를 만들지 않겠다고 말했다. 그는 14일(현지시간) BBC와 인터뷰에서 “파업이 끝날때까지 절대 영화를 만들지 않겠다”고 발혔다. 놀란 감독은 파업이 시작되기 직전에 영화 시사회가 열렸기 때문에 ‘오펜하이머’가 업계 구성원들의 작업 중단에 영향을 받지 않을 것]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["한국에선 괜찮았는데"..'워터밤 오사카' 男 사망, 전격 취소]]></title>
         <id>https://v.daum.net/v/20230715133618428</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230714194030871"/>
         <updated>2023-07-14T11:16:25.685Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 영화 '미션 임파서블' 시리즈의 감독 크리스토퍼 맥쿼리가 톰 크루즈의 노화 때문에 고민하고 있다. 13일(현지 시간) '미션 임파서블' 시리즈의 감독 크리스코토퍼 맥쿼리가 'GamesRadar+(게임스레이더+)'와의 인터뷰에서 톰 크루즈에게 '디 에이징(de-aging)' CG 효과를 적용할까 고민했었다고 털어놨다. '디 에이징(]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['외도 피해자' 샤키라, 농구선수와 열애설…다른 사람으로 상처 극복하나]]></title>
-        <id>https://v.daum.net/v/20230714192030535</id>
-        <link href="https://v.daum.net/v/20230714192030535"/>
-        <updated>2023-07-14T11:16:25.692Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 가수 샤키라가 새로운 운동선수와 열애설에 휩싸였다. 13일(현지 시간) 연예 매체 페이지식스는 샤키라(46)와 농구 선수 지미 버틀러(33)와의 열애설을 보도했다. 목격자에 따르면 이들은 지난 12일 영국 런던에서 함께 저녁 식사를 즐겼다. 샤키라는 지미 버틀러와 거의 같은 시간인 오후 10시경 식당에 도착하는 모습이 목격됐다.]]></content>
     </entry>
 </feed>
