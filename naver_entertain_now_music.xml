@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-07-15T12:23:31.352Z</updated>
+    <updated>2023-07-15T13:20:31.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["인권침해" vs "일부가 물 흐려" 아이돌 팬들 수난사 '설왕설래'[초점S]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000440831</id>
+        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000440831"/>
+        <updated>2023-07-15T13:20:15.060Z</updated>
+        <content type="html"><![CDATA[팬들의 인권을 침해한 것일까, 도가 지나친 팬들로부터 아티스트를 보호하기 위한 어쩔 수 없는 대처였을까. 최근 하이브 재팬 소속 그룹 앤팀의 대면 팬 사인회에서 팬들을 대상으로 속옷 검사가 이뤄졌다는 주장이 제기되면]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[판타지 보이즈, 도쿄 팬 콘서트 방송 일정 “최종 조율 중”]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000949666</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000961673"/>
         <updated>2023-07-15T09:13:48.690Z</updated>
         <content type="html"><![CDATA[그룹 뉴진스. 사진|어도어 그룹 뉴진스(NewJeans)의 선공개 싱글 ‘슈퍼 샤이(Super Shy)’가 영국 오피셜 싱글 차트 ‘톱 100’ 진입에 성공했다. 음원이 발매된 지 1주일 만의 직행이다. 뉴진스 미니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임영웅, 방송 출연 없이도 '음중' 1위… 제베원 핫데뷔]]></title>
-        <id>https://entertain.naver.com/now/read?oid=018&amp;aid=0005530961</id>
-        <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005530961"/>
-        <updated>2023-07-15T09:13:48.693Z</updated>
-        <content type="html"><![CDATA[가수 임영웅이 방송 출연 없이도 ‘쇼! 음악방송’ 1위 트로피를 거머쥐었다. 임영웅은 15일 방송된 MBC 음악 프로그램 ‘쇼! 음악중심’에서 신곡 ‘모래 알갱이’로 뉴진스의 ‘슈퍼 샤이’, 샤이니의 ‘하드’를 제치]]></content>
     </entry>
 </feed>
