@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-07-15T20:19:44.610Z</updated>
+    <updated>2023-07-15T21:12:08.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스태프 사망→극심한 가뭄..바람 잘 날 없는 '워터밤']]></title>
+        <id>https://v.daum.net/v/20230716055801331</id>
+        <link href="https://v.daum.net/v/20230716055801331"/>
+        <updated>2023-07-15T21:11:28.296Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 이승훈 기자] /사진=워터밤 오사카대한민국 광주에 이어 일본 오사카 '워터밤'이 취소됐다. '워터밤 광주'는 당초 지난 8일 개최될 예정이었다. 하지만 지난달 28일 '워터밤 광주' 측은 공식 예매처를 통해 "광주 지역은 그동안 심각한 가뭄으로 인해 시민들이 절수 운동을 계속하고 있었던 상황이었다. 현재 장맛비가 내릴 예상에도 불구하고 가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소처럼 일하는 비아이..1년도 채 안된 '10월 전격 컴백']]></title>
         <id>https://v.daum.net/v/20230715231154382</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230715141346840"/>
         <updated>2023-07-15T06:18:29.240Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 그룹 오마이걸(OH MY GIRL)이 하이라이트 메들리를 공개했다. 소속사 WM엔터테인먼트는 7월 15일 공식 SNS 및 유튜브 채널을 통해 오마이걸 미니 9집 ‘Golden Hourglass’의 하이라이트 메들리 플러스 영상을 공개했다. 공개된 영상에는 캠핑장 속 나란히 둘러 앉아있는 오마이걸의 모습이 시선을 사로잡는다. 화기애애]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["하이힐 힘들고 다쳐"..블랙핑크 제니, 무성의 퍼포먼스 논란 해명]]></title>
-        <id>https://v.daum.net/v/20230715133745437</id>
-        <link href="https://v.daum.net/v/20230715133745437"/>
-        <updated>2023-07-15T05:13:30.010Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 안윤지 기자] 그룹 블랙핑크 멤버 제니 /사진=인스타그램그룹 블랙핑크 멤버 제니가 무성의 퍼포먼스 논란에 대해 해명했다. 제니는 14일(현지시간) BBC Sounds '두아 리파: 앳 유어 서비스' 팟캐스트에 게스트로 출연했다. 이날 그는 블랙핑크 데뷔 당시를 떠올리며 "데뷔 후 랩만 하는 곡을 6곡 정도 했는데 혼란스러웠다. 노래와 음악]]></content>
     </entry>
 </feed>
