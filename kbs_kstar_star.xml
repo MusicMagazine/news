@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 20:15:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 21:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['영재'의 임무, "그녀를 지켜라!" 뮤지컬 <그날들> 개막]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=271809</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=271809</guid>
+            <pubDate>Tue, 18 Jul 2023 21:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=271809">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230717150809_b27d58d340b13397f2c771b2a2e00cd6.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=271809">'영재'의 임무, "그녀를 지켜라!" 뮤지컬 &lt;그날들&gt; 개막</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230717150809_b27d58d340b13397f2c771b2a2e00cd6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[화보] 도경수, Man on the Moon 영화 '더 문'의 우주인]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=271997</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=267780">"콘텐트에 관심있는 대학생이라면..." 중앙그룹, ‘앙중크루’ 모집</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230620090841_484676f0626adca750bf008de17151a6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["뉴진스는 그날 몇 개의 햄버거를 먹었을까?" 맥도날드 메이킹 필름 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=267759</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=267759</guid>
-            <pubDate>Tue, 20 Jun 2023 01:05:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=267759">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230620084606_7f331a3af918cd8d4670a95a3a4d078e.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=267759">"뉴진스는 그날 몇 개의 햄버거를 먹었을까?" 맥도날드 메이킹 필름 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230620084606_7f331a3af918cd8d4670a95a3a4d078e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
