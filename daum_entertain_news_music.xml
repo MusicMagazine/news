@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-07-19T03:53:43.825Z</updated>
+    <updated>2023-07-19T04:23:16.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['뉴진스 아버지' 250 'ETA' 작곡 참여..빈지노 작사 합류]]></title>
+        <id>https://v.daum.net/v/20230719131509568</id>
+        <link href="https://v.daum.net/v/20230719131509568"/>
+        <updated>2023-07-19T04:22:38.295Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 윤상근 기자] /사진제공=어도어 프로듀서 250과 래퍼 빈지노가 걸그룹 뉴진스(NewJeans, 민지 하니 다니엘 해린 혜인) 앨범에 참여하며 신곡에 대한 기대감을 더했다. /사진제공=BANA 19일 스타뉴스 확인 결과 250과 빈지노는  뉴진스 미니 2집 '겟 업(Get up) 트리플 타이틀 곡 중 하나인 'ETA' 프로듀싱에 참여했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제베원, 신기록 꽃 피울 ‘인 블룸’]]></title>
         <id>https://v.daum.net/v/20230719121136366</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230719093453499"/>
         <updated>2023-07-19T02:10:20.735Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] SBS가 열정의 나라 스페인에서 초대형 K-POP 콘서트를 진행한다. SBS가 7월 22일 스페인 마드리드 씨비타스 메트로폴리타노 스타디움에서 글로벌 K팝 콘서트 ‘2023 KPOP LUX by SBS Super Concert in Madrid’(이하 ‘SBS 슈퍼콘서트’)를 개최한다. 콘서트가 열리는 씨비타스 메트로폴리타노 스타]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투모로우바이투게더X조나스 브라더스, 오늘 'Do It Like That' 새 버전 공개]]></title>
-        <id>https://v.daum.net/v/20230719092014907</id>
-        <link href="https://v.daum.net/v/20230719092014907"/>
-        <updated>2023-07-19T02:10:20.738Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자] 그룹 투모로우바이투게더가 조나스 브라더스(Jonas Brother)와의 컬래버레이션 싱글 'Do It Like That'의 새로운 버전을 공개한다. 투모로우바이투게더(수빈, 연준, 범규, 태현, 휴닝카이)는 오늘(19일) 오후 1시 전 세계 음원 사이트를 통해 'Do It Like That'의 저지 클럽 리믹스를 발표한다. 'D]]></content>
     </entry>
 </feed>
