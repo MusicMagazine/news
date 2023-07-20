@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-07-20T10:16:40.483Z</updated>
+    <updated>2023-07-20T12:25:44.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘댄스가수 유랑단’ 이효리, 제작진 놀라게 한 파격 패션]]></title>
+        <id>https://v.daum.net/v/20230720195132465</id>
+        <link href="https://v.daum.net/v/20230720195132465"/>
+        <updated>2023-07-20T12:25:03.604Z</updated>
+        <content type="html"><![CDATA[20일 오후 방송되는 tvN 예능 ‘댄스가수 유랑단’ 9회에서는 다섯 번째 유랑지 강원도 양양으로 향한 김완선, 엄정화, 이효리, 보아, 화사의 여정이 공개된다. 양양 오일장 버스킹부터 잔교리 해변에서 펼쳐지는 감성 공연까지, 낮과 밤을 아우르는 멤버들의 유랑기가 그려진다. 버스킹을 위해 양양 오일장으로 향한 멤버들은 시장에서 직접 입을 무대 의상을 구입]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['엠카운트다운' 퀸즈아이, 떠오르는 퍼포먼스 퀸]]></title>
         <id>https://v.daum.net/v/20230720185943469</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230720154712794"/>
         <updated>2023-07-20T07:13:43.172Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 소녀시대 태연이 13일 오후 서울 종로구 부암동 AW컨벤션에서 진행된 엠넷 '퀸덤퍼즐' 제작발표회에 참석해 인사말을 하고 있다.  '퀸덤퍼즐'은 기존 활동하던 걸그룹 멤버 또는 여성 아티스트들을 퍼즐처럼 맞춰 최상의 조합을 완성하는 프로그램으로, 그룹 소녀시대 멤버 태연이 MC를 맡고 3, 4세대 걸그룹 멤버들이 총출동한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더보이즈, 8월 7일 정규 2집 발매 확정… 하반기 컴백]]></title>
-        <id>https://v.daum.net/v/20230720154357640</id>
-        <link href="https://v.daum.net/v/20230720154357640"/>
-        <updated>2023-07-20T07:13:43.174Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 그룹 더보이즈가 8월 컴백한다. 더보이즈 소속사 IST엔터테인먼트 측은 7월 20일 "더보이즈가 오는 8월 7일, 두 번째 정규 앨범을 발표한다"고 밝혔다. 더보이즈 정규 앨범 발매는 지난 2020년 2월 '리빌(REVEAL)' 이후 약 3년 6개월 만이다. 신곡 발표로는 올해 2월 발매한 미니 8집 'BE AWAKE(비 어웨이크)]]></content>
     </entry>
 </feed>
