@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-07-20T16:18:57.026Z</updated>
+    <updated>2023-07-20T18:18:30.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하이브IM ‘리듬하이브’ 신규 아티스트 ‘르세라핌(LE SSERAFIM)’ 업데이트 진행]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000901418</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000901418"/>
+        <updated>2023-07-20T18:18:12.899Z</updated>
+        <content type="html"><![CDATA[하이브하이브의 엔터테인먼트 사업 경계를 확장하는 비즈니스 솔루션 하이브IM(대표 정우용)은 20일, 자사가 개발 및 서비스하는 모바일 리듬게임 ‘리듬하이브(Rhythm Hive)’에서 신규 아티스트 ‘르세라핌(LE SSERAFIM)’ 업데이트를 진행했다고 밝혔다.업데이트는 ‘리듬하이브’ 론칭 이후 처음으로 진행되는 걸그룹...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박필규, 신곡 ‘여름밤이 되면’으로 컴백]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000901414</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003168746"/>
         <updated>2023-07-20T10:16:22.860Z</updated>
         <content type="html"><![CDATA[걸 그룹 퀸즈아이(Queenz Eye, 원채 해나 나린 아윤 다민)이 '퍼포먼스 퀸'의 아우라를 어김없이 드러냈다. 퀸즈아이는 21일 엠넷 음악 프로그램 '엠카운트다운'에 출연, 컴백 앨범 'UNI-Q'(유니크)의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이홍기, 헤이즈 ‘비도 오고 그래서’ 재해석···26일 ‘방구석 캐스팅’ 음원 발매]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000901366</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000901366"/>
-        <updated>2023-07-20T10:16:22.863Z</updated>
-        <content type="html"><![CDATA[FT아일랜드 이홍기가 비가 오면 어김없이 찾게 될 명곡으로 돌아온다. 이홍기는 오는 26일 ‘방구석 캐스팅’ 음원 ‘비도 오고 그래서’를 발매한다. 이홍기는 지난달 14일 ‘방구석 캐스팅’ 음원 ‘희재’와 ‘삭제’]]></content>
     </entry>
 </feed>
