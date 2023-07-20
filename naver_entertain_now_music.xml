@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-07-20T15:19:20.857Z</updated>
+    <updated>2023-07-20T16:18:57.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박필규, 신곡 ‘여름밤이 되면’으로 컴백]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000901414</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000901414"/>
+        <updated>2023-07-20T16:18:40.079Z</updated>
+        <content type="html"><![CDATA[가수 박필규가 그리움을 노래하며 대중들의 감성을 저격한다. 박필규는 20일 각종 음원사이트를 통해 새 싱글 ‘여름밤이 되면’을 공개, 감성 싱어송라이터의 진면목을 드러냈다. ‘여름밤이 되면’은 여름밤 특유의 분위기를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘17살 연하♥’ 미나, 50대에도 유연성+근력 실화? 남편은 “옆구리 살쪘다”고..]]></title>
         <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000963221</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000901366"/>
         <updated>2023-07-20T10:16:22.863Z</updated>
         <content type="html"><![CDATA[FT아일랜드 이홍기가 비가 오면 어김없이 찾게 될 명곡으로 돌아온다. 이홍기는 오는 26일 ‘방구석 캐스팅’ 음원 ‘비도 오고 그래서’를 발매한다. 이홍기는 지난달 14일 ‘방구석 캐스팅’ 음원 ‘희재’와 ‘삭제’]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이홍기·설아·조유리까지…리메이크에 빠진 가요계 [엑's 초점]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001618432</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001618432"/>
-        <updated>2023-07-20T10:16:22.866Z</updated>
-        <content type="html"><![CDATA[최근 각종 프로젝트 음원들을 통해 여러 가수들의 음악이 재탄생되고 있다. 최근 '희재', '삭제' 등을 리메이크해 선보였던 이홍기는 오는 26일 '방구석 캐스팅' 프로젝트를 통해 이번엔 '비도 오고 그래서'를 새롭게]]></content>
     </entry>
 </feed>
