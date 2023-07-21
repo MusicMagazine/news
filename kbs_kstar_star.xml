@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 22:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 23:13:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 '오페라의 유령' 샤롯데 스타일로~]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=272825</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=272825</guid>
+            <pubDate>Fri, 21 Jul 2023 23:11:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=272825">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230722073626_bbe3c07b37a3d0c56624df94bc4c9ebb.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=272825">뮤지컬 '오페라의 유령' 샤롯데 스타일로~</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230722073626_bbe3c07b37a3d0c56624df94bc4c9ebb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정선아, 뮤지컬 '멤피스' 첫 공연 성료... “행복한 관객, 행복한 공연"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=272685</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=270555"> 방탄소년단 10년, 청춘의 기록 ‘BEYOND THE STORY’ </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230709183821_f23d16235be18b374ea4a6993bed817c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[화보] 영화 '밀수'의 주역들 '보그 코리아' 화보 장식]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=270132</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=270132</guid>
-            <pubDate>Sat, 08 Jul 2023 23:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=270132">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230706103700_31755e822ed12526def2b2cccbe5faea.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=270132">[화보] 영화 '밀수'의 주역들 '보그 코리아' 화보 장식</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230706103700_31755e822ed12526def2b2cccbe5faea.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
