@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 22:12:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 01:07:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정선아, 뮤지컬 '멤피스' 첫 공연 성료... “행복한 관객, 행복한 공연"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=272685</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=272685</guid>
+            <pubDate>Fri, 21 Jul 2023 01:05:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=272685">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230721092516_77823c28c14f78dbeb45a870aedaa459.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=272685">정선아, 뮤지컬 '멤피스' 첫 공연 성료... “행복한 관객, 행복한 공연"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230721092516_77823c28c14f78dbeb45a870aedaa459.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 ‘벤허’ 상견례 현장, "이번엔 마곡에서 달린다!"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=271477</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=270132">[화보] 영화 '밀수'의 주역들 '보그 코리아' 화보 장식</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230706103700_31755e822ed12526def2b2cccbe5faea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박은빈, 일본 패션매거진 ‘젠나’ 커버 장식]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=270438</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=270438</guid>
-            <pubDate>Fri, 07 Jul 2023 23:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=270438">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230708081046_b2914951db0138c966fad80b50353a7a.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=270438">박은빈, 일본 패션매거진 ‘젠나’ 커버 장식</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230708081046_b2914951db0138c966fad80b50353a7a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
