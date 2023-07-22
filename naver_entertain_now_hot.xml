@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2023-07-22T19:11:32.317Z</updated>
+    <updated>2023-07-22T20:14:37.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장원삼, ‘최강야구’ 투수 초비상에 등판…파격 기용]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001064991</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0001064991"/>
+        <updated>2023-07-22T20:14:27.750Z</updated>
+        <content type="html"><![CDATA[JTBC 예능 '최강야구' 통산 121승 투수, ‘추(秋)남’ 장원삼이 드디어 마운드에 돌아온다. 24일 ‘최강야구’ 50회에서는 최강 몬스터즈와 충암고등학교의 올 시즌 2차전 경기가 펼쳐진다. 최강 몬스터즈는 충암]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문세윤, 저녁 먹겠다고 몸 날리며 활약…사투 현장 (1박2일)]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001064990</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0001064983"/>
         <updated>2023-07-22T13:18:22.134Z</updated>
         <content type="html"><![CDATA[JTBC 토일드라마 '킹더랜드' 이준호, 임윤아가 사내 연애로 천국과 지옥을 오간다. ‘킹더랜드’(극본 최롬(팀 하리마오), 연출 임현욱) 22일 방송에서는 천하의 구원(이준호 분)마저 당황하게 만든 해프닝이 벌어진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘악귀’ 김해숙, 오정세에게 “너도 똑같이 죽을 것” 섬뜩 경고[TVis]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003289695</id>
-        <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003289695"/>
-        <updated>2023-07-22T13:18:22.135Z</updated>
-        <content type="html"><![CDATA[드라마 ‘악귀’에서 김해숙이 오정세에게 섬뜩한 경고를 했다. 22일 오후 방송된 SBS 금토 드라마 ‘악귀’ 10회에서 염해상(오정세)은 악귀의 정체가 목단이 아니란 걸 알곤 할머니인 나병희(김해숙)를 찾아갔다. 나]]></content>
     </entry>
 </feed>
