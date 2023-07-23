@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-07-23T03:16:26.857Z</updated>
+    <updated>2023-07-23T04:15:03.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지금 가요계는 ‘엄정화 다시 부르기’ 붐]]></title>
+        <id>https://v.daum.net/v/20230723124453100</id>
+        <link href="https://v.daum.net/v/20230723124453100"/>
+        <updated>2023-07-23T04:14:25.256Z</updated>
+        <content type="html"><![CDATA[‘한국의 마돈나’ 가수 엄정화가 다시 가요계를 장식하고 있다. ‘제3의 전성기’라 불릴 만큼 예능과 연기를 가리지 않는 활약에 이어 그의 히트곡이 또 다른 가수들의 마이크에서 재회자될 전망이다. 엄정화는 방송계에서 모셔가기 바쁜 인물 중 한명이다. 엄정화는 출연 중인 tvN 예능 프로그램 ‘댄스가유랑단’에서의 활약에 이어 tvN 예능 프로그램 ‘유 퀴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[르세라핌 ‘ANTIFRAGILE’, 스포티파이 누적 재생수 3억 돌파]]></title>
         <id>https://v.daum.net/v/20230723112241965</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230723083543522"/>
         <updated>2023-07-23T02:38:44.813Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 문완식 기자] 가수 임영웅이 31개월 연속 트로트 가수 브랜드평판 1위에 오르며 독보적 인기를 빛냈다. 임영웅은 7월 23일 한국기업평판연구소가 발표한 트로트 가수 브랜드평판 2023년 7월 빅데이터 분석결과, 1위를 차지했다. 2위 이찬원, 3위 김호중 순이었다. 임영웅은 트로트 가수 브랜드평판 31개월 연속 1위를 달성하며 남다른 존재]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단 지민 '페이스 오프', 美 COS '2023 상반기 K팝 베스트 수록곡 10선' 선정]]></title>
-        <id>https://v.daum.net/v/20230723082333420</id>
-        <link href="https://v.daum.net/v/20230723082333420"/>
-        <updated>2023-07-23T02:38:44.816Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 문완식 기자] 방탄소년단(BTS) 지민의 솔로 앨범이 수록곡까지 주목받으며 진정한 아티스트로서 진가를 발휘하고 있다. 지민의 첫 솔로 앨범 '페이스(FACE)'의 오프닝 트랙 '페이스 오프(Face-off)'는 미국 음악 매체 '컨시퀀스 오브 사운드(consequence of sound)'의 '2023년 상반기를 빛낸 K팝 최고 B-사이드곡]]></content>
     </entry>
 </feed>
