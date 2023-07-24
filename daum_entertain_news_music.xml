@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-07-24T14:18:32.684Z</updated>
+    <updated>2023-07-24T16:20:48.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴진스, 주류 팝 美에 스며들기까지 단 1년]]></title>
+        <id>https://v.daum.net/v/20230725000051964</id>
+        <link href="https://v.daum.net/v/20230725000051964"/>
+        <updated>2023-07-24T16:20:12.457Z</updated>
+        <content type="html"><![CDATA[미니 2집 'Get Up' 미 차트서 자체 최고 행진 국내 넘어 팝 주류 시장서도 열풍 부나 [더팩트 | 정병근 기자] 다시 뉴진스(NewJeans)의 시간이다. 그 시간은 이제 국내를 넘어 해외, 특히 팝 주류이자 최대 시장인 미국에도 해당한다. 뉴진스는 지난해 7월 데뷔 앨범 'New Jeans' 공개와 동시에 국내 음원차트 1위를 휩쓴 'Atte]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['데뷔' 호라이즌, K팝의 확장이자 새로운 가능성]]></title>
         <id>https://v.daum.net/v/20230724212003608</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230724174301810"/>
         <updated>2023-07-24T09:15:03.719Z</updated>
         <content type="html"><![CDATA[여름에 큰 사랑을 받았던 그룹 오마이걸(OH MY GIRL)이 대놓고 '서머송'을 들고 돌아왔다. 활기찬 멤버들의 에너지가 청량한 기운과 만나 무더위를 시원하게 날릴 전망이다. 오마이걸(효정, 미미, 유아, 승희, 유빈, 아린)은 24일 오후 서울 광진구 예스24라이브홀에서 아홉 번째 미니앨범 '골든 아워글래스(Golden Hourglass)' 발매 기념]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTS 정국 "음주 방송? 맘껏 떠들어"…'막내' 이미지 고충 담긴 '첫 솔로']]></title>
-        <id>https://v.daum.net/v/20230724174056741</id>
-        <link href="https://v.daum.net/v/20230724174056741"/>
-        <updated>2023-07-24T09:15:03.721Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 방탄소년단(BTS) 정국이&nbsp;자신의 음주 방송을 저격하는 이들에게 일침을 가하며, 첫 솔로 싱글 'Seven' 19금 버전을 발표한 이유를 밝혔다. 22일 정국은 팬 커뮤니티 플랫폼 위버스를 통해 라이브 방송을 진행했다. 이날 정국은 "어떻게 보면 활동을 한정적으로 한 느낌이긴 하다. 그럼에도 불구하고 짧지만 고맙고 행복한 활동이었]]></content>
     </entry>
 </feed>

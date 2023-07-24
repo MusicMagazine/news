@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-07-24T14:18:32.682Z</updated>
+    <updated>2023-07-24T16:20:48.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트래비스 스콧·위켄드 함께 부른 ‘K-팝(K-POP)’, K-팝 비하?]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000902141</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000902141"/>
+        <updated>2023-07-24T16:20:31.240Z</updated>
+        <content type="html"><![CDATA[글로벌 팝스타 더 위켄드(The Weekend)가 참여한 신곡이 K팝 팬 사이에서 이슈로 떠올랐다. 노래 제목이 ‘K-팝’(K-POP)이기 때문이다. 지난 21일 발매가 된 싱글 ‘K-팝’은 미국 인기 힙합 아티스트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴진스, 주류 팝 美에 스며들기까지 단 1년[TF초점]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000229246</id>
+        <link href="https://entertain.naver.com/now/read?oid=629&amp;aid=0000229246"/>
+        <updated>2023-07-24T16:20:31.240Z</updated>
+        <content type="html"><![CDATA[미니 2집 'Get Up' 미 차트서 자체 최고 행진 국내 넘어 팝 주류 시장서도 열풍 부나 다시 뉴진스(NewJeans)의 시간이다. 그 시간은 이제 국내를 넘어 해외, 특히 팝 주류이자 최대 시장인 미국에도 해당]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손승연, '피프티 피프티 닮은꼴' 비난에 입장 "가만히 두고볼 수 없어"[전문]]]></title>
         <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003644046</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0014088212"/>
         <updated>2023-07-24T12:30:06.727Z</updated>
         <content type="html"><![CDATA[K-팝 아이돌·스트릿댄스팀 초청공연에 현지 한류팬 열광 김상욱 통신원 = 중앙아시아의 허브국가, 카자흐스탄의 수도 아스타나에서 'K-컬처'의 향연이 펼쳐졌다. 주카자흐스탄 한국문화원은 카자흐스탄국립 아스타나발레극장에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오마이걸 아린 '사랑스러움이 돋보이는 미소']]></title>
-        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003754031</id>
-        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003754031"/>
-        <updated>2023-07-24T12:30:06.728Z</updated>
-        <content type="html"><![CDATA[걸그룹 오마이걸 아린이 24일 오후 서울 광장동 예스24라이브홀에서 진행된 미니앨범 9집 ‘골든 아워글래스(Golden Hourglass)’ 쇼케이스에서 포토타임을 가졌다. 타이틀곡 ‘여름이 들려 (Summer Co]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산울림 1~6집 리마스터링 음원 서비스]]></title>
-        <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003837535</id>
-        <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003837535"/>
-        <updated>2023-07-24T12:30:06.734Z</updated>
-        <content type="html"><![CDATA[‘그래미’ 수상 엔지니어가 작업 김창완 “45년전 내 목소리 복원” ‘한국 록의 전설’ 산울림(사진)의 1∼6집을 생생한 음원으로도 들을 수 있다. 뮤직버스는 산울림 1∼6집 리마스터링 음원을 국내 주요 음원 플랫폼]]></content>
     </entry>
 </feed>
