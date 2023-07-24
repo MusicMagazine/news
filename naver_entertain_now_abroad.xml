@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2023-07-24T03:15:42.464Z</updated>
+    <updated>2023-07-24T04:15:45.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기무라 타쿠야, 백발에도 여전한 비주얼...50대 맞아? [룩@재팬]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001264215</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001264215"/>
+        <updated>2023-07-24T04:15:44.429Z</updated>
+        <content type="html"><![CDATA[일본 배우 기무라 타쿠야가 백발에도 여전히 '꽃미모'를 과시하고 있다. 23일 기무라 타쿠야(50)는 소셜네트워크서비스를 통해 근황을 알렸다. 그는 흰머리가 무성한 백발에도 불구하고 '꽃중년'의 모습이었다. 기무라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 ‘보호자’의 주역들 [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000950992</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0011990841"/>
         <updated>2023-07-24T01:06:53.672Z</updated>
         <content type="html"><![CDATA[바벤하이머가 북미 극장가를 핑크색으로 폭파시키며 윈윈(win-win)에 성공했다. 영화 '바비'는 올해 공개 첫 주말 가장 높은 수익을 기록한 영화가 됐다. '오펜하이머' 역시 개봉 첫 주에 1억 달러 가까운 수익을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['바비', '캡틴 마블' 눌렀다…역대 여성 감독 영화 오프닝 1위 [엑's 할리우드]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001619533</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001619533"/>
-        <updated>2023-07-23T23:15:51.583Z</updated>
-        <content type="html"><![CDATA[영화 '바비'(감독 그레타 거윅)가 역대 여성 감독 영화 중 최고의 오프닝 성적을 기록했다. 23일(현지시간) 미국 버라이어티 등 다수 매체는 '바비'가 개봉 3일 간 1억 5500만 달러의 수익을 기록, 이전까지]]></content>
     </entry>
 </feed>
