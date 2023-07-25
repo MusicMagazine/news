@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2023-07-25T17:15:04.612Z</updated>
+    <updated>2023-07-25T18:15:10.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[설인아, 남다른 건강미…탄탄 레깅스 자태 [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001065602</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0001065602"/>
+        <updated>2023-07-25T18:15:00.574Z</updated>
+        <content type="html"><![CDATA[설인아, 남다른 건강미…탄탄 레깅스 자태 [화보] 배우 설인아가 함께한 스포츠 화보가 공개됐다. 화보 속 설인아는 쇼츠부터 플리스까지 다양한 아이템을 착용한 채 사계절 참고할 수 있는 여러 가지 애슬레저 룩을 선보였]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유라 “걸스데이 멤버들=큰 복…연기 고민 나누기도” [화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001065601</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=396&amp;aid=0000650717"/>
         <updated>2023-07-25T15:15:08.844Z</updated>
         <content type="html"><![CDATA[배우 김성균이 올여름을 책임질 올라운더로 출격 준비를 마쳤다. 김성균이 쉴 틈 없는 열일 행보를 이어가고 있다. 28일 공개되는 넷플릭스 시리즈 ‘디.피(D.P.) 시즌2’를 시작으로 디즈니플러스의 오리지널 시리즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[천정명, 멋짐]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0006951348</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0006951348"/>
-        <updated>2023-07-25T15:15:08.844Z</updated>
-        <content type="html"><![CDATA[배우 천정명이 25일 서울 영등포구 타임스퀘어에서 열린 영화 '더 문' VIP 시사회에 참석하고 있다. '더 문'은 사고로 인해 홀로 달에 고립된 우주 대원 선우(도경수 분)와 필사적으로 그를 구하려는 전 우주센터장]]></content>
     </entry>
 </feed>
