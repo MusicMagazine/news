@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 11:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 12:24:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트레저, 정규2집 'REBOOT' 28일 발매.... 타이틀곡 "BONA BONA" (KBS연예 ─ 음악)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=272505</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=272505</guid>
+            <pubDate>Tue, 25 Jul 2023 12:23:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=272505">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230720134630_4135c4af3ca7e8c67008601d3215601e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=272505">트레저, 정규2집 'REBOOT' 28일 발매.... 타이틀곡 "BONA BONA"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230720134630_4135c4af3ca7e8c67008601d3215601e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 정국, 첫 솔로 싱글 'Seven'으로 美 빌보드 '핫 100' 1위 (KBS연예 ─ 음악)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=273190</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=271323">영탁 전국 투어콘서트, 계속된다... ‘탁쇼2’  7개 도시 공연</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230714083725_53a9fa81dbe63d15a29c0e205b445ad1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국, 서머송 'Seven' 오늘 발표 (KBS연예 ─ 음악)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=271318</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=271318</guid>
-            <pubDate>Fri, 14 Jul 2023 01:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=271318">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230714082408_09edfe2e7837938906fd0e1ea35bbb4e.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=271318">방탄소년단 정국, 서머송 'Seven' 오늘 발표</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230714082408_09edfe2e7837938906fd0e1ea35bbb4e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["태양의 서커스니까...." '루치아' 사전예매 열풍 (KBS연예 ─ 연예)]]></title>
@@ -688,6 +688,22 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230711083549_a9cf26ebedad6d69920b387b5d067519.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[포토] 엑소, '경수 응원 왔어요!' (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/389243</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/389243</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/389243" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/25/50a19c78-b54d-4083-8755-cd1fe9080b84.jpg" alt="[포토] 엑소, '경수 응원 왔어요!'">        <div class="text-box">            <p class="summary">[포토] 엑소, '경수 응원 왔어요!'</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/25/50a19c78-b54d-4083-8755-cd1fe9080b84.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[포토] 시사회에 등장한 엑소! (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/389242</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/389242</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/389242" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/25/a43b22b3-2ad3-440b-941c-1588251600c1.jpg" alt="[포토] 시사회에 등장한 엑소!">        <div class="text-box">            <p class="summary">[포토] 시사회에 등장한 엑소!</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/25/a43b22b3-2ad3-440b-941c-1588251600c1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[제로베이스원 "'인 블룸' 안무는 크로스핏 느낌, 양발이 땅에 같이 붙어있을 때가 별로 없어" (컬투쇼) (MBC 연예 ─ 아이돌)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/389223</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/389223</guid>
@@ -760,20 +776,11 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/25/01d0ff15-f88c-4ac1-8884-04acecd241c4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[포토] 아일리원 엘바, '러블리 막내' (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/389199</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/389199</guid>
-            <pubDate>Tue, 25 Jul 2023 06:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/389199" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/25/5913014a-8c55-4b63-989b-7f10202fcb8d.jpg" alt="[포토] 아일리원 엘바, '러블리 막내'">        <div class="text-box">            <p class="summary">[포토] 아일리원 엘바, '러블리 막내'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/25/5913014a-8c55-4b63-989b-7f10202fcb8d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 아일리원, 타이틀곡 '마이 컬러' 무대 (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/389197</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/389197</guid>
-            <pubDate>Tue, 25 Jul 2023 06:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/389197" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/25/4f89e21a-ac63-4baf-8b84-4b073a831f83.jpg" alt="[포토] 아일리원, 타이틀곡 '마이 컬러' 무대">        <div class="text-box">            <p class="summary">[포토] 아일리원, 타이틀곡 '마이 컬러' 무대</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/07/25/4f89e21a-ac63-4baf-8b84-4b073a831f83.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[아이브→제로베이스원 ‘케이팝 슈퍼 라이브’ 8월 6일 개최 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20230725205901229</link>
+            <guid>https://v.daum.net/v/20230725205901229</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:12 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 아이브→제로베이스원 ‘케이팝 슈퍼 라이브’ 8월 6일 개최 [공식] '케이팝 슈퍼 라이브'가 8월 6일 개최된다. 한국스카우트연맹이 주최하고 2023 새만금 세계스카우트 잼버리조직위원회가 주관, 새만금개발청, 한국관광공사, 전라북도가 제작 지원하는 KBS 1TV '2023 새만금 세계스카우트 잼버리 케이팝 슈퍼 라이브'(책임프로듀서 송준영,]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[안성일=리플리 증후군? 형 대학→관계사는 다 내꺼다? (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
@@ -874,116 +881,123 @@
             <content:encoded><![CDATA[(엑스포츠뉴스 이슬 기자) 방탄소년단(BTS) 정국이 빌보드 차트 룰 변경에도 '핫 100' 1위 쾌거를 이뤄냈다. 24일(현지시간) 미국 빌보드가 발표한 최신 차트(7월 29일 자)에 따르면 정국의 첫 솔로 싱글 'Seven'이 메인 싱글차트 '핫 100' 1위로 진입했다. '핫 100'은 스트리밍, 라디오 방송 횟수, 음원 판매량(다운로드와 CD)을 종]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["이번엔 다르다" 칼빼든 아이브, 사이버렉카 뿌리 뽑을까 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20230725173642032</link>
-            <guid>https://v.daum.net/v/20230725173642032</guid>
-            <pubDate>Tue, 25 Jul 2023 09:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 | 윤성열 기자]  /사진=김창현 기자 chmt@악성 루머, 허위 사실을 무분별하게 양산해온 '사이버 렉카'의 만행은 어제오늘의 문제가 아니다. "법적 조치를 취하겠다"는 스타와 소속사의 엄중한 경고를 비웃기라도 하듯 버젓이 활동을 이어가며 '가짜 뉴스'를 돈벌이 수단으로 악용했다. 결국 걸 그룹 아이브(안유진 가을 이서 장원영 리즈 레이) 소속]]></content:encoded>
+            <title><![CDATA[‘슈돌’ 쇼리 ‘아빠바라기’ 두살 딸 공개…강경준 “나도 딸 낳고 싶다” (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230725211640584</link>
+            <guid>https://v.daum.net/v/20230725211640584</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 박효실기자] 힙합듀오 마이티마우스 쇼리가 결혼 3년만에 낳은 금쪽같은 딸 소이재를 공개했다. 어디서나 아빠를 챙기는 아빠바라기 두살 이재의 모습에 강경준은 부러움을 감추지 못했다. 25일 방송된 KBS2 ‘슈퍼맨이 돌아왔다’(이하 ‘슈돌’)에서 ‘2023 새만금 세계 스카우트잼버리 대회’가 열리는 전북 부안을 찾은 강경준 부자의 모습이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['비밀의 여자' 이채영 "나 YJ 며느리야"…이종원 회장 자리 되찾나 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230725200417039</link>
-            <guid>https://v.daum.net/v/20230725200417039</guid>
-            <pubDate>Tue, 25 Jul 2023 11:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 이지현 기자 = '비밀의 여자' 이채영이 이종원을 도왔다. 25일 오후 방송된 KBS 2TV 일일드라마 '비밀의 여자'에서는 남연석(이종원 분)이 정겨울(최윤영 분)로 인해 YJ그룹 회장직에서 물러나게 되자, 주애라(이채영 분)와 남유진(한기웅 분)이 나서 일을 꾸몄다. 이날 주애라는 새 회장이 유력한 박상무를 정규직 전환 채용비리로]]></content:encoded>
+            <title><![CDATA[4대 시댁 살림하는 우크라이나 며느리 "난 도시가 좋아" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230725211630580</link>
+            <guid>https://v.daum.net/v/20230725211630580</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=김유진 기자] 농촌에서 4대 시댁 살림을 하는 우크라이나 며느리의 일상이 전해졌다. 25일 방영된 KBS '이웃집 찰스'에는 한국 생활 8년 차에 접어든 우크라이나인 나탈리아와 남편 문은환씨의 가족이 소개됐다. 나탈리아는 서른 한 살 동갑내기 남편과 농사를 지으면서 살고 있다. 두 사람은 농사 2년 차에 접어들었다. 우크라이나에서 12살때 까지]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['복서탤런트' 조성규 "예천 수해 현장 6일째 자원봉사…할말 잃었다, 눈물만" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230725200007921</link>
-            <guid>https://v.daum.net/v/20230725200007921</guid>
-            <pubDate>Tue, 25 Jul 2023 11:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=김현록 기자]'복서 탤런트' 조성규가 수마가 할퀸 경북 예천에서 일주일 가까이 자원봉사 중이다. 조성규는 스포티비뉴스에 "지난 1월 동생이 암투병 끝에 세상을 떠났을 당시 많은 분들의 위로를 받았다. 그 감사한 마음에 보답하고 싶다는 생각을 하고 있었고, 이번 수해 피해 소식에 달려와 현장에서 봉사 중"이라고 말했다. 피해 소식을 듣고]]></content:encoded>
+            <title><![CDATA['슈돌' 마이티 마우스 쇼리, 3살 딸 공개... 사랑스러운 아빠 껌딱지 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230725211601574</link>
+            <guid>https://v.daum.net/v/20230725211601574</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=이혜미 기자] 마이티마우스 쇼리가 ‘슈돌’을 통해 20개월 된 딸 이재 양을 소개했다. 25일 KBS 2TV ‘슈돌’에선 강경준 정우 부자의 이야기가 펼쳐졌다. 이날 강경준 정우 부자가 부안으로 스카우트 체험에 나선 가운데 특별한 게스트가 함께했다. 마이티마우스 쇼리와 그의 딸 이재 양이 그 주인공이다. 쇼리와 강경준은 농구 예능으로 처음 만나]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이동욱 "장도연에게 조만간 고백하겠다…'너 정말로 예뻐'" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230725195635836</link>
-            <guid>https://v.daum.net/v/20230725195635836</guid>
-            <pubDate>Tue, 25 Jul 2023 11:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선닷컴 김수현기자] 배우 이동욱이 장도연에 대한 '믿음과 애정'을 밝혔다. 25일 'TEO 테오' 채널의 '살롱드립'에는 '그런 날 있잖아 이동욱이 보고 싶은.. 그런 날'이라는 제목으로 배우 이동욱이 출연했다. 이날 장도연을 찾은 열 번째 예비 회원은 배우 이동욱, 장도연은 보자마자 "지금 컨디션]]></content:encoded>
+            <title><![CDATA[해외=악플 자유지대? 이젠 안 통한다…스타쉽, 사이버 렉카와 '전쟁 선포' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230725210007263</link>
+            <guid>https://v.daum.net/v/20230725210007263</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=장진리 기자] 그룹 아이브의 소속사 스타쉽엔터테인먼트가 탈덕수용소 등 이른바 '사이버 렉카' 뿌리뽑기에 나선다. 해외에 근거지를 두고 허위 루머, 모욕을 일삼던 이들을 향해 스타쉽엔터테인먼트가 먼저 나서서 칼을 빼들었다. 스타쉽엔터테인먼트(이하 스타쉽)는 "탈덕수용소를 비롯한 '사이버 렉카' 운영자들에 대해 책임을 추궁하려한다"라고 25]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“한숨 나오는 고칼로리 먹방” 한혜진... 히밥 따라 '치팅데이'→포기 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230725195445786</link>
-            <guid>https://v.daum.net/v/20230725195445786</guid>
-            <pubDate>Tue, 25 Jul 2023 11:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박근희 기자] 한혜진이 히밥과 치팅데이를 즐겼다. 25일 유튜브 채널 ‘한혜진 Han Hye Jin’에는 ‘먹방 1타 강사 히밥 초대했다가 멘탈 털린 한혜진｜폭탄 피자, 리조또, 파스타, 고칼로리 음식 먹방’라는 제목의 영상이 업로드 됐다. 광고가 끝나고 마음껏 먹을 수 있게 된 한혜진은 유튜버 히밥과 함께 식사를 하기로 했다. 한혜진은 히밥]]></content:encoded>
+            <title><![CDATA[강경준 "딸 낳고 싶어"…다정한 쇼리 부녀에 부러움 가득 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230725205652185</link>
+            <guid>https://v.daum.net/v/20230725205652185</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 박하나 기자 = 배우 강경준이 쇼리 부녀를 향한 부러움을 드러냈다. 25일 오후에 방송된 KBS2TV 예능프로그램 '슈퍼맨이 돌아왔다'(이하 '슈돌')에서는 '강정부자' 강경준과 아들 정우의 일상이 담겼다. 이날 강경준은 정우의 여름방학을 맞이해 절친한 마이티마우스 쇼리 부녀와 함께 부안 새만금에서 다양한 체험을 즐겼다. 이어 쇼리의 딸]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[영화 '더 문' 쇼케이스, '사인회부터 챌린지까지 팬서비스로 가득했던 현장' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230725194941691</link>
-            <guid>https://v.daum.net/v/20230725194941691</guid>
-            <pubDate>Tue, 25 Jul 2023 11:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '더 문' 팀이 타임스퀘어에 안전하게 안착했다. 25일 오후 서울 영등포 타임스퀘어 1층 아트리움에서 영화 '더 문' 쇼케이스가 열렸다. 김용화 감독과 배우 설경구, 도경수, 김희애, 박병은, 조한철, 최병모, 홍승희가 참석해 팬들과 즐거운 시간을 만끽했다. 이날 쇼케이스는 레드카펫 사인회와 토크쇼로 나누어 진행, 1시간 가량 현장을 찾은 팬]]></content:encoded>
+            <title><![CDATA['슈돌' 쇼리, 20개월 딸 소이재 공개…미소 닮은 사랑둥이 부녀 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230725205104108</link>
+            <guid>https://v.daum.net/v/20230725205104108</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 송오정 기자] 남성 힙합듀오 마이티 마우스 쇼리가 딸을 소개했다. 25일 방송된 KBS2 '슈퍼맨이 돌아왔다'(이하 '슈돌')에서는 강경준이 아들 정우와 부안 새만금 세계 스카우트 잼버리 행사에 참석했다. 이날 강경준·정우만 아니라, 강경준의 친구가족도 합류가 예고돼 기대를 모았다. 빨간 하트 우산에 숨은 누군가의 모습이 정우의 눈에 포착됐다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우쥬록스, 現직원들 임금체불→"일부 지급"..송지효는? (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230725194623620</link>
-            <guid>https://v.daum.net/v/20230725194623620</guid>
-            <pubDate>Tue, 25 Jul 2023 11:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김나연 기자] 우쥬록스 측이 현 직원들의 체불된 임금 일부를 지급했다. 25일 OSEN 취재에 따르면 우쥬록스 현 직원들은 이날 밀린 급여의 일부를 지급받은&nbsp;것으로 확인됐다. 앞서 우쥬록스 측 관계자는 OSEN에 "지금 직원들도 다들 급여를 못 받고 있다. 24일까지도 돈이 들어오지 않으면 직원들도 대표 A씨에 대해 폭로를 하기로 이야기했다"]]></content:encoded>
+            <title><![CDATA[이동욱, 유재석도 인정한 예능 존재감 "유튜브계 씹어먹어" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230725205002089</link>
+            <guid>https://v.daum.net/v/20230725205002089</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 장인영 기자) 이동욱이 유재석과의 전화 연결을 통해 예능감을 인정받았다.&nbsp; 25일 유튜브 채널 TEO 테오에는 '그런 날 있잖아 이동욱이 보고 싶은.. 그런 날 Ep.10 이동욱 | 살롱드립'이라는 제목의 영상이 게재됐다.&nbsp;&nbsp; 이날 MC 장도연은 이동욱에 대해 "예비 유튜버다. 난리가 났다. 최고의 필모가 '핑계고'다"라고 설명했다. 이에 이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['하늘의 인연' 전혜연→안동엽, 강치환·진주형에 반격 성공 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230725193455410</link>
-            <guid>https://v.daum.net/v/20230725193455410</guid>
-            <pubDate>Tue, 25 Jul 2023 11:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 박하나 기자 = '하늘의 인연' 전혜연, 서한결, 변우민, 조미령, 안동엽이 강치환과 진주형에게 반격했다. 25일 오후 7시 5분에 방송된 MBC 일일드라마 '하늘의 인연'(극본 여정미/연출 김진형)에서는 강치환(김유석 분)의 거짓말을 알고 반격을 준비하는 윤솔(전혜연 분)의 모습이 담겼다. 강치환은 하윤모(변우민 분)를 압박하며 샤인인]]></content:encoded>
+            <title><![CDATA[마이티마우스 쇼리, 딸 이재와 '슈돌' 나들이…강정부자 만남 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230725204755059</link>
+            <guid>https://v.daum.net/v/20230725204755059</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 박하나 기자 = '슈퍼맨이 돌아왔다'에 마이티마우스 쇼리 부녀가 출격했다. 25일 오후에 방송된 KBS2TV 예능프로그램 '슈퍼맨이 돌아왔다'(이하 '슈돌')에서는 '강정부자' 강경준과 아들 정우의 일상이 담겼다. 이날 강경준은 정우의 방학을 맞아 부안 새만금을 찾았다. 이어 강경준은 친구 가족을 초대했다고 밝혔다. 강경준의 친구로 초대]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['내편하자' 한혜진 "내 단골맛집에 다른 여자 데리고 온 前남친" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230725193304363</link>
-            <guid>https://v.daum.net/v/20230725193304363</guid>
-            <pubDate>Tue, 25 Jul 2023 11:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 송오정 기자] 모델 한혜진이 상도의에 어긋난 전남친을 저격했다. 26일 U+모바일TV 오리지널 예능 '믿고 말해보는 편-내편하자'에서는 혜풍지랄 MC들과 스페셜 게스트 곽범, 권혁수의 단골집 상도덕(?) 논쟁과 연애 스타일 밸런스 게임이 펼쳐진다. 이날 엄지윤은 "내가 알고 있는 단골집을 소개시켜줬다가 헤어지게 되면 전남친은 그 가게를 가면]]></content:encoded>
+            <title><![CDATA[‘비밀의 여자’ 이채영, 동영상으로 또 한 번 이종원 약점 잡았다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230725204710045</link>
+            <guid>https://v.daum.net/v/20230725204710045</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[‘비밀의 여자’ 이채영이 가지고 있는 동영상으로 이종원의 발목을 잡았다. 25일 오후 방송된 KBS2 ‘비밀의 여자’에서는 주애라(이채영 분)가 남연석(이종원 분)이 처한 어려운 일을 해결한 모습이 전파를 탔다. 이날 회사 사무실에서 남연석은 주애라에게 “이번 일 수고했다”라며 “들킬 일 없는 거지”라 물었다. 주애라는 “아버님 쪽에서 대표이사 자리 올릴]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['살롱드립' 이동욱 "집안일은 남자가 해야... 결혼해도 내가 할 것" 소신 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230725193231337</link>
-            <guid>https://v.daum.net/v/20230725193231337</guid>
-            <pubDate>Tue, 25 Jul 2023 11:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=이혜미 기자] 배우 이동욱이 연애와 결혼에 대한 솔직한 생각을 밝혔다. 살림꾼으로 유명한 그는 “만약 결혼을 한다면 집안일은 내가 할 것”이라는 발언으로 장도연을 환호케 했다. 25일 TEO가 운영하는 웹 예능 ‘살롱드립’에선 이동욱이 게스트로 출연해 입담을 뽐냈다. 이날 이동욱은 호스트 장도연에 의해 ‘포켓남 마스터’로 명명됐다. 조세호 남창]]></content:encoded>
+            <title><![CDATA[이동욱 “공유 장도연 나 때문에 처음 만나 뿌듯해” (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230725204634031</link>
+            <guid>https://v.daum.net/v/20230725204634031</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[이동욱이 공유와 장도연의 친분에 뿌듯하다고 말했다. 7월 25일 공개된 TEO 오리지널 콘텐츠 ‘살롱드립’에서는 배우 이동욱이 출연했다. 이날 장도연은 “‘살롱드립’ 1회 게스트 자리를 공유에게 뺏겨 서운했다고?”라고 질문했고 이동욱은 “전혀요. 공유 형이 나와 좋았다. 공유 형과 장도연 씨가 처음 만난 계기가 저 때문이지 않냐. 첫 회를 빛내주기 위]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[손승연은 피프티 피프티가 얼마나 야속할까…묻혔던 전속게약 분쟁, 재소환돼 시선만 싸늘 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230725192608184</link>
-            <guid>https://v.daum.net/v/20230725192608184</guid>
-            <pubDate>Tue, 25 Jul 2023 11:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 정빛 기자] 그룹 피프티 피프티 사태와 관련해 재소환된 가수 손승연이 과거 전속계약 분쟁으로 다툰 포츈과 다시 '2차전'에 돌입한 모양새지만, 대중의 시선은 싸늘기만 하다. 피프티 피프티 소속사 어트랙트 측이 피프티 피프티 멤버들을 빼가려는 외부 세력으로 더기버스 측을 지목한 가운데, 손승연도 과거 소속사였던 포츈과 법적 분쟁]]></content:encoded>
+            <title><![CDATA[이동욱 부상에도 “장도연에 마음의 빚 있어 갚으러 나와” (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230725204232968</link>
+            <guid>https://v.daum.net/v/20230725204232968</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[이동욱이 장도연을 향한 애정을 드러냈다. 7월 25일 공개된 TEO 오리지널 콘텐츠 ‘살롱드립’에서는 배우 이동욱이 출연했다. 이날 이동욱은 “어깨 인대가 늘어나 뼈가 벌어져서 이쪽 근육이 파열됐다. 어제 드라마 마지막 촬영에서 다쳤다”고 자신의 몸 상태를 설명했다. 장도연이 컨디션이 안 좋은데 섭외에 응해준 이동욱에게 “미안하다”고 말하자 이동욱은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[경기아트센터, '2023 거리로 나온 예술' 11월까지 진행 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230725192402145</link>
-            <guid>https://v.daum.net/v/20230725192402145</guid>
-            <pubDate>Tue, 25 Jul 2023 11:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[[최경준 기자] ▲ &nbsp;'2023 거리로 나온 예술' 공연 사진ⓒ 경기아트센터&nbsp; 경기도민들의 일상 속으로 찾아가는 경기아트센터(사장 서춘기)의 '2023 거리로 나온 예술' 무대가 7월부터 11월까지 도내 곳곳에서 열린다. '거리로 나온 예술'은 도내 예술인 및 단체를 공모로 선정해 도민들이 일상에서 쉽게 접할 수 있는 공간을 직접 찾아 공연·전시 등을 선보]]></content:encoded>
+            <title><![CDATA[장원영, 몸 터치하려던 초등학생에 깜짝…맘카페는 비난 '초통령 수난시대' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230725203744871</link>
+            <guid>https://v.daum.net/v/20230725203744871</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 이우주 기자] 아이브 장원영이 뜻밖의 비난 세례를 받고 있다. 자신을 터치하려던 초등학생에게 놀랐다는 이유 때문이다. 최근 온라인 커뮤니티에서는 장원영과 한 초등학생의 모습이 담겼다. 아이브 멤버들이 어딘가로 이동 중인 가운데 한 초등학생이 갑자기 나타나 장원영을 향해 손을 뻗었다. 자신을 터치하려는 초등학생에 놀란 장원영은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[서수진 '학폭 논란' 잊은 행보ing…'피해 고백' 서신애 복귀 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230725191943035</link>
-            <guid>https://v.daum.net/v/20230725191943035</guid>
-            <pubDate>Tue, 25 Jul 2023 11:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김예나 기자) 배우 서신애가 그룹 (여자)아이들 전 멤버 서수진으로부터 학교 폭력 피해 고백 후 활동 중단을 끝내고 복귀를 알린 가운데, 두 사람의 활동 재개 근황에 관심이 쏠리고 있다.&nbsp; 서신애는 25일 소속사 PA엔터테인먼트(이하 PA엔터)와의 전속계약 체결 소식과 함께 "차기작 검토 중"이라고 밝혔다.&nbsp; PA엔터 측은 "서신애가 배우로서]]></content:encoded>
+            <title><![CDATA['비밀의 여자' 이종원, 이채영에 제대로 약점 잡혀…"다 봤다" 충격 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230725203515810</link>
+            <guid>https://v.daum.net/v/20230725203515810</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 이지현 기자 = '비밀의 여자' 이종원이 이채영에게 제대로 약점을 잡혔다. 25일 오후 방송된 KBS 2TV 일일드라마 '비밀의 여자'에서는 주애라(이채영 분)가 YJ가에서 쫓겨날 위기를 여유롭게 넘겼다. 남연석(이종원 분)의 약점을 이미 다 알았기 때문. 이날 주애라는 남유진(한기웅 분)과 함께 박상무의 채용 비리를 꾸몄다. 그는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['하늘의 인연' 김유석, 진주형에 부사장직 제안…"고지가 코앞" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230725191528897</link>
-            <guid>https://v.daum.net/v/20230725191528897</guid>
-            <pubDate>Tue, 25 Jul 2023 11:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 박하나 기자 = '하늘의 인연' 김유석이 진주형에게 부사장직을 준비하라고 말했다. 25일 오후 7시 5분에 방송된 MBC 일일드라마 '하늘의 인연'(극본 여정미/연출 김진형)에서는 여론 조작으로 윤솔(전혜연 분)과 채영은(조미령 분)을 내치고, 하윤모(변우민 분)를 압박하는 강치환(김유석 분)의 모습이 담겼다. 강치환은 윤솔과 채영은을]]></content:encoded>
+            <title><![CDATA['비밀의 여자' 이채영, 이종원 손절에 "살인 사주하셨잖아요" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230725203504806</link>
+            <guid>https://v.daum.net/v/20230725203504806</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 송오정 기자] '비밀의 여자' 이종원, 이채영의 수싸움이 이어졌다. 25일 방송된 KBS2 '비밀의 여자'에서 주애라(이채영)은 자신을 토사구팽하려는 남연석(이종원)에게 숨겨둔 패를 꺼냈다. 박 상무는 남유진(한기웅)과 주애라(이채영)의 계략에 의해 궁지에 몰렸다. 주애라에 의해 박 상무와 접점이 있는 비서실 인턴에게 임원직만 갖고 있는 면접]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이동욱, 어깨인대 파열 부상에도 ‘살롱드립’행 “장도연이니까” 애정고백 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230725190426553</link>
-            <guid>https://v.daum.net/v/20230725190426553</guid>
-            <pubDate>Tue, 25 Jul 2023 11:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 박효실기자] 출연만 했다하면 조회수 100만뷰를 훌쩍 넘는 준비된 유튜버 배우 이동욱이 장도연을 만났다. 25일 업로드된 유튜브채널 ‘테오-살롱드립’에 이동욱이 출연해 ‘인급동’ 면모를 과시했다. 이날 이동욱은 컨디션이 과히 좋지 않은 상태였다. 그는 “어제가 드라마 마지막 촬영이었는데, 액션신을 찍다가 다쳤다. 어깨 인대가 늘어나고]]></content:encoded>
+            <title><![CDATA[중국은 기회의 땅? 제시카→엠버, 韓 영광 잊고 재데뷔 기회 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230725203341780</link>
+            <guid>https://v.daum.net/v/20230725203341780</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=장우영 기자] 한국에서 활동했던 이들에게 중국은 또 다른 기회의 땅일까. 소녀시대 출신 제시카, 에프엑스 출신 엠버가 중국 걸그룹으로 재데뷔하는 기회를 얻었다. 배우 추자현도 해당 오디션에 참가하는 등 눈길을 모았다. 엠버는 최근 중국 망고TV 걸그룹 재데뷔 프로그램 ‘승풍파랑적저저’의 네 번째 시즌 ‘승풍 2023’에 출연해 최종 2위를 차]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['학폭 고발' 서신애, 고혹적 변신+5년만 컴백..서수진도 SNS 재개 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230725185038213</link>
-            <guid>https://v.daum.net/v/20230725185038213</guid>
-            <pubDate>Tue, 25 Jul 2023 11:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 | 한해선 기자] /사진=서신애 배우 서신애가 새 프로필 사진을 공개했다. 서신애는 25일 새롭게 촬영한 프로필 사진을 다수 공개하며 활동을 예고했다. 서신애는 프로필 사진 속 다양한 콘셉트를 선보였다. 그는 흑백 사진 속 고혹적인 모습, 안경을 쓰고 환하게 웃는 청량한 모습, 청순하면서도 성숙한 모습 등을 선보였다. 서신애는 "이건 뭔가 귀]]></content:encoded>
+            <title><![CDATA[마고 로비 절친들, 라이언 고슬링과 '키스신' 안 찍었다며 '잔소리' (다음 연예 ─ 뉴스 ─ 해외)]]></title>
+            <link>https://v.daum.net/v/20230725204030934</link>
+            <guid>https://v.daum.net/v/20230725204030934</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:25 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=이예은 기자] 영화 '바비'에는 두 남녀 배우의 키스신이 없다.&nbsp; 외신 연예 매체 피플은 22일(현지 시간) 배우 마고 로비의 친구들이 라이언 고슬링과의 키스신이 없다는 사실에 실망했다고 보도했다.&nbsp; 영화 '바비'는 원하는 무엇이든 될 수 있는 '바비랜드'에 살아가던 바비(마고 로비 분)가 현실 세계와 이어진 포털의 균열을 발견하게 되고, 이를]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[드웨인 존슨, 돈 못 버는 무명 배우 수천명 도와...'수십억' 기부 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
+            <link>https://v.daum.net/v/20230725202130505</link>
+            <guid>https://v.daum.net/v/20230725202130505</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:25 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=이예은 기자] '의리왕' 드웨인 존슨이 파업 중인 단역 배우를 위해 고액을 기부했다.&nbsp; 외신 연예 매체 버라이어티는 24일(현지 시간) 배우 드웨인 존슨이 SAG-AFTRA 파업으로 고군분투하고 있는 동료 배우를 위해 재단에 '7자리 숫자'의 금액을 기부했다고 보도했다.&nbsp;그가 기부한 금액은 한화로 최소 12억에서 최대 114억 정도 되는 것으로]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['재산 168억' 홍콩 배우, 36살 연하와 결혼..."집 일곱 채 줄 것" (다음 연예 ─ 뉴스 ─ 해외)]]></title>
@@ -1077,18 +1091,53 @@
             <content:encoded><![CDATA[[TV리포트=안수현 기자] 가수 토리 켈리의 건강에 이상이 생겼다. TMZ 보도에 따르면, 지난 23일(현지 시간) 가수 토리 켈리(30)는  미국 로스앤젤레스에서 저녁 식사를 하던 중 쓰러져 병원으로 이송됐다. 토리 켈리는 로스앤젤레스 시내의 한 식당에서 실신한 후 Cedars-Sinai(시더스-시나이) 병원으로 이송됐다. TMZ는 의사들이 켈리의 다리와]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[톰 브래디, 지젤 버천과 이혼 후 다른 모델과 열애...취향 확고 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
-            <link>https://v.daum.net/v/20230725140031300</link>
-            <guid>https://v.daum.net/v/20230725140031300</guid>
-            <pubDate>Tue, 25 Jul 2023 05:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=유비취 기자] 전설적인 미식축구 선수 톰 브래디가 이혼 후 모델 이리나 샤크와 열애설에 휩싸였다. 24일(현지 시간) 연예 매체 페이지식스는 톰 브래디(45)와 이리나 샤크(37)의 열애설을 보도했다. 톰 브래디와 이리나 샤크는 미국 로스앤젤레스에 위치한 톰 브래디의 집에서 주말을 보낸 것으로 전해진다. 이들은 함께 고급 세단 차량을 타고 거]]></content:encoded>
+            <title><![CDATA[영탁 두번째 비디오 샘플 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000902472</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000902472</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:36 GMT</pubDate>
+            <content:encoded><![CDATA[영탁이 두번째 비디오 샘플을 공개했다. 지난 24일 영탁 공식 SNS takstudio_official 계정에 영상하나가 게재됐다. 심장까지 전율이 오는 BGM에 어딘가에 걸터 앉아 있는 폼과 아무나 소화할수 없는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[지젤 번천 “전남편 톰 브래디♥이리냐 샤크 열애, 둘이 행복하길” 축하 메시지 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
-            <link>https://v.daum.net/v/20230725133920646</link>
-            <guid>https://v.daum.net/v/20230725133920646</guid>
-            <pubDate>Tue, 25 Jul 2023 05:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]슈퍼모델 지젤 번천(43)이 전남편 톰 브래디(45)와 이리나 샤크(37)의 열애에 축하 메시지를 보냈다. 24일(현지시간) 연예매체 피플에 따르면, 소식통은 “번천은 브라질에서 휴가 중이고 자신의 삶을 살고 있지만, 그는 과거에 전 남편이 행복하기를 원한다고 말했다”고 전했다. 브래디와 번천은 지난해 10월 결혼 13년]]></content:encoded>
+            <title><![CDATA[‘8월 16일 컴백’ 스테이씨, 타이틀곡은 ‘Bubble’···미니 3집 ‘TEENFRESH’ 스케줄러 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000902470</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000902470</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:36 GMT</pubDate>
+            <content:encoded><![CDATA[걸그룹 스테이씨(STAYC)가 컴백 카운트다운에 돌입했다. 스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)는 지난 24일 공식 SNS를 통해 오는 8월 16일 발매하는 세 번째 미니앨범 ‘TEENFRESH (틴프]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[드라마 ‘어쩌다 마주친, 그대’ OST 네모 앨범 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000902468</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000902468</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:36 GMT</pubDate>
+            <content:encoded><![CDATA[시간여행을 소재로 많은 사랑을 받은 인기 드라마 ‘어쩌다 마주친, 그대’ OST가 25일 스마트 앨범인 네모 앨범으로 발매됐다. 1987년과 2021년을 오가는 두 남녀의 시간 여행기를 그린 드라마 ‘어쩌다 마주친]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[IVE·ZEROBASEONE·STAYC→P1Harmony·ATBO·xikers 출연 ‘2023 새만금 세계스카우트 잼버리 케이팝 슈퍼 라이브’ (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000902466</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000902466</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:36 GMT</pubDate>
+            <content:encoded><![CDATA[세계 170여 개국 청소년을 위한 ‘케이팝 슈퍼 라이브’가 대한민국에서 개최된다. 한국스카우트연맹이 주최하고 2023 새만금 세계스카우트 잼버리조직위원회가 주관, 새만금개발청, 한국관광공사, 전라북도가 제작 지원하는]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[트레저, 정규2집 'REBOOT' 28일 발매.... 타이틀곡 "BONA BONA" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=438&amp;aid=0000057567</link>
+            <guid>https://entertain.naver.com/now/read?oid=438&amp;aid=0000057567</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:36 GMT</pubDate>
+            <content:encoded><![CDATA[트레저가 신곡 'BONA BONA'의 콘셉트를 엿볼 수 있는 비주얼을 공개해 글로벌 팬들의 기대감을 고조시켰다. YG엔터테인먼트는 공식 블로그에 'TREASURE - 'BONA BONA' TITLE POSTER'를]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[틱톡 히트곡 ‘Like 1999’의 주인공 밸리(Valley), 8월 첫 단독 내한공연 개최 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000902463</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000902463</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:36 GMT</pubDate>
+            <content:encoded><![CDATA[‘Like 1999’로 국내에서도 큰 인기를 얻은 캐나다 팝 밴드 밸리(Valley)가 첫 단독 공연을 위해 오는 8월, 한국을 다시 찾는다. 두 팀의 밴드로 각각 활동하고 있던 롭 라스카(Rob Laska, 보컬)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뉴진스 ‘Get Up’, 美 피치포크 극찬 세례...테일러 스위프트 보다 평점↑ (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000951243</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000951243</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:36 GMT</pubDate>
+            <content:encoded><![CDATA[뉴진스(NewJeans)가 미니 2집 ‘Get Up’으로 주요 글로벌 차트서 괄목할 만한 성적을 거두고 있는 가운데 해외 유력지들의 호평 세례가 쏟아지고 있다. 미국 피치포크(Pitchfork)는 24일(현지시간)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[美 빌보드 안착’ XG, 첫 미니앨범 ‘NEW DNA’ 오는 9월 27일 발매 확정 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
@@ -1217,228 +1266,235 @@
             <content:encoded><![CDATA[그룹 트리플에스 윤서연이 25일 오후 경기도 고양시 CJ ENM 일산제작센터에서 열린 Mnet '퀸덤퍼즐' 생방송 전 포토행사에 참석해 포토타임을 갖고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[브라운티거, 국내 최초 호러 레게 ‘착호갑사’ 챌린지 열풍 ing (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003644216</link>
-            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003644216</guid>
-            <pubDate>Tue, 25 Jul 2023 11:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[레게 뮤지션 브라운티거(Brown Tigger)의 신곡 ‘착호갑사(범 잡아라)' 챌린지 열풍이 불고 있다. 브라운티거가 지난 19일 국내 최초 호러 레게 장르 '착호갑사(범 잡아라)'를 공개한 이후, '착호갑사(범]]></content:encoded>
+            <title><![CDATA[[T포토] 차현승 '씩씩한 발걸음' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001264477</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001264477</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[댄서 차현승이 25일 오후 서울 영등포타임스퀘어 아트리움 광장에서 진행된 영화 '더 문' (감독 김용화) VIP시사회에 참석해 포즈를 취하고 있다. 한편, 영화 '더 문'은 사고로 인해 홀로 달에 고립된 우주 대원]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 트리플에스 이지우, '귀여움 가득~' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004872470</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004872470</guid>
-            <pubDate>Tue, 25 Jul 2023 11:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 트리플에스 이지우가 25일 오후 경기도 고양시 CJ ENM 일산제작센터에서 열린 Mnet '퀸덤퍼즐' 생방송 전 포토행사에 참석해 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[이동욱, 딸도 없는 사람이…‘시선 강탈’ 폰 꾸미기 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000650707</link>
+            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000650707</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이동욱이 독보적인 폰케이스 뒷면으로 눈길을 끌었다. 사진=이동욱 인스타그램 25일 이동욱은 자신의 SNS에 폰케이스 뒷면을 촬영한 사진을 공개했다. 사진 속 이동욱의 폰케이스는 여러 애니메이션 캐릭터 스티커와]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 우주소녀 여름, '우아한 드레스 입고~' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004872466</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004872466</guid>
-            <pubDate>Tue, 25 Jul 2023 11:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 우주소녀 여름이 25일 오후 경기도 고양시 CJ ENM 일산제작센터에서 열린 Mnet '퀸덤퍼즐' 생방송 전 포토행사에 참석해 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[[T포토] 김기해 '오늘은 큐티해~' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001264476</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001264476</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김기해가 25일 오후 서울 영등포타임스퀘어 아트리움 광장에서 진행된 영화 '더 문' (감독 김용화) VIP시사회에 참석해 포즈를 취하고 있다. 한편, 영화 '더 문'은 사고로 인해 홀로 달에 고립된 우주 대원]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 케이, '언제봐도 예쁨이 가득~' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004872464</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004872464</guid>
-            <pubDate>Tue, 25 Jul 2023 11:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[가수 케이가 25일 오후 경기도 고양시 CJ ENM 일산제작센터에서 열린 Mnet '퀸덤퍼즐' 생방송 전 포토행사에 참석해 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[[TVis] 봉태규, 유쾌한 캐릭터 고충有 “아버지 마지막까지 희화화” (고두심이 좋아서) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003290448</link>
+            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003290448</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[배우 봉태규가 전 소소사와의 갈등 및 악성 댓글 때문에 힘들었던 과거를 고백했다. 25일 채널A ‘고두심이 좋아서’에는 봉태규가 게스트로 출연해 원주 여행을 함께 했다. 개성파 배우로 활발하게 활동하던 봉태규는 지난]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 도화, '우아한 손인사~' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004872461</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004872461</guid>
-            <pubDate>Tue, 25 Jul 2023 11:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[가수 도화가 25일 오후 경기도 고양시 CJ ENM 일산제작센터에서 열린 Mnet '퀸덤퍼즐' 생방송 전 포토행사에 참석해 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA['방이동 독거노인' 조인성, 한효주에 김 보내달라 했는데…판매량 급증에 '완판' 사태 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004036091</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004036091</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:46 GMT</pubDate>
+            <content:encoded><![CDATA['방이동 독거노인' 조인성의 김 선물이 불발 위기에 처했다. 한효주는 '김 완판녀'가 됐다. 지난 22일 뜬뜬 유튜브 채널에는 '커피 두세 잔은 핑계고'라는 제목의 '핑계고' 영상이 게재됐다. 이날 게스트로는 차태현]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 우아! 우연, '퀸덤이 자리는 내 것' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004872460</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004872460</guid>
-            <pubDate>Tue, 25 Jul 2023 11:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 우아! 우연이 25일 오후 경기도 고양시 CJ ENM 일산제작센터에서 열린 Mnet '퀸덤퍼즐' 생방송 전 포토행사에 참석해 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[아이브→제로베이스원…‘케이팝 슈퍼라이브’ 세계 청소년 위한 ‘꿈의 무대’ (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0005163783</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0005163783</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계 170여개국 청소년을 위한 ‘케이팝 슈퍼 라이브’가 개최된다. 한국스카우트연맹이 주최하고 2023 새만금 세계스카우트 잼버리조직위원회가 주관, 새만금개발청, 한국관광공사, 전라북도가 제작 지원하는 KBS 1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 우아! 나나, '눈부신 미모 뽐내며 하트~' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004872456</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004872456</guid>
-            <pubDate>Tue, 25 Jul 2023 11:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 우아! 나나가 25일 오후 경기도 고양시 CJ ENM 일산제작센터에서 열린 Mnet '퀸덤퍼즐' 생방송 전 포토행사에 참석해 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[[T포토] 조준영 '두 손 모아 공손한 인사' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001264472</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001264472</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[배우 조준영이 25일 오후 서울 영등포타임스퀘어 아트리움 광장에서 진행된 영화 '더 문' (감독 김용화) VIP시사회에 참석해 포즈를 취하고 있다. 한편, 영화 '더 문'은 사고로 인해 홀로 달에 고립된 우주 대원]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[수현, 오랜만의 외출…설레요 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006951084</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006951084</guid>
-            <pubDate>Tue, 25 Jul 2023 11:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[배우 수현이 25일 서울 영등포구 타임스퀘어에서 열린 영화 '더 문' VIP 시사회에 참석하고 있다. '더 문'은 사고로 인해 홀로 달에 고립된 우주 대원 선우(도경수 분)와 필사적으로 그를 구하려는 전 우주센터장]]></content:encoded>
+            <title><![CDATA[[T포토] 조준영 '떨리는 발걸음' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001264471</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001264471</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[배우 조준영이 25일 오후 서울 영등포타임스퀘어 아트리움 광장에서 진행된 영화 '더 문' (감독 김용화) VIP시사회에 참석해 포즈를 취하고 있다. 한편, 영화 '더 문'은 사고로 인해 홀로 달에 고립된 우주 대원]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[옥자연 '더 문' 보러 왔어요 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006951083</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006951083</guid>
-            <pubDate>Tue, 25 Jul 2023 11:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[배우 옥자연이 25일 서울 영등포구 타임스퀘어에서 열린 영화 '더 문' VIP 시사회에 참석하고 있다. '더 문'은 사고로 인해 홀로 달에 고립된 우주 대원 선우(도경수 분)와 필사적으로 그를 구하려는 전 우주센터장]]></content:encoded>
+            <title><![CDATA[[포토] 천정명, 훈훈함 가득한 손인사 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003290446</link>
+            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003290446</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '더 문' VIP시사회가 25일 오후 서울 영등포구 타임스퀘어에서 열렸다. 배우 천정명이 참석해 포토타임을 갖고 있다. '더 문'은 사고로 인해 홀로 달에 고립된 우주 대원 선우(도경수)와 필사적으로 그를 구하]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이은, 배우→매니저로 전향 “대표와 결혼설은 해프닝” [공식] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003290374</link>
-            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003290374</guid>
-            <pubDate>Tue, 25 Jul 2023 11:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[모델 출신 배우 이은의 근황이 전해졌다. 이미지나인컴즈 관계자는 25일 일간스포츠에 “이은이 유튜브 크리에이터 사업팀에서 약 4년째 근무하고 있다. 현재 유현준 교수, 조수빈 아나운서 등을 담당하고 있으며 지난해 팀]]></content:encoded>
+            <title><![CDATA[[포토] 천정명, 귀여운 룩으로 왔어요 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003290445</link>
+            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003290445</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '더 문' VIP시사회가 25일 오후 서울 영등포구 타임스퀘어에서 열렸다. 배우 천정명이 참석해 포토타임을 갖고 있다. '더 문'은 사고로 인해 홀로 달에 고립된 우주 대원 선우(도경수)와 필사적으로 그를 구하]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 차현승, 훈훈한 미소 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003290373</link>
-            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003290373</guid>
-            <pubDate>Tue, 25 Jul 2023 11:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '더 문' VIP시사회가 25일 오후 서울 영등포구 타임스퀘어에서 열렸다. 댄서 차현승이 참석해 레드카펫을 밟고 있다. '더 문'은 사고로 인해 홀로 달에 고립된 우주 대원 선우(도경수)와 필사적으로 그를 구하]]></content:encoded>
+            <title><![CDATA[[포토] 천정명, 훈훈한 입장 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003290444</link>
+            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003290444</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '더 문' VIP시사회가 25일 오후 서울 영등포구 타임스퀘어에서 열렸다. 배우 천정명이 참석해 레드카펫을 밟고 있다. '더 문'은 사고로 인해 홀로 달에 고립된 우주 대원 선우(도경수)와 필사적으로 그를 구하]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 가수 수란, ‘더 문’ 왔어요 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0005163756</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0005163756</guid>
-            <pubDate>Tue, 25 Jul 2023 11:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘더 문’의 VIP 시사회 쇼케이스가 25일 오후 영등포 타임스퀘어에서 열렸다. 레드카펫 행사에 그룹 엑소, 그룹 위너 진우, 배우 김우빈, 천정명, 성동일, 김향기, 이준혁, 정만식, 수현, 이혜성, 차현승,]]></content:encoded>
+            <title><![CDATA[[T포토] 갈소원 '여리여리한 몸매' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001264468</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001264468</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[배우 갈소원이 25일 오후 서울 영등포타임스퀘어 아트리움 광장에서 진행된 영화 '더 문' (감독 김용화) VIP시사회에 참석해 포즈를 취하고 있다. 한편, 영화 '더 문'은 사고로 인해 홀로 달에 고립된 우주 대원]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[크래비티, 제주도 완전 정복…볼거리→먹거리 재미까지 (비티파크7) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001065565</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001065565</guid>
-            <pubDate>Tue, 25 Jul 2023 11:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[크래비티, 제주도 완전 정복…볼거리→먹거리 재미까지 (비티파크7) 그룹 크래비티(CRAVITY:세림.앨런.정모.우빈.원진.민희.태영.형준.성민)가 제주도를 완전 정복했다. 크래비티는 지난 24일 공식 유튜브 채널을]]></content:encoded>
+            <title><![CDATA[[T포토] 갈소원 '청순미 넘치는 양갈래 머리' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001264467</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001264467</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[배우 갈소원이 25일 오후 서울 영등포타임스퀘어 아트리움 광장에서 진행된 영화 '더 문' (감독 김용화) VIP시사회에 참석해 포즈를 취하고 있다. 한편, 영화 '더 문'은 사고로 인해 홀로 달에 고립된 우주 대원]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[T포토] 신예은 '연진이표 달하트' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001264439</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001264439</guid>
-            <pubDate>Tue, 25 Jul 2023 11:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[배우 신예은이 25일 오후 서울 영등포타임스퀘어 아트리움 광장에서 진행된 영화 '더 문' (감독 김용화) VIP시사회에 참석해 포즈를 취하고 있다. 한편, 영화 '더 문'은 사고로 인해 홀로 달에 고립된 우주 대원]]></content:encoded>
+            <title><![CDATA[[포토] 김기리, 포토타임이 수줍어 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003290441</link>
+            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003290441</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '더 문' VIP시사회가 25일 오후 서울 영등포구 타임스퀘어에서 열렸다. 코미디언 김기리가 참석해 포토타임을 갖고 있다. '더 문'은 사고로 인해 홀로 달에 고립된 우주 대원 선우(도경수)와 필사적으로 그를]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김한결, 컴백 예고 “29일 싱글앨범 나옵니다...시원함 느껴지길” [M+★SNS] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001758596</link>
-            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001758596</guid>
-            <pubDate>Tue, 25 Jul 2023 11:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[가수 김한결이 컴백을 예고했다. 김한결은 25일 자신의 SNS에 “7월 29일 토요일 오후 6시에 제7번째 싱글앨범이 나옵니다”라고 알렸다. 이어 “무더운 여름 잠시나마 시원함이 느껴지길 바랍니다”라고 전했다. 함께]]></content:encoded>
+            <title><![CDATA[[포토] 김기해, 귀여운 미소 발사 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003290436</link>
+            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003290436</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '더 문' VIP시사회가 25일 오후 서울 영등포구 타임스퀘어에서 열렸다. 배우 김기해가 참석해 포토타임을 갖고 있다. '더 문'은 사고로 인해 홀로 달에 고립된 우주 대원 선우(도경수)와 필사적으로 그를 구하]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[정동원, 날렵+훈훈 비주얼…유쾌한 매력까지[M+★SNS] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001758595</link>
-            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001758595</guid>
-            <pubDate>Tue, 25 Jul 2023 11:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[가수 정동원이 훈훈한 비주얼을 공개했다. 정동원은 25일 오후 자신의 인스타그램에 사진 여러장을 게재했다. 사진 속에는 수박 아이스크림을 먹고 있는 그의 모습이 담겨 있다. 날렵한 턱선과 오똑한 콧대 등으로 정동원은]]></content:encoded>
+            <title><![CDATA[[T포토] 슬비-지성 '소녀를 조심해' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001264466</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001264466</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 '소녀주의보' 지성, 슬비가 25일 오후 서울 영등포타임스퀘어 아트리움 광장에서 진행된 영화 '더 문' (감독 김용화) VIP시사회에 참석해 포즈를 취하고 있다. 한편, 영화 '더 문'은 사고로 인해 홀로 달에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 나영석 PD, 토롱이와 함께 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0005163754</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0005163754</guid>
-            <pubDate>Tue, 25 Jul 2023 11:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘더 문’의 VIP 시사회 쇼케이스가 25일 오후 영등포 타임스퀘어에서 열렸다. 레드카펫 행사에 그룹 엑소, 그룹 위너 진우, 배우 김우빈, 천정명, 성동일, 김향기, 이준혁, 정만식, 수현, 이혜성, 차현승,]]></content:encoded>
+            <title><![CDATA[[포토] 신예은, 사랑스러워 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003290431</link>
+            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003290431</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '더 문' VIP시사회가 25일 오후 서울 영등포구 타임스퀘어에서 열렸다. 배우 신예은이 참석해 포토타임을 갖고 있다. '더 문'은 사고로 인해 홀로 달에 고립된 우주 대원 선우(도경수)와 필사적으로 그를 구하]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 이준혁, 이렇게 잘생기면 반칙 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003290372</link>
-            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003290372</guid>
-            <pubDate>Tue, 25 Jul 2023 11:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '더 문' VIP시사회가 25일 오후 서울 영등포구 타임스퀘어에서 열렸다. 배우 이준혁이 참석해 레드카펫을 밟고 있다. '더 문'은 사고로 인해 홀로 달에 고립된 우주 대원 선우(도경수)와 필사적으로 그를 구하]]></content:encoded>
+            <title><![CDATA[[포토] 신예은, 팬과 하트 만들기 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003290430</link>
+            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003290430</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '더 문' VIP시사회가 25일 오후 서울 영등포구 타임스퀘어에서 열렸다. 배우 신예은이 참석해 팬서비스를 하고 있다. '더 문'은 사고로 인해 홀로 달에 고립된 우주 대원 선우(도경수)와 필사적으로 그를 구하]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 이준혁, 훈훈함 가득해 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003290371</link>
-            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003290371</guid>
-            <pubDate>Tue, 25 Jul 2023 11:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '더 문' VIP시사회가 25일 오후 서울 영등포구 타임스퀘어에서 열렸다. 배우 이준혁이 참석해 레드카펫을 밟고 있다. '더 문'은 사고로 인해 홀로 달에 고립된 우주 대원 선우(도경수)와 필사적으로 그를 구하]]></content:encoded>
+            <title><![CDATA[[포토] 신예은, 요즘 대세의 아우라 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003290429</link>
+            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003290429</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '더 문' VIP시사회가 25일 오후 서울 영등포구 타임스퀘어에서 열렸다. 배우 신예은이 참석해 포토타임을 갖고 있다. '더 문'은 사고로 인해 홀로 달에 고립된 우주 대원 선우(도경수)와 필사적으로 그를 구하]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[T포토] 신예은 '팬과 사랑 만들기' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001264438</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001264438</guid>
-            <pubDate>Tue, 25 Jul 2023 11:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[배우 신예은이 25일 오후 서울 영등포타임스퀘어 아트리움 광장에서 진행된 영화 '더 문' (감독 김용화) VIP시사회에 참석해 포즈를 취하고 있다. 한편, 영화 '더 문'은 사고로 인해 홀로 달에 고립된 우주 대원]]></content:encoded>
+            <title><![CDATA[[T포토] 김진우 '그 남자, 러블리' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001264465</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001264465</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 '위너' 김진우가 25일 오후 서울 영등포타임스퀘어 아트리움 광장에서 진행된 영화 '더 문' (감독 김용화) VIP시사회에 참석해 포즈를 취하고 있다. 한편, 영화 '더 문'은 사고로 인해 홀로 달에 고립된 우]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 정석원, 넘치는 카리스마 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0005163753</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0005163753</guid>
-            <pubDate>Tue, 25 Jul 2023 11:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘더 문’의 VIP 시사회 쇼케이스가 25일 오후 영등포 타임스퀘어에서 열렸다. 레드카펫 행사에 그룹 엑소, 그룹 위너 진우, 배우 김우빈, 천정명, 성동일, 김향기, 이준혁, 정만식, 수현, 이혜성, 차현승,]]></content:encoded>
+            <title><![CDATA[‘기적의 형제’ 정우·배현성, 진실 찾기 여정 반환점 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0005163781</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0005163781</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[정우와 배현성의 진실찾기 여정이 반환점을 돌았다. JTBC 수목드라마 ‘기적의 형제’(극본 김지우, 연출 박찬홍, 제작 MI, SLL) 동주(정우)와 강산(배현성)의 진실 찾기가 새로운 국면에 접어들었다. 동주는 ‘]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[T포토] 신예은 '시원한 블랙 원피스' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001264437</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001264437</guid>
-            <pubDate>Tue, 25 Jul 2023 11:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[배우 신예은이 25일 오후 서울 영등포타임스퀘어 아트리움 광장에서 진행된 영화 '더 문' (감독 김용화) VIP시사회에 참석해 포즈를 취하고 있다. 한편, 영화 '더 문'은 사고로 인해 홀로 달에 고립된 우주 대원]]></content:encoded>
+            <title><![CDATA[[T포토] 김진우 '남녀 분간 안가는 얼굴' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001264464</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001264464</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 '위너' 김진우가 25일 오후 서울 영등포타임스퀘어 아트리움 광장에서 진행된 영화 '더 문' (감독 김용화) VIP시사회에 참석해 포즈를 취하고 있다. 한편, 영화 '더 문'은 사고로 인해 홀로 달에 고립된 우]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[T포토] 신예은 '달보다 빛나는 눈망울' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001264436</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001264436</guid>
-            <pubDate>Tue, 25 Jul 2023 11:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[배우 신예은이 25일 오후 서울 영등포타임스퀘어 아트리움 광장에서 진행된 영화 '더 문' (감독 김용화) VIP시사회에 참석해 포즈를 취하고 있다. 한편, 영화 '더 문'은 사고로 인해 홀로 달에 고립된 우주 대원]]></content:encoded>
+            <title><![CDATA[[포토] 조준영, 하늘색 셔츠가 찰떡이야 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003290424</link>
+            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003290424</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '더 문' VIP시사회가 25일 오후 서울 영등포구 타임스퀘어에서 열렸다. 배우 조준영이 참석해 포토타임을 갖고 있다. '더 문'은 사고로 인해 홀로 달에 고립된 우주 대원 선우(도경수)와 필사적으로 그를 구하]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 빌리 하람, 손하트로 응원 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0005163752</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0005163752</guid>
-            <pubDate>Tue, 25 Jul 2023 11:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘더 문’의 VIP 시사회 쇼케이스가 25일 오후 영등포 타임스퀘어에서 열렸다. 레드카펫 행사에 그룹 엑소, 그룹 위너 진우, 배우 김우빈, 천정명, 성동일, 김향기, 이준혁, 정만식, 수현, 이혜성, 차현승,]]></content:encoded>
+            <title><![CDATA[이효리, 상처 받을 일 있었나? "누구로부터 상처 받을지는 고를 수 있어요" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004036082</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004036082</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:46 GMT</pubDate>
+            <content:encoded><![CDATA["누구로부터 상처를 받을지는 고를 수 있어요." 가수 이효리가 25일 개인 계정에 의미심장한 문구와 함께 짧은 영상을 공개했다. "이 세상을 살면서 상처를 받을지 안 받을 지를 선택 할 수는 없지만, 누구로부터 상처]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[비욘세, 11살 딸과 합동 공연..."부모 따라 가수 되나" [할리웃통신] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001264435</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001264435</guid>
-            <pubDate>Tue, 25 Jul 2023 11:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[팝가수 비욘세(41)의 딸 블루 아이비(11)도 남다른 끼와 스타성을 갖고 있다. 비욘세는 지난 주말 시카고 솔저필드에서 두 차례의 공연을 펼치며 시카고를 휩쓸었다. 공연이 중반에 접어들 무렵 그의 딸 블루 아이비가]]></content:encoded>
+            <title><![CDATA[[T포토] 김진우 '폭염 속 빛나는 비주얼' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001264463</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001264463</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 '위너' 김진우가 25일 오후 서울 영등포타임스퀘어 아트리움 광장에서 진행된 영화 '더 문' (감독 김용화) VIP시사회에 참석해 포즈를 취하고 있다. 한편, 영화 '더 문'은 사고로 인해 홀로 달에 고립된 우]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[송가인, 블링블링 금빛 자태 [스타★샷] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000650700</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000650700</guid>
-            <pubDate>Tue, 25 Jul 2023 11:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[가수 송가인이 빛나는 매력을 뽐냈다. 사진=송가인 인스타그램 25일 송가인은 자신의 SNS에 “오늘밤 ! #화요일은밤이좋아 ! 제 친구 미리와 함께 출연합니다 ! 본방사수 !”라는 멘트와 함께 한 장의 사진을 공개했]]></content:encoded>
+            <title><![CDATA[찬열 ‘훈훈한 미소 왕자’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000951255</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000951255</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘더 문’ VIP 시사회 및 쇼케이스가 25일 오후 서울 영등포 타임스퀘어에서 열렸다. 이날 현장에는 엑소 멤버 백현, 시우민, 찬열, 첸, 세훈이 시사회를 찾아 도경수를 응원하며 우정을 과시했다. 엑소 찬열이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 위너 진우, '더 문' 보러 왔어요 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003290369</link>
-            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003290369</guid>
-            <pubDate>Tue, 25 Jul 2023 11:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '더 문' VIP시사회가 25일 오후 서울 영등포구 타임스퀘어에서 열렸다. 그룹 위너 진우가 참석해 레드카펫을 밟고 있다. '더 문'은 사고로 인해 홀로 달에 고립된 우주 대원 선우(도경수)와 필사적으로 그를]]></content:encoded>
+            <title><![CDATA[엑소 세훈 ‘잘생긴 하트’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000951254</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000951254</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘더 문’ VIP 시사회 및 쇼케이스가 25일 오후 서울 영등포 타임스퀘어에서 열렸다. 이날 현장에는 엑소 멤버 백현, 시우민, 찬열, 첸, 세훈이 시사회를 찾아 도경수를 응원하며 우정을 과시했다. 엑소 세훈이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 위너 진우, 매력적인 보조개 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003290368</link>
-            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003290368</guid>
-            <pubDate>Tue, 25 Jul 2023 11:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '더 문' VIP시사회가 25일 오후 서울 영등포구 타임스퀘어에서 열렸다. 그룹 위너 진우가 참석해 레드카펫을 밟고 있다. '더 문'은 사고로 인해 홀로 달에 고립된 우주 대원 선우(도경수)와 필사적으로 그를]]></content:encoded>
+            <title><![CDATA[엑소 첸 ‘부드러운 미소’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000951253</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000951253</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘더 문’ VIP 시사회 및 쇼케이스가 25일 오후 서울 영등포 타임스퀘어에서 열렸다. 이날 현장에는 엑소 멤버 백현, 시우민, 찬열, 첸, 세훈이 시사회를 찾아 도경수를 응원하며 우정을 과시했다. 엑소 첸이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 위너 진우, 멋진 청청패션 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003290367</link>
-            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003290367</guid>
-            <pubDate>Tue, 25 Jul 2023 11:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '더 문' VIP시사회가 25일 오후 서울 영등포구 타임스퀘어에서 열렸다. 그룹 위너 진우가 참석해 레드카펫을 밟고 있다. '더 문'은 사고로 인해 홀로 달에 고립된 우주 대원 선우(도경수)와 필사적으로 그를]]></content:encoded>
+            <title><![CDATA[시우민 ‘도경수 응원하는 하트’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000951252</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000951252</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘더 문’ VIP 시사회 및 쇼케이스가 25일 오후 서울 영등포 타임스퀘어에서 열렸다. 이날 현장에는 엑소 멤버 백현, 시우민, 찬열, 첸, 세훈이 시사회를 찾아 도경수를 응원하며 우정을 과시했다. 엑소 시우민]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 이혜성, 반가운 손인사 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0005163751</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0005163751</guid>
-            <pubDate>Tue, 25 Jul 2023 11:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘더 문’의 VIP 시사회 쇼케이스가 25일 오후 영등포 타임스퀘어에서 열렸다. 레드카펫 행사에 그룹 엑소, 그룹 위너 진우, 배우 김우빈, 천정명, 성동일, 김향기, 이준혁, 정만식, 수현, 이혜성, 차현승,]]></content:encoded>
+            <title><![CDATA[엑소 백현 ‘하트 귀엽죠?’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000951251</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000951251</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘더 문’ VIP 시사회 및 쇼케이스가 25일 오후 서울 영등포 타임스퀘어에서 열렸다. 이날 현장에는 엑소 멤버 백현, 시우민, 찬열, 첸, 세훈이 시사회를 찾아 도경수를 응원했다. 엑소 백현이 포토타임을 갖고]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[천정명, 오랜만이죠? (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006951068</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006951068</guid>
-            <pubDate>Tue, 25 Jul 2023 11:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[배우 천정명이 25일 서울 영등포구 타임스퀘어에서 열린 영화 '더 문' VIP 시사회에 참석하고 있다. '더 문'은 사고로 인해 홀로 달에 고립된 우주 대원 선우(도경수 분)와 필사적으로 그를 구하려는 전 우주센터장]]></content:encoded>
+            <title><![CDATA[마고 로비 절친들, 라이언 고슬링과 '키스신' 안 찍었다며 '잔소리' [할리웃통신] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001264448</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001264448</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '바비'에는 두 남녀 배우의 키스신이 없다. 외신 연예 매체 피플은 22일(현지 시간) 배우 마고 로비의 친구들이 라이언 고슬링과의 키스신이 없다는 사실에 실망했다고 보도했다. 영화 '바비'는 원하는 무엇이든]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 수현, ‘더 문’ 관람 왔어요 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0005163750</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0005163750</guid>
-            <pubDate>Tue, 25 Jul 2023 11:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘더 문’의 VIP 시사회 쇼케이스가 25일 오후 영등포 타임스퀘어에서 열렸다. 레드카펫 행사에 그룹 엑소, 그룹 위너 진우, 배우 김우빈, 천정명, 성동일, 김향기, 이준혁, 정만식, 수현, 이혜성, 차현승,]]></content:encoded>
+            <title><![CDATA[드웨인 존슨, 돈 못 버는 무명 배우 수천명 도와...'수십억' 기부 [할리웃통신] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001264441</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001264441</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:55 GMT</pubDate>
+            <content:encoded><![CDATA['의리왕' 드웨인 존슨이 파업 중인 단역 배우를 위해 고액을 기부했다. 외신 연예 매체 버라이어티는 24일(현지 시간) 배우 드웨인 존슨이 SAG-AFTRA 파업으로 고군분투하고 있는 동료 배우를 위해 재단에 '7자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[엑소 ‘도경수 응원한다!’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000951245</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000951245</guid>
+            <pubDate>Tue, 25 Jul 2023 12:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘더 문’ VIP 시사회 및 쇼케이스가 25일 오후 서울 영등포 타임스퀘어에서 열렸다. ‘더 문’은 달에 홀로 남겨져 고립된 우주 대원과 지구에서 어떻게든 그를 생환하려는 동료의 사투를 그린 영화. 엑소 시우민]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[김우빈 ‘영등포 들썩’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
@@ -1558,62 +1614,6 @@
             <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000951226</guid>
             <pubDate>Tue, 25 Jul 2023 11:13:26 GMT</pubDate>
             <content:encoded><![CDATA[영화 ‘더 문’ VIP 시사회 및 쇼케이스가 25일 오후 서울 영등포 타임스퀘어에서 열렸다. ‘더 문’은 달에 홀로 남겨져 고립된 우주 대원과 지구에서 어떻게든 그를 생환하려는 동료의 사투를 그린 영화. 신예은이 포]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[신예은 ‘귀여운 볼하트’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000951225</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000951225</guid>
-            <pubDate>Tue, 25 Jul 2023 11:13:26 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘더 문’ VIP 시사회 및 쇼케이스가 25일 오후 서울 영등포 타임스퀘어에서 열렸다. ‘더 문’은 달에 홀로 남겨져 고립된 우주 대원과 지구에서 어떻게든 그를 생환하려는 동료의 사투를 그린 영화. 신예은이 포]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[갈소원 ‘폭풍성장한 7번방 예승이’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000951224</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000951224</guid>
-            <pubDate>Tue, 25 Jul 2023 11:13:26 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘더 문’ VIP 시사회 및 쇼케이스가 25일 오후 서울 영등포 타임스퀘어에서 열렸다. ‘더 문’은 달에 홀로 남겨져 고립된 우주 대원과 지구에서 어떻게든 그를 생환하려는 동료의 사투를 그린 영화. 갈소원이 포]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['재산 168억' 홍콩 배우, 36살 연하와 결혼..."집 일곱 채 줄 것" [룩@차이나] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001264432</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001264432</guid>
-            <pubDate>Tue, 25 Jul 2023 11:13:26 GMT</pubDate>
-            <content:encoded><![CDATA[홍콩 배우 이용기(72)가 올해 말 36세 연하의 여자친구이자 비행기 엔지니어인 크리스 웡(36)과 결혼하기로 했다. 최근 외신 SingTao Daily(싱타오 데일리)에 따르면, 이용기는 사랑하는 여자친구의 가족에]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[위너 진우 ‘멋진 브이’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000951222</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000951222</guid>
-            <pubDate>Tue, 25 Jul 2023 11:13:26 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘더 문’ VIP 시사회 및 쇼케이스가 25일 오후 서울 영등포 타임스퀘어에서 열렸다. ‘더 문’은 달에 홀로 남겨져 고립된 우주 대원과 지구에서 어떻게든 그를 생환하려는 동료의 사투를 그린 영화. 위너 진우가]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[영화 ‘더 문’ 의 주역들‘ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000951221</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000951221</guid>
-            <pubDate>Tue, 25 Jul 2023 11:13:26 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘더 문’ VIP 시사회 및 쇼케이스가 25일 오후 서울 영등포 타임스퀘어에서 열렸다. ‘더 문’은 달에 홀로 남겨져 고립된 우주 대원과 지구에서 어떻게든 그를 생환하려는 동료의 사투를 그린 영화. 김용화 감독]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나영석 PD ‘달 토끼 소개합니다’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000951220</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000951220</guid>
-            <pubDate>Tue, 25 Jul 2023 11:13:26 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘더 문’ VIP 시사회 및 쇼케이스가 25일 오후 서울 영등포 타임스퀘어에서 열렸다. ‘더 문’은 달에 홀로 남겨져 고립된 우주 대원과 지구에서 어떻게든 그를 생환하려는 동료의 사투를 그린 영화. 나영석 PD]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[도경수 ‘달에서 온 우주 대원’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000951217</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000951217</guid>
-            <pubDate>Tue, 25 Jul 2023 11:13:26 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘더 문’ VIP 시사회 및 쇼케이스가 25일 오후 서울 영등포 타임스퀘어에서 열렸다. ‘더 문’은 달에 홀로 남겨져 고립된 우주 대원과 지구에서 어떻게든 그를 생환하려는 동료의 사투를 그린 영화. 도경수가 레]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[설경구 ‘로켓 발사’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000951216</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000951216</guid>
-            <pubDate>Tue, 25 Jul 2023 11:13:26 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘더 문’ VIP 시사회 및 쇼케이스가 25일 오후 서울 영등포 타임스퀘어에서 열렸다. ‘더 문’은 달에 홀로 남겨져 고립된 우주 대원과 지구에서 어떻게든 그를 생환하려는 동료의 사투를 그린 영화. 설경구가 레]]></content:encoded>
         </item>
     </channel>
 </rss>
