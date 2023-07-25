@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2023-07-25T15:15:18.509Z</updated>
+    <updated>2023-07-25T17:15:04.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하이킹 중 실종→사망... 줄리안 샌즈, 결국 사인 못 밝혔다[할리웃통신]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001264509</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001264509"/>
+        <updated>2023-07-25T17:15:03.828Z</updated>
+        <content type="html"><![CDATA[하이킹 중 행방불명돼 실종 5개월 만에 주검으로 발견된 배우 줄리안 샌즈와 관련 현지 경찰이 사인을 밝혀내지 못한 채 사건을 종결했다. 24일(현지시간) BBC 등 외신 보도에 따르면 샌즈의 사망 원인은 미확인으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“의리있네” 드웨인 존슨, 파업중 수천명 무명배우 위해 거액 기부[해외이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003754486</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000951230"/>
         <updated>2023-07-25T11:13:26.711Z</updated>
         <content type="html"><![CDATA[영화 ‘더 문’ VIP 시사회 및 쇼케이스가 25일 오후 서울 영등포 타임스퀘어에서 열렸다. ‘더 문’은 달에 홀로 남겨져 고립된 우주 대원과 지구에서 어떻게든 그를 생환하려는 동료의 사투를 그린 영화. 보이즈플래닛]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차현승 ‘안녕하세요’ [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000951229</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000951229"/>
-        <updated>2023-07-25T11:13:26.713Z</updated>
-        <content type="html"><![CDATA[영화 ‘더 문’ VIP 시사회 및 쇼케이스가 25일 오후 서울 영등포 타임스퀘어에서 열렸다. ‘더 문’은 달에 홀로 남겨져 고립된 우주 대원과 지구에서 어떻게든 그를 생환하려는 동료의 사투를 그린 영화. 차현승이 포]]></content>
     </entry>
 </feed>
