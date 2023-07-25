@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 21:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 03:13:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 정국, 첫 솔로 싱글 'Seven'으로 美 빌보드 '핫 100' 1위]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=273190</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=273190</guid>
+            <pubDate>Tue, 25 Jul 2023 03:12:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273190">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230725081739_a59d56776528022a9d254fdc617e0fdf.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=273190">방탄소년단 정국, 첫 솔로 싱글 'Seven'으로 美 빌보드 '핫 100' 1위</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230725081739_a59d56776528022a9d254fdc617e0fdf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[써머퀸 소유, 미니앨범 ‘Summer Recipe’... 26일 컴백]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=272511</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=271318">방탄소년단 정국, 서머송 'Seven' 오늘 발표</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230714082408_09edfe2e7837938906fd0e1ea35bbb4e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['서머 퀸' 아이브의 귀환, 신곡 'I WANT' 오늘 발매]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=271258</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=271258</guid>
-            <pubDate>Thu, 13 Jul 2023 01:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=271258">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230713092627_f1cab3596b1ef7522005392806f826f8.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=271258">'서머 퀸' 아이브의 귀환, 신곡 'I WANT' 오늘 발매</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230713092627_f1cab3596b1ef7522005392806f826f8.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
