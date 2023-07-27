@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 06:15:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 07:12:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[틱톡의 진화 "K콘텐츠를 싣고, 나의 일상을 기록한다"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=273382</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=273382</guid>
+            <pubDate>Thu, 27 Jul 2023 07:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273382">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230727154308_b3ec20d855c01884f04569524b7f0b91.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=273382">틱톡의 진화 "K콘텐츠를 싣고, 나의 일상을 기록한다"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230727154308_b3ec20d855c01884f04569524b7f0b91.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[화보] 김소현-황민현, ‘소용없어 거짓말’ 화보]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=273380</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=271771">[화보] 뉴진스 민지, 매거진 '보그 코리아' 커버 장식... "가장 많이 성장한 부분은 저희의 팀워크"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230717090055_a7e2c3336437edfe2e6b6f8fabd2ceb4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["무대 위에서 펼쳐지는 전차경주" 뮤지컬 '벤허' 돌아온다]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=271458</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=271458</guid>
-            <pubDate>Fri, 14 Jul 2023 05:13:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=271458">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230714130514_1f3c09a07ed177c3f8465e877b688faf.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=271458">"무대 위에서 펼쳐지는 전차경주" 뮤지컬 '벤허' 돌아온다</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230714130514_1f3c09a07ed177c3f8465e877b688faf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
