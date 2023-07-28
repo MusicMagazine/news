@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-07-28T14:12:41.635Z</updated>
+    <updated>2023-07-28T15:15:28.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트레저, 더 단단한 10인조로 도약할 때]]></title>
+        <id>https://v.daum.net/v/20230729000115750</id>
+        <link href="https://v.daum.net/v/20230729000115750"/>
+        <updated>2023-07-28T15:14:49.353Z</updated>
+        <content type="html"><![CDATA[정규 2집 'REBOOT'에 담긴 변화와 성장 소년에서 남자로, 묵직하고 무게감 있는 변화 [더팩트 | 정병근 기자] 그룹 트레저(TREASURE)는 곧 데뷔 3주년을 맞는다. 시작은 창대했지만 그 이후의 여정이 쉽지만은 않았다. 급기야 두 명의 멤버가 탈퇴해 10인조가 됐다. 시기적으로도 상황적으로도 큰 변화가 필요한 시점. 그래서 이름을 붙였다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['뮤뱅' NCT DREAM, 뉴진스 꺾고 1위 "역시 시즈니!"]]></title>
         <id>https://v.daum.net/v/20230728184709997</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230728162653620"/>
         <updated>2023-07-28T08:16:50.406Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;가수 헤니가 4년 만에 공연으로 말로 표현할 수 없는 기쁨을 전했다. 지난&nbsp;22일부터&nbsp;8월&nbsp;15일까지 하이원워터월드 특설무대에서&nbsp;‘썸머 쿨 스매싱’이 펼쳐지는 가운데&nbsp;27일&nbsp;4년 만에 첫 공연을 성료 한 헤니가 소속사를 통해 비하인드 컷을 공개했다. 2019년에 싱글 'Look At Me'로 데뷔한 헤니는 코로나 여파로 잠정적]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인기가요'도 일본행…10월 도쿄서 개최, 첫 해외 공연]]></title>
-        <id>https://v.daum.net/v/20230728152052402</id>
-        <link href="https://v.daum.net/v/20230728152052402"/>
-        <updated>2023-07-28T07:17:36.446Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 정빛 기자] SBS 음악 방송프로그램 '인기가요'가 열도를 흔들 예정이다. 스포츠조선 취재 결과, '인기가요'는 오는 10월 3일과 4일 양일간 일본 도쿄에서 개최된다. '인기가요'가 해외에서 현지 팬들을 만나는 것은 이번이 처음이다. '슈퍼콘서트'라는 이름으로 국내 지역 곳곳을 찾은 적은 있지만, 해외 개최는 방영된 지 약]]></content>
     </entry>
 </feed>

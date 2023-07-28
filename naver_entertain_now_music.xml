@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-07-28T14:12:41.640Z</updated>
+    <updated>2023-07-28T15:15:28.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트레저, 더 단단한 10인조로 도약할 때[TF초점]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000230133</id>
+        <link href="https://entertain.naver.com/now/read?oid=629&amp;aid=0000230133"/>
+        <updated>2023-07-28T15:15:10.051Z</updated>
+        <content type="html"><![CDATA[정규 2집 'REBOOT'에 담긴 변화와 성장 소년에서 남자로, 묵직하고 무게감 있는 변화 그룹 트레저(TREASURE)는 곧 데뷔 3주년을 맞는다. 시작은 창대했지만 그 이후의 여정이 쉽지만은 않았다. 급기야 두]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘감성 발라더’ 카진, 웹툰 ‘피터판다’ OST ‘살리라’ 30일 발매]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000903243</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0012002792"/>
         <updated>2023-07-28T10:15:15.265Z</updated>
         <content type="html"><![CDATA[온갖 장르가 한 데 섞인 '멜팅 팟(melting pot)' 팝을 선보이는 미국 팝 슈퍼스타 포스트 말론(27·Post Malon·오스틴 리처드 포스트)이 28일 다섯 번째 정규 앨범 '오스틴(AUSTIN)'을 발매]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 래퍼 월록, 신곡 ‘Woo’ 공개]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000903196</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000903196"/>
-        <updated>2023-07-28T10:15:15.267Z</updated>
-        <content type="html"><![CDATA[미국 디트로이트 출신 래퍼 월록(Worlockk)이 본토 그대로의 힙합과 랩을 선보인다. 월록은 28일 각종 음원사이트를 통해 신곡 ‘Woo’(우)를 발매, 힙합 씬에 새로운 페러다임을 제시했다. ‘Woo’는 날카롭]]></content>
     </entry>
 </feed>
