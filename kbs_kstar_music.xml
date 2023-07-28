@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 21:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 22:11:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 정국 ‘Seven’, 글로벌 차트 열풍 지속]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=273671</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=273671</guid>
+            <pubDate>Fri, 28 Jul 2023 22:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273671">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230729070451_a17a91f7cebdb19cc06afef8deda393c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=273671">방탄소년단 정국 ‘Seven’, 글로벌 차트 열풍 지속</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230729070451_a17a91f7cebdb19cc06afef8deda393c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[르세라핌 - 리나 사와야마, 리믹스 음원 발표 ... ‘이브, 프시케 그리고 푸른 수염의 아내']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=273553</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=271601">정국 첫 솔로 싱글 ‘Seven’, 글로벌 히트 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230715095147_a483eb8b85b3aee837c5d88d1cbe8795.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정국, 미국 GMA ‘2023 Summer Concert Series’  라이브 퍼포먼스]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=271561</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=271561</guid>
-            <pubDate>Fri, 14 Jul 2023 23:16:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=271561">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230715073022_9757d0010a9ddb84d7d2a95ad26cc81b.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=271561">정국, 미국 GMA ‘2023 Summer Concert Series’  라이브 퍼포먼스</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230715073022_9757d0010a9ddb84d7d2a95ad26cc81b.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
