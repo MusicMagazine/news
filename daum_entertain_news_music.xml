@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-07-28T20:17:13.591Z</updated>
+    <updated>2023-07-28T21:14:08.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인피니트, 5년 만 완전체 컴백…가요계 '2세대 붐' 잇나]]></title>
+        <id>https://v.daum.net/v/20230729060044844</id>
+        <link href="https://v.daum.net/v/20230729060044844"/>
+        <updated>2023-07-28T21:13:27.327Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 김민지 기자 = 그룹 인피니트(INFINITE/김성규, 장동우, 남우현, 이성열, 엘, 이성종)가 5년 만에 완전체로 컴백한다. 인피니트의 일곱 번째 미니 앨범 '비긴'(13egin)은 31일 오후 6시 각종 음원 사이트를 통해 발매된다. 여섯 멤버가 함께하는 완전체 컴백은 지난 2018년 발매한 정규 3집 앨범 '탑 시드'(TOP SE]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트레저, 더 단단한 10인조로 도약할 때]]></title>
         <id>https://v.daum.net/v/20230729000115750</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230728162713643"/>
         <updated>2023-07-28T08:16:50.404Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] JYP엔터테인먼트(이하 JYP)의 글로벌 걸그룹 론칭 프로젝트 'A2K'(에이투케이, America2Korea) 에서 참가자들의 평가 중 우열이 최초로 갈리기 시작했다. 7월 28일 JYP 공식 유튜브를 통해 공개된 'A2K' 5화에서는 4화에 이어 한국 JYP 본사행을 향한 LA 부트캠프 합숙 11인의 댄스 평가가 이어졌다. 4]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['코로나 시기 데뷔' 헤니, 4년 만에 첫 공연 "말로 표현할 수 없는 기쁨"]]></title>
-        <id>https://v.daum.net/v/20230728162653620</id>
-        <link href="https://v.daum.net/v/20230728162653620"/>
-        <updated>2023-07-28T08:16:50.406Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;가수 헤니가 4년 만에 공연으로 말로 표현할 수 없는 기쁨을 전했다. 지난&nbsp;22일부터&nbsp;8월&nbsp;15일까지 하이원워터월드 특설무대에서&nbsp;‘썸머 쿨 스매싱’이 펼쳐지는 가운데&nbsp;27일&nbsp;4년 만에 첫 공연을 성료 한 헤니가 소속사를 통해 비하인드 컷을 공개했다. 2019년에 싱글 'Look At Me'로 데뷔한 헤니는 코로나 여파로 잠정적]]></content>
     </entry>
 </feed>
