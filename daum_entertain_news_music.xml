@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-07-31T10:15:11.811Z</updated>
+    <updated>2023-07-31T11:15:27.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘SM 새 남자 그룹’ 라이즈, 9월 데뷔…NCT 후 7년만]]></title>
+        <id>https://v.daum.net/v/20230731195307200</id>
+        <link href="https://v.daum.net/v/20230731195307200"/>
+        <updated>2023-07-31T11:14:47.850Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] SM엔터테인먼트(이하 SM) 신인 보이그룹 ‘라이즈(RIIZE)’가 오는 9월 데뷔한다. SM이 에스파(aespa) 이후 약 3년 만에 론칭하는 신인그룹이자, NCT 이후 약 7년 만에 선보이는 보이그룹이다. 그룹명 라이즈는 ‘성장하다’라는 뜻의 ‘Rise’와 ‘실현하다’라는 뜻을 가진 ‘Realize’를 결합해 만든 이름으로, ‘함께 성장]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김성규 "인피니트 정체성=칼군무"…'새로운 느낌'의 완전체 컴백]]></title>
         <id>https://v.daum.net/v/20230731185013395</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230731173210395"/>
         <updated>2023-07-31T09:13:06.207Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김명미 기자] 가수 임영웅 정규 1집 'IM HERO' 수록곡 '연애편지' 뮤직비디오가 뜨겁다. 지난해 5월 22일 임영웅 공식 유튜브 채널에 공개된 '연애편지' 뮤직비디오는 7월 31일 기준 조회수 1800만 뷰를 돌파 했다. '연애편지'는 그룹 자전거 탄 풍경의 송봉주가 작사, 작곡하고 편곡에 박용준이 참여한 곡이다. 연애편지를 쓰는 감정을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“데뷔할 때보다 더 간절해” 인피니트, 눈물의 5년만 완전체 컴백]]></title>
-        <id>https://v.daum.net/v/20230731173138377</id>
-        <link href="https://v.daum.net/v/20230731173138377"/>
-        <updated>2023-07-31T09:13:06.220Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 글 황혜진 기자/사진 표명중 기자] 그룹 인피니트(김성규, 장동우, 남우현, 이성열, 엘, 이성종)가 5년 만에 완전체로 다시 돌아왔다. 7월 31일 오후 4시 서울 서초구 더 리버사이드 호텔에서 인피니트 7번째 미니 앨범 '13egin'(비긴) 발매 기념 기자간담회가 진행됐다. 이날 오후 6시 앨범 발매를 앞두고 취재진과 만나 컴백 소감과 앨범]]></content>
     </entry>
 </feed>
