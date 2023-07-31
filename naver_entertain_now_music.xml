@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-07-31T15:19:12.421Z</updated>
+    <updated>2023-07-31T16:18:27.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[플로(FLO) 드림어스컴퍼니, 모드하우스 소속 ARTMS(아르테미스) MD사업 시작]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000903734</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000903734"/>
+        <updated>2023-07-31T16:18:09.480Z</updated>
+        <content type="html"><![CDATA[음원플랫폼 플로(FLO)를 운영하는 드림어스컴퍼니(SK스퀘어 관계사, 060570)가 ARTMS(아르테미스) 공식 MD샵을 오픈하며, 사업을 확장 한다. 드림어스컴퍼니는 모드하우스 소속 ARTMS IP의 본격적인 M]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['K-떼창' 준비완료…하반기 팝스타 내한 러시[TF프리즘]]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000230500</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005541450"/>
         <updated>2023-07-31T10:14:54.062Z</updated>
         <content type="html"><![CDATA[보컬 그룹 순수희 멤버 기태가 새 솔로곡을 발표한다. 기태는 30일 공식 유튜브 채널에 게재한 티저 영상을 통해 8월 5일 신곡 ‘너라는 걸’을 발매한다는 사실을 알렸다. 기태는 2018년 순순희 멤버로 데뷔한 뒤]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이유, 데뷔 15주년 미디어아트 전시 '순간,' 팡파르]]></title>
-        <id>https://entertain.naver.com/now/read?oid=018&amp;aid=0005541449</id>
-        <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005541449"/>
-        <updated>2023-07-31T09:13:27.430Z</updated>
-        <content type="html"><![CDATA[가수 아이유가 데뷔 후 처음 선보인 미디어아트 전시 ‘순간,’(Moment,)이 신기술과 감성을 접목한 콘텐츠로 많은 화제를 모으고 있다. 소속사에 따르면 지난 21일부터 서울 성동구에 위치한 갤러리아 포레 더 서울]]></content>
     </entry>
 </feed>
