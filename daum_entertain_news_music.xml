@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-08-01T11:13:30.568Z</updated>
+    <updated>2023-08-01T12:31:35.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소유 “한남동 고급 아파트서 5년째 거주..월세만 1천만원”]]></title>
+        <id>https://v.daum.net/v/20230801202508084</id>
+        <link href="https://v.daum.net/v/20230801202508084"/>
+        <updated>2023-08-01T12:30:55.438Z</updated>
+        <content type="html"><![CDATA[[OSEN=지민경 기자] 가수 소유가 한남동 고급 주택으로 오게 된 사연을 전했다. 1일 유튜브 채널 ‘재밌는 거 올라온다’에는 ‘월세만 천만 원?! 철통보안부터 어마어마한 월세까지 한남동 고급아파트 TOP3 소유한 소유 | 아침먹고 가 EP.7’ 영상이 공개됐다. 한남동 고급 아파트에 살고 있는 소유의 집에 찾아온 장성규는 “부동산 하면 또 소유다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['5년 만의 완전체' 인피니트, 칼군무 대신 '찐득'…30대에 다시 만난 '20대 청춘']]></title>
         <id>https://v.daum.net/v/20230801200113707</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230801171049501"/>
         <updated>2023-08-01T08:22:06.709Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 김민지 기자 = 씨드 바오가 어려운 상황에서도 아르바이트를 하며 꿈을 포기하지 않았다고 했다. 1일 오후 서울 용산구 한강대로 대원콘텐츠라이브에서 진행된 보이그룹 씨드(XEED) 두 번째 미니앨범 '블루'(BLUE) 발매 기념 쇼케이스에서 멤버들은 각자가 겪은 산전수전에 대해 말했다. 바오는 "과거 아이돌 활동이 끝나고 '이렇게 열심히]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키스오브라이프 벨, 코로나19 확진]]></title>
-        <id>https://v.daum.net/v/20230801170905439</id>
-        <link href="https://v.daum.net/v/20230801170905439"/>
-        <updated>2023-08-01T08:22:06.709Z</updated>
-        <content type="html"><![CDATA[그룹 키스오브라이프 벨이 코로나19에 확진됐다. 소속사 S2엔터테인먼트는 지난달 31일 공식 팬카페를 통해 “벨이 31일 가벼운 몸살 기운이 있어 선제적으로 진행한 신속항원검사에서 코로나19 확진 판정을 받았다”라고 밝혔다. 벨 외에 타 멤버 쥴리, 나띠, 하늘은 모두 음성 판정을 받았다. 하지만 벨의 코로나19 확진으로 인해 이번 주에 예정되어 있던 음악]]></content>
     </entry>
 </feed>
