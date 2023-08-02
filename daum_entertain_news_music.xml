@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-08-02T12:26:17.647Z</updated>
+    <updated>2023-08-02T13:17:53.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인피니트, ‘킬링 보이스’ 떴다→신곡 ‘New Emotions’ 라이브 공개]]></title>
+        <id>https://v.daum.net/v/20230802220916757</id>
+        <link href="https://v.daum.net/v/20230802220916757"/>
+        <updated>2023-08-02T13:17:19.335Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 그룹 인피니트(INFINITE, 김성규, 장동우, 남우현, 이성열, 엘, 이성종)가 '킬링 보이스'를 통해 '톱 아이돌'의 진면모를 자랑했다. 딩고 뮤직은 지난 1일 오후 7시 공식 유튜브 채널을 통해 인피니트의 '킬링 보이스' 영상을 공개했다. 이날 공개된 영상에서 인피니트는 블루로 톤을 맞춘 화사하고 캐주얼한 스타일링으로 등장부터 시선을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[9월 뜨거운 데뷔 전쟁...YG 베이비몬스터·SM 라이즈·그리드 파우]]></title>
         <id>https://v.daum.net/v/20230802205005513</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230802180939257"/>
         <updated>2023-08-02T10:17:53.071Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 박윤진 기자] 그룹 동방신기 유노윤호의 새 앨범을 위해 'SM 후배' 에스파 멤버 카리나가 지원사격에 나섰다. 유노윤호는 오는 7일 오후 6시 각종 음원 사이트를 통해 세 번째 미니앨범 '리얼리티 쇼(Reality Show)'를 발매하고 솔로 활동에 나선다. 이번 앨범에는 타이틀곡 '뷔자데(Vuja De)'를 비롯해 총 6곡이 실렸으며,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["여름 하면 권은비!" 정주행 노리는 신흥 '서머 퀸' 출사표]]></title>
-        <id>https://v.daum.net/v/20230802180604174</id>
-        <link href="https://v.daum.net/v/20230802180604174"/>
-        <updated>2023-08-02T10:17:53.071Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 용산(서울)=윤성열 기자] 가수 권은비가 2일 오후 서울 용산구 한남동 블루스퀘어에서 열린 첫 번째 싱글 'The Flash'(더 플래시) 발매 기념 쇼케이스에 참석해 포즈를 취하고 있다.  'The Flash(더 플래시)'는 뜨거운 여름날의 열기를 잠재워줄 그만의 강렬하고 글래머러스한 사운드와 청량한 매력까지 모두 느낄 수 있는 서머 시즌]]></content>
     </entry>
 </feed>
