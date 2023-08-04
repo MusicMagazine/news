@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2023-08-04T20:16:04.942Z</updated>
+    <updated>2023-08-04T21:16:11.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美언론 "뉴진스 공연 인산인해…오후 5시대 공연으론 최다 인파"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0014113369</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0014113369"/>
+        <updated>2023-08-04T21:16:11.096Z</updated>
+        <content type="html"><![CDATA[K팝그룹 뉴진스·더로즈, 시카고 롤라팔루자 공연 성황…호평 이어져 김현 통신원 = 미국 시카고에서 개막한 초대형 야외 록 페스티벌 '롤라팔루자'(Lollapalooza)가 새로운 'K팝 체험 성지'로 떠올랐다. 미국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['모터헤드' 레미 킬미스터 유골, 한 페스티벌서 흩어져 [할리웃통신]]]></title>
         <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001265720</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000952988"/>
         <updated>2023-08-04T10:13:20.620Z</updated>
         <content type="html"><![CDATA[배우 장기용이 4일 오후 서울 성동구 성수동 인포멀 스퀘어에서 진행된 ‘에스티 로더 라운지’ 팝업 오픈행사에 참석해 포즈를 취하고 있다. 이날 행사에는 배우 임윤아, 유승호, 이세영, 전효성, 수현, 장기용이 참석해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장기용 ‘심쿵 볼하트’ [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000952987</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000952987"/>
-        <updated>2023-08-04T10:13:20.623Z</updated>
-        <content type="html"><![CDATA[배우 장기용이 4일 오후 서울 성동구 성수동에서 진행된 한 포토행사에 참석해 포즈를 취하고 있다. 미소짓는 장기용. 성수동(서울)=김영구 MK스포츠 기자]]></content>
     </entry>
 </feed>
