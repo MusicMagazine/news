@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-08-05T20:23:10.789Z</updated>
+    <updated>2023-08-05T21:12:26.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅 'Beautiful' 900만뷰..'아름다운 히어로']]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003172608</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003172608"/>
+        <updated>2023-08-05T21:12:09.364Z</updated>
+        <content type="html"><![CDATA[가수 임영웅의 'Beautiful'(뷰티풀) 무대 영상이 900만 뷰를 달성했다. 임영웅이 2020년 11월 13일 공식 유튜브 채널에 공개한 '뷰티풀' 영상은 8월 5일 조회수 900만 뷰를 넘어섰다. 영상에는 T]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['심신 딸' 벨, 작곡돌 계보 잇는다 "르세라핌 곡에 넣은 내 감성"[인터뷰]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003172604</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004876552"/>
         <updated>2023-08-05T11:10:57.826Z</updated>
         <content type="html"><![CDATA[가수 안예은이 무더위를 날릴 오싹하면서도 시원·통쾌한 '홍련'의 이야기를 들려준다. 안예은은 5일 오후 6시 디지털 싱글 '홍련'을 발매했다. 안예은은 2020년부터 매년 여름 '납량곡전' 시리즈를 선보이고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["언니 장화야, 온 몸이 젖은 친구들과 있었네"…안예은, 귀로 듣는 납량특집 '홍련' 발매 [MD신곡]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003757954</id>
-        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003757954"/>
-        <updated>2023-08-05T11:10:57.833Z</updated>
-        <content type="html"><![CDATA['사람이 음악만으로도 공포를 느낄 수 있을까?'라는 호기심에서 시작된 '납량곡전' 시리즈의 네 번째 음원. 가수 안예은이 5일 오후 6시 각종 음원 사이트를 통해 디지털 싱글 '홍련(紅蓮)'을 발매했다. '홍련'은]]></content>
     </entry>
 </feed>
