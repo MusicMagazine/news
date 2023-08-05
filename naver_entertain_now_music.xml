@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-08-05T21:12:26.830Z</updated>
+    <updated>2023-08-05T22:12:52.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['찬또배기' 이찬원, '2023 천안 K-컬처 박람회' 출격…기대감UP]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001624630</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001624630"/>
+        <updated>2023-08-05T22:12:35.033Z</updated>
+        <content type="html"><![CDATA[이찬원이 '2023 천안 K-컬처 박람회'에 출격한다. 천안시는 오는 8월 11일부터 15일까지 독립기념관에서 '2023 천안 K-컬처 박람회'를 개최한다. 이 박람회는 K-POP 콘서트, K-드라마]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅 'Beautiful' 900만뷰..'아름다운 히어로']]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003172608</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001624469"/>
         <updated>2023-08-05T11:10:57.822Z</updated>
         <content type="html"><![CDATA[가수 안예은이 신곡 '홍련'으로 섬뜩한 분위기를 자아냈다. 5일 안예은은 각종 온라인 음원 사이트를 통해 디지털 싱글 '홍련'을 발매하고, 뮤직비디오를 공개했다. 안예은은 '납량곡전' 프로젝트로 음악을 통한 공포를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여름엔 안예은…무더위 날릴 오싹·통쾌한 이야기 '홍련' [신곡in가요]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004876552</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004876552"/>
-        <updated>2023-08-05T11:10:57.826Z</updated>
-        <content type="html"><![CDATA[가수 안예은이 무더위를 날릴 오싹하면서도 시원·통쾌한 '홍련'의 이야기를 들려준다. 안예은은 5일 오후 6시 디지털 싱글 '홍련'을 발매했다. 안예은은 2020년부터 매년 여름 '납량곡전' 시리즈를 선보이고 있다.]]></content>
     </entry>
 </feed>
