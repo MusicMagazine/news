@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-08-05T19:10:37.047Z</updated>
+    <updated>2023-08-05T20:23:10.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['심신 딸' 벨, 작곡돌 계보 잇는다 "르세라핌 곡에 넣은 내 감성"]]></title>
+        <id>https://v.daum.net/v/20230806050001468</id>
+        <link href="https://v.daum.net/v/20230806050001468"/>
+        <updated>2023-08-05T20:22:34.432Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 안윤지 기자] 걸그룹 키스 오브 라이프(KISS OF LIFE) 벨 /사진=이동훈 기자 photoguy@단순히 얼굴이 잘생기거나 춤을 잘 춘다고 해서 아이돌이 되는 시대는 지났다. 이제 노래 실력은 물론, 작사·작곡까지 할 줄 아는 시대가 온 것이다. '작곡돌'은 2세대 아이돌인 빅뱅의 지드래곤부터 시작됐다. 지드래곤이 작곡한 '거짓말', ']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이영지 기부, 사비 보태 '차쥐뿔' 굿즈 수익 쾌척]]></title>
         <id>https://v.daum.net/v/20230805231007886</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230805164859948"/>
         <updated>2023-08-05T08:14:43.005Z</updated>
         <content type="html"><![CDATA[[OSEN=지민경 기자]&nbsp;싱어송라이터 안예은이 올여름 무더위를 식혀줄 '납량곡전' 시리즈로 돌아온다. 안예은은 오늘(5일) 오후 6시 각종 음원 사이트를 통해 디지털 싱글 '홍련'을 발매한다. '능소화'와 '창귀', '쥐 (RATvolution)'에 이은 '납량곡전' 시리즈의 네 번째 음원이다. 신곡 '홍련'은 뭄바톤 리듬을 기본으로 한 축제 같은 곡으]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['음중' BTS 정국, 뉴진스 제치고 1위 '6관왕'..인피니트→영탁 컴백]]></title>
-        <id>https://v.daum.net/v/20230805164047862</id>
-        <link href="https://v.daum.net/v/20230805164047862"/>
-        <updated>2023-08-05T08:14:43.023Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 한해선 기자] /사진=MBC '쇼! 음악중심' 방송 캡처 그룹 방탄소년단(BTS) 정국이 'Seven'으로 '쇼! 음악중심'에서 1위를 차지, 6관왕을 기록했다. 5일 오후 방송된 MBC 음악 프로그램 '쇼! 음악중심'(이하 '음중')에서는 정국이 1위를 차지했다. 이날 8월 1주차 1위 후보로 뉴진스 'Super Shy'(슈퍼 샤이),]]></content>
     </entry>
 </feed>
