@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2023-08-07T18:18:27.314Z</updated>
+    <updated>2023-08-07T19:13:33.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["뭔가가 있다. 뭐가 온다!". 임영웅, '다이어트 돌입' 소식에 기대감 커져]]></title>
+        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0004041428</id>
+        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0004041428"/>
+        <updated>2023-08-07T19:13:24.906Z</updated>
+        <content type="html"><![CDATA["뭔가가 있다. 뭐가 온다." 톱가수 임영웅이 기대를 부르는 근황을 전했다. 7일 임영웅은 자신의 SNS를 통해 라이브 방송을 진행했다. 이날 임영웅은 "아침 9시에 합숙 멤버들과 러닝을 뛰러 가고 있다. 다이어트를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[종합]박서준, '무대인사 팬서비스' 직접 설명…"오해 있었던 듯. 박보영씨와 잘 지낸다"]]></title>
         <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0004041427</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001761136"/>
         <updated>2023-08-07T14:13:55.751Z</updated>
         <content type="html"><![CDATA[박서준, 팬 선물 머리띠 거절해 ‘인성 논란’ 이정재·정우성→설경구까지…팬서비스 ‘비교’ 결국 해명 나선 박서준 “핑계 같긴 한데…” 배우 박서준이 무대인사에서 팬이 선물한 머리띠를 거절해 논란이 되자, 이정재, 정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한채아 "차세찌♥와 더 행복해져, 내가 달라졌다" 부부관계 변화 ('쉬는부부')]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0004041415</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0004041415"/>
-        <updated>2023-08-07T14:13:55.753Z</updated>
-        <content type="html"><![CDATA[배우 한채아가 달라진 부부관계를 언급했다. 7일 방송된 MBN '쉬는부부'에서는 한채아가 부부 금슬을 이야기한 모습이 전파를 탔다. 신동엽은 "다른 프로그램을 할 때는 근황을 잘 여쭤보지 않는데 프로그램 제목이 '쉬]]></content>
     </entry>
 </feed>
