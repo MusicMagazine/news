@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 23:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 01:03:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 '태권 날아올라' 잼버리 참가자들에게 공연 관람 지원]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=275021</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=275021</guid>
+            <pubDate>Tue, 08 Aug 2023 01:01:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=275021">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230808095840_c21061b25961e8aeda544720a69c49a9.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=275021">뮤지컬 '태권 날아올라' 잼버리 참가자들에게 공연 관람 지원</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230808095840_c21061b25961e8aeda544720a69c49a9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이도현, 감동의 팬미팅]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=274852</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=272072">뮤지컬 '그날들' 효은, '그녀' 합류</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230719100201_5a80dc28f1fd8e8f04b3dbdb8f593fbf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰] 뮤지컬 ‘그날들’ “누군가를 지켜주지 못한 그 마음”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=272207</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=272207</guid>
-            <pubDate>Wed, 19 Jul 2023 02:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=272207">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230719104958_ea8b3a4e44104666abaed865c68ea349.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=272207">[리뷰] 뮤지컬 ‘그날들’ “누군가를 지켜주지 못한 그 마음”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230719104958_ea8b3a4e44104666abaed865c68ea349.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
