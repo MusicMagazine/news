@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 02:01:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 02:37:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['콘텐트리중앙'  상반기 실적 호전, "SLL+메가박스 수익성 개선"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=275029</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=275029</guid>
+            <pubDate>Tue, 08 Aug 2023 02:36:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=275029">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230808110938_24d3d57f1f2b3f8d06485d8d85b6e96d_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=275029">'콘텐트리중앙'  상반기 실적 호전, "SLL+메가박스 수익성 개선"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230808110938_24d3d57f1f2b3f8d06485d8d85b6e96d_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[화보] 한효주, "초인 이미현 변신합니다" (매거진 더블유)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=275013</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=272494">블랙핑크, 파리 앙코르 공연 성료</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230720134004_7abca861c26bc0ad5a715ae197ffa913.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 '멤피스' 한국 초연무대 막 오른다]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=272370</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=272370</guid>
-            <pubDate>Thu, 20 Jul 2023 02:30:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=272370">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230720102259_320c6b90f8abea4ffebeac0b23c02565.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=272370">뮤지컬 '멤피스' 한국 초연무대 막 오른다</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230720102259_320c6b90f8abea4ffebeac0b23c02565.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 02:01:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 02:37:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["9월 뷔!" 방탄소년단 뷔, 9월 8일 첫 솔로 앨범 ‘Layover’ 발매… 타이틀곡은 ‘Slow Dancing’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=275193</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=275193</guid>
+            <pubDate>Tue, 08 Aug 2023 02:36:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=275193">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230808111848_e403a19b828979bc3491bd15532e8dfe.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=275193">"9월 뷔!" 방탄소년단 뷔, 9월 8일 첫 솔로 앨범 ‘Layover’ 발매… 타이틀곡은 ‘Slow Dancing’</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230808111848_e403a19b828979bc3491bd15532e8dfe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김세정, 첫 단독 콘서트 ‘The 門’ .. 9월 서울에서 시작]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=275007</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=272454">오마이걸 여름노래,  "여름이 들려" 오늘 선공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230720130753_f539f8ab213b2d4c78c953cccd891256_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ITZY,  'KILL MY DOUBT' 앨범 다큐멘터리 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=272438</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=272438</guid>
-            <pubDate>Thu, 20 Jul 2023 04:14:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=272438">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230720124435_d39e2d766bc2cf29c85b9a38ab524fab.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=272438">ITZY,  'KILL MY DOUBT' 앨범 다큐멘터리 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230720124435_d39e2d766bc2cf29c85b9a38ab524fab.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
