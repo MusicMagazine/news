@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Aug 2023 19:12:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 21:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[창작뮤지컬 '더데빌:파우스트' 후속작, '더데빌:에덴' 9월 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=275009</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=275009</guid>
+            <pubDate>Wed, 09 Aug 2023 21:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=275009">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230808100734_6a7367a78ca77612f3f69dd78a75be24.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=275009">창작뮤지컬 '더데빌:파우스트' 후속작, '더데빌:에덴' 9월 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230808100734_6a7367a78ca77612f3f69dd78a75be24.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['콘텐트리중앙'  상반기 실적 호전, "SLL+메가박스 수익성 개선"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=275029</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=272570">국립극장 2023-2024 레퍼토리시즌 프로그램 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230720145811_db446321c479172b24a7a87b83da56b9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크, 파리 앙코르 공연 성료]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=272494</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=272494</guid>
-            <pubDate>Thu, 20 Jul 2023 06:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=272494">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230720134004_7abca861c26bc0ad5a715ae197ffa913.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=272494">블랙핑크, 파리 앙코르 공연 성료</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230720134004_7abca861c26bc0ad5a715ae197ffa913.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
