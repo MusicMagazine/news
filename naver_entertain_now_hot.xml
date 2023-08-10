@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2023-08-10T17:13:59.123Z</updated>
+    <updated>2023-08-10T18:18:51.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤찬영, 정변의 정석 [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001068596</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0001068596"/>
+        <updated>2023-08-10T18:18:41.874Z</updated>
+        <content type="html"><![CDATA[윤찬영, 정변의 정석 [화보] 배우 윤찬영의 화보가 공개됐다.윤찬영이 함께한 매거진 더네이버의 이번 화보는 예스러운 집을 배경으로 빈티지 콘셉트를 내세웠다. 화보 촬영 후 진행된 인터뷰에서 윤찬영은 올해 봄 방영된]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김히어라 “‘경소문2’ 위해 머리카락 싹둑…판타지 빌런 집중” [화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001068595</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0005171328"/>
         <updated>2023-08-10T17:13:50.163Z</updated>
         <content type="html"><![CDATA[‘나솔사계’ 13기 광수가 매력을 뽐냈다. 10일 방송된 ENA PLAY(이엔에이플레이)의 리얼 데이팅 프로그램 ‘나는 SOLO, 그 후 사랑은 계속된다’(이하 ‘나솔사계’)에서는 13기 광수는 9기 현숙와 데이트하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[TEN포토] 프로미스나인 이채영 '보석함 열고 나온 미모 ']]></title>
-        <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000622934</id>
-        <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000622934"/>
-        <updated>2023-08-10T17:13:50.166Z</updated>
-        <content type="html"><![CDATA[그룹 프로미스나인 이채영이 10일 오후 서울 올림픽공원 KSPO DOME에서 진행된 '2023 K 글로벌 하트 드림 어워즈' 레드카펫 행사에 참석하고 있다. 조준원 기자]]></content>
     </entry>
 </feed>
