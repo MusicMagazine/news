@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-08-10T18:18:51.744Z</updated>
+    <updated>2023-08-10T19:12:22.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[HYNN(박혜원), 여름 소품집 ‘하계 : 夏季’ 발매···확장된 음악적 스펙트럼+‘믿듣’ 보컬 입증]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000906042</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000906042"/>
+        <updated>2023-08-10T19:12:06.327Z</updated>
+        <content type="html"><![CDATA[가수 HYNN(박혜원)이 여름과 잘 어울리는 신곡들을 선보였다. HYNN(박혜원)은 10일 여름 소품집 ‘하계 : 夏季’를 발매하고 본격적인 활동에 돌입했다. 다채로운 매력을 지닌 HYNN(박혜원)의 보컬을 느낄 수]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘SIMPLY K-POP CONTOUR’ 미래소년, 아일리원, 키스오브라이프, 아트비트 v, XEED, BXB, 윤서빈, 피싱걸스 출격]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000906040</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004878660"/>
         <updated>2023-08-10T12:26:47.140Z</updated>
         <content type="html"><![CDATA[그룹 보이넥스트도어가 10일 오후 서울 방이동 KSPO DOME(케이스포돔)에서 열린 '2023 K 글로벌 하트 드림 어워즈' 레드카펫 행사에 참석해 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] ATBO, '팬들을 향해 멋진 하트~']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004878659</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004878659"/>
-        <updated>2023-08-10T12:26:47.142Z</updated>
-        <content type="html"><![CDATA[그룹 ATBO가 10일 오후 서울 방이동 KSPO DOME(케이스포돔)에서 열린 '2023 K 글로벌 하트 드림 어워즈' 레드카펫 행사에 참석해 포토타임을 갖고 있다.]]></content>
     </entry>
 </feed>
