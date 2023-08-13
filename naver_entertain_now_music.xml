@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-08-13T13:14:31.511Z</updated>
+    <updated>2023-08-13T14:11:06.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신지, 화내는 김종민에 “코요태 해체 결정은 원년 멤버인 내가할 것”(미우새)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000906502</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000906502"/>
+        <updated>2023-08-13T14:10:48.712Z</updated>
+        <content type="html"><![CDATA[‘미우새’ 신지가 해체하라는 김종민의 말에 결정권이 없다고 답했다. 신지는 13일 방송된 SBS 예능 ‘미운 우리 새끼’에서 코요태 멤버끼리 싸우는 이유가 무엇이냐는 질문에 “남들이 싸우는 것으로 싸운다”고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[르세라핌, '피어나'와 動詞 되다…'너 내 동료가 돼라' 위풍당당 행진곡]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012029161</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001627455"/>
         <updated>2023-08-13T09:18:10.846Z</updated>
         <content type="html"><![CDATA[그룹 르세라핌(LE SSERAFIM) 첫 단독 투어 서울 공연 오프닝이 온라인에서 뜨거운 화제를 불러모으고 있다. 13일 오후 서울 잠실실내체육관에서 르세라핌(김채원, 사쿠라, 허윤진, 카즈하, 홍은채) '2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[르세라핌 홍은채 “팬분들을 가까이서 봐 행복해”]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000906474</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000906474"/>
-        <updated>2023-08-13T09:18:10.848Z</updated>
-        <content type="html"><![CDATA[그룹 르세라핌 홍은채가 첫 콘서트에 행복해했다. 르세라핌(LE SSERAFIM)의 2023 LE SSERAFIM TOUR ‘FLAME RISES’ IN SEOUL가 13일 서울 송파구 잠실 실내체육관에서 진행됐다.]]></content>
     </entry>
 </feed>
