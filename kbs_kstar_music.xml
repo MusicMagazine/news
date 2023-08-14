@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Aug 2023 05:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 08:19:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[황치열, 5년 만에 타이베이 콘서트 성료... "정말 보고 싶었고, 기다려 줘서 고맙다"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=276244</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=276244</guid>
+            <pubDate>Mon, 14 Aug 2023 08:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=276244">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230814160722_9607d499911803e4907dc8cfa9f77a5e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=276244">황치열, 5년 만에 타이베이 콘서트 성료... "정말 보고 싶었고, 기다려 줘서 고맙다" </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230814160722_9607d499911803e4907dc8cfa9f77a5e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[르세라핌, 첫 단독 투어 ‘FLAME RISES’ 개막... ‘피어나’와 함께 더 멀리, 더 높이 갈 것”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=275948</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=272838">뉴진스 데뷔 1주년, 미니 2집 ‘Get Up’ 발매... “새로운 시도 많아 다 말하기 어려울 정도”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230722075510_999b2cdddcc7551ddc25e4c4f68e2b98.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스, 애플과 글로벌 협업... ‘ETA’ 뮤직비디오, 아이폰으로 찍었어요]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=272774</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=272774</guid>
-            <pubDate>Fri, 21 Jul 2023 06:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=272774">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230721141550_32ffc88634aab53fc3a8bb2e29d0dbbe_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=272774">뉴진스, 애플과 글로벌 협업... ‘ETA’ 뮤직비디오, 아이폰으로 찍었어요 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230721141550_32ffc88634aab53fc3a8bb2e29d0dbbe_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

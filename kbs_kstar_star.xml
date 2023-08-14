@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Aug 2023 05:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 08:19:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[BCWW2023] 국제방송영상마켓 열린다...역대 최대규모, 전 세계 콘텐츠 기업이 한자리에]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=276180</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=276180</guid>
+            <pubDate>Mon, 14 Aug 2023 08:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=276180">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230814144415_b00a1ed898792f9047bd62bdb13fd30c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=276180">[BCWW2023] 국제방송영상마켓 열린다...역대 최대규모, 전 세계 콘텐츠 기업이 한자리에</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230814144415_b00a1ed898792f9047bd62bdb13fd30c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우 박유나, YG엔터테인먼트와 전속계약]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=276161</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=273314">류현경, 연극 ‘3일간의 비’.. 1인2역 완벽 소화</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230727073229_7854fe9239abeb941f122799072639da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["태양의 서커스니까...." '루치아' 사전예매 열풍]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=272265</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=272265</guid>
-            <pubDate>Sun, 23 Jul 2023 02:37:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=272265">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230720090330_1caa49e023520e343f8198013a7817db.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=272265">"태양의 서커스니까...." '루치아' 사전예매 열풍</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230720090330_1caa49e023520e343f8198013a7817db.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
