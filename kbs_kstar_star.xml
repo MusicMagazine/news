@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Aug 2023 21:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 22:11:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박하선, 연극 ‘바닷마을 다이어리’ 출연... “13년만 연극, 좋은 배우들과 함께해 더 기대돼”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=276156</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=276156</guid>
+            <pubDate>Mon, 14 Aug 2023 22:10:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=276156">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230814140057_8849c067a3c43bfbb18d4f47d0b6078c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=276156">박하선, 연극 ‘바닷마을 다이어리’ 출연... “13년만 연극, 좋은 배우들과 함께해 더 기대돼”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230814140057_8849c067a3c43bfbb18d4f47d0b6078c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[BCWW2023] 국제방송영상마켓 열린다...역대 최대규모, 전 세계 콘텐츠 기업이 한자리에]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=276180</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=273325">카이, 뮤지컬 '레미제라블'  자베르 경감 캐스팅 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230727074828_a927b3e1439021e473ae1f75ec857335.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[류현경, 연극 ‘3일간의 비’.. 1인2역 완벽 소화]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=273314</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=273314</guid>
-            <pubDate>Thu, 27 Jul 2023 00:56:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273314">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230727073229_7854fe9239abeb941f122799072639da.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=273314">류현경, 연극 ‘3일간의 비’.. 1인2역 완벽 소화</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230727073229_7854fe9239abeb941f122799072639da.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

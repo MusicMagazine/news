@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-08-14T21:13:15.940Z</updated>
+    <updated>2023-08-14T22:11:48.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트와이스 지효, 첫 솔로 타이틀곡 'Killin' Me Good' MV 티저..고혹적 분위기]]></title>
+        <id>https://v.daum.net/v/20230815070200039</id>
+        <link href="https://v.daum.net/v/20230815070200039"/>
+        <updated>2023-08-14T22:11:04.984Z</updated>
+        <content type="html"><![CDATA[[TV리포트=정현태 기자] 솔로 데뷔를 앞둔 트와이스 지효가 타이틀곡 'Killin' Me Good'(킬링 미 굿) 뮤직비디오 티저를 최초 공개했다. 지효는 오는 8월 18일 첫 미니 앨범 'ZONE'(존)과 타이틀곡 'Killin' Me Good'을 발매하고 솔로 아티스트로 데뷔한다. 이에 앞서 신보 분위기를 미리 만나볼 수 있는 콘셉트 포토, 앨범 스니]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제로베이스원, 오늘 고척돔 입성…첫 팬콘 포인트3]]></title>
         <id>https://v.daum.net/v/20230815040009917</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230814170603854"/>
         <updated>2023-08-14T08:18:44.431Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 그룹 판타지 보이즈(FANTASY BOYS)가 정식 데뷔 준비를 시작했다. 8월 14일 포켓돌스튜디오에 따르면 판타지 보이즈가 오는 9월 정식 데뷔를 확정한 가운데 데뷔곡 뮤직비디오 촬영 준비에 돌입했다. 이들은 “기다려준 만큼 음악과 뮤직비디오로 만족감을 채워주겠다”고 포부를 전했다. 판타지 보이즈는 데뷔를 기다려준 팬들에게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사자 최우준, 18일 새 싱글 발매]]></title>
-        <id>https://v.daum.net/v/20230814165227395</id>
-        <link href="https://v.daum.net/v/20230814165227395"/>
-        <updated>2023-08-14T08:18:44.433Z</updated>
-        <content type="html"><![CDATA[[스포츠한국 조성진 기자]&nbsp;특유의 헤어스타일이 '사자'를 연상케 한다고 해 'SAZA 기타리스트'로 잘 알려진 최우준이 18일(금) 새 싱글 '이 여름은 가고'를 발매한다. 2019년 정규 앨범 [The SAZA] 이후 4년 만의 신작이다. 최우준의 싱글 앨범 '이 여름은 가고'는 찬란했던 여름 끝자락의 아쉬움과 쓸쓸함을 주제로 두 개의 파트로]]></content>
     </entry>
 </feed>
