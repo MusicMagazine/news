@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-08-14T18:16:34.472Z</updated>
+    <updated>2023-08-14T20:17:21.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제로베이스원, 오늘 고척돔 입성…첫 팬콘 포인트3]]></title>
+        <id>https://v.daum.net/v/20230815040009917</id>
+        <link href="https://v.daum.net/v/20230815040009917"/>
+        <updated>2023-08-14T20:16:35.856Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] [사진제공=웨이크원]그룹 ZEROBASEONE(제로베이스원/성한빈, 김지웅, 장하오, 석매튜, 김태래, 리키, 김규빈, 박건욱, 한유진)이 15일 서울 구로구 소재 고척스카이돔에서 팬콘서트 ‘2023 ZEROBASEONE FAN-CON’을 개최한다. 이번 팬콘서트를 통해 ZEROBASEONE은 ZEROSE(제로즈, 공식 팬클럽명)와 0에서 1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍지윤 측 "신뢰 관계 파탄" vs 전 소속사 "전속계약 종료 아냐"]]></title>
         <id>https://v.daum.net/v/20230814222154729</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230814165227395"/>
         <updated>2023-08-14T08:18:44.433Z</updated>
         <content type="html"><![CDATA[[스포츠한국 조성진 기자]&nbsp;특유의 헤어스타일이 '사자'를 연상케 한다고 해 'SAZA 기타리스트'로 잘 알려진 최우준이 18일(금) 새 싱글 '이 여름은 가고'를 발매한다. 2019년 정규 앨범 [The SAZA] 이후 4년 만의 신작이다. 최우준의 싱글 앨범 '이 여름은 가고'는 찬란했던 여름 끝자락의 아쉬움과 쓸쓸함을 주제로 두 개의 파트로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["더워서" 머리 깎은 RM, 입대 임박했나…"곧 술 못 마셔"]]></title>
-        <id>https://v.daum.net/v/20230814165009335</id>
-        <link href="https://v.daum.net/v/20230814165009335"/>
-        <updated>2023-08-14T08:18:44.434Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 짧은 헤어스타일로 화제를 모은 방탄소년단(BTS) RM이 또 한 번 군 입대를 언급했다. RM은 지난 12일 팬 커뮤니티 플랫폼 위버스를 통해 라이브 방송을 진행, 팬들과 소통했다.&nbsp; 최근 RM은 근황 사진을 공개, 짧게 자른 헤어 스타일로 '입대설'이 불거진 바. 이날 RM은 '빡빡'이라는 제목으로 라이브 방송을 켜고 자신의]]></content>
     </entry>
 </feed>
