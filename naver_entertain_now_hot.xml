@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2023-08-16T18:18:15.312Z</updated>
+    <updated>2023-08-16T20:18:33.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS 정국 ‘세븐’ 빌보드 글로벌 4주 1위 ‘K팝 신기록’]]></title>
+        <id>https://entertain.naver.com/now/read?oid=081&amp;aid=0003385480</id>
+        <link href="https://entertain.naver.com/now/read?oid=081&amp;aid=0003385480"/>
+        <updated>2023-08-16T20:18:23.760Z</updated>
+        <content type="html"><![CDATA[그룹 방탄소년단(BTS) 정국의 솔로 데뷔 싱글 ‘세븐’(Seven)이 미국 빌보드 ‘글로벌 200’과 ‘글로벌’(미국 제외) 4주 연속 정상에 올랐다. 이들 차트에서 4주 연속 1위에 오른 기록은 K팝 가수로는 정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTS 뷔라면, 프랑스 파리 외곽도 핫 플레이스[화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=445&amp;aid=0000134227</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000971464"/>
         <updated>2023-08-16T14:12:48.741Z</updated>
         <content type="html"><![CDATA[tvN ‘유퀴즈 온 더 블럭’ 화면 캡처 2000년대를 풍미한 최고의 미녀배우 김희선이 노필터 입담으로 털털한 매력을 유감 없이 과시했다. 16일 방송된 tvN ‘유퀴즈 온더 블럭’에서 김희선은 유행의 아이콘이었던]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유퀴즈' 김희선 "故 앙드레김 '이마키스', 이병헌과 내가 원조"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0004044745</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0004044745"/>
-        <updated>2023-08-16T14:12:48.745Z</updated>
-        <content type="html"><![CDATA['유퀴즈' 김희선이 '이마 키스' 탄생 비화를 공개했다. 16일 방송된 tvN '유 퀴즈 온 더 블럭(이하 '유퀴즈')'에는 '흥행 불패의 제왕' 배우 김희선이 출연했다. 故 앙드레김 패션쇼의 시그니처 포즈인 '이마]]></content>
     </entry>
 </feed>
