@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 22:14:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 23:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴 아이디, K-콘텐츠 전문 FAST 플랫폼 ‘빈지 코리아’ 북미 론칭]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=276565</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=276565</guid>
+            <pubDate>Wed, 16 Aug 2023 23:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=276565">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230817075511_5a7c412aba37688ecaf2ef0995ac509d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=276565">뉴 아이디, K-콘텐츠 전문 FAST 플랫폼 ‘빈지 코리아’ 북미 론칭</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230817075511_5a7c412aba37688ecaf2ef0995ac509d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박하선, 연극 ‘바닷마을 다이어리’ 출연... “13년만 연극, 좋은 배우들과 함께해 더 기대돼”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=276156</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=273380">[화보] 김소현-황민현, ‘소용없어 거짓말’ 화보 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230727085843_9735a28024f1102a5fcd8009f72745b4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카이, 뮤지컬 '레미제라블'  자베르 경감 캐스팅]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=273325</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=273325</guid>
-            <pubDate>Thu, 27 Jul 2023 00:56:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273325">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230727074828_a927b3e1439021e473ae1f75ec857335.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=273325">카이, 뮤지컬 '레미제라블'  자베르 경감 캐스팅 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230727074828_a927b3e1439021e473ae1f75ec857335.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
