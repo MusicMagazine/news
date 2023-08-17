@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 04:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 08:16:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["김세정이 온다"  오피셜 포토 공개... 정규앨범 ‘문(門)’ 9월 4일 발매]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=276664</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=276664</guid>
+            <pubDate>Thu, 17 Aug 2023 08:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=276664">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230817150647_1865b06c2c54c7cae52b9e749d122b0c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=276664">"김세정이 온다"  오피셜 포토 공개... 정규앨범 ‘문(門)’ 9월 4일 발매</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230817150647_1865b06c2c54c7cae52b9e749d122b0c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[황치열, 5년 만에 타이베이 콘서트 성료... "정말 보고 싶었고, 기다려 줘서 고맙다"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=276244</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=272511">써머퀸 소유, 미니앨범 ‘Summer Recipe’... 26일 컴백</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230720135019_bb72987a171cb89f5b2a99eeeaf6f49c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스 데뷔 1주년, 미니 2집 ‘Get Up’ 발매... “새로운 시도 많아 다 말하기 어려울 정도”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=272838</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=272838</guid>
-            <pubDate>Fri, 21 Jul 2023 23:11:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=272838">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230722075510_999b2cdddcc7551ddc25e4c4f68e2b98.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=272838">뉴진스 데뷔 1주년, 미니 2집 ‘Get Up’ 발매... “새로운 시도 많아 다 말하기 어려울 정도”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230722075510_999b2cdddcc7551ddc25e4c4f68e2b98.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
