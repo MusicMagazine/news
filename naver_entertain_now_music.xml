@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-08-18T17:13:09.509Z</updated>
+    <updated>2023-08-18T19:10:17.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스테이씨(STAYC), 19일 무료 게릴라 공연 예고]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000907657</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000907657"/>
+        <updated>2023-08-18T19:10:00.465Z</updated>
+        <content type="html"><![CDATA[걸그룹 스테이씨(STAYC)가 다양한 토크와 게임으로 팬들과 특별한 추억을 만들었다. 스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)는 지난 17일 유튜브 프리미엄 라이브 애프터파티를 열고 팬들과 소통하는 시간을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우재, 정규앨범 선공개곡 ‘이사’ 공개]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000907644</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004881503</id>
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004881503"/>
         <updated>2023-08-18T12:24:06.569Z</updated>
-        <content type="html"><![CDATA[그룹 트리플에스 러블루션 카에데가 18일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 러블루션 카에데, '예쁜 보조개 미소']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004881502</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004881502"/>
-        <updated>2023-08-18T12:24:06.572Z</updated>
         <content type="html"><![CDATA[그룹 트리플에스 러블루션 카에데가 18일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content>
     </entry>
 </feed>
