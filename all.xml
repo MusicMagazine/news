@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 23:12:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 01:44:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230720135019_bb72987a171cb89f5b2a99eeeaf6f49c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[화보] 한지민- 이민지 "힙하게 웃기기" (엘르) (KBS연예 ─ 연예)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=276767</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=276767</guid>
+            <pubDate>Fri, 18 Aug 2023 01:42:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=276767">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230818095206_83d27ba32607595e93fae3ba2c20f4e7.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=276767">[화보] 한지민- 이민지 "힙하게 웃기기" (엘르)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230818095206_83d27ba32607595e93fae3ba2c20f4e7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뉴 아이디, K-콘텐츠 전문 FAST 플랫폼 ‘빈지 코리아’ 북미 론칭 (KBS연예 ─ 연예)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=276565</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=276565</guid>
@@ -672,23 +689,6 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230727154308_b3ec20d855c01884f04569524b7f0b91.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[화보] 김소현-황민현, ‘소용없어 거짓말’ 화보 (KBS연예 ─ 연예)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=273380</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=273380</guid>
-            <pubDate>Thu, 27 Jul 2023 00:56:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273380">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230727085843_9735a28024f1102a5fcd8009f72745b4.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=273380">[화보] 김소현-황민현, ‘소용없어 거짓말’ 화보 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230727085843_9735a28024f1102a5fcd8009f72745b4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[BTS 제이홉, 오늘(18일) 'Jack In The Box (HOPE Edition)' 발매 (MBC 연예 ─ 아이돌)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/391678</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/391678</guid>
@@ -777,214 +777,235 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/08/17/b22b82a1-d8fc-492d-b972-f9800325405a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이채연, 9월 초 컴백…'차세대 K팝 디바' 굳힐까 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20230818081001215</link>
-            <guid>https://v.daum.net/v/20230818081001215</guid>
-            <pubDate>Thu, 17 Aug 2023 23:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 조혜진 기자) 가수 이채연이 9월 컴백을 확정했다. 18일 소속사 WM엔터테인먼트는 "이채연이 오는 9월 초 신곡으로 컴백할 예정"이라고 밝혔다.&nbsp; 이는 지난 4월 발매한 미니 2집 'Over The Moon' 이후 약 5개월 만의 신보로, 이채연은 초고속 컴백을 확정 지어 이목을 모은다. 이채연은 지난 앨범을 통해 자신만의 매력을 고스란히]]></content:encoded>
+            <title><![CDATA[‘컴백’ 루시, 단독 콘서트서 미공개 자작곡 무대까지 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20230818102927770</link>
+            <guid>https://v.daum.net/v/20230818102927770</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:25 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 밴드 루시(신예찬, 최상엽, 조원상, 신광일)가 신보 발매에 이어 단독 콘서트를 개최하며 컴백 ‘열’기를 이어간다. 루시는 8월 19~20일 양일간 서울 중구 장충체육관에서 다섯 번째 단독 콘서트 ‘열, 다섯’을 개최한다. 이번 콘서트를 통해 루시는 모든 순간을 함께해 온 팬들과 또 하나의 소중한 추억을 쌓는다. 미니 4집 ‘열’의]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[제이홉, 오늘 ‘Jack In The Box ’ 발매 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20230818080924205</link>
-            <guid>https://v.daum.net/v/20230818080924205</guid>
-            <pubDate>Thu, 17 Aug 2023 23:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=지민경 기자]&nbsp;방탄소년단 제이홉의 확장된 음악 세계가 펼쳐진다. 제이홉은 18일 솔로 앨범 ‘Jack In The Box (HOPE Edition)’를 전 세계에 동시 발매한다. 이번 앨범은 지난해 7월 15일 공개된 제이홉의 첫 솔로 앨범 ‘Jack In The Box’가 피지컬 음반으로 재탄생한 것으로, 팬들에게 새로운 선물이 될 예정이다]]></content:encoded>
+            <title><![CDATA[송민경, '2023 세계일화 국제불교영화제' 홍보대사 위촉 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20230818102432585</link>
+            <guid>https://v.daum.net/v/20230818102432585</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:25 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자]'트롯계 아이돌' 가수 송민경이 '2023 세계일화 국제불교영화제(OIBFF)' 홍보대사로 위촉됐다.&nbsp; 송민경은 지난 17일 동국대학교 본관 중강당에서 진행된 '2023 세계일화 국제불교영화제(OIBFF)' 개막식에 공식 초청돼 눈길을 사로잡았다. 송민경은 개막식에 참석해 우아하면서도 세련된 자태를 뽐냈다. 우아하면서 단아한 매력]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['믿듣데'의 저력..데이식스 영케이, 데뷔 첫 솔로 콘서트 전석 매진 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20230818080828185</link>
-            <guid>https://v.daum.net/v/20230818080828185</guid>
-            <pubDate>Thu, 17 Aug 2023 23:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 | 이승훈 기자] /사진=JYP엔터테인먼트데이식스(DAY6) 영케이(Young K)의 첫 솔로 콘서트 티켓이 전석 매진을 기록했다. 영케이는 9월 1일부터 3일까지 사흘간 서울 노원구 광운대학교 동해문화예술관에서 단독 콘서트 'Young K Solo Concert &lt;Letters with notes&gt;'(레터스 위드 노트)를 개최한다. 마지막]]></content:encoded>
+            <title><![CDATA[한승우 'Sacrifice', '까리함 그 자체! 치명적인 아이돌 노래' 투표 1위 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20230818101254124</link>
+            <guid>https://v.daum.net/v/20230818101254124</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:25 GMT</pubDate>
+            <content:encoded><![CDATA[[이데일리 이윤정 기자] 한승우의 ‘Sacrifice’가 ‘까리하고 치명적인 아이돌 노래’를 뽑는 투표에서 1위를 차지했다. (사진=스타플레이)스타 팬덤들의 적극적인 참여로 만들어가는 글로벌 스타 팬덤 애플리케이션 스타플레이는 8월 1일부터 8월 16일까지 약 2주간 ‘까리함 그 자체! 치명적인 아이돌 노래’라는 제목으로 투표를 실시했다. 영화나 드라마]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[DAY6 영케이, 첫 솔로 콘서트 전석 매진…2년만 올라운더 컴백 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20230818080340115</link>
-            <guid>https://v.daum.net/v/20230818080340115</guid>
-            <pubDate>Thu, 17 Aug 2023 23:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] DAY6(데이식스) Young K(영케이)가 첫 솔로 콘서트 티켓 전석 매진을 기록했다. Young K는 9월 1일부터 3일까지 사흘간 서울 노원구 광운대학교 동해문화예술관에서 단독 콘서트 'Young K Solo Concert &lt;Letters with notes&gt;'(레터스 위드 노트)를 개최한다. 마지막 공연일 3일에는 오프라인]]></content:encoded>
+            <title><![CDATA[프림로즈, 4인조 변모 후 첫 활동 돌입 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20230818100526863</link>
+            <guid>https://v.daum.net/v/20230818100526863</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:25 GMT</pubDate>
+            <content:encoded><![CDATA[[이데일리 스타in 김현식 기자] 프림로즈(PRIMROSE)가 4인조 걸그룹으로 새 출발한다. 프림로즈는 18일 오후 6시 각종 음악플랫폼을 통해 컴백 앨범 ‘래피 태피’(Laffy Taffy) 전곡 음원을 발매한다. ‘래피 태피’는 더블 타이틀곡 ‘래피 태피’와 ‘어웨이큰 라이트’(Awaken Light), 수록곡 ‘플라이 어웨이’(Fly Away)와]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[피프티 피프티 "비난 힘겹지만 진실 밝혀야" 꺾이지 않는 결별 의지 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20230818080001022</link>
-            <guid>https://v.daum.net/v/20230818080001022</guid>
-            <pubDate>Thu, 17 Aug 2023 23:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 | 윤상근 기자] /사진=피프티 피프티 걸그룹 피프티 피프티가 어트랙트와의 결별 의지를 더욱 확고히 드러내면서 전홍준 대표를 향한 고발 조치와 영문 자필 편지 공개 등 새로운 국면을 맞이하고 있다. 피프티 피프티 멤버 키나 새나 시오 아란은 17일 직접 적은 장문의 영문 자필 입장문을 게재하고 "먼저 저희를 사랑해주시는 모든 분들께 걱정을]]></content:encoded>
+            <title><![CDATA[플레이리스트, ‘하이덴 스쿨’ 첫 판매 기념 ‘웰컴 디디’ 이벤트 진행 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20230818093503693</link>
+            <guid>https://v.daum.net/v/20230818093503693</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:25 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=지민경 기자]&nbsp;플레이리스트(대표 박태원)가 8월 18일부터 25일까지 온·오프라인 콘텐츠 회원권 서비스 ‘하이덴 스쿨’의 첫 판매 기념 ‘웰컴 디디’ 이벤트를 진행한다. ‘하이덴 스쿨’은 플레이리스트의 드라마와 예능, K-POP 콘텐츠 등 다양한 콘텐츠를 즐길 수 있는 혜택을 제공하는 회원권 서비스이다. ‘하이덴 스쿨’ 공식 홈페이지(DOSI]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[저스트비, 10월 미니 4집 발매…11개월만 컴백 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20230818075658989</link>
-            <guid>https://v.daum.net/v/20230818075658989</guid>
-            <pubDate>Thu, 17 Aug 2023 23:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 강다윤 기자] 그룹 저스트비(JUST B)가 한층 성장한 음악적 역량으로 돌아온다. 저스트비(임지민, 이건우, 배인, JM, 전도염, 김상우)는 18일 네 번째 미니앨범 발매를 예고하는 커밍순 티저 이미지를 깜짝 공개했다. 팬덤 온리비(ONLY B)의 이름이 탄생한 기념일을 맞아 저스트비는 반가운 컴백 소식을 직접 전했다. 가시 덩굴 위]]></content:encoded>
+            <title><![CDATA[NCT, 타이틀 곡 ‘Baggy Jeans’ 명불허전 퍼포먼스 예고 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20230818092625368</link>
+            <guid>https://v.daum.net/v/20230818092625368</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:25 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=지민경 기자]&nbsp;NCT(엔시티)가 정규&nbsp;4집 타이틀 곡 ‘Baggy Jeans’(배기 진스)로 오로지&nbsp;NCT만의 멋과 자신감을 선보인다. 타이틀 곡 ‘Baggy Jeans’는&nbsp;무게감 있는 베이스 라인과 미니멀한 구성의 드럼,&nbsp;몽환적인 질감의 신시사이저 위로 펼쳐지는 개성 있는 보컬이 돋보이는 힙합 댄스 곡으로,&nbsp;누구도 따라 할 수 없는 멋이 흘]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에버글로우, 18일 ‘ALL MY GIRLS’ 발매 ‘1년 8개월만 컴백’ (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20230818075255951</link>
-            <guid>https://v.daum.net/v/20230818075255951</guid>
-            <pubDate>Thu, 17 Aug 2023 23:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 그룹 에버글로우(EVERGLOW)가 1년 8개월의 공백을 깨고 컴백한다. 에버글로우(이유, 시현, 미아, 온다, 아샤, 이런)는 18일 오후 6시 네 번째 싱글 앨범 'ALL MY GIRLS(올 마이 걸스)'를 발매한다. 'ALL MY GIRLS'는 지난 2021년 12월 발매한 세 번째 미니앨범 'RETURN OF THE GIRL(리턴 오브]]></content:encoded>
+            <title><![CDATA[위너 강승윤·송민호, 군복무 중 깜짝 손편지 “9년간 가족 돼준 팬들 감사” (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20230818092551338</link>
+            <guid>https://v.daum.net/v/20230818092551338</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:25 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 그룹 위너(WINNER/강승윤, 김진우, 이승훈, 송민호)가 데뷔 9주년 기념 깜짝 생방송을 진행하며 팬들과 소중한 추억을 쌓았다. 위너 멤버 이승훈, 김진우는 8월 17일 위버스 라이브를 통해 글로벌 팬들과 소통에 나섰다. 데뷔 9주년을 축하하는 자리인 만큼 유쾌한 에너지와 다채로운 이야기로 가득 채운 뜻깊은 시간이었다. 다양한]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[BTS 제이홉, 오늘 솔로 앨범 'Jack In The Box ' 발매 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20230818074203803</link>
-            <guid>https://v.daum.net/v/20230818074203803</guid>
-            <pubDate>Thu, 17 Aug 2023 23:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 송오정 기자] 그룹 방탄소년단(BTS) 제이홉의 첫 솔로 앨범을 피지컬 음반으로 만날 수 있게 됐다. 제이홉은 18일 솔로 앨범 'Jack In The Box (HOPE Edition)'를 전 세계에 동시 발매한다. 이번 앨범은 지난해 7월 15일 공개된 제이홉의 첫 솔로 앨범 'Jack In The Box'(잭 인 더 박스)가 피지컬 음반으]]></content:encoded>
+            <title><![CDATA[피프티 피프티 입 열었다 “오해와 비난 참담, 법정공방으로 사태 해결할 것” (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20230818092130107</link>
+            <guid>https://v.daum.net/v/20230818092130107</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:25 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 걸그룹 ‘피프티 피프티’피프티 피프티 입 열었다 “오해와 비난 참담, 법정공방으로 사태 해결할 것” [전문] 소속사 어트랙트와 전속계약 분쟁 중인 그룹 피프티 피프티 멤버들이 침묵을 깨고 장문의 손편지를 통해 입을 열었다. 분쟁 이후 이들이 직접 입장을 밝힌 것은 처음이다. 피프피 피프티(키나, 새나, 시오, 아란)은 17일 인스타그램을 통해]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스테이씨, ‘애프터 파티 라이브’→19일 게릴라 공연 예고 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20230818073946771</link>
-            <guid>https://v.daum.net/v/20230818073946771</guid>
-            <pubDate>Thu, 17 Aug 2023 23:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 그룹 스테이씨(STAYC)가 다양한 토크와 게임으로 팬들과 특별한 추억을 만들었다. 스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)는 지난 17일 유튜브 프리미엄 라이브 애프터파티를 열고 팬들과 소통하는 시간을 가졌다. 세 번째 미니앨범 ‘TEENFRESH (틴프레시)’로 컴백한 스테이씨는 팬들에게 인사를 전한 뒤 “가든 스테이지에서 쇼케]]></content:encoded>
+            <title><![CDATA[‘심신 딸 그룹’ 키스오브라이프 “오랫동안 꿈꿔온 데뷔, 행복했어요” (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20230818092108091</link>
+            <guid>https://v.daum.net/v/20230818092108091</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:25 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 가수 심신 딸 벨(본명 심혜원)이 속한 그룹 KISS OF LIFE(키스오브라이프)가 데뷔 앨범 활동에 성공적 마침표를 찍는다. KISS OF LIFE(키스오브라이프)는 8월 18일 오후 방송되는 아리랑 TV ‘심플리 케이팝’을 마지막으로 첫 번째 미니 앨범 ‘KISS OF LIFE’ 공식 활동을 종료한다. 지난 7월 타이틀곡 ‘쉿]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[다이나믹 듀오, 2023년 ‘AEAO’ 뮤직뱅크서도 만난다 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20230818073343709</link>
-            <guid>https://v.daum.net/v/20230818073343709</guid>
-            <pubDate>Thu, 17 Aug 2023 23:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 다이나믹 듀오가 '뮤직뱅크'에 출연한다. 다이나믹 듀오(개코, 최자)는 18일 오후 방송되는 KBS 2TV 음악 프로그램 '뮤직뱅크'에서 'AEAO'로 스페셜 무대를 선보인다. 'AEAO'는 지난 2014년 발매된 곡이자 최근 글로벌 모바일 숏폼 플랫폼 틱톡(TikTok)에서 화제를 모으며 글로벌 음악 차트를 역주행 중인 힙합 트랙. 틱톡]]></content:encoded>
+            <title><![CDATA[‘짐승돌’ TAN, 오늘 日 출국→열혈 프로모션 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20230818091815981</link>
+            <guid>https://v.daum.net/v/20230818091815981</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:25 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] ‘짐승돌’ 계보를 잇고 있는 보이그룹 TAN(티에이엔)이 일본 팬심 잡기에 나선다. TAN(창선, 주안, 재준, 성혁, 현엽, 태훈, 지성)은 8월 18일 3번째 미니앨범 ‘TAN MADE [ I ]’ 일본 활동을 위해 출국한다. 현지 방송 프로그램과 공연, 단독 팬사인회를 확정지으며 일본 활동을 본격화했다. 18일부터 29일까지]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[피프티 피프티, 입 열었다 "끝까지 진실 밝힐 것" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20230818072806629</link>
-            <guid>https://v.daum.net/v/20230818072806629</guid>
-            <pubDate>Thu, 17 Aug 2023 23:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 그룹 피프티 피프티 멤버들이 전속 계약 분쟁과 관련해 직접 입장을 밝혔다. 피프티 피프티(키나, 새나, 시오, 아란)는 17일 인스타그램 계정을 통해 "현재 많은 언론 매체의 보도로 인해 팬 여러분께서 혼란스러운 마음을 안고 계실 것으로 알고 있다. 저희 역시 눈덩이처럼 불어나는 오해와 비난 속에서 차마 말로 표현할 수 없는]]></content:encoded>
+            <title><![CDATA[정동원, 9월 컴백 확정…"팬들 요청곡 담은 리메이크 앨범" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20230818091747951</link>
+            <guid>https://v.daum.net/v/20230818091747951</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:25 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이슬 기자) 가수 정동원이 리메이크 앨범으로 9월 중순 컴백한다. 오늘 18일 소속사 쇼플레이엔터테인먼트는 “정동원이 9월 중순 발매를 목표로 앨범을 준비 중”이라고 밝혔다. 정동원의 신보는 지난 2022년 12월 발매된 미니앨범 ‘사내’와 지난 2월 발매된 디지털 싱글 ‘영원’ 이후 약 6개월 만이다. 소속사에 따르면 이번 앨범은 리메이크]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘역주행’ 다이나믹 듀오, 오늘 ‘뮤뱅’ 스페셜 무대 출격 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20230818072428597</link>
-            <guid>https://v.daum.net/v/20230818072428597</guid>
-            <pubDate>Thu, 17 Aug 2023 23:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 다이나믹 듀오가 '뮤직뱅크'에 출연한다. 다이나믹 듀오(개코, 최자)는 8월 18일 방송되는 KBS 2TV 음악 프로그램 '뮤직뱅크'에서 'AEAO'로 스페셜 무대를 꾸민다. 'AEAO'는 지난 2014년 발매된 곡이자 최근 글로벌 모바일 숏폼 플랫폼에서 화제를 모으며 글로벌 음악 차트를 역주행 중인 힙합 트랙이다. 틱톡 메인]]></content:encoded>
+            <title><![CDATA[정동원, 9월 미니앨범 발매..9월 1일 신곡 음원 선공개 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20230818091622905</link>
+            <guid>https://v.daum.net/v/20230818091622905</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:25 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 이경호 기자] 정동원./사진=쇼플레이엔터테인먼트가수 정동원이 9월 중순 컴백한다. 18일 소속사 쇼플레이엔터테인먼트는 "정동원이 9월 중순 발매를 목표로 앨범을 준비 중"이라고 밝혔다. 정동원의 이번 신보는 지난 2022년 12월 발매된 미니앨범 '사내'와 지난 2월 발매된 디지털 싱글 '영원' 이후 약 6개월 만이다. 소속사에 따르면]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘인형의 환생’ 뉴진스 다니엘, 디즈니 공주 실사판 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20230818072100563</link>
-            <guid>https://v.daum.net/v/20230818072100563</guid>
-            <pubDate>Thu, 17 Aug 2023 23:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[뉴진스 다니엘이 힙한 공항 패션을 선보였다. 뉴진스는 일본 도쿄에서 열리는 뮤직 페스티벌 슈퍼소닉 참가를 위해 17일 오후 서울 김포공항을 통해 일본 도쿄로 출국했다. 뉴진스 다니엘은 이날 와이드한 청바지에 짧은 청치마를 매치한 청청 패션으로 공항 패션을 완성했다. 출국장으로 향하며 매력을 뽐내는 뉴진스 다니엘. 발랄한 인어공주 다니엘뉴진스의 미니 2집 ‘]]></content:encoded>
+            <title><![CDATA[정동원, 9월 중순 미니앨범 발매 확정 “1일 음원 선공개” (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20230818091616904</link>
+            <guid>https://v.daum.net/v/20230818091616904</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:25 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 김명미 기자] 가수 정동원이 9월 중순 컴백한다. 8월 18일 소속사 쇼플레이엔터테인먼트는 “정동원이 9월 중순 발매를 목표로 앨범을 준비 중”이라고 밝혔다. 이번 신보는 지난 2022년 12월 발매된 미니앨범 ‘사내’와 지난 2월 발매된 디지털 싱글 ‘영원’ 이후 약 6개월 만의 신보이다. 소속사에 따르면 이번 앨범은 리메이크 곡으로 편성된 미]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[침묵 깬 피프티, “오해와 비난 참담” 호소에도 대중은 ‘싸늘’ (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20230818071207478</link>
-            <guid>https://v.daum.net/v/20230818071207478</guid>
-            <pubDate>Thu, 17 Aug 2023 23:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[소속사 어트랙트를 상대로 전속계약 효력정지 가처분신청을 제기한 걸그룹 피프티 피프티(피프티)가 두 달 만에 입을 열었다. 멤버들은 17일 SNS에 친필 편지를 올리며 “이번 일을 계기로 소속사와의 관계에서 잘못된 방식으로 강요돼 온 일들이 바로잡히기를 원한다”면서 “저희의 음악을 지키고자 한 불가피한 선택은 여기서 출발했다”고 주장했다. 피프티]]></content:encoded>
+            <title><![CDATA[보이넥스트도어, 타이틀곡명은 ‘뭣 같아’..멤버들 작사⋅작곡 참여 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20230818091603891</link>
+            <guid>https://v.daum.net/v/20230818091603891</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:25 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=지민경 기자]&nbsp;‘하이브 신인’ 보이넥스트도어(BOYNEXTDOOR)가 타이틀곡 ‘뭣 같아’를 비롯한 새 앨범의 작사, 작곡에 참여해 청춘의 이야기를 생생하게 전한다. 보이넥스트도어(성호, 리우, 명재현, 태산, 이한, 운학)는 지난 17일 오후 11시 팀 공식 SNS 채널에 미니 1집 ‘WHY..’의 트랙리스트를 올렸다. 영화 대본처럼 디자인]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[BTS 제이홉, ‘Jack In The Box ’ 발매 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20230818071102467</link>
-            <guid>https://v.daum.net/v/20230818071102467</guid>
-            <pubDate>Thu, 17 Aug 2023 23:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 방탄소년단 제이홉의 확장된 음악 세계가 펼쳐진다. 제이홉은 18일 솔로 앨범 ‘Jack In The Box (HOPE Edition)’를 전 세계에 동시 발매한다. 이번 앨범은 지난해 7월 15일 공개된 제이홉의 첫 솔로 앨범 ‘Jack In The Box’가 피지컬 음반으로 재탄생한 것으로, 팬들에게 새로운 선물이 될 것으로 보인다. ‘Ja]]></content:encoded>
+            <title><![CDATA[보이넥스트도어, 타이틀곡 ‘뭣 같아’ 작사 작곡 참여…청춘의 목소리 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20230818091544880</link>
+            <guid>https://v.daum.net/v/20230818091544880</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:25 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 하이브 신인 보이넥스트도어(BOYNEXTDOOR)가 새 앨범 작사, 작곡에 참여해 청춘의 이야기를 생생하게 전한다. 보이넥스트도어(성호, 리우, 명재현, 태산, 이한, 운학)는 8월 17일 오후 11시 팀 공식 SNS 채널에 미니 1집 ‘WHY..’ 트랙리스트를 올렸다. 영화 대본처럼 디자인된 이미지에는 앨범의 각 트랙이 장면 번호]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에스파 윈터, 4살부터 피아노 배워→군인 꿈도.. “고민 말 못해.. 찡찡대고 싶은 마음도” (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230818081037223</link>
-            <guid>https://v.daum.net/v/20230818081037223</guid>
-            <pubDate>Thu, 17 Aug 2023 23:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 김태형기자] 그룹 에스파 윈터가 고민을 털어놨다. 17일 유튜브 채널 ‘조현아의 목요일 밤’에는 ‘[SUB] 충격 실화 피아노 치는 김민정 실존 | EP.28 | 조현아의 목요일 밤 | 윈터 에스파 조현아’라는 영상이 게재됐다. 윈터는 조현아와 제작진에게 앨범, 꿀, 와인잔 등을 선물했다. 조현아는 “우리 인원 수를 물어봤다]]></content:encoded>
+            <title><![CDATA[‘마스크걸’ 1000:1 뚫은 이한별, 에이스팩토리와 전속계약 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230818103511018</link>
+            <guid>https://v.daum.net/v/20230818103511018</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:30 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 김명미 기자] 신예 이한별이 종합 엔터테인먼트사 에이스팩토리와 전속 계약을 체결했다. 이한별과 전속계약 체결을 알린 에이스팩토리는 8월 18일 “신예 이한별과 새로운 출발을 함께 하게 되어 진심으로 기쁘다. 다채로운 매력을 두루 갖춘 무한한 가능성을 지닌 배우로서 다양한 작품에서 역량을 펼칠 수 있도록 최선을 다해 지원하겠다”라고 전했다. 에이스]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[원진아, 이정재·정우성과 한 식구…아티스트컴퍼니 전속계약 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230818080817183</link>
-            <guid>https://v.daum.net/v/20230818080817183</guid>
-            <pubDate>Thu, 17 Aug 2023 23:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=장우영 기자] 배우 원진아가 아티스트컴퍼니와 전속계약을 체결했다. 18일 아티스트컴퍼니는 원진아와의 전속계약 소식을 밝혔다. 아티스트컴퍼니는 "안정적인 연기력과 매력적인 모습으로 사랑 받고 있는 원진아와 함께 할 수 있게 돼 기쁘다. 원진아가 자신의 잠재력과 매력을 마음껏 발휘할 수 있도록 적극적으로 지원할 계획이다"고 전했다. 원진아는 지난]]></content:encoded>
+            <title><![CDATA[김재중, 충격 주량 "소주 97병+복분자주+위스키..기억 다 난다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230818103347959</link>
+            <guid>https://v.daum.net/v/20230818103347959</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:30 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김나연 기자] 가수 김재중이 충격적인 주량을 공개했다. 17일 유튜브 채널 '우하머그'에는 '재친구' 4회 영상이 업로드 됐다. 이날 게스트로는 가수 정엽이 출연했다. 두 사람은 술잔을 기울이며 대화를 이어갔고,&nbsp;정엽은 "저희 취하지 않았다"고 말했다. 김재중은 "괜찮지 형?"이라고 물었고, 정엽은 "완전 괜찮다"고 강조했다. 이에 김재중은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘기적의 형제’, 3%대로 조용히 마무리 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230818080722170</link>
-            <guid>https://v.daum.net/v/20230818080722170</guid>
-            <pubDate>Thu, 17 Aug 2023 23:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[‘기적의 형제’가 3%대로 마무리됐다.&nbsp; 18일 시청률조사기관 닐슨코리아에 따르면 지난 17일 방송된 JTBC 수목드라마 ‘기적의 형제’ 최종화는 3.3%(전구 유료가구 기준)의 시청률을 기록했다.&nbsp; 이는 전 회차인 15화 2.5%보다 0.8%포인트 높은 수치다. 또 자체최고 시청률이었던 3.0%보다 0.3%포인트 높은 기록이다.&nbsp; ‘기적의 형제’는]]></content:encoded>
+            <title><![CDATA["볼 하트가 뭘까"…한예슬도 당황, 다시 떠오른 '팬서비스' 갑론을박 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230818103225902</link>
+            <guid>https://v.daum.net/v/20230818103225902</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:30 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=장우영 기자] 배우 한예슬도 ‘하트 요청’에 당황했던 일화를 털어놨다. 최근 불거진 팬서비스 관련 이슈와 맞물리면서 화제를 모으고 있다. 한예슬은 지난 17일 레오제이의 유튜브 채널에 출연해 근황 등 다양한 이야기를 나눴다. 한예슬은 레오제이에게 “정말 친동생 같다. 텐션이 너무 비슷하다”며 모르는 게 있으면 레오제이에게 레슨을 받는다고 밝혔]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['아씨두리안' 한다감 "부푼 단발 모티브 김건희 여사, 가까워지려고 노력 多" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230818080030050</link>
-            <guid>https://v.daum.net/v/20230818080030050</guid>
-            <pubDate>Thu, 17 Aug 2023 23:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=정현태 기자] "만드는 것도 한 시간 이상 걸리고요. 유지하는 게 어마하게 힘들어요. 되게 힘든 머리거든요. 머리 때문에 진짜 고생 많이 했어요." 지난 13일 TV CHOSUN 주말미니시리즈 '아씨두리안'(극본 피비(Phoebe, 임성한)/연출 신우철, 정여진/제작 바른손스튜디오, 하이그라운드)이 16회를 끝으로 종영했다. '아씨두리안'은 조]]></content:encoded>
+            <title><![CDATA[박항서, 호칭 정리하다 급 분노→추성훈 "아버지" 제안에 화들짝 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230818103130869</link>
+            <guid>https://v.daum.net/v/20230818103130869</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:30 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조윤선 기자] '삼백만 년 전 야생 탐험 : 손둥 동굴'이 진심이 가득 담긴 도전으로 시청자들에게 제대로 눈도장을 찍으며 자연다큐예능으로서의 특별한 재미를 선사했다. 어제(17일) 첫 방송된 tvN '삼백만 년 전 야생 탐험 : 손둥 동굴(연출 황다원, 전민영, 이하 '손둥 동굴')'에서는 박항서 감독을 주축으로 결성된 베트남 손]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["전쟁이네" 13기 현숙, 11기 영철에 과감...은밀한 스킨십까지 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230818075301953</link>
-            <guid>https://v.daum.net/v/20230818075301953</guid>
-            <pubDate>Thu, 17 Aug 2023 23:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조윤선 기자] '나솔사계'에서 결말이 나지 않는 '도돌이표 러브라인'이 계속됐다. 17일(목) 방송한 SBS PLUS와 ENA의 '나는 SOLO, 그 후 사랑은 계속된다'(이하 '나솔사계')에서는 끝을 향해 달려가면서도 로맨스만큼은 종착점을 모르는 '솔로민박'의 로맨스가 그려졌다. 이날 '0표'로 '솔로민박']]></content:encoded>
+            <title><![CDATA[20대女, 분리수거 하다 무차별 폭행…“세상이 미쳐가” (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230818102204483</link>
+            <guid>https://v.daum.net/v/20230818102204483</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:30 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴]  ‘한블리’에서 20대 여성이 당한 무차별 ‘묻지마 폭행’ 사건을 조명한다. 17일 방송된 JTBC '한문철의 블랙박스 리뷰'(이하 '한블리')에서는 분리수거를 하러 나갔던 한 20대 여성이 아파트 단지 내에서 괴한에게 폭행을 당한 사건을 다룬다. 이날 공개된 블랙박스 영상에는 자정이 넘은 시간, 아파트 단지 내에서 분리수거를 하고 아파트 현]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[고민시 "5년 간 피 묻은 작품만 해…달달한 멜로 하고 싶다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230818075035913</link>
-            <guid>https://v.daum.net/v/20230818075035913</guid>
-            <pubDate>Thu, 17 Aug 2023 23:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선닷컴 이지현 기자] 배우 고민시가 멜로, 로맨틱 코미디를 찍고 싶은 이유를 밝혔다. 17일 유튜브 채널 'W KOREA'에는 "피를 너무 많이 봤어요… 다음엔 멜로 찍고 싶은 고민시"라는 제목의 영상이 게재됐다. 이날 고민시는 영화 '밀수'에 출연한 소감으 묻자, "제가 해녀는 아니다. 다방 직원부터 다방 마담까지 올라가는 공옥분이]]></content:encoded>
+            <title><![CDATA[금발로 돌아온 '음주운전' 김새론…여론은 싸늘 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230818101953392</link>
+            <guid>https://v.daum.net/v/20230818101953392</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:30 GMT</pubDate>
+            <content:encoded><![CDATA[음주운전으로 물의를 빚었던 배우 김새론(23)이 연예계 복귀 움직임을 보이자, 싸늘한 시선이 이어지고 있다. 지난 17일, 프로듀서 이아이 브라더스(EI brothers)의 공식 유튜브 채널과 오감엔터테인먼트 유튜브 채널을 통해 팝가수 크리스틴 콜리스가 부른 곡 '비터스위트(Bittersweet)'의 뮤직비디오 티저가 공개됐다. 앞서 김새론의 출연이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['음주운전' 김새론, 탈색·댄스로 활동 복귀 "오랜만vs불편" 갑론을박 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230818075003903</link>
-            <guid>https://v.daum.net/v/20230818075003903</guid>
-            <pubDate>Thu, 17 Aug 2023 23:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 음주운전으로 물의를 빚은 배우 김새론이 뮤직비디오를 통해 활동 복귀를 알렸다. 탈색한 헤어스타일과 기타를 들고 신나게 추는 댄스까지, 김새론의 모습을 공개된 후 온라인 상에서는 다양한 의견이 오가고 있다. 17일 이아이브라더스는 팝가수 크리스틴 콜리스(Christine Corless)와 협업한 신곡 'Bittersweet'(비터]]></content:encoded>
+            <title><![CDATA[김남길 “라면 두세끼 먹을 때도” 송은이 “회사 많이 어렵나” (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230818101337154</link>
+            <guid>https://v.daum.net/v/20230818101337154</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:30 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 배우 김남길이 라면을 좋아한다고 밝혔다. 8월 17일 공개된 채널 'VIVO TV-비보티비'에는 영화 '보호자' 주연배우 김남길, 김준한이 게스트로 출연했다. 이날 김남길은 "라면을 엄청 좋아한다. 어릴 때부터 많이 먹어서 그런지 사람들이 라면을 먹으면 속이 안 좋다고 하는데 저는 라면을 먹으면 속이 그렇게 편안해진다. 해외여행 가]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박해진 탑승 차량 폭발...박진감 MAX 엔딩 '최고 5.5%' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230818074901888</link>
-            <guid>https://v.daum.net/v/20230818074901888</guid>
-            <pubDate>Thu, 17 Aug 2023 23:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조윤선 기자] '국민사형투표' 박해진이 탑승한 자동차가 폭발했다. 8월 17일 방송된 SBS 목요드라마 '국민사형투표'(극본 조윤영/연출 박신우/제작 ㈜팬엔터테인먼트, 스튜디오S) 2회에서는 김무찬(박해진 분)과 주현(임지연 분)이 '무죄의 악마'를 단서로 '개탈'을 추적하기 시작했다. '무죄의 악마'를 처음 언급한 권석주(박성웅]]></content:encoded>
+            <title><![CDATA[바다의 왕자 탄생!…NCT 쟈니, 서핑을 잘할 스타 선정 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230818101334152</link>
+            <guid>https://v.daum.net/v/20230818101334152</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:30 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 NCT 쟈니가 핫한 서핑남으로 떠올랐다. 쟈니는 일간스포츠와 뮤빗의 위클리 초이스 ‘서핑을 가장 잘 할 것 같은 아티스트는?’ 투표에서 1위를 차지했다. 이번 투표에 참여한 총 12만5514표 가운데 쟈니는 득표율 59.6%에 해당하는 7만4774표를 얻으며 1위 자리에 이름을 올렸다. 무더운 여름날 생각나는 스포츠는 바로 ‘서핑’이다. 시원한]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[20대女 원했던 연봉 7500만원 금융회사 개발자, 반전 선택→8호커플 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230818074640855</link>
-            <guid>https://v.daum.net/v/20230818074640855</guid>
-            <pubDate>Thu, 17 Aug 2023 23:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 백지은 기자] 예상 밖의 커플이 탄생했다. 17일 방송된 KBS Joy·Smile TV Plus '중매술사' 8회에서는 30대 초반 결혼을 목표로 결혼 전 서로를 알아 가기 위한 시간을 갖기 위해 이른 나이에 결혼 상대를 찾기로 결심한 금융회사 개발자 1996년생 강성주 의뢰인이 출연했다. C 대학교 컴퓨터공학과를 졸업하고 광주]]></content:encoded>
+            <title><![CDATA[피프티 피프티 가족, 소송 제기 진짜 이유 고백.."후회할 것 같아" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230818100632910</link>
+            <guid>https://v.daum.net/v/20230818100632910</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:30 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 이승훈 기자] /사진=SBS '그것이 알고 싶다''그것이 알고 싶다'(이하 '그알')가 걸 그룹 피프티 피프티의 전속계약 분쟁 사태를 둘러싼 진실공방, K팝 아이돌 산업의 구조적인 문제점을 파헤친다. # 美 빌보드 차트를 석권한 K팝 신인 걸그룹의 등장 세계 대중문화의 중심지 미국 뉴욕. 뮤지션이라면 누구나 한번쯤 얼굴을 알리고 싶어 하는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[엑소→뮤지컬→드라마..'힙하게' 즐기는 수호의 삼중생활 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230818074630851</link>
-            <guid>https://v.daum.net/v/20230818074630851</guid>
-            <pubDate>Thu, 17 Aug 2023 23:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 문지연 기자] 그룹 엑소의 리더이자 뮤지컬 배우, 그리고 배우로 활약 중인 수호의 '열일'이 2023년을 가득 채우고 있다. 수호는 올해 누구보다도 바쁜 행보를 보여주는 중. 12일 첫 방송을 시작한 JTBC 새 토일드라마 '힙하게'를 통해 선우를 연기하며 약 4년 만에 안방으로 돌아왔다. '힙하게'는 사이코메트리 초능력이 발휘되]]></content:encoded>
+            <title><![CDATA[차학연, 특급 팬사랑 빛난 日 팬미팅…꿀눈빛→美친 비주얼 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230818095627449</link>
+            <guid>https://v.daum.net/v/20230818095627449</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:30 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=장우영 기자] 차학연이 일본 팬미팅을 성황리에 마쳤다. 지난달 29일 도쿄에서 열린 일본 팬미팅에서 차학연은 팬들에게 잊지 못할 시간을 선사하며, 아낌없는 팬 사랑을 보여줬다. 1년여 만에 다시 만난 일본 팬들을 위해 무대 콘셉트부터 프로그램 기획까지 직접 참여하며 팬들과 함께하는 의미를 더한 차학연은 자작곡 '모닥불'을 일본어로 개사해 부르]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["SNS도 TPO 맞추는 시대"…김성은·고소영 여행샷, 여론 뭇매의 이유 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230818074629850</link>
-            <guid>https://v.daum.net/v/20230818074629850</guid>
-            <pubDate>Thu, 17 Aug 2023 23:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 고재완 기자] '오얏나무 밑에서는 갓끈을 고쳐매지 마라' 오해 받을 행동은 하지 말라는 우리나라 속담이다. 하지만 이 오해받을 행동이라는 것은 의도치 않은 경우 등장한다. 조금이라도 숙고했으면 나오지 않았을 행동이 단순한 마음에서 발현되는 경우가 많다. 배우 고소영이나 김성은의 케이스가 바로 그렇다. 김성은은 지난 7일부터 자신의]]></content:encoded>
+            <title><![CDATA[원슈타인, 뒤늦게 알려진 미담…우간다 아동에 염소 선물 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230818095322324</link>
+            <guid>https://v.daum.net/v/20230818095322324</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:30 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 명희숙 기자) 가수 원슈타인의 훈훈한 미담이 뒤늦게 알려졌다.&nbsp; 16일 국제아동권리 NGO 세이브더칠드런은 '아프리카에 빨간염소 보내기'가 진행 중인 우간다를 방문한 홍보대사 원슈타인의 영상을 공식 유튜브 채널에 공개했다. 우간다는 찾은 원슈타인은 "많은 사람들이 후원하고 봉사활동에 참여하는게 왠지 모를 부담감이 있을 수 있다"며 "그건 잘못]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[홍진경, 룰 이해 부족→“프락치는 나야” 자진 납세 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230818074326817</link>
-            <guid>https://v.daum.net/v/20230818074326817</guid>
-            <pubDate>Thu, 17 Aug 2023 23:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] ‘홍김동전’ 홍진경의 한 마디에 멤버 전원이 혼란에 빠졌다. 지난 17일 오후 방송된 KBS 2TV ‘홍김동전’ 49회는 스포츠 영웅들의 정신을 이어받는 ‘스포츠 스타’ 특집으로 꾸며졌다. 이날 홍진경은 시차적응으로 피곤한 타이거우즈로, 김숙은 전설의 골키퍼 김병지, 조세호는 격투기 스타 추성훈, 주우재는 빨강머리와 일자 눈썹의 강백호, 그]]></content:encoded>
+            <title><![CDATA[‘경소문2’ 강기영·김히어라 분열, 진선규가 쏘아 올린 분열 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230818094607082</link>
+            <guid>https://v.daum.net/v/20230818094607082</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:30 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 황서연 기자] ‘경이로운 소문2’ 악귀 강기영이 연인 김히어라를 끝내 버리는 것인지 두 악귀의 급반전된 분위기가 포착됐다. tvN 토일드라마 ‘경이로운 소문2: 카운터 펀치’(극본 김새봄·연출 유선동, 이하. ‘경이로운 소문2’)가 K-콘텐츠 경쟁력 분석 전문 기관 굿데이터코퍼레이션이 발표한 8월 2주차 TV 드라마&amp;비드라마 종합 화제성 부]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한예슬 "10살 어린 ♥남친, 해 갈수록 더 좋아…별칭은 우리 강아지" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230818074302812</link>
-            <guid>https://v.daum.net/v/20230818074302812</guid>
-            <pubDate>Thu, 17 Aug 2023 23:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=최지예 기자]배우 한예슬(42)이 10세연하 남자친구에 대해 "만날수록 좋다"며 애정을 나타냈다. 지난 17일 메이크업 아티스트 레오제이의 유튜브 채널 'LeoJ Makeup'에는 '누나 그동안 어디 있었어 ep1.한예슬. 퇴근하고 한잔할레오?'라는 제목의 영상이 게재됐다. 한예슬이 첫 번째 게스트로 자리했다. 오랜 만에 만난 듯한 레오제이와]]></content:encoded>
+            <title><![CDATA[블핑 제니도 받은 복지…YG 전용 '목 관절 마사지'에 재재 "입사하고파" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230818094549069</link>
+            <guid>https://v.daum.net/v/20230818094549069</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:30 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 김수현기자] 재재가 '블랙핑크 제니가 받은 마사지'에 감동받아 YG입사를 희망했다. 17일 문명특급 채널에는 'YG 연습생 되면 제니가 받은 마사지 받을 수 있는 거임? 복지가 왜 이리 좋음?ㅎㄷㄷ'이라는 제목의 영상이 올라왔다. 이날 재재는 YG엔터테인먼트의 신사옥에서 6시간을 보내기로 했]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['일일 DJ' 이효리 "팝보다 H.O.T. 좋아해…오빠들 늘 건강하세요" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230818074144795</link>
-            <guid>https://v.daum.net/v/20230818074144795</guid>
-            <pubDate>Thu, 17 Aug 2023 23:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 가수 이효리가 H.O.T.에 대한 팬심을 드러냈다. 이효리는 18일 자신의 사회관계망서비스(SNS) 계정에 "아까 라디오에서 말 못했는데 저 사실은 팝보다는 H.O.T. 좋아했어요, 오빠들 늘 건강하세요, 오늘 '배캠' 청취해주신 분들께 감사드리고 토요일에 한 번 더 출동하오니 또 만나요"라는 글과 함께 H.O.T.의]]></content:encoded>
+            <title><![CDATA['소옆경2' 돌아온 김래원, 오의식과 공조 예고 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230818094409004</link>
+            <guid>https://v.daum.net/v/20230818094409004</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:30 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 김종은 기자] '소방서 옆 경찰서 그리고 국과수' 김래원이 오의식과의 공조에 나선다. 18일 방송되는 SBS 금토드라마 '소방서 옆 경찰서 그리고 국과수'(극본 민지은·연출 신경수, 이하 '소옆경2') 5회에서는 더욱더 미스터리해진 사건에 돌입하는 진호개(김래원)의 모습이 담긴다. 지난 4회에서는 진호개가 연쇄 방화범의 마지막 화재를 막고,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['오펜하이머' 일일관객수='바비' 누적관객수…韓美 온도차 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20230818073641739</link>
-            <guid>https://v.daum.net/v/20230818073641739</guid>
-            <pubDate>Thu, 17 Aug 2023 23:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[뚝심 한 번 대단하다. 전 세계적 신드롬에도 아랑곳하지 않은 채 원하는 작품에 시간과 돈을 쓰는 한국 관객들이다. '글로벌 수익 12억 달러' 돌파로 메가 히트 기록을 세운 '바비(그레타 거윅 감독)'가 한국에서는 기 한 번 제대로 펴보지 못한 채 스크린 아웃 된 가운데, '오펜하이머(크리스토퍼 놀란 감독)'는 흥행 핵폭탄을 날리는데 성공했다. 영화진]]></content:encoded>
+            <title><![CDATA[배한성 "아내 교통사고로 세상 떠나"...재혼 후 낳은 늦둥이 子와 묘소 방문 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20230818094218935</link>
+            <guid>https://v.daum.net/v/20230818094218935</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:30 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 정안지 기자] 성우 배한성이 교통사고로 먼저 세상을 떠난 아내를 떠올렸다. 17일 방송된 MBN '특종세상'에는 성우 배한성이 출연해 인생사를 털어놨다. 이날 배한성은 "경험을 많이 해야 좋은 연기가 나온다는 거다. 그래서 어려서부터 '내가 경험을 많이 해야 된다'는 생각을 많이 가졌다"면서 "근데 아내]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[브리트니 스피어스 남편 이혼 공식 발표, 협박 루머는 부인 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
+            <link>https://v.daum.net/v/20230818094833156</link>
+            <guid>https://v.daum.net/v/20230818094833156</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:36 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 샘 아스가리가 브리트니 스피어스와의 이혼을 직접 공개했다. 피플은 8월 17일(현지시간) 샘 아스가리가 자신의 소셜네트워크서비스 계정에 직접 브리트니 스피어스와의 이혼에 대해 글을 남겼다고 보도했다. 샘 아스가리는 "6년간의 서로에 대한 사랑과 헌신 끝에 아내와 나는 우리의 여정을 끝내기로 결정했다. 우린 서로에게 가지고 있는]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[“브리트니 스피어스, 집에서 일하는 남자와 불륜” 12살 연하 남편 폭행도 당해 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
+            <link>https://v.daum.net/v/20230818090839668</link>
+            <guid>https://v.daum.net/v/20230818090839668</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:36 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]세계적 팝스타 브리트니 스피어스(41)에게 이혼소송을 제기한 12살 연하 남편 샘 아스가리(29)가 본격적인 폭로전에 나섰다. 17일(현지시간) 페이지식스에 따르면, 아스가리는 스피어스가 자신을 때렸다고 주장했다. 이어 스피어스가 집에서 일하는 남자와 바람을 피웠으며, 스태프에게 나체로 촬영해달라고 요청했다고 말했다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[브리트니 스피어스, 12세 연하 남편과 이혼하나 "이미 서류 제출" (다음 연예 ─ 뉴스 ─ 해외)]]></title>
+            <link>https://v.daum.net/v/20230818090522585</link>
+            <guid>https://v.daum.net/v/20230818090522585</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:36 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 팝 가수 브리트니 스피어스와 모델 샘 아스가리가 이혼 서류를 제출했다. 미국 연예매체 엔터테인먼트 투나잇은 16일(현지시간) "브리트니 스피어스와 샘 아스가리가 결혼 1년 만에 이혼 서류를 제출했다"라고 보도했다. 두 사람의 측근은 매체를 통해 "이들의 사이는 오래전부터 좋지 않았으나 최근 있었던 큰 다툼 이후 완전히 관계가]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[제이미 폭스, 위독설 딛고 전한 근황 "예상 못했던 어두운 여행" (다음 연예 ─ 뉴스 ─ 해외)]]></title>
@@ -1071,375 +1092,466 @@
             <content:encoded><![CDATA[[TV리포트=안수현 기자] 홍콩 그룹 '보이즈' 출신인 장치향(스티븐 청)이 넷째를 임신한 아내 오인만을 두고 바람을 피웠다는 보도가 나와 논란이 되고 있다. 스티븐 청은 연예계에서 인기 추락 후 힘든 시기를 겪으며 결혼 생활에도 어려움을 겪고 있다. 지난 2019년 결혼한 그는 아내 오인만과 세 자녀를 낳았고 현재 넷째 아이를 기다리고 있다. 평소 오인만]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[브리트니 스피어스, 띠동갑 연하 남편과 결혼 1년만 파경 “치부 공개하겠다” 이혼소송 당해 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
-            <link>https://v.daum.net/v/20230817163610928</link>
-            <guid>https://v.daum.net/v/20230817163610928</guid>
-            <pubDate>Thu, 17 Aug 2023 08:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 박효실기자] 12세 연하 띠동갑 남편을 얻었던 브리트니 스피어스(41)가 이혼 수순을 밟고 있다. 결혼 1년만이다. 연예매체 페이지식스는 16일(현지시간) “샘 아스가리(29)가 아내 브리트니 스피어스를 상대로 이혼 소송을 제기했다”라고 보도했다. 아스가리의 변호사는 이혼사유에 대해 “화해할 수 없는 차이”라고 밝혔으며, 두 사람의 결]]></content:encoded>
+            <title><![CDATA[[포토] 스테이씨 수민, '예쁜 미소' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004881191</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004881191</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:47 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 스테이씨 수민이 18일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[레이디 가가, 전 남친과 데이트 목격…재결합 했나 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
-            <link>https://v.daum.net/v/20230817162031384</link>
-            <guid>https://v.daum.net/v/20230817162031384</guid>
-            <pubDate>Thu, 17 Aug 2023 08:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=유비취 기자] 가수 겸 배우 레이디 가가가 전 남자친구와 다시 데이트를 하기 시작했다. 지난 15일(현지 시간) 미국 캘리포니아 스튜디오 시티에서 레이디 가가(37)와 전 남자친구인 마이클 폴란스키가 저녁 식사를 위해 함께 나서는 모습이 포착됐다. 이후 두 사람의 재결합설이 제기됐다. 레이디 가가는 금발 머리에 짧은 검은색 치미와 가죽 재킷을]]></content:encoded>
+            <title><![CDATA[[포토] 스테이씨 세은, '반짝반짝 빛나는 미모' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004881190</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004881190</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:47 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 스테이씨 세은이 18일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[제이지, 재산 '3조'...가장 부유한 래퍼로 선정 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
-            <link>https://v.daum.net/v/20230817155230108</link>
-            <guid>https://v.daum.net/v/20230817155230108</guid>
-            <pubDate>Thu, 17 Aug 2023 08:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=강성훈 기자] 비욘세의 남편이자 래퍼 겸 사업가인 제이지(JAY-Z·53)가 세계에서 가장 부유한 래퍼로 선정됐다. 16일(현지 시간) 금융 지원 사이트 'New Trader U'는 2023년 기준 세계에서 가장 부유한 래퍼 TOP10을 조사해 공개했다. 그중&nbsp;숀 카터(Sean Carter)로 알려진 제이 지가 순자산은 25억 달러(한화 약 3]]></content:encoded>
+            <title><![CDATA[레비, AI 세계관 그리다…오늘 데뷔 음반 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0012037971</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0012037971</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:47 GMT</pubDate>
+            <content:encoded><![CDATA[고인혜 인턴 기자 = 케이블 음악채널 엠넷 '보이즈 플래닛' 출신 가수 레비(LE'V·왕즈하오)가 가요계에 출사표를 던진다. 18일 소속사 크로모솜에 따르면, 레비는 이날 오후 6시 음원사이트에 데뷔 앨범인 EP ']]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에스파 윈터, 4살부터 피아노 배워→군인 꿈도.. “고민 말 못해.. 찡찡대고 싶은 마음도” (‘조목밤’) [종합] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000971896</link>
-            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000971896</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 에스파 윈터가 고민을 털어놨다. 17일 유튜브 채널 ‘조현아의 목요일 밤’에는 ‘[SUB] 충격 실화 피아노 치는 김민정 실존 | EP.28 | 조현아의 목요일 밤 | 윈터 에스파 조현아’라는 영상이 게재됐다.]]></content:encoded>
+            <title><![CDATA[더기버스, 피프티피프티 소속사 ‘80억 투자금’ 의혹 제기 왜? (그알) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001629017</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001629017</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:47 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 피프티피프티 전속계약 분쟁 사태를 둘러싼 진실공방과 K팝 아이돌 산업의 구조적인 문제점을 ‘그것이 알고 싶다’에서 파헤친다. 세계 대중문화의 중심지 미국 뉴욕. 뮤지션이라면 누구나 한번쯤 얼굴을 알리고 싶어 하]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[데이식스 영케이, 첫 솔로 콘서트 전석 매진..올라운더 뮤지션 컴백 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003648375</link>
-            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003648375</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[DAY6(데이식스) Young K(영케이)의 데뷔 첫 솔로 콘서트 티켓이 전석 매진을 기록했다. 영케이는 오는 9월 1일부터 3일까지 사흘간 서울 노원구 광운대학교 동해문화예술관에서 단독 콘서트 'Young K So]]></content:encoded>
+            <title><![CDATA[[포토] 스테이씨, '사랑스러움 가득~' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004881186</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004881186</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:47 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 스테이씨가 18일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[BTS 제이홉 '잭 인 더 박스' 실물 음반 오늘 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0014137771</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0014137771</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 방탄소년단(BTS) 제이홉의 솔로 앨범 '잭 인 더 박스'(Jack In The Box) CD 실물 음반이 18일 전 세계 동시 발매된다. 소속사 빅히트뮤직에 따르면 이번에 발매되는 '잭 인 더 박스(호프 에디]]></content:encoded>
+            <title><![CDATA[NCT, 일곱 번째 감각…조합 美쳤다 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000907479</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000907479</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:47 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 NCT(엔시티)가 NCT만의 멋과 자신감을 선보인다. 소속사 SM엔터테인먼트는 18일 NCT의 타이틀 곡 ‘Baggy Jeans’에 대한 설명을 전했다. 무게감 있는 베이스 라인과 미니멀한 구성의 드럼, 몽환적]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[제이홉, 오늘(18일) ‘Jack In The Box (HOPE Edition)’ 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004909990</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004909990</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[방탄소년단 제이홉의 확장된 음악 세계가 펼쳐진다. 제이홉은 18일 솔로 앨범 ‘Jack In The Box (HOPE Edition)’를 전 세계에 동시 발매한다. 이번 앨범은 지난해 7월 15일 공개된 제이홉의 첫]]></content:encoded>
+            <title><![CDATA[러블루션, 通했다…'걸스 캐피털리즘' MV 600만뷰 돌파 '역대급 관심' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=030&amp;aid=0003126841</link>
+            <guid>https://entertain.naver.com/now/read?oid=030&amp;aid=0003126841</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:47 GMT</pubDate>
+            <content:encoded><![CDATA['모든 가능성의 아이돌' 트리플에스(tripleS)의 러블루션(LOVElution)이 글로벌 존재감을 빛냈다. 러블루션은 지난 17일 첫 미니앨범 'ↀ(MUHAN)'의 타이틀곡 'Girl's Capital]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이채연, 9월 초 컴백…'차세대 K팝 디바' 굳힐까 [공식입장] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001628894</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001628894</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[가수 이채연이 9월 컴백을 확정했다. 18일 소속사 WM엔터테인먼트는 "이채연이 오는 9월 초 신곡으로 컴백할 예정"이라고 밝혔다. 이는 지난 4월 발매한 미니 2집 'Over The Moon' 이후 약 5개월 만의]]></content:encoded>
+            <title><![CDATA[강진 하맥축제, 하멜촌 맥주 내걸고 31일 첫선 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0014138173</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0014138173</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:47 GMT</pubDate>
+            <content:encoded><![CDATA['제1회 강진 하맥축제'가 오는 31일부터 사흘간 전남 강진군 군동면 종합운동장에서 열린다. 강진군은 조선을 서양에 알린 '하멜표류기'의 주인공 하멜을 브랜드화한 하멜촌 맥주를 내걸고 '하맥축제'를 선보인다. 축제의]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에일리, 1년 6개월 만이야… 내달 1일 '잡아줄게' 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=018&amp;aid=0005553634</link>
-            <guid>https://entertain.naver.com/now/read?oid=018&amp;aid=0005553634</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[) 가수 에일리가 1년 6개월 만에 컴백한다. 소속사 A2Z엔터테인먼트(팝뮤직)는 18일 “에일리가 오는 9월 1일 새 싱글 ‘잡아줄게’를 발매한다”고 밝혔다. 이에 앞서 A2Z엔터테인먼트(팝뮤직)는 공식 SNS 채]]></content:encoded>
+            <title><![CDATA['SM 신인' 라이즈, 19일 웹소설 첫 공개…카카오엔터와 협업 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001629011</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001629011</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:47 GMT</pubDate>
+            <content:encoded><![CDATA[SM 신인 보이그룹 라이즈(RIIZE)가 카카오엔터테인먼트와 특별한 협업을 펼친다. 라이즈는 데뷔를 앞두고 팀의 기반인 ‘리얼타임 오디세이(성장사)’를 스토리로 담은 웹소설 ‘Rise &amp; Realize’(라이즈 앤]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['믿듣데'의 저력..데이식스 영케이, 데뷔 첫 솔로 콘서트 전석 매진 [공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003175241</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003175241</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[데이식스(DAY6) 영케이(Young K)의 첫 솔로 콘서트 티켓이 전석 매진을 기록했다. 영케이는 9월 1일부터 3일까지 사흘간 서울 노원구 광운대학교 동해문화예술관에서 단독 콘서트 'Young K Solo Con]]></content:encoded>
+            <title><![CDATA[‘컴백’ 루시, 단독 콘서트서 미공개 자작곡 무대까지 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000760897</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000760897</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:47 GMT</pubDate>
+            <content:encoded><![CDATA[밴드 루시(신예찬, 최상엽, 조원상, 신광일)가 신보 발매에 이어 단독 콘서트를 개최하며 컴백 ‘열’기를 이어간다. 루시는 8월 19~20일 양일간 서울 중구 장충체육관에서 다섯 번째 단독 콘서트 ‘열, 다섯’을 개]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[제이홉, ‘Jack In The Box (HOPE Edition)’ 발표 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000907426</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000907426</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[방탄소년단 제이홉의 확장된 음악 세계가 펼쳐진다. 제이홉은 18일 솔로 앨범 ‘Jack In The Box (HOPE Edition)’를 전 세계에 동시 발매한다. 이번 앨범은 지난해 7월 15일 공개된 제이홉의 첫]]></content:encoded>
+            <title><![CDATA[정동원, 9월 미니앨범 발매…"리메이크 곡 편성" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0012037923</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0012037923</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:47 GMT</pubDate>
+            <content:encoded><![CDATA[가수 정동원이 컴백한다. 18일 소속사 쇼플레이엔터테인먼트는 "정동원이 9월 중순 발매를 목표로 앨범을 준비 중"이라고 밝혔다. 이번 신보는 지난해 12월 발매된 미니앨범 '사내'와 지난 2월 발매된 싱글 '영원']]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 제이홉, 'Jack In The Box' 피지컬 앨범 발매..라이브+인스트 더했다 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003175240</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003175240</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[방탄소년단 제이홉이 확장된 음악 세계를 펼친다. 제이홉은 18일 솔로 앨범 'Jack In The Box (HOPE Edition)'를 전 세계에 동시 발매한다. 이번 앨범은 지난해 7월 15일 공개된 제이홉의 첫]]></content:encoded>
+            <title><![CDATA[달샤벳 수빈 '워터밤' 뜬다! 권은비 뺨치는 엄청난 힙라인 '대박' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003175274</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003175274</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:47 GMT</pubDate>
+            <content:encoded><![CDATA[걸그룹 달샤벳 출신 뮤지션 수빈이 '워터밤' 무대에 2년 연속 오른다. 수빈은 오는 19일 강원도 속초 한화리조트 설악 쏘라노에서 열리는 '워터밤 속초 2023' 무대에 선다. 수빈은 지난해 '워터밤 수원 2022']]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[DAY6 영케이, 첫 솔로 콘서트 전석 매진…2년만 올라운더 컴백 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000760797</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000760797</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[DAY6(데이식스) Young K(영케이)가 첫 솔로 콘서트 티켓 전석 매진을 기록했다. Young K는 9월 1일부터 3일까지 사흘간 서울 노원구 광운대학교 동해문화예술관에서 단독 콘서트 'Young K Solo]]></content:encoded>
+            <title><![CDATA["미공개 자작곡 무대 최초 공개"..루시, 단콘 '열, 다섯' 19·20일 개최 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003175273</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003175273</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:47 GMT</pubDate>
+            <content:encoded><![CDATA[보이 밴드 루시(LUCY)가 단독 콘서트를 개최하며 컴백 '열'기를 이어간다. 루시(신예찬, 최상엽, 조원상, 신광일)는 19~20일 양일간 서울 중구 장충체육관에서 다섯 번째 단독 콘서트 '열, 다섯'을 개최한다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이채연, 9월 초 컴백 확정… '노크' 열풍 잇는다 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=018&amp;aid=0005553629</link>
-            <guid>https://entertain.naver.com/now/read?oid=018&amp;aid=0005553629</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[가수 이채연이 오는 9월 초 컴백을 확정했다고 소속사 WM엔터테인먼트가 19일 밝혔다. 지난 4월 발매한 미니 2집 ‘오버 더 문’(Over The Moon) 이후 약 5개월 만의 신보다. 이채연은 지난 앨범 타이틀]]></content:encoded>
+            <title><![CDATA[엔시티 드림·뉴진스, 8월3주 美·日·中 한터 국가별 차트 1위 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0012037918</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0012037918</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:47 GMT</pubDate>
+            <content:encoded><![CDATA[고인혜 인턴 기자 = · 그룹 엔시티 드림(NCT DREAM)과 뉴진스(NewJeans)가 한터차트 8월 3주 차 미국, 일본, 중국, 국가별 차트에서 1위에 올랐다. 이번 주 국가별 차트 집계 기간은 지난 7일부터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김세정, 관능美 폭발..첫 정규 '문(門)' 두 번째 오피셜 포토 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001267081</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001267081</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[가수 겸 배우 김세정이 파격적인 두 번째 오피셜 포토를 공개했다. 김세정은 지난 17일 첫 번째 정규 앨범 ‘문(門)’의 ‘LOCK’ 버전 오피셜 포토를 공개했다. 특히 이번에 공개된 ‘LOCK’ 버전의 오피셜 포토]]></content:encoded>
+            <title><![CDATA[[포토] 조유리, '뾰로통한 표정도 귀여워' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004881178</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004881178</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:47 GMT</pubDate>
+            <content:encoded><![CDATA[가수 조유리가 18일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[POP초점]"참담해" 피프티 피프티, 반격일까 자충수일까..대표 고발→손편지 심경 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003648373</link>
-            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003648373</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:00 GMT</pubDate>
-            <content:encoded><![CDATA['통수돌' 낙인에 고통을 호소한 그룹 피프티 피프티는 등돌린 여론을 되찾을 수 있을까. 17일 피프티 피프티 멤버 전원(새나, 아란, 키나, 시오)은 법률대리를 맡고 있는 법무법인 바른을 통해 어트랙트 주식회사 대표]]></content:encoded>
+            <title><![CDATA[[포토] 조유리, '금발이 잘 어울려~' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004881177</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004881177</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:47 GMT</pubDate>
+            <content:encoded><![CDATA[가수 조유리가 18일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[피프티 피프티 "비난 힘겹지만 진실 밝혀야" 꺾이지 않는 결별 의지[★FOCUS] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003175239</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003175239</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[걸그룹 피프티 피프티가 어트랙트와의 결별 의지를 더욱 확고히 드러내면서 전홍준 대표를 향한 고발 조치와 영문 자필 편지 공개 등 새로운 국면을 맞이하고 있다. 피프티 피프티 멤버 키나 새나 시오 아란은 17일 직접]]></content:encoded>
+            <title><![CDATA[태원×리치×보이킴 ‘드림맨즈’ 보컬 그룹으로 뭉쳤다 활동 예고 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000907475</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000907475</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:47 GMT</pubDate>
+            <content:encoded><![CDATA[보컬의 진수 실력파 3인조 보컬그룹 Dream Menz (드림맨즈) 리치× 태원× 보이킴 이 음원 공개로 활동을 예고 했다. 드림맨즈 멤버로는 태원은 명품 발라더로 2006년 “여자야‘로 데뷔 다채로운 솔로 앨범활동]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[BTS 제이홉, 18일 ‘Jack In The Box(HOPE Edition)’ 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=021&amp;aid=0002589001</link>
-            <guid>https://entertain.naver.com/now/read?oid=021&amp;aid=0002589001</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[방탄소년단 제이홉이 18일 솔로 앨범 ‘잭 인 더 박스(홉 에디션)’(Jack In The Box HOPE Edition)를 전 세계에 동시 발매한다. 이번 앨범은 지난해 7월 15일 공개된 제이홉의 첫 솔로 앨범]]></content:encoded>
+            <title><![CDATA[[포토] 조유리, '팬들에게 보내는 깜찍 하트' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004881176</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004881176</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:47 GMT</pubDate>
+            <content:encoded><![CDATA[가수 조유리가 18일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[저스트비, 10월 미니 4집 발매…11개월만 컴백 [공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003761633</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003761633</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 저스트비(JUST B)가 한층 성장한 음악적 역량으로 돌아온다. 저스트비(임지민, 이건우, 배인, JM, 전도염, 김상우)는 18일 네 번째 미니앨범 발매를 예고하는 커밍순 티저 이미지를 깜짝 공개했다. 팬덤]]></content:encoded>
+            <title><![CDATA[[포토] 조유리, '귀여워~' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004881175</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004881175</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:47 GMT</pubDate>
+            <content:encoded><![CDATA[가수 조유리가 18일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[11세 초등생이 “고척돔 콘서트 흉기난동” 예고 글 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000907425</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000907425</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[한 초등학생이 아이돌그룹 콘서트장에서 흉기 난동을 예고하는 글을 온라인에 올려 경찰 수십 명이 출동하는 소동을 벌였다. 서울 구로경찰서는 초등학생인 A(11)양을 서울가정법원에 넘겼다고 18일 밝혔다. 경찰에 따르면]]></content:encoded>
+            <title><![CDATA[[포토] 조유리, '깜찍하게 하트~' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004881174</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004881174</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:47 GMT</pubDate>
+            <content:encoded><![CDATA[가수 조유리가 18일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 제이홉 '잭 인 더 박스', 피지컬 음반 재탄생 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0012037521</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0012037521</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 슈퍼 그룹 '방탄소년단'(BTS) 제이홉이 솔로 앨범 '잭 인 더 박스(Jack In The Box)'의 확장된 세계를 보여준다. 18일 소속사 빅히트 뮤직에 따르면, 제이홉은 이날 솔로 앨범 '잭 인 더 박]]></content:encoded>
+            <title><![CDATA[정동하, 3년만에 단독 콘서트 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000907473</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000907473</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:47 GMT</pubDate>
+            <content:encoded><![CDATA[정동하가 3년 만에 단독 콘서트를 개최한다. 정동하는 오는 9월 2일 광주 조선대학교 해오름관에서 ‘2023 정동하 콘서트 PLAYLIST’를 개최한다. 이번 공연은 정동하가 3년 만에 개최하는 단독 콘서트이다. 정]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스테이씨, ♥스윗과 애프터 파티 라이브…19일 무료 게릴라 공연 예고 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003761632</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003761632</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 스테이씨(STAYC)가 스윗(SWITH , 팬덤명)들과 특별한 추억을 만들었다. 스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)는 지난 17일 유튜브 프리미엄 라이브 애프터파티를 열고 스윗들과 소통하는 시간]]></content:encoded>
+            <title><![CDATA[에스파, 오늘 신곡 'Better Things' 공개..청량 서머송(공식) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003648422</link>
+            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003648422</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:47 GMT</pubDate>
+            <content:encoded><![CDATA[에스파(aespa)가 신곡 'Better Things'(베터 띵즈)로 컴백한다. 그룹 에스파는 18일 오후 1시 영어 싱글 ‘Better Things’를 전 세계 동시 공개한다. 뮤직비디오도 유튜브 SMTOWN 채널]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 제이홉, 오늘(18일) '잭 인더 박스' 피지컬 음반 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003761631</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003761631</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[방탄소년단 제이홉, 오늘(18일) '잭 인더 박스' 피지컬 음반 발매 그룹 방탄소년단(BTS) 제이홉을 피지컬 앨범으로 만난다. 18일 소속사 빅히트 뮤직에 따르면 제이홉은 이날 솔로 앨범 '잭 인 더 박스(Jack]]></content:encoded>
+            <title><![CDATA[‘SM아들’ 라이즈, 카카오와 협업…웹소설 출시 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000907471</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000907471</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:47 GMT</pubDate>
+            <content:encoded><![CDATA[SM엔터테인먼트의 신인 보이즈 그룹 라이즈(RIIZE)가 카카오엔터테인먼트와 협업한다. 소속사 SM엔터테인먼트는 라이즈가 데뷔를 앞두고 팀 기반 ‘리얼타임 오디세이(성장사)’를 스토리로 담은 웹소설 ‘라이즈 앤 리얼]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[하이키, '서울' 콘셉트 필름 오픈...또 한 번 꿈꾸는 '중소의 기적' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004909981</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004909981</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 하이키(H1-KEY)가 전 세계인들의 꿈을 하이키만의 방식으로 풀어냈다. 하이키(서이, 리이나, 휘서, 옐)는 18일 자정 공식 SNS를 통해 미니 2집 '서울 드리밍(Seoul Dreaming)'의 콘셉트 필]]></content:encoded>
+            <title><![CDATA[에스파, 서머송 대열 합류...새 영어 싱글 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=445&amp;aid=0000134733</link>
+            <guid>https://entertain.naver.com/now/read?oid=445&amp;aid=0000134733</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:47 GMT</pubDate>
+            <content:encoded><![CDATA['Spicy'(스파이시)로 가요계를 매콤하게 물들였던 에스파(aespa)의 신곡 'Better Things'(베터 띵즈)가 공개된다. 18일 오후 1시 에스파(카리나, 윈터, 지젤, 닝닝) 새 영어 싱글 'Bette]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[BTS 제이홉, 오늘(18일) 'Jack In The Box (HOPE Edition)' 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=408&amp;aid=0000198064</link>
-            <guid>https://entertain.naver.com/now/read?oid=408&amp;aid=0000198064</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[방탄소년단(BTS) 제이홉의 확장된 음악 세계가 펼쳐진다. 제이홉은 18일 솔로 앨범 'Jack In The Box (HOPE Edition)'를 전 세계에 동시 발매한다. 이번 앨범은 지난해 7월 15일 공개된 제]]></content:encoded>
+            <title><![CDATA[AOA 출신 신지민, 알로말로 휴메인과 전속계약 종료 [공식입장] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001629000</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001629000</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:47 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 AOA 출신 솔로가수 신지민이 소속사를 떠났다. 알로말로 휴메인 엔터테인먼트 관계자는 18일 엑스포츠뉴스에 "신지민과의 전속계약이 종료됐다. 서로 응원하며 각자의 길을 가기로 했다"고 밝혔다. 앞서 신지민은 걸]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[저스트비, 10월 미니 4집 발매…11개월만 컴백 [공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000760792</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000760792</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 저스트비(JUST B)가 11개월 만에 컴백한다. 저스트비(임지민, 이건우, 배인, JM, 전도염, 김상우)는 8월 18일 공식 소셜미디어서비스에 네 번째 미니앨범 발매를 예고하는 커밍순 티저 이미지를 게재했다]]></content:encoded>
+            <title><![CDATA[안유진, 드디어 소속사 허락 받았나...단발머리 변신 후 매력 발산 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=445&amp;aid=0000134736</link>
+            <guid>https://entertain.naver.com/now/read?oid=445&amp;aid=0000134736</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:56 GMT</pubDate>
+            <content:encoded><![CDATA[아이브(IVE) 안유진이 아이즈원 활동 이후 오랜만에 단발머리로 변신했다. 지난 17일 안유진이 개인 SNS를 통해 두 자의 사진을 업로드했다. 해당 사진에는 단발머리 스타일로 변신한 안유진의 모습이 담겼다. '뿅뿅]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스테이씨, 팬들과 애프터 파티 라이브→19일 무료 게릴라 공연 예고 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003648369</link>
-            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003648369</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 스테이씨(STAYC)가 팬들과 특별한 추억을 만들었다. 스테이씨는 지난 17일 유튜브 프리미엄 라이브 애프터파티를 열고 팬들과 소통하는 시간을 가졌다. 세 번째 미니앨범 ‘TEENFRESH (틴프레시)’로 컴백]]></content:encoded>
+            <title><![CDATA['워터밤 여신' 권은비, 워터밤 욕실 연습 영상 최초 공개 ('고기서만나') (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004045392</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004045392</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:56 GMT</pubDate>
+            <content:encoded><![CDATA['워터밤 여신' 권은비가 몸매 비결을 공개한다. 오는 19일(토) 오후 4시 40분, 채널A '고기서 만나' 18회에서는 '워터밤 여신'으로 등극해 '언더워터(Underwater)'로 역주행 신화를 쓰고 있는 가수]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에일리, 1년 6개월만 컴백…9월 새 싱글 '잡아줄게' 발매 [공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003761626</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003761626</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[가수 에일리가 1년 6개월 만에 돌아온다. 18일 소속사 A2Z엔터테인먼트(팝뮤직)는 "에일리가 오는 9월 1일 새 싱글 '잡아줄게'를 발매한다"고 밝혔다. 이에 앞서 A2Z엔터테인먼트(팝뮤직)는 공식 SNS 채널을]]></content:encoded>
+            <title><![CDATA["한효주 다시 봤다", "조인성 세심해"...커플 화보서 설레는 케미 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001924397</link>
+            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001924397</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:56 GMT</pubDate>
+            <content:encoded><![CDATA[디즈니+ 오리지널 시리즈 '무빙'에서 부부로 호흡을 맞춘 배우 조인성 씨와 한효주 씨가 화보를 통해 케미를 발산했다. 패션 매거진 하퍼스 바자는 오늘(18일) 조인성 씨와 한효주 씨가 시밀러 룩과 다정한 포즈를 통해]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[배한성 "사별 후 '18세 연하' 아내와 재혼…45세에 늦둥이 얻어" ('특종세상')[SC리뷰] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004045318</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004045318</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[성우 배한성이 아내를 잃은 가슴 아픈 과거를 이야기했다. 17일 방송된 MBN 예능프로그램 '특종세상'에서는 배한성이 출연했다. 배한성은 "집이 좀 휑하다. 두 딸은 시집갔고 아내는 남미에 있다. 아들하고 있다 보니]]></content:encoded>
+            <title><![CDATA[‘무빙’ 한효주♥조인성 커플 화보...설렘 가득 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0005174290</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0005174290</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:56 GMT</pubDate>
+            <content:encoded><![CDATA[배우 한효주 조인성의 화보가 공개됐다. 디즈니+ 오리지널 시리즈 ‘무빙’에서 호흡을 맞춘 한효주 조인성이 하퍼스 바자와 함께한 9월호 화보가 공개됐다. 공개된 화보에는 신비로움, 시크함, 장난기 넘치는 한효주 조인성]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[BTS 제이홉 '잭 인 더 박스' 실물 음반 오늘 발매 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0014137771</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0014137771</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 방탄소년단(BTS) 제이홉의 솔로 앨범 '잭 인 더 박스'(Jack In The Box) CD 실물 음반이 18일 전 세계 동시 발매된다. 소속사 빅히트뮤직에 따르면 이번에 발매되는 '잭 인 더 박스(호프 에디]]></content:encoded>
+            <title><![CDATA[콘서트 갔더니 아티스트가 ‘에르메스 버킨백’ 선물?… 드레이크 ‘통 큰 팬서비스’ (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000652740</link>
+            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000652740</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:56 GMT</pubDate>
+            <content:encoded><![CDATA[힙합 아티스트 드레이크가 LA 콘서트에서 팬에게 에르메스 버킨백을 선물하며 진정한 ‘플렉스’를 보여줬다. 그는 지난 17일(현지시간) 자신의 로스앤젤레스 콘서트에서 팬에게 핑크색 에르메스 버킨백을 선물했다. 디자이너]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴 에스쿱스, 생일 기념 단독 화보 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0005174219</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0005174219</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 세븐틴 에스쿱스가 생일을 기념해 팬들에게 특별한 단독 화보를 선물했다. 패션 매거진 마리끌레르는 지난 8일 생일을 맞은 에스쿱스의 눈부신 비주얼과 다채로운 매력이 담긴 9월호 화보컷과 인터뷰 일부를 18일 공개]]></content:encoded>
+            <title><![CDATA[분리수거하던 20대女 무차별 폭행한 男..이수근 "정신 질환? 당연히 핑계" 분노 ('한블리') (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004045389</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004045389</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:56 GMT</pubDate>
+            <content:encoded><![CDATA['한블리'가 일상 속 공포가 되어버린 '묻지마 폭행'을 조명했다. 지난 17일(목) 방송된 JTBC 교통 공익 버라이어티 '한문철의 블랙박스 리뷰'(이하 '한블리')에서는 아파트 단지 내에서 괴한에게 폭행을 당한 2]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이천수 “난 최고의 남편” VS 심하은 “공격적 말투에 심장이 벌렁” (살림남2) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001069782</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001069782</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[오는 19일 방송되는 KBS 2TV '살림하는 남자들 시즌2'(이하 '살림남')에서는 이천수가 좋은 남편 자가 진단을 하는 모습이 공개된다. 이날 심하은은 "당신의 공격적인 말투에 심장이 벌렁 거린다. 태강이가 따라]]></content:encoded>
+            <title><![CDATA[정동원, 리메이크로 꽉 채운 미니앨범 9월 중 발매 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000355996</link>
+            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000355996</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:56 GMT</pubDate>
+            <content:encoded><![CDATA[가수 정동원이 9월 중순 컴백한다. 정동원 소속사 쇼플레이엔터테인먼트는 18일 '정동원이 9월 중순 발매를 목표로 앨범을 준비 중이다'고 밝혔다. 이번 앨범은 2022년 12월 발매된 미니앨범 '사내'와 지난 2월]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[넷플릭스 '마스크걸' 오늘 공개…원작자 응원 메시지 공개 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000355962</link>
-            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000355962</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스(Netflix) 새 시리즈 '마스크걸'이 오늘(18일) 공개되는 가운데 원작자인 매미, 희세 작가가 응원의 메시지를 전했다. 외모 콤플렉스를 가진 평범한 직장인 김모미가 밤마다 마스크로 얼굴을 가린 채 인터]]></content:encoded>
+            <title><![CDATA[이제훈, 이른아침 팬심 저격하는 ‘하트 장인’ [★현장] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000954783</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000954783</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:56 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이제훈이 ‘하트 장인’의 면모를 과시했다. 이제훈은 18일 오후 서울 강남에서 열린 백화점에서 열린 패션 브랜드 행사에 참석했다. 이제훈은 이날 깔끔한 블랙 수트 패션으로 부드러운 매력을 한껏 살려주는 댄디한]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[차트IS] ‘기적의 형제’, 3%대로 조용히 마무리 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003295443</link>
-            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003295443</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[‘기적의 형제’가 3%대로 마무리됐다. 18일 시청률조사기관 닐슨코리아에 따르면 지난 17일 방송된 JTBC 수목드라마 ‘기적의 형제’ 최종화는 3.3%(전구 유료가구 기준)의 시청률을 기록했다. 이는 전 회차인 1]]></content:encoded>
+            <title><![CDATA[브리트니 스피어스 남편, 직접 이혼 발표 "항상 그녀의 행복 기원"[TEN할리우드] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000623936</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000623936</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:56 GMT</pubDate>
+            <content:encoded><![CDATA[팝가수 브리트니 스피어스와 결혼한 샘 아스가리가 직접 이혼을 발표했다. 샘 아스가리는 18일 자신의 SNS에 "6년간의 사랑과 서로에 대한 헌신 끝에 아내와 저는 함께 여행을 끝내기로 결정했다. 우리는 서로에 대한]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘국민사형투표’ 박해진 탑승 차량 폭발…휘몰아친 60분 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0005174217</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0005174217</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[‘국민사형투표’ 박해진이 탑승한 자동차가 폭발했다. 17일 방송된 SBS 목요드라마 ‘국민사형투표’(극본 조윤영/연출 박신우/제작 (주)팬엔터테인먼트, 스튜디오S) 2회에서는 국민사형투표 1차 사건 발생 후 ‘개탈’을]]></content:encoded>
+            <title><![CDATA[몬스타엑스 셔누, 전역 후 ‘열일’로 바쁘다 바빠…과자 모델 발탁(공식) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001763091</link>
+            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001763091</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:56 GMT</pubDate>
+            <content:encoded><![CDATA[셔누 전역 후 유닛부터 예능 출연, 과자 모델 발탁까지 몬스타엑스(MONSTA X) 셔누가 전역 후 열일 중인 가운데 과자 모델로 발탁됐더. 롯데웰푸드(구 롯데제과)의 꼬깔콘은 18일 셔누와 함께한 화보를 공개하고]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘허당 히어로’ 한지민, 이민기와 신박한 공조 시작 (힙하게) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001069781</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001069781</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[‘힙하게’ 허당 히어로 한지민의 좌충우돌 활약이 시작된다. JTBC 토일드라마 ‘힙하게’(연출 김석윤·최보윤, 극본 이남규·오보현·김다희, 제작 스튜디오 피닉스·SLL) 측은 18일, 어쩌다 초능력자가 된 봉예분(한]]></content:encoded>
+            <title><![CDATA[보이넥스트도어, 타이틀곡 포함 멤버들 곡 작업 참여 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000355993</link>
+            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000355993</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:56 GMT</pubDate>
+            <content:encoded><![CDATA[보이넥스트도어(성호·리우·명재현·태산·이한·운학)가 타이틀곡 '뭣 같아'를 비롯한 새 앨범의 작사·작곡에 참여해 청춘의 이야기를 생생하게 전한다. 보이넥스트도어는 17일 오후 11시 팀 공식 SNS 채널에 첫 번째]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[원진아, 이정재·정우성 손 잡았다…아티스트컴퍼니 전속계약 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000355961</link>
-            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000355961</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[배우 원진아가 새로운 둥지를 틀었다. 18일 아티스트컴퍼니는 원진아와의 전속계약 소식을 밝혔다. 아티스트컴퍼니는 "안정적인 연기력과 매력적인 모습으로 사랑 받고 있는 원진아와 함께 할 수 있게 돼 기쁘다. 원진아가]]></content:encoded>
+            <title><![CDATA['부부 된' 조인성X한효주 "'무빙'서 첫 호흡, 다시 보게 됐다"[화보] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003175275</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003175275</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:56 GMT</pubDate>
+            <content:encoded><![CDATA[배우 조인성과 한효주가 호흡을 맞춘 소감을 밝혔다. 지난 16일 공개된 '무빙'의 8-9회를 통해서 로맨스 서사의 한 획을 새롭게 그은 배우 한효주와 조인성이 패션 매거진 하퍼스 바자 9월호 커플 화보를 전격 공개했]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[양조위 측 “성소와 불륜설 근거 없는 소문” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000954762</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000954762</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[배우 량차오웨이(61·홍콩)가 여가수 청샤오(25·중국)와 충격적인 탈선행위를 저질렀다는 주장에 간접적으로나마 첫 공식적인 반응을 보였다. 량차오웨이는 한국에 ‘양조위’라는 한자음으로 유명하다. 청샤오는 2016~2]]></content:encoded>
+            <title><![CDATA[박항서, 호칭 정리하다 급 분노→추성훈 "아버지" 제안에 화들짝 ('손둥동굴')[종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004045387</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004045387</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:56 GMT</pubDate>
+            <content:encoded><![CDATA['삼백만 년 전 야생 탐험 : 손둥 동굴'이 진심이 가득 담긴 도전으로 시청자들에게 제대로 눈도장을 찍으며 자연다큐예능으로서의 특별한 재미를 선사했다. 어제(17일) 첫 방송된 tvN '삼백만 년 전 야생 탐험 :]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한다감 "몸매·동안 비결? 운동 진짜 열심히, but 너무 굶지는 않아" [인터뷰②] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001267082</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001267082</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:08 GMT</pubDate>
-            <content:encoded><![CDATA["저는 야식도 사실 먹거든요." 지난 13일 TV CHOSUN 주말미니시리즈 '아씨두리안'(극본 피비(Phoebe, 임성한)/연출 신우철, 정여진/제작 바른손스튜디오, 하이그라운드)이 16부작의 여정을 마무리 지었다]]></content:encoded>
+            <title><![CDATA[민희진 손잡은 BTS 뷔, 프로모션도 남다르다 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0005174282</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0005174282</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:56 GMT</pubDate>
+            <content:encoded><![CDATA[방탄소년단 뷔가 신보 ‘레이오버(Layover)’ 정식 발매를 앞두고 두 번째 선물을 예고했다. 뷔는 18일 0시(이하 한국시간) 방탄소년단의 공식 SNS에 첫 솔로 앨범 ‘레이오버’의 두 번째 ‘프로모션 맵’을 공]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[유니크한 공포…정유미·이선균 '잠' 기대 포인트 셋 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000355960</link>
-            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000355960</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:08 GMT</pubDate>
-            <content:encoded><![CDATA['잠'이 기대 포인트를 전했다. 올해 칸 국제영화제 비평가주간을 시작으로 시체스 국제 판타스틱 영화제, 토론토 국제영화제, 판타스틱 페스트까지 전 세계 유수 영화제들의 러브콜로 관심을 집중시키는 영화 '잠(유재선 감]]></content:encoded>
+            <title><![CDATA[이동국 "조기축구회 수준이 왜 이렇게 높아졌냐" 감탄 ('뭉찬2') (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000623935</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000623935</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:56 GMT</pubDate>
+            <content:encoded><![CDATA[‘어쩌다벤져스’가 8강전에서 막강한 상대와 겨룬다. 오는 20일 방송되는 JTBC ‘뭉쳐야 찬다 2’에서는 ‘어쩌다벤져스’가 강북구 1위 ‘번중축구회’와 ‘JTBC배 서울대회’ 8강전에서 만난다. ‘번중축구회’는 탄]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[대형 신인들 몰려온다…벌써부터 K팝 들썩 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000652734</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000652734</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[대형 신인들이 몰려 온다. SM·하이브·YG 대형 기획사 신인 그룹들이 오는 9월 가요계 동시 출격을 알려 K팝 팬들을 벌써부터 설레게 하고 있다. 먼저 SM엔터테인먼트에서 야심차게 선보이는 라이즈(RIIZE)는 9]]></content:encoded>
+            <title><![CDATA[MBN ‘떴다! 캡틴 킴’ 박성광, 개그맨 → 영화감독으로 변신한 계기는? (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001763087</link>
+            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001763087</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:56 GMT</pubDate>
+            <content:encoded><![CDATA[개그맨 박성광이 영화감독으로 변신하게 된 계기를 전합니다. 내일(19일) 방송되는 MBN 경비행기 힐링 어드벤처 ‘떴다! 캡틴 킴’(이하 ‘떴다! 캡틴 킴’)에서 김병만, 박성광, 정일우, 박은석, 서동주는 수상비행]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['아씨두리안' 한다감 "부푼 단발 모티브 김건희 여사, 가까워지려고 노력 多" [인터뷰①] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001267080</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001267080</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:08 GMT</pubDate>
-            <content:encoded><![CDATA["만드는 것도 한 시간 이상 걸리고요. 유지하는 게 어마하게 힘들어요. 되게 힘든 머리거든요. 머리 때문에 진짜 고생 많이 했어요." 지난 13일 TV CHOSUN 주말미니시리즈 '아씨두리안'(극본 피비(Phoebe]]></content:encoded>
+            <title><![CDATA["행복했다" 차학연 꿀눈빛 발산 日 팬미팅 성료 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000355990</link>
+            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000355990</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:56 GMT</pubDate>
+            <content:encoded><![CDATA[배우 차학연이 일본 팬미팅을 성공적으로 마쳤다. 지난달 29일 도쿄에서 열린 일본 팬미팅에서 차학연은 팬들에게 잊지 못할 시간을 선사했다. 1년여 만에 다시 만난 일본 팬들을 위해 무대 콘셉트부터 프로그램 기획까지]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['결혼 11년차' 별 "이사 계획만 10년..♥하하와 개인 공간 갖고 싶어" ('구해줘홈즈')[종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004045315</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004045315</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[가수 별이 10년째 이사를 계획만 하고 있다고 밝혔다. 17일 방송된 MBC '구해줘 홈즈'에는 별과 조권이 복팀 멤버로 등장해 각각 매물 찾기에 나섰다. 이날 MC들은 "별이 곧 이사를 한다고 한다"며 "근데 20]]></content:encoded>
+            <title><![CDATA[“뺏어 올게요”…영식·현숙·영호 삼각관계(‘나솔’) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0005174279</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0005174279</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:56 GMT</pubDate>
+            <content:encoded><![CDATA[돌싱 특집 16기에서 불꽃 튀는 로맨스 혈투가 예고됐다. SBS PLUS와 ENA의 리얼 데이팅 프로그램 ‘나는 SOLO’는 23일 뺏고 빼앗기는 치열한 로맨스 대전을 예감케 하는 예고편을 공개했다. 예고편에서 영호]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["인형탈 쓰고 깜짝"… 아이유, 팬 사랑 클라쓰 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000942827</link>
-            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000942827</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[가수 겸 배우 아이유가 데뷔 15주년 기념 자신의 전시회에 마시멜로 탈을 쓰고 나타나 팬들에게 잊지못할 추억을 선물했다. 지난 17일 각종 온라인커뮤니티에는 아이유의 첫 미디어아트 전시 '순간' 현장에 마시멜로 탈을]]></content:encoded>
+            <title><![CDATA[父에 집착하는 금쪽이→경찰 신고까지…오은영 박사 충격 진단 (금쪽같은 내새끼) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001069825</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001069825</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:56 GMT</pubDate>
+            <content:encoded><![CDATA[‘요즘 육아 – 금쪽같은 내새끼’에 아빠에게 집착하는 아들이 등장한다. 18일 오후 8시 채널A ‘요즘 육아 – 금쪽같은 내새끼’에서는 ‘학교에선 폭군! 아빠에겐 집착하는 초6 아들’의 사연이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["전쟁이네" 13기 현숙, 11기 영철에 과감...은밀한 스킨십까지 ('나솔사계')[종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004045313</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004045313</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:08 GMT</pubDate>
-            <content:encoded><![CDATA['나솔사계'에서 결말이 나지 않는 '도돌이표 러브라인'이 계속됐다. 17일(목) 방송한 SBS PLUS와 ENA의 '나는 SOLO, 그 후 사랑은 계속된다'(이하 '나솔사계')에서는 끝을 향해 달려가면서도 로맨스만큼]]></content:encoded>
+            <title><![CDATA[하이키, 슬프고 아름답지만 위태로운 '우리'의 노래 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000355989</link>
+            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000355989</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:56 GMT</pubDate>
+            <content:encoded><![CDATA[하이키(서이·리이나·휘서·옐)가 전 세계인들의 꿈을 그들만의 방식으로 풀어냈다. 하이키는 18일 자정 공식 SNS에 두 번째 미니앨범 '서울 드리밍(Seoul Dreaming)' 컨셉트 필름 '서울' 버전을 업로드했]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에버글로우, 18일 ‘ALL MY GIRLS’ 발매 ‘1년 8개월만 컴백’ (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001069780</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001069780</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 에버글로우(EVERGLOW)가 1년 8개월의 공백을 깨고 컴백한다. 에버글로우(이유, 시현, 미아, 온다, 아샤, 이런)는 18일 오후 6시 네 번째 싱글 앨범 'ALL MY GIRLS(올 마이 걸스)'를 발매]]></content:encoded>
+            <title><![CDATA[원진아, 아티스트컴퍼니와 전속계약…염정아·정우성과 한솥밥 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=079&amp;aid=0003803004</link>
+            <guid>https://entertain.naver.com/now/read?oid=079&amp;aid=0003803004</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:56 GMT</pubDate>
+            <content:encoded><![CDATA[배우 원진아가 아티스트컴퍼니와 전속계약을 체결했다. 18일 아티스트컴퍼니는 원진아와의 전속계약 소식을 밝히며 "안정적인 연기력과 매력적인 모습으로 사랑 받고 있는 원진아와 함께 할 수 있게 돼 기쁘다. 원진아가 자신]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[고민시 "5년 간 피 묻은 작품만 해…달달한 멜로 하고 싶다" [종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004045312</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004045312</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[배우 고민시가 멜로, 로맨틱 코미디를 찍고 싶은 이유를 밝혔다. 17일 유튜브 채널 'W KOREA'에는 "피를 너무 많이 봤어요… 다음엔 멜로 찍고 싶은 고민시"라는 제목의 영상이 게재됐다. 이날 고민시는 영화 ']]></content:encoded>
+            <title><![CDATA[[포토] 있지 리아, '돋보이는 블론드 헤어' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0005058783</link>
+            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0005058783</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:56 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 있지가 18일 서울 영등포구 KBS에서 진행되는 '뮤직뱅크' 리허설 일정에 참석했다. fn스타]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘특종세상’ 배한성 “첫 아내 교통사고로 잃고…재혼해 45세에 늦둥이 아들” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0005174212</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0005174212</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[국민 성우 배한성(77)이 사별 후 재혼한 아내와의 사이에서 낳은 늦둥이 아들과 동거하는 사연을 공개했다. 17일 방송된 MBN ‘특종세상’에는 배한성이 출연해 파란만장한 인생사를 돌아봤다. 그는 “두 딸은 시집갔고]]></content:encoded>
+            <title><![CDATA[20대女, 분리수거 하다 무차별 폭행…“세상이 미쳐가” (한블리)[TV체크] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001069824</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001069824</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:56 GMT</pubDate>
+            <content:encoded><![CDATA[‘한블리’에서 20대 여성이 당한 무차별 ‘묻지마 폭행’ 사건을 조명한다. 17일 방송된 JTBC '한문철의 블랙박스 리뷰'(이하 '한블리')에서는 분리수거를 하러 나갔던 한 20대 여성이 아파트 단지 내에서 괴한에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박해진 탑승 차량 폭발...박진감 MAX 엔딩 '최고 5.5%' ('국민사형투표')[종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004045311</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004045311</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:08 GMT</pubDate>
-            <content:encoded><![CDATA['국민사형투표' 박해진이 탑승한 자동차가 폭발했다. 8월 17일 방송된 SBS 목요드라마 '국민사형투표'(극본 조윤영/연출 박신우/제작 (주)팬엔터테인먼트, 스튜디오S) 2회에서는 김무찬(박해진 분)과 주현(임지연 분)]]></content:encoded>
+            <title><![CDATA[[포토] 있지 채령, '넘치는 귀여움' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0005058782</link>
+            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0005058782</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:56 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 있지가 18일 서울 영등포구 KBS에서 진행되는 '뮤직뱅크' 리허설 일정에 참석했다. fn스타]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[20대女 원했던 연봉 7500만원 금융회사 개발자, 반전 선택→8호커플('중매술사') (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004045309</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004045309</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[예상 밖의 커플이 탄생했다. 17일 방송된 KBS Joy·Smile TV Plus '중매술사' 8회에서는 30대 초반 결혼을 목표로 결혼 전 서로를 알아 가기 위한 시간을 갖기 위해 이른 나이에 결혼 상대를 찾기로]]></content:encoded>
+            <title><![CDATA[방탄소년단 지민, '1013 생일' 특별 이벤트 진행 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=629&amp;aid=0000233457</link>
+            <guid>https://entertain.naver.com/now/read?oid=629&amp;aid=0000233457</guid>
+            <pubDate>Fri, 18 Aug 2023 01:43:56 GMT</pubDate>
+            <content:encoded><![CDATA[지하철 전광판부터 버스 광고까지 풍성한 선물 준비 '팬앤스타'가 지민의 생일 서포트를 오픈했다. 아이돌 순위 정보를 전하는 사이트 '팬앤스타'에서 18일 방탄소년단 멤버 지민을 위해 특별 이벤트를 진행하고 있다. 오]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['음주운전' 김새론 복귀 두고 갑론을박… MV서 환한 미소 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000942825</link>
-            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000942825</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[배우 김새론이 뮤직비디오 속 금발 미소로 근황을 전했다. 지난 17일 OGAM 엔터테인먼트는 공식 유튜브 채널을 통해 이아이브라더스(EI brothers)와 크리스틴 코어레스(Christine Corless)의 곡]]></content:encoded>
+            <title><![CDATA[신현빈 ‘포토타임’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000954781</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000954781</guid>
+            <pubDate>Fri, 18 Aug 2023 01:44:06 GMT</pubDate>
+            <content:encoded><![CDATA[배우 신현빈이 18일 오후 서울 강남구의 한 백화점에서 열린 패션 브랜드 행사에 참석했다. 신현빈이 포즈를 취하고 있다. 반포동(서울)=천정환 MK스포츠 기자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["SNS도 TPO 맞추는 시대"…김성은·고소영 여행샷, 여론 뭇매의 이유 [SC초점] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004045308</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004045308</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:08 GMT</pubDate>
-            <content:encoded><![CDATA['오얏나무 밑에서는 갓끈을 고쳐매지 마라' 오해 받을 행동은 하지 말라는 우리나라 속담이다. 하지만 이 오해받을 행동이라는 것은 의도치 않은 경우 등장한다. 조금이라도 숙고했으면 나오지 않았을 행동이 단순한 마음에서]]></content:encoded>
+            <title><![CDATA[신현빈 ‘안녕’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000954780</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000954780</guid>
+            <pubDate>Fri, 18 Aug 2023 01:44:06 GMT</pubDate>
+            <content:encoded><![CDATA[배우 신현빈이 18일 오후 서울 강남구의 한 백화점에서 열린 패션 브랜드 행사에 참석했다. 신현빈이 포즈를 취하고 있다. 반포동(서울)=천정환 MK스포츠 기자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[SC줌人] 엑소→뮤지컬→드라마..'힙하게' 즐기는 수호의 삼중생활 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004045307</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004045307</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 엑소의 리더이자 뮤지컬 배우, 그리고 배우로 활약 중인 수호의 '열일'이 2023년을 가득 채우고 있다. 수호는 올해 누구보다도 바쁜 행보를 보여주는 중. 12일 첫 방송을 시작한 JTBC 새 토일드라마 '힙하]]></content:encoded>
+            <title><![CDATA[신현빈 ‘청순 하트’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000954779</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000954779</guid>
+            <pubDate>Fri, 18 Aug 2023 01:44:06 GMT</pubDate>
+            <content:encoded><![CDATA[배우 신현빈이 18일 오후 서울 강남구의 한 백화점에서 열린 패션 브랜드 행사에 참석했다. 신현빈이 포즈를 취하고 있다. 반포동(서울)=천정환 MK스포츠 기자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이미연 ‘우아한 하트’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000954778</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000954778</guid>
+            <pubDate>Fri, 18 Aug 2023 01:44:06 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이미연이 18일 오후 서울 강남구의 한 백화점에서 열린 패션 브랜드 행사에 참석했다. 이미연이 포즈를 취하고 있다. 반포동(서울)=천정환 MK스포츠 기자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이미연 ‘매력 미소’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000954777</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000954777</guid>
+            <pubDate>Fri, 18 Aug 2023 01:44:06 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이미연이 18일 오후 서울 강남구의 한 백화점에서 열린 패션 브랜드 행사에 참석했다. 이미연이 포즈를 취하고 있다. 반포동(서울)=천정환 MK스포츠 기자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이제훈 ‘하트 선물’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000954775</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000954775</guid>
+            <pubDate>Fri, 18 Aug 2023 01:44:06 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이제훈이 18일 오후 서울 강남구의 한 백화점에서 열린 패션 브랜드 행사에 참석했다. 이제훈이 포즈를 취하고 있다. 반포동(서울)=천정환 MK스포츠 기자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이제훈 ‘하트 장인’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000954774</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000954774</guid>
+            <pubDate>Fri, 18 Aug 2023 01:44:06 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이제훈이 18일 오후 서울 강남구의 한 백화점에서 열린 패션 브랜드 행사에 참석했다. 이제훈이 포즈를 취하고 있다. 반포동(서울)=천정환 MK스포츠 기자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이제훈 ‘하트 윙크’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000954773</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000954773</guid>
+            <pubDate>Fri, 18 Aug 2023 01:44:06 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이제훈이 18일 오후 서울 강남구의 한 백화점에서 열린 패션 브랜드 행사에 참석했다. 이제훈이 포즈를 취하고 있다. 반포동(서울)=천정환 MK스포츠 기자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이제훈 ‘모닝 하트’ [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000954772</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000954772</guid>
+            <pubDate>Fri, 18 Aug 2023 01:44:06 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이제훈이 18일 오후 서울 강남구의 한 백화점에서 열린 패션 브랜드 행사에 참석했다. 이제훈이 포즈를 취하고 있다. 반포동(서울)=천정환 MK스포츠 기자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[브리트니 스피어스 남편 이혼 공식 발표, 협박 루머는 부인 [할리우드비하인드] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000760861</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000760861</guid>
+            <pubDate>Fri, 18 Aug 2023 01:44:06 GMT</pubDate>
+            <content:encoded><![CDATA[샘 아스가리가 브리트니 스피어스와의 이혼을 직접 공개했다. 피플은 8월 17일(현지시간) 샘 아스가리가 자신의 소셜네트워크서비스 계정에 직접 브리트니 스피어스와의 이혼에 대해 글을 남겼다고 보도했다. 샘 아스가리는]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['건강 이상설' 제이미 폭스 "마침내 제 정신 돌아왔다" (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0012037789</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0012037789</guid>
+            <pubDate>Fri, 18 Aug 2023 01:44:06 GMT</pubDate>
+            <content:encoded><![CDATA[건강 이상설에 휩싸였던 할리우드 배우 제이미 폭스(56)가 근황을 전했다. 제이미 폭스는 17일(한국시간) 자신의 소셜미디어에 "마침내 제 정신이 돌아왔다. 예상치 못한 어두운 여행이었다. 그러나 이젠 빛을 볼 수]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[켈리 피클러, 남편 극단적 선택 후 첫 심경 "인생에서 가장 어두운 시간"[Oh!llywood] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004910029</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004910029</guid>
+            <pubDate>Fri, 18 Aug 2023 01:44:06 GMT</pubDate>
+            <content:encoded><![CDATA[가수 켈리 피클러(37)가 남편의 사망 이후 6개월 만에 처음으로 목소리를 냈다. 17일(현지 시간) 켈리 피클러는 남편 카일 제이콥스의 극단적 선택에 대해 “나는 남편의 충고에 귀를 기울이기로 했다”고 말문을 열었]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[“브리트니 스피어스, 집에서 일하는 남자와 불륜” 12살 연하 남편 폭행도 당해[해외이슈](종합) (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003761648</link>
+            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003761648</guid>
+            <pubDate>Fri, 18 Aug 2023 01:44:06 GMT</pubDate>
+            <content:encoded><![CDATA[세계적 팝스타 브리트니 스피어스(41)에게 이혼소송을 제기한 12살 연하 남편 샘 아스가리(29)가 본격적인 폭로전에 나섰다. 17일(현지시간) 페이지식스에 따르면, 아스가리는 스피어스가 자신을 때렸다고 주장했다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[제이미 폭스, 실명설·마비설 일축...“마침내 제정신 돌아와” (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003846278</link>
+            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003846278</guid>
+            <pubDate>Fri, 18 Aug 2023 01:44:06 GMT</pubDate>
+            <content:encoded><![CDATA[할리우드 배우 제이미 폭스. 제이미 폭스 인스타그램 캡처 할리우드 배우 제이미 폭스가 자신을 둘러싼 루머를 일축했다. 제이미 폭스는 17일(현지시간) 사회관계망서비스(SNS) 계정을 통해 건강 회복 중인 근황을 전했]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘위독설’ 제이미 폭스 “어두운 여행이었다”…건강한 근황 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003295448</link>
+            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003295448</guid>
+            <pubDate>Fri, 18 Aug 2023 01:44:06 GMT</pubDate>
+            <content:encoded><![CDATA[할리우드 스타 제이미 폭스가 최근 합병증을 앓은 것으로 전해진 가운데 건강한 근황을 전했다. 제이미 폭스는 17일(한국 시간) 자신의 SNS에 “감사하다”고 말문을 열며 “마침내 내 자신처럼 느껴지기 시작한다”고 말]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[제이미 폭스, 실명설·마비설 불식…"마침내 제정신 돌아와" [N해외연예] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006996405</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006996405</guid>
+            <pubDate>Fri, 18 Aug 2023 01:44:06 GMT</pubDate>
+            <content:encoded><![CDATA[할리우드 배우 제이미 폭스가 "마침내 제정신이 돌아왔다"면서 자신의 건강 상태에 대해 밝혔다. 제이미 폭스는 17일(현지시간) 자신의 사회관계망서비스(SNS) 계정에 "여러분은 지금 감사하고 있는 한 남자를 보고 있]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[할리웃POP]안젤리나 졸리, 이혼 패소 후 근황 포착..예술과 아들과 데이트 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
@@ -1503,118 +1615,6 @@
             <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001267060</guid>
             <pubDate>Thu, 17 Aug 2023 12:23:02 GMT</pubDate>
             <content:encoded><![CDATA[해리 스타일스(Harry styles·29)의 '플레잉', 이드리스 엘바(Idris Elba·50)의 '세이블랩스' 등 남자 스타가 만든 브랜드가 남성 화장품의 성장에 기여하고 있다. 16일(현지 시간) 외신 'CO]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“X탄주→비하 자막”..‘런닝맨’·‘유퀴즈’ 인기와 반비례하는 퀄리티 왜이러나 [Oh!쎈 이슈] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004909745</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004909745</guid>
-            <pubDate>Thu, 17 Aug 2023 12:23:02 GMT</pubDate>
-            <content:encoded><![CDATA[‘런닝맨’에서 19금 영화 속 장면을 패러디하고, 비속어와 욕설을 사용해 논란을 빚은 가운데 ‘유퀴즈’에서는 한 프로야구 구단을 비하하는 이모티콘을 사용해 사과했다. ‘런닝맨’은 15세 이상 시청가, ‘유퀴즈’는 모]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[브리트니 스피어스, 3번째 이혼 위해 '美 최고 이혼 전문 변호사' 선임[Oh!llywood] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004909592</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004909592</guid>
-            <pubDate>Thu, 17 Aug 2023 10:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[가수 브리트니 스피어스(42)가 세 번째 이혼을 위해 최고의 변호인단으로 ‘드림 팀’을 꾸렸다. 16일 오후(현지 시간) 미국 버라이어티는 “브리트니 스피어스가 남편 샘 아스가리와 이혼을 준비하면서 할리우드 최고 변]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[에드 시런, 슈퍼볼 하프타임쇼 출연 안 하는 이유 “난 어울리지 않아” (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000760668</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000760668</guid>
-            <pubDate>Thu, 17 Aug 2023 10:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[영국 가수 에드 시런(Ed Sheeran)이 당대 최고의 가수들이 무대에 오르는 미국 슈퍼볼 하프타임 쇼에 출연하지 않는 이유를 밝혔다. 에드 시런은 지난 8월 15일(현지 시간) 시리우스 XM 팟캐스트 ‘Deep]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인기 스타, 현금 안 받는 식당서 안절부절...행인이 대신 내줬다 [룩@차이나] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001267051</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001267051</guid>
-            <pubDate>Thu, 17 Aug 2023 09:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[인기 있는 대만 방송인 사흔(??·41)이 홍콩 식당에서 지나가는 행인에게 금전적 도움을 받았다. 16일(현지 시간) 외신 '8world'는 최근 사흔이 홍콩 크루즈를 타고 하버시티(Harbour City)에서 식사]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['바비' 한달 56만 vs '오펜하이머' 이틀만에 70만..이래서 한국이지 [Oh!쎈 초점] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004909556</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004909556</guid>
-            <pubDate>Thu, 17 Aug 2023 09:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '바비'(그레타 거윅 감독)와 '오펜하이머'(크리스토퍼 놀란 감독)의 북미, 한국 흥행의 온도차가 극명이다. 이는 글로벌 영화 엔터테인먼트 사업의 주요 나라이면서도 결을 또 달리하는 한국 시장만의 특수성과 정서]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘온몸이 굳어 뻣뻣해지는’ 셀린 디온, “난 병마에 맞서 싸울 것이다” 의지 불태워[해외이슈] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003761425</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003761425</guid>
-            <pubDate>Thu, 17 Aug 2023 09:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[온몸이 굳어 뻣뻣해지는 ‘강직인간 증후군’(SPS)을 앓고 있는 세계적 가수 셀린 디온(55)이 병마에 맞서 싸우겠다는 의지를 밝혔다. 한 소식통은 16일(현지시간) ‘인터치위클리’와 인터뷰에서 “팬들에게 작별 인사]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘연봉 800억’ 엘런 드제너러스, 동성 배우 아내와 결혼 15주년 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000760655</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000760655</guid>
-            <pubDate>Thu, 17 Aug 2023 09:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[미국 방송인 엘런 드제너러스(Ellen DeGeneres)가 동성 아내과 결혼 15주년을 맞았다. 엘런 드제너러스는 8월 16일(한국시간) 개인 소셜미디어에 동성 아내인 배우 포티아 드 로시와 찍은 사진을 게재했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘불륜’ 브리트니 스피어스, ‘12세 연하♥’와 이혼…결혼반지도 이미 OUT[할리웃톡] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000971771</link>
-            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000971771</guid>
-            <pubDate>Thu, 17 Aug 2023 09:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[브리트니 스피어스와 샘 아스가리. 사진 | 스피어스 채널 가수 브리트니 스피어스가 지난해 6월 결혼했던 12세 연하 남편과 14개월만에 이혼한다. 16일(현지시간) 미국 연예 매체 TMZ, 피플 등은 “스피어스가 남]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[브리트니 스피어스, 12살 연하 남편과 이혼 수순(종합) (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0014137256</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0014137256</guid>
-            <pubDate>Thu, 17 Aug 2023 09:14:43 GMT</pubDate>
-            <content:encoded><![CDATA["남편, 스피어스와 별거 후 이혼 소송 제기" 임미나 특파원 = 팝스타 브리트니 스피어스(41)가 12세 연하 남편 샘 아스가리(29)와 별거에 들어갔다고 미 연예매체 TMZ와 피플 등이 16일(현지시간) 보도했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['수어사이드 스쿼드' 감독 "조커 문신 후회한다" [할리웃통신] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001267042</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001267042</guid>
-            <pubDate>Thu, 17 Aug 2023 08:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '수어사이드 스쿼드'의 감독 데이비드 에이어가 조커 캐릭터에 대해 후회하고 있다. 지난 2016년 개봉한 '수어사이드 스쿼드'에서는 배우 자레드 레토가 조커 역할을 연기하면서 독특한 분장으로 이목을 끌었다. 개]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“12살 연하 남편과 아이 못 낳고 결국 이혼” 브리트니 스피어스, 초호화 변호인단 구성[해외이슈](종합) (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003761400</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003761400</guid>
-            <pubDate>Thu, 17 Aug 2023 08:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[12살 연하 남편 샘 아스가리(29)와 아이를 더 많이 낳겠다고 밝혔던 브리트니 스피어스(41)의 꿈은 물거품이 됐다. 남은 것은 치열한 이혼 전쟁이다. 버라이어티는 16일(현지시간) “스피어스가 아스가리]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['넷째 임신'한 아내 두고 '바람 피운' 스타...가족 문제로 또 시끌 [룩@차이나] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001267040</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001267040</guid>
-            <pubDate>Thu, 17 Aug 2023 08:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[홍콩 그룹 '보이즈' 출신인 장치향(스티븐 청)이 넷째를 임신한 아내 오인만을 두고 바람을 피웠다는 보도가 나와 논란이 되고 있다. 스티븐 청은 연예계에서 인기 추락 후 힘든 시기를 겪으며 결혼 생활에도 어려움을 겪]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[브리트니 스피어스, 띠동갑 연하 남편과 결혼 1년만 파경 “치부 공개하겠다” 이혼소송 당해[할리웃톡] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000971751</link>
-            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000971751</guid>
-            <pubDate>Thu, 17 Aug 2023 08:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[팝스타 브리트니 스피어스 샘 아스가리 부부. 사진 | 스피어스 채널 12세 연하 띠동갑 남편을 얻었던 브리트니 스피어스(41)가 이혼 수순을 밟고 있다. 결혼 1년만이다. 연예매체 페이지식스는 16일(현지시간) “샘]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[레이디 가가, 전 남친과 데이트 목격…재결합 했나 [할리웃통신] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001267038</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001267038</guid>
-            <pubDate>Thu, 17 Aug 2023 08:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[가수 겸 배우 레이디 가가가 전 남자친구와 다시 데이트를 하기 시작했다. 지난 15일(현지 시간) 미국 캘리포니아 스튜디오 시티에서 레이디 가가(37)와 전 남자친구인 마이클 폴란스키가 저녁 식사를 위해 함께 나서는]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['애 엄마' 안젤라 베이비, 휴가 중 비키니 입고 탄탄 몸매 자랑 [룩@차이나] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001267034</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001267034</guid>
-            <pubDate>Thu, 17 Aug 2023 08:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[중국 배우 안젤라베이비가 휴가 중 여전한 미모를 자랑했다. 최근 이탈리아로 휴가 중인 안젤라베이비(34)가 팬을 위해 근황을 알렸다. 지난 11일 안젤라베이비는 소셜네트워크서비스를 통해 휴가를 즐기는 모습을 공개했다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[노엘 갤러거, 내한 공연 1회 추가 확정 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003295329</link>
-            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003295329</guid>
-            <pubDate>Thu, 17 Aug 2023 08:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[밴드 오아시스 출신 노엘 갤러거가 내한 공연 일정을 추가했다. 내한 공연 주최 측은 “노엘 갤러거 내한 공연이 하루 추가돼 총 2회로 진행된다”고 17일 밝혔다. 이로써 노엘 갤러거는 오는 11월 27~28일 양일간]]></content:encoded>
         </item>
     </channel>
 </rss>
