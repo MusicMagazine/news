@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-08-18T13:19:44.958Z</updated>
+    <updated>2023-08-18T14:12:30.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우재, 정규앨범 선공개곡 ‘이사’ 공개]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000907644</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000907644"/>
+        <updated>2023-08-18T14:12:12.765Z</updated>
+        <content type="html"><![CDATA[싱어송라이터 우재가 정규앨범 선공개곡으로 먼저 대중을 만난다. 우재는 18일 정오 각종 음원사이트를 통해 신곡 ‘이사’를 공개했다. ‘이사’는 우재가 삶의 대부분의 시간을 보냈던 동네를 떠날 때 썼던 곡으로, 가족,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘그래미 5관왕’ 존 바티스트, 첫 내한 앞두고 신보 ‘WORLD MUSIC RADIO’ 발매]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000907636</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004881502"/>
         <updated>2023-08-18T12:24:06.572Z</updated>
         <content type="html"><![CDATA[그룹 트리플에스 러블루션 카에데가 18일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 트리플에스 러블루션, '사랑스러움 가득~']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004881501</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004881501"/>
-        <updated>2023-08-18T12:24:06.579Z</updated>
-        <content type="html"><![CDATA[그룹 트리플에스 러블루션이 18일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content>
     </entry>
 </feed>
