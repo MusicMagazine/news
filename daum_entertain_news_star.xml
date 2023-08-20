@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-08-20T17:12:18.729Z</updated>
+    <updated>2023-08-20T18:15:25.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미우새' 박선영, 연하의 변호사와 '소개팅'…소개팅男 명함 받고 '애프터 기대']]></title>
+        <id>https://v.daum.net/v/20230821022400370</id>
+        <link href="https://v.daum.net/v/20230821022400370"/>
+        <updated>2023-08-20T18:14:55.713Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 박선영이 30년 만에 소개팅을 했다. 20일 방송된 SBS '미운 우리 새끼'(이하 '미우새')에서는 배우 박선영이 30년 만의 소개팅에 나섰다. 이날 방송에서 박선영은 소개팅 상대가 5살 연하의 변호사라는 것을 확인하고 걱정했다. 이에 강경헌은 "걱정할 거 없어 서로 이상형이니까 매칭이 된 거야"라며 "무슨 운동 좋아하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미우새' 양세형, 동생 양세찬과 분가…"경제적 이유로 다시 합치자면 OK, 다른 이유면 NO"]]></title>
         <id>https://v.daum.net/v/20230821020300357</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230820235948575"/>
         <updated>2023-08-20T15:10:29.870Z</updated>
         <content type="html"><![CDATA[배우 이선균이 또 한 번 놀라운 연기력을 선보인다. 지난 18일 서울 건대입구 롯데시네마에서 열린 영화 '잠(유재선 감독)' 언론시사회에서 이선균은 극 중 반수면 상태로 선보이는 이른바 냉장고 폭식 장면에 대해 "소품이 아닌 진짜 음식이었다"고 밝혀 눈길을 끌었다. 이선균은 날고기, 생선, 날달걀 등 눈에 보이는 음식을 가리지 않고 입 속에 욱여 넣어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['잠' 유재선 감독 "봉준호 감독님 '해석 누설하지 말라' 팁 전수"]]></title>
-        <id>https://v.daum.net/v/20230820235946573</id>
-        <link href="https://v.daum.net/v/20230820235946573"/>
-        <updated>2023-08-20T15:10:29.872Z</updated>
-        <content type="html"><![CDATA['봉준호 키드'에 대한 기대감을 120% 충족시킨 신예 유재선 감독이다. 지난 18일 서울 건대입구 롯데시네마에서 열린 영화 '잠(유재선 감독)' 언론시사회에서 유재선 감독은 "'잠' 시나리오를 쓰고, 촬영 준비를 하고, 촬영을 하고, 후반 작업을 하면서 제1의 철칙은 '재밌는 장르 영화를 만들자'였다. 시나리오를 쓸 때부터 '재밌는 장르 영화'를 써]]></content>
     </entry>
 </feed>
