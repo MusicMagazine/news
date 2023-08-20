@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-08-20T11:09:27.975Z</updated>
+    <updated>2023-08-20T12:19:40.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴진스, 日 서머소닉 뜨자 3만명 떼창]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012040676</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0012040676"/>
+        <updated>2023-08-20T12:19:23.797Z</updated>
+        <content type="html"><![CDATA[신드롬 걸그룹 '뉴진스(NewJeans)' 열풍이 일본에서도 뜨거웠다. 20일 소속사 어도어에 따르면, 뉴진스는 전날 일본 도쿄 조조 마린스타디움에서 열린 '서머소닉 2023' 메인 스테이지에 올랐다. 뉴진스는 아직]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘인기가요’ BXB, 한 편의 청춘 드라마]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000907863</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003762395"/>
         <updated>2023-08-20T08:13:35.528Z</updated>
         <content type="html"><![CDATA[그룹 에이티즈(ATEEZ)가 눈을 뗄 수 없는 화끈한 매력으로 객석을 사로잡았다. 19일(현지시간) 미국 로스앤젤레스에서 열린 '케이콘 LA 2023(KCON LA 2023)'에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더보이즈vs뉴진스, ‘인기가요’ 1위 후보 대격돌]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000761741</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000761741"/>
-        <updated>2023-08-20T08:13:35.536Z</updated>
-        <content type="html"><![CDATA[더보이즈와 뉴진스가 '인기가요' 1위 후보에 올랐다. 8월 20일 방송된 SBS '인기가요' 8월 셋째 주 1위 후보에는 더보이즈 'LIP GLOSS'와 뉴진스 'Super Shy', 'ETA'가 올랐다. 이날 '인]]></content>
     </entry>
 </feed>
