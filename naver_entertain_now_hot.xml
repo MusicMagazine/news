@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2023-08-22T19:12:10.912Z</updated>
+    <updated>2023-08-22T20:16:59.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS ‘작은 것들을 위한 시’ 뮤비 17억뷰 돌파]]></title>
+        <id>https://entertain.naver.com/now/read?oid=081&amp;aid=0003386972</id>
+        <link href="https://entertain.naver.com/now/read?oid=081&amp;aid=0003386972"/>
+        <updated>2023-08-22T20:16:50.505Z</updated>
+        <content type="html"><![CDATA[그룹 방탄소년단(BTS)의 ‘작은 것들을 위한 시’ 뮤직비디오가 22일 유튜브 17억 뷰를 돌파했다. ‘작은 것들을 위한 시’는 BTS가 2019년 4월 발매한 미니 6집 ‘맵 오브 더 솔: 페르소나’의 타이틀곡으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위너 김진우, 처서맞이 가을남자 [화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001070601</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0004046953"/>
         <updated>2023-08-22T14:15:27.633Z</updated>
         <content type="html"><![CDATA[달빛 맹세-댕기 염원, 공중부양 키스-보라빛 약속. 짜릿짜릿, 오래오래 회자될 명 '애정신'의 탄생이다. 애절해서 더 슬프고, 비극이 예고되서 더 아름답다. 시청률 고공행진을 달리고 있는 MBC 금토드라마 '연인'과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원밀리언 리아킴, ‘스우파2’ 자신감↑ “세계 대회 우승... 정점 찍어본 사람”]]></title>
-        <id>https://entertain.naver.com/now/read?oid=009&amp;aid=0005176140</id>
-        <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0005176140"/>
-        <updated>2023-08-22T14:15:27.635Z</updated>
-        <content type="html"><![CDATA[‘스우파2’ 원밀리언 리더 리아킴이 자신감을 드러냈다. 22일 첫 방송된 Mnet 예능프로그램 ‘스트릿 우먼 파이터2’(이하 ‘스우파2’)에서는 ‘노 리스펙 약자 지목 배틀’에 임하는 8크루의 모습이 전파를 탔다.]]></content>
     </entry>
 </feed>
