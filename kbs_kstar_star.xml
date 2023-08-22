@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 02:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 03:13:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이찬원 팝업스토어, ‘원더랜드’ 오늘 오픈]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=277378</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=277378</guid>
+            <pubDate>Tue, 22 Aug 2023 03:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=277378">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230822114615_c7e15c1729be68eac028eed7712a6527.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=277378">이찬원 팝업스토어, ‘원더랜드’ 오늘 오픈</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230822114615_c7e15c1729be68eac028eed7712a6527.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[화보] 정유미 "미스터리한 잠" (보그 코리아)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=277117</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=274503">[화보] 뉴진스 하니, 매거진 ‘엘르’ 스페셜 커버 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230804095711_87de6a14062dd54f0c1b6d99c22cc3e3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 ‘프리다’ 개막... 프리다 칼로가 전하는 삶의 열정]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=274477</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=274477</guid>
-            <pubDate>Fri, 04 Aug 2023 01:00:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=274477">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230804090755_505c92d683ba39997d93e8ca4c5f4948.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=274477">뮤지컬 ‘프리다’ 개막... 프리다 칼로가 전하는 삶의 열정</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230804090755_505c92d683ba39997d93e8ca4c5f4948.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
