@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-08-23T20:12:27.122Z</updated>
+    <updated>2023-08-23T21:15:13.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘金공강’은 성공했는데…MZ 기자의 ‘ㅇㅁㄷ god’ 취소표 예매도전기 [SS연예프리즘]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000973470</id>
+        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000973470"/>
+        <updated>2023-08-23T21:14:57.292Z</updated>
+        <content type="html"><![CDATA[KBS 대기획 ‘ㅇㅁㄷ 지오디(god)’ 콘서트. 사진|KBS ‘국민그룹’ god의 맏형 박준형과 어머니가 동갑이다. 2000년 선풍적인 인기를 끌었던 MBC ‘목표달성! 토요일 - god의 육아일기’에 출연했던 재]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“내 사랑, 소영!” 신성, 소개팅녀 박소영과 댄스 한마당.. 눈에선 꿀이 뚝뚝 (신랑수업) [종합]]]></title>
         <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000973436</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000908632"/>
         <updated>2023-08-23T12:21:25.724Z</updated>
         <content type="html"><![CDATA[가수 예린이 23일 미니2집 ‘Ready, Set, LOVE(레디, 셋 러브)’를 네모 앨범으로 발매한다. 타이틀곡 밤밤밤(Bambambam)은 시티팝과 신스웨이브 디스코가 결합, 레트로 감성을 물씬 품기는 댄스곡이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2023 뉴시스 한류엑스포]권은비, 서울관광재단 대표이사상 "한류 일조하는 가수되겠다"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012047343</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0012047343"/>
-        <updated>2023-08-23T12:21:25.726Z</updated>
-        <content type="html"><![CDATA[그룹 '아이즈원' 출신 권은비가 '제5회 뉴시스 한류엑스포'에서 서울관광재단 대표이사상을 수상했다. 권은비는 23일 오후 서울 강남구 조선팰리스 강남서울에서 열린 '뉴시스 한류엑스포' 한류문화대상에서 한류에 기여한]]></content>
     </entry>
 </feed>
