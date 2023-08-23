@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-08-23T13:15:58.704Z</updated>
+    <updated>2023-08-23T14:12:05.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[피프티피프티, '국민 대통합 여론'이란 말 나오는 이유]]></title>
+        <id>https://v.daum.net/v/20230823222022964</id>
+        <link href="https://v.daum.net/v/20230823222022964"/>
+        <updated>2023-08-23T14:11:20.290Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 그룹 피프티 피프티를 향한 여론이 더욱 극으로 치닫고 있는 모양새다.&nbsp;편파 방송 논란에 휩싸인 SBS ‘그것이 알고 싶다’가 기름을 부었고 이에 연예계, 가요팬들 뿐 아니라 사회 전반 곳곳에서 피프티 피프티를 향한 강도 높은 비판의 목소리가 나오고 있다.&nbsp;통상 이슈가 되는 사회적 사안에는 대립각을 세우는 의견 마찰과 갈등, 이해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“불빛을 꺼뜨리지 마”…하이키, 마법 같은 희망의 주문]]></title>
         <id>https://v.daum.net/v/20230823221200870</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230823182207029"/>
         <updated>2023-08-23T10:12:06.134Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김지하 기자] 그룹 여자친구 출신 가수 예린이 팔색조 매력을 담은 새 앨범으로 돌아왔다. 예린의 두 번째 미니앨범 ‘레디, 셋, 러브’(Ready, Set, LOVE) 발매 기념 쇼케이스가 23일 오후 서울 광진구에 위치한 예스24 라이브홀에서 열렸다. 이날 행사의 진행은 코미디언 유재필이 맡았다. 지난 2021년 여자친구 활동을 마무리 지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데뷔 1년만에 세계무대로…르세라핌→아이브,4세대 걸그룹 월드투어 대첩]]></title>
-        <id>https://v.daum.net/v/20230823182016963</id>
-        <link href="https://v.daum.net/v/20230823182016963"/>
-        <updated>2023-08-23T10:12:06.134Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 정하은기자] K팝 시장을 쥐락펴락하는 4세대 대표 걸그룹들이 잇달아 월드투어 출사표를 던졌다. 데뷔 1~2년 만에 나란히 ‘밀리언셀러’ 반열에 오르며 고무적인 성장세를 보인 이들의 해외 시장 진출에 가요계 이목이 집중되고 있다. ‘피어리스’, ‘안티프래자일’, ‘언포기븐’, ‘이브, 프시케 그리고 푸른수염의 아내’ 등 강인함과 당당함을]]></content>
     </entry>
 </feed>
