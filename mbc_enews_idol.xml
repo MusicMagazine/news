@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 08:15:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 09:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포토] 예린, 밤밤밤 '천사소녀 네티' 룩]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/392230</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/392230</guid>
+            <pubDate>Wed, 23 Aug 2023 09:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/392230">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/08/23/90d0d271-bc4f-4c8b-9029-98898bb6cf80.jpg" alt="[포토] 예린, 밤밤밤 '천사소녀 네티' 룩">        <div class="text-box">            <p class="summary">[포토] 예린, 밤밤밤 '천사소녀 네티' 룩</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/08/23/90d0d271-bc4f-4c8b-9029-98898bb6cf80.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["레트로 도전 이유는…" 솔로 예린, 무지갯빛 머금은 '밤밤밤' [종합]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/392218</link>
@@ -86,14 +94,6 @@
             <pubDate>Wed, 23 Aug 2023 08:14:45 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/392216">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/08/23/3be5e596-5c28-48a1-90c9-d99767d55cc9.jpg" alt="[포토] 예린, 흑스완 볼하트">        <div class="text-box">            <p class="summary">[포토] 예린, 흑스완 볼하트</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/08/23/3be5e596-5c28-48a1-90c9-d99767d55cc9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 예린, 큐티 러블리]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/392214</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/392214</guid>
-            <pubDate>Wed, 23 Aug 2023 08:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/392214">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/08/23/4e9048df-0ca2-463f-998d-80c5e67c272d.jpg" alt="[포토] 예린, 큐티 러블리">        <div class="text-box">            <p class="summary">[포토] 예린, 큐티 러블리</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/08/23/4e9048df-0ca2-463f-998d-80c5e67c272d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
