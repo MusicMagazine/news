@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 00:48:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 02:20:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김세정 첫 단독 콘서트 ‘The 門’ ... "Sold Out"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=277649</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=277649</guid>
+            <pubDate>Thu, 24 Aug 2023 02:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=277649">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230824111048_b422aef425155ed5c4c6b0a47b91504e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=277649">김세정 첫 단독 콘서트 ‘The 門’ ... "Sold Out"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230824111048_b422aef425155ed5c4c6b0a47b91504e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름밤의 정국, ‘Seven (feat. Latto) - Alesso Remix’ 발표]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=277574</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=274431">방탄소년단 슈가,   Agust D TOUR ‘D-DAY’ THE FINAL  앙코르 콘서트</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230804074103_0e606998123df59db059e3ce197c7522.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스, 빌보드 차트 3곡 동시 진입]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=274329</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=274329</guid>
-            <pubDate>Thu, 03 Aug 2023 02:03:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=274329">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230803074754_570cb9f7efa5292cf16aa625c422681e.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=274329">뉴진스, 빌보드 차트 3곡 동시 진입</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230803074754_570cb9f7efa5292cf16aa625c422681e.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
