@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-08-25T20:16:33.657Z</updated>
+    <updated>2023-08-25T21:10:56.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“탈 신인급 커리어” 엔싸인 어떻게 日을 사로잡았나]]></title>
+        <id>https://v.daum.net/v/20230826055909817</id>
+        <link href="https://v.daum.net/v/20230826055909817"/>
+        <updated>2023-08-25T21:10:18.306Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 데뷔한 지 겨우 2주 차인 신인 그룹 엔싸인(n.SSign)이 별자리들이 연결돼 무한대의 우주로 나아간다는 뜻이 담긴 팀명처럼 무서운 기세로 성장 중이다. 이미 일본에서는 정식 데뷔 전부터 제프투어(Zepp Tour) 진행, 요코하마 아레나 공연, 교세라돔 입성 등으로 팬덤 화력을 증명했다. 오는 11월에는 일본 도쿄 아리아케 아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지효, ‘Killin’ Me Good’ MV 비하인드...매혹 카리스마]]></title>
         <id>https://v.daum.net/v/20230825232401118</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230825163628997"/>
         <updated>2023-08-25T09:14:11.936Z</updated>
         <content type="html"><![CDATA[경계가 무너지고, 장르와 장르가 서로에게 스며드는 시대. 누군가 말했다. “이젠 아티스트가 곧 장르인 시대”라고. 클래식 음악도 그들만의 성문을 열고 나온 지 오래다. 요즘 대중에게 큰 인기를 끌고 있는 방송사의 음악 오디션 프로그램들의 경우 성악가들을 빼면 아예 제작이 불가능할 정도다. 성악을 전공하고, 심지어 유럽 오페라 시장에서 주목 받던 정통 성]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고우림부터 배두훈까지…보컬 맛집 포레스텔라의 댄스라니]]></title>
-        <id>https://v.daum.net/v/20230825160442098</id>
-        <link href="https://v.daum.net/v/20230825160442098"/>
-        <updated>2023-08-25T09:14:11.939Z</updated>
-        <content type="html"><![CDATA[크로스오버 그룹 포레스텔라(Forestella)의 댄스 퍼포먼스에 많은 이들의 관심이 쏠렸다. 25일 iMBC연예 취재로 포레스텔라의 컴백 소식이 전해졌다. 조민규, 배두훈, 고우림, 강형호는 오는 9월 6일 신보를 발매한다. 소속사 비트인터렉티브 역시 "보도된 대로 컴백 일정과 콘셉트가 결정됐다"고 밝힌 상황. 특히 이번에는 포레스텔라의 전매특허인 4]]></content>
     </entry>
 </feed>
