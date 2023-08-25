@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-08-25T18:16:16.964Z</updated>
+    <updated>2023-08-25T19:11:47.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[보이넥스트도어, 엠넷서 컴백쇼…영화관서도 중계]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012051805</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0012051805"/>
+        <updated>2023-08-25T19:11:30.072Z</updated>
+        <content type="html"><![CDATA[문예빈 인턴 기자 = 그룹 '보이넥스트도어(BOYNEXTDOOR)'가 케이블 음악채널 엠넷(Mnet) M2 컴백쇼를 통해 전 세계 팬들을 만난다. 26일 소속사 KOZ엔터테인먼트 측에 따르면 보이넥스트도어는 내달 4]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전자바이올리니스트 미나 “팬들 박수와 환호성이 가장 큰 행복”]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000909170</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0012051676"/>
         <updated>2023-08-25T10:14:39.161Z</updated>
         <content type="html"><![CDATA[인천공항공사는 내달 16일부터 17일까지 양일간 인천공항 잔디광장에서 ‘2023 인천공항 스카이 페스티벌(SKY FESTIVAL)’을 개최한다고 25일 밝혔다. 올해로 19회째를 맞은 스카이 페스티벌은 K-POP,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[감성 싱송라’ 운찬, 신곡 ‘별’ 공개]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000909112</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000909112"/>
-        <updated>2023-08-25T10:14:39.162Z</updated>
-        <content type="html"><![CDATA[싱어송라이터 운찬이 자신만의 색채가 담긴 신곡으로 돌아왔다. 운찬은 25일 각종 음원사이트를 통해 디지털 싱글 ‘별’을 발매했다. ‘별’은 마치 우주선을 타고 유영하는 듯한 느낌의 트랙에 시를 읊는 듯한 운찬의 목소]]></content>
     </entry>
 </feed>
