@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-08-26T21:12:59.342Z</updated>
+    <updated>2023-08-26T22:10:48.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['한류 20년' 일본, K팝 인기 활활…4세대 아이돌 종횡무진]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0014153882</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0014153882"/>
+        <updated>2023-08-26T22:10:31.411Z</updated>
+        <content type="html"><![CDATA[안정적인 K팝 최대 해외 시장…아이브·에스파 등 TV·공연서 활약 한류 팬 10대까지 폭넓어져…한일 관계 개선·비자 완화 등 호재 한류 열풍이 시작된 지 20년을 맞은 일본에서 K팝의 위상이 더욱 높아지고 있다. 아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김구라 "승패 떠나 서로에 대한 호감 느껴"…'복면 듀엣' 누구?]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012052418</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=408&amp;aid=0000198844"/>
         <updated>2023-08-26T09:12:07.318Z</updated>
         <content type="html"><![CDATA[그룹 퍼플키스(PURPLE KISS)가 하이틴 콘셉트로 컴백한다. 퍼플키스(나고은, 도시, 이레, 유키, 채인, 수안)는 오는 9월 5일 오후 6시 각종 음원 사이트를 통해 싱글 1집 'FESTA'(페스타)를 발매한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴진스, 8월 가수 브랜드평판 1위]]></title>
-        <id>https://entertain.naver.com/now/read?oid=018&amp;aid=0005560041</id>
-        <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005560041"/>
-        <updated>2023-08-26T09:12:07.320Z</updated>
-        <content type="html"><![CDATA[뉴진스(사진=어도어) 그룹 뉴진스가 8월 가수 브랜드평판 1위에 올랐다. 한국기업평판연구소는 7월 26일부터 8월 26일까지의 가수 브랜드 빅데이터 1억2010만3200개를 대상으로 소비자들의 브랜드 참여, 미디어,]]></content>
     </entry>
 </feed>
