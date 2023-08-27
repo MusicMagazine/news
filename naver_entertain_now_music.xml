@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-08-27T11:15:02.683Z</updated>
+    <updated>2023-08-27T13:13:04.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[긍정과 부정 사이 "사생활 확인 불가"…달라진 '열애설' 대처법[초점S]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000447609</id>
+        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000447609"/>
+        <updated>2023-08-27T13:12:46.520Z</updated>
+        <content type="html"><![CDATA[연예계의 열애설 대처법이 달라졌다. 인정하거나, 부정하거나, 혹은 인정도 부정도 하지 않고 침묵을 지키던 과거와 달리 "사생활은 확인 불가"라는 새로운 답변이 등장하면서 열애설 대응도 '사지선다'가 됐다. 최근 연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[악뮤 이수현 "슬럼프에 은퇴 생각도..오빠 이찬혁이 용기 줘"[뉴스룸]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003177367</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003649994"/>
         <updated>2023-08-27T06:15:37.225Z</updated>
         <content type="html"><![CDATA['싱어송라이돌' 정세운이2023 팬미팅 '행운제'의 기대감을 높였다. 소속사 스타쉽엔터테인먼트는 최근 정세운 공식 SNS를 통해 오는 9월 16일과 17일 양일간 동덕여자대학교 백주년기념관에서 열릴 2023 팬미팅]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임영웅, 트로트 가수 8월 브랜드 평판 1위…2위 김호중·3위 영탁]]></title>
-        <id>https://entertain.naver.com/now/read?oid=416&amp;aid=0000298513</id>
-        <link href="https://entertain.naver.com/now/read?oid=416&amp;aid=0000298513"/>
-        <updated>2023-08-27T06:15:37.227Z</updated>
-        <content type="html"><![CDATA[임영웅이 8월 트로트 가수 브랜드평판 1위에 올랐다. 한국기업평판연구소는 트로트 가수 브랜드평판 빅데이터 분석을 위해 2023년 7월 27일부터 2023년 8월 27일까지 트로트 가수 브랜드 빅데이터 68,169,7]]></content>
     </entry>
 </feed>
