@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-08-27T16:17:15.215Z</updated>
+    <updated>2023-08-27T17:12:19.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가디언지 "K팝 걸그룹 英 정복나선다"…9월에만 4개팀 공연]]></title>
+        <id>https://v.daum.net/v/20230828020646565</id>
+        <link href="https://v.daum.net/v/20230828020646565"/>
+        <updated>2023-08-27T17:11:41.680Z</updated>
+        <content type="html"><![CDATA[(런던=연합뉴스) 최윤정 특파원 = 영국 가디언지는 27일(현지시간) 'K팝 걸그룹이 영국을 정복한다'는 제목으로 블랙핑크 하이드 파크 공연에 이어 9월에만 4개 팀이 런던에서 콘서트를 한다는 소식을 전했다. 블랙핑크는 7월 유명 음악축제인 '하이드 파크 브리티시 서머 타임 페스티벌'에 한국 가수로서 처음으로 헤드라이너(간판출연자)로 서는 기록을 세웠다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배너ㆍ악뮤ㆍ티아이오티ㆍ예린ㆍ시크릿넘버]]></title>
         <id>https://v.daum.net/v/20230827234606032</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230827141250522"/>
         <updated>2023-08-27T05:15:30.905Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 하이라이트 메인보컬 양요섭이 배우 남궁민, 안은진의 로맨스 드라마에 애절함을 더한다. OST 제작사 도너츠컬처 측은 8월 27일 MBC 금토드라마 '연인' 5번째 OST '연모(戀慕)'가 이날 오후 6시 각 음원 사이트를 통해 발매된다고 밝혔다. 남궁민, 안은진 주연의 '연인'은 회를 거듭할수록 뜨거워지는 시청자들의 관심 속]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데이식스 영케이, 한층 짙어진 분위기로 돌아온다]]></title>
-        <id>https://v.daum.net/v/20230827134559033</id>
-        <link href="https://v.daum.net/v/20230827134559033"/>
-        <updated>2023-08-27T05:15:30.907Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자] 밴드 DAY6(데이식스) 멤버 Young K(영케이)가 새 앨범 콘셉트 포토를 통해 한층 짙어진 분위기를 풍겼다.&nbsp; Young K는 오는 9월 4일 첫 번째 정규 앨범 'Letters with notes'(레터스 위드 노트)와 타이틀곡 '이것밖에는 없다'를 발매한다. JYP엔터테인먼트는 지난&nbsp;26일 공식 SNS 채널에 첫 번째]]></content>
     </entry>
 </feed>

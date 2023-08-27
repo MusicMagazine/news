@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-08-27T16:17:15.230Z</updated>
+    <updated>2023-08-27T17:12:19.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가디언지 "K팝 걸그룹 英 정복나선다"…9월에만 4개팀 공연]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0014154710</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0014154710"/>
+        <updated>2023-08-27T17:12:02.133Z</updated>
+        <content type="html"><![CDATA["영, K팝 걸그룹 스타일·성공 복제 못 해…특별함 있다는 뜻" 최윤정 특파원 = 영국 가디언지는 27일(현지시간) 'K팝 걸그룹이 영국을 정복한다'는 제목으로 블랙핑크 하이드 파크 공연에 이어 9월에만 4개 팀이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도경완 눈에는 오직 장윤정뿐...“내 눈에는 장윤정=한소희, 둘이 비슷해”(도장TV)]]></title>
         <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000974441</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003177331"/>
         <updated>2023-08-27T06:15:37.205Z</updated>
         <content type="html"><![CDATA[NCT(엔시티)가 단체 콘서트의 한국 공연을 성공적으로 마쳤다. NCT 단체 콘서트 'NCT NATION : To The World'(엔시티 네이션 : 투 더 월드)는 8월 26일 인천 문학경기장 주경기장에서 열렸으]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에스파, 美 애틀란타 공연도 성공적…북미 투어 연속 매진]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0004048436</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0004048436"/>
-        <updated>2023-08-27T06:15:37.222Z</updated>
-        <content type="html"><![CDATA[에스파(aespa)가 미국 애틀랜타 공연도 성황리에 마쳤다. 에스파는 8월 25일(현지시간) 미국 애틀랜타의 폭스 시어터(Fox Theatre)에서 'aespa LIVE TOUR 2023 'SYNK : HYPER L]]></content>
     </entry>
 </feed>
