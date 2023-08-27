@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-08-27T14:10:28.022Z</updated>
+    <updated>2023-08-27T16:17:15.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배너ㆍ악뮤ㆍ티아이오티ㆍ예린ㆍ시크릿넘버]]></title>
+        <id>https://v.daum.net/v/20230827234606032</id>
+        <link href="https://v.daum.net/v/20230827234606032"/>
+        <updated>2023-08-27T16:16:38.687Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 가요팀] 8월 넷째주(8월 21~27일)에는 다양한 가수의 신보가 있었다. 그룹 배너와 악뮤, 시크릿넘버가 새 앨범을 냈고, 그룹 여자친구 출신 예린도 새 앨범으로 활동을 시작했다. 그룹 티아이오티는 프리 데뷔 앨범을 내고 K팝 시장의 문을 두드렸다. ◆ 배너 - '베니 비디 비시'(VENI VIDI VICI) (발매일 8월 21일) 배너의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[악뮤 이수현 "슬럼프에 은퇴 생각도..오빠 이찬혁이 용기 줘"]]></title>
         <id>https://v.daum.net/v/20230827195501044</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230827134559033"/>
         <updated>2023-08-27T05:15:30.907Z</updated>
         <content type="html"><![CDATA[[OSEN=선미경 기자] 밴드 DAY6(데이식스) 멤버 Young K(영케이)가 새 앨범 콘셉트 포토를 통해 한층 짙어진 분위기를 풍겼다.&nbsp; Young K는 오는 9월 4일 첫 번째 정규 앨범 'Letters with notes'(레터스 위드 노트)와 타이틀곡 '이것밖에는 없다'를 발매한다. JYP엔터테인먼트는 지난&nbsp;26일 공식 SNS 채널에 첫 번째]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT 127 is back..정규 5집 10월 6일 발매 확정]]></title>
-        <id>https://v.daum.net/v/20230827133336907</id>
-        <link href="https://v.daum.net/v/20230827133336907"/>
-        <updated>2023-08-27T05:15:30.909Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] NCT 127(엔시티&nbsp;127,&nbsp;에스엠엔터테인먼트&nbsp;소속)이 컴백 일정을 확정하고 화려한 귀환을 알렸다. NCT 127은&nbsp;10월&nbsp;6일 정규&nbsp;5집 ‘Fact Check’(팩트체크)를 발표하고 하반기 글로벌 음악 시장을 뒤흔들 ‘NCT 127&nbsp;붐’을&nbsp;일으킬 예정이어서 전 세계 팬들의 뜨거운 관심이 예상된다. 앞서&nbsp;NCT 127은 지난&nbsp;]]></content>
     </entry>
 </feed>
