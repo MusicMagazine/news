@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2023-08-27T19:10:35.887Z</updated>
+    <updated>2023-08-27T20:18:17.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김새론·임영민·길, 기어코 철판 깐 음주운전자들[김노을의 선셋토크]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003177396</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003177396"/>
+        <updated>2023-08-27T20:18:08.553Z</updated>
+        <content type="html"><![CDATA[음주운전으로 물의를 빚고 자취를 감췄던 배우 배성우, 김새론, 가수 임영민, 길이 얼굴에 철판을 깔고 복귀에 시동을 걸었다. '잠재적 살인행위'라고 불릴 만큼 중대 범죄로 다뤄지는 음주운전자들을 바라보는 시선을 여전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[헬기 추락사고로 목숨 잃은 故 변영훈, 이른 나이에 떠난 안타까운 배우 [M+이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001764738</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000974438"/>
         <updated>2023-08-27T13:12:54.874Z</updated>
         <content type="html"><![CDATA[출처 | 유튜브 채널 ‘남보라의 인생극장’ 배우 남보라가 팬들의 궁금증에 솔직하게 답하는 시간을 가졌다. 지난 26일 남보라의 유튜브 채널 ‘남보라의 인생극장’에는 ‘남보라의 허심탄회 큐앤에이’라는 제목의 영상이 업]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["유재석만 자꾸 챙길꺼냐?" 박명수, 김태호PD에게 불평…'앵벌이' 제안 받았는 거절]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0004048611</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0004048611"/>
-        <updated>2023-08-27T13:12:54.876Z</updated>
-        <content type="html"><![CDATA[김태호PD가 '유재석만 챙긴다'는 박명수의 이야기에 '앵벌이'를 제안했다가 거절당했다고 밝혔다. 27일 유튜브 채널 '요정재형'에는 '요정 캐릭터 만들어준 태호랑 간만에 떠드는 무도 이야기'이라는 제목의 영상이 게재]]></content>
     </entry>
 </feed>

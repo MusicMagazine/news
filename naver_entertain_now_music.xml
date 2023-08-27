@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-08-27T19:10:35.886Z</updated>
+    <updated>2023-08-27T20:18:17.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[피프티 사태 정부가 나서나…유인촌 문체특보 연예단체 세 곳 면담]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012053249</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0012053249"/>
+        <updated>2023-08-27T20:18:00.060Z</updated>
+        <content type="html"><![CDATA['큐피드(CUPID)'로 영미권 싱글차트에 균열을 냈으나 내홍으로 활동을 잠정 중단한 K팝 신인 걸그룹 '피프티 피프티(FIFTY FIFTY·핍티핍티)'의 전속계약 분쟁으로 재점화된 대중음악계 탬퍼링(tamperin]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가디언지 "K팝 걸그룹 英 정복나선다"…9월에만 4개팀 공연]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0014154710</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000764216"/>
         <updated>2023-08-27T07:14:35.379Z</updated>
         <content type="html"><![CDATA[그룹 NCT(엔시티)가 단체 콘서트에서 대체 불가 브랜드 파워를 증명했다. 8월 26일 인천 문학경기장 주경기장에서 NCT 단체 콘서트 ‘NCT NATION : To The World’(엔시티 네이션 : 투 더 월드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7년간 꿈꿔온 '초대형 군무 맛집'..'NCT NATION' 韓 공연 대성황]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003177331</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003177331"/>
-        <updated>2023-08-27T06:15:37.205Z</updated>
-        <content type="html"><![CDATA[NCT(엔시티)가 단체 콘서트의 한국 공연을 성공적으로 마쳤다. NCT 단체 콘서트 'NCT NATION : To The World'(엔시티 네이션 : 투 더 월드)는 8월 26일 인천 문학경기장 주경기장에서 열렸으]]></content>
     </entry>
 </feed>
