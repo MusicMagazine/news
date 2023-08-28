@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 22:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 23:12:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뷔, 'Layover' 세 번째 콘셉트 포토 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=278202</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=278202</guid>
+            <pubDate>Mon, 28 Aug 2023 23:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=278202">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230829072652_d228e4efed8cf8d9623fec15fcc9ca5e_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=278202">뷔, 'Layover' 세 번째 콘셉트 포토 공개  </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230829072652_d228e4efed8cf8d9623fec15fcc9ca5e_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[뷔, 'Layover' 수록곡 'Blue' MV 2차 티저 공개]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=277719</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=274820">투모로우바이투게더,  美 '롤라팔루자'서 헤드라이너 … 시카고에 울려퍼진 '떼창'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230807074741_ac08f1bf1b8d65e71217b0a29370ce2d.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스, 美 ‘롤라팔루자 시카고’ 무대 ...12곡 라이브에 7만 명 '열광']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=274658</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=274658</guid>
-            <pubDate>Fri, 04 Aug 2023 23:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=274658">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230805072421_fc26a4b0c0425be2ae07f68ec1d41f93.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=274658">뉴진스, 美 ‘롤라팔루자 시카고’ 무대 ...12곡 라이브에 7만 명 '열광'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230805072421_fc26a4b0c0425be2ae07f68ec1d41f93.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
