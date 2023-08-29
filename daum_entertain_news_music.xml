@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-08-29T02:50:09.326Z</updated>
+    <updated>2023-08-29T03:16:55.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트와이스, 초대형 스타디움 공연 4회 추가…월드투어 누적 100만 기대]]></title>
+        <id>https://v.daum.net/v/20230829115411375</id>
+        <link href="https://v.daum.net/v/20230829115411375"/>
+        <updated>2023-08-29T03:16:16.958Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 그룹 트와이스가 초대형 스타디움 공연 4회를 추가했다. JYP엔터테인먼트는 29일 0시 '트와이스 다섯 번째 월드투어 '레디 투 비('TWICE 5TH WORLD TOUR 'READY TO BE')'의 3차 플랜 포스터를 게재하고 추가 개최 지역을 발표했다. 이에 따르면 트와이스는 오는 11월 4일(이하 현지시간) 호주]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피프티 피프티, 소속사로 돌아갈까…이제 결단 내릴 때]]></title>
+        <id>https://v.daum.net/v/20230829115006227</id>
+        <link href="https://v.daum.net/v/20230829115006227"/>
+        <updated>2023-08-29T03:16:16.958Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 명희숙 기자) 법원이 피프티 피프티의 전속계약 효력정지 가처분을 기각했다. 사실상 소속사 어트랙트의 손을 들어준 것으로, 이후 피프티 피프티의 활동 방향에도 궁금증이 더해지고 있다.&nbsp; 지난 28일 서울중앙지방법원 제50민사부는 피프티 피프티(새나, 아란, 키나, 시오)가 소속사 어트랙트를 상대로 낸 전속계약 효력정지 가처분 신청을 기각했다.&nbsp;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['데뷔 25주년' 박기영, 오늘 첫 일렉트로닉 정규 앨범 발표]]></title>
         <id>https://v.daum.net/v/20230829113724693</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230829110305708"/>
         <updated>2023-08-29T02:49:29.918Z</updated>
         <content type="html"><![CDATA[하이브가 K팝 아이돌 육성 시스템을 앞세워 미국 음악 시장에 도전장을 던졌다. 이러한 방식은 현재 JYP엔터테인먼트에서 'A2K 프로젝트'라는 이름으로 먼저 선보이고 있는데, 하이브 역시 후발주자로 뛰어들며 해외 진출의 새 패러다임을 주도하게 될지 귀추가 주목된다. 하이브 x 게펜 레코드는 28일(현지시간) 미국 LA 산타모니카에 위치한 IGA Studi]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["12개 지역 출신+평균 연령 17세"…하이브·게펜 걸그룹 데뷔 프로젝트, 6000대 1 뚫은 연습생 전격 공개]]></title>
-        <id>https://v.daum.net/v/20230829110246631</id>
-        <link href="https://v.daum.net/v/20230829110246631"/>
-        <updated>2023-08-29T02:49:29.919Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 박윤진 기자] K팝 시스템을 접목한 글로벌 걸그룹이 오는 11월 탄생한다. 하이브와 유니버셜뮤직그룹(UMG) 산하 레이블 게펜 레코드의 합작 법인 '하이브 X 게펜 레코드'는 29일 오전 9시(한국시간) 미국 로스앤젤레스(LA) 산타모니카에 위치한 IGA 스튜디오에서 글로벌 걸그룹 오디션 프로젝트 '더 데뷔: 드림아카데미' 기자간담회를 열]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하이브, 美서 '6천대 1' 경쟁률 뚫은 글로벌 걸그룹 후보 공개]]></title>
-        <id>https://v.daum.net/v/20230829110022158</id>
-        <link href="https://v.daum.net/v/20230829110022158"/>
-        <updated>2023-08-29T02:49:29.920Z</updated>
-        <content type="html"><![CDATA[(샌타모니카[미 캘리포니아]=연합뉴스) 임미나 특파원 = 그룹 방탄소년단(BTS)의 소속사 하이브가 세계적인 음반회사 유니버설뮤직그룹(UMG)과 손잡고 제작하는 글로벌 걸그룹의 후보군을 29일(현지시간) 미국에서 공개했다. 하이브와 UMG의 합작 법인 '하이브 x 게펜 레코드'는 이날 로스앤젤레스 인근 샌타모니카에 있는 게펜 레코드 스튜디오에서 기자간담회를]]></content>
     </entry>
 </feed>
