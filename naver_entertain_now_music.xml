@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-08-30T15:15:51.228Z</updated>
+    <updated>2023-08-30T16:15:18.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['컴백' 하이키, 역주행 딛고 정주행 노린다 '불빛을 꺼뜨리지 마' 첫무대]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003765791</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003765791"/>
+        <updated>2023-08-30T16:15:02.134Z</updated>
+        <content type="html"><![CDATA[걸그룹 하이키가 30일 오후 서울 한남동 블루스퀘어에서 진행된 두 번째 미니앨범 '서울 드리밍(Seoul Dreaming)' 발매 쇼케이스에서 더블 타이틀곡 '불빛을 꺼뜨리지 마(Time to Shine)'의 멋진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[나의 인생곡(135)] 최병걸 '난 정말 몰랐었네', 추억 속의 명곡]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000235751</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000910037"/>
         <updated>2023-08-30T13:15:17.331Z</updated>
         <content type="html"><![CDATA[신예 아이돌그룹 판타지 보이즈(FANTASY BOYS)가 개인 프로필 영상으로 신선한 충격을 안긴다. 판타지 보이즈는 30일 저녁 7시 일본 아베마 유튜브, 31일 자정 공식 유튜브 채널을 통해 개인 프로필 영상을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘쇼챔피언’ 스테이씨, 믿고 듣는 틴프레시 ‘Bubble’]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000910036</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000910036"/>
-        <updated>2023-08-30T13:15:17.332Z</updated>
-        <content type="html"><![CDATA[걸그룹 스테이씨(STAYC)가 통통 튀는 틴프레시 에너지를 선사했다. 스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)는 30일 방송된 MBC M ‘쇼! 챔피언’에서 세 번째 미니앨범 ‘TEENFRESH (틴프레시]]></content>
     </entry>
 </feed>
