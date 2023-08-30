@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2023-08-30T16:15:18.868Z</updated>
+    <updated>2023-08-30T17:11:38.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조아람 “나는 탱탱볼 같은 사람” [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001072155</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0001072155"/>
+        <updated>2023-08-30T17:11:30.003Z</updated>
+        <content type="html"><![CDATA[조아람의 힙하고 키치한 매력이 담긴 화보가 공개돼 눈길을 끈다. 조아람은 지난 28일 패션 매거진 코스모폴리탄을 통해 화보와 인터뷰를 공개했다. 세련된 비주얼과 분위기를 압도하는 짙은 눈빛까지 다채로운 매력 카리스마]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['김주하 동기' 김혜은, 유준상-김상중 '몸매 관리법' 따라해('무장해제')]]></title>
         <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0004049663</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0005179816"/>
         <updated>2023-08-30T14:11:28.810Z</updated>
         <content type="html"><![CDATA[‘나는 솔로’ 16기 영식과 현숙이 서로에 대한 호감을 알아갔다. 30일 방송된 ENA PLAY(이엔에이플레이)와 SBS PLUS의 리얼 데이팅 프로그램 ‘나는 SOLO’에서는 16기 영식과 현숙이 데이트를 하는 모]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“했다 하면 성공” 이준기, 과거 연예인병 고백→“여동생과 지금도 같이 살아” (유퀴즈) [종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000975370</id>
-        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000975370"/>
-        <updated>2023-08-30T14:11:28.824Z</updated>
-        <content type="html"><![CDATA[배우 이준기가 연예인병에 걸렸던 사실을 고백했다. 30일 방송된 tvN ‘유 퀴즈 온 더 블럭’에는 이준기가 게스트로 출연했다. 이준기는 신인이었을 당시 3000 대 1 경쟁률을 뚫고 영화 ‘왕의 남자’의 ‘공길’]]></content>
     </entry>
 </feed>
