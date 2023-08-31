@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-08-31T18:18:08.894Z</updated>
+    <updated>2023-08-31T19:09:24.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[3년 만에 돌아온 ‘하트시그널4’… “2023년식 연애는 이런 것”]]></title>
+        <id>https://v.daum.net/v/20230901040721605</id>
+        <link href="https://v.daum.net/v/20230901040721605"/>
+        <updated>2023-08-31T19:08:53.213Z</updated>
+        <content type="html"><![CDATA[연애에도 시대상이 있다. 매력적인 이성의 표본도, 이성을 유혹하는 플러팅의 문법도 달라진다. 팬데믹 후 3년이 지났는데 그사이에도 연애는 변화했다. 자신의 감정에 솔직한 MZ세대의 연애는 더 과감하고 거침이 없어졌다. 6년 전, 연애 추리게임이라는 새로운 포맷의 연애 리얼리티 프로그램 ‘하트시그널’이 시즌4로 3년 만에 돌아왔다. 청춘남녀 8명이 시그널]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['문특' INFP의 연애조사..."데이트 후 전화하지마...이미 충분히 흥분했어"]]></title>
         <id>https://v.daum.net/v/20230901021730166</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230831230545106"/>
         <updated>2023-08-31T14:12:31.636Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 김수현기자] 박태환 조현아가 은근한 핑크빛 기류로 MC들을 경계하게 했다. 31일 방송된 MBC '구해줘! 홈즈'에서는 방송인 한석준과 박나래 그리고 가수 조현아와 전 국가대표 수영선수 박태환이 각각 매물 찾기에 나섰다. KBS 공채 아나운서 출신으로 프리 선언을 한 후 다양한 예능에서 활약]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박태환 "조현아, 매력있어"…간장게장 담그는 요리 실력에 깜짝]]></title>
-        <id>https://v.daum.net/v/20230831225721026</id>
-        <link href="https://v.daum.net/v/20230831225721026"/>
-        <updated>2023-08-31T14:12:31.648Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = 전 수영 국가대표 박태환이 가수 조현아의 요리 실력에 감탄했다. 31일 오후 10시에 방송된 MBC 예능 프로그램 '구해줘! 홈즈'에서는 파주, 남양주에서 반려견과 함께 살 집 찾기에 나섰다. 이날 동갑내기 박태환, 조현아가 덕팀 인턴 코디로 출격했다. 박태환은 의뢰인을 위한 집의 주방을 소개하며 조현아에게 요리 실력에]]></content>
     </entry>
 </feed>
