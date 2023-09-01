@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-09-01T19:10:26.228Z</updated>
+    <updated>2023-09-01T21:12:23.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['마약 투약' 남태현 "여긴 지옥인가"..음악활동 재개 예고]]></title>
+        <id>https://v.daum.net/v/20230902054101099</id>
+        <link href="https://v.daum.net/v/20230902054101099"/>
+        <updated>2023-09-01T21:11:42.175Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 한해선 기자] /사진=유튜브 '채널 남태현' 영상 캡처 필로폰 투약 혐의로 불구속 기소됐던 가수 남태현이 유튜브를 2년 만에 재개, 갱생의 의지를 밝혔다. 1일 유튜브 '채널 남태현'에는 ''나는 남태현이다' 첫 번째 이야기'라는 제목으로 영상이 올라왔다. 그는 이날 "유튜브 다시 시작합니다"라고 알렸다. 영상 속 남태현은 어딘가는 향해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['3인조' 된 FT아일랜드, 7일 컴백...어느새 30대가 된 오빠들]]></title>
         <id>https://v.daum.net/v/20230902040400708</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230901161109609"/>
         <updated>2023-09-01T07:11:47.752Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 인디팝 듀오 1415(주성근, 오지현)가 밴드 데이식스(DAY6) 멤버 영케이(Young K)가 진행하는 라디오에 출연한다. 1415 소속사 유니버설뮤직 측은 9월 1일 "1415가 2일 오후 10시 방송되는 KBS 쿨FM ‘데이식스의 키스 더 라디오’(데키라)에 출연한다"고 밝혔다. 1415는 8월 23일 약 1년 8개월의 공백을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권은비, 10월 단독 콘서트 개최]]></title>
-        <id>https://v.daum.net/v/20230901160213341</id>
-        <link href="https://v.daum.net/v/20230901160213341"/>
-        <updated>2023-09-01T07:11:47.754Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] 권은비, 10월 단독 콘서트 개최 [공식] 가수 권은비가 오는 10월 단독 콘서트를 연다. 소속사 울림엔터테인먼트는 1일 오후 2시 공식 SNS를 통해 '2023 권은비 세 번째 콘서트 '퀸'(2023 KWON EUNBI 3rd CONCERT 'QUEEN')'(이하 '퀸') 개최를 발표했다. 이에 따르면 권은비는 오는 10월 7일과 8일 양일]]></content>
     </entry>
 </feed>
