@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-09-03T02:23:01.126Z</updated>
+    <updated>2023-09-03T03:13:22.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘음악중심’ 스테이씨, ‘Bubble’→‘I Wanna Do’로 6色 에너지X위로 전달]]></title>
+        <id>https://v.daum.net/v/20230903120505504</id>
+        <link href="https://v.daum.net/v/20230903120505504"/>
+        <updated>2023-09-03T03:12:46.722Z</updated>
+        <content type="html"><![CDATA[걸그룹 스테이씨(STAYC)가 틴프레시 페스티벌의 열기를 이어간다. 스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)는 지난 2일 방송된 MBC ‘쇼! 음악중심’에 출연해 세 번째 미니앨범 ‘TEENFRESH (틴프레시)’의 타이틀곡 ‘Bubble (버블)’과 수록곡 ‘I Wanna Do (아이 워너 두)’ 무대를 선보였다. 여섯 색의 틴프레시 매]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[젬마, '힙하게' OST 가창+작사..오늘 'We Disappear' 발매]]></title>
         <id>https://v.daum.net/v/20230903110707566</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230903055000997"/>
         <updated>2023-09-02T23:12:09.277Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 문완식 기자] 가수 이찬원이 포항의 일요일을 뜨겁게 달군다. 이찬원은 3일 오후 7시 30분 경북 포항시 남구 포스코협동스포츠랜드에서 열리는 '2023 기업시민 포스코 콘서트 FALL IN 트로트'에 출연, 무대를 펼친다. 이날 행사에는 이찬원을 비롯해 양지은, 은가은, 전유진, 정동원 등 미스&amp;미스터트롯 경연 출신 가수들이 함께 출연]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“익숙한데 새로워” 뉴진스→백호·정동원 리메이크 바람]]></title>
-        <id>https://v.daum.net/v/20230903041913670</id>
-        <link href="https://v.daum.net/v/20230903041913670"/>
-        <updated>2023-09-02T20:15:35.726Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 가요계에 리메이크 열풍이 이어지고 있다. 발라드부터 록, 댄스, 트로트까지 다양한 장르의 명곡들이 재해석 되고 있다. 뉴진스는 지난 9월 1일 각종 음원사이트에 넷플릭스 시리즈 ‘너의 시간 속으로’ OST ‘아름다운 구속’을 공개했다. 이 곡은 1996년 나온 김종서의 ‘아름다운 구속’을 뉴진스가 리메이크한 버전으로, 몽환적 사운]]></content>
     </entry>
 </feed>
