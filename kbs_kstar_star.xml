@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Sep 2023 23:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Sep 2023 02:23:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 ‘벤허’ 오늘 세 번째 시즌 개막... "장대한 스타일, 뜨거운 감동"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=278906</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=278906</guid>
+            <pubDate>Sun, 03 Sep 2023 02:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=278906">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230902092313_baf033a931228d85d467ff2864d8aa1b_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=278906">뮤지컬 ‘벤허’ 오늘 세 번째 시즌 개막... "장대한 스타일, 뜨거운 감동"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230902092313_baf033a931228d85d467ff2864d8aa1b_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SLL 신규 웹예능 ‘PROJECT 10K’ 론칭.. 엔싸인, 도쿄 아리아케 아레나 관객 만들기 프로젝트]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=278860</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=275029">'콘텐트리중앙'  상반기 실적 호전, "SLL+메가박스 수익성 개선"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230808110938_24d3d57f1f2b3f8d06485d8d85b6e96d_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[화보] 한효주, "초인 이미현 변신합니다" (매거진 더블유)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=275013</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=275013</guid>
-            <pubDate>Tue, 08 Aug 2023 02:00:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=275013">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230808105300_6ce228a1df1fa003712420b202de80cb.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=275013">[화보] 한효주, "초인 이미현 변신합니다" (매거진 더블유)</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230808105300_6ce228a1df1fa003712420b202de80cb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
