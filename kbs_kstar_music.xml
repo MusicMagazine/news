@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 02:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 03:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김세정, 첫 정규 앨범 ‘문(門)’ 오늘 발매]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=279151</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=279151</guid>
+            <pubDate>Mon, 04 Sep 2023 03:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=279151">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230904112445_e07ce796e2a3c72dc7f22ffc93422a77.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=279151">김세정, 첫 정규 앨범 ‘문(門)’ 오늘 발매</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230904112445_e07ce796e2a3c72dc7f22ffc93422a77.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[정용화, 6년 만 국내 솔로 컴백..  미니 2집 ‘YOUR CITY’]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=279118</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=275007">김세정, 첫 단독 콘서트 ‘The 門’ .. 9월 서울에서 시작</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230808094936_bc45ae343d85a72476301a7dcae4cbf6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스, "Super Shy, Super Power!"... 국내 주요 차트 석권]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=274993</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=274993</guid>
-            <pubDate>Tue, 08 Aug 2023 01:01:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=274993">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230808094636_9d733a3553be5f1ed43dcad044009c5e_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=274993">뉴진스, "Super Shy, Super Power!"... 국내 주요 차트 석권</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230808094636_9d733a3553be5f1ed43dcad044009c5e_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
