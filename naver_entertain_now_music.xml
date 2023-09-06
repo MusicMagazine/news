@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-09-06T17:13:20.407Z</updated>
+    <updated>2023-09-06T19:10:53.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[잔나비 최정훈 눈앞서 무너져버린 빙하…'지구 위 블랙박스']]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012074553</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0012074553"/>
+        <updated>2023-09-06T19:10:34.999Z</updated>
+        <content type="html"><![CDATA[최령 인턴 기자 = 밴드 '잔나비' 최정훈이 KBS 공사창립 50주년 대기획 '지구 위 블랙박스' 기획으로 맨땅을 드러낸 남극에서 펼치는 퍼포먼스 영상이 공개됐다. '지구 위 블랙박스'는 기후변화로 파괴돼 가는 국내]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴진스 '슈퍼 샤이', 빌보드 '핫100' 8주 차트인…자체최장 경신]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012074503</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=052&amp;aid=0001932427"/>
         <updated>2023-09-06T10:17:05.954Z</updated>
         <content type="html"><![CDATA[그룹 보이넥스트도어(BOYNEXTDOOR)가 컴백과 동시에 한국, 일본 음반 차트 1위를 휩쓸었다. 지난 4일자 일본 오리콘 차트에 따르면, 보이넥스트도어의 미니 1집 '와이(WHY)..'는 발매 첫날 3만 91장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘드림아카데미’ 위버스⋅유튜브서 동시 팬투표···상위 6명엔 탈락 면제권]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000911437</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000911437"/>
-        <updated>2023-09-06T10:17:05.955Z</updated>
-        <content type="html"><![CDATA[하이브와 게펜 레코드가 함께 진행하는 글로벌 걸그룹 오디션 프로그램 ‘더 데뷔: 드림아카데미(The Debut: Dream Academy)’의 팬 투표 방식이 공개됐다. 하이브가 6일(이하 한국시간) 팬덤 라이프 플]]></content>
     </entry>
 </feed>
