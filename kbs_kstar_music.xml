@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 21:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Sep 2023 00:52:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뷔, 솔로앨범 'Layover' 콘셉트 포토...  "바다, 햇살 그리고 김태형"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=279576</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=279576</guid>
+            <pubDate>Wed, 06 Sep 2023 00:51:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=279576">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230906083928_606666a2cd56b88e64499055b4be1f28.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=279576">뷔, 솔로앨범 'Layover' 콘셉트 포토...  "바다, 햇살 그리고 김태형" </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230906083928_606666a2cd56b88e64499055b4be1f28.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[김세정, 첫 정규 앨범 ‘문(門)’ 오늘 발매]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=279151</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=275193">"9월 뷔!" 방탄소년단 뷔, 9월 8일 첫 솔로 앨범 ‘Layover’ 발매… 타이틀곡은 ‘Slow Dancing’</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230808111848_e403a19b828979bc3491bd15532e8dfe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김세정, 첫 단독 콘서트 ‘The 門’ .. 9월 서울에서 시작]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=275007</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=275007</guid>
-            <pubDate>Tue, 08 Aug 2023 01:01:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=275007">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230808094936_bc45ae343d85a72476301a7dcae4cbf6.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=275007">김세정, 첫 단독 콘서트 ‘The 門’ .. 9월 서울에서 시작</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230808094936_bc45ae343d85a72476301a7dcae4cbf6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
