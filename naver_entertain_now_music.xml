@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-09-07T18:19:34.623Z</updated>
+    <updated>2023-09-07T20:14:57.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인피니트, 속고 속인다…'라이어 게임' 승자는?]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012077119</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0012077119"/>
+        <updated>2023-09-07T20:14:40.087Z</updated>
+        <content type="html"><![CDATA[고인혜 인턴 기자 = 그룹 인피니트가 라이어 게임으로 승부를 겨룬다. 지난 6일 오후 7시 인피니트 컴퍼니는 공식 유튜브 채널을 통해 인피니트의 단독 리얼리티 프로그램 '인피니트 컴퍼니' 6화 예고편을 공개했다. 지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[내가 본 '이채연'①] 외유내유? 천만에! 미안하다 잘못 봤다]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000237428</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000957388"/>
         <updated>2023-09-07T12:22:07.058Z</updated>
         <content type="html"><![CDATA[씨엔블루 정용화가 6년 만 솔로 컴백과 함께 예능 프로그램에 출격한다. 6일 KBS2 ‘살림하는 남자들 시즌2’(이하 ‘살림남’) 제작진 측은 “씨엔블루(CNBLUE) 정용화가 ‘3호 살림돌’로 합류한다”라고 밝혔다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[심규선, 오늘(7일) 인기 웹툰 ‘화산귀환’ OST ‘꽃불’ 발매]]></title>
-        <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003299438</id>
-        <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003299438"/>
-        <updated>2023-09-07T12:22:07.060Z</updated>
-        <content type="html"><![CDATA[싱어송라이터 심규선이 깊은 감성을 담아 인기 웹툰 ‘화산귀환’의 4번째 주제곡을 부른다. 심규선은 7일 오후 6시 각종 온라인 음원사이트를 통해 공개된 네이버웹소설 전체 1위 ‘화산귀환’ 원작의 동명 웹툰 OST ‘]]></content>
     </entry>
 </feed>

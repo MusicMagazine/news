@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2023-09-07T18:19:34.616Z</updated>
+    <updated>2023-09-07T20:14:58.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS 정국 ‘세븐’ 빌보드 7주째 1위]]></title>
+        <id>https://entertain.naver.com/now/read?oid=081&amp;aid=0003391468</id>
+        <link href="https://entertain.naver.com/now/read?oid=081&amp;aid=0003391468"/>
+        <updated>2023-09-07T20:14:48.536Z</updated>
+        <content type="html"><![CDATA[그룹 방탄소년단(BTS) 정국의 글로벌 히트곡 ‘세븐’이 미국 빌보드 ‘글로벌 200’과 ‘글로벌’(미국 제외)에서 아시아 가수의 곡으로는 처음 7주 연속 정상을 지켰다. K팝 솔로 가수로는 올해 최장 차트인 기록이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정우연, 김히어라·이아진 '성희롱 논란' 피해? "불쾌감 無 오해 없길"[전문]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003180103</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0004052911"/>
         <updated>2023-09-07T14:18:15.788Z</updated>
         <content type="html"><![CDATA[전 야구선수 이대호가 딸 예서의 비주얼을 가감없이 언급했다. 7일 방송된 MBC 예능프로그램 '구해줘! 홈즈'에서는 홀리뱅의 리더 허니제이, 양세형, 이대호, 박태환이 매물 찾기에 나섰다. 이날 이대호는 예서를 언급]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1기 정식, 9기 현숙과 데이트 중 개물림 사고 "개 네 마리 케어만 매달 280" ('나솔사계')[종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0004052910</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0004052910"/>
-        <updated>2023-09-07T14:18:15.789Z</updated>
-        <content type="html"><![CDATA['나솔사계' 1가 정식이 알레르기약까지 먹으며 9기 현숙과 '상犬(견)례'를 했다. 7일 방송된 SBS PLUS, ENA '나는 솔로 그 후, 사랑은 계속된다'에서는 솔로 민박을 벗어나 현실 데이트를 하는 커플들의]]></content>
     </entry>
 </feed>
