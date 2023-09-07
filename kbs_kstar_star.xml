@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 05:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 10:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빅스 켄, 뮤지컬 '22년 2개월' 첫 무대...  항일독립운동가 박열 열연]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=279747</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=279747</guid>
+            <pubDate>Thu, 07 Sep 2023 10:12:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=279747">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230907142109_83cce85dbfcc00b89b698912d33c64f3.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=279747">빅스 켄, 뮤지컬 '22년 2개월' 첫 무대...  항일독립운동가 박열 열연</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230907142109_83cce85dbfcc00b89b698912d33c64f3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘마스크걸’ 신예서, 에이스팩토리 전속계약...  김모미 딸 김미모 역]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=279211</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=276151">[화보] "영재는 근무 중"   (Y매거진)</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230814135613_80be12ea975466caa0fb97a3e7b28d86.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2년 만에 돌아온 웰메이드 창작 뮤지컬 <문스토리>, 캐스팅 공개!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=275514</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=275514</guid>
-            <pubDate>Sun, 13 Aug 2023 23:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=275514">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230814075848_b376f6a76798be7a389d9c215ce49660.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=275514">2년 만에 돌아온 웰메이드 창작 뮤지컬 &lt;문스토리&gt;, 캐스팅 공개!</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230814075848_b376f6a76798be7a389d9c215ce49660.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
