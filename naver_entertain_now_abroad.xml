@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2023-09-08T18:14:50.652Z</updated>
+    <updated>2023-09-08T20:14:02.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["美 테일러 스위프트 공연 지역 호텔 평균 수입 7％ 증가"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0014181475</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0014181475"/>
+        <updated>2023-09-08T20:14:01.171Z</updated>
+        <content type="html"><![CDATA[투자회사 분석 보고서…"스위프트노믹스, 세계적 파급 예상" 임미나 특파원 = 미국에서 인기 절정인 팝스타 테일러 스위프트의 공연에 따른 경제 효과가 해당 주(州)의 평균 호텔 수입을 실질적으로 올릴 정도라는 분석 보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올리비아 로드리고, 일하면서 대학 학점 'A+' 받아...'엄친딸' 그 자체 [할리웃통신]]]></title>
         <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001269343</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000957511"/>
         <updated>2023-09-08T10:12:57.081Z</updated>
         <content type="html"><![CDATA[걸그룹 있지(ITZY) 유나가 8일 오후 서울 성동구 성수동 코사이어트 서울숲에서 진행된 캐나다구스 포토행사에 참석해 포즈를 취하고 있다. 이날 행사에는 배우 정해인, 강민혁, 보이 그룹 몬스타엑스 셔누, 걸그룹 있]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[있지 채령 ‘점점 더 예뻐지네’ [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000957510</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000957510"/>
-        <updated>2023-09-08T10:12:57.085Z</updated>
-        <content type="html"><![CDATA[걸그룹 있지(ITZY) 채령이 8일 오후 서울 성동구 성수동 코사이어트 서울숲에서 진행된 한 브랜드 포토행사에 참석해 포즈를 취하고 있다. 이날 행사에는 배우 정해인, 강민혁, 보이 그룹 몬스타엑스 셔누, 걸그룹 있]]></content>
     </entry>
 </feed>
