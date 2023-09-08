@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-09-08T15:13:52.396Z</updated>
+    <updated>2023-09-08T16:16:56.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스포티파이, 올해 힙합 50주년 기념하며 한국 힙합씬 소개]]></title>
+        <id>https://v.daum.net/v/20230909010930651</id>
+        <link href="https://v.daum.net/v/20230909010930651"/>
+        <updated>2023-09-08T16:16:10.409Z</updated>
+        <content type="html"><![CDATA[오디오·음원 스트리밍  플랫폼 ‘스포티파이(Spotify)’가 힙합  장르의 탄생 50주년을 기념해  글로벌 캠페인을 진행했다. 그 일환으로 세계  각국의 상징적인 힙합  장소를 다룬 애니메이션  시리즈를 공개하고 이를  통해 한국 힙합씬을  조명했다. 스포티파이는  힙합의 기념비적인 해를  축하하기 위해 지난 5월부터 ‘역대 가장 위대한 힙합 비트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뷔, 민희진과 2가지 편견 깬 '특별한 경유']]></title>
         <id>https://v.daum.net/v/20230909000114314</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230908164959088"/>
         <updated>2023-09-08T08:14:32.319Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 밴드 데이식스(DAY6) 멤버 영케이(Young K)가 컴백 나흘 만에 커리어 하이를 달성했다. 음반 집계 사이트 한터차트에 따르면 영케이 정규 1집 'Letters with notes'(레터스 위드 노트) 실물 음반 판매량은 9월 7일 오후 기준 3만 6,200장을 돌파했다. 초동 앨범 판매량(앨범 발매 첫 주 앨범 판매량) 집계]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘인생 쓰네…’ 코요태 빽가 “김포 아파트 2~3채 팔아 재력가 지인에 투자맡겼다 모두 날려”]]></title>
-        <id>https://v.daum.net/v/20230908164626018</id>
-        <link href="https://v.daum.net/v/20230908164626018"/>
-        <updated>2023-09-08T08:14:32.320Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 박효실기자] 그룹 코요태 출신 빽가가 아는 형에게 투자금을 맡겼다가 전액을 날린 사연을 털어놨다. 8일 방송된 SBS파워FM ‘두시 탈출 컬투쇼’에서 개그맨 김수용과 가수 빽가가 쓰디쓴 투자 실패 경험을 공유했다. 김수용은 연예계에 대표적인 ‘주식 똥손’ 지석진, 김용만에 대해 이야기를 꺼냈다. 그는 “보통 주식을 반토막 났다고 하는데]]></content>
     </entry>
 </feed>
