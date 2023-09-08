@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 23:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 01:46:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴진스, 미국 롤링스톤 특별화보집 ‘Zine’.. .눈부신 완전체 아우라!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=279880</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=279880</guid>
+            <pubDate>Fri, 08 Sep 2023 01:45:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=279880">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230908095544_ea4b8ed2089d76c64bb7fc4969558cd9.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=279880">뉴진스, 미국 롤링스톤 특별화보집 ‘Zine’.. .눈부신 완전체 아우라!</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230908095544_ea4b8ed2089d76c64bb7fc4969558cd9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빅스 켄, 뮤지컬 '22년 2개월' 첫 무대...  항일독립운동가 박열 열연]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=279747</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=276161">배우 박유나, YG엔터테인먼트와 전속계약</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230814140327_feab52758aea4649634d9e708199107a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[화보] "영재는 근무 중"   (Y매거진)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=276151</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=276151</guid>
-            <pubDate>Mon, 14 Aug 2023 05:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=276151">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230814135613_80be12ea975466caa0fb97a3e7b28d86.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=276151">[화보] "영재는 근무 중"   (Y매거진)</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230814135613_80be12ea975466caa0fb97a3e7b28d86.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
