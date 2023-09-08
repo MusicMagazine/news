@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-09-08T20:14:02.247Z</updated>
+    <updated>2023-09-08T21:10:59.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[화사·이수현, 몸 때문에 소란스럽다?…"난 내 몸을 사랑해" 당당한 고백 [엑's 이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001637012</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001637012"/>
+        <updated>2023-09-08T21:10:41.771Z</updated>
+        <content type="html"><![CDATA['오날오밤' 화사와 이수현이 자신들의 크고 작은 이슈를 언급했다. 8일 방송된 KBS 2TV 뮤직 토크쇼 '더 시즌즈-악뮤의 오날오밤'(이하 '오날오밤')에는 가수 화사가 게스트로 출연했다. 화사는 최근 싸이가 수장]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘SIMPLY K-POP CONTOUR’ 트렌드지, 예린, 재찬, 에버글로우, 시그니처, 트렌드지, 엑신, 김우진, 프림로즈, 레비 출격]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000911966</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005570894"/>
         <updated>2023-09-08T10:12:40.591Z</updated>
         <content type="html"><![CDATA[가수 유주(YUJU)가 컴백한다. 8일 소속사 커넥트엔터테인먼트에 따르면 유주는 오는 20일 새 싱글 ‘따라랏’을 발매한다. 걸그룹 여자친구 출신인 유주는 2021년부터 솔로 가수로 활동해왔다. 신보 발매는 지난 3]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트렌드지, ‘심플리케이팝’부터 ‘뮤직뱅크’까지 음악방송 약진···타이틀곡 처럼 ‘MY WAY’ 순항]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000911906</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000911906"/>
-        <updated>2023-09-08T10:12:40.592Z</updated>
-        <content type="html"><![CDATA[아이돌그룹 트렌드지(TRENDZ)가 가을 남자로 돌아와 음악 방송 활동에 약진하고 있다. 트렌드지(하빛, 리온, 윤우, 한국, 라엘, 은일, 예찬)는 8일 방송이 된 아리랑TV ‘심플리케이팝’과 KBS2 ‘뮤직뱅크’]]></content>
     </entry>
 </feed>
