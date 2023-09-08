@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-09-08T14:11:32.708Z</updated>
+    <updated>2023-09-08T15:13:52.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뷔, 민희진과 2가지 편견 깬 '특별한 경유']]></title>
+        <id>https://v.daum.net/v/20230909000114314</id>
+        <link href="https://v.daum.net/v/20230909000114314"/>
+        <updated>2023-09-08T15:13:13.758Z</updated>
+        <content type="html"><![CDATA[8일 첫 솔로 앨범 'Layover' 발매 민희진 어도어 총괄 프로듀서와 이색 조합 단점일 수 있는 느림을 특별함으로 [더팩트 | 정병근 기자] "제 취향이 100% 반영됐다. 나를 찾아가는 앨범.", 이 말이 방탄소년단(BTS) 뷔의 첫 솔로 앨범 'Layover(레이오버)'를 한마디로 정의한다. '일시적 체류', '경유'를 의미하는 앨범명은 잠시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘뮤직뱅크’ NCT U, 방탄소년단 정국 제치고 1위]]></title>
         <id>https://v.daum.net/v/20230908194801521</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230908164626018"/>
         <updated>2023-09-08T08:14:32.320Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 박효실기자] 그룹 코요태 출신 빽가가 아는 형에게 투자금을 맡겼다가 전액을 날린 사연을 털어놨다. 8일 방송된 SBS파워FM ‘두시 탈출 컬투쇼’에서 개그맨 김수용과 가수 빽가가 쓰디쓴 투자 실패 경험을 공유했다. 김수용은 연예계에 대표적인 ‘주식 똥손’ 지석진, 김용만에 대해 이야기를 꺼냈다. 그는 “보통 주식을 반토막 났다고 하는데]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘데뷔’ 판타지 보이즈, 오늘 티저 아베마 최초공개…블록버스터급]]></title>
-        <id>https://v.daum.net/v/20230908162331309</id>
-        <link href="https://v.daum.net/v/20230908162331309"/>
-        <updated>2023-09-08T08:14:32.331Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 신인 보이그룹 판타지 보이즈(FANTASY BOYS)가 블록버스터급 초대형 티저를 예고했다. 판타지 보이즈는 9월 8일 오후 7시 일본 아베마와 오후 10시 공식 채널을 통해 데뷔 앨범 ‘NEW TOMORROW’(뉴 투모로우) 첫 번째 티저 예고편을 공개한다. 이례적으로 티저 영상의 37초 분량 예고편을 공개하며 글로벌 팬들의 기대]]></content>
     </entry>
 </feed>
