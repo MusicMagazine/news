@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-09-09T13:12:58.662Z</updated>
+    <updated>2023-09-09T15:12:51.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트렌드지, 두려웠던 한발짝 떼니 보이는 것[TF인터뷰]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000237723</id>
+        <link href="https://entertain.naver.com/now/read?oid=629&amp;aid=0000237723"/>
+        <updated>2023-09-09T15:12:31.028Z</updated>
+        <content type="html"><![CDATA['BLUE SET' 시리즈 마무리하고 새로운 시작 타이틀곡 'MY WAY'로 컴백, 10월엔 월드투어 그룹 트렌드지(TRENDZ)는 2022년 1월 데뷔해 미니 앨범 2장과 싱글 앨범 2장을 내고 활동했다. 그 후의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신예 류민희, 9일 신곡 ‘가을이면 생각나’ 발매]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000912052</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003180404"/>
         <updated>2023-09-09T12:23:06.851Z</updated>
         <content type="html"><![CDATA[그룹 라이즈 앤톤이 데뷔 소감을 전하며 부친인 윤상을 언급했다. 9일 방송된 MBC '쇼! 음악중심'에서는 뉴진스, AKMU, 정국이 1위 후보에 오른 가운데 라이즈의 데뷔 무대가 펼쳐졌다. 이날 라이즈는 무대 전]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가요소식] 비아이, 롤라팔루자 베를린 간판 출연]]></title>
-        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0014182093</id>
-        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0014182093"/>
-        <updated>2023-09-09T12:23:06.852Z</updated>
-        <content type="html"><![CDATA[김조한과 뮤지 '몇번이나'·에릭남 새 정규음반 '하우스 온 어 힐' ▲ 비아이, 롤라팔루자 베를린서 신곡 공개 = 가수 비아이가 오는 10일(현지시간) 독일 올림피아스타디움 베를린에서 열리는 음악 축제 '2023 롤]]></content>
     </entry>
 </feed>

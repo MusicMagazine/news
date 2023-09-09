@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-09-09T13:12:58.653Z</updated>
+    <updated>2023-09-09T15:12:51.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트렌드지, 두려웠던 한발짝 떼니 보이는 것]]></title>
+        <id>https://v.daum.net/v/20230910000056538</id>
+        <link href="https://v.daum.net/v/20230910000056538"/>
+        <updated>2023-09-09T15:12:06.396Z</updated>
+        <content type="html"><![CDATA['BLUE SET' 시리즈 마무리하고 새로운 시작 타이틀곡 'MY WAY'로 컴백, 10월엔 월드투어 [더팩트 | 정병근 기자] 그룹 트렌드지(TRENDZ)는 2022년 1월 데뷔해 미니 앨범 2장과 싱글 앨범 2장을 내고 활동했다. 그 후의 가장 큰 변화는 똑같이 비슷한 크기의 공간에서 3분 남짓의 무대를 하더라도 이젠 시야가 더 넓어졌고 그 시간을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화사, 러블리 매력으로 꽉 채운 'I Love My Body'..밝은 에너지]]></title>
         <id>https://v.daum.net/v/20230909181642642</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230909103402097"/>
         <updated>2023-09-09T02:17:07.013Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 이승훈 기자] 첫 솔로 정규앨범 'Letters with notes'(레터스 위드 노트)를 발매한 데이식스 영케이가 4일 본지와의 인터뷰를 위해 포즈를 취하고 있다. /사진제공=JYP엔터테인먼트 2023.09.04 /사진=이동훈"다음이 기대되는 아티스트가 되고 싶어요. 데이식스로, 영케이로, 새롭게 도전하는 앨범이 나온다면 그것 또한 기대는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대형 기획사표 글로벌 걸그룹 봇물…결과에 쏠리는 이목]]></title>
-        <id>https://v.daum.net/v/20230909103259082</id>
-        <link href="https://v.daum.net/v/20230909103259082"/>
-        <updated>2023-09-09T02:17:07.018Z</updated>
-        <content type="html"><![CDATA[하이브부터 JYP까지 K팝 대형 기획사들이 '글로벌 걸그룹' 제작에 꽂혔다. K팝 아이돌 육성 시스템과 노하우를 미국 현지 기반의 글로벌 걸그룹에 적용, 'K팝 DNA'를 가진 글로벌 아티스트를 키워내겠다는 것이 목표다. 하이브 "K팝 시스템을 미국에 이식"...걸그룹 프로젝트 본격화 최근 하이브와 유니버셜뮤직그룹(UMG) 산하 레이블 게펜 레코드는 글로벌]]></content>
     </entry>
 </feed>
