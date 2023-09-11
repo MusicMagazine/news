@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-09-11T15:14:44.357Z</updated>
+    <updated>2023-09-11T17:16:37.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["레코드 매장, 도시 매력 요소"…'마포 바이닐 페스타']]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012083372</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0012083372"/>
+        <updated>2023-09-11T17:16:15.948Z</updated>
+        <content type="html"><![CDATA[미국레코드산업협회(RIAA)가 발간한 '2022 음악 산업 수익 보고서'에 따르면, 1987년 이후 처음으로 미국에서 바이닐(LP) 판매량(4100만 장)이 CD 판매량(3300만 장)을 앞질렀다. 국내도 비슷한 상]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크래비티 "가장 아름다울 때 무대 서는 지금이 청춘"[TF인터뷰]]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000238056</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000912354"/>
         <updated>2023-09-11T12:23:19.069Z</updated>
         <content type="html"><![CDATA[‘K트롯 여신’ 김소연(초이랩, 회장 최신규)이 ‘가요무대’에 선다. 김소연 소속사 초이랩 측은 11일 “김소연이 오늘 밤 10시 방송되는 KBS1 ‘가요무대’에 출연한다”고 밝혔다. ‘세대 공감’이란 주제로 진행되]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BAE173 “오늘이 특별한 이유는 엘스와 함께하기 때문”···첫 팬 콘서트 성료]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000912351</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000912351"/>
-        <updated>2023-09-11T10:17:34.858Z</updated>
-        <content type="html"><![CDATA[아이돌그룹 BAE173(비에이이일칠삼)이 첫 팬 콘서트를 성황리에 마무리했다. BAE173은 지난 10일 오후 로운아트홀에서 첫 번째 팬 콘서트 ‘BAE173 First BAEcation’(비에이이일칠삼 퍼스트 베케]]></content>
     </entry>
 </feed>
