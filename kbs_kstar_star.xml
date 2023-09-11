@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 21:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 23:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["'무빙' 봤으면..."  ‘강풀 유니버스’ IP 줄줄이 흥행... ‘아파트’, ‘타이밍’, ‘어게인’, ‘조명가게’, ‘무빙’, ‘브릿지’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=280216</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=280216</guid>
+            <pubDate>Mon, 11 Sep 2023 23:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=280216">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230912073702_58c305ea98a04d424e3dd08a959a02f5.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=280216">"'무빙' 봤으면..."  ‘강풀 유니버스’ IP 줄줄이 흥행... ‘아파트’, ‘타이밍’, ‘어게인’, ‘조명가게’, ‘무빙’, ‘브릿지’ </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230912073702_58c305ea98a04d424e3dd08a959a02f5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴진스, 미국 롤링스톤 특별화보집 ‘Zine’.. .눈부신 완전체 아우라!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=279880</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=276180">[BCWW2023] 국제방송영상마켓 열린다...역대 최대규모, 전 세계 콘텐츠 기업이 한자리에</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230814144415_b00a1ed898792f9047bd62bdb13fd30c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 박유나, YG엔터테인먼트와 전속계약]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=276161</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=276161</guid>
-            <pubDate>Mon, 14 Aug 2023 05:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=276161">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230814140327_feab52758aea4649634d9e708199107a.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=276161">배우 박유나, YG엔터테인먼트와 전속계약</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230814140327_feab52758aea4649634d9e708199107a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
