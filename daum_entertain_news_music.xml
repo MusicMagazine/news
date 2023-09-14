@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-09-14T12:24:35.187Z</updated>
+    <updated>2023-09-14T13:17:46.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔하이픈의 첫 도쿄돔 입성, 무엇이 달랐나]]></title>
+        <id>https://v.daum.net/v/20230914214002751</id>
+        <link href="https://v.daum.net/v/20230914214002751"/>
+        <updated>2023-09-14T13:17:05.851Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 도쿄, 명희숙 기자) "마치 축제같아요" 엔하이픈은 13일과 14일 양일간 일본 도쿄에 위치한 도쿄돔에서 두 번째 월드투어 ENHYPEN WORLD TOUR ‘FATE’ 공연을 개최했다. 4세대 보이그룹 중 최단 기간 내 도쿄돔 입성 기록을 세운 엔하이픈은 단순히 공연에 그치지 않고 도쿄 지역 내에서의 다양한 연계를 통해 화려한 축제를 펼쳤다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박진영, 데이식스 영케이 극찬 “이런 가수가 JYP서 데뷔해줘 고맙고 소중해”]]></title>
         <id>https://v.daum.net/v/20230914205428047</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230914182638985"/>
         <updated>2023-09-14T12:23:57.812Z</updated>
         <content type="html"><![CDATA[[OSEN=도쿄(일본), 지민경 기자] 그룹 엔하이픈이 처음으로 도쿄돔 무대에 선 소감을 전했다. 엔하이픈은 13일과 14일 양일간 일본 도쿄돔에서 월드투어 ‘ENHYPEN WORLD TOUR ‘FATE’’(이하 ‘FATE’)를 개최하고 팬들과 만났다. 데뷔 첫 일본 돔 투어에 나선 엔하이픈은 오사카 교세라돔에 이어 도쿄돔에 처음으로 입성하며 감격을 드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈, 드디어 도쿄돔 입성했다 "이 순간이 꿈같아"]]></title>
-        <id>https://v.daum.net/v/20230914182437934</id>
-        <link href="https://v.daum.net/v/20230914182437934"/>
-        <updated>2023-09-14T12:23:57.814Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 도쿄, 명희숙 기자) 그룹 엔하이픈이 도쿄돔 입성 소감을 전했다.&nbsp; 엔하이픈은 13일과 14일 양일간 일본 도쿄에 위치한 도쿄돔에서 두 번째 월드투어 ENHYPEN WORLD TOUR ‘FATE’ 공연을 개최했다. 엔하이픈은 이번 공연을 통해 K팝 보이그룹 중 데뷔 후 최단기간 도쿄돔 입성이라는 기록을 달성했다. 교세라돔 오사카와 도쿄돔까지]]></content>
     </entry>
 </feed>
