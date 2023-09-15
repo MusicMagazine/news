@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 04:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 05:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['스즈메의 문단속' 전시회.. 10월 신세계 강남전]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=280800</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=280800</guid>
+            <pubDate>Fri, 15 Sep 2023 05:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=280800">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230915134906_da2903a8ca2d010cb856ba47315ff8bb_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=280800">'스즈메의 문단속' 전시회.. 10월 신세계 강남전</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230915134906_da2903a8ca2d010cb856ba47315ff8bb_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[화보] 안경 쓴 아이유.. '엘르' 커버 장식]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=280706</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=276767">[화보] 한지민- 이민기 "힙하게 웃기기" (엘르)</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230818095206_83d27ba32607595e93fae3ba2c20f4e7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴 아이디, K-콘텐츠 전문 FAST 플랫폼 ‘빈지 코리아’ 북미 론칭]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=276565</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=276565</guid>
-            <pubDate>Wed, 16 Aug 2023 23:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=276565">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230817075511_5a7c412aba37688ecaf2ef0995ac509d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=276565">뉴 아이디, K-콘텐츠 전문 FAST 플랫폼 ‘빈지 코리아’ 북미 론칭</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230817075511_5a7c412aba37688ecaf2ef0995ac509d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
