@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-09-15T11:10:51.077Z</updated>
+    <updated>2023-09-15T12:24:25.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘뮤직뱅크’ 방탄소년단 뷔, 라이즈 꺾고 1위]]></title>
+        <id>https://v.daum.net/v/20230915202401316</id>
+        <link href="https://v.daum.net/v/20230915202401316"/>
+        <updated>2023-09-15T12:23:47.110Z</updated>
+        <content type="html"><![CDATA[방탄소년단 뷔가 1위를 차지했다. 15일 오후 방송된 KBS2 ‘뮤직뱅크’에는 POW, BOYNEXTDOOR, CRAVITY, H1-KEY, mimiirose, RIIZE, TRENDZ, V, Young K, 김세정, 로켓펀치, 신현희(feat.반디), 이채연, 키, 퍼플키스허영지, 화사 등이 출연했다. 절제된 카리스마로 완성한 ‘Time to Shine’]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단 뷔, 첫 솔로앨범 초동 210만장 돌파…한터차트 집계 이래 최초]]></title>
         <id>https://v.daum.net/v/20230915194926828</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230915151803455"/>
         <updated>2023-09-15T06:19:59.189Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 뉴진스가 세번째 스포티파이 4억 스트리밍 곡을 보유하게 됐다. 9월 15일 세계 최대 음원 플랫폼 스포티파이에 따르면, 뉴진스(민지, 하니, 다니엘, 해린, 혜인)의 데뷔곡 ‘Hype boy’는 9월 13일 기준 4억 22만 8,799회 재생됐다. 지난해 8월 발표된 ‘Hype boy’는 뉴진스의 메가히트 곡 중 하나로, 여전히]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웃음·눈물·도전…‘드림아카데미’ 20인 20색 브이로그 공개]]></title>
-        <id>https://v.daum.net/v/20230915151634412</id>
-        <link href="https://v.daum.net/v/20230915151634412"/>
-        <updated>2023-09-15T06:19:59.192Z</updated>
-        <content type="html"><![CDATA[하이브와 게펜 레코드의 합작 글로벌 걸그룹 프로젝트 '더 데뷔: 드림아카데미' 참가자 20인이 꿈을 실현하는 여정 속 벅찬 소감을 밝혔다. 지난 11일부터 15일까지(이하 한국시간) 유튜브 하이브 레이블즈 플러스(HYBE LABELS +) 채널과 위버스, 일본 ABEMA에 참가자 개개인의 첫 번째 미션 ‘MISSION 1 : SHOWCASE’ 브이로그가]]></content>
     </entry>
 </feed>
