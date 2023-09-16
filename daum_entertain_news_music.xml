@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-09-16T06:15:33.174Z</updated>
+    <updated>2023-09-16T07:12:04.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에스파, 칠레 공연도 전석 매진…남미 투어 마무리]]></title>
+        <id>https://v.daum.net/v/20230916152041695</id>
+        <link href="https://v.daum.net/v/20230916152041695"/>
+        <updated>2023-09-16T07:11:25.137Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 그룹 에스파(aespa)가 남미 투어를 성료했다. 에스파는 9월 8일 멕시코 멕시코시티, 11일 브라질 상파울루에 이어, 14일(현지시간) 칠레 산티아고에서 ‘aespa LIVE TOUR 2023 ‘SYNK : HYPER LINE’’(에스파 라이브 투어 2023 ‘싱크 : 하이퍼 라인’)을 열고 현지 팬들을 만났다. 이번 남미]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바다, '도박' 슈와 멀어진 근황.."'탱크톱 입고 운동 NO' 쓴소리 했다가" 눈물]]></title>
         <id>https://v.daum.net/v/20230916144430251</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230916093012005"/>
         <updated>2023-09-16T00:53:44.926Z</updated>
         <content type="html"><![CDATA[[텐아시아=김지원 기자] 블랙핑크가 오늘(16일)과 내일(17일) 서울 고척 스카이돔(SKY DOME)에서 마침내 [BORN PINK] 월드투어의 대장정을 마무리한다. K팝 역사의 새로운 페이지를 작성한 이들 여정의 종착지는 그 출발점이었던 한국이다. 국내 팬들과 시작과 끝을 함께 완성하는 자리인 동시에 약 1년여간의 공연을 총집약한 축제라 큰 관심이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙핑크, K걸그룹 최초 고척돔 입성…월드투어 피날레 D-DAY]]></title>
-        <id>https://v.daum.net/v/20230916092945989</id>
-        <link href="https://v.daum.net/v/20230916092945989"/>
-        <updated>2023-09-16T00:53:44.926Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 그룹 블랙핑크가 월드투어 대장정을 마무리 한다. 블랙핑크가 9월 16일과 17일 서울 고척 스카이돔(SKY DOME)에서 'BORN PINK'를 개최한다. 최초·최고·최다 타이틀로 K팝 역사의 새로운 페이지를 작성한 이번 월드투어의 종착지이다. 국내 팬들과 시작과 끝을 함께 완성하는 자리인 동시에 약 1년여간의 공연을 총집약한]]></content>
     </entry>
 </feed>
