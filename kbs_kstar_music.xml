@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 23:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Sep 2023 00:54:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크, 고척돔에서 월드투어 피날레.. 17일 온·오프라인 동시 진행]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=280991</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=280991</guid>
+            <pubDate>Sat, 16 Sep 2023 00:53:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=280991">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230916093009_122db8f74bff7766a116ed3d5af00e3c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=280991">블랙핑크, 고척돔에서 월드투어 피날레.. 17일 온·오프라인 동시 진행</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230916093009_122db8f74bff7766a116ed3d5af00e3c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['10월의 스트레이 키즈',  고척스카이돔 공연 ...  5-STAR Dome Tour 2023 Seoul Special (UNVEIL 13)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=280596</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=277105">뉴진스, 데뷔 1년만에 일본 ‘서머소닉’ 무대</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230821074804_bba8e559d0e67c65f6364e4c3e50c8a9.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["김세정이 온다"  오피셜 포토 공개... 정규앨범 ‘문(門)’ 9월 4일 발매]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=276664</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=276664</guid>
-            <pubDate>Thu, 17 Aug 2023 08:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=276664">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230817150647_1865b06c2c54c7cae52b9e749d122b0c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=276664">"김세정이 온다"  오피셜 포토 공개... 정규앨범 ‘문(門)’ 9월 4일 발매</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230817150647_1865b06c2c54c7cae52b9e749d122b0c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
