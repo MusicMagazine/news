@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-09-17T15:13:54.478Z</updated>
+    <updated>2023-09-17T16:19:26.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에이티즈, 첫 亞 투어 성료…6개국 순회]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012094959</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0012094959"/>
+        <updated>2023-09-17T16:19:08.892Z</updated>
+        <content type="html"><![CDATA[그룹 '에이티즈(ATEEZ)'가 남미 투어에 이어 아시아 투어를 성료했다. 18일 소속사 KQ엔터테인먼트에 따르면, 에이티즈는 지난 16일 필리핀 마닐라 아라네타 콜로세움(ARANETA COLISEUM)에서 아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블랙핑크, 처음부터 끝까지 '마지막처럼'…찬란한 순간(종합)]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000239167</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=408&amp;aid=0000201029"/>
         <updated>2023-09-17T12:20:12.873Z</updated>
         <content type="html"><![CDATA[그룹 블랙핑크(BLACKPINK) 리사가 블링크(팬덤명)에게 감사함을 전했다. 블랙핑크(로제, 리사, 제니, 지수)는 17일 오후 서울 구로구 고척스카이돔(SKY DOME)에서 'BLACKPINK WORLD TOUR]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙핑크도 재계약 청신호? 제니 "앞으로도 멋있는 팀 되겠다"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003182015</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003182015"/>
-        <updated>2023-09-17T12:20:12.875Z</updated>
-        <content type="html"><![CDATA[걸그룹 블랙핑크(BLACKPINK, 지수 로제 제니 리사)가 1년에 걸친 대규모 월드투어의 피날레를 고척돔에서 화려하게 마감하며 의미심장한 마지막 소감을 전했다. 블랙핑크는 지난 16일에 이어 17일 오후 6시부터]]></content>
     </entry>
 </feed>
