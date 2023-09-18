@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-09-18T19:14:05.322Z</updated>
+    <updated>2023-09-18T20:13:57.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에이비식스, 태국 콘서트 성료...열기 美로 이어간다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001270411</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001270411"/>
+        <updated>2023-09-18T20:13:37.078Z</updated>
+        <content type="html"><![CDATA[그룹 AB6IX(에이비식스)가 지난 16일 태국 방콕에 위치한 'SHOW DC ULTRA ARENA'에서 월드투어 콘서트 'THE FUTURE' IN BANGKOK을 개최하고 현지 팬들과 행복한 시간을 보냈다. 팬들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이진아, '이효리 더한 오색팝재즈, 새로 쓴 도시요정의 속마음' (인터뷰)]]></title>
         <id>https://entertain.naver.com/now/read?oid=030&amp;aid=0003137496</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0012097167"/>
         <updated>2023-09-18T10:15:41.673Z</updated>
         <content type="html"><![CDATA[인디 음악 배급사 '미러볼뮤직'과 홍대 공연 랜드마크 '제비다방'이 홍대 앞 인디 문화 활성화를 위해 뭉쳤다. 미러볼뮤직과 제비다방은 오는 20일부터 인디 뮤지션 라이브 공연 프로젝트 '미러볼 픽(MIRRORBALL]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김필, 페스티벌 무대서 신곡 ‘그대’ 깜짝 선공개]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000913735</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000913735"/>
-        <updated>2023-09-18T10:15:41.681Z</updated>
-        <content type="html"><![CDATA[가수 김필이 신곡을 깜짝 선공개하며 컴백에 대한 기대감을 높이고 있다. 김필은 지난 17일 올림픽공원 88잔디마당에서 개최된 ‘2023 조이올팍페스티벌’에서 신곡 ‘그대’를 열창하며 현장의 분위기를 뜨겁게 달궜다.]]></content>
     </entry>
 </feed>
