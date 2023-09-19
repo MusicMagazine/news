@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-09-19T20:15:39.803Z</updated>
+    <updated>2023-09-19T21:11:47.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한 작사가의 곡들만 부르는 이색 가요제 열린다]]></title>
+        <id>https://v.daum.net/v/20230920054802030</id>
+        <link href="https://v.daum.net/v/20230920054802030"/>
+        <updated>2023-09-19T21:11:08.483Z</updated>
+        <content type="html"><![CDATA[한 작사가가 쓴 곡들만 노래해 입상자를 뽑는 이색적인 가요제가 열린다. 한국가수협회와 차트코리아, 은평치과 공동 주최로 내달 23일 오후 4시 서울 녹번동 은평문화예술회관에서 열리는 ‘쟈니리 &amp; 작사가 이영만 가요제’가 바로 그것이다.&nbsp; 기성 가수와 아마추어 남녀노소 상관없이 참가할 수 있다. 참가를 원하는 사람은 이영만 작사의 곡들인 쟈니리 ‘바보사랑]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['TMA 5관왕' 임영웅의 TMI를 알아보자!]]></title>
         <id>https://v.daum.net/v/20230920000030843</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230919180008725"/>
         <updated>2023-09-19T09:12:13.873Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 신예 이븐이 가요계에 출사표를 던졌다. 젤리피쉬엔터테인먼트가 선보이는 7인조 보이그룹 이븐(EVNNE)은 9월 16일 오후 6시 첫 번째 미니앨범 'Target: ME'를 발매, 타이틀곡 '트러블(TROUBLE)' 음원과 뮤직비디오를 공개했다. 데뷔 앨범 'Target: ME'는 '나를 대중이 원하는 타겟으로 만들겠다'는 야심찬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이븐, 정상을 '타겟'…새롭게 떠오를 별의 존재감 '트러블']]></title>
-        <id>https://v.daum.net/v/20230919180004708</id>
-        <link href="https://v.daum.net/v/20230919180004708"/>
-        <updated>2023-09-19T09:12:13.878Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=장진리 기자] 그룹 이븐이 K팝신에 새롭게 떠오를 별의 존재감을 예고했다. 이븐은 19일 오후 6시 데뷔 앨범 ‘타겟: 미’ 타이틀곡 ‘트러블’ 음원과 뮤직비디오를 공개했다. 이븐은 엠넷 ‘보이즈 플래닛’을 통해 뛰어난 실력을 검증받은 케이타, 박한빈, 이정현, 유승언, 지윤서, 문정현, 박지후로 구성된 7인조 보이그룹이다. ‘이브닝스]]></content>
     </entry>
 </feed>
