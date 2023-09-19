@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-09-19T13:17:44.398Z</updated>
+    <updated>2023-09-19T14:12:05.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘불타는 트롯맨’식스맨 박현호, 신곡 ‘1,2,3 go!’ 발매···손태진-신성-에녹-김중연 등 ‘불트맨’ 의리의 홍보 요정 자처]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000913982</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000913982"/>
+        <updated>2023-09-19T14:11:50.195Z</updated>
+        <content type="html"><![CDATA[‘매력 부자 K-트롯돌’ 박현호가 신곡 ‘1,2,3 go!’ 발매에 맞춰 손태진, 신성, 에녹 등 동료 가수들과 팬들의 열렬한 서포트를 받아 화제를 모으고 있다. 지난 18일에 발매된 박현호의 디지털 싱글 앨범 타이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['뉴스9' 최연소 출연자 뉴진스.."단독 공연 빨리 하고파" [종합]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003182627</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004893829"/>
         <updated>2023-09-19T10:13:08.569Z</updated>
         <content type="html"><![CDATA[그룹 이븐(EVNNE) 문정현이 19일 오후 서울 한남동 블루스퀘어에서 열린 첫 번째 미니 앨범 ‘Target: ME’(타겟: 미)발매 기념 쇼케이스에 참석해 포토타임을 갖고 있다. Mnet 서바이벌 오디션 프로그램]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 이븐 유승언, '부드러운 미소로 하트~']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004893828</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004893828"/>
-        <updated>2023-09-19T10:13:08.571Z</updated>
-        <content type="html"><![CDATA[그룹 이븐(EVNNE) 유승언이 19일 오후 서울 한남동 블루스퀘어에서 열린 첫 번째 미니 앨범 ‘Target: ME’(타겟: 미)발매 기념 쇼케이스에 참석해 포토타임을 갖고 있다. Mnet 서바이벌 오디션 프로그램]]></content>
     </entry>
 </feed>
