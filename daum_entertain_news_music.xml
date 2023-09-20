@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-09-20T19:13:55.520Z</updated>
+    <updated>2023-09-20T21:11:37.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오차 없는 칼군무→‘강렬 에너지’...판타지 보이즈, 데뷔 기대되는 이유 ③]]></title>
+        <id>https://v.daum.net/v/20230921055542130</id>
+        <link href="https://v.daum.net/v/20230921055542130"/>
+        <updated>2023-09-20T21:11:00.887Z</updated>
+        <content type="html"><![CDATA[“미리 보여준 선공개 무대들만으로도 성공적 데뷔가 점쳐지네요.” 판타지 보이즈 데뷔에 대해 많은 가요계 관계자들이 입을 모았다. 복수의 아티스트와 협업 경험이 있는 케이지는 “판타지 보이즈라는 이름에 걸맞게 환상적인 안무와 춤선이 기대 이상이다. 멤버들의 안무 실력은 물론 보컬과 표정 연기까지 신인이라고 하기엔 아주 퀄리티 있는 퍼포먼스를 보여주고 있다”]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박경애 '곡예사의 첫사랑', 심금 울린 연가]]></title>
         <id>https://v.daum.net/v/20230921000036209</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230920175505957"/>
         <updated>2023-09-20T10:13:05.341Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 그룹 (여자)아이들(미연, 민니, 소연, 우기, 슈화)이 유럽 공연을 성료했다. (여자)아이들은 지난 6월 서울 잠실 실내체육관에서 1만여 명의 관객을 동원하며 두 번째 월드 투어 '2023 (여자)아이들 월드투어 '아임 프리티'(2023 (G)I-DLE WORLD TOUR 'I am FREE-TY')'의 화려한 막을 올렸다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTS 전원, 두 번째 재계약…군 복무 후에도 함께 간다]]></title>
-        <id>https://v.daum.net/v/20230920175128856</id>
-        <link href="https://v.daum.net/v/20230920175128856"/>
-        <updated>2023-09-20T10:13:05.341Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이태수 김예나 기자 = 그룹 방탄소년단(BTS) 일곱 멤버 전원이 소속사인 하이브(빅히트뮤직)와 두 번째 재계약을 맺는다. 하이브는 20일 "당사는 빅히트뮤직 소속 아티스트 방탄소년단 멤버 7인의 전속계약에 대한 재계약 체결의 이사회 결의를 완료했다"고 공시했다. 빅히트뮤직은 이 이사회 결의를 토대로 RM, 진, 슈가, 제이홉, 지민,]]></content>
     </entry>
 </feed>
