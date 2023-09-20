@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2023-09-20T17:14:04.730Z</updated>
+    <updated>2023-09-20T18:20:08.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이유비, 30대에도 상큼미 톡톡 [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001076897</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0001076897"/>
+        <updated>2023-09-20T18:19:59.253Z</updated>
+        <content type="html"><![CDATA[이유비, 30대에도 상큼미 톡톡 [화보] 연기자 이유비의 화보가 공개됐다. 이번 화보는 ‘Romantic Journey’ 테마로 반복되는 일상으로부터 벗어나 나를 찾아 떠나는 여행의 감성을 담았다. 여유롭고 낭만적인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘환승연애2’ 이나연, 통통 튀는 러블리 [화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001076896</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=014&amp;aid=0005076026"/>
         <updated>2023-09-20T15:15:12.129Z</updated>
         <content type="html"><![CDATA[배우 고경표가 20일 서울 코엑스 메가박스에서 진행된 영화 '거미집' VIP 시사회에 참석했다. 배우 송강호, 임수정, 오정세, 전여빈, 정수정 등이 출연하는 영화 '거미집'은 1970년대, 다 찍은 영화 '거미집']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 공명, '엄청난 실물 비율']]></title>
-        <id>https://entertain.naver.com/now/read?oid=014&amp;aid=0005076025</id>
-        <link href="https://entertain.naver.com/now/read?oid=014&amp;aid=0005076025"/>
-        <updated>2023-09-20T15:15:12.131Z</updated>
-        <content type="html"><![CDATA[배우 공명이 20일 서울 코엑스 메가박스에서 진행된 영화 '거미집' VIP 시사회에 참석했다. 배우 송강호, 임수정, 오정세, 전여빈, 정수정 등이 출연하는 영화 '거미집'은 1970년대, 다 찍은 영화 '거미집'의]]></content>
     </entry>
 </feed>
