@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2023-09-20T18:20:08.223Z</updated>
+    <updated>2023-09-20T19:13:55.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김선호 “스스로 멈춰 있는 것 같아 반성, 다시 열심히” [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001076898</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0001076898"/>
+        <updated>2023-09-20T19:13:47.001Z</updated>
+        <content type="html"><![CDATA[김선호 “스스로 멈춰 있는 것 같아 반성, 다시 열심히” [화보] 배우 김선호가 'ELLE MAN SINGAPORE(엘르맨 싱가포르)'의 커버 스타가 됐다. 공개된 사진 속에서 김선호는 영화 '귀공자'에 영감 받아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이유비, 30대에도 상큼미 톡톡 [화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001076897</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=396&amp;aid=0000655785"/>
         <updated>2023-09-20T15:15:12.127Z</updated>
         <content type="html"><![CDATA[가수 정동원이 해사한 매력을 뽐냈다. 사진=정동원 인스타그램 사진=정동원 인스타그램 20일 정동원은 자신의 SNS에 “소품집 Vo1.1 ♥︎ 많이 사랑해주세요 ♥︎♥︎♥]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 고경표, '하프 사이즈 재킷도 어울림']]></title>
-        <id>https://entertain.naver.com/now/read?oid=014&amp;aid=0005076026</id>
-        <link href="https://entertain.naver.com/now/read?oid=014&amp;aid=0005076026"/>
-        <updated>2023-09-20T15:15:12.129Z</updated>
-        <content type="html"><![CDATA[배우 고경표가 20일 서울 코엑스 메가박스에서 진행된 영화 '거미집' VIP 시사회에 참석했다. 배우 송강호, 임수정, 오정세, 전여빈, 정수정 등이 출연하는 영화 '거미집'은 1970년대, 다 찍은 영화 '거미집']]></content>
     </entry>
 </feed>
