@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 00:50:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 03:17:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[30만 명을 매혹시키다...  ‘거장의 시선, 사람을 향하다-영국 내셔널갤러리 명화전’..  국립중앙박물관 10월 9일까지]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=281496</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=281496</guid>
+            <pubDate>Thu, 21 Sep 2023 03:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=281496">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230920142524_471d4b32d7fa100fe8b03ab5b7cb0e62.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=281496">30만 명을 매혹시키다...  ‘거장의 시선, 사람을 향하다-영국 내셔널갤러리 명화전’..  국립중앙박물관 10월 9일까지</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230920142524_471d4b32d7fa100fe8b03ab5b7cb0e62.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["샤큘라~ 컴백"  뮤지컬 '드라큘라' 10주년 역대급 캐스팅]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=281150</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=277117">[화보] 정유미 "미스터리한 잠" (보그 코리아)</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230821081824_c6063b69a56d4a241f541d9843702bf0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[화보] 이정하, “‘무빙’ 마지막 촬영, 하늘에서 너무 감동했어요”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=276809</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=276809</guid>
-            <pubDate>Mon, 21 Aug 2023 00:50:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=276809">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230818104650_aa74595bdf9adfaed3b91bbb0446526b.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=276809">[화보] 이정하, “‘무빙’ 마지막 촬영, 하늘에서 너무 감동했어요”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230818104650_aa74595bdf9adfaed3b91bbb0446526b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
