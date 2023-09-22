@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-09-22T20:15:06.894Z</updated>
+    <updated>2023-09-22T21:11:37.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅·영웅시대 하나 된 눈물의 창원 콘서트 1100만뷰]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003183527</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003183527"/>
+        <updated>2023-09-22T21:11:18.508Z</updated>
+        <content type="html"><![CDATA[가수 임영웅과 영웅시대가 눈물로 하나 된 창원 콘서트 영상이 1100만 뷰를 달성하며 감동을 이어갔다. 지난해 6월 3일 임영웅 공식 유튜브 채널에 공개된 '평생 잊지 못할 눈물의 순간 @창원 콘서트' 영상은 9월]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['5세대 후발주자' 이븐→판타지보이즈, 서바이벌 출신 승자는?[★FOCUS]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003183525</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003183525"/>
+        <updated>2023-09-22T21:11:18.520Z</updated>
+        <content type="html"><![CDATA[서바이벌 열풍이 끝나기 무섭게 해당 프로그램 출신 그룹들이 대거 등장했다. 당시 엠넷 '보이즈 플래닛', MBC '소년판타지' 등 보이그룹에 집중됐던 만큼, 이번 가요계 5세대 그룹은 비교적 보이그룹이 다수를 이룬다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['남자들의 아이돌' 플라워 고유진, 컴백...'Please' 리메이크한다]]></title>
         <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001271103</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004895373"/>
         <updated>2023-09-22T11:14:51.557Z</updated>
         <content type="html"><![CDATA[그룹 미미로즈가 22일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 파우, '팬들에게 보내는 하트~']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004895371</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004895371"/>
-        <updated>2023-09-22T11:14:51.560Z</updated>
-        <content type="html"><![CDATA[그룹 파우가 22일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 엘즈업, '각자 개성 넘치는 스타일로~']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004895370</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004895370"/>
-        <updated>2023-09-22T11:14:51.564Z</updated>
-        <content type="html"><![CDATA[그룹 엘즈업이 22일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content>
     </entry>
 </feed>
