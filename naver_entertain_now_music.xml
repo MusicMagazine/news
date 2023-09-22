@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-09-22T13:16:16.364Z</updated>
+    <updated>2023-09-22T14:12:41.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[루셈블, 초동 7만장 돌파···이달소 유닛 ‘기록 경신’]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000914738</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000914738"/>
+        <updated>2023-09-22T14:12:24.835Z</updated>
+        <content type="html"><![CDATA[걸그룹 루셈블(Loossemble)이 특별한 기록을 탄생시켰다. 22일 씨티디이엔엠에 따르면 루셈블의 데뷔 미니앨범 ‘Loossemble’은 초동(발매 후 일주일 동안의 판매 수치) 7만5835장을 기록했다. 특히]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[운찬, 신곡 ‘나무’ 공개···‘감성 싱어송라이터’ 입증 나선다]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000914725</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004895369</id>
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004895369"/>
         <updated>2023-09-22T11:14:51.572Z</updated>
-        <content type="html"><![CDATA[가수 이채연이 22일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 이채연, '사랑스럽게 볼하트~']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004895368</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004895368"/>
-        <updated>2023-09-22T11:14:51.575Z</updated>
         <content type="html"><![CDATA[가수 이채연이 22일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content>
     </entry>
 </feed>
