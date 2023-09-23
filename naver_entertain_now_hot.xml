@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2023-09-23T19:12:09.812Z</updated>
+    <updated>2023-09-23T20:13:04.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[IS리뷰] ‘거미집’ 욕망과 광기 사이의 웃픈 줄타기]]></title>
+        <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003302437</id>
+        <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003302437"/>
+        <updated>2023-09-23T20:12:54.905Z</updated>
+        <content type="html"><![CDATA[좋은 영화를 만들고 싶었을 뿐이다. 그 욕망이 이토록 웃프다 못해 잔혹한 상황으로까지 이어질 줄은 아무도 몰랐겠지만. 무언가를 실현하고자 하는 마음은 큰데 장애물이 많을 때 욕망은 광기가 되곤 한다. 영화 ‘거미집’]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FANTASY BOYS Makes Their Debut...'D+2' [Ms Album]]]></title>
         <id>https://entertain.naver.com/now/read?oid=445&amp;aid=0000145196</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0004059270"/>
         <updated>2023-09-23T14:10:20.199Z</updated>
         <content type="html"><![CDATA[심장마비로 갑작스럽게 세상을 떠난 배우 노영국이 '효심이네 각자도생'에 편집 없이 등장했다. 23일 방송된 KBS2 드라마 '효심이네 각자도생'에서는 노영국(강진범 역)의 생전 촬영분이 공개됐다. 이날 방송에서는 지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[TVis] ‘놀토’ 산다라박 “태연과 13년만 재회…‘승승장구’ 이후 처음”]]></title>
-        <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003302430</id>
-        <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003302430"/>
-        <updated>2023-09-23T12:20:13.417Z</updated>
-        <content type="html"><![CDATA[가수 산다라박이 태연과 재회에 기대감을 드러냈다. 23일 방송된 tvN ‘놀라운 토요일’에 산다라박, 정용화, 이홍기가 게스트로 출연했다. 이날 방송에서 붐은 “산다라박이 극 I 성향이라 ‘놀라운 토요일’ 출연에 걱]]></content>
     </entry>
 </feed>
