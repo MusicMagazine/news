@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-09-24T17:10:56.592Z</updated>
+    <updated>2023-09-24T19:12:01.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어셔, 슈퍼볼 하프타임쇼 무대 빛낸다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000960062</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000960062"/>
+        <updated>2023-09-24T19:11:43.350Z</updated>
+        <content type="html"><![CDATA[‘R&amp;B의 황제’ 어셔가 슈퍼볼 하프타임쇼 무대를 빛낸다. NFL과 슈퍼볼 하프타임쇼 후원사 애플 뮤직, 그리고 슈퍼볼 하프타임쇼 기획 제작을 맡은 락 네이션은 24일 가수 어셔가 슈퍼볼 하프타임쇼에서 공연한다고 발]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백아연 결혼식에 모인 'K팝스타' 가족..이승훈→이하이·제이미 뭉쳤다]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003183821</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0014215338</id>
         <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0014215338"/>
         <updated>2023-09-24T09:12:58.824Z</updated>
-        <content type="html"><![CDATA[24일 서울 노들섬에서 열린 2023 서울뮤직페스티벌에서 시민들이 축제를 즐기고 있다. 2023.9.24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 서울뮤직페스티벌 찾은 시민들]]></title>
-        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0014215337</id>
-        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0014215337"/>
-        <updated>2023-09-24T09:12:58.825Z</updated>
         <content type="html"><![CDATA[24일 서울 노들섬에서 열린 2023 서울뮤직페스티벌에서 시민들이 축제를 즐기고 있다. 2023.9.24]]></content>
     </entry>
 </feed>
