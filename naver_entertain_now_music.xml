@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-09-24T11:13:32.956Z</updated>
+    <updated>2023-09-24T13:12:53.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['메이드 인 크래비티'… 자체제작 프로듀싱 꿈 [인터뷰]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=018&amp;aid=0005583137</id>
+        <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005583137"/>
+        <updated>2023-09-24T13:12:36.501Z</updated>
+        <content type="html"><![CDATA[크래비티(사진=스타쉽엔터테인먼트) “세븐틴 선배님처럼 앨범 전곡을 직접 만들고 프로듀싱하는 그룹이 되고 싶습니다.” 그룹 크래비티(CRAVITY, 세림·앨런·정모·우빈·원진·민희·형준·태영·성민)가 세븐틴을 롤모델로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['44세' 이효리, 나이는 못 속인 '옛날하트' 해프닝]]></title>
         <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000452138</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0014215336"/>
         <updated>2023-09-24T09:12:58.828Z</updated>
         <content type="html"><![CDATA[24일 서울 노들섬에서 열린 2023 서울뮤직페스티벌에서 관객들이 줄지어 객석 입장을 기다리고 있다. 2023.9.24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제대로 감 잃은 예린..'홍박사'를 진짜 알았을까 [이승훈의 뮤세권]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003183787</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003183787"/>
-        <updated>2023-09-24T09:12:58.828Z</updated>
-        <content type="html"><![CDATA["홍박사님을 아세요?" 여자친구 예린과 소속사 빌엔터테인먼트는 "모른다"고 대답해야 한다. 알고 있었다면 더욱더 충격일 테니까. 지난 23일 예린 공식 SNS에는 "그쪽도 홍박사님을 아세요~?"라는 제목의 동영상이]]></content>
     </entry>
 </feed>
