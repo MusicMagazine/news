@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-09-25T13:16:42.203Z</updated>
+    <updated>2023-09-25T15:13:41.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인어왕자된 원어스, 컴백 포인트3]]></title>
+        <id>https://v.daum.net/v/20230925230006162</id>
+        <link href="https://v.daum.net/v/20230925230006162"/>
+        <updated>2023-09-25T15:13:02.416Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] [사진제공=알비더블유(RBW)][사진제공=알비더블유(RBW)]그룹 원어스(ONEUS/서호, 이도, 건희, 환웅, 시온)가 오는 26일 미니 10집 'La Dolce Vita'(라 돌체 비타)를 발매한다. 전작 'PYGMALION'(피그말리온) 발매 이후 약 4개월 만의 신보로, 타이틀곡 'Baila Conmigo'(바일라 꼰미고)를 포함해 유]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["대답해봐 갈릴레오"…천문학자→지동설 담은 케플러표 '사랑노래']]></title>
         <id>https://v.daum.net/v/20230925195015592</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230925175006655"/>
         <updated>2023-09-25T09:12:46.080Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 명희숙 기자) 스타들이 열애설 없이 깜짝 결혼 발표를 하며 많은 축하를 받고 있다.&nbsp; 25일 배우 이상엽은 내년 3월 비연예인인 예비신부와 결혼한다고 알렸다. 소속사 측에 따르면 이제 막 결혼 준비를 시작하고 있는 단계인 만큼 구체적인 내용을 알리기 어렵다고.&nbsp; 이상엽은 영화부터 드라마까지 꾸준히 작품 활동을 하며 대중과 소통했다. 현재는 K]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리사, '1人 안무 연습' 공개..블랙핑크 2차 '1인 기획사說' 부인 속 게시물]]></title>
-        <id>https://v.daum.net/v/20230925174645554</id>
-        <link href="https://v.daum.net/v/20230925174645554"/>
-        <updated>2023-09-25T09:12:46.081Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 한해선 기자] /사진=리사 그룹 블랙핑크 멤버 리사가 화려한 댄스 실력을 자랑했다. 리사는 25일 파란색 하트 이모티콘 두 개를 적고 새로운 사진과 영상을 공개했다. 사진과 영상 속에는 리사가 음악에 맞춰 실루엣으로 춤을 선보이고 있었다. 그는 유연성을 뽐내며 섹시한 춤동작을 선보이면서 블랙핑크 콘서트 안무 연습을 하는 모습이었다.]]></content>
     </entry>
 </feed>
