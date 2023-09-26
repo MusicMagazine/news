@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 01:48:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 02:23:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강성연, 드라마 ‘플레이, 플리’ 출연.. 김향기와 모녀 호흡]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=282267</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=282267</guid>
+            <pubDate>Tue, 26 Sep 2023 02:22:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282267">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230926111019_9be004fff1638ea45cb89e39b9c44fcc.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282267">강성연, 드라마 ‘플레이, 플리’ 출연.. 김향기와 모녀 호흡</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230926111019_9be004fff1638ea45cb89e39b9c44fcc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김우겸, VAST엔터테인먼트와 전속 계약]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=282207</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=278860"> SLL 신규 웹예능 ‘PROJECT 10K’ 론칭.. 엔싸인, 도쿄 아리아케 아레나 관객 만들기 프로젝트</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230902073713_082da128497a79df0522ada0a116a068.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[창작뮤지컬 '드라이 플라워' 11월 초연 무대... "청춘의 힐링"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=278733</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=278733</guid>
-            <pubDate>Fri, 01 Sep 2023 00:54:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=278733">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230901084632_1b631d21c0ad4c601ed4b1661456f287.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=278733">창작뮤지컬 '드라이 플라워' 11월 초연 무대... "청춘의 힐링"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230901084632_1b631d21c0ad4c601ed4b1661456f287.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
