@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 22:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 00:54:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김우겸, VAST엔터테인먼트와 전속 계약]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=282207</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=282207</guid>
+            <pubDate>Tue, 26 Sep 2023 00:53:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282207">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230926093525_8bc3c3f76945fc9d8283276f1801b0d5.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282207">김우겸, VAST엔터테인먼트와 전속 계약 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230926093525_8bc3c3f76945fc9d8283276f1801b0d5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전수미, 뮤지컬 '몬테크리스토'  루이자 캐스팅]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=281959</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=278733">창작뮤지컬 '드라이 플라워' 11월 초연 무대... "청춘의 힐링"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230901084632_1b631d21c0ad4c601ed4b1661456f287.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['화보의 날' 윤계상-박성훈-유나-김신록 (보그코리아 화보)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=278593</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=278593</guid>
-            <pubDate>Thu, 31 Aug 2023 06:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=278593">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230831143028_c48db71b10d727879089082573d43ee3_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=278593">'화보의 날' 윤계상-박성훈-유나-김신록 (보그코리아 화보)</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230831143028_c48db71b10d727879089082573d43ee3_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
