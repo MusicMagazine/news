@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-09-28T14:15:42.236Z</updated>
+    <updated>2023-09-28T15:13:48.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국악방송, 한가위 맞이 ‘2023 청와대 K-뮤직 페스티벌’ 개최[경향포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=032&amp;aid=0003252125</id>
+        <link href="https://entertain.naver.com/now/read?oid=032&amp;aid=0003252125"/>
+        <updated>2023-09-28T15:13:27.454Z</updated>
+        <content type="html"><![CDATA[국악방송이 28일 청와대 대정원에서 한가위 맞이 ‘2023 청와대 K-뮤직 페스티벌’을 열었다. ‘화합’이라는 주제로 열린 이날 공연에는 국악방송의 21 세기 한국 음악프로젝트 역대 수상자를 비롯해 국악, 클래식,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[보이넥스트도어, ‘믿보넥’ 역사는 이제 시작]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000960650</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005585650"/>
         <updated>2023-09-28T08:17:21.223Z</updated>
         <content type="html"><![CDATA[스타쉽엔터테인먼트(이하 스타쉽) 소속 아티스트들이 민족 최대의 명절 추석을 맞아 훈훈함 가득한 인사를 전했다. 스타쉽엔터테인먼트 소속 아티스트들 추석 인사. (사진=스타쉽엔터테인먼트) 소속사 스타쉽엔터테인먼트는 28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘꽃도령 변신’ 다크비 “귀향길 안전히, 풍성한 한가위”]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000915752</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000915752"/>
-        <updated>2023-09-28T08:17:21.223Z</updated>
-        <content type="html"><![CDATA[그룹 다크비(DKB)가 에너지 넘치는 추석 인사를 전했다. 브레이브 엔터테인먼트는 28일 다크비의 공식 유튜브 채널 및 SNS를 통해 추석 인사 영상을 공개했다. 알록달록 고운 한복 차림으로 활기찬 인사를 건넨 다크]]></content>
     </entry>
 </feed>
