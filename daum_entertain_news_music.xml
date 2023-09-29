@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-09-29T22:13:33.653Z</updated>
+    <updated>2023-09-29T23:16:09.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트로트 신예 박현호 "인생은 '쓰리고', 웃는 날 오길 기다리죠"]]></title>
+        <id>https://v.daum.net/v/20230930080017488</id>
+        <link href="https://v.daum.net/v/20230930080017488"/>
+        <updated>2023-09-29T23:15:34.508Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이태수 기자 = "'원고'가 탑독이라면 '투고'는 아이돌 활동을 마치고 한 뮤지컬이에요. 그리고 지금이 '쓰리고' 아닐까요. 하하' 가수 박현호는 30일 연합뉴스와의 인터뷰에서 "인생은 '쓰리고' 아니겠느냐"라며 "언젠가 내게도 기회가 올 것이라고 생각하고, 웃을 날만 기다리고 있다"고 말했다. 박현호는 지난 2013년 그룹 탑독으로 데뷔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“아이돌도 전 굽고 사촌 동생에 시달리네?” 아이돌의 친숙한 추석나기]]></title>
         <id>https://v.daum.net/v/20230930064506699</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230929131101810"/>
         <updated>2023-09-29T04:17:01.678Z</updated>
         <content type="html"><![CDATA[[텐아시아=김지원 기자] 방탄소년단(BTS) 정국이 신곡 '3D'에 대한 자신감을 내비쳤다. 정국은 29일 오후 1시(한국시간) 두 번째 솔로 싱글 '3D (feat. Jack Harlow)'를 발표하고 전 세계 음악시장을 다시 한 번 뒤흔든다. 정국은 지난 7월 발표한 'Seven (feat. Latto)'으로 미국 빌보드 메인 송차트 '핫 100']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[역대급 협업…방탄소년단 정국, ‘세븐’과 다른 ‘3D’ 발표]]></title>
-        <id>https://v.daum.net/v/20230929130900777</id>
-        <link href="https://v.daum.net/v/20230929130900777"/>
-        <updated>2023-09-29T04:17:01.679Z</updated>
-        <content type="html"><![CDATA[정국이 29일 오후 1시(한국시간) 두 번째 솔로 싱글 ‘3D (feat. Jack Harlow)’를 발표했다. 정국은 지난 7월 발표한 ‘Seven (feat. Latto)’으로 미국 빌보드 메인 송차트 ‘핫 100’ 1위, 영국 오피셜 싱글 차트 3위, 스포티파이 ‘위클리 톱 송 글로벌’ 차트 8주 연속 1위 등 솔로 아티스트로서 유의미한 족적을 남기며]]></content>
     </entry>
 </feed>
