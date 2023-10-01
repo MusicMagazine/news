@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Oct 2023 21:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Oct 2023 23:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에스파, 영국 런던 O2 아레나 공연 성료]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=282848</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=282848</guid>
+            <pubDate>Sun, 01 Oct 2023 23:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282848">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231001195800_a834fa02c4e626bfdd62c617d49d4119.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282848">에스파, 영국 런던 O2 아레나 공연 성료</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231001195800_a834fa02c4e626bfdd62c617d49d4119.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AKMU, 단독 콘서트 [AKMUTOPIA].. 이찬혁·이수현의 음악 세계로 오세요]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=282617</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=277719">뷔, 'Layover' 수록곡 'Blue' MV 2차 티저 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230825075353_902f56254b81d75c77872f6f0ee3a8e1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김세정 첫 단독 콘서트 ‘The 門’ ... "Sold Out"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=277649</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=277649</guid>
-            <pubDate>Thu, 24 Aug 2023 02:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=277649">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230824111048_b422aef425155ed5c4c6b0a47b91504e.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=277649">김세정 첫 단독 콘서트 ‘The 門’ ... "Sold Out"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230824111048_b422aef425155ed5c4c6b0a47b91504e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
