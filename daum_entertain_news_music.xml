@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-10-01T03:14:30.937Z</updated>
+    <updated>2023-10-01T06:19:15.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[몬엑 주헌→하현상 ‘힙하게’ OST, 음악이 주는 힘]]></title>
+        <id>https://v.daum.net/v/20231001142100922</id>
+        <link href="https://v.daum.net/v/20231001142100922"/>
+        <updated>2023-10-01T06:18:39.439Z</updated>
+        <content type="html"><![CDATA[드라마, 영화 등에는 여러 장치를 이용해 극의 몰입 효과를 더욱 높이는 작업을 한다. 대표적으로 이루어지는 건 ‘음악’이다. 장면에 입혀지는 음악을 통해 인물의 감정이나 작품의 분위기를 높인다. 종영을 앞둔 ‘힙하게’도 OST가 극의 서사를 더하는 특별한 힘을 확실히 보여줬다. JTBC 토일드라마 ‘힙하게’는 봉예분(한지민 분)과 문장열(이민기 분)의 좌충]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블랙핑크 재계약 지지부진의 숨은 속뜻]]></title>
         <id>https://v.daum.net/v/20231001120801418</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231001082524716"/>
         <updated>2023-10-01T00:58:35.420Z</updated>
         <content type="html"><![CDATA[아이돌 그룹의 활동 기간이 점점 줄어드는 것을 넘어 최근엔 아예 ‘활동 기간’이라는 개념 자체가 사라지고 있다. 주목할 만한 점은 과거 짧아지는 활동 기간에 아쉬움을 내비치던 것과 달리, 활동 기간이라는 개념 자체가 사라진 것은 오히려 반기는 기색이다. 현재 아이돌 활동 기간은 보통 음악방송 출연 기간으로 잡는데 대부분 1~2주 내에 활동을 마무리한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["美빌보드+VMAs+韓·日돔"..스키즈, 4세대 '최강 포식자' 행보]]></title>
-        <id>https://v.daum.net/v/20231001080801571</id>
-        <link href="https://v.daum.net/v/20231001080801571"/>
-        <updated>2023-09-30T23:12:09.613Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 한해선 기자] /사진=JYP엔터테인먼트 4세대 절대 강자는 역시 스트레이 키즈다. 스트레이 키즈(Stray Kids, 방찬 리노 창빈 현진 한 필릭스 승민 아이엔)가 4세대 보이 그룹 중 단연 앞선 행보로 국내와 해외의 'K팝 Z세대'를 이끌고 있다. 스트레이 키즈는 최근 데뷔 5년 만에 처음으로 고척돔 입성을 알렸다. 오는 10월 2]]></content>
     </entry>
 </feed>
