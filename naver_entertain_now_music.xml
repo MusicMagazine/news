@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-10-01T16:14:02.284Z</updated>
+    <updated>2023-10-01T18:16:45.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘핑크퐁’, 전 세계 80억 인구가 10번 넘게 봤다···브랜드 탄생 11주년 맞아 풍성한 행사]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000916095</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000916095"/>
+        <updated>2023-10-01T18:16:28.159Z</updated>
+        <content type="html"><![CDATA[글로벌 패밀리 엔터테인먼트 기업 더핑크퐁컴퍼니(대표 김민석)의 대표 IP ‘핑크퐁’이 탄생 11주년을 맞아 다양한 온·오프라인 행사를 통해 팬들과 만나고 있다. ‘핑크퐁’은 더핑크퐁컴퍼니를 대표하는 IP(지식재산권)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[2023 TMA D-8] 제로베이스원·라이즈, '괴물 신인'들의 첫 입성]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000241577</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000777707"/>
         <updated>2023-10-01T10:12:18.103Z</updated>
         <content type="html"><![CDATA[이우, 김한결이 만난 듀오 우결이 ‘사랑을 할꺼야’를 재해석한다. 듀오 우결(이우, 김한결)은 10월 1일 리메이크 싱글 ‘사랑을 할꺼야’를 발매한다. 최근 발표한 싱글 ‘상록수’에서 담백하고도 애수가 묻어나는 매력]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[십센치, 갑작스러운 미국 투어 취소 “아티스트 건강 문제, 팬 손해 부분은 최대한 보상”]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000916046</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000916046"/>
-        <updated>2023-10-01T10:12:18.105Z</updated>
-        <content type="html"><![CDATA[밴드 십센치(10CM·권정열)의 미국 투어가 취소됐다. 최근 십센치의 소속사 매직스트로베리사운드 측은 “오는 2일부터 13일까지로 예정됐던 십센치의 미국 투어가 기획사 내부 사정으로 부득이하게 취소됐다”고 밝혔다.]]></content>
     </entry>
 </feed>
