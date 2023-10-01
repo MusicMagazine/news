@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-10-01T02:26:52.798Z</updated>
+    <updated>2023-10-01T03:14:30.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블랙핑크 재계약 지지부진의 숨은 속뜻]]></title>
+        <id>https://v.daum.net/v/20231001120801418</id>
+        <link href="https://v.daum.net/v/20231001120801418"/>
+        <updated>2023-10-01T03:13:52.039Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 윤상근 기자] 블랙핑크 /사진제공=YG엔터테인먼트 걸그룹 블랙핑크(BLACKPINK, 지수 로제 제니 리사)가 재계약 시즌이 달린 '마의 7년'을 보내며 최다 211만명을 동원한 K팝 역사상 최대 규모 월드투어를 성공시킨 가운데 여전히 이후 행보에 대한 여러 이야기와 궁금증들을 더하고 있다. 재계약 여부를 떠나 월드투어 성공에 따른 긍정적 효]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지드래곤, YG 떠나 워너 뮤직 합류 공식화.."웰컴 GD"]]></title>
         <id>https://v.daum.net/v/20231001095301628</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231001080801571"/>
         <updated>2023-09-30T23:12:09.613Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 한해선 기자] /사진=JYP엔터테인먼트 4세대 절대 강자는 역시 스트레이 키즈다. 스트레이 키즈(Stray Kids, 방찬 리노 창빈 현진 한 필릭스 승민 아이엔)가 4세대 보이 그룹 중 단연 앞선 행보로 국내와 해외의 'K팝 Z세대'를 이끌고 있다. 스트레이 키즈는 최근 데뷔 5년 만에 처음으로 고척돔 입성을 알렸다. 오는 10월 2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퍼플키스, 추석 맞이 '7HEAVEN' 릴레이 댄스 한복 버전 공개]]></title>
-        <id>https://v.daum.net/v/20231001080549551</id>
-        <link href="https://v.daum.net/v/20231001080549551"/>
-        <updated>2023-09-30T23:12:09.617Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자] 그룹 퍼플키스(PURPLE KISS)가 추석 연휴 색다른 명절 선물을 전했다. 퍼플키스(나고은, 도시, 이레, 유키, 채인, 수안)는 지난달 30일 공식 SNS를 통해 싱글 1집 'FESTA'(페스타)의 타이틀곡 '7HEAVEN'(세븐헤븐) 릴레이 댄스 한복 버전 영상을 공개했다. 공개된 영상 속 퍼플키스는 6인 6색의 러블리한]]></content>
     </entry>
 </feed>
