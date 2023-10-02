@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-10-02T01:51:37.321Z</updated>
+    <updated>2023-10-02T02:20:58.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[싸이커스, 첫 월드투어 도쿄 콘서트 전석 매진…글로벌 슈퍼루키]]></title>
+        <id>https://v.daum.net/v/20231002110407414</id>
+        <link href="https://v.daum.net/v/20231002110407414"/>
+        <updated>2023-10-02T02:20:16.399Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 보이그룹 싸이커스(xikers)가 첫 월드투어 공연을 매진시키며 글로벌 인기를 입증했다. 10월 2일 소속사 KQ엔터테인먼트에 따르면 싸이커스의 첫 월드투어 ‘트리키 하우스 : 퍼스트 인카운터(TRICKY HOUSE : FIRST ENCOUNTER)’ 일본 도쿄 공연은 전석 매진됐다. 데뷔 5개월 만에 첫 월드투어 개최 소식을 알]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[판타지보이즈, 韓日 넘어 ‘글로벌 열풍 확산’]]></title>
         <id>https://v.daum.net/v/20231002102928901</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231002085823584"/>
         <updated>2023-10-02T01:50:58.766Z</updated>
         <content type="html"><![CDATA[[OSEN=선미경 기자] 케이블채널 엠넷 '보이즈 플래닛' TOP10 제이창이 정식 데뷔일을 확정했다. 제이창은 지난 1일 0시 공식 SNS를 통해 첫 번째 미니앨범 'Late Night(레이트 나이트)'의 무드 콘셉트 티저 이미지를 공개했다. 두 장의 이미지는 빈티지한 색감과 소품을 통해 레트로한 무드를 자아낸다. 특히 드럼, 일렉기타 등의 악기들 뒤]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이프릴 출신 이진솔, 오늘 디지털 싱글 ‘NEVER’ 발매]]></title>
-        <id>https://v.daum.net/v/20231002084345450</id>
-        <link href="https://v.daum.net/v/20231002084345450"/>
-        <updated>2023-10-02T01:50:58.768Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 그룹 에이프릴(APRIL) 출신 가수 이진솔이 컴백한다. 이진솔은 10월 2일 오후 6시 각종 음원 사이트를 통해 두 번째 디지털 싱글 '네버(NEVER)'를 발표한다. '네버'는 최근 220엔터테인먼트와 전속계약을 체결하고 활동 제2막을 선언한 이진솔이 지난해 발매한 데뷔 7년 만의 첫 자작곡 '렛 미 아웃(Let me out)]]></content>
     </entry>
 </feed>
