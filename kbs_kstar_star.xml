@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Oct 2023 23:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Oct 2023 00:57:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 '컴프롬어웨이'  11월 한국 초연...  "911 그날, 캐나다 작은마을 갠더에서 생긴 일"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=282548</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=282548</guid>
+            <pubDate>Tue, 03 Oct 2023 00:55:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282548">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230927112825_a5432ef6caf2ccbdab76f9bf72f768ca.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282548">뮤지컬 '컴프롬어웨이'  11월 한국 초연...  "911 그날, 캐나다 작은마을 갠더에서 생긴 일"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230927112825_a5432ef6caf2ccbdab76f9bf72f768ca.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안희연, 첫 연극 ‘3일간의 비’ 대성공.. "1인 2역, 관객 울고 웃겼다"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=282840</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=280216">"'무빙' 봤으면..."  ‘강풀 유니버스’ IP 줄줄이 흥행... ‘아파트’, ‘타이밍’, ‘어게인’, ‘조명가게’, ‘무빙’, ‘브릿지’ </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230912073702_58c305ea98a04d424e3dd08a959a02f5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스, 미국 롤링스톤 특별화보집 ‘Zine’.. .눈부신 완전체 아우라!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=279880</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=279880</guid>
-            <pubDate>Fri, 08 Sep 2023 01:45:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=279880">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230908095544_ea4b8ed2089d76c64bb7fc4969558cd9.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=279880">뉴진스, 미국 롤링스톤 특별화보집 ‘Zine’.. .눈부신 완전체 아우라!</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230908095544_ea4b8ed2089d76c64bb7fc4969558cd9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
