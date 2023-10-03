@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-10-03T01:50:43.102Z</updated>
+    <updated>2023-10-03T02:22:05.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘새 女 멤버 합류’ 비쥬 “신인으로 데뷔하듯 설레는 마음”]]></title>
+        <id>https://v.daum.net/v/20231003105325575</id>
+        <link href="https://v.daum.net/v/20231003105325575"/>
+        <updated>2023-10-03T02:21:27.627Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김한길 기자] 혼성 듀엣 비쥬(Bijou)가 새 싱글로 리스너들에게 설렘을 전한다. 3일 정오 각종 온라인 음원 사이트를 통해 비쥬의 신곡 ‘두근거리지마’가 공개된다. 비쥬의 ‘두근거리지마’는 듣는 모두가 공감할 수 있는 풋풋하고 솔직한 사랑 이야기를 비쥬만의 감성과 목소리로 담백하게 풀어낸 곡이다. 특히 이번 신곡은 비쥬의 리더 주민이 작사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이달의 소녀 소송, 블록베리는 포기할 생각이 전혀없다]]></title>
         <id>https://v.daum.net/v/20231003101502992</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231003084646656"/>
         <updated>2023-10-03T00:57:05.662Z</updated>
         <content type="html"><![CDATA[그룹 킹덤(KINGDOM) 훤이 묘한 분위기로 눈길을 끌었다. 킹덤(훤, 자한, 단, 아서, 무진, 루이, 아이반)은 3일 자정 공식 SNS를 통해 미니 7집 ‘History Of Kingdom : Part Ⅶ. JAHAN(히스토리 오브 킹덤 : 파트 7. 자한)’ 훤의 개인 콘셉트 포토를 공개했다. 이날 공개된 사진 속 훤은 카키색 의상에 금발 헤]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온앤오프, 청량돌의 정석 귀환]]></title>
-        <id>https://v.daum.net/v/20231003083921600</id>
-        <link href="https://v.daum.net/v/20231003083921600"/>
-        <updated>2023-10-03T00:57:05.662Z</updated>
-        <content type="html"><![CDATA[[OSEN=김채연 기자] 온앤오프(ONF)가 컴백을 하루 앞둔 가운데 신곡&nbsp;'바람이 분다&nbsp;(Love Effect)'의 두 번째 뮤직비디오 티저를 공개했다. 3일 소속사&nbsp;WM엔터테인먼트는 공식 유튜브 채널 및&nbsp;SNS&nbsp;채널을 통해 온앤오프의 일곱 번째 미니 앨범&nbsp;'러브 이펙트(LOVE EFFECT)'의 타이틀곡&nbsp;'바람이 분다&nbsp;(Love Effect)'&nbsp;뮤직비]]></content>
     </entry>
 </feed>
