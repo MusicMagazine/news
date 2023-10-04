@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 19:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 22:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["엘런 튜링의 이야기를 들어봐!" 연극 '튜링머신'..  11월 LG아트센터 U+스테이지 초연]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=282553</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=282553</guid>
+            <pubDate>Wed, 04 Oct 2023 22:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282553">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230927113419_f8409bd21ec1c95c7c9ff43e74c89c6c_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282553">"엘런 튜링의 이야기를 들어봐!" 연극 '튜링머신'..  11월 LG아트센터 U+스테이지 초연</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230927113419_f8409bd21ec1c95c7c9ff43e74c89c6c_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 '컴프롬어웨이'  11월 한국 초연...  "911 그날, 캐나다 작은마을 갠더에서 생긴 일"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=282548</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=280630">뮤지컬 '시스트 액트' 글로벌 오디션,  실력파 라인업  완성</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230914090926_136ed56b5535f830ab7856f08956bf22.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["'무빙' 봤으면..."  ‘강풀 유니버스’ IP 줄줄이 흥행... ‘아파트’, ‘타이밍’, ‘어게인’, ‘조명가게’, ‘무빙’, ‘브릿지’]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=280216</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=280216</guid>
-            <pubDate>Mon, 11 Sep 2023 23:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=280216">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230912073702_58c305ea98a04d424e3dd08a959a02f5.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=280216">"'무빙' 봤으면..."  ‘강풀 유니버스’ IP 줄줄이 흥행... ‘아파트’, ‘타이밍’, ‘어게인’, ‘조명가게’, ‘무빙’, ‘브릿지’ </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230912073702_58c305ea98a04d424e3dd08a959a02f5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
