@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-10-05T13:17:57.455Z</updated>
+    <updated>2023-10-05T14:12:32.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신예 엔싸인(n.SSign), 11월 29일 일본 정식 데뷔 확정]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000916820</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000916820"/>
+        <updated>2023-10-05T14:12:14.655Z</updated>
+        <content type="html"><![CDATA[신예 아이돌그룹 엔싸인(n.SSign)이 일본 데뷔를 확정했다. 5일 소속사 n.CH엔터테인먼트는 “엔싸인이 11월 29일 첫 싱글 앨범 ‘NEW STAR(뉴 스타)’를 발매하고 일본 데뷔 활동에 돌입한다”라고 밝혔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[난생 첫 팬레터에 눈물샘 터진 드림아카데미 참가자들]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000916812</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000961600"/>
         <updated>2023-10-05T10:14:19.983Z</updated>
         <content type="html"><![CDATA[6년 만에 디지털 싱글 ‘후디에 반바지’ 발표 비주얼 필름 공개 가수 이효리가 신곡 ‘후디에 반바지’로 돌아온다. 소속사 안테나는 5일 공식 SNS에 이효리의 디지털 싱글 ‘후디에 반바지’의 비주얼 필름을 공개했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['1750만 유튜버' 제이플라, 데뷔 10년만 첫 단콘 28일 개최]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003186017</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003186017"/>
-        <updated>2023-10-05T10:14:19.986Z</updated>
-        <content type="html"><![CDATA[싱어송라이터 제이플라(J.Fla)가 데뷔 첫 단독 콘서트를 개최한다. 제이플라는 28일 서울 강남구 성암아트홀에서 데뷔 첫 단독 콘서트 'J.Fla First Concert 'FLARE''(이하 'FLARE')를 개]]></content>
     </entry>
 </feed>
