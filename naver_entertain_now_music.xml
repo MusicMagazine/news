@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-10-06T17:12:15.762Z</updated>
+    <updated>2023-10-06T20:13:11.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[르세라핌 김채원·허윤진·카즈하 A형 독감 판정, 방콕 공연 하루 전 취소[전문]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000780024</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000780024"/>
+        <updated>2023-10-06T20:12:53.702Z</updated>
+        <content type="html"><![CDATA[그룹 르세라핌이 김채원, 허윤진, 카즈하의 A형 독감 증세로 태국 방콕 공연을 취소했다. 10월 6일 르세라핌 소속사 쏘스뮤직은 팬 커뮤니티 플랫폼 위버스에 “10월 7일(토)-8일(일) 양일간 예정된 2023 LE]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[르세라핌, 방콕 공연 취소…"김채원·허윤진·카즈하 A형 독감판정"]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012132860</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0012132723"/>
         <updated>2023-10-06T12:26:17.820Z</updated>
         <content type="html"><![CDATA[1970년대 국내를 풍미한 노래 '해변으로 가요'를 부른 그룹사운드 '키보이스' 2기 멤버 박명수가 별세했다. 향년 81. 6일 박성서 대중음악 평론가 등 대중음악계에 따르면, 박명수는 5일(현지시간) 미국 라스베이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키보이스 박명수 별세, 향년 81…'해변으로 가요' 목소리]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012132717</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0012132717"/>
-        <updated>2023-10-06T12:26:17.821Z</updated>
-        <content type="html"><![CDATA[1970년대를 풍미한 대중음악 노래 '해변으로 가요'를 부른 그룹사운드 '키보이스' 2기 멤버 박명수가 별세했다. 향년 81. 6일 박성서 대중음악 평론가 등 대중음악계에 따르면, 박명수는 5일(현지시간) 미국 라스]]></content>
     </entry>
 </feed>
