@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-10-08T18:17:30.034Z</updated>
+    <updated>2023-10-08T19:10:19.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘제20회 자라섬 재즈 페스티벌’ 인상적 공연 이어져]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000917256</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000917256"/>
+        <updated>2023-10-08T19:10:00.289Z</updated>
+        <content type="html"><![CDATA[경기도 가평군 자라섬 일대에서 ‘제20회 자라섬 재즈 페스티벌’이 지난 6일부터 나흘 일정으로 펼쳐지고 았다. 올해 20주년을 맞는 자라섬 재즈 페스티벌 축제 첫날은 무료 전야제로 꾸며졌고 7일부터 9일까지 줄리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조용필, 평론가가 뽑은 '우리 시대 최고 가수']]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012134907</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001647561"/>
         <updated>2023-10-08T10:16:50.100Z</updated>
         <content type="html"><![CDATA[그룹 아이브(IVE)가 신곡부터 히트곡 퍼레이드까지 아낌없이 무대를 선보이며 첫 월드투어 포문을 힘차게 열었다. 아이브(안유진, 가을, 레이, 장원영, 리즈, 이서)의 첫 번째 월드 투어 '쇼 왓 아이 해브'(IVE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아시아 최고 쌍둥이 틱톡커, 판타지 보이즈 챌린지 참여..글로벌 화제]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003186710</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003186710"/>
-        <updated>2023-10-08T10:16:50.102Z</updated>
-        <content type="html"><![CDATA[보이 그룹 판타지 보이즈(FANTASY BOYS)의 데뷔곡 'NEW TOMORROW'(뉴 투모로우) 챌린지가 연일 화제를 모으고 있다. 8일 소속사 포켓돌 스튜디오에 따르면 팔로워 1400만 명을 보유한 필리핀 유명]]></content>
     </entry>
 </feed>
