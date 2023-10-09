@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-10-09T11:17:24.156Z</updated>
+    <updated>2023-10-09T13:18:17.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[임영웅 또 해냈다..비주얼→퍼포먼스 다 되는 싱송라 [★FOCUS]]]></title>
+        <title type="html"><![CDATA['역시 임영웅'…신곡 '두 오어 다이' 음원 차트 정상(종합)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0014250603</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0014250603"/>
+        <updated>2023-10-09T13:18:01.219Z</updated>
+        <content type="html"><![CDATA[후회 없는 매일 보내자는 메시지 직접 작사…화려한 뮤비 화제 가수 임영웅의 새 디지털 싱글 '두 오어 다이'(Do or Die)가 9일 오후 발매되자 3시간 만에 국내 최대 음원 플랫폼 멜론의 '톱 100' 차트 1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Do or Die' 차트 1위..임영웅 또 해냈다! 비주얼→퍼포먼스 다 되는 싱송라 [★FOCUS]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003186841</id>
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003186841"/>
         <updated>2023-10-09T11:17:05.480Z</updated>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000962132"/>
         <updated>2023-10-09T10:17:29.607Z</updated>
         <content type="html"><![CDATA[그룹 킹덤(KINGDOM)이 카리스마 갖춘 비주얼을 선보였다. 킹덤(훤, 자한, 단, 아서, 무진, 루이, 아이반)은 9일 자정 공식 SNS를 통해 미니 7집 ‘History Of Kingdom : Part Ⅶ. J]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘라이즈 앤톤父’ 윤상 “어릴 때부터 하체 힘 좋아”…임현태에,‘임신 자부심’(동상이몽)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000987795</id>
-        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000987795"/>
-        <updated>2023-10-09T10:17:29.608Z</updated>
-        <content type="html"><![CDATA[가수 윤상. 사진 | SBS ‘동상이몽2 - 너는 내 운명’ 그룹 라이즈 앤톤의 부친이자 가수 윤상이 26세 어린 후배 임현태에게 ‘임신 부심’을 드러냈다. 9일 방송되는 SBS ‘동상이몽 시즌2 - 너는 내 운명’]]></content>
     </entry>
 </feed>
