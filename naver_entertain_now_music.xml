@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-10-12T17:12:20.529Z</updated>
+    <updated>2023-10-12T19:11:03.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['씨제스 보이그룹' 휘브, '전원 배우상' 비주얼...5세대 대표주자 예감]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001272969</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001272969"/>
+        <updated>2023-10-12T19:10:43.431Z</updated>
+        <content type="html"><![CDATA['배우 명가' 씨제스 스튜디오가 론칭하는 보이그룹 휘브(WHIB)가 데뷔 프로모션을 시작했다. 12일 0시 휘브의 공식 소셜미디어 계정에 그룹 트레일러가 공개됐다. 공개된 영상 속 휘브는 새하얀 바닥과 벽으로 둘러싸]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로시, 신곡 ‘썸띵 캐주얼’ 컴백 활동 본격 돌입]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000918204</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000918169"/>
         <updated>2023-10-12T12:22:56.509Z</updated>
         <content type="html"><![CDATA[글로벌 신예 아이돌 소디엑(XODIAC)이 첫 번째 싱글 타이틀곡 ‘ONLY FUN’의 컴백 스케줄러를 공개했다. 소디엑은 지난 11일 공식 SNS를 통해 첫 번째 싱글 타이틀곡 ‘ONLY FUN’의 스케줄러를 공개]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘글로벌 최애’ 파우(POW), 정식 데뷔 당일 태국 아이튠즈 앨범·송 차트 동시 1]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000918168</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000918168"/>
-        <updated>2023-10-12T12:22:56.510Z</updated>
-        <content type="html"><![CDATA[신예 아이돌그룹 파우(POW)가 정식 데뷔와 동시에 글로벌한 존재감을 드러냈다. 12일 글로벌 음원 스트리밍 플랫폼 아이튠즈에 따르면, 전날 발매된 파우의 첫 번째 EP ‘Favorite (페이버릿)’과 타이틀곡 ‘]]></content>
     </entry>
 </feed>
