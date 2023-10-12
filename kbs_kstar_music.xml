@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 22:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 00:49:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[투모로우바이투게더, 신곡 'Chasing That Feeling' 뮤직비디오 티저]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=283887</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=283887</guid>
+            <pubDate>Thu, 12 Oct 2023 00:48:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=283887">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231012080007_6f0de7e6e8b2ff68b216c36543049076.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=283887">투모로우바이투게더, 신곡 'Chasing That Feeling' 뮤직비디오 티저 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231012080007_6f0de7e6e8b2ff68b216c36543049076.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴진스, ‘2023 더팩트 뮤직 어워즈’ 2관왕.. ‘올해의 아티스트’·‘리스너스 초이스’]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=283787</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=279825">르세라핌, ‘FLAME RISES’ 일본 공연 성료..  첫 단독 공연에 6만 관객 운집</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230908084242_d96adbf6931812fcc9838af6098c5803.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뷔, 솔로앨범 'Layover' 콘셉트 포토...  "바다, 햇살 그리고 김태형"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=279576</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=279576</guid>
-            <pubDate>Wed, 06 Sep 2023 00:51:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=279576">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230906083928_606666a2cd56b88e64499055b4be1f28.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=279576">뷔, 솔로앨범 'Layover' 콘셉트 포토...  "바다, 햇살 그리고 김태형" </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230906083928_606666a2cd56b88e64499055b4be1f28.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
