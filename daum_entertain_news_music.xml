@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-10-13T19:14:03.891Z</updated>
+    <updated>2023-10-13T21:11:11.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[성시경과 나얼 목소리에 얹어질, 박주연의 가사]]></title>
+        <id>https://v.daum.net/v/20231014060011394</id>
+        <link href="https://v.daum.net/v/20231014060011394"/>
+        <updated>2023-10-13T21:10:34.017Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김노을 기자]  가수 성시경 /사진=이동훈 기자 photoguy@가수 성시경과 나얼의 감성적인 목소리에 작사가 박주연의 섬세한 가사가 수놓아진다. 성시경은 오는 19일 싱글 '잠시라도 우리'를 발매한다. 이번 신곡은 지난 2021년 5월 발표한 정규 8집 앨범 'ㅅ'(시옷) 이후 2년 5개월 만에 내놓는 것으로, 가을 분위기에 어울리는 발라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["지민 생일 축하해"…전세계 아미, 부산 父 카페로 총출동]]></title>
         <id>https://v.daum.net/v/20231013230002565</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231013160407768"/>
         <updated>2023-10-13T07:11:52.451Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김지현 기자] "(방탄소년단과 재계약은) 하이브를 인정해 줬다는 의미라 그 자체라 기쁘다" 방시혁 하이브 의장은 12일(현지시간) 미국 할리우드에서 열린 '블룸버그 스크린타임'에서 초청 대담자로 나섰다. 이날 방 의장은 방탄소년단과의 두 번째 재계약에 대한 의미를 묻는 질문에 "(하이브라는) 기업 성장에 있어서 방탄소년단이 필요한 건 당연하다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["눈가 주름 많아도 괜찮아"…이효리, 외모 소신 발언 '응원']]></title>
-        <id>https://v.daum.net/v/20231013155002184</id>
-        <link href="https://v.daum.net/v/20231013155002184"/>
-        <updated>2023-10-13T07:11:52.452Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 명희숙 기자) 가수 이효리가 자신의 외모에 대한 소신발언을 한 뒤 많은 응원을 받고 있다.&nbsp; 이효리는 지난 12일 신곡 '후디에 반바지' 발매를 기념해 컴백 라이브 방송을 진행했다. 방송 종료 이후 숙소로 돌아온 또 한 차례 방송을 이어가며 팬들과 오랜 소통을 이어갔다.&nbsp; 이효리는 "인스타를 다시 만들고 라이브 처음한다. 노래방 사건 이후로]]></content>
     </entry>
 </feed>
