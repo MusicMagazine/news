@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Oct 2023 21:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Oct 2023 22:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[투모로우바이투게더, 컴백 쇼케이스.. '이름의 장: FREEFALL']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=284372</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=284372</guid>
+            <pubDate>Sun, 15 Oct 2023 22:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=284372">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231016070911_0a6c3cd766b53de3f5f558ea8304d413.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=284372">투모로우바이투게더, 컴백 쇼케이스.. '이름의 장: FREEFALL' </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231016070911_0a6c3cd766b53de3f5f558ea8304d413.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 제니 'You & Me', 유튜브 인기곡·MV 차트 1위]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=284301</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=280534">블랙핑크, MTV VMAs 올해의 그룹·베스트 안무 2관왕 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230913153033_a9125bb375d540cbe349e017ed494689.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[발라드 여제 거미, 5개 도시 투어 콘서트...  ‘GUMMY Tour Concert 2023 LOVE’]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=280529</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=280529</guid>
-            <pubDate>Wed, 13 Sep 2023 08:19:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=280529">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230913152649_64f9316b7366b531862d5b0d569e5633.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=280529">발라드 여제 거미, 5개 도시 투어 콘서트...  ‘GUMMY Tour Concert 2023 LOVE’ </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230913152649_64f9316b7366b531862d5b0d569e5633.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
