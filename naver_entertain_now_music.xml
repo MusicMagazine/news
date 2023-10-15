@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-10-15T17:13:57.040Z</updated>
+    <updated>2023-10-15T20:17:26.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김동률, 곡절이 깃든 '古典의 품격'…'마스터' 증명한 '멜로디']]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012147705</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0012147705"/>
+        <updated>2023-10-15T20:17:06.395Z</updated>
+        <content type="html"><![CDATA['고전(古典)'이라 불러도 절대 과하지 않다. 싱어송라이터 김동률이 4년 만에 연 콘서트 '멜로디(Melody)'는 그의 숱한 히트곡들이 유행가를 넘어 어떻게 대중음악계 반석(磐石)이 됐는지를 증거한 자리다. 지난]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[투바투 정규 3집, 日 '데일리 앨범 랭킹' 1위 데뷔]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012147627</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005596546"/>
         <updated>2023-10-15T06:15:10.312Z</updated>
         <content type="html"><![CDATA[걸그룹 뉴진스의 ‘디토’(Ditto) 퍼포먼스 비디오가 유튜브 조회수 1억뷰를 넘겼다. 15일 소속사 어도어에 따르면 뉴진스의 싱글 앨범 ‘OMG’의 수록곡 ‘디토’ 퍼포먼스 비디오 유튜브 조회수는 이날 오후 12시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴진스, '디토' 퍼포먼스 비디오 1억뷰 돌파…억대 조회수 4편 보유]]></title>
-        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003779685</id>
-        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003779685"/>
-        <updated>2023-10-15T06:15:10.312Z</updated>
-        <content type="html"><![CDATA[그룹 뉴진스(NewJeans)가 여전히 뜨거운 '디토(Ditto)'의 인기를 과시했다. 뉴진스(민지, 하니, 다니엘, 해린, 혜인) 싱글 앨범 'OMG'의 수록곡 '디토(Ditto)' 퍼포먼스 비디오 유튜브 조회 수]]></content>
     </entry>
 </feed>
