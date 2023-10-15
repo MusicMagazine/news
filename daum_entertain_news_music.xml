@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-10-15T03:13:15.808Z</updated>
+    <updated>2023-10-15T04:14:34.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[투모로우바이투게더, 컴백 쇼케이스 성료 "잊지 못할 추억 만들어 드리고 싶어"]]></title>
+        <id>https://v.daum.net/v/20231015130609583</id>
+        <link href="https://v.daum.net/v/20231015130609583"/>
+        <updated>2023-10-15T04:13:54.793Z</updated>
+        <content type="html"><![CDATA[“모아를 세상에서 가장 행복한 사람으로 만들어 줄 무대” 투모로우바이투게더가 전 세계 팬들과 함께하는 컴백 쇼케이스를 성황리에 개최했다. 지난 14일 투모로우바이투게더(수빈, 연준, 범규, 태현, 휴닝카이)는 서울 경희대학교 평화의전당에서 정규 3집 '이름의 장: FREEFALL' 발매 기념 쇼케이스를 개최했다. 약 100분 동안 진행된 쇼케이스에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[저스트비 "3년차 성적 부담…좋은 음악의 힘 믿어"]]></title>
         <id>https://v.daum.net/v/20231015115018719</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231015083001019"/>
         <updated>2023-10-15T00:59:05.284Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 윤상근 기자] /사진제공=YG엔터테인먼트 YG엔터테인먼트(이하 YG) 새 걸그룹 베이비몬스터(BABYMONS7ER, 아현 루카 치키타 하람 파리타 로라 아사)의 9월 복귀는 결국 무산됐지만 다행히도 가을 내 데뷔는 확정을 지었다. 블랙핑크 홀로서기 이슈로 다소 어수선한 YG에게 베이비몬스터의 데뷔가 한줄기 빛이 될수 있을 것인지 궁금해진다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어긋나서 더 애틋...‘연인’ 남궁민·안은진 감정선 폭발, 순간 최고시청률 11.3%]]></title>
-        <id>https://v.daum.net/v/20231015082324989</id>
-        <link href="https://v.daum.net/v/20231015082324989"/>
-        <updated>2023-10-15T00:59:05.291Z</updated>
-        <content type="html"><![CDATA[‘연인’ 남궁민은 또 한번 안은진을 구해낼 수 있을까. 10월 15일 시청률 조사회사 닐슨코리아에 따르면 10월 14일 방송된 MBC 금토드라마 ‘연인’(기획 홍석우/연출 김성용 이한준 천수진/극본 황진영) 12회는 수도권 기준 9.5%, 전국 기준 9.3%의 시청률을 기록했다. 이는 전 회 대비 각각 1.6%P, 2%P 상승한 수치이다. 순간 최고 시청]]></content>
     </entry>
 </feed>
