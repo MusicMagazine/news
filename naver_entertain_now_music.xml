@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-10-16T17:15:39.667Z</updated>
+    <updated>2023-10-16T18:20:50.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤직카우 “ISO27701 인증 추가 획득”]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000918927</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000918927"/>
+        <updated>2023-10-16T18:20:31.260Z</updated>
+        <content type="html"><![CDATA[음악수익증권 플랫폼 뮤직카우가 ISMS-P, ISO27001에 이어 글로벌 개인정보보호관리체계 인증인 ‘ISO 27701’을 획득하며 국내외 최고 수준의 개인정보보호 및 정보보안 체계를 공식적으로 인증 받았다고 16]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[밴드 기프트, 새 싱글 ‘아직 끝나지 않은 이야기’ MV 라이브 클립 티저 공개]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000918924</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005597518"/>
         <updated>2023-10-16T12:26:04.507Z</updated>
         <content type="html"><![CDATA[키나(사진=이데일리DB) 피프티 피프티(사진=이데일리DB) 그룹 피프티 피프티(키나, 새나, 시오, 아란)와 소속사 어트랙트(대표이사 전홍준) 간의 전속계약 분쟁 사태가 새 국면을 맞았다. 멤버 중 키나가 법적 분쟁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘20주년’ 이효리, 힘 빼고 포장지 달라져도 영원한 ‘시대의 아이콘’[SS스타]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000990379</id>
-        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000990379"/>
-        <updated>2023-10-16T12:26:04.512Z</updated>
-        <content type="html"><![CDATA[가수 이효리. 사진 | 안테나 이효리가 돌아왔다. 시대의 아이콘이자 영원한 디바 이효리가 6년 만에 새 음원을 들고 가요계에 돌아왔다. 이효리의 신곡 ‘후디에 반바지’로 타인의 시선을 신경 쓰기보다 덥지도 춥지도 않]]></content>
     </entry>
 </feed>
