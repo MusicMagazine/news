@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-10-16T19:17:08.616Z</updated>
+    <updated>2023-10-16T20:14:08.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에스파 미디어 전시, Z가 다녀왔다]]></title>
+        <id>https://v.daum.net/v/20231017050507791</id>
+        <link href="https://v.daum.net/v/20231017050507791"/>
+        <updated>2023-10-16T20:13:24.537Z</updated>
+        <content type="html"><![CDATA[K팝 아이돌 IP 비즈니스가 다양해지고 있다. 포토카드를 중심으로 한 굿즈는 물론, 다양한 팝업 스토어를 통해 패션이나 전시까지 영역을 확장하고 있다. 단순히 "물 들어올 때 노 저어라“ 같은 의미가 아니다. 다양한 세계관의 확장 덕분에 성장하고 있는 IP 비지니스의 좋은 예라고 봐야할 것 같다. 이제는 아이돌을 주인공으로 하는 미디어전시까지 마련되고 있]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공승연→잔나비·엑스디너리 히어로즈 ‘코리아 온 스테이지 인 런던’ 티저 공개]]></title>
         <id>https://v.daum.net/v/20231017010011729</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231016190858839"/>
         <updated>2023-10-16T12:25:39.949Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 윤상근 기자] 걸그룹 피프티피프티(FIFTY FIFTY) /사진=이동훈 기자 photoguy@ 걸그룹 피프티 피프티(새나 아란 키나 시오)가 돌연 전속계약 효력정지 가처분 신청을 취하한 가운데 멤버 키나를 제외한 3명의 소송 진행은 계속된다. 피프티 피프티는 16일 서울고등법원에 전속계약 효력정지 가처분에 대한 항고취하서를 제출했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[선미 “20대 초반, 빨대로 소주 한병” 고백에 신동엽 “우리 세계 초절정 고수나 먹던 것” 깜짝]]></title>
-        <id>https://v.daum.net/v/20231016190329761</id>
-        <link href="https://v.daum.net/v/20231016190329761"/>
-        <updated>2023-10-16T12:25:39.951Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 박효실기자] 선미가 뜻밖의 주당 DNA를 발견한데 이어 인생 술을 찾았다. 16일 업로드 된 유튜브채널 ‘짠한형 신동엽’에 ‘일곱번째 짠’의 주인공으로 가수 선미가 출연했다. 선미는 “이제 서른 하나가 됐는데 아직 술을 잘 못해서 술을 좀 제대로 배우러 왔다”고 말해, 주당 신동엽의 아빠미소를 불렀다. 신동엽이 맞는 주종을 찾아야 한다]]></content>
     </entry>
 </feed>
