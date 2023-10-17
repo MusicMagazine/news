@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 23:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 02:23:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국립정동극장 예술단 '암덕: 류(流)의 기원'..  남사당놀이의 예술혼과 생명력, 현대적 이미지로 재탄생]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=284535</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=284535</guid>
+            <pubDate>Tue, 17 Oct 2023 02:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=284535">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231017082413_61483cea2afb2e8f26305bbaa6855a52.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=284535">국립정동극장 예술단 '암덕: 류(流)의 기원'..  남사당놀이의 예술혼과 생명력, 현대적 이미지로 재탄생</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231017082413_61483cea2afb2e8f26305bbaa6855a52.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["엘런 튜링의 이야기를 들어봐!" 연극 '튜링머신'..  11월 LG아트센터 U+스테이지 초연]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=282553</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=280706">[화보] 안경 쓴 아이유.. '엘르' 커버 장식</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230915090528_0ae028f15e62bd390a5b0218b61588f6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 '시스트 액트' 글로벌 오디션,  실력파 라인업  완성]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=280630</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=280630</guid>
-            <pubDate>Thu, 14 Sep 2023 00:52:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=280630">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230914090926_136ed56b5535f830ab7856f08956bf22.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=280630">뮤지컬 '시스트 액트' 글로벌 오디션,  실력파 라인업  완성</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230914090926_136ed56b5535f830ab7856f08956bf22.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
