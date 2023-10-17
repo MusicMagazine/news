@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 15:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 16:16:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,14 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230915090528_0ae028f15e62bd390a5b0218b61588f6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[움짤] 선미, 웃픈 '기묘한 재채기' 현장 (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/397644</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/397644</guid>
+            <pubDate>Tue, 17 Oct 2023 16:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/397644" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/10/18/91e63659-fc66-43c9-bef3-cf0bdb674974.jpg" alt="[움짤] 선미, 웃픈 '기묘한 재채기' 현장">        <div class="text-box">            <p class="summary">[움짤] 선미, 웃픈 '기묘한 재채기' 현장</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/10/18/91e63659-fc66-43c9-bef3-cf0bdb674974.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[에스파 윈터, 치명적인 상큼美 자체발광 비주얼 자랑 (MBC 연예 ─ 아이돌)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/397642</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/397642</guid>
@@ -768,12 +776,11 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/10/17/9ecc5447-5fde-4e07-846b-2b4c55cc8c25.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[선미 "진지+코믹=선미스러운 '스트레인저'" (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/397592</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/397592</guid>
-            <pubDate>Tue, 17 Oct 2023 07:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/397592" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/10/17/78446a7a-daf1-4c39-a9cb-9f65eaafbc9f.jpg" alt="선미 " 진지+코믹="선미스러운" '스트레인저'""="">        <div class="text-box">            <p class="summary">선미 "진지+코믹=선미스러운 '스트레인저'"</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/10/17/78446a7a-daf1-4c39-a9cb-9f65eaafbc9f.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[샘 스미스, 파격 또 파격…성별·경계 부순 '사랑의 천태만상' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20231018001904666</link>
+            <guid>https://v.daum.net/v/20231018001904666</guid>
+            <pubDate>Tue, 17 Oct 2023 16:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 이태수 기자 = '나는 떠나기 싫어요, 내 손을 잡아줄래요?'(스테이 위드 미·Stay With Me)라던 순수한 사랑의 감정부터 퇴폐 업소에서 '불경한 짓'을 하는 남편과의 관계(언홀리·Unholy)까지. 요즘 가장 뜨거운 인기를 자랑하는 영국 출신 팝스타 샘 스미스가 그려낸 사랑의 스펙트럼은 이처럼 넓었다. 장내를 가로질러 휘젓는 선명]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['K팝 세계관 끝판왕' 킹덤, '태양의 왕'으로 일으킬 '쿠데타' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
@@ -874,11 +881,32 @@
             <content:encoded><![CDATA[(엑스포츠뉴스 명희숙 기자) 예상치 못한 반전이 벌어졌다. 그동안 불리한 여론 속에서도 흔들림 없이 자신들의 주장을 이어갔던 피프티 피프티가 결국 균열 조짐을 보였다.&nbsp; 피프티 피프티 멤버 키나(본명 송자경)는 지난 16일 어트랙트를 상대로 낸 전속계약 효력정지 가처분에 대한 항고 취하서를 제출했다. 사실상 어트랙트에 다시 돌아가겠다는 의지를 보인 것.&nbsp;]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[유준원 자필 입장문.."김광수, 판타지 보이즈 휴대폰 수거한 행동 이해 無" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20231017173915403</link>
-            <guid>https://v.daum.net/v/20231017173915403</guid>
-            <pubDate>Tue, 17 Oct 2023 09:19:35 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 | 마포=이승훈 기자] /사진=유준원 유준원 자필 입장문 /사진=스타뉴스유준원은 호소를, 펑키스튜디오는 반박했다. 17일 오후 서울 마포구 공덕동 서울서부지방법원 417호 법정에서 유준원이 펑키스튜디오를 상대로 제기한 전속계약 효력정지 가처분 심문기일이 열렸다. 이날 유준원은 캡 모자와 마스크를 착용한 채 심문기일에 직접 모습을 드러냈다.]]></content:encoded>
+            <title><![CDATA[잼리퍼블릭 커스틴 "엉덩이는 거짓말을 하지 않는다" 자신감 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20231018004800849</link>
+            <guid>https://v.daum.net/v/20231018004800849</guid>
+            <pubDate>Tue, 17 Oct 2023 16:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=이지민 기자] '스트릿 우먼 파이터2' 커스틴이 '배틀 퍼포먼스'미션에 자신감을 보였다. 17일 Mnet '스트릿 우먼 파이터2'(이하 '스우파2') 8회에서는 파이널을 향한 마지막 관문인 '배틀 퍼포먼스'미션이 진행됐다. 이날 행해진 배틀 퍼포먼스 미션과 화사의 신곡 시안 미션 합산 점수에 따라 최종 파이널에 오를 4크루가 가려질 예정이라]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[성시경 "백화점 명품관보다 시장이 더 설레... 20대로 돌아가도 맛집 투어" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20231018003401785</link>
+            <guid>https://v.daum.net/v/20231018003401785</guid>
+            <pubDate>Tue, 17 Oct 2023 16:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=이혜미 기자] 가수 성시경이 “백화점 명품관보다 시장 맛집이 더 설렌다”는 발언으로 연예계 대표 미식가의 면면을 뽐냈다. 17일 성시경이 운영하는 채널엔 경동시장 통닭집을 찾은 성시경의 모습이 공개됐다. 이날 경동시장을 찾은 성시경은 족발에서 치킨까지, 시장을 가득 채운 먹거리들을 보며 “남들은 백화점 명품관을 가면 두근거린다고 하는데 난 이런]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘스우파2’ 베베 신곡 미션 1위→마네퀸 6위... 원밀리언·잼 리퍼블릭 ‘탈락 위기’ (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20231018002701711</link>
+            <guid>https://v.daum.net/v/20231018002701711</guid>
+            <pubDate>Tue, 17 Oct 2023 16:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[‘스우파2’ 베베가 신곡 시안 미션에서 1위를 차지했다. 17일 방송된 Mnet 예능프로그램 ‘스트릿 우먼 파이터2’(이하 ‘스우파2’)에서는 파이널을 향한 마지막 관문인 ‘배틀 퍼포먼스’ 미션이 전파를 탔다. 이날 배틀 퍼포먼스 미션을 앞두고 스페셜 저지가 출연했다. 크루들은 “누구실까”, “완전 배틀러 분들 나오실 것 같다”고 예상했다. 크럼프로 세계]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['솔로 10년' 선미, 다채로운 비하인드로 돌아온 'STRANGER' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20231018002004674</link>
+            <guid>https://v.daum.net/v/20231018002004674</guid>
+            <pubDate>Tue, 17 Oct 2023 16:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[(MHN스포츠 정승민 기자) 긴 공백 끝에 돌아온 선미가 새 앨범을 통해 '솔로 아티스트 10년' 경력을 증명한다. 지난 17일 오후 서울 용산구 블루스퀘어 마스터카드홀에서 선미 새 디지털 싱글 'STRANGER' 발매 기념 미디어 쇼케이스가 열렸다. 'STRANGER'는 어느 누구도 흉내 낼 수 없는 아티스트로서의 '선미' 그 자체를 그려낸]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[베베, 원밀리언 꺾고 1위…마네퀸 탈락 위기 "꼴등 충격적" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
@@ -958,39 +986,11 @@
             <content:encoded><![CDATA[[TV리포트=이지민 기자] 배우 안세하가 가위를 잘 눌리는 체질이라고 밝혔다. 17일 MBC 예능프로그램 ‘심야괴담회’ 시즌 3에서 스페셜 게스트로 배우 안세하가 출연했다. 이날 안세하가 등장하자 안세하가 등장하자 MC들은 반갑게 맞이했다. 등장과 함께 긴장한 모습을 보이자 김숙은 “벌써부터 겁을 먹었다”, “강한 쫄보의 기운이 느껴진다. 좋아하는 게스]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['짠당포' 오대환 "한예종 출신인데 아이큐 88, 고3 담임이 돌고래 친구냐고" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20231017232730085</link>
-            <guid>https://v.daum.net/v/20231017232730085</guid>
-            <pubDate>Tue, 17 Oct 2023 15:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=이혜미 기자] 배우 오대환이 한국예술종합학교(이하 한예종) 합격 비화를 공개했다. 17일 JTBC '짠당포'에선 나쁜 놈들 전성시대 출신으로 오대환 김준배 현봉식이 게스트로 출연해 입담을 뽐냈다. 한예종 출신의 오대환은 "아이큐가 88이라는 소문이 있던데 진짠가?"라는 질문에 "내가 입시할 때만 해도 한예종은 공부보다 실기의 비중이 높았다. 그]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[장남만 아들인 부모 등 돌렸을 지언정..박수홍, 유재석→박경림이 ‘진짜’ 가족 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20231017232422059</link>
-            <guid>https://v.daum.net/v/20231017232422059</guid>
-            <pubDate>Tue, 17 Oct 2023 15:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=강서정 기자] 박수홍 부모가 장남만 품에 안고 차남 박수홍에게서 등을 돌렸다. 자식을 버렸다고 해도 과언이 아닐 정도로 박수홍에게 남보다 못한 태도를 취한 부모. 장남 살리겠다고 박수홍의 과거까지 들춰내고 박수홍의 동료를 깎아내리는 등 막말을 쏟아냈다.&nbsp; 지난 13일 서울서부지법 형사합의11부에서 특정경제범죄 가중처벌 등에 관한 법률(횡령)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“코인 노래방이냐” 탁재훈, 첫 단콘 개최 → ‘돌싱포맨’ 멤버 투입에 불만 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20231017231340945</link>
-            <guid>https://v.daum.net/v/20231017231340945</guid>
-            <pubDate>Tue, 17 Oct 2023 14:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[탁재훈이 28년 만에 첫 단독 콘서트를 개최하게 됐다. 17일 방송된 SBS예능 프로그램 ‘신발벗고 돌싱포맨’ (이하 ‘돌싱포맨’)에서는 탁재훈, 이상민, 김준호, 임원희 등 ‘돌싱포맨’ 멤버들이 탁재훈의 단독 콘서트를 리허설부터 최종 무대까지 지켜봤다. 탁재훈 콘서트 개최 2주 전 ‘돌싱포맨’ 멤버들은 보양식을 먹으며 건강을 챙겼다. 특히 김준호는]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[베베, 탈락 크루 예상 뒤엎고 승리…울플러 꺾었다 "더 값진 점수" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20231017231239934</link>
-            <guid>https://v.daum.net/v/20231017231239934</guid>
-            <pubDate>Tue, 17 Oct 2023 14:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선닷컴 이우주 기자] '스우파2' 베베가 탈락 예상 크루 결과를 꺾고 울플러에 승리했다. 17일 방송된 Mnet '스트릿 우먼 파이터2'에서는 배틀 퍼포먼스 미션에 돌입한 크루드르이 모습이 담겼다. 이번 스페셜 저지는 프라임킹즈의 트릭스와 홀리뱅의 허니제이가 합류했다. 첫 배틀러는 베베와 울플러. 바다는 "첫 대진인 만큼 저희가]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“앞머리 정리해주겠다며 고데기로…” 日 여배우, 선배 괴롭힘에 극단선택 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
-            <link>https://v.daum.net/v/20231017211415519</link>
-            <guid>https://v.daum.net/v/20231017211415519</guid>
-            <pubDate>Tue, 17 Oct 2023 13:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]일본의 한 극단 여배우가 선배들의 괴롭힘에 건물에서 추락해 사망했다. 최근 일본 주간지 문춘주간에 따르면, 지난달 30일 오전 7시께 아파트 주민들이 부지 내 주차장에서 여성이 엎드려 쓰러져 있는 것을 발견하고 경찰에 신고했다. 경찰이 18층 복도에 떨어진 수제 핸드백을 조사한 결과, 여배우는 모 극단 소속의 아리야 키]]></content:encoded>
+            <title><![CDATA[브리트니 스피어스, 회고록서 부모 저격…"13년 동안 여성성 박탈 당해" (다음 연예 ─ 뉴스 ─ 해외)]]></title>
+            <link>https://v.daum.net/v/20231018005101866</link>
+            <guid>https://v.daum.net/v/20231018005101866</guid>
+            <pubDate>Tue, 17 Oct 2023 16:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=이예은 기자] 곧 출간을 앞둔 세계적인 팝스타 브리트니 스피어스(41)의 회고록이 화제다.&nbsp; 외신 연예 매체 페이지 식스는 17일(현지 시간) 브리트니 스피어스가 출간 예정인 회고록 '내 안의 여자'(The Woman In Me)에서 충격적인 폭탄 발언을 터뜨릴 예정이라고 보도했다. &nbsp; '내 안의 여자'는 브리트니 스피어스의 삶에 대한 폭로를]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['러브액츄얼리' 감독 "33년 만에 결혼 성공...프러포즈 2번 거절당해" (다음 연예 ─ 뉴스 ─ 해외)]]></title>
@@ -1089,6 +1089,20 @@
             <guid>https://v.daum.net/v/20231017152030055</guid>
             <pubDate>Tue, 17 Oct 2023 07:16:46 GMT</pubDate>
             <content:encoded><![CDATA[[TV리포트=유비취 기자] 블랙핑크 리사와 닮은 꼴로 유명해진 가수 제릴 리 페이 링이 악플 테러를 당하고 있다. 최근 말레이시아 가수 제릴 리 페이 링(23) 블랙핑크 리사와 닮은 외모로 주목을 받았다. 그는 음악 프로그램 '스테이지 2023'에서 우승을 차지하기도 했다. 그러나 제릴 리 페이 링은 일부 누리꾼의 비난을 받고 있다. 제릴 리 페이 링이 리]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘19세 싱어송라이터’ 정수민, EP 수록곡 ‘Sunset (feat. 박현진)’ 라이브 클립 오픈 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000919205</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000919205</guid>
+            <pubDate>Tue, 17 Oct 2023 16:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[싱어송라이터 정수민의 첫 EP 앨범의 수록곡 라이브 클립이 공개된다. 17일 뉴런뮤직 유튜브 채널을 통해 정수민의 첫 EP 앨범 ‘Phasis,’의 수록곡 ‘Sunset (feat. 박현진)’ 오피셜 클립 영상이 오]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[샘 스미스, 파격 또 파격…성별·경계 부순 '사랑의 천태만상' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0014269624</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0014269624</guid>
+            <pubDate>Tue, 17 Oct 2023 16:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[롱 드레스·노출·'19금' 댄스에 훌륭한 보컬…"서로 사랑합시다" '나는 떠나기 싫어요, 내 손을 잡아줄래요?'(스테이 위드 미·Stay With Me)라던 순수한 사랑의 감정부터 퇴폐 업소에서 '불경한 짓'을 하는]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[작곡가 김형석, 예산시장 노래 만들어···“저작권은 예산군에” (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
@@ -1252,18 +1266,60 @@
             <content:encoded><![CDATA[한국콘텐츠진흥원(이하 콘진원)이 대중음악 공연 분야에 대한 암표신고센터를 제대로 운영되지 않는다는 지적이 나왔다. 17일 국회 문화체육관광위원회 문체부 유관기관 국정감사에서 류호정 정의당 의원은 “공연계 암표가 기승]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아스트로 진진, 매거진 '온 유어 마크' 출시…섹시미 폭발 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0012152530</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0012152530</guid>
-            <pubDate>Tue, 17 Oct 2023 11:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[고인혜 인턴 기자 = 그룹 '아스트로(ASTRO)' 멤버 진진이 특별한 매거진을 선보인다. 소속사 판타지오는 지난 16일 공식 SNS(소셜미디어)에 매거진 '온 유어 마크(ON YOUR MARK)' 출시 소식을 알리]]></content:encoded>
+            <title><![CDATA[근엄한 김동준→‘사극 대가’ 최수종, ‘고려 거란 전쟁’ 13인 포스터 공개 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001081458</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001081458</guid>
+            <pubDate>Tue, 17 Oct 2023 16:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[KBS2 새 대하사극 ‘고려 거란 전쟁’ 웅장한 대서사시를 이끌어갈 주역 13인 모습이 담긴 그룹 포스터가 공개됐다. KBS 공영방송 50주년 특별 기획 KBS 2TV 새 대하 사극 ‘고려 거란 전쟁’(극본 이정우/]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[포켓돌 측 “유준원 측 주장, 여전히 실체無…본질 흐려” 반박 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003306602</link>
-            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003306602</guid>
-            <pubDate>Tue, 17 Oct 2023 11:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[‘소년판타지’ 제작사 포켓돌스튜디오 측이 연습생 유준원 측의 입장 발표에 “부당하다고 주장하는 요구, 강요, 계약 조건이 무엇이었는지 계속 요청하지만 실체가 없다”고 반박했다. 포켓돌스튜디오 법률대리를 맡은 이윤상]]></content:encoded>
+            <title><![CDATA['김수빈♥' 윤박, 결혼 한 달만 신혼 종결 선언 "아이 갖고파" [스타이슈] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003188661</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003188661</guid>
+            <pubDate>Tue, 17 Oct 2023 16:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[배우 윤박이 모델 김수빈과 결혼 한 달 만에 2세 욕심을 드러냈다. 17일 유튜브 채널 '소이현 인교진 OFFICIAL'에는 '인소맛zip 첫 게스트 새신랑 윤박 님과 함께한 원기옥 풀코스 맛보기 편'이라는 제목의]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘범죄도시3’ 시체스영화제 최우수 관객상 수상 [연예뉴스 HOT] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001081457</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001081457</guid>
+            <pubDate>Tue, 17 Oct 2023 16:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[마동석 주연의 영화 ‘범죄도시3’가 시체스 국제판타스틱영화제에서 2년 연속 최우수 관객상을 수상했다. 영화는 15일 폐막한 제56회 시체스 국제판타스틱영화제에서 관객의 투표로 수상작을 결정하는 관객상 부문 중 하나인]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘TXT’ 정규 3집, 올해 세번째 日오리콘 1위 [연예뉴스 HOT] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001081456</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001081456</guid>
+            <pubDate>Tue, 17 Oct 2023 16:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 투모로우바이투게더가 올해 세 개의 앨범을 일본 오리콘 차트 정상에 올렸다. 17일 일본 오리콘이 발표한 최신 차트에 따르면 투모로우바이투게더의 정규 3집 ‘이름의 장: 프리폴’은 22만5000장의 판매량으로 주]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘피프티피프티’ 키나, 항고 취하 소속사 복귀 [연예뉴스 HOT] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001081455</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001081455</guid>
+            <pubDate>Tue, 17 Oct 2023 16:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[전속계약 분쟁을 빚고 있는 걸그룹 피프티피프티 멤버 키나가 소속사 어트랙트에 복귀했다. 17일 가요계 등에 따르면 키나는 전날 어트랙트를 상대로 낸 효력정지 가처분의 항고 취하서를 제출했다. 피프티피프티 네 멤버가]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[종합] ‘스우파2’ 베베 신곡 미션 1위→마네퀸 6위... 원밀리언·잼 리퍼블릭 ‘탈락 위기’ (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0005200785</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0005200785</guid>
+            <pubDate>Tue, 17 Oct 2023 16:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[‘스우파2’ 베베가 신곡 시안 미션에서 1위를 차지했다. 17일 방송된 Mnet 예능프로그램 ‘스트릿 우먼 파이터2’(이하 ‘스우파2’)에서는 파이널을 향한 마지막 관문인 ‘배틀 퍼포먼스’ 미션이 전파를 탔다. 이날]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['솔로 10년' 선미, 다채로운 비하인드로 돌아온 'STRANGER'(종합) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=445&amp;aid=0000152482</link>
+            <guid>https://entertain.naver.com/now/read?oid=445&amp;aid=0000152482</guid>
+            <pubDate>Tue, 17 Oct 2023 16:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[긴 공백 끝에 돌아온 선미가 새 앨범을 통해 '솔로 아티스트 10년' 경력을 증명한다. 지난 17일 오후 서울 용산구 블루스퀘어 마스터카드홀에서 선미 새 디지털 싱글 'STRANGER' 발매 기념 미디어 쇼케이스가]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[샘 스미스, 파격 또 파격…성별·경계 부순 '사랑의 천태만상' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0014269624</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0014269624</guid>
+            <pubDate>Tue, 17 Oct 2023 16:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[롱 드레스·노출·'19금' 댄스에 훌륭한 보컬…"서로 사랑합시다" '나는 떠나기 싫어요, 내 손을 잡아줄래요?'(스테이 위드 미·Stay With Me)라던 순수한 사랑의 감정부터 퇴폐 업소에서 '불경한 짓'을 하는]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[베베, 원밀리언 꺾고 1위…마네퀸 탈락 위기 "꼴등 충격적" ('스우파2')[종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
@@ -1385,60 +1441,25 @@
             <content:encoded><![CDATA[이상민이 "옛날에 룰라 콘서트 할 때 바람잡이 가수가 재훈이 형이었다"며 탁재훈의 콘서트 중 울컥했다. 17일 방송된 SBS '신발 벗고 돌싱포맨'에서는 28년 만에 첫 단독 콘서트를 연 탁재훈과 지원 사격에 나선]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[츄, 강남 아파트 이사…"요즘 벌이? 가격표 안 보고 사" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000657984</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000657984</guid>
-            <pubDate>Tue, 17 Oct 2023 14:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[가수 츄가 거주 중인 강남 아파트를 공개했다. 17일 유튜브 채널 ‘재밌는 거 올라온다’에는 ‘이제는 강남 아파트 산다! 홀로서기 시작한 츄 자취방 최초 공개’라는 제목의 영상이 게재됐다. 이날 웹 콘텐츠 ‘아침 먹]]></content:encoded>
+            <title><![CDATA[동성성교 안무→그물스타킹에 둔부노출까지! 파격 29禁 퍼포먼스, 선 넘은 샘 스미스 [SS리뷰] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000990972</link>
+            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000990972</guid>
+            <pubDate>Tue, 17 Oct 2023 16:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[샘 스미스 내한공연 ‘글로리아’. 사진|AEG프레젠트 5년 전, 산뜻한 하늘색 정장을 차려입고 다소 수줍은 모습으로 성소수자의 아픔과 사랑의 실패를 고백했던 샘 스미스를 기억했던 이들이라면 17일 서울 송파구 올림픽]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['톱모델' 한혜진, 잠들기 직전까지 관리…언제 어디서 노출 해야할지 모르니 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004067533</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004067533</guid>
-            <pubDate>Tue, 17 Oct 2023 14:15:50 GMT</pubDate>
-            <content:encoded><![CDATA["몸이 재산. 언제 어디서 노출을 해야할지 모르니 어디 한 곳 빼놓지 않고 관리한다." 한혜진이 나이트루틴을 공유했다. 17일 '한혜진 Han Hye Jin'에는 '잠들기 직전까지 관리하는 탑모델 한혜진의 나이트루틴]]></content:encoded>
+            <title><![CDATA[브리트니 스피어스, 회고록서 부모 저격…"13년 동안 여성성 박탈 당해" [할리웃통신] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001273505</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001273505</guid>
+            <pubDate>Tue, 17 Oct 2023 16:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[곧 출간을 앞둔 세계적인 팝스타 브리트니 스피어스(41)의 회고록이 화제다. 외신 연예 매체 페이지 식스는 17일(현지 시간) 브리트니 스피어스가 출간 예정인 회고록 '내 안의 여자'(The Woman In Me)에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘스우파2’ 바다, 탈락 예상 크루 재지목에 “이게 대중의 눈” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0005200772</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0005200772</guid>
-            <pubDate>Tue, 17 Oct 2023 14:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[‘스우파2’ 베베가 탈락 예상 크루로 지목됐다. 17일 방송된 Mnet 예능프로그램 ‘스트릿 우먼 파이터2’(이하 ‘스우파2’)에서는 파이널을 향한 마지막 관문인 ‘배틀 퍼포먼스’ 미션이 전파를 탔다. 이날 베베는]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SM "엑소 찬열ㆍ세훈 이적 아냐…개인 활동 조건부 허락" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=422&amp;aid=0000624457</link>
-            <guid>https://entertain.naver.com/now/read?oid=422&amp;aid=0000624457</guid>
-            <pubDate>Tue, 17 Oct 2023 14:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[SM엔터테인먼트가 그룹 엑소 찬열과 세훈의 소속사 이적설에 대해 "사실이 아니다"라고 반박했습니다. SM 측은 오늘(17일) "SM과 엑소 멤버들의 전속계약은 유효하고, 엑소 활동도 SM에서 지속적으로 진행한다"고]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이순재, '꽃할배' 당시 이서진-최지우 만남 적극 권유…"둘이 그림 좋더라. 말을 안 듣더라" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004067530</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004067530</guid>
-            <pubDate>Tue, 17 Oct 2023 14:15:50 GMT</pubDate>
-            <content:encoded><![CDATA['19금 주례'로 화제가 됐던 이순재가 이서진과 최지우의 만남을 적극 권유했던 일을 떠올렸다. 16일 방송된 tvN STORY 예능프로그램 '회장님네 사람들'에서는 전원 마을에서 재회한 꽃할배 이순재, 박근형, 김용]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['이필립♥' 박현선 "드디어 딸 엄마 된다…소원 다 이뤄" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000657982</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000657982</guid>
-            <pubDate>Tue, 17 Oct 2023 14:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[박현선, 이필립 부부가 둘째 아이의 성별을 공개했다. 17일 박현선은 자신의 SNS를 통해 “이로로 동생의 성별을 공개합니다. 꺄”라며 “소원 다 이뤘어”라고 전했다. 이를 본 그의 지인들은 임신을 축하하는 댓글을]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘스우파2’ 스폐셜 저지 허니제이X트릭스 등장.. “애매하게 하는 사람 점수 NO” [TVis] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003306692</link>
-            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003306692</guid>
-            <pubDate>Tue, 17 Oct 2023 14:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[‘스우파2’ 스폐셜 저지로 강력한 두 사람이 등장했다. 17일 방송된 Mnet ‘스트릿 우먼 파이트’ 시즌2에는 배틀 퍼포먼스 미션이 펼쳐졌다. 이날 파이트 저지이자 몬스타엑스 셔누가 해외 일정으로 불참했다. MC]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['권상우♥' 손태영, 한국 2배인 美물가에 영수증 꼼꼼 체크..알뜰한 엄마 (Mrs.뉴저지 손태영)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004067527</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004067527</guid>
-            <pubDate>Tue, 17 Oct 2023 14:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[배우 손태영이 한인마트에서 장을 보는 모습을 공개했다. 17일 손태영의 유튜브 채널 'Mrs. 뉴저지 손태영'에는 '충격적인 요즘 한인마트 물가 ㄷㄷ (권상우 딸리호 데이트)'라는 제목의 영상이 게재됐다. 영상에서]]></content:encoded>
+            <title><![CDATA[샘 스미스, 파격 또 파격…성별·경계 부순 '사랑의 천태만상' (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0014269624</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0014269624</guid>
+            <pubDate>Tue, 17 Oct 2023 16:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[롱 드레스·노출·'19금' 댄스에 훌륭한 보컬…"서로 사랑합시다" '나는 떠나기 싫어요, 내 손을 잡아줄래요?'(스테이 위드 미·Stay With Me)라던 순수한 사랑의 감정부터 퇴폐 업소에서 '불경한 짓'을 하는]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[고데기로 얼굴 지져..日 배우 아리야 키이, 선배 괴롭힘에 추락사 [★재팬] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
@@ -1448,7 +1469,7 @@
             <content:encoded><![CDATA[일본의 연극 배우 아리야 키이(25)가 선배들로부터 괴롭힘을 당하다 숨을 끊은 것으로 전해졌다. 최근 일본 매체 주간문춘 등은 지난달 30일 오전 7시 효고현 다카라즈카시의 한 아파트 주차장으로 추락한 여성이 아리야]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“앞머리 정리해주겠다며 고데기로…” 日 여배우, 선배 괴롭힘에 극단선택[해외이슈] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <title><![CDATA[“선배가 고데기로 얼굴 지져 화상” 日 여배우, 괴롭힘에 극단적 선택[해외이슈] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
             <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003780259</link>
             <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003780259</guid>
             <pubDate>Tue, 17 Oct 2023 13:18:44 GMT</pubDate>
@@ -1593,27 +1614,6 @@
             <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003780147</guid>
             <pubDate>Tue, 17 Oct 2023 07:17:14 GMT</pubDate>
             <content:encoded><![CDATA[세계적 팝스타 마돈나(65)가 공연 규칙 위반으로 약 5억원의 벌금을 낼 전망이다. 16일(현지시간) 데일리메일에 따르면, 마돈나는 지난 15일 런던 O2 아레나에서 열린 셀러브레이션 투어 콘서트에서 주요 규칙을 위]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['팔레스타인계' 지지 하디드, 하마스 비판했는데… "유대인 아이 학살 외면 말라" 비난 [엑's 해외이슈] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001650448</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001650448</guid>
-            <pubDate>Tue, 17 Oct 2023 07:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[팔레스타인계 미국 모델 지지 하디드가 하마스의 이스라엘 기습 공격에 대해 비판하는 입장을 낸 가운데, 이스라엘 측이 이에 대한 반응을 보였다. 지난 11일(현지시간) 지지 하디드는 "저는 정당화할 수 없는 이 비극의]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['리사 닮은꼴' 가수, '악플 테러' 당해...따라서 성형한 것도 아닌데 [룩@차이나] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001273448</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001273448</guid>
-            <pubDate>Tue, 17 Oct 2023 07:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[블랙핑크 리사와 닮은 꼴로 유명해진 가수 제릴 리 페이 링이 악플 테러를 당하고 있다. 최근 말레이시아 가수 제릴 리 페이 링(23) 블랙핑크 리사와 닮은 외모로 주목을 받았다. 그는 음악 프로그램 '스테이지 202]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[美 팝듀오 '플라이 바이 미드나이트', 내년 1월 첫내한 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0012151860</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0012151860</guid>
-            <pubDate>Tue, 17 Oct 2023 07:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[문예빈 인턴 기자 = 미국의 인디 팝 듀오 '플라이 바이 미드나이트'(Fly By Midnight)가 데뷔 8년 만에 첫 내한공연한다. 17일 공연기획사 라이브네이션코리아에 따르면, 플라이 바이 미드나이트는 내년 1]]></content:encoded>
         </item>
     </channel>
 </rss>
