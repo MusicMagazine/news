@@ -4,7 +4,7 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 10:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 12:26:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -142,6 +142,23 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=284535">국립정동극장 예술단 '암덕: 류(流)의 기원'..  남사당놀이의 예술혼과 생명력, 현대적 이미지로 재탄생</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231017082413_61483cea2afb2e8f26305bbaa6855a52.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중앙그룹 홈페이지 뉴스룸 새단장… "현재 및 미래 고객들과 접점 넓힐 것"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=283658</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=283658</guid>
+            <pubDate>Fri, 20 Oct 2023 12:25:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=283658">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231010151630_a236cd8aa48937d038079de2ccc10877.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=283658">중앙그룹 홈페이지 뉴스룸 새단장… "현재 및 미래 고객들과 접점 넓힐 것"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231010151630_a236cd8aa48937d038079de2ccc10877.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["엘런 튜링의 이야기를 들어봐!" 연극 '튜링머신'..  11월 LG아트센터 U+스테이지 초연]]></title>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=281959">전수미, 뮤지컬 '몬테크리스토'  루이자 캐스팅</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230924081623_25221ae5ae84d1edd6f82c926453218d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 박진영(GOT7), 영화평론가협회상 신인남우상 수상]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=281954</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=281954</guid>
-            <pubDate>Sun, 24 Sep 2023 00:56:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=281954">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230924081126_3f04db318736bca4d99b2d4eda3d2f58_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=281954">배우 박진영(GOT7), 영화평론가협회상 신인남우상 수상</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230924081126_3f04db318736bca4d99b2d4eda3d2f58_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
