@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2023-10-22T18:15:18.422Z</updated>
+    <updated>2023-10-22T20:14:14.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[줌인] 자막 읽기 힘든 사람은 어쩌나… OTT의 한국어 더빙 차별]]></title>
+        <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003307509</id>
+        <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003307509"/>
+        <updated>2023-10-22T20:14:06.776Z</updated>
+        <content type="html"><![CDATA[자막은 있는데 더빙이 없다. 넷플릭스도 디즈니+도 최근 들어 공개하는 오리지널 대작들엔 한국어 더빙 서비스를 하지 않고 있다. 자막을 읽기 어려운 소비자들은 사실상 OTT의 주력 오리지널 콘텐츠를 시청하기 어려운 상]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[키 170cm 아니라고? 유아, 이게 진짜 ‘인형 비주얼’...핑크 드레스 입고 눈부신 미모 발산]]></title>
         <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000992736</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=437&amp;aid=0000364166"/>
         <updated>2023-10-22T14:11:00.729Z</updated>
         <content type="html"><![CDATA[그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)의 컴백이 하루 앞으로 다가왔다. 세븐틴은 23일 오후 6시(한국시간) '세븐틴만의 축제'를 즐기는 모두가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MBC·김태호 PD 저작권침해 소송 "500만원 배상" 판결]]></title>
-        <id>https://entertain.naver.com/now/read?oid=437&amp;aid=0000364165</id>
-        <link href="https://entertain.naver.com/now/read?oid=437&amp;aid=0000364165"/>
-        <updated>2023-10-22T14:11:00.729Z</updated>
-        <content type="html"><![CDATA[MBC, 김태호 PD가 저작권침해 소송에서 일부 패소했다. 서울중앙지법 민사합의 62부는 22일 그라피티 작가 심찬양이 MBC와 김태호 PD 등을 상대로 낸 저작권침해금지 등 소송에서 피고인들이 원고에게 500만 원]]></content>
     </entry>
 </feed>
