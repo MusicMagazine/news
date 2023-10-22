@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-10-22T14:11:09.568Z</updated>
+    <updated>2023-10-22T18:15:18.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첸, 잠실서 지각 결혼식..엑소 멤버 전원 참석]]></title>
+        <id>https://v.daum.net/v/20231023003645904</id>
+        <link href="https://v.daum.net/v/20231023003645904"/>
+        <updated>2023-10-22T18:14:35.594Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 이승훈 기자] /사진=온라인 커뮤니티엑소 첸이 뒤늦은 결혼식을 올렸다. 첸은 22일 서울 잠실에 위치한 한 웨딩홀에서 비연예인 아내와 백년가약을 맺었다. 앞서 지난 8월 소속사 SM엔터테인먼트는 "첸이 사정상 진행하지 못했던 결혼식을 10월에 올리게 됐다"라고 밝힌 바 있다. 첸은 2020년 1월 아내와 혼인신고 후 2세 임신 소식을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["왜 별 다섯갠지 보여줄게"…마라맛 쏟아낸 스트레이 키즈]]></title>
         <id>https://v.daum.net/v/20231022205723226</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231022190830389"/>
         <updated>2023-10-22T10:11:39.331Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 이승훈 기자] /사진=JTBC '뉴스룸'가수 성시경이 K팝 시장에서의 꿈을 확실하게 밝혔다. 22일 오후 방송된 JTBC '뉴스룸'에서는 23년 차 발라드 가수의 면면에 대해 이야기를 나누는 성시경의 모습이 그려졌다. 지난 2021년 이후 2년 5개월 만에 다시 한번 '뉴스룸'에 출연하게 됐다. 성시경은 현재 개인 유튜브 채널 '성시경]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고척돔 입성' 스트레이 키즈 승민 "신곡 'MEGAVERSE', 큰 스케일 무대"]]></title>
-        <id>https://v.daum.net/v/20231022190811384</id>
-        <link href="https://v.daum.net/v/20231022190811384"/>
-        <updated>2023-10-22T10:11:39.331Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 한해선 기자] 그룹 스트레이 키즈(Stray Kids) 승민이 18일 오전 온라인 생중계로 진행된 미니 앨범 '오디너리'(ODDINARY) 발매기념 기자간담회에 앞서 포즈를 취하고 있다.   신보에는 타이틀곡 '매니악'을 비롯해 '거미줄', '차머'(Charmer), '땡', '론리 스트리트'(Lonely St), '피어난다', '머디 워터']]></content>
     </entry>
 </feed>
