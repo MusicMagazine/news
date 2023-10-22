@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Oct 2023 20:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Oct 2023 23:13:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['몸도, 마음도 가벼워진' 이정하, 매거진 ‘데이즈드’와 함께한 화보]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=285113</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=285113</guid>
+            <pubDate>Sun, 22 Oct 2023 23:11:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=285113">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231021083717_00a4363b41b6b37817eed514962f4e7f.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=285113">'몸도, 마음도 가벼워진' 이정하, 매거진 ‘데이즈드’와 함께한 화보</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231021083717_00a4363b41b6b37817eed514962f4e7f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임] "피터 파커- 마일즈 모랄레스가 함께~"  PS5 ’마블 스파이더맨2’ 출시.. 성수동 팝업스토어 운영]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=285031</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282207">김우겸, VAST엔터테인먼트와 전속 계약 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230926093525_8bc3c3f76945fc9d8283276f1801b0d5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전수미, 뮤지컬 '몬테크리스토'  루이자 캐스팅]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=281959</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=281959</guid>
-            <pubDate>Sun, 24 Sep 2023 00:56:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=281959">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230924081623_25221ae5ae84d1edd6f82c926453218d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=281959">전수미, 뮤지컬 '몬테크리스토'  루이자 캐스팅</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230924081623_25221ae5ae84d1edd6f82c926453218d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
