@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-10-23T11:11:23.395Z</updated>
+    <updated>2023-10-23T16:19:57.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가수 린, 1년 10개월 만에 신곡 발매···새 싱글 ‘내 마음은 빛을 닮아’ 11월 3일 공개]]></title>
+        <id>https://v.daum.net/v/20231024003222884</id>
+        <link href="https://v.daum.net/v/20231024003222884"/>
+        <updated>2023-10-23T16:19:20.085Z</updated>
+        <content type="html"><![CDATA[가수 린이 오는 11월 3일 신곡을 발매한다. 23일 소속사 325E&amp;C는 “린이 오는 11월 3일 새 싱글 ‘내 마음은 빛을 닮아’를 발매한다”고 밝혔다. 이와 함께 SNS를 통해 한 장의 사진을 올렸다. 공개된 이미지 속 린은 무채색 니트 스타일링으로 깊어진 무드와 함께 고혹적인 분위기를 드러내며 ‘내 마음은 빛을 닮아’에 대한 기대감을 높이고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅, 본격 합숙 다이어트..러닝마저 잘하는 '히어로' "백골부대 출신"]]></title>
         <id>https://v.daum.net/v/20231023193724025</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231023180016630"/>
         <updated>2023-10-23T09:16:45.370Z</updated>
         <content type="html"><![CDATA[[동아닷컴] 그룹 세븐틴이 23일 오후 6시 미니 11집 [SEVENTEENTH HEAVEN]을 발매했다. [SEVENTEENTH HEAVEN]은 ‘더할 나위 없이 매우 행복한 상태’를 의미하는 영어 표현인 ‘Seventh Heaven’을 세븐틴만의 의미로 바꾼 것으로, 도전과 개척으로 가득했던 긴 여정의 끝에서 모두 함께 느끼는 행복의 순간이 바로 ‘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빌리, 흥미로운 B-side…또 확장된 빌리버스 ‘DANG!’]]></title>
-        <id>https://v.daum.net/v/20231023180011622</id>
-        <link href="https://v.daum.net/v/20231023180011622"/>
-        <updated>2023-10-23T09:16:45.370Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 빌리(Billlie)가 확장된 '빌리버스'(빌리+유니버스, 빌리의 음악 세계)를 반영한 신곡으로 돌아왔다. 빌리는 10월 23일 오후 6시 각종 음원 사이트를 통해 새 싱글 'side-B : memoirs of echo unseen'(사이드-비 : 메모얼스 오브 에코 언씬)을 발매했다. 이번 싱글은 빌리가 지난 3월 발표한 4]]></content>
     </entry>
 </feed>
