@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 00:51:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 02:23:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[갓세븐 영재, 정규 1집 ‘Do It’ 콘셉트 포토 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=285552</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=285552</guid>
+            <pubDate>Tue, 24 Oct 2023 02:22:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=285552">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231024110047_07d133c990df9abd4219f776213a35a9.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=285552">갓세븐 영재, 정규 1집 ‘Do It’ 콘셉트 포토 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231024110047_07d133c990df9abd4219f776213a35a9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[르세라핌, 첫 영어 디지털 싱글 ‘Perfect Night’.. 27일 공개]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=285404</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282326">이븐(EVNNE), 첫 미니앨범 'Target: ME' 판매 상승세</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230926133546_55a862e5a744fd1f11f8831069de5c3a_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이유, 데뷔 15주년 팬 콘서트 'I+UN1VER5E' 성료... “15년 뒤 또 만나요”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=282053</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=282053</guid>
-            <pubDate>Mon, 25 Sep 2023 00:50:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282053">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230925082822_23e3835bebd5258cff3d12f879238159.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282053">아이유, 데뷔 15주년 팬 콘서트 'I+UN1VER5E' 성료... “15년 뒤 또 만나요”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230925082822_23e3835bebd5258cff3d12f879238159.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
