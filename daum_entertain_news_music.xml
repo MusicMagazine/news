@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-10-24T13:16:14.051Z</updated>
+    <updated>2023-10-24T15:17:12.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["변칙 위에 더 빛을 발하지"…아이브, 채도 높은 '주체성']]></title>
+        <id>https://v.daum.net/v/20231025000128886</id>
+        <link href="https://v.daum.net/v/20231025000128886"/>
+        <updated>2023-10-24T15:16:30.991Z</updated>
+        <content type="html"><![CDATA[새 앨범 'I'VE MINE'으로 주체적 서사 확장 3연속 밀리언셀러에 음원들도 롱런 [더팩트 | 정병근 기자] 걸그룹 아이브(IVE)를 설명하는 핵심 키워드는 '주체적인 나'다. 데뷔 때부터 일관된 메시지로 서사를 확장해나가면서 자연스럽게 발현한 이들의 색깔이다. 이는 최근 발매한 앨범 'I'VE MINE(아이브 마인)'에 이르러 채도가 높아졌다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘천만돌’ 세븐틴의 성장은 끝, 이젠 ‘음악의 신’ 축배를 들 시간]]></title>
         <id>https://v.daum.net/v/20231024220006064</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231024164011906"/>
         <updated>2023-10-24T10:18:14.349Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 에이티즈(ATEEZ)가 데뷔 5주년을 기념해 팬들에게 특별한 선물을 건넨다. 에이티즈는 10월 24일 데뷔 5주년을 맞이해 공식 채널을 통해 축전 이미지를 공개했다. 데뷔일을 상징하는 숫자인 오전 10시 24분에는 ‘5OTD(5TH ANNIVERSARY OF THE Debut)’ 콘텐츠를 깜짝으로 공개했다. 영상 속 에이티즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고스트나인 1년 6개월만 컴백, 신보 ‘ARCADE : O’ 기대 포인트]]></title>
-        <id>https://v.daum.net/v/20231024163701794</id>
-        <link href="https://v.daum.net/v/20231024163701794"/>
-        <updated>2023-10-24T10:18:14.353Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 그룹 고스트나인(GHOST9)이 신보 'ARCADE : O'로 돌아온다. 고스트나인은 10월 25일 오후 6시 각종 음원 사이트를 통해 일곱 번째 미니앨범 'ARCADE : O(아케이드 : 오)'를 발매한다. 'ARCADE' 시리즈를 통해 오랜만에 돌아오는 고스트나인의 새 앨범 기대 포인트를 짚어봤다. #1년 6개월만 컴백…상승세]]></content>
     </entry>
 </feed>
