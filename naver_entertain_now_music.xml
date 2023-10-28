@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-10-28T14:12:40.596Z</updated>
+    <updated>2023-10-28T15:16:33.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘(10월 29일)의 AAA 인기상 1위..임영웅·트와이스·차은우·김세정 [2023AAA]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003191118</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003191118"/>
+        <updated>2023-10-28T15:16:15.709Z</updated>
+        <content type="html"><![CDATA[가수 임영웅, 그룹 트와이스, 배우 차은우, 김세정이 오늘의 2023 AAA 인기상 1위를 차지했다. 28일 오전 0시 기준, 팬들이 직접 뽑는 '2023 Asia Artist Awards IN THE PHILIPP]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장민호, 복고풍 댄스곡으로 컴백…신곡 ‘그때 우린 젊었다’ MV 티저 공개]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000965083</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0012174410"/>
         <updated>2023-10-28T08:16:32.753Z</updated>
         <content type="html"><![CDATA[그룹 '갓세븐' 멤버 겸 솔로가수 영재가 웰메이드 앨범의 탄생을 예고했다. 소속사 써브라임 27일 공식 SNS를 통해 영재의 첫 번째 정규 앨범 '두잇(Do It)' 트랙리스트를 공개했다. 영재의 이번 앨범 타이틀곡]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정국, 스포티파이·英 오피셜 차트 장악…'Seven'→'TOO MUCH' 동시 흥행]]></title>
-        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003783242</id>
-        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003783242"/>
-        <updated>2023-10-28T08:16:32.754Z</updated>
-        <content type="html"><![CDATA[그룹 방탄소년단(BTS) 정국이 해외 각종 차트에서 식지 않는 인기를 자랑하고 있다. 지난 27일(이하 한국시간) 세계 최대 스트리밍 업체 스포티파이가 발표한 최신(10월 26일 자) ‘위클리 톱 송 글로]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-10-28T14:12:40.697Z</updated>
+    <updated>2023-10-28T15:16:33.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 AAA 인기상 1위..임영웅·트와이스·차은우·김세정]]></title>
+        <id>https://v.daum.net/v/20231029001205381</id>
+        <link href="https://v.daum.net/v/20231029001205381"/>
+        <updated>2023-10-28T15:15:57.002Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 최혜진 기자] (왼쪽 위부터 시계 방향으로) 임영웅, 김세정, 트와이스, 차은우 /사진=스타뉴스, JYP엔터테인먼트가수 임영웅, 그룹 트와이스, 배우 차은우, 김세정이 오늘의 2023 AAA 인기상 1위를 차지했다. 28일 오전 0시 기준, 팬들이 직접 뽑는 '2023 Asia Artist Awards IN THE PHILIPPINES'의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“전석매진 감사” 스트레이 키즈, 감격의 도쿄돔 입성…첫날부터 인산인해]]></title>
         <id>https://v.daum.net/v/20231028184146316</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231028101048855"/>
         <updated>2023-10-28T01:45:43.145Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 드라마틱하고 웅장한 태민의 신곡 분위기가 베일을 벗었다. 10월 28일 샤이니 태민 미니앨범 타이틀 곡 ‘Guilty’(길티) 뮤직비디오 티저 영상이 공개됐다. 영상 중간중간 태민이 공허한 눈빛으로 정면을 응시하는 모습이 담겨 눈길을 끌었으며, 오는 30일 오후 6시 새 앨범 전곡 음원과 동시 오픈될 뮤직비디오 본편에서 펼쳐질]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스트레이 키즈, K팝 4세대 보이그룹 최초 日 4대 돔 투어 피날레]]></title>
-        <id>https://v.daum.net/v/20231028100422786</id>
-        <link href="https://v.daum.net/v/20231028100422786"/>
-        <updated>2023-10-28T01:45:43.147Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 스트레이 키즈(Stray Kids)가 일본 4대 돔 투어 피날레 공연으로 도쿄돔에 입성한다. 스트레이 키즈는 2023년 맹활약으로 글로벌 입지를 단단하게 다졌다. 4월 'Stray Kids 2nd World Tour "MANIAC"'(두 번째 월드투어 "매니악") 앙코르 공연으로 미국 로스앤젤레스 뱅크 오브 캘리포니아 스타디움(B]]></content>
     </entry>
 </feed>
