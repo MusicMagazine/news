@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-10-28T12:25:28.936Z</updated>
+    <updated>2023-10-28T13:14:27.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['음악중심' 퀸즈아이, 사랑의 화살 쏜 'THIS IS LOVE']]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003191110</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003191110"/>
+        <updated>2023-10-28T13:14:08.823Z</updated>
+        <content type="html"><![CDATA[걸 그룹 퀸즈아이(Queenz Eye, 원채 해나 나린 아윤 다민)가 사랑의 화살을 쐈다. 퀸즈아이는 28일 오후 방송된 MBC 음악 프로그램 '쇼! 음악중심'에 출연, 신곡 'THIS IS LOVE'(디스 이즈 러]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사죄한 이선균, 부인한 지드래곤, ‘마약 혐의’ 온도차[SS초점]]]></title>
         <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000995130</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000995104"/>
         <updated>2023-10-28T08:16:32.761Z</updated>
         <content type="html"><![CDATA[그룹 방탄소년단. 사진|빅히트 뮤직, 그래미 SNS 그룹 방탄소년단(BTS)이 업소 방문 루머에 입장을 밝혔다. 28일 방탄소년단 소속사 빅히트 뮤직은 28일 “일각에서 제기되는 당사 아티스트와 특정 장소 관련한 루]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[속보]'마약 혐의' 배우 이선균, 경찰에 출석]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012174395</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0012174395"/>
-        <updated>2023-10-28T08:16:32.762Z</updated>
-        <content type="html"><![CDATA['마약 투약' 혐의로 입건된 배우 이선균(48)씨가 28일 오후 4시30분께 인천경찰청 마약범죄수사계 임시 사무실이 마련된 인천 논현경찰서에 출석했다. 이 씨의 소환은 지난 23일 형사 입건된 지 5일 만이다. 경찰]]></content>
     </entry>
 </feed>
