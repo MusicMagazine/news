@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2023-10-28T16:14:09.107Z</updated>
+    <updated>2023-10-28T17:12:06.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“송지효, 배우라 다르다”…게임 위해 혼신 연기 (런닝맨)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001083935</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0001083935"/>
+        <updated>2023-10-28T17:11:56.399Z</updated>
+        <content type="html"><![CDATA[29일 SBS 예능 ‘런닝맨’에서는 송지효가 본업인 배우다운 탄탄한 연기력을 선보인다. 최근 진행된 녹화는 인터넷에서 회자되는 화제의 장면들을 재연해야 하는 미션을 진행했다. 영화, 드라마, 예능 등에서 ‘희로애락’]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남아공 '한국영화·음식축제' 성황…K팝 현지팬 즉석공연 흥돋워]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0014294001</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=417&amp;aid=0000958186"/>
         <updated>2023-10-28T12:25:19.526Z</updated>
         <content type="html"><![CDATA[가수 현아가 빨간머리 앤 콘셉트의 사진을 공개했다. 현아는 28일 자신의 사회관계망서비스(SNS) 계정에 별다른 말 없이 여러 장의 사진을 게재했다. 공개된 사진 속에는 붉은 머리를 땋아 '빨간머리 앤' 헤어스타일을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이희철 “방송사 출연 제의 많아” 허언증 의혹에 폭소 (살림남)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001083920</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0001083920"/>
-        <updated>2023-10-28T12:25:19.530Z</updated>
-        <content type="html"><![CDATA[28일 KBS2 예능 '살림하는 남자들 시즌2'에서는 방송인 이희철이 사업가로서의 '본캐'를 보여준다. 이날 이희철은 서울 대형 쇼핑몰에 하나부터 열까지 손수 준비한 첫 팝업 스토어를 연다. 이때 이희철을 응원하기]]></content>
     </entry>
 </feed>
