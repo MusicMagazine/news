@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-10-29T14:13:31.466Z</updated>
+    <updated>2023-10-29T15:13:33.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[밴드유니, '청춘'을 노래하다 [인터뷰]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=018&amp;aid=0005607180</id>
+        <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005607180"/>
+        <updated>2023-10-29T15:13:16.065Z</updated>
+        <content type="html"><![CDATA[밴드유니(사진=RXM) “10개월 동안 열심히 준비한 곡입니다. ‘다이브’가 밴드유니의 각오를 담은 출사표라면, ‘파란밤’은 청춘을 향한 위로의 메시지가 담긴 곡이라고 생각합니다. 열정적으로 활동해서 많은 분께 위로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['마약 혐의 부인' 지드래곤, "변호사 선임비 20억" 가능성도]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001655117</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004955741"/>
         <updated>2023-10-29T08:15:48.140Z</updated>
         <content type="html"><![CDATA[그룹 스트레이 키즈가 일본 도쿄돔 무대에 입성한 가운데 일본 스테이(팬덤명: STAY)들이 스트레이 키즈가 사랑 받는 이유를 밝혔다. 스트레이 키즈는 28일과 29일 양일간 일본 도쿄돔에서 'Stray Kids 5-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[판타지 보이즈, 日 도쿄에서 나고야 입성]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003191205</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003191205"/>
-        <updated>2023-10-29T08:15:48.152Z</updated>
-        <content type="html"><![CDATA[그룹 판타지 보이즈(FANTASY BOYS)가 일본 도쿄 일정을 마치고 나고야에 입성했다. 판타지 보이즈는 지난 28일 일본 도쿄 프로모션을 마무리, 나고야를 찾아 여러 이벤트를 통해 팬들과 소통을 이어갈 예정이다.]]></content>
     </entry>
 </feed>
