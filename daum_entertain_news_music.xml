@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-10-31T14:13:18.427Z</updated>
+    <updated>2023-10-31T15:14:44.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[그 백아연 맞아? 파격변신…2년 2개월만에 신보]]></title>
+        <id>https://v.daum.net/v/20231031232303513</id>
+        <link href="https://v.daum.net/v/20231031232303513"/>
+        <updated>2023-10-31T15:14:04.869Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 이승록 기자] 가수 백아연이 30, 31일 양일간 여섯 번째 디지털 싱글 'LIME (I’m So)(라임 (아임 쏘))'의 콘셉트 포토를 공개했다. 총 네 가지 버전의 포토 속 백아연은 화보를 연상케 하는 감각적인 무드로 눈길을 사로잡았다. 밝게 탈색된 머리와 힙한 패션으로 스타일리시한 면모를 보였고, 탄탄한 복근으로 건강한 아름다움을 드]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["마약 안 했고 자진출석"…지드래곤의 '초강경대응', 여론 뒤집을까]]></title>
         <id>https://v.daum.net/v/20231031231002454</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231031181039107"/>
         <updated>2023-10-31T09:12:35.691Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김현식 기자] “많은 분의 알고리즘에 ‘희진’과 ‘K’가 포함되도록 만들고 싶어요.” 솔로 앨범으로 돌아온 희진의 활동 각오다. 희진은 31일 미니앨범 ‘K’를 발매하고 글로벌 K팝 팬들과 재회한다. 이날 서울 강남구에 있는 소속사 모드하우스에서 라운드 인터뷰로 만난 희진은 “앨범 작업을 끝내고 나니 후련하다. 오랜 시간 기다려주신 팬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[멜로망스, 12월 전국투어 개최…5개 도시 뜬다]]></title>
-        <id>https://v.daum.net/v/20231031180708006</id>
-        <link href="https://v.daum.net/v/20231031180708006"/>
-        <updated>2023-10-31T09:12:35.693Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 멜로망스(김민석, 정동환)가 전국투어 콘서트를 개최한다. 멜로망스는 10월 31일 공식 채널을 통해 2023 멜로망스 전국투어 콘서트 ‘Roman'ce Town’ 개최 소식을 전하며 투어 일정을 공개했다. 멜로망스는 12월과 1월 부산, 대구, 전주, 광주, 서울 등 5개 도시에서 콘서트를 개최한다. 이들은 12월 16, 17]]></content>
     </entry>
 </feed>
