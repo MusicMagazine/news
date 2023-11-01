@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-11-01T15:17:21.955Z</updated>
+    <updated>2023-11-01T18:18:33.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[싸이, 아낌없이 퍼주는 컴백..화사→안신애→크러쉬 '기습 컴백 선언' [공식]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004957774</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004957774"/>
+        <updated>2023-11-01T18:18:15.926Z</updated>
+        <content type="html"><![CDATA[가수 크러쉬(Crush)가 정규 앨범으로 돌아온다. 크러쉬는 2일 자정 공식 SNS를 통해 정규 3집 'wonderego' 무드 필름을 게재하며 오는 14일 신보 발매 소식을 전했다. 이날 공개된 영상은 감미로운 크]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[브브걸 유정 “♥이규한과 열애설 계기로 진짜 만나.. 저희 축하해 주세요” 박수 받았다 (라디오스타)]]></title>
         <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000996955</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004909346"/>
         <updated>2023-11-01T14:11:24.195Z</updated>
         <content type="html"><![CDATA[그룹 위클리(Weeekly) 박소은이 1일 오후 서울 한남동 블루스퀘어에서 열린 다섯번째 미니 앨범 'ColoRise(컬러라이즈)' 발매 기념 쇼케이스에 참석해 포토타임을 갖고 있다. 'ColoRise(컬러라이즈)']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 위클리 이재희, '돋보이는 예쁨']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004909345</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004909345"/>
-        <updated>2023-11-01T14:11:24.197Z</updated>
-        <content type="html"><![CDATA[그룹 위클리(Weeekly) 이재희가 1일 오후 서울 한남동 블루스퀘어에서 열린 다섯번째 미니 앨범 'ColoRise(컬러라이즈)' 발매 기념 쇼케이스에 참석해 포토타임을 갖고 있다. 'ColoRise(컬러라이즈)']]></content>
     </entry>
 </feed>
