@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-11-01T18:18:33.359Z</updated>
+    <updated>2023-11-01T19:13:02.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['데뷔 700일' 아이브 "7만일 되는 날까지 함께해"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012183361</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0012183361"/>
+        <updated>2023-11-01T19:12:42.857Z</updated>
+        <content type="html"><![CDATA[문예빈 인턴 기자 = "많이 사랑해 주시는 만큼 아이브도 다이브(팬덤)에게 더 나은 모습 보여줄 수 있도록 항상 노력하겠다." 그룹 아이브(IVE)가 데뷔 700일을 맞이해 지난 활동을 돌아봤다. 지난달 31일 데뷔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[싸이, 아낌없이 퍼주는 컴백..화사→안신애→크러쉬 '기습 컴백 선언' [공식]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004957774</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004909348"/>
         <updated>2023-11-01T14:11:24.194Z</updated>
         <content type="html"><![CDATA[그룹 위클리(Weeekly)가 1일 오후 서울 한남동 블루스퀘어에서 열린 다섯번째 미니 앨범 'ColoRise(컬러라이즈)' 발매 기념 쇼케이스에 참석해 공연을 펼치고 있다. 'ColoRise(컬러라이즈)'는 위클리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 위클리 박소은, '사랑스럽게 볼하트~']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004909346</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004909346"/>
-        <updated>2023-11-01T14:11:24.195Z</updated>
-        <content type="html"><![CDATA[그룹 위클리(Weeekly) 박소은이 1일 오후 서울 한남동 블루스퀘어에서 열린 다섯번째 미니 앨범 'ColoRise(컬러라이즈)' 발매 기념 쇼케이스에 참석해 포토타임을 갖고 있다. 'ColoRise(컬러라이즈)']]></content>
     </entry>
 </feed>
