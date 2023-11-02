@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 03:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 04:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플뮤직, ‘캐럴 커버’ 홀리데이 플레이리스트 공개..  트와이스 정연 "O Christmas Tree"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=286935</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=286935</guid>
+            <pubDate>Thu, 02 Nov 2023 04:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=286935">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231102123925_8bee5f964554c2d5952f3073c944d0fe.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=286935">애플뮤직, ‘캐럴 커버’ 홀리데이 플레이리스트 공개..  트와이스 정연 "O Christmas Tree"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231102123925_8bee5f964554c2d5952f3073c944d0fe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아르테미스 희진, '첫 미니앨범 'K' 쇼케이스]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=286715</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=284673">엘라스트, 미니 4집 팬 쇼케이스...  “팬들 향한 진심 담았다”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231018084355_8e5bf7bd253f580a2c2ab9c4319554fe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투모로우바이투게더, 컴백 쇼케이스.. '이름의 장: FREEFALL']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=284372</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=284372</guid>
-            <pubDate>Sun, 15 Oct 2023 22:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=284372">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231016070911_0a6c3cd766b53de3f5f558ea8304d413.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=284372">투모로우바이투게더, 컴백 쇼케이스.. '이름의 장: FREEFALL' </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231016070911_0a6c3cd766b53de3f5f558ea8304d413.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
