@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-11-03T18:16:57.773Z</updated>
+    <updated>2023-11-03T20:13:35.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에스파, 새 앨범 '드라마' 베일 벗었다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000458522</id>
+        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000458522"/>
+        <updated>2023-11-03T20:13:19.252Z</updated>
+        <content type="html"><![CDATA[에스파가 새 미니앨범 '드라마' 트랙 포스터를 공개했다. 3일 에스파 각종 공식 SNS를 통해 공개된 네 번째 미니앨범 '드라마' 트랙 포스터는 신곡 분위기를 미리 만날 수 있는 하이라이트 메들리가 담겨 있다. 이번]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김현정 "성대결절로 잠적 생활…친했던 사람들 다 없어져"]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012188241</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0014308527"/>
         <updated>2023-11-03T10:17:57.839Z</updated>
         <content type="html"><![CDATA[독특한 캐릭터·음악으로 올봄 '크리스천' 히트…새 미니음반 발표 "창의력 원천은 동심…현대인의 우울 풀어내려 고민했죠" "천재라는 타이틀이요? 천재의 기준이 무엇이냐에 따라 다르겠지만, 남들과 다른 것을 한다는 의미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 위클리 먼데이, '예쁜 미모에 시선강탈']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004910214</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004910214"/>
-        <updated>2023-11-03T10:17:57.859Z</updated>
-        <content type="html"><![CDATA[그룹 위클리 먼데이가 3일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content>
     </entry>
 </feed>
