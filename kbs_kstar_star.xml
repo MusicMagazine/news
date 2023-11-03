@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 22:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 02:22:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["여기는 마리의 랩~" 뮤지컬 '마리 퀴리', 성수동에 팝업 스토어 오픈]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=287056</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=287056</guid>
+            <pubDate>Fri, 03 Nov 2023 02:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=287056">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231103084943_a1645b9737cc0201a2d07e4987135598.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=287056">"여기는 마리의 랩~" 뮤지컬 '마리 퀴리', 성수동에 팝업 스토어 오픈</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231103084943_a1645b9737cc0201a2d07e4987135598.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이윤지, SBS '마이 데몬' 캐스팅... 5년 만의 드라마 컴백]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=286908</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=284900">피아니스트 임윤찬, 클래식 명문 데카와 레코딩 전속 계약 체결</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231019083758_604322eb46745bab533a540b4268d6d1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴 아이디, BMW 차량에 FAST 채널 단독 공급.. 글로벌 커넥티드 카 시장 진출]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=284895</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=284895</guid>
-            <pubDate>Thu, 19 Oct 2023 00:51:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=284895">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231019083018_a0d9995769b9f5e926a4568c56854778.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=284895">뉴 아이디, BMW 차량에 FAST 채널 단독 공급.. 글로벌 커넥티드 카 시장 진출</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231019083018_a0d9995769b9f5e926a4568c56854778.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
