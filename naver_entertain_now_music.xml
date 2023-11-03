@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-11-03T15:14:48.682Z</updated>
+    <updated>2023-11-03T16:19:32.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[샤이니 ‘MY SHINee WORLD’ 놓쳐서는 안 될 관람 포인트 셋]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000923008</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000923008"/>
+        <updated>2023-11-03T16:19:15.342Z</updated>
+        <content type="html"><![CDATA[대한민국 아이돌그룹 샤이니의 데뷔 15주년을 기념해 특별 기획된 얼터 콘텐츠 영화 ‘MY SHINee WORLD’가 3일 개봉하는 가운데 놓쳐서는 안 될 관람 포인트 세 가지를 공개했다. 첫째는 팬들의 시선으로 그리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘(11월 4일)의 AAA 인기상 1위..임영웅·트와이스·차은우·김세정 [2023AAA]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003192421</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004910211</id>
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004910211"/>
         <updated>2023-11-03T10:17:57.868Z</updated>
-        <content type="html"><![CDATA[그룹 위클리 이수진이 3일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 위클리 이수진, '돋보이는 깜찍 미모']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004910210</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004910210"/>
-        <updated>2023-11-03T10:17:57.870Z</updated>
         <content type="html"><![CDATA[그룹 위클리 이수진이 3일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content>
     </entry>
 </feed>
