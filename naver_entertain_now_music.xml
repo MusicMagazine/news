@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-11-04T18:19:48.757Z</updated>
+    <updated>2023-11-04T19:11:15.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[골든차일드, 한강 세빛섬 뜬다…7일 게릴라 공연]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012188834</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0012188834"/>
+        <updated>2023-11-04T19:11:01.124Z</updated>
+        <content type="html"><![CDATA[그룹 '골든차일드'가 한강 세빛섬에 뜬다. 4일 소속사 울림엔터테인먼트에 따르면, 골든차일드는 오는 7일 오후 5시 반포한강공원 세빛섬 예빛무대에서 세 번째 싱글 '필 미(Feel me)' 발매를 기념하는 게릴라 공]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["네이버·구글 저리 가라"..화사, 20분 만에 찾은 호떡 사진]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003192526</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005612395"/>
         <updated>2023-11-04T11:10:38.826Z</updated>
         <content type="html"><![CDATA[그룹 골든차일드(Golden Child, 이대열, Y, 이장준, TAG, 배승민, 봉재현, 김지범, 김동현, 홍주찬, 최보민)가 오는 7일 한강 세빛섬에 뜬다. 소속사 울림엔터테인먼트는 4일 0시 공식 SNS를 통해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['찬또배기' 이찬원, 4일 저녁 '굿밤콘서트 인(in) 부산' 출격]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001657747</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001657747"/>
-        <updated>2023-11-04T11:10:38.829Z</updated>
-        <content type="html"><![CDATA['찬또배기' 이찬원이 '굿밤콘서트 인(in) 부산'에 출격해 가을밤을 수놓는다. 현재 부산에서는 아름다운 야경과 음악이 만나는 신개념 릴레이 콘서트인 '굿밤 콘서트'가 진행 중이다. 2일부터 5일까지 4일간 진행되는]]></content>
     </entry>
 </feed>
