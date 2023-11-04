@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Nov 2023 00:51:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Nov 2023 04:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정국 솔로 앨범 ‘GOLDEN’,‘황금빛 질주'.. "톱 앨범, 더블 밀리언셀러"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=287247</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=287247</guid>
+            <pubDate>Sat, 04 Nov 2023 04:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=287247">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231104102033_3abc57814e5f72f23890623bbab65c85.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=287247">정국 솔로 앨범 ‘GOLDEN’,‘황금빛 질주'.. "톱 앨범, 더블 밀리언셀러"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231104102033_3abc57814e5f72f23890623bbab65c85.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[애플뮤직, ‘캐럴 커버’ 홀리데이 플레이리스트 공개..  트와이스 정연 "O Christmas Tree"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=286935</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=284751">'김계란 걸밴드' QWER(큐더블유이알), 오늘 데뷔... "1집부터 10000집까지, 지구정복의 밴드가 되겠다"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231018160425_1a918d511f63659d0c6ad8e1e064811c.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엘라스트, 미니 4집 팬 쇼케이스...  “팬들 향한 진심 담았다”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=284673</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=284673</guid>
-            <pubDate>Wed, 18 Oct 2023 01:53:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=284673">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231018084355_8e5bf7bd253f580a2c2ab9c4319554fe.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=284673">엘라스트, 미니 4집 팬 쇼케이스...  “팬들 향한 진심 담았다”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231018084355_8e5bf7bd253f580a2c2ab9c4319554fe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
