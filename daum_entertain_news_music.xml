@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-11-04T05:16:49.269Z</updated>
+    <updated>2023-11-04T06:18:11.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이브 日 대표 음악방송 출격, 글로벌 대세 굳힌다]]></title>
+        <id>https://v.daum.net/v/20231104151315109</id>
+        <link href="https://v.daum.net/v/20231104151315109"/>
+        <updated>2023-11-04T06:17:31.302Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 그룹 아이브(IVE 안유진.가을.레이.장원영.리즈.이서)가 일본 대표 음악 방송에 출연한다. 소속사 스타쉽엔터테인먼트에 따르면 아이브는 오는 11월 6일 오후 7시부터 2시간 동안 스페셜 생방송으로 진행되는 TBS 'CDTV 라이브! 라이브!'에서 특별한 무대로 일본 팬들과 만난다. 이날 방송에서 아이브는 일본 방송 최초로 신보 ']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[룰라 이상민, 오늘 모친상]]></title>
         <id>https://v.daum.net/v/20231104140207389</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231104084147505"/>
         <updated>2023-11-04T00:50:49.099Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 이승훈 기자] /사진=어도어걸 그룹 뉴진스(NewJeans)가 '2023 리그 오브 레전드(이하 LoL) 월드 챔피언십' 결승전의 오프닝 무대를 장식한다. 라이엇 게임즈와 뉴진스 소속사 어도어(ADOR)는 4일 "19일 서울 구로구 고척스카이돔에서 열리는 '2023 LoL 월드 챔피언십' 결승전 오프닝 세리머니에 뉴진스(민지, 하니, 다니엘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['BBMA 후보' 피프티 피프티 키나, 대면 일정은 없다]]></title>
-        <id>https://v.daum.net/v/20231104084001491</id>
-        <link href="https://v.daum.net/v/20231104084001491"/>
-        <updated>2023-11-04T00:50:49.100Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 윤상근 기자] 걸그룹 피프티피프티(FIFTY FIFTY) 키나가 13일 오후 서울 강남구 일지아트홀에서 진행된 기자간담회에서 질문에 답하고 있다.  피프티 피프티의 'Cupid'(큐피트)는 12일(한국 기준) 미국 빌보드가 발표한 빌보드의 메인 싱글 차트 핫100에 이름을 올렸다. /2023.04.13 /사진=이동훈 기자 photoguy@]]></content>
     </entry>
 </feed>
