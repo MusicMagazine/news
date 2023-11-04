@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 23:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Nov 2023 00:51:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['춘천 2023' 임시완 춘천마라톤 10km 완주.. 루게릭 병원 건립에 기부]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=287183</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=287183</guid>
+            <pubDate>Sat, 04 Nov 2023 00:50:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=287183">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231104090500_455b84954ccd4a8140fc764c3a9a0d76.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=287183">'춘천 2023' 임시완 춘천마라톤 10km 완주.. 루게릭 병원 건립에 기부</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231104090500_455b84954ccd4a8140fc764c3a9a0d76.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한동희, 티빙 ‘운수 오진 날’ 출연.. 유연석의 첫사랑 윤세나]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=287093</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=284989">'2023 조용필&amp;위대한탄생' 전국투어 콘서트 ... 12월 2일 광주 시작, 서울-대구-부산 일정 발표</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231019121433_40efe85a230a060ed6af573d2e36a325.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박은빈, ‘하퍼스 바자’ 화보 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=284983</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=284983</guid>
-            <pubDate>Thu, 19 Oct 2023 05:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=284983">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231019112404_d481b224bc2cedb5b18cbcbe91b528f5.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=284983">박은빈, ‘하퍼스 바자’ 화보 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231019112404_d481b224bc2cedb5b18cbcbe91b528f5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
