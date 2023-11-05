@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Nov 2023 05:15:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Nov 2023 06:15:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[르세라핌, 게임축제 ‘블리즈컨 2023’ 피날레 장식]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=287375</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=287375</guid>
+            <pubDate>Sun, 05 Nov 2023 06:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=287375">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231105141411_f231550714dad3592921af4e4ce455e1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=287375">르세라핌, 게임축제 ‘블리즈컨 2023’ 피날레 장식</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231105141411_f231550714dad3592921af4e4ce455e1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[정국 솔로 앨범 ‘GOLDEN’,‘황금빛 질주'.. "톱 앨범, 더블 밀리언셀러"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=287247</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=284762">패기의 신인 '영파씨' 데뷔..  'MACARONI CHEESE' 발매…'K-팝씬 청개구리' 출격</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231018170839_3be3b63916b46c760935f06ffe057268_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['김계란 걸밴드' QWER(큐더블유이알), 오늘 데뷔... "1집부터 10000집까지, 지구정복의 밴드가 되겠다"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=284751</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=284751</guid>
-            <pubDate>Wed, 18 Oct 2023 07:11:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=284751">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231018160425_1a918d511f63659d0c6ad8e1e064811c.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=284751">'김계란 걸밴드' QWER(큐더블유이알), 오늘 데뷔... "1집부터 10000집까지, 지구정복의 밴드가 되겠다"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231018160425_1a918d511f63659d0c6ad8e1e064811c.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
