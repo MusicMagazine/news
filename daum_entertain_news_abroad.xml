@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-11-05T06:15:26.952Z</updated>
+    <updated>2023-11-05T07:14:26.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['백 투더 퓨처' 주인공, 30년간 파킨슨병 투병 "죽음 안 두려워"]]></title>
+        <id>https://v.daum.net/v/20231105155923949</id>
+        <link href="https://v.daum.net/v/20231105155923949"/>
+        <updated>2023-11-05T07:14:01.402Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 영화 '백 투 더 퓨처'로 많은 사랑을 받은 배우 마이클 J. 폭스(Michael J. Fox, 62)는 30년 동안 파킨슨 병을 앓아오고 이지만 죽음을 두려워하지&nbsp;않는다고 말했다. 1991년 29세의 나이에&nbsp;처음 파킨슨 병 진단을 받고 이후 줄곧 투병 생활을 해 온 그는&nbsp;최근 타운앤컨트리(Town &amp; Country)와의 인터뷰]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['해리포터' 촬영 중 사고로 하반신 마비된 래드클리프 대역..감동의 우정]]></title>
         <id>https://v.daum.net/v/20231105120020377</id>
@@ -60,12 +67,5 @@
         <link href="https://v.daum.net/v/20231104171200551"/>
         <updated>2023-11-04T08:14:21.349Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 배우 티모시 샬라메와 열애 중인 모델 겸 사업가 카일리 제너가 표절 시비에도 새로운 사업에서 엄청난 성공을 거뒀다. 3일(현지 시간) 영국 매체 데일리메일에 따르면 카일리 제너(26)의 새로운 의류 브랜드가 출시된 지 한 시간 만에 100만 달러(한화 약 13억 원)의 매출을 올렸다. 카일리 제너는 새로운 의류 브랜드 Khy를 시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[치매 앓는 브루스 윌리스, “전부인 데미 무어 얼굴 기억못해” 충격]]></title>
-        <id>https://v.daum.net/v/20231104152843249</id>
-        <link href="https://v.daum.net/v/20231104152843249"/>
-        <updated>2023-11-04T07:17:32.024Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]치매를 앓고 있는 할리우드 배우 브루스 윌리스(68)가 전 부인 데미 무어(60)를 알아보지 못하는 것으로 알려졌다. 3일(현지시간) ‘클로저’에 따르면, 한 소식통은 “전두측두엽 치매와 싸우고 있는 브루스 윌리스는 13년 동안 결혼 생활을 이어온 아내 데미 무어가 누구인지 모른다”고 말했다. 이들은 13년의 결혼생활 동안]]></content>
     </entry>
 </feed>
