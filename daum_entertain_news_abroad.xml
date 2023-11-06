@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-11-06T08:18:19.406Z</updated>
+    <updated>2023-11-06T09:17:21.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브래드 피트 母 "아들이 '아폴로 13' 출연 거절해서 실망"]]></title>
+        <id>https://v.daum.net/v/20231106180600617</id>
+        <link href="https://v.daum.net/v/20231106180600617"/>
+        <updated>2023-11-06T09:16:59.372Z</updated>
+        <content type="html"><![CDATA[[TV리포트=안수현 기자] 할리우드 배우 브래드 피트의 어머니가 그의 '아폴로 13' 출연 거절 소식을 듣고 분노한 것으로 전해졌다. 지난 4일(현지 시간), 외신 매체 'Far Out'은 할리우드 톱스타 브래드 피트(59)의 출연작과 출연 거절작을 비교하는 내용을 보도했다. 브래드 피트는 영화 '파이트 클럽', '오션스 일레븐', '바스터즈: 거친 녀석들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MCU '에코', 팬덤 대신 대중 택했다…"사전 지식 필요없는 이야기"]]></title>
         <id>https://v.daum.net/v/20231106171157513</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231106101805044"/>
         <updated>2023-11-06T01:57:54.172Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]온몸이 뻣뻣해지는 ‘강직인간 증후군’을 앓고 있는 세계적 가수 셀린 디온(55)이 공식석상에 참석해 밝은 미소를 지었다. 일각에선 증세가 호전된 것이 아니냐는 기대를 내비치고 있다. 디온은 최근 캐나다 몬트리올의 T-모바일 아레나에서 열린 몬트리올 캐나디언과 라스베이거스 골든나이츠의 NHL 하키 경기 이벤트에 참석했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["'프렌즈' 수입 매년 200억원대"…배우 매슈 페리 유산에 관심]]></title>
-        <id>https://v.daum.net/v/20231106075514486</id>
-        <link href="https://v.daum.net/v/20231106075514486"/>
-        <updated>2023-11-05T23:12:15.532Z</updated>
-        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 임미나 특파원 = 지난달 별세한 할리우드 배우 매슈 페리가 대표작 '프렌즈' 재상영 수입으로만 한 해에 200억원이 넘는 돈을 벌었다는 보도가 나왔다. 5일(현지시간) 미국 경제매체 CNBC에 따르면 페리가 시트콤 프렌즈의 TV 재방송과 스트리밍 플랫폼 재상영으로 연간 벌어들인 수입은 2천만달러(약 262억원)에 달하는 것으로 알려]]></content>
     </entry>
 </feed>

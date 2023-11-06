@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 08:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 09:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 ‘안나, 차이코프스키’ 공연 실황.. 네이버NOW+네이버TV 후원라이브]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=287538</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=287538</guid>
+            <pubDate>Mon, 06 Nov 2023 09:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=287538">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231106175237_1d73d752c6ff20e82be530156f40ade4.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=287538">뮤지컬 ‘안나, 차이코프스키’ 공연 실황.. 네이버NOW+네이버TV 후원라이브</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231106175237_1d73d752c6ff20e82be530156f40ade4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 '미드나잇:액터뮤지션'.. "독재의 암흑시대, 인간 본연의 욕망".. 12월 개막]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=287259</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=285031">[게임] "피터 파커- 마일즈 모랄레스가 함께~"  PS5 ’마블 스파이더맨2’ 출시.. 성수동 팝업스토어 운영</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231020101235_ada303ff159b8c034aeaefbd0148fd04.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“그 사나이 돌아온다!”  뮤지컬 <홀연했던 사나이> 12월 대학로 복귀]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=285037</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=285037</guid>
-            <pubDate>Fri, 20 Oct 2023 01:51:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=285037">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231020102827_f768e3aa266bad9f81e7e20871c1e44e.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=285037">“그 사나이 돌아온다!”  뮤지컬 &lt;홀연했던 사나이&gt; 12월 대학로 복귀</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231020102827_f768e3aa266bad9f81e7e20871c1e44e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
