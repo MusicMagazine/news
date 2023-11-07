@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 05:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 06:28:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['김준수와 함께', 연말콘서트 ‘Chapter.1 Recreation’ 개최]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=287697</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=287697</guid>
+            <pubDate>Tue, 07 Nov 2023 06:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=287697">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231107142113_56a5de73c63fe210e8517745b266f1ad.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=287697">'김준수와 함께', 연말콘서트 ‘Chapter.1 Recreation’ 개최 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231107142113_56a5de73c63fe210e8517745b266f1ad.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["그 화가를 만나다" 뮤지컬 <모딜리아니>, <에곤실레> 무대 위로]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=287264</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=285428">[신간] 소설 '멜랑콜리아'.. 2023년 노벨문학상 수상작가 '욘 포세' 대표작</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231023101934_3d26899ae8cf360a26b677104b21e865.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리디, 아마존출신 김태훈 '만타(Manta)' CIC 대표 영입]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=285423</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=285423</guid>
-            <pubDate>Mon, 23 Oct 2023 02:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=285423">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231023095827_b4feb4a9c158feaed0a3db645c2884d3_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=285423">리디, 아마존출신 김태훈 '만타(Manta)' CIC 대표 영입</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231023095827_b4feb4a9c158feaed0a3db645c2884d3_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
