@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2023-11-08T19:14:21.184Z</updated>
+    <updated>2023-11-08T20:12:56.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[IS인터뷰] ‘뉴 노멀’ 정범식 감독 “죽음의 가능성 가까이 있는 우리 사회 그려”]]></title>
+        <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003311545</id>
+        <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003311545"/>
+        <updated>2023-11-08T20:12:48.173Z</updated>
+        <content type="html"><![CDATA[“최근 안전하고 평화로워 보이는 일상이 순식간에 죽음의 공포로 뒤덮일 수 있다는 걸 알았어요. 귀신이나 초자연적인 현상을 다룬 영화들이 가짜처럼 느껴질 정도로 현실의 공포가 커졌죠.” 우리에게 보통의 내일이 없다면]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[티아라 출신 소연, ♥조유민과 결혼 1주년 자축 "이제 한 살"[스타IN★]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003193451</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003311537"/>
         <updated>2023-11-08T16:15:32.353Z</updated>
         <content type="html"><![CDATA[배우 최수종이 아내 하희라에게 첫눈에 반했다고 밝혔다. 최수종은 8일 오후 방송된 tvN 예능 프로그램 ‘유퀴즈 온 더 블록’에서 과거 자유시간 MC를 하희라가 한다는 말에 했다고 말했다. 최수종은 “원래 처음 섭외]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘유퀴즈’ 최수종 “국어사전 들고 다니며 장단음 표기… 남 대사도 외워”[TVis]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003311536</id>
-        <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003311536"/>
-        <updated>2023-11-08T16:15:32.360Z</updated>
-        <content type="html"><![CDATA[배우 최수종이 연기에 대한 남다른 열정을 드러냈다. 최수종은 8일 오후 방송된 tvN 예능 프로그램 ‘유퀴즈 온 더 블록’에 출연해 “내가 다른 건 모르겠는데 현장에 늘 빨리 가는 것만은 잘한다”고 말했다. 최수종은]]></content>
     </entry>
 </feed>
