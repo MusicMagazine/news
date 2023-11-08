@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 08:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 09:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장]  보이그룹 '휘브'(WHIB).. "화이트에서 블랙까지, 씨제스의 색깔"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=287899</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=287899</guid>
+            <pubDate>Wed, 08 Nov 2023 09:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=287899">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231108173829_fad795e691537ec53ea76194e9f3d9a3.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=287899">[현장]  보이그룹 '휘브'(WHIB).. "화이트에서 블랙까지, 씨제스의 색깔"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231108173829_fad795e691537ec53ea76194e9f3d9a3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레드벨벳 새 앨범 ‘Chill Kill’, 13일 발매...  거부할 수 없는 치명적인 사랑 이야기]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=287854</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=285552">갓세븐 영재, 정규 1집 ‘Do It’ 콘셉트 포토 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231024110047_07d133c990df9abd4219f776213a35a9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[르세라핌, 첫 영어 디지털 싱글 ‘Perfect Night’.. 27일 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=285404</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=285404</guid>
-            <pubDate>Mon, 23 Oct 2023 02:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=285404">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231023085606_18190ae92710f25f6ce2c6f41157399e.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=285404">르세라핌, 첫 영어 디지털 싱글 ‘Perfect Night’.. 27일 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231023085606_18190ae92710f25f6ce2c6f41157399e.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
