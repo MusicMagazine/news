@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-11-08T18:15:21.107Z</updated>
+    <updated>2023-11-08T19:14:21.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[24년차 ‘마마 어워즈’ 일본 도쿄돔 개최]]></title>
+        <id>https://v.daum.net/v/20231109040311408</id>
+        <link href="https://v.daum.net/v/20231109040311408"/>
+        <updated>2023-11-08T19:13:48.416Z</updated>
+        <content type="html"><![CDATA[올해로 24년째인 ‘마마 어워즈’가 올해는 일본 도쿄돔에서 열린다. CJ ENM은 K팝을 대표하는 음악 시상식으로서 위상에 걸맞은 모습을 보여줄 것이라고 약속했다. 박찬욱 엠넷 사업부장은 8일 서울 강남구 쿤스트할레에서 진행된 기자간담회에서 “도전과 시도의 과정 속에서 시행착오도 있었지만 K팝의 가능성을 믿으며 전세계에 K팝을 알리는 교두보가 되고자 노력]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[키스오브라이프 "우리 이름=대명사 될 것"…안무·작곡 다하는 5개월차 신인]]></title>
         <id>https://v.daum.net/v/20231109003102637</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231108182921761"/>
         <updated>2023-11-08T10:14:58.164Z</updated>
         <content type="html"><![CDATA[&nbsp;[스포츠한국 이혜영 기자] 그룹 휘브(WHIB) 8일 오후 서울 마포구 프리즘타워에서 열린 싱글 1집 '컷-아웃(Cut-Out)' 발매기념 데뷔 쇼케이스에서 멋진 무대를 선보이고 있다. 데뷔 앨범인 'Cut-Out'은 '여러 가지 색의 도화지를 잘라 붙여 하나의 작품을 만들어내듯 휘브만의 색을 가진 하나의 작품(앨범)을 만들기 시작하겠다'는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[휘브 '청량한 비주얼']]></title>
-        <id>https://v.daum.net/v/20231108182240569</id>
-        <link href="https://v.daum.net/v/20231108182240569"/>
-        <updated>2023-11-08T10:14:58.164Z</updated>
-        <content type="html"><![CDATA[[스포츠한국 이혜영 기자] 그룹 휘브(WHIB) 8일 오후 서울 마포구 프리즘타워에서 열린 싱글 1집 '컷-아웃(Cut-Out)' 발매기념 데뷔 쇼케이스에서 멋진 무대를 선보이고 있다. 데뷔 앨범인 'Cut-Out'은 '여러 가지 색의 도화지를 잘라 붙여 하나의 작품을 만들어내듯 휘브만의 색을 가진 하나의 작품(앨범)을 만들기 시작하겠다'는]]></content>
     </entry>
 </feed>
