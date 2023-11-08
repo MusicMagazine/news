@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 21:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 23:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[창작뮤지컬 '리진:빛의 여인'.. 조선의 무희 리진이 꿈꾼 사랑과 새로운 세상]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=287269</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=287269</guid>
+            <pubDate>Wed, 08 Nov 2023 23:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=287269">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231104125421_8865e19210dc21da3929e2fc8fcbb3e6.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=287269">창작뮤지컬 '리진:빛의 여인'.. 조선의 무희 리진이 꿈꾼 사랑과 새로운 세상</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231104125421_8865e19210dc21da3929e2fc8fcbb3e6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우 고상호, 연극 '튜링머신' 앨런 튜링 열연]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=287837</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=285856">"10주년 공연" 뮤지컬 '드라큘라' 상견례 현장.. "이쪽은 드라큘라, 저쪽은 미나,   반 헬싱은  저~쪽입니다"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231026131906_cf13d017c1c1b1939bc71c32a954c9b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['태양의 서커스-루치아' 서울-부산 공연..  개막 앞두고 매출 150억 돌파]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=285558</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=285558</guid>
-            <pubDate>Tue, 24 Oct 2023 02:22:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=285558">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231024111142_e298c22d9fd662d1d3812024ff593248.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=285558">'태양의 서커스-루치아' 서울-부산 공연..  개막 앞두고 매출 150억 돌파</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231024111142_e298c22d9fd662d1d3812024ff593248.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
