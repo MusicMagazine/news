@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 23:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 01:51:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라이즈 ‘Get A Guitar’ 영어 버전, 오늘 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=287958</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=287958</guid>
+            <pubDate>Thu, 09 Nov 2023 01:50:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=287958">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231109090658_92571d1a11079489934d60f9eceba5c9_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=287958">라이즈 ‘Get A Guitar’ 영어 버전, 오늘 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231109090658_92571d1a11079489934d60f9eceba5c9_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장]  보이그룹 '휘브'(WHIB).. "화이트에서 블랙까지, 씨제스의 색깔"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=287899</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=285919">정국, 솔로 앨범 트랙 포스터 공개.. 수록곡 ‘Hate You’에 숀 멘데스 송라이팅 참여</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231027080622_43cf9bd0451e3dc08ec827ad2f139b05.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갓세븐 영재, 정규 1집 ‘Do It’ 콘셉트 포토 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=285552</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=285552</guid>
-            <pubDate>Tue, 24 Oct 2023 02:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=285552">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231024110047_07d133c990df9abd4219f776213a35a9.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=285552">갓세븐 영재, 정규 1집 ‘Do It’ 콘셉트 포토 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231024110047_07d133c990df9abd4219f776213a35a9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
