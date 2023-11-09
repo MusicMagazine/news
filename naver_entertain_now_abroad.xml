@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2023-11-09T20:18:29.928Z</updated>
+    <updated>2023-11-09T21:13:35.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배우 명도, 라이브로 '3149억' 벌어...진정한 '장사 천재' [룩@차이나]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001276331</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001276331"/>
+        <updated>2023-11-09T21:13:34.328Z</updated>
+        <content type="html"><![CDATA[대만 인기 배우 명도(43)은 '장사 천재'다. 7일(현지 시간) 외신 '딤섬데일리 홍콩'의 보도 따르면 명도는 항저우 라이브 스트리밍 판매 이벤트에서 그의 아내와 함께 약 2억 4천만 달러(한화 약 3149억 원)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["언어 능력 상실"…브루스 윌리스, 딸이 공개한 '치매 父' 근황 [엑's 할리우드]]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001660123</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000967165"/>
         <updated>2023-11-09T11:10:32.192Z</updated>
         <content type="html"><![CDATA[펜싱 선수 김준호가 9일 오후 서울 여의도에서 열린 포토 행사에 참석하고 있다. 이날 행사에는 이영애, 세븐틴 정한, 모델 아이린, 박세리 골프 감독, 펜싱 김준호가 참석했다. 여의도(서울)=천정환 MK스포츠 기자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이린 ‘시선 사로잡는 백설공주 드레스’ [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000967163</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000967163"/>
-        <updated>2023-11-09T11:10:32.193Z</updated>
-        <content type="html"><![CDATA[모델 아이린이 9일 오후 서울 여의도에서 열린 포토 행사에 참석하고 있다. 이날 행사에는 이영애, 세븐틴 정한, 모델 아이린, 박세리 골프 감독, 펜싱 김준호가 참석했다. 여의도(서울)=천정환 MK스포츠 기자]]></content>
     </entry>
 </feed>
