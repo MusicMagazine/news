@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-11-09T14:13:46.246Z</updated>
+    <updated>2023-11-09T16:19:22.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남도현 오늘 생일…아이돌픽 이벤트 주인공]]></title>
+        <id>https://v.daum.net/v/20231110000015736</id>
+        <link href="https://v.daum.net/v/20231110000015736"/>
+        <updated>2023-11-09T16:18:43.654Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 남도현 오늘(10일) 생일…아이돌픽 이벤트 주인공 [DA:차트] 가수 남도현이 11월 생일 이벤트를 받는다. 10일 ‘나만의 아이돌을 픽한다’ 스타 투표 웹서비스 아이돌픽(idolpick)에 따르면 남도현은 11월 생일자를 대상으로 한 스페셜 투표에서 이벤트 주인공으로 선정됐다. 관련 투표는 지난달 13일부터 22일까지 진행됐다. ▲ 4만픽]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘컴백’ 백아연, 10년 만의 댄스곡 ‘LIME ’ 챌린지 시작···박명수→아뽀키도 춤췄다!]]></title>
         <id>https://v.daum.net/v/20231109212128329</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231109171328617"/>
         <updated>2023-11-09T08:19:54.667Z</updated>
         <content type="html"><![CDATA[가수 딘딘을 둘러싼 다양한 시선과 이미지가 있지만, ‘딘딘은 딘딘’이다. 딘딘은 지난 2013년 엠넷 ‘쇼미더머니 2’를 통해 연예계에 발을 들였다. 당시 헝그리 정신이 주요 정서였던 국내 힙합신에 ‘엄카 찬스’를 외치는 철없는 ‘부잣집 래퍼’ 등장은 시선을 집중시켰고, 이후 다수의 예능에 출연해 인지도를 높여갔다. 래퍼로서 앨범도 꾸준히 내왔지만,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["'쉿'으로 몸 풀었죠"...키스오브라이프, 게임 체인저의 등장]]></title>
-        <id>https://v.daum.net/v/20231109171052520</id>
-        <link href="https://v.daum.net/v/20231109171052520"/>
-        <updated>2023-11-09T08:19:54.678Z</updated>
-        <content type="html"><![CDATA["K팝 신의 '게임 체인저'로 돌아왔어요." 이유 있는 자신감으로 무장한 그룹 키스오브라이프(KISS OF LIFE)가 제대로 몸풀기를 마쳤다. 데뷔 첫 컴백에 나서며 글로벌 K팝 팬들의 이목을 집중시킨 이들의 비상은 지금부터다. 키스오브라이프는 8일 두 번째 미니앨범 '본 투 비 엑스엑스(Born to be XX)'를 발매하고 데뷔 첫 컴백에 나섰다.]]></content>
     </entry>
 </feed>
