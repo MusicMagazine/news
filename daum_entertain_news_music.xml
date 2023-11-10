@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-11-10T16:19:17.798Z</updated>
+    <updated>2023-11-10T18:15:32.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단·피프티 등 K팝 가수, 그래미 후보 진출 불발]]></title>
+        <id>https://v.daum.net/v/20231111020315136</id>
+        <link href="https://v.daum.net/v/20231111020315136"/>
+        <updated>2023-11-10T18:14:58.566Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 그룹 방탄소년단 멤버들을 비롯해 K팝 가수들의 제66회 그래미 어워즈 후보 진출이 불발됐다. 그래미 어워즈(Grammy Awards)를 주관하는 미국 레코딩 아카데미 측은 11일 새벽 0시45분(한국시각 기준, 미국 서부시각 10일 오전)부터 라이브 스트리밍 행사를 진행하고, 오는 2024년 열릴 제66회 그래미 어워즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단 정국, 뉴욕 타임스스퀘어 게릴라 공연]]></title>
         <id>https://v.daum.net/v/20231110222544332</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231110175203227"/>
         <updated>2023-11-10T10:17:23.922Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 그룹 방탄소년단(BTS) 정국이 솔로 아티스트로서 진솔한 이야기를 전했다. 애플뮤직(Apple Music)이 10일 정국과 애플뮤직 글로벌 크리에이티브 디렉터 제인 로우(Zane Lowe)와의 인터뷰 '제인 로우가 만난 정국'을 공개했다. 애플뮤직 라디오(Apple Music Radio)의 프로그램 애플뮤직 1(Apple]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소포모어 징크스' 없다…제로베이스원, 데뷔 앨범 이어 또 '초대박']]></title>
-        <id>https://v.daum.net/v/20231110175036190</id>
-        <link href="https://v.daum.net/v/20231110175036190"/>
-        <updated>2023-11-10T11:10:07.253Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=정혜원 기자] 그룹 제로베이스원에게 '소포모어 징크스'란 없다. 지난 7월 가요계에 첫발을 내디딘 제로베이스원은 데뷔 앨범에 이어 신보를 통해서도 '탈신인급' 행보를 이어가고 있다. 제로베이스원은 지난 6일 발매한 두 번째 미니앨범 '멜팅 포인트'로 음반은 물론 음원차트까지 두 마리의 토끼를 다 잡았다. '멜팅 포인트'는 지금 이 순간]]></content>
     </entry>
 </feed>
