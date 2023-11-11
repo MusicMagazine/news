@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-11-11T14:13:19.525Z</updated>
+    <updated>2023-11-11T16:17:43.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[판타지 보이즈, 12일 자정 신곡 ‘포텐셜’ 음원 일부 공개..이례적 행보]]></title>
+        <id>https://v.daum.net/v/20231111232021014</id>
+        <link href="https://v.daum.net/v/20231111232021014"/>
+        <updated>2023-11-11T16:17:07.455Z</updated>
+        <content type="html"><![CDATA[[OSEN=김채연 기자] 그룹 판타지 보이즈(FANTASY BOYS)가 오는 12일 신곡 일부를 공개한다. 판타지 보이즈가 16일 가요계로 컴백하는 가운데, 12일 자정 신곡 ‘POTENTIAL’(포텐셜)의 일부가 공개된다. 판타지 보이즈는 ‘POTENTIAL’의 일부 구간 영상과 음원 공개를 확정, 컴백에 앞서 K팝에 강렬한 존재감을 내비칠 전망이다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[god, 자급자족 생고생→국민 그룹→재결합…'마스터피스'를 만들어가는 레전드]]></title>
         <id>https://v.daum.net/v/20231111210102131</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231111160806436"/>
         <updated>2023-11-11T08:14:12.344Z</updated>
         <content type="html"><![CDATA[[티브이데일리 이기은 기자] 그룹 레드벨벳(Red Velvet)이 정규 3집 ‘Chill Kill’(칠 킬)로 컴백을 앞두며 기대를 높인다. 해체설 해프닝까지 딛은 이들의 성숙한 톱급 내공이 예고됐다. 11일 소속사 SM엔터테인먼트는 13일 레드벨벳 컴백을 앞두고, 새로운 매력을 만날 수 있는 정규 3집 ‘Chill Kill’(칠 킬)의 킬링 포인트를 공개]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백' 빅스, 컬러풀한 매력으로 찢었다]]></title>
-        <id>https://v.daum.net/v/20231111153028789</id>
-        <link href="https://v.daum.net/v/20231111153028789"/>
-        <updated>2023-11-11T08:14:12.346Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자] 그룹&nbsp;빅스(VIXX)가 켄의 컬러풀한 매력을 가득 담아낸 컴백 오피셜 포토를 공개했다. 빅스는&nbsp;11일 공식&nbsp;SNS를 통해 다섯 번째 미니 앨범&nbsp;'CONTINUUM'의 켄 개인 오피셜 포토를 게재하며 강렬한 인상을 남겼다. 공개된 오피셜 포토&nbsp;'WHOLE'&nbsp;버전에서 켄은 원형 오브제에 기대고 있는 모습과 원형 안에 속해 있는 모습]]></content>
     </entry>
 </feed>
