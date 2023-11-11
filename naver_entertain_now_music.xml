@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-11-11T11:10:18.410Z</updated>
+    <updated>2023-11-11T12:20:03.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제로베이스원 미니 2집, 스포티파이 누적 스트리밍 수 400만 돌파]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000967695</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000967695"/>
+        <updated>2023-11-11T12:19:48.630Z</updated>
+        <content type="html"><![CDATA[그룹 제로베이스원이 신보 ‘MELTING POINT (멜팅 포인트)’와 타이틀곡 ‘CRUSH (가시)’로 각종 음원 차트에서 상승세를 이어가고 있다. 11일 세계 최대 음악 스트리밍 플랫폼 스포티파이(Spotify)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이티즈, 정규 2집 트레일러..영화 같은 강력 흡인력]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003194077</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005617466"/>
         <updated>2023-11-11T08:14:33.752Z</updated>
         <content type="html"><![CDATA[가수 헤이즈(Heize)가 단독 콘서트를 열고 팬들과 만난다. 헤이즈는 지난 10일 공식 SNS를 통해 오는 12월 16일부터 17일까지 서울 경희대학교 평화의 전당에서 열리는 ‘2023 헤이즈 시티 라스트 윈터’(]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[POP이슈]피프티 피프티 키나 수천만원 정산에..'소송' 3인은? "내용증명 보내"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003663933</id>
-        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003663933"/>
-        <updated>2023-11-11T08:14:33.753Z</updated>
-        <content type="html"><![CDATA[피프티 피프티 키나가 정산금을 받게 된 가운데 팀을 떠나 소송 중인 3인이 소속사 어트랙트에 내용증명을 보낸 것으로 전해졌다. 11일 유튜브 채널 '이진호 연예뒤통령'에는 '키나 정산이 왜? 피프티 前 멤버 3인이]]></content>
     </entry>
 </feed>
