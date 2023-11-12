@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-11-12T11:13:59.327Z</updated>
+    <updated>2023-11-12T12:20:45.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빅스 혁, 신비롭고 매혹적인 남신…오피셜 포토 공개]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000967766</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000967766"/>
+        <updated>2023-11-12T12:20:28.491Z</updated>
+        <content type="html"><![CDATA[빅스 혁, 12일 신보 오피셜 포토 공개 고혹적이면서도 신비로운 분위기 폭발 빅스(VIXX) 혁이 매혹적인 오피셜 포토를 공개했다. 빅스는 12일 공식 SNS를 통해 다섯 번째 미니 앨범 ‘CONTINUUM’의 혁]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['무빙' 이정하, '쇼! 음악중심' MC 데뷔 어땠나…커버 무대까지]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001661063</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003312294"/>
         <updated>2023-11-12T07:12:56.986Z</updated>
         <content type="html"><![CDATA[그룹 스테이씨 멤버 세은, 윤이 컨디션 난조로 휴식기를 가진다. 소속사 하이업엔터테인먼트는 12일 공식 SNS를 통해 “멤버 세은, 윤이 컨디션 난조로 인해 일본 현지 병원을 방문해 검진한 결과, 휴식과 안정이 필요]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘인기가요’ 악뮤vs제니vs아이브 1위 트로피 경쟁]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000791398</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000791398"/>
-        <updated>2023-11-12T07:12:56.987Z</updated>
-        <content type="html"><![CDATA[악뮤(AKMU), 제니(JENNIE), 아이브(IVE)가 '인기가요' 1위 트로피를 놓고 경쟁한다. 11월 12일 방송된 SBS '인기가요' 11월 둘째 주 1위 후보로 AKMU '후라이의 꿈', 제니 'You]]></content>
     </entry>
 </feed>
