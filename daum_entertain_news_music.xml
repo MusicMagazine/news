@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-11-12T02:24:36.935Z</updated>
+    <updated>2023-11-12T03:14:27.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[돌아온 박봄, 2NE1 노래 될 뻔한 곡으로 차트 강타]]></title>
+        <id>https://v.daum.net/v/20231112121024330</id>
+        <link href="https://v.daum.net/v/20231112121024330"/>
+        <updated>2023-11-12T03:13:59.131Z</updated>
+        <content type="html"><![CDATA[2019년 3월 ‘스프링’ 쇼케이스(사진=이데일리DB)2019년 3월 ‘스프링’ 쇼케이스(사진=이데일리DB)[이데일리 스타in 김현식 기자] 가요계 현장 곳곳을 누비며 모아둔 음반들을 다시 꺼내 들어보면서 추억 여행을 떠나보려 합니다. &lt;편집자 주&gt; 오늘 꺼내 들어본 서랍 속 CD는 걸그룹 2NE1 출신 가수 박봄이 2019년 3월 발매한 싱글 ‘스프링’]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['베트남 국민 아티스트' 하리원, 오늘 신곡 '오늘은 말할래' 발매]]></title>
         <id>https://v.daum.net/v/20231112105747199</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231111210102131"/>
         <updated>2023-11-11T12:19:31.864Z</updated>
         <content type="html"><![CDATA[[텐아시아=김지원 기자] 《김지원의 히든트랙》 김지원 텐아시아 기자가 가요계의 숨은 이야기까지 면밀하게 살펴봅니다. 가요계 이슈의 사실과 진실을 생생하게 전하겠습니다. &nbsp; god가 '마스터피스(MASTERPIECE)'를 완성해가고 있다. '2023 god TOUR 'god's MASTERPIECE'라는 이름의 콘서트로 팬들을 만나고 있는 것. 데뷔 25년]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["어지간히 해" 지드래곤 누나, 분노 합당했나?…정밀검사 결과가 '답']]></title>
-        <id>https://v.daum.net/v/20231111183005045</id>
-        <link href="https://v.daum.net/v/20231111183005045"/>
-        <updated>2023-11-11T10:11:25.407Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 장인영 기자) 마약 투약 혐의를 받는 가수 지드래곤(35·본명 권지용)이 연일 진실과 설(說) 그 어딘가 줄타기를 하고 있다.&nbsp; 지난 10일 경찰은 최근 지드래곤이 인천경찰청 마약범죄수사계에 자진 출석해 조사 받을 당시 머리카락을 제외한 몸 대부분이 제모된 상태였다고 밝혔다. 이 과정에서 지드래곤은 "원래 평소에도 제모를 했었다"고 반박했고]]></content>
     </entry>
 </feed>
