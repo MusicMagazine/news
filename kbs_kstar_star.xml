@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 05:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 06:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한류 메타버스 ‘K-원더랜드’, 저스트 절크와 함께 ‘댄싱 타임~“]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=288698</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=288698</guid>
+            <pubDate>Mon, 13 Nov 2023 06:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=288698">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231113141526_ca85b6677b0bb6db94f85c18dc3b6e70_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=288698">한류 메타버스 ‘K-원더랜드’, 저스트 절크와 함께 ‘댄싱 타임~“</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231113141526_ca85b6677b0bb6db94f85c18dc3b6e70_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘타데코? 타이니 데스크 코리아!’ 11월 라인업 공개… 자우림·투모로우바이투게더·크러쉬·로꼬]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=288060</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=286375">뉴진스, 美 패션지 ‘FLAUNT 매거진’ 커버 .. “우리 음악이 전 세계인 하나로 모을 수 있기를”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231030075650_4c3f32b9e2e09db6a0416a7e579278c6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오엔터, 日 후지TV와 웹툰에 대한 업무협약 체결.. 카카오웹툰 <아쿠아맨> 공동제작]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=286070</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=286070</guid>
-            <pubDate>Fri, 27 Oct 2023 09:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=286070">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231027163526_c0ece879fff668cde7164e712a777f8e.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=286070">카카오엔터, 日 후지TV와 웹툰에 대한 업무협약 체결.. 카카오웹툰 &lt;아쿠아맨&gt; 공동제작 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231027163526_c0ece879fff668cde7164e712a777f8e.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

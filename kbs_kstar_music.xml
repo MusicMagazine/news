@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 05:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 06:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[일문일답] 레드벨벳 정규3집 ‘Chill Kill’.. “한층 성장한 레드벨벳"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=288727</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=288727</guid>
+            <pubDate>Mon, 13 Nov 2023 06:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=288727">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231113150828_3dd66bae5d853434be608f7c17369cc0.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=288727">[일문일답] 레드벨벳 정규3집 ‘Chill Kill’.. “한층 성장한 레드벨벳" </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231113150828_3dd66bae5d853434be608f7c17369cc0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[지오디 콘서트,  ‘god's MASTERPIECE’ 서울 공연 성료]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=288658</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=286078">'씨제스 보이그룹' 휘브(WHIB), 데뷔 앨범 ‘Cut-Out’ .. "8인 8색의 매력"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231027164515_c9ed9198b0de3e5fddad59d8e28ab16f.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오버워치2X르세라핌, ‘Perfect Night’ 뮤직비디오 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=286044</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=286044</guid>
-            <pubDate>Fri, 27 Oct 2023 09:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=286044">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231027161358_9d67953c0105adc9d09f0e249951c780.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=286044">오버워치2X르세라핌, ‘Perfect Night’ 뮤직비디오 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231027161358_9d67953c0105adc9d09f0e249951c780.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
