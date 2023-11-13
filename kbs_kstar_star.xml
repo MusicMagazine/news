@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 17:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 23:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박하선, 13년만의 연극 ‘바닷마을 다이어리’... "매 회차 매진 감사"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=288848</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=288848</guid>
+            <pubDate>Mon, 13 Nov 2023 23:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=288848">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231114074520_9ef8b1bb00107a0643f491ffd62f928c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=288848">박하선, 13년만의 연극 ‘바닷마을 다이어리’... "매 회차 매진 감사"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231114074520_9ef8b1bb00107a0643f491ffd62f928c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한류 메타버스 ‘K-원더랜드’, 저스트 절크와 함께 ‘댄싱 타임~“]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=288698</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=286411">뮤지컬 '시스터 액트' "개막 디데이 카운트다운~"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231030090359_eced803ad5e849772260621dabe27db1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스, 美 패션지 ‘FLAUNT 매거진’ 커버 .. “우리 음악이 전 세계인 하나로 모을 수 있기를”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=286375</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=286375</guid>
-            <pubDate>Mon, 30 Oct 2023 00:53:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=286375">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231030075650_4c3f32b9e2e09db6a0416a7e579278c6.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=286375">뉴진스, 美 패션지 ‘FLAUNT 매거진’ 커버 .. “우리 음악이 전 세계인 하나로 모을 수 있기를”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231030075650_4c3f32b9e2e09db6a0416a7e579278c6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
