@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2023-11-15T11:15:05.410Z</updated>
+    <updated>2023-11-15T12:25:05.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['샹송 대명사' 에디트 피아프 음성 AI로 구현한 영화 나온다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0014333675</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0014333675"/>
+        <updated>2023-11-15T12:25:04.550Z</updated>
+        <content type="html"><![CDATA[워너 뮤직, 90분짜리 '에디트' 만화 영화 제작 추진 "어려움 극복·사회 규범에 저항하며 위대함 성취한 이야기" 송진원 특파원 = 20세기 프랑스 최고의 가수로 꼽히는 에디트 피아프의 60주기를 맞아 그의 목소리를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[염정아 ‘우아한 발걸음’ [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000968445</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000968419"/>
         <updated>2023-11-15T09:16:48.686Z</updated>
         <content type="html"><![CDATA[59회 대종상 영화제가 15일 오후 수원 경기아트센터 대극장에서 열렸다. 배우 문승아가 레드카펫을 밟고 있다. 수원=천정환 MK스포츠 기자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[변우석 ‘대종상 신인상 후보’ [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000968418</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000968418"/>
-        <updated>2023-11-15T09:16:48.688Z</updated>
-        <content type="html"><![CDATA[59회 대종상 영화제가 15일 오후 수원 경기아트센터 대극장에서 열렸다. 배우 변우석이 레드카펫을 밟고 있다. 수원=천정환 MK스포츠 기자]]></content>
     </entry>
 </feed>
