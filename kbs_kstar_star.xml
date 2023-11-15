@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 05:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 09:16:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 '시스터 액트', 월드컵 아시아 2차예선 하프타임 공연]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=289089</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=289089</guid>
+            <pubDate>Wed, 15 Nov 2023 09:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=289089">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231115174111_8b5b1e670b73ed1c291d135ef5ba7e21.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=289089">뮤지컬 '시스터 액트', 월드컵 아시아 2차예선 하프타임 공연</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231115174111_8b5b1e670b73ed1c291d135ef5ba7e21.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세븐틴, 유네스코 청년포럼..   “서로에게 배우고 함께 나아간다면, 더 나은 미래를 만들 수 있다”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=289049</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=286832">더보이즈도 매혹된 가상세계.. ‘꿈의 한류, 놀이동산 K-원더랜드’</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231102082431_e13958e4ff9b0c9bbb358c43ad5330fb.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[추영우, 넷플릭스 누아르 '광장' 캐스팅... 보스의 아들이자 현직 검사]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=286032</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=286032</guid>
-            <pubDate>Mon, 30 Oct 2023 22:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=286032">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231027160448_39cb6ec380f5bb84000938d987ffb2fa.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=286032">추영우, 넷플릭스 누아르 '광장' 캐스팅... 보스의 아들이자 현직 검사</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231027160448_39cb6ec380f5bb84000938d987ffb2fa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
