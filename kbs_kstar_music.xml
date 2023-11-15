@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 22:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 23:14:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[앤팀(&TEAM), 첫 정규앨범 타이틀곡 'War Cry' MV 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=289144</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=289144</guid>
+            <pubDate>Wed, 15 Nov 2023 23:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=289144">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231116074856_bdcabb213845e46c14d10af738a89a8d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=289144">앤팀(&amp;TEAM), 첫 정규앨범 타이틀곡 'War Cry' MV 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231116074856_bdcabb213845e46c14d10af738a89a8d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['&TEAM'(앤팀) 오늘 정규1집 발매... "폭발적 에너지 보여줄 것!"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=289068</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=286062">샤이니 태민, 미니앨범 ‘Guilty’로 컴백 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231027162631_e6778bcc083c9d645ca7ab23dca0b728.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이돌그룹 소디엑(XODIAC), 'ONLY FUN'으로 컴백]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=286274</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=286274</guid>
-            <pubDate>Sun, 29 Oct 2023 00:53:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=286274">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231029093026_0ca20784cf15fae5cf5181ff45ba91ca.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=286274">아이돌그룹 소디엑(XODIAC), 'ONLY FUN'으로 컴백</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231029093026_0ca20784cf15fae5cf5181ff45ba91ca.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
