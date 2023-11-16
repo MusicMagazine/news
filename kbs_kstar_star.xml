@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Nov 2023 07:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 08:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박해수, 넷플릭스와의 인연은?  ‘악연’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=289202</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=289202</guid>
+            <pubDate>Thu, 16 Nov 2023 08:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=289202">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231116164420_8296567d96b3c68471bd69d93140d8d0.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=289202"> 박해수, 넷플릭스와의 인연은?  ‘악연’</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231116164420_8296567d96b3c68471bd69d93140d8d0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 '시스터 액트', 월드컵 아시아 2차예선 하프타임 공연]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=289089</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=286908">이윤지, SBS '마이 데몬' 캐스팅... 5년 만의 드라마 컴백</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231102110658_183aeace045ad8733ade007ffa86a0e7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더보이즈도 매혹된 가상세계.. ‘꿈의 한류, 놀이동산 K-원더랜드’]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=286832</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=286832</guid>
-            <pubDate>Thu, 02 Nov 2023 00:50:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=286832">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231102082431_e13958e4ff9b0c9bbb358c43ad5330fb.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=286832">더보이즈도 매혹된 가상세계.. ‘꿈의 한류, 놀이동산 K-원더랜드’</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231102082431_e13958e4ff9b0c9bbb358c43ad5330fb.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
