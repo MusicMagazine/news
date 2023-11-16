@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Nov 2023 08:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 12:24:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤아 신곡 ‘노크 knock’ 오늘 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=289261</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=289261</guid>
+            <pubDate>Thu, 16 Nov 2023 12:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=289261">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231116173747_819b81c7729f69349bbff1fbc229b867.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=289261">윤아 신곡 ‘노크 knock’ 오늘 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231116173747_819b81c7729f69349bbff1fbc229b867.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[앤팀(&TEAM), 첫 정규앨범 타이틀곡 'War Cry' MV 공개]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=289144</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=286403">비틀스 마지막 신곡  ‘Now And Then’ 11월 2일 발매 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231030083825_b0f21ea0bf9286e5723ff434ffaea70d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤이니 태민, 미니앨범 ‘Guilty’로 컴백]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=286062</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=286062</guid>
-            <pubDate>Sun, 29 Oct 2023 03:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=286062">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231027162631_e6778bcc083c9d645ca7ab23dca0b728.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=286062">샤이니 태민, 미니앨범 ‘Guilty’로 컴백 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231027162631_e6778bcc083c9d645ca7ab23dca0b728.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
