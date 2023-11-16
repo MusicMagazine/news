@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-11-16T17:15:24.887Z</updated>
+    <updated>2023-11-16T19:10:49.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[100만원짜리 수상한 손님과 택시기사의 운명은]]></title>
+        <id>https://v.daum.net/v/20231117040917420</id>
+        <link href="https://v.daum.net/v/20231117040917420"/>
+        <updated>2023-11-16T19:10:21.127Z</updated>
+        <content type="html"><![CDATA[“사람이 안 하던 짓 하면 탈 나는 거예요.” 이 말은 오택(이성민)의 ‘운수 오진 날’을 알리는 말이 됐다. 절대 먼저 화내지 않고, 타인을 위해 기꺼이 자신의 손해까지도 감수하며 살아온 ‘호구’ 오택이 100만원에 혹해서 그랬을까, 좋은 줄 알았던 돼지꿈은 오택에게 지옥의 하루를 선사한다. 티빙 오리지널 시리즈 ‘운수 오진 날’(포스터)은 평범한 택시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이러니 루머 생기지..정우성 "이정재와 5시간 술 마시고 10분 대화"]]></title>
         <id>https://v.daum.net/v/20231117011323694</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231117000044209"/>
         <updated>2023-11-16T15:14:51.571Z</updated>
         <content type="html"><![CDATA['시청률 보증수표'였던 KBS 주말극…20%도 못 넘겨 답답한 전개 반복에 시청자 피로감 토로 [더팩트 | 공미나 기자] '시청률 보증수표'로 불렸던 KBS 2TV 주말극이 제대로 위기를 맞았다. 현재 방송 중인 '효심이네 각자도생'이 좀처럼 10%대 시청률을 벗어나지 못하고 있다. 지난 9월 16일 방송을 시작한 '효심이네 각자도생'(극본 조정선,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["내 피 땀 눈물"…열정X감동 전할 '체육 예능']]></title>
-        <id>https://v.daum.net/v/20231117000039208</id>
-        <link href="https://v.daum.net/v/20231117000039208"/>
-        <updated>2023-11-16T15:14:51.573Z</updated>
-        <content type="html"><![CDATA[농구·축구·체대생의 치열한 대결 [더팩트ㅣ문화영 기자] 경기장에서 느꼈던 열기를 체육 예능프로그램을 통해 TV에서도 생생하게 느낄 수 있다. '레전드'로 불린 농구 선수의 매치를 즐기고 대한민국 미래 축구를 이끌어갈 아이들의 성장을 본다. 그런가 하면 전국 체대생들이 모여 다양한 종목과 자신만의 매력을 뽐낼 예정이다. 극한의 상황에서 인간의 한계를 뛰]]></content>
     </entry>
 </feed>
