@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-11-17T21:11:52.992Z</updated>
+    <updated>2023-11-17T22:12:07.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['찬또배기' 이찬원, '영동 부르스' 100만 뷰 돌파…남다른 인기]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001663400</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001663400"/>
+        <updated>2023-11-17T22:11:52.256Z</updated>
+        <content type="html"><![CDATA[이찬원의 '영동 부르스' 영상이 100만 뷰를 돌파했다. 이 무대는 이찬원이 지난 4월 15일 KBS 2TV '불후의 명곡' 봄날 시리즈 '봄꽃열차' 특집에서 선보였다. 이후 유튜브 채널 'KBS 레전드 케이팝'에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비비, 팝스타 베키 지와 글로벌 싱글 '아미고스' 발표…K팝과 라틴음악의 만남]]></title>
         <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000461076</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000926263"/>
         <updated>2023-11-17T13:15:49.668Z</updated>
         <content type="html"><![CDATA[멜로망스가 ‘오늘도 사랑스럽개’ OST 가창자로 발탁됐다. 멜로망스가 가창한 MBC 드라마 ‘오늘도 사랑스럽개’ OST Part. 3 ‘둘만의 비밀로’가 오는 22일 오후 6시 발매된다. ‘둘만의 비밀로’는 숨겨야]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인디밴드 나로틱(Narotic), 싱글 ‘Not much left’ 20일 발매]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000926262</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000926262"/>
-        <updated>2023-11-17T13:15:49.668Z</updated>
-        <content type="html"><![CDATA[인디밴드 나로틱이 오는 20일 새로운 싱글 ‘Not much left’를 공개한다. 올해 1월 발매된 EP 앨범 ‘HATRED’에 이어 새롭게 선보이는 싱글 ‘Not much left’를 통해 자신들의 음악 세계관을]]></content>
     </entry>
 </feed>
