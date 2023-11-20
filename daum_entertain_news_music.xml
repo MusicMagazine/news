@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-11-20T14:12:47.099Z</updated>
+    <updated>2023-11-20T16:18:53.889Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['5관왕' 임영웅, 영웅시대와 기분 좋은 기록 행진]]></title>
+        <id>https://v.daum.net/v/20231121000106962</id>
+        <link href="https://v.daum.net/v/20231121000106962"/>
+        <updated>2023-11-20T16:18:22.002Z</updated>
+        <content type="html"><![CDATA[지난해 이어 올해도 5관왕으로 '유종의 미' "매년 멋진 상을 받을 수 있게 해주는 영웅시대, 건행" [더팩트｜박지윤 기자] 가수 임영웅이 올 한해를 빛낸 아티스트들이 한자리에 모이며 역대급 라인업을 완성한 '2023 더팩트 뮤직 어워즈'에서 무려 5개의 트로피를 들어올리며 현존 최고의 남성 솔로로서 가치를 빛냈다. 임영웅은 10월 10일 인천 남동체]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['황금 막내' 정국, 신기록 추가..13년 만 솔로 가수 음반 판매량 250만 돌파]]></title>
         <id>https://v.daum.net/v/20231120230147523</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231120173432064"/>
         <updated>2023-11-20T09:13:15.247Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 방탄소년단 정국이 국내 음반 시장에서 또 하나의 신기록을 추가했다. 정국의 솔로 앨범 ‘GOLDEN’은 한터차트 기준, 지난 11월 17일까지 총 250만 1,158장 판매됐다. 한터차트가 2010년 집계 방식을 개편한 이래 13년 만에 처음으로 250만 장 이상 팔린 솔로 음반이 탄생했다. ‘GOLDEN’은 발매 후 약 3시간 만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[규현, 흉기난동 제지→손가락 찰과상 “일상생활 무리無”]]></title>
-        <id>https://v.daum.net/v/20231120173216963</id>
-        <link href="https://v.daum.net/v/20231120173216963"/>
-        <updated>2023-11-20T09:13:15.249Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] 규현, 흉기난동 제지→손가락 찰과상 “일상생활 무리無” [전문] 슈퍼주니어 규현이 흉기난동을 제지하다 손가락 찰과상을 입은 가운데 현재 상태를 재차 전하며 우려하는 팬들을 안심시켰다. 20일 서울 강서경찰서에 따르면 전날 강서구 마곡동의 한 뮤지컬 분장실에 30대 여성 A씨가 침입해 흉기를 휘두르는 사건이 발생했다. 현행범으로 체포된 A씨는]]></content>
     </entry>
 </feed>
