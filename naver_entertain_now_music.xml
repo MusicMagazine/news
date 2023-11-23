@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-11-23T13:18:30.913Z</updated>
+    <updated>2023-11-23T14:12:33.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[르세라핌표 캐럴 발표…Perfect Night 리믹스 발매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000969495</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000969495"/>
+        <updated>2023-11-23T14:12:17.585Z</updated>
+        <content type="html"><![CDATA[르세라핌이 글로벌 인기를 얻고 있는 ‘Perfect Night’의 리믹스 버전으로 팬들에게 깜짝 선물을 안겼다. 르세라핌은 23일 오후 2시(한국시간) ‘Perfect Night (Holiday Remix)’ 음원과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[예술은 죽지 않는다, 우리 추억 속에서 숨쉬니까[전문가의 세계 - 박주용의 퓨처라마]]]></title>
         <id>https://entertain.naver.com/now/read?oid=032&amp;aid=0003263231</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0001005292"/>
         <updated>2023-11-23T13:18:15.459Z</updated>
         <content type="html"><![CDATA[유튜브채널 ‘문명특급’ 화면 캡처 유튜브채널 ‘문명특급’ 화면 캡처 4번째 미니앨범 ‘드라마’(drama)로 컴백한 그룹 에스파(카리나, 윈터, 지젤, 닝닝)가 건전 그 자체인 일상을 공개했다. 23일 공개된 유튜브]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김창완, 어슬렁거리는 지구서 사라지는 '명징한 아름다움']]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012228510</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0012228510"/>
-        <updated>2023-11-23T13:18:15.460Z</updated>
-        <content type="html"><![CDATA["혼자서 보내는 밤 가만히 밖을 봐요 / 어둠이 모두를 숨겨서 가져가요 / 나는 이렇게 있는데 모두들 사라지네 / 달과 이야기 나누고 싶지만 너무나 멀어요" '김창완 밴드' 리더인 싱어송라이터 겸 배우 김창완(69)]]></content>
     </entry>
 </feed>
