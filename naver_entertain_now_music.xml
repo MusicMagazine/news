@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-11-23T17:15:24.566Z</updated>
+    <updated>2023-11-23T18:15:05.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘버킷걸’ 최수진, 싱글 앨범 ‘버킷리스트’ 출시]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000927527</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000927527"/>
+        <updated>2023-11-23T18:14:51.734Z</updated>
+        <content type="html"><![CDATA[직접 안무를 짜고 다른 이들과 함께 춤을 추며, 삶의 이야기와 마음의 목표를 담아 많은 사람들과 공감을 나누고 싶었던 최수진이 싱글 앨범 ‘버킷리스트’ 출시 소식을 23일 전했다. 이 곡은 깊은 향수를 자아내는 80]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오빠시대' 이본, 핑크빛 분위기 포착? "이름 한 번만 불러달라"]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012228688</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001665296"/>
         <updated>2023-11-23T13:18:15.445Z</updated>
         <content type="html"><![CDATA['한ㆍ아세안 지식재산 협력 컨퍼런스'가 한국에서 열렸다. 사단법인 한국음악저작권협회(한음저협)는 23일 서울 여의도 콘래드 호텔에서 열린 '한ㆍ아세안 지식재산 협력 컨퍼런스'에 참석했다고 밝혔다. 이 행사는 한국과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIG Naughty(서동현), EP ‘ICN > YVR’ 발매로 음악 서사 2막 열었다]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000927474</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000927474"/>
-        <updated>2023-11-23T13:18:15.447Z</updated>
-        <content type="html"><![CDATA[아티스트 BIG Naughty(서동현)가 음악 서사의 새 페이지를 열었다. 빅나티는 23일 오후 각종 온라인 음원 사이트를 통해 네 번째 EP ‘ICN &gt; YVR’를 발매했다. ‘ICN &gt; YVR’는 빅나티가 그간]]></content>
     </entry>
 </feed>
