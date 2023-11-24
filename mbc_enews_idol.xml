@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 08:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 09:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포토] 현진, 스트레이트 하트]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/401370</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/401370</guid>
+            <pubDate>Fri, 24 Nov 2023 09:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/401370">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/11/24/7c31c759-b312-405b-961f-09870b3402e4.jpg" alt="[포토] 현진, 스트레이트 하트">        <div class="text-box">            <p class="summary">[포토] 현진, 스트레이트 하트</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/11/24/7c31c759-b312-405b-961f-09870b3402e4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대성, 트로트 DNA 봉인 해제…단체로 엉덩이 잡고 무아지경 댄스 (현역가왕)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/401306</link>
@@ -86,14 +94,6 @@
             <pubDate>Thu, 23 Nov 2023 04:18:18 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/401229">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/11/23/b1ca74f3-4946-49db-94f5-c43f4c24a454.jpg" alt="[포토] 레드벨벳 웬디, 완토끼">        <div class="text-box">            <p class="summary">[포토] 레드벨벳 웬디, 완토끼</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/11/23/b1ca74f3-4946-49db-94f5-c43f4c24a454.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 레드벨벳 예리, 우아한 미모]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/401226</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/401226</guid>
-            <pubDate>Thu, 23 Nov 2023 04:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/401226">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/11/23/87599754-5ae2-4c84-ac49-d0b7ed9a0977.jpg" alt="[포토] 레드벨벳 예리, 우아한 미모">        <div class="text-box">            <p class="summary">[포토] 레드벨벳 예리, 우아한 미모</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/11/23/87599754-5ae2-4c84-ac49-d0b7ed9a0977.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

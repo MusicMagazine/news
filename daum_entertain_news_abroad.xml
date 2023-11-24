@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-11-24T08:15:54.536Z</updated>
+    <updated>2023-11-24T09:16:36.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["대마초 끊었다" 스눕독, 일주일 만에 번복]]></title>
+        <id>https://v.daum.net/v/20231124180132470</id>
+        <link href="https://v.daum.net/v/20231124180132470"/>
+        <updated>2023-11-24T09:16:17.314Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김현재 기자] 미국의 인기 래퍼 스눕독이 대마초 금연에 실패한 근황이 전해졌다. 23일(현지 시간) 영국 매체 '데일리 메일'은 래퍼 스눕 독이 지난 22일 오후 자신의 차에서 대마초를 피웠다고 보도했다. 이날 스눕독은 영화 '어벤져스'에 출연한 배우 돈 치들과 함께 식사를 마친 후 자신의 차에 타면서 대마초를 피우는 모습이 포착된 것으로 알]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['치매' 브루스 윌리스, 전처 데미 무어와 다정한 근황]]></title>
         <id>https://v.daum.net/v/20231124170200958</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231123190301980"/>
         <updated>2023-11-23T13:18:07.938Z</updated>
         <content type="html"><![CDATA[[TV리포트=안수현 기자] 일본 동요대회에서 은상을 수상하며 국내에서도 화제가 된 어린이 스타 무라카타 노노카(5)가 애니메이션 성우로 활약했다. 23일, 애니메이션 영화 '극장판 실바니안 패밀리: 플레어로부터의 선물' 시사회가 도쿄 TOHO 시네마즈 롯폰기에서 진행됐다. 공개 당일 기념 출연진 쿠로시마 유이나, 아오이 우유, 다이고 등의 배우가 행사에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[故 엘비스 프레슬리 애착 목걸이…'6억'에 팔린다]]></title>
-        <id>https://v.daum.net/v/20231123181730025</id>
-        <link href="https://v.daum.net/v/20231123181730025"/>
-        <updated>2023-11-23T13:18:07.940Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이예은 기자] '로큰론 황제' 故 엘비스 프레슬리가 자주 차고 다니던 목걸이가 약 6억에 팔릴 전망이다.&nbsp; 외신 연예 매체 TMZ는 22일(현지 시간) 유명 가수 겸 배우 엘비스 프레슬리의 소장품이었던 사자 발톱 목걸이가 경매에 부쳐질 예정이라고 보도했다. 목걸이는 약 50만 달러(한화 약 6억 5,150만 원) 이상의 가치를 지닌 것으로 확인]]></content>
     </entry>
 </feed>
