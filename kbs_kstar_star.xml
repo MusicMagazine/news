@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 23:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 01:54:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['고려거란전쟁' 김은우, 거란 야율분노 장수]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=290366</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=290366</guid>
+            <pubDate>Fri, 24 Nov 2023 01:53:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=290366">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231124084032_a1d121fce2a42ff91838a5772a65a033.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=290366">'고려거란전쟁' 김은우, 거란 야율분노 장수</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231124084032_a1d121fce2a42ff91838a5772a65a033.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[손소망, '사랑한다고 말해줘' 캐스팅…MZ세대 큐레이터 변신]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=289986</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=287264">"그 화가를 만나다" 뮤지컬 &lt;모딜리아니&gt;, &lt;에곤실레&gt; 무대 위로</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231104125042_132e331b67051d99af15fdfa03ee157e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김풍의 ‘라면꼰대5’, 7일 첫 방송.. "라면 하나에 깃들어있는 철학과 사이언스"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=287154</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=287154</guid>
-            <pubDate>Tue, 07 Nov 2023 00:55:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=287154">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231104070943_7e8b6ea7beed0f1c0f1f6c123ca71b6b.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=287154">김풍의 ‘라면꼰대5’, 7일 첫 방송.. "라면 하나에 깃들어있는 철학과 사이언스" </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231104070943_7e8b6ea7beed0f1c0f1f6c123ca71b6b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
