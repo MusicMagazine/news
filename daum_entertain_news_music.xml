@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-11-24T16:17:52.545Z</updated>
+    <updated>2023-11-24T20:13:01.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에스파 지젤,  시크한 눈빛]]></title>
+        <id>https://v.daum.net/v/20231125032010107</id>
+        <link href="https://v.daum.net/v/20231125032010107"/>
+        <updated>2023-11-24T20:12:30.876Z</updated>
+        <content type="html"><![CDATA[[스포츠한국 이혜영 기자] 유방암 인식 향상 캠페인 자선행사가 열렸다. 그룹 에스파 지젤이 24일 오후 서울 광화문 포시즌스호텔에서 진행된 '더블유 코리아' 제18회 유방암 인식 향상 캠페인 자선행사에 참석하고 있다. 이날 행사에는 블랙핑크 제니, BTS RM, 고현정, 고수, 그레이, 김도연, 김민하, 김연아, 김영광, 김영대, 김지석,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김혜수, 박진영 축하무대에 깜짝 난입…안무+웨이브까지 '완벽소화']]></title>
         <id>https://v.daum.net/v/20231124222820031</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231124162041897"/>
         <updated>2023-11-24T08:15:21.310Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 윤성열 기자] 블랙핑크 /사진=로제 '완전체'로 뭉친 걸 그룹 블랙핑크(지수 제니 로제 리사)의 비하인드샷이 공개됐다. 로제는 24일 "정말 대단한 한 주였다"며 최근 미국 애플파크에서 진행된 아시아태평양경제협력체(APEC) 정상회의 공식 배우자 프로그램과 영국 버킹엄 궁전에서 열린 한국 국빈 만찬에 잇달아 참석한 것에 대해 감사의 소감을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘컴백’ 크러쉬 “앨범 한 장에 19곡 수록, 용기 없었다면 못했을 일”]]></title>
-        <id>https://v.daum.net/v/20231124161503766</id>
-        <link href="https://v.daum.net/v/20231124161503766"/>
-        <updated>2023-11-24T08:15:21.310Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 가수 크러쉬(Crush)가 새 앨범 작업 비화를 공개했다. 크러쉬는 11월 24일 지큐 코리아(GQ KOREA) 12월호 화보와 인터뷰를 선공개했다. 공개된 화보 속 크러쉬는 유니크하면서도 시크한 분위기를 뽐냈다. 화보 촬영 후 이어진 인터뷰에서 크러쉬는 연말 단독 콘서트 'CRUSH HOUR' 조기 매진 소식에 "다 팬분들 덕분]]></content>
     </entry>
 </feed>
