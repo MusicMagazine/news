@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-11-25T02:24:49.850Z</updated>
+    <updated>2023-11-25T03:15:30.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[티아이오티, 12월 30일 단독 팬콘 개최…데뷔 첫 연말 파티]]></title>
+        <id>https://v.daum.net/v/20231125113045707</id>
+        <link href="https://v.daum.net/v/20231125113045707"/>
+        <updated>2023-11-25T03:15:00.663Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 그룹 티아이오티(TIOT, 김민성 금준현 홍건희 최우진)가 즐거운 연말 파티를 예고했다. 25일 소속사 레드스타트이엔엠에 따르면 티아이오티는 오는 12월 30일 서울 강서구 스카이아트홀에서 첫 연말 팬콘서트 '2023 티아이오티 팬콘 : 파인드 더 웨이(2023 TIOT FANCON : Find the way)'를 개최한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[티아이오티, 12월 30일 단독 팬콘서트 연다..즐거운 연말 파티 예고]]></title>
         <id>https://v.daum.net/v/20231125111756594</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231125083001981"/>
         <updated>2023-11-25T00:53:01.344Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 윤상근 기자] /AFPBBNews=뉴스1 이번 2023 빌보드 뮤직어워드(BBMAs)에서 들려온 K팝 아티스트들의 연이은 수상 소식 역시 여느때와 다르지 않게 국내 팬들과 대중에게 기쁨을 전해줬다. 이제는 글로벌 솔로 팝스타로 거듭나고 있는 방탄소년단 막내 정국을 선봉장으로 스트레이키즈와 뉴진스가 그 옆에 포진했고, 여기에 블랙핑크의 존재감과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세븐틴, 최대 규모 日 돔 투어 재개..베루나 돔 8만 관객 홀렸다]]></title>
-        <id>https://v.daum.net/v/20231125082500948</id>
-        <link href="https://v.daum.net/v/20231125082500948"/>
-        <updated>2023-11-25T00:53:01.345Z</updated>
-        <content type="html"><![CDATA[[OSEN=지민경 기자]&nbsp;그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 데뷔 후 최대 규모의 일본 돔 투어를 재개하고 약 8만 관객을 열광시켰다. 세븐틴은 지난 23~24일 일본 돔 투어인 ‘SEVENTEEN TOUR ‘FOLLOW’ TO JAPAN’의 베루나 돔(사이타마) 공연을 성공적]]></content>
     </entry>
 </feed>
