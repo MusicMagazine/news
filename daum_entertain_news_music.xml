@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-11-26T12:22:29.747Z</updated>
+    <updated>2023-11-26T15:11:35.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['올해의 아티스트' 트레저, 따로 또 함께 빛낸 2023년]]></title>
+        <id>https://v.daum.net/v/20231127000014728</id>
+        <link href="https://v.daum.net/v/20231127000014728"/>
+        <updated>2023-11-26T15:11:02.889Z</updated>
+        <content type="html"><![CDATA[2년 연속 '더팩트 뮤직 어워즈'서 '올해의 아티스트' 수상 '꿈의 무대' 도쿄돔 입성→서울 단독 콘서트 개최…'열일' 예고 [더팩트｜박지윤 기자] 재정비를 마치고 돌아온 그룹 트레저(TREASURE)가 2년 연속 '더팩트 뮤직 어워즈'를 빛내고 '올해의 아티스트'에 이름을 올렸다. 이렇게 굳건한 존재감을 과시한 트레저는 '꿈의 무대'로 향해 트레저메]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['복면가왕' 미다스의 손, 유리아·#안녕·효진·건지 꺾고 '가왕' 방어]]></title>
         <id>https://v.daum.net/v/20231126211607857</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231126150017911"/>
         <updated>2023-11-26T06:18:18.298Z</updated>
         <content type="html"><![CDATA[[서울경제] '다칠 준비가 돼 있어', '하이드(hyde)', '에러(Error)', '저주인형' 등 이른바 '센' 콘셉트로 K-팝 팬의 사랑을 받았던 빅스(VIXX)가 약 4년 만에 컴백한다. 기실 쉽지 않았던 지난날이다. 2012년 6인조로 데뷔했지만 홍빈과 라비가 각각 물의를 일으키며 탈퇴했다. 남은 멤버는 리더 엔(차학연)과 택운, 켄, 혁 4명]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베이비몬스터, K팝 판도 뒤흔들러 온 괴물 신인]]></title>
-        <id>https://v.daum.net/v/20231126142919360</id>
-        <link href="https://v.daum.net/v/20231126142919360"/>
-        <updated>2023-11-26T06:18:18.298Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자] 베이비몬스터가 K팝 판도를 뒤흔들 준비를 마치고 출격한다. 블랙핑크의 동생, YG의 신인 걸그룹 베이비몬스터가 드디어 오늘(26일) 밤 12시 전 세계 K팝 팬들 앞에 선다. 블랙핑크 이후 YG엔터테인먼트에서 7년 만에 내놓는 신인 걸그룹으로, 5세대 기대주의 등장을 알리고 있다. 이날 자정을 기점으로 ‘끝판왕’의 등장을 알릴]]></content>
     </entry>
 </feed>
