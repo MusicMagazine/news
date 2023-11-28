@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-11-28T16:19:39.180Z</updated>
+    <updated>2023-11-28T17:15:12.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비오, 9개월 만의 신곡…"9년 같이 느껴질 정도로 긴 시간"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012236997</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0012236997"/>
+        <updated>2023-11-28T17:14:59.696Z</updated>
+        <content type="html"><![CDATA[이강산 인턴 기자 = 래퍼 비오(BE'O)가 28일 새 디지털 싱글 '미쳐버리겠다(MAD)'를 발매했다. 9개월 만의 컴백작이다. 비오는 "9년같이 느껴질 정도로 길었던 9개월 동안의 제 생활이 오롯이 담긴 곡"이라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[TMA 인터뷰] 아이브 "원동력? 당연히 다이브…앞으로도 힘낼 것"]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000251726</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003315665"/>
         <updated>2023-11-28T14:12:16.077Z</updated>
         <content type="html"><![CDATA[그룹 방탄소년단이 대상 부문 중 하나인 월드와이드 아이콘 오브 더 이어를 수상했다. 28일 오후 일본 도쿄돔에서 ‘2023 MAMA 어워즈’(이하 ‘2023 MAMA’)가 열렸다. Mnet, 유튜브 채널 Mnet K]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTS, 월드 아이콘 수상..정국 "벌써 6번째, 다시 만나기를"[2023 MAMA]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003198264</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003198264"/>
-        <updated>2023-11-28T14:12:16.079Z</updated>
-        <content type="html"><![CDATA[방탄소년단(BTS)이 '2023 MAMA AWARDS'에서 대상 중 하나인 'Samsung Galaxy Worldwide Icon of the Year'(삼성 갤럭시 월드 아이콘 오브 더 이어)를 수상했다. 28일]]></content>
     </entry>
 </feed>
