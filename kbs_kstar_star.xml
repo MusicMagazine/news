@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 02:28:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 03:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 '컴프롬어웨이' 오늘 개막.. "테러가 일어난 날, 지구 한 편에서는 기적이 일어났다"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=291053</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=291053</guid>
+            <pubDate>Tue, 28 Nov 2023 03:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=291053">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231128112859_42dc95a70a231952bc62e3af76e67aec.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=291053">뮤지컬 '컴프롬어웨이' 오늘 개막.. "테러가 일어난 날, 지구 한 편에서는 기적이 일어났다" </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231128112859_42dc95a70a231952bc62e3af76e67aec.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오민석, JTBC '끝내주는 해결사' 캐스팅... 로펌 대표변호사 ‘노율성’]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=291031</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=288060">‘타데코? 타이니 데스크 코리아!’ 11월 라인업 공개… 자우림·투모로우바이투게더·크러쉬·로꼬</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231109113021_432fcefea4a354dc5005949a26548fb0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 차선우, 미디어랩으로.. 전속계약 체결]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=287998</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=287998</guid>
-            <pubDate>Thu, 09 Nov 2023 01:51:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=287998">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231109094835_be66734de6068085d0132ce13859954c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=287998">배우 차선우, 미디어랩으로.. 전속계약 체결</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231109094835_be66734de6068085d0132ce13859954c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
