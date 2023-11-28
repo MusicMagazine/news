@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 23:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 00:56:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[창작뮤지컬 '타오르는 어둠 속에서'..  호평 속 초연 무대 막 내리다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=290990</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=290990</guid>
+            <pubDate>Tue, 28 Nov 2023 00:55:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=290990">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231128094749_e6ed2d61c4789f91b42a0efa46799360.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=290990">창작뮤지컬 '타오르는 어둠 속에서'..  호평 속 초연 무대 막 내리다</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231128094749_e6ed2d61c4789f91b42a0efa46799360.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[민음사 ‘오늘의 작가상’, 김화진 『나주에 대하여』 선정... “마음의 세밀화”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=290789</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=287978">노재원, "저와 함께 화룡을 잡으러 떠나지 않으실래요?" ..  '정신병동에도...'  김서완  역 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231109092415_7b780226f848bc8d557a92b57bb0edb9_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[창작뮤지컬 '리진:빛의 여인'.. 조선의 무희 리진이 꿈꾼 사랑과 새로운 세상]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=287269</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=287269</guid>
-            <pubDate>Wed, 08 Nov 2023 23:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=287269">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231104125421_8865e19210dc21da3929e2fc8fcbb3e6.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=287269">창작뮤지컬 '리진:빛의 여인'.. 조선의 무희 리진이 꿈꾼 사랑과 새로운 세상</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231104125421_8865e19210dc21da3929e2fc8fcbb3e6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
