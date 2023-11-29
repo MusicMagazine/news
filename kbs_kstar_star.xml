@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 01:56:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 03:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장성규 ‘덜 지니어스’... 자존심 걸고, '굳이' 퀴즈 푼다!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=291326</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=291326</guid>
+            <pubDate>Wed, 29 Nov 2023 03:14:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=291326">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231129111840_4350c7905cbfbe9377c1a2e54fe88ddd.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=291326">장성규 ‘덜 지니어스’... 자존심 걸고, '굳이' 퀴즈 푼다!</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231129111840_4350c7905cbfbe9377c1a2e54fe88ddd.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[인사] SLL 제작부문 대표에 박준서 부사장…중앙그룹, 2024년 임원인사 단행]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=291278</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=290111">카카오엔터 '2023 드라마영화공모전' 수상작... '마피아 게임', '밤이 오기를'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231122090135_a049cddbeb165c9097e5ac7a6fd4bcb9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["가치있는 쓰임" BH소속 배우들,  마리끌레르 단체화보.. "유니세프 재능기부"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=290057</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=290057</guid>
-            <pubDate>Tue, 21 Nov 2023 23:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=290057">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231122072943_a414b37c5d18483e13aa854a5430867c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=290057">"가치있는 쓰임" BH소속 배우들,  마리끌레르 단체화보.. "유니세프 재능기부"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231122072943_a414b37c5d18483e13aa854a5430867c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
