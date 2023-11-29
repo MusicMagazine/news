@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 22:12:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 23:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -318,7 +318,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=287375</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=287375</guid>
             <pubDate>Wed, 22 Nov 2023 20:12:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=287375">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=287375">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231105141411_f231550714dad3592921af4e4ce455e1.png" alt="대체 텍스트">
@@ -335,7 +335,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=287247</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=287247</guid>
             <pubDate>Wed, 22 Nov 2023 20:12:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=287247">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=287247">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231104102033_3abc57814e5f72f23890623bbab65c85.jpg" alt="대체 텍스트">
@@ -688,6 +688,22 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231122090135_a049cddbeb165c9097e5ac7a6fd4bcb9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[세븐틴, '2023 MAMA 어워즈' 첫 대상 수상 "참 오래 걸렸다" (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/401847</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/401847</guid>
+            <pubDate>Wed, 29 Nov 2023 23:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/401847">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/11/30/e3ff3fb7-90f4-4dd6-96ec-2b94b903efe3.jpg" alt="세븐틴, '2023 MAMA 어워즈' 첫 대상 수상 " 참="" 오래="" 걸렸다""="">        <div class="text-box">            <p class="summary">세븐틴, '2023 MAMA 어워즈' 첫 대상 수상 "참 오래 걸렸다"</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/11/30/e3ff3fb7-90f4-4dd6-96ec-2b94b903efe3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴진스, 애플 뮤직 韓연말 차트 '싹쓸이' (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/401845</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/401845</guid>
+            <pubDate>Wed, 29 Nov 2023 23:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/401845">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/11/30/2f8109a7-3c2d-4940-a2a2-095276870445.jpg" alt="뉴진스, 애플 뮤직 韓연말 차트 '싹쓸이'">        <div class="text-box">            <p class="summary">뉴진스, 애플 뮤직 韓연말 차트 '싹쓸이'</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/11/30/2f8109a7-3c2d-4940-a2a2-095276870445.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오마이걸 아린, 모든 컷이 A컷…국가대표 청순美 (MBC 연예 ─ 아이돌)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/401832</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/401832</guid>
@@ -760,230 +776,214 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/11/28/5c0cd7c7-5943-461a-a810-3063bda2e1ec.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[드림캐쳐, '랜플댄'도 척척…퍼포먼스 장인 노린다(주간아이돌) (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/401687</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/401687</guid>
-            <pubDate>Tue, 28 Nov 2023 00:56:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/401687">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/11/28/18c96227-39f1-47a7-84b2-a884922ce1f9.jpg" alt="드림캐쳐, '랜플댄'도 척척…퍼포먼스 장인 노린다(주간아이돌)">        <div class="text-box">            <p class="summary">드림캐쳐, '랜플댄'도 척척…퍼포먼스 장인 노린다(주간아이돌)</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/11/28/18c96227-39f1-47a7-84b2-a884922ce1f9.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[피원하모니, 美 징글볼 투어 성황…12월 LA 뜬다 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20231130081430759</link>
+            <guid>https://v.daum.net/v/20231130081430759</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 그룹 피원하모니(P1Harmony, 기호 테오 지웅 인탁 소울 종섭)가 미국 ‘징글볼 투어’ 댈러스 공연을 성공적으로 마쳤다. 피원하모니는 11월 28일(이하 미국 현지 시간) 미국 텍사스주 포트워스의 디키즈 아레나에서 펼쳐진 ‘2023 아이하트라디오 징글볼(2023 iHeartRadio Jingle Ball, 이하 징글볼 투어)’]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[베이비몬스터, 'BATTER UP' 공개 하루만 MV 2259만뷰 돌파 (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/401676</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/401676</guid>
-            <pubDate>Tue, 28 Nov 2023 00:56:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/401676">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/11/28/3d377eb5-bc26-49e6-a4fc-47752be0ea9a.jpg" alt="베이비몬스터, 'BATTER UP' 공개 하루만 MV 2259만뷰 돌파 ">        <div class="text-box">            <p class="summary">베이비몬스터, 'BATTER UP' 공개 하루만 MV 2259만뷰 돌파 </p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/11/28/3d377eb5-bc26-49e6-a4fc-47752be0ea9a.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA["더 큰 아티스트 될 것" 트레저, 'MAMA' 2관왕..성공적 재시동 증명 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20231130080928643</link>
+            <guid>https://v.daum.net/v/20231130080928643</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=지민경 기자]&nbsp;YG&nbsp;트레저가 정규&nbsp;2집&nbsp;'REBOOT'로 연말 시상식을 뜨겁게 달구고 있는 가운데 새로운 트로피를 추가,&nbsp;올 한 해 성공적인&nbsp;'재시동'을 증명했다. 트레저는 지난&nbsp;28일, 29일 일본 도쿄 돔에서 개최된&nbsp;'2023 MAMA AWARDS'에서&nbsp;'갤럭시 네오플립 아티스트'와&nbsp;'페이보릿 댄스 퍼포먼스 남성 그룹'&nbsp;부문을 수상하며&nbsp;2]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 정국, '2023 MAMA AWARDS' 2관왕 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20231130071049628</link>
-            <guid>https://v.daum.net/v/20231130071049628</guid>
-            <pubDate>Wed, 29 Nov 2023 22:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 | 문완식 기자] 방탄소년단(BTS) 정국이 '2023 MAMA AWARDS'(2023 마마 어워즈)에서 2관왕을 차지했다. 정국은 11월 29일 일본 도쿄돔에서 열린 '2023 마마 어워즈'에서 솔로 싱글 'Seven'(세븐)으로 '베스트 댄스 퍼포먼스 남자 솔로' 부문을 수상했다. 정국은 'Seven' 으로 '베스트 컬래버레이션' 부문까]]></content:encoded>
+            <title><![CDATA[행복한가요?…기욱 "불행하다고 틀린 것은 아냐" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20231130080033440</link>
+            <guid>https://v.daum.net/v/20231130080033440</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김예나 기자) ([엑's 인터뷰②]에 이어) 그룹 원위 멤버 기욱과 함께 '소년의 파란' 속으로 들어가 봤다.&nbsp; 기욱이 최근 발표한 두 번째 솔로 미니 앨범 '現像(현상) : 소년의 파란'은 영화의 한 장면 한 장면처럼 다채로운 이야기로 가득한 앨범이다. 약 7개월 만에 새 솔로 앨범을 들고 돌아온 기욱의 한층 성숙해진 분위기는 물론 전곡 자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[동생 그룹도 데뷔했는데…블랙핑크 재계약은 언제쯤? (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20231130070602537</link>
-            <guid>https://v.daum.net/v/20231130070602537</guid>
-            <pubDate>Wed, 29 Nov 2023 22:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=정혜원 기자] 그룹 블랙핑크의 거취는 언제 정해지는 걸까. 블랙핑크와 YG의 재계약은 연일 관심을 모으고 있다. 재계약을 두고 1인 기획사 설립, 로제 홀로 재계약, 수백억 계약금, 그룹 계약 등 많은 설들이 등장했다. 그러나 YG는 각종 설들에 대해 확답을 주지 못하고 "논의 중"이라는 입장만 고수하고 있다. 블랙핑크는 2016년 8]]></content:encoded>
+            <title><![CDATA[100% 과몰입 유발…기욱 "문별 누나와 좋은 시너지" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20231130080026432</link>
+            <guid>https://v.daum.net/v/20231130080026432</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김예나 기자) ([엑's 인터뷰①]에 이어) 그룹 원위 멤버 기욱이 그룹 마마무 문별과&nbsp;수록곡 '보도블록123'을 통해 호흡 맞춘 소감을 전했다.&nbsp; 기욱의 새 솔로 앨범 '現像(현상) : 소년의 파란'은 지난 4월 발표한 첫 번째 미니 앨범 '사이코 사이버네틱스 : 턴 오버(Psycho Xybernetics : TURN OVER)' 이후 7개]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이변 없었다…세븐틴, 2023 MAMA 어워즈 대상 포함 5관왕 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20231130070448518</link>
-            <guid>https://v.daum.net/v/20231130070448518</guid>
-            <pubDate>Wed, 29 Nov 2023 22:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 그룹 세븐틴이 데뷔 8년 만에 ‘2023 MAMA 어워즈’ 대상을 거머쥐었다. 세븐틴은 11월 28~29일 이틀간 일본 도쿄 돔에서 진행된 ‘2023 MAMA 어워즈’에 출연해 ‘올해의 앨범’ 부문을 차지하며 ‘MAMA 어워즈’에서 첫 대상을 받았다. 세븐틴은 대상과 함께 ‘월드와이드 팬스 초이스’, ‘베스트 남자 그룹’, ‘베스]]></content:encoded>
+            <title><![CDATA['롤러코스터' 쎄이 "신곡은 경험담···5개월 연애가 4년처럼 느껴졌죠" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20231130080018428</link>
+            <guid>https://v.daum.net/v/20231130080018428</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[[서울경제] 싱어송라이터이자 프로듀서, 안무 창작 등 다방면에서 활약하고 있는 쎄이(SSAY)가 1년 만에 신곡을 선보인다. 29일 발매된 디지털 싱글 앨범 '롤러코스터(RollerCoaster)'는 동명의 타이틀곡과 '엑스트라(Ex-TRA)' 두 곡으로 구성돼 있다. 두 곡 모두 모두 연인과 헤어짐을 맞이한 후 느낀 쎄이만의 진솔한 감정이 묻어나는 R&amp;]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뉴진스·세븐틴, 누구도 손가락질 할 수 없는 'MAMA' 대상 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20231130065423282</link>
-            <guid>https://v.daum.net/v/20231130065423282</guid>
-            <pubDate>Wed, 29 Nov 2023 22:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=연휘선 기자]&nbsp;"저희 진짜 손가락질 많이 받던 그룹이었는데". 걸그룹 뉴진스와 보이그룹 세븐틴이 '2023 MAMA AWARDS'에서 대상을 수상했다. 이제는 누구도 부정할 수 없는 K팝 대장들이다. 지난 29일 일본 도쿄돔에서 '2023 MAMA AWARDS(마마 어워즈)'가 챕터2가 치러졌다. 배우 박보검이 진행을 맡은 이 자리에서는 뉴진]]></content:encoded>
+            <title><![CDATA[기욱, 또 증명한 '천재 모먼트'…"자작곡 8곡 애착 多" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20231130080009415</link>
+            <guid>https://v.daum.net/v/20231130080009415</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김예나 기자) 그룹 원위 멤버 기욱이 청춘의 여러 이야기를 담은 두 번째 솔로 앨범을 발표하며 또 한 번 음악적 역량을 입증했다.&nbsp; 최근 두 번째 미니 앨범 '現像(현상) : 소년의 파란'을 발표한 기욱은 엑스포츠뉴스와 만나 컴백 소감부터 신보 소개, 활동 계획 등에 대한 이야기를 나눴다.&nbsp; '現像(현상) : 소년의 파란'은 각기 다른 장르의]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가슴 울리는 방탄소년단 진 '어비스' 아이튠즈 20개국 1위 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20231130064723204</link>
-            <guid>https://v.daum.net/v/20231130064723204</guid>
-            <pubDate>Wed, 29 Nov 2023 22:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 | 문완식 기자] 방탄소년단(BTS) 진의 자작곡 '어비스'(Abyss)가 아이튠즈(iTunes)에서 또다시 1위를 차지하며 뜨거운 인기를 과시했다. 진의 '어비스'는 최근 파퓨아뉴기니(Papua New Guinea) '아이튠즈 톱 송' 차트 1위에 올랐다. '어비스'는 '심연'이라는 뜻으로 진이 번아웃을 겪었을 당시의 심정을 진솔하게 담]]></content:encoded>
+            <title><![CDATA[약속의 방탄소년단, '재재계약+2025년 완전체' 이게 되네 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20231130080002397</link>
+            <guid>https://v.daum.net/v/20231130080002397</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 방탄소년단(BTS)이 '2025년 완전체' 약속을 지킨다. 소속사 빅히트 뮤직은 지난 22일 RM, 지민, V, 정국이 병역의무 이행을 위한 절차를 시작했다고 밝혔다. 이후 29일 RM과 뷔가 오는 12월 11일 후방 모처에 있는 훈련소로 입소, 지민과 정국이 다음날인 12일 함께 전방 같은 신병교육대를 통해 입소한다는 소]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[르세라핌·에스파 ‘캐럴’…추위 녹여줄 시즌송 러시 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20231130063012016</link>
-            <guid>https://v.daum.net/v/20231130063012016</guid>
-            <pubDate>Wed, 29 Nov 2023 22:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[르세라핌. 사진제공｜쏘스뮤직 ‘겨울 시즌송’의 계절이 돌아왔다. 해마다 이맘때쯤 겨울 분위기가 물씬 풍기는 시즌송이 잇따라 공개돼 한겨울 추위를 따뜻하게 녹인다. 올해는 케이팝을 대표하는 인기 걸그룹 에스파와 르세라핌이 시즌송을 선보인다. 눈길을 끄는 것은 현재 각종 온라인 음원차트에서는 ‘크리스마스 여왕’이라 불리는 머라이어 캐리와 아리아나 그란데가]]></content:encoded>
+            <title><![CDATA['2023 AAA' 인기상 D-DAY..임영웅·김세정 독주→이준호vs강다니엘 박빙 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20231130075647349</link>
+            <guid>https://v.daum.net/v/20231130075647349</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 이승훈 기자] 임영웅, 김세정 /사진=스타뉴스가수 임영웅과 걸 그룹 사쿠라자카46, 가수 겸 배우 이준호, 배우 김세정이 '2023 AAA' 인기상 1위를 달리고 있다. 30일 오전 8시 기준, 팬들이 직접 뽑는 '2023 Asia Artist Awards IN THE PHILIPPINES'(이하 '2023 AAA')의 인기상 본선 온라인]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[르세라핌 페이보릿 댄스 퍼포먼스상 “더 멋진 공연 보여줄 것” (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20231130060744817</link>
-            <guid>https://v.daum.net/v/20231130060744817</guid>
-            <pubDate>Wed, 29 Nov 2023 21:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 르세라핌이 3개국어로 수상소감을 전했다. 11월 29일 오후 일본 도쿄돔에서 개최된 '2023 MAMA AWARDS'에서 르세라핌이 페이보릿 댄스 퍼포먼스 여자 그룹을 수상했다. 르세라핌은 "좋은 상 주셔서 너무 감사드린다. 우리를 위해 항상 고생해주시는 시혁님, 소성준 대표님 비롯한 쏘스뮤직 식구들 감사하다"며 스태프들에게 고]]></content:encoded>
+            <title><![CDATA["피어나에 감사해"…르세라핌, 이래서 '페이보릿 글로벌 댄스 퍼포먼스 여자 그룹'→MAMA서 역대급 무대 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20231130074204139</link>
+            <guid>https://v.daum.net/v/20231130074204139</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 이승록 기자] 걸그룹 르세라핌(LE SSERAFIM 김채원, 사쿠라, 허윤진, 카즈하, 홍은채)이 29일 일본 도쿄돔에서 개최된 '2023 MAMA 어워즈'에서 '페이보릿 글로벌 댄스 퍼포먼스 여자 그룹(FAVORITE GLOBAL DANCE PERFORMANCE FEMALE GROUP)'을 수상했다. 르세라핌은 "항상 응원해 주시는 피어]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['고추 먹방' 류승룡 열고 'MAMA 첫 대상' 세븐틴 닫았다..2023 'MAMA' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20231130060701808</link>
-            <guid>https://v.daum.net/v/20231130060701808</guid>
-            <pubDate>Wed, 29 Nov 2023 21:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 | 윤성열 기자] /사진='2023 MAMA AWARDS' 방송 화면/사진='2023 MAMA AWARDS' 방송 화면 연말 음악 시상식 '2023 MAMA AWARDS'가 막을 내렸다. 지난 29일 일본 도쿄 돔에서 '2023 MAMA AWARDS' 챕터2가 펼쳐졌다. '2023 MAMA AWARDS' 둘째 날 라인업에 이름을 올린 K팝 스]]></content:encoded>
+            <title><![CDATA[알렉사, 美 '징글볼 투어' 1만 관객 홀렸다…'ASC' 우승 존재감 발산 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20231130073403980</link>
+            <guid>https://v.daum.net/v/20231130073403980</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 윤혜영 기자] 가수 알렉사(AleXa)가 미국의 대표 음악 페스티벌인 '징글볼 투어' 무대에서 확실한 존재감을 보여줬다. 알렉사는 29일(한국시간) 미국 댈러스에서 펼쳐진 '2023 아이하트라디오 징글볼 투어'(iHeartRadio Jingle Ball Tour, 이하 '징글볼 투어') 무대에 섰다. K팝 여자 솔로 아티스트가 '징글볼 투어]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“‘미스트롯’ 때 절실함 또 느껴져” 서혜진 PD가 말한 ‘현역가왕’의 맛 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20231130060513787</link>
-            <guid>https://v.daum.net/v/20231130060513787</guid>
-            <pubDate>Wed, 29 Nov 2023 21:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[“‘미스트롯’을 처음 제작했을 때 받았던 출연자들의 진짜 간절함이 느껴졌습니다. 잘 될 것이라는 확신이 생겼죠.” MBN 새 서바이벌 트롯쇼 ‘현역가왕’ 기획, 제작을 맡은 크레아스튜디오의 서혜진 PD는 이렇게 말했다. 서 PD는 ‘미스트롯’, ‘미스터트롯’ 시리즈, ‘불타는 트롯맨’ 등 국내 가요계에 트롯 열풍을 불게 한 장본인이다. 그는 ‘현역가왕’]]></content:encoded>
+            <title><![CDATA[알렉사, 美 ‘징글볼 투어’ 공연 성료…글로벌 광폭 행보 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20231130073401979</link>
+            <guid>https://v.daum.net/v/20231130073401979</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 가수 알렉사(AleXa)가 '징글볼 투어'에서 존재감을 보여줬다. 알렉사는 11월 29일(한국시간) 미국 댈러스에서 펼쳐진 '2023 아이하트라디오 징글볼 투어'(iHeartRadio Jingle Ball Tour, 이하 '징글볼 투어') 무대에 섰다. K팝 여자 솔로 아티스트가 '징글볼 투어' 무대에 서는 건 알렉사가 처음이다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴 “故문빈 사랑해”→최수영 눈물 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20231130060301742</link>
-            <guid>https://v.daum.net/v/20231130060301742</guid>
-            <pubDate>Wed, 29 Nov 2023 21:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[대상을 받은 세븐틴부터 시상을 위해 참석한 류승룡, 최수영까지 ‘2023 MAMA’를 빛낸 멘트가 눈길을 끈다. 지난 29일 일본 도쿄돔에서는 ‘2023 MAMA 어워즈’(이하 ‘2023 MAMA’)가 열렸다. 올해로 26년째를 맞는 ‘MAMA’는 지난 1998년 ‘Mnet 영상음악대상’으로 시작했다. 2009년 ‘엠넷 아시안 뮤직 어워즈(Mnet ASIA]]></content:encoded>
+            <title><![CDATA[美 투자회사 "금융주, 빠른 실적 성장으로 아웃퍼폼할 것" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20231130073319967</link>
+            <guid>https://v.daum.net/v/20231130073319967</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[■ 모닝벨 '글로벌 리치' - 고유미 외신캐스터 비관론자로 알려진 미국 투자회사 베리타스&nbsp;파이낸셜 그룹의 그레그 브랜치 이사도&nbsp;내년 증시에 대해 비관적입니다.&nbsp; 하지만 투자할 만한 곳들은 있다고 말했는데요.&nbsp; 금융주와 헬스케어주 그리고 인공지능 관련주에&nbsp;주목했습니다.&nbsp; 특히 금융주가 빠른 실적 성장으로 아웃퍼폼할&nbsp;것이라고 전망했습니다.&nbsp; [그레그 브랜치 /]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방예담, '온리 원'이라는 성장일기…솔로 뮤지션의 묵직한 존재감 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20231130060004488</link>
-            <guid>https://v.daum.net/v/20231130060004488</guid>
-            <pubDate>Wed, 29 Nov 2023 21:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자]솔로 뮤지션으로 새 출발한 방예담이 자신만의 음악과 감성으로 존재감을 각인시켜 나가고 있다. 방예담은 지난 23일 첫 솔로 앨범 '온리 원'을 발매했다. 2013년 SBS 'K팝스타 2'에 출연했을 당시 '한국의 저스틴 비버'라는 찬사를 받으며 준우승을 차지했던 소년 방예담은 7년이 지난 2020년 그룹 트레저로 데뷔해 다양]]></content:encoded>
+            <title><![CDATA[“이변 없었다” 세븐틴, MAMA 대상 포함 5관왕 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20231130072944898</link>
+            <guid>https://v.daum.net/v/20231130072944898</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[“저희 세븐틴, 대상까지 참 오래 걸렸다. 시작부터 손가락질 많이 받았다. 눈앞에서 모두가 절대 안 될 거라고 했었는데…” 그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 ‘2023 MAMA 어워즈’에서 데뷔 8년 만에 대상의 주인공이 됐다. 세븐틴은 지난 28~29일 이틀간 일본 도쿄]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임수정 '연인들의 이야기', 아련한 추억과 향수 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20231130000112226</link>
-            <guid>https://v.daum.net/v/20231130000112226</guid>
-            <pubDate>Wed, 29 Nov 2023 19:12:09 GMT</pubDate>
-            <content:encoded><![CDATA[미스코리아 전북 포토제닉 수상 모델로 연예계 입문 TV 드라마 '아내' OST로 소개돼 폭발적 인기에 시동 [더팩트ㅣ강일홍 기자] 80년대 초 가요계는 예쁘고 부드러운 목소리의 주인공이 혜성처럼 등장했다. 여고를 갓 졸업한 뒤 미스코리아에 출전해 입상한 경력을 가진 임수정이다. 그는 81년 미스코리아 미스 전북에 나가 포토제닉상을 수상했다. 출발은 가]]></content:encoded>
+            <title><![CDATA[알렉사, 美 '징글볼 투어' 댈러스 공연 성료..K팝 女 솔로 최초 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20231130072715865</link>
+            <guid>https://v.daum.net/v/20231130072715865</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자]&nbsp;가수 알렉사(AleXa)가 미국의 대표 음악 페스티벌인 '징글볼 투어' 무대에서 확실한 존재감을 보여줬다.&nbsp; 알렉사는 29일(한국시간) 미국 댈러스에서 펼쳐진 '2023 아이하트라디오 징글볼 투어'(iHeartRadio Jingle Ball Tour, 이하 '징글볼 투어') 무대에 섰다. K팝 여자 솔로 아티스트가 '징글볼 투어]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[엔믹스 "다 앤써 덕분…내년 단독 콘서트 하고파" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20231130000050220</link>
-            <guid>https://v.daum.net/v/20231130000050220</guid>
-            <pubDate>Wed, 29 Nov 2023 19:12:09 GMT</pubDate>
-            <content:encoded><![CDATA[데뷔 이후 꾸준한 성장세로 매 앨범 커리어하이 달성 '더팩트 뮤직 어워즈' 첫 참석→'올해의 아티스트' 수상 [더팩트｜박지윤 기자] 그룹 엔믹스(NMIXX)는 데뷔 이후 탄탄한 성장세로 매 앨범 커리어하이를 기록했다. 그 결과 올해를 빛낸 아티스트들이 한데 모인 '2023 더팩트 뮤직 어워즈'에서 당당히 '올해의 아티스트'를 거머쥐었다. 엔믹스는 10]]></content:encoded>
+            <title><![CDATA[세븐틴, MAMA서 첫 대상 수상 "캐럿 덕에 재계약…영광 돌리고파" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20231130072422828</link>
+            <guid>https://v.daum.net/v/20231130072422828</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 윤현지 기자) 그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 '2023 MAMA 어워즈'에서 데뷔 8년 만에 대상의 주인공이 됐다. 세븐틴은 지난 28~29일 이틀간 일본 도쿄 돔에서 진행된 '2023 MAMA 어워즈'에 출연해 '올해의 앨범' 부문을 차지하며 'MAMA 어워즈]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“하이브, 음원 시장 점유율서 타 엔터사 3배 이상 높아” (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20231129231227892</link>
-            <guid>https://v.daum.net/v/20231129231227892</guid>
-            <pubDate>Wed, 29 Nov 2023 19:12:09 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 원성윤기자] 엔터테인먼트사 하이브(352820)가 SM엔터테인먼트, JYP엔터테인먼트, YG엔터테인먼트 등과 비교했을 때 음원시장 점유율에서 3배 이상의 강세를 보인다는 분석이 나왔다. 김규현 미래에셋증권 연구원은 최근 보고서에서 “하이브를 포함해 빅4 엔터사 음원 평균값이 2.5인데, 하이브의 경우 9로 나타난다”며 “평균값의 3.6]]></content:encoded>
+            <title><![CDATA[‘연인’ 김윤우 “남궁민 선배에 대한 존경심, 량음의 눈빛이 됐다” (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20231130081502770</link>
+            <guid>https://v.daum.net/v/20231130081502770</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[MBC 드라마 ‘연인’의 인기는 사극이라는 틀 안에 넣은 다채로운 캐릭터의 매력이 큰 원동력이 됐다. 그중에는 백마 탄 왕자님 같은 주인공 캐릭터나 왜 나쁜 사람이 됐는지 알 수 없는, 악역을 위한 악역도 있었지만 사극에서 잘 볼 수 없던 캐릭터들의 불발이 큰 역할을 했다. 그중에는 주인과 친구처럼 지내는 몸종, 건달 출신이지만 충성을 바치는 수하,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["세븐틴 사랑해준 빈이 고마워" 승관, 故문빈 떠올리며 '눈물' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20231129224702692</link>
-            <guid>https://v.daum.net/v/20231129224702692</guid>
-            <pubDate>Wed, 29 Nov 2023 19:12:09 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 | 윤성열 기자] /사진='2023 MAMA AWARDS' 방송 화면보이 그룹 세븐틴의 승관이 '2023 MAMA AWARDS'에서 먼저 세상을 떠난 그룹 아스트로 멤버 고(故) 문빈을 추모했다. 세븐틴은 29일 오후 일본 도쿄 돔에서 진행된 '2023 MAMA AWARDS' 챕터2에서 영예의 대상 중 하나인 올해의 앨범상(Album Of T]]></content:encoded>
+            <title><![CDATA[‘5년 연속’ 김성주･‘첫 도전’ 박규영, ‘MBC 연기대상’ MC 확정 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20231130081427757</link>
+            <guid>https://v.daum.net/v/20231130081427757</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=강서정 기자] 김성주, 박규영이 ‘2023 MBC 연기대상’에 MC로 나선다. ‘2023 MBC 연기대상’은 한 해 동안 시청자에게 희로애락을 선사했던 드라마 작품들을 돌아보는 자리다. ‘연인’, ‘열녀박씨 계약결혼뎐’, ‘오늘도 사랑스럽개’, ‘조선변호사’, ‘넘버스’ 등 다양한 작품과 배우들이 시청자의 사랑을 받으며 수상에도 기대감이 높아]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박한별 제주도 실물 목격+미담 “母 부탁에 흔쾌히 사진, 예뻐서 깜짝” (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20231130071000603</link>
-            <guid>https://v.daum.net/v/20231130071000603</guid>
-            <pubDate>Wed, 29 Nov 2023 22:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이슬기 기자] 배우 박한별이 목격담을 마주했다. 11월 29일 채널 ‘박한별하나’에는 ‘제주 사람이 대신 먹어주는 제주 맛집’이라는 제목의 영상이 게재됐다. 이날 영상에서 박한별은 구독자들이 보내준 제주도 맛집을 대신 즐기는 콘텐츠를 진행했다. 다양한 사연과 식당 제보가 쏟아져 오는 가운데, 박한별은 운영 시간 등을 체크하면서 리스트를 작성했다.]]></content:encoded>
+            <title><![CDATA['나는 솔로' 16기 영숙·영철, '동치미' 통편집 되나 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20231130081406750</link>
+            <guid>https://v.daum.net/v/20231130081406750</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 김지하 기자] '나는 솔로' 16기 영숙·영철(가명)이 '동치미'를 녹화하는 등 방송 활동 반경을 넓혔지만, 편집될 전망이다. 방송 이후에도 화제를 모으고 있는 것은 맞지만, 함께 출연한 출연진들을 상대로 한 비방과 폭로, 가짜뉴스 살포 등이 계속되며 이들에 대한 피로감이 높아진 것이 제작진의 고민을 키우는 모양새다. MBN '속풀이쇼 동치]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[하지원 "4년간 감정 롤러코스터 타..배우 관둘까 생각까지도" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20231130070647548</link>
-            <guid>https://v.daum.net/v/20231130070647548</guid>
-            <pubDate>Wed, 29 Nov 2023 22:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 배우 하지원이 우여곡절 많았던 시간을 털어놨다. 지난 29일 방송된 tvN 예능 '유 퀴즈 온 더 블럭'에서는 '내 눈앞에 나타나' 특집으로 하지원이 출연해 입담을 과시했다. 최근 슬릭백 영상으로 많은 관심을 받은 하지원은 "요즘 자연인으로 살고 있다. 친구가 내 작업실에 놀러 왔다가 신발을 보더니 '슬릭백 하려고]]></content:encoded>
+            <title><![CDATA['애둘맘' 김나영 "내가 살림의 여왕? 살림, 어렵고 힘들고 귀한데 티 안 나는 일" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20231130081404748</link>
+            <guid>https://v.daum.net/v/20231130081404748</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=최지예 기자]방송인 김나영이 살림에 대한 생각을 전했다.&nbsp; 김나영은 29일 유튜브 채널 '김나영의 nofilterTV'를 통해 '살림 여왕 김나영의 꿀팁 가득한 랜선 집들이 중간 점검'이라는 제목의 영상을 게재했다. 이날&nbsp;김나영은 "오늘 저희 집에 살림하는 꿀팁 같은 것도 좀 알려드리고, 저희 집도 소개를 하려 한다. 제가 이사 온 지 1년이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 진 생일 기념 中팬들 '김석진 도서관' 이어 책 2000권 기부..따뜻한 나눔 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20231130070555534</link>
-            <guid>https://v.daum.net/v/20231130070555534</guid>
-            <pubDate>Wed, 29 Nov 2023 22:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 | 문완식 기자] 방탄소년단(BTS) 진의 생일(12월 4일)을 맞아 중국 팬들이 특별한 나눔 행사로 의미를 더했다. 진의 중국 팬베이스(@ArmyJin_J1)는 진의 생일을 맞아 농촌 지역 학생들을 위해 도서 2000권을 기부했다. 지난해 진의 본명 '김석진' 이름을 딴 복지 도서관에 이어 2년 연속 특별한 나눔을 했다. "이전에는]]></content:encoded>
+            <title><![CDATA['제사봇' 광수, 옥순 답변에 만족.."순자와는 연애, 옥순과는 결혼 상대 느낌" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20231130081313736</link>
+            <guid>https://v.daum.net/v/20231130081313736</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 고재완 기자] '나는 SOLO(나는 솔로)' 17기에서 광수가 순자와 옥순을 두고 갈팡질팡하는 모습을 보였다. 29일 방송한 SBS Plus와 ENA의 리얼 데이팅 프로그램 '나는 SOLO'에서 순자는 영식에게 "영식님의 마음은 (저에게로) 확고한 걸 알고 있다. 그러면 광수님을 일단 오전에 만나보고, 판단을 확실히 내려야 한다고]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[다채로워진 色…‘스위트홈’ 시즌2 공개·다크비 컴백 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20231130070303489</link>
-            <guid>https://v.daum.net/v/20231130070303489</guid>
-            <pubDate>Wed, 29 Nov 2023 22:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[바쁘게 돌아가는 연예계에서 오늘도 다양한 작품이 소개되고 새롭게 돌아오는 아티스트가 대중 앞에 서는 가운데, 오늘의 주요 일정을 알아본다. 다채로워진 캐릭터와 세계관…‘스위트홈’ 시즌2넷플릭스 시리즈 ‘스위트홈’ 시즌2 제작발표회가 30일 오전 열린다. 이날 자리에는 배우 송강, 이진욱, 이시영, 고민시, 진영, 유오성, 김무열, 이응복 감독이 참석한다.]]></content:encoded>
+            <title><![CDATA[신동엽·조이현·주우재, 2023 KBS연예대상 책임진다 '3MC 확정' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20231130081302732</link>
+            <guid>https://v.daum.net/v/20231130081302732</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=하수정 기자] 방송인 신동엽과 배우 조이현, 모델 출신 방송인 주우재가 '2023 KBS 연예대상' MC를 맡는다. 30일 오전, KBS 측은 "오는 12월 23일에 방송되는 '2023 KBS 연예대상'에서 신동엽, 조이현, 주우재가 진행을 맡게 됐다. 국민MC의 검증된 예능감과 뉴페이스 MC들의 신선한 호흡을 기대해 달라"라며 MC 라인업을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[민우혁 “‘레미제라블’ 장발장 캐스팅 이유? 빵 훔쳐먹게 생겼다고” (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20231130070302487</link>
-            <guid>https://v.daum.net/v/20231130070302487</guid>
-            <pubDate>Wed, 29 Nov 2023 22:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[뮤지컬 배우 민우혁(본명 박성혁·40)이 8년만에 뮤지컬 ‘레미제라블’ 무대에 다시 오른다. 이번엔 앙졸라가 아니라 장발장 역으로다. 민우혁은 뮤지컬 ‘레미제라블’ 한국 라이선스 10주년 기념 공연에서 장발장 역을 맡았다. 지난 10월 15일부터 11월 19일까지 부산 드림씨어터 공연을 마친 민우혁은 오는 30일 한남동 블루스퀘어 신한카드홀에서 서울 공연에]]></content:encoded>
+            <title><![CDATA[‘2023 KBS 연예대상’ 신동엽-조이현-주우재 MC 확정 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20231130081147702</link>
+            <guid>https://v.daum.net/v/20231130081147702</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 방송인 신동엽과 배우 조이현, 모델 출신 방송인 주우재가 '2023 KBS 연예대상' MC로 나선다. KBS 측은 11월 30일 "오는 12월 23일에 방송되는 '2023 KBS 연예대상'에서 신동엽, 조이현, 주우재가 진행을 맡게 됐다. 국민MC의 검증된 예능감과 뉴페이스 MC들의 신선한 호흡을 기대해 달라"라고 밝혔다. 명실]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['MAMA' 휩쓴 하이브...'신인' 뉴진스·'9년차' 세븐틴 첫 대상 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20231130070023422</link>
-            <guid>https://v.daum.net/v/20231130070023422</guid>
-            <pubDate>Wed, 29 Nov 2023 22:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[세븐틴 준(왼쪽부터)과 디노, 디에잇, 호시, 원우, 버논, 민규, 정한, 승관, 우지, 조슈아, 도겸이 29일 일본 도쿄돔에서 열린 ‘2023 마마 어워즈(2023 MAMA AWARDS)’에서 포즈를 취하고 있다. 2023.11.29/뉴스1 ⓒ News1 권현진 기자 /사진=뉴스1 [파이낸셜뉴스] 하이브 소속 가수들이 ‘2023 마마(]]></content:encoded>
+            <title><![CDATA[‘2023 MBC 연기대상’ 김성주-박규영 MC 확정 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20231130080936646</link>
+            <guid>https://v.daum.net/v/20231130080936646</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 김성주, 박규영이 ‘2023 MBC 연기대상’ MC로 호흡을 맞춘다. ‘2023 MBC 연기대상’은 한 해 동안 시청자에게 희로애락을 선사했던 드라마 작품들을 돌아보는 자리다. ‘연인’, ‘열녀박씨 계약결혼뎐’, ‘오늘도 사랑스럽개’, ‘조선변호사’, ‘넘버스’ 등 다양한 작품과 배우들이 시청자의 사랑을 받으며 수상에도 기대감이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["내 타입 1위 오빠" 방탄소년단 뷔 '내 친오빠, 친형 됐으면 하는 남자 아이돌' 1위 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20231130065554307</link>
-            <guid>https://v.daum.net/v/20231130065554307</guid>
-            <pubDate>Wed, 29 Nov 2023 22:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 | 문완식 기자] 방탄소년단 뷔 /사진=김창현 기자 chmt@방탄소년단(BTS)의 뷔가 '내 친오빠, 친형이 되었으면 하는 남자 아이돌' 1위에 오르며 인기를 빛냈다. 뷔는 11월 23일부터 11월 29일까지 팬 커뮤니티 '최애돌'에서 진행된 '내 친오빠/형이 되었으면 하는 남돌은?' 설문조사에서 1위를 차지했다. 방탄소년단 뷔 /사진=]]></content:encoded>
+            <title><![CDATA[17기 현숙 "상철에 대한 마음 확고" but 편지 2장에 '흔들'..영호 뒤집기 성공하나 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20231130080810608</link>
+            <guid>https://v.daum.net/v/20231130080810608</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 고재완 기자] '나는 SOLO(나는 솔로)' 17기에서 현숙과 상철의 로맨스에 영호가 끼어들 자리가 있을지가 눈길을 끈다. 29일 방송한 SBS Plus와 ENA의 리얼 데이팅 프로그램 '나는 SOLO'에서 현숙은 영호에게 상철에 대한 마음이 확고하다고 털어놨다. 현숙과 슈퍼 데이트를 앞둔 영호는 알람도 없이 벌떡 일어났다. 이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[윤도현→남우현·조정민, 남모를 암 투병 고백한 스타들 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20231130065101259</link>
-            <guid>https://v.daum.net/v/20231130065101259</guid>
-            <pubDate>Wed, 29 Nov 2023 22:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[연예계 활동을 왕성히 했던 스타들이 남모를 아픔을 삼키고 견뎌내며 대중들 앞에 섰다. 윤도현, 이정, 남우현, 조정민이 최근 암 투병을 했다는 사실을 밝히면서 자신들과 똑같이 아픔을 견디는 이들에게 용기와 희망을 심어주고 있다. YB 윤도현, 3년간 희귀성암 투병밴드 YB 윤도현이 지난 8월 3년간 희귀성암 투병을 한 사실을 고백했다. 그는 자신의 계정을]]></content:encoded>
+            <title><![CDATA["보험은 싫어"..'순자바라기' 영식, 순자대신 영숙과 데이트 "복수하나" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20231130080312518</link>
+            <guid>https://v.daum.net/v/20231130080312518</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 고재완 기자] "보험은 싫어" '나는 SOLO(나는 솔로)' 17기 솔로나라에서 '순자바라기' 영식이 순자를 선택하지 않아 충격을 줬다. 29일 방송한 SBS Plus와 ENA의 리얼 데이팅 프로그램 '나는 SOLO'에서는 '슈퍼 데이트' 후 러브라인이 송두리째 바뀐 '솔로나라 17번지'의 로맨스 판도가 공개됐다. 영식은 순자가]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김용만 울린 子, 버클리 음대 때려치웠다 “DJ 하다 클럽 오픈 준비” 깜짝 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20231130065039257</link>
-            <guid>https://v.daum.net/v/20231130065039257</guid>
-            <pubDate>Wed, 29 Nov 2023 22:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이슬기 기자] 개그맨 김용만이 미국 버클리 음대에 입학한 아들의 반전 근황을 공개했다. 11월 29일 ‘르크크 이경규’에는 ‘이경규x김용만, 찐친들의 대환장 폭로 현장ㅋㅋㅋ (feat. 김수용) l 예능대부 갓경규 EP.19’라는 제목의 영상이 게재됐다. 이날 김용만은 버클리 음대 진학으로 화제가 됐던 아들의 근황을 이야기했다. 먼저 이경규는 "]]></content:encoded>
+            <title><![CDATA['첫 도전' 박규영, '5년 연속' 김성주 MBC 연기대상 2MC (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20231130080226489</link>
+            <guid>https://v.daum.net/v/20231130080226489</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자] 배우 박규영이 글로벌 활약에 이어 MC 자리까지 꿰찼다. 29일 OSEN&nbsp;취재 결과, 박규영은 오는 12월 30일 진행되는 '2023 MBC 연기대상' MC로 발탁됐다.&nbsp;박규영이 연말 시상식의 MC를 맡는 것은 이번이 처음이다. 팔색조 매력을 지닌 연기자 박규영과는 또 다른&nbsp;새로운 모습을 볼 수 있을 전망. 박규영은 이로써 방송]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["걸그룹 대우 짜다 짜" 차별 논란…어쩌다 'MAMA 보이' 전락했나 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20231130065006252</link>
-            <guid>https://v.daum.net/v/20231130065006252</guid>
-            <pubDate>Wed, 29 Nov 2023 22:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김예나 기자) '2023 MAMA'가 부족한 라인업에 걸그룹 차별 논란으로 아쉬움을 남겼다.&nbsp; '2023 마마 어워즈(2023 MAMA AWARDS)'가 지난 28일과 29일 일본 도쿄돔에서 열렸다. 이번 '2023 마마'는 국내 시상식 최초로 일본 도쿄돔에서 진행, 지난해에 이어 올해도 가수 전소미와 박보검이 각각 양일 호스트로 나섰다.&nbsp;]]></content:encoded>
+            <title><![CDATA['독전2' 차승원, 소탈함과 릴랙스 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20231130080103458</link>
+            <guid>https://v.daum.net/v/20231130080103458</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 임시령 기자] '독전2'로 돌아온 차승원이 배우로서도, 한 가정의 가장으로서도 인간적인 면모를 드러냈다. '독전2'는 용산역에서 벌인 지독한 혈투 이후, 여전히 '이선생'을 쫓는 형사 원호(조진웅)와 사라진 락(오승훈), 다시 나타난 브라이언(차승원)과 사태 수습을 위해 중국에서 온 큰칼(한효주)의 독한 전쟁을 그린 범죄 액션 영화다. 작]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[권은비 "덱스와 열애설? 실제로 좋은 친구→습관성 플러팅 문제 있어" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20231130064751209</link>
-            <guid>https://v.daum.net/v/20231130064751209</guid>
-            <pubDate>Wed, 29 Nov 2023 22:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 권은비가 '플러팅 장인' 덱스와의 열애설을 부인했다. 지난 29일 방송된 MBC '라디오스타'에서는 장동민, 박재정, 정용화, 권은비가 출연하는 '니가 왜 거기서 나와' 특집으로 꾸며졌다. 최근 싱글 앨범 '더 플래시'를 발매하며 솔로 데뷔 2주년을 맞은 가수 권은비가 '라스'에 첫 출연해 눈길을 끌었다. 지난해 발]]></content:encoded>
+            <title><![CDATA[인피니트 남우현, 기스트암 수술→은퇴 고민…솔로 컴백하기까지 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20231130080010417</link>
+            <guid>https://v.daum.net/v/20231130080010417</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] “제가 올해 4월 말에 큰 수술을 했어요. ‘기스트암’이라고 희귀암인데요. 10시간 전신마취 수술로 복부를 20cm가량 갈랐어요. 두 달 동안 밥도 못 먹고 고생 아닌 고생을 했죠.” 그룹 인피니트 멤버 남우현(32)의 솔로 앨범 발매를 기념하는 인터뷰였다. 데뷔 13년 만에 그리고 솔로 데뷔 7년 만에 선보이는 첫 정규 앨범이기에 서로 기대]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김수용, 알고 보니 병원장 집안 금수저 “나만 개그맨, 내 딸도 이해 못 해” (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20231130064721202</link>
-            <guid>https://v.daum.net/v/20231130064721202</guid>
-            <pubDate>Wed, 29 Nov 2023 22:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이슬기 기자] 개그맨 김수용이 집안에 대해 이야기했다. 11월 29일 ‘르크크 이경규’에는 ‘이경규x김용만, 찐친들의 대환장 폭로 현장ㅋㅋㅋ (feat. 김수용) l 예능대부 갓경규 EP.19’라는 제목의 영상이 게재됐다. 이날 김수용은 자신의 집안에 대해 밝혀 시선을 끌었다. 먼저 이경규가 “아버지가 뭐 하시는지 물어봤다. 아버지께서 병원장이시]]></content:encoded>
+            <title><![CDATA[마니아층 넘어선 대중화 노린다…두뇌 예능, OTT 타고 '활활' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20231130080010418</link>
+            <guid>https://v.daum.net/v/20231130080010418</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 오명언 기자 이승미 인턴기자 = '428+591+972+…+603+298 = ?' 서울대 치과대학을 다니다가 다시 수능을 보고 만점으로 서울대 의과대학에 진학한 한 학생. 팔짱을 낀 채 복잡한 세자리 수 숫자 10개를 덧셈하라는 암산 문제를 응시한다. 약 14초 만에 계산을 끝내더니, 5773이라는 정답을 적고 유유히 걸어 나간다. 3]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김용만, 버클리 음대 들어간 子 근황 “정리하고 DJ 한다고 클럽 오픈.. 요즘 애들 그렇다” (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20231130063923106</link>
-            <guid>https://v.daum.net/v/20231130063923106</guid>
-            <pubDate>Wed, 29 Nov 2023 22:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 김태형기자] 김용만이 버클리 음대에 들어간 아들의 근황을 전했다. 29일 유튜브 채널 ‘르크크 이경규’에는 ‘이경규x김용만, 찐친들의 대환장 폭로 현장ㅋㅋㅋ (feat. 김수용) | 예능대부 갓경규 EP.19’라는 영상이 게재됐다. 김용만, 김수용이 게스트로 출연했다. 김용만은 안정환, 김성주, 정형돈과 2021년 소속]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박재정, '발호세' 논란 15년만에 전격 해명했다 "'테이프 깔까?' 할 수도 없고!" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20231130063508064</link>
-            <guid>https://v.daum.net/v/20231130063508064</guid>
-            <pubDate>Wed, 29 Nov 2023 22:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 이승록 기자] 배우 박재정이 과거 연기력 논란을 약 15년 만에 해명하며, 자신의 속내도 솔직하게 대중에 밝혔다. 특히 그동안 대중이 알지 못했던 박재정의 어마어마한 예능감이 터져나와 까다롭기로 유명한 '라디오스타' MC들마저 웃느라 정신을 못 차릴 정도였다. 29일 MBC '라디오스타'는 개그맨 장동민, 배우 박재정, 가수 정용화, 권은]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[빅마마 이영현 “강아지는 절대적 생명체…인형·장난감 아니에요” (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20231130063300046</link>
-            <guid>https://v.daum.net/v/20231130063300046</guid>
-            <pubDate>Wed, 29 Nov 2023 22:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[반려동물 인구 1500만 시대. 이제는 ‘가족’이라고 여길 만큼 반려동물은 많은 이들의 일상에서 큰 역할을 하고 있습니다. 봐도 봐도 계속 보고 싶은, 반려인에게 반려동물은 늘 자랑거리이자 사랑덩어리인데요. 스타들의 가족 또는 친구 같은 존재인 ‘반려동물’을 만나보는 시간을 가졌습니다. &lt;편집자 주&gt; [MK★펫터뷰-그룹 빅마마 멤버 이영현 편] 대한민국]]></content:encoded>
+            <title><![CDATA[강수지, ♥김국진과 함께면 어디든 좋아 “온천이라도 갈까 했는데 집도 좋다” (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20231130075729363</link>
+            <guid>https://v.daum.net/v/20231130075729363</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 김태형기자] 가수 강수지가 앞으로의 계획을 밝혔다. 29일 유튜브 채널 ‘강수지tv 살며사랑하며배우며’에는 ‘2023년 가기 전에 집 정리 어떠세요?’라는 영상이 게재됐다. 강수지는 구독자들을 대상으로 진행하기로 한 ‘구독자 공간 재배치 이벤트’를 언급하며 “이번 주부터 촬영을 하려고 한다. 여러분들 집을 방문해서 거실]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[故 폴 워커, 교통사고 참변 벌써 10년...빈 디젤 여전한 그리움 "보고싶다" (다음 연예 ─ 뉴스 ─ 해외)]]></title>
@@ -1091,354 +1091,361 @@
             <content:encoded><![CDATA[[TV리포트=안수현 기자] 일본에서 성우로 활동 중인 나카무라 이루가 발달장애를 가진 부부의 생활에 관해 솔직하게 공개했다. 지난 28일(현지 시간), 현지 매체 '찬토 웹'(Chanto Web)은 나카무라 이루와의 인터뷰 내용을 보도했다. 나카무라는 자신과 남편 모두 발달 장애를 갖고 있으며 두 아이를 키우고 있다고 밝혔다. 이날 나카무라는 "같은 발달]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 정국, '2023 MAMA AWARDS' 2관왕 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003198583</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003198583</guid>
-            <pubDate>Wed, 29 Nov 2023 22:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[방탄소년단(BTS) 정국이 '2023 MAMA AWARDS'(2023 마마 어워즈)에서 2관왕을 차지했다. 정국은 11월 29일 일본 도쿄돔에서 열린 '2023 마마 어워즈'에서 솔로 싱글 'Seven'(세븐)으로]]></content:encoded>
+            <title><![CDATA[피원하모니, 美 징글볼 투어 성황…12월 LA 뜬다 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000797999</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000797999</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 피원하모니(P1Harmony, 기호 테오 지웅 인탁 소울 종섭)가 미국 ‘징글볼 투어’ 댈러스 공연을 성공적으로 마쳤다. 피원하모니는 11월 28일(이하 미국 현지 시간) 미국 텍사스주 포트워스의 디키즈 아레나]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['찬또배기' 이찬원 팬클럽, 고양시에 친환경 세제 1,000개 및 후원금 200만 원 기부 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001667297</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001667297</guid>
-            <pubDate>Wed, 29 Nov 2023 22:12:05 GMT</pubDate>
-            <content:encoded><![CDATA['찬또배기' 이찬원의 팬클럽 '경기북부찬스'가 고양시 취약계층을 위해 친환경 세제 1,000개 및 후원금 200만 원을 기부했다. 지난 27일 이찬원 팬클럽 '경기북부찬스' 회원들은 고양시사회복지협의회에 친환경 세제]]></content:encoded>
+            <title><![CDATA[자이언티 정규 3집, 트랙리스트 공개···악뮤 등 뮤지션 대거참여 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000928728</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000928728</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[가수 자이언티(Zion.T)가 정규3집 ‘Zip’의 트랙리스트를 공개했다. 소속사 더블랙레이블은 지난 29일 오후 8시 공식 SNS를 통해 자이언티(Zion.T)의 정규3집 ‘Zip’의 트랙리스트를 공개했다. 공개된]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['강남 제작' 원팩트, 오늘(30일) 데뷔…5人 5色 임팩트 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003791787</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003791787</guid>
-            <pubDate>Wed, 29 Nov 2023 22:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 원팩트(ONE PACT)가 가요계에 정식 데뷔한다. 원팩트는 30일 오후 6시 각종 온라인 음원 사이트를 통해 첫 번째 미니 앨범 '모멘트(Moment)'를 발매한다. 팀명 원팩트(ONE PACT)는 '원(on]]></content:encoded>
+            <title><![CDATA[걸그룹 최고 퍼포머 맞네…르세라핌, MAMA서 마네퀸과 컬래버 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000928727</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000928727</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 르세라핌(LE SSERAFIM)이 ‘2023 MAMA 어워즈’서 걸그룹 퍼포먼스 최강자다운 무대를 연출했다. 르세라핌(김채원, 사쿠라, 허윤진, 카즈하, 홍은채)은 지난 29일(이하 한국시간) 일본 도쿄돔에서]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[동생 그룹도 데뷔했는데…블랙핑크 재계약은 언제쯤?[이슈S] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000462544</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000462544</guid>
-            <pubDate>Wed, 29 Nov 2023 22:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 블랙핑크의 거취는 언제 정해지는 걸까. 블랙핑크와 YG의 재계약은 연일 관심을 모으고 있다. 재계약을 두고 1인 기획사 설립, 로제 홀로 재계약, 수백억 계약금, 그룹 계약 등 많은 설들이 등장했다. 그러나 Y]]></content:encoded>
+            <title><![CDATA["더 큰 아티스트 될 것" 트레저, 'MAMA' 2관왕..성공적 재시동 증명 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004975662</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004975662</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[YG 트레저가 정규 2집 'REBOOT'로 연말 시상식을 뜨겁게 달구고 있는 가운데 새로운 트로피를 추가, 올 한 해 성공적인 '재시동'을 증명했다. 트레저는 지난 28일, 29일 일본 도쿄 돔에서 개최된 '2023]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['컴백' 헤이즈, '입술' 비하인드 인터뷰 공개 "10CM와 꼭 불러야 하는 곡" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003667528</link>
-            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003667528</guid>
-            <pubDate>Wed, 29 Nov 2023 22:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[가수 헤이즈(Heize)가 10CM와 겨울 감성을 선사한다. 헤이즈는 지난 29일 오후 공식 SNS를 통해 미니 8집 'Last Winter'의 타이틀곡 '입술(Feat. 10CM)' 비하인드 인터뷰 영상을 공개했다]]></content:encoded>
+            <title><![CDATA[로이킴 단독 콘서트 전석 매진→미발표곡 공개..특급 팬사랑 예고 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003198590</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003198590</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[가수 로이킴의 단독 콘서트가 개최를 목전에 두고 관전 포인트를 공개했다. 로이킴은 12월 1일부터 3일까지 3일간 서울 올림픽공원 올림픽홀에서 2023 로이킴 콘서트 'Roy Note'를 개최하고 팬들을 만난다. 매]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이변 없었다…세븐틴, 2023 MAMA 어워즈 대상 포함 5관왕 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000797979</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000797979</guid>
-            <pubDate>Wed, 29 Nov 2023 22:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 세븐틴이 데뷔 8년 만에 ‘2023 MAMA 어워즈’ 대상을 거머쥐었다. 세븐틴은 11월 28~29일 이틀간 일본 도쿄 돔에서 진행된 ‘2023 MAMA 어워즈’에 출연해 ‘올해의 앨범’ 부문을 차지하며 ‘MA]]></content:encoded>
+            <title><![CDATA[행복한가요?…기욱 "불행하다고 틀린 것은 아냐" [엑's 인터뷰③] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001667314</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001667314</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[([엑's 인터뷰②]에 이어) 그룹 원위 멤버 기욱과 함께 '소년의 파란' 속으로 들어가 봤다. 기욱이 최근 발표한 두 번째 솔로 미니 앨범 '現像(현상) : 소년의 파란'은 영화의 한 장면 한 장면처럼 다채로운 이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뉴진스·세븐틴, 누구도 손가락질 할 수 없는 'MAMA' 대상 [종합] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004975624</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004975624</guid>
-            <pubDate>Wed, 29 Nov 2023 22:12:05 GMT</pubDate>
-            <content:encoded><![CDATA["저희 진짜 손가락질 많이 받던 그룹이었는데". 걸그룹 뉴진스와 보이그룹 세븐틴이 '2023 MAMA AWARDS'에서 대상을 수상했다. 이제는 누구도 부정할 수 없는 K팝 대장들이다. 지난 29일 일본 도쿄돔에서]]></content:encoded>
+            <title><![CDATA[100% 과몰입 유발…기욱 "문별 누나와 좋은 시너지" [엑's 인터뷰②] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001667313</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001667313</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[([엑's 인터뷰①]에 이어) 그룹 원위 멤버 기욱이 그룹 마마무 문별과 수록곡 '보도블록123'을 통해 호흡 맞춘 소감을 전했다. 기욱의 새 솔로 앨범 '現像(현상) : 소년의 파란'은 지난 4월 발표한 첫 번째]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가슴 울리는 방탄소년단 진 '어비스' 아이튠즈 20개국 1위 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003198577</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003198577</guid>
-            <pubDate>Wed, 29 Nov 2023 22:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[방탄소년단(BTS) 진의 자작곡 '어비스'(Abyss)가 아이튠즈(iTunes)에서 또다시 1위를 차지하며 뜨거운 인기를 과시했다. 진의 '어비스'는 최근 파퓨아뉴기니(Papua New Guinea) '아이튠즈 톱]]></content:encoded>
+            <title><![CDATA[기욱, 또 증명한 '천재 모먼트'…"자작곡 8곡 애착 多" [엑's 인터뷰①] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001667312</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001667312</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 원위 멤버 기욱이 청춘의 여러 이야기를 담은 두 번째 솔로 앨범을 발표하며 또 한 번 음악적 역량을 입증했다. 최근 두 번째 미니 앨범 '現像(현상) : 소년의 파란'을 발표한 기욱은 엑스포츠뉴스와 만나 컴백]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[르세라핌 페이보릿 댄스 퍼포먼스상 “더 멋진 공연 보여줄 것” [MAMA AWARDS] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000797975</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000797975</guid>
-            <pubDate>Wed, 29 Nov 2023 21:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[르세라핌이 3개국어로 수상소감을 전했다. 11월 29일 오후 일본 도쿄돔에서 개최된 '2023 MAMA AWARDS'에서 르세라핌이 페이보릿 댄스 퍼포먼스 여자 그룹을 수상했다. 르세라핌은 "좋은 상 주셔서 너무 감]]></content:encoded>
+            <title><![CDATA[[팝업★]세븐틴 승관 '2023 MAMA' 눈물바다 만든 먹먹 소감 "故문빈 너무 고마워" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003667540</link>
+            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003667540</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[세븐틴 승관이 故문빈을 언급하며 눈물을 보여 많은 이들을 눈물 짓게 만들었다. 29일 오후 일본 도쿄돔에서 '2023 마마 어워즈(2023 MAMA AWARDS)'가 개최된 가운데, 세븐틴이 '올해의 앨범상'을 수상]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['고추 먹방' 류승룡 열고 'MAMA 첫 대상' 세븐틴 닫았다..2023 'MAMA' [★NEWSing] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003198572</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003198572</guid>
-            <pubDate>Wed, 29 Nov 2023 21:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[연말 음악 시상식 '2023 MAMA AWARDS'가 막을 내렸다. 지난 29일 일본 도쿄 돔에서 '2023 MAMA AWARDS' 챕터2가 펼쳐졌다. '2023 MAMA AWARDS' 둘째 날 라인업에 이름을 올린]]></content:encoded>
+            <title><![CDATA[약속의 방탄소년단, '재재계약+2025년 완전체' 이게 되네 [엑's 이슈] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001667311</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001667311</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 방탄소년단(BTS)이 '2025년 완전체' 약속을 지킨다. 소속사 빅히트 뮤직은 지난 22일 RM, 지민, V, 정국이 병역의무 이행을 위한 절차를 시작했다고 밝혔다. 이후 29일 RM과 뷔가 오는 12월 11]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“‘미스트롯’ 때 절실함 또 느껴져” 서혜진 PD가 말한 ‘현역가왕’의 맛 [IS인터뷰] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003315949</link>
-            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003315949</guid>
-            <pubDate>Wed, 29 Nov 2023 21:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[“‘미스트롯’을 처음 제작했을 때 받았던 출연자들의 진짜 간절함이 느껴졌습니다. 잘 될 것이라는 확신이 생겼죠.” MBN 새 서바이벌 트롯쇼 ‘현역가왕’ 기획, 제작을 맡은 크레아스튜디오의 서혜진 PD는 이렇게 말했]]></content:encoded>
+            <title><![CDATA[강수지, ♥김국진과 함께면 어디든 좋아 “온천이라도 갈까 했는데 집도 좋다” (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0001007244</link>
+            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0001007244</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[출처 | 유튜브 ‘강수지tv 살며사랑하며배우며’ 가수 강수지가 앞으로의 계획을 밝혔다. 29일 유튜브 채널 ‘강수지tv 살며사랑하며배우며’에는 ‘2023년 가기 전에 집 정리 어떠세요?’라는 영상이 게재됐다. 강수지]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["힘들면 내게 기대요♥" 이찬원 '연리지' 1300만뷰 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003198571</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003198571</guid>
-            <pubDate>Wed, 29 Nov 2023 21:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[가수 이찬원의 '연리지' 무대 영상이 1300만 뷰를 달성하며 인기를 빛냈다. 지난 2021년 3월 6일 이찬원 공식 유튜브 채널에 공개된 '연리지' 영상은 11월 29일 기준 1300만 뷰를 넘어섰다. 영상에는 이]]></content:encoded>
+            <title><![CDATA['2023 AAA' 인기상 D-DAY..임영웅·김세정 독주→이준호vs강다니엘 박빙 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003198588</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003198588</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[가수 임영웅과 걸 그룹 사쿠라자카46, 가수 겸 배우 이준호, 배우 김세정이 '2023 AAA' 인기상 1위를 달리고 있다. 30일 오전 8시 기준, 팬들이 직접 뽑는 '2023 Asia Artist Awards I]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방예담, '온리 원'이라는 성장일기…솔로 뮤지션의 묵직한 존재감[스타S] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000462540</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000462540</guid>
-            <pubDate>Wed, 29 Nov 2023 21:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[솔로 뮤지션으로 새 출발한 방예담이 자신만의 음악과 감성으로 존재감을 각인시켜 나가고 있다. 방예담은 지난 23일 첫 솔로 앨범 '온리 원'을 발매했다. 2013년 SBS 'K팝스타 2'에 출연했을 당시 '한국의 저]]></content:encoded>
+            <title><![CDATA[제로베이스원, 데뷔 4개월만 'MAMA' 신인상 단독 수상..쾌속 흥행 질주 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003667535</link>
+            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003667535</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[ZEROBASEONE(제로베이스원)이 데뷔 4개월 만에 신인상 3관왕을 달성하며 쾌속 흥행 질주를 이어가고 있다. ZEROBASEONE(성한빈, 김지웅, 장하오, 석매튜, 김태래, 리키, 김규빈, 박건욱, 한유진)은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[RE스타] 박진영 전성시대 열렸다…가수 컴백→‘골든걸스’ 프로듀싱도 ‘성공적’ ① (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003315944</link>
-            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003315944</guid>
-            <pubDate>Wed, 29 Nov 2023 21:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[올해로 데뷔 30주년을 맞은 가수 박진영이 다시 대중의 주목을 끌어오고 있다. 지난 20일 박진영은 디지털 싱글 ‘체인지드 맨’을 발매하며 약 1년 만에 전격 컴백했다. 컴백 시기에 맞춰 박진영은 가수 인순이, 박미]]></content:encoded>
+            <title><![CDATA[세븐틴, '2023 MAMA 어워즈' 첫 대상 수상 "참 오래 걸렸다" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=408&amp;aid=0000207964</link>
+            <guid>https://entertain.naver.com/now/read?oid=408&amp;aid=0000207964</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:19 GMT</pubDate>
+            <content:encoded><![CDATA["저희 세븐틴, 대상까지 참 오래 걸렸다. 시작부터 손가락질 많이 받았다. 눈앞에서 모두가 절대 안 될 거라고 했었는데…" 그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[줌인] 스키즈→베몬, 데뷔곡부터 직접 참여...왜 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003315943</link>
-            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003315943</guid>
-            <pubDate>Wed, 29 Nov 2023 21:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[K팝 아이돌 그룹들에서 데뷔 때부터 작사 또는 작곡에 참여하는 멤버들이 늘고 있다. 기존 아이돌 그룹 멤버들이 연차가 쌓이면서 차츰 앨범 작업에 참여하는 것과 비교되는 흐름이다. 과거 기획사들이 특정 멤버의 개인적]]></content:encoded>
+            <title><![CDATA["피어나에 감사해"…르세라핌, 이래서 '페이보릿 글로벌 댄스 퍼포먼스 여자 그룹'→MAMA서 역대급 무대 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003791795</link>
+            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003791795</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[걸그룹 르세라핌(LE SSERAFIM 김채원, 사쿠라, 허윤진, 카즈하, 홍은채)이 29일 일본 도쿄돔에서 개최된 '2023 MAMA 어워즈'에서 '페이보릿 글로벌 댄스 퍼포먼스 여자 그룹(FAVORITE GLOBA]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[싸이커스(xikers), 콘셉츄얼한 무대로 도쿄돔 꽉 채웠다!···‘2023 MAMA AWARDS’ 출연 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000928711</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000928711</guid>
-            <pubDate>Wed, 29 Nov 2023 21:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[아이돌그룹 싸이커스(xikers)가 콘셉츄얼한 무대와 화려한 퍼포먼스로 도쿄돔을 꽉 채웠다. 싸이커스는 지난 28일 일본 도쿄돔에서 개최된 ‘2023 마마 어워즈(2023 MAMA AWARDS)’에 출연하여 강렬한]]></content:encoded>
+            <title><![CDATA[헤이즈X10CM, ‘입술’ 피처링 뒷얘기 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000928723</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000928723</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[가수 헤이즈(Heize)가 10CM와 겨울 감성을 선사한다. 헤이즈는 지난 29일 오후 공식 SNS를 통해 미니 8집 ‘Last Winter’의 타이틀곡 ‘입술(Feat. 10CM)’ 비하인드 인터뷰 영상을 공개했다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[은평문화회관 김광석과 친구들’ 연말 콘서트 12월2일 개최 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000928710</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000928710</guid>
-            <pubDate>Wed, 29 Nov 2023 21:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[은평문화재단(이사장 김미경)이 대한민국의 대표 싱어송 라이터로 많은 사랑을 받은 가수 故김광석의 음악을 만나볼 수 있는 ‘김광석과 친구들’ 콘서트를 오는 12월 2일 오후 5시에 은평문화예술회관 공연장에서 개최한다.]]></content:encoded>
+            <title><![CDATA[이층버스, 12월 2일 K2 김성면-러브홀릭 지선과 함께 연말 콘서트 개최 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001667306</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001667306</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:19 GMT</pubDate>
+            <content:encoded><![CDATA['선행 밴드' 이층버스가 올겨울을 따뜻하게 만들어 줄 연말 콘서트를 개최한다. 모던뮤직 엔터테인먼트에 따르면, 이층버스는 오는 12월 2일 오후 6시 수원 광교 IAM 센터에서 연말 콘서트 '이층버스의 겨울음악여행']]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[트레저, 글로벌 상승세 무섭다…스포티파이 누적 스트리밍 10억 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000462537</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000462537</guid>
-            <pubDate>Wed, 29 Nov 2023 21:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 트레저가 음원 플랫폼 스포티파이에서 10억 스트리밍을 넘어서며 높아진 글로벌 인기를 확인시켰다. 소속사 YG엔터테인먼트는 스포티파이에서 트레저가 2020년 데뷔 이후 지금까지 발표한 음원의 총 누적 스트리밍이]]></content:encoded>
+            <title><![CDATA[알렉사, 美 ‘징글볼 투어’ 공연 성료…글로벌 광폭 행보 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000797989</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000797989</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[가수 알렉사(AleXa)가 '징글볼 투어'에서 존재감을 보여줬다. 알렉사는 11월 29일(한국시간) 미국 댈러스에서 펼쳐진 '2023 아이하트라디오 징글볼 투어'(iHeartRadio Jingle Ball Tour,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뉴진스, 애플뮤직 연말차트서 독보적 성과…K팝 가수로 최다곡 진입 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000462536</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000462536</guid>
-            <pubDate>Wed, 29 Nov 2023 21:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[뉴진스가 애플 뮤직 2023년 글로벌 연말 차트에 K팝 아티스트 중 가장 많은 곡을 올려놓으며 K팝 대표주자의 위상을 다시 한 번 보여줬다. 29일 애플 뮤직이 발표한 2023년 연말 차트(집계 기간/2022년 11]]></content:encoded>
+            <title><![CDATA[제베원, 데뷔 4개월 만에 신인상 3관왕 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000928721</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000928721</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[‘5세대 아이콘’ ZEROBASEONE(제로베이스원)이 데뷔 4개월 만에 신인상 3관왕을 달성하며 쾌속 흥행 질주를 이어가고 있다. ZEROBASEONE(성한빈, 김지웅, 장하오, 석매튜, 김태래, 리키, 김규빈,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[나르샤, 한달만에 신곡 발표…"남녀 플러팅 담은 신나는 음악" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000462535</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000462535</guid>
-            <pubDate>Wed, 29 Nov 2023 21:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[브라운 아이드 걸스 나르샤가 새로운 매력을 담은 신곡을 발표한다. 소속사 스타잇엔터테인먼트에 따르면 나르샤는 12월 9일 새 싱글 '게임'을 발표한다. 지난 18일 싱글 '블러시' 이후 22일 만에 내놓는 신곡이다.]]></content:encoded>
+            <title><![CDATA[“이변 없었다” 세븐틴, MAMA 대상 포함 5관왕 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000928720</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000928720</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[“저희 세븐틴, 대상까지 참 오래 걸렸다. 시작부터 손가락질 많이 받았다. 눈앞에서 모두가 절대 안 될 거라고 했었는데…” 그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[유승우, ‘사운드트랙#2’ OST 첫 가창자···‘When I Saw You’ 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000928704</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000928704</guid>
-            <pubDate>Wed, 29 Nov 2023 21:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[가수 유승우가 ‘사운드트랙#2’ OST의 첫 번째 가창자로 참여했다. 29일 각종 온라인 음원 사이트를 통해 유승우가 참여한 디즈니+ 오리지널 시리즈 ‘사운드트랙#2’의 선공개 OST ‘When I Saw You(웬]]></content:encoded>
+            <title><![CDATA[제로베이스원, '2023 마마 어워즈' 신인상 "♥제로즈=우리의 세상" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003791793</link>
+            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003791793</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 제로베이스원(ZEROBASEONE)이 데뷔 4개월 만에 신인상 3관왕을 달성했다. 제로베이스원(성한빈, 김지웅, 장하오, 석매튜, 김태래, 리키, 김규빈, 박건욱, 한유진)은 지난 29일 일본 도쿄돔에서 개최된]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김범수, 임헌일과 손잡았다…메이크20 프로젝트 신곡 '꿈일까' 12월 4일 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000462534</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000462534</guid>
-            <pubDate>Wed, 29 Nov 2023 19:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[가수 김범수가 5개월 만에 신곡을 발표한다. 소속사 영엔터테인먼트에 따르면 김범수는가 오는 12월 4일 메이크 트웬티(MAKE20) 열두 번째 음원 '꿈일까'를 발표한다. 이에 앞서 김범수는 지난 28일 공식 SNS]]></content:encoded>
+            <title><![CDATA[세븐틴, MAMA서 첫 대상 수상 "캐럿 덕에 재계약…영광 돌리고파" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001667301</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001667301</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 '2023 MAMA 어워즈'에서 데뷔 8년 만에 대상의 주인공이 됐다. 세븐틴은 지난 28~29일 이틀]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[DK(디셈버), 12월 연말 콘서트 ‘D-DAY’ 개최 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000928701</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000928701</guid>
-            <pubDate>Wed, 29 Nov 2023 19:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[가수 DK(디셈버)가 2024 새해 카운트다운을 팬들과 함께 한다. DK는 오는 12월 30일과 31일 양일간 서울 영등포구에 위치한 명화 라이브홀에서 2023 DK 단독 콘서트 ‘D-DAY(디-데이)’를 개최한다.]]></content:encoded>
+            <title><![CDATA[1만 관객 홀렸다! 알렉사, 美 '징글볼 투어' 댈러스 공연 성황 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003198587</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003198587</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[가수 알렉사(AleXa)가 미국 대표 음악 페스티벌 '징글볼 투어' 무대에서 존재감을 빛냈다. 알렉사는 11월 29일(한국시간) 미국 댈러스에서 펼쳐진 '2023 아이하트라디오 징글볼 투어'(iHeartRadio J]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한 해 국악계를 돌아보는 ‘KBS국악대상’ (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000928699</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000928699</guid>
-            <pubDate>Wed, 29 Nov 2023 19:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[오는 12월 30일 오후 12시 10분에 KBS에서 ‘2023 KBS국악대상’이 방송된다. 1982년부터 시작해 40년이 넘는 역사를 자랑하는 KBS국악대상은 지난 9월부터 해당 분야의 음악가, 공연기획자, 국악 관]]></content:encoded>
+            <title><![CDATA[10CM "헤이즈의 '입술', 대놓고 너무 슬픈 노래"…피처링 비하인드 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003791792</link>
+            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003791792</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[가수 헤이즈(Heize)가 29일 미니 8집 'Last Winter'의 타이틀곡 '입술(Feat. 10CM)' 비하인드 인터뷰 영상을 공개했다. 공개된 영상에는 헤이즈와 '입술' 피처링에 참여한 10CM가 만나 이야]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[나의 인생곡(148)] 임수정 '연인들의 이야기', 아련한 추억과 향수 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=629&amp;aid=0000251969</link>
-            <guid>https://entertain.naver.com/now/read?oid=629&amp;aid=0000251969</guid>
-            <pubDate>Wed, 29 Nov 2023 19:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[미스코리아 전북 포토제닉 수상 모델로 연예계 입문 TV 드라마 '아내' OST로 소개돼 폭발적 인기에 시동 80년대 초 가요계는 예쁘고 부드러운 목소리의 주인공이 혜성처럼 등장했다. 여고를 갓 졸업한 뒤 미스코리아에]]></content:encoded>
+            <title><![CDATA["참 오래 걸렸습니다" 세븐틴, 데뷔 8년만 'MAMA 어워즈' 첫 대상..5관왕 "캐럿들에게 영광" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003198586</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003198586</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:19 GMT</pubDate>
+            <content:encoded><![CDATA["저희 세븐틴, 대상까지 참 오래 걸렸다. 시작부터 손가락질 많이 받았다. 눈앞에서 모두가 절대 안 될 거라고 했었는데…" 그룹 세븐틴(SEVENTEEN·에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 진 생일 기념 中팬들 '김석진 도서관' 이어 책 2000권 기부..따뜻한 나눔 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003198582</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003198582</guid>
-            <pubDate>Wed, 29 Nov 2023 22:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[방탄소년단(BTS) 진의 생일(12월 4일)을 맞아 중국 팬들이 특별한 나눔 행사로 의미를 더했다. 진의 중국 팬베이스(@ArmyJin_J1)는 진의 생일을 맞아 농촌 지역 학생들을 위해 도서 2000권을 기부했다.]]></content:encoded>
+            <title><![CDATA[[종합] '애둘맘' 김나영 "내가 살림의 여왕? 살림, 어렵고 힘들고 귀한데 티 안 나는 일" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000638779</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000638779</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[방송인 김나영이 살림에 대한 생각을 전했다. 김나영은 29일 유튜브 채널 '김나영의 nofilterTV'를 통해 '살림 여왕 김나영의 꿀팁 가득한 랜선 집들이 중간 점검'이라는 제목의 영상을 게재했다. 이날 김나영은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[다채로워진 色…‘스위트홈’ 시즌2 공개·다크비 컴백 [오늘의 프리뷰] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000970464</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000970464</guid>
-            <pubDate>Wed, 29 Nov 2023 22:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[바쁘게 돌아가는 연예계에서 오늘도 다양한 작품이 소개되고 새롭게 돌아오는 아티스트가 대중 앞에 서는 가운데, 오늘의 주요 일정을 알아본다. 다채로워진 캐릭터와 세계관…‘스위트홈’ 시즌2 넷플릭스 시리즈 ‘스위트홈’]]></content:encoded>
+            <title><![CDATA[이장우, 10년 전→후 비교해보니..."살 많이 쪘다" 굴욕 ('나혼산') (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004084329</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004084329</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[MBC '나 혼자 산다' 이장우가 10년 만에 찾은 아지트에서 힐링을 만끽한다. 이장우의 아지트가 어디인지 궁금한 가운데, 먹이를 찾는 '불곰'처럼 바다 향기 가득한 자연 속 산책을 즐기는 이장우의 모습이 포착돼 폭]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] 민우혁 “‘레미제라블’ 장발장 캐스팅 이유? 빵 훔쳐먹게 생겼다고” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0005222823</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0005222823</guid>
-            <pubDate>Wed, 29 Nov 2023 22:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[뮤지컬 ‘레미제라블’ 장발장 役 “꿈의 배역, 이렇게 빨리 출연하게 될 줄 상상 못해” “마지막 공연에서 후회없이 울고 싶어” 뮤지컬 배우 민우혁(본명 박성혁·40)이 8년만에 뮤지컬 ‘레미제라블’ 무대에 다시 오른]]></content:encoded>
+            <title><![CDATA[‘8년 만 컴백’ 신동엽→조이현X주우재, ‘2023 KBS 연예대상’ MC (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001090992</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001090992</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[방송인 신동엽과 배우 조이현, 모델 출신 방송인 주우재가 '2023 KBS 연예대상' MC로 나선다. 30일 KBS 측은 "오는 12월 23일에 방송되는 '2023 KBS 연예대상'에서 신동엽, 조이현, 주우재가 진]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[MAMA서 뭉친 Mnet 3대, 황민현·전소미·ZB1 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0007206599</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0007206599</guid>
-            <pubDate>Wed, 29 Nov 2023 22:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[=뉴스1) = 워너원 출신 황민현(왼쪽부터)과 아이오아이 출신 전소미, 제로베이스원이 28일과 29일 양일간 일본 도쿄돔에서 열린 ‘2023 마마 어워즈(2023 MAMA AWARDS)’에서 포즈를 취하고 있다. 2]]></content:encoded>
+            <title><![CDATA[이장우 “2023년 안식년 곧 끝나”…관리 중인 근황 공개 (나혼산) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001090991</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001090991</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[MBC ‘나 혼자 산다’ 이장우가 10년 만에 찾은 아지트에서 힐링을 만끽한다. 이장우의 아지트가 어디인지 궁금한 가운데, 먹이를 찾는 ‘불곰’처럼 바다 향기 가득한 자연 속 산책을 즐기는 이장우의 모습이 포착돼 눈]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['MAMA' 휩쓴 하이브...'신인' 뉴진스·'9년차' 세븐틴 첫 대상[말말말] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0005108015</link>
-            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0005108015</guid>
-            <pubDate>Wed, 29 Nov 2023 22:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[하이브 소속 가수들이 ‘2023 마마(MAMA) 어워즈’를 휩쓸었다. 신인 뉴진스가 4개의 대상 중 무려 2개를 들어올렸고, 데뷔 9년차 세븐틴은 첫 대상을 거머쥐었다. ‘2023 마마 어워즈’가 지난 28일과 29]]></content:encoded>
+            <title><![CDATA['이재, 곧 죽습니다' 퇴폐미는 김재욱 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000369018</link>
+            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000369018</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김재욱이 퇴폐미를 가진 화가로 변신한다. 티빙 오리지널 시리즈 '이재, 곧 죽습니다'에서 김재욱은 시크릿 캐스트 중 한 명인 화가 정규철 역을 맡아 12번의 삶과 죽음 속 강렬한 인상을 남길 예정이다. '이재,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박보검·이준호·김지웅, MAMA 빛낸 겨울 왕자 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0007206598</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0007206598</guid>
-            <pubDate>Wed, 29 Nov 2023 22:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[=뉴스1) = 배우 박보검(왼쪽부터)과 이준호, 제로베이스원 김지웅이 28일과 29일 양일간 일본 도쿄돔에서 열린 ‘2023 마마 어워즈(2023 MAMA AWARDS)’에서 왕자님 비주얼에 근사한 매력을 발산하고]]></content:encoded>
+            <title><![CDATA['이제, 곧 죽습니다' 김재욱, 섹시한 천재 화가로 변신 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000638777</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000638777</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김재욱이 독보적인 퇴폐미를 가진 화가로 변신한다. 티빙 오리지널 시리즈 '이재, 곧 죽습니다'에서 김재욱은 시크릿 캐스트 중 한 명인 화가 정규철 역을 맡았다. '이재, 곧 죽습니다'는 지옥으로 떨어지기 직전의]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[뉴스1 ★]‘얼마나 예뻤길래?’ MAMA에서 난리 난 최수영…우아에 섹시까지 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0007206596</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0007206596</guid>
-            <pubDate>Wed, 29 Nov 2023 22:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[=뉴스1) 권현진 기자 = 배우 최수영(소녀시대 수영)이 고급스러운 섹시미를 뽐냈다. 최수영은 29일 일본 도쿄돔에서 열린 ‘2023 마마 어워즈(2023 MAMA AWARDS)’를 찾았다. 가슴 부문이 독특한 실크]]></content:encoded>
+            <title><![CDATA[홍진경 “나 최면부터 꼬인 것 같아” 분노 대폭발 (홍김동전) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001090990</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001090990</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[KBS2 ‘홍김동전’에서 홍진경이 믿을 수 없는 연이은 불운에 분노했다. OTT 플랫폼 웨이브에서 KBS 비드라마 28주 1위(11월 13일 기준), KBS 드라마 비드라마 통합 1위(10월 9일 기준)를 기록한 K]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[황민현·성한빈, Mnet 오디션 출신 ‘대세의 만남’ (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0007206591</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0007206591</guid>
-            <pubDate>Wed, 29 Nov 2023 22:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[=뉴스1) = 워너원 출신 황민현(오른쪽)과 제로베이스원 성한빈이 28일과 29일 일본 도쿄돔에서 열린 ‘2023 마마 어워즈(2023 MAMA AWARDS)’에 각각 참석해 포즈를 취하고 있다. 2023.11.30]]></content:encoded>
+            <title><![CDATA['마이큐♥' 김나영, 거꾸로 붙여진 가훈 공개 "가족에게 가장 다정하자" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000638776</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000638776</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[방송인 김나영이 가훈을 공개했다. 김나영은 29일 유튜브 채널 '김나영의 nofilterTV'를 통해 '살림 여왕 김나영의 꿀팁 가득한 랜선 집들이 중간 점검'이라는 제목의 영상을 게재했다. 김나영은 "오늘 저희 집]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["내 타입 1위 오빠" 방탄소년단 뷔 '내 친오빠, 친형 됐으면 하는 남자 아이돌' 1위 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003198579</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003198579</guid>
-            <pubDate>Wed, 29 Nov 2023 22:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[방탄소년단(BTS)의 뷔가 '내 친오빠, 친형이 되었으면 하는 남자 아이돌' 1위에 오르며 인기를 빛냈다. 뷔는 11월 23일부터 11월 29일까지 팬 커뮤니티 '최애돌'에서 진행된 '내 친오빠/형이 되었으면 하는]]></content:encoded>
+            <title><![CDATA['전 연인' 신동엽·이소라, 20여년만의 만남..."아내 선혜윤 PD가 진짜 대인배" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0007206646</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0007206646</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[한때 연인 사이였던 신동엽과 이소라의 20여년 만의 만남이 예고된 가운데, 신동엽의 아내인 선혜윤 MBC PD에 대해 "대인배"라는 반응이 이어지고 있다. 지난 29일 신동엽이 옛 연인인 슈퍼모델 출신 방송인 이소라]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[윤도현→남우현·조정민, 남모를 암 투병 고백한 스타들 [MK★이슈] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000970461</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000970461</guid>
-            <pubDate>Wed, 29 Nov 2023 22:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[연예계 활동을 왕성히 했던 스타들이 남모를 아픔을 삼키고 견뎌내며 대중들 앞에 섰다. 윤도현, 이정, 남우현, 조정민이 최근 암 투병을 했다는 사실을 밝히면서 자신들과 똑같이 아픔을 견디는 이들에게 용기와 희망을 심]]></content:encoded>
+            <title><![CDATA[‘서울의 봄’ 문화가있는날 34만 관람..누적 271만 분노 [IS차트] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003315965</link>
+            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003315965</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[황정민 정우성 주연 영화 ‘서울의 봄’이 문화가 있는 날 34만명을 동원하며 박스오피스 1위를 지켰다. 30일 영진위 영화관입장권통합전산망에 따르면 ‘서울의 봄’은 문화가 있는 날인 29일 34만 6747명을 동원하]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["찾아가고 배회하고"… 정동원·오유진·김다현, 미성년자인데[김유림의 연예담] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000965667</link>
-            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000965667</guid>
-            <pubDate>Wed, 29 Nov 2023 22:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[아직 미성년자인 스타들을 향한 도넘은 사생팬의 행동이 눈살을 찌푸리게 하고 있다. 사생팬은 좋아하는 연예인의 일거수일투족을 알아내려고 밤낮없이 연예인을 쫓아다니며 생활하는 사람들을 의미한다. 물론 팬 없는 연예인은]]></content:encoded>
+            <title><![CDATA[인피니트 남우현, 기스트암 수술→은퇴 고민…솔로 컴백하기까지 (종합)[DA:인터뷰] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001090989</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001090989</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[“제가 올해 4월 말에 큰 수술을 했어요. ‘기스트암’이라고 희귀암인데요. 10시간 전신마취 수술로 복부를 20cm가량 갈랐어요. 두 달 동안 밥도 못 먹고 고생 아닌 고생을 했죠.” 그룹 인피니트 멤버 남우현(32]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘남산의부장’ OTT순위 재진입…‘서울의봄’ 인기에 근현대사 콘텐츠 열풍 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001090976</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001090976</guid>
-            <pubDate>Wed, 29 Nov 2023 22:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[황정민·정우성이 주연한 ‘서울의 봄’의 파급력이 거세다. 개봉 7일 만에 236만 명을 돌파하며 흥행 질주하고 있는 가운데 영화의 모티브가 된 12·12 군사반란 등 현대사를 다룬 각종 콘텐츠까지 재조명받고 있다.]]></content:encoded>
+            <title><![CDATA["이변없었다" 세븐틴, 데뷔 8년만 대상…승관 "故 문빈 고마워" 눈물('MAMA') (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004084323</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004084323</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 세븐틴이 데뷔 8년 만에 대상의 주인공이 됐다. 세븐틴은 지난 28~29일 이틀간 일본 도쿄 돔에서 진행된 '2023 마마 어워즈'에 출연해 '올해의 앨범' 부문을 차지하며 '마마 어워즈'에서 첫 대상을 받았다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김세정·영케이·선미 심사평…촌철살인, 때로는 위로 ‘인기’ (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001090975</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001090975</guid>
-            <pubDate>Wed, 29 Nov 2023 22:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[가수 겸 배우 김세정, 밴드 데이식스의 멤버 영케이, 가수 선미 등이 다양한 음악 서바이벌 예능프로그램의 심사위원으로 활약하고 있다. 가수 윤종신, 윤하, 김이나 작사가 등 심사 경력이 많은 출연자 사이에서도 냉철하]]></content:encoded>
+            <title><![CDATA[마니아층 넘어선 대중화 노린다…두뇌 예능, OTT 타고 '활활' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0014362417</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0014362417</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:26 GMT</pubDate>
+            <content:encoded><![CDATA['데블스 플랜'·'여고추리반'·'크라임씬' 등 새 시즌 공개 예정 오명언 기자 이승미 인턴기자 = '428+591+972+…+603+298 = ?' 서울대 치과대학을 다니다가 다시 수능을 보고 만점으로 서울대 의과대]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘3일의 휴가’ 김해숙 “‘국민 엄마’? 세상의 모든 엄마 연기하고 파” [인터뷰] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001090974</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001090974</guid>
-            <pubDate>Wed, 29 Nov 2023 22:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[김해숙(67)이 ‘국민 엄마’라는 타이틀의 저력을 입증한다. 최근 인기리에 종영한 JTBC ‘힘쎈여자 강남순’에 이어 영화 ‘3일의 휴가’까지 주연작을 연이어 내놓으며 올겨울 꽉 채운다. ‘힘쎈여자 강남순’에서 딸,]]></content:encoded>
+            <title><![CDATA[제로베이스원, ‘MAMA’서 신인상…“인생에 단 한 번뿐, 수상 기뻐” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001090988</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001090988</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 ZEROBASEONE(제로베이스원)이 데뷔 4개월 만에 신인상 3관왕을 달성했다. ZEROBASEONE(성한빈, 김지웅, 장하오, 석매튜, 김태래, 리키, 김규빈, 박건욱, 한유진)은 지난 29일 일본 도쿄돔에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[르세라핌·에스파 ‘캐럴’…추위 녹여줄 시즌송 러시 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001090973</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001090973</guid>
-            <pubDate>Wed, 29 Nov 2023 22:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[‘겨울 시즌송’의 계절이 돌아왔다. 해마다 이맘때쯤 겨울 분위기가 물씬 풍기는 시즌송이 잇따라 공개돼 한겨울 추위를 따뜻하게 녹인다. 올해는 케이팝을 대표하는 인기 걸그룹 에스파와 르세라핌이 시즌송을 선보인다. 눈길]]></content:encoded>
+            <title><![CDATA[[뉴스1 ★]‘드레스 가격만 4300만원’ 박은빈, 성공한 ‘MAMA의 디바’ (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0007206640</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0007206640</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[=뉴스1) 권현진 기자 = 배우 박은빈이 고아한 미소로 아름다운 자태를 풍겼다. 박은빈은 29일 일본 도쿄돔에서 열린 ‘2023 마마 어워즈(2023 MAMA AWARDS)’에 시상자로 참석했다. 살짝 웨이브가 있는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[16기 영숙 '동치미' 출연에 시청자 뿔났다…제작진 "논란 전 녹화, 편집 논의"[종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004084301</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004084301</guid>
-            <pubDate>Wed, 29 Nov 2023 22:12:12 GMT</pubDate>
-            <content:encoded><![CDATA['나는 솔로' 16기 출연자 영숙이 '동치미'에 출연 한다는 소식에 시청자들의 반대 목소리를 쏟아냈고, 제작진이 서둘러 입장을 밝혔다. 최근 온라인 커뮤니티 사이트를 중심으로 '나는 솔로' 16기 출연자 영숙이 '동]]></content:encoded>
+            <title><![CDATA[수영, 파격 앞트임 드레스로 드러낸 섹시미 [N샷] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0007206633</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0007206633</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[가수 겸 배우 수영이 파격 디자인의 드레스로 섹시한 매력을 드러냈다. 수영은 30일 자신의 사회관계망서비스(SNS) 계정에 "MAMA 2023 오늘따라 더 보고싶어"라는 글과 함께 여러 장의 사진을 게재했다. 이어]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘고려 거란 전쟁’, 2049시청자도 움직인 비결 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001090972</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001090972</guid>
-            <pubDate>Wed, 29 Nov 2023 22:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[KBS 2TV ‘고려 거란 전쟁’의 기세가 무섭다. 고려 8대 왕 현종(김동준)이 강감찬 장군(최수종) 등과 함께 거란의 침략을 이겨내는 과정을 담아 시청률 상승 가도를 달리고 있다. 빠른 속도로 그린 전쟁 이야기를]]></content:encoded>
+            <title><![CDATA[장동민, 사업가+포커 선수 근황 공개 “글로벌 기업과 얘기 중” (라스)[TV종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001090987</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001090987</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[‘라디오스타’에 출연한 장동민, 박재정, 정용화, 권은비가 웃기지 않을 것 같은 분위기도 웃음으로 가득 채웠다. 지난 29일 방송된 MBC ‘라디오스타’(기획 강영선/연출 김명엽)는 장동민, 박재정, 정용화, 권은비]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빅마마 이영현 “강아지는 절대적 생명체…인형·장난감 아니에요” [MK★사소한 인터뷰] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000970459</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000970459</guid>
-            <pubDate>Wed, 29 Nov 2023 22:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[반려동물 인구 1500만 시대. 이제는 ‘가족’이라고 여길 만큼 반려동물은 많은 이들의 일상에서 큰 역할을 하고 있습니다. 봐도 봐도 계속 보고 싶은, 반려인에게 반려동물은 늘 자랑거리이자 사랑덩어리인데요. 스타들의]]></content:encoded>
+            <title><![CDATA['4세 고시'에 정형돈, "만 3살인데…". '월 2백만원' 영어유치원 보내기 열풍 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004084322</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004084322</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[월 200만원 영어유치원에 보내기 위한 '4세 고시'에 정형돈이 안타까움을 드러냈다. 29일 방송된 KBS 2TV 예능프로그램 '옥탑방의 문제아들'(이하 '옥문아들')에는 한국사 일타강사 전한길이 게스트로 출연했다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“선생님 저랑 게임한판 하시겠습니까”[일타쌍피 스토리노믹스] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=032&amp;aid=0003264453</link>
-            <guid>https://entertain.naver.com/now/read?oid=032&amp;aid=0003264453</guid>
-            <pubDate>Wed, 29 Nov 2023 22:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[※소설, 영화, 연극, 뮤지컬, 웹툰 등 재미있는 이야기가 넘쳐나는 시대입니다. 그런데 이야기만 소비하기에는 뭔가 부족함을 느낄 때가 없던가요? 이야기 속에 숨어있는 다양한 경제적, 사회적 읽을거리가 더해진다면 훨씬]]></content:encoded>
+            <title><![CDATA[‘컴백 D-DAY’ 다크비, 오늘(30일) 미니 7집 ‘HIP’ 발매 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001090986</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001090986</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 다크비(DKB)가 다크한 변신을 담은 신보를 선보인다. 다크비(이찬, 디원, 지케이, 희찬, 룬, 준서, 유쿠, 해리준)는 오늘(30일) 오후 6시 각종 음원 사이트를 통해 미니 7집 'HIP'(힙)을 발매한다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[오동진 영화만사] ‘더 이퀄라이저3’는 왜 OTT로 직행했을까? (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003315951</link>
-            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003315951</guid>
-            <pubDate>Wed, 29 Nov 2023 22:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[댄젤 워싱턴 주연의 ‘더 이퀄라이저3’가 극장 개봉없이 VOD와 웨이브 등 OTT로 직행한 것이 못내 이상했다. 그래서 일부러 OTT에서 꺼내 봤다. 1만원을 냈다. 꽤 비싸다고 생각했지만 그래도 미개봉작이고, 극장]]></content:encoded>
+            <title><![CDATA[청룡의 여인 김혜수답게 떠났다...'아름다웠던 그 시절의 우릴' 박진영과 함께 멋진 피날레 [청룡영화상] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004084321</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004084321</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[청룡의 여인 김혜수의 청룡영화상 마지막 무대, 2부 감독상 시상 이후 축하 공연을 위해 무대에 오른 박진영은 파격적인 퍼포먼스로 관중석에 앉아 있던 배우들을 깜짝 놀라게 만든 뒤 두 번째 노래 'When We Dis]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[선우용녀, 연예계 최초 '혼전임신'..."사랑한다면 피임은 꼭"(고딩엄빠4)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004084296</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004084296</guid>
-            <pubDate>Wed, 29 Nov 2023 21:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[배우 선우용여가 혼전임신으로 결혼한 연예인 1호임을 밝혀졌다. 29일 방송된 MBN 예능프로그램 '어른들은 모르는 고딩엄빠4'에는 배우 선우용여가 게스트로 출연했다. 이날 MC 박미선은 친한 선우용여의 출연에 바로]]></content:encoded>
+            <title><![CDATA[마음 확인한 차은우♥박규영→키스…저주 풀었다 (사랑스럽개)[TV종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001090985</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001090985</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[‘오늘도 사랑스럽개’ 박규영이 차은우와의 저주를 풀었다. 지난 29일 밤 9시 방송된 MBC 수요드라마 ‘오늘도 사랑스럽개’(연출 김대웅/ 극본 백인아/ 제작 그룹에이트, 판타지오/ 제작 투자 에이앤이 코리아) 8회]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가요만 챌린지 있나..‘서울의 봄’에 부는 ‘심박수 챌린지’ [줌인] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003315950</link>
-            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003315950</guid>
-            <pubDate>Wed, 29 Nov 2023 21:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[‘챌린지’라는 단어를 들었을 때 사람들은 가장 먼저 무엇을 떠올릴까. 아마 신곡의 하이라이트 안무를 따라 추는 ‘댄스 챌린지’일 것이다. 많은 아티스트의 홍보 수단으로 자리 잡은 ‘댄스 챌린지’는 SNS와 온라인 커]]></content:encoded>
+            <title><![CDATA[17기 순자, '♥직진' 영식의 영숙 선택에 극대노 "복수하나" ('나는 솔로') [SC리뷰] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004084320</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004084320</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:26 GMT</pubDate>
+            <content:encoded><![CDATA['나는 SOLO(나는 솔로)' 17기에서 최종 선택을 코앞에 두고 역대급 '로맨스 대격변'이 펼쳐졌다. 29일(수) 방송한 SBS Plus와 ENA의 리얼 데이팅 프로그램 '나는 SOLO'에서는 '슈퍼 데이트' 후]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“‘미스트롯’ 때 절실함 또 느껴져” 서혜진 PD가 말한 ‘현역가왕’의 맛 [IS인터뷰] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003315949</link>
-            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003315949</guid>
-            <pubDate>Wed, 29 Nov 2023 21:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[“‘미스트롯’을 처음 제작했을 때 받았던 출연자들의 진짜 간절함이 느껴졌습니다. 잘 될 것이라는 확신이 생겼죠.” MBN 새 서바이벌 트롯쇼 ‘현역가왕’ 기획, 제작을 맡은 크레아스튜디오의 서혜진 PD는 이렇게 말했]]></content:encoded>
+            <title><![CDATA[“지금 복수하는건가?”...‘나는 솔로’ 17기 최종 선택 앞두고 대격변 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003315963</link>
+            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003315963</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[‘나는 솔로’ 17기에서 최종 선택을 코앞에 두고 역대급 ‘로맨스 대격변’이 펼쳐졌다. 29일 방송한 SBS Plus와 ENA의 리얼 데이팅 프로그램 ‘나는 솔로’에서는 ‘슈퍼 데이트’ 후 러브라인이 송두리째 바뀐]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘독전2’ 차승원이 올라운더라 불리는 이유…“새로운 모습 보여주는 게 미덕” [IS인터뷰] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003315948</link>
-            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003315948</guid>
-            <pubDate>Wed, 29 Nov 2023 21:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[“대중에게 새로운 모습을 보여주는 게 배우의 미덕 아닐까요.” 모델로 데뷔해 드라마, 영화를 통해 배우로서 성공적인 커리어를 쌓았고, 이제는 예능까지 섭렵했다. 성공한 ‘올라운더’의 표본인 배우 차승원의 이야기다.]]></content:encoded>
+            <title><![CDATA['일타 스캔들' 노윤서, 알고보니 노출 섹시파? 블랙 보디슈트로 '한국형 시스루룩' 완성 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004084319</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004084319</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[알고보니 노출 섹시파? 배우 노윤서의 532만원대 전신 시스루 드레스 활용법이 화제다. 지난 29일 일본 도쿄돔에서 열린 '2023 마마 어워즈'(2023 MAMA AWARDS)에는 노윤서가 참석해 자리를 빛냈다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[IS리뷰] ‘3일의 휴가’ 예상보다 담백하고 신민아는 예쁘고 여운은 짙다 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003315946</link>
-            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003315946</guid>
-            <pubDate>Wed, 29 Nov 2023 21:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[눈물즙을 짜내는 뻔하디 뻔한 영화가 아니다. ‘3일의 휴가’는 세상을 떠난 엄마와 남겨진 딸의 이야기를 중심축으로 잡되, 사람이 사는 데 필요한 것들, 삶을 지탱하는 것들을 따뜻한 시선으로 바라본다. 예상보다 담백하]]></content:encoded>
+            <title><![CDATA[심형탁♥사야 “내년엔 베이비와 함께”→2세 기원 (신랑수업)[TV종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001090984</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001090984</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[‘신랑수업’ 심형탁-사야 부부와 신성-박소영 커플이 아주 특별한 가을 여행을 떠났다. 지난 29일 방송된 채널A ‘요즘 남자 라이프-신랑수업(이하 ‘신랑수업’)’ 92회에서는 심형탁-사야 부부의 경남 사천 여행이 펼]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[할리웃POP]"난 20대, 80대 남친과 결혼 No"..알 파치노 아이 낳은 여친, 결혼 안한다 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003667536</link>
+            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003667536</guid>
+            <pubDate>Wed, 29 Nov 2023 23:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[알 파치노(83)의 아이를 낳은 누르 알팔라(29)가 결혼할 계획은 없다고 못 박았다. 30일(한국시간) 미국 연예매체 페이지 식스 등 외신에 따르면 누르 알팔라는 최근 파파라치로부터 "알 파치노와 언제 결혼할 것이]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[故 폴 워커, 교통사고 참변 벌써 10년...빈 디젤 여전한 그리움 "보고싶다" [Oh!llywood] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
@@ -1607,13 +1614,6 @@
             <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0014360852</guid>
             <pubDate>Wed, 29 Nov 2023 03:15:26 GMT</pubDate>
             <content:encoded><![CDATA["시상식 원고 무단편집돼"…휴대폰 보며 원본 읽어 "트럼프, 재임때 3만여번 거짓말…재선 위해 '보복 캠페인' 박차" 미국 할리우드 배우 로버트 드니로(80)가 한 영화제 시상식에서 단단히 화가 났다. 자신이 출연한]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[日 모델, 44세에 다섯째 임신 “이번에도 고령출산, 무리 않을 것” (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000797681</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000797681</guid>
-            <pubDate>Wed, 29 Nov 2023 03:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[일본 모델 스즈키 사치가 44세에 다섯째 임신했다. 스즈키 사치는 11월 28일 개인 소셜미디어에 D라인을 드러낸 사진을 공개, 다섯째 임신 소식을 직접 알렸다. 스즈키 사치는 "이번에 다섯째 아이가 되는 새로운 생]]></content:encoded>
         </item>
     </channel>
 </rss>
