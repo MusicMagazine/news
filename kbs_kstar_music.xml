@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 23:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Dec 2023 00:53:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멜론뮤직어워드(MMA2023), 오늘 인천에서 열린다... "레드카펫, 화려한 라인업"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=291697</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=291697</guid>
+            <pubDate>Sat, 02 Dec 2023 00:52:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=291697">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231202085054_e41d939811775ed4d9449ec5c3ddbb51.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=291697">멜론뮤직어워드(MMA2023), 오늘 인천에서 열린다... "레드카펫, 화려한 라인업"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231202085054_e41d939811775ed4d9449ec5c3ddbb51.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["뮤지컬 스타일~" 김준수-김소현-정선아, '프랭크 와일드혼'표 크리스마스 캐럴]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=291382</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=287435">갓세븐 영재, 첫 솔로 정규 ‘Do It’.. 오늘 발매</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231106071737_cd5d9525c45b0024a09b640d7f8dbac6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[르세라핌, 게임축제 ‘블리즈컨 2023’ 피날레 장식]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=287375</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=287375</guid>
-            <pubDate>Sun, 05 Nov 2023 06:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=287375">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231105141411_f231550714dad3592921af4e4ce455e1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=287375">르세라핌, 게임축제 ‘블리즈컨 2023’ 피날레 장식</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231105141411_f231550714dad3592921af4e4ce455e1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
