@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2023-12-02T04:14:22.628Z</updated>
+    <updated>2023-12-02T05:11:33.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[티모시 샬라메, "지금까지 했던 작품 중 '웡카'가 제일 재밌어" [할리웃통신]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001278912</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001278912"/>
+        <updated>2023-12-02T05:11:32.931Z</updated>
+        <content type="html"><![CDATA[할리우드 인기 배우 티모시 샬라메(27)가 자신의 '최애' 작품으로 영화 '웡카'를 꼽았다. 티모시 샬라메는 1일 영국 BBC TV쇼 '그레이엄 노턴 쇼'에 출연해 영화 '웡카'에 대한 이야기를 나눴다. '웡카'는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['결혼 11주년' 앤 해서웨이, 남편과 '커플 문신' [할리웃통신]]]></title>
         <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001278910</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000970765"/>
         <updated>2023-12-01T08:17:47.363Z</updated>
         <content type="html"><![CDATA[있지(ITZY) 예지, 류진, 채령, 유나가 1일 오후 프로모션 일정 참석 차 김포공항을 통해 일본으로 출국했다. 출국 전 포토타임 갖는 있지 예지. 김포공항(서울)=천정환 MK스포츠 기자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[류진 ‘일본으로 출발’]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000970764</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000970764"/>
-        <updated>2023-12-01T08:17:47.365Z</updated>
-        <content type="html"><![CDATA[있지(ITZY) 예지, 류진, 채령, 유나가 1일 오후 프로모션 일정 참석 차 김포공항을 통해 일본으로 출국했다. 출국 전 포토타임 갖는 있지 류진. 김포공항(서울)=천정환 MK스포츠 기자]]></content>
     </entry>
 </feed>
