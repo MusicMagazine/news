@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2023-12-02T13:15:08.049Z</updated>
+    <updated>2023-12-02T14:10:44.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[셀레나 고메즈, 비밀 룸메이트 공개..."매일 요리도 해줘" [할리웃통신]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001278941</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001278941"/>
+        <updated>2023-12-02T14:10:44.077Z</updated>
+        <content type="html"><![CDATA[배우 겸 가수 셀레나 고메즈(31)가 조부모님과 함께 살고 있다고 밝혔다. 셀레나 고메즈는 최근 요리 프로그램 '셀레나+ 셰프(Selena+ Chef)' 새 시즌을 앞두고 소셜네트워크서비스를 통해 팬들과 소통했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[브리트니 스피어스 '전라누드' 누가 찍어줬나? 모래사장 그림자 포착 [MD★스타]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003792343</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004976946"/>
         <updated>2023-12-02T01:50:02.316Z</updated>
         <content type="html"><![CDATA[배우 맥컬리 컬킨이 아들을 공개해 관심을 모으고 있다. 맥컬리 컬킨은 지난 1일(현지 시각) 미국 캘리포니아 로스앤젤레스 할리우드에서 열린 할리우드 명예의 거리에 입성했다. 이날 그는 아내, 아들과 함께 등장했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘나홀로 집에’ 맥컬리 컬킨, 미모의 아내+두 아들과 명예의 전당 입성 “닮았네”[해외이슈]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003792254</id>
-        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003792254"/>
-        <updated>2023-12-02T01:50:02.317Z</updated>
-        <content type="html"><![CDATA[영화 ‘나홀로 집에’로 유명한 맥컬리 컬킨(42)이 명예의 전당에 입성했다. 1일(현지시간) 연예매체 피플에 따르면, 컬킬은 아내 브렌다 송(34), 두 아들(2살과 1살)과 함께 할리우드 명예의 거리에서 스타를 수]]></content>
     </entry>
 </feed>
