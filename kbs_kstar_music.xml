@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Dec 2023 23:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 00:58:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[황치열, '찬란한 겨울' MV 티저 공개... 겨울앨범 'I LOVE WINTER' 11일 발매]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=291922</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=291922</guid>
+            <pubDate>Mon, 04 Dec 2023 00:57:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=291922">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231204074942_034051c28c2cb4f5610acd9e043847c9_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=291922">황치열, '찬란한 겨울' MV 티저 공개... 겨울앨범 'I LOVE WINTER' 11일 발매</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231204074942_034051c28c2cb4f5610acd9e043847c9_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[투모로우바이투게더, 고척돔에서 월드투어 피날레]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=291905</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=287958">라이즈 ‘Get A Guitar’ 영어 버전, 오늘 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231109090658_92571d1a11079489934d60f9eceba5c9_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장]  보이그룹 '휘브'(WHIB).. "화이트에서 블랙까지, 씨제스의 색깔"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=287899</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=287899</guid>
-            <pubDate>Wed, 08 Nov 2023 09:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=287899">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231108173829_fad795e691537ec53ea76194e9f3d9a3.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=287899">[현장]  보이그룹 '휘브'(WHIB).. "화이트에서 블랙까지, 씨제스의 색깔"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231108173829_fad795e691537ec53ea76194e9f3d9a3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
