@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-12-04T12:26:43.351Z</updated>
+    <updated>2023-12-04T14:12:24.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최민환·율희, 결혼 5년 만에 파경…"신중 고민 끝에 이혼"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0014371170</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0014371170"/>
+        <updated>2023-12-04T14:12:11.110Z</updated>
+        <content type="html"><![CDATA[밴드 FT아일랜드의 드러머 최민환과 걸그룹 라붐 출신 율희가 결혼 5년 만에 파경을 맞았다. 최민환의 소속사 FNC엔터테인먼트는 4일 "두 사람이 신중한 고민 끝에 이혼을 결정했고, 이혼조정절차를 진행 중"이라며 "]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴진스 ‘디토’ 스포티파이 5억 스트리밍]]></title>
         <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003881656</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000929658"/>
         <updated>2023-12-04T09:13:41.526Z</updated>
         <content type="html"><![CDATA[아이돌그룹 티아이오티(TIOT)가 발매 예정인 겨울 시즌송이자 새 디지털 싱글의 단체 사진을 깜짝 공개했다. 티아이오티(김민성, 금준현, 홍건희, 최우진)는 오늘(4일) 자정 공식 SNS 채널을 통해 발매 예정 신곡]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헤이즈, 이진욱과 '감성 시너지'…'입술' MV 티저 오픈]]></title>
-        <id>https://entertain.naver.com/now/read?oid=030&amp;aid=0003162769</id>
-        <link href="https://entertain.naver.com/now/read?oid=030&amp;aid=0003162769"/>
-        <updated>2023-12-04T09:13:41.526Z</updated>
-        <content type="html"><![CDATA[가수 헤이즈(Heize)와 배우 이진욱이 감성 시너지를 예고했다. 헤이즈는 4일 오후 6시 공식 SNS를 통해 여덟 번째 미니 'Last Winter' 타이틀곡 '입술(Feat. 10CM)' 뮤직비디오 티저 영상을]]></content>
     </entry>
 </feed>
