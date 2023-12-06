@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2023-12-06T16:20:27.035Z</updated>
+    <updated>2023-12-06T19:14:37.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영김 "김치 사랑해주세요"…美의회서 '코리안 소울푸드' 홍보(종합)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0014376128</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0014376128"/>
+        <updated>2023-12-06T19:14:30.194Z</updated>
+        <content type="html"><![CDATA['김치데이 지지 결의안' 대표발의자로 하원 본회의장서 발언 조준형 강병철 특파원 = 한국계인 영 김 미국 연방하원의원(공화·캘리포니아)이 6일(현지시간) 하원 본회의에서 한국 전통 음식인 김치를 '한국 요리 아이콘']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영김 "김치 많이 사랑해주세요"…美하원서 '김치데이' 지정촉구]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0014376118</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0005226405"/>
         <updated>2023-12-06T14:12:06.739Z</updated>
         <content type="html"><![CDATA[‘나는 솔로’ 17기 순자가 영식에 서운함이 폭발했다. 6일 방송된 ENA(이엔에이)와 SBS PLUS의 리얼 데이팅 프로그램 ‘나는 SOLO’에서는 17기 순자가 영식의 선택에 분노한 모습이 전파를 탔다. 이날 데]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[순자, 영숙 선택한 영식에 분노 "동네 발발이 개같았나봐" ('나는 솔로')]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0004086599</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0004086599"/>
-        <updated>2023-12-06T14:12:06.740Z</updated>
-        <content type="html"><![CDATA['나는솔로' 순자가 영식에 배신감을 토로했다. 6일 방송된 SBS PLUS, ENA '나는솔로'에서는 17기의 최종선택이 그려졌다. 남자들의 데이트 선택이 끝난 후, 순자는 "광수가 옥순 언니를 선택한 거보다 영식이]]></content>
     </entry>
 </feed>
