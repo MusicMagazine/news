@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 22:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 01:56:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["이것이 K-뮤지컬!" 이성준, 창작뮤지컬 ‘베르사유의 장미’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=292337</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=292337</guid>
+            <pubDate>Wed, 06 Dec 2023 01:55:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=292337">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231206084031_9e3f3480c50e20d1b46a47d8d5839676.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=292337">"이것이 K-뮤지컬!" 이성준, 창작뮤지컬 ‘베르사유의 장미’ </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231206084031_9e3f3480c50e20d1b46a47d8d5839676.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[책] ‘설자은, 금성으로 돌아오다’ “통일신라시대, 탐정놀이하는 자은이” (정세랑 지음/문학동네)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=292229</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=291079">"메리 'DAY6'마스"  DAY6, 크리스마스 스페셜 단독 콘서트</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231128134049_c1e2f6d58e444075cfa20cd521536eee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김세정 연극 도전, '템플' 캐스팅... 자폐 극복한 동물학자 '템플 그랜딘']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=291059</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=291059</guid>
-            <pubDate>Tue, 28 Nov 2023 04:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=291059">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231128130848_739129a4c30c26146088ea1e44a7894c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=291059">김세정 연극 도전, '템플' 캐스팅... 자폐 극복한 동물학자 '템플 그랜딘'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231128130848_739129a4c30c26146088ea1e44a7894c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
