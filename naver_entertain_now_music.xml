@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-12-07T15:13:39.329Z</updated>
+    <updated>2023-12-07T17:12:14.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[EPEX(이펙스), 내년 2월 첫 일본 제프투어 개최···5개 도시 8회 공연 확정]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000930527</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000930527"/>
+        <updated>2023-12-07T17:12:00.795Z</updated>
+        <content type="html"><![CDATA[아이돌그룹 EPEX(이펙스)가 첫 일본 제프투어에 나선다. 이펙스(위시, 금동현, 뮤, 아민, 백승, 에이든, 예왕, 제프)는 내년 2월 3일 도쿄를 시작으로 5일 후쿠오카, 7일 오사카, 8일 나고야, 11일 요코]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[잠골버스, 10일 새 노래 ‘라라라’ 발매···컴백 당일 콘서트서 무대 최초 공개]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000930522</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001669981"/>
         <updated>2023-12-07T13:20:02.672Z</updated>
         <content type="html"><![CDATA[뉴진스 해린의 '엘르' 화보가 눈길을 끈다. 7일 패션 미디어 '엘르'는 뉴진스 해린이 스페셜 프로젝트 '디 에디션(D Edition)'의 커버를 장식했다고 밝혔다. '엘르 디 에디션(ELLE D Edition)'은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍다빈, 13일 발매 신곡 ‘Tic Tac?’으로 글로벌 소통 예고]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000930490</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000930490"/>
-        <updated>2023-12-07T13:20:02.673Z</updated>
-        <content type="html"><![CDATA[글로벌 뮤지션 홍다빈이 신곡으로 돌아온다. 홍다빈은 지난 6일 공식 SNS 계정을 통해 프리세이브(Pre-save) 프로모션 링크를 깜짝 게재하며, 신곡 ‘Tic Tac?’의 발매 소식을 전했다. 지난 10월 신규]]></content>
     </entry>
 </feed>
