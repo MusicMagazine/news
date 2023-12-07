@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-12-07T18:15:57.819Z</updated>
+    <updated>2023-12-07T19:10:43.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤직카우, 자체 채용 플랫폼인 ‘뮤직카우 인재영입 사이트’ 오픈]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000930533</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000930533"/>
+        <updated>2023-12-07T19:10:26.959Z</updated>
+        <content type="html"><![CDATA[음악수익증권 플랫폼을 운영하는 뮤직카우가 자체 채용 플랫폼을 오픈하고, 적극적인 인재 확보에 나섰다. 뮤직카우는 음악수익증권 발행을 위해 지난해부터 금융, 정보보안 전문가 영입을 시작으로 사업 전분야에 걸쳐 인재 확]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이무진, 신곡 ‘에피소드’ 포토 티저 첫 공개]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000930531</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0012255140"/>
         <updated>2023-12-07T13:20:02.666Z</updated>
         <content type="html"><![CDATA[K팝 간판 걸그룹 '블랙핑크'와 일본의 세계적인 그래픽 디자이너 무라카미 다카시가 협업했다. 7일 엔터테인먼트 인프라·지식재산권(IP) 사업 기업 YG 플러스(PLUS)에 따르면, 블랙핑크가 무라카미와 컬래버레이션한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아티스트 250, 미국 ‘SXSW 2024’ 공식 초청]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000930494</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000930494"/>
-        <updated>2023-12-07T13:20:02.667Z</updated>
-        <content type="html"><![CDATA[한국 DJ이자 프로듀서 ‘250(이오공)’이 미국 ‘SXSW(사우스바이사우스웨스트) 2024’에 공식 초청되었다. ’250’은 미국 시간으로 6일 공식 발표된 SXSW 2024 1차 라인업에 이름을 올렸다. 이로써]]></content>
     </entry>
 </feed>
