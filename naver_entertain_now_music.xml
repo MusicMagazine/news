@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-12-09T17:10:52.754Z</updated>
+    <updated>2023-12-09T21:12:06.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅 '사랑은 늘 도망가' MV 1700만뷰]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003200761</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003200761"/>
+        <updated>2023-12-09T21:11:38.463Z</updated>
+        <content type="html"><![CDATA[가수 임영웅의 '사랑은 늘 도망가' 뮤직비디오가 1700만 뷰를 달성하며 인기를 빛냈다. 2021년 10월 11일 공개된 '사랑은 늘 도망가' 뮤직비디오는 12월 9일 조회수 1700만 뷰를 넘어섰다. '사랑은 늘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[빅스, 더 개척해서 또 다를 10년의 출발선[TF인터뷰]]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000253831</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005634936"/>
         <updated>2023-12-09T10:11:55.439Z</updated>
         <content type="html"><![CDATA[가수 나르샤가 지난달 18일 ‘BLUSH’ 이후 22일 만에 새 앨범을 발매한다. 나르샤의 소속사 스타잇엔터테인먼트는 9일 “가수 나르샤가 지난달 발매한 ‘BLUSH’와는 정반대의 곡인 ‘GAME’을 오늘(9일) 공]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오드벤처' 컴백→MCND, 일본 팬미팅 개최 확정했다]]></title>
-        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003793967</id>
-        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003793967"/>
-        <updated>2023-12-09T08:18:20.536Z</updated>
-        <content type="html"><![CDATA[보이그룹 MCND(엠씨엔디, 캐슬제이, 빅, 민재, 휘준, 윈)가 2024년 1월 7일과 14일 일본 오사카, 도쿄에서 '2024 MCND FANMEETING IN JAPAN ODD-VENTURE(2024 MCND]]></content>
     </entry>
 </feed>
