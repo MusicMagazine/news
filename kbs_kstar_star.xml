@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 22:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Dec 2023 00:57:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["흥이 난다,  신이 난다" 뮤지컬 '시스터 액트']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=292749</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=292749</guid>
+            <pubDate>Sat, 09 Dec 2023 00:56:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=292749">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231209074217_f9273a52ce25d06ed053e08b17f33b8f.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=292749">"흥이 난다,  신이 난다" 뮤지컬 '시스터 액트'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231209074217_f9273a52ce25d06ed053e08b17f33b8f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['배우' 정수정, 영화 '거미집'으로 춘사국제영화제 여우조연상 수상]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=292678</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=291220">김선영, JTBC드라마 ‘끝내주는 해결사’ 캐스팅.. 이혼 해결업체 대표 ‘손장미’</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231129073508_b17e1506627c1723126fd227049de03e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[서평] ‘영화를 빨리 감기로 보는 사람들’.. 한줄 요약 "'얕은 감상’과 ‘알기 쉬운 것'을 추구하는 현대인" (이나다 도요시 지음)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=291128</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=291128</guid>
-            <pubDate>Tue, 28 Nov 2023 09:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=291128">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231128172717_738b6fd2c1a404d49a469408dd8271a2.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=291128">[서평] ‘영화를 빨리 감기로 보는 사람들’.. 한줄 요약 "'얕은 감상’과 ‘알기 쉬운 것'을 추구하는 현대인" (이나다 도요시 지음)</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231128172717_738b6fd2c1a404d49a469408dd8271a2.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
