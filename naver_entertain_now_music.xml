@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-12-10T19:14:03.971Z</updated>
+    <updated>2023-12-10T20:12:51.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단 RM·뷔, 오늘 입소…"영감·배움의 시기"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012258592</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0012258592"/>
+        <updated>2023-12-10T20:12:37.642Z</updated>
+        <content type="html"><![CDATA[글로벌 슈퍼 그룹 '방탄소년단'(BTS)이 2025년 완전체 활동 재개를 위한 순차적인 군입대가 막바지에 이르렀다. 11일 K팝 업계에 따르면, RM과 뷔는 이날 충남 논산훈련소에 입소한다. 뷔는 육군 수도방위사령부]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[TMA 인터뷰] 보이넥스트도어 "2023년, 훗날 되돌아보면 힘이 될 한 해"]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000253909</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0014382009</id>
         <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0014382009"/>
         <updated>2023-12-10T14:14:16.008Z</updated>
-        <content type="html"><![CDATA[그룹 제로베이스원이 10일 오후 서울 송파구 잠실실내체육관에서 열린 2023~2024 한국방문의 해 기념 K·Link 페스티벌에서 공연하고 있다. 2023.12.10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K·Link 페스티벌 무대 오른 제로베이스원]]></title>
-        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0014382008</id>
-        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0014382008"/>
-        <updated>2023-12-10T14:14:16.009Z</updated>
         <content type="html"><![CDATA[그룹 제로베이스원이 10일 오후 서울 송파구 잠실실내체육관에서 열린 2023~2024 한국방문의 해 기념 K·Link 페스티벌에서 공연하고 있다. 2023.12.10]]></content>
     </entry>
 </feed>
