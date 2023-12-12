@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2023-12-12T18:21:01.143Z</updated>
+    <updated>2023-12-12T20:15:37.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[TV10] 스트레이키즈 '비주얼 자체가 판타지']]></title>
+        <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000640490</id>
+        <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000640490"/>
+        <updated>2023-12-12T20:15:31.284Z</updated>
+        <content type="html"><![CDATA[그룹 스트레이키즈(방찬, 창빈, 리노, 현진, 한, 필릭스, 승민, 아이엔)가 '2023 아시아 아티스트 어워즈 인 필리핀' 참석을 위해 13일 오전 인천국제공항을 통해 필리핀으로 출국했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ITZY 유나, 살아있는 인형...명품 각선美]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003201335</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=030&amp;aid=0003165082"/>
         <updated>2023-12-12T16:15:29.239Z</updated>
         <content type="html"><![CDATA[방송인 기안84가 12일 오후 서울 송파구 롯데시네마 월드타워에서 진행된 영화 '노량: 죽음의 바다' VIP시사회에 참석했다. 배우 김윤석, 백윤식, 정재영, 허준호, 김성규, 이규형, 이무생, 최덕문, 안보현, 박]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 주현영, '초롱초롱한 눈빛']]></title>
-        <id>https://entertain.naver.com/now/read?oid=030&amp;aid=0003165081</id>
-        <link href="https://entertain.naver.com/now/read?oid=030&amp;aid=0003165081"/>
-        <updated>2023-12-12T16:15:29.241Z</updated>
-        <content type="html"><![CDATA[배우 주현영이 12일 오후 서울 송파구 롯데시네마 월드타워에서 진행된 영화 '노량: 죽음의 바다' VIP시사회에 참석했다. 배우 김윤석, 백윤식, 정재영, 허준호, 김성규, 이규형, 이무생, 최덕문, 안보현, 박명훈]]></content>
     </entry>
 </feed>

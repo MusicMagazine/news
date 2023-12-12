@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-12-12T18:21:01.145Z</updated>
+    <updated>2023-12-12T20:15:37.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[피원하모니 '폴 인 러브 어게인', 美미디어베이스 톱40 진입…K팝 보이그룹 4번째]]></title>
+        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000464315</id>
+        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000464315"/>
+        <updated>2023-12-12T20:15:23.434Z</updated>
+        <content type="html"><![CDATA[그룹 피원하모니가 미국 라디오 차트에 진입하는 쾌거를 이뤘다. 피원하모니의 디지털 싱글 '폴 인 러브 어게인'이 지난 10일 미국 라디오 차트 미디어베이스가 발표한 '톱 40' 차트(집계기간 12월 3일~9일)에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[34세 자이언티 "늘 연애에 관심 있다…부모님이 결혼 언제 하냐고"]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012263135</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000464304"/>
         <updated>2023-12-12T11:14:33.787Z</updated>
         <content type="html"><![CDATA[따마(THAMA)가 콘서트를 벌인다. 최근 정규 2집 '우프!'(WOOOF!)로 활발한 활동을 펼치는 따마는 오는 30일 오후 7시 서울 한남동 현대카드 언더스테이지에서 '현대카드 큐레이티드 91 따마'를 개최한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다니엘 시저, 내한공연 3시간 전 취소 "공개할 수 없는 이유" [공식]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003794548</id>
-        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003794548"/>
-        <updated>2023-12-12T11:14:33.788Z</updated>
-        <content type="html"><![CDATA[캐나다 출신 가수 다니엘 시저의 내한 콘서트가 돌연 취소됐다. 공연기획사 라이브네이션 코리아는 12일 공식계정을 통해 "⁠예기치 못한 상황의 전개로 인해, 12월 12일 2회차 다니엘 시저 내한공연이 취소]]></content>
     </entry>
 </feed>
