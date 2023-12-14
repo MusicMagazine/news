@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 23:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 01:56:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[황인엽, JTBC드라마 '조립식 가족' 캐스팅... 정형외과 레지던트 ‘김산하’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=293380</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=293380</guid>
+            <pubDate>Thu, 14 Dec 2023 01:55:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=293380">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231214074147_6b10914d7744a974bff45ce9bde792a3.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=293380">황인엽, JTBC드라마 '조립식 가족' 캐스팅... 정형외과 레지던트 ‘김산하’ </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231214074147_6b10914d7744a974bff45ce9bde792a3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 '겨울나그네' 시츠프로브 생중계... "최인호 소설, 뮤지컬로 본다"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=293323</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=291048">이영애, 지휘봉을 들다.. '엘르' 화보 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231128111607_e3cf46ece861daefdeb766ad799b7e1d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MAMA2023] 르세라핌, ‘걸그룹 퍼포먼스 최강자’의 위용]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=291397</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=291397</guid>
-            <pubDate>Thu, 30 Nov 2023 01:56:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=291397">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231130081256_c8706648cad8bb2cd5df88c2c15ce685_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=291397"> [MAMA2023] 르세라핌, ‘걸그룹 퍼포먼스 최강자’의 위용</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231130081256_c8706648cad8bb2cd5df88c2c15ce685_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
