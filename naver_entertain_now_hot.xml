@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2023-12-15T17:15:19.797Z</updated>
+    <updated>2023-12-15T18:15:39.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NCT 정우 “무대에 있을 때 살아있음을 느껴” [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001094313</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0001094313"/>
+        <updated>2023-12-15T18:15:32.279Z</updated>
+        <content type="html"><![CDATA[NCT 정우 “무대에 있을 때 살아있음을 느껴” [화보] NCT 정우가 함께한 아레나 옴므 플러스 1월호 커버가 공개됐다. 정우는 화보 촬영과 함께 진행된 인터뷰에서 곧 발매를 앞둔 NCT 127 새 앨범에 대한 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강미나, 빠빠빠 빨간맛 [화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001094312</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001280428"/>
         <updated>2023-12-15T14:12:05.257Z</updated>
         <content type="html"><![CDATA[그룹 '투모로우바이투게더' 연준이 15일 오후 서울 영등포구 KBS 신관에서 진행된 '2023 뮤직뱅크 글로벌 페스티벌' 레드카펫에 참석해 포즈를 취하고 있다. 한편, '2023 뮤직뱅크 글로벌 페스티벌'은 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[T포토] 투모로우바이투게더 '숨 쉬는 것보다 자연스러운 애교']]></title>
-        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001280427</id>
-        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001280427"/>
-        <updated>2023-12-15T14:12:05.258Z</updated>
-        <content type="html"><![CDATA[그룹 '투모로우바이투게더'가 15일 오후 서울 영등포구 KBS 신관에서 진행된 '2023 뮤직뱅크 글로벌 페스티벌' 레드카펫에 참석해 포즈를 취하고 있다. 한편, '2023 뮤직뱅크 글로벌 페스티벌'은 2023년 연]]></content>
     </entry>
 </feed>
