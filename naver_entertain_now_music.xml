@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-12-15T14:12:13.308Z</updated>
+    <updated>2023-12-15T15:15:02.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뮤직뱅크 글로벌 페스티벌]뉴진스, 'Ditto'→'Super Shy'·'ETA'로 이어간 열기..히트곡 총망라]]></title>
+        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003670699</id>
+        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003670699"/>
+        <updated>2023-12-15T15:14:47.267Z</updated>
+        <content type="html"><![CDATA[뉴진스가 일본 돔을 뜨겁게 달궜다. 15일 방송된 KBS2 '2023 뮤직뱅크 글로벌 페스티벌' 2부는 MC 로운, 고민시, 이영지의 진행과 함께 일본 베루나돔 녹화방송으로 진행됐다. 뉴진스는 'G.A.T.E'를 주]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤하, 2023년 멜론·애플·구글·노래방까지 연간 차트 최상위권 달성 ‘기염’]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000932162</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003885514"/>
         <updated>2023-12-15T12:23:19.868Z</updated>
         <content type="html"><![CDATA[그룹 싸이커스가 15일 오후 서울 영등포구 여의도 KBS홀에서 진행된 '2023 뮤직뱅크 글로벌 페스티벌' 레드카펫 행사에 참석해 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 크래비티 '멋진 무대 기대하세요!']]></title>
-        <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003885513</id>
-        <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003885513"/>
-        <updated>2023-12-15T12:23:19.868Z</updated>
-        <content type="html"><![CDATA[그룹 크래비티가 15일 오후 서울 영등포구 여의도 KBS홀에서 진행된 '2023 뮤직뱅크 글로벌 페스티벌' 레드카펫 행사에 참석해 포즈를 취하고 있다.]]></content>
     </entry>
 </feed>
