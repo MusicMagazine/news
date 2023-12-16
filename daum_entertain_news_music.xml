@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-12-16T12:22:48.502Z</updated>
+    <updated>2023-12-16T15:15:14.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소송➝탈퇴⋅7년 징크스, 우여곡절의 K팝]]></title>
+        <id>https://v.daum.net/v/20231216222420774</id>
+        <link href="https://v.daum.net/v/20231216222420774"/>
+        <updated>2023-12-16T15:14:42.651Z</updated>
+        <content type="html"><![CDATA[[OSEN=선미경 기자] 전속계약 분쟁부터 탈퇴, 7년차 징크스까지 올 한 해도 다나다난했던 K팝계다. K팝의 위상이 전 세계를 휩쓸고 있지만, 여전히 흔들림이 많았던 올 한 해다. 중소의 기적으로 불렸던 그룹 피프티 피프티는 ‘큐피드(Cupid)’를 남기고 소송으로 얼룩졌고, 장수 그룹 엑소의 일부 멤버들도 SM과 갈등을 겪었다. 새로운 시작을 위해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[무대가 행복한 디바, 스스로 증명한 퀸…그는 ‘엄정화’]]></title>
         <id>https://v.daum.net/v/20231216191110590</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231216100222772"/>
         <updated>2023-12-16T02:25:12.866Z</updated>
         <content type="html"><![CDATA[[OSEN=지민경 기자] 브랜뉴뮤직의 수장 라이머가 안현모와의 이혼 후 이별 노래를 부르다 눈물을 보여 눈길을 끌었다. 라이머는 15일 유튜브 채널 '유브이 방’에서 공개된 ‘[유브이 녹음실] 핏줄’에 출연했다. ‘유브이 녹음실’은 핫한 셀럽들이 녹음실에 방문해 일어나는 에피소드를 담은 페이크 다큐로, 이날 라이머는 그리와 함께 등장했다. 유세윤은 "별]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘1년 2개월만 컴백’ 김종현, 팬 콘서트서 미니 2집 선공개]]></title>
-        <id>https://v.daum.net/v/20231216094416530</id>
-        <link href="https://v.daum.net/v/20231216094416530"/>
-        <updated>2023-12-16T00:55:10.894Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 김종현이 1년 2개월 만에 컴백한다. 김종현은 12월 15일 두 번째 미니앨범 'Brilliant Seasons(브릴리언트 시즌즈)' 프로모션 스케줄러를 공개했다. 스케줄러에 따르면 김종현은 오는 18일부터 21일까지 총 네 가지 버전의 콘셉트 포토를 순차적으로 오픈하며 컴백 열기를 높인다. 이어 22일부터 컴백일인 1월 3일까지]]></content>
     </entry>
 </feed>
