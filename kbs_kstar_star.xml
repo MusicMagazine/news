@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 18:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Dec 2023 00:55:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디즈니 100주년 팝업: 하우스 오브 위시(House of WISH)’ 오픈]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=293629</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=293629</guid>
+            <pubDate>Sat, 16 Dec 2023 00:54:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=293629">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231216092851_2c0993afaed6a53e849f47ee73de55e0.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=293629">디즈니 100주년 팝업: 하우스 오브 위시(House of WISH)’ 오픈</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231216092851_2c0993afaed6a53e849f47ee73de55e0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[황인엽, JTBC드라마 '조립식 가족' 캐스팅... 정형외과 레지던트 ‘김산하’]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=293380</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=291690">발레리나 김주원, 문화체육관광부장관상 수상 (2023 대한민국 문화예술교육 대상)</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231202084231_fb3ee4770834b08907bad645b1862ee5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이영애, 지휘봉을 들다.. '엘르' 화보 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=291048</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=291048</guid>
-            <pubDate>Thu, 30 Nov 2023 22:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=291048">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231128111607_e3cf46ece861daefdeb766ad799b7e1d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=291048">이영애, 지휘봉을 들다.. '엘르' 화보 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231128111607_e3cf46ece861daefdeb766ad799b7e1d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
