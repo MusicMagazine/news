@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2023-12-16T16:18:38.209Z</updated>
+    <updated>2023-12-16T18:14:43.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[티오원, 데뷔 3년 만에 해체 "31일 전속계약 종료" [공식]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0007238269</id>
+        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0007238269"/>
+        <updated>2023-12-16T18:14:35.854Z</updated>
+        <content type="html"><![CDATA[보이그룹 티오원(TO1)이 해체한다. 17일 소속사 웨이크원은 티오원 공식 팬카페에 "티오원 멤버 동건, 찬, 지수, 재 윤, 제이유, 경호, 다이고, 여정은 오랜 기간 심도 있는 논의와 고민 끝에 2023년 12월]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이영자 연말파티에 시상식급 배우 라인업..염정아·김우빈·김태리·류준열에 환호 (전참시)[종합]]]></title>
         <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0004089650</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0007238228"/>
         <updated>2023-12-16T12:22:39.735Z</updated>
         <content type="html"><![CDATA[가수 장윤정이 독감으로 인해 16일 부산 공연을 취소했다. 16일 공연 기획사 밝은누리는 인터파크 티켓을 통해 "16일 KBS부산홀에서 진행될 예정이었던 장윤정 부산콘서트가 아티스트의 심한 독감으로 인해 목상태가 좋]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kim Seonho's 'Charming Dimples' [Ms Album]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=445&amp;aid=0000165059</id>
-        <link href="https://entertain.naver.com/now/read?oid=445&amp;aid=0000165059"/>
-        <updated>2023-12-16T12:22:39.738Z</updated>
-        <content type="html"><![CDATA[Actor Kim Seonho attended the "2023 Asia Artist Awards IN THE PHILIPPINES" hold at the Philippine Arena on December 14.]]></content>
     </entry>
 </feed>
