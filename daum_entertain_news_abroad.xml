@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-12-17T02:36:45.384Z</updated>
+    <updated>2023-12-17T03:15:37.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“가슴 수술 후회” 빅토리아 베컴, 내 딸은 안했으면…]]></title>
+        <id>https://v.daum.net/v/20231217115748615</id>
+        <link href="https://v.daum.net/v/20231217115748615"/>
+        <updated>2023-12-17T03:15:15.682Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]전 잉글랜드 국가대표 축구선수 데이비드 베컴(48)의 아내이자 가수 겸 패션 디자이너인 빅토리아 베컴(49)이 가슴 수술을 후회했다. 그는 16일(현지시간) ‘얼루어’와 인터뷰에서 딸 하퍼 세븐(12세)에게 내면의 아름다움의 중요성에 대한 이야기를 들려주었다고 밝혔다.  몇 년 전 유방 보형물을 제거하기로 한 결정을 딸도 알]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“역시 금사빠” 테일러 스위프트, 열애 5개월만에 ♥트래비스 켈시와 약혼설]]></title>
         <id>https://v.daum.net/v/20231217110531943</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231216142545902"/>
         <updated>2023-12-16T07:12:33.143Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 박서연 기자] 미국 인기 시트콤 '프렌즈'에 출연한 배우 故 매튜 페리의 사인이 공개됐다. 15일(현지시간) 로이터통신, 피플 등 외신에 따르면 미국 로스앤젤레스 카운티 검시국(DME)은 매튜 페리의 사망 원인을 케타민 급성 부작용이라고 결론내렸다. 케타민은 우울증, 불안, 외상 후 스트레스 장애 및 기타 치료하기 어려운 정신 건강]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거액 탈세 국민 여배우, 프랑스 발칵 뒤집었다]]></title>
-        <id>https://v.daum.net/v/20231216141320829</id>
-        <link href="https://v.daum.net/v/20231216141320829"/>
-        <updated>2023-12-16T07:12:33.144Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 프랑스 여배우 이자벨 아자니가 탈세 혐의로 집행유예를 선고 받았다. 12월 14일(현지시간) 버라이어티 등 외신들은 이자벨 아자니가 파리 법원에서 탈세 혐의로 힙행유예 2년과 25만 유로(한화 약 3억5,600만원)의 벌금을 선고 받았다고 보도했다. 프랑스에서 가장 존경받는 배우 중 한 명인 이자벨 아자니는 2016~2017년]]></content>
     </entry>
 </feed>

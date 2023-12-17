@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-12-17T02:36:45.366Z</updated>
+    <updated>2023-12-17T03:15:37.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[테일러 스위프트의 가사엔 특별한 무언가가 있다]]></title>
+        <id>https://v.daum.net/v/20231217115829622</id>
+        <link href="https://v.daum.net/v/20231217115829622"/>
+        <updated>2023-12-17T03:15:05.711Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 전선정 리포터 = '설명불가한 완벽한 존재(A perfect woman that I cannot explain)' 여느 때와 같이 유튜브에서 테일러 스위프트의 무대 영상을 보다가 눈에 들어온 댓글이다. 테일러 스위프트(Taylor Swift·34). 아무리 해외 연예인에 관심이 없더라도 한 번쯤은 이름을 들어봤을 법한 미국의 유명 여]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[티오원, 데뷔 3년만 해체 “31일 계약 종료”]]></title>
         <id>https://v.daum.net/v/20231217105400686</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231217070035173"/>
         <updated>2023-12-16T22:10:59.949Z</updated>
         <content type="html"><![CDATA[이번에는 세금 체납이다. 동방신기, JYJ 출신 가수 겸 배우 박유천이 성추문부터 마약, 소속사 분쟁에 이어 고액 세금 체납자 명단에 올라 망신을 당했다. 14일 국세청은 고액·상습체납자 7966명, 불성실 기부금수령단체 41개, 조세포탈범 31명의 인적사항을 국세청 홈페이지에 공개한 가운데 박유천이 박준규와 함께 이름을 올렸다. 고액·상습 체납자는 체납]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소송➝탈퇴⋅7년 징크스, 우여곡절의 K팝]]></title>
-        <id>https://v.daum.net/v/20231216222420774</id>
-        <link href="https://v.daum.net/v/20231216222420774"/>
-        <updated>2023-12-16T15:14:42.651Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자] 전속계약 분쟁부터 탈퇴, 7년차 징크스까지 올 한 해도 다나다난했던 K팝계다. K팝의 위상이 전 세계를 휩쓸고 있지만, 여전히 흔들림이 많았던 올 한 해다. 중소의 기적으로 불렸던 그룹 피프티 피프티는 ‘큐피드(Cupid)’를 남기고 소송으로 얼룩졌고, 장수 그룹 엑소의 일부 멤버들도 SM과 갈등을 겪었다. 새로운 시작을 위해]]></content>
     </entry>
 </feed>
