@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 22:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 23:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제8회 한국뮤지컬어워즈 후보 발표... 뮤지컬 '멤피스' - '오페라의 유령' - '렛미플라이' 등 후보에 올라]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=294225</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=294225</guid>
+            <pubDate>Tue, 19 Dec 2023 23:13:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=294225">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231220074650_27f9f0e50afed3f42fab588bb632b656.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=294225">제8회 한국뮤지컬어워즈 후보 발표... 뮤지컬 '멤피스' - '오페라의 유령' - '렛미플라이' 등 후보에 올라</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231220074650_27f9f0e50afed3f42fab588bb632b656.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[김선영 '드림팰리스'로 '2023 올해의 여성영화인상’ 연기상 수상]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=293682</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=291720">[화보] 고윤정,  "한때는 초능력학생, 지금은 엘르 커버, 내일은 전공의" (엘르)</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231202093132_5d5f0cb423386039decb6a497d25f231.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 ‘베르사유의 장미’, 음악으로 먼저 만나다... ‘베르사유의 장미’ 뮤지컬 콘서트]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=291702</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=291702</guid>
-            <pubDate>Sat, 02 Dec 2023 00:52:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=291702">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231202090734_28a67db1f6e655a5ac9990d785ca18f1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=291702">뮤지컬 ‘베르사유의 장미’, 음악으로 먼저 만나다... ‘베르사유의 장미’ 뮤지컬 콘서트</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231202090734_28a67db1f6e655a5ac9990d785ca18f1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
