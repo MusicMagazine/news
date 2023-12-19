@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-12-19T17:10:11.923Z</updated>
+    <updated>2023-12-19T18:12:59.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['성발라'부터 '모다 시경'까지…'성시경 위드 프렌즈 - 자, 오늘은 2023']]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012275998</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0012275998"/>
+        <updated>2023-12-19T18:12:43.728Z</updated>
+        <content type="html"><![CDATA[박결 인턴 기자 = 가수 성시경이 특별한 크리스마스 밤을 수놓는다. SBS 소셜 미디어와 '성시경 유튜브 채널'에선 SBS TV 성탄특집 콘서트 '성시경 with friends - 자, 오늘은 2023(이하 '성시경]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[K-알앤비 대표 주자’ NIve(니브), 레코드레이블 Chapter M 설립]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000932869</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0012275841"/>
         <updated>2023-12-19T16:16:05.703Z</updated>
         <content type="html"><![CDATA[이강산 인턴 기자 = 신인 걸그룹 '베이비몬스터'가 팬들에게 연말 기념 선물을 안긴다. 19일 소속사 YG앤터테인먼트(이하 'YG')는 이날 오후 12시 공식 소셜미디어에 '베이비몬스터 - 스페셜 프레젠트 티저'를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[있지, '본투비' 뮤비 유튜브 '트렌딩 월드와이드' 1위]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012275839</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0012275839"/>
-        <updated>2023-12-19T16:16:05.704Z</updated>
-        <content type="html"><![CDATA[박결 인턴 기자 = 그룹 '있지(ITZY)'의 '본 투 비(BORN TO BE)' 뮤직비디오가 유튜브 트렌딩 월드와이드 1위에 올랐다. 지난 18일 공개된 '본 투 비' 뮤비 완편이 당일과 19일 기준 유튜브 뮤직비]]></content>
     </entry>
 </feed>
