@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-12-20T18:15:35.473Z</updated>
+    <updated>2023-12-20T19:12:37.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배너, 새달 가요계 컴백…자체체작 예능 콘텐츠도 공개]]></title>
+        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000465198</id>
+        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000465198"/>
+        <updated>2023-12-20T19:12:22.456Z</updated>
+        <content type="html"><![CDATA['피크타임' 우승팀 배너가 내년 1월 새 음반을 발표하고 가요계로 돌아온다. 배너는 20일 공식 SNS를 통해 자체 제작 예능 콘텐츠 공개를 예고하면서 동시에 2024년 1월 말 가요계 컴백도 함께 예고했다. 지난]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘푸른 하늘의 랩소디’ 부른 록밴드 파나, 2024년 1월 6일 단독 내한 공연 개최]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000933139</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000973666"/>
         <updated>2023-12-20T12:21:25.292Z</updated>
         <content type="html"><![CDATA[빌보드 재팬 이어 오리콘 연말 결산 차트에도 3개 앨범 차트인 빌보드 재팬에 이어 오리콘 연말 결산 차트에 올해 발매한 3개 앨범을 모두 진입시킨 투모로우바이투게더가 4년 연속 오리콘 연말 결산 차트에 이름을 올리면]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클라씨, 데뷔 첫 겨울 시즌송 ‘Winter Bloom’ 공개]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000933083</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000933083"/>
-        <updated>2023-12-20T10:11:13.817Z</updated>
-        <content type="html"><![CDATA[걸그룹 클라씨(CLASS:y)가 데뷔 첫 겨울 시즌송으로 돌아온다. 클라씨는 20일 오후 6시 각종 음원사이트를 통해 겨울 시즌송 ‘Winter Bloom’(윈터 블룸)을 발매했다. ‘Winter Bloom’은 상대]]></content>
     </entry>
 </feed>
