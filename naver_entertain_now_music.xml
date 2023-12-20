@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-12-20T15:14:58.178Z</updated>
+    <updated>2023-12-20T16:18:03.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조동희, 신곡 ‘거울 속의 사람’ 트랙B 발매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000933132</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000933132"/>
+        <updated>2023-12-20T16:17:49.020Z</updated>
+        <content type="html"><![CDATA[“나는 그저 어제처럼 살아가려네. 창을 열고 물을 주고 남은 날들을 돌보며” 레이블 최소우주 대표 조동희의 신곡 ‘거울 속의 사람’ 트랙B가 각종 음원사이트를 통해 20일 공개가 됐다. 동시에 투트랙 프로젝트 공식]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더 크로스, 신곡 ‘바람의 시’ 발매···“대표곡 ‘Don’t Cry‘ 음악적 계보를 잇는 곡”]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000933130</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003203435"/>
         <updated>2023-12-20T10:11:13.818Z</updated>
         <content type="html"><![CDATA[가수 임창정의 아내 서하얀이 오랜만에 근황을 알렸다. 서하얀은 20일 온라인을 통해 한 요가학원에서 개최하는 송년파티 겸 플리마켓 소식을 알렸다. 해당 요가학원은 "한해를 마무리하며 송년파티 겸 플리마켓을 엽니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘라스트, 日 단독 콘서트 ‘투 네버랜드’ 실황 영상 뮤빗서 독점 무료 공개]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000933081</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000933081"/>
-        <updated>2023-12-20T10:11:13.820Z</updated>
-        <content type="html"><![CDATA[아이돌그룹 엘라스트(E’LAST)가 일본에서 열린 단독 콘서트 영상을 공개한다. 엘라스트는 오는 21일 낮 12시 ‘E’LAST JAPAN LIVE CONCERT 2023 ‘to NEVERLAND(투 네버랜드)’ 실]]></content>
     </entry>
 </feed>
