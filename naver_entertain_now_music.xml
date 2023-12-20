@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-12-20T16:18:03.767Z</updated>
+    <updated>2023-12-20T18:15:35.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘푸른 하늘의 랩소디’ 부른 록밴드 파나, 2024년 1월 6일 단독 내한 공연 개최]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000933139</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000933139"/>
+        <updated>2023-12-20T18:15:22.185Z</updated>
+        <content type="html"><![CDATA[수많은 애니메이션 주제가를 담당한 일본을 대표하는 혼성 밴드 파나 (fhána)가 올해 12월에 발매 예정인 EP [Beautiful Dreamer] 축하 기념으로, 오는 1월 6일 서울시 마포구에 서교동에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조동희, 신곡 ‘거울 속의 사람’ 트랙B 발매]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000933132</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000933083"/>
         <updated>2023-12-20T10:11:13.817Z</updated>
         <content type="html"><![CDATA[걸그룹 클라씨(CLASS:y)가 데뷔 첫 겨울 시즌송으로 돌아온다. 클라씨는 20일 오후 6시 각종 음원사이트를 통해 겨울 시즌송 ‘Winter Bloom’(윈터 블룸)을 발매했다. ‘Winter Bloom’은 상대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서하얀, ♥임창정 '주가조작 의혹' 극복? 8개월만 SNS 재개[스타이슈]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003203435</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003203435"/>
-        <updated>2023-12-20T10:11:13.818Z</updated>
-        <content type="html"><![CDATA[가수 임창정의 아내 서하얀이 오랜만에 근황을 알렸다. 서하얀은 20일 온라인을 통해 한 요가학원에서 개최하는 송년파티 겸 플리마켓 소식을 알렸다. 해당 요가학원은 "한해를 마무리하며 송년파티 겸 플리마켓을 엽니다.]]></content>
     </entry>
 </feed>
