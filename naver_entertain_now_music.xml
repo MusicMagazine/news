@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-12-21T14:15:49.701Z</updated>
+    <updated>2023-12-21T15:14:47.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연정, 살벌한 기타 연주에 샌드백 치는 '반전의 싱송라'[TF인터뷰]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000256129</id>
+        <link href="https://entertain.naver.com/now/read?oid=629&amp;aid=0000256129"/>
+        <updated>2023-12-21T15:14:31.985Z</updated>
+        <content type="html"><![CDATA[첫 미니 앨범 '사랑을 사람으로 그린다면' 발매 작사 작곡 편곡에 기타 연주까지 만능 싱어송라이터 어렸을 때부터 신동으로 불리며 이미 평생 함께할 거라고 생각했던 기타연주가, 작사 작곡에 편곡까지 직접 하는 울림 있]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘발라드 여제’ 지아, 27일 백지영 원곡 ‘한참 지나서’ 리메이크 발매]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000933370</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003796365"/>
         <updated>2023-12-21T10:13:32.290Z</updated>
         <content type="html"><![CDATA[그룹 대국남아 출신 가람, 인준, 제이(지환)가 신생 기획사 뉴웨이즈컴퍼니와 전속계약을 체결했다. 뉴웨이즈컴퍼니는 21일 "최근 가람, 인준, 제이와 전속계약을 체결했다"고 밝혔다. 이어 "당사와 새 출발을 하게 된]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나인뮤지스 이유애린 “2016년부터 드레스 봐놨다.. 딸 낳으면 김태희♥비가 갔던 업체로”]]></title>
-        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0001014460</id>
-        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0001014460"/>
-        <updated>2023-12-21T10:13:32.292Z</updated>
-        <content type="html"><![CDATA[출처 | 유튜브 ‘문명특급 - MMTG’ 그룹 나인뮤지스 출신 이유애린이 결혼에 대한 구체적인 계획을 밝혔다. 21일 유튜브 채널 ‘문명특급 - MMTG’에는 ‘(SUB) 아는 사람들는 다 안다는 헬스장에서 연애하는]]></content>
     </entry>
 </feed>
