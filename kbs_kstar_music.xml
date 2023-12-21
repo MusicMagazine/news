@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Dec 2023 23:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 00:55:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT127, 윈터송 ‘Be There For Me’ 발매 기념 생방송]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=294368</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=294368</guid>
+            <pubDate>Thu, 21 Dec 2023 00:54:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=294368">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231221082910_2349160f5ceab5483f3e22dc06dde4b6.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=294368">NCT127, 윈터송 ‘Be There For Me’ 발매 기념 생방송 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231221082910_2349160f5ceab5483f3e22dc06dde4b6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["2024년의 규현" 1월 9일 EP 'Restart' 발매]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=293430</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=289736">거미 투어콘서트 'LOVE'.. 광주에서 스타트 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231120105513_36c61b356b85426fd8bb45221692f8c5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아이브, 첫 월드 투어 '쇼 왓 아이 해브'.. 일본 요코하마 공연 성료]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=289529</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=289529</guid>
-            <pubDate>Sat, 18 Nov 2023 23:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=289529">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231118202713_c6dfc2f7712e2de24b7ca3064bc729f2.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=289529">아이브, 첫 월드 투어 '쇼 왓 아이 해브'.. 일본 요코하마 공연 성료</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231118202713_c6dfc2f7712e2de24b7ca3064bc729f2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
