@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-12-22T02:23:55.590Z</updated>
+    <updated>2023-12-22T03:13:33.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[루시, 웹드 ‘손가락만 까딱하면’ OST ‘찾았다’ 발매]]></title>
+        <id>https://v.daum.net/v/20231222115110258</id>
+        <link href="https://v.daum.net/v/20231222115110258"/>
+        <updated>2023-12-22T03:12:57.435Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 루시, 웹드 ‘손가락만 까딱하면’ OST ‘찾았다’ 발매 [DA:투데이] 밴드 루시(LUCY)가 웹드라마 ‘손가락만 까딱하면’ OST를 선보인다. 루시(LUCY)는 오늘 22일 오후 6시 각종 음원 사이트를 통해 웹드라마 ‘손가락만 까딱하면’ OST 디지털 싱글 ‘찾았다’를 발매한다. ‘찾았다’는 힘 있는 밴드사운드와 세련된 신스의 조합이 돋]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SM, 방송 콘텐츠 제작 '스튜디오 화이트' 신설..'쇼미' 고익조 PD 영입]]></title>
         <id>https://v.daum.net/v/20231222111020779</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231222100608287"/>
         <updated>2023-12-22T01:54:00.946Z</updated>
         <content type="html"><![CDATA[가수 최예나가 새해 컴백을 알렸다. 22일 소속사는 “최예나가 내년 1월 15일 새 앨범을 발매한다”고 밝혔다. 이와 함께 공식 SNS를 통해 커밍순 포스터를 게재하며 새해 컴백을 공식화했다. 포스터에는 까만 밤하늘과 빛나는 별들이 담겨 몽환적인 분위기를 선사한다. 또 가운데 열린 문으로 보이는 핑크색 구름과 오묘한 빛깔의 물결이 사막을 비추며 신비로운 느]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘응급실行’ 최백호, 독감 때문에 생방송 중단…“현재는 증상 호전되어 휴식과 안정 취하는 중”]]></title>
-        <id>https://v.daum.net/v/20231222095621912</id>
-        <link href="https://v.daum.net/v/20231222095621912"/>
-        <updated>2023-12-22T01:54:00.947Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 유다연기자] 가수 최백호(73)가 독감에 확진됐다. SBS 관계자는 22일 스포츠서울에 “최백호씨가 최근 바쁜 공연 스케줄을 소화하며 피로가 누적됨에 따라, 독감 때문에 몸살 증상으로 방송 도중 불가피하게 응급실을 방문했고 치료를 받아 현재는 증상이 호전되어 휴식과 안정을 취하고 있다”고 밝혔다. 이어 “오늘 방송분은 예정되어있던 대로]]></content>
     </entry>
 </feed>
