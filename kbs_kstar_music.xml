@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 23:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Dec 2023 00:53:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보이그룹 '나인아이'(NINE.i), 겨울 시즌송 '크리스마스처럼' 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=294629</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=294629</guid>
+            <pubDate>Sat, 23 Dec 2023 00:52:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=294629">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231223081449_f5050327fee873f417c57243318f87b9.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=294629">보이그룹 '나인아이'(NINE.i), 겨울 시즌송 '크리스마스처럼' 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231223081449_f5050327fee873f417c57243318f87b9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT127, 윈터송 ‘Be There For Me’ 발매 기념 생방송]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=294368</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=290073">김세정, 첫 솔로 글로벌투어  ‘The 門’ 성료... 서울에서 시드니까지, 58일</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231122075050_116d422cf2c90c5e519ec8efb7f436ca.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[거미 투어콘서트 'LOVE'.. 광주에서 스타트]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=289736</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=289736</guid>
-            <pubDate>Mon, 20 Nov 2023 01:57:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=289736">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231120105513_36c61b356b85426fd8bb45221692f8c5.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=289736">거미 투어콘서트 'LOVE'.. 광주에서 스타트 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231120105513_36c61b356b85426fd8bb45221692f8c5.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
