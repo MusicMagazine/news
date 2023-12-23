@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-12-23T18:15:11.538Z</updated>
+    <updated>2023-12-23T19:09:50.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['1박2일'팀, 대상…폐지 '홍김동전' 주우재, 수상 후 오열]]></title>
+        <id>https://v.daum.net/v/20231224032402027</id>
+        <link href="https://v.daum.net/v/20231224032402027"/>
+        <updated>2023-12-23T19:09:21.371Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 안은재 기자 = '2023 KBS 연예대상'의 주인공은 '1박2일' 팀이었다. 23일 오후 서울 영등포구 여의도동 KBS신관 공개홀에서 '2023 KBS 연예대상'이 생중계로 진행됐다. 이날 연예대상은 방송인 신동엽, 주우재 그리고 배우 조이현이 MC를 맡았다. 시작 전 주우재와 '개그콘서트' 코미디언들은 '내시 똥군기' 코너를 패러디]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['1박2일' 팀, 두 번째 KBS연예대상… 폐지 '홍김동전' 홍진경·주우재 눈물]]></title>
         <id>https://v.daum.net/v/20231224024841004</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231224014501913"/>
         <updated>2023-12-23T18:14:39.422Z</updated>
         <content type="html"><![CDATA[‘1박2일’ 팀이 ‘2023 KBS 연예대상’에서 대상을 수상했다. 23일 오후 서울 여의도 KBS에서 ‘2023 KBS 연예대상’이 열렸다. 방송인 신동엽 주우재, 배우 조이현이 사회를 맡았다. 올해는 ‘홍김동전’, ‘사장님 귀는 당나귀 귀’ 김숙, ‘편스토랑’ 류수영, ‘1박 2일 시즌4’ 연정훈 김종민 문세윤 딘딘 나인우 유선호, ‘골든걸스’ 박진영,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘1박2일’ 팀 대상 영예…내달 폐지 ‘홍김동전’ 3관왕]]></title>
-        <id>https://v.daum.net/v/20231224014313912</id>
-        <link href="https://v.daum.net/v/20231224014313912"/>
-        <updated>2023-12-23T18:14:39.424Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 정하은기자] 대상의 영광은 ‘1박 2일’ 시즌4 팀에게 돌아갔다. ‘2023 KBS 연예대상’이 23일 오후 9시 25분부터 서울 영등포구 여의도동 KBS 신관 공개홀에서 열렸으며 KBS 2TV를 통해 생방송으로 진행됐다. 방송인 신동엽과 배우 조이현, 모델 출신 방송인 주우재가 공동 MC를 맡았다. 대상 후보에는 7개 팀이 올랐다.]]></content>
     </entry>
 </feed>
