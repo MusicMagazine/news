@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2023-12-23T19:09:50.248Z</updated>
+    <updated>2023-12-23T20:14:54.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연말 시상식, 투표 끝나지 않았다…내 가수 가치 올리는 팬덤 [비크닉]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=025&amp;aid=0003330633</id>
+        <link href="https://entertain.naver.com/now/read?oid=025&amp;aid=0003330633"/>
+        <updated>2023-12-23T20:14:48.219Z</updated>
+        <content type="html"><![CDATA[비크닉 독자 여러분 안녕하세요. 쉬는 날이면 리모컨을 손에서 놓지 못하는 TV를 사랑하는 마케터 한재동입니다. 찬 바람이 싸늘하게 코끝을 스치면 호빵도 생각나지만, 제게는 멋진 무대들로 장식되는 뮤직어워즈의 시작을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['1박2일'팀, 대상…폐지 '홍김동전' 주우재, 수상 후 오열(종합) [KBS 연예대상]]]></title>
         <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0007251447</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003204106"/>
         <updated>2023-12-23T14:12:57.673Z</updated>
         <content type="html"><![CDATA[23일 오후 서울 영등포구 여의도동 KBS 신관 웨딩홀에서 '2023 KBS 연예대상' 레드카펫 포토월 행사가 진행됐다. 이날 '이은지의 가요광장' DJ 이은지, '뮤직뱅크' MC 이채민, '스튜디오K' MC 이무진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[TEN포토]김호영 '긍정에너지를 춤으로']]></title>
-        <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000641986</id>
-        <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000641986"/>
-        <updated>2023-12-23T14:12:57.675Z</updated>
-        <content type="html"><![CDATA[방송인 김호영이 23일 오후 서울 여의도 KBS 신관웨딩홀에서 열린 '2023 KBS 연예대상' 레드카쳇 행사에 참석해 포즈를 취하고 있다. 조준원 기자]]></content>
     </entry>
 </feed>
