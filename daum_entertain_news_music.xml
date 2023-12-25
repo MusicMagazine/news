@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2023-12-25T04:16:37.889Z</updated>
+    <updated>2023-12-25T05:13:19.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["이제 시작" 데이식스, 4년 만 완전체 공연..크리스마스에 감격의 재회]]></title>
+        <id>https://v.daum.net/v/20231225134620970</id>
+        <link href="https://v.daum.net/v/20231225134620970"/>
+        <updated>2023-12-25T05:12:46.988Z</updated>
+        <content type="html"><![CDATA[[OSEN=지민경 기자]&nbsp;DAY6(데이식스)가 약 4년 만의 완전체 단독 콘서트를 성공적으로 마무리하고 마이데이(팬덤명: My Day)와 감격의 재회를 맞이했다. DAY6는 12월 22일부터 24일까지 사흘간 서울 성북구 고려대학교 화정체육관에서 'DAY6 Christmas Special Concert 'The Present : You are My Da]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["마! 밤새 놀아뿌자"…장민호, 고향 부산 달군 열정·진심의 무대]]></title>
         <id>https://v.daum.net/v/20231225130130391</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231225104342667"/>
         <updated>2023-12-25T01:54:24.149Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이태수 기자 = 그룹 방탄소년단(BTS)의 멤버 전원이 군 공백기에 돌입하면서 이들이 과거 발표한 곡들이 차트 역주행을 펼치며 재조명받고 있다. 25일 소속사 빅히트뮤직에 따르면 '봄날'(2017), '아웃트로 : 티어'(Outro : Tear·2018), 데뷔곡 '노 모어 드림'(No More Dream·2013)은 멤버들이 입대한 직후]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["데이식스 청춘은 이제 시작"..눈물의 완전체 단콘]]></title>
-        <id>https://v.daum.net/v/20231225103024480</id>
-        <link href="https://v.daum.net/v/20231225103024480"/>
-        <updated>2023-12-25T01:54:24.150Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이승훈 기자] /사진=JYP엔터테인먼트 보이 밴드 데이식스(DAY6)가 약 4년 만의 완전체 단독 콘서트를 성공적으로 마무리하고 마이데이(팬덤명)와 감격의 재회를 맞이했다. 데이식스는 지난 22일부터 24일까지 사흘간 서울 성북구 고려대학교 화정체육관에서 'DAY6 Christmas Special Concert 'The Present : Y]]></content>
     </entry>
 </feed>
