@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Dec 2023 05:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Dec 2023 06:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포토] 엔팀, 멋진 팀]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/404194</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/404194</guid>
+            <pubDate>Mon, 25 Dec 2023 06:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/404194">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/12/25/bc9108d3-d4d0-45c5-9ece-0c763401ec03.jpg" alt="[포토] 엔팀, 멋진 팀">        <div class="text-box">            <p class="summary">[포토] 엔팀, 멋진 팀</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/12/25/bc9108d3-d4d0-45c5-9ece-0c763401ec03.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 전 멤버 병역 이행→'봄날'·'Yet To Come' 뭉클한 역주행]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/404171</link>
@@ -86,14 +94,6 @@
             <pubDate>Sat, 23 Dec 2023 02:19:44 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/404041">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/12/23/7819e0da-7713-4e1d-8139-26cee25b7247.jpg" alt="‘군백기’ 정국, 英 오피셜 차트 역주행">        <div class="text-box">            <p class="summary">‘군백기’ 정국, 英 오피셜 차트 역주행</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/12/23/7819e0da-7713-4e1d-8139-26cee25b7247.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘MBC 가요대제전’ K-POP 최초+최고의 순간들 펼쳐진다]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/404036</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/404036</guid>
-            <pubDate>Sat, 23 Dec 2023 01:48:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/404036">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/12/23/d7444898-c785-47a7-b963-fc372898e1e2.jpg" alt="‘MBC 가요대제전’ K-POP 최초+최고의 순간들 펼쳐진다">        <div class="text-box">            <p class="summary">‘MBC 가요대제전’ K-POP 최초+최고의 순간들 펼쳐진다</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/12/23/d7444898-c785-47a7-b963-fc372898e1e2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
