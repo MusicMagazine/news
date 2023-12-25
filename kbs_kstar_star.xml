@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Dec 2023 19:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Dec 2023 22:14:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[금새록, 매거진 '싱글즈' 화보... #금새록필름 #사운드트랙]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=294851</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=294851</guid>
+            <pubDate>Mon, 25 Dec 2023 22:14:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=294851">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231224174229_f9f35f47d21b23e1e8da68c55206efd3.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=294851">금새록, 매거진 '싱글즈' 화보... #금새록필름 #사운드트랙</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231224174229_f9f35f47d21b23e1e8da68c55206efd3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장동윤X이주명, '얼루어 코리아' 커플 화보..  "청춘 비주얼"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=294737</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=292678">'배우' 정수정, 영화 '거미집'으로 춘사국제영화제 여우조연상 수상</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231208102321_58871cc6d185a0c06ecf7e1542d7d1a0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["이것이 K-뮤지컬!" 이성준, 창작뮤지컬 ‘베르사유의 장미’]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=292337</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=292337</guid>
-            <pubDate>Wed, 06 Dec 2023 01:55:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=292337">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231206084031_9e3f3480c50e20d1b46a47d8d5839676.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=292337">"이것이 K-뮤지컬!" 이성준, 창작뮤지컬 ‘베르사유의 장미’ </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231206084031_9e3f3480c50e20d1b46a47d8d5839676.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
