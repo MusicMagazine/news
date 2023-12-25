@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-12-25T16:14:48.475Z</updated>
+    <updated>2023-12-25T17:13:11.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[포토] 스테이씨 윤, '우아한 미소' (2023 SBS 가요대전)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004929298</id>
+        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004929298"/>
+        <updated>2023-12-25T17:12:56.620Z</updated>
+        <content type="html"><![CDATA[그룹 스테이씨 윤이 25일 오후 인천 영종도 인스파이어 아레나에서 열린 '2023 SBS 가요대전' 레드카펫 행사에 참석해 포토타임을 갖고 있다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[포토] 스테이씨 아이사, '핑크 원피스 입고 깜찍하게~' (2023 SBS 가요대전)]]></title>
         <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004929297</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004929275"/>
         <updated>2023-12-25T16:14:34.048Z</updated>
         <content type="html"><![CDATA[그룹 뉴진스 해린이 25일 오후 인천 영종도 인스파이어 아레나에서 열린 '2023 SBS 가요대전' 레드카펫 행사에 참석해 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] ITZY 유나, '사랑스러운 모습에 시선강탈' (2023 SBS 가요대전)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004929274</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004929274"/>
-        <updated>2023-12-25T16:14:34.050Z</updated>
-        <content type="html"><![CDATA[그룹 ITZY 유나가 25일 오후 인천 영종도 인스파이어 아레나에서 열린 '2023 SBS 가요대전' 레드카펫 행사에 참석해 포토타임을 갖고 있다.]]></content>
     </entry>
 </feed>
