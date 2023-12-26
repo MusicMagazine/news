@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 15:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 16:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -352,7 +352,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=295137</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=295137</guid>
             <pubDate>Tue, 26 Dec 2023 01:52:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=295137">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=295137">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231226102027_aa0b88169d4a046906ed4801cb177000.jpg" alt="대체 텍스트">
@@ -369,7 +369,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=294851</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=294851</guid>
             <pubDate>Mon, 25 Dec 2023 22:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=294851">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=294851">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231224174229_f9f35f47d21b23e1e8da68c55206efd3.jpg" alt="대체 텍스트">
@@ -386,7 +386,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=294737</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=294737</guid>
             <pubDate>Mon, 25 Dec 2023 01:54:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=294737">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=294737">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231223203843_e66aee76ddcd9c57cfdd5573cf664902.jpg" alt="대체 텍스트">
@@ -403,7 +403,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=294671</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=294671</guid>
             <pubDate>Sat, 23 Dec 2023 00:52:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=294671">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=294671">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231223084154_b2f004874b2952ed8a4126204dd09669_1.png" alt="대체 텍스트">
@@ -420,7 +420,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=294621</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=294621</guid>
             <pubDate>Fri, 22 Dec 2023 23:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=294621">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=294621">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231223080754_94830ec507b076654738a5218c539122.jpg" alt="대체 텍스트">
@@ -692,7 +692,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/404348</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/404348</guid>
             <pubDate>Tue, 26 Dec 2023 11:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/404348">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/12/26/e6eb0518-e6ab-4a86-ad43-8d124c1e0e43.jpg" alt="[2023연말결산] 레드벨벳 웬디-조이, BEST '해피엔딩'">        <div class="text-box">            <p class="summary">[2023연말결산] 레드벨벳 웬디-조이, BEST '해피엔딩'</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/404348" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/12/26/e6eb0518-e6ab-4a86-ad43-8d124c1e0e43.jpg" alt="[2023연말결산] 레드벨벳 웬디-조이, BEST '해피엔딩'">        <div class="text-box">            <p class="summary">[2023연말결산] 레드벨벳 웬디-조이, BEST '해피엔딩'</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/12/26/e6eb0518-e6ab-4a86-ad43-8d124c1e0e43.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -700,7 +700,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/404341</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/404341</guid>
             <pubDate>Tue, 26 Dec 2023 08:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/404341">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/12/26/73510206-40bc-44ee-93e9-3dab401437a6.jpg" alt="아이브 장원영, 압도적 비율과 함께 뽐낸 러블리 비주얼">        <div class="text-box">            <p class="summary">아이브 장원영, 압도적 비율과 함께 뽐낸 러블리 비주얼</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/404341" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/12/26/73510206-40bc-44ee-93e9-3dab401437a6.jpg" alt="아이브 장원영, 압도적 비율과 함께 뽐낸 러블리 비주얼">        <div class="text-box">            <p class="summary">아이브 장원영, 압도적 비율과 함께 뽐낸 러블리 비주얼</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/12/26/73510206-40bc-44ee-93e9-3dab401437a6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -708,7 +708,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/404338</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/404338</guid>
             <pubDate>Tue, 26 Dec 2023 08:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/404338">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/12/26/eda9b374-eb93-4a0d-a25c-3815d5e6dd04.jpg" alt="에스파 카리나, 모든 드레스 완벽 소화하는 ‘국보급 여신’">        <div class="text-box">            <p class="summary">에스파 카리나, 모든 드레스 완벽 소화하는 ‘국보급 여신’</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/404338" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/12/26/eda9b374-eb93-4a0d-a25c-3815d5e6dd04.jpg" alt="에스파 카리나, 모든 드레스 완벽 소화하는 ‘국보급 여신’">        <div class="text-box">            <p class="summary">에스파 카리나, 모든 드레스 완벽 소화하는 ‘국보급 여신’</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/12/26/eda9b374-eb93-4a0d-a25c-3815d5e6dd04.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -716,7 +716,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/404332</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/404332</guid>
             <pubDate>Tue, 26 Dec 2023 06:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/404332">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/12/26/8895f3f6-41e6-4e7c-9448-2485b630ce17.jpg" alt="'다사다난' 동방신기, 유노윤호 " 최강창민,="" 곁="" 지켜줘="" 고마워""="">        <div class="text-box">            <p class="summary">'다사다난' 동방신기, 유노윤호 "최강창민, 곁 지켜줘 고마워"</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/404332" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/12/26/8895f3f6-41e6-4e7c-9448-2485b630ce17.jpg" alt="'다사다난' 동방신기, 유노윤호 " 최강창민,="" 곁="" 지켜줘="" 고마워""="">        <div class="text-box">            <p class="summary">'다사다난' 동방신기, 유노윤호 "최강창민, 곁 지켜줘 고마워"</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/12/26/8895f3f6-41e6-4e7c-9448-2485b630ce17.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -724,7 +724,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/404331</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/404331</guid>
             <pubDate>Tue, 26 Dec 2023 06:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/404331">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/12/26/769c175a-e2d6-47a7-9a64-475c11af15cb.jpg" alt="[포토] 동방신기 최강창민, '귀걸이 네 몸무게' 이해해">        <div class="text-box">            <p class="summary">[포토] 동방신기 최강창민, '귀걸이 네 몸무게' 이해해</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/404331" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/12/26/769c175a-e2d6-47a7-9a64-475c11af15cb.jpg" alt="[포토] 동방신기 최강창민, '귀걸이 네 몸무게' 이해해">        <div class="text-box">            <p class="summary">[포토] 동방신기 최강창민, '귀걸이 네 몸무게' 이해해</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/12/26/769c175a-e2d6-47a7-9a64-475c11af15cb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -732,7 +732,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/404330</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/404330</guid>
             <pubDate>Tue, 26 Dec 2023 06:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/404330">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/12/26/b06839c9-3d8c-4a79-8d40-779d659c00c2.jpg" alt="[포토] 동방신기 유노윤호, 감탄은 감동을 이길수 없다">        <div class="text-box">            <p class="summary">[포토] 동방신기 유노윤호, 감탄은 감동을 이길수 없다</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/404330" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/12/26/b06839c9-3d8c-4a79-8d40-779d659c00c2.jpg" alt="[포토] 동방신기 유노윤호, 감탄은 감동을 이길수 없다">        <div class="text-box">            <p class="summary">[포토] 동방신기 유노윤호, 감탄은 감동을 이길수 없다</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/12/26/b06839c9-3d8c-4a79-8d40-779d659c00c2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -740,7 +740,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/404329</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/404329</guid>
             <pubDate>Tue, 26 Dec 2023 06:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/404329">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/12/26/f3afaec9-b810-4cae-ba4f-ffde55078d96.jpg" alt="" 라이즈,="" 젊어서="" 운동="" 능력="" 최고"…동방신기="" 감탄"="">        <div class="text-box">            <p class="summary">"라이즈, 젊어서 운동 능력 최고"…동방신기 감탄</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/404329" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/12/26/f3afaec9-b810-4cae-ba4f-ffde55078d96.jpg" alt="" 라이즈,="" 젊어서="" 운동="" 능력="" 최고"…동방신기="" 감탄"="">        <div class="text-box">            <p class="summary">"라이즈, 젊어서 운동 능력 최고"…동방신기 감탄</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/12/26/f3afaec9-b810-4cae-ba4f-ffde55078d96.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -748,7 +748,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/404327</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/404327</guid>
             <pubDate>Tue, 26 Dec 2023 06:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/404327">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/12/26/194bb25d-9744-4ff3-826c-5811bc661860.jpg" alt="'20주년' 동방신기 " 성인식="" 맞이하는="" 나이""="">        <div class="text-box">            <p class="summary">'20주년' 동방신기 "성인식 맞이하는 나이"</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/404327" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/12/26/194bb25d-9744-4ff3-826c-5811bc661860.jpg" alt="'20주년' 동방신기 " 성인식="" 맞이하는="" 나이""="">        <div class="text-box">            <p class="summary">'20주년' 동방신기 "성인식 맞이하는 나이"</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/12/26/194bb25d-9744-4ff3-826c-5811bc661860.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -756,7 +756,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/404325</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/404325</guid>
             <pubDate>Tue, 26 Dec 2023 06:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/404325">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/12/26/e749100e-4c6a-40b6-8df5-6a5e7227b78d.jpg" alt="[포토] 동방신기 최강창민-유노윤호, 완벽한 합">        <div class="text-box">            <p class="summary">[포토] 동방신기 최강창민-유노윤호, 완벽한 합</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/404325" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/12/26/e749100e-4c6a-40b6-8df5-6a5e7227b78d.jpg" alt="[포토] 동방신기 최강창민-유노윤호, 완벽한 합">        <div class="text-box">            <p class="summary">[포토] 동방신기 최강창민-유노윤호, 완벽한 합</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/12/26/e749100e-4c6a-40b6-8df5-6a5e7227b78d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -764,7 +764,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/404324</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/404324</guid>
             <pubDate>Tue, 26 Dec 2023 06:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/404324">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/12/26/ff3921e5-eb8a-4dae-8120-63d88e52e201.jpg" alt="[포토] 동방신기 최강창민-유노윤호, 기강잡는 20주년 소감 ">        <div class="text-box">            <p class="summary">[포토] 동방신기 최강창민-유노윤호, 기강잡는 20주년 소감 </p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/404324" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/12/26/ff3921e5-eb8a-4dae-8120-63d88e52e201.jpg" alt="[포토] 동방신기 최강창민-유노윤호, 기강잡는 20주년 소감 ">        <div class="text-box">            <p class="summary">[포토] 동방신기 최강창민-유노윤호, 기강잡는 20주년 소감 </p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/12/26/ff3921e5-eb8a-4dae-8120-63d88e52e201.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -772,7 +772,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/404323</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/404323</guid>
             <pubDate>Tue, 26 Dec 2023 05:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/404323">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/12/26/68b17bee-7193-4489-8a1f-63e2433e64f1.jpg" alt="[포토] 동방신기 최강창민-유노윤호, 필!촉! 크로스">        <div class="text-box">            <p class="summary">[포토] 동방신기 최강창민-유노윤호, 필!촉! 크로스</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/404323" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/12/26/68b17bee-7193-4489-8a1f-63e2433e64f1.jpg" alt="[포토] 동방신기 최강창민-유노윤호, 필!촉! 크로스">        <div class="text-box">            <p class="summary">[포토] 동방신기 최강창민-유노윤호, 필!촉! 크로스</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/12/26/68b17bee-7193-4489-8a1f-63e2433e64f1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -881,11 +881,53 @@
             <content:encoded><![CDATA[데뷔 20주년을 맞은 그룹 동방신기가 5년 만에 정규 9집 ‘20&amp;2’로 컴백했다. 2003년 12월 26일 첫 싱글 ‘허그’로 데뷔한 이후 동방신기가 20년간 쌓아온 음악적 역량과 단단해진 내공을 한데 모아 한층 성숙해졌다. 동방신기는 26일 서울 영등포구 콘래드 호텔에서 정규 9집 ‘20&amp;2’ 발매 기념 기자간담회를 열고 20주년을 맞은 소회와 앨범에]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[유병재 "프로파일러 필요".. 이은학X이지은 과거 연애사 '충격' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20231227005300789</link>
+            <guid>https://v.daum.net/v/20231227005300789</guid>
+            <pubDate>Tue, 26 Dec 2023 16:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=이지민 기자] '솔로동창회 학연' 이은학이 군대 휴가 때 이지은에게 고백한 적 있다고 밝혔다. 26일 MBC '솔로동창회 학연'(이하 '학연')에서는 사랑과 우정 사이에서 갈등하는 신동초 동창들의 팽팽한 신경전이 전파를 탔다. 이날 동창들은 '오늘 당신을 가장 설레게 한 동창은 누구인가요? 지금 바로 이름을 적어 보내세요'라는 미션을 전달받았]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[송혜교-전지현, '입금전후' 온도차 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20231227004349761</link>
+            <guid>https://v.daum.net/v/20231227004349761</guid>
+            <pubDate>Tue, 26 Dec 2023 16:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[2023 한 해를 보내며 송혜교와 전지현의 일명 '입금전후' 패션 온도차를 짚어본다. 화려하고 예쁜 톱스타 또한 일상생활에선 예외 없이 우리네 동네 옆집 사람과 다를 바 없다는 건 이미 일명 '입금전후'를 통해 많이 알려졌다. 국내외를 막론하고 작품 활동 외 '꾸안꾸' 일상 모습은 그만큼 화제이기도 하다. 2023년 톱스타 송혜교, 전지현의 슈퍼 내]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['현역가왕' 전유진의 비빔걸스, 잘 비빈 줄 알았는데... "조화 아쉬워" 반전 혹평 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20231227003800744</link>
+            <guid>https://v.daum.net/v/20231227003800744</guid>
+            <pubDate>Tue, 26 Dec 2023 16:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=이혜미 기자] 전유진이 비빔걸스로 ‘현역가왕’ 미니콘서트에 나섰다. 심사위원들의 반응은 어떨까. 26일 MBC ‘현역가왕’에선 비빔걸스의 미니콘서트 무대가 펼쳐졌다. 비빔걸스는 전유진을 비롯해 박혜신 강혜연 윤수현 김지현으로 구성된 5인조 팀이다. 이들은 “다양한 장르의 음악을 한 그릇의 비빔밥처럼 맛있게 비벼보겠다”며 남다른 포부를 전했다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[빨대 통해 코로 흡입 인정...이선균 ”수면제로 알았다”, 거짓말 탐지기 조사 요청 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20231227002418695</link>
+            <guid>https://v.daum.net/v/20231227002418695</guid>
+            <pubDate>Tue, 26 Dec 2023 16:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[마약 투약 혐의를 받고 있는 배우 이선균이 빨대를 이용해 코로 수면제를 흡입했다는 사실을 인정한 것으로 전해졌다. 26일 JTBC ‘뉴스룸’에 따르면 이선균은 최근 경찰조사에서 “빨대를 이용해 코로 흡입했지만 수면제로 알았다. 마약인 줄 몰랐다”고 A씨의 진술을 반박했다.&nbsp; 보도에 따르면 A씨는 경찰조사에서 구체적인 투약 날짜 5차례와 장소를 진술했다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아이유, 해외 투어 예고..."안 가봤던 곳 갑니다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20231227001801669</link>
+            <guid>https://v.daum.net/v/20231227001801669</guid>
+            <pubDate>Tue, 26 Dec 2023 16:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[[Dispatch=이명주기자] 가수 아이유가 신보 관련 힌트를 남겼다. 해외 투어 계획도 언급했다.&nbsp; 방탄소년단 공식 유튜브 채널에는 26일 슈가의 토크쇼 '슈취타' 새 에피소드가 올라왔다. 아이유가 24번째 게스트로 출연했다.&nbsp; 두 사람은 곡 작업에 관한 이야기를 나눴다. 슈가는 "너무 많은 메시지와 내 생각을 담다 보니 무슨 얘기를 해야 할지 모르겠다"]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[성시경, 과거 동방신기 사생 행각에 경악 "번호 노출까지" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20231227001701665</link>
+            <guid>https://v.daum.net/v/20231227001701665</guid>
+            <pubDate>Tue, 26 Dec 2023 16:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 김노을 기자] /사진=성시경 유튜브 채널가수 성시경이 과거 그룹 동방신기 유노윤호의 사생 일화를 언급했다. 26일 성시경 유튜브 채널에는 동방신기 최강창민이 출연한 콘텐츠가 게재됐다. 이날 최강창민과 만난 성시경은 "예전에 윤호를 만나서 얘기하는데 전화가 계속 오더라. 그때는 휴대전화 배터리가 분리되던 시절이다"고 운을 뗐다. 그는 "대]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[‘스걸파2’ 팀 잼 리퍼블릭, 최종 우승... 10대 댄서신 제패 크루됐다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
             <link>https://v.daum.net/v/20231227000901623</link>
             <guid>https://v.daum.net/v/20231227000901623</guid>
             <pubDate>Tue, 26 Dec 2023 15:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[‘스걸파2’ 팀 잼 리퍼블릭이 최종 우승했다. 26일 방송된 Mnet 예능프로그램 ‘스트릿댄스 걸스 파이터2’(이하 ‘스걸파2’)에서는 파이널 생방송으로 최종 우승팀을 가리는 무대가 그려졌다. 이날 파이널을 앞두고 원밀리언 리아킴은 “‘스우파’에서 결승 무대를 선지 얼마 안 됐는데 이렇게 ‘스걸파2’ 결승 무대를 보게 될 생각을 하니까 기대가 너무 된다”며]]></content:encoded>
+            <content:encoded><![CDATA[‘스걸파2’ 팀 잼 리퍼블릭이 최종 우승했다. 26일 방송된 Mnet 예능프로그램 ‘스트릿댄스 걸스 파이터2’(이하 ‘스걸파2’)에서는 파이널 생방송으로 최종 우승팀을 가리는 무대가 전파를 탔다. 이날 파이널을 앞두고 원밀리언 리아킴은 “‘스우파’에서 결승 무대를 선지 얼마 안 됐는데 이렇게 ‘스걸파2’ 결승 무대를 보게 될 생각을 하니까 기대가 너무 된다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[송은이 "커진 회사, 내가 원했던 게 아냐…번아웃 심하게 와" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
@@ -900,13 +942,6 @@
             <guid>https://v.daum.net/v/20231227000043432</guid>
             <pubDate>Tue, 26 Dec 2023 15:13:45 GMT</pubDate>
             <content:encoded><![CDATA[송년기획'더 글로리' 후 주춤…그래도 넷플릭스 '무빙'으로 입지 다진 디즈니플러스 웨이브+티빙 합병으로 진입장벽 두드리기 전 세계적으로 화제를 모으며 어느덧 K-콘텐츠의 시대가 시작됐다. 2023년 올 한 해에도 K정서, K장르 등을 자랑하는 다양한 작품이 공개됐다. 부동의 넷플릭스가 있는가 하면, 디즈니플러스는 드디어 대표작을 얻었다. 국내 OTT도]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[브리트니 스피어스는 왜 목에 히브리어 타투 했나 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20231227000018420</link>
-            <guid>https://v.daum.net/v/20231227000018420</guid>
-            <pubDate>Tue, 26 Dec 2023 15:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[미국 책방에서 요즘 논픽션 부문 제1의 ‘베셀(베스트셀러)이 뭔지 아십니까? 세계 탑 티어 미국인 팝가수인 브리트니 스피어스(Britney Spears·42)의 회고록 ‘더 우먼 인 미(The Woman in Me·내 안의 여인)’입니다. 미 주요 서점가 베셀 순위를 훑어보니 1~2위더군요. 지난 10월 24일 출간했는데요, 판매 부수가 지난달 110만부를]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[전현무 "연예인 최초 비혼식, 화제만 된다면 하겠다" 선언 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
@@ -949,41 +984,6 @@
             <guid>https://v.daum.net/v/20231226233430291</guid>
             <pubDate>Tue, 26 Dec 2023 15:13:45 GMT</pubDate>
             <content:encoded><![CDATA[[TV리포트=이혜미 기자] 방송인 손범수가 후배 전현무를 잡는 저격수로 변신했다. 무슨 사연일까. 26일 SBS ‘강심장VS’에선 MZ 대 꼰대 특집으로 손범수 이진호 미나명 하리무 츄가 게스트로 출연했다. 이날 ‘꼰대’ 석에 자리한 손범수는 “나는 ‘MZ’ 석에 앉을 거라는 얘기를 듣고 왔다. 토크를 하다가 AM랑 비슷해지면 갈 수 있는 것 아닌가”라며]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘태국 재벌과 결혼’ 신주아 “방 개수 몰라…남편 백수인 줄” (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20231226232728197</link>
-            <guid>https://v.daum.net/v/20231226232728197</guid>
-            <pubDate>Tue, 26 Dec 2023 15:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[배우 신주아가 태국에서의 결혼 생활을 전했다. 신주아는 지난 2014년 재벌 2세인 태국의 한 사업가와 결혼해 화제를 모았다.&nbsp; 26일 방송된 SBS 예능프로그램 ‘신발 벗고 돌싱포맨’(이하 ‘돌싱포맨’)에 신효범, 김광규, 신주아가 게스트로 출연했다.&nbsp; 이날 MC들은 신주아의 태국 생활에 대해 물었다. 신주아는 “사실 사는 건 별반 차이가 없다. 다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[송은이, 펑 터져버린 눈물 "내가 원한 건 이런 게 아냐" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20231226232110159</link>
-            <guid>https://v.daum.net/v/20231226232110159</guid>
-            <pubDate>Tue, 26 Dec 2023 15:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 | 김노을 기자] /사진=유튜브 채널 'VIVO TV - 비보티비'코미디언 송은이가 힘든 속내를 털어놨다. 26일 유튜브 채널 'VIVO TV - 비보티비'에는 '심리 상담받고 눈물 콧물 쏙 뺀 송쎄오'라는 제목으로 영상이 게재됐다. 이날 스태프들은 송은이를 위해 그림 심리 검사를 마련했다. 송은이가 그린 그림을 본 상담사는 송은이에 대해 "]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[신주아 '♥태국 재벌 남편' 처음에 의심 "사기꾼인 줄" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20231226231900149</link>
-            <guid>https://v.daum.net/v/20231226231900149</guid>
-            <pubDate>Tue, 26 Dec 2023 15:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=이지민 기자] '돌싱포맨' 배우 신주아가 태국 재벌 남편과의 첫 만남을 회상했다. 26일 SBS 예능 프로그램 '신발 벗고 돌싱포맨'(이하 '돌싱포맨')에서는 '환상 속의 그대' 특집으로 꾸며져 신효범, 김광규, 신주아가 게스트로 출연했다. 이날 신주아는 재벌 2세 남편과의 근황을 전했다. "최근 골드바 케이크를 선물로 해줬다. 평소에 남편]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['꼰대' 이진호, MZ 챌린지 유행 소신 발언 "왜 다 따라 하냐" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20231226231603136</link>
-            <guid>https://v.daum.net/v/20231226231603136</guid>
-            <pubDate>Tue, 26 Dec 2023 15:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 임시령 기자] '강심장VS' 이진호가 MZ세대와 대화 중 울컥했다. 26일 방송된 SBS 예능프로그램 '강심장VS'에서는 아나운서 손범수, 개그맨 이진호, 가수 츄, 댄서 미나명과 하리무가 출연해 '꼰대VS MZ'라는 주제로 토크를 펼쳤다. 이날 하리무는 자신이 속한 댄스 크루 원밀리언 언니들에 대해 "꼰대는 없고, MZ 호소인이다"라고]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['슈취타' 아이유 "16세에 데뷔, 어린 이미지 때문에 경력에 비해 무시당하는 느낌" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20231226230931112</link>
-            <guid>https://v.daum.net/v/20231226230931112</guid>
-            <pubDate>Tue, 26 Dec 2023 14:14:46 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=이혜미 기자] 가수 겸 배우 아이유가 30대를 기다린 이유와 소감을 전했다. 16세란 어린 나이에 데뷔한 아이유는 “나이 때문에 경력에 비해 무시당한다는 느낌이 들었다”라고 했다. 26일 방탄소년단 공식 채널에는 아이유가 게스트로 나선 ‘슈취타’ 영상이 업로드 됐다. 이날 아이유는 ‘에잇’으로 함께한 슈가에 대해 “동갑 프로듀서 중 제일 잘하는]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[유산→동성애 아웃팅..연예인 폭탄고백의 해, '후폭풍 심각' (다음 연예 ─ 뉴스 ─ 해외)]]></title>
@@ -1266,11 +1266,60 @@
             <content:encoded><![CDATA[그룹 크래비티(CRAVITY)가 눈 뗄 수 없는 무대로 '가요대전'을 장식했다. 크래비티는 지난 25일 오후에 방송된 '2023 SBS 가요대전'(이하 '가요대전')에 출연했다. 이날 크래비티는 다섯 번째 미니 앨범]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[리사·스트레이 키즈, 프랑스 자선 콘서트 참석 [연예뉴스 HOT] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001096156</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001096156</guid>
+            <pubDate>Tue, 26 Dec 2023 16:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[걸그룹 블랙핑크의 리사와 그룹 스트레이 키즈가 내년 프랑스 자선 콘서트 무대에 오른다. 26일 프랑스 파리 아코르 아레나 홈페이지에 따르면 리사와 스트레이 키즈가 내년 1월 26일 열리는 ‘노란 동전 콘서트’에 참석]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘더 글로리’, 올해 네이버앱 최다 검색 방송 선정 [연예뉴스 HOT] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001096155</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001096155</guid>
+            <pubDate>Tue, 26 Dec 2023 16:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 드라마 ‘더 글로리’와 영화 ‘범죄도시3’가 올해 네이버 모바일 애플리케이션(앱)에서 가장 많이 검색된 방송프로그램과 영화로 꼽혔다. 26일 네이버가 1~11월 검색 데이터를 활용해 발표한 ‘2023 검색어]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 도영, 아동 지원에 5000만원 기부 [연예뉴스 HOT] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001096154</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001096154</guid>
+            <pubDate>Tue, 26 Dec 2023 16:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 NCT 멤버 도영이 아이들을 위해 5000만 원을 기부했다. 26일 사랑의열매 측에 따르면 도영은 크리스마스 및 연말을 맞아 기부금을 전달했다. 이 성금은 기부자 도영의 의사에 따라 아동 지원을 위해 쓰일 예정]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[세븐틴, 예능서 선보인 ‘경음악의 신’ 음원 발표 [연예뉴스 HOT] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001096153</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001096153</guid>
+            <pubDate>Tue, 26 Dec 2023 16:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 세븐틴이 자체 예능 콘텐츠에서 선보인 노래 ‘경음악의 신’을 음원으로 발표했다. 26일 오후 각종 음원사이트를 통해 공개된 ‘경음악의 신’은 열한 번째 미니음반 ‘세븐틴스 헤븐’의 타이틀곡 ‘음악의 신’을 패러]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[국세청, 박나래에 추징금 수천만원 부과 [연예뉴스 HOT] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001096152</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001096152</guid>
+            <pubDate>Tue, 26 Dec 2023 16:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[방송인 박나래가 국세청의 세무조사를 받고 수천만 원의 추징금을 부과 받았다. 이와 관련해 소속사 측은 “고의적인 탈세는 아니었다”고 주장했다. 박나래 소속사 제이디비엔터테인먼트는 26일 “박나래는 그동안 세금 문제와]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[종합] 빨대 통해 코로 흡입 인정...이선균 ”수면제로 알았다”, 거짓말 탐지기 조사 요청 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003320798</link>
+            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003320798</guid>
+            <pubDate>Tue, 26 Dec 2023 16:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[마약 투약 혐의를 받고 있는 배우 이선균이 빨대를 이용해 코로 수면제를 흡입했다는 사실을 인정한 것으로 전해졌다. 26일 JTBC ‘뉴스룸’에 따르면 이선균은 최근 경찰조사에서 “빨대를 이용해 코로 흡입했지만 수면제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[성시경, 과거 동방신기 사생 행각에 경악 "번호 노출까지"[스타이슈] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003204690</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003204690</guid>
+            <pubDate>Tue, 26 Dec 2023 16:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[가수 성시경이 과거 그룹 동방신기 유노윤호의 사생 일화를 언급했다. 26일 성시경 유튜브 채널에는 동방신기 최강창민이 출연한 콘텐츠가 게재됐다. 이날 최강창민과 만난 성시경은 "예전에 윤호를 만나서 얘기하는데 전화가]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[종합] ‘스걸파2’ 팀 잼 리퍼블릭, 최종 우승... 10대 댄서신 제패 크루됐다 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
             <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0005235711</link>
             <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0005235711</guid>
             <pubDate>Tue, 26 Dec 2023 15:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[‘스걸파2’ 팀 잼 리퍼블릭이 최종 우승했다. 26일 방송된 Mnet 예능프로그램 ‘스트릿댄스 걸스 파이터2’(이하 ‘스걸파2’)에서는 파이널 생방송으로 최종 우승팀을 가리는 무대가 그려졌다. 이날 파이널을 앞두고]]></content:encoded>
+            <content:encoded><![CDATA[‘스걸파2’ 팀 잼 리퍼블릭이 최종 우승했다. 26일 방송된 Mnet 예능프로그램 ‘스트릿댄스 걸스 파이터2’(이하 ‘스걸파2’)에서는 파이널 생방송으로 최종 우승팀을 가리는 무대가 전파를 탔다. 이날 파이널을 앞두]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[전현무 "연예인 최초 비혼식, 화제만 된다면 하겠다" 선언 (강심장VS)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
@@ -1390,55 +1439,6 @@
             <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004092216</guid>
             <pubDate>Tue, 26 Dec 2023 14:15:05 GMT</pubDate>
             <content:encoded><![CDATA[손범수가 '연세대 학생 시절 전현무'를 폭로했다. 26일 방송된 SBS '강심장 VS'는 '꼰대 VS MZ' 특집으로 꾸며졌다. 손범수는 요즘 유행하는 '서울 사투리의 원조'라는 전현무의 말에 발끈하며 "넌 아나운서]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[신효범 "저작권료 月 1500만원, 코로나 때 역주행"→김광규 "월 4000원"(돌싱포맨)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004092215</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004092215</guid>
-            <pubDate>Tue, 26 Dec 2023 14:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[신효범부터 탁재훈까지 각자의 저작권 수입을 공개했다. 26일 방송된 SBS 예능 프로그램 '신발 벗고 돌싱포맨'(이하 '돌싱포맨')에서는 '환상 속의 그대' 특집으로 꾸며져 신효범, 김광규, 신주아가 함께했다. 이날]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘스걸파2’ 팀 원밀리언→팀 훅, 파이널 무대 시작... 응원석에 이영지 깜짝 등장 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0005235704</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0005235704</guid>
-            <pubDate>Tue, 26 Dec 2023 14:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[‘스걸파2’ 이영지가 관중석에 등장했다. 26일 방송된 Mnet 예능프로그램 ‘스트릿댄스 걸스 파이터2’(이하 ‘스걸파2’)에서는 파이널 생방송 ‘스걸파 위드 마스터 미션’과 ‘월드클래스 틴에이저 미션’ 두 개 라운]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[TVis] ‘태국 재벌과 결혼’ 신주아 “집에 노래방 없어, 밴드 부른다” (‘돌싱포맨’) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003320792</link>
-            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003320792</guid>
-            <pubDate>Tue, 26 Dec 2023 14:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[배우 신주아가 태국 결혼 생활을 전했다. 신주아는 26일 방송된 SBS 예능프로그램 ‘신발 벗고 돌싱포맨’(이하 ‘돌싱포맨’)에 출연해 태국 집에 대해 “노래방은 없다”며 “우리는 밴드를 부른다”고 밝혔다. 신주아는]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['자발적 싱글맘' 사유리, 둘째 도전 고백했다..."몸이 안 돼서 포기"(슈돌) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004092214</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004092214</guid>
-            <pubDate>Tue, 26 Dec 2023 14:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[방송인 사유리가 둘째를 준비했음을 고백했다. 26일 방송된 KBS2 '슈퍼맨이 돌아왔다'에서는 지난 '2023 KBS 연예대상'에서 리얼리티 부문 최우수상을 수상하며 인기를 실감케 한 제이쓴과 준범 부자가 사유리와]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[방송인 박나래, 세무조사 추징금 수천만원…"악의적 탈세 아냐" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=422&amp;aid=0000636427</link>
-            <guid>https://entertain.naver.com/now/read?oid=422&amp;aid=0000636427</guid>
-            <pubDate>Tue, 26 Dec 2023 14:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[방송인 박나래가 지난해 말 국세청의 특별 세무조사에서 수천만 원의 추징금을 부과받았다는 사실이 알려지자, 박 씨의 소속사는 "악의적 탈세와는 관련이 없다"고 해명했습니다. 소속사 제이디비 엔터테인먼트는 박 씨의 추징]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이선균, 빨대 이용해 코로 흡입 인정.."수면제인 줄 알았다"[종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003204682</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003204682</guid>
-            <pubDate>Tue, 26 Dec 2023 14:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[마약 투약 혐의를 받고 있는 배우 이선균이 수면제로 알고 투약한 약물을 빨대로 흡입한 사실을 인정한 것으로 전해졌다. 26일 JTBC에 따르면 이선균은 최근 진행된 경찰 조사에서 "빨대를 이용해 코로 흡입했지만 수면]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[신주아 '♥태국재벌 남편'에 통큰 생일선물 "골드바 케이크"(돌싱포맨)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004092213</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004092213</guid>
-            <pubDate>Tue, 26 Dec 2023 14:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[배우 신주아가 태국 재벌 남편에 해준 통 큰 선물을 공개했다. 26일 방송된 SBS 예능 프로그램 '신발 벗고 돌싱포맨'(이하 '돌싱포맨')에서는 '환상 속의 그대' 특집으로 꾸며져 신효범, 김광규, 신주아가 함께했]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['정신분열' 카녜이 웨스트, '유대인 혐오' 히브리어로 사과.."상처주려는 것 아냐" [Oh!llywood] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
