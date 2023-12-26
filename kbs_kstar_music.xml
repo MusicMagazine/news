@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 07:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 08:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장] 동방신기 정규9집 ‘20&2’..   “유노윤호와 최강창민, 너는 또 다른 나”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=295162</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=295162</guid>
+            <pubDate>Tue, 26 Dec 2023 08:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=295162">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231226163246_d7be2aaece8d033679840443f9fa70df.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=295162">[현장] 동방신기 정규9집 ‘20&amp;2’..   “유노윤호와 최강창민, 너는 또 다른 나”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231226163246_d7be2aaece8d033679840443f9fa70df.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["데뷔 20주년" 동방신기, 정규 9집 '20&2' 오늘 발매]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=295110</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=291697">멜론뮤직어워드(MMA2023), 오늘 인천에서 열린다... "레드카펫, 화려한 라인업"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231202085054_e41d939811775ed4d9449ec5c3ddbb51.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["뮤지컬 스타일~" 김준수-김소현-정선아, '프랭크 와일드혼'표 크리스마스 캐럴]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=291382</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=291382</guid>
-            <pubDate>Thu, 30 Nov 2023 01:56:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=291382">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231130074614_59a5ecc2a70bdb9dc0dc1501b9e4ffbc_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=291382">"뮤지컬 스타일~" 김준수-김소현-정선아, '프랭크 와일드혼'표 크리스마스 캐럴 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231130074614_59a5ecc2a70bdb9dc0dc1501b9e4ffbc_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
