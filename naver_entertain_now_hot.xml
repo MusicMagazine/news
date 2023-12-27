@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2023-12-27T18:14:43.359Z</updated>
+    <updated>2023-12-27T20:13:22.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독] ‘푸바오와 할부지’ PD “시청률 기대 안했는데.. 푸바오 인기에 놀랐다” (인터뷰)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003320945</id>
+        <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003320945"/>
+        <updated>2023-12-27T20:13:12.533Z</updated>
+        <content type="html"><![CDATA[“푸바오의 매력은 장난기죠. 판다라는 동물의 특성일 수도 있겠지만, 가끔 사람 같아요(웃음). 그리고 강철원 사육사님에 따르면 유독 푸바오가 예쁘게 생겼다고 하더라고요. 시청자들도 푸바오의 매력을 느끼신 거죠.” (]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김혜선 ·도끼·조덕배, 건보료 고액·상습 체납 [연예뉴스 HOT]]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001096436</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0005236269"/>
         <updated>2023-12-27T14:11:16.361Z</updated>
         <content type="html"><![CDATA[‘유퀴즈’ 장나라가 남편과의 러브스토리를 공개했다. 27일 방송된 tvN 예능프로그램 ‘유 퀴즈 온 더 블럭’(이하 ‘유퀴즈’)에서는 배우 장나라, 최초의 주한 미군 모녀이자 최초의 하버드대 모녀 재학생 서진규]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["잘 가요, 나의 아저씨" 故이선균, 연기인생 정점서 떠났다[종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0004092513</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0004092513"/>
-        <updated>2023-12-27T14:11:16.361Z</updated>
-        <content type="html"><![CDATA[배우 이선균이 사망했다. 향년 48세. 세상을 떠난 이선균은 오랜 무명 생활을 거쳐 글로벌 스타로 자리매김한 인물이었다. 한국예술종합학교 출신인 이선균은 1999년 비쥬의 '괜찮아' 뮤직비디오로 연예계에 입성했다.]]></content>
     </entry>
 </feed>
