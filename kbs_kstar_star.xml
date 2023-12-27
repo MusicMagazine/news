@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Dec 2023 04:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Dec 2023 05:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소속사.. "이선균 배우가 12월 27일 세상을 떠났습니다."]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=295373</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=295373</guid>
+            <pubDate>Wed, 27 Dec 2023 05:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=295373">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231227133948_b30febd0ac3441896f00f10cf6338ef6.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=295373">소속사.. "이선균 배우가 12월 27일 세상을 떠났습니다."</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231227133948_b30febd0ac3441896f00f10cf6338ef6.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[창작뮤지컬 '일 테노레' 개막... "경성의 의대생, 오페라에 눈 뜨다"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=295246</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=292890">"파워풀 우먼!" 이미경 CJ ENM 부회장... 할리우드리포터 선정 '2023 엔터테인먼트 여성 파워 100인' 포함</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231210121532_293f5bda27ffe29f24c8c737d1ac7d30_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이핑크 김남주, ‘핑크 크리스마스’ 개인 포토 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=292771</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=292771</guid>
-            <pubDate>Sun, 10 Dec 2023 00:59:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=292771">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231209164822_507e47230dccb6ce7112e1b4381d72f3.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=292771">에이핑크 김남주, ‘핑크 크리스마스’ 개인 포토 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231209164822_507e47230dccb6ce7112e1b4381d72f3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
