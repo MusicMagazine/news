@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Dec 2023 00:44:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 01:40:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴진스 하니·다니엘, ‘보그 오스트레일리아’ 커버 장식]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=295695</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=295695</guid>
+            <pubDate>Fri, 29 Dec 2023 01:40:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=295695">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231229101430_ae72859a3426d7fd8037e2d5f29c84de.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=295695">뉴진스 하니·다니엘, ‘보그 오스트레일리아’ 커버 장식</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231229101430_ae72859a3426d7fd8037e2d5f29c84de.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박지아·오용, 연극 ‘와이프’ 개... "여성과 퀴어의 삶"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=295670</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=292873">한동희, tvN 드라마 '세작, 매혹된 자들' 캐스팅...  '운수 오진 날'의 윤세나!</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231210114322_63c4ba65590329924fae21d8836eb847.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오동민, JTBC '닥터슬럼프' 캐스팅... 마취과 교수 출신 민경민]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=292418</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=292418</guid>
-            <pubDate>Mon, 11 Dec 2023 21:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=292418">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231206132638_8486b47d7382a145b89b4ffe5514071b.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=292418">오동민, JTBC '닥터슬럼프' 캐스팅... 마취과 교수 출신 민경민</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231206132638_8486b47d7382a145b89b4ffe5514071b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
