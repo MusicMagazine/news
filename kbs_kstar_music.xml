@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 23:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 00:44:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[규현의 새로운 시작, EP 'Restart' 콘셉트 포토..  내달 9일 발매]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=295635</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=295635</guid>
+            <pubDate>Fri, 29 Dec 2023 00:43:59 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=295635">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231229084202_73ecfbe5fd9239cff5ca37cbf4fb14d9_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=295635">규현의 새로운 시작, EP 'Restart' 콘셉트 포토..  내달 9일 발매</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231229084202_73ecfbe5fd9239cff5ca37cbf4fb14d9_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장] 동방신기 정규9집 ‘20&2’..   “유노윤호와 최강창민, 너는 또 다른 나”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=295162</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=291780">뉴진스, ‘MMA2023’서 대상 2관왕 포함 5관왕</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231203090120_e061b73d4e4e63cf6d769c4a261bfa6f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멜론뮤직어워드(MMA2023), 오늘 인천에서 열린다... "레드카펫, 화려한 라인업"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=291697</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=291697</guid>
-            <pubDate>Sat, 02 Dec 2023 00:52:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=291697">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231202085054_e41d939811775ed4d9449ec5c3ddbb51.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=291697">멜론뮤직어워드(MMA2023), 오늘 인천에서 열린다... "레드카펫, 화려한 라인업"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231202085054_e41d939811775ed4d9449ec5c3ddbb51.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
