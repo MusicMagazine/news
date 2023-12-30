@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Dec 2023 10:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Dec 2023 12:22:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[싸이, '강남스타일' MV K팝 최초 50억 뷰]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=295813</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=295813</guid>
+            <pubDate>Sat, 30 Dec 2023 12:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=295813">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231230200038_08f078bc1a2c4798c9c62efc612dd486.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=295813">싸이, '강남스타일' MV K팝 최초 50억 뷰</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231230200038_08f078bc1a2c4798c9c62efc612dd486.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴진스, NHK ‘홍백가합전’ 출연...3곡 특별 무대 펼친다]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=295775</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=291905">투모로우바이투게더, 고척돔에서 월드투어 피날레</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231204072808_8b02ef4c34775abe474aa841f2ab2a60.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[보이그룹 '휘브', ‘DIZZY’ 뮤직비디오 비하인드 영상]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=291833</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=291833</guid>
-            <pubDate>Sun, 03 Dec 2023 01:56:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=291833">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231203100620_41610d0f11c911dc439af652a225d3e1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=291833">보이그룹 '휘브', ‘DIZZY’ 뮤직비디오 비하인드 영상</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231203100620_41610d0f11c911dc439af652a225d3e1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Dec 2023 10:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Dec 2023 12:22:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김태리, '악귀'로 2023 SBS연기대상 대상 수상]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=295845</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=295845</guid>
+            <pubDate>Sat, 30 Dec 2023 12:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=295845">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231230212112_5c13ff6527aca2b64b31d14123c2027e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=295845">김태리, '악귀'로 2023 SBS연기대상 대상 수상</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231230212112_5c13ff6527aca2b64b31d14123c2027e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴진스 하니·다니엘, ‘보그 오스트레일리아’ 커버 장식]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=295695</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=293298">[인터뷰] 김준수 "빨갛게 물들인 10년... 그댄 내 삶의 이유, 나를 살게 한 첫사랑!" (뮤지컬 ‘드라큘라’)</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231213093817_fc17d28a65edc18e712231754d3a2f5d.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한동희, tvN 드라마 '세작, 매혹된 자들' 캐스팅...  '운수 오진 날'의 윤세나!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=292873</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=292873</guid>
-            <pubDate>Tue, 12 Dec 2023 23:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=292873">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231210114322_63c4ba65590329924fae21d8836eb847.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=292873">한동희, tvN 드라마 '세작, 매혹된 자들' 캐스팅...  '운수 오진 날'의 윤세나!</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231210114322_63c4ba65590329924fae21d8836eb847.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
