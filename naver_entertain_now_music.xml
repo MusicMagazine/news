@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2023-12-30T20:14:07.725Z</updated>
+    <updated>2023-12-30T21:10:42.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅 '별빛 같은 나의 사랑아' 첫 무대 2400만뷰]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003205652</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003205652"/>
+        <updated>2023-12-30T21:10:29.288Z</updated>
+        <content type="html"><![CDATA[가수 임영웅의 '별빛 같은 나의 사랑아' 첫 무대 영상이 2400만 뷰를 달성하며 인기를 빛냈다. 2021년 3월 13일 임영웅 공식 유튜브 채널에 공개된 '별빛 같은 나의 사랑아' 무대 영상은 12월 30일 조회수]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로칼하이레코즈, 국내 최대 규모 장르 시상식 ‘제3회 로칼하이어워즈 2023’ 성황리 마무리]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000934835</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001676442"/>
         <updated>2023-12-30T08:14:13.529Z</updated>
         <content type="html"><![CDATA[방탄소년단 뷔가 새로운 협업곡을 발표했다. 방탄소년단 뷔는 30일 오후 2시(이하 한국시간) 미국의 싱어송라이터 우미(UMI)와 함께한 협업곡 ‘wherever u r’을 전 세계 동시 공개했다. 이번 곡은 멀리 있]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[샤이니 온유 정규 1집 'Circle', 美빌보드 '2023년 최고의 K팝 앨범 25' 1위(공식)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003673184</id>
-        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003673184"/>
-        <updated>2023-12-30T08:14:13.529Z</updated>
-        <content type="html"><![CDATA[그룹 샤이니 온유의 정규 1집 ‘Circle’(써클)이 미국 빌보드(Billboard)가 선정한 올해 최고의 K팝 앨범으로 등극했다. 지난 3월 발매된 온유의 정규 1집 ‘Circle’은 빌보드가 29일(현지시간)]]></content>
     </entry>
 </feed>
