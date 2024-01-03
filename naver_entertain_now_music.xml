@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-01-03T13:14:55.632Z</updated>
+    <updated>2024-01-03T14:16:00.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[YG 떠난 지수, 생일 자축…블랙핑크 우정 여전]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012300482</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0012300482"/>
+        <updated>2024-01-03T14:15:47.210Z</updated>
+        <content type="html"><![CDATA[그룹 '블랙핑크' 지수가 홀로서기 후 첫 생일을 맞아 자축했다. 지수는 3일 자신의 소셜미디어(SNS)에 "2024. 01.03 Happy Birthday To Me"라는 글과 함께 한 장의 사진을 올렸다. 공개된]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["생일 축하해"…故 구하라 생일, 카라 의리+멈춰버린 SNS 축하 [종합]]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001677794</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0004094382"/>
         <updated>2024-01-03T10:15:04.105Z</updated>
         <content type="html"><![CDATA[NCT 127의 2023년은 '독기' 그 자체였다. 정규 5집 'Fact Check'(팩트 체크)로 전한 '우리의 진정한 가치를 팩트 체크해 봐'라는 메시지처럼 NCT 127이 쌓아온 음악 색깔과 실력을 여실히 증명]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김종현, 오늘 미니 2집 '브릴리언트 시즌즈' 발매]]></title>
-        <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003891057</id>
-        <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003891057"/>
-        <updated>2024-01-03T10:15:04.106Z</updated>
-        <content type="html"><![CDATA[가수 겸 배우 김종현.. 에버모어엔터테인먼트 제공 가수 겸 배우 김종현이 오늘 오후 6시 음원 플랫폼에 두 번째 미니앨범 '브릴리언트 시즌즈(Brilliant Seasons)'를 발매한다. '브릴리언트 시즌즈'는 치]]></content>
     </entry>
 </feed>
