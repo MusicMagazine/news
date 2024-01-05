@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 22:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 01:55:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴진스 'Super Shy', 스포티파이 4억 스트리밍 돌파]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=296566</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=296566</guid>
+            <pubDate>Fri, 05 Jan 2024 01:54:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=296566">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240105090236_f91f4fb449250c675bde6b5408ddbed1_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=296566">뉴진스 'Super Shy', 스포티파이 4억 스트리밍 돌파</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240105090236_f91f4fb449250c675bde6b5408ddbed1_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["2월의 트와이스" 미니13집 'With YOU-th' 발매]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=296323</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=292931">에이핑크 오하영, "핑크 크리스마스~"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231210193404_b3d675c8a39e8fc4b3c7437250c3881e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[황치열의 크리스마스 선물.. "I LOVE WINTER"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=292945</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=292945</guid>
-            <pubDate>Sun, 10 Dec 2023 21:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=292945">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231210195102_eb38b565023e979c0c9ca52ae4601505.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=292945">황치열의 크리스마스 선물.. "I LOVE WINTER"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231210195102_eb38b565023e979c0c9ca52ae4601505.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
