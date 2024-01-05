@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2024-01-05T15:13:01.422Z</updated>
+    <updated>2024-01-05T16:15:11.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NYT 평론가, 오스카 남우조연상 후보로 유태오 추천]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0014428545</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0014428545"/>
+        <updated>2024-01-05T16:15:10.471Z</updated>
+        <content type="html"><![CDATA["훌륭하다" 극찬…한국계 감독 연출 '패스트 라이브즈' 출연 고일환 특파원 = 미국 유력 언론사인 뉴욕타임스(NYT)의 영화평론가가 영화 '패스트 라이브즈'(Past Lives)에 출연한 한국 배우 유태오를 제96회]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[절연한 父에게 20년만에 전화한 여스타..."아버지 미워한적 없어" [룩@차이나]]]></title>
         <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001282450</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000809729"/>
         <updated>2024-01-05T06:20:11.850Z</updated>
         <content type="html"><![CDATA[일본 개그콤비 시모후리 묘우죠우 멤버 소시나가 충치 17개 진단을 받았다. 소시나는 1월 4일 개인 채널에 '병원에 갔더니 웃지 못할 진단 결과를 받았다'는 제목의 영상을 게재했다. 영상 속 소시나는 "지금 기분이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유명 록밴드 출신 스타, 실종된 여친 살해 혐의로 체포 충격 [할리우드비하인드]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000809728</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000809728"/>
-        <updated>2024-01-05T06:20:11.850Z</updated>
-        <content type="html"><![CDATA[미국 록 밴드 미스터 벙글(Mr. Bungle) 출신 테오 렝겔(Theo Lengyel)이 실종된 여자 친구 살해 혐의로 체포됐다. 1월 4일(현지 시간) 미국 연예매체 피플에 따르면 경찰은 지난 2일 샌프란시스코]]></content>
     </entry>
 </feed>
