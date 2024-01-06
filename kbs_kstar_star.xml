@@ -4,7 +4,7 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Jan 2024 22:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jan 2024 23:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -108,6 +108,23 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=296452">[書評] OTT 트렌드 2024 - AI 시대를 맞는 OTT의 전략 (유건식,한정훈,노창희 공저)</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240104101216_19d67eb2057225c73fe23d569d7577b5_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[‘서울가요대상’, 엔시티 드림 대상.. "태국에서 열린 K팝 축제 성료"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=296897</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=296897</guid>
+            <pubDate>Sat, 06 Jan 2024 23:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=296897">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240107072550_9f524c1b6e5605a6878e54ca5ebc172e.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=296897">‘서울가요대상’, 엔시티 드림 대상.. "태국에서 열린 K팝 축제 성료"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240107072550_9f524c1b6e5605a6878e54ca5ebc172e.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[토니어워즈 수상작 '디어 에반 핸슨'  초연...  충무아트센터 3월 개막]]></title>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=295489">바른손이앤에이 글로벌 사업 본격화, 인도네시아 프로젝트 협업 시작</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231228082619_b841b00bdca9a05882bd3e820c86bf90.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소속사.. "이선균 배우가 12월 27일 세상을 떠났습니다."]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=295373</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=295373</guid>
-            <pubDate>Wed, 27 Dec 2023 05:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=295373">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231227133948_b30febd0ac3441896f00f10cf6338ef6.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=295373">소속사.. "이선균 배우가 12월 27일 세상을 떠났습니다."</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231227133948_b30febd0ac3441896f00f10cf6338ef6.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
