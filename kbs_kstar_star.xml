@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Jan 2024 20:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jan 2024 22:14:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김소향, 뮤지컬 '마리 앙투아네트' 주인공 캐스팅]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=296545</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=296545</guid>
+            <pubDate>Sat, 06 Jan 2024 22:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=296545">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240105083142_187cd1c36eed6153cc7b5f6406ad2a0c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=296545">김소향, 뮤지컬 '마리 앙투아네트' 주인공 캐스팅</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240105083142_187cd1c36eed6153cc7b5f6406ad2a0c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[EMK 2024년 화려한 라인업.. "레베카, 마리 앙투아네트, 프랑켄슈타인.... 그리고 베르사유의 장미"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=296695</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=295373">소속사.. "이선균 배우가 12월 27일 세상을 떠났습니다."</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231227133948_b30febd0ac3441896f00f10cf6338ef6.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[창작뮤지컬 '일 테노레' 개막... "경성의 의대생, 오페라에 눈 뜨다"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=295246</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=295246</guid>
-            <pubDate>Tue, 26 Dec 2023 23:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=295246">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231227074557_d409e3256ed2c7addacf790cbab404af.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=295246">창작뮤지컬 '일 테노레' 개막... "경성의 의대생, 오페라에 눈 뜨다"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231227074557_d409e3256ed2c7addacf790cbab404af.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
