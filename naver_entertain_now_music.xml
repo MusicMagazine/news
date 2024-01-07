@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-01-07T09:15:36.619Z</updated>
+    <updated>2024-01-07T10:12:51.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이브 '아이엠'도 넘겼다…4번째 2억뷰 뮤비]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012305625</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0012305625"/>
+        <updated>2024-01-07T10:12:37.609Z</updated>
+        <content type="html"><![CDATA[4세대 K팝 대표 걸그룹 '아이브(IVE)'의 히트곡 '아이엠(I AM)' 뮤직비디오가 2억 뷰를 달성했다. 7일 소속사 스타쉽 엔터테인먼트에 따르면, 아이브의 첫번째 정규 앨범 '아이해브 아이브(I've IVE)']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘데뷔 D-1’ 웨이커, 'Mission of School' 기대 포인트 셋]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004995128</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004994915"/>
         <updated>2024-01-07T07:15:52.909Z</updated>
         <content type="html"><![CDATA['MZ 워너비 아이콘' 아이브(IVE : 안유진.가을.레이.장원영.리즈.이서)가 음원과 음반 두 마리 토끼를 다 잡으며 '4세대 대표 그룹'임을 또 한 번 증명했다. 아이브는 지난 6일 인도네시아 자카르타 인터내셔널]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SF9, ‘비보라’ MV 티저 추가 공개…폭풍 감정]]></title>
-        <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003322587</id>
-        <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003322587"/>
-        <updated>2024-01-07T07:15:52.910Z</updated>
-        <content type="html"><![CDATA[그룹 SF9이 신곡 ‘비보라’를 통해 휘몰아치는 격정적 감정을 선보인다. SF9은 오는 8일 발매하는 열세 번째 미니 앨범 ‘시퀀스’(Sequence) 타이틀곡 ‘비보라’(BIBORA)의 무드의 일부를 공개했다. 6]]></content>
     </entry>
 </feed>
