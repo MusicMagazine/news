@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Jan 2024 18:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jan 2024 21:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이브, '아이엠' 뮤직비디오 2억 뷰 돌파 ...'일레븐'·'러브 다이브'·'애프터 라이크' 이어 4번째]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=296920</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=296920</guid>
+            <pubDate>Sun, 07 Jan 2024 21:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=296920">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240107202003_07d53c7abf4b586918aad8688763f0dd.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=296920">아이브, '아이엠' 뮤직비디오 2억 뷰 돌파 ...'일레븐'·'러브 다이브'·'애프터 라이크' 이어 4번째</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240107202003_07d53c7abf4b586918aad8688763f0dd.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[뉴진스 'Super Shy', 스포티파이 4억 스트리밍 돌파]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=296566</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=293401">민희진 어도어 대표, ‘2023 대한민국 콘텐츠 대상’ 대통령표창 수상..."K-콘텐츠, 뉴진스와 함께"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231214075652_fccc22454a56e96e79e1c0eee21ecc9f_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이핑크 오하영, "핑크 크리스마스~"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=292931</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=292931</guid>
-            <pubDate>Mon, 11 Dec 2023 01:57:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=292931">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231210193404_b3d675c8a39e8fc4b3c7437250c3881e.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=292931">에이핑크 오하영, "핑크 크리스마스~"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231210193404_b3d675c8a39e8fc4b3c7437250c3881e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
