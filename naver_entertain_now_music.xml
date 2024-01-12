@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-01-12T14:12:51.504Z</updated>
+    <updated>2024-01-12T15:14:16.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤하 "이효리, 방송국 화장실에서 마주치고 충격"..왜? [Oh!쎈 리뷰]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004998228</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004998228"/>
+        <updated>2024-01-12T15:14:01.262Z</updated>
+        <content type="html"><![CDATA['이효리의 레드카펫'에서 윤하가 활동시기, 이효리를 화장실에서 마주친 에피소드를 전했다. 12일 KBS2TV 음악 '이효리의 레드카펫'에서 윤하가 출연했다. 이날 윤하가 '사건의 지평선'을 열창, 이 노래가 챌린지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘24일 컴백’ CIX, 타이틀곡은 ‘Lovers or Enemies’···첫 싱글 ‘0 or 1’ 트랙리스트 공개]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000937487</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003208584"/>
         <updated>2024-01-12T12:23:36.822Z</updated>
         <content type="html"><![CDATA[그룹 NCT 127이 방탄소년단과 대결 후 뮤직뱅크'에서 1위를 차지했다. 12일 방송된 KBS 2TV 음악프로그램 '뮤직뱅크'에서는 금주의 1위가 발표됐다. 이날 NCT 127 'Be There For Me'가 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘뮤뱅’ 트렌드지, 리온이 제작한 ‘위로위로’ 안무로 ‘원톱 퍼포 그룹’ 입증]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000937447</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000937447"/>
-        <updated>2024-01-12T12:23:36.823Z</updated>
-        <content type="html"><![CDATA[트렌드지(TRENDZ)가 자유분방한 매력으로 ‘뮤직뱅크’를 장악했다. 트렌드지(하빛, 리온, 윤우, 한국, 라엘, 은일, 예찬)는 12일 오후 방송된 KBS2 ‘뮤직뱅크’에 출연, 컴백곡 ‘위로위로’(Go Up) 무]]></content>
     </entry>
 </feed>
