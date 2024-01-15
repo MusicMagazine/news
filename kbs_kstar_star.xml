@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Jan 2024 23:12:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 02:01:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 ‘몬테크리스토’ 서인국-이지혜,  KBS Cool FM '청하의 볼륨을 높여요'에 출격]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=298155</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=298155</guid>
+            <pubDate>Mon, 15 Jan 2024 02:01:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=298155">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240115093535_e22784e3b07e9a0b6d974c2053b6f71d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=298155">뮤지컬 ‘몬테크리스토’ 서인국-이지혜,  KBS Cool FM '청하의 볼륨을 높여요'에 출격</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240115093535_e22784e3b07e9a0b6d974c2053b6f71d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 ‘마리 앙투아네트’ 10주년 공연 ..   김소향-이지혜-옥주현-윤공주-이아름솔-이해준-윤소호-백호 캐릭터 포스터]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=297628</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=296013">주현영 ‘2023MBC연기대상’ 신인상 수상.. ‘열녀박씨 계약결혼뎐’ 사월</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240101065307_9918ef29187debaccefdd28e4e04cb60.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박소이 '악귀'  SBS연기대상 청소년연기상 수상]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=295936</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=295936</guid>
-            <pubDate>Sun, 31 Dec 2023 08:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=295936">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231231154757_af8305deb9a09b852e2f44e6666da092.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=295936">박소이 '악귀'  SBS연기대상 청소년연기상 수상</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231231154757_af8305deb9a09b852e2f44e6666da092.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
