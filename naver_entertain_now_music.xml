@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-01-16T19:12:59.179Z</updated>
+    <updated>2024-01-16T20:15:54.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[韓日 록페스티벌 탄생…4월 '라우드 브리지 페스티벌 서울', 검엑스·YB·심 등 출연]]></title>
+        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000469104</id>
+        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000469104"/>
+        <updated>2024-01-16T20:15:40.068Z</updated>
+        <content type="html"><![CDATA[한국과 일본을 음악으로 잇는 록페스티벌 '라우드 브리지 페스티벌 서울 2024'(LOUD BRIDGE FESTIVAL SEOUL 2024)이 오는 4월 탄생한다. '라우드 브리지 페스티벌 서울 2024'는 오는 4월]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FT아일랜드, 아시아투어 '헤이 데이' 개최…7개 도시 순회]]></title>
         <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000469100</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=640&amp;aid=0000048723"/>
         <updated>2024-01-16T12:25:53.404Z</updated>
         <content type="html"><![CDATA[BTS’s RM and V completed their basic military training as elite trainees on Tuesday. RM posted photos on Instagram on th]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한음저협, '메이드 바이 AI' 표기 의무화 위한 공청회 개최]]></title>
-        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000469085</id>
-        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000469085"/>
-        <updated>2024-01-16T12:25:53.404Z</updated>
-        <content type="html"><![CDATA[사단법인 한국음악저작권협회(이하 한음저협)와 국회 문화체육관광위원회 이상헌 위원장, 김윤덕 간사, 유정주 위원은 생성형 AI 콘텐츠 표기 의무화법 도입을 위한 국회 공청회를 개최한다. 해당 공청회는 30일 오후 2시]]></content>
     </entry>
 </feed>
