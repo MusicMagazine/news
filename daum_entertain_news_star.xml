@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-01-18T17:12:44.014Z</updated>
+    <updated>2024-01-18T19:11:02.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘아가일’ 주연 배우들, “도전정신 무장한 한국 영화 존경”]]></title>
+        <id>https://v.daum.net/v/20240119040424805</id>
+        <link href="https://v.daum.net/v/20240119040424805"/>
+        <updated>2024-01-18T19:10:33.647Z</updated>
+        <content type="html"><![CDATA[“우리의 첫 목적지가 한국이라는 것이 의미 있고 영광스럽다. 기대를 뛰어넘는 놀라움이 있는 영화인만큼 개봉 첫 주에 극장에 찾아주시길 부탁드린다.” 영화 ‘아가일’의 주연을 맡은 배우 헨리 카빌이 18일 서울 종로구 포시즌스 호텔에서 열린 내한 기자간담회에서 이같이 밝혔다. 영화는 자신이 쓴 첩보 소설의 내용이 현실이 되면서 전 세계 스파이들의 표적이 된]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍이삭, ‘싱어게인3’ 최종 우승→2위 소수빈... 3위 이젤]]></title>
         <id>https://v.daum.net/v/20240119005100071</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240118232841519"/>
         <updated>2024-01-18T15:17:58.473Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 정유나 기자] '나솔사계' 14기 옥순이 '나는 솔로' 출연 당시에 대해 솔직하게 털어놨다. 18일 방송된 ENA, SBS Plus '나는 SOLO, 그 후 사랑은 계속된다'(이하 '나솔사계')에서는 '나는솔로' 옥순이들의 본격 로맨스가 펼쳐졌다. '솔로민박'에서의 첫날 밤, '짝' 출신 남자 4인방은 '옥순아, 밤마실 가자!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9기 옥순 "남자들한테 인기 없어"…男 3호 데이트에 '호감도 급상승']]></title>
-        <id>https://v.daum.net/v/20240118232834517</id>
-        <link href="https://v.daum.net/v/20240118232834517"/>
-        <updated>2024-01-18T15:17:58.474Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 이지현 기자 = '나는 솔로' 9기 옥순이 남자 3호에게 호감을 갖기 시작했다. 18일 오후 방송된 SBS Plus, ENA 예능 프로그램 '나는 SOLO, 그 후 사랑은 계속된다'('나솔사계')에서는 9기 옥순, 남자 3호의 심야 데이트가 공개됐다. 이날 남자 출연자들이 데이트 상대를 고를 수 있었는데 남자 3호가 9기 옥순 옆자리]]></content>
     </entry>
 </feed>
