@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jan 2024 04:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 05:12:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공포 미스터리 시리즈 ‘타로’.. .조여정-박하선-김진영(덱스)-고규필 캐스팅]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=298624</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=298624</guid>
+            <pubDate>Thu, 18 Jan 2024 05:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=298624">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240118140955_14ded5901ff572b1fc07381080004a1a_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=298624">공포 미스터리 시리즈 ‘타로’.. .조여정-박하선-김진영(덱스)-고규필 캐스팅 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240118140955_14ded5901ff572b1fc07381080004a1a_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한소희의 매력,  매거진 '엘르' 커버... "내가 잘 할 수 있는 것"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=298496</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=296344">토니어워즈 수상작 '디어 에반 핸슨'  초연...  충무아트센터 3월 개막</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240103090717_5888a76dfb26f058a9b87a044a64a1e8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['고려거란전쟁' 김동준, KBS연기대상 최우수상·올해의 베스트커플상 2관왕]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=296318</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=296318</guid>
-            <pubDate>Wed, 03 Jan 2024 00:57:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=296318">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240103075103_a7fd420f491f20ef1e9fa5206b1140fd.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=296318">'고려거란전쟁' 김동준, KBS연기대상 최우수상·올해의 베스트커플상 2관왕 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240103075103_a7fd420f491f20ef1e9fa5206b1140fd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
