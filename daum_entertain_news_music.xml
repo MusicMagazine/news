@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-01-19T02:30:06.593Z</updated>
+    <updated>2024-01-19T03:16:13.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하이키, 새해 첫 신곡 발표…'하이키 노트' 프로젝트 시동]]></title>
+        <id>https://v.daum.net/v/20240119113348542</id>
+        <link href="https://v.daum.net/v/20240119113348542"/>
+        <updated>2024-01-19T03:15:44.134Z</updated>
+        <content type="html"><![CDATA[[이데일리 스타in 김현식 기자] 걸그룹 하이키(H1-KEY·서이, 리이나, 휘서,옐)가 새해 첫 신곡 ‘띵킨 어바웃 유’(Thinkin’ About You) 음원을 19일 오후 6시 각종 음악플랫폼을 통해 발매한다. ‘띵킨 어바웃 유’는 하이키가 2번째 미니앨범 ’서울 드리밍‘(Seoul Dreaming)을 낸 이후 약 5개월 만에 선보이는 신곡이다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘독립레이블 출범’ 백현 전국투어 팬미팅 7회차 퍼펙트 매진]]></title>
         <id>https://v.daum.net/v/20240119112706270</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240119102405606"/>
         <updated>2024-01-19T01:57:10.692Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 그룹 아이브(IVE)가 영어 싱글로 글로벌 시장 공략에 나선다. 소속사 스타쉽엔터테인먼트에 따르면 아이브는 1월 19일 오전 9시(한국 기준)에 첫 번째 영어 싱글 '올 나이트(All Night)' 뮤직비디오 공개와 함께 음원을 발매했다. 아이브가 데뷔 이후 처음으로 선보이는 영어 싱글 '올 나이트'에는 Rihanna, Katy P]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슈퍼주니어-L.S.S. 22일 韓 첫 싱글 ‘Suit Up’ 공개]]></title>
-        <id>https://v.daum.net/v/20240119101638384</id>
-        <link href="https://v.daum.net/v/20240119101638384"/>
-        <updated>2024-01-19T01:57:10.693Z</updated>
-        <content type="html"><![CDATA[[OSEN=지민경 기자]&nbsp;슈퍼주니어 새로운 유닛,&nbsp;슈퍼주니어-L.S.S.(SUPER JUNIOR-L.S.S.,&nbsp;에스엠엔터테인먼트 소속)가 국내 첫 싱글 ‘Suit Up’(수트 업)으로 본격적인 활동을 시작한다. 슈퍼주니어-L.S.S.&nbsp;싱글 ‘Suit Up’은&nbsp;1월&nbsp;22일 오후&nbsp;6시 멜론,&nbsp;플로,&nbsp;지니,&nbsp;아이튠즈,&nbsp;애플뮤직,&nbsp;스포티파이, QQ뮤직,&nbsp;쿠고우]]></content>
     </entry>
 </feed>
