@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jan 2024 21:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jan 2024 00:58:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘브랜딩인성수동’ 로몬, 마성의 ‘MZ 인턴’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=298642</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=298642</guid>
+            <pubDate>Sat, 20 Jan 2024 00:57:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=298642">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240118113600_11758b99478f9fae6767d785e64d538b.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=298642">‘브랜딩인성수동’ 로몬, 마성의 ‘MZ 인턴’ </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240118113600_11758b99478f9fae6767d785e64d538b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[전시] 폼페이 유물전 – 그대, 그곳에 있었다... “여의도, 백화점에서 만나다”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=299007</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=296695">EMK 2024년 화려한 라인업.. "레베카, 마리 앙투아네트, 프랑켄슈타인.... 그리고 베르사유의 장미"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240106073024_6a589a998f3302173ef1b54cc6a64953.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["킬러 스타일? 쇼핑 스타일!"  이동욱-김혜준 <엘르> 화보 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=296683</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=296683</guid>
-            <pubDate>Fri, 05 Jan 2024 23:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=296683">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240106071508_3c8f48a1550b690fd30aa33af025a039.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=296683">"킬러 스타일? 쇼핑 스타일!"  이동욱-김혜준 &lt;엘르&gt; 화보 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240106071508_3c8f48a1550b690fd30aa33af025a039.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
