@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-01-21T12:22:04.057Z</updated>
+    <updated>2024-01-21T15:14:35.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TWS, 특별한 신인의 더 특별한 요소들[TF초점]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000262132</id>
+        <link href="https://entertain.naver.com/now/read?oid=629&amp;aid=0000262132"/>
+        <updated>2024-01-21T15:14:22.337Z</updated>
+        <content type="html"><![CDATA[22일 데뷔 앨범 'Sparkling Blue' 발매 플레디스엔터테인먼트는 세븐틴을 글로벌 최정상급 팀으로 이끈 노하우를 집약해 9년 만의 보이그룹 TWS(투어스)를 준비했다. TWS는 세븐틴의 성공 DNA를 물려받]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이티즈, 새 월드투어 日 공연도 단숨 매진]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012330985</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004939225"/>
         <updated>2024-01-21T11:12:01.548Z</updated>
         <content type="html"><![CDATA[그룹 ITZY 예지가 19일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보이넥스트도어 태산, '인기가요' 스페셜 MC 활약..운학과 찰떡 '케미']]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003210428</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003210428"/>
-        <updated>2024-01-21T11:12:01.550Z</updated>
-        <content type="html"><![CDATA[보이 그룹 보이넥스트도어(BOYNEXTDOOR) 태산과 운학이 유쾌한 진행으로 '인기가요'를 빛냈다. 태산은 21일 방송된 SBS '인기가요'에 스페셜 MC로 출연해 고정 MC로 활약 중인 같은 팀 멤버 운학, 배우]]></content>
     </entry>
 </feed>
