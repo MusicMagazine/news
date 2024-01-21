@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-01-21T19:12:43.701Z</updated>
+    <updated>2024-01-21T20:13:13.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[칼국수가 아니어도 칼자국을 냈을 말들…아이돌은 '감정노동자']]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012331033</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0012331033"/>
+        <updated>2024-01-21T20:12:57.801Z</updated>
+        <content type="html"><![CDATA[칼국수에 대한 섬세한 묘사 중 하나는 소설가 김애란이 썼다. "썰고, 가르고, 다지는 동안 칼은 종이처럼 얇아졌다. 씹고, 삼키고, 우물거리는 동안 내 창자와 내 간, 심장과 콩팥은 무럭무럭 자라났다. 나는 어머니가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘WONDERLAND THEATRE 2024’ 오는 27일과 28일 양일간 경희대학교 평화의전당서 개최]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000939113</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004939248"/>
         <updated>2024-01-21T11:12:01.539Z</updated>
         <content type="html"><![CDATA[그룹 에잇턴(8TURN) 해민이 19일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라이즈 ‘인기가요’ 1위…음방 2관왕 달성]]></title>
-        <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003325620</id>
-        <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003325620"/>
-        <updated>2024-01-21T11:12:01.540Z</updated>
-        <content type="html"><![CDATA[보이그룹 라이즈가 ‘인기가요’ 1위를 차지했다. 21일 방송된 SBS ‘인기가요’에서는 라이즈의 ‘Love 119’가 1위에 올랐다. 이날 1위 후보에는 라이즈와 함께 임재현 ‘비의 랩소디’와 ITZY ‘UNTOUC]]></content>
     </entry>
 </feed>
