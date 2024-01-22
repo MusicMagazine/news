@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-01-22T19:14:39.814Z</updated>
+    <updated>2024-01-22T20:15:53.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빌리의 강력한 존재감]]></title>
+        <id>https://v.daum.net/v/20240123050608071</id>
+        <link href="https://v.daum.net/v/20240123050608071"/>
+        <updated>2024-01-22T20:15:22.290Z</updated>
+        <content type="html"><![CDATA[아이돌 그룹 빌리를 볼 때마다 알 수 없는 에너지를 느낀다. 외모는 톡톡 튀는 것 같은데 무대 퍼포먼스를 보면 진지함이 느껴지고 어떤 무대는 또 로커의 열정도 느껴진다. 처음 빌리라는 아이돌 그룹의 이름을 들었을 때 젊은 세대는 ‘빌리 아일리시’의 빌리를 떠올렸을 것 같고, 나이가 조금 있는 분들은 ‘빌리 조엘’의 빌리를 떠올렸을 것 같다. 빌리에게 자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘슈퍼 밴드’ 그린 데이, 14번째 정규 앨범 ‘SAVIORS’ 발매]]></title>
         <id>https://v.daum.net/v/20240123033813504</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240122181533686"/>
         <updated>2024-01-22T11:13:57.478Z</updated>
         <content type="html"><![CDATA[[OSEN=선미경 기자] 그룹&nbsp;이븐(EVNNE)이 두 번째 미니 앨범&nbsp;‘Un: SEEN’으로 가요계에 컴백했다.&nbsp; 이븐(EVNNE)은 오늘(22일) 오후 6시에 컴백 타이틀곡&nbsp;‘UGLY’가 포함된 두 번째 미니 앨범&nbsp;‘Un: SEEN’을 발표했다.&nbsp;지난해&nbsp;9월 선보인 데뷔 앨범&nbsp;‘Target: ME’&nbsp;인기에 힘입어 한층 업그레이드 된 매력으로 돌아온 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['보이후드 팝' 내세운 투어스 "음표마다 소년시절 담았죠"]]></title>
-        <id>https://v.daum.net/v/20240122180505389</id>
-        <link href="https://v.daum.net/v/20240122180505389"/>
-        <updated>2024-01-22T09:13:36.124Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 최재서 기자 = "모든 음절, 가사, 음표마다 소년 시절의 이야기를 담으려고 노력했어요."(지훈) 6인조 신인 보이그룹 투어스(TWS)는 서울 용산구에서 열린 데뷔 쇼케이스에서 첫 미니음반 '스파클링 블루'(Sparkling Blue)를 이렇게 소개했다. 투어스는 1명을 제외한 모든 멤버가 10대로 구성된 소년 그룹으로, 이날 선보인 첫]]></content>
     </entry>
 </feed>
