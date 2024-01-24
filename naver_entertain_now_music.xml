@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-01-24T16:18:56.818Z</updated>
+    <updated>2024-01-24T19:11:31.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[레디, 힙합 신곡 ‘I’M UP’ 태국 아이튠즈 1위 기록]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000939833</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000939833"/>
+        <updated>2024-01-24T19:11:16.782Z</updated>
+        <content type="html"><![CDATA[힙합 아티스트 레디(Reddy)가 ‘I’M UP’으로 3개월 만에 컴백했다. 레디가 지난 21일 발매한 새 싱글 ‘I’M UP (아임 업)’은 발매 하루 만인 22일 기준 태국 아이튠즈의 히밥/랩 장르 톱 송 차트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Z세대 대표 아티스트 ‘챤미나’ 3월 단독 내한공연 개최]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000939826</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004940925"/>
         <updated>2024-01-24T15:13:33.825Z</updated>
         <content type="html"><![CDATA[그룹 엔믹스 릴리가 24일 오후 경기도 고양시 MBC 드림센터에서 열린 MBC M '쇼 챔피언' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 엔믹스 해원, '귀엽게 입술 삐쭉']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004940924</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004940924"/>
-        <updated>2024-01-24T15:13:33.826Z</updated>
-        <content type="html"><![CDATA[그룹 엔믹스 해원이 24일 오후 경기도 고양시 MBC 드림센터에서 열린 MBC M '쇼 챔피언' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
     </entry>
 </feed>
