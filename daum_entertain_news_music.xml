@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-01-25T12:24:42.281Z</updated>
+    <updated>2024-01-25T13:18:31.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[적재, 28일 리메이크 음원 ‘새벽 통화’ 발매 확정]]></title>
+        <id>https://v.daum.net/v/20240125220521750</id>
+        <link href="https://v.daum.net/v/20240125220521750"/>
+        <updated>2024-01-25T13:18:01.092Z</updated>
+        <content type="html"><![CDATA[싱어송라이터 적재가 리본 프로젝트 가창자로 나선다. 적재가 가창에 참여한 리본 프로젝트 컬래버레이션 음원 ‘새벽 통화’가 오는 28일 각종 온라인 음원사이트를 통해 발매된다. ‘리본 프로젝트’는 ‘새로 풀고 엮어 다시 만나다’라는 슬로건 아래 웹툰, 드라마, 도서, 영화 등 작품과 음원의 만남, 이전 발매됐던 숨겨진 명곡과 새로운 가창자의 만남 등]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘엠카’ 트리플에스 아리아, 겨울밤 감성적인 데뷔 무대]]></title>
         <id>https://v.daum.net/v/20240125204232917</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240125163131362"/>
         <updated>2024-01-25T08:18:16.574Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] "나와 함께 겁 없이 저물어줄래?" 1월 24일 아이유 신곡 'Love wins all'(러브 윈즈 올)이 공개됐다. 이번 싱글은 아이유가 연내 총 5곡을 수록해 발매 예정인 새 앨범 선공개곡이다. 신곡 발표는 2년 1개월 만이다. 아이유는 2021년 12월 총 5곡을 담은 소품집 '조각집' 이후 두 편의 영화에 출연하는 등 가수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[류수정 “이번엔 다크팝, ‘나만의 음악’ 하는 가수 될 것”]]></title>
-        <id>https://v.daum.net/v/20240125161455730</id>
-        <link href="https://v.daum.net/v/20240125161455730"/>
-        <updated>2024-01-25T08:18:16.574Z</updated>
-        <content type="html"><![CDATA[그룹 러블리즈 출신 류수정이 솔로 아티스트로서 자신만의 색을 드러냈다. 류수정은 지난 24일 두 번째 미니 앨범 ‘투록스(2ROX)’를 발매하고 색다른 매력을 뽐냈다. ‘투록스’는 류수정이 미국의 팝 가수 자일로(XYLØ)와 작업한 앨범이다. 자일로의 주 장르인 다크팝을 바탕으로, 타이틀곡 ‘쉿(SHXT)’을 포함한 3곡 전곡 작사와 작곡에 참여해 사]]></content>
     </entry>
 </feed>
