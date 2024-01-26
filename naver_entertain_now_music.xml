@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-01-26T18:15:03.432Z</updated>
+    <updated>2024-01-26T20:12:45.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아티스틱 퍼포머의 핫한 솔로 데뷔…NCT 텐, 2월 13일 첫 미니앨범 발표]]></title>
+        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000470697</id>
+        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000470697"/>
+        <updated>2024-01-26T20:12:31.722Z</updated>
+        <content type="html"><![CDATA[NCT 텐이 2월 솔로로 데뷔한다. 텐은 2월 13일 첫 미니앨범 '텐'(TEN)을 발표한다. '텐'에는 영어 가사를 담은 6곡이 수록된다. 텐 자신의 이름을 타이틀로 내세운 만큼 텐만이 할 수 있는 독보적인 음악]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(여자)아이들, 컴백 코앞인데.."민니·우기 컨디션 난조→일정 중단"[공식]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003211498</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004941810"/>
         <updated>2024-01-26T13:13:46.435Z</updated>
         <content type="html"><![CDATA[그룹 TWS(투어스) 한진이 26일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HK직캠｜JD1, '귀여움 가득한 모습으로 출근 완료' (뮤직뱅크 출근길)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004941808</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004941808"/>
-        <updated>2024-01-26T13:13:46.437Z</updated>
-        <content type="html"><![CDATA[가수 JD1(정동원)이 26일 오전 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content>
     </entry>
 </feed>
