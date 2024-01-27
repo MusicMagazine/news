@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-01-27T21:11:55.107Z</updated>
+    <updated>2024-01-27T22:11:29.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지드래곤의 '사필귀정' 그리고 '전화위복']]></title>
+        <id>https://v.daum.net/v/20240128070042524</id>
+        <link href="https://v.daum.net/v/20240128070042524"/>
+        <updated>2024-01-27T22:10:56.194Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 황미현 기자 = 가수 지드래곤(25. 권지용)은 지난해 마약 혐의를 받고 경찰서에 자진 출석했고, 조사 후 귀가한 뒤 자신의 사회관계망서비스(SNS)에 '사필귀정'이라는 글귀를 남겼다. 경찰의 출석 요청이 있던 것도 아닌데, 자진해서 경찰서에 모습을 드러냈던 지드래곤의 심경을 임팩트 있게 표현한 순간이었다. 사필귀정. 무슨 일이든 결국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亞 넘어 美까지…'K팝 현지화 그룹' 본격 출격]]></title>
         <id>https://v.daum.net/v/20240128060107977</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240127164758434"/>
         <updated>2024-01-27T10:11:52.120Z</updated>
         <content type="html"><![CDATA[[OSEN=지민경 기자] 그룹 (여자)아이들이 멤버들의 건강상의 이유로 컴백 기자간담회를 취소한다. (여자)아이들의 소속사 큐브엔터테인먼트 측은 27일 "오는 29일 예정되었던 (여자)아이들의 정규 2집 ‘2’&nbsp;발매 기념 기자간담회는 아티스트 건강상의 이유로 부득이하게 일정이 취소될 예정"이라고 밝혔다. 앞서 (여자)아이들은 29일&nbsp;오후 6시 정규 2집]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘음악중심’ 태연 3주째 1위, 김재환 컴백→설아 솔로 변신·TWS 데뷔]]></title>
-        <id>https://v.daum.net/v/20240127163740333</id>
-        <link href="https://v.daum.net/v/20240127163740333"/>
-        <updated>2024-01-27T10:11:52.122Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 태연이 ‘쇼! 음악중심’ 출연없이 1위 행진을 이어가고 있다. 1월 27일 방송된 MBC ‘쇼! 음악중심’에는 태연이 ‘To. X’로 엔믹스, 임재현을 제치고 1위에 올랐다. 올라운더 아티스트 김재환은 이성에게 마음을 얻고 싶어 하는 메시지를 가볍고 재치 있는 가사로 풀어낸 신곡 ‘Ponytail’로 다채로운 끼를 발산했다. A]]></content>
     </entry>
 </feed>
