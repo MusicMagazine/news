@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jan 2024 19:09:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 21:11:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우 김대곤, 연극 ‘초선의원’...  배테랑 연기로 그려내는 인권변호사]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=299848</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=299848</guid>
+            <pubDate>Mon, 29 Jan 2024 21:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=299848">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240125143338_065c858610d93d5f02f9f4b6c3a137c5.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=299848">배우 김대곤, 연극 ‘초선의원’...  배테랑 연기로 그려내는 인권변호사</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240125143338_065c858610d93d5f02f9f4b6c3a137c5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['황야'의 노정의, '싱글즈' 비주얼 화보]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=300547</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=298624">공포 미스터리 시리즈 ‘타로’.. .조여정-박하선-김진영(덱스)-고규필 캐스팅 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240118140955_14ded5901ff572b1fc07381080004a1a_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한소희의 매력,  매거진 '엘르' 커버... "내가 잘 할 수 있는 것"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=298496</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=298496</guid>
-            <pubDate>Wed, 17 Jan 2024 00:55:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=298496">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240117091912_e1c940a6102233d0a64587c14baab269.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=298496">한소희의 매력,  매거진 '엘르' 커버... "내가 잘 할 수 있는 것"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240117091912_e1c940a6102233d0a64587c14baab269.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
