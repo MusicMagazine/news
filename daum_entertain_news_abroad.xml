@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-01-30T19:10:26.434Z</updated>
+    <updated>2024-01-30T21:12:59.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세븐틴, 日레코드협회가 인증한 인기…스트리밍 '골드' 인증곡 누적 10곡]]></title>
+        <id>https://v.daum.net/v/20240131060010617</id>
+        <link href="https://v.daum.net/v/20240131060010617"/>
+        <updated>2024-01-30T21:12:38.014Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]그룹 세븐틴이 음원 스트리밍 횟수로 일본 내 독보적인 인기를 새삼 재확인했다. 30일 일본 레코드협회에 따르면, 세븐틴 정규 4집 타이틀곡 '핫'과 수록곡 '달링', 정규 2집 타이틀곡 '박수'가 2023년 12월 기준 누적 재생 수 5000만 회를 돌파하며 스트리밍 '골드' 인증을 받았다. 일본 레코드협회는 곡의 누적 재생]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이상민 “럭키, 어마어마한 부자…인도에 집 9채”]]></title>
         <id>https://v.daum.net/v/20240130232244172</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240130120431153"/>
         <updated>2024-01-30T05:13:16.367Z</updated>
         <content type="html"><![CDATA[[TV리포트=강성훈 기자] 가수 브리트니 스피어스(42)가 20년 전 사귄 가수 저스틴 팀버레이크(42)가 '낙태'를 강요했다고 폭로했던 것에 대해 사과했다. 29일(현지 시간) 브리트니 스피어스는 개인 소셜네트워크서비스에 노래 부르는 영상을 올렸다. 이와 함께 그는 "내가 책(자서전)에서 쓴 내용 중 일부에 대해 사과하고 싶다"라며 "내가 진심으로 아끼는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이탈리아 영화 아이콘' 산드라 밀로, 별세...향년 90세]]></title>
-        <id>https://v.daum.net/v/20240130113900111</id>
-        <link href="https://v.daum.net/v/20240130113900111"/>
-        <updated>2024-01-30T05:13:16.368Z</updated>
-        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 배우 산드라 밀로가 별세했다. 향년 90세. 29일(현지 시간) 외신 'abc NEWS' 등 현지 매체에 따르면 산드라 밀로는 28일 세상을 떠났다. 가족은 그가 잠을 자던 중 평화롭게 눈을 감았다고 성명을 발표했다. 산드라 밀로는 이탈리아 제일의 거장이라 불리는 고(故) 페데리코 펠리니(향년 73세) 감독의 영화 '8과 1/2']]></content>
     </entry>
 </feed>
