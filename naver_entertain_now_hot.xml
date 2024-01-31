@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2024-01-31T19:10:27.484Z</updated>
+    <updated>2024-01-31T20:17:32.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[음표 하나, 쉼표 하나… 달콤한 설렘을 담았다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=081&amp;aid=0003427791</id>
+        <link href="https://entertain.naver.com/now/read?oid=081&amp;aid=0003427791"/>
+        <updated>2024-01-31T20:17:24.500Z</updated>
+        <content type="html"><![CDATA[‘센과 치히로의 행방불명’, ‘이웃집 토토로’, ‘하울의 움직이는 성’ 등 대표작부터 ‘그대들은 어떻게 살 것인가’와 같은 최신작까지 지브리 영화 음악이 클래식과 만난다. 오는 14일 서울 송파구 롯데콘서트홀에서 열]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IU & Park Bogum, Netflix to Stream South Korean Drama "When Life Gives You Tangerines"]]></title>
         <id>https://entertain.naver.com/now/read?oid=445&amp;aid=0000171878</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003327785"/>
         <updated>2024-01-31T15:12:12.191Z</updated>
         <content type="html"><![CDATA[이은미를 비롯한 ‘골든걸스’ 멤버들도 박진영의 청룡영화상 무대를 놀렸던 것으로 나타났다. 이은미는 31일 오후 방송된 MBC 예능 프로그램 ‘라디오스타’에서 ‘골든걸스’의 프로듀서 박진영의 이야기를 하다 “댓글 중에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주호민 침묵 깼다..특수교사 재판 앞두고 "그간 일 들려드리겠다"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003212322</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003212322"/>
-        <updated>2024-01-31T14:15:03.816Z</updated>
-        <content type="html"><![CDATA[자신의 자폐성 아들을 아동학대했다며 특수교사를 고소하며 파장을 일으킨 웹툰 작가 주호민이 방송 복귀를 선언했다. 주호민은 31일 자신의 유튜브 채널 커뮤니티를 통해 "오랜만에 인사드린다. 내일 밤 9시 트위치 생방송]]></content>
     </entry>
 </feed>

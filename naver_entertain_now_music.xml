@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-01-31T19:10:27.478Z</updated>
+    <updated>2024-01-31T20:17:32.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SG워너비, 3월 데뷔 20주년 콘서트 '우리의 노래' 개최]]></title>
+        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000471503</id>
+        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000471503"/>
+        <updated>2024-01-31T20:17:17.220Z</updated>
+        <content type="html"><![CDATA[그룹 SG워너비(김용준, 김진호, 이석훈)가 오는 3월 데뷔 20주년 콘서트를 벌인다. SG워너비는 팬 사랑에 보답하고자 찬사와 호평이 쏟아진 공연 '우리의 노래'를 다시 한번 이어간다. SG워너비 콘서트 '우리의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘환상연가’ 박지훈X홍예지 애틋하고 묘한 관계 그린 OST 공개···김소연 ‘닿을게’ 발매]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000941176</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004943606"/>
         <updated>2024-01-31T14:14:57.312Z</updated>
         <content type="html"><![CDATA[그룹 CIX 용희가 31일 오후 경기도 고양시 MBC 드림센터에서 열린 MBC M '쇼 챔피언' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 엔믹스 해원, '상큼함 가득한 미소~']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004943605</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004943605"/>
-        <updated>2024-01-31T14:14:57.314Z</updated>
-        <content type="html"><![CDATA[그룹 엔믹스 해원이 31일 오후 경기도 고양시 MBC 드림센터에서 열린 MBC M '쇼 챔피언' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
     </entry>
 </feed>
