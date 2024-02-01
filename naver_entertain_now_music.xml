@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-02-01T19:16:02.674Z</updated>
+    <updated>2024-02-01T20:13:04.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(여자)아이들 소연 "완벽주의 성향에 한곡 2주 녹음"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012353823</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0012353823"/>
+        <updated>2024-02-01T20:12:47.424Z</updated>
+        <content type="html"><![CDATA[그룹 '(여자)아이들' 멤버 소연이 프로듀싱에 대한 열정을 드러냈다. 지난 1일 가수 겸 배우 비(본명 정지훈)가 운영하는 유튜브 채널 '시즌비시즌'에는 '저 기억하세요?" 10년 만에 재회한 천재돌 사촌동생 소연이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[틱톡, 스위프트 등 인기가수 동영상 묵음처리…협상 결렬 여파]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0014484053</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0012353616"/>
         <updated>2024-02-01T10:13:31.071Z</updated>
         <content type="html"><![CDATA[그룹 '엔하이픈(ENHYPEN)' 지식재산권(IP)이 기반이자 하이브(HYBE)의 오리지널 스토리인 웹툰·웹소설 '다크 문(DARK MOON): 달의 제단'이 오디오 드라마 앨범으로 출시됐다고 지니뮤직이 1일 밝혔다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우주소녀 다영, 美에서도 통한 러블리 매력…CES 2024 도슨트 활약에 인산인해]]></title>
-        <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000647544</id>
-        <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000647544"/>
-        <updated>2024-02-01T10:13:31.071Z</updated>
-        <content type="html"><![CDATA[그룹 우주소녀(WJSN) 다영이 미국에서 아이돌 최초 굴착기 글로벌 앰배서더다운 면모를 뽐냈다. 다영은 유튜브 스튜디오 룰루랄라 채널을 통해 미국 라스베이거스에서 진행되는 CES 2024에 HD현대 부스 도슨트 임무]]></content>
     </entry>
 </feed>
