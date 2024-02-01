@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-02-01T17:15:13.103Z</updated>
+    <updated>2024-02-01T18:18:08.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김동명, 레전드 록 보컬의 귀환···주니퍼 ‘하늘 끝에서 흘린 눈물’ 리메이크]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000941421</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000941421"/>
+        <updated>2024-02-01T18:17:55.006Z</updated>
+        <content type="html"><![CDATA[김동명이 명곡의 재해석으로 리스너들을 찾는다고 1일 전했다. 김동명이 가창에 참여한 ‘방구석 캐스팅’ 음원 ‘하늘 끝에서 흘린 눈물’이 오는 6일 발매를 확정했다. 김동명이 ‘방구석 캐스팅’ 프로젝트를 통해 리메이크]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[음악과 퍼포먼스의 힘…TWS, 2주 차에 불붙었다[TF초점]]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000264824</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=640&amp;aid=0000049487"/>
         <updated>2024-02-01T10:13:31.073Z</updated>
         <content type="html"><![CDATA[Rookie boy band Ampers&amp;One has been named the ambassador for the Korea Youth Association (KOYA), its agency FNC Entertai]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라이즈 ‘러브 원원나인’ 멜론 월간차트 15위…음원차트 라이징 파워]]></title>
-        <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003328029</id>
-        <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003328029"/>
-        <updated>2024-02-01T10:13:31.073Z</updated>
-        <content type="html"><![CDATA[그룹 라이즈가 국내외 음원 차트에서 또 한번 ‘라이징 파워’를 증명했다. 라이즈 싱글 ‘Love 119’(러브 원원나인)은 1일 멜론 1월 월간 차트에서 15위로 직행했다. 앞서 멜론 TOP100 3위·일간 5위·주]]></content>
     </entry>
 </feed>
