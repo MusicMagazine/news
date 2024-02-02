@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-02-02T20:12:53.141Z</updated>
+    <updated>2024-02-02T21:12:21.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[결승전 앞둔 '현역가왕'…톱10 필살기 톺아보기]]></title>
+        <id>https://v.daum.net/v/20240203060005466</id>
+        <link href="https://v.daum.net/v/20240203060005466"/>
+        <updated>2024-02-02T21:11:52.292Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]MBN ‘현역가왕’이 결승전을 남겨두고 있다. 결승전에 오른 전유진 김다현 박혜신 마이진 린 강혜연 별사랑 윤수현 마리아 김양 등 10명은 최후의 톱7이 되기 위해 저마다 필살기를 다듬고 있다. 치열했던 예선과 준결승전 경연을 이겨내고 결승전에 진출한 톱10이 마지막 무대인 결승전을 통해 어떠한 필살기를 꺼내 판을 뒤집을까.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제로베이스원 측 "허위 제작물 유포, 디지털 포렌식 진행…강력 법적 조치"]]></title>
         <id>https://v.daum.net/v/20240203050005218</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240202160719530"/>
         <updated>2024-02-02T07:11:43.940Z</updated>
         <content type="html"><![CDATA[[OSEN=지민경 기자] 그룹 스트레이 키즈의 한이 감기 몸살 증상으로 스케줄에 불참한다. 스트레이 키즈의 소속사 JYP엔터테인먼트 측은 2일 공식 SNS를 통해 "한이 갑작스러운 감기 몸살 증상으로 일정에 불참하게 됐다"고 밝혔다. 한은 건강상의 이유로 이날 중국 상하이에서 열리는 팬사인회에 불참한다. 소속사 측은 "한은 의료진 소견에 따라 충분한 휴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스트레이 키즈 한, 감기 몸살로 일정 불참 "휴식과 안정"]]></title>
-        <id>https://v.daum.net/v/20240202160348387</id>
-        <link href="https://v.daum.net/v/20240202160348387"/>
-        <updated>2024-02-02T07:11:43.942Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 안윤지 기자] 그룹 스트레이 키즈(Stray Kids) 한 /사진=김창현그룹 스트레이 키즈 멤버 한이 감기 몸살로 일정을 쉬어간다. JYP엔터테인먼트 측은 지난 1일 공식 SNS 계정을 통해 "한이 갑작스러운 감기 몸살 증상으로 인해 KMStation 중국 상하이 팬사인회 일정에 불참한다"라고 밝혔다. 이어 "한은 의료진 소견에 따라 충분]]></content>
     </entry>
 </feed>
