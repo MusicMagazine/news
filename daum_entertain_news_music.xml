@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-02-02T16:15:53.916Z</updated>
+    <updated>2024-02-02T20:12:53.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제로베이스원 측 "허위 제작물 유포, 디지털 포렌식 진행…강력 법적 조치"]]></title>
+        <id>https://v.daum.net/v/20240203050005218</id>
+        <link href="https://v.daum.net/v/20240203050005218"/>
+        <updated>2024-02-02T20:12:23.448Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 그룹 제로베이스원(ZEROBASEONE) 소속사 웨이크원이 허위 제작물 유포에 대해 엄중 경고했다. 3일 소속사 웨이크원은 "최근 온라인 커뮤니티 및 SNS를 통해 당사 소속 아티스트에 대한 허위 제작물이 무분별하게 유포되고 있다"고 밝혔다.&nbsp; 이어 "당사는 아티스트의 인격권 및 사생활을 침해하고 안전을 위협하는 범죄에 대해 무]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘빌드업’ 서은광 홀 박주희, 낭랑 18세]]></title>
         <id>https://v.daum.net/v/20240202231007694</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240202160348387"/>
         <updated>2024-02-02T07:11:43.942Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 안윤지 기자] 그룹 스트레이 키즈(Stray Kids) 한 /사진=김창현그룹 스트레이 키즈 멤버 한이 감기 몸살로 일정을 쉬어간다. JYP엔터테인먼트 측은 지난 1일 공식 SNS 계정을 통해 "한이 갑작스러운 감기 몸살 증상으로 인해 KMStation 중국 상하이 팬사인회 일정에 불참한다"라고 밝혔다. 이어 "한은 의료진 소견에 따라 충분]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차은우, 데뷔 8년만 솔로 출격‥못 보던 애절함]]></title>
-        <id>https://v.daum.net/v/20240202154354565</id>
-        <link href="https://v.daum.net/v/20240202154354565"/>
-        <updated>2024-02-02T07:11:43.942Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 차은우가 데뷔 8년 만에 첫 솔로 앨범 ‘ENTITY’를 선보인다. 소속사 판타지오는 2월 2일 오후 공식 SNS를 통해 커밍업 영상을 공개했다. 커밍업 영상이 공개되며 앨범명이 정식으로 베일을 벗었다. 앨범명 ‘ENTITY(엔티티)’는 ‘개체’라는 의미를 지닌 단어로, 이번 앨범에서 차은우는 본래 모습인 이동민으로서 솔직하고 다양]]></content>
     </entry>
 </feed>
