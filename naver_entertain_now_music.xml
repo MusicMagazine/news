@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-02-02T13:12:56.301Z</updated>
+    <updated>2024-02-02T15:13:11.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[DAUL (다울), 리믹스 음원 ‘Water (DAUL Remix)’ 공개]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000941623</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000941623"/>
+        <updated>2024-02-02T15:12:57.828Z</updated>
+        <content type="html"><![CDATA[프로듀서와 DJ로 활동중인 DAUL (다울)이 Laura Roy와 리믹스 음원 ‘Water (DAUL Remix)’를 공개했다고 2일 전했다. Laura Roy는 그래미 노미네이트, East Coast Music A]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위아이, 14일 日 두 번째 미니앨범 ‘WAVE’ 발매 확정]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000941620</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=640&amp;aid=0000049546"/>
         <updated>2024-02-02T11:12:58.120Z</updated>
         <content type="html"><![CDATA[Boy band Cravity will return with its seventh EP “Evershine” on Feb. 26, the band’s agency Starship Entertainment said F]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[틱톡, 스위프트 등 가수 동영상 묵음처리···유니버설뮤직 소속 가수 동영상에 ‘저작권 문제로 음향제거’ 문구삽입]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000941582</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000941582"/>
-        <updated>2024-02-02T11:12:58.121Z</updated>
-        <content type="html"><![CDATA[동영상 플랫폼 틱톡에서 테일러 스위프트 등 대중음악 스타들 음악이 사라졌다. 1일(현지시간) 월스트리트저널(WSJ)에 따르면 틱톡은 라이선스 협상 결렬에 따라 이날부터 세계 최대의 음악 콘텐츠 기업 유니버설 뮤직그룹]]></content>
     </entry>
 </feed>
