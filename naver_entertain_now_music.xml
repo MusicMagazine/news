@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-02-03T20:17:15.918Z</updated>
+    <updated>2024-02-03T21:12:47.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이찬원 '오동도 블루스' 200만뷰]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003212867</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003212867"/>
+        <updated>2024-02-03T21:12:33.257Z</updated>
+        <content type="html"><![CDATA[가수 이찬원의 '오동도 블루스' 무대 영상이 200만 뷰를 달성하며 인기를 빛냈다. 지난 2021년 5월 21일 미스&amp;미스터트롯 공식 유튜브 채널에 공개된 '오동도 블루스' 클린 버전 영상은 2월 3일 기준 200만]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘데뷔 4주년’ 다크비 “팀워크 더욱 끈끈해져…팬들과 40주년까지 함께하고파” [일문일답]]]></title>
         <id>https://entertain.naver.com/now/read?oid=408&amp;aid=0000213975</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000820059"/>
         <updated>2024-02-03T07:12:10.815Z</updated>
         <content type="html"><![CDATA[라이즈, 아이유, 임재현이 ‘쇼! 음악중심’ 1위 후보로 만났다. 2월 3일 방송된 MBC ‘쇼! 음악중심’에는 2월 첫째 주 1위 후보가 공개 됐다. 이날 방송에는 라이즈의 ‘Love 119’, 아이유의 ‘Love]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베이비몬스터 '스턱 인 더 미들', 유튜브 MV 차트 1위]]></title>
-        <id>https://entertain.naver.com/now/read?oid=018&amp;aid=0005667089</id>
-        <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005667089"/>
-        <updated>2024-02-03T07:12:10.818Z</updated>
-        <content type="html"><![CDATA[베이비몬스터가 첫 미니앨범 선공개곡으로 유튜브 뮤직 차트 정상을 차지했다. 사진=YG엔터테인먼트 3일 유튜브가 발표한 최신 차트(2024.02.01)에 따르면 베이비몬스터의 신곡 ‘Stuck In The Middle]]></content>
     </entry>
 </feed>
