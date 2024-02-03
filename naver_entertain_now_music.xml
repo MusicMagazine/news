@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-02-03T21:12:47.138Z</updated>
+    <updated>2024-02-03T22:11:36.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['찬또배기' 이찬원, '시절인연(時節因緣)' 월간 차트 TOP2]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001688359</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001688359"/>
+        <updated>2024-02-03T22:11:23.585Z</updated>
+        <content type="html"><![CDATA[이찬원의 첫 OST 넘버인 '시절인연(時節因緣)'이 꾸준히 사랑받고 있다. 이찬원의 '시절인연(時節因緣)'은 2024년 1월 멜론 월간 차트에서 2위를 차지했다. 이는 지난달 대비, 5 계단 상승한 순위이기도 하다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이찬원 '오동도 블루스' 200만뷰]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003212867</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000820061"/>
         <updated>2024-02-03T09:16:47.591Z</updated>
         <content type="html"><![CDATA[베이비몬스터가 첫 미니앨범 선공개곡으로 막강한 글로벌 저력을 증명했다. 2월 3일 유튜브가 발표한 최신 차트(2024.02.01)에 따르면 베이비몬스터의 신곡 'Stuck In The Middle'은 글로벌 유튜브]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘음악중심’ 라이즈vs아이유vs임재현, 1위 후보 격돌]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000820059</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000820059"/>
-        <updated>2024-02-03T07:12:10.815Z</updated>
-        <content type="html"><![CDATA[라이즈, 아이유, 임재현이 ‘쇼! 음악중심’ 1위 후보로 만났다. 2월 3일 방송된 MBC ‘쇼! 음악중심’에는 2월 첫째 주 1위 후보가 공개 됐다. 이날 방송에는 라이즈의 ‘Love 119’, 아이유의 ‘Love]]></content>
     </entry>
 </feed>
