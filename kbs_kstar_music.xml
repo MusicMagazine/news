@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Feb 2024 20:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Feb 2024 21:11:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이유, 20일 컴백.. 6번째 미니앨범 ‘The Winning’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=301229</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=301229</guid>
+            <pubDate>Sun, 04 Feb 2024 21:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=301229">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240202194107_41959e7cd2e9fc4c14b73671f8726fb3.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=301229">아이유, 20일 컴백.. 6번째 미니앨범 ‘The Winning’</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240202194107_41959e7cd2e9fc4c14b73671f8726fb3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마마무 문별, 첫 솔로 정규앨범 'Starlit of Muse' 콘셉트 포토]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=301471</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=296323">"2월의 트와이스" 미니13집 'With YOU-th' 발매</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240103080415_5294503da820c2984e42c9725b0e988b_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동방신기, 데뷔 20주년 기념 단독 콘서트... "2023 TVXQ! CONCERT [20&2]"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=296051</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=296051</guid>
-            <pubDate>Mon, 01 Jan 2024 00:58:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=296051">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240101093302_071eed30c1ac0f731cf5c5b4eea7c9bf.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=296051">동방신기, 데뷔 20주년 기념 단독 콘서트... "2023 TVXQ! CONCERT [20&amp;2]"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240101093302_071eed30c1ac0f731cf5c5b4eea7c9bf.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
