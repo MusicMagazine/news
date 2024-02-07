@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-02-07T17:13:32.001Z</updated>
+    <updated>2024-02-07T18:17:03.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 년을 견인할 새로운 아티스트는 누구?···민트페이퍼 싱어송라이터 오디션 ‘원콩쿨’ 성황리 종료]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000942515</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000942515"/>
+        <updated>2024-02-07T18:16:48.749Z</updated>
+        <content type="html"><![CDATA[‘뷰티풀 민트 라이프’, ‘그랜드 민트 페스티벌’, ‘해브 어 나이스 데이’, ‘해브 어 나이스 트립’, ‘카운트다운판타지’ 등 국내의 주요 페스티벌 및 공연을 보유한 ‘민트페이퍼’가 2016년부터 꾸준하게 선보인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘26일 컴백’ 크래비티, ‘에버샤인’ 트랙리스트 공개]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000942509</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004946535"/>
         <updated>2024-02-07T13:13:09.143Z</updated>
         <content type="html"><![CDATA[그룹 펜타곤 후이가 7일 오후 경기도 고양시 MBC 드림센터에서 열린 MBC M '쇼 챔피언' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[POP초점]블랙핑크, '따로 또 함께' 행보 스타트? 리사까지 개인 레이블 설립할까]]></title>
-        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003680354</id>
-        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003680354"/>
-        <updated>2024-02-07T13:13:09.144Z</updated>
-        <content type="html"><![CDATA[그룹 블랙핑크가 '따로 또 함께' 활동을 예고하며 2막을 준비하고 있다. 홀로서기한 멤버들의 행보는 어떨까 7일 블랙핑크 리사는 개인 채널을 통해 의미심장한 예고를 남겼다. 어두운 조명과 함께 눈을 드러낸 사진을 공]]></content>
     </entry>
 </feed>
