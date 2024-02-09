@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Feb 2024 02:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Feb 2024 03:13:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서현우.. "새해엔, '킬러들의 쇼핑몰' 보고 성불하세요"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=302364</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=302364</guid>
+            <pubDate>Fri, 09 Feb 2024 03:12:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=302364">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240209120149_d15ee1d2599a303ca46c979e0e9a9c39.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=302364">서현우.. "새해엔, '킬러들의 쇼핑몰' 보고 성불하세요"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240209120149_d15ee1d2599a303ca46c979e0e9a9c39.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴진스, 설 인사.. “푸른 용 기운 받아 힘차게 시작하자”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=302338</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=300547">'황야'의 노정의, '싱글즈' 비주얼 화보 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240129085632_d952b4f0e01f017f91b5e09364e9704e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 서영희, 티빙 ‘내가 죽기 일주일 전’ 캐스팅... 공명과 모자 호흡]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=299741</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=299741</guid>
-            <pubDate>Sat, 27 Jan 2024 17:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=299741">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240124114012_c3bd0eb2e2c97b2cb421ea2f586ba51c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=299741"> 배우 서영희, 티빙 ‘내가 죽기 일주일 전’ 캐스팅... 공명과 모자 호흡</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240124114012_c3bd0eb2e2c97b2cb421ea2f586ba51c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
