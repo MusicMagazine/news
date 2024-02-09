@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Feb 2024 11:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Feb 2024 16:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이브, 첫 월드투어 '쇼 왓 아이 해브'.. 일본 3개 도시 공연 성료]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=302395</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=302395</guid>
+            <pubDate>Fri, 09 Feb 2024 16:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=302395">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240209193319_9805d8e900bc6de88af83de314c5fd0e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=302395">아이브, 첫 월드투어 '쇼 왓 아이 해브'.. 일본 3개 도시 공연 성료</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240209193319_9805d8e900bc6de88af83de314c5fd0e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[르세라핌 허윤진, 美 싱어송라이터 맥스 신곡 피처링·작사 참여]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=302369</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=296920">아이브, '아이엠' 뮤직비디오 2억 뷰 돌파 ...'일레븐'·'러브 다이브'·'애프터 라이크' 이어 4번째</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240107202003_07d53c7abf4b586918aad8688763f0dd.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스 'Super Shy', 스포티파이 4억 스트리밍 돌파]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=296566</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=296566</guid>
-            <pubDate>Fri, 05 Jan 2024 01:54:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=296566">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240105090236_f91f4fb449250c675bde6b5408ddbed1_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=296566">뉴진스 'Super Shy', 스포티파이 4억 스트리밍 돌파</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240105090236_f91f4fb449250c675bde6b5408ddbed1_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
