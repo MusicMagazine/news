@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Feb 2024 01:45:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Feb 2024 02:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴진스, 설 인사.. “푸른 용 기운 받아 힘차게 시작하자”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=302338</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=302338</guid>
+            <pubDate>Fri, 09 Feb 2024 02:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=302338">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240209111032_28319516099f0592227b7107124eab88_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=302338">뉴진스, 설 인사.. “푸른 용 기운 받아 힘차게 시작하자” </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240209111032_28319516099f0592227b7107124eab88_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우 류덕환 인터뷰 프로젝트,  영상 전시회 '논펀저블' 개최]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=302258</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=299741"> 배우 서영희, 티빙 ‘내가 죽기 일주일 전’ 캐스팅... 공명과 모자 호흡</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240124114012_c3bd0eb2e2c97b2cb421ea2f586ba51c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백현 ‘과자파티’.. "부산에서 하는 팬미팅, CGV로 전국에서 본다"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=300320</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=300320</guid>
-            <pubDate>Sat, 27 Jan 2024 01:42:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=300320">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240127085500_2a0485fe0a7b24dd790c4a43f7d017e1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=300320">백현 ‘과자파티’.. "부산에서 하는 팬미팅, CGV로 전국에서 본다"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240127085500_2a0485fe0a7b24dd790c4a43f7d017e1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
