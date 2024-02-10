@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Feb 2024 03:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Feb 2024 05:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=302395</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=302395</guid>
             <pubDate>Fri, 09 Feb 2024 16:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=302395">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=302395">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240209193319_9805d8e900bc6de88af83de314c5fd0e.jpg" alt="대체 텍스트">
@@ -777,6 +777,27 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/02/07/cf92be14-d849-4187-9ed1-19c75fa02f41.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[손동표 "미래소년 한복킹=카엘..상견례 프리패스상" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20240210140015098</link>
+            <guid>https://v.daum.net/v/20240210140015098</guid>
+            <pubDate>Sat, 10 Feb 2024 05:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 이승훈 기자] 미래소년 /사진=김창현 기자 chmt@ "Into our Future! 안녕하세요 미래소년입니다!" 보이 그룹 미래소년(MIRAE)이 올해 데뷔 3주년에 이어 일본 정식 데뷔를 결정, 겹경사를 맞이하면서 새로운 전성기를 예고했다. 특히 미래소년(이준혁, 리안, 유도현, 카엘, 손동표, 박시영, 장유빈)은 지난해의 아쉬웠던 점을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["데이식스처럼"..미래소년이 꿈꾸는 청춘 응원가 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20240210140002081</link>
+            <guid>https://v.daum.net/v/20240210140002081</guid>
+            <pubDate>Sat, 10 Feb 2024 05:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 이승훈 기자] 미래소년 /사진=김창현 기자 chmt@ -인터뷰①에 이어서. -3월 17일이면 벌써 데뷔 3주년이에요. ▶박시영=데뷔 쇼케이스를 한 게 지난해 같은데 벌써 3주년이 됐다는 게 실감이 안 나요. 앞으로 더 멋있는 아티스트가 되고 싶다는 마인드를 가지게 되는 것 같아요. ▶이준혁=벌써 3주년인 게 믿기지 않아요. 데뷔 때와]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[지나유·장송호에게 ‘선배 장윤정’이란? (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20240210125221622</link>
+            <guid>https://v.daum.net/v/20240210125221622</guid>
+            <pubDate>Sat, 10 Feb 2024 05:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 김지하 기자] 가수 지나유(본명 지나유)와 장송호에게 선배 장윤정은 ‘동경의 대상’이자 ‘버팀목’이었다. 지나유와 장송호는 구정 명절을 앞두고 티브이데일리와 한복 인터뷰를 진행했다. 같은날 한 시간 간격으로 티브이데일리 사옥을 찾은 두 사람은 근황부터 활동 계획까지 다양한 이야기를 나눴는데, 공교롭게도 이들의 입에서 공통적으로 나온 ‘선배’가]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['칼군무' 내려놓고 봄바람처럼···보이그룹의 '청춘' 열풍 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
             <link>https://v.daum.net/v/20240210120017332</link>
             <guid>https://v.daum.net/v/20240210120017332</guid>
@@ -861,130 +882,109 @@
             <content:encoded><![CDATA[[편집자주] [여솔백과] '여성 솔로 백과사전'을 펼쳐보세요. '여솔백과'는 국내를 넘어 세계로 뻗어나가는 여성 솔로 가수들의 이야기를 담는 장입니다. [스타뉴스 | 안윤지 기자] K팝 스타들이 전 세계를 누비면서 한국 대중가요의 저변이 확장됐다. 국내 팬들을 겨냥했던 가수들은 점차 글로벌을 목표로 앨범을 제작했으며 미국 음원 시장인 빌보드를 겨냥했다. 실]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[헤이즈 "비슷하단 말 새겨..'빙글빙글', 내겐 신세계였다" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20240210100106178</link>
-            <guid>https://v.daum.net/v/20240210100106178</guid>
-            <pubDate>Sat, 10 Feb 2024 01:41:26 GMT</pubDate>
-            <content:encoded><![CDATA[[편집자주] [여솔백과] '여성 솔로 백과사전'을 펼쳐보세요. '여솔백과'는 국내를 넘어 세계로 뻗어나가는 여성 솔로 가수들의 이야기를 담는 장입니다. [스타뉴스 | 안윤지 기자] -인터뷰①에 이어 가수 헤이즈 /사진=이동훈 기자 photoguy@-개인적으로 헤이즈 씨는 이별이 대주제였다면 시간이 지나갈수록 스펙트럼이 넓어지고 있다는 느낌입니다. 헤이즈]]></content:encoded>
+            <title><![CDATA[송은이, 백수→매출 42억↑ 대표 "미혼녀 할 프로그램 없다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20240210140118140</link>
+            <guid>https://v.daum.net/v/20240210140118140</guid>
+            <pubDate>Sat, 10 Feb 2024 05:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;개그우먼 겸 방송인 송은이가 기획사를 차린 이유에 대해 털어놨다. 방송의 메인 스트림에 자신의 상황이 맞아떨어지지 않아 백수가 됐고, 이후 회사를 차린 것이라고. 9일 공개된 오은영의 유튜브 채널에서 송은이는 “제가 백수가 됐던 2014년에 회사를 시작했다. 놀다가 돌아가는 흐름을 보니 저 같은 미혼의 여자들이 할 수 있는 프로]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[헤이즈 "10년 함께한 팬들 감사..'나다움'이 중요" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20240210100101168</link>
-            <guid>https://v.daum.net/v/20240210100101168</guid>
-            <pubDate>Sat, 10 Feb 2024 01:41:26 GMT</pubDate>
-            <content:encoded><![CDATA[[편집자주] [여솔백과] '여성 솔로 백과사전'을 펼쳐보세요. '여솔백과'는 국내를 넘어 세계로 뻗어나가는 여성 솔로 가수들의 이야기를 담는 장입니다. [스타뉴스 | 안윤지 기자] -인터뷰②에 이어 가수 헤이즈 / 사진제공 = 피네이션 /사진=김창현 기자 chmt@-가요계에서 여성 솔로 가수가 적다 보니 헤이즈 씨의 화제성이나 높은 인기가 반갑게 느껴집]]></content:encoded>
+            <title><![CDATA[장원영·장다아 어머님이 누구니? 얼굴도 끼도 똑닮은 연예계 스타 자매 5人 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20240210140101124</link>
+            <guid>https://v.daum.net/v/20240210140101124</guid>
+            <pubDate>Sat, 10 Feb 2024 05:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=최지예 기자]연예계 스타 자매들은 누가 있을까. 같은 부모님 아래에서 같은 유년 시절을 보냈을 자매들. 끼도 얼굴도 닮아 있는 연예계 대표 스타 다섯 자매를 꼽았다.&nbsp; 먼저, 양희은-양희경 자매를 떠올릴 수 있다. 언니인 양희은은 1971년 '아침 이슬'로 데뷔해, 현재까지 꾸준히 음악으로 소통하고 있는 아티스트다. 특유의 음색이 많은 이들에게]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임한별, 에스페로와 신곡 준비중 “조영수 러브콜 받아 가창 결정” (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20240210095319046</link>
-            <guid>https://v.daum.net/v/20240210095319046</guid>
-            <pubDate>Sat, 10 Feb 2024 01:41:26 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 가수 임한별이 크로스오버 그룹 에스페로(Espero)와 함께 신곡을 준비 중이다. 임한별과 에스페로는 작곡가 조영수가 직접 제작한 신곡으로 2월 17일 음원 발매를 예고한 가운데, 임한별이 조영수에게 러브콜을 받아 가창을 결정했다고 알려졌다. 조영수는 수많은 히트곡으로 대한민국 가요사에 한 획을 그은 최고의 작곡가인 만큼, 그가 제]]></content:encoded>
+            <title><![CDATA['은퇴고민' 박나래, 결국 3번째 성대수술→'나혼산' 녹화 불참 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20240210135743066</link>
+            <guid>https://v.daum.net/v/20240210135743066</guid>
+            <pubDate>Sat, 10 Feb 2024 05:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 이예주 기자] 방송인 박나래가 세 번째 성대 수술을 받았다. 9일 MBC '나 혼자 산다' 녹화에는 박나래가 성대 수술로 인해 불참했다. 전현무는 "나래가 목 상태가 너무 나빠져서 쉬어야 한다. 급하게 수술을 받았다"고 설명했다. 기안84는 "병문안을 가려고 했는데 오늘 퇴원했다더라. 카톡방에서 저번주에 수술을 했다고 했다"고 거들었다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박유천, 돈 떨어졌나?…日 44만원↑ 고가 디너쇼 강행 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20240210121222436</link>
-            <guid>https://v.daum.net/v/20240210121222436</guid>
-            <pubDate>Sat, 10 Feb 2024 03:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;그룹 동방신기 출신 배우 박유천이 일본에서 고액의 팬미팅 겸 디너쇼를 개최했다. 마약한 게 사실이라면 은퇴를 하겠다던 그가 활동을 재개한 것도 모자라, 고액 체납자라는 사실까지 더해지면서 비판이 일고 있다. 지난 9일 일본 도쿄 하네다에서 박유천은 데뷔 20주년 기념 팬미팅 ‘Re.birth’를 개최했다. 박유천의 팬미팅 가격은]]></content:encoded>
+            <title><![CDATA["행복한 사람 되고 싶다"..조세호, 올해 결혼 앞둔 심경 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20240210135001013</link>
+            <guid>https://v.daum.net/v/20240210135001013</guid>
+            <pubDate>Sat, 10 Feb 2024 05:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=장우영 기자] 개그맨 조세호가 새해 인사를 전했다. 10일 조세호는 자신의 유튜브 채널 ‘채널 조세호’를 통해 구독자와 팬들에게 설 인사를 전했다. 조세호는 “함께해주심에 더욱 더 가치가 있고 뜻깊은 한 해가 시작이 되지 않을까 생각이 든다. 2월 구정이 다가왔는데 연초에 계획했던 일들이 잘 진행되고 계신지 궁금하면서 응원 보내드리고 응원에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[정기고 “유튜브 채널 개설, 6월 내 공개” (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20240210120046345</link>
-            <guid>https://v.daum.net/v/20240210120046345</guid>
-            <pubDate>Sat, 10 Feb 2024 03:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 가수 정기고가 GOT7 영재, 청취자들과 함께 설 연휴를 맞이했다.  정기고는 2월 10일 자정 방송된 MBC FM4U ‘GOT7 영재의 친한친구’에 출연, 영재와 환상의 케미와 함께 거침없는 입담으로 활기를 더했다.  이날 정기고는 “유튜브 채널 개설 예정이다. 두 편 정도 찍어놨다. 오는 6월 안에 공개될 예정”이라고 밝혔다]]></content:encoded>
+            <title><![CDATA['세작' 조정석, '남장' 신세경과 키스 포착 "눌러왔던 감정 폭발" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20240210131303784</link>
+            <guid>https://v.daum.net/v/20240210131303784</guid>
+            <pubDate>Sat, 10 Feb 2024 05:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 임시령 기자] ‘세작, 매혹된 자들’ 조정석과 ‘남장’ 신세경의 파격 키스로 더 휘몰아칠 폭풍 전개를 예고한다. 10일 tvN ‘세작, 매혹된 자들’은 8회 방송에 앞서, 이인과 ‘남장’ 강희수가 키스를 나누는 스틸을 공개했다. 지난 방송은 이인(조정석)의 능행에 함께 나선 강희수(신세경)가 상처를 입는 일촉즉발 위기가 그려졌다. 특히 강]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['놀면 뭐하니' 김광규, 초면에 주우재 멱살 "돌아이네" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20240210115602294</link>
-            <guid>https://v.daum.net/v/20240210115602294</guid>
-            <pubDate>Sat, 10 Feb 2024 03:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 임시령 기자] '놀면 뭐하니?' 김광규가 초면에 주우재의 멱살까지 잡는 상극 케미로 웃음을 안긴다. 10일 방송되는 MBC 예능프로그램 '놀면 뭐하니?'는 설 특집 '설에 혼자 뭐하니' 편으로 꾸며지는 가운데, 유재석-하하-주우재는 설날에 혼자 있을 배우 김광규와 함께 시장에서 정이 넘치는 하루를 보낸다. 주우재는 게스트 제시에 이어 김광규와]]></content:encoded>
+            <title><![CDATA[박명수, 팩트 폭력 "딸 민서, 중학교 졸업…앞으로 고난의 연속 있을 것" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20240210131005751</link>
+            <guid>https://v.daum.net/v/20240210131005751</guid>
+            <pubDate>Sat, 10 Feb 2024 05:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 이예주 기자] 방송인 박명수가 새해를 맞이해 청취자들과 시작과 마무리에 대한 이야기를 나눴다. 10일 방송된 KBS Cool FM '박명수의 라디오쇼'에서 박명수는 청취자들의 사연을 듣고 답하며 이들과 소통했다. 이날 박명수는 "최근 아이 졸업식에 갔다. 옛날 생각이 나더라. 사실 그때 나는 미래가 불투명해서 기분이 좋지 않았다"고 밝혔]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[나훈아→임영웅 이어 진성, "40년 무명 설움" 털어낼 특집쇼 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20240210114807251</link>
-            <guid>https://v.daum.net/v/20240210114807251</guid>
-            <pubDate>Sat, 10 Feb 2024 03:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=장우영 기자] 오늘 밤 9시 15분에 방송되는 KBS설특집 ‘진성빅쇼 BOK, 대한민국’은 “40년 무명동안 어떻게 라도 해보려고 살아왔다”라고 고백한 진성의 40년 인생 첫 단독 빅쇼 무대가 공개된다. 현 시대 긍정의 아이콘이자 가장 서민적인 가수 진성의 삶과 노래를 통해 새해 복(bok)을 전하는 진성 빅쇼의 시청포인트를 공개한다. 10일]]></content:encoded>
+            <title><![CDATA[후덕해진 박유천, 4억 체납→日서 20만원 고가 팬미팅하며 활짝 '또 시끌' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20240210130827737</link>
+            <guid>https://v.daum.net/v/20240210130827737</guid>
+            <pubDate>Sat, 10 Feb 2024 05:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 이게은기자] 가수 겸 배우 박유천의 일본 고가 팬미팅 소식에 비난 여론이 들끓었다. 지난 9일 박유천은 일본에서 팬미팅 Re.birth(리버스)'를 열었다. 현지 팬들이 박유천을 보기 위해 길게 줄을 늘어선 모습이 포착되는가 하면 살이 올라 후덕해진 박유천의 근황도 공개돼 화제를 모았다. 박유천은 못알아볼 정도로 확 달라진 비]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[오윤아 "아들 민이, 팔 다쳐 수술"..깁스한 근황 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20240210113831183</link>
-            <guid>https://v.daum.net/v/20240210113831183</guid>
-            <pubDate>Sat, 10 Feb 2024 03:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김나연 기자] 배우 오윤아가 설 연휴를 맞아 아들 민이와 새해 인사를 전했다. 9일 'Oh!윤아' 채널에는 "새해 인사 받으세요! 오윤아표 초간단 떡국 레시피 &amp; 아들 송민의 새해 목표를 공개합니다!"라는 제목의 영상이 업로드 됐다. 이날 오윤아는 아들 민이와 나란히 한복을 입고 등장해 카메라를 향해 새해 인사를 했다. 오윤아는 "지금 (민이]]></content:encoded>
+            <title><![CDATA[장르의 선 넘나드는…예능보다 재미있는 교양 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20240210130301719</link>
+            <guid>https://v.daum.net/v/20240210130301719</guid>
+            <pubDate>Sat, 10 Feb 2024 05:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[드라마국, 예능국, 교양국. 과거엔 부서를 넘나드는 프로그램을 만드는 게 불가침의 영역으로 여겨졌으나 지금은 방송국 내 부서가 유명무실해진지 오래다. 예능 PD가 드라마를 만들고 교양 PD가 예능도 만든다. 최근에는 교양 PD들이 만드는 예능형 프로그램들의 약진이 눈에 띈다. 설 연휴 무료한 시간을 보내고 있다면, 예능보다 재미있는 교양에 눈을 돌려보자.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[YG 떠난 지드래곤, 새 소속사 웰컴 선물 클라스 깜짝…美 뉴욕 타임스퀘어 떴다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20240210113713181</link>
-            <guid>https://v.daum.net/v/20240210113713181</guid>
-            <pubDate>Sat, 10 Feb 2024 03:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이슬기 기자] 가수 지드래곤(본명 권지용)이 미국 뉴욕 타임스스퀘어 전광판에 등장한 본인 사진을 공유했다. 국내 최초 AI 메타버스 기업 갤럭시코퍼레이션(대표 최용호)이 설날을 맞아, 미국 뉴욕 타임스스퀘어 전광판에 지드래곤의 소속사 이적을 환영하는 깜짝 광고를 띄운 것. 한국 시각으로 설 당일인 10일 자정에 송출된 이번 광고는 뉴욕 타임스스퀘]]></content:encoded>
+            <title><![CDATA['AAA 신인상' 문상민 "'해냈다!'는 느낌, 정답 찾아가는 과정" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20240210130012681</link>
+            <guid>https://v.daum.net/v/20240210130012681</guid>
+            <pubDate>Sat, 10 Feb 2024 05:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 김나연 기자] 문상민 / 사진=김창현 기자큰 키에 눈에 띄는 비주얼, 매력적인 목소리까지. 타고난 부분이 많지만, 문상민은 항상 자신에게 느낌표가 아닌 물음표를 띄웠다. 고민에 고민을 거듭하며 오늘보다 더 나은 내일을 꿈꾸는 배우 문상민이다. 2000년생 '용띠 스타'이기도 한 문상민은 올해 본격적인 날갯짓을 시작했다. '마이네임'부터 ']]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우울증 100만 시대…드라마 속 ‘아픈’ 청춘들 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20240210113532173</link>
-            <guid>https://v.daum.net/v/20240210113532173</guid>
-            <pubDate>Sat, 10 Feb 2024 03:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[우울증을 비롯해 정신질환을 가진 현대인들의 이야기를 섬세하게 다루는 작품들부터 고금리에 허덕이는 ‘영끌족’의 애환을 동력 삼는 19금 코미디 드라마까지. 청년들의 ‘아픈’ 현실이 드라마에도 반영되고 있다. 건강보험심사평가원이 최근 발간한 '생활 속 질병·진료행위 통계'에 따르면 지난 2022년 기준 우울증 진료 환자는 100만 32명이다. 우울증으로 병원]]></content:encoded>
+            <title><![CDATA[문상민 "김혜수 선배, 내 연기 기억해줘..자존감 회복했죠" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20240210130005674</link>
+            <guid>https://v.daum.net/v/20240210130005674</guid>
+            <pubDate>Sat, 10 Feb 2024 05:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 김나연 기자] 문상민 / 사진=김창현 기자-인터뷰①에 이어 -올해로 데뷔 5년 차가 됐다. 2019년에 데뷔해 '마이네임', '슈룹', '방과 후 전쟁활동'까지 데뷔 이후의 시간을 되짚을 때 유독 감회가 남다를 것 같다. '마이네임'은 엄청 큰 의미가 있는 작품이다. 아직까지 사진첩에 '마이네임' 때 찍었던 사진이 많다. '마이네임' 오]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["저 괜찮아요!" 박나래, 성대수술→'나혼산' 불참…쏟아진 우려에 직접 등판 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20240210113044143</link>
-            <guid>https://v.daum.net/v/20240210113044143</guid>
-            <pubDate>Sat, 10 Feb 2024 03:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선닷컴 이게은기자] 방송인 박나래가 성대 수술을 받았다며 직접 근황을 전했다. 10일 박나래는 "새해 복 많이 받으세요. 저는 괜찮음!! 더 달리기 위해 잠깐 고치는 중입니다. 이어 "성형수술 아님..성대 수술 후.. 지금은 퇴원해서 꾀꼬리로 진화 중.."이라며 팬들을 안심시켰다. 박나래는 병원복을 입은 채 핼쑥해진 모습을 보였고 눈]]></content:encoded>
+            <title><![CDATA['라이징 스타' 문상민이 느낀 주연의 무게.."인정받고 싶어요" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20240210130000665</link>
+            <guid>https://v.daum.net/v/20240210130000665</guid>
+            <pubDate>Sat, 10 Feb 2024 05:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 김나연 기자] 문상민 / 사진=김창현 기자-인터뷰②에 이어 -카메라 앞에 서는 시간이 길어질수록 익숙함 혹은 어려움, 어느 쪽에 더 치우쳐 있는지 궁금하다. 아직은 익숙함보다 어려운 게 크다. 제가 한 작품에서 긴 시간 동안 나온다는 게 적응이 잘 안 된다. '슈룹'에서는 인물이 많다 보니까 같이 의지하면서 갔다면, '웨딩 임파서블'은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이제는 넓은 스펙트럼을 꿈꾸는 김혜준 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20240210113008138</link>
-            <guid>https://v.daum.net/v/20240210113008138</guid>
-            <pubDate>Sat, 10 Feb 2024 03:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[아이즈 ize 이덕행 기자배우 김혜준은 넷플릭스 '킹덤' 시리즈를 시작으로 영화 '미성년' '싱크홀', 드라마 '구경이'&nbsp;'커넥트' 등 색이 진한 장르물에서 자신만의 영역을 확고하게 다졌다. 가장 최근작인 디즈니+오리지널 '킬러들의 쇼핑몰'(이하 '킬쇼') 역시 마찬가지다. 김혜준은 이같은 자신의 필모그래피에 대해 "그것도 좋다"면서도 "이제는 스펙트럼을]]></content:encoded>
+            <title><![CDATA[박나래, '은퇴 고민'까지 했는데..세번째 성대수술→'나혼산' 불참 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20240210124122561</link>
+            <guid>https://v.daum.net/v/20240210124122561</guid>
+            <pubDate>Sat, 10 Feb 2024 05:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김나연 기자] 개그우먼 박나래가 성대수술로 '나혼산' 녹화에 불참했다. 앞서 성대 폴립으로 은퇴에 대한 고민까지 전했던 만큼, 그의 건강을 향한 우려의 목소리가 커지고 있다. 9일 방송된 MBC '나 혼자 산다'는 설 특집 방송으로 꾸며졌다. 하지만 이날 오프닝에는 박나래를 대신해 등신대가 등장해 눈길을 끌었다. 이에 전현무는 "나래가 지금]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['진성빅쇼 BOK', 오늘 방송…장윤정·김호중·이찬원·정동원도 지원사격 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20240210112921128</link>
-            <guid>https://v.daum.net/v/20240210112921128</guid>
-            <pubDate>Sat, 10 Feb 2024 03:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 안소윤 기자] 가수 진성의 40년 인생 첫 단독 빅쇼 무대가 공개된다. 10일 방송되는 KBS2 설특집 '진성빅쇼 BOK, 대한민국'은 '보릿고개', '태클을 걸지마', '내가 바보야', '안동역에서'등 수많은 히트곡으로 폭넓은 세대의 사랑을 받아온 '트롯 메들리의 최강자' 진성이 40년 무명 시절과 벼락같이 찾아온 혈액암을 극]]></content:encoded>
+            <title><![CDATA['어둠'이 두려운 아빠와 딸의 특별한 여행 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20240210123602536</link>
+            <guid>https://v.daum.net/v/20240210123602536</guid>
+            <pubDate>Sat, 10 Feb 2024 05:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[올해가 시작된 지 얼마 안 된 것 같은데 벌써 2월, 설입니다. 가족과 친지를 만나 정을 나누어도 모자랄 시간이지만, 올해는 왠지 마음이 무겁습니다. 경기는 어렵고 들려오는 뉴스도 팍팍한 소식 뿐입니다. 그렇다고 너무 가라앉아 있을 필요는 없겠죠? 안팎으로 지친 당신에게 단비가 될 영화들을 소개합니다. &lt;편집자말&gt; [이정희 기자] 고백하건대, 아직도 깜깜한]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[유재석, 4월 총선 출마 “큰일 하실 분” 소리에 화들짝 “가만히 있어!” (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20240210112457097</link>
-            <guid>https://v.daum.net/v/20240210112457097</guid>
-            <pubDate>Sat, 10 Feb 2024 03:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이슬기 기자] 유재석이 이동욱 발언에 화들짝 놀랐다. 2월 9일 ‘뜬뜬’ 채널에 공개된 ‘핑계고’ 콘텐츠 영상에는 공유, 이동욱이 출연했다. 이날 유재석은 '핑계고'에 출연해준 동생들에게 고마운 마음을 전했다. 그는 "집에 행사. 진행자가 필요하다 그러면 언제든 연락해라"라고 했다. 그러자 이동욱은 다음 달에 공유 고양이가 생일이라고 알렸다. 유]]></content:encoded>
+            <title><![CDATA[노정의 "'황야', 마동석과 작품한다는 즐거움…넷플릭스의 딸 되고 싶어요" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20240210123007511</link>
+            <guid>https://v.daum.net/v/20240210123007511</guid>
+            <pubDate>Sat, 10 Feb 2024 05:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 노한빈 기자] 배우 노정의가 넷플릭스 영화 '황야'를 통해 마동석과 호흡을 맞춘 소감을 말했다. 지난 5일 서울 종로구 소격동 한 카페에서 '황야'의 노정의를 만났다. '황야'는 폐허가 된 세상, 오직 힘이 지배하는 무법천지 속에서 살아가는 자들이 생존을 위해 벌이는 최후의 사투를 그린 액션 블록버스터 영화다. 배우 마동석과 '범죄도시']]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박지윤 “무너진 저, 일으켜 줘 감사” SNS서 심경 고백 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20240210112434094</link>
-            <guid>https://v.daum.net/v/20240210112434094</guid>
-            <pubDate>Sat, 10 Feb 2024 03:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[&nbsp; ‘크라임씬 리턴즈’로 돌아온 방송인 박지윤이 이혼과 관련해 솔직한 심경을 전했다. 박지윤은 지난 9일 자신의 SNS에 “드디어 7년을 기다려오신 크라임씬 리터즌”라는 글과 함께 공식 포스터를 공유했다. 그는 “다시는 박탐정이란 이름 이 내게 없겠지 했을때 기적처럼 새 시즌 소식을 알려주시며 개인사로 함께하지 못하겠다 했을 때 아무 문제 없게 하겠]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['전남편' 최동석과 갈등 박지윤, "다 관두고 싶기도" 심경고백 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20240210111207985</link>
-            <guid>https://v.daum.net/v/20240210111207985</guid>
-            <pubDate>Sat, 10 Feb 2024 02:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 전 남편인 아나운서 출신 방송인 최동석과 진흙탕 폭로전을 이어가던 박지윤이 '크라임씬 리턴즈' 공개를 앞두고 심경을 고백했다. 박지윤은 9일 자신의 인스타그램을 통해 티빙 '크라임씬 리턴즈'로 돌아오게 됐다고 알리면서 "다시는 박 탐정이란 이름이 내게 없겠지 했다"라고 벅찬 소감을 밝혔다. 이어 "다시는 박 탐정이란 이름이 내게]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['트롯 고막여친' 정슬X진혜언, "모두 행복한 일 가득하시길" 새해 인사 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20240210111020946</link>
-            <guid>https://v.daum.net/v/20240210111020946</guid>
-            <pubDate>Sat, 10 Feb 2024 02:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=장우영 기자] 2024년이 기대되는 샛별 정슬, 진혜언이 새해 소망을 담은 설 인사를 전했다. 에이치앤이엔티 소속 정슬과 진혜언이 한옥을 배경으로 설빔을 곱게 차려입고 청순 단아한 매력을 발산했다. 팬들을 향한 사랑이 물씬 느껴지는 새해 인사로 정초를 연 두 사람은 신년 계획을 밝히며 한층 더 활발한 활동을 예고해 기대감을 높였다. 먼저 ‘천]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['킬러들의 쇼핑몰'→'살인자ㅇ난감', 연휴 정주행각 OTT 시리즈 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20240210110103834</link>
-            <guid>https://v.daum.net/v/20240210110103834</guid>
-            <pubDate>Sat, 10 Feb 2024 02:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 임시령 기자] 갑진년 설날이 다가왔다. 올해 설 연휴는 9일부터 12일까지 4일이다. 짧다면 짧고, 길다면 긴 시간. 특히 작년 말부터 올해 2월까지 OTT 기대작들이 대거 시청자들을 만났다. 이에 설 연휴, 정주행을 부르는 작품들을 꼽아본다. ▲ '스위트홈'·'이재곧'·'경성크리처', 판타지물 섭렵 작년 말은 판타지, 크리처물의 향연이었]]></content:encoded>
+            <title><![CDATA[보는 사람도 지친다... 엄마에게 정신 차리라고 한 오은영 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20240210123000506</link>
+            <guid>https://v.daum.net/v/20240210123000506</guid>
+            <pubDate>Sat, 10 Feb 2024 05:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[[김종성 기자] 9일 방송된 채널A '금쪽같은 내새끼'는 지난 주 금쪽이네의 '예고된' 재방문으로 꾸려졌다. '선택적 함구증' 금쪽이의 문제는 쉽사리 해결될 것 같지 않았고, 그런 금쪽이를 위해 무엇이든 대신해주는 부모는 훈육 방식에 있어 첨예한 갈등을 보였기에 솔루션은 쉽지 않아 보였다. 아니나 다를까. 부부는 서로 훈육 방식이 맞지 않았다며 어려움을 토]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[크리스토퍼 놀란 감독 “스마트폰 없고, 이메일도 사용 안한다” (다음 연예 ─ 뉴스 ─ 해외)]]></title>
@@ -1041,6 +1041,55 @@
             <guid>https://v.daum.net/v/20240209182520566</guid>
             <pubDate>Fri, 09 Feb 2024 10:15:46 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=최이정 기자] 넷플릭스 '브리저튼' 시리즈, 영화 '페어 플레이' 등으로 유명한 배우 피비 디네버(Phoebe Dynevor)가&nbsp;자신의 나이대 여배우에게는 제한된 역할이 있다고 말했다.&nbsp;"우리에게는 공간이 충분하지 않습니다." 인디와이어의 8일(현지시간) 보도에 따르면 28세의 디네브는 할리우드의 성차별적, 연령차별적 이중 잣대를 지적하고 있]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[에이티즈, 英 ‘오피셜 차트’ 10주 연속 진입! 글로벌 인기 롱런 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0001029480</link>
+            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0001029480</guid>
+            <pubDate>Sat, 10 Feb 2024 05:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 에이티즈. 사진 | KQ엔터테인먼트 그룹 에이티즈(ATEEZ)가 영국 오피셜 차트에서 글로벌 롱런 인기를 이어가고 있다. 9일(현지시간) 영국 오피셜 차트 집계에 따르면 지난해 12월 1일 발매된 에이티즈의 정]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[제로베이스원, 팬 사랑 가득한 설 인사 “새해 목표? 제로즈만 사랑하기” (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000822189</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000822189</guid>
+            <pubDate>Sat, 10 Feb 2024 05:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 ZEROBASEONE(제로베이스원)이 설을 맞아 팬들에게 인사를 건넸다. ZEROBASEONE(성한빈, 김지웅, 장하오, 석매튜, 김태래, 리키, 김규빈, 박건욱, 한유진)은 2월 10일 정오 공식 계정을 통해]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[POP초점]박유천·승리, 팀 명예 실추도 모자라서..판박이 민폐꾼들 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003680727</link>
+            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003680727</guid>
+            <pubDate>Sat, 10 Feb 2024 05:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[각종 논란들로 대중에게 완전히 아웃된 박유천과 승리가 팀에 큰 해를 입힌 것도 모자라 끝까지 민폐를 끼치고 있다. 지난 9일 박유천은 일본 도쿄 하네다에서 데뷔 20주년 기념 팬미팅 'Re.birth(리버스)'를 개]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독]손동표 "미래소년 한복킹=카엘..상견례 프리패스상" [한복 인터뷰①] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003214112</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003214112</guid>
+            <pubDate>Sat, 10 Feb 2024 05:17:07 GMT</pubDate>
+            <content:encoded><![CDATA["Into our Future! 안녕하세요 미래소년입니다!" 보이 그룹 미래소년(MIRAE)이 올해 데뷔 3주년에 이어 일본 정식 데뷔를 결정, 겹경사를 맞이하면서 새로운 전성기를 예고했다. 특히 미래소년(이준혁,]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독]"데이식스처럼"..미래소년이 꿈꾸는 청춘 응원가 [한복 인터뷰②] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003214111</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003214111</guid>
+            <pubDate>Sat, 10 Feb 2024 05:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[-인터뷰①에 이어서. -3월 17일이면 벌써 데뷔 3주년이에요. ▶박시영=데뷔 쇼케이스를 한 게 지난해 같은데 벌써 3주년이 됐다는 게 실감이 안 나요. 앞으로 더 멋있는 아티스트가 되고 싶다는 마인드를 가지게 되는]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[케이윌부터 아이브까지…“새해 복 많이 받으세요” (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000942822</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000942822</guid>
+            <pubDate>Sat, 10 Feb 2024 05:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[가수 케이윌부터 그룹 아이브까지 스타쉽엔터테인먼트 소속 가수들이 설 인사를 10일 건넸다. 최근 뮤지컬 ‘그레이트 코멧’ 출연 소식을 전한 케이윌(K.will)은 “2024년 한 해 행복이 가득하기 바라며 행복한 설]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[트와이스, 설 프러포즈 6···신보 트랙리스트 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000942821</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000942821</guid>
+            <pubDate>Sat, 10 Feb 2024 05:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[트와이스가 2월 23일 신곡 ‘ONE SPARK’(원 스파크)를 발표하고 컴백한다. 트와이스는 오는 23일 새 미니 앨범 ‘With YOU-th’(위드 유-스)를 발매한다. JYP엔터테인먼트는 10일 0시 공식 SN]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["내꺼인 듯 내꺼 아닌 너"..소유·정기고 '썸', 가요계 판도 뒤집은 러브송 [최혜진의 라떼] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
@@ -1169,228 +1218,193 @@
             <content:encoded><![CDATA[1월 22일 91억 회 돌파 이후 17일 만에 1억 추가 누적 100억 이상 달성 하면 대망의 '다이아 클럽' 가수 임영웅이 멜론 누적 스트리밍 92억 회를 돌파했다. 임영웅은 기준 국내 주요 음원 플랫폼 멜론에서]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독]헤이즈 "'비도 오고 그래서' 1위, 기뻤지만 충분히 못 즐겨"[인터뷰①][여솔백과] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003214093</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003214093</guid>
-            <pubDate>Sat, 10 Feb 2024 01:41:46 GMT</pubDate>
-            <content:encoded><![CDATA[[여솔백과] '여성 솔로 백과사전'을 펼쳐보세요. '여솔백과'는 국내를 넘어 세계로 뻗어나가는 여성 솔로 가수들의 이야기를 담는 장입니다. K팝 스타들이 전 세계를 누비면서 한국 대중가요의 저변이 확장됐다. 국내 팬]]></content:encoded>
+            <title><![CDATA[조정석, 남장한 신세경과 키스.. “파격 멜로 예상” (세작) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003329212</link>
+            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003329212</guid>
+            <pubDate>Sat, 10 Feb 2024 05:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[조정석과 신세경의 파격 키스가 공개된다. tvN 드라마 ‘세작, 매혹된 자들’(이하 ‘세작’)은 높은 자리에 있지만 마음은 비천한 임금 이인과 그를 무너뜨리기 위해 세작(첩자)이 된 여인의 잔혹한 운명을 그린 이야기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독]헤이즈 "비슷하단 말 새겨..'빙글빙글', 내겐 신세계였다"[인터뷰②][여솔백과] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003214092</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003214092</guid>
-            <pubDate>Sat, 10 Feb 2024 01:41:46 GMT</pubDate>
-            <content:encoded><![CDATA[[여솔백과] '여성 솔로 백과사전'을 펼쳐보세요. '여솔백과'는 국내를 넘어 세계로 뻗어나가는 여성 솔로 가수들의 이야기를 담는 장입니다. -인터뷰①에 이어 -개인적으로 헤이즈 씨는 이별이 대주제였다면 시간이 지나갈]]></content:encoded>
+            <title><![CDATA[배우 문상민, "올 한 해 건강하고 무탈하게 보내세요" [★영상] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003214113</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003214113</guid>
+            <pubDate>Sat, 10 Feb 2024 05:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[배우 문상민이 팬들에게 설 인사를 전했다. 10일 유튜브 스타뉴스코리아 채널에는 배우 문상민의 설 인사 인터뷰가 담긴 영상이 게재됐다. 영상 속 문상민은 "설 연휴 가족분들과 행복하게 보내시고, 올 한해 건강하고 무]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독]헤이즈 "10년 함께한 팬들 감사..'나다움'이 중요"[인터뷰③][여솔백과] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003214091</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003214091</guid>
-            <pubDate>Sat, 10 Feb 2024 01:41:46 GMT</pubDate>
-            <content:encoded><![CDATA[[여솔백과] '여성 솔로 백과사전'을 펼쳐보세요. '여솔백과'는 국내를 넘어 세계로 뻗어나가는 여성 솔로 가수들의 이야기를 담는 장입니다. -인터뷰②에 이어 -가요계에서 여성 솔로 가수가 적다 보니 헤이즈 씨의 화제]]></content:encoded>
+            <title><![CDATA[신세경, 조정석에 정체 들키나? '가슴 벅찬 첫 키스' (세작) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001105957</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001105957</guid>
+            <pubDate>Sat, 10 Feb 2024 05:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[‘세작, 매혹된 자들’이 조정석과 ‘남장’ 신세경의 파격 키스로 더 휘몰아칠 폭풍 전개를 예고한다. tvN ‘세작, 매혹된 자들’(연출 조남국/극본 김선덕/기획 스튜디오드래곤/제작 씨제스)은 높은 자리에 있지만 마음]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[투모로우바이투게더, 설 맞이 영상 공개 "새해 다짐 잘 이루고 계시는지" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=018&amp;aid=0005671237</link>
-            <guid>https://entertain.naver.com/now/read?oid=018&amp;aid=0005671237</guid>
-            <pubDate>Sat, 10 Feb 2024 01:41:46 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 투모로우바이투게더(수빈, 연준, 범규, 태현, 휴닝카이)가 설을 맞아 팬들에게 따뜻한 인사를 건넸다. 투모로우바이투게더는 9일 공식 SNS 채널에 2024년 설 인사 영상을 게재했다. 한복을 차려입고 영상을 찍]]></content:encoded>
+            <title><![CDATA[아이브 안유진, '크라임씬 리턴즈' 플레이어 합류 "설레는 마음으로 몰입 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=445&amp;aid=0000173053</link>
+            <guid>https://entertain.naver.com/now/read?oid=445&amp;aid=0000173053</guid>
+            <pubDate>Sat, 10 Feb 2024 05:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[스타쉽엔터테인먼트 걸그룹 아이브(IVE) 안유진이 '크라임씬 리턴즈' 플레이어로 활약한다. 안유진은 최근 첫 공개된 티빙(TVING) 오리지널 '크라임씬 리턴즈'에 신입 플레이어로 합류했다. 7년 만에 돌아온 '크라]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘4억 체납’ 박유천, ‘20만원’ 日 팬미팅 강행…여론은 ‘싸늘’ (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0001029462</link>
-            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0001029462</guid>
-            <pubDate>Sat, 10 Feb 2024 01:41:46 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 JYJ 출신 박유천이 지난 9일 일본 도쿄 하네다에서 데뷔 20주년 기념 팬미팅 ‘Re.birth(리버스)’를 개최했다. 사진 | 박유천 SNS 고액체납자 명단에 이름을 올린 가수 겸 배우 박유천이 일본에서 데]]></content:encoded>
+            <title><![CDATA[가수 임영웅의 주제파악, 진지하게 해봤습니다 [일큐육공 1q60] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=011&amp;aid=0004298211</link>
+            <guid>https://entertain.naver.com/now/read?oid=011&amp;aid=0004298211</guid>
+            <pubDate>Sat, 10 Feb 2024 05:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[떴다 하면 대기자만 70만 명, '전 국민 효도 배틀'이라 불리는 가수 임영웅 콘서트 얘기입니다. 티켓 잡기가 워낙 힘들다 보니 항간에서는 "임영웅, 제발 주제파악 좀 하고 살자"라는 말이 유행하기도 했죠. 보다 많]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임한별, 에스페로와 신곡 준비중 “조영수 러브콜 받아 가창 결정” (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000822146</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000822146</guid>
-            <pubDate>Sat, 10 Feb 2024 01:41:46 GMT</pubDate>
-            <content:encoded><![CDATA[가수 임한별이 크로스오버 그룹 에스페로(Espero)와 함께 신곡을 준비 중이다. 임한별과 에스페로는 작곡가 조영수가 직접 제작한 신곡으로 2월 17일 음원 발매를 예고한 가운데, 임한별이 조영수에게 러브콜을 받아]]></content:encoded>
+            <title><![CDATA[조영남, 신동엽에 “이혼 한번 해 봐” 돌직구 (불후의 명곡) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003329210</link>
+            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003329210</guid>
+            <pubDate>Sat, 10 Feb 2024 05:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[조영남이 신동엽에게 폭탄 발언을 해 모두를 놀라게 한다. 10일 방송되는 KBS2 ‘불후의 명곡’ 644회는 아티스트 조영남 편으로 꾸며진다. 이날 방송에서 조영남은 자신의 히트곡 ‘사랑 없인 못 살아’에 대한 비하]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[고스트나인 이진우, ‘크라임씬 리턴즈’ 비주얼 담당…탐정 보조로 활약 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0001029460</link>
-            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0001029460</guid>
-            <pubDate>Sat, 10 Feb 2024 01:41:46 GMT</pubDate>
-            <content:encoded><![CDATA[고스트나인 이진우. 사진 | 티빙 그룹 고스트나인(GHOST9) 이진우가 비주얼 탐정 보조로 활약했다. 이진우는 지난 9일 공개된 티빙 오리지널 ‘크라임씬 리턴즈’에 출연해 탐정 보조 역할로 상황 전개를 도왔다. 훤]]></content:encoded>
+            <title><![CDATA['친구 끝, 연인 시작?' 박신혜X박형식, 로맨스 기류 급물살 (닥터슬럼프) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001105956</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001105956</guid>
+            <pubDate>Sat, 10 Feb 2024 05:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[‘닥터슬럼프’ 박형식, 박신혜 사이 로맨스 기류가 감지된다. ‘닥터슬럼프’(연출 오현종, 극본 백선우, 제작 SLL·하이지음스튜디오) 측은 5회 방송을 앞둔 10일, 여정우(박형식 분)와 남하늘(박신혜 분)의 옥탑]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[하준, 설에 조모상 비보 "'효심이네' 광팬이셨던 할머니…하늘서 행복하시길" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0007345368</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0007345368</guid>
-            <pubDate>Sat, 10 Feb 2024 03:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[배우 하준이 설 연휴에 조모상 비보를 전했다. 하준은 지난 9일 자신의 인스타그램에 "'효심이네 각자 도생'을 응원해 주시며 광팬이셨던 우리 할머니께서 오늘 하늘로 가셨습니다"라는 글을 게재했다. 그는 이어 "할머니]]></content:encoded>
+            <title><![CDATA[영화에 이어 책까지…'김태용 감독♥'탕웨이, '헤어질 결심' 향한 애정 듬뿍 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004108812</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004108812</guid>
+            <pubDate>Sat, 10 Feb 2024 05:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[배우 탕웨이가 행복한 근황을 전했다. 탕웨이는 최근 자신의 개인 계정을 통해 "오늘은 음력으로 12월 28일이다. 행운의 날이다. '헤어질 결심' 스토리보드북 한 권 한 권마다 소중한 주인을 만났으면 좋겠다"는 글을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박유천, 오동통 살 오른 얼굴…마약+체납액 4억인데 46만원 디너쇼에 '웃음꽃'[TEN이슈] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000648632</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000648632</guid>
-            <pubDate>Sat, 10 Feb 2024 03:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[가수 겸 배우 박유천이 마약 투약, 세금 체납 등의 논란 속에서도 해외 팬들을 상대로 팬미팅을 개최한 가운데, 국내 네티즌들의 싸늘한 반응이 이어지고 있다. 박유천은 지난 9일 일본 LDH 키친 더 도쿄 하네다에서]]></content:encoded>
+            <title><![CDATA[장원영·장다아 어머님이 누구니? 얼굴도 끼도 똑닮은 연예계 스타 자매 5人 [TEN피플] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000648637</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000648637</guid>
+            <pubDate>Sat, 10 Feb 2024 05:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[연예계 스타 자매들은 누가 있을까. 같은 부모님 아래에서 같은 유년 시절을 보냈을 자매들. 끼도 얼굴도 닮아 있는 연예계 대표 스타 다섯 자매를 꼽았다. 먼저, 양희은-양희경 자매를 떠올릴 수 있다. 언니인 양희은은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['47세' 엄지원, 王자 복근에 종잇장 몸매 "몸무게 51kg 비결은…" ('엄튜브') (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004108802</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004108802</guid>
-            <pubDate>Sat, 10 Feb 2024 03:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[배우 엄지원이 늘씬한 몸매의 비결을 공개했다. 9일 엄지원의 채널 '엄지원의 엄Tube'에는 '20년차 유지어터 배우 엄지원이 절대 빼먹지 않는 10분 모닝 루틴'이라는 제목의 영상이 게재됐다. 엄지원은 "아침 공복]]></content:encoded>
+            <title><![CDATA[‘효심이네’ 하준, 설에 조모상 비보 “드라마 광팬이셨는데…” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0001029479</link>
+            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0001029479</guid>
+            <pubDate>Sat, 10 Feb 2024 05:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[배우 하준이 지난해 9월 12일 서울 구로구 라마디서울신도림호텔에서 진행된 KBS2 주말드라마 ‘효심이네 각자도생’ 제작발표회에서 취재진을 향해 포즈를 취하고 있다. 사진 | 박진업기자 upandup@sportsse]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[안유진 ‘크라임씬 리턴즈’ MZ 대표로 합류.. “설레는 마음” [공식] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003329201</link>
-            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003329201</guid>
-            <pubDate>Sat, 10 Feb 2024 03:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 아이브 리더 안유진이 ‘크라임씬 리턴즈’ 출연 소감을 밝혔다. 소속사 스타쉽엔터테인먼트에 따르면 안유진은 최근 첫 공개된 티빙 오리지널 시리즈 ‘크라임씬 리턴즈’에 합류했다. 안유진은 MZ 대표로서 완벽한 연기]]></content:encoded>
+            <title><![CDATA[이렇게 뻔뻔하다니...박유천, ‘마약+상습 체납’에도 일본서 팬미팅→디너쇼 개최 [MK★이슈] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000980681</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000980681</guid>
+            <pubDate>Sat, 10 Feb 2024 05:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[박유천, 고액체납자에도 불구하고 일본 팬미팅 강행 여론은 여전히 ‘싸늘’ 마약에 고액체납자 명단에까지 이름을 올린 가수 겸 배우 박유천이 은퇴를 번복하고 일본에서 데뷔 20주년 팬미팅을 개최했다는 소식이 전해졌다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한복 입은 투모로우바이투게더의 설 인사 "행복한 일 가득하시길" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=079&amp;aid=0003862484</link>
-            <guid>https://entertain.naver.com/now/read?oid=079&amp;aid=0003862484</guid>
-            <pubDate>Sat, 10 Feb 2024 03:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 투모로우바이투게더(TOMORROW X TOGETHER)가 한복을 입고 설 인사를 전했다. 투모로우바이투게더는 9일 저녁 6시 공식 소셜미디어 채널에 2024년 설 인사 영상을 올렸다. 수빈, 연준, 범규, 태현]]></content:encoded>
+            <title><![CDATA[“욕심 많이 냈다”.. 최우식 ‘살인자ㅇ난감’ 이탕 그 자체 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003329209</link>
+            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003329209</guid>
+            <pubDate>Sat, 10 Feb 2024 05:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[배우 최우식이 ‘살인자ㅇ난감’ 이탕 역으로 돌아왔다. 최우식이 주연을 맡은 넷플릭스 시리즈 ‘살인자ㅇ난감’이 9일 베일을 벗었다. 우연히 살인을 시작하게 된 평범한 남자와 그를 지독하게 쫓는 형사의 이야기를 그린 작]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이휘향, 검찰 출두 '패륜X비리' 드디어 법의 심판? (효심이네 각자도생) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001105950</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001105950</guid>
-            <pubDate>Sat, 10 Feb 2024 03:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[‘효심이네 각자도생’ 이휘향이 드디어 검찰에 출두한다. 패륜과 비리를 저지른 그녀가 법의 심판을 받게 될지 초미의 관심이 집중된다. KBS 2TV 주말드라마 ‘효심이네 각자도생’(연출 김형일, 극본 조정선, 제작 아]]></content:encoded>
+            <title><![CDATA[소니, 마이클 잭슨 저작권 절반 8000억에 품었다 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=011&amp;aid=0004298199</link>
+            <guid>https://entertain.naver.com/now/read?oid=011&amp;aid=0004298199</guid>
+            <pubDate>Sat, 10 Feb 2024 05:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[미국의 소니뮤직그룹이 ‘팝 황제’ 마이클 잭슨의 음반 및 작곡 저작권의 절반을 최소 6억 달러(약 8000억 원)에 사들이는 계약을 체결했다고 미국 빌보드가 9일(현지 시간) 보도했다. 이는 가수 한명에 대한 저작권]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[지드래곤, 뉴욕 타임스스퀘어 전광판 등장.. 소속사 이적 선물 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003329199</link>
-            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003329199</guid>
-            <pubDate>Sat, 10 Feb 2024 03:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[가수 지드래곤은 미국 뉴욕 타임스스퀘어 전광판에 등장했다. 소속사 갤럭시코퍼레이션은 한국 시각 10일 뉴욕 타임스스퀘어 프랜시스 더피 동상 인근 전광판에 지드래곤과 갤럭시코퍼레이션 최용호 대표의 모습이 담긴 광고를]]></content:encoded>
+            <title><![CDATA[김광규 급발진, 주우재에 멱살잡이 “얘 돌아이네” (놀면 뭐하니) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001105955</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001105955</guid>
+            <pubDate>Sat, 10 Feb 2024 05:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[‘놀면 뭐하니?’ 김광규가 초면에 주우재의 멱살까지 잡는 상극 케미로 웃음을 안긴다. 10일 오후 방송되는 MBC ‘놀면 뭐하니?’(연출 김진용, 장우성, 장효종, 왕종석/작가 최혜정)는 설 특집 ‘설에 혼자 뭐하니]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘K-엄마’ 김미경, 장녀들 소재로 한 다큐멘터리 진행.. 11일 방송 [공식] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003329198</link>
-            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003329198</guid>
-            <pubDate>Sat, 10 Feb 2024 03:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[배우 김미경이 ‘장녀들’을 소재로 한 설 특집 다큐멘터리 진행과 내레이션을 맡았다. 김미경은 오는 11일 오전 11시 KBS1에서 방송하는 설 특집 다큐멘터리 ‘장녀들: K-장녀연대기’의 진행자와 내레이터를 맡아 시]]></content:encoded>
+            <title><![CDATA[하준, 새해에 조모상 비보.. “’효심이네’ 광팬이셨다” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003329207</link>
+            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003329207</guid>
+            <pubDate>Sat, 10 Feb 2024 05:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[배우 하준이 조모상 비보를 전했다. 하준은 지난 9일 자신의 SNS를 통해 “’효심이네 각자 도생’을 응원해 주시며 광팬이셨던 우리 할머니께서 오늘 하늘로 가셨습니다”라고 말문을 열었다. 그는 “할머니 하늘에서는 아]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뉴욕 타임스스퀘어 전광판에 등장한 지드래곤…"해피 루나 이어" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004947102</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004947102</guid>
-            <pubDate>Sat, 10 Feb 2024 03:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[미국 뉴욕 타임스스퀘어 전광판에 가수 지드래곤(본명 권지용)이 등장했다. 소속사 갤럭시코퍼레이션은 10일 뉴욕 타임스스퀘어 프랜시스 더피 동상 근처 전광판에 지드래곤과 갤럭시코퍼레이션 최용호 대표의 모습이 담긴 광고]]></content:encoded>
+            <title><![CDATA[권상우, 美대저택 마당서 손태영♥ 내동댕이쳐…"썰매 살살 끌어야지!" 부부싸움 ('뉴저지') (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004108810</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004108810</guid>
+            <pubDate>Sat, 10 Feb 2024 05:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[배우 권상우, 손태영 부부가 현실부부 케미를 보여줬다. 9일 'Mrs.뉴저지 손태영' 채널에는 '손태영 권상우 부부가 미국에서 로맨틱하게 겨울을 보내는 법'이라는 제목의 영상이 공개됐다. 권상우는 딸의 썰매를 끌어주]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[딘딘 vs 유선호, 최약체 맞대결 '잠자리 복불복' 뜬다 (1박 2일) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001105949</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001105949</guid>
-            <pubDate>Sat, 10 Feb 2024 03:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[설 명절을 맞이한 '1박 2일' 팀이 가족 시청자들을 위한 오락 게임에 나선다. 오는 11일 오후 6시 10분 방송되는 KBS 2TV 예능 프로그램 '1박 2일 시즌4'(이하 '1박 2일')에서는 '1박 2일' 멤버]]></content:encoded>
+            <title><![CDATA[김호중→홍지윤 ‘생쇼’서 슬릭백 파티 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003329206</link>
+            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003329206</guid>
+            <pubDate>Sat, 10 Feb 2024 05:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[‘더 트롯쇼 특집 생SHOW’에 ‘슬릭백’ 파티가 열렸다. 최근 진행된 ‘더 트롯쇼 특집 생SHOW’(이하 생쇼) 공연에서 금잔디, 문희경, 김승현, 허경환, 영기,김승현, 안성훈, 홍지윤, 정다경, 강예슬, 김선근]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김명민, 얼마 만이야...‘로스쿨’ 후 3년 만에 전한 근황 “좋은 작품으로 인사드릴 터” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000980672</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000980672</guid>
-            <pubDate>Sat, 10 Feb 2024 03:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[김명민-정애연-문지인-한소은 연기파 배우들의 유쾌한 새해 인사 배우 김명민이 ‘로스쿨’ 이후 3년 만에 근황을 공개해 이목을 집중시켰다. 김명민 소속사 심스토리(주)는 공식 유튜브와 인스타그램을 통해 김명민을 비롯한]]></content:encoded>
+            <title><![CDATA['효심이네' 하준, 설 연휴에 조모상…"할머니 하늘에선 아프지 마세요" 애도 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004108809</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004108809</guid>
+            <pubDate>Sat, 10 Feb 2024 05:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[배우 하준이 설 연휴에 조모상 소식을 전해 안타까움을 안겼다. 하준은 지난 9일 자신의 개인 계정을 통해 "'효심이네 각자도생'을 응원해 주시며 광팬이셨던 우리 할머니께서 오늘 하늘로 가셨습니다"라는 글을 게재했다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박명수, 리포터 된 정지선에 “북어로 저글링 해라” 충고 (사당귀) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003329197</link>
-            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003329197</guid>
-            <pubDate>Sat, 10 Feb 2024 03:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[박명수가 사랑받는 리포터가 갖춰야 할 자질 1순위로 “북어 저글링”이라는 엉뚱한 조언을 내놓는다. 11일 방송되는 KBS2 ‘사장님 귀는 당나귀 귀’(이하 ‘사당귀’) 방송을 통해 박명수가 정보 프로그램 일타 강사로]]></content:encoded>
+            <title><![CDATA[“떡국에 들어가는 재료가..” 설 앞두고 ‘가래떡 지옥’ (런닝맨) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001105954</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001105954</guid>
+            <pubDate>Sat, 10 Feb 2024 05:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[오는 11일 방송되는 SBS ‘런닝맨’에서는 ‘가래떡 지옥’에 갇힌 멤버들의 고군분투기가 그려진다. 최근 진행된 녹화는 멤버들이 설음식을 귀인들에게 대접하는 레이스로 진행했다. 멤버들은 대표적인 설음식 떡국, 갈비찜]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["저 괜찮아요!" 박나래, 성대수술→'나혼산' 불참…쏟아진 우려에 직접 등판 [SC이슈] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004108800</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004108800</guid>
-            <pubDate>Sat, 10 Feb 2024 03:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[방송인 박나래가 성대 수술을 받았다며 직접 근황을 전했다. 10일 박나래는 "새해 복 많이 받으세요. 저는 괜찮음!! 더 달리기 위해 잠깐 고치는 중입니다. 이어 "성형수술 아님..성대 수술 후.. 지금은 퇴원해서]]></content:encoded>
+            <title><![CDATA[‘트로트 고막 여친’ 정슬‧‘샛별’ 진혜언… 설 맞이 청순 한복인사 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000667236</link>
+            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000667236</guid>
+            <pubDate>Sat, 10 Feb 2024 05:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[2024년이 기대되는 샛별 정슬, 진혜언이 새해 소망을 담은 설 인사를 전했다. 에이치앤이엔티 소속 정슬과 진혜언이 한옥을 배경으로 설빔을 곱게 차려입고 청순 단아한 매력을 발산했다. 팬들을 향한 사랑이 물씬 느껴지]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한국관광공사, SM엔터테인먼트와 K-컬처 알린다 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000667231</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000667231</guid>
-            <pubDate>Sat, 10 Feb 2024 03:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[한국관광공사와 SM엔터테인먼트가 ‘2023~2024 한국방문의 해’를 맞아 7일 서울 성수동 SM 본사에서 한류관광 활성화를 위해 손을 맞잡았다. 이번 협약을 통해 양사는 ▲온오프라인 이벤트 연계 홍보‧마]]></content:encoded>
+            <title><![CDATA[‘마약+체납’까지 논란인 박유천, 마이웨이 행보...고액의 日 팬미팅 개최 [M+이슈] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001798566</link>
+            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001798566</guid>
+            <pubDate>Sat, 10 Feb 2024 05:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[박유천, 데뷔 20주년 팬미팅 가격이 무려... 고액체납자 명단에 이름을 올린 가수 겸 배우 박유천이 일본에서 고액의 데뷔 20주년 팬미팅을 개최해 논란이 일고 있다. 박유천은 지난 9일 일본 도쿄 하네다에서 데뷔]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['박지윤과 이혼' 최동석, 떡국 차려준 건 '형수님'…"새해에는 웃는 일만 있자" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000648630</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000648630</guid>
-            <pubDate>Sat, 10 Feb 2024 03:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[최동석이 설 인사를 전했다. 최동석은 10일 자신의 소셜 계정에 "떡국들은 잡쉈어? 나는 형수님이 차려주신 고명 뷔페식 떡국 먹었어 친구들. 새해에는 웃는 일만 있자"라고 글을 올렸다. 사진에는 반찬통마다 계란, 고]]></content:encoded>
+            <title><![CDATA[허영지, 2024년 설 맞아 한복 인사… “새해 소망하는 일들 모두 이루시길” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000667235</link>
+            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000667235</guid>
+            <pubDate>Sat, 10 Feb 2024 05:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[카라 허영지가 2024년 설을 맞아 단아한 한복 자태로 인사를 건넸다. 허영지는 소속사 DSP미디어를 통해 “어느덧 2024년 민족 대명절 설날이 찾아왔다. 사랑하는 사람들과 함께 행복한 연휴 보내셨으면 좋겠다”고]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['만취 벤츠녀' DJ예송, 거짓말 논란 "죽었다던 아버지가 왜…" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000980944</link>
-            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000980944</guid>
-            <pubDate>Sat, 10 Feb 2024 03:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[음주운전 사망사고를 낸 DJ예송이 유족 측에 사과한 이후 사과 중에 언급했던 그의 아버지가 생존해 있는 것으로 나타났다. 10일 뉴스1 보도에 따르면 예송은 옥중에서 모친을 통해 "저 역시 어린 시절 아버지를 잃고]]></content:encoded>
+            <title><![CDATA[박나래 "'나혼산' 녹화 불참에 "성형 수술 아님" 해명 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000648636</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000648636</guid>
+            <pubDate>Sat, 10 Feb 2024 05:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[방송인 박나래가 성대 수술 근황을 전했다. 박나래는 10이 자신의 SNS에 "새해 복 많이 받으세요. 저는 괜찮음! 더 달리기 위해 잠깐 고치는 중입니다"이라는 글을 남겼다. 앞서 박나래는 '나 혼자 산다' 녹화를]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[티아이오티, 설 화보 공개 후 새해 인사 “행복한 설날 되세요” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001798560</link>
-            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001798560</guid>
-            <pubDate>Sat, 10 Feb 2024 03:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[한복 화보 공개하며 설 인사 전한 그룹 티아이오티(TIOT) 그룹 티아이오티가 설 연휴를 맞이해 한복 화보를 공개한 동시에 인사도 건넸다. 티아이오티(TIOT, 김민성, 금준현, 홍건희, 최우진)는 지난 9일 공식]]></content:encoded>
+            <title><![CDATA[배우 하준, 설 연휴 안타까운 소식 전해…“조모상 비보, ‘효심이네’ 광팬이셨다” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0001029477</link>
+            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0001029477</guid>
+            <pubDate>Sat, 10 Feb 2024 05:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[배우 하준이 12일 서울 구로구 라마디서울신도림호텔에서 진행된 KBS2 주말드라마 ‘효심이네 각자도생’ 제작발표회에서 취재진을 향해 포즈를 취하고 있다. 박진업기자 upandup@sportsseoul.com 배우 하]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김종국 "치과 가본 적 없는 건치…결혼 하더라도 식은 올리기 싫다" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0007345354</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0007345354</guid>
-            <pubDate>Sat, 10 Feb 2024 03:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[가수 겸 방송인 김종국이 결혼을 하고 싶다면서도 식은 올리고 싶지 않다고 털어놨다. 지난 8일 김종국 유튜브 채널 '짐종국'에는 새해를 맞아 '용띠클럽' 멤버 배우 차태현, 장혁, 홍경인, 가수 홍경민 그리고 이들과]]></content:encoded>
+            <title><![CDATA['남편 논란' 성유리, 폭풍성장한 쌍둥이 딸 세배받고 뿌듯…행복한 설 명절 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004108806</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004108806</guid>
+            <pubDate>Sat, 10 Feb 2024 05:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[가수 겸 배우 성유리가 설 인사를 전했다. 10일 성유리는 푸짐한 설 명절 한상을 차려 맛있게 먹었다. 그는 "새해 복 많이 받으세요"라고 인사하며 귀여운 쌍둥이 딸의 근황도 전했다. 성유리의 쌍둥이 딸은 폭풍 성장]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박지윤 “무너진 저, 일으켜 줘 감사” SNS서 심경 고백 [전문] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003329195</link>
-            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003329195</guid>
-            <pubDate>Sat, 10 Feb 2024 03:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[‘크라임씬 리턴즈’로 돌아온 방송인 박지윤이 이혼과 관련해 솔직한 심경을 전했다. 박지윤은 지난 9일 자신의 SNS에 “드디어 7년을 기다려오신 크라임씬 리터즌”라는 글과 함께 공식 포스터를 공유했다. 그는 “다시는]]></content:encoded>
+            <title><![CDATA["박유천, 왜이래?"… 日팬미팅서 달라진 외모에 '화들짝' (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000980950</link>
+            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000980950</guid>
+            <pubDate>Sat, 10 Feb 2024 05:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[박유천이 지난 9일 일본 도쿄에서 열린 데뷔 20주년 기념 팬미팅에서 확 달라진 외모로 등장했다. 10일 머니투데이 보도에 따르면 이날(9일) 온라인 커뮤니티와 SNS(소셜네트워크서비스) 등에는 일본 팬들이 올린 현]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[SC이슈] '나혼산 녹화 불참' 박나래, 성대 수술 후 회복 근황…전현무·코쿤도 응원 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0004108798</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0004108798</guid>
-            <pubDate>Sat, 10 Feb 2024 03:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[개그우먼 박나래가 성대 수술 후 회복 중인 근황을 공개했다. 박나래는 10일 자신의 개인 계정에 "새해 복 많이 받으셔요. 저는 괜찮음! 더 달리기 위해 잠깐 고치는 중입니다"라는 글과 함께 사진을 게재했다. 이어]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[최우식, ‘이탕’ 그 자체로 변신 '자신감엔 이유 있었다' (살인자ㅇ난감) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0001105948</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0001105948</guid>
-            <pubDate>Sat, 10 Feb 2024 03:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[배우 최우식이 ‘살인자ㅇ난감’에서 뛰어난 캐릭터 소화력을 선보이며 강렬한 존재감을 발산했다. 넷플릭스 시리즈 ‘살인자ㅇ난감’은 우연히 살인을 시작하게 된 평범한 남자와 그를 지독하게 쫓는 형사의 이야기를 그린 작품.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘닥터슬럼프’박형식X박신혜, 고백→포옹까지 옥탑 로맨스 돌입 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0001029471</link>
-            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0001029471</guid>
-            <pubDate>Sat, 10 Feb 2024 03:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[JTBC ‘닥터슬럼프’ 박형식, 박신혜. 사진 | JTBC JTBC ‘닥터슬럼프’ 박형식, 박신혜 사이 로맨스 기류가 감지된다. ‘닥터슬럼프’ 측은 5회 방송을 앞둔 10일, 여정우(박형식 분)와 남하늘(박신혜 분)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이엘 "상반신 전부 노출한 광고 촬영…유부남 광고주가 보고 도망갔다" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0007345352</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0007345352</guid>
-            <pubDate>Sat, 10 Feb 2024 03:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이엘(본명 김지현)이 상반신을 전부 노출했던 19금 광고 촬영 일화를 전했다. 지난 8일 유튜브 채널 '노빠꾸 탁재훈'에는 이엘이 게스트로 출연했다. 이날 이엘은 자신이 제작, 판매하는 술을 소개했다. 특히 캔]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[TV10] 박은빈 '설날에 하트 선물' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000648627</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000648627</guid>
-            <pubDate>Sat, 10 Feb 2024 02:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[배우 박은빈이 해외 일정 참석차 10일 오전 김포국제공항을 통해 일본으로 출국했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['김기리와 5월 결혼' 문지인, 미혼 마지막 설날 "원하는 모든 게 이뤄지길" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000648626</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000648626</guid>
-            <pubDate>Sat, 10 Feb 2024 02:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[김명민, 정애연, 문지인 등 심스토리 소속 배우들이 명절 인사를 전했다. 김명민의 소속사 심스토리는 공식 유튜브와 인스타그램을 통해 김명민을 비롯한 정애연, 문지인, 한소은 등 소속 배우들의 새해 인사를 공개했다.]]></content:encoded>
+            <title><![CDATA[[할리웃POP]'커밍아웃' 샘 스미스, 남친과 공개 키스 포착..치마 입고 데이트 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003680722</link>
+            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003680722</guid>
+            <pubDate>Sat, 10 Feb 2024 05:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[팝스타 샘 스미스가 동성 연인과 키스하는 모습이 포착돼 화제다. 9일(한국시간) 영국 데일리메일 등 외신에 따르면 샘 스미스(31)는 최근 패션 디자이너인 남자친구 크리스찬 코완과 미국 뉴욕의 한 길거리에서 데이트를]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[크리스토퍼 놀란 감독 “스마트폰 없고, 이메일도 사용 안한다”[해외이슈] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
@@ -1552,20 +1566,6 @@
             <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003680556</guid>
             <pubDate>Thu, 08 Feb 2024 23:14:49 GMT</pubDate>
             <content:encoded><![CDATA[로버트 드니로가 80대 나이에 얻은 늦둥이 딸을 안고 있는 사진을 공개했다. 할아버지와 손녀 같은 비주얼이 눈길을 끈다. 9일(한국시간) 미국 연예매체 페이지 식스 등 외신이 입수한 사진 속에는 할리우드 배우 로버트]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['모아나2' 나온다…디즈니 CEO "올 11월 극장 개봉" [Oh!llywood] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0005015321</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0005015321</guid>
-            <pubDate>Thu, 08 Feb 2024 22:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[애니메이션 영화 ‘모아나’의 속편이 나온다. 8일(현지 시각) 월트 디즈니 컴퍼니는 “‘모아나’ 속편이 오는 11월 27일 극장에서 개봉할 예정”이라고 발표했다. 지난 2017년 1월 국내 개봉한 ‘모아나’(감독 론]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘아이언맨’ 로다주, 커피사업 뛰어 들었다[해외이슈] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003805695</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003805695</guid>
-            <pubDate>Thu, 08 Feb 2024 22:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[‘아이언맨’ 로버트 다우니 주니어(58)가 커피 브랜드를 론칭했다. 최근 연예매체 피플에 따르면, 로다주는 기업가 크레이그 두비츠키와 함께 ‘해피 커피’ 브랜드를 선보였다. 그는 “매일 아침 침대에서 일어나면 무릎을]]></content:encoded>
         </item>
     </channel>
 </rss>
