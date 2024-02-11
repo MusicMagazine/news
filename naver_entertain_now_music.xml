@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-02-11T10:16:03.500Z</updated>
+    <updated>2024-02-11T11:11:28.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[군대서 설 맞은 BTS "또 다른 배움·경험의 장 되리라 믿어"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0014500156</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0014500156"/>
+        <updated>2024-02-11T11:11:12.757Z</updated>
+        <content type="html"><![CDATA[RM "우리 인연 이어지길"…지민 "저와 정국이 잘 지내고 있다" 지난 연말로 멤버 전원이 병역 이행에 들어간 그룹 방탄소년단(BTS) 멤버들이 설 연휴를 맞아 "또 다른 배움과 경험의 장이 될 것이라 믿고 있다"며]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[테일러 스위프트, 슈퍼볼 스타에게 청혼 받나]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012368131</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003214241"/>
         <updated>2024-02-11T06:15:29.276Z</updated>
         <content type="html"><![CDATA[가수 임영웅의 'Do or Die' 뮤직비디오가 1000만 뷰 달성을 눈앞에 뒀다. 임영웅이 지난해 10월 8일 공식 유튜브 채널을 통해 공개한 'Do or Die' 뮤직비디오는 2월 11일 기준 조회수 900만 뷰]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마마무 문별, 작정한 첫 정규앨범…신곡 12곡 담았다]]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004947203</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004947203"/>
-        <updated>2024-02-11T05:13:31.692Z</updated>
-        <content type="html"><![CDATA[그룹 마마무(MAMAMOO) 멤버 문별이 신보를 통해 총 12곡의 신곡을 선보인다. 문별은 11일 공식 사회관계망서비스(SNS)'에 정규 1집 '스탈릿 오브 뮤즈(Starlit of Muse)'의 트랙리스트를 게재했]]></content>
     </entry>
 </feed>
