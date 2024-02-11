@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-02-11T05:13:46.797Z</updated>
+    <updated>2024-02-11T06:15:44.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[휴대폰부터 개인 카드까지..송중기→카리나 플렉스 미담]]></title>
+        <id>https://v.daum.net/v/20240211150001259</id>
+        <link href="https://v.daum.net/v/20240211150001259"/>
+        <updated>2024-02-11T06:15:10.576Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 이승훈 기자] 송중기, 에스파 카리나, 투어스 신유 /사진=스타뉴스 아낌없이 주는 플렉스다. 같은 소속사에서 한솥밥을 먹고 있는 후배 아이돌 그룹에게 개인 카드를 주는가 하면, 영화로 함께 호흡을 맞춘 동료 배우에게 휴대폰을 선물, 일본 여행 중 식당에서 만난 한국인 팬의 밥값을 대신 결제해줬다. 세븐틴과 투어스, 송중기와 비비, 에스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[싸이커스, 데뷔 첫 유럽 7개국 투어 성료.."존재감 빛냈다"]]></title>
         <id>https://v.daum.net/v/20240211140024721</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240211103208171"/>
         <updated>2024-02-11T01:51:15.679Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김한길 기자] 새해가 되면 삶을 더 의미 있게 만들기 위한 목표 설정과 각오를 다지기 마련이다. 하지만 한 달, 두 달이 지나다 보면 어느새 의지는 꺾기고 계획은 흐지부지되는 경우가 비일비재하다. 이에 2024년 갑진년, 청룡의 해를 맞아 god 김태우, KCM, 정동하, 요아리, 멜로망스 김민석, 권진아, 이무진, 박혜원(HYNN)이 용처]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장원영 소송 새국면..탈덕수용소 A씨 "사과문 작성 안했다"]]></title>
-        <id>https://v.daum.net/v/20240211100501906</id>
-        <link href="https://v.daum.net/v/20240211100501906"/>
-        <updated>2024-02-11T01:51:15.681Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 윤상근 기자] 아이브 장원영이 14일 필리핀 아레나에서 열린 '2023 아시아 아티스트 어워즈 인 필리핀'(2023 Asia Artist Awards IN THE PHILIPPINES, 이하 '2023 AAA') 레드카펫 행사에 참석해 포즈를 취하고 있다.  '2023 AAA'는 스타뉴스가 주최하고 Asia Artist Awards 조직위원]]></content>
     </entry>
 </feed>
