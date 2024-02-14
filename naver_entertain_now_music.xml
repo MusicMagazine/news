@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-02-14T17:13:46.346Z</updated>
+    <updated>2024-02-14T18:17:13.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[위아이, 日 미니 2집 ‘WAVE’ 발매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000943424</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000943424"/>
+        <updated>2024-02-14T18:16:58.706Z</updated>
+        <content type="html"><![CDATA[아이돌그룹 위아이(WEi)가 한층 업그레이드된 모습으로 돌아왔다. 위아이(장대현, 김동한, 유용하, 김요한, 강석화, 김준서)는 14일 온라인 음원사이트를 통해 일본 두 번째 미니앨범 ‘WAVE (웨이브)’를 발매했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[루네이트, 3월 13일 ‘BUFF’로 7개월 만에 컴백!]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000943421</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000943370"/>
         <updated>2024-02-14T10:12:54.538Z</updated>
         <content type="html"><![CDATA[가수 더 데이지(The Daisy)가 ‘피도 눈물도 없이’ OST 주자로 참여한다. 오는 15일 정오 각종 온라인 음원사이트를 통해 더 데이지가 참여한 KBS2 일일드라마 ‘피도 눈물도 없이’ OST Part.4 ‘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용감한형제 "캔디샵 수이, 엉뚱 발랄 매력의 비타민 같은 존재"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=018&amp;aid=0005673472</id>
-        <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005673472"/>
-        <updated>2024-02-14T10:12:54.541Z</updated>
-        <content type="html"><![CDATA[브레이브 엔터테인먼트(이하 브레이브)가 데뷔를 앞둔 걸그룹 캔디샵(Candy Shop) 멤버 수이(SUI)의 개인 콘텐츠를 공개했다. 브레이브는 14일 캔디샵 공식 SNS 계정에 수이의 프로필 사진과 댄스 커버 영상]]></content>
     </entry>
 </feed>
