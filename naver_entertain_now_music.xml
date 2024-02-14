@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-02-14T16:15:25.090Z</updated>
+    <updated>2024-02-14T17:13:46.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[루네이트, 3월 13일 ‘BUFF’로 7개월 만에 컴백!]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000943421</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000943421"/>
+        <updated>2024-02-14T17:13:31.205Z</updated>
+        <content type="html"><![CDATA[아이돌그룹 루네이트(LUN8, 판타지오 소속)가 7개월 만에 컴백한다. 루네이트(진수·카엘·타쿠마·준우·도현·이안·지은호·은섭)는 오는 3월 13일 두 번째 미니앨범 ‘BUFF’(버프)를 발매한다. 이는 미니 1집]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['불법촬영·유포' 래퍼 뱃사공, 복역 중 새 앨범 발매…가사 눈길]]></title>
         <id>https://entertain.naver.com/now/read?oid=025&amp;aid=0003341447</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005673472"/>
         <updated>2024-02-14T10:12:54.541Z</updated>
         <content type="html"><![CDATA[브레이브 엔터테인먼트(이하 브레이브)가 데뷔를 앞둔 걸그룹 캔디샵(Candy Shop) 멤버 수이(SUI)의 개인 콘텐츠를 공개했다. 브레이브는 14일 캔디샵 공식 SNS 계정에 수이의 프로필 사진과 댄스 커버 영상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8TURN to make Japanese debut next month with 'Ru-pum pum' remake]]></title>
-        <id>https://entertain.naver.com/now/read?oid=640&amp;aid=0000049974</id>
-        <link href="https://entertain.naver.com/now/read?oid=640&amp;aid=0000049974"/>
-        <updated>2024-02-14T10:12:54.543Z</updated>
-        <content type="html"><![CDATA[Boy band 8TURN will make its Japanese debut on March 6 with the digital single “Ru-pum pum Japanese ver.,” according to]]></content>
     </entry>
 </feed>
