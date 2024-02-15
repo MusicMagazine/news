@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Feb 2024 05:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 06:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 '러브레터' 2년 만에 마곡 U+스테이지로... "정보석, 박혁권, 하희라, 유선"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=303265</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=303265</guid>
+            <pubDate>Thu, 15 Feb 2024 06:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=303265">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240215142628_3581886e9437f5bdc8fd2e366c0d4411.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=303265">연극 '러브레터' 2년 만에 마곡 U+스테이지로... "정보석, 박혁권, 하희라, 유선"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240215142628_3581886e9437f5bdc8fd2e366c0d4411.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김민, 쿠팡플레이 '하이드' 캐스팅.. 미스터리한 인물 ‘석구’]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=303217</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=301225">문예원, 로맨틱코미디 ‘멜로망스’ 주연 캐스팅</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240202222924_791f86bc5f8968e63759b46d71635b79.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홍수주, 디즈니+ ‘로얄로더’ 주인공 나혜원 캐스팅]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=301273</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=301273</guid>
-            <pubDate>Wed, 07 Feb 2024 03:13:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=301273">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240202174534_72ef783d79c39fbe976ea233596d1600.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=301273">홍수주, 디즈니+ ‘로얄로더’ 주인공 나혜원 캐스팅</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240202174534_72ef783d79c39fbe976ea233596d1600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
