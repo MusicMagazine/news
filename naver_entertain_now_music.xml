@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-02-15T14:17:06.171Z</updated>
+    <updated>2024-02-15T15:13:27.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[싱어송라이터 포타토이(Potatoi), 첫 EP ‘Toy’ 발매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000943661</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000943661"/>
+        <updated>2024-02-15T15:13:10.481Z</updated>
+        <content type="html"><![CDATA[밴드 웨이브투어스(wave to earth)의 베이시스트 차순종이 싱어송라이터 포타토이(Potatoi)로 또 다른 음악적 행보를 선보였다. 포타토이는 15일 온라인 음원사이트를 통해 첫 EP ‘Toy(토이)’를 발매]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTS 뷔, 입대 2개월 만에 62kg→72.5kg 증량…“86kg로 만들겠다”]]></title>
         <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0001030987</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004948995"/>
         <updated>2024-02-15T14:16:49.318Z</updated>
         <content type="html"><![CDATA[그룹 엔싸인 카즈타가 15일 오후 서울 상암동 SBS프리즘타워에서 열린 두 번째 미니 앨범 'Happy &amp;(해피 앤드)‘ 발매 기념 쇼케이스에 참석해 공연을 펼치고 있다. 타이틀곡 'Happy &amp;'는 모든 이별 뒤에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔싸인, 신보 ‘Happy &’로 대체불가 청량함 선사]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000943643</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000943643"/>
-        <updated>2024-02-15T14:16:49.319Z</updated>
-        <content type="html"><![CDATA[아이돌그룹 엔싸인(n.SSign)이 6개월 만에 가요계에 컴백했다. 엔싸인은 15일 오후 6시 두 번째 미니 앨범 ‘Happy &amp;(해피 앤드)’를 발매하고 컴백 활동에 돌입했다. ‘Happy &amp;’는 삶 속에서 만나는]]></content>
     </entry>
 </feed>
