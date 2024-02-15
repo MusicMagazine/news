@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-02-15T20:11:43.571Z</updated>
+    <updated>2024-02-15T21:13:45.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴진스 '평균 나이 17.6세', 왜 무대만 내려오면 패션이 칙칙해질까]]></title>
+        <id>https://v.daum.net/v/20240216060102326</id>
+        <link href="https://v.daum.net/v/20240216060102326"/>
+        <updated>2024-02-15T21:13:17.366Z</updated>
+        <content type="html"><![CDATA[[텐아시아=최지예 기자]무대 위에서는 한 없이 상큼하고 발랄한 소녀들이지만, 무대에서 내려오면 칙칙한 스타일링이 아쉽다는 평가가 나오고 있다. 평균 나이 17,6세 뉴진스의 이야기다.&nbsp; 데뷔 이래 뉴진스는 10대 소녀의 콘셉트로 대중을 만나고 있다. 이성을 향한 설렘, 친구와의 비밀 이야기 등을 노래에 담아낸 뉴진스는 무대나 뮤직비디오에서 교복 또는 흰]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“항상 너와 함께” 솔로 차은우의 ‘그리운 일기장’]]></title>
         <id>https://v.daum.net/v/20240215230903539</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240215183126196"/>
         <updated>2024-02-15T10:16:52.865Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 김태형 기자] 대체불가한 청량함으로 무장한 신인 그룹 엔싸인(n.SSign)이 6개월 만에 즐거움 가득한 신곡으로 돌아왔다. 15일 서울 마포구 SBS프리즘타워에는 엔싸인 두 번째 미니 앨범 ‘해피 앤드(Happy &amp;)’ 미디어 쇼케이스가 열렸다. 엔싸인(현, 준혁, 도하, 한준, 희원, 성윤, 카즈타, 로빈, 로렌스, 에디)은 같은날]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘보컬퀸’ 휘인이 ‘천재 프로듀서’ 데이식스 영케이X나상현 만났을 때 ‘휘이’]]></title>
-        <id>https://v.daum.net/v/20240215180012466</id>
-        <link href="https://v.daum.net/v/20240215180012466"/>
-        <updated>2024-02-15T10:16:52.867Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 믿고 듣는 보컬리스트 휘인(Whee In)이 천재 프로듀서 데이식스(DAY6) 영케이(Young K), 나상현씨밴드 나상현과 만났다. 휘인은 2월 15일 오후 6시 각종 음원 사이트를 통해 새 디지털 싱글 '휘이'를 발매했다. 이번 싱글은 휘인이 지난해 10월 발표한 첫 솔로 정규 앨범 'IN the mood'(인 더 무드) 이후]]></content>
     </entry>
 </feed>
