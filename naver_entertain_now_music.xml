@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-02-15T16:14:40.401Z</updated>
+    <updated>2024-02-15T19:13:17.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박보람·허각, '슈스케2' 동창 뭉쳤다…듀엣곡 '좋겠다' 발표]]></title>
+        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000473802</id>
+        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000473802"/>
+        <updated>2024-02-15T19:13:03.525Z</updated>
+        <content type="html"><![CDATA['슈퍼스타K' 출신의 가수 박보람이 허각과 듀엣곡을 발표한다. 박보람 소속사 제나두엔터테인먼트에 따르면 박보람은 허각과 함께 부른 '좋겠다'를 오는 18일 싱글 형식으로 발표한다. '좋겠다'는 박보람이 지난해 6월]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[싱어송라이터 포타토이(Potatoi), 첫 EP ‘Toy’ 발매]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000943661</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004948996"/>
         <updated>2024-02-15T14:16:49.316Z</updated>
         <content type="html"><![CDATA[그룹 엔싸인 준혁이 15일 오후 서울 상암동 SBS프리즘타워에서 열린 두 번째 미니 앨범 'Happy &amp;(해피 앤드)‘ 발매 기념 쇼케이스에 참석해 공연을 펼치고 있다. 타이틀곡 'Happy &amp;'는 모든 이별 뒤에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 엔싸인 카즈타, '부드러운 미소~']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004948995</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004948995"/>
-        <updated>2024-02-15T14:16:49.318Z</updated>
-        <content type="html"><![CDATA[그룹 엔싸인 카즈타가 15일 오후 서울 상암동 SBS프리즘타워에서 열린 두 번째 미니 앨범 'Happy &amp;(해피 앤드)‘ 발매 기념 쇼케이스에 참석해 공연을 펼치고 있다. 타이틀곡 'Happy &amp;'는 모든 이별 뒤에]]></content>
     </entry>
 </feed>
