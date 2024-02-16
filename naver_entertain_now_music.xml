@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-02-16T13:16:13.751Z</updated>
+    <updated>2024-02-16T17:11:30.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이창섭, 웹툰 ‘선녀외전’ 컬래버 음원 참여···21일 캔 ‘천상연’ 리메이크 발매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000943873</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000943873"/>
+        <updated>2024-02-16T17:11:14.326Z</updated>
+        <content type="html"><![CDATA[비투비 멤버 이창섭이 웹툰과 OST 컬래버레이션 음원 작업에 참여한다. 이창섭이 가창에 참여한 인기 네이버웹툰 ‘선녀외전’의 컬래버레이션 음원 ‘천상연’이 오는 21일 발매를 확정했다. ‘천상연’은 지난 1998년]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이승철 "나얼·박효신, 대중에게 더 다가와라" 조언]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012377721</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005675194"/>
         <updated>2024-02-16T12:25:05.244Z</updated>
         <content type="html"><![CDATA[그룹 잔나비가 16일 오후 서울 강남구 삼성동 코엑스 오디토리움에서 열린 ‘2024 이데일리 일자리 창출 응원 콘서트’에서 멋진 공연을 펼치고 있다. “잔나비도 같은 마음으로 응원합니다.” 그룹사운드 잔나비가 16일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토]잔나비, 달콤한 무대]]></title>
-        <id>https://entertain.naver.com/now/read?oid=018&amp;aid=0005675193</id>
-        <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005675193"/>
-        <updated>2024-02-16T12:25:05.246Z</updated>
-        <content type="html"><![CDATA[그룹 잔나비가 16일 오후 서울 강남구 삼성동 코엑스 오디토리움에서 열린 '2024 이데일리 일자리 창출 응원 콘서트'에서 멋진 공연을 펼치고 있다.]]></content>
     </entry>
 </feed>
