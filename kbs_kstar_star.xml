@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Feb 2024 22:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Feb 2024 00:50:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[옥주현, "댄버스 부인 과몰입 중입니다".. 뮤지컬 ‘레베카’ 대기실]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=303320</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=303320</guid>
+            <pubDate>Fri, 16 Feb 2024 00:49:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=303320">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240216075154_8f5a482debd9022966dd77b55153290f.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=303320">옥주현, "댄버스 부인 과몰입 중입니다".. 뮤지컬 ‘레베카’ 대기실 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240216075154_8f5a482debd9022966dd77b55153290f.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[연극 '러브레터' 2년 만에 마곡 U+스테이지로... "정보석, 박혁권, 하희라, 유선"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=303265</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=301235">'부산 뮤지컬의 성지' 드림씨어터 2024년 라인업.. &lt;레베카&gt;에서 이문세콘서트까지</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240208081458_6f2b3a26568aa9b51d88b4b775525d05.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문예원, 로맨틱코미디 ‘멜로망스’ 주연 캐스팅]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=301225</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=301225</guid>
-            <pubDate>Thu, 08 Feb 2024 01:42:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=301225">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240202222924_791f86bc5f8968e63759b46d71635b79.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=301225">문예원, 로맨틱코미디 ‘멜로망스’ 주연 캐스팅</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240202222924_791f86bc5f8968e63759b46d71635b79.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

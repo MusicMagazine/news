@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Feb 2024 22:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Feb 2024 00:50:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[르세라핌, ‘EASY’ 뮤직비디오 티저 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=303307</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=303307</guid>
+            <pubDate>Fri, 16 Feb 2024 00:49:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=303307">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240216073511_42464c291303ac9aee8f287ee7c47716.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=303307">르세라핌, ‘EASY’ 뮤직비디오 티저 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240216073511_42464c291303ac9aee8f287ee7c47716.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[마마무 문별, 정규 1집  'TOUCHIN&MOVIN'..   '21세기 뮤즈' 변신]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=303087</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=298138">NMIXX 컴백, 미니앨범 'Fe3O4: BREAK' .. "2024년 DASH!"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240115081738_8d90135e8f379fcad4fa9cc97e1e79bc_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정국, 美 ‘피플스 초이스 어워드’ 4개 부문 후보]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=297804</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=297804</guid>
-            <pubDate>Fri, 12 Jan 2024 23:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=297804">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240113074139_3748eb37eea93f7d0cea6b3bc50960dd.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=297804">정국, 美 ‘피플스 초이스 어워드’ 4개 부문 후보</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240113074139_3748eb37eea93f7d0cea6b3bc50960dd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
