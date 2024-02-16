@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-02-16T20:13:53.386Z</updated>
+    <updated>2024-02-16T21:10:41.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[손호영, 3월 생일 기념 팬콘서트 '봄이 왔호영' 개최…"봄날의 피크닉"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000473958</id>
+        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000473958"/>
+        <updated>2024-02-16T21:10:25.163Z</updated>
+        <content type="html"><![CDATA[가수 손호영이 3월 생일을 맞아 콘서트를 연다. 손호영은 오는 3월 23일(오후 6시)과 24일(오후 5시) 이틀간 서울 한남동 블루스퀘어 마스터카드홀에서 2024 팬 콘서트 '봄이 왔호영'을 갖는다. '봄이 왔호영]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['현역가왕' 톱7 전국투어, 4월 서울서 시작…안양·창원·광주 등 순회]]></title>
         <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000473957</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000943863"/>
         <updated>2024-02-16T12:25:05.239Z</updated>
         <content type="html"><![CDATA[‘케이팝 스타들이 사랑하는 팝의 천재, 미국의 싱어송라이터 맥스(MAX)가 새로운 정규 앨범 ’LOVE IN STEREO‘를 발매했다고 소속 레이블이 16일 전했다. 맥스는 방탄소년단의 싱글 ‘Yet To Come’]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토]잔나비, 주먹 불끈]]></title>
-        <id>https://entertain.naver.com/now/read?oid=018&amp;aid=0005675199</id>
-        <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005675199"/>
-        <updated>2024-02-16T12:25:05.239Z</updated>
-        <content type="html"><![CDATA[그룹 잔나비가 16일 오후 서울 강남구 삼성동 코엑스 오디토리움에서 열린 '2024 이데일리 일자리 창출 응원 콘서트'에서 멋진 공연을 펼치고 있다.]]></content>
     </entry>
 </feed>
