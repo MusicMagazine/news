@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-02-18T14:11:09.776Z</updated>
+    <updated>2024-02-18T15:15:17.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS 제이홉 3월 새 프로젝트 예고]]></title>
+        <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003905338</id>
+        <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003905338"/>
+        <updated>2024-02-18T15:15:02.572Z</updated>
+        <content type="html"><![CDATA[댄스 관련 ‘호프 온 더 스트리트’ 빅히트 “입대 전 모든 준비 마쳐” 글로벌 그룹 방탄소년단(BTS)의 제이홉이 다음 달 새 프로젝트 ‘호프 온 더 스트리트(HOPE ON THE STREET)’를 선보인다고 소속사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['한터뮤직어워즈', 에스파 3관왕·NCT드림 대상…안전사고 우려 '옥에 티'(종합)]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000267874</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004949821"/>
         <updated>2024-02-18T14:10:56.711Z</updated>
         <content type="html"><![CDATA[그룹 트리플에스 박소현이 18일 오후 서울 동대문디자인플라자(DDP)에서 열린 '31주년 한터뮤직어워즈 2023' 레드카펫 행사에 참석해 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 트리플에스 곽연지, '깨물어주고 싶은 깜찍함' (한터뮤직어워즈)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004949820</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004949820"/>
-        <updated>2024-02-18T14:10:56.712Z</updated>
-        <content type="html"><![CDATA[그룹 트리플에스 곽연지가 18일 오후 서울 동대문디자인플라자(DDP)에서 열린 '31주년 한터뮤직어워즈 2023' 레드카펫 행사에 참석해 포토타임을 갖고 있다.]]></content>
     </entry>
 </feed>
