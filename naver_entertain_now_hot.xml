@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2024-02-22T18:15:54.363Z</updated>
+    <updated>2024-02-22T20:12:30.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박규영, 시대를 대표하는 여성…과감+섬세 스타일링 [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001108417</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0001108417"/>
+        <updated>2024-02-22T20:12:22.935Z</updated>
+        <content type="html"><![CDATA[배우 박규영이 패션 매거진 '보그 코리아'의 3월호 커버를 장식했다. ‘보그 코리아’는 영화, 음악, 패션, 스포츠, 아트 등 각자의 분야에서 업적을 이룬 여성을 조명하는 ‘보그 리더: 2024 우먼 나우’ 캠페인을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이현주, 에이프릴 갈등→활동 중단 “언제까지 쉬어야 하나 답답했다” [화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001108416</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003331501"/>
         <updated>2024-02-22T14:15:05.644Z</updated>
         <content type="html"><![CDATA[방송인 서장훈이 살인 후 심신미약을 주장하는 것에 대해 분노했다. 22일 방송된 SBS ‘국민 참견 재판’에는 서장훈, 한혜진, 이상윤, 타일러, 하리무가 배심원으로 함께해 다양한 이야기를 나눴다. 이날 ‘국민 참견]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[TEN포토] 영화 '듄: 파트2'의 주역들]]></title>
-        <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000650393</id>
-        <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000650393"/>
-        <updated>2024-02-22T14:15:05.645Z</updated>
-        <content type="html"><![CDATA[영화 '듄: 파트2' 레드카펫 행사가 22일 오후 서울 영등포 타임스퀘어에서 열렸다. 이날 드니 빌뇌브 감독, 배우 티모시 샬라메, 젠데이아, 오스틴 버틀러, 스텔란 스카스가드, 타냐 라푸앵트 프로듀서 등이 참석했다]]></content>
     </entry>
 </feed>
