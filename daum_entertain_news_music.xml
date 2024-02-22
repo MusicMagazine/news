@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-02-22T09:13:42.967Z</updated>
+    <updated>2024-02-22T10:14:54.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이가은ㆍ이진우가 소환한 '프듀 조작 파동']]></title>
+        <id>https://v.daum.net/v/20240222184920098</id>
+        <link href="https://v.daum.net/v/20240222184920098"/>
+        <updated>2024-02-22T10:14:23.967Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김지하 기자] '프로듀스 48' 출연 당시 순위 조작 피해를 당한 그룹 애프터스쿨 출신 배우 이가은이 해당 사건을 방송에서 언급하며, '프듀 조작 파동'이 다시 조명받고 있다. 이가은은 21일 유튜브 채널 '재미로웹' 채널을 통해 공개된 '가톡방' 1회 콘텐츠에 진행자로 출연했다. '참가자 외 출입 금지 서바이벌 리얼 후기방'이라는 제목으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘미니멀 감성’ 김범수, 어때?]]></title>
         <id>https://v.daum.net/v/20240222180904090</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240222160715820"/>
         <updated>2024-02-22T07:12:45.053Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 하이브 글로벌 음악축제 ‘위버스콘 페스티벌’이 돌아온다. 하이브는 ‘2024 위버스콘 페스티벌(Weverse Con Festival)’을 오는 6월 15~16일 이틀간 인천 영종도 인스파이어 아레나와 디스커버리 파크에서 개최한다고 2월 22일 밝혔다. '위버스콘 페스티벌'은 하이브가 음악의 장르, 세대를 초월하는 통합의 장이자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘팬바보’ 아이유가 또! 美 ‘유애나 할아버지’ 콘서트 초청]]></title>
-        <id>https://v.daum.net/v/20240222155323049</id>
-        <link href="https://v.daum.net/v/20240222155323049"/>
-        <updated>2024-02-22T07:12:45.058Z</updated>
-        <content type="html"><![CDATA[가수 아이유의 팬으로 유명해진 미국 유튜버 ‘Zev Does KDrama’가 드디어 아이유를 만난다. 해당 유튜버는 지난 21일 자신의 유튜브 채널 ‘Zev Does KDrama’에 ‘세상 최고의 소식을 받았다’는 제목의 영상을 게재했다. 이 영상에는 그가 아이유로부터 콘서트 초청을 받고 기뻐하는 모습이 담겼다. 그는 아이유에게 고마움을 표했고, 입을]]></content>
     </entry>
 </feed>
