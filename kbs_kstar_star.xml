@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Feb 2024 20:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 23:13:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[르세라핌,  '엘르' 화보... "우아함과 카리스마, 그리고 'EASY'"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=304430</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=304430</guid>
+            <pubDate>Fri, 23 Feb 2024 23:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=304430">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240224065247_fd52d32bfda969e6172281b324f8f273.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=304430">르세라핌,  '엘르' 화보... "우아함과 카리스마, 그리고 'EASY'"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240224065247_fd52d32bfda969e6172281b324f8f273.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] 뮤지컬 ‘노트르담 드 파리’.. 운명의 에스메랄다, 숙명의 콰지모도, 그리고 대성당의 막장드라마]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=304284</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=302338">뉴진스, 설 인사.. “푸른 용 기운 받아 힘차게 시작하자” </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240209111032_28319516099f0592227b7107124eab88_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 류덕환 인터뷰 프로젝트,  영상 전시회 '논펀저블' 개최]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=302258</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=302258</guid>
-            <pubDate>Thu, 08 Feb 2024 23:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=302258">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240209073415_4c793089e5da453fa728abca6543b0f3_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=302258">배우 류덕환 인터뷰 프로젝트,  영상 전시회 '논펀저블' 개최</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240209073415_4c793089e5da453fa728abca6543b0f3_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
