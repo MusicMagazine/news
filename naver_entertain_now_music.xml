@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-02-23T16:14:49.701Z</updated>
+    <updated>2024-02-23T17:13:08.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하이키, 첫 영어곡 ‘Thinkin’ About You’도 정주행]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000945235</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000945235"/>
+        <updated>2024-02-23T17:12:54.814Z</updated>
+        <content type="html"><![CDATA[걸그룹 하이키가 ‘믿고 듣는 음원 강자’답게 영어곡으로도 강력한 뒷심을 발휘하고 있다. 하이키(H1-KEY, 서이·리이나·휘서·옐)가 지난달 발표한 ‘H1-KEYnote(하이키노트)’ 프로젝트의 첫 번째 싱글 ‘Th]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이효리 "제니, 르세라핌 등 후배들 노출의상 안 입었으면"..소신 발언 '눈길' [Oh!쎈 종합]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0005023488</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0004113385"/>
         <updated>2024-02-23T14:11:23.101Z</updated>
         <content type="html"><![CDATA[유명 프로듀서 겸 작곡가 신사동호랭이(본명 이호양)의 갑작스러운 사망 비보에 소속사 측이 애도의 뜻을 전했다. 소속사 티알엔터테인먼트는 23일 공식 입장을 통해 "너무 비통하고 안타까운 소식을 전하게 되어 참담한 심]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[故 신사동호랭이, 팬들 안타깝게 한 최근 재무상태…회생신청에 제작그룹 초상권도 담보로]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000945211</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000945211"/>
-        <updated>2024-02-23T14:11:23.102Z</updated>
-        <content type="html"><![CDATA[23일 갑작스럽게 사망한 작곡가 겸 신사동호랭이의 생전 어려웠던 재무사정이 재조명되며 팬들을 한층 더 안타깝게 하고 있다. 신사동호랭이는 이날 오후 연락이 닿지 않아 수소문하던 지인에게 숨진 채 발견돼 충격을 줬다.]]></content>
     </entry>
 </feed>
