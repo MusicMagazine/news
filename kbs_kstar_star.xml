@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 19:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 22:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[곽동연, 연극 ‘엘리펀트 송’ 열정으로 가득 채우다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=304855</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=304855</guid>
+            <pubDate>Tue, 27 Feb 2024 22:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=304855">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240228065639_d7398adf37ad486db2cd665218a7d582.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=304855">곽동연, 연극 ‘엘리펀트 송’ 열정으로 가득 채우다</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240228065639_d7398adf37ad486db2cd665218a7d582.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KBS 유튜브 쇼츠 전용 채널 ‘KBS 올숏’ 오픈]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=304996</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=302502">나인아이(NINE.i)  설 인사 “새해 복 많이 받으세요”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240210093900_47d24d1f6098afe242f0a8534fb02fe1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보이넥스트도어.. “건강한 한 해 보내세요!”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=302382</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=302382</guid>
-            <pubDate>Fri, 09 Feb 2024 11:13:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=302382">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240209192053_90a985203b97b41d1e617ed74c1a0379_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=302382">보이넥스트도어.. “건강한 한 해 보내세요!”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240209192053_90a985203b97b41d1e617ed74c1a0379_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
