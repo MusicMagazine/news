@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-02-28T11:15:35.206Z</updated>
+    <updated>2024-02-28T12:23:33.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[청하, 박재범 모어비전 합류 후 첫 컴백 확정…타이틀은 'EENIE MEENIE']]></title>
+        <id>https://v.daum.net/v/20240228202021149</id>
+        <link href="https://v.daum.net/v/20240228202021149"/>
+        <updated>2024-02-28T12:23:02.528Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 이승길 기자] 가수 청하가 오는 3월 11일 컴백을 확정했다. 청하는 28일 오후 6시 오는 3월 11일 새 싱글 ‘EENIE MEENIE (이니미니)’의 트레일러 ‘I'm Ready (아임 레디)’를 공개했다. 공개된 영상 속 청하는 강렬한 눈빛과 압도적인 퍼포먼스로 이목을 사로잡았다. 청하는 준비가 끝나면 허물을 벗고 성장하는 뱀을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[산들X효정X효진, 특급 보컬유닛의 '366일'은 이렇게 제작됐다]]></title>
         <id>https://v.daum.net/v/20240228200221708</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240228171926097"/>
         <updated>2024-02-28T09:15:10.257Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김지현 기자] 지난 24일 영면에 든 작곡가 겸 프로듀서 고(故) 신사동호랭이에 대한 동료들의 추모가 계속되고 있다. EXID 출신 엘리는 28일 자신의 인스타그램에 "미운 사람. 고마운 사람. 오빠가 편안하면 되었어 잘가. 안녕히"라는 글과 함께 직접 쓴 손 편지를 공개했다. 그는 "나의 20대와 30대를 함께 했을 사람. 솔직히 너무 밉다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지현우 대상→'소풍' 30만…'임영웅XOST=대박' 성공 공식]]></title>
-        <id>https://v.daum.net/v/20240228171828064</id>
-        <link href="https://v.daum.net/v/20240228171828064"/>
-        <updated>2024-02-28T09:15:10.257Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김예은 기자) 가수 임영웅이 OST만 부르면 작품도 소위 '대박'이 난다. '신사와 아가씨'를 시작으로 현재 상영 중인 '소풍'까지, '임영웅 효과'가 어마어마하다. '트로트 스타' 임영웅이 OST로도 좋은 성적을 내고 있다. 그의 자작곡인 '모래 알갱이'는 지난 7일 개봉한 영화 '소풍'(감독 김용균)에 삽입됐다. 해당 곡은 임영웅이]]></content>
     </entry>
 </feed>
