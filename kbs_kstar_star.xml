@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 23:15:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 00:55:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나인우의  반전매력, <엘르> 화보]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=304883</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=304883</guid>
+            <pubDate>Wed, 28 Feb 2024 00:53:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=304883">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240228091340_b9b16db28578fba32a13e44506455840.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=304883">나인우의  반전매력, &lt;엘르&gt; 화보</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240228091340_b9b16db28578fba32a13e44506455840.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 ‘레베카’ 10주년 기념 서울 공연 성료.. "부산, 성남, 광주, 창원, 전주, 울산공연"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=304899</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=302579">아이브 안유진, 티빙 '크라임씬 리턴즈' 플레이어 합류</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240211080951_15d5f578a57882583b74062d31275762.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투모로우바이투게더, 설 인사 “새해 복 많이 받으세요”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=302507</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=302507</guid>
-            <pubDate>Sat, 10 Feb 2024 00:48:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=302507">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240210094521_8e93e2d8575320ccc7bd78dd20acf353_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=302507">투모로우바이투게더, 설 인사 “새해 복 많이 받으세요”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240210094521_8e93e2d8575320ccc7bd78dd20acf353_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
