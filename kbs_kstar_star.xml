@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Feb 2024 20:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 21:13:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서현우 변신, “연기장인에서 화보장인으로” (GQ KOREA)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=305375</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=305375</guid>
+            <pubDate>Thu, 29 Feb 2024 21:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=305375">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240229090717_9bf634cb5231b1fc17b1cec25d98e083.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=305375">서현우 변신, “연기장인에서 화보장인으로” (GQ KOREA)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240229090717_9bf634cb5231b1fc17b1cec25d98e083.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[책] 프랭크 허버트 단편걸작선..  "듄의 세계관, 베네 게세리트의 개념"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=305503</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=303265">연극 '러브레터' 2년 만에 마곡 U+스테이지로... "정보석, 박혁권, 하희라, 유선"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240215142628_3581886e9437f5bdc8fd2e366c0d4411.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김민, 쿠팡플레이 '하이드' 캐스팅.. 미스터리한 인물 ‘석구’]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=303217</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=303217</guid>
-            <pubDate>Thu, 15 Feb 2024 00:54:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=303217">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240215085747_75db56da46faae48cd71b886d0fabcc5.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=303217">김민, 쿠팡플레이 '하이드' 캐스팅.. 미스터리한 인물 ‘석구’</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240215085747_75db56da46faae48cd71b886d0fabcc5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
