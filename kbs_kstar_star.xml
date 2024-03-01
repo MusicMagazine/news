@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Mar 2024 20:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Mar 2024 23:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["이하늬는 빨강"  ‘보그 코리아’ 3월호 커버 장식]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=305468</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=305468</guid>
+            <pubDate>Fri, 01 Mar 2024 23:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=305468">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240229102456_012b01461eb0ad188b5cf7b98a4d2e8f.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=305468">"이하늬는 빨강"  ‘보그 코리아’ 3월호 커버 장식</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240229102456_012b01461eb0ad188b5cf7b98a4d2e8f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 '마리 앙투아네트' 개막.. 김소향, 비극의 왕비 '마리 앙투아네트']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=305542</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=304017">김세정, 연극 ‘템플’ 호평 속 성료 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240221074638_17458bad57ed09421d8c2d082a0b1a53.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스 혜인, '보그 코리아' 커버 장식... "동시대 대표하는 여성 24인 선정"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=303519</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=303519</guid>
-            <pubDate>Sat, 17 Feb 2024 11:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=303519">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240217163945_5b56e7bd1daf1f82426bcdd5b0d9fb96.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=303519">뉴진스 혜인, '보그 코리아' 커버 장식... "동시대 대표하는 여성 24인 선정"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240217163945_5b56e7bd1daf1f82426bcdd5b0d9fb96.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
