@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-03-02T06:18:08.893Z</updated>
+    <updated>2024-03-02T07:11:26.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유니크 성주 “유부남 맞아, 子 있어”]]></title>
+        <id>https://v.daum.net/v/20240302152207850</id>
+        <link href="https://v.daum.net/v/20240302152207850"/>
+        <updated>2024-03-02T07:10:52.920Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 이기은 기자] 그룹 유니크(UNIQ) 멤버 성주가 유부남임을 인정했다. 성주는 2일 개인 채널을 통해 최근 온라인 커뮤니티, 소셜미디어를 통해 불거진 자신의 기혼설에 관해 인정했다. 그는 "최근 온라인 커뮤니티 및 소셜미디어를 통해 갑작스러운 소식으로 많은 분들을 놀라게 한 점과 솔직하게 제 자신을 보여드리지 못했던 부분에 대해 죄송하다는 말]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[투어스, 日 정식 데뷔 전 러브콜 쇄도…'글로벌 대세' 예약]]></title>
         <id>https://v.daum.net/v/20240302150019613</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240302091052267"/>
         <updated>2024-03-02T03:15:20.639Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 한해선 기자] /사진=빅히트 뮤직 그룹 방탄소년단 제이홉의 신규 프로젝트를 직접 체험할 수 있는 공간이 성수동에 마련된다. 2일 소속사 빅히트 뮤직에 따르면, 3월 30일~4월 5일 서울시 성동구 성수동에서 제이홉의 스페셜 앨범 'HOPE ON THE STREET VOL.1' 발매를 기념한 팝업 ''HOPE ON THE STREET' POP]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라이즈, 멕시코 최대 팝 페스티벌 ‘테카테 엠블레마’ 출연]]></title>
-        <id>https://v.daum.net/v/20240302091031265</id>
-        <link href="https://v.daum.net/v/20240302091031265"/>
-        <updated>2024-03-02T03:15:20.641Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 그룹 라이즈가 가 K팝 아티스트 최초로 멕시코 최대 규모의 팝 페스티벌 ‘테카테 엠블레마(Tecate Emblema)’에 출격한다. 라이즈는 5월 17~18일(현지시간) 멕시코 멕시코시티의 아우토드로모 에르마노스 로드리게스에서 개최되는 팝 페스티벌 ‘테카테 엠블레마’에 K팝 아티스트 중 처음으로 참석한다. 2015년 시작된 ‘테]]></content>
     </entry>
 </feed>
