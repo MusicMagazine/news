@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-03-03T17:10:14.785Z</updated>
+    <updated>2024-03-03T20:13:02.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트와이스, 美 '빌보드 200' 1위(1보)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012403592</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0012403592"/>
+        <updated>2024-03-03T20:12:47.740Z</updated>
+        <content type="html"><![CDATA[K팝 간판 걸그룹 '트와이스(TWICE)'가 마침내 미국 빌보드 메인 앨범차트 '빌보드 200'에서 1위를 차지했다. 3일(현지시간) 빌보드가 홈페이지에 게재한 9일 자 차트 예고기사에 따르면, 트와이스는 지난달 2]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미노이, 광고 불참 논란 돌파 "계약서엔 가짜 도장 찍혀" 폭로[스타이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003218381</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000476659"/>
         <updated>2024-03-03T09:15:42.770Z</updated>
         <content type="html"><![CDATA[NCT 위시가 데뷔 싱글 '위시'로 일본 오리콘 차트 정상을 차지했다. NCT 위시는 2월 28일 발매한 데뷔 싱글 '위시'로 3월 1일자 오리콘 데일리 싱글 차트 1위를 차지했다. NCT 위시를 향한 현지 팬들의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김나박이' 아닌 '가수' 김범수 [인터뷰]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=018&amp;aid=0005684301</id>
-        <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005684301"/>
-        <updated>2024-03-03T09:15:42.773Z</updated>
-        <content type="html"><![CDATA[김범수(사진=영엔터테인먼트) “벌써 25주년이라니, 믿어지지 않아요. 나름대로 무탈하게 롱런한 것 같아요. 기사에 날 만큼 큰 이슈 없이 활동을 이어올 수 있던 건 어쩌면 축복입니다.” 가수 김범수가 올해로 데뷔 2]]></content>
     </entry>
 </feed>
