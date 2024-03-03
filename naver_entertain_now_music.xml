@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-03-03T10:18:08.140Z</updated>
+    <updated>2024-03-03T11:11:56.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['재즈 대부' 이판근 별세, 향년 90…"韓 재즈 이론 정립"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012403538</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0012403538"/>
+        <updated>2024-03-03T11:11:40.305Z</updated>
+        <content type="html"><![CDATA['한국 재즈의 대부'로 통한 작곡가 겸 재즈 이론가 이판근이 별세했다. 한국 재즈의 이론을 정립하고, 기틀을 세웠다고 평가 받는 '한국 재즈의 선구자'다. 향년 90. 3일 재즈계와 박성서 대중음악 평론가 등에 따르]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['한국 합창의 대부' 나영수 교수 별세…재즈 디바 나윤선 부친상]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012403532</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=640&amp;aid=0000050675"/>
         <updated>2024-03-03T06:15:58.299Z</updated>
         <content type="html"><![CDATA[SM Entertainment's newest boy band, Riize, will perform at one of Mexico's biggest pop music festivals, the Tecate Emble]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[J-Hope pop-up store in Seoul to feature street decorations and dance workshops]]></title>
-        <id>https://entertain.naver.com/now/read?oid=640&amp;aid=0000050674</id>
-        <link href="https://entertain.naver.com/now/read?oid=640&amp;aid=0000050674"/>
-        <updated>2024-03-03T06:15:58.299Z</updated>
-        <content type="html"><![CDATA[Missing J-Hope? A pop-up store themed around the BTS member will be open March 30 through April 5 in Seongsu-dong, easte]]></content>
     </entry>
 </feed>
