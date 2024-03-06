@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-03-06T18:18:14.143Z</updated>
+    <updated>2024-03-06T19:11:14.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[휘인, '글로벌 스타' 발돋움…유럽·미주 11개 도시 투어 확정]]></title>
+        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000477196</id>
+        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000477196"/>
+        <updated>2024-03-06T19:10:59.349Z</updated>
+        <content type="html"><![CDATA[마마무 휘인이 유럽·미주 투어를 통해 글로벌 팬들과 만난다. 휘인 소속사 더라이브에 따르면 휘인은 5월과 6월 두 달에 걸쳐 '2024 휘인 퍼스트 월드 투어 : 휘 인 더 무드 '비욘드''라는 이름으로 유럽, 미주]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[샤이니 태민 "SM 나오기로 결정… 조만간 새 출발"]]></title>
         <id>https://entertain.naver.com/now/read?oid=018&amp;aid=0005686948</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0004117775"/>
         <updated>2024-03-06T14:12:48.783Z</updated>
         <content type="html"><![CDATA['5세대 대표 퍼포먼스돌' 그룹 DXMON(다이몬)이 데뷔 앨범 활동을 성공적으로 마쳤다. 다이몬은 지난 5일 SBS M '더쇼'를 끝으로 첫 번째 미니앨범 'HYPERSPACE(하이퍼스페이스)'의 음악방송 활동을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케이윌, ‘데뷔 17주년’ 맞아 “변함없는 사랑 감사, 보답하겠다”]]></title>
-        <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003333715</id>
-        <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003333715"/>
-        <updated>2024-03-06T14:12:48.785Z</updated>
-        <content type="html"><![CDATA[가수 케이윌이 데뷔 17주년을 맞아 “진심으로 감사하다”고 밝혔다. 케이윌은 6일 소속사 스타쉽엔터테인먼트를 통해 “어느덧 데뷔 17주년을 맞이했는데, 17년이라는 시간 동안 변함없이 응원해 주신 형나잇(팬덤명)에게]]></content>
     </entry>
 </feed>
