@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-03-07T17:15:33.416Z</updated>
+    <updated>2024-03-07T18:17:00.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LP 산울림 1~3집+컴필레이션, 최초로 정식 해외 발매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000947785</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000947785"/>
+        <updated>2024-03-07T18:16:45.185Z</updated>
+        <content type="html"><![CDATA[“산울림의 사운드가 독특했던 이유는 이전 음악과의 연결고리가 거의 없었기 때문이다. 어디선가 불쑥 튀어나온 것만 같았던 파워 트리오 산울림은 퍼즈톤의 기타와 두툼한 베이스 라인, 세차게 울리는 드럼 사운드에 서울의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘15살’ 정서주, 맏언니 제치고 ‘미스트롯3’ 1위…2위 배아현 [종합]]]></title>
         <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003334127</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000652410"/>
         <updated>2024-03-07T11:11:42.557Z</updated>
         <content type="html"><![CDATA[그룹 싸이커스(xikers)가 데뷔 6개월 만에 열린 투어를 마친 소감을 전했다. 7일 오후 서울 서교동 신한카드 SOL페이 스퀘어에서 그룹 싸이커스(민재, 준민, 수민, 진식, 현우, 정훈, 세은, 유준, 헌터,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[POP이슈]'음주운전' 이루, 첫 항소심‥모친 치매 호소에도 檢 징역 1년 구형]]></title>
-        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003685178</id>
-        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003685178"/>
-        <updated>2024-03-07T11:11:42.558Z</updated>
-        <content type="html"><![CDATA[가수 이루의 음주운전 혐의에 대한 첫 항소심이 열린 가운데, 검찰이 징역 1년을 구형했다. 7일 서울서부지법 제2-2형사부(재판장 이현우) 심리로 열린 이루의 항소심 첫 재판에서 검찰은 원심과 마찬가지로 징역 1년과]]></content>
     </entry>
 </feed>
