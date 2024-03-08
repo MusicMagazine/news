@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Mar 2024 05:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Mar 2024 06:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비비 '밤양갱', 네모 앨범 발매]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=306655</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=306655</guid>
+            <pubDate>Fri, 08 Mar 2024 06:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=306655">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240308141743_3f3db5a483a4b19310d920337e918841.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=306655">비비 '밤양갱', 네모 앨범 발매</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240308141743_3f3db5a483a4b19310d920337e918841.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 뷔, 신곡 'FRI(END)S' 콘셉트 포토]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=306577</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=302858">아이유 신곡 ‘Shh..’ 뮤직비디오 탕웨이 출연</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240213083448_53c203df7e5e61434a91c77fff430615.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트와이스, 새 앨범 'With YOU-th' 콘셉트 포토 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=302742</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=302742</guid>
-            <pubDate>Mon, 12 Feb 2024 00:54:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=302742">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240212092714_2a3ab59b0cd478008a6177b80f8873d0.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=302742">트와이스, 새 앨범 'With YOU-th' 콘셉트 포토 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240212092714_2a3ab59b0cd478008a6177b80f8873d0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
