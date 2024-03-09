@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-03-09T22:12:35.266Z</updated>
+    <updated>2024-03-09T23:13:17.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단 지민, 타이달 인기 동영상 차트 2곡 동시 진입..K팝 최초·유일]]></title>
+        <id>https://v.daum.net/v/20240310074631272</id>
+        <link href="https://v.daum.net/v/20240310074631272"/>
+        <updated>2024-03-09T23:12:44.261Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 문완식 기자] 방탄소년단(BTS) 지민이 글로벌 고음질 음원 스트리밍 플랫폼 타이달(Tidal)에서 연일 신기록을 쓰며 존재감을 빛냈다. 한국 솔로 가수 최초 빌보드 메인 싱글차트 '핫100' 1위에 빛나는 지민의 메가 히트곡 '라이크 크레이지(Like Crazy)'는 3월 8일 타이달 톱 비디오 히트(Tidal's Video Hits)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['박재범 손잡고 2년 만에 컴백' 청하, '이니미니'로 펼칠 음악 세계]]></title>
         <id>https://v.daum.net/v/20240310070010887</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240309165910577"/>
         <updated>2024-03-09T08:19:03.743Z</updated>
         <content type="html"><![CDATA[(사진=마룬5 SNS 계정)[이데일리 스타in 김현식 기자] “안녕하세요.” “아우~!” 8일 오후 8시 인천 영종도 인스파이어 아레나. 미국 팝밴드 마룬5(마룬파이브)의 보컬 애덤 리바인이 늑대울음 소리를 연상케 하는 특유의 추임새와 한국어 인사말로 국내 관객과 재회한 기쁨을 드러냈다. 내한 공연 개최는 2022년 11월 서울 고척 스카이돔에서 무대를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이유, 글로벌 티켓파워 과시..일본·대만 이어 북미도 전석 매진]]></title>
-        <id>https://v.daum.net/v/20240309165737564</id>
-        <link href="https://v.daum.net/v/20240309165737564"/>
-        <updated>2024-03-09T08:19:03.743Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 문지연 기자] 아이유(IU)가 글로벌에서도 티켓파워를 과시했다. 소속사 EDAM 엔터테인먼트 측은 9일 "'2024 IU H. E. R. WORLD TOUR CONCERT'가 개최되는 18개 도시 가운데 서울에 이어 요코하마, 타이베이, 북미 6개 도시(뉴어크, 애틀랜타, 워싱턴 D.C, 로즈몬드, 오클랜드, 로스앤젤레스), 자카]]></content>
     </entry>
 </feed>
