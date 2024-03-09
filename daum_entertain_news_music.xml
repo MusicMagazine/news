@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-03-09T10:17:03.655Z</updated>
+    <updated>2024-03-09T12:22:25.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[더뉴식스, 20일 완전체 컴백]]></title>
+        <id>https://v.daum.net/v/20240309205007569</id>
+        <link href="https://v.daum.net/v/20240309205007569"/>
+        <updated>2024-03-09T12:22:00.790Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 최하나 기자] 그룹 더뉴식스(THE NEW SIX)가 완전체로 컴백한다. 소속사 피네이션(P NATION)에 따르면 더뉴식스(최태훈, 우경준, 장현수, 천준혁, 은휘, 오성준)는 20일 디지털 싱글 ‘FUEGO(푸에고)’를 발매하고 활동에 나선다. 더뉴식스는 컴백 소식과 더불어 지난 8일 공식 SNS 채널을 통해 비주얼라이저를 오픈하고 프로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘하이브 막내딸’ 아일릿, 타이틀 곡 ‘Magnetic’‥데뷔앨범 트랙리스트 공개]]></title>
         <id>https://v.daum.net/v/20240309181201250</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240309140920575"/>
         <updated>2024-03-09T06:16:53.247Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 윤성열 기자] 걸그룹 르세라핌(LE SSERAFIM)이 19일 오후 서울 고려대학교 화정체육관에서 진행된 미니 3집 '이지(EASY)' 발매기념 쇼케이스에서 신곡을 선보이고 있다.  이번 앨범에는 동명의 타이틀곡 '이지'를 비롯해 '굿 본스', '스완 송', '스마트', '위 갓 투 소 머치' 등 총 5곡이 수록됐다. /2024.02.19 /]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하이라이트→청하·웬디·BAE173… 신구 아이돌 러시]]></title>
-        <id>https://v.daum.net/v/20240309123312578</id>
-        <link href="https://v.daum.net/v/20240309123312578"/>
-        <updated>2024-03-09T06:16:53.247Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 윤기백 기자] 신구 아이돌이 몰려온다. 그룹 하이라이트를 필두로 레드벨벳 웬디, 청하, BAE173, 템페스트 등이 각기 다른 음악을 담은 신보로 가요계를 수놓을 예정이다. 청하(사진=모어비전)가수 청하는 11일 새 싱글 ‘이니미니’(EENIE MEENIE)를 발매하고 약 1년 반 만에 컴백한다. ‘이니미니’는 청하의 음악적 고민과 과]]></content>
     </entry>
 </feed>
