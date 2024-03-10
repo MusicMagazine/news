@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-03-10T19:11:17.877Z</updated>
+    <updated>2024-03-10T20:16:47.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이채연, 데뷔 첫 해외 단독 팬미팅…5월1일 홍콩 맥플라워 아레나]]></title>
+        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000477865</id>
+        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000477865"/>
+        <updated>2024-03-10T20:16:32.474Z</updated>
+        <content type="html"><![CDATA[이채연이 첫 해외 팬미팅에 나선다. 이채연은 오늘 5월 1일 홍콩 맥플라워 아레나에서 '이채연 퍼스트 팬미팅 '유니-채리시' 인 홍콩'이라는 이름으로 첫 팬미팅을 갖는다. 이번 팬미팅은 지난 1월 서울에서 개최한 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["아이 혼자 공연장에"… 아이유 콘서트서 받은 '뜻밖의 편지']]></title>
         <id>https://entertain.naver.com/now/read?oid=018&amp;aid=0005689082</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000831627"/>
         <updated>2024-03-10T11:12:24.332Z</updated>
         <content type="html"><![CDATA[체조경기장, 잠실주경기장도 모자라 상암벌이다. 오롯이 사랑받을 줄 아는, 그리고 그 사랑을 더 큰 사랑으로 돌려줄 줄 아는 '유애나의 가수' 아이유가 데뷔 16주년에 서울 마포구 상암월드컵경기장에 입성한다. 3월 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이유, 9월엔 상암으로…'H.E.R.' 앙코르 콘서트 개최]]></title>
-        <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000272485</id>
-        <link href="https://entertain.naver.com/now/read?oid=629&amp;aid=0000272485"/>
-        <updated>2024-03-10T11:12:24.333Z</updated>
-        <content type="html"><![CDATA[여성 솔로 가수 최초 서울월드컵경기장 입성 "30대에 끊임없이 도전 중" 가수 아이유가 9월 상암 서울월드컵경기장에서 앙코르 콘서트를 연다. 아이유는 10일 오후 서울 송파구 방이동 KSPO DOME(구 체조경기장)]]></content>
     </entry>
 </feed>
