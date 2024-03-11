@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 04:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 06:15:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에이핑크 김남주, 'BAD' 두 번째 콘셉트 공개… 18일 컴백]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=306872</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=306872</guid>
+            <pubDate>Mon, 11 Mar 2024 06:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=306872">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240309183051_f96fbf69649de08c0bd8ef8308f75c1f_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=306872"> 에이핑크 김남주, 'BAD' 두 번째 콘셉트 공개… 18일 컴백</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240309183051_f96fbf69649de08c0bd8ef8308f75c1f_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청하, 싱글 ‘EENIE MEENIE’ 발매.. 에이티즈 홍중 피처링]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=307065</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=303859">르세라핌 컴백…타이틀곡 ‘EASY’ 뮤직비디오 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240220075047_1098fd7e267a595981d5eb11e3cb6229.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[르세라핌 오늘 컴백.. 올드스쿨 힙합 댄스  "EASY"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=303600</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=303600</guid>
-            <pubDate>Sun, 18 Feb 2024 21:09:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=303600">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240218133836_cb30f4ebc247aab3381d93889643e5c0.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=303600"> 르세라핌 오늘 컴백.. 올드스쿨 힙합 댄스  "EASY"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240218133836_cb30f4ebc247aab3381d93889643e5c0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
