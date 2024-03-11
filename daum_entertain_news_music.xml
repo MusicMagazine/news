@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-03-11T18:15:22.290Z</updated>
+    <updated>2024-03-11T20:14:49.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[투모로우바이투게더, 3번째 월드투어 '액트 : 프로미스' 5월 서울서 시작]]></title>
+        <id>https://v.daum.net/v/20240312050004879</id>
+        <link href="https://v.daum.net/v/20240312050004879"/>
+        <updated>2024-03-11T20:14:16.148Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]그룹 투모로우바이투게더가 오는 5월 서울에서 새로운 월드투어로 팬들을 만난다. 투모로우바이투게더(수빈, 연준, 범규, 태현, 휴닝카이)는 11일 글로벌 팬덤 라이프 플랫폼 위버스에 '투모로우바이투게더 월드투어 '액트 : 프로미스' 인 서울'(이하 ‘액트 : 프로미스’) 개최 공지문과 포스터를 게재했다. ‘액트 : 프로미스’]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오디션 출신 아일릿·유니스, 5세대 걸그룹 시대 열까]]></title>
         <id>https://v.daum.net/v/20240312000036414</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240311171848205"/>
         <updated>2024-03-11T09:16:23.169Z</updated>
         <content type="html"><![CDATA[그룹 하이라이트(HIGHLIGHT)가 데뷔 15주년을 맞아 또 한 번 '대박'을 예고했다. 하이라이트는 11일 오후 미니 5집 '스위치 온(Switch On)' 발매 기념 온라인 기자간담회를 진행했다. 하이라이트가 전작 이후 1년 4개월 만에 선보이는 새 앨범인 '스위치 온'은 하이라이트가 데뷔 15주년을 맞는 올해, 더욱 특별할 마음으로 불빛을 켠다는 뜻]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["우린 틀리지 않았다" 하이라이트, '대박'을 향해 '스위치 온']]></title>
-        <id>https://v.daum.net/v/20240311171339036</id>
-        <link href="https://v.daum.net/v/20240311171339036"/>
-        <updated>2024-03-11T08:18:17.732Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 안윤지 기자] 그룹 하이라이트 /사진제공=어라운드어스그룹 하이라이트가 15주년을 맞이해 또 다른 변신을 위한 준비를 마쳤다. 하이라이트는 11일 오후 6시 다섯 번째 미니앨범 '스위치 온'(Switch On) 발매 기념 기자간담회를 진행했다. 하이라이트 신보 '스위치 온'은 1년 4개월 만에 발매하는 앨범으로, 네 멤버의 데뷔 15주년이]]></content>
     </entry>
 </feed>
