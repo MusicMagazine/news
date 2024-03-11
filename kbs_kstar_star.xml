@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Mar 2024 22:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 00:54:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SLL, 신임총괄 대표이사에 윤기윤 사장 취임]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=307055</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=307055</guid>
+            <pubDate>Mon, 11 Mar 2024 00:53:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=307055">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240311091159_aead77cb93cb8b7b1897c630bc85719c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=307055">SLL, 신임총괄 대표이사에 윤기윤 사장 취임</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240311091159_aead77cb93cb8b7b1897c630bc85719c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미타니 코키 연극 '웃음의 대학'. 9년 만의 컴백.. 송승환∙서현철, 주민진∙신주협 무대로]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=306602</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=304883">나인우의  반전매력, &lt;엘르&gt; 화보</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240228091340_b9b16db28578fba32a13e44506455840.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 ‘레베카’ 10주년 기념 서울 공연 성료.. "부산, 성남, 광주, 창원, 전주, 울산공연"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=304899</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=304899</guid>
-            <pubDate>Tue, 27 Feb 2024 23:14:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=304899">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240228074051_8070627dff18aaaa8ca0a4e0bd4cbe57.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=304899">뮤지컬 ‘레베카’ 10주년 기념 서울 공연 성료.. "부산, 성남, 광주, 창원, 전주, 울산공연"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240228074051_8070627dff18aaaa8ca0a4e0bd4cbe57.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
