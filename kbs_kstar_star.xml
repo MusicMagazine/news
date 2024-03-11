@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 20:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 22:11:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극열전 '엠. 버터플라이' 다섯 번째 시즌... "르네 갈리마르와 송 릴링"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=306649</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=306649</guid>
+            <pubDate>Mon, 11 Mar 2024 22:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=306649">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240308140246_4b9b806a259b31d9508c1bba9b120fb8.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=306649">연극열전 '엠. 버터플라이' 다섯 번째 시즌... "르네 갈리마르와 송 릴링"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240308140246_4b9b806a259b31d9508c1bba9b120fb8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SLL, 신임총괄 대표이사에 윤기윤 사장 취임]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=307055</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=305325">김신록 압도적 열연, 연극 ‘살아있는 자를 수선하기’ 전석 매진</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240229084014_c1344bffcce1c0a1cfee682fd621e29b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나인우의  반전매력, <엘르> 화보]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=304883</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=304883</guid>
-            <pubDate>Wed, 28 Feb 2024 00:53:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=304883">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240228091340_b9b16db28578fba32a13e44506455840.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=304883">나인우의  반전매력, &lt;엘르&gt; 화보</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240228091340_b9b16db28578fba32a13e44506455840.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
