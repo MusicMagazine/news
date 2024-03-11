@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-03-11T12:22:01.686Z</updated>
+    <updated>2024-03-11T15:14:33.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오디션 출신 아일릿·유니스, 5세대 걸그룹 시대 열까]]></title>
+        <id>https://v.daum.net/v/20240312000036414</id>
+        <link href="https://v.daum.net/v/20240312000036414"/>
+        <updated>2024-03-11T15:14:00.782Z</updated>
+        <content type="html"><![CDATA[각각 '알 유 넥스트?'·'유니버스 티켓' 통해 결성 오디션 프로그램 통해 인지도·팬덤 확보 [더팩트 | 공미나 기자] 이달 오디션 프로그램 출신 걸그룹들이 나란히 가요계에 데뷔한다. '알 유 넥스트?'로 결성된 아일릿과 '유니버스 티켓'으로 탄생한 유니스가 그 주인공이다. 최근 가요계는 뉴진스, 르세라핌, 에스파, 아이브 4세대 걸그룹의 막강 행보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[앙코르 10곡, 판타지 영화같은 무대… 명불허전 ‘공연 셀러브리티’]]></title>
         <id>https://v.daum.net/v/20240311210204696</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240311171339036"/>
         <updated>2024-03-11T08:18:17.732Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 안윤지 기자] 그룹 하이라이트 /사진제공=어라운드어스그룹 하이라이트가 15주년을 맞이해 또 다른 변신을 위한 준비를 마쳤다. 하이라이트는 11일 오후 6시 다섯 번째 미니앨범 '스위치 온'(Switch On) 발매 기념 기자간담회를 진행했다. 하이라이트 신보 '스위치 온'은 1년 4개월 만에 발매하는 앨범으로, 네 멤버의 데뷔 15주년이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["15주년? 30년까지 즐겁게" 하이라이트, 신보 '스위치 온'으로 그릴 청사진]]></title>
-        <id>https://v.daum.net/v/20240311170957926</id>
-        <link href="https://v.daum.net/v/20240311170957926"/>
-        <updated>2024-03-11T08:18:17.732Z</updated>
-        <content type="html"><![CDATA[[서울경제] 데뷔 15주년을 맞은 그룹 하이라이트(HIGHLIGHT)가 신보로 한 해의 포문을 연다. 15주년 동안 끈끈하게 뭉쳐 그룹을 지켜 온 이들은 30년, 그리고 그 이상을 바라보며 긍정적인 청사진을 그렸다. 11일 오후 그룹 하이라이트의 미니 5집 '스위치 온(Switch On)' 발매 기념 미디어 쇼케이스가 온라인 생중계로 진행됐다. 멤버 윤]]></content>
     </entry>
 </feed>
