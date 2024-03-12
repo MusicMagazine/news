@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 22:11:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 00:52:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더보이즈, 정규 2집 'Love Letter' 콘셉트 포토.. 18일 발매]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=306571</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=306571</guid>
+            <pubDate>Tue, 12 Mar 2024 00:51:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=306571">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240308121956_5cc6991fd00047e0f3ce11e47bd19f59.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=306571">더보이즈, 정규 2집 'Love Letter' 콘셉트 포토.. 18일 발매</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240308121956_5cc6991fd00047e0f3ce11e47bd19f59.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[루네이트 컴백, 신곡 ‘SUPER POWER’]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=306723</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=303908">트와이스, 새 앨범 'With YOU-th' 전곡 하이라이트 메들리 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240220085756_1bbc4864c58b4a691e17032c32f4d9be_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[르세라핌, ‘EASY’ 컴백 쇼케이스 성황리 개최]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=303866</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=303866</guid>
-            <pubDate>Mon, 19 Feb 2024 23:12:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=303866">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240220075432_eedbd7d0176b6958d7ee03319fb75e46_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=303866">르세라핌, ‘EASY’ 컴백 쇼케이스 성황리 개최</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240220075432_eedbd7d0176b6958d7ee03319fb75e46_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
