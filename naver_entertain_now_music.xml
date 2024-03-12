@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-03-12T13:15:25.745Z</updated>
+    <updated>2024-03-12T14:12:37.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LAS(라스), 신곡 ‘슬픔이 찾아와서 그래’ 글로벌 호평 ing]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000948763</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000948763"/>
+        <updated>2024-03-12T14:12:22.516Z</updated>
+        <content type="html"><![CDATA[싱어송라이터 그룹 LAS(라스)가 가수와 프로듀서를 오가며 활약 중이다. LAS(라스)는 지난 7일 새 싱글 ‘슬픔이 찾아와서 그래(PROD. 로코베리)’를 발매했다. ‘슬픔이 찾아와서 그래’는 지난해 11월 발매한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[레드벨벳 웬디, '위시 유 헬'로 컴백…중독성 있는 사운드]]></title>
         <id>https://entertain.naver.com/now/read?oid=277&amp;aid=0005391247</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=640&amp;aid=0000051120"/>
         <updated>2024-03-12T10:12:53.599Z</updated>
         <content type="html"><![CDATA[SM Entertainment is re-tapping Tak Young-jun for co-CEO a year after he vacated the position shortly in the wake of Kaka]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차은우→김종국·하이라이트까지, 본업 천재들이 돌아왔다! [엑's 이슈]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001701376</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001701376"/>
-        <updated>2024-03-12T10:12:53.599Z</updated>
-        <content type="html"><![CDATA[예능부터 연기활동까지 다방면으로 활약했던 가수들이 상반기 앨범을 연이어 발표하며 본업에 매진하고 있다. 아스트로 차은우는 최근 첫 솔로앨범 'ENTITY(엔티티)'를 발매하고 가수로 돌아왔다. 특히 타이틀곡 'STA]]></content>
     </entry>
 </feed>
