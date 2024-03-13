@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2024-03-13T19:13:15.855Z</updated>
+    <updated>2024-03-13T20:14:25.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["김은희·오정세 보자"…한류팬 북새통 이룬 로마 대학]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0014561721</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0014561721"/>
+        <updated>2024-03-13T20:14:17.521Z</updated>
+        <content type="html"><![CDATA[伊 최고 명문 라 사피엔차대서 K-콘텐츠 열풍 비결 소개 이탈리아 첫 한국 드라마 페스티벌 14일 소렌토서 개막 신창용 특파원 = "대본을 쓰지 않으면 불안해요. 경쟁에서 질 수 있다는 생각 때문이죠. 그런 치열함이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이콘 송윤형, 이런 남성미 ‘콜이야’ [화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0001112439</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003335554"/>
         <updated>2024-03-13T16:18:34.938Z</updated>
         <content type="html"><![CDATA[배우 심형탁이 아내 사야를 위해 분신과 같은 장난감을 정리했다. 13일 방송된 채널A ‘요즘 남자 라이프 – 신랑수업’에는 봄을 맞아 집 정리에 들어간 심형탁, 사야 부부의 모습이 그려졌다. 이날 심형탁,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“쉴드치기 어려워”... 데프콘, 19기 영숙 질문에도 대답없는 광수에 울컥 (‘나는 솔로’)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=009&amp;aid=0005271950</id>
-        <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0005271950"/>
-        <updated>2024-03-13T16:18:34.939Z</updated>
-        <content type="html"><![CDATA[‘나는 솔로’ 데프콘이 19기 광수의 행동에 분노했다. 13일 방송된 ENA(이엔에이)와 SBS PLUS의 리얼 데이팅 프로그램 ‘나는 SOLO’에서는 19기 광수, 영철이 영숙과 2대1 데이트에 나서는 모습이 전파]]></content>
     </entry>
 </feed>
