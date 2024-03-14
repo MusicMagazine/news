@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Mar 2024 23:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Mar 2024 01:48:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이상희, SBS 새 드라마 ‘인사하는 사이’ 캐스팅..   헤드헌터 회사 CFO]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=307645</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=307645</guid>
+            <pubDate>Thu, 14 Mar 2024 01:47:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=307645">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240314085631_631fb0e2f5ad8131abe9a3188c674d4d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=307645">이상희, SBS 새 드라마 ‘인사하는 사이’ 캐스팅..   헤드헌터 회사 CFO</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240314085631_631fb0e2f5ad8131abe9a3188c674d4d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엔플라잉 이승협, tvN ‘엄마친구아들’ 캐스팅... 정소민 동생 된다]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=307518</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=305364">‘파묘’ 김고은, “나는 무당 화림이다!”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240229090144_c0866cfebaba404330927abcaa3bf83a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이아름솔, 뮤지컬 ‘마리 앙투아네트’ 마그리드 역]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=305359</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=305359</guid>
-            <pubDate>Thu, 29 Feb 2024 00:50:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=305359">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240229090022_bf46a5ce763e0e4158962bd7421aebed.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=305359">이아름솔, 뮤지컬 ‘마리 앙투아네트’ 마그리드 역</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240229090022_bf46a5ce763e0e4158962bd7421aebed.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
