@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-03-17T10:12:57.038Z</updated>
+    <updated>2024-03-17T12:26:55.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[데이식스 붐은 온다]]></title>
+        <id>https://v.daum.net/v/20240317210706510</id>
+        <link href="https://v.daum.net/v/20240317210706510"/>
+        <updated>2024-03-17T12:26:24.037Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 락을 사랑하고 밴드를 사랑한다면 누구나 입버릇처럼 하는 말이 있다. 락 붐은 온다, 밴드 붐은 온다. 그리고 때마침 오는 이들이 있다. 밴드 데이식스(DAY6, 성진, 영케이(Young K), 원필, 도운)가 온다. 데이식스는 18일 새 미니앨범 '포에버(Fourever)'를 발매한다. 지난 2021년 발매한 미니 7집 '더]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유해진 이후 최대 스캔들 ‘류준열의 난’…전국민 도파민 분출한 삼각 열애설이 남긴 것]]></title>
         <id>https://v.daum.net/v/20240317162000930</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240317111136693"/>
         <updated>2024-03-17T02:19:53.657Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김현식 기자] 가요계 현장 곳곳을 누비며 모아둔 음반들을 다시 꺼내 들어보면서 추억 여행을 떠나보려 합니다. &lt;편집자 주&gt; 오늘 꺼내 들어본 서랍 속 CD는 가수 윤미래가 2018년 7월 발매한 ‘제미나이 2’(Gemini 2)입니다. 윤미래가 앨범을 낸 뒤 서울 중구 장충체육관에서 연 단독 콘서트 현장을 찾은 뒤 받은 CD로 기억합니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단 뷔, 감동의 아미 사랑 가득…‘FRIS PARTY’ 살펴보니]]></title>
-        <id>https://v.daum.net/v/20240317110955667</id>
-        <link href="https://v.daum.net/v/20240317110955667"/>
-        <updated>2024-03-17T10:12:25.890Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 핑크 드레스 코드에 입장을 준비하는 사람들의 설레는 표정. 내부에 들어선 후 그곳에 마련된 선물을 하나하나 살펴보는 이들의 입가에 미소가 떠나지 않았다. 이들은 이내 진지하게 누군가를 생각하며 정성껏 편지를 써 내려갔다. 봄기운이 완연했던 3월 16일 성동구 성수동에서 개최된 뷔의 신곡 발표 기념 팬 이벤트 'FRI(END)S PA]]></content>
     </entry>
 </feed>
