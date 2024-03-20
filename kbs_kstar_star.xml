@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Mar 2024 01:46:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Mar 2024 03:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가수 금잔디, 에세이 출간 "금빛 행복을 드리는, 트로트 가수 금잔디입니다"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=308465</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=308465</guid>
+            <pubDate>Wed, 20 Mar 2024 03:13:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=308465">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240320105205_61fd4f595e9e29f8158d415417bd6d15.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=308465">가수 금잔디, 에세이 출간 "금빛 행복을 드리는, 트로트 가수 금잔디입니다"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240320105205_61fd4f595e9e29f8158d415417bd6d15.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우 김혜은, ‘K-드라마 페스타 소렌토’ 올해의 배우상 수상]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=308431</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=304893">송지호,  tvN 드라마  '선재 업고 튀어' 캐스팅...  김혜윤과 좌충우돌 찐 현실남매 케미</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240228092856_5f2bca70a54edceba5cb7541325bde42.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이영애, 아시아필름어워즈 아시아영화엑설런스상 선정]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=305689</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=305689</guid>
-            <pubDate>Sun, 03 Mar 2024 02:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=305689">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240302181228_9bd732117678e822ef4aa68e34abdbbf.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=305689">이영애, 아시아필름어워즈 아시아영화엑설런스상 선정</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240302181228_9bd732117678e822ef4aa68e34abdbbf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
