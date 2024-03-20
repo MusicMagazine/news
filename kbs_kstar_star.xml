@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Mar 2024 00:52:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Mar 2024 01:46:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우 김혜은, ‘K-드라마 페스타 소렌토’ 올해의 배우상 수상]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=308431</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=308431</guid>
+            <pubDate>Wed, 20 Mar 2024 01:45:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=308431">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240320101017_4cbcc9213df92209d3405eda52fc403d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=308431">배우 김혜은, ‘K-드라마 페스타 소렌토’ 올해의 배우상 수상</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240320101017_4cbcc9213df92209d3405eda52fc403d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[CJ ENM 글로벌 프로젝트 '더리틀빅띵스'.. 英 로렌스 올리비에 어워즈 3개 부문 노미네이트]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=308104</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=305689">이영애, 아시아필름어워즈 아시아영화엑설런스상 선정</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240302181228_9bd732117678e822ef4aa68e34abdbbf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["이하늬는 빨강"  ‘보그 코리아’ 3월호 커버 장식]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=305468</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=305468</guid>
-            <pubDate>Fri, 01 Mar 2024 23:14:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=305468">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240229102456_012b01461eb0ad188b5cf7b98a4d2e8f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=305468">"이하늬는 빨강"  ‘보그 코리아’ 3월호 커버 장식</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240229102456_012b01461eb0ad188b5cf7b98a4d2e8f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
