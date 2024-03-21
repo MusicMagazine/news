@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2024-03-21T16:21:55.824Z</updated>
+    <updated>2024-03-21T17:16:08.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[포토] 서울시리즈 지켜보는 현빈-손예진 부부]]></title>
+        <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003338260</id>
+        <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003338260"/>
+        <updated>2024-03-21T17:15:58.820Z</updated>
+        <content type="html"><![CDATA[현빈과 손예진부부가 21일 고척 스카이돔에서 열린 MLB 서울시리즈 샌디에이고 파드리스와 LA 다저스 경기를 지켜보고 있다. 고척돔=정시종 기자 capa@edaily.co.kr /2024.03.21.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[포토] 현빈-손예진 부부, 서울시리즈 직관]]></title>
         <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003338257</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000987225"/>
         <updated>2024-03-21T15:17:34.749Z</updated>
         <content type="html"><![CDATA[현빈·손예진, 이동욱·공유 고척돔 경기 관전 포착 ‘MLB 월드투어 서울 시리즈 2024’ LA 다저스와 샌디에이고 파드리스의 경기가 21일 오후 서울 구로구 고척스카이돔에서 열렸다. 샌디에이고 선발은 조 머스그로브]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토]자동차 받은 무키 베츠]]></title>
-        <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003338241</id>
-        <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003338241"/>
-        <updated>2024-03-21T15:17:34.750Z</updated>
-        <content type="html"><![CDATA[21일 오후 서울 고척스카이돔에서 열린 미국프로야구 메이저리그(MLB) 정규시즌 샌디에이고 파드리스와 LA 다저스 경기.샌디에이고가 15-11로 승리했다.경기종료후 LA 무키 베츠가 자동차를 받고있다,고척돔=정시종 기자 capa@edaily.co.kr /2024.03.21.]]></content>
     </entry>
 </feed>
