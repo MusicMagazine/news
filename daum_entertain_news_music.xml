@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-03-24T04:16:01.471Z</updated>
+    <updated>2024-03-24T05:13:23.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서리와 백소현 사이에서..'페이크 해피']]></title>
+        <id>https://v.daum.net/v/20240324133031719</id>
+        <link href="https://v.daum.net/v/20240324133031719"/>
+        <updated>2024-03-24T05:12:51.021Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 이승훈 기자] /사진=레이블사유외유내강 그 자체다. 가수 서리(Seori, 본명 백소현)는 겉으로 보기에는 여리여리한 소녀 같지만, 속내는 누구보다 단단하고 깊이 있다. 데뷔 전부터 개인 유튜브를 통해 전 세계 음악 팬들의 귓가를 사로잡더니, 데뷔 1년 만에 하이브에게 피처링 러브콜을 받아 소속 보이 그룹 투모로우바이투게더와 협업했다. 또]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국민가수' 김동현, 신곡 '사랑한 만큼만' 발매]]></title>
         <id>https://v.daum.net/v/20240324130912378</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240324070505311"/>
         <updated>2024-03-23T22:12:43.646Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이태수 기자 = '나는 너의 영원한 형제야, 나는 너의 친구야! 나는 너의 영원한 노래야, 나는 나는 나는 너의 기쁨이야∼.' 마치 심지가 '콱' 박힌 듯 옹골찬 목소리에 여든을 앞둔 나이가 믿기지 않는 '까랑까랑'한 고음이 이어졌다. 가수 겸 뮤지컬 배우 윤복희(78)가 뿜어내는 에너지에 관객은 숨을 죽인 채 압도됐다. 윤복희는 '만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제로베이스원, 日 첫 싱글 4일 연속 오리콘 데일리 싱글랭킹 1위 ‘정상’]]></title>
-        <id>https://v.daum.net/v/20240324070430306</id>
-        <link href="https://v.daum.net/v/20240324070430306"/>
-        <updated>2024-03-23T22:12:43.647Z</updated>
-        <content type="html"><![CDATA[[OSEN=강서정 기자] 그룹 ZEROBASEONE(제로베이스원)이 나흘 연속 오리콘 차트 정상을 차지하며 돌풍을 이어가고 있다.&nbsp; 지난 23일 일본 오리콘이 발표한 랭킹에 따르면, ZEROBASEONE(성한빈, 김지웅, 장하오, 석매튜, 김태래, 리키, 김규빈, 박건욱, 한유진)은 일본 첫 번째 싱글 'ゆらゆら -運命の花-'(유라유라 -운메이노하나-)]]></content>
     </entry>
 </feed>
