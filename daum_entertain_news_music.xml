@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-03-25T19:12:35.986Z</updated>
+    <updated>2024-03-25T21:14:02.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[투어스, 첫 만남에 ‘남자 뉴진스’ 등극]]></title>
+        <id>https://v.daum.net/v/20240326060300164</id>
+        <link href="https://v.daum.net/v/20240326060300164"/>
+        <updated>2024-03-25T21:13:34.709Z</updated>
+        <content type="html"><![CDATA[# 이다겸의 돌파구(dol+파구) : 아이돌(idol)을 팝니다 땅 파도 100원도 안 나오는 세상. 하지만 ‘아이돌’을 파면 엔돌핀이 팡팡 터집니다. 눈과 귀가 즐거운, 지친 일상의 돌파구. 보석 같은 아이돌과 그들의 음악을 파볼게요. 오늘은 ‘대세 신인’으로 떠오른 투어스(TWS)입니다. 팔로 미~ [Who is 투어스(TWS)] 지난 1월 데뷔한 하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공정위, 카카오 음원수수료 의혹 조사]]></title>
         <id>https://v.daum.net/v/20240326000106596</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240325180302698"/>
         <updated>2024-03-25T09:14:15.391Z</updated>
         <content type="html"><![CDATA[“저희 팀의 매력은 어떤 순간이든 과몰입한다는 것입니다. 무대에서는 즐기는 모습으로 과몰입, 무대밖에서 놀 때도 과몰입하는 자연스러운 모습을 보여드리겠습니다.” 상큼하고 사랑스럽다. ‘무엇이든 될 수 있고 무엇이 될지 기대되는’ 잠재력을 내세우며 설레는 출발을 알린 아일릿. ‘엉뚱발랄’한 10대 소녀의 당찬 매력을 담아낸 ‘하이브가 막내딸’의 질주는 이제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['너목보' 우승자 출신 박호용, 싱글 'THE TROT' 28일 발매]]></title>
-        <id>https://v.daum.net/v/20240325180204678</id>
-        <link href="https://v.daum.net/v/20240325180204678"/>
-        <updated>2024-03-25T09:14:15.398Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 송오정 기자] '너목보' 우승자 출신 박호용(42)이 세미 트로트 곡 '내 손을 잡아요'를 발매하며 새로운 도전을 시작했다. 2015년 케이블채널 Mnet 예능프로그램 '너의 목소리가 보여-윤민수 편'(이하 '너목보')에 등장한 박호용은 우승을 차지하며 대중의 주목을 받은 바 있다. 박호영은 기존 발라드, 4인조 보컬그룹, 트로트 등 여러]]></content>
     </entry>
 </feed>
