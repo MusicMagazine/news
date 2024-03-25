@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Mar 2024 07:15:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Mar 2024 08:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['2024 파주페어 북앤컬처' 9월 개최..  '프린지' 공모 진행]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=309240</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=309240</guid>
+            <pubDate>Mon, 25 Mar 2024 08:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=309240">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240325164422_8eede03a05f933e871d975b83e25897b.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=309240">'2024 파주페어 북앤컬처' 9월 개최..  '프린지' 공모 진행</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240325164422_8eede03a05f933e871d975b83e25897b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극 '러브레터',  정보석-하희라-박혁권-유선.. "아주 오랜만의 무대 재회"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=309056</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=306590">한선화 패션 화보 "이미, 봄"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240308123008_b75410988d606fc9bb0754b718f5f57a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피아니스트 랑랑, [생상스] 음반 발매… "라이프치히 게반트하우스 오케스트라 + 지나 앨리스"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=306319</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=306319</guid>
-            <pubDate>Wed, 06 Mar 2024 01:43:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=306319">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240306102849_b5a2a20d43f702b92d037d4f04adfc0e.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=306319">피아니스트 랑랑, [생상스] 음반 발매… "라이프치히 게반트하우스 오케스트라 + 지나 앨리스" </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240306102849_b5a2a20d43f702b92d037d4f04adfc0e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
