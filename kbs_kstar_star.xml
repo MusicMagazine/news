@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Mar 2024 22:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Mar 2024 01:53:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 '러브레터',  정보석-하희라-박혁권-유선.. "아주 오랜만의 무대 재회"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=309056</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=309056</guid>
+            <pubDate>Mon, 25 Mar 2024 01:52:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=309056">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240325094509_ba1c178b913938f5ce8d65e80ad68282.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=309056">연극 '러브레터',  정보석-하희라-박혁권-유선.. "아주 오랜만의 무대 재회"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240325094509_ba1c178b913938f5ce8d65e80ad68282.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴진스 다니엘, '셀린느' 글로벌 앰버서더 발탁]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=308887</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=306319">피아니스트 랑랑, [생상스] 음반 발매… "라이프치히 게반트하우스 오케스트라 + 지나 앨리스" </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240306102849_b5a2a20d43f702b92d037d4f04adfc0e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박형식, 워너뮤직코리아와 손잡고 일본 시장 공략]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=306249</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=306249</guid>
-            <pubDate>Tue, 05 Mar 2024 23:13:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=306249">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240306074948_30cf6e3de519fbc9d99bdf4c64695cce.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=306249">박형식, 워너뮤직코리아와 손잡고 일본 시장 공략</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240306074948_30cf6e3de519fbc9d99bdf4c64695cce.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
