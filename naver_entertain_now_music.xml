@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-03-25T18:16:26.837Z</updated>
+    <updated>2024-03-25T19:12:35.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배너, 국내 콘서트 1회 추가…서울 이어 대만·도쿄·홍콩서도 개최]]></title>
+        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000480835</id>
+        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000480835"/>
+        <updated>2024-03-25T19:12:22.491Z</updated>
+        <content type="html"><![CDATA['피크타임' 우승팀 배너(태환, 곤, 혜성, 성국, 영광)가 공연 1회 추가한다. 멤버 성국의 군입대 전 마지막 완전체 콘서트를 보다 풍성하게 선사하기 위한 결정이다. 배너가 오는 4월 26일부터 28일까지 사흘간]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[We;Na 원이, 첫 솔로곡 ‘Time after Time’ 발매]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000951377</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000951342"/>
         <updated>2024-03-25T11:15:30.637Z</updated>
         <content type="html"><![CDATA[싱어송라이터 우디(Woody)가 신생 기획사 골든문 엔터테인먼트와 손잡았다. 골든문 엔터테인먼트(대표 황정문)는 25일 “우디와 최근 전속 계약을 체결했다”라며 “우디가 자사와 함께 이뤄갈 새로운 출발에 많은 응원과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오엔터 “불공정 유통수수료 NO, 진실규명 적극 협조”[공식]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000951341</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000951341"/>
-        <updated>2024-03-25T11:15:30.638Z</updated>
-        <content type="html"><![CDATA[카카오엔터테인먼트가 빅플래닛메이드엔터의 공정거래위원회 정식 조사 착수 발표에 대한 입장을 밝혔다. 카카오엔터는 25일 “다년간 국내외 다수의 파트너사들과 협의해 엄격하고 객관적인 기준에 따라 음반 및 콘텐츠 유통 계]]></content>
     </entry>
 </feed>
