@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-03-26T19:14:34.477Z</updated>
+    <updated>2024-03-26T20:18:12.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장우혁, 무려 12년만에 일본 공식행사…4월29일 도쿄 팬콘서트]]></title>
+        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000481125</id>
+        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000481125"/>
+        <updated>2024-03-26T20:17:57.446Z</updated>
+        <content type="html"><![CDATA[장우혁이 도쿄 팬콘서트를 열고 12년 4개월 만에 일본 팬들을 만난다. 소속사 WH 크리에이티브는 "장우혁이 지난 3월2일 타이베이에서 열린 팬콘서트 '9158日'에 이어 두 번째 해외 팬콘서트를 일본 도쿄에서 개최]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['전원 군필' 에이스, 3년만에 완전체 팬미팅…4월20일 '홈 스위트 에이스']]></title>
         <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000481124</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000988068"/>
         <updated>2024-03-26T12:23:37.007Z</updated>
         <content type="html"><![CDATA[신인 걸그룹 리센느(RESCENE), ‘리 씬(Re:Scene)’으로 화려한 데뷔 신인 걸그룹 리센느(RESCENE)가 26일 오후 6시 첫 싱글 앨범 ‘리 씬(Re:Scene)’을 발매하며 정식 데뷔했다. 서울 광]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 리센느 제나 '완벽한 비율']]></title>
-        <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003918275</id>
-        <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003918275"/>
-        <updated>2024-03-26T12:23:37.008Z</updated>
-        <content type="html"><![CDATA[그룹 리센느 제나가 26일 오후 서울 광진구 광장동 예스24 라이브홀에서 열린 데뷔 싱글 1집 '리 신(Re:Scene)'의 쇼케이스에 참석해 열띤 공연을 펼치고 있다. 타이틀곡 '어어(UhUh)'는 중독적인 사운드]]></content>
     </entry>
 </feed>
