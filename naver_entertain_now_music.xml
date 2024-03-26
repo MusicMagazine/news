@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-03-26T18:14:55.788Z</updated>
+    <updated>2024-03-26T19:14:34.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['전원 군필' 에이스, 3년만에 완전체 팬미팅…4월20일 '홈 스위트 에이스']]></title>
+        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000481124</id>
+        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000481124"/>
+        <updated>2024-03-26T19:14:18.455Z</updated>
+        <content type="html"><![CDATA[그룹 에이스(A.C.E)가 3년 만에 완전체 팬미팅으로 팬들과 만난다. 에이스(박준희, 이동훈, 와우, 김병관, 강유찬)는 오는 4월 20일 오후 3시와 7시 30분 2회에 걸쳐 서울 삼성동 백암아트홀에서 2024]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블랙핑크 리사, 한국-태국 축구경기 직관 포착 “반반 응원 화제”]]></title>
         <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0001043943</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003918275"/>
         <updated>2024-03-26T12:23:37.008Z</updated>
         <content type="html"><![CDATA[그룹 리센느 제나가 26일 오후 서울 광진구 광장동 예스24 라이브홀에서 열린 데뷔 싱글 1집 '리 신(Re:Scene)'의 쇼케이스에 참석해 열띤 공연을 펼치고 있다. 타이틀곡 '어어(UhUh)'는 중독적인 사운드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 리센느 원이 '고양이상 리더']]></title>
-        <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003918274</id>
-        <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003918274"/>
-        <updated>2024-03-26T12:23:37.009Z</updated>
-        <content type="html"><![CDATA[그룹 리센느 원이가 26일 오후 서울 광진구 광장동 예스24 라이브홀에서 열린 데뷔 싱글 1집 '리 신(Re:Scene)'의 쇼케이스에 참석해 열띤 공연을 펼치고 있다. 타이틀곡 '어어(UhUh)'는 중독적인 사운드]]></content>
     </entry>
 </feed>
