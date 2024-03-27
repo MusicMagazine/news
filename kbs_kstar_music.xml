@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Mar 2024 22:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Mar 2024 23:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[걸그룹 QWER, 미니 1집 'MANITO' 단체 콘셉트 포토 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=309634</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=309634</guid>
+            <pubDate>Wed, 27 Mar 2024 23:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=309634">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240328080028_6f1488ec9a5532e1de05bb9cc63bc91b.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=309634">걸그룹 QWER, 미니 1집 'MANITO' 단체 콘셉트 포토 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240328080028_6f1488ec9a5532e1de05bb9cc63bc91b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴진스 'How Sweet’.. "5월 컴백, 6월 도쿄돔 입성"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=309564</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=306872"> 에이핑크 김남주, 'BAD' 두 번째 콘셉트 공개… 18일 컴백</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240309183051_f96fbf69649de08c0bd8ef8308f75c1f_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청하, 싱글 ‘EENIE MEENIE’ 발매.. 에이티즈 홍중 피처링]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=307065</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=307065</guid>
-            <pubDate>Mon, 11 Mar 2024 00:53:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=307065">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240311092154_4ad33c217502afe1e60f74a4c8a7e6e0.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=307065">청하, 싱글 ‘EENIE MEENIE’ 발매.. 에이티즈 홍중 피처링</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240311092154_4ad33c217502afe1e60f74a4c8a7e6e0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
