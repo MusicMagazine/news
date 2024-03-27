@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Mar 2024 20:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Mar 2024 22:15:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴진스 'How Sweet’.. "5월 컴백, 6월 도쿄돔 입성"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=309564</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=309564</guid>
+            <pubDate>Wed, 27 Mar 2024 22:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=309564">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240327163810_1a172c29cef81dc5d1027ec269540c9e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=309564"> 뉴진스 'How Sweet’.. "5월 컴백, 6월 도쿄돔 입성"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240327163810_1a172c29cef81dc5d1027ec269540c9e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[투모로우바이투게더, 4월 컴백... 미니 6집 ‘minisode 3: TOMORROW’]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=309064</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=307065">청하, 싱글 ‘EENIE MEENIE’ 발매.. 에이티즈 홍중 피처링</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240311092154_4ad33c217502afe1e60f74a4c8a7e6e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이라이트, 미니 5집 'Switch On' .. "데뷔 15년, still Iconic"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=306710</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=306710</guid>
-            <pubDate>Sun, 10 Mar 2024 21:09:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=306710">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240308164305_d521634ff44025a3cce8cd4099fa90fc.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=306710"> 하이라이트, 미니 5집 'Switch On' .. "데뷔 15년, still Iconic" </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240308164305_d521634ff44025a3cce8cd4099fa90fc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
