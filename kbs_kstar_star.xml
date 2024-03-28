@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Mar 2024 23:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 02:24:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[롯데컬처웍스 - SK브로드밴드, 미디어콘텐츠사업 MOU 체결]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=309660</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=309660</guid>
+            <pubDate>Thu, 28 Mar 2024 02:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=309660">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240328082630_efcaedab267dea65e82f0887325f70e7_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=309660">롯데컬처웍스 - SK브로드밴드, 미디어콘텐츠사업 MOU 체결</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240328082630_efcaedab267dea65e82f0887325f70e7_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 '영웅' 5월 개막, 캐스팅 공개..  "정성화-양준모-민우혁, 안중근 의사"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=309616</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=307518">엔플라잉 이승협, tvN ‘엄마친구아들’ 캐스팅... 정소민 동생 된다</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240313104301_e7465106195b62bc26b22cee1e4c915f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 '비아 에어 메일' 개막.. 생텍쥐페리 '야간비행' 모티브 작품]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=307237</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=307237</guid>
-            <pubDate>Tue, 12 Mar 2024 00:52:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=307237">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240312072230_cfc3cdb19126d2eb0167f3f93154c38b.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=307237">뮤지컬 '비아 에어 메일' 개막.. 생텍쥐페리 '야간비행' 모티브 작품</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240312072230_cfc3cdb19126d2eb0167f3f93154c38b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
