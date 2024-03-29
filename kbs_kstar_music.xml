@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Mar 2024 22:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Mar 2024 00:56:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비비 ‘밤양갱’, 지니뮤직 3월 월간차트 1위]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=309778</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=309778</guid>
+            <pubDate>Fri, 29 Mar 2024 00:55:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=309778">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240329084049_14f80ed1b59173bd9b08c407b19b0a96.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=309778">비비 ‘밤양갱’, 지니뮤직 3월 월간차트 1위  </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240329084049_14f80ed1b59173bd9b08c407b19b0a96.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이찬원 4월 컴백, 미니앨범 ‘bright;燦’.. "전곡 작사‧작곡은 처음"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=309671</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=307231">빅스 켄(Ken), 4월 7일 단독 팬 콘서트... "749번째 고백"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240312071837_2666278dc6b69f9ecff03c176fb42884.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더보이즈, 정규 2집 'Love Letter' 콘셉트 포토.. 18일 발매]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=306571</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=306571</guid>
-            <pubDate>Tue, 12 Mar 2024 00:51:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=306571">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240308121956_5cc6991fd00047e0f3ce11e47bd19f59.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=306571">더보이즈, 정규 2집 'Love Letter' 콘셉트 포토.. 18일 발매</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240308121956_5cc6991fd00047e0f3ce11e47bd19f59.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
