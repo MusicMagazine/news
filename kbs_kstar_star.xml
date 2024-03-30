@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Mar 2024 02:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Mar 2024 05:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["제이홉의 거리로 오세요"  성수동에서 팝업 '‘HOPE ON THE STREET' 개최]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=309992</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=309992</guid>
+            <pubDate>Sat, 30 Mar 2024 05:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=309992">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240330141112_0d779d9d4ebeea4d97b9f9f3f097c25f.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=309992">"제이홉의 거리로 오세요"  성수동에서 팝업 '‘HOPE ON THE STREET' 개최</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240330141112_0d779d9d4ebeea4d97b9f9f3f097c25f.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['마리 앙투아네트' 백호-이지혜 커플 화보.. 코스모폴리탄 4월호]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=309773</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=307845"> 뮤지컬 ‘파과’ 개막..  차지연, 킬러 되다 "섬세한 연기력+격렬 누아르 액션까지"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240316074907_2adad330ed7761d9af44e6f29d1daaec.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스 혜인, ‘엘르 재팬’ 커버 장식.. "봄을 부르는 혜인~"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=307769</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=307769</guid>
-            <pubDate>Fri, 15 Mar 2024 00:53:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=307769">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240315094213_92550e43560033076cca7078d4b72459.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=307769">뉴진스 혜인, ‘엘르 재팬’ 커버 장식.. "봄을 부르는 혜인~"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240315094213_92550e43560033076cca7078d4b72459.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
