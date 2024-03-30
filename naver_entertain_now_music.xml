@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-03-30T16:16:58.061Z</updated>
+    <updated>2024-03-30T17:12:20.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘빌드업’ 에이스 이동훈 “노래하는 동안 늘 행복”···‘동업자들’ 최종 2위]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000952571</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000952571"/>
+        <updated>2024-03-30T17:12:05.873Z</updated>
+        <content type="html"><![CDATA[아이돌그룹 에이스(A.C.E) 멤버 이동훈이 ‘빌드업’을 통해 다시 한번 실력을 입증했다. 이동훈은 지난 29일 방송된 Mnet ‘빌드업 : 보컬 보이그룹 서바이벌(이하 ’빌드업‘)’에 출연해 생방송으로 진행된 파이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘4월 9일 컴백’ 이펙스, 정규 1집 트랙리스트 공개···타이틀곡 ‘청춘에게’ 포함 웰메이드 8곡 꽉 채웠다]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000952569</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0012460445"/>
         <updated>2024-03-30T09:13:30.535Z</updated>
         <content type="html"><![CDATA[엠넷 '빌드업 : 보컬 보이그룹 서바이벌'에서 '훈민제빛'이 우승했다. 지난 29일 방송된 '빌드업' 최종회에서 훈민제빛은 '동업자들', '워터파이어(WATERFIRE)' 등 다른 파이널리스트 2팀을 제치고 1위를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트레저, 현지팬 요청에… 태국 공연 1회 더!]]></title>
-        <id>https://entertain.naver.com/now/read?oid=018&amp;aid=0005703451</id>
-        <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005703451"/>
-        <updated>2024-03-30T09:13:30.537Z</updated>
-        <content type="html"><![CDATA[그룹 트레저가 현지 팬들의 뜨거운 성원에 힘입어 태국 공연을 추가로 개최한다. YG엔터테인먼트는 30일 트레저 아시아 투어 ‘2024 트레저 릴레이 투어 [리부트]’의 5월 23일 태국 방콕 임팩트 아레나 공연을 추]]></content>
     </entry>
 </feed>
