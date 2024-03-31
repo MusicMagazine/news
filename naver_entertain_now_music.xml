@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-03-31T16:14:52.538Z</updated>
+    <updated>2024-03-31T17:12:33.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[잘생긴 핑크T 누구?..보이그룹 엔카이브, 퍼포먼스 영상 선공개]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0005048304</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0005048304"/>
+        <updated>2024-03-31T17:12:17.887Z</updated>
+        <content type="html"><![CDATA[보이그룹 엔카이브(NCHIVE)가 데뷔 앨범 수록곡의 퍼포먼스 영상을 선공개했다. 3월 31일 0시 엔카이브(NCHIVE) 공식 SNS 채널을 통해 싱글 1집 앨범 'DRIVE'의 수록곡 'Dive in' 퍼포먼스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["B.A.B.Y.M.O.N"..드디어 풀렸다 베이비몬스터, MV 공개 25분 만에 100만뷰 [신곡 리뷰]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0005048302</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004966879"/>
         <updated>2024-03-31T11:13:59.878Z</updated>
         <content type="html"><![CDATA[그룹 캔디샵(Candy Shop) 수이가 29일 오전 서울 여의도 KBS 별관에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HK직캠｜유니스 임서원, 이보다 귀여울 수 없어… '깜찍함 가득~' (뮤직뱅크 출근길)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004966877</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004966877"/>
-        <updated>2024-03-31T11:13:59.881Z</updated>
-        <content type="html"><![CDATA[그룹 유니스 임서원이 29일 오전 서울 여의도 KBS 별관에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content>
     </entry>
 </feed>
