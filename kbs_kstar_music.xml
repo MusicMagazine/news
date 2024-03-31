@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Mar 2024 23:12:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Mar 2024 01:57:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이유 월드투어, 6월 방콕 공연도 전석 매진.. "월드와이드 인기"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=310077</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=310077</guid>
+            <pubDate>Sun, 31 Mar 2024 01:56:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=310077">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240331084804_e46b2e61a43d7ca2e65966e379e1342c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=310077">아이유 월드투어, 6월 방콕 공연도 전석 매진.. "월드와이드 인기"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240331084804_e46b2e61a43d7ca2e65966e379e1342c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[민서 컴백, 싱글 ‘DEAD LOVE’.. "사이다 이별 감성"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=309975</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=307537">영파씨, 새 EP 'XXL' 콘셉트 포토 공개.. "꿈을 향한 질주"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240313105713_d6d7872c4bdcd8a7cbac33742a960bb4_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[걸그룹 유니스(UNIS) 단체 콘셉트 포토.. 이달 27일 미니 1집 발표]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=307316</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=307316</guid>
-            <pubDate>Wed, 13 Mar 2024 23:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=307316">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240312144923_efb97b82bb9982ec885d4ba853325ac0.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=307316">걸그룹 유니스(UNIS) 단체 콘셉트 포토.. 이달 27일 미니 1집 발표</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240312144923_efb97b82bb9982ec885d4ba853325ac0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
