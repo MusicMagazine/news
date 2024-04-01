@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 07:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 08:17:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['솔로 10주년' 태민, 빅플래닛메이드엔터와 전속계약]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=310246</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=310246</guid>
+            <pubDate>Mon, 01 Apr 2024 08:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=310246">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240401164301_41f3fd15dce5a9510223c70b94d3cb47.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=310246">'솔로 10주년' 태민, 빅플래닛메이드엔터와 전속계약 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240401164301_41f3fd15dce5a9510223c70b94d3cb47.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘벤자민 버튼’ 뮤지컬로 만들어진다 ... 김재범·심창민·김성식 캐스팅]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=310040</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=308104">CJ ENM 글로벌 프로젝트 '더리틀빅띵스'.. 英 로렌스 올리비에 어워즈 3개 부문 노미네이트</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240318102536_578827ae7429e826d97eb019b43971e9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[공연評] 뮤지컬 '마리 앙투아네트'..  "정의의 케이크, 단두대의 왕비“]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=308084</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=308084</guid>
-            <pubDate>Mon, 18 Mar 2024 00:51:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=308084">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240318090720_d212f93300469fafa52c5414cbee39f6.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=308084">[공연評] 뮤지컬 '마리 앙투아네트'..  "정의의 케이크, 단두대의 왕비“</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240318090720_d212f93300469fafa52c5414cbee39f6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
