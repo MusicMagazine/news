@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Apr 2024 22:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Apr 2024 00:51:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[문승유, '웨딩 임파서블' 종영소감..  "언제나 불가능이 없도록 노력"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=310490</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=310490</guid>
+            <pubDate>Wed, 03 Apr 2024 00:51:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=310490">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240403082718_db1f2b9c51892de073ef8bf92c00f779.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=310490">문승유, '웨딩 임파서블' 종영소감..  "언제나 불가능이 없도록 노력"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240403082718_db1f2b9c51892de073ef8bf92c00f779.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정일우, 연극 ‘거미여인의 키스’.. 몰리나 완벽 변신]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=310324</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=308465">가수 금잔디, 에세이 출간 "금빛 행복을 드리는, 트로트 가수 금잔디입니다"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240320105205_61fd4f595e9e29f8158d415417bd6d15.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 김혜은, ‘K-드라마 페스타 소렌토’ 올해의 배우상 수상]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=308431</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=308431</guid>
-            <pubDate>Wed, 20 Mar 2024 01:45:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=308431">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240320101017_4cbcc9213df92209d3405eda52fc403d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=308431">배우 김혜은, ‘K-드라마 페스타 소렌토’ 올해의 배우상 수상</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240320101017_4cbcc9213df92209d3405eda52fc403d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
