@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-04-05T12:25:05.793Z</updated>
+    <updated>2024-04-05T13:16:28.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에이티즈, 포토위젯 'foto' 통해 미공개 사진 공개…팬들 관심 집중]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001711271</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001711271"/>
+        <updated>2024-04-05T13:16:14.276Z</updated>
+        <content type="html"><![CDATA[에이티즈가 포토위젯 'foto'를 통해 미공개 사진을 공개한다. 'Photo Widget : Simple'(이하 포토위젯)은 지난 4일 자신의 홈 화면을 좋아하는 아티스트로 꾸밀 수 있도록 독점 미공개 사진을 제공하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아일릿 윤아, 홍은채 대신 '뮤직뱅크' 일일 MC…"생방송 진행은 처음"]]></title>
         <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000656829</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=640&amp;aid=0000052217"/>
         <updated>2024-04-05T10:14:57.764Z</updated>
         <content type="html"><![CDATA[Suho of boy band EXO will embark on his first Asian tour as a solo artist, starting with his Seoul concerts in May, his]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더킹덤, 22대 총선 사전투표 "소중한 한 표, 큰 변화 만들 것"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003226410</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003226410"/>
-        <updated>2024-04-05T10:14:57.766Z</updated>
-        <content type="html"><![CDATA[그룹 더킹덤(The KingDom, 단 아서 무진 루이 아이반 훤 자한)이 국회의원 선거 사전투표에 참여했다. 더킹덤은 제22대 국회의원 선거 사전투표를 위해 5일 서울 강남구 삼성1동 주민센터에 방문했다. 이날 더]]></content>
     </entry>
 </feed>
