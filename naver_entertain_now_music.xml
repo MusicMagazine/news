@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-04-06T15:12:03.256Z</updated>
+    <updated>2024-04-06T16:18:28.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['그래미 3관왕' 엔지니어 영인(YUNGIN), 프로듀서 데뷔]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012476679</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0012476679"/>
+        <updated>2024-04-06T16:18:14.268Z</updated>
+        <content type="html"><![CDATA['그래미 어워즈' 수상자인 오디오 엔지니어 데이비드 "영인" 김(David "YUNGIN" Kim·37·김영인)이 프로듀서로 데뷔한다. 7일 소속사 AIM 코리아(KOREA)에 따르면, 영인은 오는 9일 오후 6시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단 제이홉, 英 오피셜 앨범 차트 38위]]></title>
         <id>https://entertain.naver.com/now/read?oid=277&amp;aid=0005402590</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000840882"/>
         <updated>2024-04-06T07:11:51.499Z</updated>
         <content type="html"><![CDATA[비비, 아일릿, NCT DREAM이 1위 후보로 만났다. 4월 6일 방송된 MBC ‘쇼! 음악중심’에서는 4월 첫째주 1위 후보가 공개 됐다. 이날 방송에는 비비의 ‘밤양갱’, 아일릿의 ‘Magnetic’, NCT]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이브 레이, '집사 카페' 방문…이용 꿀팁은?]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012476453</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0012476453"/>
-        <updated>2024-04-06T07:11:51.499Z</updated>
-        <content type="html"><![CDATA[그룹 '아이브' 멤버 레이가 집사 카페를 방문했다. 최근 유튜브 채널 '섭씨쉽도'에 레이의 단독 콘텐츠 '따라해볼레이' 22번째 에피소드가 공개됐다. 집사 카페를 방문한 레이는 집사들을 보고 신기하면서도 부끄러운 모]]></content>
     </entry>
 </feed>
