@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-04-08T17:13:17.933Z</updated>
+    <updated>2024-04-08T19:11:13.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마마무 솔라, 2년만에 솔로앨범 발표…독보적 음악 색깔 예고]]></title>
+        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000483544</id>
+        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000483544"/>
+        <updated>2024-04-08T19:11:00.856Z</updated>
+        <content type="html"><![CDATA[그룹 마마무 솔라가 오는 30일 솔로 음반을 발표한다. 솔라는 8일 공식 SNS를 통해 두번째 미니 앨범 '컬러스'(COLOURS) 로고 모션을 공개하며, 솔로 음반 발매 소식을 알렸다. 영상은 솔라의 영문 활동명]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“아이돌도 사람” 런쥔·보아·김재중, 악성팬에 괴로운 스타들[스경연예연구소]]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000954495</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0001048608"/>
         <updated>2024-04-08T11:13:02.175Z</updated>
         <content type="html"><![CDATA[가수 겸 배우 혜리. 스포츠서울DB 그룹 걸스데이 출신 배우 혜리가 서울 강남의 한 건물을 매입한 뒤 재건축한 사실이 전해졌다. 8일 부동산 업계에 따르면 혜리는 지난 2020년 12월 31일 설립한 법인 ‘엠포’]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엑소(EXO) 백현, 9년 만 베트남 콘서트 성료!]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000954457</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000954457"/>
-        <updated>2024-04-08T11:13:02.177Z</updated>
-        <content type="html"><![CDATA[아이돌그룹 엑소(EXO) 멤버 겸 솔로 아티스트 백현(BAEKHYUN)의 아시아 투어가 순항 중이다. 백현은 지난달 16·17일 서울을 시작으로 23·24일 일본 도쿄, 28일 싱가포르, 4월 6·7일 베트남 호치민]]></content>
     </entry>
 </feed>
