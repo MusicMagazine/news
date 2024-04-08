@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Apr 2024 23:13:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Apr 2024 00:55:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매튜 본의 '로미오와 줄리엣' 부산 상륙... 드림씨어터 5월 공연]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=311011</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=311011</guid>
+            <pubDate>Mon, 08 Apr 2024 00:54:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=311011">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240408082927_3d07a0b95ee8663199763fea16428089.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=311011">매튜 본의 '로미오와 줄리엣' 부산 상륙... 드림씨어터 5월 공연</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240408082927_3d07a0b95ee8663199763fea16428089.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이병헌, 피렌체 명예시민 되다...  피렌체한국영화제 올해의 배우상 수상]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=310658</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=308887">뉴진스 다니엘, '셀린느' 글로벌 앰버서더 발탁</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240324072758_d221ca21a24aa304c1676905e0d2aca6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 '영웅' 15주년 기념공연... 세종문화회관 대극장, 5월 10일 시즌 오픈]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=308876</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=308876</guid>
-            <pubDate>Sun, 24 Mar 2024 02:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=308876">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240324071619_089a60c95c43e987823afbc892b25225.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=308876">뮤지컬 '영웅' 15주년 기념공연... 세종문화회관 대극장, 5월 10일 시즌 오픈</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240324071619_089a60c95c43e987823afbc892b25225.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
