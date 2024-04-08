@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-04-08T19:11:13.938Z</updated>
+    <updated>2024-04-08T20:17:43.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[더보이즈, 세번째 월드투어 개최…서울서 7월 '스타트']]></title>
+        <id>https://v.daum.net/v/20240409043004070</id>
+        <link href="https://v.daum.net/v/20240409043004070"/>
+        <updated>2024-04-08T20:17:16.806Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]그룹 더보이즈가 세 번째 월드투어 무대로 전세계 팬들과 다시 만난다. 더보이즈 소속사 IST 엔터테인먼트는 "더보이즈가 오는 7월 '더보이즈 월드 투어 : 제너레이션 II'(THE BOYZ WORLD TOUR : ZENERATION II)를 개최하고, 전 세계 팬들을 찾아간다"고 밝혔다. 더보이즈는 8일 공식 SNS 등을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주니엘, 인생에도 신곡 '안녕'에도 꼭 필요했던 '정적']]></title>
         <id>https://v.daum.net/v/20240409000132007</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240408180305249"/>
         <updated>2024-04-08T11:12:45.869Z</updated>
         <content type="html"><![CDATA[그룹 woo!ah!(우아!)가 컴백했다. 1년 5개월 만에 돌아온 우아!가 살랑살랑 봄바람을 타고 두근 거리는 설렘을 전한다. woo!ah!(우아!)는 8일 오후 6시 각종 온라인 음원 사이트를 통해 두 번째 디지털 싱글 ‘BLUSH(블러시)’를 발매했다. 지난 2022년 11월 발매한 네 번째 싱글 앨범 ‘Pit-a-Pat(핏어팻)’ 이후 1년 5개월 만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온앤오프, 곡·퍼포먼스·콘셉트…감동적인 완성도 '바이 마이 몬스터']]></title>
-        <id>https://v.daum.net/v/20240408180105182</id>
-        <link href="https://v.daum.net/v/20240408180105182"/>
-        <updated>2024-04-08T11:12:45.871Z</updated>
-        <content type="html"><![CDATA['청량 맛집' 온앤오프(ONF)가 역대급 명곡과 함께 깊이 있는 진한 '감성 맛집'으로 변신에 성공했다. 온앤오프(효진, 이션, 승준, 와이엇, 민균, 유)는 8일 오후 6시 미니 8집 '뷰티풀 섀도우(BEAUTIFUL SHADOW)'를 발매했다. 온앤오프의 컴백은 지난해 10월 발매한 미니 7집 '러브 이펙트(LOVE EFFECT)' 이후 약 6개월 만]]></content>
     </entry>
 </feed>
