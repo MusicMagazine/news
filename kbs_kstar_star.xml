@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Apr 2024 21:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Apr 2024 23:13:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[투모로우바이투게더, '아시아 스타 엔터테이너 어워즈' 4관왕]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=311416</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=311416</guid>
+            <pubDate>Wed, 10 Apr 2024 23:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=311416">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240411074738_62618a5414ea16a7c0fb5eee822611c8.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=311416">투모로우바이투게더, '아시아 스타 엔터테이너 어워즈' 4관왕</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240411074738_62618a5414ea16a7c0fb5eee822611c8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[샤이니 온유, 오는 5월 18일 국내 첫 단독 팬미팅 'GUESS!' 개최]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=311351</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=309504">김성주X이이경, ‘트롯뮤직어워즈 2024’ MC확정</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240327084613_3f4a7a98c6366eab188bfa7fbdbf2fd2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['아시아 50 베스트 레스토랑' 선정.. 1위는 일본 '세잔', 한국은 100위권에  9개 업체 진입]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=309444</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=309444</guid>
-            <pubDate>Tue, 26 Mar 2024 23:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=309444">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240327075045_5c9ed952fedc134bea69484a35510d71.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=309444">'아시아 50 베스트 레스토랑' 선정.. 1위는 일본 '세잔', 한국은 100위권에  9개 업체 진입</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240327075045_5c9ed952fedc134bea69484a35510d71.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
