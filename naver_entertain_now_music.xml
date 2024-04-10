@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-04-10T17:11:26.159Z</updated>
+    <updated>2024-04-10T19:15:55.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[베이비몬스터, '쉬시'도 빌보드 메인 차트 진입…자체 최고 기록 경신]]></title>
+        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000483871</id>
+        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000483871"/>
+        <updated>2024-04-10T19:15:39.896Z</updated>
+        <content type="html"><![CDATA[베이비몬스터가 미국 빌보드 메인 차트에 다시 한번 이름을 올리며 성공적인 공식 데뷔 활동 스타트를 끊었다. 9일(현지시간) 미국 빌보드가 발표한 최신 차트에 따르면 베이비몬스터 첫 미니앨범 타이틀곡 '쉬시'는 빌보드]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴진스 혜인, 스케줄 중단 "발등 미세 골절..회복 전념"[공식]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003227391</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0012484296"/>
         <updated>2024-04-10T11:15:07.083Z</updated>
         <content type="html"><![CDATA[그룹 '샤이니' 온유(ONEW)가 데뷔 16년 만에 국내 첫 팬미팅을 열며 활동을 재개한다. 10일 소속사 그리핀 엔터테인먼트에 따르면, 온유는 내달 18일 오후 2시·6시 서울 광진구 세종대학교 대양홀에서 단독 팬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스테이씨·더보이즈, 베스트 스타상 “더 노력하는 아티스트 될 것”[ASEA 2024]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000842176</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000842176"/>
-        <updated>2024-04-10T11:15:07.088Z</updated>
-        <content type="html"><![CDATA[더보이즈, 스테이씨가 ‘ASEA 2024’에서 ASEA THE BEST STAR(더 베스트 스타) 부문상을 수상했다. 4월 10일 오후 5시 30분부터 일본 요코하마시 K아레나 요코하마에서는 음악과 스타, 팬이 하나]]></content>
     </entry>
 </feed>
