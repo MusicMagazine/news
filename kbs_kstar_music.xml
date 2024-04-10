@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Apr 2024 21:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Apr 2024 01:51:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아일릿 ‘Magnetic’, 데뷔곡으로 빌보드 ‘버블링 언더 핫 100’ 진입]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=311359</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=311359</guid>
+            <pubDate>Wed, 10 Apr 2024 01:50:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=311359">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240410104116_cfeab871bf6bd9bab0454a557fc340c1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=311359">아일릿 ‘Magnetic’, 데뷔곡으로 빌보드 ‘버블링 언더 핫 100’ 진입</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240410104116_cfeab871bf6bd9bab0454a557fc340c1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보이넥스트도어, 미니 2집 콘셉트 포토.. "- 사랑의 감정 폭발"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=311007</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=309634">걸그룹 QWER, 미니 1집 'MANITO' 단체 콘셉트 포토 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240328080028_6f1488ec9a5532e1de05bb9cc63bc91b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스 'How Sweet’.. "5월 컴백, 6월 도쿄돔 입성"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=309564</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=309564</guid>
-            <pubDate>Wed, 27 Mar 2024 22:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=309564">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240327163810_1a172c29cef81dc5d1027ec269540c9e.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=309564"> 뉴진스 'How Sweet’.. "5월 컴백, 6월 도쿄돔 입성"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240327163810_1a172c29cef81dc5d1027ec269540c9e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
