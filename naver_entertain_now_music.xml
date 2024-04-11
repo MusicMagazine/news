@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-04-11T12:23:40.019Z</updated>
+    <updated>2024-04-11T14:14:42.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[HyunA to break two-year hiatus with 'Attitude' in May]]></title>
+        <id>https://entertain.naver.com/now/read?oid=640&amp;aid=0000052470</id>
+        <link href="https://entertain.naver.com/now/read?oid=640&amp;aid=0000052470"/>
+        <updated>2024-04-11T14:14:27.133Z</updated>
+        <content type="html"><![CDATA[Singer HyunA will break her two-year hiatus with a new solo EP, “Attitude,” on May 2, her agency AT AREA said Thursday.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[음주운전 김정훈, 130만원 팬미팅 연다]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012487485</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=052&amp;aid=0002021817"/>
         <updated>2024-04-11T09:14:20.278Z</updated>
         <content type="html"><![CDATA[신인그룹 TWS(투어스)의 데뷔 앨범 'Sparkling Blue'(스파클링 블루)가 50만 장 판매를 달성했다. 오늘(11일) 써클차트에 따르면 지난 1월 22일 발매한 TWS의 미니 1집은 3월 31일까지 50만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금배지단 리아(김재원) 당선인 “‘삭발의 디바’처럼 강하고 빠르고 현명하게 일할 것”[단독 인터뷰]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000955160</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000955160"/>
-        <updated>2024-04-11T09:14:20.278Z</updated>
-        <content type="html"><![CDATA[지난 10일 개표를 마친 제22대 국회의원 선거는 많은 화제 속에 막을 내렸다. 야당의 압승, 여당의 참패, 조국혁신당의 돌풍 등 여러 화제가 있었지만, 대중문화예술계통에서는 또 한 명의 현역의원을 배출하게 된 선거]]></content>
     </entry>
 </feed>
