@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Apr 2024 23:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 00:54:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 리사, 美 소니뮤직 산하 RCA 레코드와 파트너십 체결]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=311464</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=311464</guid>
+            <pubDate>Thu, 11 Apr 2024 00:53:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=311464">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240411083637_3d6fd5d563bc3e734b32a57f0bcb1c7e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=311464">블랙핑크 리사, 美 소니뮤직 산하 RCA 레코드와 파트너십 체결</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240411083637_3d6fd5d563bc3e734b32a57f0bcb1c7e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[투모로우바이투게더, '아시아 스타 엔터테이너 어워즈' 4관왕]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=311416</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=309509">김준원, 연극 '초선의원'  박수갈채 쏟아지다</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240327084940_0022299fcbb8a5877d3ebaa411e2e8ba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김성주X이이경, ‘트롯뮤직어워즈 2024’ MC확정]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=309504</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=309504</guid>
-            <pubDate>Wed, 27 Mar 2024 00:54:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=309504">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240327084613_3f4a7a98c6366eab188bfa7fbdbf2fd2.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=309504">김성주X이이경, ‘트롯뮤직어워즈 2024’ MC확정</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240327084613_3f4a7a98c6366eab188bfa7fbdbf2fd2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
