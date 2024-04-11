@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-04-11T17:15:51.682Z</updated>
+    <updated>2024-04-11T20:14:45.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세븐틴, 역대 타이틀곡으로 본 9년…#청량 #확장 #진정성]]></title>
+        <id>https://v.daum.net/v/20240412040003294</id>
+        <link href="https://v.daum.net/v/20240412040003294"/>
+        <updated>2024-04-11T20:14:19.022Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]그룹 세븐틴이 오는 29일 베스트 앨범 '세븐틴 이즈 라잇 히어'(17 IS RIGHT HERE)를 발표한다. 세븐틴은 베스트 앨범에 수록된 역대 앨범 타이틀곡 28곡을 통해 자신들이 걸어온 지난 9년의 길을 보여준다. ‘자체제작돌’로 시작해 K팝 최고 그룹으로 우뚝 선 세븐틴의 역사는 ‘청량’, ‘확장’, ‘진정성’ 세 가지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘관계 회복’ 미노이XAOMG, ‘윈윈’ 선택될까]]></title>
         <id>https://v.daum.net/v/20240412000103296</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240411172620845"/>
         <updated>2024-04-11T09:14:02.289Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김현식 기자] “소문내고 싶었어요.” 음악 활동을 시작한 이후 처음으로 언론 청음회를 연 송소희의 말이다. 송소희는 11일 오후 4시 서울 마포구 무대륙에서 첫 번째 미니앨범 ‘공중무용’ 언론 청음회를 개최했다. 이날 송소희는 “청음회를 개최하는 것은 이번이 처음”이라고 운을 뗀 뒤 “새로운 길을 나아가는 길목에 있는 아티스트이기에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["국악 아닌 나" 송소희, 20년만 새로운 음악 쓴다]]></title>
-        <id>https://v.daum.net/v/20240411172003604</id>
-        <link href="https://v.daum.net/v/20240411172003604"/>
-        <updated>2024-04-11T09:14:02.291Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 마포=안윤지 기자] /사진제공=매직스트로베리사운드국악소리가 송소희가 20년 만에 국악이 아닌 다른 음악을 시도했다. 자신있게 내놓은 만큼, 송소희는 11일 서울 마포구 한 카페에서 새 EP 앨범 '공중무용' 발매 기념 청음회를 진행했다. '공중무용'은 송소희의 첫 미니 앨범으로, 들판, 사막, 바다, 숲 등 자연을 콘셉트로 다양한 사랑을]]></content>
     </entry>
 </feed>
