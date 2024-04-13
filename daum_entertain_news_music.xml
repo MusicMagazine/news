@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-04-13T19:09:22.383Z</updated>
+    <updated>2024-04-13T21:11:13.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[보넥도·루셈블···이주의 컴백 아이돌]]></title>
+        <id>https://v.daum.net/v/20240414060016997</id>
+        <link href="https://v.daum.net/v/20240414060016997"/>
+        <updated>2024-04-13T21:10:40.461Z</updated>
+        <content type="html"><![CDATA[[서울경제] 오는 4월 셋째주에는 보이넥스트도어와 루셈블 등 다양한 아이돌이 컴백한다. 15일에는 보이그룹 보이넥스트도어((BOYNEXTDOOR)가 컴백한다. 보이넥스트도어는 이날 오후 6시 미니 2집 '하우(HOW?)'를 발매하고 '첫사랑 이야기 3부작'을 마무리한다. 이들은 앨범 당일 오후 8시에 Mnet 방송과 M2, 하이브 레이블즈 유튜브 채널에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅, 행동으로 보여주는 '팬 사랑'…팬 대접은 임영웅처럼]]></title>
         <id>https://v.daum.net/v/20240413184402699</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240413140501321"/>
         <updated>2024-04-13T05:15:06.797Z</updated>
         <content type="html"><![CDATA[1960년대 후반부터 1980년까지 태어난 이들을 지칭하는 X세대는 ‘절약’이 모토인 기존 세대와 달리 ‘소비’를 적극적으로 한 최초의 세대로 분석됩니다. 경제적 풍요 속에서 자라나면서 개성이 강한 이들은 ‘디지털 이주민’이라는 이름처럼 아날로그 시대에 성장해 디지털 시대에 적응한 세대이기도 하죠. 그만큼 수용할 수 있는 문화의 폭도 넓어 대중음악 시장의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베이비몬스터, 스포티파이 위클리 톱 송 차트 80위 입성]]></title>
-        <id>https://v.daum.net/v/20240413134627158</id>
-        <link href="https://v.daum.net/v/20240413134627158"/>
-        <updated>2024-04-13T05:15:06.799Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자] YG&nbsp;신인 걸그룹 베이비몬스터가 본격 활동 신호탄을 쏘아 올림과 동시에 세계 최대 음원 스트리밍 플랫폼 스포티파이 글로벌 주간 차트에 입성했다. 11일(현지시간)&nbsp;스포티파이에 따르면 베이비몬스터의 미니&nbsp;1집 타이틀곡&nbsp;'SHEESH'는 위클리 톱 송 차트에&nbsp;80위로 첫 진입했다.&nbsp;지난주 첫 음악방송인&nbsp;SBS '인기가요'&nbsp;출연 후]]></content>
     </entry>
 </feed>
