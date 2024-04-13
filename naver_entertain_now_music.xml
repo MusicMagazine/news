@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-04-13T10:14:55.634Z</updated>
+    <updated>2024-04-13T11:09:40.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[루셈블, 다시 모인 이달의소녀..이브도 곡 작업 참여]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003228069</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003228069"/>
+        <updated>2024-04-13T11:09:25.675Z</updated>
+        <content type="html"><![CDATA[그룹 루셈블(Loossemble)의 새로운 이야기가 성큼 다가왔다. 씨티디이엔엠은 지난 12일 루셈블의 공식 SNS 채널에 두 번째 미니앨범 'One of a Kind' 트랙리스트 이미지를 공개하고 컴백 임박을 알렸]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유니스 ‘음악중심’ 무대, 발랄함으로 물들였다]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000955454</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000991629"/>
         <updated>2024-04-13T08:12:28.588Z</updated>
         <content type="html"><![CDATA[‘코첼라’ 앞두고 외신 집중 조명받아 미국 최대 규모 음악 축제 ‘코첼라 밸리 뮤직 앤드 아츠 페스티벌’(Coachella Valley Music and Arts Festival, 이하 ‘코첼라’) 공연을 앞둔 르세]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유니스, 눈뗄 수 없는 발랄함 '슈퍼우먼']]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0005057278</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0005057278"/>
-        <updated>2024-04-13T08:12:28.589Z</updated>
-        <content type="html"><![CDATA[그룹 유니스(UNIS)가 발랄한 매력으로 무대를 물들였다. 유니스(진현주, 나나, 젤리당카, 코토코, 방윤하, 엘리시아, 오윤아, 임서원)는 13일 오후에 방송된 MBC '쇼! 음악중심'에서 첫 번째 미니앨범 'WE]]></content>
     </entry>
 </feed>
