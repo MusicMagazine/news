@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Apr 2024 20:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Apr 2024 22:11:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ZEROBASEONE, 웹 예능 '태양의 운동부' 론칭.. 19일 첫 번째 에피소드 유튜브 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=311765</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=311765</guid>
+            <pubDate>Mon, 15 Apr 2024 22:11:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=311765">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240413073947_191a3f2eebdce7590407590a7604adf8_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=311765">ZEROBASEONE, 웹 예능 '태양의 운동부' 론칭.. 19일 첫 번째 에피소드 유튜브 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240413073947_191a3f2eebdce7590407590a7604adf8_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['에드바르 뭉크: 비욘드 더 스크림'  내달 개막.. 16일부터 얼리버드 티켓 온라인예매]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=311698</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=309739">김성규, 뮤지컬 '디어 에반 핸슨' 첫 공연 성료..."좋은 작품 함께하게 돼 더없이 영광"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240329074348_0a016b4b20f9fff98833813434cfbd2f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[롯데컬처웍스 - SK브로드밴드, 미디어콘텐츠사업 MOU 체결]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=309660</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=309660</guid>
-            <pubDate>Thu, 28 Mar 2024 02:23:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=309660">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240328082630_efcaedab267dea65e82f0887325f70e7_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=309660">롯데컬처웍스 - SK브로드밴드, 미디어콘텐츠사업 MOU 체결</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240328082630_efcaedab267dea65e82f0887325f70e7_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
