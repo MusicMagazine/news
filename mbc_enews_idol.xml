@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Apr 2024 10:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Apr 2024 11:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포토] 로제, 블랙 팅커벨]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/414901</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/414901</guid>
+            <pubDate>Mon, 15 Apr 2024 11:11:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/414901">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/04/15/add5a86f-4c51-4ff1-9ad9-9fc7aab47f92.jpg" alt="[포토] 로제, 블랙 팅커벨 ">        <div class="text-box">            <p class="summary">[포토] 로제, 블랙 팅커벨 </p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/04/15/add5a86f-4c51-4ff1-9ad9-9fc7aab47f92.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["이 조합 뭐야?"…빅원·백호, 섹시X청춘 아이콘 시너지 예고]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/414891</link>
@@ -86,14 +94,6 @@
             <pubDate>Mon, 15 Apr 2024 07:10:07 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/414864">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/04/15/50c9ef07-fdb9-4755-a9e7-39244839290e.jpg" alt="[포토] 루셈블 혜주, 파워 넘치는 텐션">        <div class="text-box">            <p class="summary">[포토] 루셈블 혜주, 파워 넘치는 텐션</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/04/15/50c9ef07-fdb9-4755-a9e7-39244839290e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 루셈블 고원, 청순 섹시]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/414863</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/414863</guid>
-            <pubDate>Mon, 15 Apr 2024 07:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/414863">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/04/15/1ae82ee2-9a16-4be8-909c-c2c72fd17027.jpg" alt="[포토] 루셈블 고원, 청순 섹시">        <div class="text-box">            <p class="summary">[포토] 루셈블 고원, 청순 섹시</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/04/15/1ae82ee2-9a16-4be8-909c-c2c72fd17027.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
