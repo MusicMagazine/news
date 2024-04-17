@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-04-17T19:11:37.079Z</updated>
+    <updated>2024-04-17T21:13:23.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원위의 ‘근자감’, “10년 함께한 멤버들…‘밴드 붐’ 잇겠다”]]></title>
+        <id>https://v.daum.net/v/20240418060017345</id>
+        <link href="https://v.daum.net/v/20240418060017345"/>
+        <updated>2024-04-17T21:12:49.160Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 정하은 기자] 1년 3개월만에 완전체로 활동하는 보이 밴드 원위(ONEWE)가 ‘밴드 열풍’에 합세한다. 원위는 17일 미니 3집 ‘플래닛 나인 : 아이소트로피’를 발매하고 복귀 신고식을 치렀다. 국방의 의무를 마친 멤버 용훈과 강현이 합류한 완전체 앨범이다. 상태가 바뀌어도 성질은 변하지 않는 등방성을 의미하는 ‘아이소트로피(ISOT]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20년 이어온 낙관과 긍정의 이야기, “그게 페퍼톤스”]]></title>
         <id>https://v.daum.net/v/20240418040814584</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240417175937322"/>
         <updated>2024-04-17T09:13:30.856Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 밴드 QWER(큐더블유이알)이 국내외 차트에서 괄목할 만한 성장세를 이어가고 있다. QWER(쵸단, 마젠타, 히나, 시연) 미니 1집 'MANITO'(마니또)의 타이틀곡 '고민중독'은 4월 16일 국내 주요 음원 사이트인 멜론 TOP 100(톱 백) 차트 10위에 올랐다. 이는 QWER의 자체 최고 기록이다. 일간 차트에서의 성과도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[걸그룹 비웨이브→유니코드, 오늘 동시 데뷔]]></title>
-        <id>https://v.daum.net/v/20240417175503189</id>
-        <link href="https://v.daum.net/v/20240417175503189"/>
-        <updated>2024-04-17T09:13:30.857Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 윤혜영 기자] 걸그룹 비웨이브와 유니코드가 오늘(17일) 동시 데뷔한다. 비웨이브(BEWAVE)는 17일 오후 6시, 데뷔 앨범 'BE;WAVE'를 발매하고 데뷔한다. 비웨이브(윤슬, 지언, 레나, 제나, 고운, 아인)는 마치 파도처럼 때론 강하고 때론 잔잔하게 새로운 흐름과 유행을 보여주겠다는 포부를 지닌 걸그룹으로 멤버 전원이 올라운더를]]></content>
     </entry>
 </feed>
