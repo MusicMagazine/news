@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-04-17T17:11:24.835Z</updated>
+    <updated>2024-04-17T19:11:37.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['무결점 보컬' 이예준, 새벽 감성 정조준…'늦은 밤 너의 집 앞 골목길에서' 리메이크]]></title>
+        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000485220</id>
+        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000485220"/>
+        <updated>2024-04-17T19:11:22.491Z</updated>
+        <content type="html"><![CDATA[가수 이예준이 '늦은 밤 너의 집 앞 골목길에서'를 정식 리메이크한다. 이예준은 오는 28일 오후 6시 신규 음악 프로젝트 '새벽감송'의 첫 번째 음원 '늦은 밤 너의 집 앞 골목길에서'를 발표한다. '늦은 밤 너의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이예준, 28일 노을 ‘늦은 밤 너의 집 앞 골목길에서’ 리메이크 음원 발매]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000956441</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004974211"/>
         <updated>2024-04-17T14:14:03.938Z</updated>
         <content type="html"><![CDATA[그룹 유니코드 수아가 17일 오후 경기도 고양시 MBC 드림센터에서 열린 MBC M '쇼 챔피언' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 드리핀 차준호, '조각상이 따로 없네']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004974210</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004974210"/>
-        <updated>2024-04-17T14:14:03.940Z</updated>
-        <content type="html"><![CDATA[그룹 드리핀 차준호가 17일 오후 경기도 고양시 MBC 드림센터에서 열린 MBC M '쇼 챔피언' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
     </entry>
 </feed>
