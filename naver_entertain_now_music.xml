@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-04-19T18:15:24.649Z</updated>
+    <updated>2024-04-19T19:11:37.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마마무 솔라, 보깅댄스 첫도전]]></title>
+        <id>https://m.entertain.naver.com/now/article/477/0000485545</id>
+        <link href="https://m.entertain.naver.com/now/article/477/0000485545"/>
+        <updated>2024-04-19T19:11:23.235Z</updated>
+        <content type="html"><![CDATA[그룹 마마무 멤버 솔라가 처음으로 보깅 댄스에 도전한다. 솔라는 19일 마마무 공식 유튜브 채널에 두번째 미니앨범 '컬러스' 수록곡 '컬러스'의 퍼포먼스 비디오 티저를 공개했다. 공개된 영상 속 솔라는 중독성 강한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[판타지 보이즈, 'MAKE SUNSHINE' 트랙리스트 공개]]></title>
         <id>https://m.entertain.naver.com/now/article/312/0000658932</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/144/0000956904"/>
         <updated>2024-04-19T13:14:24.640Z</updated>
         <content type="html"><![CDATA[가수 더 브릿지(The Bridge)가 ‘뱀은 꽃을 먹는가’ OST 주자로 참여한다. 오는 21일 정오 각종 온라인 음원사이트를 통해 더 브릿지가 참여한 웹툰 ‘뱀은 꽃을 먹는가’ OST ‘지금 이대로’가 발매된다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘쇼! 음악중심’ 상반기 특집, 19일 티켓 오픈 동시에 접속 마비 상태까지!]]></title>
-        <id>https://m.entertain.naver.com/now/article/144/0000956903</id>
-        <link href="https://m.entertain.naver.com/now/article/144/0000956903"/>
-        <updated>2024-04-19T11:13:30.947Z</updated>
-        <content type="html"><![CDATA[MBC ‘쇼! 음악중심’ 상반기 특집의 티켓 오픈과 전 세계 팬들의 폭발적인 인기를 증명했다. ‘쇼! 음악중심’ 상반기 특집 티켓이 19일 오후 7시 오픈된 가운데, 오픈과 동시에 티켓 예매처 홈페이지 접속이 마비될]]></content>
     </entry>
 </feed>
