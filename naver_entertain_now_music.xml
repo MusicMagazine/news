@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-04-21T14:13:46.471Z</updated>
+    <updated>2024-04-21T16:16:11.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[르세라핌, 논란 잠재운 美 코첼라 무대.."많이 배웠다"[★FOCUS]]]></title>
+        <id>https://m.entertain.naver.com/now/article/108/0003230045</id>
+        <link href="https://m.entertain.naver.com/now/article/108/0003230045"/>
+        <updated>2024-04-21T16:16:00.004Z</updated>
+        <content type="html"><![CDATA[그룹 르세라핌(LE SSERAFIM)이 미국 최대 규모 음악 축제인 '코첼라 밸리 뮤직 앤드 아츠 페스티벌(Coachella Valley Music and Arts Festival, 이하 '코첼라') 두 번째 무대를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JYP 엑스디너리 히어로즈, 밴드는 차별화 수단 아닙니다]]></title>
         <id>https://m.entertain.naver.com/now/article/003/0012503884</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/144/0000957151"/>
         <updated>2024-04-21T09:12:45.895Z</updated>
         <content type="html"><![CDATA[르세라핌(LE SSERAFIM)이 ‘코첼라’ 마지막 공연을 마쳤다. 르세라핌(김채원, 사쿠라, 허윤진, 카즈하, 홍은채)은 20일(이하 현지시간) ‘코첼라 밸리 뮤직 앤드 아츠 페스티벌’(Coachella Valle]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이티즈, 美 메이저리그 LA 다저스 홈경기서 시구]]></title>
-        <id>https://m.entertain.naver.com/now/article/477/0000485711</id>
-        <link href="https://m.entertain.naver.com/now/article/477/0000485711"/>
-        <updated>2024-04-21T09:12:45.897Z</updated>
-        <content type="html"><![CDATA[그룹 에이티즈가 데뷔 후 처음으로 미국 프로야구 메이저리그에서 시구했다. 21일 에이티즈 윤호, 여상, 우영, 종호는 미국 캘리포니아 LA 다저스타디움서 열린 LA 다저스와 뉴욕 메츠 경기에 초청받았다. 윤호는 데뷔]]></content>
     </entry>
 </feed>
