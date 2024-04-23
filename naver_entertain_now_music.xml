@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-04-23T18:15:19.160Z</updated>
+    <updated>2024-04-23T19:10:47.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[드래곤포니, SNS 팔로어 2만명 달성…데뷔 미션 1단계 성공]]></title>
+        <id>https://m.entertain.naver.com/now/article/477/0000486164</id>
+        <link href="https://m.entertain.naver.com/now/article/477/0000486164"/>
+        <updated>2024-04-23T19:10:34.722Z</updated>
+        <content type="html"><![CDATA['안테나 보이 밴드' 드래곤포니가 데뷔 미션 1단계를 달성했다. 드래곤포니 공식 SNS 팔로어 수가 지난 22일 2만 명을 돌파했다. 드래곤포니는 앞서 자체 콘텐츠 '용마랜드에서 만나' 1회를 통해 데뷔 미션 두 가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박정현 "컬럼비아 大 입학…美 전 대통령 오바마 동문"]]></title>
         <id>https://m.entertain.naver.com/now/article/003/0012508911</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/468/0001053701"/>
         <updated>2024-04-23T11:15:28.264Z</updated>
         <content type="html"><![CDATA[가수 최백호, 지코. 사진 | KBS ‘가요계 삼대 코(개코, 지코, 최백호)’ 중 한 명인 가수 최백호가 지코를 만났다. 23일 서울 여의도 KBS신관 공개홀에서 KBS 음악 프로그램 ‘더 시즌즈-지코의 아티스트’]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스물아홉 이진혁은 달라졌다[종합]]]></title>
-        <id>https://m.entertain.naver.com/now/article/144/0000957663</id>
-        <link href="https://m.entertain.naver.com/now/article/144/0000957663"/>
-        <updated>2024-04-23T11:15:28.265Z</updated>
-        <content type="html"><![CDATA[가수 이진혁이 20대의 끝자락에서 새로운 챕터를 열었다. 23일 오후 SBS 공개홀에서 이진혁 미니 6집 [NEW QUEST: JUNGLE] 발매 기념 쇼케이스가 열렸다. ‘NEW QUEST: JUNGLE’은 이진혁]]></content>
     </entry>
 </feed>
