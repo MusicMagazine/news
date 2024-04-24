@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Apr 2024 00:53:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Apr 2024 01:54:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(여자)아이들 우기, 솔로 데뷔 쇼케이스.."나다운 앨범으로 따뜻한 마음 전하겠다"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=313131</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=313131</guid>
+            <pubDate>Wed, 24 Apr 2024 01:53:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=313131">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240424100035_cc0f4a2610dc1f824293b4d5f9073e3b.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=313131">(여자)아이들 우기, 솔로 데뷔 쇼케이스.."나다운 앨범으로 따뜻한 마음 전하겠다"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240424100035_cc0f4a2610dc1f824293b4d5f9073e3b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지코, ‘SPOT! (feat. JENNIE)’ 두 번째 콘셉트 사진]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=313055</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=311567">현아, 5월 컴백.. ‘Attitude’ 2년 만에 컴백 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240412084335_53db470c53c2ba75dc76dca5ae6dc5d5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에스파 두 번째 월드 투어, 6월 잠실에서 "SYNK : PARALLEL LINE"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=311557</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=311557</guid>
-            <pubDate>Fri, 12 Apr 2024 00:52:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=311557">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240412083353_6ad5b1a446de16e2fe3edd9c103f98b8.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=311557">에스파 두 번째 월드 투어, 6월 잠실에서 "SYNK : PARALLEL LINE"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240412083353_6ad5b1a446de16e2fe3edd9c103f98b8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
