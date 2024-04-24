@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2024-04-24T17:13:47.799Z</updated>
+    <updated>2024-04-24T19:11:15.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이주빈, 각도 따윈 상관 없는 ‘AI 미모’ [화보]]]></title>
+        <id>https://m.entertain.naver.com/now/article/382/0001122085</id>
+        <link href="https://m.entertain.naver.com/now/article/382/0001122085"/>
+        <updated>2024-04-24T19:11:08.201Z</updated>
+        <content type="html"><![CDATA[이주빈, 각도 따윈 상관 없는 ‘AI 미모’ [화보] 연기자 이주빈의 화보가 마리끌레르 5월호를 통해 공개됐다. 이번 화보는 ‘Meaningful Moment’라는 주제로 진행됐다. 편안하면서도 빼어나게 화사한 순간]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴진스 다니엘, 당당한 포즈+시크한 무드 [화보]]]></title>
         <id>https://m.entertain.naver.com/now/article/382/0001122084</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/009/0005293614"/>
         <updated>2024-04-24T15:13:58.218Z</updated>
         <content type="html"><![CDATA[‘나는 솔로’ 데프콘이 20기 솔로남 비주얼에 감탄했다. 24일 방송된 ENA(이엔에이)와 SBS PLUS의 리얼 데이팅 프로그램 ‘나는 SOLO’에서는 20기 솔라남이 솔로나라에 입성하는 모습이 전파를 탔다. 이날]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[TVis] ‘라스’ 조권 “오늘이 8번째 출연…나올 때마다 골반 털어”]]></title>
-        <id>https://m.entertain.naver.com/now/article/241/0003346432</id>
-        <link href="https://m.entertain.naver.com/now/article/241/0003346432"/>
-        <updated>2024-04-24T15:13:58.224Z</updated>
-        <content type="html"><![CDATA[가수 조권이 아이돌 중 ‘라디오스타’에 최다 출연한 소감을 밝혔다. 24일 방송된 MBC ‘라디오스타’에 이다해, 바다, 권혁수, 조권이 게스트로 출연했다. 이날 조권은 “오늘이 (‘라디오스타’) 8번째 출연이다.]]></content>
     </entry>
 </feed>
