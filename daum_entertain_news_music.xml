@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-04-24T14:13:37.536Z</updated>
+    <updated>2024-04-24T15:14:05.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최진희 '사랑의 미로', 찡한 애절함 '뚝뚝']]></title>
+        <id>https://v.daum.net/v/20240425000106531</id>
+        <link href="https://v.daum.net/v/20240425000106531"/>
+        <updated>2024-04-24T15:13:37.652Z</updated>
+        <content type="html"><![CDATA[그룹 '한울타리' 보컬 발라드디바서 솔로변신 첫 히트 세련된 팝 발라드풍 보이스, 폭발 가창력 가요계 주목 [더팩트ㅣ강일홍 기자] 수많은 히트곡을 낸 레전드 가수들도 자신의 인생을 바꾼, 또는 족적을 남긴 인생곡에 각별한 의미를 둔다. 최진희는 대중 히트곡이 많은 가수다. '사랑의 미로' '물보라' '우린 너무 쉽게 헤어졌어요' '미련 때문에' '꼬마]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["10년 참았다"…윤보미·이미주, 공개 연애 첫 타자지만 '응원해']]></title>
         <id>https://v.daum.net/v/20240424225002942</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240424180003205"/>
         <updated>2024-04-24T09:14:15.877Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 그룹 라포엠(LA POEM)이 이지 리스닝의 새로운 음악 스타일로 돌아왔다.&nbsp; 라포엠은 24일 오후 6시 각종 온라인 음원사이트를 통해 새 싱글 '미로(MIRROR)'를 발매했다.&nbsp; '미로'는 미로 같은 거울의 방에 갇힌 자아가 끝없는 도전 속에서 꽃을 피워내겠다는 의지를 담은 싱글이다. 더블 타이틀곡 '미로'와 '로즈(Rose]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제로베이스원, 싱그러운 초여름 에너지 先전파..'SWEAT']]></title>
-        <id>https://v.daum.net/v/20240424180002203</id>
-        <link href="https://v.daum.net/v/20240424180002203"/>
-        <updated>2024-04-24T09:14:15.878Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 한해선 기자] /사진=웨이크원 그룹 제로베이스원(ZEROBASEONE, 성한빈 김지웅 장하오 석매튜 김태래 리키 김규빈 박건욱 한유진)이 초여름의 에너지를 끌어올렸다. 제로베이스원은 24일 오후 6시 각종 음원 사이트를 통해 미니 3집 'You had me at HELLO'(유 해드 미 앳 헬로우)의 수록곡 'SWEAT'(스웨트)를 선공개했]]></content>
     </entry>
 </feed>
