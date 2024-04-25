@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Apr 2024 23:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Apr 2024 00:56:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ZEROBASEONE, 선공개곡 'SWEAT' 국내외 차트 1위.. 5월 컴백 예열]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=313315</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=313315</guid>
+            <pubDate>Thu, 25 Apr 2024 00:55:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=313315">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240425094548_b45febf8fbca7830d094b97a241337d4.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=313315">ZEROBASEONE, 선공개곡 'SWEAT' 국내외 차트 1위.. 5월 컴백 예열</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240425094548_b45febf8fbca7830d094b97a241337d4.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[(여자)아이들 우기, 솔로 데뷔 쇼케이스.."나다운 앨범으로 따뜻한 마음 전하겠다"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=313131</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=311674">걸그룹 'BEWAVE'(비웨이브).. 팔색조 매력 지닌 신예 등장 예고</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240412135229_14da77f163a570e99650dd21485c84ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현아, 5월 컴백.. ‘Attitude’ 2년 만에 컴백]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=311567</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=311567</guid>
-            <pubDate>Fri, 12 Apr 2024 00:52:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=311567">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240412084335_53db470c53c2ba75dc76dca5ae6dc5d5.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=311567">현아, 5월 컴백.. ‘Attitude’ 2년 만에 컴백 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240412084335_53db470c53c2ba75dc76dca5ae6dc5d5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
