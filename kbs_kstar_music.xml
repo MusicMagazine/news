@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Apr 2024 22:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Apr 2024 23:15:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지코X제니 ‘찐친 바이브.. ’‘SPOT! (feat. JENNIE)’ 뮤직비디오]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=313554</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=313554</guid>
+            <pubDate>Fri, 26 Apr 2024 23:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=313554">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240427075948_5afeced7f513eebac79714eb779cc5b4.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=313554">지코X제니 ‘찐친 바이브.. ’‘SPOT! (feat. JENNIE)’ 뮤직비디오 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240427075948_5afeced7f513eebac79714eb779cc5b4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['82메이저' 29일 컴백, 미니 1집 'BEAT by 82'..  멤버 전원 곡 작업 참여]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=313407</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=311894">르세라핌, 미국 음악축제 ‘코첼라’ 데뷔무대... 관객 떼창·떼춤 터져 나와</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240415075626_d330f463c99d88e6b6314820cdac13b7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엑스디너리 히어로즈 컴백.. 데뷔 첫 정규 앨범 'Troubleshooting']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=311760</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=311760</guid>
-            <pubDate>Sun, 14 Apr 2024 22:03:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=311760">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240413073625_90573faf6dec7c71296b45b5a33e182e.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=311760"> 엑스디너리 히어로즈 컴백.. 데뷔 첫 정규 앨범 'Troubleshooting' </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240413073625_90573faf6dec7c71296b45b5a33e182e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
