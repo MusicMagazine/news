@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-04-26T19:12:50.277Z</updated>
+    <updated>2024-04-26T20:17:54.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유키스, 6월 새 앨범→데뷔 첫 국내 팬콘서트…29일엔 '모스부호' 선공개]]></title>
+        <id>https://m.entertain.naver.com/now/article/477/0000486854</id>
+        <link href="https://m.entertain.naver.com/now/article/477/0000486854"/>
+        <updated>2024-04-26T20:17:41.487Z</updated>
+        <content type="html"><![CDATA[보이그룹 유키스가 오는 6월 컴백하는 가운데, 오는 29일 수록곡 1곡을 먼저 발표한다. 유키스(수현, 훈, 기섭, 알렉산더, 일라이)는 지난 25일 공식 SNS에 새 미니앨범 스케줄러를 게재하며, 컴백 소식을 전했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["뉴진스 짱이야" 신곡 '버블 검', 회사 내홍 속 차질 없이 공개[스타이슈]]]></title>
         <id>https://m.entertain.naver.com/now/article/108/0003231372</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/109/0005066276"/>
         <updated>2024-04-26T12:21:46.545Z</updated>
         <content type="html"><![CDATA[싱어송라이터 안예은이 자신의 우주로 관객들을 초대했다. 안예은은 지난 24일 서울 용산구 노들섬 라이브하우스에서 단독 콘서트 '먼데이프로젝트 시즌7 : My Universe'(이하 'My Universe')를 진행했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘울트라 코리아 10주년’(Ultra Korea 2024) 스웨디쉬 하우스 마피아, 아민반 뷰렌 등 1차 라인업이어 막강 2차 라인업]]></title>
-        <id>https://m.entertain.naver.com/now/article/144/0000958390</id>
-        <link href="https://m.entertain.naver.com/now/article/144/0000958390"/>
-        <updated>2024-04-26T12:21:46.549Z</updated>
-        <content type="html"><![CDATA[올해 10주년을 맞은 울트라 뮤직 페스티벌 코리아(Ultra Korea 2024, UMF Korea 2024)가 메인스테이지와 레지스탕스 스테이지를 빛낼 1차 라인업에 버금가는 2차 라인업을 전격 발표했다. 전 세계]]></content>
     </entry>
 </feed>
