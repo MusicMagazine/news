@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Apr 2024 22:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Apr 2024 23:13:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴진스, 논란 속 신곡 ‘Bubble Gum’ 뮤직비디오 선공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=313621</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=313621</guid>
+            <pubDate>Sat, 27 Apr 2024 23:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=313621">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240428072259_4067d4d7dfa5adfb9fe13c670da88910.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=313621">뉴진스, 논란 속 신곡 ‘Bubble Gum’ 뮤직비디오 선공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240428072259_4067d4d7dfa5adfb9fe13c670da88910.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[지코X제니 ‘찐친 바이브.. ’‘SPOT! (feat. JENNIE)’ 뮤직비디오]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=313554</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=311749">한지민X폴킴, 러블리 듀엣.. '한 정거장 더 가서 내릴래요'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240413072444_f664e639315846b5426d7a3e7b34388d_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[르세라핌, 미국 음악축제 ‘코첼라’ 데뷔무대... 관객 떼창·떼춤 터져 나와]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=311894</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=311894</guid>
-            <pubDate>Mon, 15 Apr 2024 00:01:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=311894">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240415075626_d330f463c99d88e6b6314820cdac13b7.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=311894">르세라핌, 미국 음악축제 ‘코첼라’ 데뷔무대... 관객 떼창·떼춤 터져 나와</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240415075626_d330f463c99d88e6b6314820cdac13b7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
