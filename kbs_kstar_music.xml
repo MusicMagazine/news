@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Apr 2024 22:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Apr 2024 23:11:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[82메이저 컴백, 첫 미니앨범  'BEAT by 82']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=313707</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=313707</guid>
+            <pubDate>Sun, 28 Apr 2024 23:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=313707">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240429074438_3c9b5f7151dfe48b56fbfbfd2b2709f8.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=313707">82메이저 컴백, 첫 미니앨범  'BEAT by 82'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240429074438_3c9b5f7151dfe48b56fbfbfd2b2709f8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴진스, 논란 속 신곡 ‘Bubble Gum’ 뮤직비디오 선공개]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=313621</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=312000">한국 찾은 빌보드 사장, "K팝, K뮤직, K컬쳐를 세계에 알리겠다"...  6월 '빌보드K Vol.1′ 발매</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240416082312_0e30289d4a1e3f86ba51a22073851d7d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한지민X폴킴, 러블리 듀엣.. '한 정거장 더 가서 내릴래요']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=311749</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=311749</guid>
-            <pubDate>Mon, 15 Apr 2024 22:11:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=311749">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240413072444_f664e639315846b5426d7a3e7b34388d_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=311749">한지민X폴킴, 러블리 듀엣.. '한 정거장 더 가서 내릴래요'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240413072444_f664e639315846b5426d7a3e7b34388d_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
