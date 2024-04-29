@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Apr 2024 23:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Apr 2024 00:54:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이유, 자카르타 공연 성료..  "홍콩 , 마닐라...  월드투어는 계속된다"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=313743</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=313743</guid>
+            <pubDate>Mon, 29 Apr 2024 00:53:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=313743">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240429082242_3d7c84a156e99d4d1f1012b1fdcec0c8.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=313743">아이유, 자카르타 공연 성료..  "홍콩 , 마닐라...  월드투어는 계속된다" </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240429082242_3d7c84a156e99d4d1f1012b1fdcec0c8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[82메이저 컴백, 첫 미니앨범  'BEAT by 82']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=313707</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=312109">'아이브 스위치'.. 29일 '마법 소녀' 로 컴백</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240416150205_c3f6fb907abc921d1cd0337a95a6c7f6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 찾은 빌보드 사장, "K팝, K뮤직, K컬쳐를 세계에 알리겠다"...  6월 '빌보드K Vol.1′ 발매]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=312000</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=312000</guid>
-            <pubDate>Tue, 16 Apr 2024 00:51:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=312000">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240416082312_0e30289d4a1e3f86ba51a22073851d7d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=312000">한국 찾은 빌보드 사장, "K팝, K뮤직, K컬쳐를 세계에 알리겠다"...  6월 '빌보드K Vol.1′ 발매</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240416082312_0e30289d4a1e3f86ba51a22073851d7d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
