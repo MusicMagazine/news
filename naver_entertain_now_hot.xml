@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2024-04-29T16:15:28.555Z</updated>
+    <updated>2024-04-29T17:13:06.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[솔라, 이번엔 록밴드 보컬…컴백 기대 포인트]]></title>
+        <id>https://m.entertain.naver.com/now/article/382/0001123031</id>
+        <link href="https://m.entertain.naver.com/now/article/382/0001123031"/>
+        <updated>2024-04-29T17:12:59.616Z</updated>
+        <content type="html"><![CDATA[그룹 마마무(MAMAMOO) 멤버 솔라가 30일 오후 6시 각종 음원 사이트를 통해 미니 2집 'COLOURS(컬러스)'를 발매한다. 솔라가 전작인 미니 1집 '容 : FACE'(용 : 페이스) 발매 이후 약 2년]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김명수 “신윤복役, 새로운 현대 문물을 접할 때 반응 재밌다” (함부로 대해줘)]]></title>
         <id>https://m.entertain.naver.com/now/article/382/0001123030</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/009/0005296053"/>
         <updated>2024-04-29T14:13:32.520Z</updated>
         <content type="html"><![CDATA[‘동상이몽2’ 김윤지, 최우성 부부가 2세 소식을 공개했다. 29일 방송된 SBS 예능프로그램 ‘동상이몽2- 너는 내 운명’(이하 ‘동상이몽2’)에서는 결혼 3년 만에 예비 엄마, 아빠가 된 소식을 전해 화제를 모은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황보라 "♥김영훈, 첫 생일에 R사 시계 선물…나한테 꽂혔다 싶어" ('조선의 사랑꾼')]]></title>
-        <id>https://m.entertain.naver.com/now/article/076/0004139685</id>
-        <link href="https://m.entertain.naver.com/now/article/076/0004139685"/>
-        <updated>2024-04-29T14:13:32.521Z</updated>
-        <content type="html"><![CDATA['조선의 사랑꾼' 황보라가 남편 김영훈에 받은 첫 선물을 자랑했다. 29일 방송된 TV조선 예능프로그램 '조선의 사랑꾼'에서는 103번째 소개팅을 한 심현섭의 모습이 담겼다. 심현섭은 심혜진 없이 울산에서 103번째]]></content>
     </entry>
 </feed>
