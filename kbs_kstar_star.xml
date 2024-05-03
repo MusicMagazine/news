@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 May 2024 22:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 May 2024 23:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 '하데스타운' 7월 개막.. 세상을 구원할 노래]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=314449</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=314449</guid>
+            <pubDate>Fri, 03 May 2024 23:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=314449">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240504080117_ee89c3f819aaeb35bb51925d0aad7168.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=314449">뮤지컬 '하데스타운' 7월 개막.. 세상을 구원할 노래</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240504080117_ee89c3f819aaeb35bb51925d0aad7168.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘서울 페스타 2024’.. 김영환 관광체육국장 “서울을 프렌들리하게 세계에 알린다”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=314397</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=312201">‘다큐멘터리 연극’의 거장, 밀로 라우 '에브리우먼' 5월 국립극장 공연</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240417102903_056b129446df0be52426bcbe39f63b9f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스 다니엘,  ‘마리끌레르 코리아’ 5월호 커버 장식]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=312153</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=312153</guid>
-            <pubDate>Wed, 17 Apr 2024 03:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=312153">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240417080414_95e9522bf459079b8ad2f46ae4a69226.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=312153">뉴진스 다니엘,  ‘마리끌레르 코리아’ 5월호 커버 장식</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240417080414_95e9522bf459079b8ad2f46ae4a69226.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
