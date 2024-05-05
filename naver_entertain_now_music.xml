@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-05-05T20:14:45.142Z</updated>
+    <updated>2024-05-05T21:11:20.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[성시경, 폭우에도 야외 콘서트 강행한 이유]]></title>
+        <id>https://m.entertain.naver.com/now/article/003/0012529786</id>
+        <link href="https://m.entertain.naver.com/now/article/003/0012529786"/>
+        <updated>2024-05-05T21:11:07.529Z</updated>
+        <content type="html"><![CDATA[가수 성시경이 폭우에도 강행한 콘서트를 성료했다. 6일 업계에 따르면 성시경은 전날 서울 서대문구 연세대학교 노천극장에서 '2024 성시경의 축가 콘서트'를 펼쳤다. 어린이날인 같은 날 아침부터 전국에 폭우가 쏟아졌]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['인기가요' 더킹덤, 에너지 풀 충전! 'Flip that Coin' 퍼포먼스]]></title>
         <id>https://m.entertain.naver.com/now/article/030/0003203697</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/144/0000959968"/>
         <updated>2024-05-05T09:17:38.567Z</updated>
         <content type="html"><![CDATA[‘스우파’ 출신 엠마가 신인 그룹 배드빌런(BADVILLAIN)으로 데뷔한다. 5일 빅플래닛메이드엔터는 공식 유튜브 채널과 배드빌런 공식 SNS 채널을 통해 배드빌런의 ‘허리케인(Hurricane)’ 퍼포먼스 비디오]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팝업★]임영웅, 팬 향한 축복 끝이 없네‥상암콘→'온기' 단편영화까지 열일]]></title>
-        <id>https://m.entertain.naver.com/now/article/112/0003695506</id>
-        <link href="https://m.entertain.naver.com/now/article/112/0003695506"/>
-        <updated>2024-05-05T09:17:38.568Z</updated>
-        <content type="html"><![CDATA[가수 임영웅이 컴백을 앞둔 가운데, 콘서트부터 단편영화까지 팬들에게 축복이 끝이 없다. 오는 6일 오후 6시 임영웅은 더블 싱글을 발매한다. 이번 더블 싱글은 'HOME'과 '온기'로 작사, 작곡에 임영웅이 참여해]]></content>
     </entry>
 </feed>
