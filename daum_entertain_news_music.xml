@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-05-07T17:12:01.211Z</updated>
+    <updated>2024-05-07T21:12:18.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홀로서기 나선 펜타곤 키노 “1인 기획사 설립, 야생에 던져진 기분이죠”]]></title>
+        <id>https://v.daum.net/v/20240508060150544</id>
+        <link href="https://v.daum.net/v/20240508060150544"/>
+        <updated>2024-05-07T21:11:52.115Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 김태형 기자] “펜카곤 키노와 솔로가수 키노의 조화를 만들고 싶었죠.” 홀로서기에 나선 그룹 펜타곤 출신 키노가 첫 번째 EP를 통해 물오른 음악성을 뽐냈다. 그는 지난 2일 오후 6시 공개된 EP ‘이게 사랑이라고? 그러면 난 환불할래(If this is love, I want a refund)’를 통해 올 봄 리스너들의 취향을 저격]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[근조화환에 경찰청장까지 나선 ‘민희진 사태’]]></title>
         <id>https://v.daum.net/v/20240508000404923</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240507180155967"/>
         <updated>2024-05-07T09:16:49.389Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 이승길 기자] 그룹 엑소 멤버 겸 배우 도경수가 또 한 걸음 '성장'해서 돌아왔다. 도경수가 7일 오후 6시 세 번째 미니 앨범 '성장'을 발표했다. 지난해 9월 발매한 미니 2집 '기대' 이후 약 8개월 만에 새롭게 선보이는 이번 앨범은 삶의 여정 속에서 피어난 다채로운 성장을 노래했다. 도경수의 미니 3집 '성장'에는 엉뚱하고 사랑스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KARD 아닌 솔로 BM, 박재범과 꿀 같은 하모니 ‘Nectar’]]></title>
-        <id>https://v.daum.net/v/20240507180018900</id>
-        <link href="https://v.daum.net/v/20240507180018900"/>
-        <updated>2024-05-07T09:16:49.390Z</updated>
-        <content type="html"><![CDATA[[OSEN=지민경 기자] 그룹 KARD의 BM이 박재범과 만나 특급 시너지를 발휘했다. BM은 7일 오후 6시 각종 음원사이트를 통해 첫 EP ‘Element(엘리먼트)' 전곡 음원과 타이틀곡 ‘Nectar(넥타)' 뮤직비디오를 공개했다. 지난 2017년 데뷔 이후 꾸준히 솔로 싱글을 발표하며 솔로 아티스트로서의 역량을 드러낸 BM은 7년 만에 처음으로]]></content>
     </entry>
 </feed>
