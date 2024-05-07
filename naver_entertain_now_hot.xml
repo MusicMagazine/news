@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2024-05-07T16:14:56.742Z</updated>
+    <updated>2024-05-07T17:12:01.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['무빙', 이번에도 날았다...대상 기염(백상예술대상)]]></title>
+        <id>https://m.entertain.naver.com/now/article/445/0000193114</id>
+        <link href="https://m.entertain.naver.com/now/article/445/0000193114"/>
+        <updated>2024-05-07T17:11:54.263Z</updated>
+        <content type="html"><![CDATA[지난해 OTT 강자로 군림했던 '무빙'이 '60회 백상예술대상' 대상 수상작이 됐다. 지난 7일 오후 서울 강남구 코엑스 D홀에서 '60회 백상예술대상'이 개최됐다. 이날 MC는 신동엽, 수지, 박보검이 맡았다. ']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유재석→기안84 꺾은 나영석 "최근 연출 불성실했는데..."(백상예술대상)]]></title>
         <id>https://m.entertain.naver.com/now/article/445/0000193109</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/410/0000996914"/>
         <updated>2024-05-07T15:16:06.046Z</updated>
         <content type="html"><![CDATA[이재욱 측이 최근 발생한 사칭 피해에 대해 경고하며, 팬들에게 각별한 주의를 당부했다. 이재욱의 소속사 씨제스 스튜디오는 7일 공식 발표를 통해 “최근 당사를 사칭하여 이재욱 배우의 유료 멤버십 가입을 목적으로 금전]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘한일가왕전’ 스미다 아이코X카노우 미유, ‘사쿠란보’ 무대로 ‘잔망美’ 폭발]]></title>
-        <id>https://m.entertain.naver.com/now/article/009/0005299845</id>
-        <link href="https://m.entertain.naver.com/now/article/009/0005299845"/>
-        <updated>2024-05-07T15:16:06.047Z</updated>
-        <content type="html"><![CDATA[‘한일가왕전’ 스미다 아이코와 카노우 미유가 흥넘치는 무대를 꾸몄다. 7일 방송된 MBN 예능프로그램 ‘한일가왕전’에서는 모든 경연이 마무리된 후 한 자리에 모인 한일 대표팀이 갈라쇼를 꾸미는 모습이 그려졌다. 이날]]></content>
     </entry>
 </feed>
