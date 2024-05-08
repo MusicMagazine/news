@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-05-08T19:12:40.492Z</updated>
+    <updated>2024-05-08T20:16:10.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SG워너비, '우리의 노래' 앙코르로 20주년 대미 장식…7월 KSPO돔 콘서트]]></title>
+        <id>https://m.entertain.naver.com/now/article/477/0000489141</id>
+        <link href="https://m.entertain.naver.com/now/article/477/0000489141"/>
+        <updated>2024-05-08T20:15:57.442Z</updated>
+        <content type="html"><![CDATA[그룹 SG워너비가 오는 7월 서울에서 앙코르 콘서트를 연다. 지난 3월 22일 서울을 시작으로 대구, 전주, 광주, 대전, 부산 등지를 돌며 전국투어 중인 SG워너비는 지난 4일 오후 인천 연수구 송도컨벤시아에서 열]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[솔라, 6년만에 콘서트 '컬러스' 개최…풍성한 세트리스트 예고]]></title>
         <id>https://m.entertain.naver.com/now/article/477/0000489140</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/015/0004982311"/>
         <updated>2024-05-08T14:12:09.842Z</updated>
         <content type="html"><![CDATA[그룹 트리플에스(tripleS) 정하연이 8일 오후 서울 광장동 예스24 라이브홀에서 열린 첫 번째 정규앨범 'ASSEMBLE24(어셈블24)' 발매 기념 쇼케이스에 참석해 포토타임을 갖고 있다. 타이틀곡 ‘Girl]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 트리플에스 주빈, '깜찍 볼하트~']]></title>
-        <id>https://m.entertain.naver.com/now/article/015/0004982310</id>
-        <link href="https://m.entertain.naver.com/now/article/015/0004982310"/>
-        <updated>2024-05-08T14:12:09.846Z</updated>
-        <content type="html"><![CDATA[그룹 트리플에스(tripleS) 주빈이 8일 오후 서울 광장동 예스24 라이브홀에서 열린 첫 번째 정규앨범 'ASSEMBLE24(어셈블24)' 발매 기념 쇼케이스에 참석해 포토타임을 갖고 있다. 타이틀곡 ‘Girls]]></content>
     </entry>
 </feed>
