@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2024-05-09T17:14:42.414Z</updated>
+    <updated>2024-05-09T18:15:38.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유재환, 시작부터 사기였나?…"어머니 편찮으시다며 계약해지 요구"]]></title>
+        <id>https://m.entertain.naver.com/now/article/057/0001816845</id>
+        <link href="https://m.entertain.naver.com/now/article/057/0001816845"/>
+        <updated>2024-05-09T18:15:32.038Z</updated>
+        <content type="html"><![CDATA["어머니가 암에 걸리셨어요. 연예계 생활 접겠습니다." 작곡비 사기 행각을 벌인 것으로 알려진 가수 겸 작곡가 유재환에게 피해를 입은 사례가 속속 드러나는 가운데 유재환이 이름을 알리기 시작한 시기부터 부적절한 행동]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['유명가수와 길거리 심사단' 아홉째 음원 발매…홍이삭 '난 행복해' 등 3곡]]></title>
         <id>https://m.entertain.naver.com/now/article/057/0001816844</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/312/0000661747"/>
         <updated>2024-05-09T14:14:47.542Z</updated>
         <content type="html"><![CDATA[배우 강혜원이 9일 오후 서울 영등포구 콘래드 서울에서 열린 '2024 브랜드 고객충성도 대상'시상식에 참석해 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘돌싱글즈5’ 박혜경 “첫인상? 몰표 예상”... 이지혜 “정유미 닮아”]]></title>
-        <id>https://m.entertain.naver.com/now/article/009/0005301270</id>
-        <link href="https://m.entertain.naver.com/now/article/009/0005301270"/>
-        <updated>2024-05-09T14:14:47.543Z</updated>
-        <content type="html"><![CDATA[‘돌싱글즈5’ MZ 돌싱들의 첫 만남이 공개됐다. 9일 첫 방송된 MBN 예능프로그램 ‘돌싱글즈5’에서는 이혼의 아픔을 극복하고 새로운 사랑을 찾아 ‘돌싱 하우스’에 입성하는 돌싱남녀의 모습이 전파를 탔다. 이날 두]]></content>
     </entry>
 </feed>
