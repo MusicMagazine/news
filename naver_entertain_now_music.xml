@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-05-10T17:11:24.539Z</updated>
+    <updated>2024-05-10T18:18:55.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘김호중&프리마돈나’ 아이다 가리풀리나-라리사 마르티네즈 한국 온다]]></title>
+        <id>https://m.entertain.naver.com/now/article/144/0000961143</id>
+        <link href="https://m.entertain.naver.com/now/article/144/0000961143"/>
+        <updated>2024-05-10T18:18:44.267Z</updated>
+        <content type="html"><![CDATA[김호중과 컬래버를 예고한 소프라노 아이다 가리풀리나, 라리사 마르티네즈가 곧 한국을 찾는다. 김호중은 오는 23일과 24일 KSPO DOME(올림픽공원)에서 ‘월드 유니온 오케스트라 슈퍼클래식: 김호중]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[씨엔블루 이정신 "음방 출연료 5만원…라이브에 3천만원 써"]]></title>
         <id>https://m.entertain.naver.com/now/article/003/0012540147</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/030/0003205333"/>
         <updated>2024-05-10T11:11:57.144Z</updated>
         <content type="html"><![CDATA[가수 겸 배우 육성재가 성공적인 솔로 컴백 무대를 선보였다. 육성재는 10일 오후 방송된 KBS 2TV '뮤직뱅크'에 출연해 첫 번째 솔로 싱글 'EXHIBITION : Look Closely(엑시비션 : 룩 클로슬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘뮤뱅’ 육성재, ‘BE SOMEBODY’ 무대 첫 공개]]></title>
-        <id>https://m.entertain.naver.com/now/article/144/0000961101</id>
-        <link href="https://m.entertain.naver.com/now/article/144/0000961101"/>
-        <updated>2024-05-10T11:11:57.149Z</updated>
-        <content type="html"><![CDATA[가수 겸 배우 육성재가 솔로 컴백 무대를 성공적으로 마쳤다. 육성재는 10일 방송이 된 KBS2 ‘뮤직뱅크’에 출연해 첫 번째 솔로 싱글 앨범 ’EXHIBITION : Look Closely(엑시비션 : 룩 클로슬리]]></content>
     </entry>
 </feed>
