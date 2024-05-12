@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-05-12T11:12:58.721Z</updated>
+    <updated>2024-05-12T12:25:47.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅, 이번엔 '참외미담'…직접 아닌 '간접' 전달도 '갓영웅 찬사' [엑's 이슈]]]></title>
+        <id>https://m.entertain.naver.com/now/article/311/0001725540</id>
+        <link href="https://m.entertain.naver.com/now/article/311/0001725540"/>
+        <updated>2024-05-12T12:25:33.795Z</updated>
+        <content type="html"><![CDATA[가수 임영웅의 새로운 미담이 화제다. 직접 전한 것이 아님에도 타인을 배려하는 마음에 대한 찬사가 이어지고 있다. 12일 온라인 커뮤니티에는 임영웅이 직접 참외를 자신의 입에 가져다줬다는 인증글이 올라왔다. 작성자에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블핑 제니 "지코 오빠, '스팟!' 고마워요"....'인기가요' 출연 없이 1위]]></title>
         <id>https://m.entertain.naver.com/now/article/213/0001295055</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/408/0000223270"/>
         <updated>2024-05-12T07:11:24.745Z</updated>
         <content type="html"><![CDATA[스트레이 키즈(Stray Kids)가 13일(월) 새 디싱 'Lose My Breath (Feat. Charlie Puth)'(루즈 마이 브레스 (피처링 찰리 푸스)) 디지털 싱글 리믹스 버전을 발매한다. 12일 0]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정세운이 그리는 미래는? 6월 단독콘서트 스포티 스타일 공개]]></title>
-        <id>https://m.entertain.naver.com/now/article/109/0005075718</id>
-        <link href="https://m.entertain.naver.com/now/article/109/0005075718"/>
-        <updated>2024-05-12T07:11:24.747Z</updated>
-        <content type="html"><![CDATA[‘싱어송라이터' 정세운이 콘셉트 포토로 단독 콘서트에 대한 기대감을 높였다. 소속사 스타쉽엔터테인먼트는 지난 11일 정세운 공식 SNS를 통해 오는 6월 29일과 30일 양일간 명화 라이브홀에서 진행될 '2024 정]]></content>
     </entry>
 </feed>
