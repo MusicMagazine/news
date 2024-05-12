@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 May 2024 19:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 May 2024 20:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장] 황정민의 무대열정, 샘컴퍼니의 ‘맥베스’ 제작발표회]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=315314</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=315314</guid>
+            <pubDate>Sun, 12 May 2024 20:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=315314">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240511100619_18d8d3aed514948c3d8b9da4bde1d7e0.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=315314">[현장] 황정민의 무대열정, 샘컴퍼니의 ‘맥베스’ 제작발표회 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240511100619_18d8d3aed514948c3d8b9da4bde1d7e0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[전시] “뱅크시, 있다없다 여기있다”..  <리얼 뱅크시> 전시회]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=315323</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=312525">전소니, '기생수:더 그레이' 미공개 스틸</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240420080359_a45042e7c37e1e31bec2b7e9c2dfe776_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[션 리차드, 아마존프라임 ‘버터플라이’ 캐스팅.. 대니얼 대 킴 & 박해수와 호흡]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=312503</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=312503</guid>
-            <pubDate>Fri, 19 Apr 2024 23:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=312503">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240420073232_fe10da5380949efb8486049bede32648_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=312503">션 리차드, 아마존프라임 ‘버터플라이’ 캐스팅.. 대니얼 대 킴 &amp; 박해수와 호흡</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240420073232_fe10da5380949efb8486049bede32648_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
