@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-05-13T17:11:33.088Z</updated>
+    <updated>2024-05-13T18:15:06.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[솔루션스 박솔, 음악극 ‘인간실격’ 주인공으로 배우 변신]]></title>
+        <id>https://m.entertain.naver.com/now/article/144/0000961567</id>
+        <link href="https://m.entertain.naver.com/now/article/144/0000961567"/>
+        <updated>2024-05-13T18:14:53.243Z</updated>
+        <content type="html"><![CDATA[다자이 오사무의 소설 ‘인간실격’을 일인 음악극으로 재해석한 ‘뮤직 플레잉 씨어터 : 파트 원 인간실격 시즌 투’에서 밴드 THE SOLUTIONS(솔루션스)의 보컬 박솔이 배우로 변신했다. 극단 이방인과 연희예술극]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[티아이오티(TIOT), 데뷔 첫 ‘KCON JAPAN 2024’ 마무리]]></title>
         <id>https://m.entertain.naver.com/now/article/144/0000961561</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/416/0000305519"/>
         <updated>2024-05-13T11:13:06.257Z</updated>
         <content type="html"><![CDATA[가수 비(RAIN)가 오는 6월 일본에서 팬미팅을 개최한다. 비는 6월 28일(토) Zepp Haneda (TOKYO), 6월 30일(일) Zepp Osaka Bayside에서 'RAINTOPIA : FIND ME']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈, ‘Fatal Trouble’ 뮤비 공개..뱀파이어 소년들의 서사 표현]]></title>
-        <id>https://m.entertain.naver.com/now/article/109/0005076500</id>
-        <link href="https://m.entertain.naver.com/now/article/109/0005076500"/>
-        <updated>2024-05-13T11:13:06.259Z</updated>
-        <content type="html"><![CDATA[엔하이픈이 뱀파이어 소년들의 서사와 우정 표현한 뮤직비디오를 공개했다. 그룹 엔하이픈(정원, 희승, 제이, 제이크, 성훈, 선우, 니키)의 타이틀곡 ‘Fatal Trouble’ 뮤직비디오가 13일 오후 6시 ‘DAR]]></content>
     </entry>
 </feed>
