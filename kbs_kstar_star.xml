@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 May 2024 01:54:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 May 2024 02:27:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[황정민의 맥베스, 요시다 유니의 감각.. '맥베스' 콜라보 포스터 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=315686</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=315686</guid>
+            <pubDate>Tue, 14 May 2024 02:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=315686">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240514105724_9c7d47a01ab1a42b5102c9b40ac0e75e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=315686">황정민의 맥베스, 요시다 유니의 감각.. '맥베스' 콜라보 포스터 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240514105724_9c7d47a01ab1a42b5102c9b40ac0e75e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장] 황정민의 무대열정, 샘컴퍼니의 ‘맥베스’ 제작발표회]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=315314</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=312620">이진희, 연극 ‘클로저’ 사랑에 갈등하는 '안나'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240421070251_b7125d2f8c87953d61fc7b099f9a3f5c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전소니, '기생수:더 그레이' 미공개 스틸]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=312525</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=312525</guid>
-            <pubDate>Fri, 19 Apr 2024 23:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=312525">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240420080359_a45042e7c37e1e31bec2b7e9c2dfe776_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=312525">전소니, '기생수:더 그레이' 미공개 스틸</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240420080359_a45042e7c37e1e31bec2b7e9c2dfe776_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
