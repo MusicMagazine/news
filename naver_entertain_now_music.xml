@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-05-15T14:14:20.693Z</updated>
+    <updated>2024-05-15T15:14:07.399Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가장 ‘핫’한 비비에게 ‘19금’은 없다[인터뷰]]]></title>
+        <id>https://m.entertain.naver.com/now/article/144/0000961908</id>
+        <link href="https://m.entertain.naver.com/now/article/144/0000961908"/>
+        <updated>2024-05-15T15:13:54.182Z</updated>
+        <content type="html"><![CDATA[가수 비비가 ‘19금’의 경계를 뛰어넘고 ‘연령 제한’ 없는 사랑을 받고 있다. 비비는 ‘나쁜X’였다. 지난 2월 13일 ‘밤양갱’을 선보이기 전까진. ‘밤양갱’은 경쾌한 왈츠풍 멜로디의 곡으로, 그와 상반되는 현실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[있지(ITZY), 日 싱글 3집 발매…긍정적 '알고리듬']]></title>
         <id>https://m.entertain.naver.com/now/article/003/0012547605</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/144/0000961882"/>
         <updated>2024-05-15T09:17:46.708Z</updated>
         <content type="html"><![CDATA[가수 비오를 두고 현 소속사 빅플래닛메이드(이하 ‘빅플래닛’) 측과 전 소속사 페임어스엔터테인먼트(이하 ‘페임어스’) 대표 겸 가수 산이와 갈등이 고조되는 가운데, 빅플래닛 측이 산이의 주장을 반박했다. 빅플래닛 측]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그리즐리, 영화 ‘낸 골딘, 모든 아름다움과 유혈사태’와 협업 성사]]></title>
-        <id>https://m.entertain.naver.com/now/article/144/0000961881</id>
-        <link href="https://m.entertain.naver.com/now/article/144/0000961881"/>
-        <updated>2024-05-15T09:17:46.708Z</updated>
-        <content type="html"><![CDATA[싱어송라이터 그리즐리(Grizzly)와 다큐멘터리 영화 ‘낸 골딘, 모든 아름다움과 유혈사태’의 뮤직비디오 Tie-Up(타이업)이 성사됐다. 그리즐리는 15일 오전 공식 SNS를 통해 오는 30일 발매를 앞둔 신곡]]></content>
     </entry>
 </feed>
