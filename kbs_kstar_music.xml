@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 May 2024 22:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 May 2024 23:14:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[걸그룹 '아르테미스', 단체 콘셉트 포트.. 31일 정규앨범 'Dall']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=316097</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=316097</guid>
+            <pubDate>Thu, 16 May 2024 23:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=316097">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240517074826_552ff4410c1a2d0c020cdc33f2f570a4_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=316097">걸그룹 '아르테미스', 단체 콘셉트 포트.. 31일 정규앨범 'Dall'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240517074826_552ff4410c1a2d0c020cdc33f2f570a4_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴진스,일본 도쿄돔 팬미팅 전석 매진]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=315660</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=313315">ZEROBASEONE, 선공개곡 'SWEAT' 국내외 차트 1위.. 5월 컴백 예열</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240425094548_b45febf8fbca7830d094b97a241337d4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[(여자)아이들 우기, 솔로 데뷔 쇼케이스.."나다운 앨범으로 따뜻한 마음 전하겠다"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=313131</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=313131</guid>
-            <pubDate>Wed, 24 Apr 2024 01:53:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=313131">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240424100035_cc0f4a2610dc1f824293b4d5f9073e3b.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=313131">(여자)아이들 우기, 솔로 데뷔 쇼케이스.."나다운 앨범으로 따뜻한 마음 전하겠다"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240424100035_cc0f4a2610dc1f824293b4d5f9073e3b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
