@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-05-16T19:10:34.209Z</updated>
+    <updated>2024-05-16T20:17:05.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔하이픈, 8월 '록 인 재팬 페스티벌 2024' 출연…韓 아티스트 출연은 11년만]]></title>
+        <id>https://v.daum.net/v/20240517041004932</id>
+        <link href="https://v.daum.net/v/20240517041004932"/>
+        <updated>2024-05-16T20:16:41.426Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]그룹 엔하이픈이 2년 연속으로 일본의 대표 음악 축제 무대에 오른다. 소속사 빌리프랩에 따르면 엔하이픈은 오는 8월 10일 일본 지바시 소가 스포츠 공원에서 열리는 ‘록 인 재팬 페스티벌 2024’에 출연한다. ‘록 인 재팬 페스티벌’은 올해 개최 25주년을 맞는 일본의 대표적인 음악 축제 중 하나로, 8월 3~12일 중]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신예 윤이재, 방탄소년단 RM ‘Come back to me’ 뮤직비디오 출연]]></title>
         <id>https://v.daum.net/v/20240517040446929</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240516214004463"/>
         <updated>2024-05-16T13:17:46.651Z</updated>
         <content type="html"><![CDATA[가수 정동하가 방구석 캐스팅 프로젝트 가창에 참여한다. 정동하는 오는 21일 방구석 캐스팅 음원 ‘또르르’를 발매한다. ‘또르르’는 지난 2013년 발매된 더 넛츠(The Nuts)의 디지털 싱글 ‘Return To Love (리턴 투 러브)’의 타이틀곡으로 대중의 많은 사랑을 받은 곡이다. 정동하가 11년 만에 정동하만의 색깔로 재해석해 깊은 여운]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“술잔 입만 댔다?”, ‘제2의 김상혁’된 김호중…1차 대리 운전 뒤 2차 이동 중 사고 ‘딱 들통’]]></title>
-        <id>https://v.daum.net/v/20240516213456382</id>
-        <link href="https://v.daum.net/v/20240516213456382"/>
-        <updated>2024-05-16T13:17:46.653Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 조은별 기자] “술잔에 입을 대긴 했지만 마시지 않았다.” 뺑소니 의혹을 받고 있는 김호중이 “술잔에 입을 댔지만 마시지 않았다”는 희대의 진술로 이목을 집중시켰다. 흡사 2005년 그룹 클릭비 멤버 김상혁의 “술은 마셨지만 음주운전은 하지 않았다”는 발언을 연상케 한다. 사건을 수사 중인 서울 강남경찰서에 따르면 김호중은 경찰 출석]]></content>
     </entry>
 </feed>
