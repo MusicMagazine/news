@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 May 2024 21:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 May 2024 22:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인피니트, 7년만에 '무한대집회' 개최...6월 9일 신곡 발매]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=316090</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=316090</guid>
+            <pubDate>Fri, 17 May 2024 22:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=316090">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240517074239_25bc24963896a183125cb98ecc2753e0.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=316090">인피니트, 7년만에 '무한대집회' 개최...6월 9일 신곡 발매</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240517074239_25bc24963896a183125cb98ecc2753e0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[버추얼 걸그룹 '핑크버스', 'Call Devil’ 30일 발매]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=316205</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=313407">'82메이저' 29일 컴백, 미니 1집 'BEAT by 82'..  멤버 전원 곡 작업 참여</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240426075150_88ff9bd7e29611fe5465df06fe6ef6d1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김윤아, 8년만의 정규 5집 [ 관능소설 ]발매.. 콘서트 개최]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=313399</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=313399</guid>
-            <pubDate>Thu, 25 Apr 2024 23:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=313399">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240426073930_0fde33cd7c50997dcb99915638f1b599.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=313399">김윤아, 8년만의 정규 5집 [ 관능소설 ]발매.. 콘서트 개최 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240426073930_0fde33cd7c50997dcb99915638f1b599.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
