@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 May 2024 01:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 May 2024 01:56:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[피아니스트 백건우, 첫 모차르트 앨범 선보인다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=316221</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=316221</guid>
+            <pubDate>Fri, 17 May 2024 01:56:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=316221">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240517101102_e25c47d4a9b735d93c4cb17deaf32d53.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=316221">피아니스트 백건우, 첫 모차르트 앨범 선보인다</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240517101102_e25c47d4a9b735d93c4cb17deaf32d53.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오엔터 ‘레벨업 못하는 플레이어’ 액션 게임으로 재탄생]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=315987</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=313145">[책] ‘귀신들의 땅’ “대만에는 귀신이 많다” (천쓰홍/민음사)</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240424145601_6930e2eb28b20aad695b3bf95337f5bd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 ‘버지니아 울프’,  배우는 연습 중... "생의 이면 속으로!"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=313090</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=313090</guid>
-            <pubDate>Wed, 24 Apr 2024 00:52:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=313090">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240424082346_26b30e79920528a40b063475145344d6.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=313090">뮤지컬 ‘버지니아 울프’,  배우는 연습 중... "생의 이면 속으로!"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240424082346_26b30e79920528a40b063475145344d6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
