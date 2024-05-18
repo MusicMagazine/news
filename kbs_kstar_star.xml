@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 May 2024 21:12:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 May 2024 23:13:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 '이블데드' 6월 개막...  "올여름, 좀비들이 돌아온다!"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=316015</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=316015</guid>
+            <pubDate>Sat, 18 May 2024 23:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=316015">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240516110646_e69fa3b80bb7cc5ef6ff57ca6dcd1bb8.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=316015">뮤지컬 '이블데드' 6월 개막...  "올여름, 좀비들이 돌아온다!"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240516110646_e69fa3b80bb7cc5ef6ff57ca6dcd1bb8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안소희 연극 데뷔, '클로저.. 솔직하고 감각적인 앨리스 변신]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=316326</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=313876">황정민, 연극무대로 돌아오다 '맥베스'.. 양정웅 연출, 7월 해오름극장 개막</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240430090854_d0187a4dfa020fb496e713ad9f3d24e5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['설록(設錄) - 네 가지 시선'..  하이퀄리티 역사 비하인드 토크쇼]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=313774</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=313774</guid>
-            <pubDate>Tue, 30 Apr 2024 00:54:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=313774">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240429092039_a156e2603722e44b81cb4e7d6312461c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=313774"> '설록(設錄) - 네 가지 시선'..  하이퀄리티 역사 비하인드 토크쇼</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240429092039_a156e2603722e44b81cb4e7d6312461c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

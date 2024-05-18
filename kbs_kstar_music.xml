@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 May 2024 21:12:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 May 2024 23:13:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멕시코로 간 라이즈,  ‘테카테 엠블레마’ 페스티벌 & 팬콘 성황!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=316477</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=316477</guid>
+            <pubDate>Sat, 18 May 2024 23:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=316477">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240519080158_6310cde7339b28e7f54332f7eff3a965.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=316477">멕시코로 간 라이즈,  ‘테카테 엠블레마’ 페스티벌 &amp; 팬콘 성황!</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240519080158_6310cde7339b28e7f54332f7eff3a965.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인피니트, 7년만에 '무한대집회' 개최...6월 9일 신곡 발매]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=316090</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=313554">지코X제니 ‘찐친 바이브.. ’‘SPOT! (feat. JENNIE)’ 뮤직비디오 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240427075948_5afeced7f513eebac79714eb779cc5b4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['82메이저' 29일 컴백, 미니 1집 'BEAT by 82'..  멤버 전원 곡 작업 참여]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=313407</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=313407</guid>
-            <pubDate>Thu, 25 Apr 2024 23:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=313407">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240426075150_88ff9bd7e29611fe5465df06fe6ef6d1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=313407">'82메이저' 29일 컴백, 미니 1집 'BEAT by 82'..  멤버 전원 곡 작업 참여</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240426075150_88ff9bd7e29611fe5465df06fe6ef6d1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
