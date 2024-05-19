@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 May 2024 19:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 May 2024 21:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[규현, 아시아 8개 지역 투어 'Restart' 성료]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=316483</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=316483</guid>
+            <pubDate>Sun, 19 May 2024 21:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=316483">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240519080517_201d253c45fd0bc380029416033f9af3.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=316483">규현, 아시아 8개 지역 투어 'Restart' 성료 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240519080517_201d253c45fd0bc380029416033f9af3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베이비몬스터, 일본 TV방송  'SHEESH' 라이브 무대]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=316501</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=313707">82메이저 컴백, 첫 미니앨범  'BEAT by 82'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240429074438_3c9b5f7151dfe48b56fbfbfd2b2709f8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스, 논란 속 신곡 ‘Bubble Gum’ 뮤직비디오 선공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=313621</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=313621</guid>
-            <pubDate>Sat, 27 Apr 2024 23:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=313621">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240428072259_4067d4d7dfa5adfb9fe13c670da88910.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=313621">뉴진스, 논란 속 신곡 ‘Bubble Gum’ 뮤직비디오 선공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240428072259_4067d4d7dfa5adfb9fe13c670da88910.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
