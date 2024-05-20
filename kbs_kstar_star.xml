@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 May 2024 01:58:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 May 2024 05:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KOBA2024, 21일 개막..  “Spark Your Creativity!”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=316637</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=316637</guid>
+            <pubDate>Mon, 20 May 2024 05:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=316637">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240520113217_31d122f9bd6edaf0ced1ceb5c3537284.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=316637">KOBA2024, 21일 개막..  “Spark Your Creativity!”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240520113217_31d122f9bd6edaf0ced1ceb5c3537284.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 송승환 “이가 없으면 잇몸으로, 원더풀 라이프” (연극 ‘웃음의 대학’)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=316577</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=314397">‘서울 페스타 2024’.. 김영환 관광체육국장 “서울을 프렌들리하게 세계에 알린다”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240503155016_709b8a20c7d273a64ca0a67a1c3a3e8e.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오 신작웹툰 론칭.. '폭력의 대가' -'천재 궁수의 스트리밍']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=314314</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=314314</guid>
-            <pubDate>Fri, 03 May 2024 00:55:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=314314">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240503091409_176a60a47cd0cf6c00f0bc7c19242489.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=314314">카카오 신작웹툰 론칭.. '폭력의 대가' -'천재 궁수의 스트리밍'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240503091409_176a60a47cd0cf6c00f0bc7c19242489.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
