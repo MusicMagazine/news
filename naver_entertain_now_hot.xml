@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2024-05-20T19:10:39.401Z</updated>
+    <updated>2024-05-20T20:16:23.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브라질 상파울루서 한국어, 제2외국어로 공식 지정된다]]></title>
+        <id>https://m.entertain.naver.com/now/article/001/0014697636</id>
+        <link href="https://m.entertain.naver.com/now/article/001/0014697636"/>
+        <updated>2024-05-20T20:16:16.805Z</updated>
+        <content type="html"><![CDATA[김지윤 통신원 = 브라질 상파울루시에서 한국어를 제2외국어로 공식 지정하고 브라질 초·중·고등학교 내 한국어 교육을 본격화하기 위한 업무협약이 체결됐다. 주상파울루 한국교육원은 20일(현지시간) 주상파울루 대한민국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장다아, 과즙美 팡팡 [화보]]]></title>
         <id>https://m.entertain.naver.com/now/article/382/0001126747</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/241/0003351519"/>
         <updated>2024-05-20T15:16:54.416Z</updated>
         <content type="html"><![CDATA[강수지가 부모님이 이북 출신이라고 밝히며 애틋함을 드러냈다. 20일 방송된 TV조선 예능 프로그램 ‘조선의 사랑꾼’에서는 가수 강수지가 남편인 방송인 김국진과 데이트에 나섰다. 김국진은 강수지를 위한 ‘수지데이’라면]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ET포토] 정슬, '핑크 프린세스']]></title>
-        <id>https://m.entertain.naver.com/now/article/030/0003207492</id>
-        <link href="https://m.entertain.naver.com/now/article/030/0003207492"/>
-        <updated>2024-05-20T15:16:54.416Z</updated>
-        <content type="html"><![CDATA[미스트롯3 TOP7 정슬이 지난 18일~19일 양일간 대전 충남대학교 정심화홀에서 열린 미스트롯3 전국투어 대전 콘서트에서 열띤 무대를 선보이고 있다. 미스트롯3 전국투어는 이번 대전 콘서트에 이어 울산, 대구, 성]]></content>
     </entry>
 </feed>
