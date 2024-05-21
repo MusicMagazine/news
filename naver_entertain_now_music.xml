@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-05-21T18:17:03.990Z</updated>
+    <updated>2024-05-21T19:13:57.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다이나믹 듀오, 데뷔 20년만에 첫 유럽투어…스페인→영국 5개국 순회]]></title>
+        <id>https://m.entertain.naver.com/now/article/477/0000491550</id>
+        <link href="https://m.entertain.naver.com/now/article/477/0000491550"/>
+        <updated>2024-05-21T19:13:46.466Z</updated>
+        <content type="html"><![CDATA[다이나믹 듀오가 데뷔 후 첫 유럽 투어를 벌인다. 소속사 아메바컬쳐와 유럽 공연 전문 회사 프론트로는 다이나믹 듀오(개코 최자)가 오는 9월 유럽 투어를 진행한다고 밝혔다. 다이나믹 듀오는 스페인을 시작으로 프랑스,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이수만 SM 前 총괄, 다시 K팝 프로듀싱?…A20엔터테인먼트 상표 출원]]></title>
         <id>https://m.entertain.naver.com/now/article/003/0012559266</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/001/0014700123"/>
         <updated>2024-05-21T14:12:07.304Z</updated>
         <content type="html"><![CDATA['음주 뺑소니' 혐의를 받는 트로트 가수 김호중이 21일 오후 서울 강남경찰서에서 조사를 마친 뒤 차량으로 이동하며 취재진 질문을 받고 있다. 2024.5.21 [공동취재]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['음주 뺑소니' 혐의 가수 김호중, 조사 종료]]></title>
-        <id>https://m.entertain.naver.com/now/article/001/0014700122</id>
-        <link href="https://m.entertain.naver.com/now/article/001/0014700122"/>
-        <updated>2024-05-21T14:12:07.304Z</updated>
-        <content type="html"><![CDATA['음주 뺑소니' 혐의를 받는 트로트 가수 김호중이 21일 오후 서울 강남경찰서에서 조사를 마친 뒤 차량으로 이동하며 고개를 숙이고 있다. 2024.5.21 [공동취재]]]></content>
     </entry>
 </feed>
