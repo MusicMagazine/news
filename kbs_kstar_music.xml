@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 May 2024 23:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 May 2024 00:55:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴진스 신곡 ‘How Sweet’.. "힙합~"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=316721</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=316721</guid>
+            <pubDate>Tue, 21 May 2024 00:54:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=316721">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240521084406_c257d8615faefb8224862fd9d64472c2.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=316721">뉴진스 신곡 ‘How Sweet’.. "힙합~"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240521084406_c257d8615faefb8224862fd9d64472c2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[규현, 아시아 8개 지역 투어 'Restart' 성료]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=316483</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=313743">아이유, 자카르타 공연 성료..  "홍콩 , 마닐라...  월드투어는 계속된다" </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240429082242_3d7c84a156e99d4d1f1012b1fdcec0c8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[82메이저 컴백, 첫 미니앨범  'BEAT by 82']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=313707</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=313707</guid>
-            <pubDate>Sun, 28 Apr 2024 23:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=313707">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240429074438_3c9b5f7151dfe48b56fbfbfd2b2709f8.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=313707">82메이저 컴백, 첫 미니앨범  'BEAT by 82'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240429074438_3c9b5f7151dfe48b56fbfbfd2b2709f8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
