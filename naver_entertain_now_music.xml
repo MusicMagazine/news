@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-05-22T16:21:49.488Z</updated>
+    <updated>2024-05-22T17:12:57.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[래퍼 안병웅, 새 EP ‘siTtin in A sauCer’로 컴백···26일 단독 콘서트]]></title>
+        <id>https://m.entertain.naver.com/now/article/144/0000963378</id>
+        <link href="https://m.entertain.naver.com/now/article/144/0000963378"/>
+        <updated>2024-05-22T17:12:43.856Z</updated>
+        <content type="html"><![CDATA[래퍼 안병웅이 확고한 색을 지닌 음악으로 돌아온다. 안병웅은 22일 각종 온라인 음원사이트를 통해 새 EP ‘siTtin in A sauCer (시팅 인 어 소서)’를 발매했다. ‘siTtin in A sauCer’]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[포토] 트리플에스 김수민, '깨물어주고 싶은 깜찍함']]></title>
         <id>https://m.entertain.naver.com/now/article/015/0004988004</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/015/0004987975"/>
         <updated>2024-05-22T16:21:36.811Z</updated>
         <content type="html"><![CDATA[그룹 트리플에스 김나경이 22일 오후 경기도 고양시 MBC 드림센터에서 열린 MBC M '쇼 챔피언' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 트리플에스 공유빈, '눈부시게 아름다운 미소']]></title>
-        <id>https://m.entertain.naver.com/now/article/015/0004987974</id>
-        <link href="https://m.entertain.naver.com/now/article/015/0004987974"/>
-        <updated>2024-05-22T16:21:36.812Z</updated>
-        <content type="html"><![CDATA[그룹 트리플에스 공유빈이 22일 오후 경기도 고양시 MBC 드림센터에서 열린 MBC M '쇼 챔피언' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
     </entry>
 </feed>
