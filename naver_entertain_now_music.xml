@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-05-22T17:12:57.146Z</updated>
+    <updated>2024-05-22T18:20:49.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘풍선’ 다섯손가락, 2024 첫 콘서트‘다시, 함께’ 개최]]></title>
+        <id>https://m.entertain.naver.com/now/article/144/0000963387</id>
+        <link href="https://m.entertain.naver.com/now/article/144/0000963387"/>
+        <updated>2024-05-22T18:20:33.611Z</updated>
+        <content type="html"><![CDATA[‘풍선’을 히트시킨 전설적인 록밴드 다섯손가락이 오는 7월 6일 오후 5시, 7일 오후 4시 양일간 홍대 구름 아래 소극장에서 2024년 첫 콘서트 ‘다시, 함께’ 를 개최한다. 지난해 인기리에 방영된 ‘불꽃밴드’를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[래퍼 안병웅, 새 EP ‘siTtin in A sauCer’로 컴백···26일 단독 콘서트]]></title>
         <id>https://m.entertain.naver.com/now/article/144/0000963378</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/629/0000290107"/>
         <updated>2024-05-22T16:21:36.810Z</updated>
         <content type="html"><![CDATA['마카레나' 이후 1년 넘은 공백기 '브리튼즈 갓 탤런트' 준결승 진출 우승 및 활발한 활동 기대 보이그룹 블리처스(BLITZERS)는 데뷔한 지 막 3년이 지났지만 사실 그동안 크게 주목받지 못했다. 중소기획사의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 트리플에스 김나경, '눈부신 청순미~']]></title>
-        <id>https://m.entertain.naver.com/now/article/015/0004987975</id>
-        <link href="https://m.entertain.naver.com/now/article/015/0004987975"/>
-        <updated>2024-05-22T16:21:36.811Z</updated>
-        <content type="html"><![CDATA[그룹 트리플에스 김나경이 22일 오후 경기도 고양시 MBC 드림센터에서 열린 MBC M '쇼 챔피언' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
     </entry>
 </feed>
