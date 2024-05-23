@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-05-23T12:24:06.937Z</updated>
+    <updated>2024-05-23T13:14:45.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘김준수(XIA) 콘서트 무비 챕터 원 : 레크리에이션’ 6월 5일 롯데시네마 개봉 확정···개봉 인사 동영상도 공개]]></title>
+        <id>https://m.entertain.naver.com/now/article/144/0000963623</id>
+        <link href="https://m.entertain.naver.com/now/article/144/0000963623"/>
+        <updated>2024-05-23T13:14:33.196Z</updated>
+        <content type="html"><![CDATA[무대 위에서 독보적인 에너지를 발산하는 명품 보컬리스트 김준수의 첫 콘서트 실황 영화 ‘김준수 콘서트 무비 챕터 원 : 레크리에이션’이 6월 5일 롯데시네마 개봉 소식을 알리며 김준수의 개봉 인사 영상을 공개했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[허회경, 단독 콘서트 ‘그 무엇도 어떤 것도 None’ 6월 29일 개최]]></title>
         <id>https://m.entertain.naver.com/now/article/144/0000963622</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/144/0000963596"/>
         <updated>2024-05-23T10:16:31.705Z</updated>
         <content type="html"><![CDATA[아이돌그룹 엘라스트(E’LAST)가 독보적인 퍼포먼스를 펼쳐 보였다. 엘라스트는 23일 오후 방송된 Mnet ‘엠카운트다운’에서 첫 정규 앨범 ‘EVERLASTING(에버레스팅)’의 타이틀곡 ‘Gasoline(가솔린]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양파, 선공개 음원 ‘SEOUL’로 17년 만의 정규앨범 프로젝트 시작]]></title>
-        <id>https://m.entertain.naver.com/now/article/144/0000963595</id>
-        <link href="https://m.entertain.naver.com/now/article/144/0000963595"/>
-        <updated>2024-05-23T10:16:31.705Z</updated>
-        <content type="html"><![CDATA[가수 양파가 선공개 음원을 시작으로 정규앨범 프로젝트의 시작을 알렸다. 양파는 23일 오후 6시 각종 온라인 음원사이트를 통해 선공개 음원 ‘SEOUL (서울)’을 발매했다. ‘SEOUL’은 양파가 17년 만에 발매]]></content>
     </entry>
 </feed>
