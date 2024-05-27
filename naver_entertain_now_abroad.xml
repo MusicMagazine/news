@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2024-05-27T04:18:40.045Z</updated>
+    <updated>2024-05-27T05:15:19.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이정재, 광선검 들고 화끈한 액션…'애콜라이트']]></title>
+        <id>https://m.entertain.naver.com/now/article/003/0012569508</id>
+        <link href="https://m.entertain.naver.com/now/article/003/0012569508"/>
+        <updated>2024-05-27T05:15:18.515Z</updated>
+        <content type="html"><![CDATA[배우 이정재의 영어 연기를 볼 수 있는 디즈니+오리지널 시리즈 '애콜라이트'가 화끈한 액션을 예고했다. 27일 월트디즈니 컴퍼니 코리아에 따르면, '애콜라이트'에는 '킹스맨' 시리즈부터 '캡틴 아메리카: 윈터 솔져']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미션임파서블 8', '400억' 잠수함 고장나 촬영 연기...개봉 늦어질 듯 [할리웃통신]]]></title>
         <id>https://m.entertain.naver.com/now/article/213/0001296273</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/213/0001296187"/>
         <updated>2024-05-25T10:13:38.850Z</updated>
         <content type="html"><![CDATA['기묘한 이야기' 시리즈 잘 알려진 할리우드의 신성 밀리 바비 브라운이 '품절녀'가 됐다. 새 신랑은 레전드 로커 존 본 조비의 아들 제이크 본지오비다. 24일(현지시간) 더 선, 피플 등 해외 매체들에 따르면 브라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['기묘한 이야기' 20살 여주, 본조비 子과 극비리 결혼 [Oh!llywood]]]></title>
-        <id>https://m.entertain.naver.com/now/article/109/0005083847</id>
-        <link href="https://m.entertain.naver.com/now/article/109/0005083847"/>
-        <updated>2024-05-25T10:13:38.850Z</updated>
-        <content type="html"><![CDATA['기묘한 이야기'로 유명한 배우 밀리 바비 브라운(Millie Bobby Brown, 20)과 모델 제이크 본조비(Jake Bongiovi, 22)가 극비리에 결혼했다. 더 선(The Sun)의 24일(현지시간) 보]]></content>
     </entry>
 </feed>
