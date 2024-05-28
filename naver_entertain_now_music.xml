@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-05-28T18:16:11.588Z</updated>
+    <updated>2024-05-28T19:11:31.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세븐틴 '레디 투 비', 日 레코드협회 스트리밍 '골드' 인증…누적 재생수 5000만 돌파]]></title>
+        <id>https://m.entertain.naver.com/now/article/477/0000492727</id>
+        <link href="https://m.entertain.naver.com/now/article/477/0000492727"/>
+        <updated>2024-05-28T19:11:18.727Z</updated>
+        <content type="html"><![CDATA[그룹 세븐틴이 일본 레코드협회 스트리밍 인증을 추가했다. 일본 레코드협회에 따르면 세븐틴이 2021년 6월 발매한 8번째 미니앨범 '유어 초이스' 타이틀곡 '레디 투 러브'가 지난 4월 누적 재생 수 5000만 회를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가수 차가을, 6월 2일 서영은 대표곡 ‘내 안의 그대’ 리메이크]]></title>
         <id>https://m.entertain.naver.com/now/article/144/0000964568</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/144/0000964503"/>
         <updated>2024-05-28T11:11:39.639Z</updated>
         <content type="html"><![CDATA[걸그룹 클라씨(CLASS:y) 멤버 채원이 솔로곡 무대를 최초로 공개했다. 채원은 28일 방송된 SBS M, SBS FiL ‘더쇼’에 출연, 데뷔 첫 솔로곡 ‘아메리카노 한잔에 빗소리’ 무대를 선보였다. 채원은 더욱]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[힙합 서바이벌 ‘랩컵’, 글로벌 뮤직 플랫폼 AURORA(오로라) 차트 최신 앨범 TOP 50 1위 등극]]></title>
-        <id>https://m.entertain.naver.com/now/article/144/0000964499</id>
-        <link href="https://m.entertain.naver.com/now/article/144/0000964499"/>
-        <updated>2024-05-28T11:11:39.646Z</updated>
-        <content type="html"><![CDATA[‘랩컵’이 글로벌 뮤직 플랫폼 AURORA(오로라) 차트에서 호성적을 이끌며 끝없는 인기를 구가하고 있다. 28일 오전 기준 다날엔터테인먼트의 글로벌 뮤직 플랫폼 AURORA(오로라) 차트에서 최근 종영한 2024]]></content>
     </entry>
 </feed>
