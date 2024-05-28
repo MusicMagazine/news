@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 May 2024 22:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 May 2024 23:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이브(Yves), 첫 EP 'LOOP' 발매]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=317607</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=317607</guid>
+            <pubDate>Tue, 28 May 2024 23:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=317607">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240529074558_bbaf3930de4591afe331d7a2895dd02a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=317607">이브(Yves), 첫 EP 'LOOP' 발매</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240529074558_bbaf3930de4591afe331d7a2895dd02a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시그니처, 다섯 번째 EP ‘Sweetie but Saltie’  콘셉트 포토 공개]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=317454</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=314212">7월의 트와이스, 일본 정규5집 'DIVE' 발매</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240502155732_2daa8e1bf6baa57d5ca2caabbed2fa84_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[휘브(WHIB) 14일 컴백.. "하나의 꿈을 위해 뭉친 여덟 청춘!"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=314146</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=314146</guid>
-            <pubDate>Thu, 02 May 2024 00:52:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=314146">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240502091312_7be210dedb67fef321aa201ed00037b7.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=314146">휘브(WHIB) 14일 컴백.. "하나의 꿈을 위해 뭉친 여덟 청춘!"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240502091312_7be210dedb67fef321aa201ed00037b7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
