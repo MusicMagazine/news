@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 May 2024 23:14:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 May 2024 02:32:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연評] 연극 ‘웃음의 대학’ 리뷰.. “천황폐하만세로 관객 웃기기”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=317790</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=317790</guid>
+            <pubDate>Thu, 30 May 2024 02:30:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=317790">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240530104229_10c2e5bddd0398f7a5558547078ad5f5.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=317790">[공연評] 연극 ‘웃음의 대학’ 리뷰.. “천황폐하만세로 관객 웃기기”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240530104229_10c2e5bddd0398f7a5558547078ad5f5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[첼리스트 양성원, 데카레이블 통산 9번째 앨범 <에코 오브 로망스> 오늘 발매]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=317657</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=316531"> 김호중 음주운전 등 사실관계  인정.. "경찰 조사에 성실히 임하겠습니다" </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240519222419_b87f9e699b4814e96156f6e4b7cad937.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베키 체임버스 연작 '수도승과 로봇' 시리즈 출간... 솔라 펑크 장르 최고봉]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=316488</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=316488</guid>
-            <pubDate>Sun, 19 May 2024 01:01:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=316488">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240519082000_698f7c0fdc3a79706b76e3278f3a25b0.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=316488">베키 체임버스 연작 '수도승과 로봇' 시리즈 출간... 솔라 펑크 장르 최고봉</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240519082000_698f7c0fdc3a79706b76e3278f3a25b0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
