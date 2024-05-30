@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 May 2024 05:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 May 2024 06:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["여름날의 (여자)아이들" .. 8월 3·4일 월드투어 서울서 본격]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=317811</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=317811</guid>
+            <pubDate>Thu, 30 May 2024 06:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=317811">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240530150905_c797db1d545f8c55fdce931749854fca.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=317811">"여름날의 (여자)아이들" .. 8월 3·4일 월드투어 서울서 본격 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240530150905_c797db1d545f8c55fdce931749854fca.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['아침마당-도전! 꿈의 무대' 제2의 임영웅은 누구?.. 왕중왕전 14인 고정우, 양지원 등 신규 앨범 발매]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=317731</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=314482">김호중 티켓 파워, ‘월드 유니온 오케스트라 슈퍼클래식’ 완전매진</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240504083456_95c4e646d46e2902e1e8ceb632e2c2a8_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김재환, 미니 7집 'I Adore' 라이브 버전 하이라이트 메들리 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=314294</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=314294</guid>
-            <pubDate>Fri, 03 May 2024 22:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=314294">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240503083630_6fb8d6e7fcb8d2a98567a24fb22dc7c4_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=314294">김재환, 미니 7집 'I Adore' 라이브 버전 하이라이트 메들리 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240503083630_6fb8d6e7fcb8d2a98567a24fb22dc7c4_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
