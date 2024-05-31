@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 May 2024 23:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 00:57:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오페이지, ‘초신작 프로젝트’ 시작..  ‘악녀인데 하트 받아버렸다’, ‘달빛조각사: 아빠는 전설이다’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=317934</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=317934</guid>
+            <pubDate>Fri, 31 May 2024 00:56:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=317934">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240531085314_8d55e7b286150d7f7c5b963a861dd5e1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=317934">카카오페이지, ‘초신작 프로젝트’ 시작..  ‘악녀인데 하트 받아버렸다’, ‘달빛조각사: 아빠는 전설이다’</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240531085314_8d55e7b286150d7f7c5b963a861dd5e1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[표예진의 신데렐라를 기대해.. 티빙 ‘나는 대놓고 신데렐라를 꿈꾼다’]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=317817</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=316637">KOBA2024, 21일 개막..  “Spark Your Creativity!”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240520113217_31d122f9bd6edaf0ced1ceb5c3537284.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 송승환 “이가 없으면 잇몸으로, 원더풀 라이프” (연극 ‘웃음의 대학’)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=316577</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=316577</guid>
-            <pubDate>Mon, 20 May 2024 00:56:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=316577">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240520093541_18742549ca647b8a498e8f8948248672.JPG" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=316577">[인터뷰] 송승환 “이가 없으면 잇몸으로, 원더풀 라이프” (연극 ‘웃음의 대학’)</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240520093541_18742549ca647b8a498e8f8948248672.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
