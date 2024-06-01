@@ -4,7 +4,7 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jun 2024 01:00:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jun 2024 02:03:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,6 +23,23 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=317946">"여름이다!"  프로미스나인, 7월 사진전→8월 컴백</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240531090847_24fd2abcb2600b5ecbfdbd245f392093.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴진스, 美 빌보드 ‘21 Under 21’ 포함… K-팝 아티스트 유일]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=318027</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=318027</guid>
+            <pubDate>Sat, 01 Jun 2024 02:02:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=318027">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240601103303_dd77fa5340539c5d79e67cc4e3003350_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=318027">뉴진스, 美 빌보드 ‘21 Under 21’ 포함… K-팝 아티스트 유일</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240601103303_dd77fa5340539c5d79e67cc4e3003350_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["여름날의 (여자)아이들" .. 8월 3·4일 월드투어 서울서 본격]]></title>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=315235">RM, 선공개 곡 ‘Come back to me’ MV … "영화적 상상력+감각적인 영상미"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240510173040_98954d525630c64f11eb3498068c203f.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[육성재 컴백.. 싱글앨범 'EXHIBITION : Look Closely' 9일 발매]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=314473</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=314473</guid>
-            <pubDate>Sat, 04 May 2024 23:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=314473">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240504082903_cb412038d84cbab2347bbfdd872c2984.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=314473">육성재 컴백.. 싱글앨범 'EXHIBITION : Look Closely' 9일 발매</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240504082903_cb412038d84cbab2347bbfdd872c2984.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
