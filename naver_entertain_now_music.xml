@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-06-01T18:16:58.462Z</updated>
+    <updated>2024-06-01T20:12:55.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[육성재, 서울 팬미팅 성료 → 아시아 4개 도시 팬미팅]]></title>
+        <id>https://m.entertain.naver.com/now/article/477/0000493663</id>
+        <link href="https://m.entertain.naver.com/now/article/477/0000493663"/>
+        <updated>2024-06-01T20:12:43.561Z</updated>
+        <content type="html"><![CDATA[가수 겸 배우 육성재가 아시아 팬미팅에 나선다. 육성재는 1일 대만 타이베이를 시작으로, 14일 일본 도쿄, 22일 태국 방콕, 28일 일본 오사카까지 6월 한 달 동안 아시아 4개 도시에서 팬미팅을 개최한다. 이번]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김호중, 거짓말의 댓가 받을까[스경연예연구소]]]></title>
         <id>https://m.entertain.naver.com/now/article/144/0000965580</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/241/0003354616"/>
         <updated>2024-06-01T09:18:25.752Z</updated>
         <content type="html"><![CDATA[그룹 비비지(VIVIZ)가 데뷔 후 첫 단독 콘서트로 팬들과 만난다. 비비지(은하·신비·엄지)는 1, 2일 2회에 걸쳐 서울 강서구 KBS 아레나에서 단독 공연 ‘2024 비비지 월드투어 비하인드: 러브 앤 티어스(]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엑소 수호 '점선면', 아이튠즈 톱 앨범 26개 지역 1위]]></title>
-        <id>https://m.entertain.naver.com/now/article/003/0012581575</id>
-        <link href="https://m.entertain.naver.com/now/article/003/0012581575"/>
-        <updated>2024-06-01T09:18:25.754Z</updated>
-        <content type="html"><![CDATA[그룹 '엑소' 수호가 세 번째 미니앨범 '점선면(1 to 3)'으로 인기를 입증했다. 1일 소속사 SM엔터테인먼트에 따르면, 5월31일 공개된 수호 '점선면'은 아이튠즈 톱 앨범 차트에서 전 세계 26개 지역 1위를]]></content>
     </entry>
 </feed>
