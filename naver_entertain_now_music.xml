@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-06-01T11:13:17.746Z</updated>
+    <updated>2024-06-01T12:26:09.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카라 니콜, 오는 6일 신곡 '5!6!7!8!' 발매]]></title>
+        <id>https://m.entertain.naver.com/now/article/312/0000664854</id>
+        <link href="https://m.entertain.naver.com/now/article/312/0000664854"/>
+        <updated>2024-06-01T12:25:57.869Z</updated>
+        <content type="html"><![CDATA[그룹 카라(KARA) 멤버 겸 솔로 아티스트 니콜(Nicole Jung)이 1년 3개월 만에 국내 가요계에 돌아온다. 니콜은 오는 6일 각종 온라인 음원 사이트를 통해 새 디지털 싱글 ‘5!6!7!8!’을 발매한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[면사포 쓴 하니, ♥양재웅과 결혼 자필편지로 직접 인정 “삶을 함께하고 싶은 사람”]]></title>
         <id>https://m.entertain.naver.com/now/article/468/0001065308</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/109/0005088669"/>
         <updated>2024-06-01T09:18:25.757Z</updated>
         <content type="html"><![CDATA[에이티즈(ATEEZ)가 무대를 장악하는 퍼포먼스로 눈길을 끌었다. 에이티즈는 오늘(1일) MBC '쇼! 음악중심'에 출연해 미니 10집 '골든 아워 : 파트 1(GOLDEN HOUR : Part.1)'의 타이틀곡 ']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[S.E.S 유진, 민희진·뉴진스 응원…“이별하지 않게 돼 기뻐”]]></title>
-        <id>https://m.entertain.naver.com/now/article/241/0003354615</id>
-        <link href="https://m.entertain.naver.com/now/article/241/0003354615"/>
-        <updated>2024-06-01T09:18:25.759Z</updated>
-        <content type="html"><![CDATA[그룹 S.E.S 출신 배우 유진이 어도어 민희진 대표와 뉴진스를 응원했다. 유진은 1일 자신의 SNS에 “뉴진스 애정하는 나의 후배들”이라며 뉴진스 신보 ‘하우 스위트(How Sweet)’ 앨범 재킷 사진을 올렸다.]]></content>
     </entry>
 </feed>
