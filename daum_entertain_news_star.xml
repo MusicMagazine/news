@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-06-02T17:13:05.511Z</updated>
+    <updated>2024-06-02T18:18:11.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사업가로 성공 안선영의 인생 스토리]]></title>
+        <id>https://v.daum.net/v/20240603030346373</id>
+        <link href="https://v.daum.net/v/20240603030346373"/>
+        <updated>2024-06-02T18:17:46.206Z</updated>
+        <content type="html"><![CDATA[25년 차 방송인이자 7년 차 사업가인 안선영이 변호사 양소영, 방송인 정가은, 배우 송진우를 초대해 이탈리안 가정식 요리를 대접한다. 봉지 쌀을 사먹고 화장실이 없던 집에 살 정도로 가난했던 그녀가 인정받는 사업가가 되기까지의 인생 스토리를 공개한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안소희, '플러팅 비법' 소신 밝혀 "굳이 예쁜 척 하지 않아도··"]]></title>
         <id>https://v.daum.net/v/20240603004323945</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240602232812410"/>
         <updated>2024-06-02T15:15:07.261Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스] 신효령 기자 = 그룹 '에스파' 닝닝이 건강 이상으로 예정됐던 공연에 불참했다. 소속사 SM엔터테인먼트(이하 SM)는 2일 공식 SNS(소셜미디어)를 통해 "닝닝은 리허설 중 탈수 및 탈진 증세를 보여 곧바로 병원에 내원했고, 충분한 안정과 휴식이 필요하다는 의료진 소견을 받았다"고 밝혔다. 닝닝은 이날 인천 영종도 인스파이어 아레나에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["나보다 저질, 방송·사석 달라" 신동엽, 송승헌 두 얼굴 폭로]]></title>
-        <id>https://v.daum.net/v/20240602232641399</id>
-        <link href="https://v.daum.net/v/20240602232641399"/>
-        <updated>2024-06-02T15:15:07.262Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이게은기자] 절친이라 가능한 폭로였다. 방송인 신동엽이 '30년 절친' 배우 송승헌의 실체를 언급해 웃음을 자아냈다. 2일 오후 방송된 SBS '미운 우리 새끼'에는 스페셜 MC로 송승헌이 출연했다. 송승헌이 스튜디오에 등장하자 마자 모벤져스 사이에서는 "진짜 잘생겼다", "동안이다" 등 감탄이 쏟아졌다. 서장훈이 "동엽이 형]]></content>
     </entry>
 </feed>
