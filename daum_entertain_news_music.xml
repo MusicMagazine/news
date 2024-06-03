@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-06-03T15:18:17.266Z</updated>
+    <updated>2024-06-03T16:18:50.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김호중 사고당시 혈중알코올 ‘면허 취소수준’]]></title>
+        <id>https://v.daum.net/v/20240604003010682</id>
+        <link href="https://v.daum.net/v/20240604003010682"/>
+        <updated>2024-06-03T16:18:21.169Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 사진 | 뉴시스가수 김호중이 음주 뺑소니 혐의로 구속돼 조사받고 있는 가운데 사건 당시 면허 취소 수준의 혈중 알코올농도가 나온 것으로 알려졌다. 조지호 서울경찰청장은 3일 서울 종로구 내자동 청사에서 열린 기자간담회에서 “(김호중에게)가장 낮은 수치를 적용했음에도 불구하고 음주운전으로 규정한 수치 이상으로 나왔다”고 밝혔다. 또 경찰은 음주]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘마약 난동 작곡가’ 징역 1년 6개월 실형 선고···양측 항소]]></title>
         <id>https://v.daum.net/v/20240604000206366</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240603211156536"/>
         <updated>2024-06-03T12:25:18.438Z</updated>
         <content type="html"><![CDATA[싱어송라이터 듀오 LAS(라스)가 또 하나의 웰메이드 신곡을 선보였다. LAS(라스)는 지난달 30일 JTBC 수목드라마 ‘비밀은 없어’의 OST ‘네 눈치’와 ‘우주를 닮아’를 발매했다. ‘네 눈치’는 중독성 있는 리듬과 펑키한 기타, 시원한 브라스 사운드의 밝고 경쾌한 디스코 팝 장르의 곡으로, AVIN(아빈)과 SLAY(슬레이)의 싱그럽고 부드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지코 ‘SPOT!’, 유튜브뮤직 1억 스트리밍 돌파]]></title>
-        <id>https://v.daum.net/v/20240603203254914</id>
-        <link href="https://v.daum.net/v/20240603203254914"/>
-        <updated>2024-06-03T12:25:18.441Z</updated>
-        <content type="html"><![CDATA[아티스트 겸 프로듀서 지코(ZICO)의 ‘SPOT!’이 글로벌 팬심을 잡으며 장기 흥행 가도를 달리고 있다. 글로벌 음원 스트리밍 플랫폼 유튜브뮤직에 따르면 지코의 디지털 싱글 ‘SPOT! (feat. JENNIE)’(이하 ‘SPOT!’)은 지난 2일에 재생 수 1억 회를 돌파했다. 4월 25일 음원이 발표된 이후 약 한 달 만에 이룬 성과다. 지코]]></content>
     </entry>
 </feed>
