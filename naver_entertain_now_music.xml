@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-06-05T17:12:55.195Z</updated>
+    <updated>2024-06-05T18:16:53.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에이스(A.C.E), 美 DRT 글로벌 라디오 차트 ‘K팝 역대 최단 기간’ 입성]]></title>
+        <id>https://m.entertain.naver.com/now/article/144/0000966578</id>
+        <link href="https://m.entertain.naver.com/now/article/144/0000966578"/>
+        <updated>2024-06-05T18:16:39.768Z</updated>
+        <content type="html"><![CDATA[아이돌그룹 에이스(A.C.E)가 글로벌 라디오 차트에 진입하며 K-POP 역대 최단 기록을 새로 썼다. 5일 소속사 비트인터렉티브와 미스터리프렌즈가 공동 제작한 스페셜 싱글 ‘Supernatural’(슈퍼내추럴)이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주니(JUNNY), 새 EP ‘dopamine’ 감각적인 비주얼 필름 첫 공개]]></title>
         <id>https://m.entertain.naver.com/now/article/144/0000966576</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/015/0004993673"/>
         <updated>2024-06-05T12:26:18.902Z</updated>
         <content type="html"><![CDATA[가수 이브가 5일 오후 경기도 고양시 MBC 드림센터에서 열린 MBC M '쇼 챔피언' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쿠기, 더블 싱글 ‘BEFORE UPSET’ 성공적 발매]]></title>
-        <id>https://m.entertain.naver.com/now/article/144/0000966553</id>
-        <link href="https://m.entertain.naver.com/now/article/144/0000966553"/>
-        <updated>2024-06-05T14:13:52.674Z</updated>
-        <content type="html"><![CDATA[래퍼 쿠기(Coogie)가 힙합색 짙은 더블 싱글로 컴백했다. 쿠기는 지난 4일 각종 온라인 음원 사이트를 통해 더블 싱글 ‘BEFORE UPSET (비포 업셋)’을 발매하고, 더블 타이틀곡 중 ‘idontfrees]]></content>
     </entry>
 </feed>
