@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-06-05T18:16:53.031Z</updated>
+    <updated>2024-06-05T19:15:10.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서영은, 데뷔 25주년 기념 콘서트 '6월의 선물' 개최…그 시절 감성 소환 예고]]></title>
+        <id>https://m.entertain.naver.com/now/article/477/0000494350</id>
+        <link href="https://m.entertain.naver.com/now/article/477/0000494350"/>
+        <updated>2024-06-05T19:14:57.873Z</updated>
+        <content type="html"><![CDATA[가수 서영은이 콘서트를 열고 옛 감성을 소환한다. 서영은은 오는 15일 서울 신수동 서강대학교 메리홀에서 '서영은 콘서트 [6월의 선물]'을 개최한다. 이번 콘서트는 서영은의 데뷔 25주년을 맞이해 진행되기에 더욱]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이스(A.C.E), 美 DRT 글로벌 라디오 차트 ‘K팝 역대 최단 기간’ 입성]]></title>
         <id>https://m.entertain.naver.com/now/article/144/0000966578</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/144/0000966555"/>
         <updated>2024-06-05T12:26:18.900Z</updated>
         <content type="html"><![CDATA[가수 HYNN(박혜원)이 신곡 첫 무대를 선보였다. HYNN(박혜원)은 지난 4일 방송된 SBS M ‘더쇼’에서 새 디지털 싱글 ‘가장 찬란한 빛으로 쏟아지는’을 선보였다. HYNN(박혜원)은 순수하고 신비로운 순백]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 이브, '돋보이는 아름다움']]></title>
-        <id>https://m.entertain.naver.com/now/article/015/0004993673</id>
-        <link href="https://m.entertain.naver.com/now/article/015/0004993673"/>
-        <updated>2024-06-05T12:26:18.902Z</updated>
-        <content type="html"><![CDATA[가수 이브가 5일 오후 경기도 고양시 MBC 드림센터에서 열린 MBC M '쇼 챔피언' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
     </entry>
 </feed>
