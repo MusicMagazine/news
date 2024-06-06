@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2024-06-06T20:15:34.383Z</updated>
+    <updated>2024-06-06T21:13:59.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[클루니, 바이든의 ICC 영장 비난에 항의…"내 아내도 제재하나"]]></title>
+        <id>https://m.entertain.naver.com/now/article/001/0014732975</id>
+        <link href="https://m.entertain.naver.com/now/article/001/0014732975"/>
+        <updated>2024-06-06T21:13:58.950Z</updated>
+        <content type="html"><![CDATA[아내가 전문가로 참여한 네타냐후 체포영장 비판하자 백악관에 전화 바이든측, 대통령 모금행사 앞두고 불거진 갈등에 클루니 불참 우려 김동현 특파원 = 조 바이든 미국 대통령이 국제형사재판소(ICC)의 이스라엘 지도부]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연상호, 디카프리오와 맞손…첫 美 영화 '35번가']]></title>
         <id>https://m.entertain.naver.com/now/article/003/0012591649</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/001/0014730772"/>
         <updated>2024-06-05T08:16:42.325Z</updated>
         <content type="html"><![CDATA[5일 오후 서울 용산구 CGV용산아이파크몰에서 열린 영화 스타워즈 새 시리즈 '애콜라이트'(The Acolyte) 기자간담회에서 배우 이정재가 질문에 답하고 있다. 2024.6.5]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스타워즈' 주연 맡은 이정재]]></title>
-        <id>https://m.entertain.naver.com/now/article/001/0014730756</id>
-        <link href="https://m.entertain.naver.com/now/article/001/0014730756"/>
-        <updated>2024-06-05T08:16:42.330Z</updated>
-        <content type="html"><![CDATA[배우 이정재가 5일 오후 서울 용산구 CGV용산아이파크몰에서 열린 영화 스타워즈 새 시리즈 '애콜라이트'(The Acolyte) 기자간담회에서 질문에 답하고 있다. 2024.6.5]]></content>
     </entry>
 </feed>
