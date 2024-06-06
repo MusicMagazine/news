@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-06-06T14:14:19.001Z</updated>
+    <updated>2024-06-06T15:19:56.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에스파, ‘Supernova’→‘Armageddon’ 쌍끌이 메가히트]]></title>
+        <id>https://m.entertain.naver.com/now/article/408/0000225769</id>
+        <link href="https://m.entertain.naver.com/now/article/408/0000225769"/>
+        <updated>2024-06-06T15:19:42.657Z</updated>
+        <content type="html"><![CDATA[그룹 에스파(aespa)가 첫 정규 앨범으로 글로벌 메가 히트를 치고 있다. 에스파는 오늘(6일) 발표된 써클 주간 차트(5월 26일~6월 1일)에서 소셜차트 2.0 1위에 랭크되었으며, 정규 1집 더블 타이틀 곡]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NCT 태용, 6.25 참전용사 손자였다.."그날의 희생 기억합니다"]]></title>
         <id>https://m.entertain.naver.com/now/article/108/0003240969</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/108/0003240909"/>
         <updated>2024-06-06T06:20:19.390Z</updated>
         <content type="html"><![CDATA[2PM 이준호가 스타랭킹 남자아이돌 2위를 차지했다. 이준호는 지난 5월 30일 오후 3시 1분부터 6일 오후 3시까지 진행된 5월 5주(136차) 스타랭킹 스타아이돌 남자 랭킹 투표에서 6만5429표를 받아 2위를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지금은 태연천하..김태연, 스타랭킹 女트롯 2위]]></title>
-        <id>https://m.entertain.naver.com/now/article/108/0003240908</id>
-        <link href="https://m.entertain.naver.com/now/article/108/0003240908"/>
-        <updated>2024-06-06T06:20:19.392Z</updated>
-        <content type="html"><![CDATA[가수 김태연이 스타랭킹 스타트롯 여자 랭킹 2위에 이름을 올렸다. 김태연은 지난달 30일 오후 3시 1분부터 6일 오후 3시까지 진행된 5월 5주(147차) 스타랭킹 스타트롯 여자 랭킹 투표에서 2위를 차지했다. 이]]></content>
     </entry>
 </feed>

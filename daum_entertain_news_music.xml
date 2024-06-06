@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-06-06T14:14:18.996Z</updated>
+    <updated>2024-06-06T15:19:56.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에스파, ‘Supernova’→‘Armageddon’ 쌍끌이 메가히트]]></title>
+        <id>https://v.daum.net/v/20240606232442870</id>
+        <link href="https://v.daum.net/v/20240606232442870"/>
+        <updated>2024-06-06T15:19:27.680Z</updated>
+        <content type="html"><![CDATA[그룹 에스파(aespa)가 첫 정규 앨범으로 글로벌 메가 히트를 치고 있다. 에스파는 오늘(6일) 발표된 써클 주간 차트(5월 26일~6월 1일)에서 소셜차트 2.0 1위에 랭크되었으며, 정규 1집 더블 타이틀 곡 ‘Supernova’(슈퍼노바)로 글로벌 K-pop 차트, 디지털 차트, 스트리밍 차트 1위, 정규 1집 ‘Armageddon’으로는 리테일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NCT 태용, 6.25 참전용사 손자였다.."그날의 희생 기억합니다"]]></title>
         <id>https://v.daum.net/v/20240606215556877</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240606154145199"/>
         <updated>2024-06-06T08:20:34.195Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 이승훈 기자] (서울=뉴스1) 김진환 기자 = 가수 장민호가 21일 오후 서울 종로구 경복궁 흥례문 광장에서 열린 ‘2024 국가유산 방문 캠페인 : ‘코리아 온 스테이지’ 무대에서 열정적인 공연을 펼치고 있다.   2020년 처음 선보인 방문 캠페인은 국가유산의 가치를 재발견하고, 아름다움을 널리 알리기 위한 행사다. 올해는 전국 총 76곳]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[못하는 게 없는 이찬원..스타랭킹 男트롯 2위]]></title>
-        <id>https://v.daum.net/v/20240606154143198</id>
-        <link href="https://v.daum.net/v/20240606154143198"/>
-        <updated>2024-06-06T08:20:34.196Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이승훈 기자] [서울=뉴시스] 김혜진 기자 = 가수 이찬원이 21일 오전 서울 영등포구 KBS 신관에서 진행된 KBS2 예능 프로그램 '하이엔드 소금쟁이' 제작발표회에서 포즈를 취하고 있다.  '하이엔드 소금쟁이'는 연예계의 소문난 짠테크 고수인 MC 4인방과 경제 전문가 김경필이 스마트한 소비 노하우와 솔루션을 제공하는 전 국민 부자 메이커]]></content>
     </entry>
 </feed>
