@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2024-06-06T09:15:55.637Z</updated>
+    <updated>2024-06-06T10:15:08.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연상호, 디카프리오와 맞손…첫 美 영화 '35번가']]></title>
+        <id>https://m.entertain.naver.com/now/article/003/0012591649</id>
+        <link href="https://m.entertain.naver.com/now/article/003/0012591649"/>
+        <updated>2024-06-06T10:15:07.917Z</updated>
+        <content type="html"><![CDATA[연상호 감독이 할리우드 배우 레오나르도 디카프리오와 손을 잡았다. 6일 데드라인 등 외신에 따르면, 연 감독은 영화 '35번가'를 제작한다. 첫 영어 프로젝트다. 트라이스타 픽처스가 투자·배급을 맡고, 디카프리오가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['세기의 이혼' 승리한 조니 뎁, '사탄' 된다..은퇴설 불식 [Oh!llywood]]]></title>
         <id>https://m.entertain.naver.com/now/article/109/0005092094</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/001/0014730756"/>
         <updated>2024-06-05T08:16:42.330Z</updated>
         <content type="html"><![CDATA[배우 이정재가 5일 오후 서울 용산구 CGV용산아이파크몰에서 열린 영화 스타워즈 새 시리즈 '애콜라이트'(The Acolyte) 기자간담회에서 질문에 답하고 있다. 2024.6.5]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이정재, 동양인 최초 제다이]]></title>
-        <id>https://m.entertain.naver.com/now/article/001/0014730755</id>
-        <link href="https://m.entertain.naver.com/now/article/001/0014730755"/>
-        <updated>2024-06-05T08:16:42.331Z</updated>
-        <content type="html"><![CDATA[배우 이정재가 5일 오후 서울 용산구 CGV용산아이파크몰에서 열린 영화 스타워즈 새 시리즈 '애콜라이트'(The Acolyte) 기자간담회에서 질문을 듣고 있다. 2024.6.5]]></content>
     </entry>
 </feed>

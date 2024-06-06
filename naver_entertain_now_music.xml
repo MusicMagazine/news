@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-06-06T09:15:55.632Z</updated>
+    <updated>2024-06-06T10:15:08.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NCT 태용, 6.25 참전용사 손자였다 "희생 기억"]]></title>
+        <id>https://m.entertain.naver.com/now/article/003/0012591656</id>
+        <link href="https://m.entertain.naver.com/now/article/003/0012591656"/>
+        <updated>2024-06-06T10:14:55.566Z</updated>
+        <content type="html"><![CDATA[그룹 'NCT' 태용이 6.25 참전용사 손자인 사실이 뒤늦게 알려졌다. 대한민국 해군은 6일 현충일을 맞아 유튜브 채널에 '잊지 않고 늘 기억하겠습니다'라며 영상을 올렸다. 태용은 해군복을 갖춰 있고 현충원을 찾았]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서현, 현충일 맞아 추모 글 “절대 잊지 않겠습니다”]]></title>
         <id>https://m.entertain.naver.com/now/article/468/0001066694</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/144/0000966693"/>
         <updated>2024-06-06T06:20:19.399Z</updated>
         <content type="html"><![CDATA[그룹 TWS(투어스/신유·도훈·영재·한진·지훈·경민)가 오는 24일 미니 2집 선공개곡 ‘헤이! 헤이!’로 본격적인 인기 예열에 나섰다. TWS는 지난 5일 오후 6시 미니 2집 ‘써머 비트(SUMMER BEAT)!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TWS, 선공개곡 ‘hey! hey!’로 글로벌 인기 예열 "반짝반짝 청춘"]]></title>
-        <id>https://m.entertain.naver.com/now/article/109/0005092003</id>
-        <link href="https://m.entertain.naver.com/now/article/109/0005092003"/>
-        <updated>2024-06-06T06:20:19.401Z</updated>
-        <content type="html"><![CDATA[TWS(투어스)가 오는 24일 미니 2집 ‘SUMMER BEAT!’ 발매를 앞두고 선공개곡 ‘hey! hey!’로 본격적인 인기 예열에 나섰다. TWS(신유·도훈·영재·한진·지훈·경민)는 지난 5일 오후 6시 미니]]></content>
     </entry>
 </feed>
