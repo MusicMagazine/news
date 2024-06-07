@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-06-07T18:21:28.933Z</updated>
+    <updated>2024-06-07T19:12:30.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정승환‧김혜선, '닭살 커플' 위기 맞는다(개그콘서트)]]></title>
+        <id>https://m.entertain.naver.com/now/article/477/0000494717</id>
+        <link href="https://m.entertain.naver.com/now/article/477/0000494717"/>
+        <updated>2024-06-07T19:12:17.837Z</updated>
+        <content type="html"><![CDATA['개그콘서트'가 예상을 뛰어넘는 반전 개그로 전 국민의 웃음 충전소 역할을 한다. 오는 9일 방송하는 KBS2 '개그콘서트' 1079회에서는 징검다리 연휴를 즐겁게 마무리할 수 있는 특별한 웃음 릴레이가 펼쳐진다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[록큰롤 밴드 리뎀션즈, EP 선공개 싱글 ‘작은 행성’, ‘파랑새’ 발매]]></title>
         <id>https://m.entertain.naver.com/now/article/144/0000966980</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/144/0000966942"/>
         <updated>2024-06-07T11:16:32.773Z</updated>
         <content type="html"><![CDATA[가수 경서가 일본 데뷔를 기념해 현지 팬들과 첫 만남을 갖는다. 7일 소속사 꿈의엔진은 “경서가 오는 13일 일본 도쿄에서 현지 첫 오프라인 이벤트 ‘별의 식탁(Table of Stars)’을 개최한다”라고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한승우 'SCENE' 발매 기념 컴백 라이브 성료 "곡 작업부터 자켓까지 직접 소통"]]></title>
-        <id>https://m.entertain.naver.com/now/article/112/0003701868</id>
-        <link href="https://m.entertain.naver.com/now/article/112/0003701868"/>
-        <updated>2024-06-07T10:15:04.201Z</updated>
-        <content type="html"><![CDATA[가수 한승우의 첫 번째 싱글앨범 'SCENE(신)'이 글로벌 팬들의 심장을 정조준했다. 한승우는 지난 5일 첫 번째 싱글앨범 'SCENE(신)'을 발표, 발매 직후 전 세계 아이튠즈 송 차트 TOP100에 진입해 남]]></content>
     </entry>
 </feed>
