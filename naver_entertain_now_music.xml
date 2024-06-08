@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-06-08T18:18:14.831Z</updated>
+    <updated>2024-06-08T19:11:26.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["부디 앞으로도 행복합시다"…진 전역, 방탄소년단 '챕터2' 연다]]></title>
+        <id>https://m.entertain.naver.com/now/article/003/0012594155</id>
+        <link href="https://m.entertain.naver.com/now/article/003/0012594155"/>
+        <updated>2024-06-08T19:11:11.683Z</updated>
+        <content type="html"><![CDATA["수년간 우리가 만든 영혼의 교집합 / 함께여서 너무 고맙고 행복합니다 / 부디 앞으로도 행복합시다"(방탄소년단 '테이크 투(take two)' 중) 글로벌 슈퍼 그룹 '방탄소년단'(BTS) 맏형 진(김석진)이 오는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세븐틴 정한X원우, 싱글 1집 타이틀곡은 ‘어젯밤 (Guitar by 박주원)’]]></title>
         <id>https://m.entertain.naver.com/now/article/144/0000967093</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/445/0000204176"/>
         <updated>2024-06-08T09:17:06.037Z</updated>
         <content type="html"><![CDATA[음원 차트에서 호성적을 이어가고 있는 뉴진스(NewJeans)가 음반 판매량으로도 의미 있는 기록을 추가했다. 8일 소속사 어도어(ADOR)에 따르면, 지난달 24일 발매된 뉴진스의 더블 싱글 'How Sweet'가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나영석, 안유진에 속아 '눈물'(뛰뛰빵빵)]]></title>
-        <id>https://m.entertain.naver.com/now/article/477/0000494789</id>
-        <link href="https://m.entertain.naver.com/now/article/477/0000494789"/>
-        <updated>2024-06-08T09:17:06.038Z</updated>
-        <content type="html"><![CDATA[아이브 안유진이 나영석 PD를 울렸다. 안유진은 지난 7일 방송된 tvN 예능프로그램 '지락이의 뛰뛰빵빵'에 출연해 기분 좋은 웃음을 선사했다. 셀프 여행 첫날밤, 이영지가 야심 차게 준비한 '좀비 클럽' 게임 술래]]></content>
     </entry>
 </feed>
