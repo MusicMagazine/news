@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-06-09T19:12:03.875Z</updated>
+    <updated>2024-06-09T20:14:58.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[티아이오티, 대만서 첫 해외 팬콘서트 개최…글로벌 활동 본격 '스타트']]></title>
+        <id>https://m.entertain.naver.com/now/article/477/0000494942</id>
+        <link href="https://m.entertain.naver.com/now/article/477/0000494942"/>
+        <updated>2024-06-09T20:14:47.424Z</updated>
+        <content type="html"><![CDATA[그룹 티아이오티(TIOT)가 대만 현지 팬들에게 소중한 추억을 선물한다. 티아이오티(김민성, 금준현, 홍건희, 최우진, 신예찬)는 오는 7월 27일 대만 타이베이 클래퍼 스튜디오에서 2024 티아이오티 팬콘서트 '티]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["순찰 돌다가"..제복 BTS 뷔, 빅마마에 90도 경례 '깜짝'[스타이슈]]]></title>
         <id>https://m.entertain.naver.com/now/article/108/0003241568</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/144/0000967169"/>
         <updated>2024-06-09T10:15:00.219Z</updated>
         <content type="html"><![CDATA[그룹 에이티즈(ATEEZ)가 계속해서 눈부신 ‘골든 아워’를 이어간다. 에이티즈는 9일 방송된 SBS ‘케이 웨이브 콘서트 인기가요(K-WAVE 콘서트 인기가요)’ 에 출연하여 무대를 펼쳤다. 이날 무대에 오른 에이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이티즈, 무대로 입증한 이유 있는 ‘골든 아워’]]></title>
-        <id>https://m.entertain.naver.com/now/article/241/0003356044</id>
-        <link href="https://m.entertain.naver.com/now/article/241/0003356044"/>
-        <updated>2024-06-09T10:15:00.220Z</updated>
-        <content type="html"><![CDATA[그룹 에이티즈가 눈부신 ‘골든 아워’를 이어간다. 에이티즈는 9일 방송된 SBS ‘케이 웨이브 콘서트 인기가요’에 출연해 무대를 펼쳤다. 무대에 오른 에이티즈는 미니 10집 타이틀곡 ‘워크’와 미니 9집 ‘더 월드]]></content>
     </entry>
 </feed>
