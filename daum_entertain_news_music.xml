@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-06-09T14:12:19.626Z</updated>
+    <updated>2024-06-09T15:18:38.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["나는 나만이 정의"하게 되는 특별한 공간]]></title>
+        <id>https://v.daum.net/v/20240610000107452</id>
+        <link href="https://v.daum.net/v/20240610000107452"/>
+        <updated>2024-06-09T15:18:10.902Z</updated>
+        <content type="html"><![CDATA[팝업 스토어에서 체험한 현실과 가상의 경계 "분위기만으로도 '아 이게 에스파'라고 체감" 걸그룹 에스파(aespa)가 정규 1집 'Armageddon(아마겟돈)'으로 대폭발을 일으켰다. 음원차트 1위를 질주 중인 곡 'Supernova(슈퍼노바)'가 엄청나게 밝은 빛을 내는 '초신성'을 의미하는데 지금의 에스파를 딱 '슈퍼에스파노바'라 할 만하다. 에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['대주주 100억 사기 고소' 강다니엘, 소속사 폐업 심경 "아쉽고 애석한 마음"]]></title>
         <id>https://v.daum.net/v/20240609230222148</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240609170311577"/>
         <updated>2024-06-09T10:14:45.578Z</updated>
         <content type="html"><![CDATA[밴드 hey1996(헤이일구구육)이 새 싱글 ‘hey1996 로맨스 No.3’을 발표했다. h박영원(보컬, 기타), 김영곤(드럼), 전태상(피아노), 이주영(베이스)으로 구성된 hey1996은 9일 정오 새 싱글 ‘hey1996 로맨스 No.3’을 공개했다. 이번 신보는 전작 ‘hey1996 로맨스 No.1’과 ‘hey1996 로맨스 No.2’의 음]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘뉴진스파’ 이게 돼? ‘챌린지 품앗이’로 분위기 화끈, 밟지 않고 우정 다지는 걸그룹]]></title>
-        <id>https://v.daum.net/v/20240609170157520</id>
-        <link href="https://v.daum.net/v/20240609170157520"/>
-        <updated>2024-06-09T10:14:45.580Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 함상범 기자] 어른들의 다툼과 무관하게 그룹 에스파와 뉴진스는 우정을 이어가고 있다. 서로의 음악으로 댄스 챌린지에 도전하면서 시끄러운 상황 속에서도 변함없는 우정을 과시하고 있다. 지난 8일 에스파와 뉴진스 공식 계정에는 댄스 챌린지 영상이 게재됐다. 공개된 영상에서 에스파 윈터와 닝닝은 뉴진스 하니, 다니엘과 함께 뉴진스의 더블 싱]]></content>
     </entry>
 </feed>
