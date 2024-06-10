@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jun 2024 05:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jun 2024 06:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시그니처의 여름매력에 “풍덩~”... 다섯 번째 EP ‘Sweetie but Saltie’ 발매]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=319233</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=319233</guid>
+            <pubDate>Mon, 10 Jun 2024 06:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=319233">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240610145618_ace0ea998f4e4634f8c6f88e76c051d6.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=319233">시그니처의 여름매력에 “풍덩~”... 다섯 번째 EP ‘Sweetie but Saltie’ 발매</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240610145618_ace0ea998f4e4634f8c6f88e76c051d6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트와이스 나연,  서머퀸 컴백.. 14일  미니 2집 'NA' 발표]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=318905</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=316477">멕시코로 간 라이즈,  ‘테카테 엠블레마’ 페스티벌 &amp; 팬콘 성황!</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240519080158_6310cde7339b28e7f54332f7eff3a965.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인피니트, 7년만에 '무한대집회' 개최...6월 9일 신곡 발매]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=316090</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=316090</guid>
-            <pubDate>Fri, 17 May 2024 22:14:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=316090">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240517074239_25bc24963896a183125cb98ecc2753e0.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=316090">인피니트, 7년만에 '무한대집회' 개최...6월 9일 신곡 발매</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240517074239_25bc24963896a183125cb98ecc2753e0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
