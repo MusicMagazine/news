@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jun 2024 00:57:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jun 2024 02:36:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이봉련, 연극 '햄릿' 출연... "햄릿 공주 변신!"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=319385</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=319385</guid>
+            <pubDate>Tue, 11 Jun 2024 02:35:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=319385">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240611103446_fb9aeaf8a3ca616c2a0e04db83e687c5.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=319385">이봉련, 연극 '햄릿' 출연... "햄릿 공주 변신!"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240611103446_fb9aeaf8a3ca616c2a0e04db83e687c5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MBC, 스튜디오 ‘모스트267’ 설립... 외부 파트너 및 크리에이터들과 협업]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=319354</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=317636">변우석, ‘선재 업고 튀어’ 종영소감... “꿈 같은 작품…내게 와줘서 고마워”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240529091651_a19272b74500c50fb7d508f2f6b59152.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 '스쁘라브카-열람' 개막.. 안톤 체홉의 풍자극]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=317612</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=317612</guid>
-            <pubDate>Tue, 28 May 2024 23:14:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=317612">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240529075828_d07ebaa2017f73ec0b24bca1bba4981e.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=317612">연극 '스쁘라브카-열람' 개막.. 안톤 체홉의 풍자극</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240529075828_d07ebaa2017f73ec0b24bca1bba4981e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
