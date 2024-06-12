@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2024-06-12T18:17:55.864Z</updated>
+    <updated>2024-06-12T20:13:57.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전역 신고하는 방탄소년단(BTS) 진]]></title>
+        <id>https://m.entertain.naver.com/now/article/382/0001131524</id>
+        <link href="https://m.entertain.naver.com/now/article/382/0001131524"/>
+        <updated>2024-06-12T20:13:50.836Z</updated>
+        <content type="html"><![CDATA[방탄소년단(BTS) 멤버 진이 12일 경기 연천 5보병사단 신병교육대대에서 전역하며 취재진을 향해 경례하고 있다. 연천 ｜]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최현우 "로또 1등 맞혀 고소 당할 뻔, 앞으로 사지 말라더라" ('라스')]]></title>
         <id>https://m.entertain.naver.com/now/article/076/0004156009</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/009/0005318016"/>
         <updated>2024-06-12T14:14:31.629Z</updated>
         <content type="html"><![CDATA[‘신랑수업’ 김동완와 서윤아가 해외 여행을 예고했다. 12일 방송된 채널A 예능프로그램 ‘요즘 남자 라이프-신랑수업’(이하 ‘신랑수업)에서는 김동완과 서윤아가 숲속에 위치한 찜질방에서 힐링을 만끽하는 모습이 그려졌다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[류수영 "♥박하선과 부부싸움, 요리해주면 풀린다..제육볶음은 질려서 안먹어" ('유퀴즈')[종합]]]></title>
-        <id>https://m.entertain.naver.com/now/article/076/0004155979</id>
-        <link href="https://m.entertain.naver.com/now/article/076/0004155979"/>
-        <updated>2024-06-12T14:14:31.631Z</updated>
-        <content type="html"><![CDATA['어남선생'이자 배우 류수영이 그의 요리 인생과 '시식단' 아내 박하선에 대해 이야기 했다. 12일 방송된 tvN '유 퀴즈 온 더 블럭'에서 '장안의 화제' 특집이 펼쳐졌다. 1억뷰 레시피의 주인공, 배우 류수영은]]></content>
     </entry>
 </feed>
