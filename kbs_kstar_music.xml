@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jun 2024 02:02:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jun 2024 02:37:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김준수컴백... ‘스물한 번째 계절이 널 기다릴 테니까’ 발매]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=319502</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=319502</guid>
+            <pubDate>Wed, 12 Jun 2024 02:36:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=319502">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240612111003_6448e180ee508b88869dc95ec5379c3c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=319502">김준수컴백... ‘스물한 번째 계절이 널 기다릴 테니까’ 발매</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240612111003_6448e180ee508b88869dc95ec5379c3c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[케플러, 일본 첫 정규앨범 'Kep1going' 日 레코드협회 '골드' 인증]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=319281</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=316721">뉴진스 신곡 ‘How Sweet’.. "힙합~"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240521084406_c257d8615faefb8224862fd9d64472c2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[규현, 아시아 8개 지역 투어 'Restart' 성료]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=316483</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=316483</guid>
-            <pubDate>Sun, 19 May 2024 21:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=316483">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240519080517_201d253c45fd0bc380029416033f9af3.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=316483">규현, 아시아 8개 지역 투어 'Restart' 성료 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240519080517_201d253c45fd0bc380029416033f9af3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
