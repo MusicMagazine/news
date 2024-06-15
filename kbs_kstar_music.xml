@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jun 2024 23:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jun 2024 00:59:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레드벨벳 ‘Cosmic’.. 24일 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=319769</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=319769</guid>
+            <pubDate>Sat, 15 Jun 2024 00:58:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=319769">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240614135206_796cb2bcc7d4cb21f111eb11a675464a.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=319769">레드벨벳 ‘Cosmic’.. 24일 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240614135206_796cb2bcc7d4cb21f111eb11a675464a.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[트와이스 나연, 미니2집 'NA' 오늘 발매]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=319791</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=317454">시그니처, 다섯 번째 EP ‘Sweetie but Saltie’  콘셉트 포토 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240528090536_cbfb539793ff4f40bce72ffad6da775f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤하, 5년 만에 소극장 콘서트 '潤夏 : 빛나는 여름'  8회 출격]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=317447</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=317447</guid>
-            <pubDate>Tue, 28 May 2024 00:56:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=317447">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240528085951_a00b4a0a720992ce0276efd10f49e5a6.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=317447">윤하, 5년 만에 소극장 콘서트 '潤夏 : 빛나는 여름'  8회 출격</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240528085951_a00b4a0a720992ce0276efd10f49e5a6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
