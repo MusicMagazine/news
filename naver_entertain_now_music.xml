@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-06-15T15:18:37.315Z</updated>
+    <updated>2024-06-15T16:18:25.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단 RM "오랜만에 만난 멤버들, 사무치게 보고 싶었다"]]></title>
+        <id>https://m.entertain.naver.com/now/article/003/0012608427</id>
+        <link href="https://m.entertain.naver.com/now/article/003/0012608427"/>
+        <updated>2024-06-15T16:18:14.537Z</updated>
+        <content type="html"><![CDATA[글로벌 슈퍼 그룹 '방탄소년단'(BTS) 리더 RM(김남준)이 데뷔 11주년 소감을 밝혔다. RM은 지난 15일 팬 공식 커뮤니티 플랫폼 위버스를 통해 "얼마 전 (데뷔) 11주년이었는데 정신없다는 핑계로 짧은 글]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘악뮤’ 콘서트 뜬 이효리 ‘핫걸’ 소환]]></title>
         <id>https://m.entertain.naver.com/now/article/144/0000968705</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/108/0003243033"/>
         <updated>2024-06-15T09:16:12.327Z</updated>
         <content type="html"><![CDATA[가수 케이윌(K.will)이 타이틀곡의 다채로운 콘텐츠로 컴백 열기를 달궜다. 소속사 스타쉽엔터테인먼트는 지난 14일 공식 SNS를 통해 케이윌의 일곱 번째 미니 앨범 '올 더 웨이(All The Way)'의 타이틀]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴진스, ‘음중’ 2주 연속 1위..나연·선미 화려한 컴백]]></title>
-        <id>https://m.entertain.naver.com/now/article/410/0001005497</id>
-        <link href="https://m.entertain.naver.com/now/article/410/0001005497"/>
-        <updated>2024-06-15T09:16:12.330Z</updated>
-        <content type="html"><![CDATA[뉴진스가 MBC ‘쇼! 음악중심’에서 2주 연속 1위를 차지했다. 15일 방송된 ‘쇼! 음악중심’에서 뉴진스는 방송 출연 없이도 신곡 ‘How Sweet’로 아이브와 에스파를 제치고 1위를 기록하며 높은 인기를 증명]]></content>
     </entry>
 </feed>
