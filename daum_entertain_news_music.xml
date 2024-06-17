@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-06-17T14:13:46.359Z</updated>
+    <updated>2024-06-17T15:16:33.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔데믹 이후 성장한 공연 시장…젊은 관객층의 증가]]></title>
+        <id>https://v.daum.net/v/20240618000104770</id>
+        <link href="https://v.daum.net/v/20240618000104770"/>
+        <updated>2024-06-17T15:16:04.013Z</updated>
+        <content type="html"><![CDATA[2024년 상반기에만 20여 개 대중음악 페스티벌 열려 "밴드 찾는 곳 많아지며 개런티도 높아지는 추세" '밴드 붐은 온다.' 록 음악팬들 사이에서 주문처럼 외우던 말이 현실이 돼가는 모양새다. 긴 시간 대중적인 인기를 얻지 못한 록 음악이 최근 대세 흐름을 타는 분위기다. 이에 국내 밴드 음악의 인기에 대해 조명하고 업계의 다양한 이야기를 들어본다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘글로벌 루키’ 엔싸인, 영화로 만난다!]]></title>
         <id>https://v.daum.net/v/20240617225225262</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240617192902256"/>
         <updated>2024-06-17T12:26:07.779Z</updated>
         <content type="html"><![CDATA[[텐아시아=김지원 기자] 그룹 라이즈가 다시 한번 악기 콘셉트로 컴백, 커리어 하이를 향해 달린다. 라이즈는 17일 서울 용산구 블루스퀘어 마스터카드홀에서 첫 미니앨범 'RIIZING'(라이징) 발매 기념 프리미어를 개최했다. 기타, 색소폰, 그다음은 베이스다. 라이즈는 'Get A Guitar'(겟 어 기타), 'Talk Saxy'(토크 색시)에 이어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HK직캠｜이븐 박지후, '귀여움 가득한 모습'… 수록곡 'I ＜3 U ' 무대]]></title>
-        <id>https://v.daum.net/v/20240617190602909</id>
-        <link href="https://v.daum.net/v/20240617190602909"/>
-        <updated>2024-06-17T10:15:30.524Z</updated>
-        <content type="html"><![CDATA[그룹 이븐(EVNNE) 박지후가 17일 오후 서울 광장동 예스24라이브홀에서 열린 세 번째 미니 앨범 ‘RIDE or DIE(라이드 오어 다이)’ 발매 기념 쇼케이스에 참석해 공연을 펼치고 있다. 타이틀곡 ‘Badder Love(배더 러브)'는 아날로그 베이스와 시원한 기타 사운드가 결합된 신스웨이브 장르로, 아름다운 보컬 선율을 극대화하는 리듬과 청량한]]></content>
     </entry>
 </feed>

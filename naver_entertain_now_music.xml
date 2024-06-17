@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-06-17T14:13:46.377Z</updated>
+    <updated>2024-06-17T15:16:33.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[밴드 붐은 왔다②] 엔데믹 이후 성장한 공연 시장…젊은 관객층의 증가]]></title>
+        <id>https://m.entertain.naver.com/now/article/629/0000296683</id>
+        <link href="https://m.entertain.naver.com/now/article/629/0000296683"/>
+        <updated>2024-06-17T15:16:21.180Z</updated>
+        <content type="html"><![CDATA[2024년 상반기에만 20여 개 대중음악 페스티벌 열려 "밴드 찾는 곳 많아지며 개런티도 높아지는 추세" '밴드 붐은 온다.' 록 음악팬들 사이에서 주문처럼 외우던 말이 현실이 돼가는 모양새다. 긴 시간 대중적인 인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘글로벌 루키’ 엔싸인(n.SSign), 영화로 만난다!]]></title>
         <id>https://m.entertain.naver.com/now/article/144/0000969117</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/468/0001069547"/>
         <updated>2024-06-17T12:26:23.484Z</updated>
         <content type="html"><![CDATA[가수 화사. 사진 | 피네이션 가수 화사(HWASA)가 타이베이를 뜨겁게 달궜다. 화사는 지난 16일 오후 대만 타이베이에서 ‘HWASA the 1st FANCON TOUR [Twits] in Taipei (화사 첫]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘2024 월드 디제이 페스티벌’ 성황리 종료···9만 관객 동원]]></title>
-        <id>https://m.entertain.naver.com/now/article/144/0000969100</id>
-        <link href="https://m.entertain.naver.com/now/article/144/0000969100"/>
-        <updated>2024-06-17T12:26:23.486Z</updated>
-        <content type="html"><![CDATA[지난 15일부터 16일까지 과천 서울랜드에서 진행된 ‘2024 월드 디제이 페스티벌 / 이하 2024 월디페’이 ‘에릭 프리즈(Eric prydz)’, ‘체인스모커스(The Chainsmokers)’, ‘알렌 워커(]]></content>
     </entry>
 </feed>
