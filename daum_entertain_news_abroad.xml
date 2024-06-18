@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-06-18T15:16:25.855Z</updated>
+    <updated>2024-06-18T16:17:43.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 팝스타 저스틴 팀버레이크…음주운전으로 경찰 체포]]></title>
+        <id>https://v.daum.net/v/20240619005406860</id>
+        <link href="https://v.daum.net/v/20240619005406860"/>
+        <updated>2024-06-18T16:17:25.602Z</updated>
+        <content type="html"><![CDATA[미국 인기 보이그룹 '엔싱크(N Sync)' 출신 팝스타 저스틴 팀버레이크가 음주운전 혐으로 체포됐다. 18일(이하 현지시간) AP통신 등 외신에 따르면, 팀버레이크는 전날 미국 뉴욕 주 롱아일랜드 동쪽 끝 새그 하버(Sag Harbor)에서 음주운전 혐의로 경찰에 붙잡혔다. 이와 관련 AP통신이 팀버레이크 측에 입장을 요청했으나 그의 대변인은 따로 응답]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[팝스타 저스틴 팀버레이크, 만취 음주운전 혐의로 기소]]></title>
         <id>https://v.daum.net/v/20240618235521215</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240618170752281"/>
         <updated>2024-06-18T08:19:57.232Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] '해리 포터'로 유명한 다니엘 래드클리프가 토니상 남우주연상을 수상하는 영광을 안았다. 다니엘 래드클리프는 6월 16일(현지시간) 미국 뉴욕에서 열린 제77회 토니 어워즈에서 뮤지컬 '메릴리 위 롤 어롱(Merrily We Roll Along)'으로 뮤지컬 부문 남우주연상을 수상했다. 이는 다니엘 래드클래프의 첫 토니 어워즈 수상이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘간달프’ 이안 맥켈런, 공연 중 추락 사고→병원行]]></title>
-        <id>https://v.daum.net/v/20240618151905821</id>
-        <link href="https://v.daum.net/v/20240618151905821"/>
-        <updated>2024-06-18T07:15:02.966Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] '반지의 제왕'으로 유명한 이안 맥켈런(85)이 큰 부상을 당했다. 6월 17일(현지시간) BBC, 페이지식스에 따르면 이안 맥켈런은 이날 영국 런던 한 극장에서 진행된 '플레이어 킹스' 공연 중 무대 아래로 떨어지는 사고를 당했다. 목격자들은 이안 맥켈런이 싸우는 장면을 연기하다 무대 앞으로 떨어졌고 고통에 울부짖었다고 전했다]]></content>
     </entry>
 </feed>

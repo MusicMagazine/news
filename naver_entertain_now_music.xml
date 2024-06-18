@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-06-18T15:16:25.908Z</updated>
+    <updated>2024-06-18T16:17:43.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[케플러, 9인 마지막 콘서트 ‘Kep1going’···한국 포함 20개 국가·지역 라이브 생중계]]></title>
+        <id>https://m.entertain.naver.com/now/article/144/0000969430</id>
+        <link href="https://m.entertain.naver.com/now/article/144/0000969430"/>
+        <updated>2024-06-18T16:17:31.804Z</updated>
+        <content type="html"><![CDATA[걸그룹 케플러(Kep1er)가 9인조 마지막 일본 콘서트를 7월 개최하며 글로벌 팬들과 만난다. 케플러(최유진, 샤오팅, 마시로, 김채현, 김다연, 히카루, 휴닝바히에, 서영은, 강예서)는 오는 7월 13일부터 15]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[멜론, 전문가들의 대중음악 큐레이션 ‘에디션M’ 론칭···임진모, 정민재, 김도헌, 김윤하 등 14명 국내 대표 음악평론가 참여]]></title>
         <id>https://m.entertain.naver.com/now/article/144/0000969427</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/109/0005100193"/>
         <updated>2024-06-18T11:12:34.781Z</updated>
         <content type="html"><![CDATA[그룹 WayV(웨이션브이)가 첫 단독 콘서트 투어를 개최하고 활발한 글로벌 활동에 박차를 가한다. WayV는 오는 8월 17~18일 나고야에서 ‘2024 WayV CONCERT [ON THE Way]’(2024 웨이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서인국X안재현, 케이윌 신곡 MV서 12년만 재회…파격 스토리]]></title>
-        <id>https://m.entertain.naver.com/now/article/018/0005767626</id>
-        <link href="https://m.entertain.naver.com/now/article/018/0005767626"/>
-        <updated>2024-06-18T11:12:34.782Z</updated>
-        <content type="html"><![CDATA[보컬리스트 케이윌(K.will)의 신곡 뮤직비디오를 위해 배우 서인국과 안재현이 뭉쳤다. 소속사 스타쉽엔터테인먼트는 18일 케이윌 공식 SNS를 통해 일곱 번째 미니 앨범 ‘올 더 웨이(All The Way)’의 타]]></content>
     </entry>
 </feed>
