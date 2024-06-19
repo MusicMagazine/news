@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-06-19T17:15:46.754Z</updated>
+    <updated>2024-06-19T18:17:46.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인디밴드 나로틱, 25일 EP ‘AT LAST part 1.’ 발매]]></title>
+        <id>https://m.entertain.naver.com/now/article/144/0000969710</id>
+        <link href="https://m.entertain.naver.com/now/article/144/0000969710"/>
+        <updated>2024-06-19T18:17:32.888Z</updated>
+        <content type="html"><![CDATA[인디밴드 나로틱이 EP ‘AT LAST part 1.’를 발매한다. 나로틱은 최근 연이은 싱글 발매에 이어 오는 25일 콘셉트 앨범으로 새로운 EP를 발매한다고 전했다. 이번 정규 2집은 그들이 처음으로 준비하는 스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[나의 인생곡(170)] 김현식 '내 사랑 내곁에', 가요계 최고 명곡]]></title>
         <id>https://m.entertain.naver.com/now/article/629/0000297416</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/241/0003358671"/>
         <updated>2024-06-19T11:16:51.969Z</updated>
         <content type="html"><![CDATA[가수 임영웅이 남자 솔로 가수 최초로 100억 스트리밍 기록을 세웠다. 19일 국내 음악 플랫폼 멜론 집계에 따르면, 임영웅은 이날 누적 스트리밍수 100억회를 돌파, 다이아 클럽에 입성했다. 방탄소년단에 이어 두]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임영웅·아이유·방탄소년단·나훈아·뉴진스, 한국인이 좋아하는 가수]]></title>
-        <id>https://m.entertain.naver.com/now/article/003/0012617013</id>
-        <link href="https://m.entertain.naver.com/now/article/003/0012617013"/>
-        <updated>2024-06-19T11:16:51.969Z</updated>
-        <content type="html"><![CDATA[임영웅, 아이유(IU), 방탄소년단(BTS)이 한국인이 가장 좋아하는 가수라는 조사결과가 나왔다. 19일 한국갤럽이 올해 3월22일부터 4월5일까지 전국(제주 제외) 만 13세 이상 1777명에게 가장 좋아하는 가수]]></content>
     </entry>
 </feed>
