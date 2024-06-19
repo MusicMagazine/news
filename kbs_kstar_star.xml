@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jun 2024 22:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jun 2024 02:01:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[창작뮤지컬 ‘버지니아 울프’..호평 속 순항 중]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=320572</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=320572</guid>
+            <pubDate>Wed, 19 Jun 2024 02:01:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=320572">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240619090808_f9b6539fe2688d28a337a56caf88a817_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=320572">창작뮤지컬 ‘버지니아 울프’..호평 속 순항 중</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240619090808_f9b6539fe2688d28a337a56caf88a817_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신춘수 프로듀서 브로드웨이 뮤지컬 '위대한 개츠비', 토니어워즈 의상상 수상]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=320459</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=318342">‘플레이리스트’, 제작사 ‘쇼트케이크’ 인수.. </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240604090718_5e29519810a8e9adbf02f0e6f450e0cb.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이제훈 팬미팅 [JEHOON’s Favorite] 성료]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=318348</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=318348</guid>
-            <pubDate>Tue, 04 Jun 2024 02:01:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=318348">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240604085600_dc40e61c06f01ddf8c54f0a7e5e7507f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=318348">이제훈 팬미팅 [JEHOON’s Favorite] 성료</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240604085600_dc40e61c06f01ddf8c54f0a7e5e7507f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
