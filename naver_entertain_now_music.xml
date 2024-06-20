@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-06-20T16:21:34.651Z</updated>
+    <updated>2024-06-20T18:18:50.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에이티즈(ATEEZ) 미니 10집, 글로벌 차트서 인기몰이]]></title>
+        <id>https://m.entertain.naver.com/now/article/144/0000969992</id>
+        <link href="https://m.entertain.naver.com/now/article/144/0000969992"/>
+        <updated>2024-06-20T18:18:37.492Z</updated>
+        <content type="html"><![CDATA[에이티즈(ATEEZ)의 세계적 인기몰이가 여전히 뜨겁다. 에이티즈는 지난달 31일 미니 10집 ‘골든 아워 : 파트 1(GOLDEN HOUR : Part.1)’을 발매하고, 다양한 글로벌 차트를 휩쓸며 인기를 이어가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스트레이 키즈, 7월 컴백 신보 ‘ATE’ 타임테이블 공개]]></title>
         <id>https://m.entertain.naver.com/now/article/144/0000969980</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/144/0000969925"/>
         <updated>2024-06-20T10:17:59.041Z</updated>
         <content type="html"><![CDATA[아이돌그룹 올아워즈(ALL(H)OURS)가 신인의 패기를 가득 담은 앨범으로 출격한다. 올아워즈(건호, 유민, 제이든, 민제, 마사미, 현빈, 온)는 20일 SNS를 통해 두 번째 미니앨범 ‘WITNESS(위트니스)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가수 윤나긋 프로듀싱 음원, ‘흰꽃’ 21일 발매]]></title>
-        <id>https://m.entertain.naver.com/now/article/144/0000969923</id>
-        <link href="https://m.entertain.naver.com/now/article/144/0000969923"/>
-        <updated>2024-06-20T10:17:59.044Z</updated>
-        <content type="html"><![CDATA[그동안 섬세한 가사로 리스너에게 잔잔한 감동을 주는 가수 윤나긋이 프로듀싱 제작자로 변신했다. 21일 음원으로 발표하는 ‘흰 꽃’에는 윤나긋이 가수로 경험했던 경험들을 이번 음원에 온 힘을 기울였다. 여름 노래는 즐]]></content>
     </entry>
 </feed>
