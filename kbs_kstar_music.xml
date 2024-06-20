@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jun 2024 21:18:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jun 2024 22:15:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[규빈, 싱글 'Satellite' 콘셉트포토 'Retro Pop' 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=320624</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=320624</guid>
+            <pubDate>Thu, 20 Jun 2024 22:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=320624">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240619094139_e3ffd762a6bdcccf270132688e195da2.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=320624">규빈, 싱글 'Satellite' 콘셉트포토 'Retro Pop' 공개 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240619094139_e3ffd762a6bdcccf270132688e195da2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[XG, 첫 월드투어 ‘The First HOWL’ 전석 매진]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=320603</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=320159">르세라핌, ‘위버스콘 페스티벌’ 첫날 무대.. 히트곡 퍼레이드</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240616124007_8f8bbd850ad98066d99adb9b6e69d208.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[&TEAM(앤팀),  위버스콘  페스티벌 달구다]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=320152</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=320152</guid>
-            <pubDate>Sun, 16 Jun 2024 04:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=320152">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240616123334_32b2a13d3b41ce7b2465425cd1e9f5fa.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=320152">&amp;TEAM(앤팀),  위버스콘  페스티벌 달구다</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240616123334_32b2a13d3b41ce7b2465425cd1e9f5fa.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
