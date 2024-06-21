@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-06-21T15:18:52.183Z</updated>
+    <updated>2024-06-21T16:17:41.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘미스쓰리랑’ 김소연, 군가부터 웨이브까지 ‘차세대 군통령’ 예고]]></title>
+        <id>https://m.entertain.naver.com/now/article/144/0000970258</id>
+        <link href="https://m.entertain.naver.com/now/article/144/0000970258"/>
+        <updated>2024-06-21T16:17:28.278Z</updated>
+        <content type="html"><![CDATA[가수 김소연이 차세대 ‘군통령’의 매력을 발산했다. 김소연은 지난 20일 방송된 TV조선 ‘미스쓰리랑’에 출연해 ‘대장님 대장님 우리 대장님’ 특집을 꾸몄다. 방송에서 김소연은 미(美)팀 대표로 출전해 3라운드에 임]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블리처스, 실력으로 인정받기까지[TF인터뷰]]]></title>
         <id>https://m.entertain.naver.com/now/article/629/0000298134</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/144/0000970216"/>
         <updated>2024-06-21T12:25:24.024Z</updated>
         <content type="html"><![CDATA[걸그룹 에버글로우(EVERGLOW)가 강렬한 무대로 ‘뮤직뱅크’를 중독시켰다. 에버글로우(이유, 시현, 미아, 온다, 아샤, 이런)는 21일 방송된 KBS 2TV ‘뮤직뱅크’에 출연해 다섯 번째 싱글 앨범 ‘ZOMB]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현빈 발목 부상…파우, 결국 차기 앨범 발매 일정 연기]]></title>
-        <id>https://m.entertain.naver.com/now/article/410/0001006956</id>
-        <link href="https://m.entertain.naver.com/now/article/410/0001006956"/>
-        <updated>2024-06-21T12:25:24.026Z</updated>
-        <content type="html"><![CDATA[보이그룹 파우(POW)가 멤버 현빈의 발목 부상으로 차기 앨범 발매 일정을 연기한다. 21일 소속사 그리드 엔터테인먼트는 “파우 멤버 현빈은 최근 컴백을 앞두고 신곡 안무 연습을 진행하던 중 발목을 접질려 병원에 내]]></content>
     </entry>
 </feed>
