@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-06-21T17:19:03.203Z</updated>
+    <updated>2024-06-21T18:19:10.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘글로벌 커리어 하이’ 에이스(A.C.E), 美 단독 콘서트 첫 공연 성료···본격 여정 시작]]></title>
+        <id>https://m.entertain.naver.com/now/article/144/0000970265</id>
+        <link href="https://m.entertain.naver.com/now/article/144/0000970265"/>
+        <updated>2024-06-21T18:18:57.357Z</updated>
+        <content type="html"><![CDATA[아이돌그룹 에이스(A.C.E)가 북미 투어를 성공적으로 출발했다. 에이스(박준희, 이동훈, 와우, 김병관, 강유찬)는 지난 19일(이하 현지 시간) 미국 매디슨(위스콘신 주) 오르페움 극장(Orpheum Theate]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘미스쓰리랑’ 김소연, 군가부터 웨이브까지 ‘차세대 군통령’ 예고]]></title>
         <id>https://m.entertain.naver.com/now/article/144/0000970258</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/144/0000970218"/>
         <updated>2024-06-21T12:25:24.022Z</updated>
         <content type="html"><![CDATA[아이돌그룹 ONE PACT(원팩트)가 ’뮤직뱅크‘에서 대체불가한 무대로 시크한 매력을 발산했다. 원팩트는 21일 방송이 된 KBS2 ’뮤직뱅크‘에 출연해, 첫 번째 싱글 앨범 ’PARADOXX(패러독스)‘의 타이틀곡]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘뮤직뱅크’ 에버글로우, 시원한 서머송 ‘ZOMBIE’]]></title>
-        <id>https://m.entertain.naver.com/now/article/144/0000970216</id>
-        <link href="https://m.entertain.naver.com/now/article/144/0000970216"/>
-        <updated>2024-06-21T12:25:24.024Z</updated>
-        <content type="html"><![CDATA[걸그룹 에버글로우(EVERGLOW)가 강렬한 무대로 ‘뮤직뱅크’를 중독시켰다. 에버글로우(이유, 시현, 미아, 온다, 아샤, 이런)는 21일 방송된 KBS 2TV ‘뮤직뱅크’에 출연해 다섯 번째 싱글 앨범 ‘ZOMB]]></content>
     </entry>
 </feed>
