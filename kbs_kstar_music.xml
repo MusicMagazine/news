@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jun 2024 11:10:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jun 2024 12:26:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지민, 기타 들다... 새 앨범 'MUSE' 콘셉트 포토]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=321181</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=321181</guid>
+            <pubDate>Sun, 23 Jun 2024 12:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=321181">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240623210034_b1294b92f6b0c97483026bb4dfd31aa1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=321181">지민, 기타 들다... 새 앨범 'MUSE' 콘셉트 포토</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240623210034_b1294b92f6b0c97483026bb4dfd31aa1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘데뷔 10주년’ 레드벨벳, 새 앨범 ‘Cosmic’ 24일 컴백]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=321108</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=320247">김재중, ‘데뷔 20주년’ 서울 단독 콘서트 ‘"FLOWER GARDEN" </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240617081432_16f06922f8bc83742a5dc0b72e3fe108.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스테이씨, 7월 1일 컴백.. 정규 1집 'Metamorphic']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=319795</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=319795</guid>
-            <pubDate>Sun, 16 Jun 2024 22:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=319795">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240614165538_1c43f0e2fd84cd0e3383ee2ac60293d1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=319795">스테이씨, 7월 1일 컴백.. 정규 1집 'Metamorphic'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240614165538_1c43f0e2fd84cd0e3383ee2ac60293d1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
