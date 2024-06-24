@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jun 2024 22:18:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jun 2024 01:00:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 '헤드윅' 14번 째 시즌 폐막... 조정석, 유연석, 전동석의 전율]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=321278</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=321278</guid>
+            <pubDate>Mon, 24 Jun 2024 00:59:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=321278">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240624094157_b35e0eacf231f01a0670b1a86c08b3aa_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=321278">뮤지컬 '헤드윅' 14번 째 시즌 폐막... 조정석, 유연석, 전동석의 전율</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240624094157_b35e0eacf231f01a0670b1a86c08b3aa_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[진기주, MBC ‘언더커버 하이스쿨’ 캐스팅... ‘사제공조 로맨틱코미디’]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=320668</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=319632">티빙 ‘나.대.신.꿈’ 이준영, “재벌 8세, 프린스 문차민의 매력이란~”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240613120451_4b5f2113644050e13d8f1cc8a7edddc1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 전도연의 새로운 세계 “송도영의 집” (연극 ‘벚꽃동산’)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=319568</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=319568</guid>
-            <pubDate>Thu, 13 Jun 2024 01:59:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=319568">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240613101002_bba00c5020d5880b5d97a1b40abf2bc1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=319568">[인터뷰] 전도연의 새로운 세계 “송도영의 집” (연극 ‘벚꽃동산’)</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240613101002_bba00c5020d5880b5d97a1b40abf2bc1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
