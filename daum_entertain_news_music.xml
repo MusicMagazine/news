@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-06-24T15:17:06.565Z</updated>
+    <updated>2024-06-24T16:16:21.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[웨스트라이프 내한공연, 2주 남기고 취소... "예기치 못한 사정, 11월로 변경"]]></title>
+        <id>https://v.daum.net/v/20240625003430027</id>
+        <link href="https://v.daum.net/v/20240625003430027"/>
+        <updated>2024-06-24T16:15:56.332Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 아일랜드 출신의 팝 밴드 웨스트라이프의 내한 공연이 오는 11월로 연기됐다. 웨스트라이프는 오는 7월 국내 팬들을 만날 예정이었다. 23일 웨스트라이프의 공연을 주관하는 모히건 인스파이어 엔터테인먼트 리조트 측은 "오는 7월 6일과 7일 '인스파이어 아레나'에서 진행 예정이던 '인스파이어 콘서트 시리즈 #2: 웨스트라이프' 내한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서동현, 26일 서머송 ‘여름이잖아’ 발매 확정…NCT 마크 피처링]]></title>
         <id>https://v.daum.net/v/20240625000204671</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240624212001196"/>
         <updated>2024-06-24T12:24:46.885Z</updated>
         <content type="html"><![CDATA[[동아닷컴] 가수 규빈이 컴백을 앞두고 리릭 포스터를 공개했다. 소속사 라이브웍스컴퍼니는 23일 오후 6시 규빈의 공식 SNS를 통해 국내외 팬들에게 두 번째 싱글 'Satellite'의 리릭 포스터 한글과 영문 버전을 동시에 공개했다. 공개된 리릭 포스터에는 신곡 'Satellite'의 한글과 영문 가사 전체와 규빈의 모습이 담겨있다. 특히 레트로 감성]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['남신 비주얼' 과시한 김재중, 26일 컴백]]></title>
-        <id>https://v.daum.net/v/20240624211529128</id>
-        <link href="https://v.daum.net/v/20240624211529128"/>
-        <updated>2024-06-24T12:24:46.887Z</updated>
-        <content type="html"><![CDATA[가수 겸 배우 김재중이 여전한 남신 비주얼을 자랑하며 컴백에 대한 기대감을 끌어올렸다. 김재중은 지난 22일과 23일 오후 6시 공식 SNS를 통해 네 번째 정규앨범 ‘플라워 가든(FLOWER GARDEN)’의 콘셉트 포토를 공개했다. 앞선 14일과 17일 정규앨범 '플라워 가든'의 콘셉트 포토를 공개했던 김재중은 이전과는 또 다른 비주얼 콘셉트로 색다]]></content>
     </entry>
 </feed>
