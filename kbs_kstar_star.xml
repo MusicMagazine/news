@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jun 2024 05:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jun 2024 06:18:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연評] 블랙코미디 ‘벚꽃동산’.. “제가 샀습니다. 당신들의 화려한 추억동산을!”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=321289</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=321289</guid>
+            <pubDate>Tue, 25 Jun 2024 06:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=321289">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240624115215_566d534526e5642ac0c4954bd3dcf1ee.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=321289">[공연評] 블랙코미디 ‘벚꽃동산’.. “제가 샀습니다. 당신들의 화려한 추억동산을!”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240624115215_566d534526e5642ac0c4954bd3dcf1ee.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 '헤드윅' 14번 째 시즌 폐막... 조정석, 유연석, 전동석의 전율]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=321278</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=319773">뮤지컬 '사랑의 불시착',  일본에서 인기 몰이</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240614101201_2eae5a331f197f043251ac92b3c3ae11_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙 ‘나.대.신.꿈’ 이준영, “재벌 8세, 프린스 문차민의 매력이란~”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=319632</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=319632</guid>
-            <pubDate>Thu, 13 Jun 2024 05:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=319632">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240613120451_4b5f2113644050e13d8f1cc8a7edddc1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=319632">티빙 ‘나.대.신.꿈’ 이준영, “재벌 8세, 프린스 문차민의 매력이란~”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240613120451_4b5f2113644050e13d8f1cc8a7edddc1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
