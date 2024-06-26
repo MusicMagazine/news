@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-06-26T17:12:25.034Z</updated>
+    <updated>2024-06-26T19:11:07.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홍선미 퀸텟, 29일 벨기에 뮤직트로아 축제서 공연]]></title>
+        <id>https://m.entertain.naver.com/now/article/144/0000971387</id>
+        <link href="https://m.entertain.naver.com/now/article/144/0000971387"/>
+        <updated>2024-06-26T19:10:55.412Z</updated>
+        <content type="html"><![CDATA[유럽 재즈계에서 두각을 나타내고 있는 홍선미 퀸텟이 오는 29일 현지 주요 공연장 플라제에서 “자연의 리듬(Natural Rhythm)”을 주제로 공연한다. 홍선미, 임채린 등 2명의 한국인과 3명의 유럽인으로 구성]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스포티파이, 라이즈 첫 미니앨범 발매 기념하는 ‘RADAR Radio Live feat. RIIZE’ 팬 이벤트 개최]]></title>
         <id>https://m.entertain.naver.com/now/article/144/0000971377</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/015/0005002422"/>
         <updated>2024-06-26T14:16:43.033Z</updated>
         <content type="html"><![CDATA[그룹 우아! 루시가 26일 오후 경기도 고양시 MBC 드림센터에서 열린 MBC M '쇼 챔피언' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 우아! 민서, '깜찍한 모습에 눈길']]></title>
-        <id>https://m.entertain.naver.com/now/article/015/0005002421</id>
-        <link href="https://m.entertain.naver.com/now/article/015/0005002421"/>
-        <updated>2024-06-26T14:16:43.039Z</updated>
-        <content type="html"><![CDATA[그룹 우아! 민서가 26일 오후 경기도 고양시 MBC 드림센터에서 열린 MBC M '쇼 챔피언' 현장공개에 참석해 공연을 펼치고 있다.]]></content>
     </entry>
 </feed>
