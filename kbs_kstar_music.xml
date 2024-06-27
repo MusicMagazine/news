@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jun 2024 20:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jun 2024 21:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔티엑스(NTX),  두 번째 미니앨범 '홀드 엑스'.."더욱 거칠어졌다!"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=321741</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=321741</guid>
+            <pubDate>Thu, 27 Jun 2024 21:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=321741">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240627145634_81c22fe49340fab7030fe4810f837f39.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=321741">엔티엑스(NTX),  두 번째 미니앨범 '홀드 엑스'.."더욱 거칠어졌다!"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240627145634_81c22fe49340fab7030fe4810f837f39.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘유네스코 청년 친선대사’ 세븐틴.. “청년들의 꿈이 세븐틴의 꿈”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=321598</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=320279">TXT, '위버스콘' 헤드라이너 장식</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240617093636_57c6743285b369d37d26d45aa69da996.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아일릿, ‘위버스콘’ 오프닝 장식... 데뷔 후 첫 페스티벌 무대]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=320277</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=320277</guid>
-            <pubDate>Mon, 17 Jun 2024 01:00:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=320277">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240617093516_60538fdb233a351f070fe8f45e1792af.JPG" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=320277">아일릿, ‘위버스콘’ 오프닝 장식... 데뷔 후 첫 페스티벌 무대</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240617093516_60538fdb233a351f070fe8f45e1792af.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
