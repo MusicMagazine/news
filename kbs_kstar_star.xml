@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jun 2024 23:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 00:59:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임세미, 영화 ‘하이재킹’ 특별출연.. 부기장 하정우 아내]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=321862</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=321862</guid>
+            <pubDate>Fri, 28 Jun 2024 00:57:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=321862">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240628092547_0b613a37e780fa233ea3eb627c697a3e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=321862">임세미, 영화 ‘하이재킹’ 특별출연.. 부기장 하정우 아내</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240628092547_0b613a37e780fa233ea3eb627c697a3e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[K-셰익스피어, 런던에 가다..   '인사이드 윌리엄', 'Breaking the Quill'로 쇼케이스 연다]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=321756</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=320541">수호, ‘세자가 사라졌다’.. "본 투 비 세자"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240619085431_ed36cac0f5a574062cdef26303913f72_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트와이스 나연, 매거진 ‘WWD KOREA’화보]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=320705</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=320705</guid>
-            <pubDate>Wed, 19 Jun 2024 05:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=320705">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240619132855_41b88458982ecf408053e76d818b62d6.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=320705">트와이스 나연, 매거진 ‘WWD KOREA’화보 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240619132855_41b88458982ecf408053e76d818b62d6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
