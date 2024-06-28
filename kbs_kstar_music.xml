@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jun 2024 19:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 22:12:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔하이픈, 정규2집 ‘ROMANCE : UNTOLD’ ‘Arcanum’콘셉트포토]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=322146</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=322146</guid>
+            <pubDate>Fri, 28 Jun 2024 22:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=322146">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240628163032_1d4a33a3565ec577de3a7a7d19a56378.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=322146">엔하이픈, 정규2집 ‘ROMANCE : UNTOLD’ ‘Arcanum’콘셉트포토 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240628163032_1d4a33a3565ec577de3a7a7d19a56378.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴진스, 도쿄돔 공연 .."Bunnies Camp 2024 Tokyo Dome"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=322171</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=319797">NiziU, 7월 24일 일본 첫EP 'RISE UP' 발매</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240614171537_413f51b852d800ff80e9f28455e8d1b3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이승윤, 정규 3집 '역성'.. 7월 3일 발매]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=319793</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=319793</guid>
-            <pubDate>Mon, 17 Jun 2024 22:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=319793">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240614165329_a060e453521eee1e6cef5aebe8e52d65.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=319793">이승윤, 정규 3집 '역성'.. 7월 3일 발매 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240614165329_a060e453521eee1e6cef5aebe8e52d65.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
