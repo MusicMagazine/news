@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-06-29T13:14:08.435Z</updated>
+    <updated>2024-06-29T14:15:30.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2PM 준케이, 혼자서도 잘 된다..글로벌 단독 투어 포문]]></title>
+        <id>https://v.daum.net/v/20240629222847414</id>
+        <link href="https://v.daum.net/v/20240629222847414"/>
+        <updated>2024-06-29T14:15:04.935Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] JUN.&nbsp;K(준케이)가&nbsp;요코하마&nbsp;단독&nbsp;공연을&nbsp;성료하고&nbsp;새&nbsp;단독&nbsp;투어의&nbsp;포문을&nbsp;열었다. JUN. K는 지난 6월 23일 요코하마 퍼시피코 요코하마 국립대홀(PACIFICO YOKOHAMA NATIONAL CONVENTION HALL)에서 공연을 열고 단독 투어 '2024 JUN. K SUMMER ROOM TOUR'(서머 룸 투어)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[초보맘 아유미 “남편과 허그는 개뿔…” 조리원 퇴소 후 새내기 부모로 육아일기]]></title>
         <id>https://v.daum.net/v/20240629221211335</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240629173037720"/>
         <updated>2024-06-29T09:19:10.715Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김현식 기자] 와이지엔터테인먼트(이하 YG)가 컴백을 앞둔 걸그룹 베이비몬스터의 두 번째 프로필 포스터를 29일 공개했다. 이날 YG 공식 블로그를 통해 공개된 포스터에는 자신감 넘치는 제스처와 생동감 넘치는 표정으로 각자의 개성과 매력을 뽐낸 베이비몬스터 일곱 멤버의 모습이 담겼다. 블랙과 화이트의 대비가 돋보이는 착장은 베이비몬스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싸이 ‘흠뻑쇼’ 오는 원주, 숙박료 바가지 우려로 ‘들썩’]]></title>
-        <id>https://v.daum.net/v/20240629171855599</id>
-        <link href="https://v.daum.net/v/20240629171855599"/>
-        <updated>2024-06-29T09:19:10.715Z</updated>
-        <content type="html"><![CDATA[29일 강원도 원주에서 가수 싸이의 콘서트 ‘흠뻑쇼’가 열릴 예정인 가운데, 지역 내 일부 숙박업소의 바가지 요금이 또다시 고개를 들고 있다. 원주시는 이에 따라 행사장 인근 숙박업소에 대한 집중 점검을 진행한다고 강원일보가 보도했다. 보도에 따르면 원주 단구동에 위치한 A모텔은 12만원 하는 주말 평균 숙박요금을 싸이 콘서트가 열리는 29일에 17만원으로]]></content>
     </entry>
 </feed>
