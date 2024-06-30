@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jun 2024 21:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jun 2024 01:04:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘데뷔 24주년’ 보아, 단독 콘서트 10월 12~13일 개최]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=322019</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=322019</guid>
+            <pubDate>Sun, 30 Jun 2024 01:03:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=322019">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240628142158_d86590516bb06eb9d4ebbf37f54051ca.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=322019"> ‘데뷔 24주년’ 보아, 단독 콘서트 10월 12~13일 개최</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240628142158_d86590516bb06eb9d4ebbf37f54051ca.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박재범 컴백,  힙합 'McNasty']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=322140</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=320746">남우현, 콘서트라이브앨범.. ‘총 11곡 알찬 트랙 수록’</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240619135205_df18be26980891a9276a87cb2ee0cbe6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라즈베리필드 소이. 7년 만의 컴백...싱글 ‘컴 플레이 위드 미’]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=320719</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=320719</guid>
-            <pubDate>Wed, 19 Jun 2024 05:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=320719">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240619133659_0e4456b8213364badb873568cdc7ba05.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=320719">라즈베리필드 소이. 7년 만의 컴백...싱글 ‘컴 플레이 위드 미’</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240619133659_0e4456b8213364badb873568cdc7ba05.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
