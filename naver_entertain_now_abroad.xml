@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2024-06-30T15:15:47.781Z</updated>
+    <updated>2024-06-30T16:19:12.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[러 매체 "카니예 웨스트 모스크바 방문"]]></title>
+        <id>https://m.entertain.naver.com/now/article/022/0003946408</id>
+        <link href="https://m.entertain.naver.com/now/article/022/0003946408"/>
+        <updated>2024-06-30T16:19:11.696Z</updated>
+        <content type="html"><![CDATA[미국의 유명 래퍼 카니예 웨스트가 30일(현지시간) 러시아 모스크바에 등장했다는 현지 매체의 보도가 나왔다. 러시아 텔레그램 채널 모스크비치카는 웨스트가 러시아 디자이너 겸 사진작가 고샤 루브친스키의 생일을 축하하기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“벤 애플렉, 짐 챙겨 떠났다” 제니퍼 로페즈와 이혼 공식화[해외이슈]]]></title>
         <id>https://m.entertain.naver.com/now/article/117/0003845979</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/112/0003705716"/>
         <updated>2024-06-27T22:15:10.059Z</updated>
         <content type="html"><![CDATA[아버지 톰 크루즈의 성을 버린 딸, 수리 크루즈(18)의 근황이 공개됐다. 28일(한국시간) 미국 연예매체 백그리드 등 외신은 올해 대학교에 진학하는 수리 크루즈의 근황이 담긴 사진을 공개했다. 보도에 따르면 수리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우 양미, 논문 기준 미달..."AI로 쓴 것 아닌지 의심" [룩@차이나]]]></title>
-        <id>https://m.entertain.naver.com/now/article/213/0001299362</id>
-        <link href="https://m.entertain.naver.com/now/article/213/0001299362"/>
-        <updated>2024-06-27T09:15:36.486Z</updated>
-        <content type="html"><![CDATA[중국 배우 양미(楊冪, 37)가 3622자 논문을 발표했고, '기준 미달'이라 논란이 됐다. 25일(현지시간) 중국 인기 여배우 양미는 학술지에 자신이 출연하는 드라마를 주제로 한 논문을 발표했으나, 발표 기준을 충]]></content>
     </entry>
 </feed>
