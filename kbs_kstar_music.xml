@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jul 2024 06:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jul 2024 08:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가수 비, 일본 팬미팅 'RAINTOPIA : FIND ME' 성료]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=322434</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=322434</guid>
+            <pubDate>Mon, 01 Jul 2024 08:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=322434">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240701161250_5a50c10a9690bced61d21411598b147a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=322434">가수 비, 일본 팬미팅 'RAINTOPIA : FIND ME' 성료 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240701161250_5a50c10a9690bced61d21411598b147a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에스파 라이브 투어 성료... "수수수 수퍼 히트"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=322381</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=321108">‘데뷔 10주년’ 레드벨벳, 새 앨범 ‘Cosmic’ 24일 컴백</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240623072117_f6ee5dd93e0d8355571117f9d0caf2fd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드벨벳 ‘Cosmic’, 25일 카운트다운 라이브 예정]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=320907</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=320907</guid>
-            <pubDate>Fri, 21 Jun 2024 23:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=320907">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240621071211_ac34d4d764160bb0885514899f1f018c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=320907">레드벨벳 ‘Cosmic’, 25일 카운트다운 라이브 예정</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240621071211_ac34d4d764160bb0885514899f1f018c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
