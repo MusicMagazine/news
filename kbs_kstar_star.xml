@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jun 2024 23:15:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jul 2024 02:41:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["더 이상의 자세한 설명은 생략한다" 김성모 '대털', 리디 독점연재]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=322369</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=322369</guid>
+            <pubDate>Mon, 01 Jul 2024 02:41:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=322369">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240701102726_83d0b3adbb6d9bc2e1c0665e7e240b73_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=322369">"더 이상의 자세한 설명은 생략한다" 김성모 '대털', 리디 독점연재</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240701102726_83d0b3adbb6d9bc2e1c0665e7e240b73_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[진기주, 이번엔 코믹활글 ‘언더커버 하이스쿨’ 캐스팅]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=321923</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=321536">노정의, 매거진 화보 공개.."Eyes Wide Open"   </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240626083234_e7920bbd4e13e1242ca99af66faac3e2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[공연評] 블랙코미디 ‘벚꽃동산’.. “제가 샀습니다. 당신들의 화려한 추억동산을!”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=321289</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=321289</guid>
-            <pubDate>Tue, 25 Jun 2024 06:18:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=321289">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240624115215_566d534526e5642ac0c4954bd3dcf1ee.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=321289">[공연評] 블랙코미디 ‘벚꽃동산’.. “제가 샀습니다. 당신들의 화려한 추억동산을!”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240624115215_566d534526e5642ac0c4954bd3dcf1ee.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
