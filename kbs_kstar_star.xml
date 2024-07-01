@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jul 2024 22:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jul 2024 23:15:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우 문가영, 피크제이와 전속계약]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=322497</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=322497</guid>
+            <pubDate>Mon, 01 Jul 2024 23:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=322497">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240702081339_beca0b80bf2c0a0a198b4db7d4a20712.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=322497">배우 문가영, 피크제이와 전속계약</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240702081339_beca0b80bf2c0a0a198b4db7d4a20712.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[권은비 연기도전, 일본영화 '스마트폰을 떨어뜨렸을 뿐인데' BIFAN상영 ->11월 개봉]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=321902</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=321660">독립영화계 보석 정하담, 고스트스튜디오와 전속계약</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240627082524_d9e29b0d1e0a06faa3963884b5cc1131.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“이규형입니다, 이규형입니다, 또 이규형입니다” 싹쓸이 연기 중]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=321649</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=321649</guid>
-            <pubDate>Thu, 27 Jun 2024 00:57:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=321649">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240627082242_67bbad3bac57699ec069a99170c5026a.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=321649"> “이규형입니다, 이규형입니다, 또 이규형입니다” 싹쓸이 연기 중</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240627082242_67bbad3bac57699ec069a99170c5026a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
