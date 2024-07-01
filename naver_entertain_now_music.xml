@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-07-01T19:12:45.023Z</updated>
+    <updated>2024-07-01T20:15:06.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김필, 1인 기획사 '삐에로 레코드' 설립…새로운 도전 예고]]></title>
+        <id>https://m.entertain.naver.com/now/article/477/0000499144</id>
+        <link href="https://m.entertain.naver.com/now/article/477/0000499144"/>
+        <updated>2024-07-01T20:14:53.157Z</updated>
+        <content type="html"><![CDATA[가수 김필이 1인 기획사 삐에로 레코드를 설립하고 홀로서기에 나선다 1일 김필은 공식 SNS 채널을 통해 삐에로 레코드 설립을 공식화하고 새 프로필 이미지를 게재했다. 공개된 사진 속 김필은 한층 세련되고 성숙한 무]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김범수, 5일 '여행, 디 오리지널' 호주 공연 개최…월드투어 포문]]></title>
         <id>https://m.entertain.naver.com/now/article/477/0000499143</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/144/0000972451"/>
         <updated>2024-07-01T12:29:58.497Z</updated>
         <content type="html"><![CDATA[투모로우바이투게더의 신곡 ’We‘ll Never Change’가 일본 아침 방송 테마송으로 낙점됐다. 1일 방송된 일본 NTV의 아침 정보 프로그램 ‘DayDay’에서 투모로우바이투게더(수빈, 연준, 범규, 태현,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘파크 뮤직페스티벌’ 엔딩 공연 김준수, 영화 ‘김준수 콘서트 무비 챕터 원 : 레크리에이션’ 3만 관객 돌파!]]></title>
-        <id>https://m.entertain.naver.com/now/article/144/0000972450</id>
-        <link href="https://m.entertain.naver.com/now/article/144/0000972450"/>
-        <updated>2024-07-01T11:12:26.778Z</updated>
-        <content type="html"><![CDATA[지난달 30일 ‘파크 뮤직페스티벌’ 메인무대 엔딩 공연을 펼친 가수 김준수의 첫 번째 실황 영화 ‘김준수 콘서트 무비 챕터 원 : 레크리에이션’이 3만 관객을 돌파하며 극장가 김준수 신드롬을 이어간다. (감독: 조윤]]></content>
     </entry>
 </feed>
