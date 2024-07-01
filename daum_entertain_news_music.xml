@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-07-01T18:17:58.296Z</updated>
+    <updated>2024-07-01T19:12:44.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박재범, NAS와 함께 ‘RAPBEAT 2024’ 헤드라이너 출격]]></title>
+        <id>https://v.daum.net/v/20240702040044187</id>
+        <link href="https://v.daum.net/v/20240702040044187"/>
+        <updated>2024-07-01T19:12:18.407Z</updated>
+        <content type="html"><![CDATA[올해 9월 21일, 22일 이틀에 걸쳐 송도달빛축제공원에서 진행되는 RAPBEAT 2024(이하 랩비트)가 화려한 3차 라인업을 추가로 공개했다. 이번 3차 라인업에서는 힙합과 R&amp;B 장르를 자유자재로 넘나드는 만능 아티스트 박재범이 21일 토요일 헤드라이너로 공개되면서 많은 이목과 관심을 끌고 있다. 9월 21일에는 박재범에 이어 영원한 댄싱디바]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김희재·박서진·양지은·양지원 출격…‘선상의 더트롯쇼’, 크루즈 콘서트 열린다]]></title>
         <id>https://v.daum.net/v/20240702001504201</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240701202209587"/>
         <updated>2024-07-01T12:29:43.325Z</updated>
         <content type="html"><![CDATA[[동아닷컴] ‘트롯픽’ 장민호, 여름 계절가전 모델로 가장 잘 어울리는 대세 스타 [DA:차트] 가수 장민호가 여름 계절가전 모델로 가장 잘 어울리는 대세 스타로 선정됐다. 1일 트롯스타 투표 웹서비스 ‘트롯픽’(trotpick)은 지난달 24일부터 30일까지 진행된 스페셜 투표 ‘여름 계절가전 모델로 가장 잘 어울리는 대세 스타는?’의 결과를 발표했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진해성, ‘트롯픽’ 수수수 수퍼노바 1위]]></title>
-        <id>https://v.daum.net/v/20240701202018566</id>
-        <link href="https://v.daum.net/v/20240701202018566"/>
-        <updated>2024-07-01T12:29:43.326Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] 진해성, ‘트롯픽’ 수수수 수퍼노바 1위 [DA:차트] 가수 진해성이 트롯픽 수퍼노바 투표에서 1위를 차지했다. 1일 트롯스타 투표 웹서비스 ‘트롯픽’(trotpick)은 지난달 24일부터 30일까지 진행된 수퍼노바 투표 결과를 공개했다. 투표 결과 진해성이 54만230포인트로 1위를 기록했다. 1990년생인 진해성은 2012년 1집 앨범 ‘]]></content>
     </entry>
 </feed>
