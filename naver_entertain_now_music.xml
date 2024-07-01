@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-07-01T13:17:53.722Z</updated>
+    <updated>2024-07-01T14:13:11.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정세운, 120분 꽉 채운 귀호강 라이브..1년 3개월 만 단콘 성료]]></title>
+        <id>https://m.entertain.naver.com/now/article/109/0005108536</id>
+        <link href="https://m.entertain.naver.com/now/article/109/0005108536"/>
+        <updated>2024-07-01T14:12:57.391Z</updated>
+        <content type="html"><![CDATA['싱어송라이터' 정세운이 환희로 가득 찬 단독 콘서트 무대를 선보였다. 1일 소속사 스타쉽엔터테인먼트에 따르면 정세운은 지난달 29일~30일 양일간 명화 라이브홀에서 개최된 '2024 정세운 콘서트 '디.아이.와이']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스테이씨, 데뷔 첫 정규앨범 ‘Metamorphic’ 발매]]></title>
         <id>https://m.entertain.naver.com/now/article/144/0000972473</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/477/0000499118"/>
         <updated>2024-07-01T11:12:26.782Z</updated>
         <content type="html"><![CDATA["지면, 상의 탈의한다." '불타는 장미단' 시즌2 손태진이 '워터밤'보다 뜨거운 '트롯밤'에서 대선배 정수라와의 맞대결을 앞두고 파격적인 공약으로 현장을 뒤흔든다. 1일 오후 9시 30분 방송되는 MBN '불타는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lucky팡팡(김다현x스미다 아이코), ‘담다디’ 日 버전 첫 무대 공개]]></title>
-        <id>https://m.entertain.naver.com/now/article/144/0000972446</id>
-        <link href="https://m.entertain.naver.com/now/article/144/0000972446"/>
-        <updated>2024-07-01T11:12:26.782Z</updated>
-        <content type="html"><![CDATA[Lucky팡팡(김다현x스미다 아이코)이 일본에서 ‘담다디’ 무대를 최초로 공개했다. Lucky팡팡(김다현x스미다 아이코)은 지난달 30일 일본 도쿄 오테마치 미츠이홀에서 개최된 ‘TROT GIRLS JAPAN 202]]></content>
     </entry>
 </feed>
