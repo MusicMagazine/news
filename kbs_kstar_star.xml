@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jul 2024 03:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jul 2024 04:18:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[북리뷰] ‘ON AIR, 미국은 내전 중’  강윤기 KBS 뉴욕 PD특파원의 USA취재기]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=322552</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=322552</guid>
+            <pubDate>Tue, 02 Jul 2024 04:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=322552">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240702124343_6b230db6be36ccd7a8de2102519d5c67.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=322552">[북리뷰] ‘ON AIR, 미국은 내전 중’  강윤기 KBS 뉴욕 PD특파원의 USA취재기 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240702124343_6b230db6be36ccd7a8de2102519d5c67.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[李俊昊(이준호), '엘르 타이완' 커버 장식.. 차기작 넷플릭스 시리즈 '캐셔로']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=322521</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=321670">주현영, 영화 '단골식당' 주인공 캐스팅</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240627082728_864a7867edb26b1879948c3f35673898.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이브, 신곡 'SUMMER FESTA' MV 티저 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=321604</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=321604</guid>
-            <pubDate>Thu, 27 Jun 2024 00:57:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=321604">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240627092629_40dfca11c5d7590057591c443844a985_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=321604">아이브, 신곡 'SUMMER FESTA' MV 티저 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240627092629_40dfca11c5d7590057591c443844a985_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
