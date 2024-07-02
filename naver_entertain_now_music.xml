@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-07-02T15:14:46.309Z</updated>
+    <updated>2024-07-02T16:21:54.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[XG, 무서운 상승세..데뷔 첫 월드투어 매진 행렬]]></title>
+        <id>https://m.entertain.naver.com/now/article/108/0003247286</id>
+        <link href="https://m.entertain.naver.com/now/article/108/0003247286"/>
+        <updated>2024-07-02T16:21:41.839Z</updated>
+        <content type="html"><![CDATA[걸 그룹 XG(엑스지, 주린 치사 히나타 하비 쥬리아 마야 코코나)의 월드투어 티켓이 매진 행렬을 이어가고 있다. 2일 XG 소속사에 따르면 XG의 월드투어 '더 퍼스트 하울'(The first HOWL)의 서울,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이민우 (M), 생일 기념 팬 콘서트 ‘Original Intention’ 티켓 오픈!]]></title>
         <id>https://m.entertain.naver.com/now/article/144/0000972750</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/144/0000972720"/>
         <updated>2024-07-02T11:14:09.267Z</updated>
         <content type="html"><![CDATA[‘원조 꽃미남 발라더’ 이정석이 신곡을 발표했다. 가수 이정석은 지난달 30일 각종 온라인 음원사이트를 통해 신곡 ‘비가 내리고 있어’를 공개했다. 이정석이 11년 만에 선보이는 신곡 ‘비가 내리고 있어’ 는 이정석]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레이지본 신곡 '나비야' 발매…"꿈 향해 달려가는 이들 위로"]]></title>
-        <id>https://m.entertain.naver.com/now/article/001/0014783688</id>
-        <link href="https://m.entertain.naver.com/now/article/001/0014783688"/>
-        <updated>2024-07-02T11:14:09.267Z</updated>
-        <content type="html"><![CDATA[밴드 레이지본(Lazybone)이 2일 새 싱글 '나비야'를 발매했다고 소속사 록스타뮤직앤라이브가 밝혔다. '나비야'는 빠른 템포의 밴드 사운드와 흥겨운 멜로디가 돋보이는 노래다. 바쁜 현대사회를 살아가며 상처를 입]]></content>
     </entry>
 </feed>
