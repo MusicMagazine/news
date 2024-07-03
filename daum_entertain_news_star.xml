@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-07-03T18:17:24.105Z</updated>
+    <updated>2024-07-03T19:11:20.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['외조의 황제' 이승철, 두 살 연상 아내 첫 공개]]></title>
+        <id>https://v.daum.net/v/20240704040408413</id>
+        <link href="https://v.daum.net/v/20240704040408413"/>
+        <updated>2024-07-03T19:10:58.569Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 가수 이승철이 사업가인 아내 박현정 씨를 방송에서 처음 공개했다. 3일 방송된 채널A '요즘 남자 라이프-신랑수업(이하 신랑수업')'에서 이승철이 아내를 위해 '외조의 황제'로 나선 모습이 그려졌다. 슈트까지 맞춰 입은 이승철은 이날 방송에서 아내가 오픈하는 갤러리의 개관식 리허설을 진두지휘했다. 공연 전 사운드 체크를 했고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[野 검사 탄핵 추진해 정치권 파장]]></title>
         <id>https://v.daum.net/v/20240704030218183</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240704003005475"/>
         <updated>2024-07-03T16:18:51.701Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 김도형 기자] 그룹 더보이즈 영훈이 3일 서울 성수동에서 진행된 한 명품 브랜드의 팝업 스토어 오픈 기념 포토월 행사에 참석했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘나는 솔로’ 21기 솔로남녀 정체 공개... 상철, 자기소개 후 인기 ‘급부상’]]></title>
-        <id>https://v.daum.net/v/20240704001500380</id>
-        <link href="https://v.daum.net/v/20240704001500380"/>
-        <updated>2024-07-03T15:15:44.032Z</updated>
-        <content type="html"><![CDATA[‘나는 솔로’ 21기 솔로남녀의 직업과 나이가 공개됐다. 일 방송된 ENA(이엔에이)와 SBS PLUS의 리얼 데이팅 프로그램 ‘나는 SOLO’에서는 ‘솔로나라 21번지’에 입성한 솔로남녀들이 자기소개하는 모습이 전파를 탔다. 이날 솔로남녀는 한 자리에 모여 저녁을 먹었다. 영철은 솔선수범 다른 사람들을 위해 고기를 구웠고, 현숙은 그런 영철을 챙기는 모습]]></content>
     </entry>
 </feed>
