@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-07-04T18:22:06.761Z</updated>
+    <updated>2024-07-04T19:12:14.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이준호, 콘서트 '다시 만나는 날' 실황 7월 극장 개봉…추억 되새길 소중한 선물]]></title>
+        <id>https://m.entertain.naver.com/now/article/477/0000499927</id>
+        <link href="https://m.entertain.naver.com/now/article/477/0000499927"/>
+        <updated>2024-07-04T19:12:02.475Z</updated>
+        <content type="html"><![CDATA[이준호가 올해 1월 성료한 단독 콘서트 '다시 만나는 날'의 감동이 극장에서 다시 한번 재현된다. 이준호는 지난 1월 13일과 14일 서울 잠실실내체육관에서 '2024 이준호 콘서트 '다시 만나는 날''을 개최했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이효리, 성형돌 광희에 “내 취향은 자연美, 그러니 상순오빠랑 결혼했지”(풀무릉도원)]]></title>
         <id>https://m.entertain.naver.com/now/article/468/0001074440</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/108/0003247888"/>
         <updated>2024-07-04T11:14:41.151Z</updated>
         <content type="html"><![CDATA[가수 이영지가 '엠카운트다운'(이하 '엠카') 1위 트로피를 품에 안았다. 4일 오후 방송된 Mnet '엠카운트다운'(이하 '엠카')에서는 7월 첫째 주 1위를 차지한 이영지의 모습이 그려졌다. 이날 이영지는 '엠카]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘엠카’ 스테이씨, 매력적 ‘치키 걸’ 변신 ‘Cheeky Icy Thang’]]></title>
-        <id>https://m.entertain.naver.com/now/article/144/0000973266</id>
-        <link href="https://m.entertain.naver.com/now/article/144/0000973266"/>
-        <updated>2024-07-04T11:14:41.154Z</updated>
-        <content type="html"><![CDATA[걸그룹 스테이씨(STAYC)가 ‘틴프레시’를 뛰어넘는 매력적인 ‘치키 걸’로 변신했다. 스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)는 4일 방송된 Mnet 음악 프로그램 ‘엠카운트다운’에 출연해 첫 번째 정규]]></content>
     </entry>
 </feed>
