@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-07-04T13:20:35.210Z</updated>
+    <updated>2024-07-04T14:13:38.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올아워즈, 케이팝 신인 등용문 ‘16th KMF2024’ 라인업 합류]]></title>
+        <id>https://m.entertain.naver.com/now/article/144/0000973300</id>
+        <link href="https://m.entertain.naver.com/now/article/144/0000973300"/>
+        <updated>2024-07-04T14:13:25.948Z</updated>
+        <content type="html"><![CDATA[아이돌그룹 올아워즈(ALL(H)OURS)가 ‘16th KMF2024’ 라인업에 합류했다. 올아워즈(건호, 유민, 제이든, 민제, 마사미, 현빈, 온)는 오는 10월 6일 일본 요코하마 아레나에서 개최되는 ‘16th]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이영현X박민혜, 리메이크의 정석 들려준 ‘사랑했었다’]]></title>
         <id>https://m.entertain.naver.com/now/article/144/0000973298</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/003/0012648593"/>
         <updated>2024-07-04T10:14:08.955Z</updated>
         <content type="html"><![CDATA['Z세대 록스타'로 통하는 싱어송라이터 한로로가 뮤직플랫폼 멜론(Melon) 인디음악 활성화 프로젝트 '트랙제로'를 통해 7월 '이달의 아티스트'로 선정됐다고 카카오엔터테인먼트가 4일 밝혔다. 이날 멜론 스테이션을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘싱어게인2’ 우승자 김기태, 7일 신곡 ‘그댈 떠나오’ 발매]]></title>
-        <id>https://m.entertain.naver.com/now/article/144/0000973256</id>
-        <link href="https://m.entertain.naver.com/now/article/144/0000973256"/>
-        <updated>2024-07-04T10:14:08.955Z</updated>
-        <content type="html"><![CDATA[가수 김기태가 오는 7일 신곡 ‘그댈 떠나오’로 6개월 만에 컴백한다. 김기태는 4일 SNS를 통해 새 디지털 싱글 ‘그댈 떠나오’ 발매 소식을 알리는 티저 이미지를 공개했다. 김기태는 넓은 들판을 배경으로 공허하고]]></content>
     </entry>
 </feed>
