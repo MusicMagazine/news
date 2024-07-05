@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jul 2024 23:14:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jul 2024 00:57:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제3회 청룡시리즈어워즈,  전현무X임윤아, 3년 연속 MC 호흡]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=322951</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=322951</guid>
+            <pubDate>Fri, 05 Jul 2024 00:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=322951">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240705092111_d9fbdfa98a6a0f2ca08a4c7a103b0558.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=322951">제3회 청룡시리즈어워즈,  전현무X임윤아, 3년 연속 MC 호흡</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240705092111_d9fbdfa98a6a0f2ca08a4c7a103b0558.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김요한, SBS드라마 '트라이:우리는 기적이 된다' 캐스팅]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=322753</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=321959">CJ ENM, KBL방송중계권 확보.. "프로농구, 24-25시즌부터 4년간 중계"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240628100307_8343c959608b8fb62c01f4cfc27cb918_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백현진, tvN ‘감사합니다’ 양상무 역 캐스팅]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=321949</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=321949</guid>
-            <pubDate>Fri, 28 Jun 2024 02:00:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=321949">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240628100021_93fefd68350e051a3f956dc8f69a01d5.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=321949">백현진, tvN ‘감사합니다’ 양상무 역 캐스팅</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240628100021_93fefd68350e051a3f956dc8f69a01d5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
