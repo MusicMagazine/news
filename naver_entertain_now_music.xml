@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-07-08T19:13:07.518Z</updated>
+    <updated>2024-07-08T20:15:58.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이기광, 5년만에 솔로 콘서트 확정…8월 '오브세스드'서 역대급 무대 예고]]></title>
+        <id>https://m.entertain.naver.com/now/article/477/0000500635</id>
+        <link href="https://m.entertain.naver.com/now/article/477/0000500635"/>
+        <updated>2024-07-08T20:15:46.506Z</updated>
+        <content type="html"><![CDATA[그룹 하이라이트 멤버 이기광이 5년 만에 솔로 콘서트를 연다. 이기광은 오는 8월 17일과 18일 서울 방이동 올림픽공원 올림픽홀에서 2024 솔로 콘서트 '오브세스드'(OBSESSED)를 개최한다. '오브세스드'는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김다현, 대한적십자사 홍보대사 위촉]]></title>
         <id>https://m.entertain.naver.com/now/article/477/0000500634</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/144/0000973968"/>
         <updated>2024-07-08T12:29:40.030Z</updated>
         <content type="html"><![CDATA[걸그룹 스테이씨(STAYC)가 틴프레시와 키치한 매력을 오가는 폭넓은 콘셉트 소화력을 증명했다. 스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)는 지난 7일 방송된 KBS1 ‘열린음악회’에서 ‘Bubble(버블)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티아이오티(TIOT) “꿈같은 시간 함께해줘서 감사”···데뷔 콘서트 ‘Kick-START’ 마무리]]></title>
-        <id>https://m.entertain.naver.com/now/article/144/0000973966</id>
-        <link href="https://m.entertain.naver.com/now/article/144/0000973966"/>
-        <updated>2024-07-08T12:29:40.031Z</updated>
-        <content type="html"><![CDATA[아이돌그룹 티아이오티(TIOT)가 일본 단독 콘서트를 성료하며 팬들과 특별한 추억을 쌓았다. 티아이오티(김민성, 금준현, 홍건희, 최우진, 신예찬)는 지난 6일 일본 도쿄 제프 하네다(Zepp Haneda)에서 TI]]></content>
     </entry>
 </feed>

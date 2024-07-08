@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-07-08T19:13:07.519Z</updated>
+    <updated>2024-07-08T20:15:58.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이기광, 5년만에 솔로 콘서트 확정…8월 '오브세스드'서 역대급 무대 예고]]></title>
+        <id>https://v.daum.net/v/20240709043602463</id>
+        <link href="https://v.daum.net/v/20240709043602463"/>
+        <updated>2024-07-08T20:15:32.627Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]그룹 하이라이트 멤버 이기광이 5년 만에 솔로 콘서트를 연다. 이기광은 오는 8월 17일과 18일 서울 방이동 올림픽공원 올림픽홀에서 2024 솔로 콘서트 '오브세스드'(OBSESSED)를 개최한다. '오브세스드'는 이기광이 2019년 벌인 '아이'(I) 이후 5년 만이자 전역 후 처음으로 준비한 솔로 콘서트다. 이기광은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['컴백' 아이들 "좋아하는 다른 걸그룹들 견제 받고 싶어"]]></title>
         <id>https://v.daum.net/v/20240709001044359</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240708194718351"/>
         <updated>2024-07-08T11:12:52.852Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김가영 기자] 가수 치즈(CHEEZE) 달총이 단독 콘서트를 성황리에 마쳤다. 달총은 지난 4일부터 7일까지 총 4회에 걸쳐 ‘2024 치즈 단독 콘서트 우릴 머금던 바다’를 개최했다. 첫 곡으로 ‘Ticket(티켓)’을 가창하며 무대에 오른 달총은 ‘Everything to(에브리띵 투)’, ‘우린 어디에나’를 연달아 선보이며 공연장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“결혼 안 하고파”…현아 결심 깨부순 용준형]]></title>
-        <id>https://v.daum.net/v/20240708194616342</id>
-        <link href="https://v.daum.net/v/20240708194616342"/>
-        <updated>2024-07-08T11:12:52.853Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 이기은 기자] 현아, 결혼을 원치 않는다는 그의 결심을 바꾼 주인공은 용준형이었다. 현아와 용준형은 오는 10월 11일 서울 삼청각에서 야외 결혼식을 올리고 부부가 된다. 지난 1월 공개열애를 선언한지 약 6개월 만의, 다소 빠른 결정이다. 둘은 큐브엔터테인먼트 소속 가수 시절부터 인연을 맺었다. 현아는 포미닛, 용준형은 각각 포미닛, 비스트]]></content>
     </entry>
 </feed>
