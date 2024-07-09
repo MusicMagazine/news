@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jul 2024 23:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jul 2024 01:02:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진영, 영화에 이어 드라마 '수상한 그녀'  캐스팅.. 프로듀서 ‘대니얼 한’  변신]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=323389</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=323389</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=323389">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240709083808_ae4e9dc7d72378981465da6ba2bb9a16.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=323389">진영, 영화에 이어 드라마 '수상한 그녀'  캐스팅.. 프로듀서 ‘대니얼 한’  변신</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240709083808_ae4e9dc7d72378981465da6ba2bb9a16.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["A Whole New World~" 브로드웨이 히트 뮤지컬 '알라딘' , 한국 11월 초연]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=323363</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=321971">‘하이재킹’ 정예진..“학생, 초콜릿 먹을래?” 그 배우!</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240628101119_03850f7721963597bf56fdef173bd9c7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이키 여름화보 공개.. GQ KOREA]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=321847</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=321847</guid>
-            <pubDate>Sun, 30 Jun 2024 01:03:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=321847">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240628091450_6c9ff84eaaf0232dc39c36940b5e071e.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=321847">하이키 여름화보 공개.. GQ KOREA </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240628091450_6c9ff84eaaf0232dc39c36940b5e071e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

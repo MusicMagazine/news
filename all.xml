@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jul 2024 23:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jul 2024 01:02:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=323297</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=323297</guid>
             <pubDate>Mon, 08 Jul 2024 01:02:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=323297">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=323297">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240708081546_88982ba590805f02e2851a170b6fe0c6.jpg" alt="대체 텍스트">
@@ -29,7 +29,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=322737</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=322737</guid>
             <pubDate>Thu, 04 Jul 2024 00:59:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=322737">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=322737">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240704080710_fc419629451fa926f7213004564b6316.jpg" alt="대체 텍스트">
@@ -46,7 +46,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=322725</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=322725</guid>
             <pubDate>Thu, 04 Jul 2024 00:59:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=322725">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=322725">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240704075916_0f83384b9a49a6580cef61f7c0c6d6ba.jpg" alt="대체 텍스트">
@@ -346,6 +346,23 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=322012">블랙핑크 리사, 신곡 ‘ROCKSTAR’ 오늘 발매 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240628141936_823b7e93a2e99224f6a6e9658a0df970.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[진영, 영화에 이어 드라마 '수상한 그녀'  캐스팅.. 프로듀서 ‘대니얼 한’  변신 (KBS연예 ─ 연예)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=323389</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=323389</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=323389">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240709083808_ae4e9dc7d72378981465da6ba2bb9a16.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=323389">진영, 영화에 이어 드라마 '수상한 그녀'  캐스팅.. 프로듀서 ‘대니얼 한’  변신</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240709083808_ae4e9dc7d72378981465da6ba2bb9a16.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["A Whole New World~" 브로드웨이 히트 뮤지컬 '알라딘' , 한국 11월 초연 (KBS연예 ─ 연예)]]></title>
@@ -671,28 +688,19 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240628101119_03850f7721963597bf56fdef173bd9c7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하이키 여름화보 공개.. GQ KOREA (KBS연예 ─ 연예)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=321847</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=321847</guid>
-            <pubDate>Sun, 30 Jun 2024 01:03:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=321847">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240628091450_6c9ff84eaaf0232dc39c36940b5e071e.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=321847">하이키 여름화보 공개.. GQ KOREA </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240628091450_6c9ff84eaaf0232dc39c36940b5e071e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[콘셉트돌 에버글로우, '주간아'서 댄스→토크 모두 장악 (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/423251</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/423251</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/423251" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/09/25a67383-f0f2-4e94-89a5-4d55a4ca3b32.jpg" alt="콘셉트돌 에버글로우, '주간아'서 댄스→토크 모두 장악">        <div class="text-box">            <p class="summary">콘셉트돌 에버글로우, '주간아'서 댄스→토크 모두 장악</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/09/25a67383-f0f2-4e94-89a5-4d55a4ca3b32.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[있지 리아, 활동 재개 "긴장·불안 증상 호전" [전문] (MBC 연예 ─ 아이돌)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/423235</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/423235</guid>
             <pubDate>Mon, 08 Jul 2024 23:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/423235">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/09/43a05e3b-0104-4bb6-ac18-3a7d1436a161.jpg" alt="있지 리아, 활동 재개 " 긴장·불안="" 증상="" 호전"="" [전문]"="">        <div class="text-box">            <p class="summary">있지 리아, 활동 재개 "긴장·불안 증상 호전" [전문]</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/423235" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/09/43a05e3b-0104-4bb6-ac18-3a7d1436a161.jpg" alt="있지 리아, 활동 재개 " 긴장·불안="" 증상="" 호전"="" [전문]"="">        <div class="text-box">            <p class="summary">있지 리아, 활동 재개 "긴장·불안 증상 호전" [전문]</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/09/43a05e3b-0104-4bb6-ac18-3a7d1436a161.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -700,7 +708,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/423190</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/423190</guid>
             <pubDate>Mon, 08 Jul 2024 06:21:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/423190">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/08/917f638b-b437-4955-bea5-ea0a92576281.jpg" alt="" 태연표="" 천국"…신곡="" '헤븐'="" 음원+mv="" 오늘(8일)="" 공개"="">        <div class="text-box">            <p class="summary">"태연표 천국"…신곡 '헤븐' 음원+MV 오늘(8일) 공개</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/423190" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/08/917f638b-b437-4955-bea5-ea0a92576281.jpg" alt="" 태연표="" 천국"…신곡="" '헤븐'="" 음원+mv="" 오늘(8일)="" 공개"="">        <div class="text-box">            <p class="summary">"태연표 천국"…신곡 '헤븐' 음원+MV 오늘(8일) 공개</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/08/917f638b-b437-4955-bea5-ea0a92576281.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -708,7 +716,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/423185</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/423185</guid>
             <pubDate>Mon, 08 Jul 2024 05:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/423185">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/08/eec07286-abaf-4f46-8d46-9acb3914463d.jpg" alt="크랙시, 신보 'RE_' 2주차 활동 성료…댄스 챌린지 열기↑">        <div class="text-box">            <p class="summary">크랙시, 신보 'RE_' 2주차 활동 성료…댄스 챌린지 열기↑</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/423185" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/08/eec07286-abaf-4f46-8d46-9acb3914463d.jpg" alt="크랙시, 신보 'RE_' 2주차 활동 성료…댄스 챌린지 열기↑">        <div class="text-box">            <p class="summary">크랙시, 신보 'RE_' 2주차 활동 성료…댄스 챌린지 열기↑</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/08/eec07286-abaf-4f46-8d46-9acb3914463d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -716,7 +724,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/423184</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/423184</guid>
             <pubDate>Mon, 08 Jul 2024 05:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/423184">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/08/3bd63461-348f-4084-94e6-b30d176f0713.jpg" alt="드림캐쳐 수아, 프로야구 키움VS한화 경기 시구자 발탁">        <div class="text-box">            <p class="summary">드림캐쳐 수아, 프로야구 키움VS한화 경기 시구자 발탁</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/423184" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/08/3bd63461-348f-4084-94e6-b30d176f0713.jpg" alt="드림캐쳐 수아, 프로야구 키움VS한화 경기 시구자 발탁">        <div class="text-box">            <p class="summary">드림캐쳐 수아, 프로야구 키움VS한화 경기 시구자 발탁</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/08/3bd63461-348f-4084-94e6-b30d176f0713.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -724,7 +732,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/423152</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/423152</guid>
             <pubDate>Mon, 08 Jul 2024 01:02:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/423152">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/08/63e43854-8589-48e8-80d9-597881a11e10.jpeg" alt="기다린 여름…서머퀸 효린, 8월 12일 컴백 '웨잇'">        <div class="text-box">            <p class="summary">기다린 여름…서머퀸 효린, 8월 12일 컴백 '웨잇'</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/423152" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/08/63e43854-8589-48e8-80d9-597881a11e10.jpeg" alt="기다린 여름…서머퀸 효린, 8월 12일 컴백 '웨잇'">        <div class="text-box">            <p class="summary">기다린 여름…서머퀸 효린, 8월 12일 컴백 '웨잇'</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/08/63e43854-8589-48e8-80d9-597881a11e10.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -732,7 +740,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/423068</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/423068</guid>
             <pubDate>Sat, 06 Jul 2024 17:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/423068">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/07/ba343a5a-7672-4bde-abad-ff9914c1f2cc.jpg" alt="아이브 장원영, 상큼+러블리 사로잡은 비주얼 ‘여신 강림’">        <div class="text-box">            <p class="summary">아이브 장원영, 상큼+러블리 사로잡은 비주얼 ‘여신 강림’</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/423068" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/07/ba343a5a-7672-4bde-abad-ff9914c1f2cc.jpg" alt="아이브 장원영, 상큼+러블리 사로잡은 비주얼 ‘여신 강림’">        <div class="text-box">            <p class="summary">아이브 장원영, 상큼+러블리 사로잡은 비주얼 ‘여신 강림’</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/07/ba343a5a-7672-4bde-abad-ff9914c1f2cc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -740,7 +748,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/423064</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/423064</guid>
             <pubDate>Sat, 06 Jul 2024 17:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/423064">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/06/2e8c207f-dac7-445c-8d3d-f0b590d5517d.jpg" alt="‘800석→72000석’ 세븐틴 美친 성장 서사 “CG 아니지?” (매직아워)">        <div class="text-box">            <p class="summary">‘800석→72000석’ 세븐틴 美친 성장 서사 “CG 아니지?” (매직아워)</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/423064" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/06/2e8c207f-dac7-445c-8d3d-f0b590d5517d.jpg" alt="‘800석→72000석’ 세븐틴 美친 성장 서사 “CG 아니지?” (매직아워)">        <div class="text-box">            <p class="summary">‘800석→72000석’ 세븐틴 美친 성장 서사 “CG 아니지?” (매직아워)</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/06/2e8c207f-dac7-445c-8d3d-f0b590d5517d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -748,7 +756,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/423055</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/423055</guid>
             <pubDate>Sat, 06 Jul 2024 13:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/423055">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/06/98d5e106-525a-4778-bcc7-1c902e16782b.jpg" alt="‘데뷔 17주년’ 카라, 찬란히 피워낼 여름날 이야기">        <div class="text-box">            <p class="summary">‘데뷔 17주년’ 카라, 찬란히 피워낼 여름날 이야기</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/423055" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/06/98d5e106-525a-4778-bcc7-1c902e16782b.jpg" alt="‘데뷔 17주년’ 카라, 찬란히 피워낼 여름날 이야기">        <div class="text-box">            <p class="summary">‘데뷔 17주년’ 카라, 찬란히 피워낼 여름날 이야기</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/06/98d5e106-525a-4778-bcc7-1c902e16782b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -756,7 +764,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/423048</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/423048</guid>
             <pubDate>Sat, 06 Jul 2024 09:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/423048">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/06/eda3b4c7-d5ee-4a2c-b21b-389367b5622d.jpg" alt="WOOAH(우아), 강렬한 걸크러시 무장! ‘폼’ 제대로 올랐다 (음악중심)">        <div class="text-box">            <p class="summary">WOOAH(우아), 강렬한 걸크러시 무장! ‘폼’ 제대로 올랐다 (음악중심)</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/423048" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/06/eda3b4c7-d5ee-4a2c-b21b-389367b5622d.jpg" alt="WOOAH(우아), 강렬한 걸크러시 무장! ‘폼’ 제대로 올랐다 (음악중심)">        <div class="text-box">            <p class="summary">WOOAH(우아), 강렬한 걸크러시 무장! ‘폼’ 제대로 올랐다 (음악중심)</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/06/eda3b4c7-d5ee-4a2c-b21b-389367b5622d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -764,226 +772,232 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/423047</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/423047</guid>
             <pubDate>Sat, 06 Jul 2024 09:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/423047">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/06/c272ea6a-ef80-44a1-933d-c0705961b94e.jpg" alt="‘핫 컴백’ 스테이씨, 발칙하고 키치한 변신 (음중)">        <div class="text-box">            <p class="summary">‘핫 컴백’ 스테이씨, 발칙하고 키치한 변신 (음중)</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/423047" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/06/c272ea6a-ef80-44a1-933d-c0705961b94e.jpg" alt="‘핫 컴백’ 스테이씨, 발칙하고 키치한 변신 (음중)">        <div class="text-box">            <p class="summary">‘핫 컴백’ 스테이씨, 발칙하고 키치한 변신 (음중)</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/06/c272ea6a-ef80-44a1-933d-c0705961b94e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[엔플라잉 이승협, ‘선업튀’ 출연 후…“요즘 인기 실감 난다” (광구석 1열) (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/423046</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/423046</guid>
-            <pubDate>Sat, 06 Jul 2024 09:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/423046">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/06/e7fde681-a8a5-43f4-9d3d-b2fed91f25fe.jpg" alt="엔플라잉 이승협, ‘선업튀’ 출연 후…“요즘 인기 실감 난다” (광구석 1열)">        <div class="text-box">            <p class="summary">엔플라잉 이승협, ‘선업튀’ 출연 후…“요즘 인기 실감 난다” (광구석 1열)</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/06/e7fde681-a8a5-43f4-9d3d-b2fed91f25fe.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['2024 펩시 페스타' 아이브 출연 확정, 컬래버 신곡 무대 기대 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20240709100207891</link>
+            <guid>https://v.daum.net/v/20240709100207891</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:19 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 김지하 기자] 오는 9월 22일(일) 서울 송파구 잠실학생체육관에서 개최를 확정한 펩시 콘서트 ‘2024 펩시 페스타: 더 뉴 에라(PEPSI FESTA: THE NEW ERA)’에 대한 관심이 뜨겁다. 펩시의 프로젝트 파트너 아이브가 SNS 계정을 통해 펩시 콘서트 출연을 알리는 포스터를 게시했다. 해당 SNS 게시글을 통해 지난해 8월을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ARrC 8월 데뷔, '지우→현민' 미스틱스토리 신인 보이그룹이 온다 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20240709081308071</link>
-            <guid>https://v.daum.net/v/20240709081308071</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 윤혜영 기자] 미스틱스토리가 올해 8월 선보이는 신인 보이그룹의 이름은 'ARrC (아크)'다. ARrC(최한, 도하, 현민, 지빈, 끼엔, 리오토, 지우)는 8일 0시 공식 SNS 오픈과 함께 로고모션과 프로필을 전격 공개했다. 그룹명 ARrC (아크)는 'Always Remember the real Connection'의 약자로, 공간이나]]></content:encoded>
+            <title><![CDATA[에스파, '슈퍼노바' 인기 여전히 뜨겁다...굳건한 '1위' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20240709100200882</link>
+            <guid>https://v.daum.net/v/20240709100200882</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:19 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 에스파(aespa)가 '슈퍼노바(Supernova)'로 적수 없는 장기 흥행을 이어가고 있다. 에스파의 정규 1집 선공개 타이틀 곡 '슈퍼노바'는 지난 8일 발표된 국내 주요 음악 사이트 멜론, 지니 주간 차트(7월 1일~7일)에서 1위를 차지, 올해 발매된 곡 중 최장 기간 1위 신기록을 다시 한번 갈아 치웠다. 또한 '슈퍼노바'는 멜론, 지니]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['컴백 D-3' 엔하이픈, 'XO' MV 티저 공개..냉미남 매력 발산 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20240709081122028</link>
-            <guid>https://v.daum.net/v/20240709081122028</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 | 문완식 기자] 그룹 엔하이픈(ENHYPEN)이 컴백을 사흘 앞두고 극과 극을 오가는 반전 매력을 예고, 기대감을 높였다. 엔하이픈(정원, 희승, 제이, 제이크, 성훈, 선우, 니키)은 9일 0시 하이브 레이블즈 유튜브 채널을 통해 정규 2집 'ROMANCE : UNTOLD' 타이틀곡 'XO (Only If You Say Yes)' 뮤직비디]]></content:encoded>
+            <title><![CDATA['2024 PEPSI FESTA: THE NEW ERA', 아이브 출연 확정 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20240709100103841</link>
+            <guid>https://v.daum.net/v/20240709100103841</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:19 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 윤혜영 기자] 9월 22일 서울 송파구 잠실학생체육관에서 개최를 확정한 펩시 콘서트 ‘2024 PEPSI FESTA: THE NEW ERA’에 대한 관심이 뜨겁다. 펩시의 프로젝트 파트너 아이브는 최근 SNS 계정을 통해 펩시 콘서트 출연을 알리는 포스터를 게시했다. 해당 SNS 게시글을 통해 2023년 8월을 뜨겁게 달궜던 ‘PEPSI SU]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아스트로 출신 라키, 그리운 이에게 쓴 편지..'위 스틸 러브 유' 리릭 비디오 공개 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20240709081116025</link>
-            <guid>https://v.daum.net/v/20240709081116025</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 | 최혜진 기자] /사진= ‘We still love you’ 리릭 비디오 캡처그룹 아스트로 출신가수 라키가 그간의 그리움을 녹인 'We still love you' 리릭 비디오를 공개했다. 라키는 지난 8일 오후 6시 공식 SNS 채널을 통해 미니 2집 'BLANK'(블랭크) 수록곡 'We still love you'(위 스틸 러브 유) 리릭]]></content:encoded>
+            <title><![CDATA[이성경, 뮤지컬 '알라딘' 자스민 공주 역 낙점 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20240709095959709</link>
+            <guid>https://v.daum.net/v/20240709095959709</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:19 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이성경이 뮤지컬에 도전장을 내밀었다. 그의 첫 뮤지컬 데뷔작은 브로드웨이 히트작 '알라딘'이다. 9일 본지 취재에 따르면 이성경은 최근 뮤지컬 '알라딘'에 자스민 공주 역할로 낙점, 올 하반기에 무대에 선다. '알라딘'은 신비로운 아그라바 왕국에서 펼쳐지는 알라딘의 여정을 통해 대담한 모험과 클래식한 엔터테인먼트, 그리고 시간을 초월한 러브 스토리와]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘컴백 D-3’ 엔하이픈, 타이틀곡 ‘XO’ MV 티저 공개…반전 매력 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20240709081037014</link>
-            <guid>https://v.daum.net/v/20240709081037014</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 그룹 엔하이픈(ENHYPEN)이 컴백을 사흘 앞두고 극과 극을 오가는 반전 매력을 예고했다. 엔하이픈(정원, 희승, 제이, 제이크, 성훈, 선우, 니키)은 7월 9일 0시 하이브 레이블즈 공식 채널을 통해 정규 2집 ‘ROMANCE : UNTOLD’ 타이틀곡 ‘XO (Only If You Say Yes)’ 뮤직비디오 티저를 공개했다]]></content:encoded>
+            <title><![CDATA[god, 올해도 팬들과 함께… 9월 단독콘서트 개최 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20240709095910681</link>
+            <guid>https://v.daum.net/v/20240709095910681</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:19 GMT</pubDate>
+            <content:encoded><![CDATA[god(사진=아이오케이컴퍼니)[이데일리 스타in 윤기백 기자] 그룹 god(지오디)가 3년 연속 완전체 콘서트를 개최한다. 아이오케이컴퍼니는 9일 “국민그룹 god가 오는 9월 27일부터 사흘간 서울 올림픽공원 체조경기장(KSPO DOME)에서 단독 콘서트를 개최한다”며 “이번 공연은 탄탄한 라이브와 타의 추종을 불허하는 높은 퀄리티의 공연을 펼쳐왔던 g]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[베이비몬스터, 역시 라이브 장인..밴드 편곡 'FOREVER' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20240709080849968</link>
-            <guid>https://v.daum.net/v/20240709080849968</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 | 한해선 기자] /사진=잇츠라이브 YG 신인 걸그룹 베이비몬스터가 수준급 라이브 퍼포먼스로 글로벌 음악팬들의 마음을 사로잡았다. 베이비몬스터는 지난 8일 유튜브 채널 '잇츠라이브'에 출연해 신곡 'FOREVER'를 선보였다. 이들은 새롭게 편곡된 밴드 사운드에 맞춰 강렬한 에너지를 뿜어내며 '괴물 신예'라는 수식어에 걸맞은 실력을 다시금 입증]]></content:encoded>
+            <title><![CDATA[비비업, 오늘 데뷔 100일 맞아 '100'으로 보는 활약상 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20240709095807655</link>
+            <guid>https://v.daum.net/v/20240709095807655</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:19 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=선미경 기자] 신인 걸그룹 VVUP(비비업)이 데뷔 100일을 맞았다. VVUP(현희, 킴, 팬, 수연)은 오늘(9일) 0시 공식 SNS에 데뷔 100일 기념 축전 이미지를 게재했다. 'FOREVER VVUP'이라는 문구와 함께 네 멤버가 활동 기간 촬영한 사진들이 콜라주되어 있다. 무대와는 또 다른 내추럴한 무드 속에 레트로한 오브제로 VV]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[TXT, 日 오리콘 데일리·주간 랭킹 석권..2연속 발매 첫주 30만장 돌파 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20240709080755958</link>
-            <guid>https://v.daum.net/v/20240709080755958</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 | 문완식 기자] 그룹 투모로우바이투게더(TOMORROW X TOGETHER)가 일본 오리콘 일간과 주간 차트를 동시에 석권하며 열도를 뜨겁게 달궜다. 9일 오리콘에 따르면 투모로우바이투게더(수빈, 연준, 범규, 태현, 휴닝카이)의 일본 싱글 'CHIKAI'(誓い/치카이)가 최신 주간 싱글 랭킹(7월 15일 자/집계기간: 7월 1~7일)에서]]></content:encoded>
+            <title><![CDATA[NCT 127, '워크' 발매 기념 팝업스토어 오픈..시즈니만의 특별 아지트 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20240709095718625</link>
+            <guid>https://v.daum.net/v/20240709095718625</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:19 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 최혜진 기자] /사진=SM엔터테인먼트보이 그룹 NCT 127(엔시티 127)이 정규 6집 '워크'(WALK)를 다채롭게 즐길 수 있는 팝업스토어를 개최한다. 9일 소속사 SM엔터테인먼트에 따르면 NCT 127 정규 6집 발매 기념 팝업스토어 '워크 : 온 더 비트'(WALK : ON THE BEAT)는 7월 16일부터 28일까지 서울시 성동]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[TXT, 日 오리콘 데일리·주간 랭킹 석권…첫주 판매량 36만장 육박 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20240709080657946</link>
-            <guid>https://v.daum.net/v/20240709080657946</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 그룹 투모로우바이투게더가 일본 오리콘 일간과 주간 차트를 석권했다. 7월 9일 오리콘에 따르면 투모로우바이투게더(수빈, 연준, 범규, 태현, 휴닝카이) 일본 싱글 'CHIKAI'(誓い/치카이)가 최신 주간 싱글 랭킹(7월 15일 자/집계기간: 7월 1~7일)에서 35만 9000장의 판매량으로 1위에 올랐다. 이는 해외 아티스트가]]></content:encoded>
+            <title><![CDATA[장현승, 비스트 탈퇴 8년만 해명 "회사서 팬미팅 참석하지 말라더라" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20240709095608562</link>
+            <guid>https://v.daum.net/v/20240709095608562</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:19 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 한해선 기자] 그룹 비스트의 장현승이 8일 오후 서울 영등포 타임스퀘어 'GEEKSHOP' 매장에서 열린 1호점 오픈기념 파티에 참석해 포즈를 취하고 있다.  장문선 인턴기자 lovelymu@ /사진=장문선 인턴기자 lovelymu@ 가수 장현승이 그룹 비스트 탈퇴 당시 팬들에게 오해를 샀던 부분을 8년 만에 해명했다. 장현승은 최근 유료]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스트레이 키즈, 자체 최대 규모 새 월드투어 개최..화려한 귀환 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20240709080651944</link>
-            <guid>https://v.daum.net/v/20240709080651944</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=장우영 기자] 스트레이 키즈(Stray Kids)가 오는 8월부터 총 6회 스타디움 공연을 포함한 대규모 새 월드투어 &lt;dominate&gt;(도미네이트)를 개최하고 전 세계를 향한다.&lt;/dominate&gt; JYP엔터테인먼트는 8일 오후 11시 공식 SNS 채널에 스트레이 키즈의 2024년 첫 컴백작 'ATE'(에이트)를 활용한 새 월드투어 'Str]]></content:encoded>
+            <title><![CDATA[BTS 지민, 선공개 곡으로 美 빌보드 '핫 100' 진입 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20240709095555550</link>
+            <guid>https://v.daum.net/v/20240709095555550</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:19 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 이정민 기자] 그룹 방탄소년단 멤버 지민의 선공개 곡이 미국 빌보드 ‘핫 100’ 차트에 진입했다. 8일(현지 시각) 미국 음악 전문 매체 빌보드는 공식 SNS를 통해 지난달 28일 발표된 지민의 솔로 2집 ‘MUSE’의 선공개 곡 ‘Smeraldo Garden Marching Band (feat. 로꼬)’가 메인 송 차트 ‘핫 100’(]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[현아♥용준형 10월 결혼에 들썩 "버닝썬 연루자" VS "개인적 선택 인정" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20240709080502902</link>
-            <guid>https://v.daum.net/v/20240709080502902</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=최지예 기자]가수 현아(32·김현아)와 용준형(35) 커플이 백년가약을 맺는 가운데, 이들의 결혼을 두고 K팝 팬들의 갑론을박이 이어지고 있다.&nbsp; 8일 현아 소속사 앳에어리어는 "현아는 힘든 순간마다 서로에게 큰 위안이 되어준 용준형과 사랑의 결실을 맺고 결혼을 약속했다. 오는 10월 가까운 지인들을 모시고 예식을 진행하고 새로운 인생을 시작한]]></content:encoded>
+            <title><![CDATA[‘워터’ 타일라 한국 온다…8월 ‘OUF 2024’ 라인업 합류 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20240709095305432</link>
+            <guid>https://v.daum.net/v/20240709095305432</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:19 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 사진=게티이미지코리아‘워터’ 타일라 한국 온다…8월 ‘OUF 2024’ 라인업 합류 [공식] 복합 뮤직 페스티벌 ‘원 유니버스 페스티벌(OUF 2024)’이 1차 라인업을 공개했다. 9일 페스티벌 주최사 ㈜피치스그룹코리아(Peaches.)는 공식 SNS 채널을 통해 ‘원 유니버스 페스티벌 2024(ONE UNIVERSE FESTIVAL 202]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[르세라핌, 日 떴다 하면 오리콘 차트 들썩..팬미팅 전 회차 매진 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20240709080457898</link>
-            <guid>https://v.daum.net/v/20240709080457898</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=선미경 기자] 그룹 르세라핌(LE SSERAFIM)이 일본에서 놀라운 관객 동원력을 보여주었다. 르세라핌(김채원, 사쿠라, 허윤진, 카즈하, 홍은채)이 오는 13, 14, 15일 사흘간 일본 가나가와현 요코하마시 피아 아레나 MM에서 여는 ‘LE SSERAFIM FAN MEETING FEARNADA 2024 S/S - JAPAN’이 전 회차]]></content:encoded>
+            <title><![CDATA[에스파, 에스파를 넘다… '슈퍼노바' 7주 연속 멜론·지니 1위 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20240709095229412</link>
+            <guid>https://v.daum.net/v/20240709095229412</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:19 GMT</pubDate>
+            <content:encoded><![CDATA[에스파(사진=SM엔터테인먼트)[이데일리 스타in 윤기백 기자] 그룹 에스파(aespa)가 ‘슈퍼노바’(Supernova)로 신기록 행진을 이어가고 있다. 에스파의 정규 1집 선공개 타이틀곡 ‘슈퍼노바’는 지난 8일 발표된 국내 주요 음악 사이트 멜론, 지니 주간차트(7월 1~7일)에서 1위를 차지, 올해 발매된 곡 중 최장 기간 1위 신기록을 다시 한번]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스트레이 키즈, 자체 최대 규모 월드투어 ‘dominATE’ 개최…스타디움만 6회 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20240709080449895</link>
-            <guid>https://v.daum.net/v/20240709080449895</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 그룹 스트레이 키즈(Stray Kids)가 8월부터 총 6회 스타디움 공연을 포함한 대규모 새 월드투어 'dominATE'(도미네이트)를 개최하고 전 세계를 향한다. 소속사 JYP엔터테인먼트는 7월 8일 오후 11시 공식 채널에 스트레이 키즈의 2024년 첫 컴백작 'ATE'(에이트)를 활용한 새 월드투어 'Stray Kids Wo]]></content:encoded>
+            <title><![CDATA["신기록 계속된다"..에스파 'Supernova', 7주 연속 1위 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20240709095056333</link>
+            <guid>https://v.daum.net/v/20240709095056333</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:19 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=선미경 기자] 그룹 에스파(aespa,&nbsp;에스엠엔터테인먼트 소속)가 ‘Supernova’(슈퍼노바)로 신기록 행진을 이어가고 있다. 에스파의 정규&nbsp;1집 선공개 타이틀 곡 ‘Supernova’는 지난&nbsp;8일 발표된 국내 주요 음악 사이트 멜론,&nbsp;지니 주간 차트(7월&nbsp;1일~7일)에서&nbsp;1위를 차지,&nbsp;올해 발매된 곡 중 최장 기간&nbsp;1위 신기록을 다시 한]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방용국, 10일 독일→영국 간다..유럽 5개국 투어 개최 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20240709080436890</link>
-            <guid>https://v.daum.net/v/20240709080436890</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 | 안윤지 기자] /사진제공=YY엔터테인먼트가수 겸 프로듀서 방용국이 'III Europe Tour 2024(쓰리 유럽 투어 2024)'를 개최한다. 방용국은 최근 공식 SNS 등을 통해 유럽 투어 일정을 담은 포스터를 공개했다. 포스터에 따르면 방용국은 10월 13일 독일 쾰른을 시작으로 15일 폴란드 바르샤바, 16일 프랑스 파리, 18]]></content:encoded>
+            <title><![CDATA[god 완전체, 팬들 만난다···3년 연속 완전체 콘서트 개최 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20240709095011303</link>
+            <guid>https://v.daum.net/v/20240709095011303</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:19 GMT</pubDate>
+            <content:encoded><![CDATA[[서울경제] 그룹 god(지오디)가 3년 연속 완전체 콘서트를 개최한다. 9일 오전 아이오케이컴퍼니는 "국민 그룹 god가 오는 9월 27일부터 사흘간 서울 올림픽공원 KSPO DOME(체조경기장)에서 단독 콘서트를 개최한다. 이번 공연은 탄탄한 라이브와 타의 추종을 불허하는 높은 퀄리티의 공연을 펼쳐왔던 god의 명성에 맞게 압도적인 공연 스케일과 높은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘데뷔 100일’ VVUP, 숫자로 본 활약상 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20240709080331868</link>
-            <guid>https://v.daum.net/v/20240709080331868</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[신인 걸그룹 VVUP(비비업)이 데뷔 100일을 맞았다. VVUP(현희, 킴, 팬, 수연)은 오늘(9일) 0시 공식 SNS에 데뷔 100일 기념 축전 이미지를 게재했다. ‘FOREVER VVUP’이라는 문구와 함께 네 멤버가 활동 기간 촬영한 사진들이 콜라주되어 있다. 무대와는 또 다른 내추럴한 무드 속에 레트로한 오브제로 VVUP만의 키치하면서도 힙]]></content:encoded>
+            <title><![CDATA[美 빌보드 '핫 100'서 블랙핑크 리사 70위·BTS 지민 88위 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20240709095010302</link>
+            <guid>https://v.daum.net/v/20240709095010302</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:19 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 최주성 기자 = 그룹 블랙핑크 리사와 방탄소년단(BTS) 지민이 솔로곡으로 각각 미국 빌보드 메인 싱글 차트 '핫 100'에 진입했다. 미국 빌보드 차트 공식 사회관계망서비스(SNS)는 리사의 '록스타'(ROCKSTAR)가 70위, 지민의 '스메랄도 가든 마칭 밴드'(Smeraldo Garden Marching Band)가 88위로 차트에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[10년만 정규앨범 낸 솔루션스 "틀에서 벗어난 '센 것' 만들었죠" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20240709080023774</link>
-            <guid>https://v.daum.net/v/20240709080023774</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 최주성 기자 = "앨범을 접했을 때 '이게 뭐지' 하는 생각이 들고 호기심을 가지길 바랐어요. 그래서 앨범 커버부터 일반적이지 않고, 이상하고, 심지어 불편할 수 있는 이미지를 활용했습니다." (나루) 밴드 솔루션스(THE SOLUTIONS)가 지난달 발매한 정규 3집 'N/A'는 한마디로 정의할 수 없는 작품이다. 앨범 커버 이미지에는]]></content:encoded>
+            <title><![CDATA[에스파 ‘Supernova’, 차트 7주 연속 1위…美 빌보드 주목 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20240709094728220</link>
+            <guid>https://v.daum.net/v/20240709094728220</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:19 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 김한길 기자] ‘글로벌 히트메이커’ 그룹 에스파(aespa)가 ‘슈퍼노바(Supernova)’로 신기록 행진을 이어가고 있다. 에스파의 정규 1집 선공개 타이틀 곡 ‘슈퍼노바’는 지난 8일 발표된 국내 주요 음악 사이트 멜론, 지니 주간 차트(7월 1일~7일)에서 1위를 차지, 올해 발매된 곡 중 최장 기간 1위 신기록을 다시 한번 갈아 치웠]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["무려 8년 만" 투애니원·YG양현석 극적 회동…완전체 컴백 '청신호' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20240709080005745</link>
-            <guid>https://v.daum.net/v/20240709080005745</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=정혜원 기자] 그룹 투애니원의 완전체 컴백에 청신호가 켜졌다. 지난달 말 투애니원 멤버 완전체는 YG엔터테인먼트(이하 YG) 양현석 총괄과 만남을 가졌다. 당시 YG에 따르면 양현석 총괄과 투애니원 멤버 4인은 지난달 27일 YG 신사옥에서 만났다. 양 총괄은 투애니원 멤버들을 따뜻하게 맞이해 주었고, 이들은 약 2시간에 걸쳐 공식 미]]></content:encoded>
+            <title><![CDATA['코인 논란' 오킹 출연한 '더 인플루언서', 8월 공개 확정 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20240709100133876</link>
+            <guid>https://v.daum.net/v/20240709100133876</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:23 GMT</pubDate>
+            <content:encoded><![CDATA[유튜버 오킹의 코인 사기 의혹이 해결되지 않은 가운데 그의 출연작인 '더 인플루언서'가 오는 8월 6일 공개된다. 9일 넷플릭스 측은 공식입장을 통해 '더 인플루언서'가 내달 6일 공개된다고 밝혔다. '더 인플루언서'는 영향력이 곧 몸값이 되는 대한민국 인플루언서 77인 중 최고의 영향력을 가진 사람을 찾기 위해 경쟁하는 소셜 서바이벌이다. '피지컬: 1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[달샤벳 출신 조아영, 박군·오유진과 한솥밥 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20240709081318073</link>
-            <guid>https://v.daum.net/v/20240709081318073</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[배우 조아영이 종합 엔터테인먼트사 토탈셋(대표 김균민) 사단에 합류했다. 9일 오전 토탈셋은 “매력적인 비주얼과 연기력, 넘치는 끼를 갖춘 배우 조아영과 전속계약을 체결했다. 당사는 조아영이 만능 엔터테이너로서 활약할 수 있도록 적극 지원하겠다”고 전했다. 조아영은 지난 2011년 걸그룹 달샤벳 멤버로 데뷔, 활동 종료 후 연기자로 전향하며 ‘라켓소]]></content:encoded>
+            <title><![CDATA[홍석천, 변우석은 맞고 주우재는 아니었던 이유 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20240709100112853</link>
+            <guid>https://v.daum.net/v/20240709100112853</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:23 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 홍석천, 변우석은 맞고 주우재는 아니었던 이유 (구해줘! 홈즈) 방송인 홍석천이 방송인 김새롬과 함께 ‘2024 인테리어 특집2’에 출연한다. 11일 방송되는 MBC ‘구해줘! 홈즈’(연출:정다히,김문섭,김진경,김완철/이하 ‘홈즈’)에서는 가구별 인테리어가 소개된다. 이날 방송은 ‘2024 인테리어 특집2’ 특집으로 2인·3인·4인 가구별 인]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["파라다이스 키스 실사화"…박보검X뉴진스 다니엘, C사 행사장에서 비현실적 미모 자랑 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20240709081302067</link>
-            <guid>https://v.daum.net/v/20240709081302067</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=이소정 기자] 박보검과 다니엘이 화려한 비주얼로 SNS상에서 화제를 일으키고 있다. 지난 8일 프랑스 럭셔리&nbsp;브랜드 셀린느(CELINE)의 일본 오사카에서 진행되는 셀린느 이벤트에 배우 박보검과 그룹 뉴진스의 멤버 다니엘이 참석해 눈길을 끌었다. 박보검은 검은색 슈트 차림에 페도라를 착용해 신선한 무드를 연출했다. 팬들은 모자 아이템에]]></content:encoded>
+            <title><![CDATA[임영웅, '팬앤스타' 솔로랭킹 83주 연속 1위 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20240709100053823</link>
+            <guid>https://v.daum.net/v/20240709100053823</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:23 GMT</pubDate>
+            <content:encoded><![CDATA['팬앤스타' 7월 첫째 주 솔로 랭킹 투표에서 2759만 6338표 득표 [더팩트 | 이나래 기자] 가수 임영웅이 주간 아이돌 랭킹사이트 '팬앤스타' 솔로 랭킹에서 83주 연속 1위를 차지하며 명예의 전당에 입성했다. 임영웅은 지난 1일부터 8일까지 진행된 '팬앤스타' 7월 첫째 주 솔로 랭킹 투표에서 2759만 6338표를 얻으며 1위에 올랐다. 이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이대호, 머리 쓴 운동부…전략 통했다, '안 CEO' 안정환도 인정 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20240709081301065</link>
-            <guid>https://v.daum.net/v/20240709081301065</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 정빛 기자] 0.5성급 무인도 임원 도전자 이대호가 체크인을 무사히 마무리했다. 시청률 조사 기관 닐슨코리아에 따르면 7월 8일 방송된 MBC 예능프로그램 '푹 쉬면 다행이야'(연출 김명진 김문기 이준범 김기호, 작가 권정희, 이하 '푹다행')는 전국 가구 기준 5.9%의 시청률을 기록하며 11주 연속 동시간대 예능 1위를 차지했]]></content:encoded>
+            <title><![CDATA[있지 리아, 활동 재개 “하반기 신규 앨범부터 활동 복귀 결정” (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20240709100041809</link>
+            <guid>https://v.daum.net/v/20240709100041809</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:23 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 ITZY(있지) 리아가 활동을 재개한다. 소속사 JYP엔터테인먼트(이하 JYP)는 8일 SNS를 통해 “리아는 그간 겪어온 긴장과 불안 증상이 치료와 휴식을 통해 많이 호전된 상태”라고 상황을 전했다. 이어 “리아와 신중한 논의 후 하반기 발매 예정인 ITZY의 신규 앨범을 시작으로 활동 복귀를 결정했다”고 밝혔다. JYP는 “다만 신규 앨범 발매]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이찬원, 결혼 포기 선언 "아내한테 돈 다 맡기고 쓰려 했는데…" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20240709081202042</link>
-            <guid>https://v.daum.net/v/20240709081202042</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=김서윤 기자]가수 이찬원이 결혼 포기를 언급한다. 9일 방송되는 KBS 2TV 예능 ‘하이엔드 소금쟁이’에서는 남편의 한 달 용돈 금액을 둘러싸고 서로 다른 생각을 가진 동상이몽 부부의 고민이 소개된다. 이날 스튜디오에 등장한 의뢰인 부부 중 남편은 “결혼 생활 23년간 아내에게 용돈을 받아 생활해왔다”면서 사회&nbsp;생활을&nbsp;하기에는 턱없이 부족하]]></content:encoded>
+            <title><![CDATA[김고은, '하차 손호준' 빈자리 채운다..'삼시세끼' 어촌편6 첫 게스트 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20240709100032795</link>
+            <guid>https://v.daum.net/v/20240709100032795</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:23 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=하수정 기자] 배우 김고은이 '삼시세끼' 새 시즌 어촌편6의 첫 게스트로 출격한다. 9일 오전 OSEN 취재 결과, 김고은은 최근 진행된 tvN 새 예능 '삼시세끼' 어촌편6의 녹화에 참여해 차승원, 유해진 등과 만났다. 이번 시즌에는 막내 손호준이 빠진 가운데 매회 게스트를 초청할 예정인데, 지난주 첫 회 게스트로 김고은이 등장한 것. 김고]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘아빠는 꽃중년’ 이지훈, 46세 ‘최연소 꽃대디’ 전격 합류…출산 D-30 ‘예비 아빠’ 일상 공개 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20240709081200037</link>
-            <guid>https://v.daum.net/v/20240709081200037</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[-이지훈 등장에 안재욱 “고등학생 때 처음 봤는데, 중년 타이틀로 같이 있다니…” -이지훈, “첫 임신 9주 차 유산 아픔…시험관 시술로 임신 성공! 태명은 ‘젤리’~” -기상하자마자 “아이고” 곡소리?→꽃대디들, “우리랑 비슷하구나!” 공감 폭발! -채널A ‘아빠는 꽃중년’ 12회, 11일(목) 밤 9시 30분 방송! 가수 겸 뮤지컬 배]]></content:encoded>
+            <title><![CDATA[홍석천, 변우석 모델 시절부터 눈여겨봤네…배우 하라고 조언 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20240709100017765</link>
+            <guid>https://v.daum.net/v/20240709100017765</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:23 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 정빛 기자] 홍석천이 변우석과 얽힌 일화를 공개한다. 11일 방송되는 MBC '구해줘! 홈즈'(이하 '홈즈')에서는 배우 겸 방송인 홍석천과 방송인 김새롬이 '2024 인테리어 특집2'에 출연, 가구별 인테리어를 소개한다. 이날 방송은 '2024 인테리어 특집2' 특집으로 2인·3인·4인 가구별 인테리어를 소개한다. 김숙은 "]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[선우용여 "박미선, 내 딸 같아…남편상에도 내내 곁 지켜줘" 눈물 왈칵 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20240709081159036</link>
-            <guid>https://v.daum.net/v/20240709081159036</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=유은비 기자] ‘라디오스타’에 출연한 ‘시트콤 대모’ 선우용여가 이순재와 연기한 과거 영화 속 러브신 촬영 비하인드를 공개한다. 이어 고(故) 신성일과 러브신의 차이점까지 언급해 모두의 시선이 집중됐다고 전해져 본방송을 궁금케 한다. 오는 10일 MBC ‘라디오스타’는 선우용여, 정영주, 정지선, 허니제이가 출연하는 ‘대모랜드’ 특집으로]]></content:encoded>
+            <title><![CDATA[유희제 "'커넥션' 좋은 반응 감사…오래 연기하는 게 목표" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20240709100013749</link>
+            <guid>https://v.daum.net/v/20240709100013749</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:23 GMT</pubDate>
+            <content:encoded><![CDATA[극 중 마약 유통책 공진욱 역 맡아 긴장감 유발 극단 불의전차 공동 대표…"연극 무대 애착 커" [더팩트 | 공미나 기자] 짧은 분량에도 임팩트 있는 연기로 시청자들에게 강한 인상을 남기는 배우가 있다. 드라마 '커넥션'의 유희제가 그런 경우다. 수많은 등장인물이 등장하는 이 작품에서 유희제는 강한 존재감을 드러내며 극에 긴장감을 불어넣는 역할을 했다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[블랙핑크 제니, 실내흡연 논란 일파만파…스태프 얼굴에 "후" 포착 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20240709081152035</link>
-            <guid>https://v.daum.net/v/20240709081152035</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=장진리 기자] 그룹 블랙핑크 제니가 실내에서 전자담배를 피우는 모습이 포착돼 갑론을박이 일고 있다. 제니는 2일 자신의 유튜브 채널에 올린 브이로그 영상에서 실내 흡연으로 추정되는 모습을 담았다가 다급히 삭제했다. 이 영상은 '어 모먼트 인 카프리 위드 제니'라는 제목으로 올라온 것으로, 제니의 런웨이 데뷔였던 자크뮈스 패션쇼 전후 모]]></content:encoded>
+            <title><![CDATA[장현승 "비스트 팬미팅 무단 불참 NO, 회사 말 따른것"...속속 드러난 '큐브' 만행 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20240709100001710</link>
+            <guid>https://v.daum.net/v/20240709100001710</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:23 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=김현서 기자] 비스트 출신 솔로가수 장현승이 그룹 탈퇴 직전 팬미팅을 불참한 이유를 설명했다. 장현승은 최근 유료 소통 어플리케이션 프롬을 통해 2016년 일본 팬미팅 불참 이유를 해명했다. 장현승은 당시 상황에 대해 "팀을 탈퇴하기로 (이야기를) 다 끝낸 상황이었다. 조만간 탈퇴 기사가 공식적으로 나갈 거라며 팬미팅 참석하지 말라고 하더라]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[양재웅 "母, 하니에 '결혼 신중하라' 했는데..하니가 먼저 프러포즈" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20240709081104021</link>
-            <guid>https://v.daum.net/v/20240709081104021</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선닷컴 이게은기자] 정신건강의학과 의사 양재웅이 예비신부 가수 겸 배우 하니에게 애정을 드러냈다. 8일 방송된 채널A '절친 토큐멘터리─4인용식탁'(이하 '4인용식탁')에서는 정신건강의학과 의사 형제 양재진, 양재웅이 출연했다. 양재웅은 양재진과 단골 식당을 방문, "이곳이 여자친구를 처음 만난 곳이다. 지하 (홀)에서 처음 인사를]]></content:encoded>
+            <title><![CDATA[‘한일톱텐쇼’ 전유진 첫사랑 등장?…아이코는 연예인 가족 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20240709100001711</link>
+            <guid>https://v.daum.net/v/20240709100001711</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:23 GMT</pubDate>
+            <content:encoded><![CDATA[‘한일톱텐쇼’에서 화제를 모았던 전유진의 첫사랑이 등장한다. MBN ‘한일톱텐쇼’는 한일 국가대표 현역 가수들이 출격해 트로트는 물론 K-팝, J-팝까지 한일 양국의 숨겨진 명곡을 선곡, 치열한 명곡 대결을 벌이는 ‘음악 예능 쇼’다. 9일 밤 10시 방송될 MBN ‘한일톱텐쇼’ 7회에서는 한일 국가대표들의 가족들과 함께하는 ‘한일가족의 밤’이 열린다. ‘]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스트레이 키즈, 새 월드투어 'dominATE' 개최…자체 최대 규모 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20240709081026012</link>
-            <guid>https://v.daum.net/v/20240709081026012</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 박서연 기자] 그룹 스트레이 키즈가 오는 8월부터 총 6회 스타디움 공연을 포함한 대규모 새 월드투어 'dominATE'(도미네이트)를 개최하고 전 세계를 향한다. JYP엔터테인먼트는 8일 밤 11시 공식 SNS 채널에 스트레이 키즈의 2024년 첫 컴백작 'ATE'(에이트)를 활용한 새 월드투어 'Stray Kids World Tour]]></content:encoded>
+            <title><![CDATA[루이 비통, 2024 파리 올림픽·패럴림픽 메달 트레이 공개 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20240709095930698</link>
+            <guid>https://v.daum.net/v/20240709095930698</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:23 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 문완식 기자] 루이 비통이 2024 파리 올림픽과 패럴림픽 경기를 위한 메달 트레이를 공개했다. 루이 비통의 트렁크 제작 헤리티지를 연상시키는 메달 트레이는 가죽 제품을 전문으로 하는 '매느 에 루아르(Maine-et-Loire)' 지방 '볼리우 쉬르 라용(Beaulieu-sur-Layon)' 공방 소속의 루이 비통 장인들이 제작했다. 트레]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘탐정들의 영업비밀’ 김원효 “나 같으면 교도소 들어간다”…종교생활 한다던 아내, 알고 보니 전남편 ‘옥바라지’ 중? (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20240709081000001</link>
-            <guid>https://v.daum.net/v/20240709081000001</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[- 신학교’ 출신 데프콘, 살벌한 기도? “천벌 받게 해주세요!” 놀라운 결말에 ‘공감요정’ 유인나 ‘눈물 펑펑’ - ‘경찰출신 1호 탐정’ 박민호 “조폭 간부들은 영치금도 몇 천씩”…기묘한 ‘옥바라지’ 사연에 MC들 분노 폭발! “저건 욕바가지” 채널A 생활밀착형 탐정 실화극 ‘탐정들의 영업비밀’에서 '경찰 출신 1호' 박민호 탐정이 아들 박준석]]></content:encoded>
+            <title><![CDATA['이젠혼자다' 최동석 "가족들, 어느 날 갑자기 집에서 사라져" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20240709095928695</link>
+            <guid>https://v.daum.net/v/20240709095928695</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:23 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 김지현 기자] 방송인 박지윤과 이혼한 최동석이 '이제 혼자다'를 통해 4년 만에 방송 복귀 신호탄을 쏘아 올린다. 9일(화) 오후 10시에 방송될 TV 조선 신규 관찰 예능 파일럿 프로그램 '이제 혼자다' 1회에서는 최동석이 서울과 제주를 오가는 근황과 혼자가 되어 가는 중인 심경을 공개할 예정이다. "어느 날 집에 돌아왔는데, 가족들이 집에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['나쁜 기억 지우개' 김재중, 반려견에게 구박 당해…집안 서열 최하위 인증 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20240709080903977</link>
-            <guid>https://v.daum.net/v/20240709080903977</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 윤혜영 기자] MBN 금토미니시리즈 ‘나쁜 기억 지우개’ 김재중이 반려견에게 구박받는 촬영 스틸이 첫 공개돼 그 배경에 관심이 집중된다. 8월 2일 첫 방송되는 MBN 새 금토미니시리즈 ‘나쁜 기억 지우개’(극본 정은영, 연출 윤지훈 김나영)는 기억지우개로 인생이 바뀐 남자와 그의 첫사랑이 되어버린 여자의 아슬아슬 첫사랑 조작 로맨스로 한국]]></content:encoded>
+            <title><![CDATA[현아♥용준형, 공개 열애→결혼 발표했지만…대중 반응은 ‘냉랭’ (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20240709095851672</link>
+            <guid>https://v.daum.net/v/20240709095851672</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:23 GMT</pubDate>
+            <content:encoded><![CDATA[공개 열애 중이던 가수 현아와 용준형이 10월 결혼하는 가운데, 누리꾼들의 시선이 싸늘하다. 그룹 포미닛 멤버로 활동했던 현아와 그룹 비스트 멤버로 데뷔했던 용준형은 큐브엔터테인먼트에서 한솥밥을 먹은 인연이 있다. 또 용준형은 2010년 발매된 현아 솔로곡 ‘체인지’ 뮤직비디오에 동반 출연하고 방송 무대에 함께 오르는 등 콜라보 활동을 한 바 있다. 지난]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이지훈 "첫 임신 9주 차 유산 아픔…이후 시험관으로 성공 태명은 '젤리'" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20240709080841966</link>
-            <guid>https://v.daum.net/v/20240709080841966</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선닷컴 김준석 기자] 가수 겸 뮤지컬 배우 이지훈이 '아빠는 꽃중년'에 46세 '최연소 꽃대디'로 전격 합류해 출산을 한 달 앞둔 '예비 아빠'의 일상을 공개한다. 11일(목) 밤 9시 30분 방송하는 채널A '아빠는 꽃중년' 12회에서는 '꽃대디' 김용건-김구라-신성우-안재욱-김원준에 이어, 이지훈이 '막내 꽃]]></content:encoded>
+            <title><![CDATA[‘인사이드 아웃2’ 꺾은 ‘돌풍’ (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20240709095802651</link>
+            <guid>https://v.daum.net/v/20240709095802651</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:23 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 ‘돌풍’이 주간 통합 콘텐츠 랭킹에서 1위를 차지했다. OTT 콘텐츠 통합 검색 플랫폼 키노라이츠가 7월 2주차(7/1~7/7) 통합 콘텐츠 랭킹을 공개했다. 넷플릭스 시리즈 '돌풍'이 지난 6월 28일 공개 후 처음으로 주간 통합 콘텐츠 랭킹에서 1위를 차지했다. '돌풍'은 부패한 거대권력을 뿌리째 뽑아버리고 싶은 국무총리와 그에 맞서는 경제]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[서인국이 ‘마라탕후루’까지?..이런 팬미팅 또 없습니다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20240709080730954</link>
-            <guid>https://v.daum.net/v/20240709080730954</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박소영 기자] 서인국이 2024 국내 팬미팅 ‘Heart Cream’을 성황리에 마무리했다. 서인국은 지난 6일(토) 오후 2시, 7시 2회차에 걸쳐 개최된 2024 국내 팬미팅 ‘Heart Cream’을 통해 420분의 꽉 차고도 넘치는 시간을 선물했다. 2024 국내 팬미팅 ‘Heart Cream’은 지난해부터 시작된 아시아 투어에 이어]]></content:encoded>
+            <title><![CDATA['KBS 출신' 김선근 아나, 소속사 찾았다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20240709095758648</link>
+            <guid>https://v.daum.net/v/20240709095758648</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:23 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 조혜진 기자) 전 아나운서 김선근이 아츠로이엔티에 새 둥지를 틀었다. 소속사 아츠로이엔티는 9일 "최근 전 KBS 아나운서였던 김선근과 전속계약을 체결했다"고 밝혔다. 이어 "김선근과 좋은 인연을 맺게 돼 기쁘다. 타고난 입담과 한 번 보면 잊을 수 없는 매력을 가지고 있는 프로 MC인 만큼 다양한 분야에서의 활약이 기대된다"며 "앞으로 아나]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[류정남 ‘소금쟁이’서 전 재산 날린 근황 “2억 8천, 한달 만에 사라져” (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20240709080718951</link>
-            <guid>https://v.daum.net/v/20240709080718951</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김한길 기자] 개그맨 류정남의 안타까운 사연에 전해진다. 9일 방송되는 KBS2 예능프로그램 ‘하이엔드 소금쟁이’에서는 짠벤져스 MC 군단 이찬원, 양세형, 조현아, 하하와 머니트레이너 김경필에게 안타까움을 안기는 개그맨 류정남의 근황이 소개된다. 이날 방송에서는 과거 ‘개그콘서트'의 인기 코너 ‘서울메이트’ 등에서 특유의 경상도 사투리로]]></content:encoded>
+            <title><![CDATA[방탄소년단, '팬앤스타' 그룹랭킹 83주 연속 1위 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20240709095641578</link>
+            <guid>https://v.daum.net/v/20240709095641578</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:23 GMT</pubDate>
+            <content:encoded><![CDATA['팬앤스타' 7월 첫째 주 그룹랭킹 투표에서 568만 3799표 득표 [더팩트 | 이나래 기자] 그룹 방탄소년단이 주간 아이돌 랭킹사이트 '팬앤스타' 그룹 랭킹에서 83주 연속 1위에 올랐다. 방탄소년단은 지난 1일부터 8일까지 진행된 '팬앤스타' 7월 첫째 주 그룹랭킹 투표에서 568만 3799표를 얻으며 1위에 올랐다. 이어 플레이브가 439만 4]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[설경구 드라마 '돌풍', 통합 콘텐트 랭킹 1위 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20240709080641941</link>
-            <guid>https://v.daum.net/v/20240709080641941</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 시리즈 '돌풍'이 7월 2주차 주간 통합 콘텐트 랭킹에서 1위를 차지했다고 키노라이츠가 9일 전했다. '돌풍'은 부패한 거대권력을 뿌리째 뽑아버리고 싶은 국무총리와 그에 맞서는 경제부총리가 대립하며 벌어지는 이야기를 그린 작품이다. 주연을 맡은 배우 설경구와 김희애의 명품 연기로 호평을 이끈 바 있다. 지난 2주 동안 연속 1위를 지켰던]]></content:encoded>
+            <title><![CDATA[“이혼결정 임박” 제니퍼 로페즈, 벤 애플렉과 화해 가능성 없다 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
+            <link>https://v.daum.net/v/20240709094437107</link>
+            <guid>https://v.daum.net/v/20240709094437107</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:27 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]할리우드 커플 제니퍼 로페즈(54)와 벤 애플렉(51)의 이혼 시계가 빨라지고 있다. 한 내부자는 8일(현지시간) 페이지식스와 인터뷰에서 “둘이 다시 합치는 것은 날이 갈수록 희박해 보인다”고 말했다. 이어 “그 무엇도 로페즈의 정신을 꺾을 수 없다”면서 “그녀는 재미와 웃음으로 가득한 여름을 보내고 싶어한다”고 전했다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘출소’ 정준영, 프랑스 목격담 “여자 꼬시고 한식당 연다고” (다음 연예 ─ 뉴스 ─ 해외)]]></title>
+            <link>https://v.daum.net/v/20240709081800167</link>
+            <guid>https://v.daum.net/v/20240709081800167</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:27 GMT</pubDate>
+            <content:encoded><![CDATA[집단 성폭행, 불법 촬영물 유포 등의 혐의로 지난 3월 출소한 가수 정준영(35)의 프랑스 목격담이 나왔다. 지난 8일 X(구 트위터)에는 프랑스 리옹에서 포착된 정준영의 근황이 올라왔다. 정준영을 리옹의 한 클럽에서 봤다는 프랑스 누리꾼은 “바에서 여자를 꼬시면서 인스타그램 계정을 물어봤다. 리옹에 한식당을 열 거라고 했다더라. 본인이 한국에서 유명한 가]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[인사이드 아웃 ‘까칠이’ 민디 캘링, 득녀... 벌써 세 아이 엄마 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
@@ -1077,368 +1091,368 @@
             <content:encoded><![CDATA[[TV리포트=강나연 기자] 故 마이클 잭슨의 유명한 '네버랜드' 저택이 남부 캘리포니아 산불의 경로에 있어 파괴 위험에 처했다. 7일(현지 시간) TMZ에 따르면 산타바바라 카운티의 네버랜드 저택은 현재 캘리포니아에 큰 피해를 입히고 있는 '레이크 산불'과 가까워져 그 인근에는 대피령이 내려졌다. 올해 초, 네버랜드는 마이클 잭슨의 삶을 다룬 전기 영화를]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['바비' 마고 로비, 결혼 8년 만에 임신 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
-            <link>https://v.daum.net/v/20240708144316430</link>
-            <guid>https://v.daum.net/v/20240708144316430</guid>
-            <pubDate>Mon, 08 Jul 2024 06:22:01 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 할리 퀸, 바비 등으로 유명한 할리우드 배우 마고 로비가 엄마가 된다. 미국 연예매체 피플은 7일(현지시간) "마고 로비가 임신했다"라고 보도했다. 마고 로비와 톰 애커리는 지난 2013년, 제2차 세계대전에 대해 다룬 드라마 '스위트 프랑세즈'에서 처음 주연 배우와 조감독으로 만나 인연을 맺고 연인으로 발전, 2016년 12월]]></content:encoded>
+            <title><![CDATA[god, 올해도 팬들과 함께… 9월 단독콘서트 개최 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/018/0005784810</link>
+            <guid>https://m.entertain.naver.com/now/article/018/0005784810</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[god(사진=아이오케이컴퍼니) 그룹 god(지오디)가 3년 연속 완전체 콘서트를 개최한다. 아이오케이컴퍼니는 9일 “국민그룹 god가 오는 9월 27일부터 사흘간 서울 올림픽공원 체조경기장(KSPO DOME)에서 단]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[워터밤·'인기가요' MC→'편스토랑'까지…데드풀·울버린, 내한의 신기원 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
-            <link>https://v.daum.net/v/20240708143005887</link>
-            <guid>https://v.daum.net/v/20240708143005887</guid>
-            <pubDate>Mon, 08 Jul 2024 06:22:01 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자)&nbsp;마블 시네마틱 유니버스(MCU) 영화 '데드풀과 울버린'의 주인공 라이언 레이놀즈와 휴 잭맨이 내한의 신기원을 열었다. 라이언 레이놀즈, 휴 잭맨, 숀 레비 감독은 지난 3일부터 5일까지 2박 3일 간의 일정으로 내한했다. MCU 영화의 주연배우와 감독이 내한한 것은 지난해 '가디언즈 오브 갤럭시 Volume.3'(가오갤3) 팀]]></content:encoded>
+            <title><![CDATA[비비업(VVUP), 오늘 데뷔 100일 맞아 '100'으로 보는 활약상 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/109/0005112898</link>
+            <guid>https://m.entertain.naver.com/now/article/109/0005112898</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[신인 걸그룹 VVUP(비비업)이 데뷔 100일을 맞았다. VVUP(현희, 킴, 팬, 수연)은 오늘(9일) 0시 공식 SNS에 데뷔 100일 기념 축전 이미지를 게재했다. 'FOREVER VVUP'이라는 문구와 함께]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['컴백 D-3' 엔하이픈, 'XO' MV 티저 공개..냉미남 매력 발산 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/108/0003248833</link>
-            <guid>https://m.entertain.naver.com/now/article/108/0003248833</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 엔하이픈(ENHYPEN)이 컴백을 사흘 앞두고 극과 극을 오가는 반전 매력을 예고, 기대감을 높였다. 엔하이픈(정원, 희승, 제이, 제이크, 성훈, 선우, 니키)은 9일 0시 하이브 레이블즈 유튜브 채널을 통해]]></content:encoded>
+            <title><![CDATA[위너 이승훈X기안 84, 이 조합 무엇? 예상못한 컬래버 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/109/0005112897</link>
+            <guid>https://m.entertain.naver.com/now/article/109/0005112897</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[위너 이승훈이 첫 미니 앨범 타이틀곡 '딱 내 스타일이야'의 특별한 컬래버레이션을 예고했다. YG엔터테인먼트는 9일 위너 공식 SNS에 'LEE SEUNGHOON X 기안84 - '딱 내 스타일이야 (MY TYPE)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아스트로 출신 라키, 그리운 이에게 쓴 편지..'위 스틸 러브 유' 리릭 비디오 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/108/0003248832</link>
-            <guid>https://m.entertain.naver.com/now/article/108/0003248832</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 아스트로 출신가수 라키가 그간의 그리움을 녹인 'We still love you' 리릭 비디오를 공개했다. 라키는 지난 8일 오후 6시 공식 SNS 채널을 통해 미니 2집 'BLANK'(블랭크) 수록곡 'We]]></content:encoded>
+            <title><![CDATA[NCT 127, '워크' 발매 기념 팝업스토어 오픈..시즈니만의 특별 아지트 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/108/0003248868</link>
+            <guid>https://m.entertain.naver.com/now/article/108/0003248868</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[보이 그룹 NCT 127(엔시티 127)이 정규 6집 '워크'(WALK)를 다채롭게 즐길 수 있는 팝업스토어를 개최한다. 9일 소속사 SM엔터테인먼트에 따르면 NCT 127 정규 6집 발매 기념 팝업스토어 '워크 :]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘컴백 D-3’ 엔하이픈, 타이틀곡 ‘XO’ MV 티저 공개…반전 매력 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/609/0000873313</link>
-            <guid>https://m.entertain.naver.com/now/article/609/0000873313</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 엔하이픈(ENHYPEN)이 컴백을 사흘 앞두고 극과 극을 오가는 반전 매력을 예고했다. 엔하이픈(정원, 희승, 제이, 제이크, 성훈, 선우, 니키)은 7월 9일 0시 하이브 레이블즈 공식 채널을 통해 정규 2집]]></content:encoded>
+            <title><![CDATA[BTS 지민, 선공개 곡으로 美 빌보드 '핫 100' 진입 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/117/0003848878</link>
+            <guid>https://m.entertain.naver.com/now/article/117/0003848878</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 방탄소년단 멤버 지민의 선공개 곡이 미국 빌보드 ‘핫 100’ 차트에 진입했다. 8일(현지 시각) 미국 음악 전문 매체 빌보드는 공식 SNS를 통해 지난달 28일 발표된 지민의 솔로 2집 ‘MUSE’의 선공개]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 지민, 빌보드 '핫100' 다섯 번째 진입…신곡 88위 데뷔 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/003/0012654379</link>
-            <guid>https://m.entertain.naver.com/now/article/003/0012654379</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 슈퍼 그룹 '방탄소년단'(BTS) 멤버 지민이 미국 빌보드 메인 싱글차트 '핫100'에 솔로 자격으로 다섯 번째 진입했다. 8일(현지시간) 빌보드 소셜 미디어에 따르면, 지민이 지난달 29일 발표한 신곡 '스]]></content:encoded>
+            <title><![CDATA[장현승, 비스트 탈퇴 8년만 해명 "회사서 팬미팅 참석하지 말라더라"[스타이슈] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/108/0003248867</link>
+            <guid>https://m.entertain.naver.com/now/article/108/0003248867</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[가수 장현승이 그룹 비스트 탈퇴 당시 팬들에게 오해를 샀던 부분을 8년 만에 해명했다. 장현승은 최근 유료 소통 어플 프롬을 통해 비스트 탈퇴 당시 팬미팅에 불참했던 이유를 밝혔다. 장현승은 "그당시 사전에 팀 탈퇴]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['커피 한잔할래요'…'커피도시 부산' 홍보대사에 가수 '폴킴' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/001/0014794537</link>
-            <guid>https://m.entertain.naver.com/now/article/001/0014794537</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[부산시는 9일 '커피도시 부산'을 알릴 홍보대사로 가수 폴킴을 위촉한다고 밝혔다. 폴킴은 2014년 데뷔곡 '커피 한잔할래요'로 인기를 얻었으며, 다수의 히트곡과 드라마·영화 OST 작업을 통해 폭넓은 사랑을 받고]]></content:encoded>
+            <title><![CDATA[에스파 'Supernova', 주간 음원차트 또 1위…2024년 최장기간 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/030/0003221650</link>
+            <guid>https://m.entertain.naver.com/now/article/030/0003221650</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 에스파(aespa)가 ‘Supernova’(슈퍼노바)로 신기록 행진을 이어가고 있다. 에스파의 정규 1집 선공개 타이틀 곡 ‘Supernova’는 지난 8일 발표된 국내 주요 음악 사이트 멜론, 지니 주간 차트]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[베이비몬스터, 역시 라이브 장인..밴드 편곡 'FOREVER'[잇츠라이브] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/108/0003248831</link>
-            <guid>https://m.entertain.naver.com/now/article/108/0003248831</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[YG 신인 걸그룹 베이비몬스터가 수준급 라이브 퍼포먼스로 글로벌 음악팬들의 마음을 사로잡았다. 베이비몬스터는 지난 8일 유튜브 채널 '잇츠라이브'에 출연해 신곡 'FOREVER'를 선보였다. 이들은 새롭게 편곡된 밴]]></content:encoded>
+            <title><![CDATA[에스파, 에스파를 넘다… '슈퍼노바' 7주 연속 멜론·지니 1위 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/018/0005784801</link>
+            <guid>https://m.entertain.naver.com/now/article/018/0005784801</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[에스파(사진=SM엔터테인먼트) 그룹 에스파(aespa)가 ‘슈퍼노바’(Supernova)로 신기록 행진을 이어가고 있다. 에스파의 정규 1집 선공개 타이틀곡 ‘슈퍼노바’는 지난 8일 발표된 국내 주요 음악 사이트 멜]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[TXT, 日 오리콘 데일리·주간 랭킹 석권..2연속 발매 첫주 30만장 돌파 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/108/0003248830</link>
-            <guid>https://m.entertain.naver.com/now/article/108/0003248830</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 투모로우바이투게더(TOMORROW X TOGETHER)가 일본 오리콘 일간과 주간 차트를 동시에 석권하며 열도를 뜨겁게 달궜다. 9일 오리콘에 따르면 투모로우바이투게더(수빈, 연준, 범규, 태현, 휴닝카이)의]]></content:encoded>
+            <title><![CDATA[위시플러스, 에이티즈 굿즈 판매…"K팝 글로벌 구매채널로" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/001/0014794809</link>
+            <guid>https://m.entertain.naver.com/now/article/001/0014794809</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[큐텐은 자사 글로벌 전자상거래 플랫폼 위시플러스(Wish+)에서 그룹 에이티즈의 새 굿즈 '실버 포일'을 판매한다고 9일 밝혔다. 위시플러스는 아시아 기반의 전자상거래 업체 큐텐과 북미·유럽을 중심으로 사업하는 위시]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[TXT, 日 오리콘 데일리·주간 랭킹 석권…첫주 판매량 36만장 육박 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/609/0000873312</link>
-            <guid>https://m.entertain.naver.com/now/article/609/0000873312</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 투모로우바이투게더가 일본 오리콘 일간과 주간 차트를 석권했다. 7월 9일 오리콘에 따르면 투모로우바이투게더(수빈, 연준, 범규, 태현, 휴닝카이) 일본 싱글 'CHIKAI'(誓い/치카이)가 최신 주간 싱글 랭킹]]></content:encoded>
+            <title><![CDATA[투어스, '첫 만남은 계획대로 되지 않아' 유튜브 뮤직 1억 스밍↑ (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/003/0012654669</link>
+            <guid>https://m.entertain.naver.com/now/article/003/0012654669</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[신인 그룹 '투어스(TWS)의 데뷔곡 '첫 만남은 계획대로 되지 않아' 음원이 유튜브 뮤직에서 1억 스트리밍(7월7일 기준)을 돌파했다고 소속사 플레디스 엔터테인먼트가 9일 밝혔다. '첫 만남은 계획대로 되지 않아']]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[르세라핌, 日 오리콘 차트 역주행→가나가와 팬미팅 전석 매진 '티켓 파워' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/112/0003707812</link>
-            <guid>https://m.entertain.naver.com/now/article/112/0003707812</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[르세라핌(LE SSERAFIM)이 일본에서 놀라운 관객 동원력을 보여줬다. 오는 13, 14, 15일 사흘간 일본 가나가와현 요코하마시 피아 아레나 MM에서 열리는 ‘LE SSERAFIM FAN MEETING FEA]]></content:encoded>
+            <title><![CDATA["신기록 계속된다"..에스파 'Supernova', 7주 연속 1위 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/109/0005112895</link>
+            <guid>https://m.entertain.naver.com/now/article/109/0005112895</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 에스파(aespa, 에스엠엔터테인먼트 소속)가 ‘Supernova’(슈퍼노바)로 신기록 행진을 이어가고 있다. 에스파의 정규 1집 선공개 타이틀 곡 ‘Supernova’는 지난 8일 발표된 국내 주요 음악 사이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스트레이 키즈, 자체 최대 규모 월드투어 ‘dominATE’ 개최…스타디움만 6회 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/609/0000873311</link>
-            <guid>https://m.entertain.naver.com/now/article/609/0000873311</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 스트레이 키즈(Stray Kids)가 8월부터 총 6회 스타디움 공연을 포함한 대규모 새 월드투어 'dominATE'(도미네이트)를 개최하고 전 세계를 향한다. 소속사 JYP엔터테인먼트는 7월 8일 오후 11시]]></content:encoded>
+            <title><![CDATA[美 빌보드 '핫 100'서 블랙핑크 리사 70위·BTS 지민 88위 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/001/0014794801</link>
+            <guid>https://m.entertain.naver.com/now/article/001/0014794801</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 블랙핑크 리사와 방탄소년단(BTS) 지민이 솔로곡으로 각각 미국 빌보드 메인 싱글 차트 '핫 100'에 진입했다. 미국 빌보드 차트 공식 사회관계망서비스(SNS)는 리사의 '록스타'(ROCKSTAR)가 70위,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[현아♥용준형 10월 결혼에 들썩 "버닝썬 연루자" VS "개인적 선택 인정" [TEN이슈] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/312/0000669895</link>
-            <guid>https://m.entertain.naver.com/now/article/312/0000669895</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[가수 현아(32·김현아)와 용준형(35) 커플이 백년가약을 맺는 가운데, 이들의 결혼을 두고 K팝 팬들의 갑론을박이 이어지고 있다. 8일 현아 소속사 앳에어리어는 "현아는 힘든 순간마다 서로에게 큰 위안이 되어준 용]]></content:encoded>
+            <title><![CDATA[하이브, 파리올림픽 '팀코리아 응원봉' 제작… 부석순 응원 챌린지도 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/018/0005784794</link>
+            <guid>https://m.entertain.naver.com/now/article/018/0005784794</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[팀코리아 응원봉(사진=하이브) K팝 응원문화의 상징인 응원봉이 파리올림픽에서 응원열기를 돋운다. 전 세계인의 축제인 올림픽에 응원봉이 사용되는 것은 이번이 처음이다. 하이브는 ‘2024 파리올림픽’에 출전하는 대한민]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방용국, 10일 독일→영국 간다..유럽 5개국 투어 개최 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/108/0003248828</link>
-            <guid>https://m.entertain.naver.com/now/article/108/0003248828</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[가수 겸 프로듀서 방용국이 'III Europe Tour 2024(쓰리 유럽 투어 2024)'를 개최한다. 방용국은 최근 공식 SNS 등을 통해 유럽 투어 일정을 담은 포스터를 공개했다. 포스터에 따르면 방용국은 1]]></content:encoded>
+            <title><![CDATA[지니뮤직, 앱 개편 단행… 빠른 선곡·위젯 등 서비스 론칭 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/018/0005784788</link>
+            <guid>https://m.entertain.naver.com/now/article/018/0005784788</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[지니뮤직(대표 서인욱)이 최근 지니앱개편을 단행하고 스피드 음악큐레이션 ‘빠른 선곡’을 지니앱 메인서비스로 선보였다고 9일 밝혔다. ‘빠른 선곡’ 서비스는 내가 감상했던 음악 기반으로 알아서 음악을 바로 추천해주는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘데뷔 100일’ VVUP, 숫자로 본 활약상 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/144/0000974029</link>
-            <guid>https://m.entertain.naver.com/now/article/144/0000974029</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[신인 걸그룹 VVUP(비비업)이 데뷔 100일을 맞았다. VVUP(현희, 킴, 팬, 수연)은 오늘(9일) 0시 공식 SNS에 데뷔 100일 기념 축전 이미지를 게재했다. ‘FOREVER VVUP’이라는 문구와 함께]]></content:encoded>
+            <title><![CDATA['워터 챌린지' 타일라, 첫 내한…8월 'OUF 2024' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/003/0012654629</link>
+            <guid>https://m.entertain.naver.com/now/article/003/0012654629</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[남아프리카 공화국(남아공) 출신 가수 타일라(Tyla)가 첫 내한공연한다. 9일 페스티벌 주최사 (주)피치스그룹코리아(Peaches.)에 따르면, 타일라는 오는 8월 24~25일 경기 과천 서울대공원 주차광장에서 열리는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[POP초점]현아♥용준형, 초고속 결혼에 축복 바랐는데‥시선 엇갈리는 이유 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/112/0003707811</link>
-            <guid>https://m.entertain.naver.com/now/article/112/0003707811</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[가수 현아와 용준형이 초고속 결혼한다. 축복을 바랐지만, 대중들의 시선은 엇갈린다. 지난 8일 현아와 용준형의 양측 소속사는 결혼 소식을 전했다. 먼저, 현아의 소속사 앳 에어리어 측은 "현아는 힘든 순간마다 서로에]]></content:encoded>
+            <title><![CDATA[XG, 미니 2집 올 하반기 발매… "더 확장된 세계관" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/018/0005784778</link>
+            <guid>https://m.entertain.naver.com/now/article/018/0005784778</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[XG(사진=XGALX) 그룹 XG(엑스지)가 올 하반기 새 앨범을 발매한다. 지난 8일 XG(주린·치사·히나타·하비·쥬리아·마야·코코나)는 공식 사회관계망서비스(SNS) 채널을 통해 미니 2집 발매 소식을 깜짝 공개]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["무려 8년 만" 투애니원·YG양현석 극적 회동…완전체 컴백 '청신호' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/477/0000500645</link>
-            <guid>https://m.entertain.naver.com/now/article/477/0000500645</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 투애니원의 완전체 컴백에 청신호가 켜졌다. 지난달 말 투애니원 멤버 완전체는 YG엔터테인먼트(이하 YG) 양현석 총괄과 만남을 가졌다. 당시 YG에 따르면 양현석 총괄과 투애니원 멤버 4인은 지난달 27일 YG]]></content:encoded>
+            <title><![CDATA[제니도, 스태프도 너무 익숙한 실내흡연 모습 포착 논란 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/468/0001075254</link>
+            <guid>https://m.entertain.naver.com/now/article/468/0001075254</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[블랙핑크 제니. 제공 | 헤라뷰티 블랙핑크 제니가 실내 흡연을 하는 듯한 모습이 포착돼 논란이 제기됐다. 제니는 앞서 지난 2일 개인 유튜브 채널에 ‘카프리의 순간들’이라는 제목으로 영상을 올렸다. 지난달 패션 디자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[POP이슈]"스태프 면전에 담배 연기를?" 블랙핑크 제니, 실내흡연 논란에 '시끌' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/112/0003707810</link>
-            <guid>https://m.entertain.naver.com/now/article/112/0003707810</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 블랙핑크 제니가 실내에서 전자담배를 피우는 듯한 모습이 포착돼 논란이다. 지난 8일 온라인 커뮤니티를 통해 제니의 실내 흡연으로 추정되는 모습이 담긴 영상이 빠른 속도로 퍼져 나갔다. 해당 장면은 지난 2일 제]]></content:encoded>
+            <title><![CDATA["에스파만이 소화할 수 있는 곡"…에스파 '슈퍼노바' 신기록 행진은 계속 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/076/0004166366</link>
+            <guid>https://m.entertain.naver.com/now/article/076/0004166366</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:33 GMT</pubDate>
+            <content:encoded><![CDATA['글로벌 히트메이커' 에스파가 'Supernova'(슈퍼노바)로 신기록 행진을 이어가고 있다. 에스파의 정규 1집 선공개 타이틀 곡 'Supernova'는 지난 8일 발표된 국내 주요 음악 사이트 멜론, 지니 주간]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[10년만 정규앨범 낸 솔루션스 "틀에서 벗어난 '센 것' 만들었죠" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/001/0014794524</link>
-            <guid>https://m.entertain.naver.com/now/article/001/0014794524</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[앨범 'N/A'에 실험적인 13곡 수록…"즐거운 에너지와 영향력 드리고 싶어요" "앨범을 접했을 때 '이게 뭐지' 하는 생각이 들고 호기심을 가지길 바랐어요. 그래서 앨범 커버부터 일반적이지 않고, 이상하고, 심지어]]></content:encoded>
+            <title><![CDATA[비비업, 오늘(9일) 데뷔 100일…글로벌 성장세 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/311/0001746459</link>
+            <guid>https://m.entertain.naver.com/now/article/311/0001746459</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 VVUP(비비업)이 데뷔 100일을 맞았다. VVUP(현희, 킴, 팬, 수연)은 오늘(9일) 0시 공식 SNS에 데뷔 100일 기념 축전 이미지를 게재했다. 'FOREVER VVUP'이라는 문구와 함께 네 멤버]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[있지(ITZY) 1년 만에 완전체…리아, 하반기 활동 재개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/003/0012654356</link>
-            <guid>https://m.entertain.naver.com/now/article/003/0012654356</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 '있지(ITZY)' 리아가 약 1년 만에 활동을 재개한다. 9일 소속사 JYP엔터테인먼트에 따르면, 리아는 하반기 발매 예정인 있지의 새 앨범을 시작으로 본격적인 활동에 돌입한다. 리아는 건강 상의 이유로 지난]]></content:encoded>
+            <title><![CDATA['국민 그룹' god, 올해도 팬들과 함께…3년 연속 콘서트 개최 확정 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/416/0000306717</link>
+            <guid>https://m.entertain.naver.com/now/article/416/0000306717</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 god(지오디)가 3년 연속 완전체 콘서트를 개최하고 팬들과 만난다. 9일 오전 아이오케이컴퍼니는 "국민 그룹 god가 오는 9월 27일부터 사흘간 서울 올림픽공원 KSPO DOME(체조경기장)에서 단독 콘서트]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마마무 휘인, 2일 디지털 싱글 'coco water' 발표..앙코르 콘서트 앞두고 깜짝 신곡 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/108/0003248821</link>
-            <guid>https://m.entertain.naver.com/now/article/108/0003248821</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[가수 휘인(Whee In)이 앙코르 콘서트를 앞두고 깜짝 신곡을 발매, 여름 가요계를 '핫'하게 물들인다. 소속사 더라이브는 지난 8일 오후 6시 공식 SNS를 통해 휘인의 새 디지털 싱글 '코코 워터(coco wa]]></content:encoded>
+            <title><![CDATA[BTS 지민, 선공개 곡으로 美 빌보드 '핫 100' 진입…솔로곡 통산 5번째 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/416/0000306716</link>
+            <guid>https://m.entertain.naver.com/now/article/416/0000306716</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 방탄소년단(BTS) 지민의 선공개 곡이 미국 빌보드 차트 '핫 100'에 진입했다. 8일(이하 현지시간) 미국 음악 전문 매체 빌보드는 공식 SNS를 통해 지난달 28일 발표된 지민 솔로 2집 'MUSE(뮤즈)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['FOREVER VVUP' 비비업, 데뷔 100일..눈부신 '하이틴 악동' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/108/0003248820</link>
-            <guid>https://m.entertain.naver.com/now/article/108/0003248820</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[신인 걸그룹 VVUP(비비업)이 데뷔 100일을 맞았다. VVUP(현희, 킴, 팬, 수연)은 9일 0시 공식 SNS에 데뷔 100일 기념 축전 이미지를 공개했다. 'FOREVER VVUP'이라는 문구와 함께 네 멤버]]></content:encoded>
+            <title><![CDATA[윤언니, 신곡 '사랑일까' 오늘(9일) 발매...달콤한 러브송 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/109/0005112884</link>
+            <guid>https://m.entertain.naver.com/now/article/109/0005112884</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[유니크한 음색을 가진 보컬리스트 윤언니가 달콤한 러브송으로 돌아왔다. 윤언니는 오늘(9일) 사랑의 설렘을 담은 스물여섯 번째 싱글 '사랑일까'를 발표한다. 신곡 '사랑일까'는 마음 속에서 피어오르는 달콤한 감정이 사]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마마무 휘인, 앙코르 콘서트 앞두고 깜짝 신곡 발매 [공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/609/0000873307</link>
-            <guid>https://m.entertain.naver.com/now/article/609/0000873307</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[가수 휘인이 신곡을 깜짝 발매한다. 소속사 더라이브는 7월 8일 공식 채널을 통해 휘인 새 디지털 싱글 '코코 워터(coco water)' 커밍순 이미지를 공개했다. 공개된 이미지는 바다의 아름다운 풍경을 담고 있다]]></content:encoded>
+            <title><![CDATA[있지 리아, 건강 상태 회복… 하반기 활동 재개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/018/0005784770</link>
+            <guid>https://m.entertain.naver.com/now/article/018/0005784770</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[있지 리아(사진=이데일리DB) 그룹 있지(ITZY) 리아가 건강 상태가 회복돼 하반기부터 활동을 재개한다. 소속사 제이와이피엔터테인먼트(이하 JYP)는 8일 “리아는 그간 겪어온 긴장과 불안 증상이 치료와 휴식을 통]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[르세라핌 日 가나가와 팬미팅 전 회차 전석 매진 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/108/0003248819</link>
-            <guid>https://m.entertain.naver.com/now/article/108/0003248819</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[걸그룹 르세라핌(LE SSERAFIM)이 일본에서 놀라운 관객 동원력을 보여주며 열도 인기를 빛냈다. 르세라핌(김채원, 사쿠라, 허윤진, 카즈하, 홍은채)이 7월 13일부터 15일까지 사흘간 일본 가나가와현 요코하마]]></content:encoded>
+            <title><![CDATA[‘리볼버’ 오승욱 감독-전도연, 8년 만의 만남[오늘 뭐함?] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/144/0000974059</link>
+            <guid>https://m.entertain.naver.com/now/article/144/0000974059</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[또 한 번 전국에 비 예보가 내린 상황에서 연예계 곳곳에서는 이에 아랑곳하지 않는 열띤 홍보의 장이 펼쳐진다. 영화 ‘리볼버’의 제작보고회가 이날 오전 11시 서울 강남구 메가박스 코엑스에서 열린다. 이 자리에는 연]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[TWS '첫 만남은 계획대로 되지 않아', 유튜브뮤직 1억 스트리밍 돌파 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/108/0003248818</link>
-            <guid>https://m.entertain.naver.com/now/article/108/0003248818</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[TWS(투어스)가 데뷔곡 '첫 만남은 계획대로 되지 않아'로 뜨거운 인기를 과시했다. 9일 소속사 플레디스 엔터테인먼트에 따르면 TWS(신유·도훈·영재·한진·지훈·경민)의 '첫 만남은 계획대로 되지 않아' 음원은 7]]></content:encoded>
+            <title><![CDATA[현아, '♥예비신랑 용준형'에 예의 맞나..'던과 키스 럽스타' 버젓이[스타이슈] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/108/0003248860</link>
+            <guid>https://m.entertain.naver.com/now/article/108/0003248860</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[가수 현아와 용준형이 10월 결혼한다고 밝힌 가운데, 현아와 전 연인 던의 SNS 행보가 덩달아 재조명되고 있다. 9일 현아, 던 각각의 인스타그램 계정에는 과거 두 사람이 공개열애하던 당시 올렸던 커플 사진이 상당]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[TWS ‘첫 만남은…’, 유튜브뮤직 1억 스트리밍 돌파 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/609/0000873306</link>
-            <guid>https://m.entertain.naver.com/now/article/609/0000873306</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[TWS(투어스) 데뷔곡 ‘첫 만남은 계획대로 되지 않아’ 인기가 여전히 뜨겁다. 7월 9일 소속사 플레디스 엔터테인먼트에 따르면 TWS(신유·도훈·영재·한진·지훈·경민)의 ‘첫 만남은 계획대로 되지 않아’ 음원이 유]]></content:encoded>
+            <title><![CDATA[임영웅, '팬앤스타' 솔로랭킹 83주 연속 1위 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/629/0000302746</link>
+            <guid>https://m.entertain.naver.com/now/article/629/0000302746</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:38 GMT</pubDate>
+            <content:encoded><![CDATA['팬앤스타' 7월 첫째 주 솔로 랭킹 투표에서 2759만 6338표 득표 가수 임영웅이 주간 아이돌 랭킹사이트 '팬앤스타' 솔로 랭킹에서 83주 연속 1위를 차지하며 명예의 전당에 입성했다. 임영웅은 지난 1일부터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임영웅, '팬앤스타' 솔로랭킹 83주 연속 1위…독보적 인기 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/629/0000302702</link>
-            <guid>https://m.entertain.naver.com/now/article/629/0000302702</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[7월 1주차 (7월1일부터 7월8일까지) 2759만 6338표 단편영화 '인 악토버(In October) 공개직후 관심폭발 가수 임영웅의 거침없는 '랭킹 질주'가 계속되고 있다. 임영웅은 주간 아이돌 랭킹사이트 팬앤]]></content:encoded>
+            <title><![CDATA[‘미녀와 순정남’ 지현우의 연기차력쇼…로맨스→충격·분노까지 빈틈없네 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/396/0000682020</link>
+            <guid>https://m.entertain.naver.com/now/article/396/0000682020</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[‘미녀와 순정남’ 지현우의 연기 차력쇼로 안방극장을 먹먹하게 만들었다. 지난 6,7일 방송된 KBS 2TV ‘미녀와 순정남’ 31,32회에서 지현우는 자신을 낳아준 생모가 장수연(이일화 분)이란 사실을 알고 충격에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이찬원, 결혼 포기 선언 "아내한테 돈 다 맡기고 쓰려 했는데…" ('하이엔드 소금쟁이') (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/312/0000669897</link>
-            <guid>https://m.entertain.naver.com/now/article/312/0000669897</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[가수 이찬원이 결혼 포기를 언급한다. 9일 방송되는 KBS 2TV 예능 ‘하이엔드 소금쟁이’에서는 남편의 한 달 용돈 금액을 둘러싸고 서로 다른 생각을 가진 동상이몽 부부의 고민이 소개된다. 이날 스튜디오에 등장한]]></content:encoded>
+            <title><![CDATA[[T포토] 보이넥스트도어 '공항에 뜬 왕자님들' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/213/0001300587</link>
+            <guid>https://m.entertain.naver.com/now/article/213/0001300587</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 '보이넥스트도어(BOYNEXTDOOR)'가 9일 오전 해외 일정 차 김포국제공항을 통해 일본 도쿄로 출국하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[양재웅 "母, 하니에 '결혼 신중하라' 했는데..하니가 먼저 프러포즈" ('4인용식탁')[SC리뷰] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/076/0004166317</link>
-            <guid>https://m.entertain.naver.com/now/article/076/0004166317</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[정신건강의학과 의사 양재웅이 예비신부 가수 겸 배우 하니에게 애정을 드러냈다. 8일 방송된 채널A '절친 토큐멘터리─4인용식탁'(이하 '4인용식탁')에서는 정신건강의학과 의사 형제 양재진, 양재웅이 출연했다. 양재웅]]></content:encoded>
+            <title><![CDATA['SM 시세조종' 카카오 김범수, 검찰 첫 소환 조사 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/422/0000669587</link>
+            <guid>https://m.entertain.naver.com/now/article/422/0000669587</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[SM엔터테인먼트 주가 조작을 공모한 혐의를 받는 김범수 카카오 창업주이자 경영쇄신위원회 위원장이 오늘(9일) 오전 검찰에 출석해 조사를 받고 있습니다. 송치 약 8개월 만인데요. 현장 연결해 자세한 소식 들어보겠습니]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이지훈 "첫 임신 9주 차 유산 아픔…이후 시험관으로 성공 태명은 '젤리'" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/076/0004166316</link>
-            <guid>https://m.entertain.naver.com/now/article/076/0004166316</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[가수 겸 뮤지컬 배우 이지훈이 '아빠는 꽃중년'에 46세 '최연소 꽃대디'로 전격 합류해 출산을 한 달 앞둔 '예비 아빠'의 일상을 공개한다. 11일(목) 밤 9시 30분 방송하는 채널A '아빠는 꽃중년' 12회에서]]></content:encoded>
+            <title><![CDATA[있지 리아, 활동 재개 “하반기 신규 앨범부터 활동 복귀 결정”(전문)[공식] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/057/0001828523</link>
+            <guid>https://m.entertain.naver.com/now/article/057/0001828523</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 ITZY(있지) 리아가 활동을 재개한다. 소속사 JYP엔터테인먼트(이하 JYP)는 8일 SNS를 통해 “리아는 그간 겪어온 긴장과 불안 증상이 치료와 휴식을 통해 많이 호전된 상태”라고 상황을 전했다. 이어 “]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[설경구 드라마 '돌풍', 통합 콘텐트 랭킹 1위 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/437/0000400656</link>
-            <guid>https://m.entertain.naver.com/now/article/437/0000400656</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 시리즈 '돌풍'이 7월 2주차 주간 통합 콘텐트 랭킹에서 1위를 차지했다고 키노라이츠가 9일 전했다. '돌풍'은 부패한 거대권력을 뿌리째 뽑아버리고 싶은 국무총리와 그에 맞서는 경제부총리가 대립하며 벌어지는]]></content:encoded>
+            <title><![CDATA[루이 비통, 2024 파리 올림픽·패럴림픽 메달 트레이 공개 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/108/0003248870</link>
+            <guid>https://m.entertain.naver.com/now/article/108/0003248870</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[루이 비통이 2024 파리 올림픽과 패럴림픽 경기를 위한 메달 트레이를 공개했다. 루이 비통의 트렁크 제작 헤리티지를 연상시키는 메달 트레이는 가죽 제품을 전문으로 하는 '매느 에 루아르(Maine-et-Loire)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[손연재, 여리여리 늘씬한 '아들맘'…출산 5개월째에도 소녀 같네 [N샷] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/421/0007650865</link>
-            <guid>https://m.entertain.naver.com/now/article/421/0007650865</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[전 국가대표 리듬체조 선수 손연재가 늘씬한 몸매를 뽐냈다. 손연재는 8일 자신의 사회관계망서비스(SNS) 계정에 여러 장의 사진을 공개했다. 사진 속에서 손연재는 원피스를 입고 전시장을 구경하거나 길을 걷고 있다.]]></content:encoded>
+            <title><![CDATA[비스트 탈퇴 8년 만… 장현승 "팬미팅 오지 말라고" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/417/0001013241</link>
+            <guid>https://m.entertain.naver.com/now/article/417/0001013241</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[가수 장현승이 그룹 비스트를 탈퇴한 이유를 밝혔다 최근 장현승은 유료 소통 어플 '프롬'을 통해 비스트 탈퇴에 대해 언급했다. 이날 장현승은 "당시 팀 탈퇴하기로 다 끝낸 상황이었고 조만간 탈퇴 기사 공식적으로 나갈]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[XG, 올 하반기 미니 2집 발매… 우주 스케일 예고 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/241/0003363524</link>
-            <guid>https://m.entertain.naver.com/now/article/241/0003363524</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 XG(엑스지)가 올 하반기, 더욱 확장된 음악 세계관을 펼친다. 지난 8일 XG(주린, 치사, 히나타, 하비, 쥬리아, 마야, 코코나)는 공식 SNS 채널을 통해 두 번째 미니앨범 발매 소식을 깜짝 공개, 활발]]></content:encoded>
+            <title><![CDATA[‘한일톱텐쇼’ 전유진 첫사랑 등장?…아이코는 연예인 가족 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/009/0005331579</link>
+            <guid>https://m.entertain.naver.com/now/article/009/0005331579</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[‘한일톱텐쇼’에서 화제를 모았던 전유진의 첫사랑이 등장한다. MBN ‘한일톱텐쇼’는 한일 국가대표 현역 가수들이 출격해 트로트는 물론 K-팝, J-팝까지 한일 양국의 숨겨진 명곡을 선곡, 치열한 명곡 대결을 벌이는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“부모한테 무슨 짓? 내가 다 민망” 김성주·조혜련 난리 (등짝스매싱) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/382/0001136826</link>
-            <guid>https://m.entertain.naver.com/now/article/382/0001136826</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[9일 방영되는 tvN STORY 예능 ‘여권들고 등짝 스매싱’ 6화에서는 그리스 출신 방송인 안드레아스의 부모가 한국에 도착해 ‘달콤살벌한 등짝 스매싱’ 여정을 시작한다. 제작진에 따르면 ‘여권들고 등짝 스매싱’의]]></content:encoded>
+            <title><![CDATA[현아♥용준형, 공개 열애→결혼 발표했지만…대중 반응은 ‘냉랭’[M+이슈] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/057/0001828521</link>
+            <guid>https://m.entertain.naver.com/now/article/057/0001828521</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[공개 열애 중이던 가수 현아와 용준형이 10월 결혼하는 가운데, 누리꾼들의 시선이 싸늘하다. 그룹 포미닛 멤버로 활동했던 현아와 그룹 비스트 멤버로 데뷔했던 용준형은 큐브엔터테인먼트에서 한솥밥을 먹은 인연이 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이제훈·구교환 '탈주', '인사이드 아웃2' 제치고 1위 탈환…누적 80만↑ [Nbox] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/421/0007650862</link>
-            <guid>https://m.entertain.naver.com/now/article/421/0007650862</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '탈주'(감독 이종필)가 '인사이드 아웃2'를 제치고 박스오피스 1위에 등극했다. 9일 영화진흥위원회 영화관 입장권 통합 전산망에 따르면 '탈주'는 지난 8일 하루 6만 9086명을 동원해 박스오피스 1위에 올]]></content:encoded>
+            <title><![CDATA[방탄소년단, '팬앤스타' 그룹랭킹 83주 연속 1위 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/629/0000302741</link>
+            <guid>https://m.entertain.naver.com/now/article/629/0000302741</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:38 GMT</pubDate>
+            <content:encoded><![CDATA['팬앤스타' 7월 첫째 주 그룹랭킹 투표에서 568만 3799표 득표 그룹 방탄소년단이 주간 아이돌 랭킹사이트 '팬앤스타' 그룹 랭킹에서 83주 연속 1위에 올랐다. 방탄소년단은 지난 1일부터 8일까지 진행된 '팬앤]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[블랙핑크 제니, 실내 흡연 논란…“이탈리아 대사관에 신고 접수” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/021/0002647393</link>
-            <guid>https://m.entertain.naver.com/now/article/021/0002647393</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[걸그룹 블랙핑크 멤버 제니가 실내 흡연 논란에 휩싸였다. 지난 8일 각종 온라인 커뮤니티와 SNS에는 ‘실시간 제니 실내 흡연 논란’이라는 제목의 글과 영상이 게재됐다. 이 영상은 제니가 지난 2일 자신의 유튜브 채]]></content:encoded>
+            <title><![CDATA[메이크업 중 연기 내뿜는 제니, 실내흡연 논란…공식입장 無 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/011/0004363753</link>
+            <guid>https://m.entertain.naver.com/now/article/011/0004363753</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 블랙핑크 멤버 제니가 실내에서 전자담배를 피우는 듯한 모습이 포착돼 논란이 되고 있다. 8일 각종 커뮤니티에 '제니 실내 흡연' 등의 제목으로 짧은 영상이 확산되고 있다. 영상에는 스태프들에게 둘러싸여 메이크업]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[종합] 이대호 향한 불만 터졌다…깐족거림에 니퍼트 분노 ('푹다행') (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/312/0000669894</link>
-            <guid>https://m.entertain.naver.com/now/article/312/0000669894</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[‘푹 쉬면 다행이야’ 0.5성급 무인도 임원 도전자 이대호가 체크인을 무사히 마무리했다. 9일 닐슨코리아에 따르면 전날 방송된 MBC 예능프로그램 ‘푹 쉬면 다행이야’(이하 ‘푹다행’)는 전국 가구 기준 5.9%의]]></content:encoded>
+            <title><![CDATA[하이브, '팀코리아 응원봉' 5천여개 제공..파리올림픽 응원문화 바꾼다 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/108/0003248866</link>
+            <guid>https://m.entertain.naver.com/now/article/108/0003248866</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[K-팝 응원문화의 상징인 응원봉이 파리올림픽에서 응원열기를 돋운다. 하이브는 2024 파리올림픽에 출전하는 대한민국 국가대표 선수단을 응원하기 위해 특별 제작한 '팀코리아 응원봉'을 대한체육회(회장 이기흥)를 통해]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[1억 3천만원 목걸이도 품절..방탄소년단 진 프레드 첫 글로벌 앰버서더 발탁에 '초고속 품절 행진' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/108/0003248827</link>
-            <guid>https://m.entertain.naver.com/now/article/108/0003248827</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[방탄소년단(BTS) 진이 프랑스 하이주얼리 메종 프레드의 첫 글로벌 앰버서더로 발탁된 가운데 초고가 주얼리 초고속 품절 대란을 일으키며 글로벌 인기를 빛냈다. 프레드(FRED)는 한국 시각 지난 8일 진을 첫 글로벌]]></content:encoded>
+            <title><![CDATA[용준형과 결혼 발표했는데…'전 연인' 현아·던, 과거 커플 사진 그대로 [N이슈] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/421/0007651131</link>
+            <guid>https://m.entertain.naver.com/now/article/421/0007651131</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[가수 현아와 용준형이 오는 10월 결혼을 발표한 가운데, 현아와 전 연인인 던이 커플 시절 사진을 그대로 유지해 관심을 받고 있다. 현아와 용준형은 지난 8일 결혼을 발표했다. 두 사람은 오는 10월 서울 모처에서]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[최강희, 의미심장글 게재 “친구 두 번 잃었다...잃기 싫은 사람 되고파” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/468/0001075217</link>
-            <guid>https://m.entertain.naver.com/now/article/468/0001075217</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[배우 최강희. 사진|최강희 개인채널 배우 최강희가 의미심장한 글을 게재했다. 7일 최강희는 자신의 개인채널에 “지난 제주 여행, 가족 같은 친구 정화와”라는 글과 함께 친구와 찍은 여행 사진을 게재했다. 최강희는 “]]></content:encoded>
+            <title><![CDATA[[공식] '보니하니' 재성, DG엔터테인먼트와 전속계약 "전폭적 지지" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/076/0004166373</link>
+            <guid>https://m.entertain.naver.com/now/article/076/0004166373</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[배우 재성이 DG엔터테인먼트에서 새로운 도약에 나선다. DG엔터테인먼트는 9일 "재성과 최근 전속계약을 체결했다. 재성이 지닌 무한한 가능성과 잠재력을 마음껏 발휘할 수 있도록 전폭적인 지원을 아끼지 않을 것이다"라]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[SC이슈] '뺑소니 재판 D-1' 김호중, 악플러 잡았던 변호사 선임…추가자료 제출 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/076/0004166315</link>
-            <guid>https://m.entertain.naver.com/now/article/076/0004166315</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[가수 김호중이 뺑소니 혐의 첫 재판을 앞두고 변호인단을 새로 꾸렸다. 8일 JTBC에 따르면 김호중은 법무법인 동인을 법률대리인으로 선임했다. 법무법인 동인은 부장판사 검사 등이 대거 소속된 형사사건 전문 대형 로펌]]></content:encoded>
+            <title><![CDATA[조윤희 ‘이제 혼자다’ 녹화 중 찰칵… 우월한 기럭지 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/009/0005331577</link>
+            <guid>https://m.entertain.naver.com/now/article/009/0005331577</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[배우 조윤희가 우아한 매력을 드러냈다. 조윤희는 지난 8일 자신의 인스타그램에 별다른 멘트 없이 두 장의 사진을 올렸다. 사진에는 빨간색 가죽 드레스를 입은 조윤희의 모습이 담겨있다. 우월한 기럭지와 조그마한 얼굴이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[시청률 터지고 OTT 잡고, 이정은·정은지 투톱 ‘낮밤녀’ 인기 비결 [SS연예프리즘] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/468/0001075216</link>
-            <guid>https://m.entertain.naver.com/now/article/468/0001075216</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[‘낮밤녀’ 스틸컷. 사진 | JTBC 배우 이정은과 정은지의 2인 1역이 통했다. JTBC ‘낮과 밤이 다른 그녀’(이하 ‘낮밤녀’)가 시청률 10% 고지를 목전에 뒀다. 시청률조사회사 닐슨코리아에 따르면 지난 7일]]></content:encoded>
+            <title><![CDATA["어린 여자한테 추근덕거려..." '버닝썬' 정준영, 교화 덜 된 프랑스 목격담 확산 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/445/0000214895</link>
+            <guid>https://m.entertain.naver.com/now/article/445/0000214895</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[성범죄 혐의로 지난 3월 출소한 정준영이 해외에서 여성들에게 접근하는 근황이 공개됐다. 지난 8일 SNS에서는 프랑스 클럽에 등장한 정준영의 목격담이 전해졌다. 목격담을 전한 누리꾼은 "정준영이 프랑스 클럽에서 말을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[정은지, 드라마 배우 브랜드평판 1위…2위 정은지·3위 엄태구 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/437/0000400652</link>
-            <guid>https://m.entertain.naver.com/now/article/437/0000400652</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[JTBC 토일극 '낮과 밤이 다른 그녀'의 정은지가 드라마 배우 브랜드평판 2024년 7월 1, 2, 3위를 싹쓸이했다. 9일 한국기업평판연구소 구창환 소장은 "2024년 7월 드라마 배우 브랜드평판 분석결과, 드라]]></content:encoded>
+            <title><![CDATA[‘워터’ 타일라 한국 온다…8월 ‘OUF 2024’ 라인업 합류 [공식] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/382/0001136864</link>
+            <guid>https://m.entertain.naver.com/now/article/382/0001136864</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[‘워터’ 타일라 한국 온다…8월 ‘OUF 2024’ 라인업 합류 [공식] 복합 뮤직 페스티벌 ‘원 유니버스 페스티벌(OUF 2024)’이 1차 라인업을 공개했다. 9일 페스티벌 주최사 (주)피치스그룹코리아(Peaches]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['커넥션' 감독 "마약에 경각심 주려면 불편한 장면 필요했죠" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/001/0014794523</link>
-            <guid>https://m.entertain.naver.com/now/article/001/0014794523</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[이현 작가·김문교 감독 서면 인터뷰…"핵심 메시지는 우정의 소중함" "'커넥션'은 진입 장벽이 가장 낮은 TV라는 매체를 통해 전달되기 때문에 사회적인 도덕관에서 벗어나선 안 된다는 걱정이 있었습니다. 마약에 대한]]></content:encoded>
+            <title><![CDATA[BTS 지민, '스메랄도 가든 마칭 밴드'로 빌보드 '핫100' 진입 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/312/0000669929</link>
+            <guid>https://m.entertain.naver.com/now/article/312/0000669929</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 방탄소년단 지민의 선공개 곡이 미국 빌보드 '핫 100'에 진입했다. 8일(이하 현지시간) 미국 음악 전문 매체 빌보드는 공식 SNS를 통해 지난달 28일 발표된 지민 솔로 2집 'MUSE'(뮤즈)의 선공개 곡]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['커넥션' 감독 "지성·전미도 연기, 가장 가까이서 볼 수 있어 행복" [N인터뷰] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/421/0007650846</link>
-            <guid>https://m.entertain.naver.com/now/article/421/0007650846</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:46 GMT</pubDate>
-            <content:encoded><![CDATA['커넥션'이 최고 시청률 14.2%(이하 닐슨코리아 전국 기준)로 마무리한 가운데, 집필 및 연출을 맡은 이현 작가와 김문교 감독이 소감을 밝혔다. SBS 금토드라마 '커넥션'(극본 이현/연출 김문교)은 지난 6일]]></content:encoded>
+            <title><![CDATA[전배수, 드라마 '나의 해리에게' 출연…신혜선·이진욱과 호흡 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/437/0000400681</link>
+            <guid>https://m.entertain.naver.com/now/article/437/0000400681</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[배우 전배수가 지니 TV 오리지널 드라마 '나의 해리에게' 출연을 확정했다. 2024년 하반기 첫 방송되는 '나의 해리에게'는 마음속 깊은 상처로 새로운 인격이 발현된 아나운서 신혜선(은호)과 마음의 상처를 꼭꼭 감]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[TVis] 오은영 “태엽 남편, 장인어른 장례식=외식 수준.… 진짜 잘못” (결혼지옥) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/241/0003363522</link>
-            <guid>https://m.entertain.naver.com/now/article/241/0003363522</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[태엽 남편이 대장암 말기로 위독한 장인의 병문안을 거부했다. 8일 방송된 MBC ‘오은영의 리포트 결혼지옥’ (이하 ‘결혼지옥’)에서는 과거의 상처에 머물러 서소를 이해하지 못하는 ‘태엽 부부’가 등장했다. 태엽 부]]></content:encoded>
+            <title><![CDATA[현아, ♥용준형과 결혼…前남친 던 사진 여전 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/396/0000682019</link>
+            <guid>https://m.entertain.naver.com/now/article/396/0000682019</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[가수 현아가 용준형과 결혼을 발표한 가운데 전 연인 던과의 커플 사진이 주목을 받고 있다. 8일 현아 소속사 앳에어리어 측은 “현아는 힘든 순간마다 서로에게 큰 위안이 되어준 용준형과 사랑의 결실을 맺고 결혼을 약속]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['빅토리' 뉴욕아시안영화제 개막작 초청…이혜리·박세완 참석 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/437/0000400651</link>
-            <guid>https://m.entertain.naver.com/now/article/437/0000400651</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 전 분위기가 좋다. 내달 14일 개봉하는 영화 '빅토리(박범수 감독)'가 제23회 뉴욕아시안영화제에 공식 초청 되면서 박범수 감독과 주연 배우 이혜리 박세완이 영화제 참석을 확정했다. '빅토리'는 오직 열정만큼]]></content:encoded>
+            <title><![CDATA['국민그룹' god, 3년 연속 단독 콘서트 개최 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/437/0000400680</link>
+            <guid>https://m.entertain.naver.com/now/article/437/0000400680</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:38 GMT</pubDate>
+            <content:encoded><![CDATA['국민그룹' god(지오디)가 3년 연속 완전체 콘서트를 개최한다. 9일 아이오케이컴퍼니는 'god가 9월 27일부터 사흘간 서울 올림픽공원 KSPO DOME(체조경기장)에서 단독 콘서트를 개최한다. 이번 공연은 탄]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[부고]김정갑 씨 별세, 김대성(유니원 대표) 씨 부친상 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/241/0003363521</link>
-            <guid>https://m.entertain.naver.com/now/article/241/0003363521</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[△김정갑 씨 별세, 김대성(유니원 대표), 대영, 대훈, 은희 씨 부친상, 이상연, 배주은, 박지선 씨 시부상=8일, 부산 시민장례식장 502호, 발인 10일 낮 12시30분, 영락공원→부산추모공원.]]></content:encoded>
+            <title><![CDATA['갑질 논란' 강형욱 빠지니…'개훌륭' 잠정 폐지 "리뉴얼 할 예정" [TEN이슈] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/312/0000669928</link>
+            <guid>https://m.entertain.naver.com/now/article/312/0000669928</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:38 GMT</pubDate>
+            <content:encoded><![CDATA['개는 훌륭하다'(이하 '개훌륭')가 잠정 폐지 소식을 전했다. 방송계에 따르면 KBS 2TV '개는 훌륭하다'는1일 방송을 마지막으로 잠정 폐지됐다. 제작진 측은 "잠정 휴식기를 가지면서 프로그램을 리뉴얼할 예정"]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[제니, 메이크업 중 실내 흡연 논란 “공인으로서의 자세 도마 위에” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/410/0001010639</link>
-            <guid>https://m.entertain.naver.com/now/article/410/0001010639</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[블랙핑크 제니의 실내흡연이 논란이 되고 있다. 최근 블랙핑크 멤버 제니가 실내 흡연 논란에 휘말렸다. 온라인 커뮤니티에서는 제니가 자신의 브이로그 영상에서 해외 스케줄을 위해 메이크업을 받던 도중 전자담배를 흡연하는]]></content:encoded>
+            <title><![CDATA["자숙이 뭐예요?" 정준영·승리, 출소 후에도 여전한 '클럽사랑'[SC이슈] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/076/0004166372</link>
+            <guid>https://m.entertain.naver.com/now/article/076/0004166372</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[성범죄 혐의로 수감됐다 출소한 가수 정준영과 승리의 반성과 자숙 없는 태도가 도마 위에 올랐다. 8일 온라인 커뮤니티에서는 프랑스 리옹에서 포착됐다는 정준영의 근황이 공개됐다. 공개된 목격 사진 속 정준영은 장발에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[홍수아 “중국 출연료, 한국 10배.. 성형 욕 먹어도 만족” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/009/0005331523</link>
-            <guid>https://m.entertain.naver.com/now/article/009/0005331523</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[배우 홍수아가 중국 진출을 하며 받은 성형 수술에 대해 언급했다. 지난 7일 유튜브 채널 ‘낰낰’에는 ‘장마철에 1가구 1홍수아 보급 시급. 홍수아 그냥 보고만 있어도 맑음 바이러스 뿜뿜’이]]></content:encoded>
+            <title><![CDATA[2000년대 명작 재탄생…웨이브, OTT 최초 드라마 리마스터링 ‘뉴클래식 프로젝트‘ 진행 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/396/0000682018</link>
+            <guid>https://m.entertain.naver.com/now/article/396/0000682018</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[2000년대 초반을 풍미했던 명작 드라마가 원작자의 손을 거쳐 웨이브에서 2024년 버전으로 재탄생한다. 온라인 동영상 서비스 웨이브(Wavve)는 명작으로 회자되는 2000년대 대표 드라마 MBC '내 이름은 김삼]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스태프 얼굴에 연기를 '후'…블랙핑크 제니, 실내흡연 논란 확산 [TEN이슈] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/312/0000669889</link>
-            <guid>https://m.entertain.naver.com/now/article/312/0000669889</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 블랙핑크 제니가 실내에서 전자 담배를 피우는 듯한 모습이 포착돼 논란에 휩싸였다. 9일 온라인상에는 제니가 실내에서 흡연을 했다는 의혹이 제기됐다. 제니가 지난 2일 자신의 유튜브에 올린 브이로그에 연기를 내뱉]]></content:encoded>
+            <title><![CDATA[美 빌보드 '핫 100'서 블랙핑크 리사 70위·BTS 지민 88위 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/001/0014794801</link>
+            <guid>https://m.entertain.naver.com/now/article/001/0014794801</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 블랙핑크 리사와 방탄소년단(BTS) 지민이 솔로곡으로 각각 미국 빌보드 메인 싱글 차트 '핫 100'에 진입했다. 미국 빌보드 차트 공식 사회관계망서비스(SNS)는 리사의 '록스타'(ROCKSTAR)가 70위,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[공식] 소나무 출신 지수민, 다부이앤엠 전속계약 "감동 주는 배우되고파" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/076/0004166309</link>
-            <guid>https://m.entertain.naver.com/now/article/076/0004166309</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 소나무 출신 지수민이 다부이앤엠(주)와 전속계약을 체결했다. 다부이앤엠(주)는 "지수민은 배우로서 가져야 할 깊이있는 감성과 끼를 갖추고 있으며 여러 스타일의 강한 연기력을 선보일 수 있는 가능성 있는 배우다.]]></content:encoded>
+            <title><![CDATA[美 빌보드 '핫 100'서 블랙핑크 리사 70위·BTS 지민 88위 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://m.entertain.naver.com/now/article/001/0014794801</link>
+            <guid>https://m.entertain.naver.com/now/article/001/0014794801</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:43 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 블랙핑크 리사와 방탄소년단(BTS) 지민이 솔로곡으로 각각 미국 빌보드 메인 싱글 차트 '핫 100'에 진입했다. 미국 빌보드 차트 공식 사회관계망서비스(SNS)는 리사의 '록스타'(ROCKSTAR)가 70위,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[안유진, 긱시크 무드 ‘독보적 아우라’ 돋보이는 데님-티셔츠룩 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/410/0001010638</link>
-            <guid>https://m.entertain.naver.com/now/article/410/0001010638</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[마르디 메크르디(Mardi Mercredi)가 최근 뮤즈 안유진과 함께한 새로운 데님 컬렉션을 공개했다. 심플하면서도 세련된 긱시크 스타일을 완벽히 소화한 안유진은 데님과 티셔츠, 안경 등의 기본 아이템만으로도 누구]]></content:encoded>
+            <title><![CDATA[“이혼결정 임박” 제니퍼 로페즈, 벤 애플렉과 화해 가능성 없다[해외이슈] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://m.entertain.naver.com/now/article/117/0003848870</link>
+            <guid>https://m.entertain.naver.com/now/article/117/0003848870</guid>
+            <pubDate>Tue, 09 Jul 2024 01:02:43 GMT</pubDate>
+            <content:encoded><![CDATA[할리우드 커플 제니퍼 로페즈(54)와 벤 애플렉(51)의 이혼 시계가 빨라지고 있다. 한 내부자는 8일(현지시간) 페이지식스와 인터뷰에서 “둘이 다시 합치는 것은 날이 갈수록 희박해 보인다”고 말했다. 이어 “그 무]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정준영, 출소 후 프랑스서 목격… "클럽서 여자 꼬시더라" (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
@@ -1600,20 +1614,6 @@
             <guid>https://m.entertain.naver.com/now/article/609/0000873147</guid>
             <pubDate>Mon, 08 Jul 2024 06:22:20 GMT</pubDate>
             <content:encoded><![CDATA[일본 그룹 노기자카 46 출신 방송인 타키야마 카즈미가 QuizKnock(퀴즈노크) 멤버 후쿠라P와 결혼한다. 타키야마 카즈미, 후쿠라P는 최근 각 개인 소셜미디어를 통해 결혼 소식을 알렸다. 타키야마 카즈미는 "생]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[워터밤·'인기가요' MC→'편스토랑'까지…데드풀·울버린, 내한의 신기원 [엑's 이슈] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://m.entertain.naver.com/now/article/311/0001746241</link>
-            <guid>https://m.entertain.naver.com/now/article/311/0001746241</guid>
-            <pubDate>Mon, 08 Jul 2024 06:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[마블 시네마틱 유니버스(MCU) 영화 '데드풀과 울버린'의 주인공 라이언 레이놀즈와 휴 잭맨이 내한의 신기원을 열었다. 라이언 레이놀즈, 휴 잭맨, 숀 레비 감독은 지난 3일부터 5일까지 2박 3일 간의 일정으로 내]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[부산국제록페스티벌, 2차 출연진 공개…엘르가든·라이즈 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://m.entertain.naver.com/now/article/001/0014793363</link>
-            <guid>https://m.entertain.naver.com/now/article/001/0014793363</guid>
-            <pubDate>Mon, 08 Jul 2024 06:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[부산시는 오는 10월 4일부터 6일까지 삼락생태공원에서 열리는 '2024 부산국제록페스티벌' 2차 출연진을 8일 공개했다. 2차 출연진에는 일본 펑크록을 대표하는 밴드 '엘르가든', 제21회 한국대중음악상 올해의 음]]></content:encoded>
         </item>
     </channel>
 </rss>
