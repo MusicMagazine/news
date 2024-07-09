@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2024-07-09T19:11:56.653Z</updated>
+    <updated>2024-07-09T20:15:12.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 그래미 뮤지엄, 한 층 털어 '하이브 K팝 유산' 전시한다]]></title>
+        <id>https://m.entertain.naver.com/now/article/001/0014796851</id>
+        <link href="https://m.entertain.naver.com/now/article/001/0014796851"/>
+        <updated>2024-07-09T20:15:05.718Z</updated>
+        <content type="html"><![CDATA[BTS·세븐틴·아일릿 착용 아이템 대규모 첫선…뉴진스는 홍보물에 없어 이재림 특파원 = 미국 로스앤젤레스(LA) 그래미 뮤지엄(GRAMMY MUSEUM)에서 방탄소년단(BTS)과 세븐틴, 투모로우바이투게더 등 하이브]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조윤희 "이동건과 재혼 '완전 가짜', 연애는 하지만 재혼은 싫다" ('이젠혼자다')[종합]]]></title>
         <id>https://m.entertain.naver.com/now/article/076/0004166820</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/009/0005332095"/>
         <updated>2024-07-09T14:15:14.714Z</updated>
         <content type="html"><![CDATA[‘돌싱포맨’ 배우 최진혁이 메기남으로 등장했다. 9일 방송된 SBS 예능프로그램 ‘신발 벗고 돌싱포맨’(이하 ‘돌싱포맨’)에서는 멤버들과 강경헌, 최여진, 이수경이 미팅을 진행하는 가운데, 최진혁이 ‘메기남’으로 등]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송은이, ‘매출 1등’ 이홍기와 “마이너스 기록…회사에 미안”]]></title>
-        <id>https://m.entertain.naver.com/now/article/396/0000682134</id>
-        <link href="https://m.entertain.naver.com/now/article/396/0000682134"/>
-        <updated>2024-07-09T14:15:14.715Z</updated>
-        <content type="html"><![CDATA[방송인 송은이가 이홍가와 듀엣곡을 불렀던 시기를 떠올렸다. 사진=유튜브 ‘VIVO TV - 비보티비’ 9일 유튜브 ‘VIVO TV - 비보티비’에는 ‘원조 아이돌 밴드 이홍기랑 한 차로 가’라는 제목의 영상이 공개됐]]></content>
     </entry>
 </feed>
