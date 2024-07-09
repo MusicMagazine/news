@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-07-09T18:20:20.586Z</updated>
+    <updated>2024-07-09T19:11:56.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비비업, 데뷔 100일…'100'으로 보는 활약상 #댄스챌린지 #글로벌차트 #커버 영상]]></title>
+        <id>https://m.entertain.naver.com/now/article/477/0000500843</id>
+        <link href="https://m.entertain.naver.com/now/article/477/0000500843"/>
+        <updated>2024-07-09T19:11:43.955Z</updated>
+        <content type="html"><![CDATA[신인 걸그룹 비비업(VVUP)이 9일 데뷔 100일을 맞았다. 비비업(현희, 킴, 팬, 수연)은 이날 공식 SNS에 데뷔 100일 기념 축전을 게재하고 자축했다. '포에버 비비업'이라는 문구와 함께 네 멤버가 활동]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤언니, 신곡 달달한 러브송 ‘사랑일까’ 발매]]></title>
         <id>https://m.entertain.naver.com/now/article/144/0000974311</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/018/0005785385"/>
         <updated>2024-07-09T13:17:10.367Z</updated>
         <content type="html"><![CDATA[아크(사진=미스틱스토리) 미스틱스토리가 올해 8월 선보이는 신인 보이그룹의 이름은 ‘아크’(ARrC)라고 밝혔다. 아크(최한·도하·현민·지빈·끼엔·리오토·지우)는 8일 공식 사회관계망서비스(SNS) 오픈과 함께 로고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[르세라핌, 日 열도 떴다 하면 오리콘 차트 들썩]]></title>
-        <id>https://m.entertain.naver.com/now/article/144/0000974249</id>
-        <link href="https://m.entertain.naver.com/now/article/144/0000974249"/>
-        <updated>2024-07-09T14:15:08.354Z</updated>
-        <content type="html"><![CDATA[걸그룹 르세라핌(LE SSERAFIM)이 일본에서 놀라운 관객 동원력을 보여주었다. 르세라핌(김채원, 사쿠라, 허윤진, 카즈하, 홍은채)이 오는 13, 14, 15일 사흘간 일본 가나가와현 요코하마시 피아 아레나 M]]></content>
     </entry>
 </feed>
