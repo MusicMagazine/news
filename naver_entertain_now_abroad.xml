@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2024-07-12T11:12:16.198Z</updated>
+    <updated>2024-07-12T12:26:01.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['샤이닝' 셜리 듀발 별세…향년 75]]></title>
+        <id>https://m.entertain.naver.com/now/article/003/0012664122</id>
+        <link href="https://m.entertain.naver.com/now/article/003/0012664122"/>
+        <updated>2024-07-12T12:26:00.313Z</updated>
+        <content type="html"><![CDATA[거장 감독 스탠리 큐브릭의 영화 '샤이닝'(1980)에서 공포에 질린 얼굴로 기억되는 배우 셜리 듀발이 별세했다. 향년 75. 11일(현지시간) AP통신 등 외신에 따르면, 듀발은 고향인 미국 텍사스 블랑코 자택에셔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['겨울왕국' 실사화? 가짜 예고편인데 반응 폭발한 영상 [할리웃 통신]]]></title>
         <id>https://m.entertain.naver.com/now/article/213/0001301359</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/213/0001301271"/>
         <updated>2024-07-12T06:18:47.508Z</updated>
         <content type="html"><![CDATA[오는 13일 TBS에서 8시간 동안 생방송 되는 '2024 음악의 날'에 70명 이상의 아티스트들이 출연할 예정이다. 현지 매체 스마트 플래시(Smart FLASH)에 따르면 '2024 음악의 날' 프로그램에 K-P]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['샤이닝' 셸리 듀발, 정신질환→당뇨 합병증으로 사망...향년 75세 [할리웃통신]]]></title>
-        <id>https://m.entertain.naver.com/now/article/213/0001301267</id>
-        <link href="https://m.entertain.naver.com/now/article/213/0001301267"/>
-        <updated>2024-07-12T06:18:47.509Z</updated>
-        <content type="html"><![CDATA[전설적인 공포 영화 '샤이닝'에 웬디 역으로 출연한 배우 셸리 듀발이 75세 나이로 세상을 떠났다. 11일(현지 시간) 외신 매체 버라이어티의 보도에 따르면 배우 셸리 듀발이 이날 텍사스주 블랑코에서 당뇨병 합병증으]]></content>
     </entry>
 </feed>
