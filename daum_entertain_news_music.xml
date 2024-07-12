@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-07-12T14:13:28.038Z</updated>
+    <updated>2024-07-12T16:18:12.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“한 페이지가 될 수 있게”…‘더 리슨’ 보이식스 기억할게]]></title>
+        <id>https://v.daum.net/v/20240713002807482</id>
+        <link href="https://v.daum.net/v/20240713002807482"/>
+        <updated>2024-07-12T16:17:39.677Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 이기은 기자] ‘더 리슨’ 실력파 발라드 6인의 음악 청춘 여행이 막을 내렸다. 13일 밤 방송된 SBS 예능프로그램 ‘더 리슨 : 너와 함께 한 시간’에서는 먼데이키즈 이진성, 김희재, 허각, 임한별, 이무진, #안녕 총 6명이 결성한 ‘보이식스’의 마지막 음악 무대가 공개됐다. 보이식스는 지난 달 21일 결성했고, 전국 각지를 돌며 팬들과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트와이스, 데뷔곡 ‘OOH-AHH하게’ 뮤직비디오 5억뷰 돌파]]></title>
         <id>https://v.daum.net/v/20240712214147646</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240712183658013"/>
         <updated>2024-07-12T11:11:49.266Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 이승훈 기자] /사진=KBS 2TV '뮤직뱅크' 걸 그룹 스테이씨(STAYC)가 '뮤직뱅크' 1위 트로피를 품에 안았다. 12일 오후 방송된 KBS 2TV '뮤직뱅크'에서는 7월 둘째 주 1위를 차지한 스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)의 모습이 그려졌다. 이날 스테이씨는 "1위하게 해주신 팬분들 감사하다. 회사분들도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알리, 14일 '열린음악회 - ROTC 창설 63주년 특집' 출격]]></title>
-        <id>https://v.daum.net/v/20240712183148955</id>
-        <link href="https://v.daum.net/v/20240712183148955"/>
-        <updated>2024-07-12T11:11:49.268Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 한해선 기자] /사진=뮤직원컴퍼니 가수 알리가 '열린음악회'에 출격한다. 알리는 오는 14일 오후 5시 40분부터 방송되는 KBS 1TV '열린음악회(연출 김형석)' 1487회 'ROTC 창립 63주년' 특집 방송에 출연한다. 이날 방송은 ROTC(학생군사교육단)의 63주년을 기념하며 대원들을 초청해 진행된다. 알리는 뉴위즈덤하모니와 함]]></content>
     </entry>
 </feed>
