@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2024-07-13T19:11:37.811Z</updated>
+    <updated>2024-07-13T20:17:59.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[앤팀, 새벽을 여는 비주얼[TV10]]]></title>
+        <id>https://m.entertain.naver.com/now/article/312/0000670568</id>
+        <link href="https://m.entertain.naver.com/now/article/312/0000670568"/>
+        <updated>2024-07-13T20:17:52.468Z</updated>
+        <content type="html"><![CDATA[그룹 앤팀(의주, 후마, 케이, 니콜라스, 유마, 조, 하루아, 타키, 마키)이 일본 일정을 마치고 14일 오전 인천국제공항을 통해 입국했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이혼' 서유리, '썸붕' 이후 맞는 불금..야윈 얼굴에 '걱정']]></title>
         <id>https://m.entertain.naver.com/now/article/108/0003250205</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/410/0001011661"/>
         <updated>2024-07-13T14:13:50.209Z</updated>
         <content type="html"><![CDATA[그룹 레드벨벳 슬기가 매니저 갑질 논란에 사과했다. 슬기는 13일 SNS에 “어제 공항에서의 일로 매니저님께, 그리고 많은 분들께 실망드려 죄송하다”는 글을 게재했다. 이어 “최근 연습을 하다 발에 물집과 상처가 난]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 변우석 경호업체, 과잉 보호 논란에 "죄송…재발 방지"]]></title>
-        <id>https://m.entertain.naver.com/now/article/421/0007661041</id>
-        <link href="https://m.entertain.naver.com/now/article/421/0007661041"/>
-        <updated>2024-07-13T14:13:50.211Z</updated>
-        <content type="html"><![CDATA[배우 변우석의 경호를 담당하고 있는 경호업체 대표가 배우 과잉 보호 논란에 대해 사과했다. 해당 경호업체 대표는 13일 오후 뉴스1에 "경호원이 플래시를 비추는 행동은 잘못된 것"이라고 시인하며 "시민분들을 불편하게]]></content>
     </entry>
 </feed>
