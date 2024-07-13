@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Jul 2024 22:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jul 2024 23:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[효린 'Wait'로 8월 컴백.. 비주얼 필름 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=323921</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=323921</guid>
+            <pubDate>Sat, 13 Jul 2024 23:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=323921">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240713190104_b8eb3dc3bd92e6dd357be09af34d9cca.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=323921">효린 'Wait'로 8월 컴백.. 비주얼 필름 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240713190104_b8eb3dc3bd92e6dd357be09af34d9cca.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이유, ‘2024 IU HEREH 월드투어 콘서트' 일본 오사카 공연 성료]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=323297</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=322116">ITZY, "월드투어, 미주 공연 중"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240628161631_55313f039ba643c574507ce59f058e00.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 리사, 신곡 ‘ROCKSTAR’ 오늘 발매]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=322012</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=322012</guid>
-            <pubDate>Fri, 28 Jun 2024 06:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=322012">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240628141936_823b7e93a2e99224f6a6e9658a0df970.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=322012">블랙핑크 리사, 신곡 ‘ROCKSTAR’ 오늘 발매 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240628141936_823b7e93a2e99224f6a6e9658a0df970.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
