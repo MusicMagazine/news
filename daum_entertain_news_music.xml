@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-07-14T13:38:21.861Z</updated>
+    <updated>2024-07-14T15:21:53.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[키스오브라이프, 10년 전 마마무처럼]]></title>
+        <id>https://v.daum.net/v/20240715000042958</id>
+        <link href="https://v.daum.net/v/20240715000042958"/>
+        <updated>2024-07-14T15:21:27.677Z</updated>
+        <content type="html"><![CDATA[정형화되지 않은 매력과 에너지로 대세 행보 "가장 중점을 두는 우리 팀의 가치는 '자유'" 최정상의 그룹과 그렇지 않은 그룹들 간의 격차가 커졌다. 대형 기획사가 좌지우지하는 아이돌 시장에서 중간을 지지해주는 팀들이 줄어드는 추세다. 그런 와중에 꽤 유의미한 성장세를 보이거나 상당한 잠재력을 갖춘 팀들이 있어 눈길을 끈다. 더 주목해야 할 그룹 3팀을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세븐틴 우지, AI 작사·작곡설에 반박 "인간 창작자가 작업"]]></title>
         <id>https://v.daum.net/v/20240714222935320</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240714181021173"/>
         <updated>2024-07-14T10:16:51.992Z</updated>
         <content type="html"><![CDATA[그룹 하이키가 뜨겁게 음악방송 피날레를 장식했다. 하이키(H1-KEY, 서이·리이나·휘서·옐)는 14일 오후 방송된 SBS ‘인기가요’에 출연해 미니 3집 ‘LOVE or HATE(러브 오어 헤이트)’의 타이틀곡 ‘뜨거워지자(Let It Burn)’ 마지막 무대를 선사했다. 이날 하이키는 강렬한 블랙&amp;레드 착장에 금장 장식으로 포인트를 준 패션으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['복면가왕' 이순재 깜짝 응원 "전국민 히트곡 보유한 실력자"]]></title>
-        <id>https://v.daum.net/v/20240714180407060</id>
-        <link href="https://v.daum.net/v/20240714180407060"/>
-        <updated>2024-07-14T10:16:52.004Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 최하나 기자] '복면가왕'에 이순재가 깜짝 등장한다. 14일 저녁 6시에 방송되는 MBC 예능프로그램 '복면가왕'에서는 한국 방송 역사의 산증인이자 수많은 배우의 롤모델 및 멘토로 큰 사랑을 받는 국민 배우 이순재가 깜짝 등장한다. 평소 절친한 복면 가수를 응원하기 위해 영상 편지를 보내온 것이다. 한국을 대표하는 원로 배우의 위엄에 모두]]></content>
     </entry>
 </feed>
