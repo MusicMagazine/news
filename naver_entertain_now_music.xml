@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-07-16T18:19:19.012Z</updated>
+    <updated>2024-07-16T19:14:29.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이돌 서바이벌 'MA1', 파이널 생방송…꿈 이룰 주인공은?]]></title>
+        <id>https://m.entertain.naver.com/now/article/003/0012670425</id>
+        <link href="https://m.entertain.naver.com/now/article/003/0012670425"/>
+        <updated>2024-07-16T19:14:15.779Z</updated>
+        <content type="html"><![CDATA[정혜원 인턴 기자 = KBS 글로벌 아이돌 데뷔 프로젝트의 최종 멤버가 가려진다. 17일 오후 10시10분 KBS 2TV '메이크 메이트 원(MAKE MATE 1)'(이하 'MA1') 파이널이 생방송으로 진행된다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스트레이 키즈, 신곡 ‘칙칙붐’ 퍼포먼스 담긴 뮤비 티저 추가 공개]]></title>
         <id>https://m.entertain.naver.com/now/article/144/0000975940</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/144/0000975892"/>
         <updated>2024-07-16T11:14:57.820Z</updated>
         <content type="html"><![CDATA[아이돌그룹 올아워즈(ALL(H)OURS)가 신곡 ‘도깨비’ 챌린지로 팬들에게 즐거움을 선사하고 있다. 올아워즈(건호, 유민, 제이든, 민제, 마사미, 현빈, 온)는 최근 두 번째 미니앨범 ‘WITNESS(위트니스)’]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JD1(정동원), ‘낮과 밤이 다른 그녀’ OST→‘ERROR 405’ 클립 공개]]></title>
-        <id>https://m.entertain.naver.com/now/article/144/0000975891</id>
-        <link href="https://m.entertain.naver.com/now/article/144/0000975891"/>
-        <updated>2024-07-16T11:14:57.826Z</updated>
-        <content type="html"><![CDATA[가수 JD1(정동원)이 스페셜 라이브 클립으로 팬심을 저격했다. 지난 6일과 15일 유튜브 채널 ‘고고씽 GOGOSING’을 통해 JD1의 라이브 영상 콘텐츠가 공개됐다. JD1은 SoundLess Live(사운드리]]></content>
     </entry>
 </feed>
