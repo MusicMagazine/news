@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-07-18T19:14:39.720Z</updated>
+    <updated>2024-07-18T20:19:33.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TXT, 미국 내 상반기 CD 판매량 2위…테일러 스위프트 뒤이어]]></title>
+        <id>https://m.entertain.naver.com/now/article/477/0000502451</id>
+        <link href="https://m.entertain.naver.com/now/article/477/0000502451"/>
+        <updated>2024-07-18T20:19:19.641Z</updated>
+        <content type="html"><![CDATA[투모로우바이투게더(TXT) 음반이 상반기 미국에서 가장 많이 팔린 K팝 앨범으로 집계됐다. 17일 미국 엔터테인먼트 산업 데이터 조사 업체 루미네이트가 발표한 2024년 상반기 리포트에 따르면 투모로우바이투게더 6번]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[컴백 엔싸인(n.SSign), ‘쇼음악중심 인 재팬’ 출격!]]></title>
         <id>https://m.entertain.naver.com/now/article/144/0000976496</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/112/0003709665"/>
         <updated>2024-07-18T09:14:46.558Z</updated>
         <content type="html"><![CDATA[방송인 김구라의 아들이자 가수인 그리가 입대 전 팬들에게 마지막 선물을 선사한다. 오늘(18일) 오후 6시 그리는 각종 음원 사이트를 통해 싱글 ‘Goodbye'(굿바이)를 발표했다. 그리가 지난 2022년 11월]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['뺑소니' 김호중, 경찰 조사 中 노숙자 시설에 1500만원 기부]]></title>
-        <id>https://m.entertain.naver.com/now/article/003/0012675533</id>
-        <link href="https://m.entertain.naver.com/now/article/003/0012675533"/>
-        <updated>2024-07-18T09:14:46.558Z</updated>
-        <content type="html"><![CDATA[뺑소니 혐의로 재판을 받고 있는 트로트 가수 김호중(33)씨가 노숙자들을 위해 기부금을 전한 사실이 뒤늦게 알려졌다. 사회적 물의로 공분을 산 그가 이번 선행으로 향후 재판에서 정상 참작을 받을 수 있을지 관심이 쏠]]></content>
     </entry>
 </feed>
