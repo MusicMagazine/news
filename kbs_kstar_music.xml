@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jul 2024 03:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jul 2024 04:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아일리원, 8월 컴백...서머퀸 자리 정조준]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=324513</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=324513</guid>
+            <pubDate>Thu, 18 Jul 2024 04:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=324513">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240718084137_28be9b51cd19ae07b3550f3e71b94112_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=324513">아일리원, 8월 컴백...서머퀸 자리 정조준</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240718084137_28be9b51cd19ae07b3550f3e71b94112_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["슈퍼배드4에 K팝 있다"  크리스 리노드 감독 '‘Dynamite’ ‘붐바야’ 선곡 이유]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=324311</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=322146">엔하이픈, 정규2집 ‘ROMANCE : UNTOLD’ ‘Arcanum’콘셉트포토 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240628163032_1d4a33a3565ec577de3a7a7d19a56378.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스, 도쿄돔 공연 .."Bunnies Camp 2024 Tokyo Dome"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=322171</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=322171</guid>
-            <pubDate>Fri, 28 Jun 2024 09:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=322171">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240628164210_7de94c5986e24bbd4a9231c08686d775.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=322171">뉴진스, 도쿄돔 공연 .."Bunnies Camp 2024 Tokyo Dome"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240628164210_7de94c5986e24bbd4a9231c08686d775.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
