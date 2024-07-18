@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-07-18T17:13:39.581Z</updated>
+    <updated>2024-07-18T18:20:47.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[컴백 엔싸인(n.SSign), ‘쇼음악중심 인 재팬’ 출격!]]></title>
+        <id>https://m.entertain.naver.com/now/article/144/0000976496</id>
+        <link href="https://m.entertain.naver.com/now/article/144/0000976496"/>
+        <updated>2024-07-18T18:20:33.885Z</updated>
+        <content type="html"><![CDATA[아이돌그룹 엔싸인(n.SSign)이 컴백 전 깜찍한 무대로 팬들을 만났다. 엔싸인은 지난 17일 방송된 MBC ’쇼! 음악중심 인 재팬(Show! Music Core in Japan)‘ 상반기 특집에 출연해 두 번째]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(여자)아이들, ‘엠카’ 20주년 특집 출연… 최장수 MC 미연 스페셜 무대]]></title>
         <id>https://m.entertain.naver.com/now/article/241/0003366317</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/003/0012675533"/>
         <updated>2024-07-18T09:14:46.558Z</updated>
         <content type="html"><![CDATA[뺑소니 혐의로 재판을 받고 있는 트로트 가수 김호중(33)씨가 노숙자들을 위해 기부금을 전한 사실이 뒤늦게 알려졌다. 사회적 물의로 공분을 산 그가 이번 선행으로 향후 재판에서 정상 참작을 받을 수 있을지 관심이 쏠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“호우 피해자에 작은위로를” (여자)아이들 소연, 성금 1억 기부]]></title>
-        <id>https://m.entertain.naver.com/now/article/144/0000976449</id>
-        <link href="https://m.entertain.naver.com/now/article/144/0000976449"/>
-        <updated>2024-07-18T09:14:46.558Z</updated>
-        <content type="html"><![CDATA[아이들 멤버 소연이 호우 피해 이웃을 위해 기부를 진행했다. 희망브리지 전국재해구호협회(회장 송필호)는 소연이 성금 1억원을 전달하며 고액 기부자 모임 아너스클럽 회원으로 위촉됐다고 18일 밝혔다. 소연은 “이번 호]]></content>
     </entry>
 </feed>
