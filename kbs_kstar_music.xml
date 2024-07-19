@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jul 2024 03:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jul 2024 04:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스트레이 키즈 컴백,  새 디지털 싱글 'SLASH'  타이틀곡  'Chk Chk Boom']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=324836</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=324836</guid>
+            <pubDate>Fri, 19 Jul 2024 04:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=324836">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240719124455_aea128c60be93fe46620524cad359deb_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=324836">스트레이 키즈 컴백,  새 디지털 싱글 'SLASH'  타이틀곡  'Chk Chk Boom'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240719124455_aea128c60be93fe46620524cad359deb_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[아일리원, 8월 컴백...서머퀸 자리 정조준]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=324513</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=322130">루시,  '서울 파크 뮤직 페스티벌' 출격</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240628162159_4412488a6c493dc0c271527d42b08fa7_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔하이픈, 정규2집 ‘ROMANCE : UNTOLD’ ‘Arcanum’콘셉트포토]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=322146</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=322146</guid>
-            <pubDate>Fri, 28 Jun 2024 22:11:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=322146">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240628163032_1d4a33a3565ec577de3a7a7d19a56378.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=322146">엔하이픈, 정규2집 ‘ROMANCE : UNTOLD’ ‘Arcanum’콘셉트포토 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240628163032_1d4a33a3565ec577de3a7a7d19a56378.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
