@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-07-19T02:04:22.801Z</updated>
+    <updated>2024-07-19T02:08:26.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[포토] 신아영 '해맑은 미소']]></title>
+        <id>https://m.entertain.naver.com/now/article/022/0003952216</id>
+        <link href="https://m.entertain.naver.com/now/article/022/0003952216"/>
+        <updated>2024-07-19T02:08:13.218Z</updated>
+        <content type="html"><![CDATA[방송인 신아영이 19일 서울 여의도 콘래드호텔에서 열린 그룹 스트레이 키즈 새 미니음반 '에이트'(ATE)의 기자간담회에 사회자로 참석해 인사말을 하고 있다. 타이틀곡 'Chk Chk Boom'은 라틴 스타일의 힙합]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위너 이승훈, 솔로 데뷔 첫 음방 무대 완벽 접수 "딱 내 스타일이야"]]></title>
         <id>https://m.entertain.naver.com/now/article/415/0000030342</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/015/0005011579"/>
         <updated>2024-07-19T02:04:10.807Z</updated>
         <content type="html"><![CDATA[그룹 스테이씨 수민이 19일 오후 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 스테이씨 아이사, '시크함 물씬~']]></title>
-        <id>https://m.entertain.naver.com/now/article/015/0005011576</id>
-        <link href="https://m.entertain.naver.com/now/article/015/0005011576"/>
-        <updated>2024-07-19T02:04:10.808Z</updated>
-        <content type="html"><![CDATA[그룹 스테이씨 아이사가 19일 오후 서울 여의도 KBS 신관 공개홀에서 열린 '뮤직뱅크' 리허설에 참석해 포즈를 취하고 있다.]]></content>
     </entry>
 </feed>
