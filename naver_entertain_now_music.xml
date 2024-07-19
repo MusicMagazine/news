@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-07-19T17:15:39.740Z</updated>
+    <updated>2024-07-19T18:18:01.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 ‘4월은 너의 거짓말’ 케이X정지소, ‘불후의 명곡’ 출격]]></title>
+        <id>https://m.entertain.naver.com/now/article/144/0000976704</id>
+        <link href="https://m.entertain.naver.com/now/article/144/0000976704"/>
+        <updated>2024-07-19T18:17:47.443Z</updated>
+        <content type="html"><![CDATA[뮤지컬 ‘4월은 너의 거짓말’의 케이, 정지소가 ‘불후의 명곡’에 출연한다. 케이, 정지소는 오는 20일 오후 6시 5분부터 방송되는 KBS2 ‘불후의 명곡’에 출연해 뮤지컬 ‘4월은 너의 거짓말’과 관련된 다양한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘뮤직뱅크’ 엔싸인, 호랑이 기세로 알리는 새로운 도약···‘Tiger’ 음악방송 첫 공개]]></title>
         <id>https://m.entertain.naver.com/now/article/144/0000976702</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/144/0000976671"/>
         <updated>2024-07-19T10:16:11.077Z</updated>
         <content type="html"><![CDATA[가수 하진우가 ‘도성마녀 미리내’ OST 주자로 나선다. 오는 21일 정오 각종 온라인 음원사이트를 통해 하진우가 참여한 웹툰 ‘도성마녀 미리내’ OST ‘이별하는 날’이 발매된다. ‘이별하는 날’은 갑자기 찾아온]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아일릿, 적수 없는 日인기…한터 국가별 차트 9번째 1위]]></title>
-        <id>https://m.entertain.naver.com/now/article/030/0003224917</id>
-        <link href="https://m.entertain.naver.com/now/article/030/0003224917"/>
-        <updated>2024-07-19T10:16:11.078Z</updated>
-        <content type="html"><![CDATA[그룹 에이티즈(ATEEZ)와 아일릿(ILLIT), 뷔(V)가 한터차트에서 발표하는 7월 2주 차 국가별 차트 정상에 올랐다. 세계 유일의 실시간 음악차트인 한터차트는 19일 7월 2주 차(집계 기간 8일~14일) 미]]></content>
     </entry>
 </feed>

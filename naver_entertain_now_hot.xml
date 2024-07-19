@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2024-07-19T17:15:39.729Z</updated>
+    <updated>2024-07-19T18:18:01.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김영대→박주현, 살인사건을 두고 특별 우정 예고 (완벽한 가족)]]></title>
+        <id>https://m.entertain.naver.com/now/article/382/0001139547</id>
+        <link href="https://m.entertain.naver.com/now/article/382/0001139547"/>
+        <updated>2024-07-19T18:17:54.128Z</updated>
+        <content type="html"><![CDATA[KBS2 새 수목드라마 ’완벽한 가족‘ 김영대, 박주현, 최예빈, 이시우가 절체절명의 운명에 놓인다. ‘완벽한 가족’(연출 유키사다 이사오)은 누가 봐도 행복하고 완벽해 보이는 가족이 딸의 살인으로 인해 점점 서로를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[존박, 무대에서 무릎 꿇어…러브홀릭 지선 “단언컨대 최고” (송스틸러)]]></title>
         <id>https://m.entertain.naver.com/now/article/382/0001139546</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/030/0003225017"/>
         <updated>2024-07-19T16:16:41.239Z</updated>
         <content type="html"><![CDATA[배우 전소니가 19일 인천 중구 파라다이스시티 호텔에서 진행된 제3회 청룡시리즈어워즈 레드카펫 행사에 참석했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아야네, 첫 출산 소감 "딸 자는 모습=그냥 이지훈..벌써 둘째 얘기해"[전문]]]></title>
-        <id>https://m.entertain.naver.com/now/article/108/0003251871</id>
-        <link href="https://m.entertain.naver.com/now/article/108/0003251871"/>
-        <updated>2024-07-19T16:16:41.241Z</updated>
-        <content type="html"><![CDATA[뮤지컬 배우 겸 가수 이지훈의 일본인 아내 아야네가 첫 출산 후 소감을 전했다. 아야네는 19일 "젤리 지구별에 온 걸 환영해"라며 "여러분의 응원 덕분에 젤리 출산 잘하고 왔습니다. 댓글로 하나하나 답장드리지 못]]></content>
     </entry>
 </feed>
