@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jul 2024 10:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jul 2024 11:14:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포토] 미연, 하트도 예뻐]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/424407</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/424407</guid>
+            <pubDate>Fri, 19 Jul 2024 11:14:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/424407">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/19/d7aa5337-6124-4f2e-8301-0613ca90eba2.jpg" alt="[포토] 미연, 하트도 예뻐">        <div class="text-box">            <p class="summary">[포토] 미연, 하트도 예뻐</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/19/d7aa5337-6124-4f2e-8301-0613ca90eba2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유니스, 'CURIOUS'로 올여름 가요계 정조준]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/424387</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 19 Jul 2024 06:20:28 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/424367">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/19/802a03df-ea4c-4442-a29b-7ab50a3d3643.jpg" alt="[포토] 에이핑크 윤보미, 뱅 헤어가 포인트">        <div class="text-box">            <p class="summary">[포토] 에이핑크 윤보미, 뱅 헤어가 포인트</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/19/802a03df-ea4c-4442-a29b-7ab50a3d3643.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 에이핑크 박초롱, 요정 미모]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/424366</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/424366</guid>
-            <pubDate>Fri, 19 Jul 2024 06:20:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/424366">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/19/30309f19-4c1b-4595-94ac-d7165cc0e4ce.jpg" alt="[포토] 에이핑크 박초롱, 요정 미모">        <div class="text-box">            <p class="summary">[포토] 에이핑크 박초롱, 요정 미모</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/19/30309f19-4c1b-4595-94ac-d7165cc0e4ce.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
