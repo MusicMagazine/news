@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2024-07-21T19:11:28.563Z</updated>
+    <updated>2024-07-21T20:16:22.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['SM 시세조종' 카카오 김범수 구속 기로…오늘 오후 영장심사]]></title>
+        <id>https://m.entertain.naver.com/now/article/001/0014820025</id>
+        <link href="https://m.entertain.naver.com/now/article/001/0014820025"/>
+        <updated>2024-07-21T20:16:16.497Z</updated>
+        <content type="html"><![CDATA[검찰 "공모 증거 확보"…김범수 "불법 지시·용인한 적 없어" SM엔터테인먼트 시세 조종 의혹과 관련해 검찰 수사를 받아온 카카오 창업자 김범수 경영쇄신위원장의 구속 여부가 이르면 22일 결정된다. 서울남부지법 한정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[포토] 성훈, 잘생김은 기본]]></title>
         <id>https://m.entertain.naver.com/now/article/009/0005338219</id>
@@ -171,13 +178,6 @@
         <id>https://m.entertain.naver.com/now/article/009/0005338193</id>
         <link href="https://m.entertain.naver.com/now/article/009/0005338193"/>
         <updated>2024-07-21T15:14:42.093Z</updated>
-        <content type="html"><![CDATA[‘2024 SBS 가요대전 서머(Summer)’ 블루카펫 행사가 21일 오후 인천 영종도 인스파이어 아레나에서 열렸다. 이날 행사에는 그룹 잔나비, 엔시티127(NCT127), 온앤오프(ONF), 스트레이 키즈(St]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 료, 손인사로 반갑게]]></title>
-        <id>https://m.entertain.naver.com/now/article/009/0005338192</id>
-        <link href="https://m.entertain.naver.com/now/article/009/0005338192"/>
-        <updated>2024-07-21T15:14:42.094Z</updated>
         <content type="html"><![CDATA[‘2024 SBS 가요대전 서머(Summer)’ 블루카펫 행사가 21일 오후 인천 영종도 인스파이어 아레나에서 열렸다. 이날 행사에는 그룹 잔나비, 엔시티127(NCT127), 온앤오프(ONF), 스트레이 키즈(St]]></content>
     </entry>
 </feed>
