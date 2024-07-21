@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Jul 2024 17:13:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jul 2024 18:21:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=324836</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=324836</guid>
             <pubDate>Fri, 19 Jul 2024 04:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=324836">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=324836">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240719124455_aea128c60be93fe46620524cad359deb_1.png" alt="대체 텍스트">
@@ -29,7 +29,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=324513</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=324513</guid>
             <pubDate>Thu, 18 Jul 2024 04:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=324513">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=324513">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240718084137_28be9b51cd19ae07b3550f3e71b94112_1.jpg" alt="대체 텍스트">
@@ -692,7 +692,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/424638</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/424638</guid>
             <pubDate>Sun, 21 Jul 2024 13:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/424638">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/21/4c29a44f-e4ba-48bf-90ba-a7d54a1be716.jpg" alt="[포토] 아일릿 원희, '슈퍼 큐티' BABY">        <div class="text-box">            <p class="summary">[포토] 아일릿 원희, '슈퍼 큐티' BABY</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/424638" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/21/4c29a44f-e4ba-48bf-90ba-a7d54a1be716.jpg" alt="[포토] 아일릿 원희, '슈퍼 큐티' BABY">        <div class="text-box">            <p class="summary">[포토] 아일릿 원희, '슈퍼 큐티' BABY</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/21/4c29a44f-e4ba-48bf-90ba-a7d54a1be716.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -700,7 +700,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/424632</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/424632</guid>
             <pubDate>Sun, 21 Jul 2024 12:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/424632">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/21/375b9e96-123f-482f-9689-148f9fbf2290.jpg" alt="[포토] 장하오, 머리 예쁘네">        <div class="text-box">            <p class="summary">[포토] 장하오, 머리 예쁘네</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/424632" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/21/375b9e96-123f-482f-9689-148f9fbf2290.jpg" alt="[포토] 장하오, 머리 예쁘네">        <div class="text-box">            <p class="summary">[포토] 장하오, 머리 예쁘네</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/21/375b9e96-123f-482f-9689-148f9fbf2290.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -708,7 +708,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/424631</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/424631</guid>
             <pubDate>Sun, 21 Jul 2024 12:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/424631">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/21/1ed03805-e741-40fe-bd19-a80a1a48215d.jpg" alt="[포토] 성한빈, 육각형 만점 아이돌">        <div class="text-box">            <p class="summary">[포토] 성한빈, 육각형 만점 아이돌</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/424631" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/21/1ed03805-e741-40fe-bd19-a80a1a48215d.jpg" alt="[포토] 성한빈, 육각형 만점 아이돌">        <div class="text-box">            <p class="summary">[포토] 성한빈, 육각형 만점 아이돌</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/21/1ed03805-e741-40fe-bd19-a80a1a48215d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -716,7 +716,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/424630</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/424630</guid>
             <pubDate>Sun, 21 Jul 2024 12:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/424630">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/21/0a6ff1f8-7037-4b0b-9301-a50e4092ba17.jpg" alt="[포토] 윤, 최고 가창력자">        <div class="text-box">            <p class="summary">[포토] 윤, 최고 가창력자</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/424630" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/21/0a6ff1f8-7037-4b0b-9301-a50e4092ba17.jpg" alt="[포토] 윤, 최고 가창력자">        <div class="text-box">            <p class="summary">[포토] 윤, 최고 가창력자</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/21/0a6ff1f8-7037-4b0b-9301-a50e4092ba17.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -724,7 +724,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/424628</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/424628</guid>
             <pubDate>Sun, 21 Jul 2024 12:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/424628">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/21/f0151a1c-8856-45e0-8089-d8939ff90fcd.jpg" alt="[포토] 설윤, 작디 작은 얼굴">        <div class="text-box">            <p class="summary">[포토] 설윤, 작디 작은 얼굴</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/424628" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/21/f0151a1c-8856-45e0-8089-d8939ff90fcd.jpg" alt="[포토] 설윤, 작디 작은 얼굴">        <div class="text-box">            <p class="summary">[포토] 설윤, 작디 작은 얼굴</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/21/f0151a1c-8856-45e0-8089-d8939ff90fcd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -732,7 +732,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/424627</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/424627</guid>
             <pubDate>Sun, 21 Jul 2024 12:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/424627">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/21/2a9e3e17-821a-4a89-afc5-e8c25ae46ef0.jpg" alt="[포토] 엔믹스 해원, 밈 마스터">        <div class="text-box">            <p class="summary">[포토] 엔믹스 해원, 밈 마스터</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/424627" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/21/2a9e3e17-821a-4a89-afc5-e8c25ae46ef0.jpg" alt="[포토] 엔믹스 해원, 밈 마스터">        <div class="text-box">            <p class="summary">[포토] 엔믹스 해원, 밈 마스터</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/21/2a9e3e17-821a-4a89-afc5-e8c25ae46ef0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -740,7 +740,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/424626</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/424626</guid>
             <pubDate>Sun, 21 Jul 2024 12:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/424626">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/21/d039d154-3629-4792-85d6-1df94f23d9fc.jpg" alt="[포토] 우아 나나, 귀엽고 예쁘고">        <div class="text-box">            <p class="summary">[포토] 우아 나나, 귀엽고 예쁘고</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/424626" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/21/d039d154-3629-4792-85d6-1df94f23d9fc.jpg" alt="[포토] 우아 나나, 귀엽고 예쁘고">        <div class="text-box">            <p class="summary">[포토] 우아 나나, 귀엽고 예쁘고</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/21/d039d154-3629-4792-85d6-1df94f23d9fc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -748,7 +748,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/424625</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/424625</guid>
             <pubDate>Sun, 21 Jul 2024 09:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/424625">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/21/d3758e26-9b5f-46cd-bd6d-835cda5abdaa.jpg" alt="[포토] 아이브 장원영, 완전 럭키비키잖아~">        <div class="text-box">            <p class="summary">[포토] 아이브 장원영, 완전 럭키비키잖아~</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/424625" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/21/d3758e26-9b5f-46cd-bd6d-835cda5abdaa.jpg" alt="[포토] 아이브 장원영, 완전 럭키비키잖아~">        <div class="text-box">            <p class="summary">[포토] 아이브 장원영, 완전 럭키비키잖아~</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/21/d3758e26-9b5f-46cd-bd6d-835cda5abdaa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -756,7 +756,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/424624</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/424624</guid>
             <pubDate>Sun, 21 Jul 2024 09:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/424624">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/21/fd1a32ff-fa4f-4a7d-922c-d72ba9694dcb.jpg" alt="[포토] 아이브, 넘사벽 미녀즈">        <div class="text-box">            <p class="summary">[포토] 아이브, 넘사벽 미녀즈</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/424624" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/21/fd1a32ff-fa4f-4a7d-922c-d72ba9694dcb.jpg" alt="[포토] 아이브, 넘사벽 미녀즈">        <div class="text-box">            <p class="summary">[포토] 아이브, 넘사벽 미녀즈</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/21/fd1a32ff-fa4f-4a7d-922c-d72ba9694dcb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -764,7 +764,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/424622</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/424622</guid>
             <pubDate>Sun, 21 Jul 2024 09:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/424622">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/21/38e43456-035c-4275-ba5a-21de4e2f2f2b.jpg" alt="[포토] 아이브 리즈, 보조개 여신">        <div class="text-box">            <p class="summary">[포토] 아이브 리즈, 보조개 여신</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/424622" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/21/38e43456-035c-4275-ba5a-21de4e2f2f2b.jpg" alt="[포토] 아이브 리즈, 보조개 여신">        <div class="text-box">            <p class="summary">[포토] 아이브 리즈, 보조개 여신</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/21/38e43456-035c-4275-ba5a-21de4e2f2f2b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -772,7 +772,7 @@
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/424621</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/424621</guid>
             <pubDate>Sun, 21 Jul 2024 08:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/424621">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/21/17d9579e-90f1-4f18-ab26-19e7b066b150.jpg" alt="[포토] 아이브 리즈, 나에게 DIVE~">        <div class="text-box">            <p class="summary">[포토] 아이브 리즈, 나에게 DIVE~</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/424621" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/21/17d9579e-90f1-4f18-ab26-19e7b066b150.jpg" alt="[포토] 아이브 리즈, 나에게 DIVE~">        <div class="text-box">            <p class="summary">[포토] 아이브 리즈, 나에게 DIVE~</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/07/21/17d9579e-90f1-4f18-ab26-19e7b066b150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -881,6 +881,41 @@
             <content:encoded><![CDATA[그룹 코요태(김종민 빽가 신지)의 첫 미국 투어가 성공적으로 포문을 열었다. 코요태는 지난 20일 오후 6시(미국 현지시간) ‘2024 미국 투어’ 로스앤젤레스(LA) 공연을 개최, 현지 팬들과 마주하며 뜨거운 인기를 입증했다. 첫 미국 투어인 만큼, 코요태는 다양한 퍼포먼스로 잊지 못할 추억을 안겼다. ‘실연’으로 오프닝을 연 코요태는 ‘만남’, ‘영웅’]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['미우새' 남진, 영원한 라이벌 나훈아 은퇴에 "의지할 곳 사라진 것 같아 아쉬워" 솔직 고백 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20240722030602537</link>
+            <guid>https://v.daum.net/v/20240722030602537</guid>
+            <pubDate>Sun, 21 Jul 2024 18:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS연예뉴스 | 김효정 에디터] 남진이 라이벌 나훈아에 대한 솔직한 마음을 털어놓았다. 21일 방송된 SBS '미운 우리 새끼'(이하 '미우새')에서는 가수 남진이 스페셜 MC로 등장했다. 이날 방송에서 모벤져스는 영원한 오빠 남진의 등장에 크게 환호했다. 이에 남진은 모벤져스의 이름을 한 명 한 명 호명하며 인사를 건네 눈길을 끌었다. 오빠 부대의 원]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[안무가 배윤정, 조갑경-나르샤-제이쓴 초대 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20240722030259496</link>
+            <guid>https://v.daum.net/v/20240722030259496</guid>
+            <pubDate>Sun, 21 Jul 2024 18:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[안무가 배윤정이 가수 조갑경과 나르샤, 방송인 제이쓴을 초대해 파티를 연다. 그는 가수 비와 이효리의 댄서 시절부터 브라운아이드걸스, 티아라 등 2세대 걸그룹의 안무를 탄생시키기까지 사연을 들려준다. 11세 연하의 축구 감독 서경환과의 재혼 이야기도 공개한다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['런닝맨' 김종국 팀, '소방관 양세찬' 활약에 유재석 팀 '성화 전소'…최종 우승 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20240722024800405</link>
+            <guid>https://v.daum.net/v/20240722024800405</guid>
+            <pubDate>Sun, 21 Jul 2024 18:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS연예뉴스 | 김효정 에디터] 김종국 팀이 승리를 거뒀다. 21일 방송된 SBS '런닝맨'에서는 '2024 불타는 런닝픽' 레이스가 진행됐다. 이날 방송에서 두 팀은 미션을 통해 성화에 불을 피웠다. 그리고 마지막 상대 팀의 성화를 공격할 기회를 얻었다. 이들은 각각 2번씩 상대의 성화를 공격한 후 꺼지지 않으면 전면전을 펼치기로 했다. 성화 공격에]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['런닝맨' 지예은, 강훈 대신 김종국 택했다…"내가 뭐가 모자라서" 새침 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20240722023900397</link>
+            <guid>https://v.daum.net/v/20240722023900397</guid>
+            <pubDate>Sun, 21 Jul 2024 18:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS연예뉴스 | 김효정 에디터] 지예은이 강훈을 선택하지 않았다. 21일 방송된 SBS '런닝맨'에서는 '2024 불타는 런닝픽' 레이스가 진행됐다. 이날 방송에서 팀장이 된 유재석과 김종국은 자신들이 정한 방향으로만 이동해 팀원을 모았다. 유리한 혜택이 걸린 미션에 두 팀장은 서둘러 멤버들을 모으기 시작했다. 하하와 강훈을 태운 유재석은 한 명만 더]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['런닝맨' 유재석-김종국, 오른쪽과 왼쪽 중 어느 쪽이 좋냐는 질문에 "이거 정치적인 거 아니냐?" 진땀 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20240722022100389</link>
+            <guid>https://v.daum.net/v/20240722022100389</guid>
+            <pubDate>Sun, 21 Jul 2024 18:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS연예뉴스 | 김효정 에디터] 김종국과 유재석이 제작진의 질문에 당황했다. 21일 방송된 SBS '런닝맨'에서는 '2024 불타는 런닝픽' 레이스가 진행됐다. 이날 방송에서 제작진은 유재석과 김종국에게 두 사람이 팀장이라고 알렸다. 이어 제작진은 "오른쪽과 왼쪽, 어느 쪽이 좋냐?"라고 물어 두 사람을 당황하게 만들었다. 이에 김종국은 "이거 약간 정]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['화보 여신' 고준희, 세련미 벗고 편의점 알바 체험… 한강 라면 먹방도 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
             <link>https://v.daum.net/v/20240722020900377</link>
             <guid>https://v.daum.net/v/20240722020900377</guid>
@@ -949,41 +984,6 @@
             <guid>https://v.daum.net/v/20240721233030710</guid>
             <pubDate>Sun, 21 Jul 2024 15:14:26 GMT</pubDate>
             <content:encoded><![CDATA[[TV리포트=이혜미 기자] 가수 김재중이 상상을 초월한 사생 피해를 고백했다. 21일 MBC ‘심야괴담회4’에선 김재중이 괴스트로 출연해 사생 괴담을 소개했다. 이날 김재중은 “귀신을 믿나, 안 믿나?”라는 ‘심야괴담회’ 공식 질문에 “귀신 따위는 믿지도 않고 무서워하지도 않는다. 난 과학을 믿어서 가장 무서운 건 사람이며 귀신조차 사람이 만들어낸 허상이라]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["동양인만 엿먹어라"..윤아·스키즈→홍진경도 비행기서 인종차별 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20240721232325670</link>
-            <guid>https://v.daum.net/v/20240721232325670</guid>
-            <pubDate>Sun, 21 Jul 2024 15:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박하영 기자] 아이돌 그룹 멤버들에 이어 이번에는 모델 겸 방송인 홍진경이 유럽 비행기에서 인종차별을 당한 일화를 털어놨다. 지난 19일 유튜브 채널 ‘공부왕찐천재 홍진경’에는 ‘파리 핫한 클럽에서 ‘유럽춤’ 제대로 추는 홍진경 (인종차별, 파리올림픽)’이라는 제목의 영상이 게재됐다. 이날 블랙 드레스를 입고 유럽 거리를 활보하던 홍진경은 파]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[버스터즈 세이라, 과즙미 100% (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20240721232002651</link>
-            <guid>https://v.daum.net/v/20240721232002651</guid>
-            <pubDate>Sun, 21 Jul 2024 15:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=이승현 기자]걸그룹 버스터즈 세이라가 21일 오후 경기 김포솔터축구장에서 열린 김포FC와 안양FC의 '하나은행 K리그2 2024' 경기 축하공연에 참석했다. 버스터즈는 지은, 민지, 세이라, 타카라, 나미로 구성된 다국적 그룹이다. 지난 6월 '대한민국 한류연예대상'에서 '글로벌한류스타대상' 아이돌스타 부문에 선정됐다. 이승현 기자 lsh87@]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[송민준, 더운 날씨 함께 아이스크림 먹고 싶은 남자 트로트 가수 1위 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20240721231802641</link>
-            <guid>https://v.daum.net/v/20240721231802641</guid>
-            <pubDate>Sun, 21 Jul 2024 15:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=김서윤 기자]가수 송민준이 더운 날씨 함께 아이스크림을 먹고 싶은 남자 트로트 가수 1위를 기록했다. 텐아시아는 7월 11일부터 7월 17일까지 '더운 날씨 함께 아이스크림 먹고 싶은 남자 트로트 가수는?'이라는 주제로 투표를 진행했다. 1위는 송민준이 차지했다. 송민준은 지난 5월 18일 이화여자대학교 삼성홀에서 '2024 송민준 단독 콘서]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['늦깎이 엄마' 최지우, 녹화 중 눈물 "너무 빨리 커버린 내 딸 루아" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20240721231724636</link>
-            <guid>https://v.daum.net/v/20240721231724636</guid>
-            <pubDate>Sun, 21 Jul 2024 15:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=배선영 기자] 배우 최지우가 딸 루아에 대한 애정을 드러냈다. 최지우는 21일 방송된 KBS2 '슈퍼맨이 돌아왔다'에서 "루아 23개월 때 유치원에 보내기 시작했는데 가기 전 날 낮잠이불 같은 준비물 챙겨주며 한바탕 붙잡고 울었다"라고 말했다. 이어 최지우는 "다음 날 유치원에 보내면서 울 생각도 하고 사진도 찍고 하려고 했다. 그런데]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[은가은, 더운 날씨 함께 아이스크림 먹고 싶은 여자 트로트 가수 1위…2위 김다현 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20240721231401610</link>
-            <guid>https://v.daum.net/v/20240721231401610</guid>
-            <pubDate>Sun, 21 Jul 2024 15:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=김서윤 기자] 가수 은가은이 더운 날씨 함께 아이스크림을 먹고 싶은 여자 트로트 가수 1위를 기록했다. 텐아시아는 7월 11일부터 7월 17일까지 '더운 날씨 함께 아이스크림 먹고 싶은 여자 트로트 가수는?'이라는 주제로 투표를 진행했다. 1위는 은가은이 차지했다. 그는 지난 4월 신곡 '귀인'을 발매했다. '귀인'은 사랑하는 이를 향한 그리]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[피트 어쩌나..졸리 딸 샤일로, 신문에 '父 뺀' 개명 공지 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
