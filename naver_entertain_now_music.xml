@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-07-21T13:14:32.217Z</updated>
+    <updated>2024-07-21T14:12:37.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[포토] NCT 위시 재희, '부드러운 눈빛~' (SBS 가요대전 Summer)]]></title>
+        <id>https://m.entertain.naver.com/now/article/015/0005012430</id>
+        <link href="https://m.entertain.naver.com/now/article/015/0005012430"/>
+        <updated>2024-07-21T14:12:24.731Z</updated>
+        <content type="html"><![CDATA[그룹 NCT 위시 재희가 21일 오후 인천 영종도 인스파이어 아레나에서 열린 '2024 SBS 가요대전 Summer' 블루카펫 행사에 참석해 포토타임을 갖고 있다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[포토] 스트레이 키즈 승민, '부드러운 눈빛에 시선강탈' (SBS 가요대전 Summer)]]></title>
         <id>https://m.entertain.naver.com/now/article/015/0005012428</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/015/0005012401"/>
         <updated>2024-07-21T13:14:20.546Z</updated>
         <content type="html"><![CDATA[그룹 아이브 이서가 21일 오후 인천 영종도 인스파이어 아레나에서 열린 '2024 SBS 가요대전 Summer' 블루카펫 행사에 참석해 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 아이브 안유진, '우아한 미소~' (SBS 가요대전 Summer)]]></title>
-        <id>https://m.entertain.naver.com/now/article/015/0005012400</id>
-        <link href="https://m.entertain.naver.com/now/article/015/0005012400"/>
-        <updated>2024-07-21T13:14:20.547Z</updated>
-        <content type="html"><![CDATA[그룹 아이브 안유진이 21일 오후 인천 영종도 인스파이어 아레나에서 열린 '2024 SBS 가요대전 Summer' 블루카펫 행사에 참석해 포토타임을 갖고 있다.]]></content>
     </entry>
 </feed>
