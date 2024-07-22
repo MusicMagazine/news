@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-07-22T17:15:44.280Z</updated>
+    <updated>2024-07-22T18:18:09.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[할리우드 스타들도 바이든에 "감사"…일부는 해리스 지지]]></title>
+        <id>https://v.daum.net/v/20240723022756539</id>
+        <link href="https://v.daum.net/v/20240723022756539"/>
+        <updated>2024-07-22T18:17:51.442Z</updated>
+        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 임미나 특파원 = 조 바이든 미국 대통령의 재선 도전 포기 발표에 민주당을 지지하는 할리우드 스타들도 잇달아 감사의 뜻을 표했다. 22일(현지시간) 미 언론 등에 따르면 원로가수 겸 배우·감독인 바브라 스트라이샌드(82)는 전날 엑스(X, 옛 트위터)에 "조 바이든은 4년 임기 동안 현저한 업적을 성취한 사람으로 역사에 기록될 것"]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['병역 기피' 유승준, 이번엔…'깜짝 근황' 전해졌다]]></title>
         <id>https://v.daum.net/v/20240722201801193</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240722134913650"/>
         <updated>2024-07-22T07:18:25.061Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김종은 기자] 남아프리카공화국 출신 배우 에스타 테르블랑쉬가 51세 나이로 세상을 떠났다. 21일(이하 현지시간) 미국 매체 CNN에 따르면 에스타 테르블랑쉬는 지난 19일 로스엔젤레스에서 사망했다. 사망 원인은 밝혀지지 않았다. 그의 매니저 애니 스폴리언스키는 배우의 사망을 공식화하며 "에스타는 친절하고 사랑스럽고 베풀 줄 아는 사람이었다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[콘서트 도중 감전사...아이레스 사사키, 팬들 모두 충격]]></title>
-        <id>https://v.daum.net/v/20240722124700336</id>
-        <link href="https://v.daum.net/v/20240722124700336"/>
-        <updated>2024-07-22T04:18:36.302Z</updated>
-        <content type="html"><![CDATA[[TV리포트=강나연 기자] 브라질의 가수 아이레스 사사키가 콘서트 도중 감전사했다. 21일(현지 시간) 외신 매체 데일리메일 보도에 따르면 브라질의 가수 아이레스 사사키가 브라질 파라 주의 휴양 도시 살리노폴리스에서 열린 콘서트 무대에서 향년 35세로 감전사했다. 아이레스 사사키는 7월 13일 콘서트 도중 젖은 상태로 선풍기를 끌어안고 있다가 치명적인 감전]]></content>
     </entry>
 </feed>
