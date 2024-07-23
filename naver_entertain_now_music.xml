@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-07-23T19:13:38.381Z</updated>
+    <updated>2024-07-23T20:15:38.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[日여성밴드 시샤모, 12월 첫 내한공연]]></title>
+        <id>https://m.entertain.naver.com/now/article/477/0000503618</id>
+        <link href="https://m.entertain.naver.com/now/article/477/0000503618"/>
+        <updated>2024-07-23T20:15:25.079Z</updated>
+        <content type="html"><![CDATA[일본 여성 록 밴드 시샤모(SHISHAMO)가 오는 12월 7일 오후 5시 서울 서교동 롤링홀에서 첫 내한공연을 갖는다. '이 심장소리가 너에게 들린다면 이젠 친구라고 변명할 수 없어'라는 제목의 이번 공연은 팬들이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신예 이헤이, ‘더 레인’으로 공식 데뷔]]></title>
         <id>https://m.entertain.naver.com/now/article/144/0000977388</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/640/0000056709"/>
         <updated>2024-07-23T12:27:50.666Z</updated>
         <content type="html"><![CDATA[Min Hee-jin warned legal measures against HYBE, Source Music and entertainment news outlet Dispatch for leaking private]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하이브 미국 걸그룹‘ 캣츠아이, 26일 두 번째 싱글 ‘Touch’ 발표]]></title>
-        <id>https://m.entertain.naver.com/now/article/144/0000977337</id>
-        <link href="https://m.entertain.naver.com/now/article/144/0000977337"/>
-        <updated>2024-07-23T12:27:50.666Z</updated>
-        <content type="html"><![CDATA[하이브와 게펜 레코드 글로벌 걸그룹 KATSEYE(캣츠아이)가 오는 26일 두 번째 싱글 ‘Touch’ 를 발표한다. 데뷔한 지 약 한 달 만에 이뤄지는 촘촘한 행보다. KATSEYE(다니엘라, 라라, 마농, 메간,]]></content>
     </entry>
 </feed>
