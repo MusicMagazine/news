@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-07-25T06:23:47.917Z</updated>
+    <updated>2024-07-25T07:17:07.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['캣우먼' 20주년...할리 베리, 50대에 다시 가면 쓰고 자축]]></title>
+        <id>https://v.daum.net/v/20240725161400181</id>
+        <link href="https://v.daum.net/v/20240725161400181"/>
+        <updated>2024-07-25T07:16:46.806Z</updated>
+        <content type="html"><![CDATA[[TV리포트=공지현 기자] 배우 할리 베리(Halle Berry)가 영화 '캣우먼(Catwoman)' 개봉 20주년을 기념하기 위해 고양이와 함께 찍은 사진을 공개했다. 57세의 할리 베리는 2004년에 영화 '캣우먼'에 출연한 바 있다. 24일 할리 베리는 어깨까지 내려오는 머리를 자연스럽게 풀어헤친 채 캣우먼 마스크를 쓰고 찍은 사진을 공개했다. 할리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[보이그룹 '빅오션' 해외서도 '물결' 일으키다...'SLOW' 프랑스서 울려 퍼져]]></title>
         <id>https://v.daum.net/v/20240725145945026</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240724191330886"/>
         <updated>2024-07-24T10:19:31.923Z</updated>
         <content type="html"><![CDATA[[TV리포트=유지호 기자] 가득 쌓인 돈다발 자랑으로 유명했던 미국의 래퍼 테카시 식스나인(6ix9ine, 본명 다니엘 에르난데스)이 미국 국세청에 의해 슈퍼카를 압류당했다. 17일(현지 시간) 외신 매체 데일리 메일(Daily Mail)은 미국 국세청(IRS) 요원에 의해 식스나인이 미국 플로리다주 레이크워스에 위치한 자택에 주차해 둔 두 대의 슈퍼카를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스폰지밥' 성우, 캐릭터 자폐 스펙트럼 장애 고백]]></title>
-        <id>https://v.daum.net/v/20240724190630732</id>
-        <link href="https://v.daum.net/v/20240724190630732"/>
-        <updated>2024-07-24T10:19:31.929Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유지호 기자] 전 세계적으로 사랑받는 인기 캐릭터 스폰지밥이 자폐 스펙트럼에 속해 있다는 사실이 밝혀졌다. 24일(현지 시간) 외신 매체 인디펜던트(ENDEPENDENT)는 1999년 '네모바지 스폰지밥'이 방영된 이래로 계속 스폰지밥의 성우를 맡았던 배우 겸 코미디언 톰 케니가 해당 사실을 밝혔다고 전했다. 톰 케니는 올해 초 미국 디트로이트]]></content>
     </entry>
 </feed>
