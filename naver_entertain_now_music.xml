@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-07-25T16:21:28.480Z</updated>
+    <updated>2024-07-25T18:20:26.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['칙칙붐' 돌풍 스트레이키즈, 유튜브 채널 랭킹 급상승]]></title>
+        <id>https://m.entertain.naver.com/now/article/003/0012689955</id>
+        <link href="https://m.entertain.naver.com/now/article/003/0012689955"/>
+        <updated>2024-07-25T18:20:14.601Z</updated>
+        <content type="html"><![CDATA['스트레이 키즈'(Stray Kids)의 신곡 '칙칙붐'(Chk Chk Boom)이 글로벌 돌풍을 일으키면서 그룹 공식 유튜브 채널 랭킹도 급등했다. 25일 튜브가이드가 발표한 7월 넷째주 국내 유튜브 채널 랭킹을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔플라잉, 역주행→정주행 상승세→'뮤직뱅크' 활발 행보ing]]></title>
         <id>https://m.entertain.naver.com/now/article/108/0003253380</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/477/0000503949"/>
         <updated>2024-07-25T10:16:58.396Z</updated>
         <content type="html"><![CDATA[그룹 유니스가 새 싱글의 모든 콘셉트 사진을 공개했다. 유니스(진현주, 나나, 젤리당카, 코토코, 방윤하, 엘리시아, 오윤아, 임서원)는 25일 공식 SNS 채널에 첫 번째 싱글 '큐리어스' 'Z' 버전 개인 및 유]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘유민상의 배고픈 라디오’ 신성, 개그맨까지 웃게 하는 현란한 입담]]></title>
-        <id>https://m.entertain.naver.com/now/article/144/0000977862</id>
-        <link href="https://m.entertain.naver.com/now/article/144/0000977862"/>
-        <updated>2024-07-25T10:16:58.396Z</updated>
-        <content type="html"><![CDATA[가수 신성이 끈적한 날씨도 잊게 하는 시원한 라이브 무대를 선물했다. 신성은 25일 오후 방송이 된 SBS 러브FM ‘유민상의 배고픈 라디오’에 게스트로 출연했다. 신성은 “유민상 씨가 진행하는 ‘배고픈 라디오’라고]]></content>
     </entry>
 </feed>
