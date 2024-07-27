@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-07-27T13:15:18.340Z</updated>
+    <updated>2024-07-27T14:12:52.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트래비스와 떠난 시원한 여름 휴가…"여러분 오랜만이에요"]]></title>
+        <id>https://m.entertain.naver.com/now/article/001/0014834192</id>
+        <link href="https://m.entertain.naver.com/now/article/001/0014834192"/>
+        <updated>2024-07-27T14:12:40.245Z</updated>
+        <content type="html"><![CDATA[음악 축제 '해브 어 나이스 트립' 헤드라이너로 8년 만 내한 "오늘 여기에 있을 수 있어서 참 좋네요. 여러분 오랜만이에요. 제 머리 색깔이 바뀐 지도 오래됐죠. 하하." (트래비스 프란 힐리) 올여름 불쾌지수 상]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가가·디옹…'파리 올림픽' 개회식, 혁명적인 佛 대중문화 재조명]]></title>
         <id>https://m.entertain.naver.com/now/article/003/0012692863</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/018/0005799136"/>
         <updated>2024-07-27T10:14:06.235Z</updated>
         <content type="html"><![CDATA[가수 하성운의 소속사 측이 신보 초동(앨범 발매 후 일주일간 판매량) 데이터가 누락된 것을 사과했다. 하성운 소속사 빅플래닛메이드엔터는 27일 미니 8집 ‘Blessed(블레스드)’의 초동 판매량 데이터 누락에 대해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엑소 찬열, 내달 솔로 데뷔…9월 도시풍경 투어]]></title>
-        <id>https://m.entertain.naver.com/now/article/003/0012692572</id>
-        <link href="https://m.entertain.naver.com/now/article/003/0012692572"/>
-        <updated>2024-07-27T10:14:06.236Z</updated>
-        <content type="html"><![CDATA[그룹 '엑소' 멤버 찬열이 솔로 가수로서 열일을 예고했다. 27일 SM엔터테인먼트에 따르면, 찬열은 8월 솔로 데뷔를 위한 막바지 준비에 한창이다. 오는 9월 6~7일엔 서울 용산구 블루스퀘어 마스터카드홀에서 '20]]></content>
     </entry>
 </feed>
