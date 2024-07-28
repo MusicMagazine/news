@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-07-28T11:15:51.617Z</updated>
+    <updated>2024-07-28T13:14:35.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[ET현장] 엄마 나 커서 노엘 갤러거가 될래요!]]></title>
+        <id>https://m.entertain.naver.com/now/article/030/0003227118</id>
+        <link href="https://m.entertain.naver.com/now/article/030/0003227118"/>
+        <updated>2024-07-28T13:14:24.225Z</updated>
+        <content type="html"><![CDATA[영국의 록스타 노엘 갤러거(Noel Gallagher)는 과거 한 인터뷰에서 이런 말을 한 적이 있다. “‘Live forever’는 어떤 곡인가요?” “아마도 영원히 살잔 (Live forever) 곡이겠지?” 그]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['호러퀸' 안예은이 '가위'로 돌아왔다]]></title>
         <id>https://m.entertain.naver.com/now/article/213/0001303600</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/468/0001080610"/>
         <updated>2024-07-28T07:13:29.688Z</updated>
         <content type="html"><![CDATA[아우라. 사진 | (주)일공이팔, HBC HOUSE 싱어송라이터 아우라(AOORA)가 인도에 이어 두바이에서도 한류 스타로 맹활약하고 있다. 아우라는 최근 아랍에미리트 두바이 현지에서 열린 ‘2024 인도-두바이 필름페]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘2024 전주세계소리축제’에서 시원한 여름나기 하세요!]]></title>
-        <id>https://m.entertain.naver.com/now/article/144/0000978314</id>
-        <link href="https://m.entertain.naver.com/now/article/144/0000978314"/>
-        <updated>2024-07-28T07:13:29.690Z</updated>
-        <content type="html"><![CDATA[‘2024 전주세계소리축제’가 여름으로 개최시기를 옮기고 게절에 걸맞게 야외공연을 강화했다. 전주세계소리축제조직위원회(조직위원장 이왕준, 이하 소리축제)는 올해 여름 축제로 변화를 꾀하며 예술성을 높인 수준 높은 작]]></content>
     </entry>
 </feed>
