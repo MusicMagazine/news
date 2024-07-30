@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2024-07-30T15:17:13.230Z</updated>
+    <updated>2024-07-30T18:18:07.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['드림콘서트 월드 인 재팬' 결국 연기…日 폭염 여파]]></title>
+        <id>https://m.entertain.naver.com/now/article/117/0003856790</id>
+        <link href="https://m.entertain.naver.com/now/article/117/0003856790"/>
+        <updated>2024-07-30T18:17:53.356Z</updated>
+        <content type="html"><![CDATA['드림콘서트 월드 인 재팬'(DREAM CONCERT WORLD IN JAPAN) 개최가 연기됐다. 30일 업계에 따르면 오는 8월 10일, 11일 일본 사이타마현 베루나돔에서 개최 예정이던 '드림콘서트 월드 인 재]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘드림콘서트 인 재팬’ 폭염으로 행사 연기]]></title>
         <id>https://m.entertain.naver.com/now/article/144/0000978935</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/now/article/144/0000978897"/>
         <updated>2024-07-30T12:25:35.454Z</updated>
         <content type="html"><![CDATA[실력파 루키 트렌드지(TRENDZ)가 튀르키예 단독 공연에 나선다. 트렌드지는 오는 10일 6일 이스탄불 JJ 아레나 워터가든에서 대규모 콘서트 ‘TRENDZ 1st Türkiye Concert’을 개최한다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[루시, 8월 韓·日서 첫 월드투어 앙코르 콘서트 개최 [공식]]]></title>
-        <id>https://m.entertain.naver.com/now/article/117/0003856690</id>
-        <link href="https://m.entertain.naver.com/now/article/117/0003856690"/>
-        <updated>2024-07-30T11:12:48.896Z</updated>
-        <content type="html"><![CDATA[밴드 루시(LUCY)가 앙코르 콘서트를 연다. 루시(신예찬, 최상엽, 조원상, 신광일)는 오는 8월 24일~25일 서울, 8월 31일 일본 도쿄에서 첫 번째 월드투어 '루시 첫 번째 월드투어 '리튼 바이 플라워'(L]]></content>
     </entry>
 </feed>
