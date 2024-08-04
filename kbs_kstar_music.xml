@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Aug 2024 09:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Aug 2024 10:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이브, '롤라팔루자'  출격]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=326211</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=326211</guid>
+            <pubDate>Sun, 04 Aug 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=326211">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240804184457_c227715c906ac16938f4021ab0a913b2.jpeg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=326211">아이브, '롤라팔루자'  출격 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240804184457_c227715c906ac16938f4021ab0a913b2.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[하이브의 미래전략.. "음악·플랫폼·테크기반, 글로벌 음악사업 주도"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=326074</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=323297">아이유, ‘2024 IU HEREH 월드투어 콘서트' 일본 오사카 공연 성료</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240708081546_88982ba590805f02e2851a170b6fe0c6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이채연, 미니앨범 ‘SHOWDOWN’ 발매.. 타이틀 곡 ‘Don’t’]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=322737</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=322737</guid>
-            <pubDate>Thu, 04 Jul 2024 00:59:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=322737">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240704080710_fc419629451fa926f7213004564b6316.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=322737">이채연, 미니앨범 ‘SHOWDOWN’ 발매.. 타이틀 곡 ‘Don’t’</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240704080710_fc419629451fa926f7213004564b6316.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
