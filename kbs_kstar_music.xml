@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Aug 2024 08:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Aug 2024 10:17:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서머퀸 효린, 12일 컴백 'Wait'.. 선셋 콘셉트 포토]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=326227</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=326227</guid>
+            <pubDate>Mon, 05 Aug 2024 10:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=326227">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240804185832_5ce3c91d78dd544708210068b3f7f3f6_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=326227">서머퀸 효린, 12일 컴백 'Wait'.. 선셋 콘셉트 포토</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240804185832_5ce3c91d78dd544708210068b3f7f3f6_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이브, '롤라팔루자'  출격]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=326211</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=323921">효린 'Wait'로 8월 컴백.. 비주얼 필름 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240713190104_b8eb3dc3bd92e6dd357be09af34d9cca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이유, ‘2024 IU HEREH 월드투어 콘서트' 일본 오사카 공연 성료]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=323297</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=323297</guid>
-            <pubDate>Mon, 08 Jul 2024 01:02:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=323297">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240708081546_88982ba590805f02e2851a170b6fe0c6.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=323297">아이유, ‘2024 IU HEREH 월드투어 콘서트' 일본 오사카 공연 성료</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240708081546_88982ba590805f02e2851a170b6fe0c6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
