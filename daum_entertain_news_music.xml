@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-08-05T18:19:16.038Z</updated>
+    <updated>2024-08-05T19:16:02.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘경력직 신인’ 어센트, 대만·홍콩·캐나다에 뜬다]]></title>
+        <id>https://v.daum.net/v/20240806032730792</id>
+        <link href="https://v.daum.net/v/20240806032730792"/>
+        <updated>2024-08-05T19:15:33.631Z</updated>
+        <content type="html"><![CDATA[뉴웨이즈컴퍼니 소속 첫 5인조 아이돌그룹 어센트(ASC2NT)가 팬콘을 통해 글로벌 팬들을 만난다. 5일 뉴웨이즈컴퍼니는 “어센트(가람, 인준, 제이, 레온, 카일)가 오는 10월, 11월 대만, 홍콩, 캐나다에서 2024 ASC2NT ‘Expecting Tomorrow’ FAN-CON (2024 어센트 ‘익스펙팅 투모로우’ 팬-콘)을 개최한다”고 밝]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영원히 소녀시대…데뷔 17주년 회동 현장]]></title>
         <id>https://v.daum.net/v/20240806005206941</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240805210906314"/>
         <updated>2024-08-05T14:12:45.780Z</updated>
         <content type="html"><![CDATA[그룹사운드 잔나비가 ‘펜타포트’의 헤드라이너로 화려한 피날레를 장식했다. 잔나비는 지난 4일 인천 연수구 송도달빛축제공원에서 개최된 ‘2024 인천펜타포트 락 페스티벌(이하 ’펜타포트‘)’ 무대에 올랐다. ‘펜타포트’는 지난 2006년 이후 올해 19년째 명성을 이어오고 있는 대표적인 음악 축제다. 잔나비는 ‘펜타포트’의 마지막 날 헤드라이너로 무대에 올라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘강변가요제 대상’ 엔분의일, 새 싱글 ‘세이 잇!’ 발매]]></title>
-        <id>https://v.daum.net/v/20240805210617264</id>
-        <link href="https://v.daum.net/v/20240805210617264"/>
-        <updated>2024-08-05T14:12:45.782Z</updated>
-        <content type="html"><![CDATA[밴드 엔분의일(1/N)이 여름을 닮은 청량한 사운드를 들려줬다. 5일 정오 엔분의일(신성규 소순우 최훈 김예현 김명수)은 새 디지털 싱글 ‘SAY IT!’(세이 잇)을 발매, 여름날 기분 좋은 출발을 알렸다. 엔분의일 멤버들이 작곡한 ‘SAY IT!’은 경쾌하고 청량한 멜로디와 상반되는 서정적인 가사가 조화를 이뤄 독특한 매력을 자아내는 곡이다.]]></content>
     </entry>
 </feed>
