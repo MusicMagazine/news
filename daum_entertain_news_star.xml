@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-08-09T18:18:50.881Z</updated>
+    <updated>2024-08-09T19:12:28.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이동휘·곽준빈, 美서 2000㎉ 햄버거 먹방 도전]]></title>
+        <id>https://v.daum.net/v/20240810035810903</id>
+        <link href="https://v.daum.net/v/20240810035810903"/>
+        <updated>2024-08-09T19:12:05.384Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]정혜원 인턴 기자 = 유튜버 곽준빈과 배우 이동휘가 로스앤젤레스(LA) 고칼로리 투어에 나선다. 10일 오후 8시5분 방송되는 EBS·ENA 예능물 '곽준빈의 세계기사식당2'(이하 '곽기사')에서는 곽준빈이 여행 메이트 이동휘와 함께 미국의 다양하고 푸짐한 고칼로리 음식의 세계로 시청자들을 안내한다. 이동휘와 함께 로스앤젤레스 공항에 도착한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['나는 솔로', 돌싱 특집으로 돌아온다…연예인급 비주얼]]></title>
         <id>https://v.daum.net/v/20240810030213709</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240810003311950"/>
         <updated>2024-08-09T16:17:58.461Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] '나혼산' 안재현이 재혼 운을 보라는 패널들의 말에 당황했다. 9일 방송된 MBC 예능프로그램 '나 혼자 산다'에서는 배우 윤가이의 일상이 공개됐다.. 윤가이의 집은 빈티지 감성을 자랑했다. 윤가이는 "구옥이다 보니까 전주인 때부터 쓰던 걸 받아서 쓰고 있다. 버튼 같은 건 최대한 숨기려고 했다. 장판이나 벽]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[존박과 여름 면 특집]]></title>
-        <id>https://v.daum.net/v/20240810003053926</id>
-        <link href="https://v.daum.net/v/20240810003053926"/>
-        <updated>2024-08-09T16:17:58.464Z</updated>
-        <content type="html"><![CDATA[TV조선은 11일 오후 7시 50분 ‘식객 허영만의 백반기행’을 방송한다. 연예계 대표 ‘면 마니아’ 가수 존박과 함께 ‘여름 면 특집’으로 서울·고양·파주·인천에서 가지각색의 면을 맛본다. 이날 존박은 ‘백반기행’으로부터 도움을 받은 에피소드를 털어놓는다. 존박은 “아내와 연애 시절 식객의 반응을 보면서 데이트 코스를 짰다”고 밝혀 식객 허영만을 함박웃음]]></content>
     </entry>
 </feed>
