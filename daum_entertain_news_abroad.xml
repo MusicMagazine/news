@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-08-10T07:13:05.552Z</updated>
+    <updated>2024-08-10T09:19:06.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[독일 공연서 욱일기 쓴 아델, 영상 수정했지만 사과+해명은 NO]]></title>
+        <id>https://v.daum.net/v/20240810180542669</id>
+        <link href="https://v.daum.net/v/20240810180542669"/>
+        <updated>2024-08-10T09:18:46.620Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 팝스타 아델이 공연 중 욱일기 문양을 사용해 뭇매를 맞았다. 이후 공연에서 영상은 수정됐으나 추가 입장은 없었다. 아델은 지난 8월 2일(현지시간) 독일 뮌헨 특설 스타디움에서 단독 콘서트를 개최했다. 공연 중 아델이 히트곡을 ‘Rumor has it’(루머 해즈 잇)을 부르는 동안 스타디움 내 대형 스크린에는 아델이 노래 부르]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아델, 욱일기 지웠다..다만 사과도 없었다]]></title>
         <id>https://v.daum.net/v/20240810154921540</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240809194300363"/>
         <updated>2024-08-09T12:28:14.943Z</updated>
         <content type="html"><![CDATA[[TV리포트=홍진혁 기자] 인기 성우 하나자와 카나가 과거 '지하 아이돌' 생활을 했다고 고백했다. 7일 도쿄TV '여기저기 오도리' 방송에 하나자와 카나가 출연하여 자신의 과거에 대해 이야기 했다. 하자자와 카나는 어렸을 적부터 예능 프로그램에서 활약했지만 대학에 진학했을 무렵에는 일이 줄어들었다고 했다. 그는 당시를 회상하며 "일을 전부 그만두려고 했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이혼 2번' 女가수, 아들 혼자 키우는 싱글맘... 파란만장 인생]]></title>
-        <id>https://v.daum.net/v/20240809193530217</id>
-        <link href="https://v.daum.net/v/20240809193530217"/>
-        <updated>2024-08-09T12:28:14.945Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유지호 기자] 일본의 '국민 가수' 우타다 히카루가 8월 10일과 11일 대만 타이베이의 타이베이 아레나에서 공연을 앞두고 있다. 올해 41세인 우타다 히카루는 일본의 전설적인 가수로 음악성과 대중성 모두 완벽하다고 극찬받는 아티스트로 잘 알려져 있다. 10살 때 처음 작사와 작곡을 시작한 우타다 히카루는 16살부터 발매한 싱글 '퍼스트 러브']]></content>
     </entry>
 </feed>
