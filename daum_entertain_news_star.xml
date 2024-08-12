@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-08-12T17:15:24.876Z</updated>
+    <updated>2024-08-12T18:20:15.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경찰 ‘흉기난동 사건’ 부실 대응 해부]]></title>
+        <id>https://v.daum.net/v/20240813030234774</id>
+        <link href="https://v.daum.net/v/20240813030234774"/>
+        <updated>2024-08-12T18:19:50.929Z</updated>
+        <content type="html"><![CDATA[2021년 11월 ‘인천 층간소음 흉기난동 사건’ 당시 현장에 출동한 경찰이 피해자가 흉기에 찔렸음에도 현장을 벗어나 비판을 받았다. ‘분노 유발자들’은 경찰의 부실 대응 논란에 대해 다룬다. ‘머니! 뭐니?’에선 내 집 마련을 위한 절약법을 알아본다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오윤아 "제가 수수하게 생긴 얼굴이 아니니까…"]]></title>
         <id>https://v.daum.net/v/20240813015308598</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240813000204067"/>
         <updated>2024-08-12T15:17:25.227Z</updated>
         <content type="html"><![CDATA[방송통신심의위원회가 12일 서울 양천구 목동 방송회관에서 전체 회의를 열고 가수 김호중 음주운전 뺑소니 사건을 전하면서 앵커가 장애인을 비하했다는 논란을 빚은 채널A ‘강력한 4팀’에 대해 ‘관계자 의견진술’을 의결했다. 해당 프로그램은 지난 달 10일 방송 때 김호중의 재판 출석 소식을 전하면서 진행자인 이용환 앵커가 “김호중 씨가 뭔가 법정에 입장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["노래 커버 찍으세요" 스페이스클라우드, 온라인 커버 축제 '2024 커버위크' 개최]]></title>
-        <id>https://v.daum.net/v/20240813000102029</id>
-        <link href="https://v.daum.net/v/20240813000102029"/>
-        <updated>2024-08-12T15:17:25.228Z</updated>
-        <content type="html"><![CDATA[공간대여 플랫폼 스페이스클라우드가 댄스·노래·연주 커버그룹을 위한 온라인 커버 축제 ‘2024 커버위크’를 개최한다고 13일 밝혔다.&nbsp; 커버위크는 유저들이 직접 찍은 댄스, 노래, 악기 연주 커버영상을 스페이스클라우드 유튜브 채널에서 공유하는 온라인 음악축제다. 지난해까지 커버위크는 커버댄스 부문만 진행했으나 올해 7회를 맞아 노래와 악기 분야까지 참]]></content>
     </entry>
 </feed>
