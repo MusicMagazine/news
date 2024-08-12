@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Aug 2024 23:13:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Aug 2024 01:02:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['파친코' 김민하, 눈컴퍼니와 전속계약]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=326808</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=326808</guid>
+            <pubDate>Mon, 12 Aug 2024 01:01:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=326808">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240812083134_87ce778d8db7179e6fa4be35433ce79b.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=326808">'파친코' 김민하, 눈컴퍼니와 전속계약 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240812083134_87ce778d8db7179e6fa4be35433ce79b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[콘텐트리중앙, 2분기 실적  개선.. 매출 2,268억 원 기록]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=326562</link>
@@ -331,23 +348,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=324572">이해준, 뮤지컬 ‘베르사유의 장미’ 첫 공연 .."완벽한  앙드레   그랑디에" </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240718093218_0e53aff2910ba9f083f288a3e25e726d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이혜리, 드라마 '선의의 경쟁' 캐스팅... 금수저 전교 1등 여고생]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=324567</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=324567</guid>
-            <pubDate>Thu, 18 Jul 2024 01:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=324567">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240718092641_daa00745579068f7b4b44427157d5eee.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=324567">이혜리, 드라마 '선의의 경쟁' 캐스팅... 금수저 전교 1등 여고생 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240718092641_daa00745579068f7b4b44427157d5eee.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
