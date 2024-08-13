@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Aug 2024 19:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Aug 2024 20:20:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SF9, 새 앨범 ‘FANTASY’ 콘셉트 포토]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=327037</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=327037</guid>
+            <pubDate>Tue, 13 Aug 2024 20:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=327037">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240813081528_952fdfc1f852ba1d1ba9f89dd43c8036.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=327037">SF9, 새 앨범 ‘FANTASY’ 콘셉트 포토</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240813081528_952fdfc1f852ba1d1ba9f89dd43c8036.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베이비몬스터, 도시 팬미팅 투어 성료.. "몬스티즈와 함께 완성한 첫 번째 여정"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=327044</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=325152">방탄소년단 지민, 리믹스 앨범 ‘Who (Remixes)’ 발매</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240722164811_cd357e8d8008ad164bb690e6186cf7a6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에스파, 싱가포르 공연..  전석 매진 & 열정적 떼창 응원]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=325127</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=325127</guid>
-            <pubDate>Mon, 22 Jul 2024 07:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=325127">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240722140420_f1e3cb6c0361ca98d0cc3c268e8eca0e.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=325127">에스파, 싱가포르 공연..  전석 매진 &amp; 열정적 떼창 응원</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240722140420_f1e3cb6c0361ca98d0cc3c268e8eca0e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

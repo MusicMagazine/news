@@ -4,9 +4,27 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Aug 2024 19:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Aug 2024 20:20:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연우, KBS드라마 ‘개소리’에 합류..  이순재와 힐링 호흡]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=327049</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=327049</guid>
+            <pubDate>Tue, 13 Aug 2024 20:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=327049">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240813085819_1197668810e06dead8b49674e670f9e6.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=327049">연우, KBS드라마 ‘개소리’에 합류..  이순재와 힐링 호흡</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%B0%9C%EC%86%8C%EB%A6%AC">수목드라마 개소리</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240813085819_1197668810e06dead8b49674e670f9e6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[문별, 정규1집 리패키지 앨범 'Starlit of Twinkle' 콘셉트 포토]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=327000</link>
@@ -331,23 +349,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=325090">'에드바르 뭉크전', 장마 속 10만 관객 돌파</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240722095138_5ae208700a9f2c54b64c8c140a0fc151.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김하늘-정지훈, 싱글즈 화보.. "얼음 멜로 같은 느낌의 드라마"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=324992</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=324992</guid>
-            <pubDate>Mon, 22 Jul 2024 01:00:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=324992">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240722074916_5cc6f38cd9b259405fdbdf676ca9bef5.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=324992">김하늘-정지훈, 싱글즈 화보.. "얼음 멜로 같은 느낌의 드라마"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240722074916_5cc6f38cd9b259405fdbdf676ca9bef5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
