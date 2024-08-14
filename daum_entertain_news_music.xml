@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-08-14T19:15:27.248Z</updated>
+    <updated>2024-08-14T20:16:33.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[멜론, 이용자가 뽑은 ‘꿀기능 TOP10’ 발표···21%가 선택한 1위는?]]></title>
+        <id>https://v.daum.net/v/20240815043332675</id>
+        <link href="https://v.daum.net/v/20240815043332675"/>
+        <updated>2024-08-14T20:16:08.517Z</updated>
+        <content type="html"><![CDATA[멜론 고객들은 단순한 음악감상을 넘어 음악을 즐기는 새로운 방식을 제공하고 팬심을 충족시켜주는 기능들을 애용하는 것으로 나타났다. 카카오엔터테인먼트의 뮤직플랫폼 멜론(Melon)은 지난 4월 ‘멜론 내 가장 좋아하는 기능’을 댓글로 남기는 이벤트를 통해 나온 총 6천여개의 댓글들을 분석한 결과를 담은 ‘멜로너가 사랑한 꿀기능 TOP10’ 리포트를 최근]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미스틱 첫 보이그룹' 아크, 데뷔가 기대되는 이유]]></title>
         <id>https://v.daum.net/v/20240814232444550</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240814181619742"/>
         <updated>2024-08-14T10:15:16.066Z</updated>
         <content type="html"><![CDATA[일본 싱어송라이터 유우리(Yuuri)가 첫 단독 내한 콘서트를 개최한다. 라이브 엔터테인먼트 브랜드 리벳(LIVET)에 따르면 유우리는 오는 11월 11일 예스24 라이브홀에서 단독 콘서트 ‘Yuuri Live in Seoul 2024(유우리 라이브 인 서울 2024)’를 열고 국내 팬들과 만난다. 일본을 대표하는 싱어송라이터 유우리의 대표곡 베텔기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슈가 CCTV 영상 본 누리꾼들, "스쿠터vs킥보드 판단 애매" 설왕설래]]></title>
-        <id>https://v.daum.net/v/20240814181315665</id>
-        <link href="https://v.daum.net/v/20240814181315665"/>
-        <updated>2024-08-14T09:14:54.420Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 방탄소년단 멤버 슈가(본명 민윤기)가 음주 상태로 전동 스쿠터를 탔다 구설수에 오른 가운데, 사고 당시가 담긴 CCTV 영상이 공개되며 누리꾼들 사이에선 설왕설래가 이어지고 있다. 14일 동아일보가 공개한 CCTV 영상에 따르면 슈가는 지난 6일 밤 11시 10분께 전동 스쿠터를 탄 채로 서울 용산구 나인원한남 정문을 향해 좌]]></content>
     </entry>
 </feed>
