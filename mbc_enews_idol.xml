@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Aug 2024 01:01:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Aug 2024 02:09:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유니스가 대세 걸그룹인 이유 '너만 몰라']]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/427767</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/427767</guid>
+            <pubDate>Fri, 23 Aug 2024 02:08:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/427767">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/08/23/fd43af3e-7e1b-40a7-b5e8-4878db50325a.jpg" alt="유니스가 대세 걸그룹인 이유 '너만 몰라'">        <div class="text-box">            <p class="summary">유니스가 대세 걸그룹인 이유 '너만 몰라'</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/08/23/fd43af3e-7e1b-40a7-b5e8-4878db50325a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[포토] NCT 127, 무결점 비주얼]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/427717</link>
@@ -86,14 +94,6 @@
             <pubDate>Thu, 22 Aug 2024 10:15:47 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/427705">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/08/22/420738ec-66cf-4880-b6ea-9189b59f0808.jpg" alt="[포토] 제베원, 눈이 맑아지는 비주얼">        <div class="text-box">            <p class="summary">[포토] 제베원, 눈이 맑아지는 비주얼</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/08/22/420738ec-66cf-4880-b6ea-9189b59f0808.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 백호, 으른미 발산]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/427704</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/427704</guid>
-            <pubDate>Thu, 22 Aug 2024 10:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/427704">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/08/22/dd179586-ad71-487f-8190-d7bb7d17af07.jpg" alt="[포토] 백호, 으른미 발산">        <div class="text-box">            <p class="summary">[포토] 백호, 으른미 발산</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/08/22/dd179586-ad71-487f-8190-d7bb7d17af07.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
