@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-08-23T13:17:59.174Z</updated>
+    <updated>2024-08-23T14:16:46.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘경찰 조사’ 말 아낀 슈가 “실망 안겨 죄송”]]></title>
+        <id>https://v.daum.net/v/20240823222351481</id>
+        <link href="https://v.daum.net/v/20240823222351481"/>
+        <updated>2024-08-23T14:16:16.480Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 이기은 기자] 만취 상태로 전동 스쿠터를 운전한 혐의를 받는 그룹 방탄소년단 멤버 슈가(31·본명 민윤기)가 첫 경찰 조사를 받고 있다. 슈가는 오늘(23일) 저녁 사회복무요원 근무를 마친 이후, 오후 7시45분께 서울 용산 경찰서에 모습을 드러냈다. 음주 운전 적발 이후 17일 만이다. 슈가는 블랙 수트를 입고 등장했고, 포토 라인에 섰다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[펜타곤 후이, ‘Easy dance’로 꽃피운 올라운더 활약]]></title>
         <id>https://v.daum.net/v/20240823220601289</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240823190351140"/>
         <updated>2024-08-23T10:14:41.447Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 백지연 기자] 일본 싱어송라이터 요네즈 켄시(Kenshi Yonezu)가 정규 6집으로 돌아왔다. 소니뮤직엔터테인먼트코리아에 따르면 23일부터 각종 온‧오프라인 음반 매장을 통해 요네즈 켄시의 정규 6집 ‘LOST CORNER(로스트 코너)’의 피지컬 앨범을 구매할 수 있다. 해당 앨범의 음원은 지난 21일 국내외 각종 음원사이트를 통해 공개]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나나, ‘루머 유포’ 사이버 렉카 고소…“선처 없이 강경 대응”]]></title>
-        <id>https://v.daum.net/v/20240823185927076</id>
-        <link href="https://v.daum.net/v/20240823185927076"/>
-        <updated>2024-08-23T10:14:41.448Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김지하 기자] 가수 겸 배우 나나가 유튜브 상에서 확산 중인 자신을 둘러싼 소문에 대해 강경 대응에 나선다. 23일 티브이데일리 취재를 종합하면 나나는 최근 자신에 대한 악성 루머를 퍼뜨린 유튜브 채널 운영자들을 정보통신망법위반(허위사실적시명예훼손) 혐의로 형사 고소했다. 해당 유튜버들은 나나에 대한 허위사실이 담긴 녹취록을 영상으로 제작해]]></content>
     </entry>
 </feed>
