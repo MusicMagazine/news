@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Aug 2024 08:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Aug 2024 09:17:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방예담, 미니 2집 콘셉트 포토 .. "GOOD VIBES"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=328538</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=328538</guid>
+            <pubDate>Mon, 26 Aug 2024 09:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=328538">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240826073100_7bc91635392ce18cc7d0ee7caf2b5b20_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=328538">방예담, 미니 2집 콘셉트 포토 .. "GOOD VIBES"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240826073100_7bc91635392ce18cc7d0ee7caf2b5b20_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도경수, 말레이시아 팬 콘서트 ‘블룸’ 성료]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=327725</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=325218">앤팀(&amp;TEAM), 첫 아레나 투어.. 도쿄 공연  성료</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240723082031_8a83cbe63f558c9ebbbd77960163de2a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김재중 아시아투어 '플라워 가든' 서울 콘서트 성료]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=325194</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=325194</guid>
-            <pubDate>Mon, 22 Jul 2024 23:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=325194">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240723075516_995c531cbb2a9ff8fb695737e15611ba.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=325194">김재중 아시아투어 '플라워 가든' 서울 콘서트 성료</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240723075516_995c531cbb2a9ff8fb695737e15611ba.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
