@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-08-28T18:22:14.525Z</updated>
+    <updated>2024-08-28T19:16:58.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아일릿 ‘Magnetic’, 빌보드 송차트 22주 연속 차트인]]></title>
+        <id>https://v.daum.net/v/20240829032424113</id>
+        <link href="https://v.daum.net/v/20240829032424113"/>
+        <updated>2024-08-28T19:16:30.503Z</updated>
+        <content type="html"><![CDATA[걸그룹 아일릿(ILLIT)의 ‘Magnetic’이 국내외 주요 음원차트에서 장기 흥행을 지속하고 있다. 27일(현지시간) 미국 음악 전문 매체 빌보드가 발표한 최신 차트(8월 31일 자)에 따르면 아일릿(윤아, 민주, 모카, 원희, 이로하) 미니 1집 타이틀곡 ‘Magnetic’이 ‘글로벌(미국제외)’과 ‘글로벌 200’에 각각 42위, 91위로 랭크]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[둘다섯 '긴머리 소녀', 순수의 정수 명곡]]></title>
         <id>https://v.daum.net/v/20240829000222063</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240828194100122"/>
         <updated>2024-08-28T11:14:04.603Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 원성윤 기자] 가수 청하가 청량한 서머송으로 컴백했다. 청하는 28일 오후 6시 각종 온라인 음원사이트를 통해 스페셜 디지털 싱글 ‘알고리즘 (Algorithm)’을 발매했다. ‘알고리즘 (Algorithm)’은 지난 3월 청하의 새로운 시작을 알린 싱글 ‘이니미니(EENIE MEENIE)’ 이후 약 5개월 만에 공개한 신보다. 하우스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT 태일, 성범죄 피소로 팀 탈퇴]]></title>
-        <id>https://v.daum.net/v/20240828193003863</id>
-        <link href="https://v.daum.net/v/20240828193003863"/>
-        <updated>2024-08-28T11:14:04.604Z</updated>
-        <content type="html"><![CDATA[그룹 NCT 멤버 태일이 성범죄 관련 형사사건에 피소됐다. 이에 소속사는 태일을 팀에서 탈퇴시켰다. SM엔터테인먼트는 28일 오후 “NCT 멤버 태일이 성범죄 관련 형사 사건에 피소된 사실을 확인했다”며 “이와 관련 사실 관계를 파악하던 중 사안이 매우 엄중함을 인지했고 더 이상 팀 활동을 이어갈 수 없다 판단했다. 이를 놓고 태일과 논의해 팀 탈퇴를 결정]]></content>
     </entry>
 </feed>
