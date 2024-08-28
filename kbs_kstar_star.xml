@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Aug 2024 23:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Aug 2024 01:04:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 '지저스 크라이스트 수퍼스타' 11월 광림!..  마이클리, 박은태, 한지상, 윤형렬, 백형훈]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=328790</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=328790</guid>
+            <pubDate>Wed, 28 Aug 2024 01:03:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=328790">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240828085723_2bf18426a9500c5262a7072694649ea7.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=328790">뮤지컬 '지저스 크라이스트 수퍼스타' 11월 광림!..  마이클리, 박은태, 한지상, 윤형렬, 백형훈</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240828085723_2bf18426a9500c5262a7072694649ea7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BCWW,국제방송영상마켓 개막.. “FAST부터 AI까지 방송영상의 미래”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=328692</link>
@@ -331,23 +348,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=326153">신예 김민주, 연극 '없는 시간' 캐스팅</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240803083239_56eb45a4c519f0d1f18926c28f7a51cc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이경규, 반려동물 여행 프로그램 ‘개동여지도’ MC 확정..‘두치’와 동반 출연]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=326060</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=326060</guid>
-            <pubDate>Fri, 02 Aug 2024 00:59:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=326060">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240802084631_ca86bb77ef7fec3f77acc8d05ad5fa41.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=326060">이경규, 반려동물 여행 프로그램 ‘개동여지도’ MC 확정..‘두치’와 동반 출연</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240802084631_ca86bb77ef7fec3f77acc8d05ad5fa41.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
