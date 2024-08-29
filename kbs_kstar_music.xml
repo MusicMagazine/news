@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Aug 2024 08:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Aug 2024 09:20:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빌보드 코리아 공식 출범… 'Billboard K POWER 100' 행사 성료]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=329016</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=329016</guid>
+            <pubDate>Thu, 29 Aug 2024 09:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=329016">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240829181343_49add3d1331be6ab389cdba1030b538e_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=329016"> 빌보드 코리아 공식 출범… 'Billboard K POWER 100' 행사 성료</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240829181343_49add3d1331be6ab389cdba1030b538e_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[갓세븐 영재, 아시아투어 방콕 콘서트 성료]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=328788</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=325965">싱어송라이터 콜드,  싱글앨범 'YIN' 발매</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240801102336_da19a52e7ae1107e27490b096f771f63_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빌리, 첫 월드투어 폴란드 바르샤바에서 피날레... 'Our FLOWERLD (Belllie've You)' EUROPE]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=325957</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=325957</guid>
-            <pubDate>Thu, 01 Aug 2024 03:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=325957">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240801101817_b110681c2659ff6d8e556771fac34d6a.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=325957">빌리, 첫 월드투어 폴란드 바르샤바에서 피날레... 'Our FLOWERLD (Belllie've You)' EUROPE </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240801101817_b110681c2659ff6d8e556771fac34d6a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
