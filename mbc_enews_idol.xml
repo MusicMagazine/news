@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Aug 2024 07:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Aug 2024 09:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[피프티 피프티 ‘컴백, 날개 달았다’]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/428590</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/428590</guid>
+            <pubDate>Sat, 31 Aug 2024 09:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/428590">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/08/31/69297d07-a922-44bb-92f4-fb5d42bbe9cf.png" alt="피프티 피프티 ‘컴백, 날개 달았다’">        <div class="text-box">            <p class="summary">피프티 피프티 ‘컴백, 날개 달았다’</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/08/31/69297d07-a922-44bb-92f4-fb5d42bbe9cf.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[DAY6, 록밴드의 시크한 카리스마]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/428574</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 30 Aug 2024 08:19:19 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/428540">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/08/30/c0dafe6c-c380-49a3-b709-a3e780b654ae.jpg" alt="[영상] 영파씨, 팬들과 만나 신난 힙합 소녀들(뮤직뱅크 출근길)">        <div class="text-box">            <p class="summary">[영상] 영파씨, 팬들과 만나 신난 힙합 소녀들(뮤직뱅크 출근길)</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/08/30/c0dafe6c-c380-49a3-b709-a3e780b654ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[영상] 아크, 기합이 바짝 들어간 팀 인사(뮤직뱅크 출근길)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/428539</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/428539</guid>
-            <pubDate>Fri, 30 Aug 2024 08:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/428539">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/08/30/e8548af8-13f1-40d1-b46a-b078f9b16ce3.jpg" alt="[영상] 아크, 기합이 바짝 들어간 팀 인사(뮤직뱅크 출근길)">        <div class="text-box">            <p class="summary">[영상] 아크, 기합이 바짝 들어간 팀 인사(뮤직뱅크 출근길)</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/08/30/e8548af8-13f1-40d1-b46a-b078f9b16ce3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
