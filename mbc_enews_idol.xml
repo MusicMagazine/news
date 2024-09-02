@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Sep 2024 12:30:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Sep 2024 13:20:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[움짤] 아이브 레이, I AM 알프스 소녀]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/428765</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/428765</guid>
+            <pubDate>Mon, 02 Sep 2024 13:20:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/428765">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/09/02/7ebc35cb-361f-4a23-a02b-32c09b39e2ce.jpg" alt="[움짤] 아이브 레이, I AM 알프스 소녀">        <div class="text-box">            <p class="summary">[움짤] 아이브 레이, I AM 알프스 소녀</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/09/02/7ebc35cb-361f-4a23-a02b-32c09b39e2ce.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[포토] 영훈, 잘생김이 패션 '볼 콕'의 여유]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/428753</link>
@@ -86,14 +94,6 @@
             <pubDate>Mon, 02 Sep 2024 09:16:24 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/428729">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/09/02/8f052238-53e7-4d80-bf72-6a61d26370a9.jpg" alt="[포토] 루셈블 여진, 귀여운 매력">        <div class="text-box">            <p class="summary">[포토] 루셈블 여진, 귀여운 매력</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/09/02/8f052238-53e7-4d80-bf72-6a61d26370a9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 루셈블 현진, 센터 미모]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/428727</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/428727</guid>
-            <pubDate>Mon, 02 Sep 2024 09:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/428727">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/09/02/99b1efab-acd8-4f72-a246-d5ede43bca3f.jpg" alt="[포토] 루셈블 현진, 센터 미모">        <div class="text-box">            <p class="summary">[포토] 루셈블 현진, 센터 미모</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/09/02/99b1efab-acd8-4f72-a246-d5ede43bca3f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
