@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Sep 2024 23:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Sep 2024 01:06:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[태민, 첫 솔로 월드투어 ‘Ephemeral Gaze’ .. 인천에서 스타트]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=329525</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=329525</guid>
+            <pubDate>Mon, 02 Sep 2024 01:05:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=329525">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240902095226_7d8b472de363b0d0fb06a41a47c00f35.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=329525">태민, 첫 솔로 월드투어 ‘Ephemeral Gaze’ .. 인천에서 스타트</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240902095226_7d8b472de363b0d0fb06a41a47c00f35.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘KCON GERMANY 2024’ 황인엽 호스트 출격.. 아일릿∙라이즈 드림 스테이지]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=329305</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=325984">지민 신곡 ‘Be Mine’, 영어 버전 2일 발매</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240801103357_a849eced9cc8fe5ca9effd123ecd8a91.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[르세라핌, 일본 4개도시 팬미팅 투어 성료]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=325978</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=325978</guid>
-            <pubDate>Thu, 01 Aug 2024 03:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=325978">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240801103126_df5e577b9882478cf6237eb988044865.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=325978">르세라핌, 일본 4개도시 팬미팅 투어 성료</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240801103126_df5e577b9882478cf6237eb988044865.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
