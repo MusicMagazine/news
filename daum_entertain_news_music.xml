@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-09-03T18:21:36.249Z</updated>
+    <updated>2024-09-03T19:13:05.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[따마, 여행의 설렘 노래한다…6일 '마일리지'로 올해 첫 컴백]]></title>
+        <id>https://v.daum.net/v/20240904040152769</id>
+        <link href="https://v.daum.net/v/20240904040152769"/>
+        <updated>2024-09-03T19:12:33.533Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]R&amp;B 아티스트 따마가 10개월 만에 컴백한다. 따마는 오는 6일 오후 6시 각종 온라인 음원 사이트를 통해 새 싱글 '마일리지'를 발표한다. '마일리지'는 따마가 지난해 11월 발매한 정규 2집 '우프!' 이후 약 10개월 만에 선보이는 신곡이다. 정규앨범에서 보여준 완성도 높은 R&amp;B 솔 감성이 이번에도 물씬 풍길 것으]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘더트롯쇼’ 황민호, ‘감성 거인’ 이름값 톡톡]]></title>
         <id>https://v.daum.net/v/20240903215404272</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240903190850156"/>
         <updated>2024-09-03T10:17:23.228Z</updated>
         <content type="html"><![CDATA[(사진=빅히트 뮤직)[이데일리 스타in 윤기백 기자] 그룹 투모로우바이투게더(TXT)가 11월 서울 앙코르 콘서트를 연다. 투모로우바이투게더는 3일 오후 2시 공식 사회관계망서비스(SNS)를 통해 ‘투모로우바이투게더 월드투어 &lt;액트:프로미스&gt; 앙코르 인 서울’(TOMORROW X TOGETHER WORLD TOUR &lt;ACT : PROMISE&gt; ENCORE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이들 소속사, 딥페이크 대응… "선처無 법적대응"]]></title>
-        <id>https://v.daum.net/v/20240903190456064</id>
-        <link href="https://v.daum.net/v/20240903190456064"/>
-        <updated>2024-09-03T10:17:23.230Z</updated>
-        <content type="html"><![CDATA[(여자)아이들(사진=큐브엔터테인먼트)[이데일리 스타in 윤기백 기자] 그룹 (여자)아이들 소속사 큐브엔터테인먼트가 딥페이크(AI 기반 합성 영상)에 대해 법적 대응에 나선다. 큐브엔터테인먼트는 3일 공식 사회관계망서비스(SNS)를 통해 “최근 당사는 소속 아티스트들을 대상으로 한 악의적인 딥페이크(AI 기반 합성 영상) 제작물이 온라인상에 유포되고 있음을]]></content>
     </entry>
 </feed>
