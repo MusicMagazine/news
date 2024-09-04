@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Sep 2024 01:04:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Sep 2024 04:22:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조승우 '햄릿' 된다.. "사느냐 죽느냐 그것이 문제로다"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=329830</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=329830</guid>
+            <pubDate>Wed, 04 Sep 2024 04:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=329830">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240904112823_d52825702ba969d6b48f7700d6afefc6.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=329830">조승우 '햄릿' 된다.. "사느냐 죽느냐 그것이 문제로다"  </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240904112823_d52825702ba969d6b48f7700d6afefc6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['악귀' 김태리, 제51회 한국방송대상 최우수연기자상 수상]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=329642</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=327054">예수정, 연극 ‘고트(GOTT)’ .. 변호사 ‘비글러’ 역</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240813090108_629542a0d35d4717e59168665f5fcaa0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['휘브' 진범-재하, ‘역삼동 탐정단’  첫 사건 출동... 허당미 반전매력 예고]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=327340</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=327340</guid>
-            <pubDate>Thu, 15 Aug 2024 02:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=327340">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240815080116_a4283e539a8204b61d041f3ce2b80d07_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=327340">'휘브' 진범-재하, ‘역삼동 탐정단’  첫 사건 출동... 허당미 반전매력 예고</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240815080116_a4283e539a8204b61d041f3ce2b80d07_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
