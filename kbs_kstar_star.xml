@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Sep 2024 22:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Sep 2024 23:21:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘뭉크 전시회’ 걸작 ‘절규’를 지켜라!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=331426</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=331426</guid>
+            <pubDate>Tue, 17 Sep 2024 23:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=331426">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240918072911_67c90f35aa6675e0555309d852c3b434.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=331426">‘뭉크 전시회’ 걸작 ‘절규’를 지켜라!</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240918072911_67c90f35aa6675e0555309d852c3b434.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 '스윙 데이즈_암호명 A' , 11월 개막... 우리가 몰랐던 위대한 독립작전]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=330759</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=327928">뮤지컬 '조로: 액터뮤지션' 9월, 대학로 개막</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240820125354_b7a9bafa9054392b630caa51771ccda9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 '고도를 기다리며를 기다리며' 연습현장... 이순재  카이 박정복 최민호 곽동연 출연, 9월 개말]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=327922</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=327922</guid>
-            <pubDate>Tue, 20 Aug 2024 04:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=327922">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240820124643_99d290be806262dce34685dc88e8b6ee.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=327922">연극 '고도를 기다리며를 기다리며' 연습현장... 이순재  카이 박정복 최민호 곽동연 출연, 9월 개말</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240820124643_99d290be806262dce34685dc88e8b6ee.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
