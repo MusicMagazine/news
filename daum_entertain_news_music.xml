@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-09-18T14:15:58.680Z</updated>
+    <updated>2024-09-18T15:16:30.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어니언스 '편지', 70년대 '펜팔 붐' 일조]]></title>
+        <id>https://v.daum.net/v/20240919000106303</id>
+        <link href="https://v.daum.net/v/20240919000106303"/>
+        <updated>2024-09-18T15:15:58.075Z</updated>
+        <content type="html"><![CDATA[어니언스, 포크음악 보편적 장르 활성화에 기여 평가 1년 6개월 짧은 활동 기간에도 활동 당시 '최고 인기' [더팩트ㅣ강일홍 기자] '편지'는 73년 유니버샬 레코드사에서 발매된 남성 듀오 어니언스의 정규 1집 수록이다. 임창제 작사 김미선 작곡의 포크 발라드로 이별의 아픔을 표현한 서정적인 노랫말과 멜로디가 시대를 관통하며 가슴을 적신다. 당초 혼성]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이유, 데뷔 기념일 2억2500만 원 ‘통 큰 기부’]]></title>
         <id>https://v.daum.net/v/20240918225134856</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240918164131617"/>
         <updated>2024-09-18T08:18:14.558Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 안은재 기자 = 그룹 미야오(MEOVV)가 빈틈없는 퍼포먼스로 시선을 사로잡았다. 더블랙레이블은 지난 17일 공식 사회관계망서비스(SNS) 계정을 통해 미야오의 데뷔 싱글 '미야오'(MEOW) 퍼포먼스 비디오를 공개했다. 공개된 영상에는 마치 하나 된 듯한 모습으로 놀라운 시너지를 만들어가는 미야오 다섯 멤버의 모습이 담겼다. 카키, 밀]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박서진 “두 형 사망과 母 자궁경부암, 가정사 고백에 악플 받아”]]></title>
-        <id>https://v.daum.net/v/20240918164129616</id>
-        <link href="https://v.daum.net/v/20240918164129616"/>
-        <updated>2024-09-18T08:18:14.558Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 정하은 기자] ‘MZ 트롯맨’ 박서진이 ‘라디오스타’에서 무속인 행사에 갔다가 ‘12계단 작두’ 앞에서 혼신의 공연을 펼친 썰을 공개한다. 더해 1억 들었다는 성형 고백과 숨겨왔던 영어 실력까지 낱낱이 밝히며 현장을 초토화 시켰다고 전해져 기대를 모은다. 오늘(18일) 방송될 MBC ‘라디오스타’는 김창옥, 솔비, 화사, 이무진, 박서]]></content>
     </entry>
 </feed>
