@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Sep 2024 20:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Sep 2024 21:15:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화사, 미니 2집  ‘O’ 19일 발매...  "긍정적인 ‘나’"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=331373</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=331373</guid>
+            <pubDate>Wed, 18 Sep 2024 21:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=331373">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240917183329_73a3cd7f4da3ee7461515848b0a18188.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=331373">화사, 미니 2집  ‘O’ 19일 발매...  "긍정적인 ‘나’"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240917183329_73a3cd7f4da3ee7461515848b0a18188.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[글로벌 걸그룹 ‘캣츠아이’, 아시아 프로모션 투어 시작]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=330844</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=327024">온유, 9월 컴백.. 미니 3집 'FLOW' </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240813080509_8fe038349639f0109af9325698ad1bfc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[르세라핌, 미니 4집 ‘CRAZY’ 트레일러 공개... 보깅 댄스X테크노 스타일]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=327007</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=327007</guid>
-            <pubDate>Mon, 12 Aug 2024 23:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=327007">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240813074736_1146734cbe5c018a544413c3e7af4db8.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=327007">르세라핌, 미니 4집 ‘CRAZY’ 트레일러 공개... 보깅 댄스X테크노 스타일 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240813074736_1146734cbe5c018a544413c3e7af4db8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
