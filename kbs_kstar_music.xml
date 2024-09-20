@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Sep 2024 20:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 23:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['영원한 딴따라' 박진영, 연말 데뷔 30주년 기념 단독 콘서트 'Still JYP' 개최]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=331734</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=331734</guid>
+            <pubDate>Fri, 20 Sep 2024 23:14:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=331734">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240920125857_d090bd874199fbbbf435e1aee08495d7.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=331734">'영원한 딴따라' 박진영, 연말 데뷔 30주년 기념 단독 콘서트 'Still JYP' 개최</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240920125857_d090bd874199fbbbf435e1aee08495d7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트와이스 미사모, 일본 미니2집 'HAUTE COUTURE' 11월 발매... 미나-사나-모모, 신보 재킷 이미지]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=331729</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=328788">갓세븐 영재, 아시아투어 방콕 콘서트 성료</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240828085554_74a7a35172a3b9250a049e1f302bebfa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신인 버추얼 아이돌 ‘이오닛’ 데뷔..  싱글 앨범 ‘루모스(LUMOS)’]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=328772</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=328772</guid>
-            <pubDate>Wed, 28 Aug 2024 01:03:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=328772">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240828084849_6c0304aae3079e42a6098b3173885993.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=328772">신인 버추얼 아이돌 ‘이오닛’ 데뷔..  싱글 앨범 ‘루모스(LUMOS)’</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240828084849_6c0304aae3079e42a6098b3173885993.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
