@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-09-24T15:16:27.498Z</updated>
+    <updated>2024-09-24T16:19:57.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가수 이예준, 10주년 기념 단독 콘서트 ‘Dear Ye’s‘ 개최]]></title>
+        <id>https://v.daum.net/v/20240925004144112</id>
+        <link href="https://v.daum.net/v/20240925004144112"/>
+        <updated>2024-09-24T16:19:30.758Z</updated>
+        <content type="html"><![CDATA[‘무결점 보컬리스트’ 이예준이 10주년 기념 단독 콘서트를 연다. 이예준은 오는 10월 26일과 27일 서울 이화여자대학교 삼성홀에서 10주년 기념 단독 콘서트 ‘Dear Ye’s (디어 예스)’를 개최한다. ‘Dear Ye’s‘는 이예준이 지난해 7월 성료한 ’Say Ye‘s (세이 예스)’ 이후 1년여 만에 선보이는 단독 콘서트다. 데뷔 10주년]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[거미, 27일 전국투어 ‘러브’ 2차 티켓팅 시작]]></title>
         <id>https://v.daum.net/v/20240924232650360</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240924210004550"/>
         <updated>2024-09-24T12:29:13.843Z</updated>
         <content type="html"><![CDATA[(MHN스포츠 송도빈 인턴기자, 정에스더 기자) 소녀시대 효연(HYO)이 새 싱글 발매 소식을 전했다. 오는 26일 효연의 새 싱글 'Retro Romance'(레트로 로맨스)가 발매된다. 이번 신곡은 그루비한 베이스 라인과 레트로한 신스 사운드가 어우러진 에너제틱한 Funk-Pop(펑크 팝) 장르의 곡으로, 평범한 일상과 스트레스에서 벗어나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘더쇼’ 싸이커스, 타이틀곡 ‘위치’→수록곡 ’비터스위트’ 무대 펼쳐]]></title>
-        <id>https://v.daum.net/v/20240924205720519</id>
-        <link href="https://v.daum.net/v/20240924205720519"/>
-        <updated>2024-09-24T12:29:13.843Z</updated>
-        <content type="html"><![CDATA[아이돌그룹 싸이커스(xikers)가 무결점으로 무대를 꾸몄다. 24일 방송된 SBS M ‘더쇼’에 출연한 싸이커스는 미니 4집 ‘하우스 오브 트리키 : 워치 아웃(HOUSE OF TRICKY : WATCH OUT)’의 타이틀곡 ‘위치(WITCH)’와 수록곡 ‘비터스위트(Bittersweet)’ 무대를 가졌다. 방송에서 싸이커스는 두 곡의 무대를 펼치]]></content>
     </entry>
 </feed>
