@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Sep 2024 07:15:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Sep 2024 08:22:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슈퍼주니어-D&E,  미니 6집 ‘INEVITABLE’ 발매]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=332335</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=332335</guid>
+            <pubDate>Wed, 25 Sep 2024 08:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=332335">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240925165819_0197b7e9199a1a68c8c1570ab853dd53.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=332335"> 슈퍼주니어-D&amp;E,  미니 6집 ‘INEVITABLE’ 발매 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240925165819_0197b7e9199a1a68c8c1570ab853dd53.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[로이킴, 10월 컴백.. 감성 싱어송라이터의 귀환]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=332256</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=329808">트와이스 쯔위, 신곡 'Run Away' 뮤직비디오 티저 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240904093059_587d78be71c6a0624cc23d73c9241d2f.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[백호, 신곡 ‘Nutty Nutty (Feat. 제시)’ 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=329797</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=329797</guid>
-            <pubDate>Wed, 04 Sep 2024 01:02:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=329797">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240904092151_e025670099bff2da47b866a2631f98d1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=329797">백호, 신곡 ‘Nutty Nutty (Feat. 제시)’ 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240904092151_e025670099bff2da47b866a2631f98d1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
