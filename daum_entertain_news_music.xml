@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-09-30T12:31:09.523Z</updated>
+    <updated>2024-09-30T13:25:00.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나비, 플랜비엔터와 전속계약...제이미 이바다 한솥밥]]></title>
+        <id>https://v.daum.net/v/20240930220901313</id>
+        <link href="https://v.daum.net/v/20240930220901313"/>
+        <updated>2024-09-30T13:24:28.433Z</updated>
+        <content type="html"><![CDATA[가수 나비가 신생 기획사 플랜비엔터테인먼트와 전속계약을 체결한다. 30일 플랜비엔터테인먼트 측은 “나비와 전속계약을 체결했다”라고 밝혔다. 소속사는 “독보적인 보이스와 폭발적인 가창력을 기반으로 다수의 히트곡을 보유한 국내 대표 보컬리스트 나비와 함께 하게 돼 기쁘다. 나비가 아티스트로서 음악적 기량을 마음껏 펼칠 수 있도록 적극적으로 지원하겠다”라고 덧붙]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘싱크로유’ 카리나, 박재범 목소리 캐치]]></title>
         <id>https://v.daum.net/v/20240930210717220</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240930184600776"/>
         <updated>2024-09-30T10:17:22.202Z</updated>
         <content type="html"><![CDATA[조장혁이 9년 만에 관객들 곁으로 돌아온다. 레전드 보컬리스트 조장혁이 오는 10월 콘서트 ‘LOVE, Again’를 개최, 팬들의 사랑에 보답할 예정이다. 이번 콘서트는 2015년에 열린 ‘LOVE’ 콘서트 이후 9년 만에 다시 돌아왔다는 의미를 담아 ‘LOVE, Again’이라는 타이틀을 붙였다. 소속사 비티엔터테인먼트는 “바람의 흩날리는 낙엽처]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘음주운전 혐의’ 김호중, 법정 채운 극성팬 ‘여전’]]></title>
-        <id>https://v.daum.net/v/20240930184317712</id>
-        <link href="https://v.daum.net/v/20240930184317712"/>
-        <updated>2024-09-30T10:17:22.210Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 이기은 기자] 음주 운전 혐의를 받는 김호중 향한 일부 팬들의 팬심은 여전했다. 30일 오전 서울중앙지방법원 형사26단독 최민혜 판사 심리로  특정범죄 가중 처벌 등에 관한 법률위반(위험운전치상·도주치상), 도로교통법상 사고 후 미조치, 범인도피교사, 증거인멸 등의 혐의로 구속된 김호중에 대한 1심 결심공판이 열렸다. 검찰은 김호중에 징역 3]]></content>
     </entry>
 </feed>
