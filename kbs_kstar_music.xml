@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Oct 2024 22:15:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Oct 2024 23:16:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세이마이네임, 단체 콘셉트 포토 공개.. 일곱 멤버가 모두 비주얼 담당]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=333122</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=333122</guid>
+            <pubDate>Tue, 01 Oct 2024 23:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=333122">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241002080905_d2142c26493f289083b6bc335e06163a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=333122">세이마이네임, 단체 콘셉트 포토 공개.. 일곱 멤버가 모두 비주얼 담당</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241002080905_d2142c26493f289083b6bc335e06163a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[러블리즈, 11월 완전체 콘서트 '겨울나라의 러블리즈4']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=332762</link>
@@ -330,23 +347,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240909120434_b70ebdd30d1208a17d4f9440c86f0b40_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장] '쯔위의 모든 것' .. 트와이스 쯔위, 솔로 데뷔 앨범 ‘abouTZU' 발매 간담회]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=330035</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=330035</guid>
-            <pubDate>Thu, 05 Sep 2024 06:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=330035">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240905150039_fb0e19a217bac0d33d307676bd7f8841.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=330035">[현장] '쯔위의 모든 것' .. 트와이스 쯔위, 솔로 데뷔 앨범 ‘abouTZU' 발매 간담회</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240905150039_fb0e19a217bac0d33d307676bd7f8841.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
