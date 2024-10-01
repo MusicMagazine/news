@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Sep 2024 20:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Oct 2024 03:34:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신예 오예주, 디즈니+  '강남 비-사이드' 캐스팅]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=332926</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=332926</guid>
+            <pubDate>Tue, 01 Oct 2024 03:33:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=332926">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240930092601_eb291f37a364533192081f88a40d8459.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=332926">신예 오예주, 디즈니+  '강남 비-사이드' 캐스팅</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240930092601_eb291f37a364533192081f88a40d8459.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['마리끌레르의 선택'  설경구, BIFF특별판 커버 장식]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=332963</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=328962">박주원 '내 여자친구는 상남자' 캐스팅..  로맨스 웹소설작가 '최유리' </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240829093655_f845bd95df6692b1549fc5c37ce51a38.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[STUDIO X+U, BCWW에서  ‘프래자일’ 등 신규 콘텐츠 라인업 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=328880</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=328880</guid>
-            <pubDate>Wed, 28 Aug 2024 13:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=328880">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240828204729_f2fe5c83e5876cc6adf2b9240832e8f4_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=328880">STUDIO X+U, BCWW에서  ‘프래자일’ 등 신규 콘텐츠 라인업 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240828204729_f2fe5c83e5876cc6adf2b9240832e8f4_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
