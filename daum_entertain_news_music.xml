@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-10-02T19:13:01.919Z</updated>
+    <updated>2024-10-02T20:23:08.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔하이픈, 日 니혼TV서 첫 단독 예능 도전]]></title>
+        <id>https://v.daum.net/v/20241003043005174</id>
+        <link href="https://v.daum.net/v/20241003043005174"/>
+        <updated>2024-10-02T20:22:33.255Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]그룹 엔하이픈이 일본에서 첫 단독 예능프로그램을 선보인다. 일본 니혼TV에 따르면 '엔하이픈의 멋있음을 독점하겠습니다'(ENHYPENのかっこいいを独占させていただきます)가 오는 12일 첫 방송된다. 이 프로그램은 정규 프로그램으로 매주 토요일 오후 2시 30분에 편성됐다. 방송에 담기지 않는 영상을 포함한 특별판은 일본 동영상]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스테이씨, 10월 컴백 대전 합류…차별화된 가을 감성]]></title>
         <id>https://v.daum.net/v/20241003040005128</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241002205440264"/>
         <updated>2024-10-02T12:31:54.154Z</updated>
         <content type="html"><![CDATA[[뉴스엔 하지원 기자] 국내 최초 버추얼 아티스트 아뽀키(APOKI)가 오는 4일 컴백한다. VV엔터테인먼트에 따르면 10월 4일 오후 1시 아뽀키의 새 디지털 싱글‘Super Duper Ride(슈퍼 두퍼 라이드)’가 전 세계 음원사이트를 통해 발매되는 가운데 오늘(2일) 오후 1시 티저 영상이 공개됐다. 이번 신곡은 지난 5월24일 발매된 싱글 ‘Nu]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘500만 팔로워’ 버추얼 아티스트 아뽀키, 4일 컴백]]></title>
-        <id>https://v.daum.net/v/20241002201200001</id>
-        <link href="https://v.daum.net/v/20241002201200001"/>
-        <updated>2024-10-02T11:12:57.054Z</updated>
-        <content type="html"><![CDATA[국내 최초 버추얼 아티스트 아뽀키(APOKI)가 오는 4일 컴백한다. VV엔터테인먼트에 따르면 오는 4일 오후 1시 아뽀키의 새 디지털 싱글 ‘슈퍼 두퍼 라이드(Super Duper Ride)’가 전 세계 음원사이트를 통해 발매되는 가운데 2일 오후 1시 티저 영상이 공개됐다. 이번 신곡은 지난 5월 24일 발매된 싱글 ‘누 부(Nu Boo)’ 이후 약 4]]></content>
     </entry>
 </feed>
