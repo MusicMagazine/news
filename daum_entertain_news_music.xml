@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-10-04T18:20:18.075Z</updated>
+    <updated>2024-10-04T19:14:36.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[로이킴, 12월 7일‧8일 콘서트 '로이 액추얼리' 개최…영화 같은 연말 선사]]></title>
+        <id>https://v.daum.net/v/20241005040005383</id>
+        <link href="https://v.daum.net/v/20241005040005383"/>
+        <updated>2024-10-04T19:14:12.235Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]가수 로이킴이 영화 같은 연말을 선물한다. 로이킴은 오는 12월 7일과 8일 이틀간 서울 올림픽공원 핸드볼 경기장에서 2024 로이킴 콘서트 '로이 액추얼리'(Roy actually)를 개최한다. '로이 액추얼리'는 로이킴이 지난해 개최한 '로이 노트' 이후 약 1년 만에 진행하는 단독 콘서트다. 개최 소식과 함께 공개된]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이은미 X 청하 콜라보 음원 ‘Move Remove’ 공개]]></title>
         <id>https://v.daum.net/v/20241005015157260</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241004181532364"/>
         <updated>2024-10-04T09:16:58.279Z</updated>
         <content type="html"><![CDATA[두 가지 타입으로 구성…총 12곡 수록 [더팩트ㅣ최수빈 기자] 싱어송라이터 이진아의 정규 3집 앨범이 LP로 제작돼 리스너들과 만난다. 소속사 안테나는 4일 "이진아의 정규 3집 앨범 '도시의 속마음' LP 예약 판매가 이날 오후 2시 각종 음반 사이트에서 시작됐다"고 밝혔다. '도시의 속마음'은 이진아가 지난해 9월 발매한 세 번째 정규 앨범이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라쿠나, '군백기' 아쉬움도 씻었다…역대급 규모 '드림: 패러렐 월드']]></title>
-        <id>https://v.daum.net/v/20241004180340110</id>
-        <link href="https://v.daum.net/v/20241004180340110"/>
-        <updated>2024-10-04T09:16:58.281Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=장진리 기자] 밴드 라쿠나가 단독 콘서트를 성공적으로 마쳤다. 밴드 라쿠나는 서울 예스24라이브홀에서 단독 콘서트 '드림: 패러렐 월드'를 열고 팬들을 만났다. '드림: 패러렐 월드'는 라쿠나의 브랜드 콘서트로, 2022년 개최된 '드림: 언디파인드', 2023년 '드림: 노스탤지어'에 이어 '드림' 시리즈의 세 번째 공연이다. CJ]]></content>
     </entry>
 </feed>
