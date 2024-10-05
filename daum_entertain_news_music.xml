@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-10-05T14:15:11.272Z</updated>
+    <updated>2024-10-05T16:19:55.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["우연이라기엔 너무 흡사"… 백예린, '엄친아' OST 표절 사과 요구]]></title>
+        <id>https://v.daum.net/v/20241005234207473</id>
+        <link href="https://v.daum.net/v/20241005234207473"/>
+        <updated>2024-10-05T16:19:31.106Z</updated>
+        <content type="html"><![CDATA[백예린[이데일리 스타in 윤기백 기자] 가수 백예린 측이 tvN ‘엄마친구아들’ OST ‘왓 아 위’(What are we) 작곡가에게 표절 인정 및 사과를 요구했다. 백예린 소속사 피플라이크피플은 5일 공식 채널을 통해 “글을 시작하기에 앞서 당사 아티스트의 팬분들과 가창자분의 성함이 포함되어 불편함을 느끼셨을 하성운 님과 팬분들에도 심려 끼쳐드려 죄송]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[버추얼 아이돌 스페이즈, ‘음중’으로 첫 데뷔 무대 성료]]></title>
         <id>https://v.daum.net/v/20241005212932392</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241005193358068"/>
         <updated>2024-10-05T11:12:37.167Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 허지형 기자] 가수 백예린 /사진제공=블루바이닐tvN 드라마 '엄마친구아들' OST의 표절 의혹을 제기했던 가수 백예린이 아티스트 구름의 저작물 무단 사용 논란에 휩싸였다. 싱어송라이터 구름의 소속사 a0made는 지난 4일 공식 SNS를 통해 "최근 소속 아티스트 구름의 저작물을 무단으로 공연하고 있는 피플라이크피플 주식회사(이하 PLP]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴진스 'ETA'에 무슨 일이…스트리밍 2배 이상 급증 '역주행' 조짐]]></title>
-        <id>https://v.daum.net/v/20241005192619020</id>
-        <link href="https://v.daum.net/v/20241005192619020"/>
-        <updated>2024-10-05T11:12:37.168Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]뉴진스 'ETA'가 발매 1년 2개월이 지났음에도 4일 연속 스포티파이 재생 수가 급증하며 역주행 조짐을 보이고 있다. 5일 세계적 음원 스트리밍 플랫폼 스포티파이에 따르면 뉴진스 두 번째 EP '겟 업' 타이틀곡 중 하나인 'ETA'가 지난 3일 기준 하루 73만 8650회 재생됐다. 지난달 29일 약 32만 회 대비 2배]]></content>
     </entry>
 </feed>
