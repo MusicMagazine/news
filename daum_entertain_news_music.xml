@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-10-05T12:28:55.343Z</updated>
+    <updated>2024-10-05T13:21:18.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[버추얼 아이돌 스페이즈, ‘음중’으로 첫 데뷔 무대 성료]]></title>
+        <id>https://v.daum.net/v/20241005212932392</id>
+        <link href="https://v.daum.net/v/20241005212932392"/>
+        <updated>2024-10-05T13:20:52.791Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 정하은 기자]웹툰 서브남주 출신 버추얼 아이돌 스페이즈가 성공적인 첫 데뷔 무대를 마쳤다. 스페이즈는 지난 5일 방송된 MBC ‘쇼! 음악중심’에 출연해 데뷔 앨범 ‘Starlight(스타라이트)’의 타이틀곡 ‘Starlight’ 무대를 최초 공개했다. 환상적인 밤하늘을 닮은 배경 속에서 각 멤버들의 실력과 매력을 한껏 펼친 스페이즈의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백예린 측 "'엄친아' OST… 우연이라기에 흡사, 인정+사과 원해"]]></title>
         <id>https://v.daum.net/v/20241005212206289</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241005192619020"/>
         <updated>2024-10-05T11:12:37.168Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]뉴진스 'ETA'가 발매 1년 2개월이 지났음에도 4일 연속 스포티파이 재생 수가 급증하며 역주행 조짐을 보이고 있다. 5일 세계적 음원 스트리밍 플랫폼 스포티파이에 따르면 뉴진스 두 번째 EP '겟 업' 타이틀곡 중 하나인 'ETA'가 지난 3일 기준 하루 73만 8650회 재생됐다. 지난달 29일 약 32만 회 대비 2배]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티아라 지연, 황재균과 별거→이혼 합의 “조정 절차 진행 중”]]></title>
-        <id>https://v.daum.net/v/20241005191938959</id>
-        <link href="https://v.daum.net/v/20241005191938959"/>
-        <updated>2024-10-05T11:12:37.170Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] 사진｜황재균 인스타그램 캡처  티아라 지연, 황재균과 별거→이혼 합의 “조정 절차 진행 중” [전문] 티아라 지연과 야구선수 황재균(KT wiz)이 결국 이혼하기로 했다. 지연의 법률대리인 법무법인 태성의 최유나 변호사는 5일 “양측은 서로의 다름을 극복하지 못하여 별거 끝에 이혼에 합의하고 절차 진행을 위해 서울가정법원에 이혼 조정 신청서를]]></content>
     </entry>
 </feed>
