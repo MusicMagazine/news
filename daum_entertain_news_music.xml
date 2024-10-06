@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-10-06T19:15:09.615Z</updated>
+    <updated>2024-10-06T20:15:20.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유니스, '지금 알아야 할 떠오르는 걸그룹 12팀'…美그래미닷컴 선정]]></title>
+        <id>https://v.daum.net/v/20241007043603059</id>
+        <link href="https://v.daum.net/v/20241007043603059"/>
+        <updated>2024-10-06T20:14:51.468Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]그룹 유니스가 나날이 높아지는 글로벌 영향력을 다시 한 번 확인시켰다. 유니스(진현주, 나나, 젤리당카, 코토코, 방윤하, 엘리시아, 오윤아, 임서원)는 미국 그래미닷컴이 발표한 '지금 알아야 할 떠오르는 걸그룹 12팀'(12 Rising Girl Groups To Know Now)으로 선정됐다. 그래미닷컴은 SBS 글로벌]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["제대로 놀자"…2NE1, 15년을 함께 달린 팬들과의 약속]]></title>
         <id>https://v.daum.net/v/20241007000018634</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241006190012657"/>
         <updated>2024-10-06T10:16:38.020Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 최주성 기자 = "안녕하세요, 여러분의 오빠 하민입니다!" 스크린 속 인간의 모습을 한 캐릭터가 머리 위로 하트 모양을 그리자 객석에서는 우레와 같은 함성이 쏟아졌다. 만화 속 캐릭터를 그대로 옮긴 듯한 작은 얼굴과 잘록한 허리는 실제 사람과 거리가 멀었다. 그러나 멤버들의 손짓 한 번에 응원봉을 흔들고, 말 한마디에 어쩔 줄 몰라 하며]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[플레이브, 버추얼 한계 뛰어넘었다…플리들과 꽉 채운 무대]]></title>
-        <id>https://v.daum.net/v/20241006190008653</id>
-        <link href="https://v.daum.net/v/20241006190008653"/>
-        <updated>2024-10-06T10:16:38.020Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 안태현 기자 = 그룹 플레이브가 버추얼 아티스트의 한계를 뛰어넘는 무대로 2시간 30분을 꽉 채웠다. 지난 5일 서울 송파구 잠실실내체육관에서는 플레이브 팬 콘서트 '헬로우 아스테룸!' 앙코르(PLAVE FAN CONCERT 'Hello, Asterum!' ENCORE) 첫째 날 공연이 열렸다. 플레이브는 5일과 6일 양일간 콘서트를 열]]></content>
     </entry>
 </feed>
