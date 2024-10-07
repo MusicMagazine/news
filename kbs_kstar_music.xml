@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Oct 2024 22:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Oct 2024 23:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조용필, 11월 20집 발매  ‘조용필&위대한탄생’ 콘서트 개최]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=333825</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=333825</guid>
+            <pubDate>Mon, 07 Oct 2024 23:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=333825">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241008072245_2fdbb43be5acb5c79a184ecbcbea17de.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=333825">조용필, 11월 20집 발매  ‘조용필&amp;위대한탄생’ 콘서트 개최</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241008072245_2fdbb43be5acb5c79a184ecbcbea17de.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["WELCOME BACK, 2NE1"  "꿈만 같은 15주년..우리의 인생은 언제나 블랙잭과 함께"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=333696</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=330753">NCT DREAM, 남미 투어 대성황... 콜롬비아-브라질-칠레-멕시코 공연</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240911083901_bbc55fd9502db8c32261a3a6a4caa62f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강다니엘, 23일 컴백.. ‘Electric Shock’  위댐보이즈와 퍼포먼스]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=330747</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=330747</guid>
-            <pubDate>Wed, 11 Sep 2024 01:03:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=330747">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240911083717_bea2c4dd83f9b51c74fc94806c661291_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=330747">강다니엘, 23일 컴백.. ‘Electric Shock’  위댐보이즈와 퍼포먼스 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240911083717_bea2c4dd83f9b51c74fc94806c661291_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
