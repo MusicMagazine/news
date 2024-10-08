@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Oct 2024 23:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Oct 2024 01:07:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신예 오예주, tvN 드라마 '사랑은 외나무다리에서' 캐스팅]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=333713</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=333713</guid>
+            <pubDate>Tue, 08 Oct 2024 01:06:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=333713">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241007093838_b1c851c77d37e0785da5b420552a69b4.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=333713">신예 오예주, tvN 드라마 '사랑은 외나무다리에서' 캐스팅</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241007093838_b1c851c77d37e0785da5b420552a69b4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 ‘어서 오세요, 휴남동 서점입니다’ 개막]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=333708</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=329513">카카오엔터, ‘초신작 프로젝트’ 9월 작품 라인업 공개... &lt;공작 부인의 남편을 찾습니다&gt;, &lt;말석 영웅이 회귀했다&gt;</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240902092430_6aadb46c0446bd956ced2e5e5a238bff.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[콘진원, 2024년 뉴미디어 콘텐츠상 시상식 개최..  대상 '남남' (KT스튜디오지니)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=329334</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=329334</guid>
-            <pubDate>Fri, 30 Aug 2024 08:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=329334">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240830165755_bb3db85dd1c79d2af2af0494fa91a09a.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=329334">콘진원, 2024년 뉴미디어 콘텐츠상 시상식 개최..  대상 '남남' (KT스튜디오지니)</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240830165755_bb3db85dd1c79d2af2af0494fa91a09a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
