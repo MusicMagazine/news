@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-10-08T13:22:49.218Z</updated>
+    <updated>2024-10-08T14:18:32.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트리플에스 VV, ‘스포티 힙합 룩’ 공개 완료!···신곡 콘셉트 ‘호기심 증폭’]]></title>
+        <id>https://v.daum.net/v/20241008225340008</id>
+        <link href="https://v.daum.net/v/20241008225340008"/>
+        <updated>2024-10-08T14:18:01.457Z</updated>
+        <content type="html"><![CDATA[‘모든 가능성의 아이돌’ 트리플에스(tripleS) 댄스 디멘션(DIMENSION) Vision@ry Vision의 새로운 매력이 베일을 벗었다. 모드하우스는 8일 트리플에스 공식 SNS 채널에 댄스 디멘션 Vision@ry Vision(이하 VV)의 두 번째 콘셉트 포토 공개를 완료, 새로운 앨범 ‘Performante’에 대한 기대감을 한껏 끌어올]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김중연, 단독 콘서트 2분만 전석 매진..압도적 티켓 파워]]></title>
         <id>https://v.daum.net/v/20241008222021635</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241008190131061"/>
         <updated>2024-10-08T10:15:48.853Z</updated>
         <content type="html"><![CDATA[가수 김중연의 단독 콘서트가 전석 매진됐다. 8일 소속사 브이엘엔터테인먼트는 "김중연 콘서트 '연월'이 티켓 오픈 2분 만에 전석 매진을 기록했다. 김중연이 아티스트로 더욱 성장할 수 있도록 애정 어린 시선을 보내달라. 특별한 무대 역시 기대 많이 부탁드린다"고 밝혔다. 티켓 파워를 입증한 김중연은 MBN '불타는 트롯맨'에서 파격적인 퍼포먼스와 호소력 있]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘화려한 귀환’ 박재범, 드디어 베일 벗은 정규 6집]]></title>
-        <id>https://v.daum.net/v/20241008185108736</id>
-        <link href="https://v.daum.net/v/20241008185108736"/>
-        <updated>2024-10-08T10:15:48.853Z</updated>
-        <content type="html"><![CDATA[가수 박재범의 정규 6집이 드디어 베일을 벗었다. 박재범은 8일 오후 6시 각종 온라인 음원 사이트를 통해 여섯 번째 정규앨범 ‘THE ONE YOU WANTED(더 원 유 원티드)’를 발매했다. ‘THE ONE YOU WANTED’는 2019년 선보인 ‘The Road Less Traveled(더 로드 레스 트레블드)’ 이후 약 5년 반 만에 발표하는 정]]></content>
     </entry>
 </feed>
