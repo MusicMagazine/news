@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-10-08T10:16:19.592Z</updated>
+    <updated>2024-10-08T11:15:16.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박재범, 오늘 정규 6집 ‘THE ONE YOU WANTED’ 발매]]></title>
+        <id>https://v.daum.net/v/20241008201200882</id>
+        <link href="https://v.daum.net/v/20241008201200882"/>
+        <updated>2024-10-08T11:14:43.531Z</updated>
+        <content type="html"><![CDATA[가수 박재범의 정규 6집이 드디어 베일을 벗었다. 박재범은 8일 오후 6시 각종 온라인 음원 사이트를 통해 여섯 번째 정규앨범 ‘THE ONE YOU WANTED(더 원 유 원티드)’를 발매했다. ‘THE ONE YOU WANTED’는 2019년 선보인 ‘The Road Less Traveled(더 로드 레스 트레블드)’ 이후 약 5년 반 만에 발표하는 정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이무진, 영화 같은 컴백...'청춘만화' MV '눈길']]></title>
         <id>https://v.daum.net/v/20241008191504456</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241008180608625"/>
         <updated>2024-10-08T09:16:23.894Z</updated>
         <content type="html"><![CDATA[[동아닷컴] 사진｜모어비전 가수 박재범의 정규 6집이 드디어 베일을 벗었다. 박재범은 8일 오후 6시 각 음원 사이트를 통해 여섯 번째 정규앨범 ‘THE ONE YOU WANTED(더 원 유 원티드)’를 발매했다. ‘THE ONE YOU WANTED’는 2019년 선보인 ‘The Road Less Traveled(더 로드 레스 트레블드)’ 이후 약 5년]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레전드 가수 유현상, 4년만에 발표한 정규앨범 타이틀곡 ‘그게 나야’ 화제]]></title>
-        <id>https://v.daum.net/v/20241008180230507</id>
-        <link href="https://v.daum.net/v/20241008180230507"/>
-        <updated>2024-10-08T09:16:23.894Z</updated>
-        <content type="html"><![CDATA[[일간스포츠 김은구 기자] 레전드 가수 유현상이 4년만의 정규앨범 타이틀곡 ‘그게 나야’로 주목받고 있다. ’그게 나야‘는 문희옥의 ’평행선‘을 쓴 김현진이 작사했고, 유현상이 작곡 했다. 지난 세월 비바람에 휘청이고 넘어질때도 이악물고 살아온 자신을 토닥이며 ‘지난 세월은 연습이었다. 인생은 지금부터다’, ‘맞아 그게 나야’라며 무너진 중년의 자존감]]></content>
     </entry>
 </feed>
