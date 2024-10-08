@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Oct 2024 06:23:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Oct 2024 08:22:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아스트로 윤산하 팬콘서트 성료…신곡 ‘Dive’·‘BLEEDING’ 라이브 퍼포먼스 최초 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=333918</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=333918</guid>
+            <pubDate>Tue, 08 Oct 2024 08:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=333918">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241008090341_c01e99160b80ff2451f63c37254eddc9_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=333918">아스트로 윤산하 팬콘서트 성료…신곡 ‘Dive’·‘BLEEDING’ 라이브 퍼포먼스 최초 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241008090341_c01e99160b80ff2451f63c37254eddc9_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Lucky팡팡 (김다현X스미다아이코), 8일 신곡 'Sugar' 발매]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=333830</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=331729">트와이스 미사모, 일본 미니2집 'HAUTE COUTURE' 11월 발매... 미나-사나-모모, 신보 재킷 이미지</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240920124918_e73188e7d5f3f6e3396f9ef51cb4ced4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김재중 인코드 엔터테인먼트, 걸그룹  'SAY MY NAME' 데뷔 준비]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=331723</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=331723</guid>
-            <pubDate>Fri, 20 Sep 2024 04:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=331723">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240920124130_e2b6e466a75e946680117eed696c6dc4_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=331723">김재중 인코드 엔터테인먼트, 걸그룹  'SAY MY NAME' 데뷔 준비 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240920124130_e2b6e466a75e946680117eed696c6dc4_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
