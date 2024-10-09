@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-10-09T19:13:26.245Z</updated>
+    <updated>2024-10-09T20:18:58.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아일릿, 데뷔 7개월인데…MTV EMA 노미네이트]]></title>
+        <id>https://v.daum.net/v/20241010050604756</id>
+        <link href="https://v.daum.net/v/20241010050604756"/>
+        <updated>2024-10-09T20:18:28.752Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]그룹 아일릿이 데뷔 7개월 만에 유럽 최대 음악 시상식 수상 후보에 올랐다. 9일 발표된 MTV 유럽 뮤직 어워즈(이하 MTV EMA) 수상 후보 명단에 따르면 아일릿은 베스트 아시아 액트 부문에 노미네이트됐다. 올해 이 부문 후보자 중 K팝 아티스트는 아일릿이 유일하다. 이들은 역대 MTV EMA의 베스트 아시아 액트 후보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전유진 오늘 생일…트롯픽 이벤트 주인공]]></title>
         <id>https://v.daum.net/v/20241010000108447</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241009180004365"/>
         <updated>2024-10-09T09:16:20.781Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 허지형 기자] /사진제공=KMR가수 옐로(YELO)가 2년여 만에 소울 가득한 신곡으로 돌아왔다. 옐로는 9일 오후 6시 각종 음원사이트를 통해 싱글 '네이키드(NAKED)'를 발매했다. 이번 앨범은 지난 2022년 3월 발매한 디지털 싱글 '바이트 앤 츄(Bite &amp; Chew)' 이후 2년 7개월 만에 신보다. '네이키드'는 고혹적이면]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[옐로, '네이키드'에 담은 고혹적 목소리]]></title>
-        <id>https://v.daum.net/v/20241009180002361</id>
-        <link href="https://v.daum.net/v/20241009180002361"/>
-        <updated>2024-10-09T09:16:20.781Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김예은 기자) 가수 옐로(YELO)가 신보를 통해 자신만의 매력을 발산했다.&nbsp; 옐로는 9일 오후 6시 각종 음원사이트를 통해 디지털 싱글 '네이키드(NAKED)'를 발매하고 약 2년 7개월 만에 컴백했다. 옐로는 SM엔터테인먼트 음악 퍼블리싱 자회사 크리에이션뮤직라이츠(KMR)의 프로듀싱 레이블 커스터메이드(Kustomade) 소속 가수. ']]></content>
     </entry>
 </feed>
