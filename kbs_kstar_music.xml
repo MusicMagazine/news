@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Oct 2024 22:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Oct 2024 23:16:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빌리, 미니5집 'appendix: Of All We Have Lost'.. 16일 발매]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=333967</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=333967</guid>
+            <pubDate>Wed, 09 Oct 2024 23:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=333967">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241008091910_0b6600f10a42e3e0f23540b9f2158603.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=333967">빌리, 미니5집 'appendix: Of All We Have Lost'.. 16일 발매 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241008091910_0b6600f10a42e3e0f23540b9f2158603.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[YELO(옐로), 싱글 'NAKED' 티저 이미지 공개]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=333961</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=332249">조용필, 정규 20집 ‘20’..10월 발매...“팬 여러분의 변함없는 사랑과 응원 덕분에 완성할 수 있었다”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240925073646_051e6d8f03efc1f24e9a8e908ec9d2af.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박재범, 10월 8일 컴백.. 정규 6집 'THE ONE YOU WANTED']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=332159</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=332159</guid>
-            <pubDate>Tue, 24 Sep 2024 01:08:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=332159">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240924084928_3e5bf625c06364dcde591a7d6ca94d9d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=332159">박재범, 10월 8일 컴백.. 정규 6집 'THE ONE YOU WANTED'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240924084928_3e5bf625c06364dcde591a7d6ca94d9d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
