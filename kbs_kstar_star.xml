@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Oct 2024 23:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Oct 2024 01:09:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 '지킬앤하이드' 20주년, 설렘과 열정의 대본 리딩 현장]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=334203</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=334203</guid>
+            <pubDate>Thu, 10 Oct 2024 01:07:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=334203">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241010083805_e68427cdca882d83a01908e730931b7a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=334203">뮤지컬 '지킬앤하이드' 20주년, 설렘과 열정의 대본 리딩 현장</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241010083805_e68427cdca882d83a01908e730931b7a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신예 홍화연, SBS 드라마 ‘보물섬’ 캐스팅... 박형식&허준호와 호흡]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=333127</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=329642">'악귀' 김태리, 제51회 한국방송대상 최우수연기자상 수상</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240903123051_58eaa356618ea89538f9f531a0039a38.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리디, 웹툰 '상수리나무 아래' 시즌4 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=329518</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=329518</guid>
-            <pubDate>Mon, 02 Sep 2024 01:05:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=329518">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240902092736_f459504223bf720187f53c6c91c3c5a1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=329518">리디, 웹툰 '상수리나무 아래' 시즌4 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240902092736_f459504223bf720187f53c6c91c3c5a1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
