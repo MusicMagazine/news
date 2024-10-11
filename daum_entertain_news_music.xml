@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-10-11T14:16:40.281Z</updated>
+    <updated>2024-10-11T15:17:51.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제시, 일행이 팬 폭행하는데 자리 떠났다..논란 일파만파]]></title>
+        <id>https://v.daum.net/v/20241012000821502</id>
+        <link href="https://v.daum.net/v/20241012000821502"/>
+        <updated>2024-10-11T15:17:22.756Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김미화 기자] /사진='사건반장' 영상 캡처가수 제시가 자신의 일행으로부터 팬이 폭행 당하는 장면을 보고도 자리를 떠났다는 충격적인 제보가 나오며 논란이 커지고 있다. 11일 JTBC 사건반장에 따르면 한 제보자는 지난달 29일 새벽 서울 압구정의 한 골목에서 평소 좋아했던 가수 제시가 일행과 함께 있는 모습을 보고 사진을 요청하러 다가갔다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘이영지의 레인보우’ 박재범 “목 관리? 물 많이 마셔”]]></title>
         <id>https://v.daum.net/v/20241011223207577</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241011190605304"/>
         <updated>2024-10-11T11:17:25.140Z</updated>
         <content type="html"><![CDATA[[동아닷컴]  그룹 NMIXX(엔믹스)가 11일 디지털 싱글 ‘Soñar (Spanish Ver.)’(쏘냐르 (스패니시 버전))을 깜짝 발표했다. NMIXX는 11일 정오 ‘Soñar’의 스페인어 버전 음원을 공개하고 글로벌 팬심 온도를 한층 끌어올렸다. 이번 디지털 싱글은 지난 1월 두 번째 미니 앨범 ‘Fe3O4: BREAK’(에프이쓰리오포: 브레이크]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빌리가 전한 희망 메시지..음악적 시도 더한 '트램펄린']]></title>
-        <id>https://v.daum.net/v/20241011190530286</id>
-        <link href="https://v.daum.net/v/20241011190530286"/>
-        <updated>2024-10-11T11:17:25.141Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자] 그룹 빌리(Billlie)가 프리 릴리즈 싱글로 음악적 도전에 나섰다.&nbsp; 빌리(시윤, 션, 츠키, 문수아, 하람, 수현, 하루나)는 오는 16일 미니 5집 'appendix: Of All We Have Lost(어펜딕스: 오브 올 위 해브 로스트)' 발매를 앞두고, 오늘(11일) 오후 1시에 각종 음원 사이트를 통해 프리 릴리즈]]></content>
     </entry>
 </feed>
