@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-10-11T17:14:13.059Z</updated>
+    <updated>2024-10-11T19:13:15.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하이키, 첫 공식 팬클럽 '마이키' 창단…글로벌 소통 예고]]></title>
+        <id>https://v.daum.net/v/20241012040004475</id>
+        <link href="https://v.daum.net/v/20241012040004475"/>
+        <updated>2024-10-11T19:12:49.583Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]그룹 하이키가 데뷔 2년여 만에 공식 팬클럽을 창단한다. 소속사 GLG는 11일 "하이키가 마이키(M1-KEY, 팬덤명) 모집을 시작, 첫 공식 팬클럽을 창단한다"고 밝혔다. 하이키 공식 팬덤명 마이키는 팬들이 하이키의 열쇠가 되어서 모든 일을 잘, 함께 이뤄나가겠다는 의미를 지니고 있다. 하이키는 데뷔한지 2년 9개월 만]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제시, 일행이 팬 폭행하는데 자리 떠났다..논란 일파만파]]></title>
         <id>https://v.daum.net/v/20241012000821502</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241011191009423"/>
         <updated>2024-10-11T11:17:25.138Z</updated>
         <content type="html"><![CDATA[가수 여은이 감성 이별 발라드로 가을을 수놓는다. 오는 13일 오후 6시 각종 온라인 음원사이트에서 여은의 새 디지털 싱글 ‘많은 걸 놓쳐버린 우리처럼’이 발매된다. 신곡 ‘많은 걸 놓쳐버린 우리처럼’은 미안하다는 말도, 고맙다는 말도, 사랑한다는 말도 이제는 할 수 없는 사이가 돼 버린 이별 남녀의 이야기를 담았다. ‘많은 걸 놓쳐버린 우리처럼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘K팝 아티스트 최초’ NMIXX, ‘쏘냐르’ 스페인어 버전 발표]]></title>
-        <id>https://v.daum.net/v/20241011190605304</id>
-        <link href="https://v.daum.net/v/20241011190605304"/>
-        <updated>2024-10-11T11:17:25.140Z</updated>
-        <content type="html"><![CDATA[[동아닷컴]  그룹 NMIXX(엔믹스)가 11일 디지털 싱글 ‘Soñar (Spanish Ver.)’(쏘냐르 (스패니시 버전))을 깜짝 발표했다. NMIXX는 11일 정오 ‘Soñar’의 스페인어 버전 음원을 공개하고 글로벌 팬심 온도를 한층 끌어올렸다. 이번 디지털 싱글은 지난 1월 두 번째 미니 앨범 ‘Fe3O4: BREAK’(에프이쓰리오포: 브레이크]]></content>
     </entry>
 </feed>
