@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Oct 2024 11:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Oct 2024 12:26:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리센느, 공항에서도 빛나는 미모]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/433283</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/433283</guid>
+            <pubDate>Sat, 12 Oct 2024 12:25:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/433283" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/10/12/38fd9444-3132-47c4-9fd8-a48826ae352e.jpg" alt="리센느, 공항에서도 빛나는 미모">        <div class="text-box">            <p class="summary">리센느, 공항에서도 빛나는 미모</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/10/12/38fd9444-3132-47c4-9fd8-a48826ae352e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최예나, ‘음중’ 스페셜 MC 활약…통통 튀는 매력 발산]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/433275</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 11 Oct 2024 08:21:16 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/433202" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/10/11/f1458cf2-ca85-440a-95f1-77af5a1f72c8.jpg" alt="[포토] 효민, 완벽 비주얼">        <div class="text-box">            <p class="summary">[포토] 효민, 완벽 비주얼</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/10/11/f1458cf2-ca85-440a-95f1-77af5a1f72c8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 효민, 반가운 손인사]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/433201</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/433201</guid>
-            <pubDate>Fri, 11 Oct 2024 08:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/433201" style="height: 233.475px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/10/11/d5866236-881c-4649-bfa2-04842544485b.jpg" alt="[포토] 효민, 반가운 손인사">        <div class="text-box">            <p class="summary">[포토] 효민, 반가운 손인사</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/10/11/d5866236-881c-4649-bfa2-04842544485b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
