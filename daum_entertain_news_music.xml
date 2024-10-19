@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-10-19T13:21:34.504Z</updated>
+    <updated>2024-10-19T15:14:24.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[피프티피프티, 11월 첫 미국 투어에 현지 반응 뜨겁다…외신도 주목]]></title>
+        <id>https://v.daum.net/v/20241019232929488</id>
+        <link href="https://v.daum.net/v/20241019232929488"/>
+        <updated>2024-10-19T15:13:53.996Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]걸그룹 피프티피프티를 향한 해외의 관심이 뜨겁다. 피프티피프티가 오는 11월부터 첫 번째 미국 투어 ‘러브 스프링클 투어 인 유에스에이'(LOVE SPRINKLE TOUR in USA) 공연 개최 소식을 알린 가운데 이를 향한 현지 반응이 뜨겁다. 지난 17일(미국 동부시간 기준) 미국 주요 언론 매체 중 하나인 뉴욕포스트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["내맘대로 다 찍 찍 장난질"…다이몬, 신곡 뮤비 속 퍼포먼스+음원 일부 공개]]></title>
+        <id>https://v.daum.net/v/20241019224822177</id>
+        <link href="https://v.daum.net/v/20241019224822177"/>
+        <updated>2024-10-19T15:13:53.997Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]컴백을 앞둔 그룹 다이몬이 강렬한 에너지의 타이틀곡을 예고했다. 다이몬은 19일 공식 SNS를 통해 두 번째 싱글 '유스 네버 다이' 타이틀곡 '찍찍찍 (Zip Zip Zip)' 뮤직비디오 티저 영상을 공개했다. 영상 속 다이몬은 지하철역을 배경으로 개성 있는 스트리트 패션으로 등장한다. 교실로 장소가 바뀌자 다이몬은 스쿨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[숟가락을 둘러도 제니는 제니, 러블리한 美 토크쇼 나들이]]></title>
         <id>https://v.daum.net/v/20241019211051050</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241019172945978"/>
         <updated>2024-10-19T09:17:51.268Z</updated>
         <content type="html"><![CDATA[그룹 82메이저가 '음악중심'을 뜨겁게 달궜다. 82메이저(82MAJOR, 남성모·박석준·윤예찬·조성일·황성빈·김도균)는 19일 오후 방송된 MBC '쇼! 음악중심'에 출연해 미니 2집 'X-82(엑스-82)' 타이틀곡 '혀끝(Stuck)' 컴백 무대를 꾸몄다. 이날 82메이저는 무게감이 느껴지는 브라운 슈트를 입고 카메라 앞에 등]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘제2의 QWER’ 노린다…걸그룹 이호테우 영입한 EFG뮤직]]></title>
-        <id>https://v.daum.net/v/20241019172109794</id>
-        <link href="https://v.daum.net/v/20241019172109794"/>
-        <updated>2024-10-19T09:17:51.272Z</updated>
-        <content type="html"><![CDATA[개그맨 김준호, 김대희가 속한 JDB엔터테인먼트가 자회사 EFG뮤직을 설립한 가운데, 첫 번째 아티스트로 그룹 이호테우(IHOTEU)를 영입했다. 18일 JDB엔터테인먼트는 "더 다양한 장르의 컨텐츠를 대중들에게 제공하고자 자회사 EFG뮤직을 설립하고, 1호 아티스트로 그룹 IHOTEU(이호테우)를 영입했다"고 밝혔다. EFG뮤직은 1호 아티스트로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['살 쫙 뺌+밝아진 박봄'..2NE1 완전체, '유퀴즈' 촬영샷 공개]]></title>
-        <id>https://v.daum.net/v/20241019172046781</id>
-        <link href="https://v.daum.net/v/20241019172046781"/>
-        <updated>2024-10-19T09:17:51.273Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 한해선 기자] /사진=tvN '유 퀴즈 온 더 블럭' 그룹 2NE1(투애니원)이 '유퀴즈'에 나타났다. 19일 tvN '유 퀴즈 온 더 블럭'(이하 '유퀴즈') 측은 "유 갓 댓 파이어 나의 가슴을 쿵쿵쿵 유 가따 드랍 잇 지금 멈추려 하지 마! 에 에에 에 에에 에에 왔다 우리들의 퀸, 영원한 레전드 아이돌 2NE1!"이라며 최근 2NE]]></content>
     </entry>
 </feed>
