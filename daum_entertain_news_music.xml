@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-10-23T18:20:41.540Z</updated>
+    <updated>2024-10-23T19:16:42.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[권진아, 연말 콘서트 '디스 윈터' 개최…내년 신곡 무대 미리 공개]]></title>
+        <id>https://v.daum.net/v/20241024040006018</id>
+        <link href="https://v.daum.net/v/20241024040006018"/>
+        <updated>2024-10-23T19:16:15.598Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]싱어송라이터 권진아가 연말 콘서트로 관객을 만난다. 권진아는 오는 12월 13일부터 12월 15일까지 서울 방이동 올림픽공원 핸드볼경기장에서 2024 권진아 연말 콘서트 '디스 윈터'를 개최한다. 권진아는 지난 3월 열린 단독 공연 ‘꽃말’을 비롯해 지난해 개최한 모든 공연을 전석 매진시키는 저력을 과시한 만큼, 이번에도 치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스포티파이, 인스타그램에서 발견한 음악을 플레이리스트에 추가하는 신규 기능 공개]]></title>
         <id>https://v.daum.net/v/20241024011741561</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241023205235274"/>
         <updated>2024-10-23T12:29:10.257Z</updated>
         <content type="html"><![CDATA[가수 밈(mim)이 웹툰 ‘우리집 고양이는 베지테리언’ OST로 깊은 울림을 선사한다. 오는 26일 정오 밈이 참여한 웹툰 ‘우리집 고양이는 베지테리언’ OST ‘느껴보아요’가 발매된다. ‘느껴보아요’는 영원한 사랑을 약속하는 발라드곡으로, ‘나의 손을 잡고 느껴보아요 그대만을 사랑하는 이런 내 맘 아나요/우릴 비춰주는 별빛 아래서 영원의 순간을 약]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가수 휴이, 웹툰 ‘도성마녀 미리내’ OST ‘오늘의 나에게’ 25일 발매]]></title>
-        <id>https://v.daum.net/v/20241023205149253</id>
-        <link href="https://v.daum.net/v/20241023205149253"/>
-        <updated>2024-10-23T12:29:10.258Z</updated>
-        <content type="html"><![CDATA[가수 휴이(Huie)가 ‘도성마녀 미리내’ OST 가창자로 나선다. 오는 25일 정오 각종 온라인 음원사이트를 통해 휴이가 참여한 웹툰 ‘도성마녀 미리내’ OST ‘오늘의 나에게’가 발매된다. ‘오늘의 나에게’는 용기와 위로의 메시지를 담은 곡으로, ‘많이도 힘들었지 오늘이 오기까지 수많았던 그 일들을 다 견뎌냈으니/내일은 웃을거야 다시 이제부터 시]]></content>
     </entry>
 </feed>
