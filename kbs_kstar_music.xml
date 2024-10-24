@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Oct 2024 20:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Oct 2024 22:18:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HEYOON(혜윤), 유니버설뮤직그룹과 전속계약 체결]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=336003</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=336003</guid>
+            <pubDate>Thu, 24 Oct 2024 22:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=336003">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241025070837_63ec92cb3e279ad9591443a0ef8cb524.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=336003">HEYOON(혜윤), 유니버설뮤직그룹과 전속계약 체결</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241025070837_63ec92cb3e279ad9591443a0ef8cb524.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에스파 ‘Whiplash’, 글로벌 히트..   스포티파이 2024년 K팝 걸그룹 최고 순위 진입]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=335823</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=333911">마마무 솔라, 첫 단독 투어 'COLOURS' 마카오에서 대미 장식</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241008090102_51243a23d48fb7f22a4c3a164e4e0477.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투모로우바이투게더, 세 번째 월드투어 'ACT : PROMISE' 성료… 서울 앙코르콘서트 & 미니7집 컴백]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=333905</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=333905</guid>
-            <pubDate>Tue, 08 Oct 2024 01:06:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=333905">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241008085931_cabec836ac7dc865953f4d799e82eecc.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=333905">투모로우바이투게더, 세 번째 월드투어 'ACT : PROMISE' 성료… 서울 앙코르콘서트 &amp; 미니7집 컴백</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241008085931_cabec836ac7dc865953f4d799e82eecc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
