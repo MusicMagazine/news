@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Oct 2024 22:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Oct 2024 23:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[르세라핌 홍은채, ‘코스모폴리탄’ 화보 장식.. "홍은채답다는 것"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=336209</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=336209</guid>
+            <pubDate>Sat, 26 Oct 2024 23:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=336209">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241027074127_782bf7949d8617b13c86f2cf9e9bbf19.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=336209">르세라핌 홍은채, ‘코스모폴리탄’ 화보 장식.. "홍은채답다는 것"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241027074127_782bf7949d8617b13c86f2cf9e9bbf19.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이세영 '사랑 후에 오는 것들' 종영소감]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=336131</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=334489">김태훈, tvN '정년이'.. 방송국 피디 역 "텔레비전의 미래 확신"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241012072326_4c505a5f351954c4df4e7418a22c82a2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임주환, 연극 ’킬롤로지’ 카리스마 열연 중]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=334484</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=334484</guid>
-            <pubDate>Fri, 11 Oct 2024 23:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=334484">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241012071937_5551eeda1dbb2fb2d637fb1878ae370e.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=334484">임주환, 연극 ’킬롤로지’ 카리스마 열연 중</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241012071937_5551eeda1dbb2fb2d637fb1878ae370e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
