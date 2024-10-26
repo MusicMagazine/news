@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Oct 2024 21:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Oct 2024 22:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샤이니 민호, 11월 컴백.. 에스파 닝닝-라이즈 소희와 색다른 케미스트리 예고]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=336136</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=336136</guid>
+            <pubDate>Sat, 26 Oct 2024 22:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=336136">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241026202815_6092da216fb381136d133cf1814aa84d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=336136">샤이니 민호, 11월 컴백.. 에스파 닝닝-라이즈 소희와 색다른 케미스트리 예고</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241026202815_6092da216fb381136d133cf1814aa84d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[HEYOON(혜윤), 유니버설뮤직그룹과 전속계약 체결]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=336003</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=333923">뉴진스 ‘ETA’, 차트 역주행  글로벌 인기</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241008090557_cc91f73993d5a961b80f8a96ca071ab5_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마마무 솔라, 첫 단독 투어 'COLOURS' 마카오에서 대미 장식]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=333911</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=333911</guid>
-            <pubDate>Tue, 08 Oct 2024 01:06:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=333911">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241008090102_51243a23d48fb7f22a4c3a164e4e0477.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=333911">마마무 솔라, 첫 단독 투어 'COLOURS' 마카오에서 대미 장식</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241008090102_51243a23d48fb7f22a4c3a164e4e0477.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
