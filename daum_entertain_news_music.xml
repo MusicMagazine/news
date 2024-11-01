@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-11-01T17:14:43.712Z</updated>
+    <updated>2024-11-01T18:22:10.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[로제, 또 '최초' 기록 쓴 글로벌 인기…英 오피셜 싱글 차트 2위]]></title>
+        <id>https://v.daum.net/v/20241102025557583</id>
+        <link href="https://v.daum.net/v/20241102025557583"/>
+        <updated>2024-11-01T18:21:45.559Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 안태현 기자 = 그룹 블랙핑크의 로제가 K팝 여가수 최초로 영국 오피셜 차트 2위에 오르면서 신기록 행보를 이어갔다. 1일(이하 현지시각) 발표된 영국 오피셜 싱글 차트 톱100에 따르면 로제의 '아파트.'(APT., 이하 '아파트')는 2위를 차지했다. 1위는 지지 페레즈의 '세일러 송'(Sailor Song)이다. 영국 오피셜 차트는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[투바투 측 "휴닝카이, 급체로 컨디션 난조..현재 회복 중"]]></title>
         <id>https://v.daum.net/v/20241101231228568</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241101194729778"/>
         <updated>2024-11-01T11:13:20.363Z</updated>
         <content type="html"><![CDATA[[티브이데일리 이기은 기자] 가수 태민이 '로드 투 킹덤 : ACE OF ACE' 파이널 특별 무대를 장식한다. 선배 매력이다. Mnet '로드 투 킹덤 : ACE OF ACE'의 파이널 생방송이 오는 7일 오후 9시 30분 진행된다. 우승팀 탄생까지 단 1회만을 남겨둔 가운데 MC 태민의 스페셜 스테이지가 예고됐다. 지난 2008년 그룹 샤이니(SHINe]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이라온, 조성모 '아시나요' 재해석…'프로젝트 : 마에스트로' 첫 주자]]></title>
-        <id>https://v.daum.net/v/20241101194617755</id>
-        <link href="https://v.daum.net/v/20241101194617755"/>
-        <updated>2024-11-01T11:13:20.363Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]가수 이라온이 명장의 음악을 재해석하는 '프로젝트 : 마에스트로' 첫 번째 주자로 발탁됐다. 페잇어스에 따르면 '프로젝트 : 마에스트로'의 첫 번째 트랙 이라온의 '아시나요'가 오는 3일 오후 6시 공개된다. 이라온이 노래한 '아시나요'는 200만 장 이상의 앨범 판매를 기록한 가수 조성모의 메가 히트곡 '아시나요'를 원작]]></content>
     </entry>
 </feed>
