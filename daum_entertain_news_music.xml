@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-11-04T14:15:53.834Z</updated>
+    <updated>2024-11-04T15:19:12.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[드림어스컴퍼니 플로, AI가 추천하는 수험생 응원 무드 플레이리스트 선보여]]></title>
+        <id>https://v.daum.net/v/20241105001102125</id>
+        <link href="https://v.daum.net/v/20241105001102125"/>
+        <updated>2024-11-04T15:18:47.902Z</updated>
+        <content type="html"><![CDATA[드림어스컴퍼니(대표 김동훈)의 음악 플랫폼 플로(FLO)가 수능을 앞두고 수험생을 위한 무드(Moood:) 플레이리스트를 제공하며 수험생들을 응원한다. 플로는 4일 ‘무드(Moood:)’ 서비스 내 ‘25년 수능 파이팅’ 무드를 새롭게 추가하고 플레이리스트를 제공한다. 플로가 서비스하는 8천만 곡 이상의 음원에 고도화된 AI 추천 기술을 더해 제작된]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘2024년 최고 신인’ TWS, 11월 25일 싱글 1집 ‘Last Bell’ 발매]]></title>
         <id>https://v.daum.net/v/20241104230207502</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241104203123989"/>
         <updated>2024-11-04T12:30:12.751Z</updated>
         <content type="html"><![CDATA[가수 한경일이 웹툰 ‘미치도록 너만을’ OST 주자로 합류한다. 한경일은 4일 오후 각종 온라인 음원사이트를 통해 웹툰 ‘미치도록 너만을’ OST ‘아무것도 못해’를 발매했다. ‘아무것도 못해’는 참을 수 없는 그리움을 표현한 곡으로, ‘더는 잡을 수 없지만 말할 수 없지만 조금 기다려준다면/불어오는 바람에도 느낄 수 있도록 온 마음을 다해 너에게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가수 블러셔, 웹툰 ‘죽이고 싶은 나의 전복 왕자님’ OST 주자 발탁···‘여전히 너를 사랑하는데’ 발매]]></title>
-        <id>https://v.daum.net/v/20241104203103981</id>
-        <link href="https://v.daum.net/v/20241104203103981"/>
-        <updated>2024-11-04T12:30:12.751Z</updated>
-        <content type="html"><![CDATA[가수 블러셔(Blusher)가 ‘죽이고 싶은 나의 전복 왕자님’ OST로 이별 감성을 선사한다. 4일 각종 온라인 음원사이트를 통해 블러셔가 참여한 웹툰 ‘죽이고 싶은 나의 전복 왕자님’ OST ‘여전히 너를 사랑하는데’가 발매됐다. ‘여전히 너를 사랑하는데’는 세련된 사운드가 인상적인 곡으로 이별의 슬픔을 노래한다. 블러셔 특유의 감성적인 보컬과]]></content>
     </entry>
 </feed>
