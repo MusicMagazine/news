@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-11-06T14:16:22.886Z</updated>
+    <updated>2024-11-06T15:17:58.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[샤이니 민호, 1theK 오리지널 콘텐츠 ‘온더스팟’ 출격]]></title>
+        <id>https://v.daum.net/v/20241106235440406</id>
+        <link href="https://v.daum.net/v/20241106235440406"/>
+        <updated>2024-11-06T15:17:30.464Z</updated>
+        <content type="html"><![CDATA[샤이니 민호가 한강 다리 밑에서 춤을 춘다?! 지난 4일 첫 솔로 정규 앨범 ‘콜 백(CALL BACK)’을 발매하고 글로벌 팬심을 흔들고 있는 민호가 은은한 조명 속, 짙은 도심을 배경으로 그만의 비주얼 퍼포먼스를 완성했다. 민호는 카카오엔터테인먼트의 글로벌 K팝 대표 미디어 1theK(원더케이)의 오리지널 콘텐츠 ‘온더스팟(On the Spot)’]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘두시의 데이트’ HYNN, ‘오노을’ 폭풍 라이브]]></title>
         <id>https://v.daum.net/v/20241106230134016</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241106180743163"/>
         <updated>2024-11-06T09:18:57.031Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김한길 기자] 슈퍼주니어 예성의 신곡 ‘잇츠 컴플리케이티드(It’s Complicated)’ 뮤직비디오가 화제다. 지난 5일 오후 6시 음원과 동시에 유튜브 SMTOWN 채널 등을 통해 공개된 예성 여섯 번째 미니앨범 타이틀 곡 ‘잇츠 컴플리케이티드’ 뮤직비디오는 강렬한 조명과 특수 효과 연출이 어우러진 고퀄리티 영상으로 시선을 사로잡았다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제대로 가을 감성..헤이즈, 그리운 순간으로 '폴린']]></title>
-        <id>https://v.daum.net/v/20241106180143954</id>
-        <link href="https://v.daum.net/v/20241106180143954"/>
-        <updated>2024-11-06T09:18:57.033Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 최혜진 기자] /사진=피네이션가수 헤이즈가 올가을을 촉촉하게 물들일 '폴린'으로 돌아왔다. 헤이즈는 6일 오후 6시 각종 온라인 음원 사이트를 통해 아홉 번째 미니앨범 '폴린'(FALLIN)을 발매했다. 동명의 타이틀곡 '폴린'은 사라져버린 것들에 대한 그리움을 풋풋하고 미숙했던 사랑에 빗대어 풀어낸 곡이다. 그대 덕분에 헤어짐의 무]]></content>
     </entry>
 </feed>
