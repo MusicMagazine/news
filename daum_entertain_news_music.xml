@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-11-06T18:24:13.060Z</updated>
+    <updated>2024-11-06T19:17:35.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘보컬리스트 더블빌 : 임채희 & 문미향’ 12월 1일 공연]]></title>
+        <id>https://v.daum.net/v/20241107034453623</id>
+        <link href="https://v.daum.net/v/20241107034453623"/>
+        <updated>2024-11-06T19:17:08.631Z</updated>
+        <content type="html"><![CDATA[국내 재즈씬에서 재즈계의 새로운 라이징스타 혹은 재즈 디바로서 재즈 세대교체의 주인공으로 주목받는 두 보컬리스트 임채희와 문미향! 음악계가 주목하는 이 두명의 보컬리스트의 특별한 합동무대가 겨울의 시작에 찾아온다. 2023년 발매되었던 각자의 정규 1집 음반으로 음악적 완성도의 측면에서 높은 평가를 받았으며, 스탠더드를 누구나 쉽고 편안하게 접할 수 있]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KCM, 결이 다른 시그니처 발라드 신곡 ‘죽는다 해도 이상하지 않아’ 발매]]></title>
         <id>https://v.daum.net/v/20241107020742310</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241106184956344"/>
         <updated>2024-11-06T10:18:19.543Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 전작 'MANIAC'(마니악)으로 차트를 역주행한 그룹 VIVIZ(비비지)가 신곡 ‘Shhh!(쉿!)’ 티저를 통해 화려한 군무를 예고했다. VIVIZ는 11월 6일 공식 채널을 통해 미니 5집 ‘VOYAGE(보야지)’ 타이틀곡 ‘Shhh!’의 새로운 뮤직비디오 티저를 공개했다. 앞서 공개된 보헤미안 감성의 티저 영상과 달리 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT DREAM, 성수동 뜬다..정규 4집 팝업 스토어 오픈]]></title>
-        <id>https://v.daum.net/v/20241106181647427</id>
-        <link href="https://v.daum.net/v/20241106181647427"/>
-        <updated>2024-11-06T09:18:57.029Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이승훈 기자] /사진=SM엔터테인먼트 보이 그룹 NCT DREAM(엔시티 드림)이 새로운 팝업스토어를 열고 정규 4집 컴백 열기를 더한다. 정규 4집 'DREAMSCAPE'(드림스케이프) 발매 기념 팝업스토어 'DREAM FINDER : Chase The Light'(드림 파인더 : 체이스 더 라이트)는 12일부터 12월 1일까지 서울시]]></content>
     </entry>
 </feed>
