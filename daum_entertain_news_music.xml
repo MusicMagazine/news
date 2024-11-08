@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-11-08T19:14:05.394Z</updated>
+    <updated>2024-11-08T20:16:52.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이펙스, 음반 누적 판매량 100만 장 돌파…'1년 2정규' 음악적 자신감 통했다]]></title>
+        <id>https://v.daum.net/v/20241109051603709</id>
+        <link href="https://v.daum.net/v/20241109051603709"/>
+        <updated>2024-11-08T20:16:26.105Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]최근 두번째 정규앨범을 발표한 그룹 이펙스가 컴백과 함께 의미 있는 성과를 기록했다. 소속사 C9엔터테인먼트에 따르면 이펙스가 데뷔 후 발표한 총 여섯 장의 미니앨범과 두 장의 정규앨범으로 누적 음반 판매량 100만 장을 돌파했다. 이펙스는 2021년 데뷔 이래 공백기 없는 행보로 상승세를 보여주고 있다. 4번째 미니앨범]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘로드 투 킹덤’ 태민, 첫 단독 MC 도전 성공적인 마무리]]></title>
         <id>https://v.daum.net/v/20241109020859411</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241108195840137"/>
         <updated>2024-11-08T11:12:42.172Z</updated>
         <content type="html"><![CDATA[[OSEN=지민경 기자]&nbsp;글로벌 K-푸드 토크쇼 'BYOB'에 출격한 박진영이 라이브, 토크 등 다채롭게 활약하며 풍성한 에피소드를 완성했다. 오늘(8일) 오전 10시 유튜브 채널 'JohnMaat'에 업로드된 'BYOB'의 여섯 번째 에피소드에는 박진영이 게스트로 출연했다. 평소 2MC 박준형, 브라이언과 친분이 두터운 박진영은 반가움의 포옹을 나누며]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘심플리 케이팝’ ONE PACT, 타이틀곡 ‘DESERVED’ 무결점 퍼포먼스]]></title>
-        <id>https://v.daum.net/v/20241108195537098</id>
-        <link href="https://v.daum.net/v/20241108195537098"/>
-        <updated>2024-11-08T11:12:42.172Z</updated>
-        <content type="html"><![CDATA[아이돌그룹 ONE PACT(원팩트)가 음악 방송에서 화려한 무대로 팬들의 마음을 흔들었다. 원팩트는 8일 오후 방송된 아리랑TV(arirang TV) ‘Simply K-Pop CON-TOUR(심플리 케이팝 콘투어)’에 출연, 두 번째 미니 앨범 ‘[fallIn’]‘의 타이틀곡 ’DESERVED‘ 무대를 펼쳤다. 원팩트는 빈티지하면서도 유니크한 힙합]]></content>
     </entry>
 </feed>
