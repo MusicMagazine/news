@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-11-11T17:13:33.976Z</updated>
+    <updated>2024-11-11T18:22:47.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정동원, 1년 2개월만 신곡 ‘고리’ 발표···“고퀄리티 가을감성”]]></title>
+        <id>https://v.daum.net/v/20241112023457454</id>
+        <link href="https://v.daum.net/v/20241112023457454"/>
+        <updated>2024-11-11T18:22:16.894Z</updated>
+        <content type="html"><![CDATA[가수 정동원이 1년 2개월 만에 신곡으로 컴백한다. 소속사 쇼플레이엔터테인먼트는 정동원이 11일 새 디지털 싱글 ‘고리’를 발매하고 컴백했다고 밝혔다. 이번 신곡은 지난 2023년 발매된 미니앨범 ‘소품집 Vol.1’ 이후 약 1년 2개월 만이다. ‘고리’는 정동원 특유의 애절한 목소리가 고스란히 녹아 있는 마이너 발라드 성인가요 곡으로 슬픔, 아픔, 그리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴진스 '슈퍼내추럴' 'ETA', 스포티파이 1억·3억 스트리밍]]></title>
         <id>https://v.daum.net/v/20241112002501979</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241111233917481"/>
         <updated>2024-11-11T15:15:32.543Z</updated>
         <content type="html"><![CDATA[트레저(사진=YG엔터테인먼트)[이데일리 스타in 윤기백 기자] 그룹 트레저가 이번주부터 신곡 뮤직비디오 촬영을 시작, 컴백 초읽기에 들어간다. 11일 와이지엔터테인먼트(이하 YG)에 따르면 트레저는 내일(12일)부터 신곡 뮤직비디오 촬영에 돌입한다. 완성도 높은 영상을 위해 멤버들은 YG의 전폭적 지원 아래 초대형 세트를 비롯 다양한 로케이션 촬영에 나선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유우리, 내년 두번째 내한… 5월 케이스포돔 입성]]></title>
-        <id>https://v.daum.net/v/20241111233722467</id>
-        <link href="https://v.daum.net/v/20241111233722467"/>
-        <updated>2024-11-11T15:15:32.545Z</updated>
-        <content type="html"><![CDATA[(사진=컨셉케이컴퍼니)[이데일리 스타in 윤기백 기자] 일본 싱어송라이터 유우리가 케이스포돔(옛 체조경기장)에 입성한다. 유우리는 내년 5월 3~4일 양일간 서울 송파구 올림픽공원 케이스포돔에서 두 번째 내한 공연 ‘유우리 아레나 라이브 2025 앳 서울’(YUURI ARENA LIVE 2025 at SEOUL)을 연다. 15일 오후 8시부터 티켓링크에서]]></content>
     </entry>
 </feed>
