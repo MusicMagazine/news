@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Nov 2024 23:16:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Nov 2024 01:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['이토록 차분한 프로파일러' 노재원,  나른하고 해사한 매력]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=338654</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=338654</guid>
+            <pubDate>Fri, 15 Nov 2024 01:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=338654">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241115084148_904be7bbdbde351bd431382ff7551531.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=338654">'이토록 차분한 프로파일러' 노재원,  나른하고 해사한 매력</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241115084148_904be7bbdbde351bd431382ff7551531.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 ‘한복 입은 남자’, 오디션 개최]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=338513</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=335708">美 매체, 김민영 넷플릭스VP  ‘방송업계에서 가장 영향력 있는 여성’ 선정</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241023075459_d169727474a7be3ec702c7e1c8f9fb4a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘디즈니 100년 특별전’ 개막..  "시작은 캐릭터, 핵심은 혁신"  (미디어데이 현장)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=335542</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=335542</guid>
-            <pubDate>Mon, 21 Oct 2024 01:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=335542">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241021091918_40f5ba98e8276e5bdea153df3a691869.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=335542">‘디즈니 100년 특별전’ 개막..  "시작은 캐릭터, 핵심은 혁신"  (미디어데이 현장)</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241021091918_40f5ba98e8276e5bdea153df3a691869.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
