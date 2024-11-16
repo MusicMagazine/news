@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Nov 2024 21:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Nov 2024 23:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <킹키부츠> 10주년 서울공연 피날레]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=338519</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=338519</guid>
+            <pubDate>Sat, 16 Nov 2024 23:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=338519">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241114182908_3ad6c18530aca71d1fadf0a67e9214a3.jpeg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=338519">뮤지컬 &lt;킹키부츠&gt; 10주년 서울공연 피날레</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241114182908_3ad6c18530aca71d1fadf0a67e9214a3.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA['이토록 차분한 프로파일러' 노재원,  나른하고 해사한 매력]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=338654</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=335719">웹드라마 '0교시는 인싸타임' .. 가언고의 인사, 아사, 그리고 메기남</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241023081032_2a8b506bf25da4cdc119e13eca65dbe7.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美 매체, 김민영 넷플릭스VP  ‘방송업계에서 가장 영향력 있는 여성’ 선정]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=335708</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=335708</guid>
-            <pubDate>Tue, 22 Oct 2024 23:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=335708">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241023075459_d169727474a7be3ec702c7e1c8f9fb4a.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=335708">美 매체, 김민영 넷플릭스VP  ‘방송업계에서 가장 영향력 있는 여성’ 선정</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241023075459_d169727474a7be3ec702c7e1c8f9fb4a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
