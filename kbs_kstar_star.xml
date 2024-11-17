@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Nov 2024 22:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Nov 2024 23:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나나, WWD KOREA 커버 화보 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=338889</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=338889</guid>
+            <pubDate>Sun, 17 Nov 2024 23:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=338889">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241118080503_cf596eaf44771288a2ed2b3a3593a6a4.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=338889">나나, WWD KOREA 커버 화보 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241118080503_cf596eaf44771288a2ed2b3a3593a6a4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 <킹키부츠> 10주년 서울공연 피날레]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=338519</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=335840">"애들 싸움이 어른 싸움 된다" 연극 &lt;대학살의 신&gt; 12월 개막</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241024075042_846af0be7e3f0702c3f168350aaf68c7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웹드라마 '0교시는 인싸타임' .. 가언고의 인사, 아사, 그리고 메기남]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=335719</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=335719</guid>
-            <pubDate>Tue, 22 Oct 2024 23:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=335719">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241023081032_2a8b506bf25da4cdc119e13eca65dbe7.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=335719">웹드라마 '0교시는 인싸타임' .. 가언고의 인사, 아사, 그리고 메기남</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241023081032_2a8b506bf25da4cdc119e13eca65dbe7.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
