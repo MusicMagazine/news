@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Nov 2024 20:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Nov 2024 21:15:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 ‘웃는 남자’ 티저 영상 공개... “2025년, 네 번째 시즌”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=338517</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=338517</guid>
+            <pubDate>Tue, 19 Nov 2024 21:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=338517">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241114181224_c1e224e43df622023d82bf52a8222b11.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=338517">뮤지컬 ‘웃는 남자’ 티저 영상 공개... “2025년, 네 번째 시즌”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241114181224_c1e224e43df622023d82bf52a8222b11.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나나, WWD KOREA 커버 화보 공개]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=338889</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=335857">"화보는 멋있게"  이동휘 X 한지은 '결혼, 하겠나'매거진 화보 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241024081306_dfc9331237292d9a49b4c80b3bc4cc78.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["애들 싸움이 어른 싸움 된다" 연극 <대학살의 신> 12월 개막]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=335840</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=335840</guid>
-            <pubDate>Wed, 23 Oct 2024 23:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=335840">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241024075042_846af0be7e3f0702c3f168350aaf68c7.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=335840">"애들 싸움이 어른 싸움 된다" 연극 &lt;대학살의 신&gt; 12월 개막</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241024075042_846af0be7e3f0702c3f168350aaf68c7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
