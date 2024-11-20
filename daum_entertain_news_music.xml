@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-11-20T15:17:01.102Z</updated>
+    <updated>2024-11-20T16:20:00.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박효신, 무려 5년만에 신곡 발표…특별한 이유 알아봤더니]]></title>
+        <id>https://v.daum.net/v/20241121010705362</id>
+        <link href="https://v.daum.net/v/20241121010705362"/>
+        <updated>2024-11-20T16:19:32.273Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 이승길 기자] 가수 박효신이 5년 만에 새 싱글 ‘HERO’를 발표한다. 이번 곡은 특별히 오는 12월 4일 개봉하는 영화 '소방관'의 타이틀 곡으로 삽입될 예정이라고. 영화 '소방관'은 2001년 홍제동 화재 참사 사건 당시 열악한 환경 속에서도 화재 진압과 전원 구조라는 단 하나의 목표를 가지고 투입된 소방관들의 상황을 그린 이야기.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이효정 '우리 어머니', 간절한 사모곡]]></title>
         <id>https://v.daum.net/v/20241121000102869</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241120192255857"/>
         <updated>2024-11-20T11:13:11.057Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 명희숙 기자) 가수 로이킴이 신곡 ‘내게 사랑이 뭐냐고 물어본다면’으로 식지 않는 인기를 이어가고 있다. 시간이 지날수록 무르익는 감성과 내공 깊은 보컬까지 데뷔 12년 차에도 음악적 성장을 지속하고 있다는 평가다.&nbsp; 로이킴이 지난달 16일 선보인 신곡 ‘내게 사랑이 뭐냐고 물어본다면’은 발매 직후 음원 차트에서 두각을 드러낸 후 점점 기세를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘슈퍼스타K’ 출신 우은미, 웹툰 ‘본능적인 그대’ OST ‘나만’ 23일 발매]]></title>
-        <id>https://v.daum.net/v/20241120191208694</id>
-        <link href="https://v.daum.net/v/20241120191208694"/>
-        <updated>2024-11-20T10:17:01.144Z</updated>
-        <content type="html"><![CDATA[가수 우은미가 웹툰 ‘본능적인 그대’ OST 주자로 합류한다. 오는 23일 정오 각종 온라인 음원사이트를 통해 우은미가 참여한 웹툰 ‘본능적인 그대’ OST ‘나만’이 발매된다. ‘나만’은 사랑하는 사람과 헤어진 후에도 여전한 그리움을 그린 곡으로, 우은미만의 매력적인 보이스 컬러가 돋보이며 몰입도를 높일 계획이다. 우은미는 호소력 짙은 감성과 디]]></content>
     </entry>
 </feed>
