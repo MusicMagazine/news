@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Nov 2024 20:20:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Nov 2024 21:17:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 진, '지미 팰런쇼' 출연..  ‘Running Wild’ 해피~]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=339195</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=339195</guid>
+            <pubDate>Thu, 21 Nov 2024 21:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=339195">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241122052725_99c24ee4ba4c25fd5d75961f1b769105.jpeg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=339195">방탄소년단 진, '지미 팰런쇼' 출연..  ‘Running Wild’ 해피~</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241122052725_99c24ee4ba4c25fd5d75961f1b769105.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[브루노 마스와 로제, ‘2024 MAMA AWARDS’서 환상 콜라보 예고]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=339112</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=336790">‘용의 귀환’  G-DRAGON,  7년 4개월만 선공개 곡 ‘POWER’ </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241031090402_b3104184890e23c016a0b7b27e7bb8bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헤이즈 가을 감성,  미니9집 ‘FALLIN’’ 11월 6일 발매]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=336617</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=336617</guid>
-            <pubDate>Wed, 30 Oct 2024 21:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=336617">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241030140709_b1db23801732a863f7a695c335777e0d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=336617">헤이즈 가을 감성,  미니9집 ‘FALLIN’’ 11월 6일 발매</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241030140709_b1db23801732a863f7a695c335777e0d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
