@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Nov 2024 11:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Nov 2024 13:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[izna(이즈나), ‘2024 MAMA AWARDS’에서 데뷔 무대 선공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=339382</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=339382</guid>
+            <pubDate>Sat, 23 Nov 2024 13:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=339382">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241123204200_b329a2521caa498838fd44f17e21da06_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=339382">izna(이즈나), ‘2024 MAMA AWARDS’에서 데뷔 무대 선공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241123204200_b329a2521caa498838fd44f17e21da06_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아일릿, ‘2024 MAMA’ 신인상 수상…“글릿 곁에서 오래도록 밝은 빛 될 것”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=339366</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=337259">보이넥스트도어, Apple Music 2024 캐럴 캠페인 참여</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241104150637_b1e9a4ad688df6a47e357646f7d37c38.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이승윤 정규3집 '역성' 호평… "청각적 언어로 쓰인 시집"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=336937</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=336937</guid>
-            <pubDate>Fri, 01 Nov 2024 01:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=336937">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241101093351_c4d67a9af0d8718a22fb0616bd69c51a_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=336937">이승윤 정규3집 '역성' 호평… "청각적 언어로 쓰인 시집"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241101093351_c4d67a9af0d8718a22fb0616bd69c51a_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
