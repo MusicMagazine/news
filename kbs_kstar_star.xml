@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Nov 2024 23:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Nov 2024 01:10:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['조명가게' 출연 김민하, 매거진 화보 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=339361</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=339361</guid>
+            <pubDate>Sat, 23 Nov 2024 01:09:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=339361">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241123084934_77450e6c50e2e84b377f8f8c37d3f244_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=339361">'조명가게' 출연 김민하, 매거진 화보 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241123084934_77450e6c50e2e84b377f8f8c37d3f244_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[K뮤지컬  <위대한 개츠비> ,내년 4월 영국 웨스트엔드 진출]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=338521</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=336209">르세라핌 홍은채, ‘코스모폴리탄’ 화보 장식.. "홍은채답다는 것"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241027074127_782bf7949d8617b13c86f2cf9e9bbf19.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이세영 '사랑 후에 오는 것들' 종영소감]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=336131</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=336131</guid>
-            <pubDate>Sat, 26 Oct 2024 12:28:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=336131">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241026202426_b4c6e126852332b2d0f9a2f0eca93043.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=336131">이세영 '사랑 후에 오는 것들' 종영소감</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241026202426_b4c6e126852332b2d0f9a2f0eca93043.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
