@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-11-24T18:20:57.031Z</updated>
+    <updated>2024-11-24T19:13:28.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[로제+마스, 빅뱅 재결합… 200개국서 봤다]]></title>
+        <id>https://v.daum.net/v/20241125033313703</id>
+        <link href="https://v.daum.net/v/20241125033313703"/>
+        <updated>2024-11-24T19:13:06.008Z</updated>
+        <content type="html"><![CDATA[21~23일 미국 로스앤젤레스(LA) 돌비시어터와 일본 교세라 돔 오사카에서 열린 ‘마마 어워즈’가 화려한 볼거리를 선사하며 막을 내렸다. 3일간의 시상식은 200여개국에 생중계됐으며 총 9만3000여장의 오프라인 티켓은 매진을 기록했다. 아티스트들의 무대는 취향과 문화, 지역 등의 경계가 모호해지고 융합되는 빅블러(Big Blur) 시대를 콘셉트로 꾸며]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘정년이’ 신예은 “영서 만나고 내 안의 장점에 집중”]]></title>
         <id>https://v.daum.net/v/20241125024344492</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241125001500991"/>
         <updated>2024-11-24T17:14:37.796Z</updated>
         <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 지예은의 여권 사진이 공개됐다. 24일 방송된 SBS '런닝맨'에서는 공항 콘셉트의 카페에서 레이스를 시작했다. 이날 방송에서 종서 PD가 기장 역할을 하며 멤버들을 맞이했다. 이에 유재석은 "기장님이 왜 여기 있어? 기장님은 조종석에 계셔야지"라고 의아해했다. 그러자 양세찬은 "파일럿인데 두 탕 뛰는 거야"라고 너스레를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘흑백’ 조서형, 돌싱 이용대와 러브라인 “예전부터 팬”]]></title>
-        <id>https://v.daum.net/v/20241125000652866</id>
-        <link href="https://v.daum.net/v/20241125000652866"/>
-        <updated>2024-11-24T17:14:37.798Z</updated>
-        <content type="html"><![CDATA[‘장사천재 조사장’ 조서형 셰프가 이용대를 향한 팬심을 드러냈다. 24일 방송된 SBS ‘미운 우리 새끼’에서는 돌싱 3인방 김준호X이동건X이용대의 배추 50포기 김장 도전기가 그려졌다. 이날 이동건과 이용대를 집으로 초대한 김준호는 “오늘 김장 50포기를 할 것”이라고 선언하며 ‘흑백요리사’에 출연했던 셰프들을 지원군으로 불렀다. ‘이모카세 1호’]]></content>
     </entry>
 </feed>
