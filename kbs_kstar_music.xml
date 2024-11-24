@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Nov 2024 22:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Nov 2024 23:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["팬과 함께한 30년!"  ‘SMTOWN LIVE 2025’ 서울 콘서트 개최]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=339531</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=339531</guid>
+            <pubDate>Sun, 24 Nov 2024 23:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=339531">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241124154848_8ab92d2671789714993c331656cd5ea1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=339531"> "팬과 함께한 30년!"  ‘SMTOWN LIVE 2025’ 서울 콘서트 개최</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241124154848_8ab92d2671789714993c331656cd5ea1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["Happy~~" 방탄소년단 진, ‘Merry Run Around’ 팬 이벤트 성료]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=339526</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=337525">정효빈, 데뷔 5년 첫 단독 콘서트 ‘The Blossom’ </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241106080559_d09dd63d86959fdf6969fb007cb8d300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["완전체 인피니트", 데뷔 15주년 기념 투어..12월 6일~8일 서울서 화려한 포문]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=337327</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=337327</guid>
-            <pubDate>Mon, 04 Nov 2024 23:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=337327">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241105075145_4cadf661d5bc9c92f3f1e766481e7788.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=337327"> "완전체 인피니트", 데뷔 15주년 기념 투어..12월 6일~8일 서울서 화려한 포문</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241105075145_4cadf661d5bc9c92f3f1e766481e7788.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
