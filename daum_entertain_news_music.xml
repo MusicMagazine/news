@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-11-25T17:16:53.129Z</updated>
+    <updated>2024-11-25T18:24:36.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[드림어스컴퍼니 플로, 다섯 가지 장르로 즐기는 ‘크리스마스 캐럴은 8천만 곡 FLO에서’ 이벤트 실시]]></title>
+        <id>https://v.daum.net/v/20241126023451342</id>
+        <link href="https://v.daum.net/v/20241126023451342"/>
+        <updated>2024-11-25T18:24:08.572Z</updated>
+        <content type="html"><![CDATA[드림어스컴퍼니(대표 김동훈)의 음악 플랫폼 플로(FLO)가 오는 12월 1일까지 색다른 장르의 캐럴을 즐기는 ‘크리스마스 캐럴은 8천만 곡 FLO에서’ 이벤트를 진행한다. ‘크리스마스 캐럴은 8천만 곡 FLO에서’는 다섯 가지 다양한 장르의 캐럴로 구성된 플레이리스트를 듣는 이용자에게 선물을 증정하는 이벤트다. 플로는 8천만 곡 이상의 음원 라이브러리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[29일 ‘관악인디위크’ 개막···3일 동안 4개 무대서 34팀 공연 이어져]]></title>
         <id>https://v.daum.net/v/20241126020855284</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241125211731180"/>
         <updated>2024-11-25T12:32:56.662Z</updated>
         <content type="html"><![CDATA[보컬 김은지, 베이스 이수윤으로 구성된 실력파 인디밴드 406호 프로젝트가 연말 콘서트를 개최한다. 406호 프로젝트의 정기공연 ‘연말정산’이 오는 12월 28일 오후 6시 마포구 클럽온에어에서 개최된다. 올해로 데뷔 10주년을 맞아 열리는 이번 콘서트에서는 매달 1곡을 발표하는 ‘Apartment 프로젝트’를 통해 발매된 신곡, 기존 곡들로 채워진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비비업, Doo Doom Chit 무대 직캠]]></title>
-        <id>https://v.daum.net/v/20241125211250112</id>
-        <link href="https://v.daum.net/v/20241125211250112"/>
-        <updated>2024-11-25T12:32:56.663Z</updated>
-        <content type="html"><![CDATA[[스포츠서울ㅣ윤수경 기자] 신인 걸그룹 VVUP(비비업)이 네티즌 투표에서 압도적 지지로 신인 가수 대상 부문을 차지했다. 25일 오후 서울 용산구 그랜드하얏트호텔에서 ‘제16회 2024 서울 석세스 대상’ 시상식이 열렸다. 이날 문화부문에는 가수 윤하, 비비업, 이펙스, 김소연, 임시현 선수가 각각 대중문화대상, 신인가수 대상, K-POP 대상,]]></content>
     </entry>
 </feed>
