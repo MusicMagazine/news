@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-11-26T19:15:22.711Z</updated>
+    <updated>2024-11-26T20:18:12.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아일릿, 괴물신인 이름값…데뷔 8개월만에 美빌보드 뮤직 어워드 노미네이트]]></title>
+        <id>https://v.daum.net/v/20241127043604033</id>
+        <link href="https://v.daum.net/v/20241127043604033"/>
+        <updated>2024-11-26T20:17:41.097Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]그룹 아일릿이 데뷔 8개월 만에 미국 '빌보드 뮤직 어워드' 수상 후보로 지명됐다. '2024 빌보드 뮤직 어워드'(이하 BBMAs)가 25일(현지시간) 발표한 파이널리스트 명단에 따르면 아일릿 첫 미니앨범 타이틀곡 '마그네틱'이 '톱 글로벌 K팝 송' 부문 수상 후보에 포함됐다. 'BBMAs'는 그래미 어워드, 아메리칸]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍지윤, 29일 'TV조선 슈퍼콘서트' MC 맡는다]]></title>
         <id>https://v.daum.net/v/20241127035603813</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241126234621699"/>
         <updated>2024-11-26T15:17:39.357Z</updated>
         <content type="html"><![CDATA[차은우(사진=판타지오)[이데일리 스타in 윤기백 기자] 가수 겸 배우 차은우가 이승기와 ‘내 여자라니까’로 듀엣을 선보인다. 차은우는 내달 4일 발매되는 이승기의 데뷔 20주년 기념 앨범 ‘위드’(With) 수록곡 ‘내 여자라니까’(With 차은우)에 피처링으로 참여한다. ‘내 여자라니까’는 지난 2004년 발매된 이승기의 데뷔곡이다. 20년 만에 차은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT 위시, 따뜻한 윈터송 '위시풀 윈터' 개봉박두]]></title>
-        <id>https://v.daum.net/v/20241126234508694</id>
-        <link href="https://v.daum.net/v/20241126234508694"/>
-        <updated>2024-11-26T15:17:39.357Z</updated>
-        <content type="html"><![CDATA[NCT 위시(사진=SM엔터테인먼트)[이데일리 스타in 윤기백 기자] 그룹 NCT 위시의 일본 첫 정규앨범이 베일을 벗는다. NCT 위시 일본 첫 정규앨범 ‘위시풀’(WISHFUL)은 27일 0시 각종 글로벌 음악 플랫폼에서 전곡 음원 공개된다. 타이틀곡 ‘위시풀 윈터’(Wishful Winter) 뮤직비디오도 유튜브 SMTOWN 채널 등에서 동시에 오픈된]]></content>
     </entry>
 </feed>
