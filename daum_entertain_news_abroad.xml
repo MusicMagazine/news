@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-11-27T02:59:23.372Z</updated>
+    <updated>2024-11-27T03:35:14.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디카프리오, '26살' 여친과 약혼 안했다...새 인연 기다리나]]></title>
+        <id>https://v.daum.net/v/20241127122343147</id>
+        <link href="https://v.daum.net/v/20241127122343147"/>
+        <updated>2024-11-27T03:34:55.398Z</updated>
+        <content type="html"><![CDATA[[TV리포트=박혜리 기자] 할리우드 배우 레오나르도 디카프리오(50)가 모델 여자친구 비토리아 세레티(26)와의 약혼 의혹을 부인했다. 26일(현지 시간), 외신 매체 '페이지 식스'(Page Six)는 레오나르도 디카프리오가 비토리아 세레티와의 약혼설을 일축했다고 보도했다. 한 소식통은 "(레오나르도 디카프리오의) 약혼 소문은 루머에 불과하다"라며 매달]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['어도어와 갈등' 뉴진스 민지, 정우 보면서 힐링]]></title>
         <id>https://v.daum.net/v/20241127103500189</id>
@@ -74,12 +81,5 @@
         <link href="https://v.daum.net/v/20241126144447214"/>
         <updated>2024-11-26T07:16:27.347Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘팝의 제왕’ 엘튼 존(77)이 오른쪽 눈의 시력을 잃었다고 밝혔다. 그는 25일(현지시간) ‘굿모닝 아메리카’와 인터뷰에서 “불행히도 지난 7월에 프랑스 남부에서 감염되어 오른쪽 눈을 실명했다”고 말했다. 이어 “앞을 볼 수 없게 된 지 4개월이 지났다. 왼쪽 눈도 좋지 않다. 아무것도 하지 못한 지 오래됐다. 이제 그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[77세 엘튼 존, 건강 심각..."실명한 채 아무것도 못하고 있다"]]></title>
-        <id>https://v.daum.net/v/20241126123144760</id>
-        <link href="https://v.daum.net/v/20241126123144760"/>
-        <updated>2024-11-26T04:19:23.207Z</updated>
-        <content type="html"><![CDATA[[TV리포트=박혜리 기자] 가수 엘튼 존(77)이 시력을 회복하지 못하고 있는 가운데, 복귀 가능성이 낮아 보여 팬들이 슬퍼하고 있다. 26일(현지 시간), 외신 매체 'BBC'는 엘튼 존의 시력이 돌아오지 않아 앨범을 보류 중이라고 보도했다. 엘튼 존은 지난 7월부터 심각한 안구 감염으로 한쪽 눈의 시력이 망가진 상태다. 이는 엘튼 존이 지난해 프랑스]]></content>
     </entry>
 </feed>
