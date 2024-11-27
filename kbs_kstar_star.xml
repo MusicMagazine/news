@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Nov 2024 20:20:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Nov 2024 21:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정혜성, 코믹 액션 <내 친구는 살인범>으로 스크린 컴백]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=339611</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=339611</guid>
+            <pubDate>Wed, 27 Nov 2024 21:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=339611">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241125080647_d3a3283da1289545858ebb6983d8c204.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=339611"> 정혜성, 코믹 액션 &lt;내 친구는 살인범&gt;으로 스크린 컴백</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241125080647_d3a3283da1289545858ebb6983d8c204.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 ‘알라딘’, 한국 초연  마법 같은 무대가 펼쳐진다]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=339917</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=337993">고윤정의 열정, 엘르 디 에디션 커버 장식</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241111100305_2e22db65a1987fe5aab11e595b80a28e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오엔터  '남장 비서', 한일 공동 숏폼 드라마 제작]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=337368</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=337368</guid>
-            <pubDate>Tue, 05 Nov 2024 01:06:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=337368">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241105083613_4c03691415b4760f9b1848fbf4fc33f3.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=337368">카카오엔터  '남장 비서', 한일 공동 숏폼 드라마 제작</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241105083613_4c03691415b4760f9b1848fbf4fc33f3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
