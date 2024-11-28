@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Nov 2024 01:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Nov 2024 02:59:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241107075626_f95be92bd4e7cd5f16125b6b821ba94e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["겨울에 만나는 베르테르와 롯데"... 뮤지컬 <베르테르> (KBS연예 ─ 연예)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=340293</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=340293</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=340293">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241128104710_1340fc168b5c27286107d12ab8a7cac4.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=340293">"겨울에 만나는 베르테르와 롯데"... 뮤지컬 &lt;베르테르&gt;</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241128104710_1340fc168b5c27286107d12ab8a7cac4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SLL, FAST 플랫폼 LG채널에 ‘옥씨부인전’ AVOD 서비스 (KBS연예 ─ 연예)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=340277</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=340277</guid>
@@ -671,21 +688,12 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241114182908_3ad6c18530aca71d1fadf0a67e9214a3.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA['이토록 차분한 프로파일러' 노재원,  나른하고 해사한 매력 (KBS연예 ─ 연예)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=338654</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=338654</guid>
-            <pubDate>Fri, 15 Nov 2024 01:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=338654">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241115084148_904be7bbdbde351bd431382ff7551531.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=338654">'이토록 차분한 프로파일러' 노재원,  나른하고 해사한 매력</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241115084148_904be7bbdbde351bd431382ff7551531.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['HOP' 스키즈 필릭스, 아련한 눈빛에 '숨멎'…비현실적인 비주얼 (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/438857</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/438857</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/438857">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/11/28/f7d2022d-7712-4461-989e-5feb9f649fb7.jpg" alt="'HOP' 스키즈 필릭스, 아련한 눈빛에 '숨멎'…비현실적인 비주얼">        <div class="text-box">            <p class="summary">'HOP' 스키즈 필릭스, 아련한 눈빛에 '숨멎'…비현실적인 비주얼</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/11/28/f7d2022d-7712-4461-989e-5feb9f649fb7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[산다라박 "소개팅 NO, 가만히 있어도 연락 와" 고백 [소셜in] (MBC 연예 ─ 아이돌)]]></title>
@@ -768,222 +776,228 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/11/27/1bfc2559-ee4c-45e3-b360-edadf395f8be.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[포토] 제이비, 하트는 볼하트 (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/438755</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/438755</guid>
-            <pubDate>Wed, 27 Nov 2024 10:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/438755">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/11/27/3471992c-c758-47f9-aa95-71d2bb60b8fd.jpg" alt="[포토] 제이비, 하트는 볼하트">        <div class="text-box">            <p class="summary">[포토] 제이비, 하트는 볼하트</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/11/27/3471992c-c758-47f9-aa95-71d2bb60b8fd.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[어도어 ‘신뢰’에 하니 ‘무표정’··· ‘결단 D-day’ 뉴진스 입에 시선집중 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20241128115015801</link>
+            <guid>https://v.daum.net/v/20241128115015801</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:33 GMT</pubDate>
+            <content:encoded><![CDATA[떠나느냐, 남느냐. 뉴진스의 결정에 시선이 모인다. 그룹 뉴진스가 지난 13일 소속사 어도어에 내용증명을 보내 시정을 요구했던 기한이 지났다. 계약해지를 걸고 민희진 어도어 전 대표 복귀를 비롯해 전속계약의 중대한 위반 사항을 시정하라고 요청했던 만큼, 뉴진스가 어떤 행보를 택할지 이목이 쏠린다. 뉴진스는 내용증명을 통해 최근 대중에 공개된 하이브의]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이즈나, 데뷔와 동시에 日 차트 존재감…글로벌 눈도장 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20241128101144957</link>
-            <guid>https://v.daum.net/v/20241128101144957</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 강다윤 기자] 그룹 이즈나(izna)가 일본 주요 차트에서 두각을 드러냈다. 이즈나(마이, 방지민, 윤지윤, 코코, 유사랑, 최정은, 정세비)의 첫 번째 미니앨범 'N/a'는 지난 27일 일본 아이튠즈 케이팝 톱 앨범 랭킹과 일본 애플뮤직 케이팝 앨범 랭킹에서 정상을 차지했다. 이즈나는 지난 25일 데뷔 앨범 'N/a' 발매 직후 전 세]]></content:encoded>
+            <title><![CDATA[서현X옥택연, '남주의 첫날밤을 가져버렸다'…KBS 편성 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20241128114859748</link>
+            <guid>https://v.daum.net/v/20241128114859748</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:33 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 김민지 기자 = '남주의 첫날밤을 가져버렸다'가 설레는 청춘 라인업으로 시청자들을 찾아간다. KBS 2TV 새 드라마 '남주의 첫날밤을 가져버렸다'(극본 전선영/연출 이웅희)는 평범한 여대생의 영혼이 깃든 로맨스 소설 속 병풍 단역이 소설 최강 집착남주와 하룻밤을 보내며 펼쳐지는 ‘노브레이크’ 경로 이탈 로맨스 판타지다. 먼저 서현은 소]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[양다일, 오늘 정규 3집 발매…과감한 시도 담았다 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20241128100955881</link>
-            <guid>https://v.daum.net/v/20241128100955881</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 조혜진 기자) 가수 양다일이 세 번째 정규앨범 'My insecure(마이 인스큐어)'를 발매한다. 28일 발매되는 양다일의 새 앨범 'My insecure'는 지난 2021년에 발매된 'our joys and sadnesses(아워 조이스 앤드 새드니스)' 이후 약 4년 만에 발매되는 정규 앨범으로, 그동안 양다일이 선보였던 음악과는 다른]]></content:encoded>
+            <title><![CDATA[몬스타엑스 아이엠, 앙코르 콘서트로 새해 연다‥내년 1월 개최 확정 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20241128114802712</link>
+            <guid>https://v.daum.net/v/20241128114802712</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:33 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 그룹 몬스타엑스 아이엠(I.M)이 앙코르 콘서트로 새해를 연다. 소속사 소니뮤직엔터테인먼트코리아에 따르면 아이엠은 내년 1월 17일부터 19일까지 3일간 서울 송파구 올림픽공원 핸드볼경기장에서 ‘I.M WORLD TOUR 〈Off The Beat〉 FINAL IN SEOUL(아이엠 월드투어  파이널 인 서울)’(이하 ‘Off The]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[규현, '컬러스'로 국내외 앨범차트 1위…나영석 PD도 호평 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20241128100944870</link>
-            <guid>https://v.daum.net/v/20241128100944870</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 김민지 기자 = 가수 규현의 다채로운 음악 컬렉션이 글로벌 팬들의 취향을 저격했다. 규현의 정규 앨범 '컬러스'(COLORS)는 지난 27일 발매 직후 홍콩, 말레이시아, 멕시코, 파라과이, 싱가포르, 대만 1위를 비롯해 전 세계 12개 지역 아이튠즈 '톱 앨범' 차트 TOP10에 진입했다. 또한 '컬러스'는 28일 기준 음반 집계 사이]]></content:encoded>
+            <title><![CDATA[트와이스, LA 팝업스토어 대박 났다…월드와이드 컴백 프로모션 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20241128114659660</link>
+            <guid>https://v.daum.net/v/20241128114659660</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:33 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 그룹 트와이스가 컴백을 앞두고 월드와이드 프로모션을 이어가고 있다. 트와이스는 12월 6일 미니 14집 'STRATEGY'(스트래티지)와 타이틀곡 'Strategy (feat. Megan Thee Stallion)'(피처링 메간 디 스텔리온)을 발매하고 컴백한다. 소속사 JYP엔터테인먼트는 11월 18일 타이틀곡의 일부 음원을 선]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[투어스가 직접 그렸다..손글씨·그림 담긴 이모티콘 출시 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20241128100746771</link>
-            <guid>https://v.daum.net/v/20241128100746771</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 | 이승훈 기자] /사진=플레디스엔터테인먼트 보이 그룹 TWS(투어스)가 직접 제작에 참여한 이모티콘이 나온다. 소속사 플레디스 엔터테인먼트는 "TWS(신유, 도훈, 영재, 한진, 지훈, 경민)의 실사 기반 카카오 이모티콘이 28일 오전 10시 30분 출시된다. 첫 번째 싱글 'Last Bell' 컴백을 맞아 42(팬덤명) 분들에게 즐거움을 드]]></content:encoded>
+            <title><![CDATA[갓세븐 제이비, 솔로 정규 1집 아이튠즈 11개국 톱앨범 1위 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20241128113521172</link>
+            <guid>https://v.daum.net/v/20241128113521172</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:33 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 그룹 갓세븐 제이비(JAY B)가 성공적인 솔로 컴백을 알렸다. 28일 음원 스트리밍 플랫폼 아이튠즈에 따르면, 제이비가 지난 27일 발매한 첫 번째 솔로 정규앨범 '아카이브 원: [로드 러너]'(Archive 1: [Road Runner])는 브라질·칠레·도미니카공화국·에콰도르·피지·잠비아·벨리즈·페루·필리핀·스웨덴·태]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[규현 ‘컬러스’, 국내외 앨범 차트 1위 직행 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20241128100648711</link>
-            <guid>https://v.daum.net/v/20241128100648711</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] [사진제공=안테나] 가수 규현의 정규 앨범 ‘COLORS(컬러스)’가 국내외 앨범 차트 1위를 차지했다. 앨범은 지난 27일 발매 직후 홍콩, 말레이시아, 멕시코, 파라과이, 싱가포르, 대만 1위를 비롯해 전 세계 12개 지역 아이튠즈 ‘톱 앨범’ 차트 TOP10에 진입했다. 또 28일 기준 음반 집계 사이트 한터차트 실시간 피지컬 음반 차]]></content:encoded>
+            <title><![CDATA['연예계 대표 대식가' 데이식스 영케이, 'BYOB' 출격..매운맛 토크 예고 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20241128112757804</link>
+            <guid>https://v.daum.net/v/20241128112757804</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:33 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 이승훈 기자] /사진=JohnMaat 보이 밴드 데이식스(DAY6) 멤버 영케이가 글로벌 K-푸드 토크쇼 'BYOB'를 찾는다. 유튜브 채널 'JohnMaat'은 29일 오전 10시 영케이가 게스트로 출연하는 'BYOB'의 아홉 번째 에피소드를 공개한다. 이날 영케이는 데이식스의 '역주행 신화' 소감을 비롯해 연예계 소문난 대식가로서의 일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[데뷔 이즈나 글로벌 눈도장, 日아이튠즈→애플뮤직 K팝 앨범 랭킹 정상 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20241128100459646</link>
-            <guid>https://v.daum.net/v/20241128100459646</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 하지원 기자] 그룹 izna(이즈나)가 일본 주요 차트에서 두각을 드러냈다. izna(마이, 방지민, 윤지윤, 코코, 유사랑, 최정은, 정세비)의 첫 번째 미니앨범 ‘N/a’는 11월 27일 일본 아이튠즈 케이팝 톱 앨범 랭킹과 일본 애플뮤직 케이팝 앨범 랭킹에서 정상을 차지하며 글로벌 인기를 증명했다. izna는 지난 25일 데뷔 앨범 'N/a]]></content:encoded>
+            <title><![CDATA[뉴진스 하니, 어도어 입장문 불편했나...‘의미심장’ 무표정 이모티콘 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20241128112701757</link>
+            <guid>https://v.daum.net/v/20241128112701757</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:33 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 뉴진스 하니가 내용증명과 관련한 어도어의 입장 발표 후, 상태 메시지를 무표정 이모티콘으로 변경했다. 하니는 지난 27일 팬 소통 플랫폼 포닝의 상태 메시지를 “눈이 와~”에서 무표정 이모티콘으로 변경했다. 하니가 상태 메시지를 바꾼 시점은 어도어가 뉴진스의 전속계약 위반사항 시정 요구사항에 대해 입장을 밝힌 이후라 눈길을 끈다. 앞서 이날 어도어는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[엔하이픈, 日 오리콘·빌보드 재팬 1위 석권...뜨거운 인기 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20241128100341577</link>
-            <guid>https://v.daum.net/v/20241128100341577</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 엔하이픈(ENHYPEN)이 일본 주요 앨범 차트 정상을 석권하며 뜨거운 현지 인기를 다시 한번 입증했다. 28일 일본 오리콘이 발표한 최신 차트(12월 2일 자/집계기간 11월 18~24일)에 따르면 엔하이픈(정원, 희승, 제이, 제이크, 성훈, 선우, 니키)의 정규 2집 리패키지 ‘로맨스 : 언톨드 -데이드림-(ROMANCE : UNTOLD -day]]></content:encoded>
+            <title><![CDATA[S.E.S. 바다, 후배들 그렇게 챙기더니…'환희→아이키' 연말 콘서트 황금 라인업 완성 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20241128112320598</link>
+            <guid>https://v.daum.net/v/20241128112320598</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:33 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자] 가수 바다의 연말 콘서트에 SM엔터테인먼트 출신 멤버들이 뭉쳐 우정을 다진다. 바다는 오는 12월 7~8일 양일간 서울 강북구 미아동 성신여자대학교 운정그린캠퍼스에서 '2024 바다 콘서트 The Ocean-I'M YOUR HOME'이라는 타이틀로 콘서트를 연다. 가수로 활동하면서 선후배간의 사랑이 남달랐던 바다는 특히 SM엔터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[갓세븐 제이비, 아이튠즈 11개국 톱 앨범 1위 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20241128100247513</link>
-            <guid>https://v.daum.net/v/20241128100247513</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] [사진 = 모브컴퍼니, 더메르센 제공]그룹 갓세븐 제이비(JAY B)가 성공적인 컴백을 알렸다. 28일 글로벌 음원 스트리밍 플랫폼 아이튠즈에 따르면, 제이비(JAY B)가 전날(27일) 발매한 첫 번째 솔로 정규앨범 ‘Archive 1: [Road Runner]’(아카이브 원: [로드 러너])는 브라질·칠레·도미니카공화국·에콰도르·피지·잠비]]></content:encoded>
+            <title><![CDATA[빅원, 신곡 28일 발표…미련 담은 직설 가사 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20241128112054464</link>
+            <guid>https://v.daum.net/v/20241128112054464</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:33 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 황미현 기자 = 뮤지션 빅원(BIGONE)이 현 소속사에서 마지막 신곡을 선보인다. 빅원은 28일 오후 6시 각종 음원사이트를 통해 새 싱글 '인썸니아'(Insomnia)를 발매한다. 이는 지난 5월 백호와 함께 발매한 싱글 '러브 오어 다이'(Love or Die) 이후 약 6개월 만의 신보이자 현 소속사인 더 다이얼 뮤직(THE DI]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[클라우디안, 12월 3일 새 싱글 발매…"우리만으 매력 보여줄 터" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20241128100141431</link>
-            <guid>https://v.daum.net/v/20241128100141431</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자]밴드 클라우디안이 새 음반으로 돌아온다. 28일 소속사 크롬엔터테인먼트는 "밴드 클라우디안이 오는 12월 3일 정오 새 디지털 싱글을 발매한다. 새 싱글에서는 클라우디안 특유의 다채로운 악기가 모여 만들어내는 화려한 하모니와 독보적인 에너지를 만나볼 수 있다. 많은 기대를 부탁드린다"고 밝혔다. 클라우디안은 보컬 브라이튼,]]></content:encoded>
+            <title><![CDATA[TWS, 오늘 직접 제작 참여한 이모티콘 출시..판매 수익금 기부 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20241128112049457</link>
+            <guid>https://v.daum.net/v/20241128112049457</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:33 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=지민경 기자]&nbsp;‘2024년 최고 신인’ TWS(투어스)가 직접 제작에 참여한 이모티콘이 나온다. 소속사 플레디스 엔터테인먼트는 “TWS(신유, 도훈, 영재, 한진, 지훈, 경민)의 실사 기반 카카오 이모티콘이 오늘(28일) 오전 10시 30분 출시된다. 첫 번째 싱글 ‘Last Bell’ 컴백을 맞아 42(팬덤명) 분들에게 즐거움을 드리고자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[규현, 첫 정규 'COLORS' 국내외 앨범 차트 1위..나 PD도 반했다 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20241128100119417</link>
-            <guid>https://v.daum.net/v/20241128100119417</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=지민경 기자]&nbsp;가수 규현의 다채로운 음악 컬렉션이 글로벌 팬들의 취향을 저격했다. 규현의 정규 앨범 'COLORS(컬러스)'는 지난 27일 발매 직후 홍콩, 말레이시아, 멕시코, 파라과이, 싱가포르, 대만 1위를 비롯해 전 세계 12개 지역 아이튠즈 '톱 앨범' 차트 TOP10에 진입했다. 또한, 'COLORS'는 28일 기준 음반 집계 사이]]></content:encoded>
+            <title><![CDATA[은가은, 결혼 앞두고 전속계약 분쟁?… 소속사 "소장 아직 못받아" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20241128112031439</link>
+            <guid>https://v.daum.net/v/20241128112031439</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:33 GMT</pubDate>
+            <content:encoded><![CDATA[은가은(사진=티에스엠엔터테인먼트)[이데일리 스타in 윤기백 기자] 트롯 가수 은가은이 소속사 티에스엠엔터테인먼트에 전속계약 해지를 통보했다는 보도가 나온 가운데, 소속사 측은 “아직 소장을 받지 못했다”고 입장을 밝혔다. 티에스엠엔터테인먼트 관계자는 28일 이데일리에 “전속계약 해지와 관련된 소장이나 내용증명 등을 받은 게 없다”며 “확인 후 입장을 밝히]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["잘해도 본전"..지드래곤, 빅뱅 완전체 무대에 힘 쏟은 이유 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20241128100025351</link>
-            <guid>https://v.daum.net/v/20241128100025351</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=선미경 기자] 가수&nbsp;지드래곤(G-DRAGON)이 태양,&nbsp;대성과 함께한 신곡&nbsp;‘HOME SWEET HOME(홈 스윗 홈)’&nbsp;비하인드 영상을 공개해&nbsp;VIP를 감동시켰다. 지난&nbsp;27일 오후&nbsp;지드래곤의 공식 유튜브 채널에는 태양,&nbsp;대성과 함께 작업한&nbsp;‘HOME SWEET HOME’&nbsp;비하인드 영상&nbsp;1편이 게재됐다.&nbsp;공개된 영상에는&nbsp;‘HOME SWEET]]></content:encoded>
+            <title><![CDATA[이즈나, 데뷔 동시에 日 차트까지 접수 '글로벌 눈도장' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20241128111841338</link>
+            <guid>https://v.daum.net/v/20241128111841338</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:33 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 명희숙 기자) 그룹 izna(이즈나)가 일본 주요 차트에서 두각을 드러냈다. izna(마이, 방지민, 윤지윤, 코코, 유사랑, 최정은, 정세비)의 첫 번째 미니앨범 ‘N/a’는 지난 27일 일본 아이튠즈 케이팝 톱 앨범 랭킹과 일본 애플뮤직 케이팝 앨범 랭킹에서 정상을 차지하며 글로벌 인기를 증명했다. izna는 지난 25일 데뷔 앨범 'N/]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['12월 9일 컴백' 세븐어스의 '채널 고정'…도회적인 슈트→소년미까지 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20241128095956300</link>
-            <guid>https://v.daum.net/v/20241128095956300</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 강다윤 기자] 그룹 세븐어스(SEVENUS)가 겨울 감성 물씬한 비주얼로 컴백 기대감을 고조시켰다. 세븐어스(희재, 이레)는 27일 두 번째 미니앨범 '스테이 튠드(STAY TUNED)'의 콜러(Caller)와 리스폰더(Responder) 버전 개인 콘셉트 포토를 공개했다. 먼저 세븐어스의 도회적이면서 몽환적인 분위기가 콜러(Caller]]></content:encoded>
+            <title><![CDATA[‘헤어질 결심’ 뉴진스…어도어 답변에 수긍할까? (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20241128111655228</link>
+            <guid>https://v.daum.net/v/20241128111655228</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:33 GMT</pubDate>
+            <content:encoded><![CDATA[걸그룹 뉴진스가 “민희진을 대표로 복귀시키라”는 등의 요구 사항을 담은 내용증명을 소속사 어도어에 보낸 것에 대한 답변 만료 시안이 도래하면서 양측의 향후 행보에 관심이 쏠리고 있다. 민희진 어도어 전 대표 측이 이번 사태가 발생하기 전 자체적으로 추정한 위약금이 최대한 6000억 원에 이르기 때문에 K-팝 사상 최대 규모의 법적 분쟁이 벌어질 가능성]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[데이브레이크, 30일 '2024 진주국제재즈페스티벌' 출연 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20241128095943281</link>
-            <guid>https://v.daum.net/v/20241128095943281</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자]데이브레이크가 글로컬 음악축제에 참여한다. 데이브레이크(이원석, 김선일, 김장원, 정유종)는 오는 30일 경남 진주시 경남문화예술회관 대공연장에서 개최되는 '2024 진주국제재즈페스티벌'에 출연한다. '진주국제재즈페스티벌'은 2018년 시작해 올해로 7회를 맞은 페스티벌로, 재즈뿐만 아니라 다양한 장르의 국내외 실력파 아티]]></content:encoded>
+            <title><![CDATA[레드벨벳 아이린, '초근접 샷' 굴욕 無…도심 속 활짝 핀 'Like A Flower' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20241128111528164</link>
+            <guid>https://v.daum.net/v/20241128111528164</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:33 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠한국 이유민 기자] 솔로로 나선 그룹 레드벨벳의 아이린이 예술 감성 넘치는 도심 한복판을 배경으로 그만의 독보적인 단독 퍼포먼스를 완성했다. 아이린이 28일&nbsp;카카오엔터테인먼트의 글로벌&nbsp;K팝 대표 미디어&nbsp;1theK(원더케이)의 오리지널 콘텐츠&nbsp;'온더스팟(On the Spot)'에 출연해&nbsp;자신만의 느낌을 한껏 담아 서정적이면서 감성 넘치는 비주]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[트와이스만의 따스한 겨울…신보 수록곡 '매지컬' 일부 공개 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20241128095855243</link>
-            <guid>https://v.daum.net/v/20241128095855243</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 그룹 트와이스가 새 앨범 수록곡 '매지컬'(Magical) 일부 음원을 선공개했다. 소속사 JYP엔터테인먼트는 지난 18일 타이틀곡의 일부 음원을 선공개한 데 이어 28일 0시 트와이스 공식 인스타그램 채널에 수록곡 '매지컬' 하이라이트 음원 영상을 오픈했다. 트와이스는 오는 12월 6일 미니 14집 '스트래티지'(STR]]></content:encoded>
+            <title><![CDATA[SF9, 日 네 번째 제프투어 요코하마→오사카 성료 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://v.daum.net/v/20241128111350070</link>
+            <guid>https://v.daum.net/v/20241128111350070</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:33 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 SF9(에스에프나인)이 일본 제프 투어를 성공적으로 마무리했다. SF9은 지난 11월 26일 요코하마와 27일 오사카에서 ‘SF9 2024 ZEPP LIVE IN JAPAN ~D.W.B.H~’를 각각 2회씩 개최했다. SF9의 제프 투어는 네 번째다. 소속사 측은 "올해 상반기 제프 투어에서 공연 회차를 추가하며 남다른 인기를 입증했던 것]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[양다일, 뚜렷한 정체성과 과감한 시도로 3집 완성 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://v.daum.net/v/20241128095853242</link>
-            <guid>https://v.daum.net/v/20241128095853242</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[28일 정규 3집 'My insecure' 발매 [더팩트 | 정병근 기자] 가수 양다일이 자신의 정체성 위에 새로운 시도들을 얹어 다채로운 정규 앨범을 완성했다. 양다일이 28일 오후 6시 3번째 정규 앨범 'My insecure(마이 인시큐어)'를 발매한다. 지난 2021년에 발매한 'our joys and sadnesses(아워 조이스 앤드 새드니]]></content:encoded>
+            <title><![CDATA[47초 만에 문제 푼 장동민, 돈 모두 불태운 이유 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20241128115702062</link>
+            <guid>https://v.daum.net/v/20241128115702062</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:38 GMT</pubDate>
+            <content:encoded><![CDATA[[김종성 기자] 장동민도 있고, 홍진호도 있고, 김경란도 있다. 한층 더 거대해진 스케일이 시선을 사로잡고, 세계관은 대폭 확장되어 손에 땀을 쥐게 한다. 생존·갈등·정치·배신·대결·음모 등 서바이벌의 모든 것이 담겼다. 웨이브 오리지널 &lt; 피의 게임 3 &gt;이 돌아왔다. 공개 첫날(15일), 웨이브 역대 일일 신규 유료 가입 견인 1위를 기록하며 화려한 복]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['배우' 고현정은 됐지만, '엄마' 고현정은 못했다…35년 만에 전한 진심 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20241128101223003</link>
-            <guid>https://v.daum.net/v/20241128101223003</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선닷컴 이지현 기자] 배우 고현정의 격조 있는 솔직함이 돋보였다. 고현정이 15년 만에 토크쇼로 시청자들을 찾아왔다. 지난 27일 방송된 tvN '유 퀴즈 온 더 블럭'에 출연한 것. 이미 출연이 예고됐을 때부터 기대와 관심을 한몸에 받았던 고현정은 긴장한 모습으로 등장, 수줍음 가득한 모습으로 이목을 집중시켰다. 특히 단아하고 품격]]></content:encoded>
+            <title><![CDATA['소방관' 주원 "화재 현장 정말 리얼해, 뜨겁고 걱정 앞서" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20241128115653050</link>
+            <guid>https://v.daum.net/v/20241128115653050</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:38 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 임시령 기자] '소방관' 주원이 화재 현장 촬영을 회상했다. 28일 서울 삼청동 한 카페에서 영화 '소방관'(감독 곽경택·제작 에스크로드픽쳐스) 주연 주원의 인터뷰가 진행됐다. '소방관'은 2001년 홍제동 화재 참사 사건 당시 열악한 환경 속에서도 화재 진압과 전원 구조라는 단 하나의 목표를 가지고 투입된 소방관들의 상황을 그린 휴먼 드라]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[하면 된다, '골때녀' 김희정 1120일만에 데뷔골 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20241128101205987</link>
-            <guid>https://v.daum.net/v/20241128101205987</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[[김상화 칼럼니스트] ▲ &nbsp;SBS '골 때리는 그녀들'ⓒ SBSFC 원더우먼이 김설희의 해트트릭을 앞세우고 FC 불나비를 완파, 승강 플레이오프 진출에 성공했다. 지난 27일 방영된 SBS &lt;골 때리는 그녀들&gt;(아래 &lt;골때녀&gt;) 제5회 슈퍼리그 5-6위 결정전에서 원더우먼은 해트트릭 포함 무려 4점을 자신의 발로 해결한 김설희와 무려 1120일만에 데뷔골을]]></content:encoded>
+            <title><![CDATA["이렇게 슬플 줄은"…고현정, 자녀 언급하며 눈물 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20241128115644039</link>
+            <guid>https://v.daum.net/v/20241128115644039</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:38 GMT</pubDate>
+            <content:encoded><![CDATA[[한국경제TV 김현경 기자] 배우 고현정이 예능 프로그램에 출연해 전 남편인 정용진 신세계그룹 회장 사이에서 낳은 자녀들을 언급했다. 고현정은 지난 27일 방송된 tvN 예능 프로그램 '유 퀴즈 온 더 블럭'에서 "제가 애들은 보고 사는지 궁금해하는 분들이 많다"며 자녀들에 대한 이야기를 꺼냈다. 그는 "엄마라는 사람은 그냥 편해야 하는데, 그건 제게 언]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“연말도 럭키비키잖아”  아이브 장원영, ‘AAA’ 4년 연속 MC 발탁 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20241128101203982</link>
-            <guid>https://v.daum.net/v/20241128101203982</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[아이브 장원영이 4년 연속 ‘아시아 아티스트 어워즈’(AAA)의 MC로 활약한다. 스타쉽엔터테인먼트에 따르면 장원영은 오는 12월 27일 태국 방콕 임팩트 챌린저 홀 1-2(IMPACT Challenger Hall 1-2)에서 열리는 ‘제9회 아시아 아티스트 어워즈’(The 9th Asia Artist Awards)의 진행을 맡는다. 이로써 ‘AAA 2]]></content:encoded>
+            <title><![CDATA[정우성·문가비 혼외자 논란, 사회적 논의로 이어지나 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20241128115521004</link>
+            <guid>https://v.daum.net/v/20241128115521004</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:38 GMT</pubDate>
+            <content:encoded><![CDATA[배우 정우성의 혼외자 논란에 대한 여론이 엇갈렸다. 그를 비판하는 의견이 많았지만 옹호 주장 또한 이어지며 정우성이 던진 ‘혼외자 이슈’는 사회적 갈등으로 대두될 전망이다. 이선옥 작가는 26일 자신의 페이스북에 “성인인 여자가 스스로 아이를 낳기로 선택하고 낳은 것이지 남자가 미혼모를 만든 것인가”라며 “35세 여성이 세뇌당한 미성년자도 아니고 누가]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[정우성 子 낳은 문가비, 출판 리얼리티쇼 섭외 전쟁 불붙었다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20241128101153968</link>
-            <guid>https://v.daum.net/v/20241128101153968</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 김범석 기자] 정우성(51)의 친자를 낳은 모델 문가비(35)를 향한 업계 구애가 뜨겁다. 대한민국을 들썩이게 한 대형 이슈인 만큼 화제성을 선점하려는 움직임이 여럿 감지된다. 가장 먼저 반응을 보이는 곳은 출판업계. 장기 불황으로 신음하던 출판계는 지난 10월 10일 한강 작가의 노벨문학상 수상으로 반짝 대목을 맞은 상황. 이들이 문가비라는 초]]></content:encoded>
+            <title><![CDATA[박서진, 병역 면제 판정받았다…우울증·불면증 등 때문 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20241128115510998</link>
+            <guid>https://v.daum.net/v/20241128115510998</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:38 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=류예지 기자]트로트 가수 박서진이 병역의 의무를 다하지 못하게 됐다. 28일 텐아시아 취재 결과, 1995년생인 박서진은 가정사로 인한 정신질환 병역 면제 판정을 받았다. 해당 판정은 이미 오래전인 20대 초반 받은 것으로 알려졌다. 박서진에겐 작은 형의 49재 당일, 간암 투병을 하던 큰 형이 간 이식 부작용으로 세상을 떠난 아픈 기억이 있]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[믿보 진행력 아이브 장원영 4년 연속 ‘AAA’ 무대 이끈다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20241128101149965</link>
-            <guid>https://v.daum.net/v/20241128101149965</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 하지원 기자] 'MZ 워너비 아이콘' 아이브(IVE)의 장원영이 4년 연속 '아시아 아티스트 어워즈'(AAA)의 MC로 활약한다. 11월 28일 소속사 스타쉽엔터테인먼트에 따르면, 장원영은 오는 12월 27일 태국 방콕 임팩트 챌린저 홀 1-2(IMPACT Challenger Hall 1-2)에서 열리는 '제9회 아시아 아티스트 어워즈'(The]]></content:encoded>
+            <title><![CDATA['페이스미' 이민기, 숨멎 연기력으로 극강의 긴장감 선사 '혼란' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20241128115307890</link>
+            <guid>https://v.daum.net/v/20241128115307890</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:38 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 백지연 기자] '페이스미' 이민기의 폭풍 같은 열연이 안방극장을 또 한번 휩쓸었다. 지난 27일 방송된 KBS2TV드라마 '페이스미' 7화에서는 차정우(이민기 분)가 범죄 피해자 남효주를 살리기 위해 고군분투하는 모습부터 7년 전 발생한 여자친구 윤혜진의 사망 사건 전모를 파헤치는 내용이 방송됐다. 먼저, 이민기는 극 초반부터 촌각을 다투는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[산다라박, 가만히 있어도 연락 와... 연락처는 씨엘한테 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20241128101102928</link>
-            <guid>https://v.daum.net/v/20241128101102928</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 투애니원(2NE1) 멤버 산다라박과 배우 겸 방송인 박소현이 ‘나래식’에 출격해 거침없는 입담을 마음껏 뽐냈다. 27일 저녁 박나래의 유튜브 채널 ‘나래식’에는 ‘2NE1 콘서트 뒤풀이, 과식, 소개팅썰, 이기자부대’라는 제목으로 산다라박, 박소현이 함께한 11회 영상이 게재됐다. 박소현은 현재 tvN STORY 맞선 프로젝트 ‘이젠 사랑할 수 있]]></content:encoded>
+            <title><![CDATA[박명수 “하하 라디오 노잼? 6개월만 지켜봐달라” 호소 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20241128115256877</link>
+            <guid>https://v.daum.net/v/20241128115256877</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:38 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이해정 기자] '라디오쇼' 박명수가 새내기 DJ 하하를 응원했다. 11월 28일 방송된 KBS 쿨FM '박명수의 라디오쇼'에서는 박명수가 청취자들의 고민을 해결하는 코너가 펼쳐졌다. 한 청취자는 "하하 라디오 들었는데 아직 재밌는지 모르겠더. 더 들을지 고민"이라고 문자를 보냈다. 박명수는 "객관적으로 친한 걸 떠나서 이제 일주일도 안 됐는데]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['하입보이 누나' 뉴진스 민지, 은우+정우 형제와 '껌딱지 케미' 발산 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20241128101008886</link>
-            <guid>https://v.daum.net/v/20241128101008886</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠한국 이유민 기자] '슈퍼맨이 돌아왔다'에 뉴진스 민지가 특별 게스트로 등장해&nbsp;따뜻하고 사랑스러운 순간들을 선사했다. 27일 방송된&nbsp;KBS2 예능 프로그램 '슈퍼맨이 돌아왔다(이하 '슈돌')'에는&nbsp;민지가 김준호 아들&nbsp;은우, 정우와 만나 보여준 놀라운 케미가 시청자들의 시선을 사로잡았다. 정우는 민지를 "누나"라고 부르며 금세 친해졌고, 두]]></content:encoded>
+            <title><![CDATA[로제 "모두가 '아파트' 반대…브루노 마스에 보내지 말라고" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20241128115159854</link>
+            <guid>https://v.daum.net/v/20241128115159854</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:38 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=정혜원 기자] 그룹 블랙핑크 로제가 브루노 마스와 협업하게 된 과정을 공개한다. 28일 tvN 예능 프로그램 '유 퀴즈 온 더 블럭'(이하 '유퀴즈')은 공식 유튜브에 로제가 출연하는 예고편을 공개했다. 공개된 예고편에서 '아파트' 신드롬을 일으킨 로제는 브루노 마스로 변신한 조세호를 보고 "진짜 비슷해요"라며 놀라는 모습을 보였다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이종석→문가영, '서초동' 변호사 밥친구 된다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20241128100943864</link>
-            <guid>https://v.daum.net/v/20241128100943864</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 서지현 기자] 배우 이종석, 문가영, 강유석, 류혜영, 임성재가 '서초동' 사람들이 된다. 2025년 상반기 첫 방송될 tvN 새 드라마 '서초동'은 각종 로펌들이 모인 서초동에서 같은 건물 안 각각 다른 로펌에서 일하는 어쏘 변호사(법무법인에 고용되어 월급을 받는 변호사)들이 삶의 지향점을 찾아가는 법정 오피스 드라마. 배우 이종석, 문가]]></content:encoded>
+            <title><![CDATA[케이윌백지영, 케이윌에 육아법 공유.."비♥김태희 딸과 같은 반" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20241128115159855</link>
+            <guid>https://v.daum.net/v/20241128115159855</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:38 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 이승훈 기자] /사진=케이윌 유튜브 채널 '형수는 케이윌' 가수 케이윌이 가수 백지영으로부터 결혼을 추천받았다. 케이윌은 지난 27일 유튜브 채널 '형수는 케이윌'을 통해 '아는 형수' 여섯 번째 에피소드를 공개했다. 공개된 영상에서 케이윌은 백지영을 '아는 형수'로 초대, 만남과 동시에 논란의 명품백을 언급하며 친밀도를 증명했다. 백지]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[엔하이픈, 日 차트 장악…오리콘·빌보드 재팬 1위 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20241128100930856</link>
-            <guid>https://v.daum.net/v/20241128100930856</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[[Dispatch=구민지기자] 엔하이픈이 일본에서 인기를 입증했다. 오리콘은 28일 최신차트(12월 2일 자)를 공개했다. 엔하이픈의 '로맨스 : 언톨드-데이드림'이 주간 합산 앨범 랭킹 1위를 찍었다. 18만 6,791포인트를 찍었다. 엔하이픈은 총 8개 앨범을 해당 차트 정상에 올렸다. 오리콘은 "'합산 앨범 통산 1위 획득 작품 수' 역대 3위"라고]]></content:encoded>
+            <title><![CDATA["미혼모 만든 정우성? NO"·"韓 연예인 감시 심해"…BBC→이선옥·이소영 두둔 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20241128115003795</link>
+            <guid>https://v.daum.net/v/20241128115003795</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:38 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이예진 기자) 배우 정우성의 혼외자 논란에 그를 두둔하는 목소리가 나오고 있다. 27일(현지시간) 영국 공영방송BBC는 정우성과 모델 문가비의 '비혼 출산'에 대해 "한국 스타의 혼외자 스캔들이 국가적인 논란을 불러일으키고 있다"고 보도했다. BBC는 "혼외 출산을 금기로 여기는 보수적인 나라에서 거센 반발을 샀지만 한국의 가족 구조가 다양하]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘남주의 첫날밤을 가져버렸다’ 서현X옥택연 주연 확정 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20241128100902827</link>
-            <guid>https://v.daum.net/v/20241128100902827</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[드라마 ‘남주의 첫날밤을 가져버렸다’가 KBS 2TV 편성을 확정, 서현, 옥택연, 권한솔, 서범준, 지혜원 등 이름만 들어도 설레는 청춘 라인업으로 시청자들을 찾아간다. &nbsp; KBS 2TV 새 드라마 ‘남주의 첫날밤을 가져버렸다’(원작 네이버시리즈 웹소설 ‘남주의 첫날밤을 가져버렸다’ 작가 황도톨)는 평범한 여대생의 영혼이 깃든 로맨스 소설 속 병풍 단]]></content:encoded>
+            <title><![CDATA[장우영, 오오티비 R&D 예능 '국민의뢰' MC 확정…남다른 각오 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20241128114948782</link>
+            <guid>https://v.daum.net/v/20241128114948782</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:38 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 황미현 기자 = '전과자' 등을 제작하는 멀티플랫폼 제작사 오오티비(대표 이현숙)가 사상 최초 R&amp;D 예능 '국민의뢰(가제)'를 전격 론칭한다. '국민의뢰(가제)'는 국민이 원하는 '국민템' 개발 의뢰를 받고, 기업과 협력해 실제 신제품을 개발하고 출시하는 과정을 그리는 신개념 예능이다. 매회 시민 인터뷰를 통해 특정 품목에 대한 다수의]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[지드래곤 리더십 빛났다…빅뱅 완전체 무대 비하인드 공개 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20241128100900823</link>
-            <guid>https://v.daum.net/v/20241128100900823</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[가수 지드래곤이 태양, 대성과 함께한 신곡 'HOME SWEET HOME(홈 스윗 홈)' 비하인드 영상을 공개했다. 지난 27일 오후 지드래곤 공식 유튜브 채널에는 태양, 대성과 함께 작업한 'HOME SWEET HOME' 비하인드 영상 1편이 게재됐다. 공개된 영상에는 'HOME SWEET HOME' 녹음 현장부터 빅뱅 완전체 무대로 뜨거운 화제를 불]]></content:encoded>
+            <title><![CDATA[차태현·김동현→이이경, 좋은 친구 같은 주말 예능 '핸썸가이즈' 온다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20241128114652648</link>
+            <guid>https://v.daum.net/v/20241128114652648</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:38 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 김태형 기자] 오래 본 친구 사이처럼 편안한 주말 예능이 찾아온다. 28일 오전 tvN 예능 프로그램 '일요일엔 핸썸가이즈' 온라인 제작발표회가 열렸다. '일요일엔 핸썸가이즈'는 대한민국을 대표하는 문화, 자연, 장소, 매력적인 인물들을 직접 찾아 나서는 일요 버라이어티 예능이다. 12월 1일 오후 7시 40분 첫 방송을 앞두고 열린 제작발]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“지드래곤 기대 이하” 이하늘, 논란 부담? GD 언급 삭제→無사과 뻔뻔 행보 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20241128100845807</link>
-            <guid>https://v.daum.net/v/20241128100845807</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:31 GMT</pubDate>
-            <content:encoded><![CDATA[DJ DOC 이하늘이 지드래곤을 저격한 듯한 내용이 포함된 영상을 올려 비판을 받는 가운데, 영상의 해당 부분이 삭제됐다. 이하늘은 지난 22일 자신의 채널에 후배 가수들을 언급했다. 영상에서 그는 로제의 ‘아파트’에 대해 “‘아파트’가 강남스타일 이후 최고로 터졌다. 현재 내놓은 다른 가수들 음악은 들어보지도 못했다. 들리지도 않는다”고 말했다.]]></content:encoded>
+            <title><![CDATA['사일런트 스카이' 홍서영, 마거릿 레빗 役 캐스팅 '안은진과 자매 호흡' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20241128114610618</link>
+            <guid>https://v.daum.net/v/20241128114610618</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:38 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 김진석 기자] 배우 홍서영이 약 3년 만에 연극 무대로 돌아온다. 홍서영은 오는 29일부터 국립극단 명동예술극장에서 개막하는 연극 '사일런트 스카이'에 마거릿 레빗 역으로 함께한다. 연극 '사일런트 스카이'는 지구와 은하들 사이 거리를 측정하는 방법을 찾아냈던 여성 천문학자 헨리에타 레빗의 삶을 담아낸 작품으로, 한 개인의 과학적 발견을 넘어]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘신랑수업’ 김종민, 앞치마부터 쩔쩔... 몇등 신랑감? (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20241128100802786</link>
-            <guid>https://v.daum.net/v/20241128100802786</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:31 GMT</pubDate>
-            <content:encoded><![CDATA[코요태(김종민 빽가 신지)가 ‘신랑수업’에서 끈끈한 의리로 똘똘 뭉쳤다.  코요태는 지난 27일 방송된 채널A ‘요즘 남자 라이프 – 신랑수업’에 출연, 지방 스케줄로 숙소를 잡은 에피소드로 재미를 더했다.  이날 숙소에서 김종민은 빽가에게 “너도 신랑수업 받아야 해”라며 훈수를 두는가 하면, 멤버들을 위해 가마솥 삼계탕을 준비하며 다정한 면모를 드]]></content:encoded>
+            <title><![CDATA['미혼 출산' 사유리 "이경실 잔소리 多...시어머니 체험 중" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20241128114601607</link>
+            <guid>https://v.daum.net/v/20241128114601607</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:38 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=김경민 기자] 방송인 사유리가 개그우먼 이경실을 집으로 초대해 인생 조언을 듣는다. 28일 방송하는 채널A '아빠는 꽃중년'에서는 4세 아들 젠을 홀로 키우고 있는 45세 꽃엄빠' 사유리가 이경실을 집으로 초대한 뒤, 같은 싱글맘으로서 육아와 인생에 대해 허심탄회한 대화를 나누는 모습이 펼쳐진다. 이날 사유리의 집을 방문한 이경실은 직접 만든]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[백지영, 장성택 처형 후 北에서 ‘총 맞은 것처럼’ 불러…“왜 이 노래를” (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20241128100746770</link>
-            <guid>https://v.daum.net/v/20241128100746770</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:31 GMT</pubDate>
-            <content:encoded><![CDATA[MBC ‘라디오스타’ 방송화면 캡처  가수 백지영이 2018년 평양에 방문해 김정은 앞에서 공연했던 일화를 공개했다. 지난 27일 방송된 MBC 예능 ‘라디오스타’는 ‘언니 더 파워업’&nbsp;특집으로 꾸며져 백지영, 정치학 박사 김지윤, 송가인, 이사배가 출연해 이야기를 나눴다. 이날 백지영은 과거 북한에서 ‘총 맞은 것처럼’을 불렀던 이야기를 꺼내 눈길을]]></content:encoded>
+            <title><![CDATA["옛날에도 찌질했네"…'세상에 이런 일이' 전현무, 이시언 과거 영상에 독설 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://v.daum.net/v/20241128114512568</link>
+            <guid>https://v.daum.net/v/20241128114512568</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:38 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS연예뉴스 | 강선애 기자] 배우 이시언이 SBS '와!진짜? 세상에 이런 일이'에 출연해 절친 전현무를 만난다. 28일 방송될 SBS '와!진짜? 세상에 이런일이'에는 MC 전현무의 절친 이시언이 게스트로 출격한다. 영화와 드라마, 예능을 넘나들며 다채로운 행보를 보여주고 있는 이시언은 5MC와 완벽한 호흡을 보여줄 예정이다. 이날 오프닝에서는 이시]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[15년째 계약금 '0'…박소현, 계약금 없이 1년씩 단기 계약하는 사연? (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://v.daum.net/v/20241128100735754</link>
-            <guid>https://v.daum.net/v/20241128100735754</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:31 GMT</pubDate>
-            <content:encoded><![CDATA[방송인 박소현이 소속사와 계약금 없이 1년씩 계약을 연장하고 있다고 밝혀 그 배경에 관심이 쏠린다. 지난 27일 공개된 유튜브 채널 '나래식'에서는 박나래가 연예계 대표 소식가인 박소현, 산다라박과 함께 함께 한 영상이 게재됐다. 이 영상에서 박나래는 박소현의 연애를 위한 다양한 소개팅 플러팅 기술을 전수했다. 그러면서 박나래는 박소현 계약 비화를]]></content:encoded>
+            <title><![CDATA[정호연·이동휘 결별, 이미 한달 전부터 티났다 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
+            <link>https://v.daum.net/v/20241128113943341</link>
+            <guid>https://v.daum.net/v/20241128113943341</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:43 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=김현서 기자] 배우 이동휘와 9년 열애 끝에 결별한 정호연의 한 달 전 발언에 시선이 쏠리고 있다. 지난달 31일 정호연은 서울 중구 국립극장 해오름극장에서 열린 '15회 대한민국 대중문화예술상' 시상식에 참석해 문체부장관 표창을 받았다. 당시 정호연은 "이런 영광스러운 자리에 날씨 좋은 날 참석하게 돼 진심으로 영광이다. 즐기다가 가겠다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[디카프리오, ♥︎26살 모델과 약혼하지 않았다.."소문일 뿐" (다음 연예 ─ 뉴스 ─ 해외)]]></title>
+            <link>https://v.daum.net/v/20241128111021911</link>
+            <guid>https://v.daum.net/v/20241128111021911</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:43 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=선미경 기자] 할리우드 배우 레오나르도 디카프리오가 26살 모델 여자친구와의 약혼을 부인했다. 26일(현지시각) 외신 페이지 식스는 레오나르도 디카프리오는 온라인 루머에도 불구하고 모델 여자친구인 비토리아 세레티와 약혼하지 않았다라고 보도했다. 최근 온라인의 한 가십 피드에 레오나르도 디카프리오와 비토리아 세레티가 약혼했다는 소문이 퍼졌다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[테일러 스위프트, 美빌보드 '21세기 최고 팝스타' 2위…1위는? (다음 연예 ─ 뉴스 ─ 해외)]]></title>
@@ -1035,536 +1049,550 @@
             <content:encoded><![CDATA[[TV리포트=박혜리 기자] 할리우드 배우 레오나르도 디카프리오(50)가 모델 여자친구 비토리아 세레티(26)와의 약혼 의혹을 부인했다. 26일(현지 시간), 외신 매체 '페이지 식스'(Page Six)는 레오나르도 디카프리오가 비토리아 세레티와의 약혼설을 일축했다고 보도했다. 한 소식통은 "(레오나르도 디카프리오의) 약혼 소문은 루머에 불과하다"라며 매달]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['어도어와 갈등' 뉴진스 민지, 정우 보면서 힐링 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
-            <link>https://v.daum.net/v/20241127103500189</link>
-            <guid>https://v.daum.net/v/20241127103500189</guid>
-            <pubDate>Wed, 27 Nov 2024 02:59:04 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=김경민 기자] KBS2 '슈퍼맨이 돌아왔다'(이하 '슈돌')에서 그룹 뉴진스 민지와 전 펜싱 국가대표 김준호의 둘째 아들 정우가 만났다. 27일 방송되는 '슈돌'은 '너를 사랑하는 건 슈퍼내추럴' 편으로 3MC 박수홍, 최지우, 안영미와 슈퍼맨 김준호, 장동민이 함께한다. 데뷔한 해에 신인상과 대상을 모두 석권한 '대세 그룹' 뉴진스의 멤버]]></content:encoded>
+            <title><![CDATA[어도어 ‘신뢰’에 하니 ‘무표정’··· ‘결단 D-day’ 뉴진스 입에 시선집중[스경X이슈] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/144/0001003787</link>
+            <guid>https://m.entertain.naver.com/now/article/144/0001003787</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:51 GMT</pubDate>
+            <content:encoded><![CDATA[떠나느냐, 남느냐. 뉴진스의 결정에 시선이 모인다. 그룹 뉴진스가 지난 13일 소속사 어도어에 내용증명을 보내 시정을 요구했던 기한이 지났다. 계약해지를 걸고 민희진 어도어 전 대표 복귀를 비롯해 전속계약의 중대한 위반 사항을 시정하라고 요청했던 만큼, 뉴진스가 어떤 행보를 택할지 이목이 쏠린다. 뉴진스는 내용증명을 통해 최근 대중에 공개된 하이브의 내부 문서 중 ‘하이브(어도어의 모회사)가 뉴진스를 버리고 새로 판 짜면 될 일’이라는 언급이 있었던 것과 관련한 모든 조치, 멤버 하니에게 ‘무시해’라고 발언한 빌리프랩 매니저의 공식적인 사과, 뉴진스의 고유한 색깔과 작업물을 지킬 것 등을 어도어에 촉구한 것으로 알려졌다. 우선 어도어 측은 여러 시정 요구 중 빌리프랩 매니저의 공개 사과와 관련한 조처를 한 상황이다. 지난 27일 어도어는 공식 입장을 통해 “어도어와 어도어의 구성원들은 당사 아티스트의 말을 전적으로 신뢰하고 하니가 입은 피해를 진정으로 안타깝게 생각한다”며 “빌리프랩]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[규현 ‘컬러스’, 국내외 앨범 차트 1위 직행 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/382/0001165739</link>
-            <guid>https://m.entertain.naver.com/now/article/382/0001165739</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[가수 규현의 정규 앨범 ‘COLORS(컬러스)’가 국내외 앨범 차트 1위를 차지했다. 앨범은 지난 27일 발매 직후 홍콩, 말레이시아, 멕시코, 파라과이, 싱가포르, 대만 1위를 비롯해 전 세계 12개 지역 아이튠즈 ‘톱 앨범’ 차트 TOP10에 진입했다. 또 28일 기준 음반 집계 사이트 한터차트 실시간 피지컬 음반 차트 1위에 올랐다. 타이틀곡 ‘하루마다 끝도 없이 (Unending Days)’는 가슴 아픈 이별의 후유증을 규현의 서정적인 보컬로 섬세하게 그린 곡이다. 밴드 사운드를 기반으로 한 짜임새 있는 편곡과 선명한 멜로디 라인 등이 조화롭게 어우러진 가운데, 이 곡 역시 파라과이 등 전 세계 아이튠즈 ‘톱 송’ 차트 1위에 직행했다. 규현은 앨범 발매 당일 유튜브 채널 ‘채널십오야’에서 진행한 컴백 기념 라이브에 출연해 나영석 PD와 다양한 이야기를 나눴다. 규현의 신곡 ‘하루마다 끝도 없이 (Unending Days)’를 들은 나영석 PD는 “대작이다. 사운드도 촘촘하고]]></content:encoded>
+            <title><![CDATA[“日 팬심 정조준”…베이비몬스터, 데뷔 첫 월드투어 일본 공연 일정 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/410/0001038459</link>
+            <guid>https://m.entertain.naver.com/now/article/410/0001038459</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:51 GMT</pubDate>
+            <content:encoded><![CDATA[YG 베이비몬스터가 데뷔 첫 월드투어의 규모를 확대하고 있는 가운데, 일본 공연의 상세 정보가 한꺼풀 더 베일을 벗었다. YG엔터테인먼트는 28일 공식 블로그에 ‘2025 BABYMONSTER 1st WORLD TOUR IN JAPAN’을 게재했다. 내년 1월 25일·26일 서울, 2월 미국 뉴저지, 3월 로스엔젤레스에 이어 일본 공연의 세부 일정이 발표된 것. 이에 따르면 베이비몬스터는 오는 3월 14·15·16일 카나가와 피아 아레나 MM, 3월 22·23일 아이치 포트멧세 나고야, 4월 3·4일 오사카 아스에 아레나, 4월 12·13일 카나가와 K아레나 요코하마, 4월 19·20일 후쿠오카 국제 센터에서 4개 도시 11회차에 달하는 공연을 개최한다. 이로써 베이비몬스터는 일본 각지의 대규모 공연장에서 지난 팬미팅 투어 대비 2배 이상 확대된 일정으로 팬들과 만나게 됐다. 그간 팬미팅, 페스티벌, 일본어 음원 발매 등 다채로운 활동을 펼치며 현지 음악시장서 탄탄히 입지를 다져온]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[투어스가 직접 그렸다..손글씨·그림 담긴 이모티콘 출시 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/108/0003285870</link>
-            <guid>https://m.entertain.naver.com/now/article/108/0003285870</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[보이 그룹 TWS(투어스)가 직접 제작에 참여한 이모티콘이 나온다. 소속사 플레디스 엔터테인먼트는 "TWS(신유, 도훈, 영재, 한진, 지훈, 경민)의 실사 기반 카카오 이모티콘이 28일 오전 10시 30분 출시된다. 첫 번째 싱글 'Last Bell' 컴백을 맞아 42(팬덤명) 분들에게 즐거움을 드리고자 준비한 이벤트로, 이모티콘의 판매 수익금은 기부할 예정"이라고 밝혔다. TWS 이모티콘은 총 16종으로 구성됐다. 하트 등 귀여운 모션으로 생동감을 더한 실사 이모티콘으로 멤버별 각 2종씩 12종을 선보인다. 또한 멤버들이 그린 손그림과 손글씨 등으로 꾸며진 정성 가득한 이모티콘 4종도 준비돼 있다. 팬들을 위한 선물이 또 있다. TWS는 카카오톡 오픈채팅에서 실시간으로 팬들과 소통하는 이벤트인 '팬톡회'를 진행한다. 팬톡회 일정과 참여 방법 등 자세한 사항은 이달 28일 카카오 공식 SNS를 통해 확인할 수 있다. 지난 25일 발매된 TWS의 싱글 1집 'Last Bell'은 졸]]></content:encoded>
+            <title><![CDATA[세븐어스, 슈트부터 소년미까지…12월 컴백 '기대감 UP' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/311/0001800763</link>
+            <guid>https://m.entertain.naver.com/now/article/311/0001800763</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:51 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 세븐어스(SEVENUS)가 겨울 감성 가득한 비주얼로 컴백 기대감을 고조시켰다. 세븐어스(희재, 이레)는 지난 27일 공식 SNS에 두 번째 미니앨범 'STAY TUNED(스테이 튠드)'의 Caller(콜러)와 Responder(리스폰더) 버전 개인 콘셉트 포토를 공개했다. 먼저 세븐어스의 도회적이면서 몽환적인 분위기가 Caller 버전 포토에 담겼다. 빗방울이 맺힌 영롱한 배경 속 세련된 블랙 슈트를 소화한 세븐어스는 아련하면서 절제된 눈빛으로 짙은 아우라를 발산했다. 이와 대비되는 Responder 버전 포토는 베개를 품에 안고 화사하게 미소 짓는 희재, 카메라를 든 채 행복한 추억을 기록하는 듯한 이레의 소년미를 극대화해 겨울날의 추위를 녹이는 포근함을 선사한다. 매력적인 비주얼이 'STAY TUNED'로 만날 세븐어스의 음악 세계를 더욱 기대하게 한다. '채널 고정'이라는 뜻의 앨범명과 티저로 세븐어스는 마치 라디오를 듣는 듯 다채로우면서 유기적으로 구성된 트랙들을 예고]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[지드래곤 리더십 빛났다…빅뱅 완전체 무대 비하인드 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/052/0002120109</link>
-            <guid>https://m.entertain.naver.com/now/article/052/0002120109</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[가수 지드래곤이 태양, 대성과 함께한 신곡 'HOME SWEET HOME(홈 스윗 홈)' 비하인드 영상을 공개했다. 지난 27일 오후 지드래곤 공식 유튜브 채널에는 태양, 대성과 함께 작업한 'HOME SWEET HOME' 비하인드 영상 1편이 게재됐다. 공개된 영상에는 'HOME SWEET HOME' 녹음 현장부터 빅뱅 완전체 무대로 뜨거운 화제를 불러 모은 2024 MAMA AWARDS(이하 'MAMA') 준비 과정까지 팬들을 만나기 위한 여정이 담겨있어 이목을 집중시켰다. 영상에서 'MAMA' 무대에 대한 미팅 중 태양과 대성은 음원이 공개되지 않은 상태에서 무대를 선보이는 것에 대해 우려를 표했고, 무대를 위해 'HOME SWEET HOME' 곡 발매 시점까지 조정했음이 밝혀졌다. 이에 대해 지드래곤은 "잘해도 본전이지만, 힘을 실어준다는 생각으로 완전체 무대에 서고 싶다"며 멤버들을 설득했다. 오랜 시간 완전체 빅뱅을 기다려온 팬들을 위한 이 결정은 많은 감동을 안겼다. 특]]></content:encoded>
+            <title><![CDATA[몬스타엑스 아이엠, 앙코르 콘서트로 새해 연다‥내년 1월 개최 확정 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/609/0000926163</link>
+            <guid>https://m.entertain.naver.com/now/article/609/0000926163</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:51 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 몬스타엑스 아이엠(I.M)이 앙코르 콘서트로 새해를 연다. 소속사 소니뮤직엔터테인먼트코리아에 따르면 아이엠은 내년 1월 17일부터 19일까지 3일간 서울 송파구 올림픽공원 핸드볼경기장에서 ‘I.M WORLD TOUR 〈Off The Beat〉 FINAL IN SEOUL(아이엠 월드투어 파이널 인 서울)’(이하 ‘Off The Beat’)을 개최하고 팬들을 만난다. 이번 공연은 앞서 진행된 첫 솔로 월드투어의 앙코르 콘서트로, 아이엠은 지난 공연의 벅찬 설렘을 다시 한번 재현할 계획이다. 다가오는 2025년 새해의 시작을 콘서트와 함께하는 만큼, 더욱 다채로운 무대 구성을 선보이며 공연장을 뜨겁게 달굴 것으로 기대를 모으고 있다. 특히 지난 공연에서 아이엠은 틀에 갇혀 있지 않은 무대를 보여주겠다는 포부에 걸맞게 독보적인 스테이지를 선사해 이목을 집중시켰다. 자신만의 짙은 색깔이 느껴지는 세트리스트로 음악적 세계관을 공연으로 확장한 그는 국내외 몬베베(공식 팬클럽명)의 눈과 귀를]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[데뷔 이즈나 글로벌 눈도장, 日아이튠즈→애플뮤직 K팝 앨범 랭킹 정상 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/609/0000926101</link>
-            <guid>https://m.entertain.naver.com/now/article/609/0000926101</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 izna(이즈나)가 일본 주요 차트에서 두각을 드러냈다. izna(마이, 방지민, 윤지윤, 코코, 유사랑, 최정은, 정세비)의 첫 번째 미니앨범 ‘N/a’는 11월 27일 일본 아이튠즈 케이팝 톱 앨범 랭킹과 일본 애플뮤직 케이팝 앨범 랭킹에서 정상을 차지하며 글로벌 인기를 증명했다. izna는 지난 25일 데뷔 앨범 'N/a' 발매 직후 전 세계 14개 국가 아이튠즈 톱 앨범 차트 TOP10에 안착, 일본 라쿠텐뮤직 랭킹 1위에도 이름을 올리며 데뷔와 동시에 빛나는 시작을 알린 바 있다. Mnet 걸그룹 데뷔 서바이벌 ‘아이랜드2’를 통해 전 세계 217개 국가 및 지역 시청자들의 선택을 받아 탄생한 걸그룹인 만큼 izna를 향한 반응은 뜨겁다. 이를 증명하듯 타이틀곡 ‘IZNA’의 뮤직비디오는 빠르게 1,700만 회 조회수를 돌파하며 인기 상승세를 지속 중이다. 글로벌 팬들은 자신의 한계를 뛰어넘어 새로운 세상을 향한 도전에 나서는 izna의 데뷔 앨범에 공감하며 뜨거운 응]]></content:encoded>
+            <title><![CDATA[트와이스, LA 팝업스토어 대박 났다…월드와이드 컴백 프로모션 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/609/0000926161</link>
+            <guid>https://m.entertain.naver.com/now/article/609/0000926161</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:51 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 트와이스가 컴백을 앞두고 월드와이드 프로모션을 이어가고 있다. 트와이스는 12월 6일 미니 14집 'STRATEGY'(스트래티지)와 타이틀곡 'Strategy (feat. Megan Thee Stallion)'(피처링 메간 디 스텔리온)을 발매하고 컴백한다. 소속사 JYP엔터테인먼트는 11월 18일 타이틀곡의 일부 음원을 선공개한데 이어 28일 0시에는 트와이스 공식 인스타그램 채널에 수록곡 'Magical'(매지컬) 하이라이트 음원 영상을 오픈했다. 영상은 반짝이는 멜로디와 마법 같은 멤버들의 비주얼이 더해져 크리스마스 분위기를 자아냈다. 여기에 겨울 감성이 느껴지는 가사 "This is something magical The spell you have on me is supernatural Now you got me falling like the winter snow When you look at me it's something M-A-G-I-C Something magic]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[WayV, 이번주 '프리퀀시' 음방 활동 돌입..올드스쿨 힙합 퍼포먼스 기대 ↑ (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/112/0003734103</link>
-            <guid>https://m.entertain.naver.com/now/article/112/0003734103</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[WayV(웨이션브이)가 이번 주 음악방송을 통해 신곡 ‘FREQUENCY’(프리퀀시) 무대를 선사한다. WayV는 29일 KBS2TV ‘뮤직뱅크’를 시작으로 30일 MBC ‘쇼! 음악중심’, 12월 1일 SBS ‘인기가요’ 등 음악방송에 출연, 여섯 번째 미니앨범의 타이틀 곡 ‘FREQUENCY’로 화려한 컴백 스테이지를 펼친다. 이번 타이틀 곡 ‘FREQUENCY’는 ‘우리의 주파수에 맞춰 새로운 차원으로 가자’라는 메시지를 담은 강렬한 올드스쿨 힙합 댄스 곡. WayV의 새로운 음악과 색다른 콘셉트를 만날 수 있어 뜨거운 호응을 얻는 중이다. 특히 타이틀 곡 ‘FREQUENCY’ 퍼포먼스는 곡의 후렴 도입 사운드 ‘Plululululu’에 맞춘 캐치한 손동작을 비롯해 WayV만의 파워풀한 힙합 무드를 담은 다채로운 안무로 구성되어 있으며, 거칠게 휘몰아치는 퍼포먼스 속에서도 여유로운 무대 매너를 선보이는 멤버들의 모습이 시선을 사로잡을 것으로 보인다. 한편, 지난 25일 발매된]]></content:encoded>
+            <title><![CDATA[테일러 스위프트 ‘최고 팝스타’ 2위… 1위는 누구? (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/021/0002674717</link>
+            <guid>https://m.entertain.naver.com/now/article/021/0002674717</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:51 GMT</pubDate>
+            <content:encoded><![CDATA[빌보드 선정… BTS는 19위 언론들 “비욘세가 정상” 꼽아 미국 팝스타 테일러 스위프트(사진)가 ‘21세기 최고 팝스타’ 2위에 랭크됐다. 앞서 그룹 방탄소년단(BTS)이 19위에 이름을 올렸던 조사다. 미국 음악전문 매체 빌보드는 26일(현지시간) ‘21세기 최고 팝스타’(Billboard’s Greatest Pop Stars of the 21st Century) 2위로 스위프트를 꼽았다. 빌보드는 “컨트리 음악에서 팝 음악으로 전향한 스위프트는 그 형태나 규모 면에서 이전에는 볼 수 없었던 성공을 거뒀다”고 평가했다. 빌보드는 지난 8월부터 21세기 최고 팝스타 순위를 25위부터 역순으로 한 명씩 발표하고 있다. BTS가 19위였고 아델, 아리아나 그란데, 저스틴 비버, 카녜이 웨스트, 브리트니 스피어스, 레이디 가가, 드레이크, 리애나가 10∼3위를 차지했다. 스위프트가 2위에 오르며, 1위 발표만 남겨 놓고 있는 가운데 대다수 언론과 대중은 비욘세를 유력한 후보로 꼽고 있다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[규현, 첫 정규 'COLORS' 국내외 앨범 차트 1위..나 PD도 반했다 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/109/0005203695</link>
-            <guid>https://m.entertain.naver.com/now/article/109/0005203695</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[가수 규현의 다채로운 음악 컬렉션이 글로벌 팬들의 취향을 저격했다. 규현의 정규 앨범 'COLORS(컬러스)'는 지난 27일 발매 직후 홍콩, 말레이시아, 멕시코, 파라과이, 싱가포르, 대만 1위를 비롯해 전 세계 12개 지역 아이튠즈 '톱 앨범' 차트 TOP10에 진입했다. 또한, 'COLORS'는 28일 기준 음반 집계 사이트 한터차트 실시간 피지컬 음반 차트 1위에 올랐다. 타이틀곡 '하루마다 끝도 없이 (Unending Days)'는 가슴 아픈 이별의 후유증을 규현의 서정적인 보컬로 섬세하게 그린 곡이다. 밴드 사운드를 기반으로 한 짜임새 있는 편곡과 선명한 멜로디 라인 등이 조화롭게 어우러진 가운데, 이 곡 역시 파라과이 등 전 세계 아이튠즈 '톱 송' 차트 1위에 직행하며 글로벌 시장 내 규현의 인기를 실감케 했다. 규현은 앨범 발매 당일 유튜브 채널 '채널십오야'에서 진행한 컴백 기념 라이브에 출연해 나영석 PD와 다양한 이야기를 나눴다. 규현의 신곡 '하루마다 끝도 없]]></content:encoded>
+            <title><![CDATA['컴백' 갓세븐 제이비, 아이튠즈 11개국 톱 앨범 차트 1위..글로벌 인기 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/112/0003734122</link>
+            <guid>https://m.entertain.naver.com/now/article/112/0003734122</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:51 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 아티스트 갓세븐 제이비(JAY B)가 성공적인 컴백을 알렸다. 28일 글로벌 음원 스트리밍 플랫폼 아이튠즈에 따르면, 27일 발매된 제이비(JAY B) 첫 번째 솔로 정규앨범 'Archive 1: [Road Runner]'(아카이브 원: [로드 러너])는 브라질·칠레·도미니카공화국·에콰도르·피지·잠비아·벨리즈·페루·필리핀·스웨덴·태국 등 전 세계 11개국 톱 앨범 차트에서 1위를 기록했다. 이를 포함해 총 34개국 톱 앨범 차트 상위권에 오르며 글로벌 파워를 입증했다. 더블 타이틀곡 'Crash'(크래시) 또한 브라질·칠레·도미니카공화국·에콰도르·엘살바도르·잠비아·벨리즈·페루·태국 등 9개국 톱 싱글 차트 1위를 포함해 전 세계 21개 지역 톱 싱글 차트 상위권을 기록했다. 또 다른 타이틀곡 'Cloud nine'(클라우드 나인)은 5개국, 1번 트랙 'Baby'(베이비)는 태국 내 톱 싱글 차트에 진입하며 이번 앨범 전체가 글로벌 음악 팬들에게 뜨거운 반응을 얻고 있다. ']]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[클라우디안, 12월 3일 새 싱글 발매…"우리만으 매력 보여줄 터" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/477/0000523548</link>
-            <guid>https://m.entertain.naver.com/now/article/477/0000523548</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[밴드 클라우디안이 새 음반으로 돌아온다. 28일 소속사 크롬엔터테인먼트는 "밴드 클라우디안이 오는 12월 3일 정오 새 디지털 싱글을 발매한다. 새 싱글에서는 클라우디안 특유의 다채로운 악기가 모여 만들어내는 화려한 하모니와 독보적인 에너지를 만나볼 수 있다. 많은 기대를 부탁드린다"고 밝혔다. 클라우디안은 보컬 브라이튼, 기타리스트 리암, 베이시스트 NN, 드러머 로건, 바이올리니스트 OM, DJ 겸 전통북 연주자 HAN으로 구성된 밴드다. 유니크한 음악적 색과 기존 밴드 신에 없었던 새로운 매력을 지닌 밴드로 주목받고 있다. 지난 9월에는 크롬엔터테인먼트와 전속계약 체결 후 디지털 싱글 '유 윌 시'(You'll See)를 발매, 웅장하고 강렬한 사운드와 에너지를 보여주며 음악팬들의 호응을 받았던 만큼 차별화된 음악을 선보여온 클라우디안이 새롭게 보여줄 매력에 기대가 모인다. 클라우디안은 공식 채널을 통해 신보 프로모션을 벌여나갈 예정이다.]]></content:encoded>
+            <title><![CDATA['연예계 대표 대식가' 데이식스 영케이, 'BYOB' 출격..매운맛 토크 예고 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/108/0003285898</link>
+            <guid>https://m.entertain.naver.com/now/article/108/0003285898</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:51 GMT</pubDate>
+            <content:encoded><![CDATA[보이 밴드 데이식스(DAY6) 멤버 영케이가 글로벌 K-푸드 토크쇼 'BYOB'를 찾는다. 유튜브 채널 'JohnMaat'은 29일 오전 10시 영케이가 게스트로 출연하는 'BYOB'의 아홉 번째 에피소드를 공개한다. 이날 영케이는 데이식스의 '역주행 신화' 소감을 비롯해 연예계 소문난 대식가로서의 일화 등 다채로운 에피소드를 전한다. 특히 K-포차에서 진행되는 토크쇼인 만큼 영케이만의 특별한 레시피도 즉석에서 공개될 예정이다. 토크와 더불어 영케이는 2MC 박준형과 브라이언의 감탄을 자아낸 라이브 무대도 선보인다. K-포차를 촉촉한 감성으로 가득 채울 영케이의 무대에 기대가 모인다. 'BYOB'는 박준형과 브라이언이 K-포차의 주인이 되어 게스트를 초대, 포장마차 요리를 즐기며 영어로 취중 진담을 나누는 글로벌 K-푸드 토크쇼다. K-포차에서 펼쳐지는 먹방과 토크는 물론, 스트레스를 한 방에 날리는 강력한 매운맛의 스페셜 코너 '핫 챌린지' 등으로 글로벌 구독자들의 뜨거운 반응을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임창정, 가사에 심경 담았나…"나조차 모르는 내 모습도 있죠" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/117/0003892027</link>
-            <guid>https://m.entertain.naver.com/now/article/117/0003892027</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[가수 임창정의 신곡 가사가 일부 공개됐다. 임창정은 지난 27일 오후 공식 SNS 채널을 통해 정규 18집 '일어날 일들은 일어나는 거고'의 리릭 포토와 콘셉트 포토를 게재했다. 먼저 리릭 포토에는 이번 앨범의 타이틀곡 '촌스러운 발라드'의 가사 일부가 공개됐다. "그대가 모르는 그대가 있죠 / 말해줄 순 없어요 더 멀어질까 봐" "나조차 모르는 내 모습도 있죠 / 변하는 그대마저 너무나 보고 싶은" 등의 가사를 통해 곡이 가진 아련한 슬픔과 미련의 감정을 느낄 수 있다. 또한 세 장의 콘셉트 포토에는 각각 무채색의 옷을 입고 무표정을 한 사람들, 깨진 유리를 밟고 있는 구두, 흩날리는 종잇조각 사이에 홀로 서 있는 임창정의 모습이 담겼다. 공개된 가사와 잘 어울리는 담담하면서도 먹먹한 장면들이 신곡의 분위기를 고스란히 담아내며 임창정의 정규앨범을 기다려 온 음악팬들의 설렘을 높이고 있다. '일어날 일들은 일어나는 거고'는 임창정이 전작 이후 약 3년 만에 선보이는 정규앨범이다. 사]]></content:encoded>
+            <title><![CDATA[S.E.S. 바다, 후배들 그렇게 챙기더니…'환희→아이키' 연말 콘서트 황금 라인업 완성 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/312/0000690787</link>
+            <guid>https://m.entertain.naver.com/now/article/312/0000690787</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:51 GMT</pubDate>
+            <content:encoded><![CDATA[가수 바다의 연말 콘서트에 SM엔터테인먼트 출신 멤버들이 뭉쳐 우정을 다진다. 바다는 오는 12월 7~8일 양일간 서울 강북구 미아동 성신여자대학교 운정그린캠퍼스에서 '2024 바다 콘서트 The Ocean-I'M YOUR HOME'이라는 타이틀로 콘서트를 연다. 가수로 활동하면서 선후배간의 사랑이 남달랐던 바다는 특히 SM엔터테인먼트 후배들과 끈끈한 우정을 과시했는데, 자신의 이번 콘서트에서도 SM엔터테인먼트 OB 멤버들이 공연에 참여하는 것. 오는 12월 7일에는 '청소왕' 부캐로 인기를 얻고 있는 브라이언과 S.E.S.의 유진, 밴드 터치드의 윤민이 게스트로 나서고, 8일에는 플라이투더스카이 환희, 아이키, 유진이 출연한다. 환희와 브라이언은 바다의 공연 소식에 무조건 참여하겠다고 약속했고, 유진은 S.E.S.의 든든한 멤버이자 동반자로 전회 공연에 참여한다. 특히 유진과의 공연에서는 S.E.S. 활동 당시 일본 싱글로 발매됐던 노래를 바다와 듀엣으로 부를 예정이라 관심이 모아]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["잘해도 본전"..지드래곤, 빅뱅 완전체 무대에 힘 쏟은 이유 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/109/0005203694</link>
-            <guid>https://m.entertain.naver.com/now/article/109/0005203694</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[가수 지드래곤(G-DRAGON)이 태양, 대성과 함께한 신곡 ‘HOME SWEET HOME(홈 스윗 홈)’ 비하인드 영상을 공개해 VIP를 감동시켰다. 지난 27일 오후 지드래곤의 공식 유튜브 채널에는 태양, 대성과 함께 작업한 ‘HOME SWEET HOME’ 비하인드 영상 1편이 게재됐다. 공개된 영상에는 ‘HOME SWEET HOME’ 녹음 현장부터 빅뱅 완전체 무대로 뜨거운 화제를 불러 모은 2024 MAMA AWARDS(이하 ‘MAMA’) 준비 과정까지 팬들을 만나기 위한 여정이 담겨있어 이목을 집중시켰다. 영상에서 ‘MAMA’ 무대에 대한 미팅 중 태양과 대성은 음원이 공개되지 않은 상태에서 무대를 선보이는 것에 대해 우려를 표했고, 무대를 위해 ‘HOME SWEET HOME’ 곡 발매 시점까지 조정했음이 밝혀졌다. 이에 대해 지드래곤은 “잘해도 본전이지만 힘을 실어준다는 느낌으로 완전체가 무대에 섰으면 좋겠다”며 멤버들을 설득했고, 지드래곤의 이같은 결정은 완전체 빅뱅을]]></content:encoded>
+            <title><![CDATA["이건 옳지 않다"는 뉴진스, 어도어 떠날까…전속 분쟁시 전망은 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/001/0015072551</link>
+            <guid>https://m.entertain.naver.com/now/article/001/0015072551</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:51 GMT</pubDate>
+            <content:encoded><![CDATA[어도어 오늘 답변할 듯…뉴진스 가처분 신청 땐 전문가 견해 엇갈려 위약금은 귀책사유 등 따라 재판서 판가름…3천억~6천억원대 추산도 이태수 최주성 기자 = 걸그룹 뉴진스가 보낸 '최후통첩' 성격의 내용증명에 대한 소속사 어도어의 답변 예상일인 28일이 되면서 이후 전속계약 분쟁 돌입 가능성에 관심이 쏠린다. 뉴진스가 어도어를 상대로 전속계약 효력정지 가처분 신청 등 법정 다툼에 나설 경우 그 전망과 관련해 전문가들은 엇갈린 견해를 내놓는다. 뉴진스, 어도어 답변에 만족 가능성↓…결별 수순 밟나 28일 가요계에 따르면 뉴진스 멤버들은 어도어에 발송한 내용증명에 대한 회신을 이날 중으로 받을 것으로 보인다. 멤버들은 지난 13일 발송한(어도어 수령은 14일) 내용증명에서 아일릿 소속사 빌리프랩 매니저의 '무시해' 발언 관련 어도어의 공식 입장 발표, 하이브 내부 모니터링 문건에 '뉴(뉴진스) 버리고 새로 판 짜면 될 일'이란 문구가 포함된 것에 대한 모든 조치, 민희진 전 대표 복귀 등]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[갓세븐 제이비, 아이튠즈 11개국 톱 앨범 1위 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/382/0001165738</link>
-            <guid>https://m.entertain.naver.com/now/article/382/0001165738</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 갓세븐 제이비(JAY B)가 성공적인 컴백을 알렸다. 28일 글로벌 음원 스트리밍 플랫폼 아이튠즈에 따르면, 제이비(JAY B)가 전날(27일) 발매한 첫 번째 솔로 정규앨범 ‘Archive 1: [Road Runner]’(아카이브 원: [로드 러너])는 브라질·칠레·도미니카공화국·에콰도르·피지·잠비아·벨리즈·페루·필리핀·스웨덴·태국 등 전 세계 11개국 톱 앨범 차트에서 1위를 기록했다. 이를 포함해 총 34개국 톱 앨범 차트 상위권에 오르며 글로벌 파워를 입증했다. 더블 타이틀곡 중 ‘Crash’(크래시) 또한 브라질·칠레·도미니카공화국·에콰도르·엘살바도르·잠비아·벨리즈·페루·태국 등 9개국 톱 싱글 차트 1위를 포함해 전 세계 21개 지역 톱 싱글 차트 상위권을 기록했다. 또 다른 타이틀곡 ‘Cloud nine’(클라우드 나인)은 5개국, 1번 트랙 ‘Baby’(베이비)는 태국 내 톱 싱글 차트에 진입하며 이번 앨범 전체가 글로벌 음악 팬들에게 뜨거운 반응을 얻고 있다.]]></content:encoded>
+            <title><![CDATA[은가은, 결혼 앞두고 전속계약 분쟁?… 소속사 "소장 아직 못받아" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/018/0005894925</link>
+            <guid>https://m.entertain.naver.com/now/article/018/0005894925</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:51 GMT</pubDate>
+            <content:encoded><![CDATA[은가은(사진=티에스엠엔터테인먼트) 트롯 가수 은가은이 소속사 티에스엠엔터테인먼트에 전속계약 해지를 통보했다는 보도가 나온 가운데, 소속사 측은 “아직 소장을 받지 못했다”고 입장을 밝혔다. 티에스엠엔터테인먼트 관계자는 28일 이데일리에 “전속계약 해지와 관련된 소장이나 내용증명 등을 받은 게 없다”며 “확인 후 입장을 밝히겠다”고 알렸다. 이날 한 매체는 은가은의 소속사가 정산금을 제때 지급하지 않았고, 계약기간 내내 정산이 지연됐다는 이유를 들어 은가은이 전속계약 해지를 통보했다고 보도했다. 2013년 데뷔한 은가은은 2022년 TV조선 ‘내일은 미스트롯2’ 7위에 올라 본격적으로 이름을 알렸다. 최근에는 5세 연하 트롯 가수 박현호화 결혼을 발표, 내년 4월 웨딩마치를 울릴 계획이다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['12월 9일 컴백' 세븐어스의 '채널 고정'…도회적인 슈트→소년미까지 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/117/0003892025</link>
-            <guid>https://m.entertain.naver.com/now/article/117/0003892025</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 세븐어스(SEVENUS)가 겨울 감성 물씬한 비주얼로 컴백 기대감을 고조시켰다. 세븐어스(희재, 이레)는 27일 두 번째 미니앨범 '스테이 튠드(STAY TUNED)'의 콜러(Caller)와 리스폰더(Responder) 버전 개인 콘셉트 포토를 공개했다. 먼저 세븐어스의 도회적이면서 몽환적인 분위기가 콜러(Caller) 버전 포토에 담겼다. 빗방울이 맺힌 영롱한 배경 속 세련된 블랙 슈트를 소화한 세븐어스는 아련하면서 절제된 눈빛으로 짙은 아우라를 발산했다. 이와 대비되는 리스폰더(Responder) 버전 포토는 베개를 품에 안고 화사하게 미소 짓는 희재, 카메라를 든 채 행복한 추억을 기록하는 듯한 이레의 소년미를 극대화해 겨울날의 추위를 녹이는 포근함을 선사한다. 매력적인 비주얼이 '스테이 튠드(STAY TUNED)'로 만날 세븐어스의 음악 세계를 더욱 기대하게 한다. '채널 고정'이라는 뜻의 앨범명과 티저로 세븐어스는 마치 라디오를 듣는 듯 다채로우면서 유기적으로 구성된]]></content:encoded>
+            <title><![CDATA[TWS, 오늘(28일) 직접 제작 참여한 이모티콘 출시..판매 수익금 기부 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/109/0005203735</link>
+            <guid>https://m.entertain.naver.com/now/article/109/0005203735</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:51 GMT</pubDate>
+            <content:encoded><![CDATA[‘2024년 최고 신인’ TWS(투어스)가 직접 제작에 참여한 이모티콘이 나온다. 소속사 플레디스 엔터테인먼트는 “TWS(신유, 도훈, 영재, 한진, 지훈, 경민)의 실사 기반 카카오 이모티콘이 오늘(28일) 오전 10시 30분 출시된다. 첫 번째 싱글 ‘Last Bell’ 컴백을 맞아 42(팬덤명) 분들에게 즐거움을 드리고자 준비한 이벤트로, 이모티콘의 판매 수익금은 기부할 예정”이라고 밝혔다. TWS 이모티콘은 총 16종으로 구성됐다. 하트 등 귀여운 모션으로 생동감을 더한 실사 이모티콘으로 멤버별 각 2종씩 12종을 선보인다. 또한 멤버들이 그린 손그림과 손글씨 등으로 꾸며진 정성 가득한 이모티콘 4종도 준비돼 있다. 팬들을 위한 선물이 또 있다. TWS는 카카오톡 오픈채팅에서 실시간으로 팬들과 소통하는 이벤트인 ‘팬톡회’를 진행한다. 팬톡회 일정과 참여 방법 등 자세한 사항은 이달 28일 카카오 공식 SNS를 통해 확인할 수 있다. 지난 25일 발매된 TWS의 싱글 1집 ‘L]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[양다일, 뚜렷한 정체성과 과감한 시도로 3집 완성 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/629/0000342391</link>
-            <guid>https://m.entertain.naver.com/now/article/629/0000342391</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[28일 정규 3집 'My insecure' 발매 가수 양다일이 자신의 정체성 위에 새로운 시도들을 얹어 다채로운 정규 앨범을 완성했다. 양다일이 28일 오후 6시 3번째 정규 앨범 'My insecure(마이 인시큐어)'를 발매한다. 지난 2021년에 발매한 'our joys and sadnesses(아워 조이스 앤드 새드니시스)' 이후 약 4년 만의 정규 앨범으로 소속사는 "그동안 양다일이 선보였던 음악과는 다른 과감한 음악적 시도를 담아냈다"고 소개했다. 앨범은 선공개 곡 'about you(어바웃 유)'와 'Call me more sometimes(콜 미 모어 섬타임스)' 그리고 3곡의 타이틀곡 'this love is gold(디스 러브 이즈 골드)' '사랑해줘' 'Through the night(스루 더 나이트)'를 포함한 10곡으로 구성된다. 첫 번째 타이틀곡 'this love is gold'는 뉴 잭 스윙이 스며든 팝 알앤비 발라드 장르의 곡이다. 금의 모양이 만들어지]]></content:encoded>
+            <title><![CDATA[이즈나, 데뷔 동시에 日 차트까지 접수 '글로벌 눈도장' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/311/0001800753</link>
+            <guid>https://m.entertain.naver.com/now/article/311/0001800753</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:51 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 izna(이즈나)가 일본 주요 차트에서 두각을 드러냈다. izna(마이, 방지민, 윤지윤, 코코, 유사랑, 최정은, 정세비)의 첫 번째 미니앨범 ‘N/a’는 지난 27일 일본 아이튠즈 케이팝 톱 앨범 랭킹과 일본 애플뮤직 케이팝 앨범 랭킹에서 정상을 차지하며 글로벌 인기를 증명했다. izna는 지난 25일 데뷔 앨범 'N/a' 발매 직후 전 세계 14개 국가 아이튠즈 톱 앨범 차트 TOP10에 안착, 일본 라쿠텐뮤직 랭킹 1위에도 이름을 올리며 데뷔와 동시에 빛나는 시작을 알린 바 있다. Mnet 걸그룹 데뷔 서바이벌 ‘아이랜드2’를 통해 전 세계 217개 국가 및 지역 시청자들의 선택을 받아 탄생한 걸그룹인 만큼 izna를 향한 반응은 뜨겁다. 이를 증명하듯 타이틀곡 ‘IZNA’의 뮤직비디오는 빠르게 1,700만 회 조회수를 돌파하며 인기 상승세를 지속 중이다. 글로벌 팬들은 자신의 한계를 뛰어넘어 새로운 세상을 향한 도전에 나서는 izna의 데뷔 앨범에 공감하며 뜨거운 응원]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[데이브레이크, 30일 '2024 진주국제재즈페스티벌' 출연 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/477/0000523547</link>
-            <guid>https://m.entertain.naver.com/now/article/477/0000523547</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[데이브레이크가 글로컬 음악축제에 참여한다. 데이브레이크(이원석, 김선일, 김장원, 정유종)는 오는 30일 경남 진주시 경남문화예술회관 대공연장에서 개최되는 '2024 진주국제재즈페스티벌'에 출연한다. '진주국제재즈페스티벌'은 2018년 시작해 올해로 7회를 맞은 페스티벌로, 재즈뿐만 아니라 다양한 장르의 국내외 실력파 아티스트들이 참여하며 글로컬 음악축제이자 경남의 대표 페스티벌로 자리매김했다. 데이브레이크는 '2024 진주국제재즈페스티벌'에서 음악팬들에게 많은 사랑을 받는 대표곡 '들었다 놨다'를 비롯해 낭만을 선사할 '로맨틱' 등 다채로운 세트리스트를 통해 진주의 밤을 화려하게 수놓을 예정이다. 오는 12월 10일 미니 앨범 '세미콜론' 발매를 앞둔 데이브레이크는 신보를 아우르는 테마 노트부터 트랙리스트, 리릭 티저, 오피셜 포토 등 다양한 프로모션 콘텐츠를 공개하고 있다. 특히, 우수에 젖은 눈빛이 돋보이는 오피셜 포토와 감성을 자극하는 리릭 티저로 새 앨범에 대한 기대감을 높]]></content:encoded>
+            <title><![CDATA[‘헤어질 결심’ 뉴진스…어도어 답변에 수긍할까? (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/021/0002674687</link>
+            <guid>https://m.entertain.naver.com/now/article/021/0002674687</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:51 GMT</pubDate>
+            <content:encoded><![CDATA[걸그룹 뉴진스가 “민희진을 대표로 복귀시키라”는 등의 요구 사항을 담은 내용증명을 소속사 어도어에 보낸 것에 대한 답변 만료 시안이 도래하면서 양측의 향후 행보에 관심이 쏠리고 있다. 민희진 어도어 전 대표 측이 이번 사태가 발생하기 전 자체적으로 추정한 위약금이 최대한 6000억 원에 이르기 때문에 K-팝 사상 최대 규모의 법적 분쟁이 벌어질 가능성을 배제할 수 없다. 뉴진스는 지난 13일 “전속계약 위반 사항 시정 요구를 받아들이지 않는다면 전속계약을 해지하겠다”면서 어도어에 내용증명을 발송했다. 내부 검토를 마친 어도어는 뉴진스가 제시한 데드라인에 맞춰 28일 답변지를 전달한다는 방침이다. 어도어는 뉴진스와의 동행에 초점을 맞춘다. 뉴진스 멤버 하니가 계열사인 빌리프랩의 한 구성원으로부터 “무시해”라는 말을 들었다고 주장한 것과 관련해 27일 어도어가 “당사 아티스트의 말을 전적으로 신뢰하고 하니가 입은 피해를 진정으로 안타깝게 생각한다”면서 “빌리프랩 측이 하니의 피해를 가벼]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘제 1회 박건호 음악회’, 29일 개최…송가인→설운도 노개런티 참여 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/241/0003397783</link>
-            <guid>https://m.entertain.naver.com/now/article/241/0003397783</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[작사가 고(故) 박건호(1949~2007년)를 기리는 ‘박건호 음악회’가 오는 29일 개최된다. 이번 음악회는 고인의 고향인 원주에 설립된 사단법인 박건호 기념사업회(이사장 김종태)가 원주시의 후원을 받아 주최하고 박건호의 업적을 기념하고자 기획됐다. 그는 조용필의 ‘단발머리’, ‘모나리자’, 나미의 ‘빙글빙글’, 정수라의 ‘아, 대한민국’, 소방차의 ‘그녀에게 전해주오’, 최혜영의 ‘그것은 인생’ 등 수많은 명곡들이 탄생시켰다. 원주시의 후원과 함께 원주 시민들에게는 무료 관람으로 진행되는 이번 음악회는 송가인을 비롯해 설운도, 전영록, 안성훈, 김수희, 심신, 나태주, 정다경, 복지은 등이 출연, 지역사회와 소외된 이웃들을 위한, 소통과 나눔의 장으로의 의미를 살려 노개런티로 참여한다. ‘박건호 음악회’를 주관하고 있는 김종태 박건호기념사업회 이사장은 “이번 음악회는 박 작사가를 기념하기 위한 특별한 자리다. 특히 그가 원주 출신임에도 불구하고 많은 원주시민이 잘 모른다”라고 말]]></content:encoded>
+            <title><![CDATA[뜨거웠던 2024년 K팝, 뜨거웠던 뉴진스·에스파···데이식스도 약진 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/144/0001003775</link>
+            <guid>https://m.entertain.naver.com/now/article/144/0001003775</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:51 GMT</pubDate>
+            <content:encoded><![CDATA[올 한해도 K팝은 뜨거웠다. 국내 음원 플랫폼 점유율 1위를 기록하고 있는 유튜브 뮤직이 2024년 결산 데이터를 공개했다. 뉴진스와 에스파를 필두로한 여성 아이돌의 약진이 두드러진 한해였다. 유튜브 뮤직이 공개한 2024년 결산 데이터에 따르면 올 한해 가장 높은 스트리밍 횟수를 기록한 곡은 QWER의 ‘고민중독’(9925만회)이었다. 뒤를 이어 에스파의 ‘슈퍼노바’(Supernova)(9674만회), (여자)아이들 ‘Fate’(8834만회), 아일릿의 ‘마그네틱’(Magnetic)(8829만회)가 순위에 올랐다. 10월 18일 발매돼 전세계를 달궜던 로제와 브루노 마스의 협업곡 ‘아파트’(APT)도 7946만회를 기록하며 5위에 올랐다. 뉴진스가 5월 24일 발매한 ‘핫 스위트’(Hot Sweet) 또한 7214만회를 기록해 여전한 파괴력을 선보였다. 남성 아이돌 곡 가운데 투어스(TWS)의 ‘플롯 트위스트’(Plot twist)가 6788만회를 기록하며 7위에 올라 가장 높은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[환희·브라이언→S.E.S. 유진, 바다 콘서트서 뭉친다..전 SM 동료 의리 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/112/0003734100</link>
-            <guid>https://m.entertain.naver.com/now/article/112/0003734100</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[가수 바다의 연말 콘서트에 전 SM엔터테인먼트 아티스트들이 뭉친다. 바다가 오는 12월 7~8일 양일간 서울 강북구 미아동 성신여자대학교 운정그린캠퍼스에서 '2024 바다 콘서트 The Ocean-I'M YOUR'을 개최한다. 가수로 활동하면서 선후배간의 사랑이 남달랐던 바다는 특히 SM엔터테인먼트 후배들과 끈끈한 우정을 과시했는데. 이에 이번 콘서트에서 SM엔터테인먼트 OB 멤버들이 공연에 참여한다. 7일에는 '청소왕' 부캐로 인기를 얻고 있는 브라이언과 S.E.S.의 유진, 밴드 터치드의 윤민이 게스트로 나서고, 8일에는 플라이투더스카이 환희, 아이키, 유진이 출연한다. 환희와 브라이언은 바다의 공연 소식에 무조건 참여하겠다고 약속했고, 유진은 S.E.S.의 든든한 멤버이자 동반자로 전회 공연에 참여한다. 특히 유진과의 공연에서는 S.E.S. 활동 당시 일본 싱글로 발매됐던 노래를 바다와 듀엣으로 부를 예정이라 관심이 모아진다. 앞서 바다는 KBS 2FM '가요광장'에서 유진의]]></content:encoded>
+            <title><![CDATA[SF9, 日 네 번째 제프투어 요코하마→오사카 성료 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/021/0002674681</link>
+            <guid>https://m.entertain.naver.com/now/article/021/0002674681</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:51 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 SF9(에스에프나인)이 일본 제프 투어를 성공적으로 마무리했다. SF9은 지난 11월 26일 요코하마와 27일 오사카에서 ‘SF9 2024 ZEPP LIVE IN JAPAN ~D.W.B.H~’를 각각 2회씩 개최했다. SF9의 제프 투어는 네 번째다. 소속사 측은 "올해 상반기 제프 투어에서 공연 회차를 추가하며 남다른 인기를 입증했던 것에 이어, 하반기에도 다시 일본을 찾아 올해에만 두 차례의 제프 투어를 진행, 일본 현지에서의 뜨거운 인기를 자랑하고 있다"면서 "특히 이번 공연은 전역한 재윤이 합류한 무대를 선보였고, 일본 팬들과 직접 소통하며 뜻깊은 시간을 선사했다"고 전했다. SF9은 미니 10집 ‘RUMINATION’의 수록곡 ‘Gentleman’으로 공연의 포문을 열었다. 이어 지난 8월 발매한 미니 14집 ‘FANTASY’의 신곡 ‘그냥 (Just)’, ‘Melodrama’, ‘My Fantasia’ 무대와 일본어 버전의 ‘Don’t Worry, Be Happy’]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[환희·브라이언·S.E.S. 유진, 바다 연말 콘서트서 뭉친다[공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/410/0001038442</link>
-            <guid>https://m.entertain.naver.com/now/article/410/0001038442</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[가수 바다의 연말 콘서트에 환희, 브라이은, S.E.S. 유진 등 전 SM엔터테인먼트 멤버들이 뭉쳐 우정을 다진다. 바다는 오는 12월 7~8일 양일간 서울 강북구 미아동 성신여자대학교 운정그린캠퍼스에서 ‘2024 바다 콘서트 The Ocean-I’M YOUR HOME‘이라는 타이틀로 콘서트를 연다. 가수로 활동하면서 선후배간의 사랑이 남달랐던 바다는 특히 SM엔터테인먼트 후배들과 끈끈한 우정을 과시했는데, 자신의 이번 콘서트에서도 SM엔터테인먼트 OB 멤버들이 공연에 참여하는 것. 7일에는 ’청소왕‘ 부캐로 인기를 얻고 있는 브라이언과 S.E.S.의 유진, 밴드 터치드의 윤민이 게스트로 나서고, 8일에는 플라이투더스카이 환희, 아이키, 유진이 출연한다. 환희와 브라이언은 바다의 공연 소식에 무조건 참여하겠다고 약속했고, 유진은 S.E.S.의 든든한 멤버이자 동반자로 전회 공연에 참여한다. 특히 유진과의 공연에서는 S.E.S. 활동 당시 일본 싱글로 발매됐던 노래를 바다와 듀엣으로]]></content:encoded>
+            <title><![CDATA[탄탄한 음악성 입증한 규현, ‘COLORS’로 국내·외 앨범 차트 1위 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/021/0002674680</link>
+            <guid>https://m.entertain.naver.com/now/article/021/0002674680</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:51 GMT</pubDate>
+            <content:encoded><![CDATA[가수 규현의 음악은 탄탄했다. 규현의 정규 앨범 ‘COLORS(컬러스)’는 지난 27일 발매 직후 홍콩, 말레이시아, 멕시코, 파라과이, 싱가포르, 대만 1위를 비롯해 전 세계 12개 지역 아이튠즈 ‘톱 앨범’ 차트 톱10에 진입했다. 또한, ‘COLORS’는 28일 기준 음반 집계 사이트 한터차트 실시간 피지컬 음반 차트 1위에 올랐다. 타이틀곡 ‘하루마다 끝도 없이 (Unending Days)’는 가슴 아픈 이별의 후유증을 규현의 서정적인 보컬로 섬세하게 그린 곡이다. 밴드 사운드를 기반으로 한 짜임새 있는 편곡과 선명한 멜로디 라인 등이 조화를 이뤘다. 규현은 앨범 발매 당일 유튜브 채널 ‘채널십오야’에서 진행한 컴백 기념 라이브에 출연해 나영석 PD와 다양한 이야기를 나눴다. 규현의 신곡 ‘하루마다 끝도 없이 (Unending Days)’를 들은 나영석 PD는 “대작이다. 사운드도 촘촘하고 굉장히 공을 들인 음악 같다”라고 호평했다. 이에 규현은 “많은 분들이 가사에 공감하실]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[규현, 첫 정규 내길 잘했다…앨범 차트 1위 직행 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/609/0000926098</link>
-            <guid>https://m.entertain.naver.com/now/article/609/0000926098</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[가수 규현의 다채로운 음악 컬렉션이 글로벌 팬들의 취향을 저격했다. 규현의 정규 앨범 'COLORS(컬러스)'는 11월 27일 발매 직후 홍콩, 말레이시아, 멕시코, 파라과이, 싱가포르, 대만 1위를 비롯해 전 세계 12개 지역 아이튠즈 '톱 앨범' 차트 TOP 10에 진입했다. 또한 'COLORS'는 28일 기준 음반 집계 사이트 한터차트 실시간 피지컬 음반 차트 1위에 올랐다. 타이틀곡 '하루마다 끝도 없이 (Unending Days)'는 가슴 아픈 이별의 후유증을 규현의 서정적인 보컬로 섬세하게 그린 곡이다. 밴드 사운드를 기반으로 한 짜임새 있는 편곡과 선명한 멜로디 라인 등이 조화롭게 어우러진 가운데 이 곡 역시 파라과이 등 전 세계 아이튠즈 '톱 송' 차트 1위에 직행하며 글로벌 시장 내 규현의 인기를 실감케 했다. 규현은 앨범 발매 당일 유튜브 채널 '채널십오야'에서 진행한 컴백 기념 라이브에 출연해 나영석 PD와 다양한 이야기를 나눴다. 규현의 신곡 '하루마다 끝도 없]]></content:encoded>
+            <title><![CDATA[‘빨간양말프로젝트’ LAHA, ‘나는 사랑이 아프다’ 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/382/0001165764</link>
+            <guid>https://m.entertain.naver.com/now/article/382/0001165764</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:51 GMT</pubDate>
+            <content:encoded><![CDATA[루미스컴퍼니와 레드삭스 뮤직이 최근 합병한 가운데 ‘My Birthday’ ‘이별 이브’ 등 호소력 있는 짙은 목소리로 주목받아온 가수 LAHA의 세 번째 디지털 싱글앨범 ‘나는 사랑이 아프다’가 합병 후 첫 작품으로 발매됐다. ‘나는 사랑이 아프다’는 떠나보낸 사랑을 그리워하며 아파하는 내용의 가사와 화려한 편곡, LAHA의 슬프고 애절한 보이스가 더해져 감정이 고조되는 발라드곡이다. 이별을 견디기 힘든 감정을 고스란히 담은 시적인 가사가 인상적이다. 특히 후반부로 갈수록 짙어지는 감정을 잘 표현한 LAHA의 호소력 짙으면서도 유니크한 보이스가 곡의 몰입감을 더하고, 자신을 잊어가는 연인에게 외치는 마지막 절규는 듣는 이로 하여금 깊은 울림과 애잔함을 선사할 것으로 기대된다. 작사, 작곡, 편곡자인 빨간양말은 드라마 ‘재벌집 막내아들’, ‘술꾼도시여자들’, ‘한 번 다녀왔습니다’, ‘김비서가 왜 그럴까’, ‘비밀의 숲’, ‘W’, ‘연애의 발견’ 등 다수의 드라마 OST를 작곡했으]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[규현, 정규 'COLORS'로 국내외 앨범 차트 1위 직행 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/108/0003285863</link>
-            <guid>https://m.entertain.naver.com/now/article/108/0003285863</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[가수 규현의 다채로운 음악 컬렉션이 글로벌 팬들의 취향을 저격했다. 규현의 정규 앨범 'COLORS(컬러스)'는 지난 27일 발매 직후 홍콩, 말레이시아, 멕시코, 파라과이, 싱가포르, 대만 1위를 비롯해 전 세계 12개 지역 아이튠즈 '톱 앨범' 차트 TOP10에 진입했다. 또한, 'COLORS'는 28일 기준 음반 집계 사이트 한터차트 실시간 피지컬 음반 차트 1위에 올랐다. 타이틀곡 '하루마다 끝도 없이 (Unending Days)'는 가슴 아픈 이별의 후유증을 규현의 서정적인 보컬로 섬세하게 그린 곡이다. 밴드 사운드를 기반으로 한 짜임새 있는 편곡과 선명한 멜로디 라인 등이 조화롭게 어우러진 가운데, 이 곡 역시 파라과이 등 전 세계 아이튠즈 '톱 송' 차트 1위에 직행하며 글로벌 시장 내 규현의 인기를 실감케 했다. 규현은 앨범 발매 당일 유튜브 채널 '채널십오야'에서 진행한 컴백 기념 라이브에 출연해 나영석 PD와 다양한 이야기를 나눴다. 규현의 신곡 '하루마다 끝도 없]]></content:encoded>
+            <title><![CDATA[BTS’s V, Fifty Fifty and Chungha get festive with winter song releases (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/640/0000062161</link>
+            <guid>https://m.entertain.naver.com/now/article/640/0000062161</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:51 GMT</pubDate>
+            <content:encoded><![CDATA[K-pop acts BTS’s V, Fifty Fifty and Chungha are set to release winter-themed songs. BTS member V has collaborated with ballad singer Park Hyo-shin on the jazz-pop single “Winter Ahead.” A teaser of the track was released on Wednesday on HYBE's YouTube channel, with the full song set to drop on Friday. Girl group Fifty Fifty will release its first winter-themed digital release, “Winter Glow,” on Dec. 9, according to the group's agency, Attrakt. The digital release comprises of two tracks: “When Y]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에잇턴 ‘이럴거면 다음생에’ 맛보기, 하이틴 비주얼+청량 매력 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/609/0000926096</link>
-            <guid>https://m.entertain.naver.com/now/article/609/0000926096</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[8TURN(에잇턴)이 신곡 일부를 공개하며 열기를 더하고 있다. 8TURN(재윤, 명호, 민호, 윤성, 해민, 경민, 윤규, 승헌)은 12월 27일 공식 SNS를 통해 새 싱글 '이럴거면 다음생에'의 숏폼 영상을 공개했다. 공개된 영상 속 8TURN은 학교로 보이는 건물을 배경으로 빛나는 하이틴 비주얼을 드러냈다. 특히 멤버별 개성과 색깔을 보여주는 교복 스타일링으로 다채로운 매력을 선사하는가 하면, 카메라를 바라보며 팬들의 설렘을 자극했다. 8TURN은 듣는 것만으로도 몸을 들썩이게 하는 중독성 넘치는 사운드와 퍼포먼스 일부를 공개하며 더욱 이목을 모았다. 8TURN은 팀 케미가 돋보이는 군무로 청량한 분위기를 한껏 발산하며 앞으로 공개될 티저 콘텐츠와 신곡에 대한 기대감을 고조시켰다. '이럴거면 다음생에'는 저돌적이고 재치 있는 가사가 특징인 곡으로, 그동안 8TURN이 선보여 온 음악과는 또 다른 풋풋한 설렘의 감정을 전할 예정이다. 8TURN은 신보 발매에 앞서 오는 12월]]></content:encoded>
+            <title><![CDATA[WayV표 올드스쿨 힙합 예고..내일 ‘뮤직뱅크’서 첫 컴백 무대 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/109/0005203721</link>
+            <guid>https://m.entertain.naver.com/now/article/109/0005203721</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:51 GMT</pubDate>
+            <content:encoded><![CDATA[WayV(웨이션브이)가 이번 주 음악방송을 통해 신곡 ‘FREQUENCY’(프리퀀시) 무대를 선사한다. WayV는 내일(29일) KBS2TV ‘뮤직뱅크’를 시작으로 30일 MBC ‘쇼! 음악중심’, 12월 1일 SBS ‘인기가요’ 등 음악방송에 출연, 여섯 번째 미니앨범의 타이틀 곡 ‘FREQUENCY’로 화려한 컴백 스테이지를 펼친다. 이번 타이틀 곡 ‘FREQUENCY’는 ‘우리의 주파수에 맞춰 새로운 차원으로 가자’라는 메시지의 강렬한 올드스쿨 힙합 댄스 곡으로, WayV의 새로운 음악과 색다른 콘셉트를 만날 수 있어 뜨거운 호응을 얻는 중이다. 특히 타이틀 곡 ‘FREQUENCY’ 퍼포먼스는 곡의 후렴 도입 사운드 ‘Plululululu’에 맞춘 캐치한 손동작을 비롯해 WayV만의 파워풀한 힙합 무드를 담은 다채로운 안무로 구성되어 있으며, 거칠게 휘몰아치는 퍼포먼스 속에서도 여유로운 무대 매너를 선보이는 멤버들의 모습이 시선을 사로잡을 것으로 보인다. 한편, 지난 25일 발]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘컴백’ 트와이스, 수록곡 ‘Magical’ 음원 일부 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/382/0001165734</link>
-            <guid>https://m.entertain.naver.com/now/article/382/0001165734</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 트와이스가 미니 14집 ‘STRATEGY’(스트래티지) 수록곡 ‘Magical’(매지컬) 일부 음원을 선공개했다. 영상은 반짝이는 멜로디와 마법 같은 멤버들의 비주얼이 더해져 크리스마스 분위기를 자아냈다. 여기에 겨울 감성이 느껴지는 가사 “This is something magical The spell you have on me is supernatural Now you got me falling like the winter snow When you look at me it‘s something M-A-G-I-C Something magical”이 더해져 완곡을 향한 기대를 높였다. 이들은 컴백을 앞두고 풍성한 프로모션을 전개하고 있다. 지난 21일(이하 현지시간) K팝 아티스트 최초로 ’아마존 뮤직 라이브‘(Amazon Music Live)에 출연해 단독 공연을 펼쳤고 ’아마존 뮤직 라이브‘ 역대 가장 많은 시청자 수를 달성하며 ’글로벌 원톱 걸그룹‘ 기세를 입증했다. 이어]]></content:encoded>
+            <title><![CDATA[규현, 첫 정규앨범 '컬러스'로 국내외 음반차트 1위 직행 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/018/0005894911</link>
+            <guid>https://m.entertain.naver.com/now/article/018/0005894911</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:51 GMT</pubDate>
+            <content:encoded><![CDATA[가수 규현의 다채로운 음악 컬렉션이 글로벌 팬들의 취향을 저격했다. 소속사 안테나에 따르면 규현의 첫 정규앨범 ‘컬러스’(COLORS)는 지난 27일 발매 직후 홍콩, 말레이시아, 멕시코, 파라과이, 싱가포르, 대만 1위를 비롯해 전 세계 12개 지역 아이튠즈 ‘톱 앨범’ 차트 톱10에 진입했다. 또 ‘컬러스’는 28일 기준 음반 집계 사이트 한터차트 실시간 피지컬 음반차트 1위에 올랐다. 타이틀곡 ‘하루마다 끝도 없이’(Unending Days)는 가슴 아픈 이별의 후유증을 규현의 서정적인 보컬로 섬세하게 그린 곡이다. 밴드 사운드를 기반으로 한 짜임새 있는 편곡과 선명한 멜로디 라인 등이 조화롭게 어우러진 가운데, 이 곡 역시 파라과이 등 전 세계 아이튠즈 ‘톱 송’ 차트 1위에 직행하며 글로벌 시장 내 규현의 인기를 실감케 했다. ‘컬러스’는 끊임없이 스펙트럼을 확장해 나가고 있는 규현표 변화무쌍한 음악 팔레트다. 규현의 목소리를 매개로 총 10개 트랙이 고유의 색을 입은 듯]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[베이비몬스터 첫 월드투어 日 팬심 정조준, 4개 도시·11회 진행 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/609/0000926092</link>
-            <guid>https://m.entertain.naver.com/now/article/609/0000926092</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[베이비몬스터가 데뷔 첫 월드투어의 규모를 확대하고 있는 가운데, 일본 공연의 상세 정보가 한꺼풀 더 베일을 벗었다. YG엔터테인먼트는 12월 28일 공식 블로그에 '2025 BABYMONSTER 1st WORLD TOUR HELLO MONSTERS IN JAPAN'을 게재했다. 내년 1월 25일·26일 서울, 2월 미국 뉴저지, 3월 로스엔젤레스에 이어 일본 공연의 세부 일정이 발표된 것. 이에 따르면 베이비몬스터는 오는 3월 14·15·16일 카나가와 피아 아레나 MM, 3월 22·23일 아이치 포트멧세 나고야, 4월 3·4일 오사카 아스에 아레나, 4월 12·13일 카나가와 K아레나 요코하마, 4월 19·20일 후쿠오카 국제 센터에서 4개 도시 11회차에 달하는 공연을 개최한다. 이로써 베이비몬스터는 일본 각지의 대규모 공연장에서 지난 팬미팅 투어 대비 2배 이상 확대된 일정으로 팬들과 만나게 됐다. 그간 팬미팅, 페스티벌, 일본어 음원 발매 등 다채로운 활동을 펼치며 현지 음악]]></content:encoded>
+            <title><![CDATA[럭키비키잖아..아이브 장원영 'AAA 2024' MC..4년 연속 발탁 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/108/0003285892</link>
+            <guid>https://m.entertain.naver.com/now/article/108/0003285892</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:51 GMT</pubDate>
+            <content:encoded><![CDATA['MZ 워너비 아이콘' 걸 그룹 아이브(IVE)의 장원영이 4년 연속 '아시아 아티스트 어워즈'(AAA) MC로 활약한다. 28일 소속사 스타쉽엔터테인먼트에 따르면 장원영은 오는 12월 27일 태국 방콕 임팩트 챌린저 홀 1-2(IMPACT Challenger Hall 1-2)에서 열리는 '제9회 아시아 아티스트 어워즈'(The 9th Asia Artist Awards, 이하 'AAA 2024')의 진행을 맡는다. 이로써 'AAA 2021'부터 인연을 이어온 장원영은 올해로 4년 연속 'AAA' 무대를 이끌게 됐다. 장원영은 지난해 필리핀에서 열린 'AAA 2023'에서 능숙한 진행 실력과 완벽한 외국어 구사로 큰 호평을 받으며 MC로서 자질을 톡톡히 입증했고, '아시아 셀러브리티' 상까지 거머쥐었다. 또한 장원영은 특유의 긍정적인 에너지로 패션, 뷰티 등 다양한 브랜드의 광고 모델로도 활약 중이다. 특히 올해는 장원영의 초긍정적인 사고방식을 뜻하는 '원영적 사고'가 MZ 세대에 큰]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[바다 유진, 불화설 슈 없이 듀엣으로 뭉친다‥S.E.S. 추억 재조명 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/609/0000926089</link>
-            <guid>https://m.entertain.naver.com/now/article/609/0000926089</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[가수 바다의 연말 콘서트에 전 SM엔터테인먼트 멤버들이 뭉쳐 우정을 다진다. 바다는 오는 12월 7~8일 양일간 서울 강북구 미아동 성신여자대학교 운정그린캠퍼스에서 '2024 바다 콘서트 The Ocean-I'M YOUR HOME'이라는 타이틀로 콘서트를 연다. 가수로 활동하면서 선후배간의 사랑이 남달랐던 바다는 특히 SM엔터테인먼트 후배들과 끈끈한 우정을 과시했는데, 자신의 이번 콘서트에서도 SM엔터테인먼트 OB 멤버들이 공연에 참여하는 것. 7일에는 '청소왕' 부캐로 인기를 얻고 있는 브라이언과 S.E.S.의 유진, 밴드 터치드의 윤민이 게스트로 나서고, 8일에는 플라이투더스카이 환희, 아이키, 유진이 출연한다. 환희와 브라이언은 바다의 공연 소식에 무조건 참여하겠다고 약속했고, 유진은 S.E.S.의 든든한 멤버이자 동반자로 전회 공연에 참여한다. 특히 유진과의 공연에서는 S.E.S. 활동 당시 일본 싱글로 발매됐던 노래를 바다와 듀엣으로 부를 예정이라 관심이 모아진다. 앞서 바]]></content:encoded>
+            <title><![CDATA[은가은, '♥박현호' 결혼 전 전속계약 분쟁?…소속사 "소장받은 것 없다" [공식입장] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/311/0001800747</link>
+            <guid>https://m.entertain.naver.com/now/article/311/0001800747</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:51 GMT</pubDate>
+            <content:encoded><![CDATA[가수 은가은이 소속사 TSM엔터테인먼트에 전속계약 해지를 통보했다는 보도가 나온 가운데, 소속사가 입장을 밝혔다. 소속사 TSM엔터테인먼트 관계자는 28일 엑스포츠뉴스에 "전속계약 해지 관련 소장을 받지 않았다"며 관련 사항을 확인한 후 입장을 밝힐 것을 알렸다. 앞서 이날 한 매체는 은가은이 TSM엔터테인먼트에 전속계약 해지를 통보했다고 보도했다. 해당 보도에 따르면 은가은 측은 소속사가 약속된 정산금 지급을 하지 않았으며, 계약 기간 내내 정산이 지연됐다고 주장했다. 한편 은가은은 지난 2013년 데뷔, 2022년 TV조선 '내일은 미스트롯2'에서 7위를 차지하며 대중에 이름을 알렸다. 최근에는 5살 연하 트로트 가수 박현호와 내년 4월 결혼식을 올린다고 밝혔다. 두 사람은 현재 채널A 예능 '신랑수업'에 함께 출연 중이다. 사진=엑스포츠뉴스DB]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘빅뱅 리더’ 지드래곤, 신곡 완전체 무대 어떻게 탄생시켰나 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/410/0001038439</link>
-            <guid>https://m.entertain.naver.com/now/article/410/0001038439</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[가수 G-DRAGON(지드래곤)이 태양, 대성과 함께한 신곡 ‘HOME SWEET HOME(홈 스윗 홈)’ 비하인드 영상을 공개해 VIP를 감동시켰다. 지난 27일 오후 G-DRAGON의 공식 유튜브 채널에는 태양, 대성과 함께 작업한 ‘HOME SWEET HOME’ 비하인드 영상 1편이 게재됐다. 공개된 영상에는 ‘HOME SWEET HOME’ 녹음 현장부터 빅뱅 완전체 무대로 뜨거운 화제를 불러 모은 2024 MAMA AWARDS(이하 ‘MAMA’) 준비 과정까지 팬들을 만나기 위한 여정이 담겨있어 이목을 집중시켰다. 영상에서 ‘MAMA’ 무대에 대한 미팅 중 태양과 대성은 음원이 공개되지 않은 상태에서 무대를 선보이는 것에 대해 우려를 표했고, 무대를 위해 ‘HOME SWEET HOME’ 곡 발매 시점까지 조정했음이 밝혀졌다. 이에 대해 G-DRAGON은 “잘해도 본전이지만 힘을 실어준다는 느낌으로 완전체가 무대에 섰으면 좋겠다”며 멤버들을 설득했고, G-DRAGON의 이같은]]></content:encoded>
+            <title><![CDATA[리센느, 내달 4일 '어어' 일본어 버전 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/018/0005894901</link>
+            <guid>https://m.entertain.naver.com/now/article/018/0005894901</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:51 GMT</pubDate>
+            <content:encoded><![CDATA[리센느(사진=더뮤즈엔터테인먼트) 그룹 리센느(RESCENE)가 내달 4일 자정 일본 두 번째 싱글 ‘어어’(UhUh) 일본어 버전을 발매한다고 소속사 더뮤즈엔터테인먼트가 28일 밝혔다. ‘어어’(Japanese Version)는 리센느의 데뷔곡인 ‘어어’를 일본어 버전으로 재녹음한 싱글이다. 이번 싱글의 원곡 ‘어어’는 향(Scent)을 통해 ‘다시 장면(Scene)을 떠올린다’는 그룹 아이덴티티가 담겨, 잊히지 않을 향기를 퍼뜨리겠다는 리센느의 포부가 물씬 느껴졌던 곡이다. 발매 후 ‘어어’ 뮤직비디오는 조회수 1400만뷰를 돌파, 일본에서도 유니크한 향 콘셉트가 주목받은 바 있다. 리센느는 ‘어어’ 일본어 버전 발매를 시작으로 일본 활동문을 본격적으로 열 예정이다. 내달 7일에는 일본 도쿄타워 주최로 진행되는 데뷔 공연을 통해 팬들을 가까이 만난다. 리센느가 K팝 아이돌 최초로 일본의 랜드마크인 도쿄타워에서 공연을 확정하면서, 스포트라이트가 집중되고 있다. 앞서 리센느는 일본 첫]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[베이비몬스터, 데뷔 첫 월드투어 日 정조준..4개 도시·11회 진행 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/109/0005203685</link>
-            <guid>https://m.entertain.naver.com/now/article/109/0005203685</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[YG 베이비몬스터가 데뷔 첫 월드투어의 규모를 확대하고 있는 가운데, 일본 공연의 상세 정보가 한꺼풀 더 베일을 벗었다. YG엔터테인먼트는 28일 공식 블로그에 '2025 BABYMONSTER 1st WORLD TOUR 'HELLO MONSTERS' IN JAPAN'을 게재했다. 내년 1월 25일·26일 서울, 2월 미국 뉴저지, 3월 로스엔젤레스에 이어 일본 공연의 세부 일정이 발표된 것. 이에 따르면 베이비몬스터는 오는 3월 14·15·16일 카나가와 피아 아레나 MM, 3월 22·23일 아이치 포트멧세 나고야, 4월 3·4일 오사카 아스에 아레나, 4월 12·13일 카나가와 K아레나 요코하마, 4월 19·20일 후쿠오카 국제 센터에서 4개 도시 11회차에 달하는 공연을 개최한다. 이로써 베이비몬스터는 일본 각지의 대규모 공연장에서 지난 팬미팅 투어 대비 2배 이상 확대된 일정으로 팬들과 만나게 됐다. 그간 팬미팅, 페스티벌, 일본어 음원 발매 등 다채로운 활동을 펼치며 현지 음]]></content:encoded>
+            <title><![CDATA[장원영, 4년 연속 ‘AAA 2024’ MC 발탁! 글로벌 워너비의 클래스. (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://m.entertain.naver.com/now/article/468/0001111530</link>
+            <guid>https://m.entertain.naver.com/now/article/468/0001111530</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:51 GMT</pubDate>
+            <content:encoded><![CDATA[아이브(IVE) 장원영. 사진ㅣAAA 조직위원회 아이브(IVE) 장원영이 4년 연속 ‘아시아 아티스트 어워즈(AAA)’ MC로 선정되며 MZ세대를 대표하는 글로벌 스타로서의 입지를 더욱 공고히 했다. 스타쉽엔터테인먼트에 따르면, 장원영은 오는 12월 27일 태국 방콕 임팩트 챌린저 홀에서 열리는 제9회 AAA 2024의 진행을 맡는다. 2021년부터 시작된 AAA와의 인연은 그녀의 뛰어난 MC 능력과 외국어 구사력을 입증하는 증거다. 특히 지난해 AAA 2023에서는 MC 활약은 물론 ‘아시아 셀러브리티’ 상까지 수상하며 멀티테이너로서의 면모를 유감없이 발휘했다. 올해도 그녀의 특유의 밝은 에너지로 글로벌 팬들의 기대를 한 몸에 받고 있다. ‘럭키비키(LuckyVicky)’로 대표되는 장원영의 긍정 에너지는 이미 MZ세대 사이에서 하나의 문화 현상으로 자리 잡았다. 광고, 패션, 공공기관 등 다양한 분야에서 그녀의 영향력은 계속해서 확대되고 있다. 음악적 재능 역시 놓칠 수 없다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[성탄절에 만나는 피프티피프티, 시즌송 ‘윈터 글로우’ 발표 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://m.entertain.naver.com/now/article/021/0002674650</link>
-            <guid>https://m.entertain.naver.com/now/article/021/0002674650</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 걸그룹 피프티피프티가 겨울에 어울리는 시즌송으로 돌아온다. 피프티피프티(FIFTY FIFTY)는 내달 9일 첫 겨울 시즌송을 담은 디지털 싱글 ‘Winter Glow(윈터 글로우)’를 발매한다. 이 앨범에는 ‘When You Say My Name(웬 유 세이 마이 네임)’과 ‘Naughty or Nice(나티 오어 나이스)’ 등 2곡이 담긴다. 소속사 어트랙트 측은 "겨울 시즌송으로 선보이는 싱글 임에도 각기 다른 매력의 2곡을 담았다"면서 "매력적인 음색과 완성도 높은 음악성으로 주목받고 있는 피프티피프티의 신곡을 기대해 달라"고 주문했다. 한편 데뷔 후 첫 미국 투어 ‘LOVE SPRINKLE TOUR in USA(러브 스프링클 투어 인 유에스에이)’에 돌입한 피프티피프티는 27일(오늘) 샌프란시스코 공연을 시작으로 미국 8개 도시에서 투어를 진행한다.]]></content:encoded>
+            <title><![CDATA[[단독] 박서진, 병역 면제 판정받았다…우울증·불면증 등 때문 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/312/0000690792</link>
+            <guid>https://m.entertain.naver.com/now/article/312/0000690792</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[트로트 가수 박서진이 병역의 의무를 다하지 못하게 됐다. 28일 텐아시아 취재 결과, 1995년생인 박서진은 가정사로 인한 정신질환 병역 면제 판정을 받았다. 해당 판정은 이미 오래전인 20대 초반 받은 것으로 알려졌다. 박서진에겐 작은 형의 49재 당일, 간암 투병을 하던 큰 형이 간 이식 부작용으로 세상을 떠난 아픈 기억이 있다. 과거 한 방송에서 박서진은 "형들이 아직도 살아 있는 것 같고 다시 돌아올 것만 같다. 큰형이 수술 후 의식이 거의 없는 와중에도 '내 동생 박효빈'하며 알아보더라"고 한 바 있다. 더불어 박서진의 아버지는 이혼 후 7년간 아들 셋을 홀로 키우다, 같은 이혼의 아픔이 있는 박서진의 어머니를 만나 재혼했다. 이후 박서진 남매가 태어난 것으로 알려졌다. 박서진은 부모님이 재혼 부부라는 걸 형들이 하늘로 떠나고 나서야 알게 됐다고 털어놨다. 이러한 가정사로 박서진은 오랜 시간 정신적 어려움을 겪어왔다. 우울증, 불면증 등의 증세를 보인 박서진은 결국 20대]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[권성준·조서형 셰프, 요리 전문가도 감탄한 닌자의 신제품 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/421/0007933015</link>
-            <guid>https://m.entertain.naver.com/now/article/421/0007933015</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[흑백요리사 '나폴리 맛피아' 권성준 셰프와 ‘장사천재 조사장’ 조서형 셰프(오른쪽)가 28일 서울 용산구 그랜드 하얏트 호텔에서 열린 주방가전 브랜드 닌자(Ninja) ‘콤비 올인원 멀티쿠커(Combi all-in-one multi-cooker)’ 출시 기념 행사에 참석해 포즈를 취하고 있다. ‘콤비 올인원 멀티쿠커’는 에어프라이어와 오븐, 밥솥 등의 기능을 하나로 결합해 설계된 12-in-1 멀티쿠커다. 2023.11.28/뉴스1]]></content:encoded>
+            <title><![CDATA[백지영, 케이윌에 육아법 공유.."비♥김태희 딸과 같은 반" [아는 형수][종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/108/0003285904</link>
+            <guid>https://m.entertain.naver.com/now/article/108/0003285904</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[가수 케이윌이 가수 백지영으로부터 결혼을 추천받았다. 케이윌은 지난 27일 유튜브 채널 '형수는 케이윌'을 통해 '아는 형수' 여섯 번째 에피소드를 공개했다. 공개된 영상에서 케이윌은 백지영을 '아는 형수'로 초대, 만남과 동시에 논란의 명품백을 언급하며 친밀도를 증명했다. 백지영은 "내가 여기에 온 몇 번째 여자냐", "누구랑 여기서 뭐 해 먹냐" 등 마라맛 토크로 케이윌을 당황하게 했고, 이에 케이윌은 백지영의 과거를 언급하며 "완전 새사람이 됐다"고 응수해 웃음을 자아냈다. 케이윌은 본격적으로 백지영의 결혼 생활에 침투했다. 올해로 결혼 11년 차, 8살 딸을 육아 중인 백지영은 남편이자 배우 정석원에 대해 "내가 라이터 불이면 남편은 산불인데 생각보다 내면이 더 좋았고, 연애를 할수록 더 좋아졌다"고 말문을 열었다. 이어 백지영은 정석원이 질투가 많지만 케이윌에 대해서는 질투를 하지 않는다며 "단둘이 캠핑에 간다고 해도 믿을 것"이라고 말했다. 케이윌도 이를 인정하며 "누나와]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[권성준 셰프, 내가 바로 '흑백요리사' 우승자 나폴리맛피아 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/421/0007933014</link>
-            <guid>https://m.entertain.naver.com/now/article/421/0007933014</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA['흑백요리사' 우승자인 나폴리맛피아 권성준 셰프가 28일 서울 용산구 그랜드 하얏트 호텔에서 열린 주방가전 브랜드 닌자(Ninja) ‘콤비 올인원 멀티쿠커(Combi all-in-one multi-cooker)’ 출시 기념 행사에 참석해 포즈를 취하고 있다. ‘콤비 올인원 멀티쿠커’는 에어프라이어와 오븐, 밥솥 등의 기능을 하나로 결합해 설계된 12-in-1 멀티쿠커다. 2023.11.28/뉴스1]]></content:encoded>
+            <title><![CDATA[희영♥진영→보민♥정명, 대망의 ‘최종 선택’…결과는? (돌싱글즈6) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/382/0001165771</link>
+            <guid>https://m.entertain.naver.com/now/article/382/0001165771</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[MBN ‘돌싱글즈6’의 희영♥진영, 보민♥정명, 시영♥방글이 ‘현실 연애’ 후일담 촬영을 마치고, 상대와 계속 만남을 이어갈지 결정하는 ‘최종 선택’을 예고한다. 28일 오후 방송하는 MBN ‘돌싱글즈6’ 최종회에서는 ‘돌싱하우스’에서 서로를 선택해 ‘현실 커플’로 발전한 세 쌍이 마지막 입장을 정리한 뒤, ‘최종 선택’을 하는 심장 쫄깃한 현장이 펼쳐진다. 이날 스튜디오 4MC 이혜영-유세윤-이지혜-은지원은 최종회 기념으로 ‘돌싱글즈’의 시그니처인 ‘이름 도장’을 선물을 받는다. 모두가 놀라워 하는 가운데, ‘네 분은 계속 만남을 이어가시겠습니까?’라는 ‘도장 게시판’이 등장하고, 이에 이지혜는 “도장을 안 찍으면 MC가 바뀌느냐?”고 물은 뒤, “동시간대 다른 프로그램이 있는지 고민을 좀 해 보겠다”고 덧붙여 스튜디오를 웃음바다로 만든다. 4MC의 설레는 ‘도장 찍기’가 완료되자, 희영X진영, 보민X정명, 시영X방글의 후일담 마지막 이야기와, ‘최종 선택’ 현장이 공개된다. 앞서]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[엔하이픈, 日 오리콘·빌보드 재팬 1위 석권...뜨거운 인기 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/009/0005404203</link>
-            <guid>https://m.entertain.naver.com/now/article/009/0005404203</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 엔하이픈(ENHYPEN)이 일본 주요 앨범 차트 정상을 석권하며 뜨거운 현지 인기를 다시 한번 입증했다. 28일 일본 오리콘이 발표한 최신 차트(12월 2일 자/집계기간 11월 18~24일)에 따르면 엔하이픈(정원, 희승, 제이, 제이크, 성훈, 선우, 니키)의 정규 2집 리패키지 ‘로맨스 : 언톨드 -데이드림-(ROMANCE : UNTOLD -daydream-)’이 18만 6791포인트로 ‘주간 합산 앨범 랭킹’ 1위를 차지했다. 이로써 엔하이픈은 미니 2집 ‘보더 : 카니발(BORDER : CARNIVAL)’을 시작으로 ‘로맨스 : 언톨드 -데이드림-’까지 총 9개 앨범을 이 차트 정상에 올렸다. 이는 ‘합산 앨범 통산 1위 획득 작품 수’ 역대 3위에 해당하는 성과라고 오리콘은 전했다. 엔하이픈은 빌보드 재팬의 주요 차트도 휩쓸었다. 정규 2집 리패키지는 전날(27일) 공개된 빌보드 재팬 최신 ‘톱 앨범 세일즈’(집계기간 11월 18~24일)와 ‘핫 앨범’에서 모두 1위를]]></content:encoded>
+            <title><![CDATA[“‘정년이’ 같은 시대극엔 SNS엔 없는 간절함 녹아있어” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/021/0002674718</link>
+            <guid>https://m.entertain.naver.com/now/article/021/0002674718</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[드라마 ‘정년이’ 정지인 감독 “여성국극 관심 불렀다” 호평 “커튼이 열리는 순간, 마치 놀이공원에 처음 입장하는 듯한 기대감과 흥분을 주고 싶었습니다.” 여성국극을 소재로 한 tvN 드라마 ‘정년이’를 연출한 정지인(사진) 감독은 ‘극 중 극’으로 여성국극과 드라마를 동시에 보는 재미를 선사했다는 평가에 대해 이렇게 응답했다. 배우 김태리가 주연을 맡은 ‘정년이’는 최고 시청률 16.5%(닐슨코리아 전국 기준)로 막을 내렸다. 1회(4.5%)와 비교해 4배 가까이로 치솟았다. 여성이 남성 배역까지 책임지는 여성국극의 명맥을 잇는 여배우들의 분투기가 1950년대 6·25 전쟁 직후 시대적 공기를 살린 연출과 맞물리며 대중의 이목을 집중시켰다. 그 결과, 최근 국가유산진흥원이 연장을 결정한 여성국극 ‘한국 최초 여성 오페라, 전설이 된 그녀들’이 매진되고, 내년 1월에는 신작 ‘벼개가 된 사나히’가 소개되는 등 이 장르가 현실에서도 화려하게 부활하고 있다. 정 감독은 28일 문화일보와]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['2차례 파경설' 서인영, 결국 이혼 소송 인정 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/015/0005062540</link>
-            <guid>https://m.entertain.naver.com/now/article/015/0005062540</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[가수 서인영이 두 차례 파경설에 이혼 소송 중임을 밝혔다. 28일 서인영 측은 "현재 이혼 소송 마무리 단계를 진행 중이며 아직 결과가 나오지 않았다. 모든 상황이 정리되는 대로 입장을 밝힐 것"이라고 밝혔다. 서인영은 지난해 2월 비연예인 사업가와 웨딩마치를 울렸다. 결혼 이후 여러 예능 프로그램에서 신혼 생활에 대한 만족감을 드러냈다. 하지만 결혼 7개월여 만인 같은 해 9월 이혼설에 휘말렸다. 당시 서인영은 "일방적으로 '성격 차로 맞지 않는다. 헤어지자'는 말을 들었지만, 직접 소송 이야기를 나눈 적은 없다"며 "이혼할 생각이 없다"면서 파경설을 부인했다. 하지만 이후 한 차례 더 이혼설이 나왔다. 당시에도 서인영의 소속사 측은 "사생활과 관련된 부분이라 아직은 할 수 있는 말이 없다"며 "추후 정리되는 내용이 있다면 공식 보도자료로 말씀드리겠다"고 밝혔다. 서인영은 2002년 쥬얼리 멤버로 합류해 '원 모어 타임(One more time)', '니가 참 좋아', '슈퍼 스타]]></content:encoded>
+            <title><![CDATA[백지영 "비♥김태희 딸과 우리 딸, 같은 학교 같은 반..운동회 때 난리" (아는 형수)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/076/0004220721</link>
+            <guid>https://m.entertain.naver.com/now/article/076/0004220721</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[케이윌은 지난 27일 유튜브 채널 '형수는 케이윌'을 통해 '아는 형수' 여섯 번째 에피소드를 공개했다. 공개된 영상에서 케이윌은 백지영을 '아는 형수'로 초대, 만남과 동시에 논란의 명품백을 언급하며 친밀도를 증명했다. 백지영은 "내가 여기에 온 몇 번째 여자냐", "누구랑 여기서 뭐 해 먹냐" 등 마라맛 토크로 케이윌을 당황하게 했고, 이에 케이윌은 백지영의 과거를 언급하며 "완전 새사람이 됐다"고 응수해 웃음을 자아냈다. 케이윌은 본격적으로 백지영의 결혼 생활에 침투했다. 올해로 결혼 11년 차, 8살 딸을 육아 중인 백지영은 남편이자 배우 정석원에 대해 "내가 라이터 불이면 남편은 산불인데 생각보다 내면이 더 좋았고, 연애를 할수록 더 좋아졌다"고 말문을 열었다. 이어 백지영은 정석원이 질투가 많지만 케이윌에 대해서는 질투를 하지 않는다며 "단둘이 캠핑에 간다고 해도 믿을 것"이라고 말했다. 케이윌도 이를 인정하며 "누나와 내가 이렇게 친하게 지내는 걸 질투한다면 그건 그 여]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[현빈♥손예진 ‘사랑의 불시착’, 110년 전통 日 여성 가극으로 재탄생 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/009/0005404201</link>
-            <guid>https://m.entertain.naver.com/now/article/009/0005404201</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[스튜디오드래곤이 제작해 세계적으로 공전의 히트를 기록한 드라마 ‘사랑의 불시착’이 일본 전통의 여성 가극인 다카라즈카 공연으로 제작돼 오는 30일 도쿄에서 화려한 막을 올린다. 올해로 창단 110주년을 맞이하는 다카라즈카 가극단은 여성 단원으로만 구성된 일본의 전통 뮤지컬 극단으로 일본뿐 아니라 전 세계적으로 많은 관객층을 보유하고 있다. 한국 드라마가 다카라즈카 공연으로 만들어지는 것은 2009년 ‘태왕사신기’ 이후 ‘사랑이 불시착’이 두 번째다. ‘사랑의 불시착’ 다카라즈카 공연은 오는 30일부터 12월 15일까지 1,300석 규모 도쿄 타테모노 브릴리아홀에서, 12월 22일부터 28일까지 1,905석 규모 오사카 우메다 예술 극장 메인홀에서 진행된다. 총 18회차로 이루어진 도쿄 공연은 모든 회차가 전석 매진을 기록하며 현지에서 기대감이 고조되고 있다. 특히 이번 공연에서는 전원 여성으로 이루어진 다카라즈카 가극단을 대표하는 배우 아사미 준(朝美絢)과 유메시로 아야(夢白あや)가]]></content:encoded>
+            <title><![CDATA[[SC이슈] 뉴진스 하니, "빌리프랩 사과해" 어도어 입장문에도 '무표정'…헤어질 결심 굳혔나 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/076/0004220720</link>
+            <guid>https://m.entertain.naver.com/now/article/076/0004220720</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 뉴진스는 어도어와 헤어질 결심을 굳힌 걸까. 하니가 27일 팬 소통 플랫폼 포닝의 상태 메시지를 '눈이 와~'에서 무표정 이모티콘으로 변경했다. 이는 어도어가 뉴진스의 내용증명에 따른 시정 조치로 '하니의 주장을 신뢰하며 빌리프랩은 사과하라'는 취지의 입장문을 발표한 이후의 일이라 관심을 끈다. 어도어는 이날 "빌리프랩의 '매니저 무시 발언'과 관련한 주장은 뉴진스 멤버 하니의 진술과 전혀 다르다. 하니는 5월 27일 빌리프랩의 한 구성원이 '무시해' 또는 '무시하고 지나가'라는 취지의 발언을 한 것으로 분명히 기억하고 있다. 비교적 짧은 순간에 벌어진 일인데 하니가 당시의 상황을 빠짐없이 기억해 내야만 문제를 삼을 수 있다는 것은 피해자에게 너무 가혹하고 엄격한 잣대"라고 밝혔다. 이어 "어도어와 어도어 구성원들은 당사 아티스트의 말을 전적으로 신뢰하고 하니가 입은 피해를 진정으로 안타깝게 생각한다. 빌리프랩 측이 하니의 피해를 가벼이 여기지 않고 상호존중하는 모습, 성의있는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[청하, 캐롤 싱글 발매 D-5…더블 타이틀 곡명 공개됐다 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/312/0000690772</link>
-            <guid>https://m.entertain.naver.com/now/article/312/0000690772</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[가수 청하가 특별한 크리스마스 선물로 팬들을 찾는다. 청하는 오는 12월 3일 각종 온라인 음원사이트를 통해 크리스마스 스페셜 싱글 'Christmas Promises (크리스마스 프로미시즈)'를 발매한다. 이와 함께 공식 SNS를 통해 티저 포스터를 공개했다. 공개된 티저 포스터는 크리스마스가 연상되는 레드와 골드 컬러로 팬들의 눈길을 사로잡고 있다. 또 이미지 중앙 하트 모양 틀 속 밝은 빛을 받고 있는 토끼 인형, 리본 등의 소품들이 따뜻한 분위기를 강조하고 있어 궁금증을 불러일으키고 있다. 특히 감각적인 필기체로 더블 타이틀곡명 'Sleigh (슬레이)', 'There Goes Santa Claus! (데어 고우즈 산타클로스!)'까지 모두 공개하며 청하가 이번에는 또 어떤 음악을 선보일지 기대감을 높이고 있다. 'Christmas Promises'는 청하가 지난 8월 발표한 스페셜 싱글 '알고리즘 (Algorithm)' 이후 약 4개월 만에 발매하는 신보다. 청하는 이번 앨범]]></content:encoded>
+            <title><![CDATA[김용선 “회사 부도 20억 빚 남기고 행방불명…남편 없이 이혼” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/382/0001165770</link>
+            <guid>https://m.entertain.naver.com/now/article/382/0001165770</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김용선이 행방불명된 남편에 대해 언급했다. 지난 27일 MBN ‘속풀이쇼 동치미’ 측이 공개한 예고 영상에는 1978년 MBC 10기 공채 연기자로 데뷔한 김용선이 출연해 ‘나는 남편 없이 혼자 이혼했다’라는 주제로 이야기를 시작했다. 김용선은 “지인 소개로 저희 남편을 만나게 됐다. 그래서 결혼까지 하게 됐다. 지내다 보니까 자상하고 곰살맞은 편이다. 촬영하고 늦게 들어오면 밥도 차려주고 힘들어 보이면 청소도 해주던 사람이다”라고 말문을 열었다. 이어 “이 사람이 하던 일이 무역 사업이었다. 2006~2007년이 되면서 사업이 조금씩 슬럼프에 빠졌다. 술도 많이 마시고 들어오고 몇 주씩 안 들어오기도 하고 싸우기도 많이 싸웠다“며 ”머리가 아파서 친구 집에서 며칠 쉬었다. 미안하다. 다시는 이런 일이 없을 것이다‘ 하길래 ’힘들어서 그럴 수도 있겠다‘ 싶어 넘어갔다“라며 지난 시간을 회상했다. 그러다 결국 김용선의 남편은 회사는 완전히 부도처리가 됐다. 이에 김용선은“그 당시]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[표예진, 나이 부풀림 의혹…만 32세 아닌 '미성년자' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/312/0000690771</link>
-            <guid>https://m.entertain.naver.com/now/article/312/0000690771</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[배우 표예진이 나이를 의심케 했다. 표예진은 지난 27일 자신의 인스타그램에 "교복..죄송"이라는 글과 함께 여러 장의 사진들을 게재했다. 공개된 사진들 속에서 표예진은 '임주희'라고 새겨진 이름표를 착용한 채 교복을 입고 다양한 포즈를 취하고 있는 모습. 특히 어려 보이는 동안 비주얼 때문에 만 32세의 나이에도 교복을 찰떡같이 소화해 보는 이들의 눈길을 끌었다. 한편 대한항공 승무원 출신인 표예진은 드라마 '오자룡이 간다'로 데뷔해 '구가의 서' '쌈 마이웨이' ' 김비서가 왜 그럴까' 'VIP' 등에 출연하며 점점 인지도를 쌓았다. 지난해에는 '모범택시2'에 출연해 안정적인 연기력을 보여줌과 동시에 극중 배우 이제훈과 러브라인 조짐을 보여 시즌3를 기대하게 했다.]]></content:encoded>
+            <title><![CDATA['줄리엔강♥' 제이제이, 기록적 폭설에도 비키니 차림...눈 위에서 스쿼트 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/076/0004220719</link>
+            <guid>https://m.entertain.naver.com/now/article/076/0004220719</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[줄리엔강 아내인 유튜버 제이제이가 한겨울에도 비키니 자태를 선보였다. 제이제이는 28일 "오전에 눈이 정말 많았는데 금방 녹고 있어요! 날씨가 따뜻해서 비키니를 꺼내입어 봤죠. 62kg대 유지 기념으로다가! 다른 지역은 어떤가요? 오늘 그래도 운동하는 젤린이들 있죠?"라는 글과 함께 여러 장의 사진과 영상을 게재했다. 사진 속 제이제이는 눈 쌓인 옥상에서 비키니 몸매를 뽐냈다. 이틀째 기록적인 폭설로 발목까지 눈이 쌓였지만, 날이 점차 개자 제이제이는 비키니를 입고 밖으로 나선 것. 건강미 넘치는 탄탄한 몸매를 한껏 뽐낸 제이제이는 눈 위에서 스쿼트까지 선보이며 운동 유튜버다운 면모를 드러냈다. 앞서 제이제이는 64kg을 유지하다가 현재는 체중 관리 중이라고 밝힌 바 있다. 그는 "호르몬 영향 등등으로 64kg 유지 중이었어요. 인바디를 체크했더니 체지방률이 31%나 나오더라구요"라며 "꽤 한동안 떨어지질 않고, 지방이 많아 식욕 관리도 더 어려웠는데 딱 일주일간 다이어트 보조제+식]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[계약서에 임신 금지..'사업가♥' 고우리, 성생활 끊기자 분통 "난 한창인데" (노빠꾸) [종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/108/0003285867</link>
-            <guid>https://m.entertain.naver.com/now/article/108/0003285867</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 레인보우 출신 고우리가 임신 금지 조항이 담긴 계약서에 불만을 표했다. 지난 27일 유튜브 채널 '노빠꾸탁재훈'에는 '고우리, 출산이 금지된 아이돌'이라는 제목의 영상이 올라왔다. 영상에서 고우리는 최근 레인보우 멤버였던 조현영과 레인보우18로 활약 중인 근황을 전했다. 그는 "앨범을 내준다고 했는데 아직도 기미가 안 보인다. 이상한 것만 시키고"라고 말했다. 고우리는 "계약도 말도 안 된다"며 불만을 터트렸다. 이에 신규진은 '절대 복종', '출산 금지' 등의 조항이 포함된 계약서를 공개했다. 이를 본 탁재훈이 "임신 불가 계약을 했냐"고 묻자 고우리는 "우리 다 활동 중에 임신하면 안 되니까 이걸 쓴 것"이라고 설명했다. 이에 탁재훈이 "임신 준비했냐"고 질문하자 고우리는 "하려고 했다. 그래서 지금 스톱 상태다. 우리 남편이 이 조항을 열심히 지킨다. 임신만 안 하면 되는데 왜 그것(성생활)도 안 하는 거냐. 열받아 죽겠다 진짜로"라고 분통을 터트렸다. 고우리는 "내조 아]]></content:encoded>
+            <title><![CDATA[[데스크 칼럼] 정우성의 혼외자 논란이 비혼 출생자 인식에 미칠 영향은? (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/396/0000694914</link>
+            <guid>https://m.entertain.naver.com/now/article/396/0000694914</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[온통 정우성 이야기로 도배되고 있다. 배우 정우성은 그야말로 연예인들 사이에서도 유명인사로 통하는 인물인 데다 그가 혼외자의 아빠란 사실이 밝혀지면서 엄청난 이야깃거리를 양산하고 있다. 정우성은 과거 인터뷰로 만난 적이 있지만 워낙 햇병아리 기자 시절이어서 그의 위압감이 엄청났던 것이 기억에 남는다. 물론, 부드러운 데다 온화한 성격의 그가 기자를 겁박하거나 위압적으로 대한 것은 아니었다. 존재만으로도 엄청난 배우였고 친구가 팬이란 말에 미소를 짓던 그의 모습이 기억에 남는다. 이후 영화 등 작품활동에 매진하던 정우성이 각종 사회적인 목소리를 내는 것도 지켜봤다. 실제 정우성은 지난 2014년부터 10년간 유엔난민기구 아시아 태평양 지역 명예 사절로 활동한 적이 있다. 하지만 그는 오랜 시간 결혼하지 않은 비혼 배우로 알려져 있었다. 그런 그가 아빠가 됐다는 소식은 놀라웠다. 무엇보다 결혼한 것도 아닌 상태에서였다는 점에서 많은 이들에게 충격을 줄 수밖에 없었다. 문가비는 지난 22]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[조서형 셰프 '장사천재 조사장'의 하트 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/421/0007932969</link>
-            <guid>https://m.entertain.naver.com/now/article/421/0007932969</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[‘장사천재 조사장’ 조서형 셰프가 28일 서울 용산구 그랜드 하얏트 호텔에서 열린 주방가전 브랜드 닌자(Ninja) ‘콤비 올인원 멀티쿠커(Combi all-in-one multi-cooker)’ 출시 기념 행사에 참석해 포즈를 취하고 있다. ‘콤비 올인원 멀티쿠커’는 에어프라이어와 오븐, 밥솥 등의 기능을 하나로 결합해 설계된 12-in-1 멀티쿠커다. 2023.11.28/뉴스1]]></content:encoded>
+            <title><![CDATA[언제 다 치우나…손연재 72억 주택, 폭설에 형체 못 알아볼 정도 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/312/0000690790</link>
+            <guid>https://m.entertain.naver.com/now/article/312/0000690790</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[전 리듬체조 국가대표 선수 손연재가 폭설 속 아들과 오붓한 시간을 보냈다. 손연재는 지난 27일 자신의 인스타그램 스토리에 별다른 멘트 없이 하나의 영상을 게재했다. 공개된 영상 속에서 손연재는 앞마당으로 보이는 공간에서 9개월 된 아들을 안고 나타나 겨울을 즐기고 있는 모습. 특히 아들은 금세 성장해 손연재의 상반신 크기만큼 자라 눈길을 끌었다. 한편 손연재는 리듬체조 국가대표 선수로 활약했다. 그는 2022년 9살 연상의 비연예인 금융계 종사자와 결혼해 지난 2월 아들을 출산했다. 또 지난해 11월 서울 이태원에 위치한 단독주택을 남편과 공동명의로 매매가 72억원에 매입한 것이 알려져 화제를 모았다. 손연재는 은퇴 후 현재 리듬체조 학원을 운영하면서 선수 육성에 힘쓰고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["잘해도 본전이지만" 지드래곤, 태양X대성 설득..빅뱅 완전체 완성 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/108/0003285865</link>
-            <guid>https://m.entertain.naver.com/now/article/108/0003285865</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[가수 G-DRAGON(지드래곤)이 태양, 대성과 함께한 신곡 'HOME SWEET HOME(홈 스윗 홈)' 비하인드 영상을 공개했다. 지난 27일 오후 G-DRAGON의 공식 유튜브 채널에는 태양, 대성과 함께 작업한 'HOME SWEET HOME' 비하인드 영상 1편이 게재됐다. 공개된 영상에는 'HOME SWEET HOME' 녹음 현장부터 빅뱅 완전체 무대로 뜨거운 화제를 불러 모은 2024 MAMA AWARDS(이하 'MAMA') 준비 과정까지 팬들을 만나기 위한 여정이 담겨있어 이목을 집중시켰다. 영상에서 'MAMA' 무대에 대한 미팅 중 태양과 대성은 음원이 공개되지 않은 상태에서 무대를 선보이는 것에 대해 우려를 표했고, 무대를 위해 'HOME SWEET HOME' 곡 발매 시점까지 조정했음이 밝혀졌다. 이에 대해 G-DRAGON은 "잘해도 본전이지만 힘을 실어준다는 느낌으로 완전체가 무대에 섰으면 좋겠다"며 멤버들을 설득했고, G-DRAGON의 이같은 결정은 완전체 빅뱅]]></content:encoded>
+            <title><![CDATA[[데스크 칼럼] 정우성의 혼외자 논란이 비혼 출생 인식에 미칠 영향은? (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/396/0000694913</link>
+            <guid>https://m.entertain.naver.com/now/article/396/0000694913</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[온통 정우성 이야기로 도배되고 있다. 배우 정우성은 그야말로 연예인들 사이에서도 유명인사로 통하는 인물인 데다 그가 혼외자의 아빠란 사실이 밝혀지면서 엄청난 이야깃거리를 양산하고 있다. 정우성은 과거 인터뷰로 만난 적이 있지만 워낙 햇병아리 기자 시절이어서 그의 위압감이 엄청났던 것이 기억에 남는다. 물론, 부드러운 데다 온화한 성격의 그가 기자를 겁박하거나 위압적으로 대한 것은 아니었다. 존재만으로도 엄청난 배우였고 친구가 팬이란 말에 미소를 짓던 그의 모습이 기억에 남는다. 이후 영화 등 작품활동에 매진하던 정우성이 각종 사회적인 목소리를 내는 것도 지켜봤다. 실제 정우성은 지난 2014년부터 10년간 유엔난민기구 아시아 태평양 지역 명예 사절로 활동한 적이 있다. 하지만 그는 오랜 시간 결혼하지 않은 비혼 배우로 알려져 있었다. 그런 그가 아빠가 됐다는 소식은 놀라웠다. 무엇보다 결혼한 것도 아닌 상태에서였다는 점에서 많은 이들에게 충격을 줄 수밖에 없었다. 문가비는 지난 22]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[포즈 취하는 '흑백요리사 나폴리맛피아 권성준 셰프 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/421/0007932956</link>
-            <guid>https://m.entertain.naver.com/now/article/421/0007932956</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA['흑백요리사' 우승자인 나폴리맛피아 권성준 셰프가 28일 서울 용산구 그랜드 하얏트 호텔에서 열린 주방가전 브랜드 닌자(Ninja) ‘콤비 올인원 멀티쿠커(Combi all-in-one multi-cooker)’ 출시 기념 행사에 참석해 포즈를 취하고 있다. ‘콤비 올인원 멀티쿠커’는 에어프라이어와 오븐, 밥솥 등의 기능을 하나로 결합해 설계된 12-in-1 멀티쿠커다. 2023.11.28/뉴스1]]></content:encoded>
+            <title><![CDATA[에녹, ‘현역가왕2’ 출연에 전국 응원 물결 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/312/0000690789</link>
+            <guid>https://m.entertain.naver.com/now/article/312/0000690789</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[가수 에녹의 팬들이 MBN ‘현역가왕2’ 출연을 기념해 전국 규모의 응원 캠페인을 펼쳐 눈길을 끌고 있다. 에녹 공식 팬카페 화기에에는 서울을 비롯해 대구, 부산, 광주 등 전국 각지에서 대대적인 서포트를 진행 중이다. 특히 서울 주요 지역 대형 전광판을 중심으로 한 응원 광고가 눈길을 끈다. 광화문 코리아나 호텔 벽면에 설치된 전광판과 코엑스 인근 파르나스 미디어타워 전광판에는 에녹을 지지하는 서포트 광고가 송출 중이며, 이들 광고는 오는 12월 3일까지 계속될 예정이다. 특히 테헤란로에 위치한 가로 12.3m, 세로 26m에 달하는 초대형 파르나스 미디어타워는 양면형 미디어로 많은 유동인구가 에녹을 접할 것으로 보인다. 여기에 서울 지하철 54개 역사의 120기 스크린과 전국 3,000여개 이상 CU 편의점, 대구 범어네거리 전광판 등에도 에녹을 응원하는 광고가 게재된다. 지하철 광고는 11월 27일부터 11월 29일까지 3일간, CU 편의점 광고는 오는 12월 3일까지 대구 범]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['흑백요리사' 권성준 셰프, 귀요미 브이 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/421/0007932955</link>
-            <guid>https://m.entertain.naver.com/now/article/421/0007932955</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA['흑백요리사' 우승자인 나폴리맛피아 권성준 셰프가 28일 서울 용산구 그랜드 하얏트 호텔에서 열린 주방가전 브랜드 닌자(Ninja) ‘콤비 올인원 멀티쿠커(Combi all-in-one multi-cooker)’ 출시 기념 행사에 참석해 포즈를 취하고 있다. ‘콤비 올인원 멀티쿠커’는 에어프라이어와 오븐, 밥솥 등의 기능을 하나로 결합해 설계된 12-in-1 멀티쿠커다. 2023.11.28/뉴스1]]></content:encoded>
+            <title><![CDATA[[SC이슈] 전소연, 큐브 재계약 불발설 입 열었다 "가장 좋은 환경서 음악 하고파" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/076/0004220717</link>
+            <guid>https://m.entertain.naver.com/now/article/076/0004220717</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 (여자)아이들 전소연이 전속계약 문제에 대한 입장을 밝혔다. 27일 유튜브 채널 'df 디에프'를 통해 '재계약 논란에 대해 입을 열다'라는 제목의 영상이 게재됐다. 공개된 영상에서 전소연은 (여자)아이들의 프로듀서 겸 리더로 팀을 이끌어왔던 지난 7년을 회상했다. 그는 "보통 제가 앨범 프로듀서로 일한다. 작사 작곡도 하고 앨범에 맞는 곡 수급도 한다. 직원들과의 소통, 마케팅, 콘셉트 구상, 뮤직비디오, 감독님 컨택도 한다"며 "데뷔를 자작곡을 했지만 그때는 어떻게 타이틀곡이 된 거였다. '덤디덤디의 난'이 있었다. 모두 노래가 안 좋다고 했는데 제가 밀어붙였다. 음원 성적이 많이 떨어졌던 때라 성적이 잘 나와야 한다는 생각이었다. '덤디덤디'가 자체 최고 기록을 경신하면서 조금씩 앨범 프로듀싱에 더 참여하게 됐다"고 털어놨다. 그렇게 팀을 이끌어 왔던 전소연은 8월 서울 올림픽공원 KSPO DOME에서 열린 3번째 월드투어 '아이-돌' 서울 공연에서 '이즈 디스 배드 비*]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[권성준·조서형, 셰프 콤비와 닌자 콤비의 만남 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/421/0007932954</link>
-            <guid>https://m.entertain.naver.com/now/article/421/0007932954</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[흑백요리사 '나폴리 맛피아' 권성준 셰프와 ‘장사천재 조사장’ 조서형 셰프(오른쪽)가 28일 서울 용산구 그랜드 하얏트 호텔에서 열린 주방가전 브랜드 닌자(Ninja) ‘콤비 올인원 멀티쿠커(Combi all-in-one multi-cooker)’ 출시 기념 행사에 참석해 포즈를 취하고 있다. ‘콤비 올인원 멀티쿠커’는 에어프라이어와 오븐, 밥솥 등의 기능을 하나로 결합해 설계된 12-in-1 멀티쿠커다. 2023.11.28/뉴스1]]></content:encoded>
+            <title><![CDATA[[인터뷰] '조립식 가족' 황인엽 “정채연과 진짜 사귀냐고요?” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/437/0000420071</link>
+            <guid>https://m.entertain.naver.com/now/article/437/0000420071</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[배우 황인엽이 남다른 케미로 '조립식 가족'을 완성했다. 지난 27일 막을 내린 JTBC 수요극 '조립식 가족'에서는 먼 길을 돌아 결국 함께하게 된 황인엽(김산하), 정채연(윤주원), 배현성(강해준), 최원영(윤정재), 최무성(김대욱)의 행복한 나날들이 미소를 유발하며 꽉 닫힌 해피 엔딩을 선사했다. 이에 '조립식 가족' 15회 시청률은 수도권 3.8%, 전국 3.4%(닐슨코리아 유료가구 기준), 16회 시청률은 수도권 3.9%, 전국 3.7%까지 치솟으며 자체 최고 시청률로 유종의 미를 거뒀다. 황인엽은 정채연, 배현성과 함께 진짜 가족 같은, 조립식 가족의 케미스트리를 만들어내며 드라마의 흥행을 이끌었다. 가족애부터 멜로 서사까지 넘나들며 안방극장에 웃음과 눈물을 선사했다. 이 덕분에 1월 3주차 드라마 출연자 화제성 1위(굿데이터코퍼레이션 펀덱스 기준)에 오르기도 했다. '조립식 가족' 마지막 회가 방송된 다음날 만난 황인엽은 “세 사람의 케미가 행복할 만큼 좋았다”며 환히]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[서인영 측 “현재 이혼 소송 중”[공식입장] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/009/0005404193</link>
-            <guid>https://m.entertain.naver.com/now/article/009/0005404193</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[가수 서인영이 현재 이혼 소송을 진행 중이다. 서인영 소속사 SW엔터테인먼트 관계자는 28일 매일경제 스타투데이에 “서인영이 현재 이혼 소송을 진행 중이다. 아직 소송이 마무리되지 않았다”고 밝혔다. 서인영은 지난해 2월 비연예인 사업가와 결혼했다. 지난해 9월에도 남편과 결혼 7개월 만에 파경을 맞았다는 의혹이 불거진 바 있다. 당시 서인영은 “남편과 이혼 할 생각이 없다”고 밝혔으나 올해 3월에 다시 한번 이혼설이 불거졌다. 서인영은 2002년 쥬얼리 2집에 합류하며 데뷔했다. ‘원 모어 타임(One More Time)’으로 큰 인기를 얻었으며 솔직하고 털털한 성격으로 MBC ‘우리 결혼했어요’ 등 예능 프로그램에서도 주목받았다. 또 ‘신데렐라’, ‘못된 여자’ 등을 솔로곡도 히트 시켰다. 2025년 1월 앨범을 발매하고 솔로 활동을 재개할 예정이다. [김소연 스타투데이 기자]]]></content:encoded>
+            <title><![CDATA[‘❤️ 줄리엔강’ 제이제이, 첫눈 황금골반 애플 힙 본능..옥상서 비키니 잔치 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/410/0001038456</link>
+            <guid>https://m.entertain.naver.com/now/article/410/0001038456</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[운동 유튜버 제이제이(39·박지은)가 첫눈 속에서 선보인 비키니 스타일링으로 네티즌들의 시선을 강탈했다. 28일 제이제이는 자신의 SNS에 겨울 눈밭과 여름 해변의 경계를 허무는 파격적인 스타일로, 그녀는 다시 한번 자신만의 매력을 과시하며 이목을 끌고 있다. 첫눈에 담긴 제이제이의 자신감… 비키니로 완성한 ‘겨울 비치웨어’ 눈으로 뒤덮인 옥상, 추위가 느껴지는 배경에도 불구하고 제이제이는 블랙 비키니를 과감하게 선택하며 건강미 넘치는 패션을 선보였다. 여기에 방한용 퍼 모자를 매치하고, 발목까지 감싸는 두툼한 스노우 부츠를 더해 겨울과 여름을 동시에 담아낸 독특한 ‘시즈널 믹스룩’을 완성했다. 특히, 블랙 비키니가 강조하는 그녀의 황금 비율 몸매와 애플힙은 단순한 스타일링을 넘어 건강한 라이프스타일의 메시지까지 전하며 팬들에게 강렬한 인상을 남겼다. 그녀는 SNS를 통해 “62kg대 유지 기념으로 비키니를 꺼내 입어봤어요”라며, 체중 감량 이후 유지어터로서의 자부심도 드러냈다. 다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박하선, 고급빌라 거주한다더니…"생일 때마다 명품백 받아" 솔직 고백 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/312/0000690770</link>
-            <guid>https://m.entertain.naver.com/now/article/312/0000690770</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[배우 박하선이 솔직 고백에 나섰다. 박하선은 지난 27일 자신의 인스타그램에 "생일 때 마다 받았던"이라는 글과 함께 여러 장의 사진들과 영상들을 게재했다. 공개된 게시물들 속에서 박하선은 신발부터 양말, 그리고 가방까지 전부 해외 명품 브랜드 B사 제품을 착용하고 있어 눈길을 끌었다. 한편 박하선은 2017년 1월 배우 류수영과 결혼했으며, 같은 해 8월 딸을 품에 안았다. 그는 드라마뿐만 아니라 예능, 라디오 등 다양한 분야에서 활동하고 있다. 박하선과 류수영은 2015년 서울 방배동(반포동) 서래마을에 위치한 고급빌라 한 채를 11억 7000만원에 매입한 바 있으며, 2007년에도 류수영 명의로 서울 서대문구 연희동에 4억 9000만원의 빌라를 매입했다고 알려졌다. 정다연 텐아시아 기자]]></content:encoded>
+            <title><![CDATA[라이브러리컴퍼니, 연극 ‘흥행불패’ 지속…내년 1월 김강우 복귀작 ‘붉은 낙엽’ 개막 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/468/0001111544</link>
+            <guid>https://m.entertain.naver.com/now/article/468/0001111544</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[변수도 막을 수 없는 자신감…낯선 데이터로 작품 개발 라이브러리컴퍼니가 연극 ‘붉은 낙엽’으로 연극 흥행 불패와 명품 라인업을 이어가고 있다. 사진 | 라이브러리컴퍼니 라이브러리컴퍼니가 배우·극장·관객 선호 ‘1위’ 연극 제작사 입지 굳히기에 나선다. 내년 1월 연극 ‘붉은 낙엽’으로 흥행 불패와 명품 라인업을 이어 나갈 예정이다. 라이브러리컴퍼니는 국내외 공연시장에서 낯선 데이터를 바탕으로 작품 개발하고 있다. 지난해 본격적으로 연극·뮤지컬 시장에 진입, 변수가 많은 라이브 콘텐츠 비즈니스를 예측 가능한 범위에 도입했다는 평가다. 라이브러리컴퍼니 관계자는 “회사의 경쟁력은 글로벌 시장에서 검증된 팬덤 지식재산권(IP)을 확보하는 것에서 시작된다”고 말했다. 회사는 최근 2년간 일본 영화의 거장 고레에다 히로카즈의 영화 ‘바닷마을 다이어리’부터 전 세계 11개 문학상을 받은 마일리스 드 케랑갈의 소설 ‘살아있는 자를 수선하기’, 제74회 토니어워즈 6개 부문에 노미네이트 및 여우주연]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“문가비가 스스로 출산 결정”…이선옥, 정우성 혼외자 스캔들에 일침 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/468/0001111493</link>
-            <guid>https://m.entertain.naver.com/now/article/468/0001111493</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[정우성이 7일 서울 강남 코엑스에서 열린 백상예술대상 레드카펫 행사에서 포즈를 취하고 있다.2024. 5. 7.최승섭기자 thunder@sportsseoul.com 이선옥 작가가 정우성 혼외자 스캔들에 자신의 생각을 밝혔다. 이 작가는 지난 26일 SNS에 “여성이 스스로 출산 결정했는데 누가 미혼모를 만들었다고 할 수 있나. 성인인 여자가 스스로 아이를 낳기로 선택하고 낳은 것이니 남자가 미혼모를 만든 것인가”라고 글을 게재했다. 이어 “35세 여성이 세뇌당한 미성년자도 아니고 누가 미혼모로 만든다고 해서 만들어지나. 낙태권을 주장할 때는 여성의 몸은 여성의 것이고 낙태든 출산이든 여성의 몸에서 행해지는 것은 오직 여성에게만 선택할 권리가 있다고 주장하면서 여성이 아이를 낳아 기르겠다고 한 사안에 사귀지도 않으면서 미혼모를 만들었다고 남성에게 책임을 전가한다”고 말했다. 또 “낙태죄 처벌에 남성을 포함하라던 요구는 남성에게 출산 후 책임을 같이 지라던 것 아니었나. 정우성의 경우]]></content:encoded>
+            <title><![CDATA[뉴진스 하니, 어도어 입장문 불편했나...‘의미심장’ 무표정 이모티콘 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/009/0005404290</link>
+            <guid>https://m.entertain.naver.com/now/article/009/0005404290</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 뉴진스 하니가 내용증명과 관련한 어도어의 입장 발표 후, 상태 메시지를 무표정 이모티콘으로 변경했다. 하니는 지난 27일 팬 소통 플랫폼 포닝의 상태 메시지를 “눈이 와~”에서 무표정 이모티콘으로 변경했다. 하니가 상태 메시지를 바꾼 시점은 어도어가 뉴진스의 전속계약 위반사항 시정 요구사항에 대해 입장을 밝힌 이후라 눈길을 끈다. 앞서 이날 어도어는 “이 입장문은 아티스트의 내용증명에 따른 조치사항의 이행”이라며 지난 9월 하니가 유튜브 라이브 방송을 통해 빌리프랩 소속 매니저가 자신에게 ‘무시해’라고 말했다는 폭로와 관련해 입장을 밝혔다. 어도어는 “하니는 2024. 5. 27. 빌리프랩의 한 구성원이 하니에 대해 ‘무시해’ 또는 ‘무시하고 지나가’라는 취지의 발언을 한 것으로 분명히 기억하고 있다”며 “비교적 짧은 순간에 벌어진 일인데 하니가 당시의 상황을 빠짐없이 기억해 내야만 문제를 삼을 수 있다는 것은 피해자에게 너무 가혹하고 엄격한 잣대”라고 강조했다. 이어 “어도어]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뉴진스 하니, 어도어 내용증명 답변 후 '의미심장'...멤버들 선택은? (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/445/0000260718</link>
-            <guid>https://m.entertain.naver.com/now/article/445/0000260718</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[소속사 어도어에 최후통첩을 전한 뒤 입장을 받아든 뉴진스(NewJeans) 하니가 의미심장한 행보를 보였다. 지난 27일 뉴진스 하니는 팬 소통 커뮤니티 플랫폼 포닝 상태 메시지를 무표정 이모티콘으로 변경했다. 다만 이날은 뉴진스 멤버들이 전속계약 위반 사항 시정 요구 건을 담은 내용증명을 발송한 것에 대해 어도어가 답을 내놓았기 때문에, 이에 대한 반응이 아니냐는 추측도 이어졌다. 앞서 뉴진스(민지, 하니, 다니엘, 해린, 혜인)는 지난 13일 어도어를 향해 전속계약 위반사항 시정 요구 건을 담은 내용증명을 발송한 바 있다. 당시 뉴진스 멤버들은 어도어에 "전속계약 위반사항을 시정해 줄 것을 요구한다"면서도 "어도어는 이 서신을 받은 날로부터 14일 이내에 전속계약의 중대한 위반사항들을 모두 시정해 주시길 바란다"고 전했다. 이에 따르면 멤버들은 "하이브가 뉴 버리고 새로 판 짜면 될 일이라는 결정을 한 데 대해 뉴진스 매니지먼트사로서 필요한 모든 조치를 취하시기 바란다"며 최근]]></content:encoded>
+            <title><![CDATA[김남길, 기부쇼에 문화소외지역 청소년 무료 초대 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/629/0000342466</link>
+            <guid>https://m.entertain.naver.com/now/article/629/0000342466</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[12월 7·8일 기부쇼 '우주최강쇼' 개최 배우들 재능기부로 동참 배우 김남길이 문화소외지역 청소년과 함께하는 따뜻한 연말을 계획 중이다. 문화예술NGO 길스토리는 28일 "12월 7일과 8일 양일간 경희대 평화의전당에서 열리는 '2024 SMG SHOW-우주최강쇼'에 문화소외지역 청소년들을 무료로 초청한다. 또한 수험생과 청소년들에게는 할인 혜택을 제공한다"고 밝혔다. 이에 따라 2025학년도 대학수학능력시험을 치른 수험생은 30%, 만 18세 미만 청소년은 20% 할인을 받을 수 있다. 길스토리 대표 김남길은 "위기 아동·청소년을 지원할 후원금을 마련하기 위한 기부쇼인 만큼 문화소외지역 청소년들을 무료로 초청하는 것도 의미가 있다고 생각했다"며 "청소년 관람 문의도 많아 올해 수능을 치른 수험생과 청소년에게 연말연시에 볼만한 공연이 됐으면 하는 바람으로 티켓 가격을 낮췄다"고 설명했다. 올해로 3회째 개최하는 '2024 SMG SHOW-우주최강쇼'는 공연을 즐기면 기부가 되는 국]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“걱정이 태산” 이지아, 잠시 뒤 웃음꽃 활짝… 46세라는 오해 뒤 “해냈다” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/410/0001038441</link>
-            <guid>https://m.entertain.naver.com/now/article/410/0001038441</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[이지아가 블랙 드레스로 시선을 올킬시켰다. 배우 이지아가 지난 ‘2024 MAMA’를 통해 다시 한 번 여신 같은 존재감을 입증했다. 그녀는 무대를 준비하는 순간부터 팬들의 뜨거운 환호를 받은 순간까지, 압도적인 분위기를 풍기며 행사의 중심에 섰다. 이지아가 28일 SNS에 공개한 사진과 함께 밝혀진 비하인드 스토리는 네티즌들의 큰 관심을 끌었다. “무대 앞, 걱정 가득한 표정도 그림 같아” 이지아는 행사 전 무대를 응시하며 약간 긴장한 듯한 모습을 보였다. 오프숄더 블랙 드레스를 착용한 그녀의 모습은 긴장감 속에서도 고혹적인 아름다움을 풍겼다. 매끄러운 어깨 라인과 쇄골이 돋보이는 드레스는 그녀의 우아한 매력을 극대화하며 네티즌들 사이에서 “넘사벽 미모”라는 찬사를 이끌어냈다. 풍성하게 흘러내리는 스커트 라인은 무대라는 공간의 웅장함과 조화를 이루며 시선을 사로잡았다. “뒤돌아선 모습마저 화보” 무대 뒤에서 포착된 이지아의 뒷모습은 마치 화보의 한 장면 같았다. 검은색 드레스의 풍]]></content:encoded>
+            <title><![CDATA[정은채, 모두가 반해버린 '잘생쁨'…주얼리보다 빛나네 [N화보] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/421/0007933360</link>
+            <guid>https://m.entertain.naver.com/now/article/421/0007933360</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA['정년이'의 왕자님 배우 정은채가 우아한 미모를 드러냈다. 패션 매거진 코스모폴리탄은 12월호를 통해 tvN 드라마 '정년이'에서 매란국극단의 왕자, 문옥경을 열연한 정은채의 주얼리 화보를 공개했다. 정은채는 '정년이' 현장에서도 스태프들과 동료 및 선후배 배우들이 왕자님이라고 불렀던 만큼, 코스모폴리탄 화보 현장에서도 정은채의 '잘생쁨'에 스태프들이 술렁였다는 후문이다. 이어진 인터뷰에서 정은채는 '멋지다' 내지는 '잘생겼다'라는 말을 듣는 기분에 대해 "기분 너무 좋다, 예쁘다는 얘기보다 멋지다는 말을 듣는 게 더 기분 좋다, 멋지다는 건 극찬이라고 생각한다"며 "문옥경의 매력에 힘입어 저도 덩달아 그런 이야기를 들으니 정말 좋다"고 밝혔다. 정은채는 2023년 8월부터 쇼트커트 상태를 유지하고 있다며 "과감하게 자르고 나니 이렇게 자르기를 너무 잘했다 싶었다, 자주 길이를 다듬어야 하지만, 머리를 감거나 말릴 때는 이거 완전 새로운 세상이구나 싶더라"라고 만족감을 드러냈다. 남]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['이상해 며느리' 김윤지, 출산 후 몸무게 65kg에 오열했다 "멘붕와 2주만 10kg 빼" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/076/0004220686</link>
-            <guid>https://m.entertain.naver.com/now/article/076/0004220686</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[가수 겸 배우 김윤지가 산후조리원 입소 2주 만에 무려 10kg를 감량했다. 27일 'ns윤지' 채널에는 '조리원에서 10kg 감량 꿀팁!'이라는 영상이 공개됐다. 산후조리원 3일 차. 김윤지는 "아침 수유가 끝나고 걷기 위해 나왔다. 조리원 앞에 공원이 있어서 어제도 혼자 걸었다. 아침을 거하게 먹었으니 오늘도 열심히 운동을 해보겠다"라고 말했다. 이어 "조리원에 온 첫날 멘탈 브레이크 다운이 왔다. 남편 앞에서 울고불고 난리가 났다. 인바디를 쟀는데 출산 직전 몸무게랑 같았다. 아이 몸무게는 빠졌을 거라는 생각을 갖고 인바디를 쟀는데 몸무게가 그대로여서 현타가 왔다"라고 털어놨다. 김윤지는 "인바디를 잰 마사지숍에서는 아무렇지 않게 '열심히 빼야겠다'하고 왔는데 방에 돌아와서 남편 앞에서 서럽게 울었다. 마음 다시 다잡고 그날부터 오늘까지 아침, 저녁으로 걷고 6~7시까지 혼자 스트레칭, 요가하고 마사지를 열심히 받으니 3일차에 6kg 정도 빠졌다"라고 설명했다. 김윤지는 다음날]]></content:encoded>
+            <title><![CDATA[지드래곤, 실제 인성 드러났다 "슈스인데 연예인 같지 않아, 귀엽고 털털해" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/076/0004220715</link>
+            <guid>https://m.entertain.naver.com/now/article/076/0004220715</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 애프터스쿨 출신 김정아가 가수 지드래곤과의 추억을 떠올렸다. 28일 김정아는 "내가 애프터스쿨로 활동할 때도 지용이는 정상에 있는 아티스트였다. 연예인의 연예인이라고나 할까?"라며 과거 지드래곤과 찍은 사진을 공개했다. 김정아와 지드래곤 모두 앳된 모습으로 선후배 케미를 뽐내 눈길을 끈다. 김정아는 "처음 만났을 때 너무나 친근하고 연예인 같지 않은 털털하고 귀여운 모습에 정말 내가 직접 밥 한 번 해먹이고 싶다고 얘기한 기억이 난다^^"라며 지드래곤의 실제 인성을 언급하기도. 김정아는 이어 "최근 '유퀴즈'를 보면서 힘들었다는 말에 공감도 되고 그 시간들이 얼마나 아팠을지 같이 마음이 아팠다. 지금 다시 무대하고 건강해진 모습 보니까 너무 보기 좋고 노래도 좋고 그냥 넌 짱이야! 항상 응원한다"라고 전했다. 한편 지드래곤은 10월 31일 디지털 싱글 '파워'(POWER)로 7년 4개월 만에 컴백, 주요 음원 차트 1위에 오르며 건재함을 과시했다. 22일에는 빅뱅 멤버 태양과]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[포즈 취하는 권성준·조서형 셰프 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/421/0007932938</link>
-            <guid>https://m.entertain.naver.com/now/article/421/0007932938</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[흑백요리사 '나폴리 맛피아' 권성준 셰프와 ‘장사천재 조사장’ 조서형 셰프(오른쪽)가 28일 서울 용산구 그랜드 하얏트 호텔에서 열린 주방가전 브랜드 닌자(Ninja) ‘콤비 올인원 멀티쿠커(Combi all-in-one multi-cooker)’ 출시 기념 행사에 참석해 포즈를 취하고 있다. ‘콤비 올인원 멀티쿠커’는 에어프라이어와 오븐, 밥솥 등의 기능을 하나로 결합해 설계된 12-in-1 멀티쿠커다. 2023.11.28/뉴스1]]></content:encoded>
+            <title><![CDATA[성시경, 비행기 지연에 불만 "그냥 내려주든지…자동 금연이네" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/312/0000690784</link>
+            <guid>https://m.entertain.naver.com/now/article/312/0000690784</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[가수 성시경이 비행기 연착에 불만을 표했다. 성시경은 지난 27일 자신의 인스타그램 스토리에 "뱅기에서 3시간 넘게 대기중. 그냥 내려주든지...ㅜㅜ 자동 금연ㅋㅋㅋ 먹을텐데나 같이 봐요ㅋㅋㅋ"라는 글과 함께 한 장의 사진을 게재했다. 공개된 사진 속에는 성시경이 비행기에 앉아 맥주를 세팅한 후 비행기 이륙을 기다리고 있다. 특히 이날 폭설로 인해 많은 항공편들이 결항됐는데, 성시경은 기상 악화로 뜨지 못하는 비행기 안에서 오랜 시간 갇혀있음을 호소하며 불만을 표했다. 한편 1979년생으로 올해 나이 45세인 성시경은 2000년 데뷔해 다양한 히트곡을 발표하면서 현재까지 많은 인기를 얻고 있다. 뛰어난 요리 실력으로 유튜브로도 영역을 확장해 게스트를 초대해 토크를 나누는 형식의 채널도 운영 중이다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[권성준·조서형 셰프, 닌자 ‘콤비 올인원 멀티쿠커’ 출시 행사 참석 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/421/0007932937</link>
-            <guid>https://m.entertain.naver.com/now/article/421/0007932937</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[흑백요리사 '나폴리 맛피아' 권성준 셰프와 ‘장사천재 조사장’ 조서형 셰프(오른쪽)가 28일 서울 용산구 그랜드 하얏트 호텔에서 열린 주방가전 브랜드 닌자(Ninja) ‘콤비 올인원 멀티쿠커(Combi all-in-one multi-cooker)’ 출시 기념 행사에 참석해 포즈를 취하고 있다. ‘콤비 올인원 멀티쿠커’는 에어프라이어와 오븐, 밥솥 등의 기능을 하나로 결합해 설계된 12-in-1 멀티쿠커다. 2023.11.28/뉴스1]]></content:encoded>
+            <title><![CDATA["정우성 '혼외자' 논쟁, 극심한 감시+악명 높은 韓엔터" BBC 집중 조명 [스타이슈][종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/108/0003285894</link>
+            <guid>https://m.entertain.naver.com/now/article/108/0003285894</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[톱배우 정우성(51)의 '혼외자' 스캔들에 외신도 주목했다. 영국 유력매체, 공영방송 BBC는 27일(현지시각) '한국 스타 정우성의 아기 스캔들로 전국적 논란이 일다'라는 제목의 기사를 보도했다. 매체는 "한 한국 배우가 결혼하지 않은 여성과의 사이에서 아이를 낳았다는 사실을 폭로하면서 유명인의 행동과 비전통적 가족 구조를 둘러싼 전국적인 논쟁이 촉발됐다"라며 "한국 영화계의 유명인사 정우성이 24일(한국시간) 자신의 소속사를 통해 모델 문가비(35)의 갓 태어난 아들의 아버지라고 밝힌 것"이라고 다뤘다. 이어 "정우성은 아버지로서 '책임을 성취'하겠다고 약속했지만, 결혼 외부의 출생이 금기로 여겨지는 보수적인 나라에서 문가비와 결혼 계획에 대해선 침묵했다. 이는 전국적으로 급속히 확산된 분노를 촉발했고, 여러 가지 의견 기사가 실리고, 온라인 토론이 촉발되었으며, 국가 정치인들의 논평이 나오게 되었다. 하지만 일부 진보적인 목소리는 한국의 다양한 가족 구조에 대한 태도 변화를 지]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[권성준·조서형 셰프, 15분 만에 한 상 차림 가능합니다 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/421/0007932936</link>
-            <guid>https://m.entertain.naver.com/now/article/421/0007932936</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[흑백요리사 '나폴리 맛피아' 권성준 셰프와 ‘장사천재 조사장’ 조서형 셰프(오른쪽)가 28일 서울 용산구 그랜드 하얏트 호텔에서 열린 주방가전 브랜드 닌자(Ninja) ‘콤비 올인원 멀티쿠커(Combi all-in-one multi-cooker)’ 출시 기념 행사에 참석해 포즈를 취하고 있다. ‘콤비 올인원 멀티쿠커’는 에어프라이어와 오븐, 밥솥 등의 기능을 하나로 결합해 설계된 12-in-1 멀티쿠커다. 2023.11.28/뉴스1]]></content:encoded>
+            <title><![CDATA[“아이 낳았다고 혼인·동거? 숨 막혀” 정우성 지지 여성 의견 나온다…비혼출산 긍정 여론조사도 관심 [SS초점] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/468/0001111537</link>
+            <guid>https://m.entertain.naver.com/now/article/468/0001111537</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[이소영 의원 “아이 낳은 남녀 혼인 않고 따로 사는 것, 비난 대상 될 수 없다” 이선옥 작가 “낙태죄, 남성에게 출산 후 책임지라는 게 아냐” 국민 10명 중 3명 ‘비혼 출산’ 긍정적 생각 여론조사 주목 배우 정우성. 사진 | 스포츠서울DB [스포츠서울 | 원성윤 기자] 배우 정우성이 ‘혼외자 출산’ 등 논란으로 배우 생활 30년 만에 사면초가에 몰렸다. 비난 여론이 들끓는 가운데 일각에서 비혼 출산에 대해 긍정하는 주장도 나오면서 여론 반전이 될 수 있을지 관심을 끈다. 국민 10명 중 3명은 ‘비혼 출산’에 찬성한다는 여론조사도 재조명되고 있다. 이소영 더불어민주당 의원은 비혼 출산에 대해 “아이 위한 혼인 유지는 편견”이라며 정우성을 지지하는 글을 올렸다. 더불어민주당 이소영 의원. 사진 | 연합뉴스 이 의원은 지난 26일 SNS에서 “결혼하느냐 마느냐 하는 결정까지 비난과 판단의 대상이 되는 건 공감이 잘 안된다”며 “아이 낳은 부부가 이혼하는 게 허용되고 그 선택이 존중]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[권성준·조서형 셰프, 흑백요리사와 장사천재의 만남 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/421/0007932935</link>
-            <guid>https://m.entertain.naver.com/now/article/421/0007932935</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[흑백요리사 '나폴리 맛피아' 권성준 셰프와 ‘장사천재 조사장’ 조서형 셰프(오른쪽)가 28일 서울 용산구 그랜드 하얏트 호텔에서 열린 주방가전 브랜드 닌자(Ninja) ‘콤비 올인원 멀티쿠커(Combi all-in-one multi-cooker)’ 출시 기념 행사에 참석해 포즈를 취하고 있다. ‘콤비 올인원 멀티쿠커’는 에어프라이어와 오븐, 밥솥 등의 기능을 하나로 결합해 설계된 12-in-1 멀티쿠커다. 2023.11.28/뉴스1]]></content:encoded>
+            <title><![CDATA["그만 자고 애 좀 봐"...'김다예♥' 박수홍, 기절한 듯 잠자는 다홍이 '육아 외면' 폭로 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/076/0004220712</link>
+            <guid>https://m.entertain.naver.com/now/article/076/0004220712</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[박수홍이 다홍이의 '육아 외면'을 폭로했다. 박수홍은 28일 "다홍아 아무것도 안 하면서 왜 너가 지쳐하는 건데..."라는 글과 함께 사진을 게재했다. 사진에는 박수홍의 반려묘 다홍이가 마치 동생 육아를 하다가 지친 것처럼 방석 위에 쓰러져 누워있는 모습이 담겨 있다. 초점 잃은 눈빛으로 먼 곳만 응시하는 다홍이의 모습이 웃음을 유발한다. 이어 박수홍은 곤히 잠든 다홍이의 사진과 함께 "그만 자고 애 좀 봐.."라는 글을 남겨 웃음을 더했다. 이와 함께 '육아 외면'이라는 해시태그를 덧붙이기도 했다. 박수홍은 무럭무럭 자라고 있는 딸 재이 양의 사진도 공개했다. 뚜렷한 이목구비로 인형 같은 미모를 뽐내는 재이 양의 깜찍한 자태가 랜선 이모, 삼촌들을 미소 짓게 한다. 한편 박수홍은 2021년 23세 연하의 김다예와 혼인신고 후 이듬해 결혼식을 올렸다. 이후 김다예는 시험관 시술을 통해 임신에 성공, 지난달 딸 재이 양을 품에 안았다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[고현정 "친하지 않아 너무 슬퍼" 전남편♥+자녀들과 실제 관계 최초 고백 '눈물' (유퀴즈)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/076/0004220684</link>
-            <guid>https://m.entertain.naver.com/now/article/076/0004220684</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[배우 고현정이 떨어져 자란 두 자녀에 대한 서글프고 애달픈 마음을 처음으로 고백했다. 27일 방송된 tvN 예능프로그램 '유퀴즈 온 더 블럭'에서는 배우 고현정이 출연해 그녀의 미스코리아 선 당선부터 현재까지의 삶에 대해 털어놨다. 미스코리아로 데뷔 후 예능, 드라마로 이어진 전성기를 누리며 늘 톱배우로 살아온 그녀. 특히 재벌가와의 결혼과 이혼은 그녀의 커리어에도 신비감을 더해주는 소재가 되기도 했다. 고현정은 "저는 꿈이 있었다. 대학 졸업할 때쯤 동생이 해외에서 공부를 하고 있었다. 그래서 돈을 모아서 사진 유학을 가고 싶었다"며 "그때는 나이가 어리니까 나는 여기랑 잘 안 맞나 보다. 여긴 직장이니까 열심히 일하고 동생이랑 유학을 가야겠다 싶었다"고 밝혔다. 하지만 사랑이 찾아왔고 그것이 전 남편 정용진 신세계 그룹 회장이었다. 고현정은 "갑자기 연애를 하게 됐다. 연애가 그렇게 재밌는지 몰랐다. 올인했다. 아무 생각도 안 난다. 홀랑 빠진 거다. 그 기분을 아직도 못 잊는다]]></content:encoded>
+            <title><![CDATA[전지현·강동원·김해숙·박해준·이상희…디즈니+ ‘북극성’ 강렬한 캐스팅 라인업 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/468/0001111533</link>
+            <guid>https://m.entertain.naver.com/now/article/468/0001111533</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[‘북극성’ 출연진. 사진 | 각 소속사 디즈니+의 오리지널 시리즈 ‘북극성​’의 전지현, 강동원과 호흡을 맞출 국내 최고 배우들로 라입업을 구축했다. 디즈니+는 28일 ‘북극성’에 김해숙, 이미숙, 유재명, 박해준, 오정세, 이상희, 주종혁, 원지안 그리고 존 조가 출연한다며 캐스팅 라인업을 공개했다. 외교관이자 전 유엔대사로 국제적 명성을 쌓아온 문주(전지현 분)가 국적불명의 특수요원 산호(강동원 분)와 함께 거대한 사건 뒤에 숨겨진 진실을 쫓는 이야기를 그린 ‘북극성’이 2025년 공개를 확정했다. 문주는 외교관이자 전 유엔대사로 국제사회에서 두터운 신뢰를 얻은 인물이다. 산호는 국제 용병 중 최고의 에이스 출신으로, 국적과 과거 모두 베일에 싸인 미스터리한 인물이다. 여기에 장르를 넘나들며 다양한 캐릭터를 소화하는 관록의 배우 김해숙이 대한민국 대통령 채경신을 연기하고, 매 작품마다 독보적인 카리스마를 보여주는 배우 이미숙은 문주의 시어머니 임옥선 역으로 출연한다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['故김수미 떠나 보낸' 서효림 오열 "엄마가 어떻게 이럴수 있어요" ('꼬꼬무') (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/076/0004220682</link>
-            <guid>https://m.entertain.naver.com/now/article/076/0004220682</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[정이랑, 서효림, 최진혁까지, 슬픔과 분노로 '꼬꼬무' 녹화가 끝나고도 자리를 뜨지 못했다. 28일 방송되는 'SBS 꼬리에 꼬리를 무는 그날 이야기'(이하 '꼬꼬무')는 즐거워야 했던 소풍날 누구도 예상치 못한 비극적 죽음을 맞게 된 초등학교 2학년 아린이의 이야기를 조명한다. 2013년 10월 24일. 그날은 초등학교 2학년이었던 아린이(가명)의 소풍날이었다. 얼마 뒤 이사를 가는 아린이는 친구들과 함께하는 마지막 소풍을 손꼽아 기다리고 있었다. 가장 행복하고 즐거워야 했던 이날, 그 누구도 예상하지 못한 비극이 찾아오고 마는데. ▶ "119죠? 저희 아이가 호흡이 없어요! 빨리 와주세요!" 다급하게 신고 전화를 한 사람은 바로 아린이의 엄마였다. 욕조에 빠졌다는 아린이는 급히 병원으로 옮겨졌지만 이미 사망한 상태였다. 엄마는 갑작스러운 아린이의 죽음에 오열하며 쓰러졌고 결국 병원으로 이송됐다. 그런데, 이런 엄마를 기다리는 사람들이 있었다. ▶ "당신을 상해치사 혐의로 체포합니]]></content:encoded>
+            <title><![CDATA[콩알탄 5人, 미니 콘서트 포스터 공개…겨울 분위기 '물씬' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/421/0007933301</link>
+            <guid>https://m.entertain.naver.com/now/article/421/0007933301</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[콩알탄의 2024 연말 미니 콘서트 포스터가 공개됐다. 28일 소속사 킹콩 by 스타쉽 측은 신현수, 손우현, 한민, 신승호, 유현수의 2024 콩알탄 연말 미니 콘서트 '콩알탄'(KONGALTAN) 개인 포스터를 공개했다. '콩알탄'은 '리얼'과 '페이크'를 오가는 다섯 청춘의 '웃픈' 성장기를 그리는 예능 콘텐츠이다. 공개된 포스터 속에는 배우 신현수, 손우현, 한민, 신승호, 유현수의 5인 5색 매력이 담겨있다. 그들은 스피커들 사이에서 각자의 포지션 악기를 장착 후, 따뜻한 겨울 분위기가 물씬 나는 의상과 함께 다양한 표정과 포즈로 톡톡 튀는 매력을 드러내고 있는 모습이다. 먼저 신현수는 보기만 해도 따뜻한 미소와 키보드 건반을 누르는 섬세한 손길로 눈길을 끈다. 손우현은 피크를 입에 문 채 자신감 넘치는 눈빛으로 정면을 응시한다. 또한, 한민은 수려한 옆태와 드럼 스틱을 잡고 있는 모습이 조화를 이루고, 신승호는 한 손엔 마이크를 쥔 채 스피커에 기대며 그의 묵직한 존재감을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴 日싱글 4집 '소비기한' 첫날 오리콘 차트 1위 직행 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/437/0000420049</link>
-            <guid>https://m.entertain.naver.com/now/article/437/0000420049</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[막강한 열도 인기는 타의추종을 불허한다. 그룹 세븐틴(에스쿱스 정한 조슈아 준 호시 원우 우지 디에잇 민규 도겸 승관 버논 디노)의 일본 싱글 4집이 오리콘 차트 1위로 직행했다. 27일 일본 오리콘이 발표한 26일 자 최신 차트에 따르면, 세븐틴의 일본 싱글 4집 'Shohikigen(消費期限/소비기한)'은 발매 첫날 36만 2369장이 팔려 데일리 싱글 랭킹 정상에 올랐다. 타이틀곡 'Shohikigen'은 멤버들의 섬세한 표현력이 도드라진 발라드로, 감정의 유효기간에 대한 고민을 가사에 담았다. 노래는 NHK 인기 드라마 '未来の私にぶっかまされる!?(미라이노 와타시니 붓카마사레루!?)'의 주제곡으로 삽입돼 일찍부터 화제를 모았다. 앨범과 함께 공개된 해당 곡 뮤직비디오는 현지 주요 음원 사이트 라인뮤직의 뮤직비디오 톱100에서 1위를 찍기도 했다. 세븐틴은 지난 4월 발매한 베스트 앨범 '17 IS RIGHT HERE'와 10월 선보인 미니 12집 'SPILL TH]]></content:encoded>
+            <title><![CDATA[김혜수, 워너비 몸매란 이런 것…독보적 아우라 발산 [DA★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/382/0001165761</link>
+            <guid>https://m.entertain.naver.com/now/article/382/0001165761</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김혜수가 완벽한 몸매를 자랑했다. 김혜수는 지난 27일 자신의 인스타그램에 별다른 문구 없이 사진을 게재했다. 공개된 사진에는 최근 싱가포르에서 열린 ‘디즈니 콘텐츠 쇼케이스 2024’에 참석한 김혜수의 모습이 담겼다. 김혜수는 잘록한 허리라인과 늘씬한 각선미를 뽐내며 워너비 몸매를 자랑했다. 특히 김혜수는 다양한 드레스를 완벽하게 소화하며 독보적인 존재감을 드러냈다. 한편 김혜수는 내년 공개 예정인 디즈니+ 오리지널 시리즈 ‘트리거’에 출연한다. ‘트리거’는 검찰, 경찰도 해결하지 못한 사건들을 추적하는 탐사보도 프로그램 ‘트리거’의 정의로운 팀장 오소룡(김혜수 분)과 사회성 제로인 낙하산 PD 한도(정성일 분)의 사활을 건 생존 취재기를 그린 작품이다. 김승현 동아닷컴 기자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["김태리 열창 일품이더라" 국극 1세대 배우가 본 '정년이'는? (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/117/0003892020</link>
-            <guid>https://m.entertain.naver.com/now/article/117/0003892020</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA["김태리 열창 일품이더라". 여성 국극 1세대 배우 조영숙(90) 명인이 tvN 토일드라마 '정년이'를 이끈 배우 김태리 연기를 극찬했다. 조 명인은 28일 오전 방송된 CBS 라디오 프로그램 '김현정의 뉴스쇼'에 출연했다. 1939년생으로 올해 구순을 맞은 그는 73년간 국극의 길을 걷고 있다. 후배 양성에도 힘쓰며 일생을 바쳤다. 이날 방송에서 조 명인은 김태리의 연기에 칭찬을 아끼지 않았다. 먼저 '정년이'를 시청했냐는 질문에 "(국극에) 관심을 가져주시니 한마디로 감격스럽다. '정년이'를 만들어 주신 모든 분들이 감사할 따름이다"고 했다. 그러면서 어린 시절을 떠올렸다. "처음 입단했을 때 단발머리 학생이었는데, (드라마 속 정년이는) 그때 모습 그대로였다. 당시에는 아무것도 모르고 연극한다고 해서 갔더니 여성 국극이었다. 그 시절이 생각나더라"고 했다. 이어서 "김태리는 (연기를) 너무 잘했다. 고맙다. 한 번 본 일이 있었는데 체격이 작은 줄 알았더니, 드라마에서 열창을]]></content:encoded>
+            <title><![CDATA[태연, 가죽 코트 입고 시크美 장착…걸크러쉬 매력 [DA★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/382/0001165758</link>
+            <guid>https://m.entertain.naver.com/now/article/382/0001165758</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 소녀시대 태연이 색다른 매력을 발산했다. 태연은 지난 27일 자신의 인스타그램에 하트 이모티콘과 함께 사진을 게재했다. 공개된 사진 속 태연은 가죽 코트와 버건디 블라우스, 블랙 핫팬츠를 입고 다양한 포즈를 취했다. 태연은 짙은 스모키 메이크업도 완벽하게 소화하며 걸크러쉬 매력을 뽐냈다. 한편 태연은 지난 18일 여섯 번째 미니 앨범 ‘Letter To Myself’을 발매했다. 김승현 동아닷컴 기자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[서인영, 이혼설 사실로 드러나…"현재 소송 중" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/052/0002120094</link>
-            <guid>https://m.entertain.naver.com/now/article/052/0002120094</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[이혼설에 휩싸였던 가수 서인영이 현재 관련 소송 중임을 인정했다. 소속사 SW엔터테인먼트 측은 오늘(28일) YTN에 "현재 서인영이 이혼 소송을 진행 중이다. 아직 결과가 나온 것은 없지만, 소송이 마무리되면 입장을 밝힐 것"이라고 밝혔다. 서인영은 지난해 2월 비연예인 사업가와 결혼했다. 그러다 결혼 7개월 만에 한차례 파경설에 휩싸였는데, 당시 서인영 측은 이를 부인했다. 그리고 지난 3월 서인영이 이혼 소장을 접수했다는 보도가 나와 또다시 이혼설이 제기됐다. 이에 대해 소속사는 "사생활 영역이라 아직은 드릴 수 있는 말씀이 없다"며 말을 아꼈다. 결국 서인영의 이혼설은 처음 제기된 지 1년 2개월이 지난 뒤에야 사실로 드러났다. * YTN star에서는 연예인 및 연예계 종사자들과 관련된 제보를 받습니다. 로 언제든 연락주시기 바랍니다. 감사합니다.]]></content:encoded>
+            <title><![CDATA[김태현♥미자, 한강뷰家 층간소음 고통ing…“사는 게 아냐” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/396/0000694910</link>
+            <guid>https://m.entertain.naver.com/now/article/396/0000694910</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[개그우먼 미자가 층간소음 고충을 토로했다. 26일 미자는 자신의 SNS를 통해 팬들과 ‘무물(무엇이든 물어보세요) 타임’을 가졌다. 이날 한 누리꾼은 최근 층간소음 피해를 고백했던 미자를 향해 “위층 소음 어떻게 견뎌요? 너무 고통일 듯ㅠㅠ”이라며 걱정이 담긴 질문을 던졌다. 이에 미자는 “사는 게 사는 게 아니네”라고 답하며 여전히 층간소음으로 고통을 겪고 있다고 전했다. 최근 미자는 SNS에 “윗집 공사. 아침부터 때려 부수네”라는 글을 게재했다. 그러면서 “몇 달을 참았고 오늘이 끝이래서 달력만 보며 견뎠는데. 엘리베이터에 공지한 거 보니. 1달 더 연장한다네. 진짜 괴롭다. 너무나 괴롭다. 쌩고문이네”라고 덧붙였다. 또 미자는 “실시간”이라면서 드릴로 벽을 뚫는 소리, 망치 두드리는 소리 등 층간소음이 담긴 영상을 공개했다. 그러면서 미자는 “너무 괴롭다. 생고문이다”며 스트레스를 호소했다. 사진=미자 인스타그램 앞서 미자는 본인의 유튜브 채널에서 한강뷰 신혼집에 대해 “남편]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[청하, 크리스마스 시즌송 선물…12월 3일 스페셜 싱글 발매 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/437/0000420047</link>
-            <guid>https://m.entertain.naver.com/now/article/437/0000420047</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[가수 청하가 특별한 크리스마스 선물로 팬들을 찾는다. 청하는 내달 3일 각종 온라인 음원사이트를 통해 크리스마스 스페셜 싱글 'Christmas Promises (크리스마스 프로미시즈)'를 발매, 공식 SNS를 통해 티저 포스터를 공개했다. 티저 포스터는 크리스마스가 연상되는 레드와 골드 컬러로 시선을 사로잡는다. 밝은 빛을 받고 있는 토끼 인형, 리본 등 소품은 따뜻한 분위기를 물씬 풍기고 더블 타이틀곡명 'Sleigh (슬레이)', 'There Goes Santa Claus! (데어 고우즈 산타클로스!)'도 확인할 수 있다. 'Christmas Promises'는 청하가 지난 8월 발표한 스페셜 싱글 '알고리즘 (Algorithm)' 이후 약 4개월 만에 발매하는 신보다. 청하는 이번 앨범을 통해 올 겨울 잊지 못할 추억을 선물할 예정이다. 청하는 그동안 감미로운 음색과 독보적인 퍼포먼스로 대중과 만나왔다. 활발한 음악 활동 외에도 KBS Cool FM '청하의 볼륨을 높여요']]></content:encoded>
+            <title><![CDATA['♥박성광' 이솔이, 깨소금 자랑했었는데…"같이 눈 맞을 사람 없어" 토로 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/312/0000690782</link>
+            <guid>https://m.entertain.naver.com/now/article/312/0000690782</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[코미디언 겸 영화감독 박성광의 아내 이솔이가 심경을 토로했다. 이솔이는 지난 27일 자신의 인스타그램 스토리에 "눈 내린다 눈 보자 첫눈 같이 맞자는 사람 아무도 없는 T의 세상에 살고 있지만"이라는 글과 함께 하나의 영상을 게재했다. 공개된 영상 속에서 이솔이는 늦은 밤 눈이 펑펑 내리는 모습을 카메라에 담으며 첫눈 오는 날을 기록하고 있는 모습. 특히 남편 박성광 없이 나홀로 첫눈을 맞고 있다고 알려 궁금증을 자아냈다. 한편 이솔이는 2020년 8월 박성광과 결혼했다. 과거 SBS '동상이몽 시즌2-너는 내 운명'에 출연해 대중에 눈도장을 찍었다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[BTS 슈가, 살던 빌라 170억에 팔렸다..현재는 지드래곤 이웃 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/108/0003285859</link>
-            <guid>https://m.entertain.naver.com/now/article/108/0003285859</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 방탄소년단(BTS) 슈가가 살던 빌라가 170억원에 매입된다. 28일 비즈한국에 따르면 슈가가 전세로 거주했던 서울 용산구 한남동 유엔빌리지에 위치한 파르크한남을 보일러 제조, 판매 기업인 귀뚜라미 그룹 창업주 최진민 회장과 그의 아내 김미혜 전 귀뚜라미복지재단 이사장이 매매예약을 걸었다. 이들은 매매계약을 한 뒤 잔금을 치르기 전 법원에 소유권 이전 청구권 가등기를 신청한 것으로 전해졌다. 소유권은 최진민 회장이 4분의 1, 김미혜 전 이사장이 4분의 3 지분을 나눠 갖는다고. 해당 세대는 복층 구조로 전용면적이 268.96㎡(81평), 공급면적이 320.7㎡(97평), 분양 면적이 411㎡(124평)에 달한다. 특히 슈가가 최근까지 전세로 살았던 곳으로 알려진 곳이기도 하다. 슈가는 지난 2018년 11월 유엔빌리지 내 또 다른 고급빌라였던 한남리버빌을 34억원에 매입해 거주하다 2021년 11월 파르크한남으로 이사했다. 특히 당시 95억에 달하는 전세 보증금을 소속사인 빅]]></content:encoded>
+            <title><![CDATA[‘뮤지컬스타’ 곽범·이창호·김해준, 김문정과 특급 만남 ‘특훈 돌입’ (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/057/0001856531</link>
+            <guid>https://m.entertain.naver.com/now/article/057/0001856531</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[유튜브 채널 빵송국의 인기 콘텐츠 ‘뮤지컬스타’가 관객들에게 감동적인 무대를 선사하기 위해 김문정 음악감독으로부터 특훈을 받아 화제다. 곽범(곽필립), 이창호(이호광), 김해준(김민준)이 이끄는 공연 ‘뮤지컬스타 갈라쇼’가 오는 12월 6일(금) 오후 8시, 7일(토) 오후 7시 총 2회에 걸쳐 서울 이화여자대학교 삼성홀에서 개최되는 가운데 세심한 부분까지 공을 들이고 있어 관객들에게 완성도 높은 공연을 선보일 예정이다. 특히 곽범, 이창호, 김해준은 ‘뮤지컬스타 갈라쇼’의 탄탄한 무대 완성과 뮤지컬 작품을 향한 진심을 관객들에게 고스란히 전달하고자 뮤지컬계 베테랑인 김문정 음악감독의 지휘하에 연습을 진행해 눈길을 끈다. ‘뮤지컬스타 갈라쇼’ 출연진인 곽범, 이창호, 김해준은 이달 중순 서울 대학로에 위치한 시즌엠아카데미에서 김문정 음악감독과 만나 맹훈련을 거쳤다. 김문정 음악감독은 지난 2001년부터 본격적으로 활동해온 뮤지컬계 베테랑으로 지금까지 ‘레미제라블’, ‘맘마미아’, ‘]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['내년 결혼♥' 김종민 이어 신지·빽가도 경사 맞나..."만삭만 아니면 무대 계속할 것" ('신랑수업')[종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/076/0004220680</link>
-            <guid>https://m.entertain.naver.com/now/article/076/0004220680</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[김종민이 내년 결혼을 발표하며 본격적인 '신랑 수업'에 나섰다. 27일 방송된 채널A '요즘 남자 라이프-신랑수업'(이하 '신랑수업')에서는 '예비 신랑' 김종민이 코요태 멤버들과 결혼에 대한 진지한 이야기를 나누는 모습이 공개됐다. 행사 스케줄 때문에 지방에 있는 숙소에서 아침을 맞은 김종민은 눈 뜨자마자 여자 친구에게 메시지를 보냈다. 그는 "(여자 친구에게) 실시간으로 연락하는 스타일이다. 계속 머릿속에 있게끔 연락하는 스타일"이라며 사랑꾼 면모를 드러냈다. 이에 이다해는 '애칭'을 궁금해했고, 김종민은 "여자 친구가 '히웅히웅'이라고 자주 말해서 '히웅이'라고 많이 한다. 여자 친구가 날 부르는 애칭은 그때 그때 다르다. 내가 잘못한 걸 (이름) 앞에 부른다. 고집 피우면 '고집 종민' 이런 식으로 부른다. 좋을 때는 좋은 걸 붙여주기도 한다"고 말했다. 김종민은 씻다가도 거울을 보고 팔자 주름을 신경 쓰며 외모 관리에 민감한 모습을 보였다. 그는 "요즘 주름이 많이 생겼다.]]></content:encoded>
+            <title><![CDATA[유진·브라이언·환희 '구 SM 식구' 바다 콘서트 뜬다 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/437/0000420067</link>
+            <guid>https://m.entertain.naver.com/now/article/437/0000420067</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[가수 바다의 연말 콘서트에 전 SM엔터테인먼트 식구들이 뭉쳐 우정을 다진다. 바다는 내달 7일과 8일 양일간 서울 강북구 미아동 성신여자대학교 운정그린캠퍼스에서 '2024 바다 콘서트 The Ocean-I'M YOUR HOME'을 개최한다. 가수로 활동하면서 선후배간의 사랑이 남달랐던 바다는 특히 SM엔터테인먼트 후배들과 끈끈한 우정을 과시했는데, 이번 콘서트에서도 SM엔터테인먼트 OB 멤버들이 공연에 참여하기로 결정했다. 7일에는 청소왕 부캐로 인기를 얻고 있는 브라이언과 S.E.S.의 유진, 밴드 터치드의 윤민이 게스트로 나서고, 8일에는 플라이투더스카이 환희, 아이키, 유진이 출연한다. 환희와 브라이언은 바다의 공연 소식에 "무조건 참여하겠다"고 약속, 유진은 S.E.S.의 든든한 멤버이자 동반자로 전회 공연을 함꼐 한다. 특히 유진과의 공연에서는 S.E.S. 활동 당시 일본 싱글로 발매됐던 노래를 바다와 듀엣으로 부를 예정이라 더욱 관심이 쏠린다. 또한 원티드 윤민은 바다 딸]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[(여자)아이들 전소연, 재계약 논의 길어지는 이유?..."빨리 결판 내고파" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/445/0000260715</link>
-            <guid>https://m.entertain.naver.com/now/article/445/0000260715</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[(여자)아이들 전소연이 신중하게 재계약 논의를 하고 있는 이유를 밝힌 가운데, 멤버들에 대한 애정을 드러내며 훈훈함을 안겼다. 지난 27일 유튜브 'df 디에프' 채널 콘텐츠 '비빔팝'(BIBIM-POP) 15번째 콘텐츠 영상에는 '재계약 논란에 대해 입을 열다'라는 제목으로 (여자)아이들 전소연이 출연했다. 먼저 전소연은 지난 8월 서울을 시작으로 시잔 2일 시드니에서 성료한 (여자)아이들 월드투어 'iDOL'에 대한 뒷이야기를 풀어냈다. 그는 "아무래도 서울에서 했던 첫 콘이 가장 기억에 남았던 것 같다. 랩 가사를 썼는데 계약 종료가 쓰여 있었다. 기사가 완전 팡 터졌었는데 상관 없었다. 거짓말을 적은 것도 아니었고 이슈가 될지도 몰랐다. 사실 그냥 아무 생각이 없었다. 소설처럼 음악을 쓸 때도 있고, 그 무대는 자기 이야기를 하는 무대였다. 그러다 보니 요즘 뭐하고 살지 이런 생각을 하다가 나 이제 계약 끝나니까 계약 종료 (이야기를 쓴 것)"라고 말했다. 그러면서도 아이돌에]]></content:encoded>
+            <title><![CDATA[‘적벽 가는 길’ 가수 김용임, 화순군 홍보대사 위촉 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/056/0011847050</link>
+            <guid>https://m.entertain.naver.com/now/article/056/0011847050</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[화순군이 가수 김용임씨를 홍보대사로 위촉했습니다. 김용임 씨는 1984년 노래 '목련'으로 신인가요제 장려상을 수상하며 가요계에 데뷔했고, 화순군의 대표 관광지인 적벽을 소재로 한 '적벽 가는 길'을 직접 노래했습니다. 김용임 씨는 앞으로 지역 특산품과 축제 등 다양한 군정 홍보 활동을 수행할 예정입니다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[고우리 '임신 금지·절대 복종' 계약서 폭로…"남편은 그 핑계로 아예 안한다" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/421/0007932834</link>
-            <guid>https://m.entertain.naver.com/now/article/421/0007932834</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[레인보우 출신 고우리가 임신 금지 조항이 담긴 계약서 내용을 언급했다. 27일 유튜브 채널 '노빠꾸탁재훈'에는 '고우리, 출산이 금지된 아이돌'이라는 제목의 영상이 올라왔다. 조현영과 함께 웹 예능 '레인보우18'에 출연 중인 고우리에게 신규진은 "굉장히 많은 활동을 하고 계시는데 음원도 낼 거 아니냐"라고 물었다. 고우리는 "앨범을 내준다고 했는데 아직도 기미가 안 보인다. 이상한 것만 시키고"라고 토로했다. 탁재훈은 "눈치가 꽤 있으신 분이 앨범을 계속 낼 거라고 믿나"라고 놀렸다. 이어 "우리가 알아본 결과 계약서까지 쓰고 제대로 일이 커진 것 같다"라고 했다. 그러자 고우리는 "계약도 말도 안 된다"라고 했다. 신규진은 "힘들게 입수했다"며 계약서를 꺼내 들었다. 계약서에는 '절대복종' '출산 금지' 등의 조항이 포함됐다. 탁재훈은 "임신 불가 계약을 했냐"고 했고, 신규진도 "이게 왜 조현영 씨 계약서에 적혀 있냐"고 물었다. 고우리는 "현영이도 임신하면 안 되니까. 우리]]></content:encoded>
+            <title><![CDATA[백지영, 마약 논란 정석원♥과 굳건한 이유있었다 "밑바닥보여도 이혼은 안 해" [종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/076/0004220705</link>
+            <guid>https://m.entertain.naver.com/now/article/076/0004220705</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[가수 백지영이 결혼에 대한 소신을 전하며, 남편 배우 정석원에게 무한 애정을 드러냈다. 27일 '형수는 케이윌' 채널에는 백지영 편 영상이 공개됐다. 케이윌은 백지영에게 "결혼할 때 다짐은 무엇이었나"라고 물었고, 백지영은 "'부부는 기쁠 때나 슬플 때나 하나다. 난 너의 편이다. 버리지 않겠다' 이런 혼인서약을 마음 깊이 새겼다"라고 말했다. 케이윌은 "싸우거나 힘들 때 그만두고 싶다는 생각 안 했나"라며 또 궁금해했고 백지영은 "다 때려치우고 싶다는 생각이 올라올 때가 있지만 (이혼) 가능성의 여지를 단 0.1%도 둔 적이 없다. 크게 싸워도 절대 헤어지지 않겠다는 다짐이 있었다"라고 답했다. 백지영은 "결혼은 인생의 가장 성스러운 일이라고 생각한다. 연애할 때는 밑바닥을 안 보여줄 수 있고, 보여주면 헤어질 수도 있다. 하지만 결혼은 밑바닥을 보여줄 수밖에 없는 상황이 100% 생기고 헤어지면 안 된다. 이혼을 하면 안 된다는 얘기가 아니다. 너무 힘들면 해야 한다. 이혼에 대]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['이혼숙려캠프' 이호선 "거짓말이 있어" 소름 유발 상담 예고 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/437/0000420046</link>
-            <guid>https://m.entertain.naver.com/now/article/437/0000420046</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[비밀까지 간파하는 소름 돋는 부부 상담이 공개된다. 오늘(28일 목요일) 밤 10시 10분 방송되는 JTBC '이혼숙려캠프'에서는 6기 세 번째 부부의 사연이 공개되는 가운데, 숨겨둔 빚까지 간파하는 소름 돋는 부부 상담이 펼쳐진다. 부부이면서 동시의 채무 관계라고 말하는 세 번째 부부는 아내의 소비에 남편이 불만을 품어 갈등이 끊임없이 이어지는 상황이다. 남편은 돈에 예민한 이유가 아내가 빚을 졌던 사건 때문이라고 주장하는데. 이에 이호선 상담가는 부부 상담 중 아내에게 혹시 남편이 모르는 빚이 더 있는지 파헤치며, 아내의 마음을 꿰뚫어 보는 듯한 소름 유발 상담을 펼친다. 아내는 숨겨둔 빚은 없다고 대답하지만, 이호선은 흔들리는 아내의 표정을 읽어낸 것. 이호선은 "눈빛에 거짓말이 있다"며 추궁해 결국 남편이 모르는 카드빚이 더 있다는 아내의 고백을 받아낸다. 이 부부는 앞선 다른 부부의 일상 영상을 지켜보며 본인들을 '종합세트'라고 칭한 만큼 가사조사 영상을 통해 다양한 문제를]]></content:encoded>
+            <title><![CDATA[몬스타엑스 아이엠, 새해 앙콘 선물…첫 솔로투어 성원 보답 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/437/0000420066</link>
+            <guid>https://m.entertain.naver.com/now/article/437/0000420066</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 몬스타엑스 아이엠(I.M)이 앙코르 콘서트로 새해를 연다. 소속사 소니뮤직엔터테인먼트코리아에 따르면 아이엠은 내년 1월 17일부터 19일까지 3일간 서울 송파구 올림픽공원 핸드볼경기장에서 'I.M WORLD TOUR 〈Off The Beat〉 FINAL IN SEOUL(아이엠 월드투어 〈오프 더 비트〉 파이널 인 서울)'(이하 'Off The Beat')을 개최하고 팬들을 만난다. 이번 공연은 앞서 진행된 첫 솔로 월드투어의 앙코르 콘서트로, 아이엠은 지난 공연의 벅찬 설렘을 다시 한번 재현할 계획이다. 다가오는 2025년 새해의 시작을 콘서트와 함께하는 만큼, 더욱 다채로운 무대 구성을 선보이며 공연장을 뜨겁게 달굴 것으로 기대를 모은다. 특히 지난 공연에서 아이엠은 틀에 갇혀 있지 않은 무대를 보여주겠다는 포부에 걸맞게 독보적인 스테이지를 선사해 이목을 집중시켰다. 자신만의 짙은 색깔이 느껴지는 세트리스트로 음악적 세계관을 공연으로 확장한 그는 국내외 몬베베(공식 팬클럽명)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[서인영, 파경설 1년 만에 이혼 인정…"소송 진행 중" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/629/0000342379</link>
-            <guid>https://m.entertain.naver.com/now/article/629/0000342379</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 2월 결혼→9월부터 이혼설 제기 소속사 "이혼 소송 중…아직 결과 나온 것 없어" 가수 서인영이 두 번의 이혼설 끝에 파경을 공식 인정했다. 서인영 소속사 SW엔터테인먼트는 28일 &lt;더팩트&gt;에 "서인영이 현재 이혼 소송을 진행 중"이라고 밝혔다. 다만 "아직 결과가 나온 것은 없다. 정리되는 대로 입장을 밝히겠다"며 말을 아꼈다. 서인영은 지난 2023년 2월 비연예인 사업가와 결혼했다. 하지만 결혼 7개월 만인 9월 자신의 SNS에 게재했단 웨딩 사진 등 결혼 관련 모든 게시물을 돌연 삭제해 이혼설이 불거졌다. 이후 올해 3월에도 또 한 번 이혼설이 제기됐다. 당시 소속사는 "사생활과 관련된 부분인 만큼 아직은 드릴 수 있는 말이 없다"며 별다른 공식 입장을 밝히지 않았다. 결국 서인영은 이혼설이 흘러나온 지 1년 2개월 만에 파경을 인정했다. 서인영은 2025년 1월 작곡가 윤일상의 곡으로 약 4년 3개월 만에 가수로 컴백한다.]]></content:encoded>
+            <title><![CDATA[전지현X강동원→존 조까지, '북극성' 상상 그 이상의 완벽한 라인업 [공식] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/076/0004220703</link>
+            <guid>https://m.entertain.naver.com/now/article/076/0004220703</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[뛰어난 스토리텔링과 혁신적인 콘텐츠로 최상의 엔터테인먼트 경험을 선사하는 세계적인 스트리밍 서비스 디즈니+의 오리지널 시리즈 '북극성'이 전지현과 강동원에 이어 김해숙, 이미숙, 유재명, 박해준, 오정세, 이상희, 주종혁, 원지안 그리고 존 조까지 강렬한 캐스팅 라인업을 공개했다. 외교관이자 전 유엔대사로 국제적 명성을 쌓아온 '문주'(전지현)가 국적불명의 특수요원 '산호'(강동원)와 함께 거대한 사건 뒤에 숨겨진 진실을 쫓는 이야기를 그린 디즈니+의 오리지널 시리즈 '북극성'이 2025년 공개를 확정한 가운데 전지현과 강동원의 최초 만남에 이어 대한민국 명품 배우들과 할리우드 배우까지 완벽한 캐스팅을 완성했다. 외교관이자 전 유엔대사로 국제사회에서 두터운 신뢰를 얻은 '문주' 역은 배우 전지현이, 국제 용병 중 최고의 에이스 출신으로, 국적과 과거 모두 베일에 싸인 미스터리한 인물인 '산호' 역은 배우 강동원이 맡았다. 모두가 기다려온 두 사람의 만남이 어떤 시너지를 보여줄지 기대]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[SLL, FAST 플랫폼 LG채널에 국내 최초 신작 드라마 공급 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/437/0000420045</link>
-            <guid>https://m.entertain.naver.com/now/article/437/0000420045</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 크리에이티브 스튜디오 SLL(에스엘엘중앙)은 LG전자가 운영하는 FAST(Free Ad-Supported Streaming TV, 광고기반 무료 스트리밍 서비스) 플랫폼 'LG채널'을 통해 드라마 '옥씨부인전'을 AVOD(광고 기반 주문형 비디오) 형식으로 서비스한다고 발표했다. 이는 국내 신작 드라마가 TV 방송 종료 전 FAST 플랫폼에 서비스되는 첫 사례로 기존의 구작 콘텐트 중심이었던 FAST 플랫폼 시장에 새로운 활력을 불어넣을 것으로 기대된다. JTBC 새 토일드라마 '옥씨부인전'(극본 박지숙, 연출 진혁, 제작 SLL, 코퍼스코리아)은 이름도, 신분도, 남편도 모든 것이 가짜였던 여인 옥태영(임지연 분)과 그녀를 지키기 위해 목숨까지 걸었던 예인 천승휘(추영우 분)의 치열한 생존 사기극을 그린 드라마로 방영 전부터 풍성한 캐릭터와 몰입도 높은 스토리로 시청자들의 기대를 모으고 있는 작품이다. LG채널에서는 JTBC에 첫 방송되는 11월 30일 이후 1주의 홀드백(]]></content:encoded>
+            <title><![CDATA[이인혜, 첫눈 오자 아들과 눈사람 계획.. “눈 속에 아들 사람 담은 모성애” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/410/0001038450</link>
+            <guid>https://m.entertain.naver.com/now/article/410/0001038450</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이인혜가 첫눈과 함께한 특별한 겨울 풍경을 공개하며 따뜻한 감성을 전했다. 28일, 이인혜는 자신의 SNS에 “눈~~~~”이라는 감탄과 함께 아들과 함께 찍은 사진을 게재해 팬들의 시선을 사로잡았다. 사진 속 그녀는 눈 덮인 아파트 단지에서 환한 미소를 지으며 겨울의 첫 순간을 기록하고 있다. 첫눈 맞은 모성애, “눈사람 대신 아들과의 추억” 이인혜는 첫눈이 내리자 아들과 함께 눈사람을 만들 계획을 세웠지만, 아쉬운 기온 탓에 눈이 녹아버려 뜻을 이루지 못했다고 전했다. 하지만 그녀는 그 순간조차도 아들과 함께한 소중한 추억으로 담아냈다며 따뜻한 모성애를 드러냈다. 팬들은 “아들 눈사람이 최고야”, “붕어빵처럼 닮은 모자(母子)의 모습이 사랑스럽다”는 댓글을 남기며 응원의 메시지를 보냈다. 이인혜의 패션, “심플한 겨울 룩의 정석” 눈길을 사로잡은 건 단연 이인혜와 아들의 자연스러운 겨울 커플룩이었다. 이인혜는 블랙 코트와 데님 팬츠로 심플하면서도 세련된 룩을 완성했다. 여기에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["무소속 끝내고파"… (여자)아이들, 전소연 재계약 불발설? (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/417/0001041336</link>
-            <guid>https://m.entertain.naver.com/now/article/417/0001041336</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[아이들 전소연이 큐브 재계약에 대해 언급했다. 지난 27일 유튜브 콘텐츠 '비빔팝'에서는 (여자)아이들 전소연이 출연했다. 공개된 영상 속 전소연은 (여자)아이들의 새 전성기를 불러온 '덤디덤디'의 비화를 밝혔다. 전소연은 "모든 직원, 멤버가 '덤디덤디'를 안 내고 싶다 했다. 노래가 안 좋아서 안 내고 싶다 했는데 제가 밀어붙였다. 회장님도 찾아갔다"며 "저희가 그 노래를 해야 된다 생각했다. 음원 성적이 많이 떨어졌다. 음원이 잘 나올 음악을 해야겠다는 생각이 들어서 '덤디덤디'를 했다. 저희한테는 최고의 성적이었다. 그래서 그때부터 조금씩 더 참여를 했고 제대로 참여한 건 '톰보이'"라고 밝혔다. 황소윤은 "솔직히 말하면 큐브에서 전소연이 차지하는 영역이 많았던 거 같다. 그것을 떠나기로 한 결심이"라고 이야기했고 전소연은 "저요? 저 안 떠나는데"라고 화들짝 놀랐다. 전소연은 "아직 논의 중인데 아직 모르겠다"며 "멤버들과 제가 가장 좋은 환경에서 음악을 하고 싶어서 논의가]]></content:encoded>
+            <title><![CDATA[뉴진스, 민희진과 '탈하이브' 할까? (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/421/0007933227</link>
+            <guid>https://m.entertain.naver.com/now/article/421/0007933227</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[뉴진스 멤버들이 전속계약 해지를 요구하며 발송한 내용증명의 답변 시한이 임박했다. 소속사 어도어는 하니의 주장에 대해 “아티스트의 말을 전적으로 신뢰한다”며 빌리프랩에 성의 있는 대응을 요구했다. 뉴진스가 어도어에 잔류할지, 아니면 법적 분쟁에 나설지 관심이 집중된다. 뉴진스의 최후통첩 당일인 28일 서울 용산구 하이브(어도어의 모회사) 본사에서 직원들이 이동하고 있다. 2024.11.28/뉴스1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에스파 카리나, 첫눈 맞으며…여친짤 대방출 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/396/0000694902</link>
-            <guid>https://m.entertain.naver.com/now/article/396/0000694902</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 에스파 카리나가 설레는 미모를 뽐냈다. 27일 카리나는 자신의 SNS를 통해 “눈사람 이름은 송이”라는 글과 함께 여러 장의 사진을 게재했다. 공개된 사진 속에는 눈사람을 만드는 카리나의 모습이 담겼다. 안경과 파란색 머플러, 검은색 코트를 매치하고 머리를 올려 묶은 카리나는 꾸밈 없는 모습에서도 청순한 미모를 자랑해 시선을 사로잡는다. 자연스러운 분위기를 뽐내며 ‘여친짤(여자친구를 찍은 듯한 사진)’을 완성한 카리나의 자태가 설렘을 유발했다. 해당 게시물을 본 국내외 팬들은 댓글로 하트 이모티콘을 연발하는 등 카리나에게 찬사를 표했다. 사진=카리나 인스타그램 한편, 2000년생인 카리나는 2020년 디지털 싱글 ‘블랙 맘바(Black Mamba)’를 발표하며 그룹 에스파로 데뷔했다. 에스파는 지난달 스페셜 디지털 싱글 ‘싱크: 페러렐 라인(SYNK : PARALLEL LINE)’과 다섯 번째 미니 앨범 ‘위플래쉬(Whiplash)’를 발표했다.]]></content:encoded>
+            <title><![CDATA['최후통첩 D-DAY' 뉴진스 선택은? (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/421/0007933228</link>
+            <guid>https://m.entertain.naver.com/now/article/421/0007933228</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[뉴진스 멤버들이 전속계약 해지를 요구하며 발송한 내용증명의 답변 시한이 임박했다. 소속사 어도어는 하니의 주장에 대해 “아티스트의 말을 전적으로 신뢰한다”며 빌리프랩에 성의 있는 대응을 요구했다. 뉴진스가 어도어에 잔류할지, 아니면 법적 분쟁에 나설지 관심이 집중된다. 뉴진스의 최후통첩 당일인 28일 서울 용산구 하이브(어도어의 모회사) 본사 앞으로 시민들이 지나가고 있다. 2024.11.28/뉴스1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[최진혁, 뮤지컬 ‘블러디 러브’ 도전 “신선한 매력 느껴” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/382/0001165729</link>
-            <guid>https://m.entertain.naver.com/now/article/382/0001165729</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[배우 최진혁의 화보가 공개돼 눈길을 끈다. ‘더스타’는 2024년 12월호(11월 28일 발간)를 통해 고혹적이면서도 로맨틱한 콘셉트의 최진혁 배우 화보를 공개했다. 공개된 사진 속 최진혁은 댄디한 의상을 입고 소파에 편하게 눕거나 행복한 미소를 짓는 등 새로운 매력으로 시선을 사로잡았다. 뮤지컬 ‘블러디 러브’에 도전하는 최진혁은 “뮤지컬은 처음이라 많이 걱정했었다. 연습을 하다 보니 무대라는 새로운 공간에서 연기하며 노래하는 신선한 매력이 있는 것 같아 도전하기 잘했다는 생각이 들었다”라며 소감을 털어놓았다. 이어 불멸의 삶을 살아가는 드라큘라 역할에 대해 “2013년도에 방영한 드라마 ‘구가의 서’에서 맡았던 ‘구월령’이라는 역할과 비슷한 부분이 많아서 더 끌렸다. 또 함께 호흡을 맞추는 배우분들과 연출가님이 워낙 잘해주셔서 역할에 잘 몰입하는 중이다”라고 전했다. 상상으로나마 불멸의 삶을 살고 싶었던 적이 있냐는 질문에 최진혁은 “나만 불멸의 삶이라면 많이 슬플 것 같다. 주]]></content:encoded>
+            <title><![CDATA[떠나느냐 남느냐…뉴진스 선택은? (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/421/0007933224</link>
+            <guid>https://m.entertain.naver.com/now/article/421/0007933224</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[뉴진스 멤버들이 전속계약 해지를 요구하며 발송한 내용증명의 답변 시한이 임박했다. 소속사 어도어는 하니의 주장에 대해 “아티스트의 말을 전적으로 신뢰한다”며 빌리프랩에 성의 있는 대응을 요구했다. 뉴진스가 어도어에 잔류할지, 아니면 법적 분쟁에 나설지 관심이 집중된다. 뉴진스의 최후통첩 당일인 28일 서울 용산구 하이브(어도어의 모회사) 본사 앞으로 시민들이 지나가고 있다. 2024.11.28/뉴스1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[장성규 AI급 변신에 홍석천도 관심.."이 정도면 저도 남자로 보이실까요?" [종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/076/0004220670</link>
-            <guid>https://m.entertain.naver.com/now/article/076/0004220670</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[방송인 장성규가 전신성형급 딥페이크급 변신을 한 가운데 홍석천까지 관심을 보였다. 27일 장성규는 "생각보다 반응이 뜨겁네요 해킹당했냐 ai냐 딥페이크냐 어디 고쳤냐 다양한 반응들 감사합니다"라며 "근데 아무리 그래도 차은우인 줄 알았다는 둥 이런 반응은 은우느님한테 죄송한걸요. 실례지만 자제 부탁드립니다"라고 자중을 부탁했다. 그러면서도 태그로 "from 장은우"라고 써 웃음을 안겼다. 이에 홍석천은 "김똘똘 같은데? ㅎ ㅎ ㅎ ㅎ "라고 댓글을 달자 장성규는 "이 정도면 저도 남자로 보이실까요 우리 형"이라고 적어 또 한번 재치 댓글로 웃음을 유발했다. 상추는 "해시태그 from 장은우가 킹받는다"고 적었고, 이지혜 이현이 김소현 등은 "어머나"를 연발하며 놀랍다는 반응을 보였다. 앞서 장성규는 "꿈을 이뤘다. 엠씨들 중에 외모 탑3에 드는 것이 꿈이었는데 약간의 변화로 그 꿈이 현실이 됐다"라고 자신하며 완전히 달라진 자신의 모습을 사진으로 공개했다. 공개된 사진 속에는 평소]]></content:encoded>
+            <title><![CDATA[뉴진스 최후통첩 디데이 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/421/0007933226</link>
+            <guid>https://m.entertain.naver.com/now/article/421/0007933226</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[뉴진스 멤버들이 전속계약 해지를 요구하며 발송한 내용증명의 답변 시한이 임박했다. 소속사 어도어는 하니의 주장에 대해 “아티스트의 말을 전적으로 신뢰한다”며 빌리프랩에 성의 있는 대응을 요구했다. 뉴진스가 어도어에 잔류할지, 아니면 법적 분쟁에 나설지 관심이 집중된다. 뉴진스의 최후통첩 당일인 28일 서울 용산구 하이브(어도어의 모회사) 본사 앞으로 시민들이 지나가고 있다. 2024.11.28/뉴스1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['대상'에 이어 '그림'까지…전현무, 기안84 진짜 라이벌 됐다 "'무스키아' 작품 전시" [SC이슈] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/076/0004220669</link>
-            <guid>https://m.entertain.naver.com/now/article/076/0004220669</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA['고정 프로 21개'인 방송인 전현무가 부캐 '무스키아'로 활동 영역을 넓혔다. 28일 제주도립미술관은 전현무의 그림을 '무스키아의 표류기-진짜 내 얼굴을 찾는 여정'이라는 제목으로 특별 전시하고 있다고 밝혔다. "지금 당신은 어떤 표류를 하고 있나요?"라는 물음을 가운데 두고 오른쪽에는 '제주현무암 한라산을 오르다 지쳐 넋이 나간 표정'을 담은 전현무의 자화상이, 왼쪽에는 방송인 김숙과 신봉선을 그린 '김숙대할망 with 신봉선'이 자리했다. 작품 설명에는 "인생은 자신의 진짜 모습을 찾아가는 긴 여정입니다. 너새니얼 호손의 작품 '큰 바위 얼굴'이 시사하듯 세월이 지나고 자신을 둘러싼 껍데기들이 하나둘 벗겨지면 결국 자신의 진짜 얼굴이 드러납니다"라고 적혀 있다. 전현무는 '무스키아'라는 부캐릭터로도 활약하고 있다. 그의 화풍이 세계적인 화가 장미셸 바스키아를 연상케 한다고 해서 붙여진 이름으로, MBC '나혼자산다'에 함께 출연한 그룹 위너 멤버 송민호가 그림을 그리는 것을 보]]></content:encoded>
+            <title><![CDATA[뉴진스, 떠날까? 남을까? (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/421/0007933225</link>
+            <guid>https://m.entertain.naver.com/now/article/421/0007933225</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[뉴진스 멤버들이 전속계약 해지를 요구하며 발송한 내용증명의 답변 시한이 임박했다. 소속사 어도어는 하니의 주장에 대해 “아티스트의 말을 전적으로 신뢰한다”며 빌리프랩에 성의 있는 대응을 요구했다. 뉴진스가 어도어에 잔류할지, 아니면 법적 분쟁에 나설지 관심이 집중된다. 뉴진스의 최후통첩 당일인 28일 서울 용산구 하이브(어도어의 모회사) 본사 앞으로 시민들이 지나가고 있다. 2024.11.28/뉴스1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[트와이스, 수록곡 ‘매지컬’ 일부 음원 공개...반짝이는 겨울 감성 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/009/0005404170</link>
-            <guid>https://m.entertain.naver.com/now/article/009/0005404170</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 트와이스가 새 앨범 수록곡 ‘매지컬(Magical)’ 일부 음원을 선공개했다. 트와이스는 오는 12월 6일 미니 14집 ‘스트래티지(STRATEGY)’와 타이틀곡 ‘스트래티지(Strategy)(feat. Megan Thee Stallion)’을 발매하고 컴백한다. JYP엔터테인먼트는 지난 11월 18일 타이틀곡의 일부 음원을 선공개한데 이어 28일 0시에는 트와이스 공식 인스타그램 채널에 수록곡 ‘매지컬’ 하이라이트 음원 영상을 오픈했다. 영상은 반짝이는 멜로디와 마법 같은 멤버들의 비주얼이 더해져 크리스마스 분위기를 자아냈다. 여기에 겨울 감성이 느껴지는 가사 “This is something magical The spell you have on me is supernatural Now you got me falling like the winter snow When you look at me it‘s something M-A-G-I-C Something magical”이 더해]]></content:encoded>
+            <title><![CDATA['최후통첩 D-DAY' 뉴진스의 선택은? (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/421/0007933223</link>
+            <guid>https://m.entertain.naver.com/now/article/421/0007933223</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[뉴진스 멤버들이 전속계약 해지를 요구하며 발송한 내용증명의 답변 시한이 임박했다. 소속사 어도어는 하니의 주장에 대해 “아티스트의 말을 전적으로 신뢰한다”며 빌리프랩에 성의 있는 대응을 요구했다. 뉴진스가 어도어에 잔류할지, 아니면 법적 분쟁에 나설지 관심이 집중된다. 뉴진스의 최후통첩 당일인 28일 서울 용산구 하이브(어도어의 모회사) 본사 앞으로 시민들이 지나가고 있다. 2024.11.28/뉴스1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[산다라박, 인기 어느 정도길래.."가만히 있어도 동료들이 연락"(나래식) [종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/108/0003285857</link>
-            <guid>https://m.entertain.naver.com/now/article/108/0003285857</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 투애니원(2NE1) 멤버 산다라박과 배우 겸 방송인 박소현이 '나래식'에 출격해 거침없는 입담을 마음껏 뽐냈다. 27일 저녁 박나래의 유튜브 채널 '나래식'에는 '2NE1 콘서트 뒤풀이, 과식, 소개팅썰, 이기자부대'라는 제목으로 산다라박, 박소현이 함께한 11회 영상이 게재됐다. 박소현은 현재 tvN STORY 맞선 프로젝트 '이젠 사랑할 수 있을까'를 통해 인연 찾기에 나선 상황. 이날 박소현은 "남자를 두 명이나 만났는데, 나에게 플러팅 기술을 알려 줄 사람이 없다"고 밝히며, 박나래에게 "네가 고수니까 티 안 내고 플러팅 하는 법을 알려달라"고 말했다. 이에 박나래는 "내가 연애 고수인 이유는 예쁘고 잘생긴 애들은 아쉬울 게 없다. 노력을 안 해도 온다. 나는 물밑에서 발버둥 쳐야 겨우 앞으로 나가는 거다"라며 "중요한 건 옆자리에 앉으면 안 되고 대각선에 앉아야 한다. 옆자리에 앉으면 예뻐보일 수가 없다"고 도도&amp;미소 스킬, 이그 플러팅 등 자신의 노하우가 담긴 각종]]></content:encoded>
+            <title><![CDATA[소문난 대식가 데이식스 영케이, K푸드쇼 'BYOB' 출격 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/437/0000420065</link>
+            <guid>https://m.entertain.naver.com/now/article/437/0000420065</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[밴드 데이식스(DAY6) 멤버 영케이가 글로벌 K-푸드 토크쇼 'BYOB'를 찾는다. 유튜브 채널 'JohnMaat'은 29일 오전 10시, 영케이가 게스트로 출연하는 'BYOB'의 아홉 번째 에피소드를 공개한다. 이날 영케이는 데이식스의 '역주행 신화' 소감을 비롯해 연예계 소문난 대식가로서의 일화 등 다채로운 에피소드를 전한다. 특히, K-포차에서 진행되는 토크쇼인 만큼 영케이만의 특별한 레시피도 즉석에서 공개될 예정이다. 토크와 더불어 영케이는 2MC 박준형과 브라이언의 감탄을 자아낸 라이브 무대도 선보인다. K-포차를 촉촉한 감성으로 가득 채울 영케이의 무대에 기대가 쏠린다. 'BYOB'는 박준형과 브라이언이 K-포차의 주인이 되어 게스트를 초대, 포장마차 요리를 즐기며 영어로 취중 진담을 나누는 글로벌 K-푸드 토크쇼다. K-포차에서 펼쳐지는 먹방과 토크는 물론, 스트레스를 한 방에 날리는 강력한 매운맛의 스페셜 코너 '핫 챌린지' 등으로 글로벌 구독자들의 뜨거운 반응을 얻]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김준호, ♥김지민과 달달 모먼트?…굿나잇 뽀뽀까지 (독박투어3) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/382/0001165727</link>
-            <guid>https://m.entertain.naver.com/now/article/382/0001165727</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[‘독박즈’가 김준호의 연인이자 깜짝 게스트인 김지민의 일일 남자친구 자리를 놓고 ‘독박 게임’에 돌입한다. 30일 오후 방송하는 ‘니돈내산 독박투어3’(채널S, SK브로드밴드, K·star, AXN 공동 제작) 15회에서는 베트남 호찌민으로 떠난 김대희x김준호x장동민x유세윤x홍인규가 초특급 게스트인 김지민까지 가세한 독박 게임으로 신선한 재미를 선사하는가 하면, 호찌민 명소와 맛집을 섭렵하며 눈호강을 안기는 현장이 펼쳐진다. 앞서 호찌민 시티 투어를 마친 ‘독박즈’는 이날 첫 번째 숙소에 짐을 푼 뒤 휴식 시간을 갖는다. ‘독박즈’ 5인이 도미토리형 숙소에서 다 같이 자기로 하고, 김지민이 별도의 방을 쓰기로 한 가운데, 김준호는 단체방에서 홀연히 사라져 ‘독박즈’의 질투를 유발한다. 김지민의 방에 조용히 들어간 김준호는 다음 날 입을 의상을 체크하는 김지민을 그윽하게 바라보면서 “내일 입을 옷 준비하는 거야? 여자들은 역시 다르네~”라고 스윗하게 말한다. 이후, 배가 출출해진 김지]]></content:encoded>
+            <title><![CDATA[율희, 최민환 업소 폭로 후…파티 열고 밝은 근황 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/396/0000694909</link>
+            <guid>https://m.entertain.naver.com/now/article/396/0000694909</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[사진=율희 인스타그램 그룹 라붐 출신 율희가 근황을 전했다. 27일 율희는 자신의 SNS를 통해 “우당탕탕 생일 파티”. 고마워 애들아”라는 글과 함께 사진 한 장을 게재했다. 공개된 사진 속 율희는 딸기 케이크를 둔 채 지인과 생일 파티를 즐기는 모습. 환하게 미소 지으며 밝은 근황을 전하는 율희의 모습이 시선을 모은다. 한편, 율희는 2018년 밴드 FT 아일랜드 최민환과 결혼했으나 5년 만인 지난해 12월 파경을 맞았다. 슬하에 아들 한 명과 쌍둥이 딸을 뒀고, 양육권은 최민환이 가졌다. 율희는 지난달 자신의 유튜브 채널을 통해 최민환이 결혼 생활 도중 유흥업소에 출입하고, 가족들 앞에서 자기 가슴에 돈을 꽂는 등 성추행했다고 주장했다. 영상 말미엔 2022년 7월과 8월 수차례 녹음된 최민환의 녹취록을 공개하기도 했다. 녹취록엔 성매매 정황으로 의심되는 대화를 다른 남성과 주고 받는 최민환 추정 음성이 담겼다. 최민환은 율희의 폭로로 사생활 논란에 휩싸이며 활동을 중단했다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아이브 안유진, ‘2024 가요대전’ MC 출격...4연속 낙점 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/009/0005404165</link>
-            <guid>https://m.entertain.naver.com/now/article/009/0005404165</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[‘MZ 워너비 아이콘’ 아이브 리더 안유진이 또 한 번 ‘가요대전’ MC로 나선다. 27일 소속사 스타쉽엔터테인먼트에 따르면, 안유진은 오는 12월 25일 인천 영종도 인스파이어 아레나에서 열리는 ‘2024 SBS 가요대전’의 진행을 맡는다. 지난 2022년 3월부터 ‘가요대전’의 MC로 활약한 안유진은 매년 수준급의 진행으로 세계가 주목하는 대형 K팝 축제의 중심에 섰다. 특히, 올해 7월 ‘2024 SBS 가요대전 서머’에서는 ‘경력직 MC’다운 능숙함과 센스 있는 멘트로 생방송을 완벽하게 이끌며 큰 호평을 받은 바, 네 번째로 ‘가요대전’의 MC를 맡은 안유진에 기대가 더해지고 있다. 안유진은 리더로 속한 아이브 그룹 활동을 물론 디즈니 100주년 기념 영화 ‘위시(Wish)’와 카카오웹툰 ‘더 그레이트’ OST, 예능에서도 그 존재감을 꾸준히 입증해 왔다. 2022년부터 출연한 tvN ‘뿅뿅 지구오락실’과 지난 2월 방송된 JTBC ‘크라임씬 리턴즈’에서 타고난 예능감을 발산]]></content:encoded>
+            <title><![CDATA[뉴진스 ‘최후통첩’ D-DAY...“하니 신뢰” 어도어, 어떤 답변할까[MK이슈] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/009/0005404239</link>
+            <guid>https://m.entertain.naver.com/now/article/009/0005404239</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 뉴진스가 ‘전속계약 해지’를 걸고 소속사 어도어에 보낸 내용증명의 데드라인이 다가왔다. 어도어가 데드라인을 하루 앞두고 하니의 ‘무시해’ 발언과 관련 아일릿 소속사 빌리프랩에 사과를 요구한 가운데, 이날 어도어가 어떤 입장을 내놓을지 관심이 쏠린다. 뉴진스는 지난 13일 김민지, 하니 팜, 마쉬 다니엘, 강해린, 이혜인 등 멤버 다섯 명의 본명으로 어도어에 내용증명을 발신했다. 멤버들은 내용증명에서 “이 서신을 받은 날로부터 14일 이내에 말씀드리는 전속계약의 중대한 위반사항을 모두 시정하라”고 요구했다. 어도어는 이튿날 내용증명을 수령했다며 “지혜롭게 해결해 아티스트와 지속적으로 함께 할 수 있도록 최선을 다할 것”이라고 밝혔다. 뉴진스가 내용증명에서 요구한 내용에는 하니에게 ‘무시해’라고 이야기한 매니저의 공식 사과, 민 전 대표 복귀 등이 담겼다. 특히 14일 이내에 시정되지 않을 경우 전속계약을 해지하겠다는 항목도 있어 눈길을 끌었다. 이와 관련 어도어는 지난 27일 “]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에이티즈, 미국서 정주행·역주행 잘 나가네…빌보드 총 8개 차트 진입 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/312/0000690766</link>
-            <guid>https://m.entertain.naver.com/now/article/312/0000690766</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 에이티즈(ATEEZ)가 정주행과 역주행의 동시 흥행으로 빌보드 차트를 장악했다. 지난 26일(현지 시간) 미국 빌보드가 발표한 차트에 따르면, 에이티즈가 빌보드 총 8개의 차트에 진입했다. 에이티즈는 이달 15일에 발매한 미니 11집 '골든 아워 : 파트 2(GOLDEN HOUR : Part.2)'로 빌보드 메인 차트인 '빌보드 200'에서 1위를 거머쥔 것에 이어 '톱 앨범 세일즈 차트' 1위, '빌보드 아티스트 100' 차트 1위, '톱 커런트 앨범 세일즈' 차트 1위, '월드 앨범' 차트 1위에 등극했다. 무려 다섯 개 차트의 최정상에 자리하는 기염을 토하며 당당히 '5관왕'에 오르는 저력을 과시했다. 또한 '바이닐 앨범' 차트 3위, '빌보드 캐네디언 앨범' 차트 94위를 차지한 데 이어 타이틀곡 '아이스 온 마이 티스(Ice On My Teeth)'는 '월드 디지털 송 세일즈' 차트에서 6위에 랭크되며 음반과 음원 모두 쌍끌이 인기를 구가하고 있다. 여기에 전작인 미니]]></content:encoded>
+            <title><![CDATA['수사반장1958' 존재감 각인…성장 아이콘 최우성, 빛 발한 2024년 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/437/0000420063</link>
+            <guid>https://m.entertain.naver.com/now/article/437/0000420063</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[2024년은 배우 최우성 발견의 해가 됐다. 배우 최우성의 존재감이 날이 갈 수록 빛을 발하고 있다. 2019년 JTBC '열여덟의 순간'으로 공식 데뷔한 최우성은 MBC '웰컴2라이프', tvN '사이코지만 괜찮아', KBS2 '대박부동산', tvN '간 떨어지는 동거', tvN '멜랑꼴리아' 등 다수의 작품에 출연하며 무한 성장 가능성을 입증했다. 꾸준히 새로운 장르와 캐릭터를 도전하며 연기적인 성장을 이뤄나간 최우성은 지난 5월 종영한 MBC '수사반장 1958'을 통해 대중들에게 자신의 존재감을 확실히 각인시켰다. 원조 '수사반장'을 추억하는 기성세대에게는 눈도장을, 원조를 모르는 젊은 세대에게는 신선함을 안기면서 기분 좋은 호평을 이끌어낸 것. '수사반장 1958'은 한국형 수사물의 역사를 쓴 '수사반장'의 프리퀄 드라마로, 소도둑 검거 전문 박영한(이제훈) 형사가 동료 3인방 김상순(이동휘), 조경환(최우성), 서호정(윤현수)과 한 팀으로 뭉쳐 부패 권력의 비상식을 상식으]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이선옥 “정우성이 미혼모 만들었나? 문가비가 결정” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/009/0005404164</link>
-            <guid>https://m.entertain.naver.com/now/article/009/0005404164</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[이선옥 작가가 배우 정우성과 문가비 사이의 혼외자 스캔들에 대해 자신의 생각을 밝혔다. 이선옥 작가는 지난 26일 SNS에 “여성이 스스로 출산을 결정했는데 누가 미혼모를 만들었다고 할 수 있나”라며 “성인인 여자가 스스로 아이를 낳기로 선택하고 낳은 것”이라고 말했다. 그러면서 “남자가 미혼모를 만든 것인가? 35세 여성이 세뇌당한 미성년자도 아니고 누가 미혼모로 만든다고 해서 만들어지나”라며 “(일부 여성들이) 낙태권을 주장할 때는 ‘여성의 몸은 여성의 것이고 낙태든 출산이든 여성의 몸에서 행해지는 것은 오직 여성에게만 선택할 권리가 있다’고 주장하면서, 여성이 아이를 낳아 기르겠다고 한 사안에는 ‘사귀지도 않으면서 미혼모를 만들었다’고 남성에게 책임을 전가한다”고 말하기도 했다. 이 작가는 또 “낙태죄 처벌에 남성을 포함하라던 요구는 남성에게 출산 후 책임을 같이 지라던 것 아니었나”라면서 “정우성의 경우 책임을 지겠다고 하니 (기사에) 이런 제목을 달 이유가 없다”고 정우성의]]></content:encoded>
+            <title><![CDATA[에스파 카리나, 같이 눈사람 만들래? 여친짤 대방출 [DA★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/382/0001165746</link>
+            <guid>https://m.entertain.naver.com/now/article/382/0001165746</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 에스파 카리나가 여친짤의 정석을 선보였다. 카리나는 지난 27일 자신의 인스타그램에 “눈사람 이름은 송이”라는 글과 함께 사진을 게재했다. 공개된 사진에는 눈사람을 만들고 있는 카리나의 모습이 담겼다. 파란색 머플러와 코트를 입은 카리나는 사랑스러운 미모를 자랑했다. 특히 카리나는 팬들을 설레게 할 ‘여친짤’의 정석 같은 비주얼을 뽐내 눈길을 끌었다. 한편 카리나가 속한 에스파는 지난 10월 21일 다섯 번째 미니 앨범 ‘Whiplash(위플래시)’를 발매했다. 김승현 동아닷컴 기자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에이엠컴퍼니, ‘제3회 친환경 패션 디자인 공모전’ 성황리 마무리 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/410/0001038431</link>
-            <guid>https://m.entertain.naver.com/now/article/410/0001038431</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[국내 친환경 원단 대표 기업 에이엠컴퍼니가 주최한 제3회 친환경 패션 디자인 공모전이 지난 11월 23일 성료됐다. 에이엠컴퍼니 섬유사업부는 ‘사람과 지구를 위한 지속 가능한 미래’라는 비전을 내세우며, 친환경 소재와 공정의 중요성을 강조했다. 친환경 소재 사용은 선택이 아닌 필수임에 따라 환경 보호와 자원 절약은 모두가 함께 만들어가야 할 미래를 강조하고, 지속 가능한 소재 개발 및 생산 공정 개선의 필요성을 역설했다. 이번 공모전에는 전국 80개 대학에서 100여 개 팀이 참가하며, 지속 가능한 패션 디자인 아이디어를 통해 미래 가능성을 조명하는 기회로 주목받았다. 공모전은 1차 디자인 기획안 제출과 2차 실물 제작으로 나뉘어 진행되었다. 심사위원단으로는 국내외에서 활약 중인 윤석운(SEOKWOON YOON) 대표, 차상현(WAVE UNION) 대표, 신한나(HANNAN SHIN) 대표, 안지유(MMIC) 대표가 참여해 심사의 공정성을 높였다. 심사 기준은 △실용성 및 상품화 가]]></content:encoded>
+            <title><![CDATA[KBS, 민희진 관련 기사 삭제 이유 해명 "다양한 입장 감안" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/421/0007933199</link>
+            <guid>https://m.entertain.naver.com/now/article/421/0007933199</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[KBS가 '민희진 측 '뉴진스 입장 발표 말렸다'…하이브 '민에게 유감' 기사를 삭제한 뒤 삭제 이유를 밝히라는 청원이 이어진 가운데, 방송사 측이 두 번째 입장문을 전했다. 최근 KBS는 시청자 청원 게시판에 올라온 '지난 민희진 인터뷰 기사 삭제에 대한 KBS의 답변이'라는 제목의 청원 글이 약 1500명의 동의를 얻자 이에 대해 답변했다. KBS는 "우선 청원인께서 민 전 대표 측 관계자들이 누구인지를 알려달라고 말씀하신 부분에 대해 말씀드리겠다"라며 "언론기관의 취재의 자유는 보도의 공공적 기능을 수행하기 위해 반드시 보장돼야 하며 취재의 자유에는 취재원묵비권이 당연히 포함되는 것으로 학계와 법조계에서 인정되고 있다, KBS뿐만 아니라 여타의 수많은 언론사도 언론의 자유와 취재원 보호 의무를 위해 취재원묵비권을 준수하고 있다, 따라서 해당 기사의 취재원 공개는 불가능하다는 점을 양해해 주시기를 바란다"라고 설명했다. 또한 "청원인께서 올리신 청원 내용 가운데 사실과 다르거나]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김준호♥김지민 몰래 껴안고 뽀뽀까지..신혼여행인줄 (독박투어3)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/076/0004220662</link>
-            <guid>https://m.entertain.naver.com/now/article/076/0004220662</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA['독박즈'가 김준호의 연인이자 깜짝 게스트인 김지민의 일일 남자친구 자리를 놓고 '독박 게임'에 돌입한다. 30(토) 저녁 8시 20분 방송하는 '니돈내산 독박투어3'(채널S, SK브로드밴드, K·star, AXN 공동 제작) 15회에서는 베트남 호찌민으로 떠난 김대희x김준호x장동민x유세윤x홍인규가 초특급 게스트인 김지민까지 가세한 독박 게임으로 신선한 재미를 선사하는가 하면, 호찌민 명소와 맛집을 섭렵하며 눈호강을 안기는 현장이 펼쳐진다. 앞서 호찌민 시티 투어를 마친 '독박즈'는 이날 첫 번째 숙소에 짐을 푼 뒤 휴식 시간을 갖는다. '독박즈' 5인이 도미토리형 숙소에서 다 같이 자기로 하고, 김지민이 별도의 방을 쓰기로 한 가운데, 김준호는 단체방에서 홀연히 사라져 '독박즈'의 질투를 유발한다. 김지민의 방에 조용히 들어간 김준호는 다음 날 입을 의상을 체크하는 김지민을 그윽하게 바라보면서 "내일 입을 옷 준비하는 거야? 여자들은 역시 다르네~"라고 스윗하게 말한다. 이후, 배]]></content:encoded>
+            <title><![CDATA[홍서영, 연극 ‘사일런트 스카이’ 캐스팅 “안은진과 자매 호흡” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://m.entertain.naver.com/now/article/057/0001856525</link>
+            <guid>https://m.entertain.naver.com/now/article/057/0001856525</guid>
+            <pubDate>Thu, 28 Nov 2024 02:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[배우 홍서영이 약 3년 만에 연극 무대로 돌아온다. 홍서영은 오는 29일부터 국립극단 명동예술극장에서 개막하는 연극 ‘사일런트 스카이’에 마거릿 레빗 역으로 함께한다. 연극 ‘사일런트 스카이’는 지구와 은하들 사이 거리를 측정하는 방법을 찾아냈던 여성 천문학자 헨리에타 레빗의 삶을 담아낸 작품으로, 한 개인의 과학적 발견을 넘어, 19세기 여성들이 겪었던 불평등과 그들이 꿈을 위해 싸웠던 과정을 그려내며 관객들에게 진한 감동을 선사할 예정이다. 극 중 홍서영은 천재 천문학자 헨리에타 레빗의 동생이자 작곡가의 꿈을 품고 있는 마거릿 레빗 역을 맡아 안은진과 자매로 연기 호흡을 맞출 전망이다. 개막을 앞둔 홍서영은 소속사 씨엘엔컴퍼니를 통해 “하얀 눈이 예쁘게 쌓인 추운 날 이렇게 따뜻하고 빛나는 작품을 만나게 되어 기쁘고 행복하다. 올 연말 저희 작품과 함께 기분 좋은 한 해 마무리를 하셨으면 좋겠다”고 소감을 전했다. 2016년 뮤지컬 ‘도리안 그레이’로 데뷔한 홍서영은 뮤지컬 ‘디]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[영국 BBC “정우성 혼외자 스캔들 전국적 논란, 한국은 연예인에 압박 심해…극도의 감시받아”[MD이슈](종합) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://m.entertain.naver.com/now/article/117/0003892001</link>
-            <guid>https://m.entertain.naver.com/now/article/117/0003892001</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[영국 BBC가 27일(현지시간) 배우 정우성의 혼외자 논란과 관련 "한국 스타의 아기 스캔들이 전국적인 논란을 불러일으키고 있다"고 보도했다. BBC는 “51살의 한국 영화계 A급 스타 정우성은 지난 일요일 소속사를 통해 자신이 35살 모델 문가비의 갓 태어난 아들의 아버지임을 확인했다”면서 “정우성은 아버지로서 ‘책임을 다할 것’이라고 다짐했지만, 혼외 출산을 금기시하는 보수적인 한국에서 문가비와 결혼할 계획이 있는지에 대해서는 침묵을 유지해 거센 반발을 샀다”고 전했다. BBC는 “다작의 영화 경력으로 한국에서 유명해진 정우성에 대한 비판적인 반응이 주를 이뤘다”면서 “많은 네티즌은 배우가 정직하고 깨끗한 이미지를 더럽혔다고 생각했으며, 일부는 전 유엔난민고등판무관 대사가 ‘자신의 아이를 받아들일 수 없다’고 한데 대해 실망감을 표하기도 했다”고 지적했다. 네이버 뉴스의 한 댓글 작성자는 “정우성은 모든 의무를 다할 것이라며 착한 척하고 있는데... 아이는 돈만으로 자라지 않는다]]></content:encoded>
+            <title><![CDATA['위키드' 신시아 에리보 "CG 사용 싫어...메이크업 4시간 걸렸다" [할리웃통신] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://m.entertain.naver.com/now/article/213/0001318403</link>
+            <guid>https://m.entertain.naver.com/now/article/213/0001318403</guid>
+            <pubDate>Thu, 28 Nov 2024 02:59:04 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '위키드' 배우 신시아 에리보가 분장에 관한 비하인드를 공개했다. 27일(현지 시간), 외신 매체 '피플'(People)은 '위키드'에서 엘파바 역을 맡은 신시아 에리보가 분장하는 모습을 공개했다. 신시아 에리보는 "처음엔 CG를 쓸지 직접 분장을 할지 선택해야 했다. 저는 녹색 여성으로 변신한 제 모습을 거울로 직접 보고싶었다. 사람들이 엘파바를 단순한 녹색 여성으로 보지 않기를 원했다"라고 밝혔다. 분장 시간만 최대 4시간이 걸린다고 밝힌 신시아 에리보는 "엘파바를 직접 분장함으로써 피부의 질감이 느껴지길 원했다. 자세히 보면 주근깨도 발견할 수 있다"라고 말했다. 또 "저는 완벽한 엘파바를 위해 녹색 렌즈까지 착용했다. 이는 분장이기도 하지만 진짜 제 눈이기도 하다"라며 프로다운 면모를 과시했다. 녹색 메이크업에 이어 엘파바에게 빠질 수 없는 아이템은 바로 '손톱'이다. 손톱의 경우 신시아 에리보가 직접 감독에게 추가를 요청한 것으로 알려졌다. 그는 "캐릭터를 연구하던 중]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[정호연·이동휘 결별, 이미 한달 전부터 티났다 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://m.entertain.naver.com/now/article/213/0001318399</link>
+            <guid>https://m.entertain.naver.com/now/article/213/0001318399</guid>
+            <pubDate>Thu, 28 Nov 2024 02:59:04 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이동휘와 9년 열애 끝에 결별한 정호연의 한 달 전 발언에 시선이 쏠리고 있다. 지난달 31일 정호연은 서울 중구 국립극장 해오름극장에서 열린 '15회 대한민국 대중문화예술상' 시상식에 참석해 문체부장관 표창을 받았다. 당시 정호연은 "이런 영광스러운 자리에 날씨 좋은 날 참석하게 돼 진심으로 영광이다. 즐기다가 가겠다. 멋진 분들과 같은 자리에서 시간을 보낼 수 있어 하루를 좋게 마무리할 거 같다"라고 수상 소감을 밝혔다. '이번 수상을 반길 사람이 있다면 누가 있냐'는 질문을 받은 정호연은 "우리 부모님. 국가에서 진행하는 시상식에 참여한 것을 자랑스럽게 생각하지 않을까 싶다"라고 답했다. 이에 진행자가 "또 한 명 있을 것 같다"라고 이동휘를 간접 언급하자, 정호연은 머뭇거리다 "친구들?"이라고 말을 아꼈다. 이동휘와 정호연의 결별 소식이 알려진 후 해당 시상식이 다시 한번 조명됐고, 정호연이 이동휘 언급을 일부러 피한 것 아니냐는 추측이 나왔다. 이러한 가운데, 이동휘와]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[디카프리오, ♥︎26살 모델과 약혼하지 않았다.."소문일 뿐" [Oh!llywood] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://m.entertain.naver.com/now/article/109/0005203722</link>
+            <guid>https://m.entertain.naver.com/now/article/109/0005203722</guid>
+            <pubDate>Thu, 28 Nov 2024 02:59:04 GMT</pubDate>
+            <content:encoded><![CDATA[할리우드 배우 레오나르도 디카프리오가 26살 모델 여자친구와의 약혼을 부인했다. 26일(현지시각) 외신 페이지 식스는 레오나르도 디카프리오는 온라인 루머에도 불구하고 모델 여자친구인 비토리아 세레티와 약혼하지 않았다라고 보도했다. 최근 온라인의 한 가십 피드에 레오나르도 디카프리오와 비토리아 세레티가 약혼했다는 소문이 퍼졌다. 지난 3월에도 비토리아 세레티가 왼손에 새로운 반지를 착용한 모습이 포착되면서 약혼 소문이 불거졌던 바. 당시 그녀는 로스앤젤레스의 한 레스토랑에서 식사하면서 이 장신구를 자랑스럽게 보여주기도 했다. 하지만 이들의 약혼 소문은 사실이 아닌 것으로 밝혀졌다. 페이지 식스 보도에 따르면 한 소식통은 이에 대해 “이것은 인터넷 소문에 불과하다. (약혼 소문은)매달 나온다”라고 밝혔다. 레오나르도 디카프리오와 비토리아 세레티의 열애설은 지난 해 처음 불거졌다. 당시 두 사람은 스페인 이비자의 한 클럽에서 함께 목격됐고, 몇 달 후 이들이 진지한 사이라고 보도됐다. 당]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['정우성 만났던' 故 고이상, 예능 촬영 중 사망..17시간 녹화에 비틀 '벌써 5주기' (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
