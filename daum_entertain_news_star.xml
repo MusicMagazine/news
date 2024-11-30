@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-11-30T17:15:00.398Z</updated>
+    <updated>2024-11-30T18:21:15.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[날티 나는 강훈, 이런 모습 처음이야]]></title>
+        <id>https://v.daum.net/v/20241201031207278</id>
+        <link href="https://v.daum.net/v/20241201031207278"/>
+        <updated>2024-11-30T18:20:53.501Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 이승길 기자] 배우 강훈이 기존의 부드럽고 맑은 이미지에서 벗어나 자유롭고 개성 넘치는 모습을 선보였다. 매거진 싱글즈와 함께 한 화보 촬영 소감에 대해 강훈은 “저의 새로운 모습을 봤어요. 다양한 의상을 입고 찍은 사진을 보면서, ‘내게 이런 모습도 있구나’ 생각했어요. 그래서 핸드폰에도 오늘의 제 모습을 많이 남아뒀어요”라며 이야기 했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[’불안핑’ 윤남노 "수건 없으면 요리 못해" 왜]]></title>
         <id>https://v.daum.net/v/20241201012344062</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241201000901831"/>
         <updated>2024-11-30T15:15:19.980Z</updated>
         <content type="html"><![CDATA[최강희가 다이어리 덕분에 배우가 됐다고 밝혔다. 30일 오후 방송된 MBC 예능프로그램 ‘전지적 참견 시점’(이하 ‘전참시’)에는 고등학교에서 강연하는 배우 최강희가 모습을 보였다. 이날 방송에서 최강희는 “저는 15등급까지 있었어요. 그리고 저는 15등급이었어요. 공부를 엄청나게 못 했죠. 그런데 다이어리 꾸미기는 잘했어요. 저는 다이어리 때문에 연예인이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에스파, 'MMA'의 주인공...대상 포함 7관왕 영예]]></title>
-        <id>https://v.daum.net/v/20241201000700826</id>
-        <link href="https://v.daum.net/v/20241201000700826"/>
-        <updated>2024-11-30T15:15:19.980Z</updated>
-        <content type="html"><![CDATA[[Dispatch=이명주기자] 에스파가 '멜론 뮤직 어워드'의 주인공이 됐다. 4개 대상 중 3개 트로피를 받았다. 멜론이 30일 인천 인스파이어 아레나에서 '제16회 멜론 뮤직 어워드'(Melon Music Awards, 이하 'MMA')를 열었다. 음원 및 투표, 심사 등을 바탕으로 수상자를 가렸다. 에스파는 '올해의 아티스트'를 포함해 3개 대상을]]></content>
     </entry>
 </feed>
