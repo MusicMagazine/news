@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Dec 2024 10:19:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Dec 2024 12:32:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[청하, 크리스마스 스페셜 싱글 'Christmas Promises' 발매]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=340914</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=340914</guid>
+            <pubDate>Tue, 03 Dec 2024 12:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=340914">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241203212226_495ae48b9ad277b4e309bf85bccd3cb6.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=340914">청하, 크리스마스 스페셜 싱글 'Christmas Promises' 발매</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241203212226_495ae48b9ad277b4e309bf85bccd3cb6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세븐틴, '빌보드 뮤직 어워드' 퍼포먼스 예약]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=340830</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=338894">동방신기, 2024 KGMA ‘케이팝 레전더리 아티스트상’ 수상</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241118080824_835f9a9859838cae553f3d4dd71e8070.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스, ‘2024 KGMA’서 대상 포함 2관왕…“좋은 음악으로 찾아뵐 것”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=338833</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=338833</guid>
-            <pubDate>Sun, 17 Nov 2024 01:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=338833">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241117084719_2b318fb0ffcb93402fdc95adb120b4c0.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=338833">뉴진스, ‘2024 KGMA’서 대상 포함 2관왕…“좋은 음악으로 찾아뵐 것”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241117084719_2b318fb0ffcb93402fdc95adb120b4c0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
