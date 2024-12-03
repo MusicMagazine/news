@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Dec 2024 04:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Dec 2024 06:25:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세븐틴, '빌보드 뮤직 어워드' 퍼포먼스 예약]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=340830</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=340830</guid>
+            <pubDate>Tue, 03 Dec 2024 06:24:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=340830">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241203071045_f0fea4bc5028222b59a1c8ce4334dc9e_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=340830">세븐틴, '빌보드 뮤직 어워드' 퍼포먼스 예약</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241203071045_f0fea4bc5028222b59a1c8ce4334dc9e_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['멜론 20주년' MMA2024.. 에스파, 7관왕 영예…올해의 신인은 TWS와 아일릿]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=340651</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=338833">뉴진스, ‘2024 KGMA’서 대상 포함 2관왕…“좋은 음악으로 찾아뵐 것”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241117084719_2b318fb0ffcb93402fdc95adb120b4c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트와이스, 미니 앨범 'STRATEGY' 콘셉트 포토]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=338671</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=338671</guid>
-            <pubDate>Fri, 15 Nov 2024 01:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=338671">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241115091240_be01caf2a669ef1edbb60bf054ef0638_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=338671">트와이스, 미니 앨범 'STRATEGY' 콘셉트 포토</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241115091240_be01caf2a669ef1edbb60bf054ef0638_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
