@@ -4,7 +4,7 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Dec 2024 01:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Dec 2024 03:01:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,6 +23,23 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=340993">소니뮤직 합작 보이그룹 ‘KJRGL(카자그루).. 'prelude~the brilliant blue' 발매</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241204085312_8eb38943b83a83902319a96f5e9a9ca6_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이브, '애프터 라이크' MV 3억 뷰 돌파...내년 1월 컴백 예고]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=340977</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=340977</guid>
+            <pubDate>Wed, 04 Dec 2024 03:00:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=340977">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241204084835_2509b1abb28807a2425a791ce266a3f2.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=340977">아이브, '애프터 라이크' MV 3억 뷰 돌파...내년 1월 컴백 예고</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241204084835_2509b1abb28807a2425a791ce266a3f2.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[청하, 크리스마스 스페셜 싱글 'Christmas Promises' 발매]]></title>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=339112">브루노 마스와 로제, ‘2024 MAMA AWARDS’서 환상 콜라보 예고</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241121100345_67756d9c1685989a7957036726cb30ce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러블리즈, 데뷔 10주년 완전체 콘서트 성료…‘아직 10년’의 약속"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=338915</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=338915</guid>
-            <pubDate>Mon, 18 Nov 2024 01:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=338915">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241118082754_450726892ec09777eb1a762aee87029c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=338915">러블리즈, 데뷔 10주년 완전체 콘서트 성료…‘아직 10년’의 약속" </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241118082754_450726892ec09777eb1a762aee87029c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
