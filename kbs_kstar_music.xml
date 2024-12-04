@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Dec 2024 22:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Dec 2024 23:18:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴진스 ‘How Sweet’, 美 롤링스톤 ‘2024년 베스트 송’ 35위 선정]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=341162</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=341162</guid>
+            <pubDate>Wed, 04 Dec 2024 23:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=341162">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241205061621_454fbd66ae091ed4c9ec43161cd99679.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=341162">뉴진스 ‘How Sweet’, 美 롤링스톤 ‘2024년 베스트 송’ 35위 선정</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241205061621_454fbd66ae091ed4c9ec43161cd99679.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[데이브레이크, 미니 앨범 'SEMICOLON' 10일 발매.. 연말 단독 콘서트 개최]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=341095</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=339351">보이넥스트도어, MAMA AWARDS 수상...“음악과 무대를 사랑하는 팀, 성장 약속”  </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241123083450_6859155bc55f52b12698de97d6f707af_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 진, '지미 팰런쇼' 출연..  ‘Running Wild’ 해피~]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=339195</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=339195</guid>
-            <pubDate>Thu, 21 Nov 2024 21:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=339195">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241122052725_99c24ee4ba4c25fd5d75961f1b769105.jpeg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=339195">방탄소년단 진, '지미 팰런쇼' 출연..  ‘Running Wild’ 해피~</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241122052725_99c24ee4ba4c25fd5d75961f1b769105.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

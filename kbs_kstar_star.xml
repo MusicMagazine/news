@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Dec 2024 22:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Dec 2024 23:18:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이현진, 드라마 [그래, 이혼하자]서 냉소적 호텔 CEO 변신]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=339974</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=339974</guid>
+            <pubDate>Wed, 04 Dec 2024 23:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=339974">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241127092935_96ff1b4511c06d46746995e82223acd0.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=339974">이현진, 드라마 [그래, 이혼하자]서 냉소적 호텔 CEO 변신  </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241127092935_96ff1b4511c06d46746995e82223acd0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 <이프덴> 두 번째 시즌, 다시 시작된 선택의 순간]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=340987</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=339943">박진주, 뮤지컬 '고스트 베이커리' 유령과 빚어내는 감동의 빵집 이야기</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241127092305_becf3acc47dfd2f7942e5997850f62b0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 현리, 글로벌 배우로서의 매력과 포부를 밝히다]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=339907</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=339907</guid>
-            <pubDate>Wed, 27 Nov 2024 23:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=339907">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241127090719_0ab970acb9f9faf17ade101ddd297c2e.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=339907">배우 현리, 글로벌 배우로서의 매력과 포부를 밝히다</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241127090719_0ab970acb9f9faf17ade101ddd297c2e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
