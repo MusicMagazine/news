@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Dec 2024 23:17:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Dec 2024 01:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박나래X장도연, '정년이' 패러디 (유튜브 ‘나래식’)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=340991</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=340991</guid>
+            <pubDate>Wed, 04 Dec 2024 01:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=340991">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241204085840_41269d546ee28c0067d58b7555315eb4_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=340991">박나래X장도연, '정년이' 패러디 (유튜브 ‘나래식’)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241204085840_41269d546ee28c0067d58b7555315eb4_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘마타하리’는 리허설 중.. "옥주현 솔라 에녹 김성식 윤소호, 완벽 몰입"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=340825</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=339917">뮤지컬 ‘알라딘’, 한국 초연  마법 같은 무대가 펼쳐진다</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241127091641_c6c4019f3f32e390853162f05e320e58.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 ‘웃는 남자’, "네 번째 시즌 웃으면서 시작합니다"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=339743</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=339743</guid>
-            <pubDate>Tue, 26 Nov 2024 20:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=339743">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241126090746_697e2f9a4e10c44e4ae4ca4d4286ce41.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=339743">뮤지컬 ‘웃는 남자’, "네 번째 시즌 웃으면서 시작합니다"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241126090746_697e2f9a4e10c44e4ae4ca4d4286ce41.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
