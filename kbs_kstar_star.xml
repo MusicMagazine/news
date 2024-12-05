@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Dec 2024 01:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Dec 2024 05:21:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["AI시대, 독서의 형태가 바뀐다".. 밀리의서재 ‘슈퍼 독서라이프 플랫폼’으로 진화]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=341214</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=341214</guid>
+            <pubDate>Thu, 05 Dec 2024 05:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=341214">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241205131311_2cde631dd270b3f629e97ab831ed31de.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=341214">"AI시대, 독서의 형태가 바뀐다".. 밀리의서재 ‘슈퍼 독서라이프 플랫폼’으로 진화</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241205131311_2cde631dd270b3f629e97ab831ed31de.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이현진, 드라마 [그래, 이혼하자] 냉소적 호텔 CEO 변신]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=339974</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=340277">SLL, FAST 플랫폼 LG채널에 ‘옥씨부인전’ AVOD 서비스 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241128094722_69115576efba19bd0e5573d881901790.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박진주, 뮤지컬 '고스트 베이커리' 유령과 빚어내는 감동의 빵집 이야기]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=339943</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=339943</guid>
-            <pubDate>Wed, 27 Nov 2024 23:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=339943">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241127092305_becf3acc47dfd2f7942e5997850f62b0.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=339943">박진주, 뮤지컬 '고스트 베이커리' 유령과 빚어내는 감동의 빵집 이야기</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241127092305_becf3acc47dfd2f7942e5997850f62b0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
