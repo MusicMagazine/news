@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Dec 2024 07:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Dec 2024 10:20:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 ‘마타하리’ 네 번째 시즌 개막.. 옥주현, 솔라]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=341268</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=341268</guid>
+            <pubDate>Thu, 05 Dec 2024 10:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=341268">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241205163625_3e7789e37223d05a9a1a258ccaf9fe40_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=341268">뮤지컬 ‘마타하리’ 네 번째 시즌 개막.. 옥주현, 솔라 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241205163625_3e7789e37223d05a9a1a258ccaf9fe40_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["AI시대, 독서의 형태가 바뀐다".. 밀리의서재 ‘슈퍼 독서라이프 플랫폼’으로 진화]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=341214</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=340293">"겨울에 만나는 베르테르와 롯데"... 뮤지컬 &lt;베르테르&gt;</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241128104710_1340fc168b5c27286107d12ab8a7cac4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SLL, FAST 플랫폼 LG채널에 ‘옥씨부인전’ AVOD 서비스]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=340277</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=340277</guid>
-            <pubDate>Thu, 28 Nov 2024 01:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=340277">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241128094722_69115576efba19bd0e5573d881901790.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=340277">SLL, FAST 플랫폼 LG채널에 ‘옥씨부인전’ AVOD 서비스 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241128094722_69115576efba19bd0e5573d881901790.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
