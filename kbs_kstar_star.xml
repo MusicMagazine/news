@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Dec 2024 21:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Dec 2024 22:14:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] 뮤지컬 알라딘.. “디즈니의 마술램프, 무대에서 펑~”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=341712</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=341712</guid>
+            <pubDate>Sun, 08 Dec 2024 22:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=341712">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241209065721_e83ef5537703f9949e1ec2f4291edf26.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=341712">[리뷰] 뮤지컬 알라딘.. “디즈니의 마술램프, 무대에서 펑~”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241209065721_e83ef5537703f9949e1ec2f4291edf26.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["클래식!" 연극 [세일즈맨의 죽음] 세종 M씨어터 1월 개막.. 박근형 손병호 손숙 예수정 이상윤 박은석]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=341106</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=339965">뮤지컬 '스윙 데이즈_암호명 A'..  창작 초연의 새 지평 열다</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241127154722_9770cac19a7bbaef6aa494f920209965_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김소월의 시, 뮤지컬로 재탄생... '어제의 시는 내일의 노래가 될 수 있을까']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=339941</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=339941</guid>
-            <pubDate>Sat, 30 Nov 2024 01:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=339941">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241127154603_8e4223ebdc6abad6ccfc785598f88a69.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=339941">김소월의 시, 뮤지컬로 재탄생... '어제의 시는 내일의 노래가 될 수 있을까'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241127154603_8e4223ebdc6abad6ccfc785598f88a69.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
