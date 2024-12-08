@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Dec 2024 05:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Dec 2024 07:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[틱톡, 블랙핑크 로제 'rosie' 캠페인]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=341629</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=341629</guid>
+            <pubDate>Sun, 08 Dec 2024 07:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=341629">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241208153010_6f2b26d472cab1ec41d2294392da428b.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=341629">틱톡, 블랙핑크 로제 'rosie' 캠페인  </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241208153010_6f2b26d472cab1ec41d2294392da428b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴진스 ‘How Sweet’, 美 롤링스톤 ‘2024년 베스트 송’ 35위 선정]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=341162</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=339366">아일릿, ‘2024 MAMA’ 신인상 수상…“글릿 곁에서 오래도록 밝은 빛 될 것”  </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241123085858_2fda5d5a74518f5e1ff137884b87d61a_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보이넥스트도어, MAMA AWARDS 수상...“음악과 무대를 사랑하는 팀, 성장 약속”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=339351</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=339351</guid>
-            <pubDate>Sat, 23 Nov 2024 01:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=339351">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241123083450_6859155bc55f52b12698de97d6f707af_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=339351">보이넥스트도어, MAMA AWARDS 수상...“음악과 무대를 사랑하는 팀, 성장 약속”  </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241123083450_6859155bc55f52b12698de97d6f707af_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
