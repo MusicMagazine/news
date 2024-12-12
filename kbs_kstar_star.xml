@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Dec 2024 23:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Dec 2024 01:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밀리의서재를 꽉 채운 ‘이처럼 사소한 책'들..  2024 밀리 어워즈]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=342112</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=342112</guid>
+            <pubDate>Thu, 12 Dec 2024 01:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=342112">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241212090538_0bfcabe9a05d238b16c9141211e41254.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=342112">밀리의서재를 꽉 채운 ‘이처럼 사소한 책'들..  2024 밀리 어워즈</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241212090538_0bfcabe9a05d238b16c9141211e41254.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[서평] ‘K-컬처와 새로운 한류 정경’.. KBS 글로벌 방송콘텐츠 전문가가 쓴 '한류' 연구]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=341913</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=340844">SLL 비에이엔터테인먼트, 일본 스튜디오와 콘텐트 제작협력 MOU 체결</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241203072824_2e3a82952a87a7f188c81776ec8322d5_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임주환, 연극 '킬롤로지'  성료]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=340761</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=340761</guid>
-            <pubDate>Mon, 02 Dec 2024 04:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=340761">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241202120307_957926ed1c9b04d903212c0afca276ca.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=340761">임주환, 연극 '킬롤로지'  성료</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241202120307_957926ed1c9b04d903212c0afca276ca.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
