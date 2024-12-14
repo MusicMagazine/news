@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Dec 2024 22:15:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Dec 2024 23:15:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['BYOB' NS윤지 "美 할리우드 영화 출연료? 韓서 평생 번 돈보다 많아"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=342439</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=342439</guid>
+            <pubDate>Sat, 14 Dec 2024 23:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=342439">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241215080943_7ce0eb90b621af31a8ef4e752c33af0c_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=342439">'BYOB' NS윤지 "美 할리우드 영화 출연료? 韓서 평생 번 돈보다 많아"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241215080943_7ce0eb90b621af31a8ef4e752c33af0c_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["이렇게 콧대 높은 뮤지컬을 보았나?"..  '시라노'의 귀환]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=342236</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=339974">이현진, 드라마 [그래, 이혼하자] 냉소적 호텔 CEO 변신  </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241127092935_96ff1b4511c06d46746995e82223acd0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <이프덴> 두 번째 시즌, 다시 시작된 선택의 순간]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=340987</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=340987</guid>
-            <pubDate>Wed, 04 Dec 2024 21:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=340987">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241204084246_b65801d12bc7c1b2f59b42241b990271.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=340987">뮤지컬 &lt;이프덴&gt; 두 번째 시즌, 다시 시작된 선택의 순간 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241204084246_b65801d12bc7c1b2f59b42241b990271.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
