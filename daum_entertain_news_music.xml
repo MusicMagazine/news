@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2024-12-16T19:18:06.852Z</updated>
+    <updated>2024-12-16T20:20:25.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["음반 1000만장, 관객수 150만명" 세븐틴, 더할나위 없는 2024년]]></title>
+        <id>https://v.daum.net/v/20241217043006157</id>
+        <link href="https://v.daum.net/v/20241217043006157"/>
+        <updated>2024-12-16T20:19:59.240Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]세븐틴이 올 한해 1000만 장에 육박하는 연간 음반 판매량을 기록했다. 공연 누적 관람객 수는 약 150만 명에 달한다. 세븐틴은 여전히 멈추지 않는 전성기를 구가하고 있다. # 12번째 미니앨범, 연간 최다 판매 K팝 앨범…2년 연속 1000만장 도전 16일 써클차트에 따르면 세븐틴의 1~11월 누적 앨범 판매량은 97]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[온유, 새달 6일 미니앨범 '커넥션' 발표…체코 올로케 뮤비 촬영]]></title>
         <id>https://v.daum.net/v/20241217040005009</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241216180101638"/>
         <updated>2024-12-16T09:20:27.023Z</updated>
         <content type="html"><![CDATA[그룹 NCT 마크와 이영지가 최강 '힙스터' 조합임을 증명해냈다. NCT 마크는 16일 오후 6시 신곡 '프락치(Fraktsiya, Feat. 이영지)'를 공개했다. '프락치'는 하우스 풍의 코드 진행을 기반으로 펼쳐지는 묵직한 808 베이스와 강렬하게 반복되는 신디사이저 사운드가 인상적인 힙합 곡이다. 힙합의 서브 장르인 UK 드릴 요소를 결합해 그동안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT 마크X이영지, K팝이든 힙합이든 다 잘하는 ‘프락치’]]></title>
-        <id>https://v.daum.net/v/20241216180024618</id>
-        <link href="https://v.daum.net/v/20241216180024618"/>
-        <updated>2024-12-16T09:20:27.023Z</updated>
-        <content type="html"><![CDATA[[OSEN=지민경 기자] 그룹 NCT 마크가 이영지와 리얼 힙합을 선보인다. 마크는 16일 오후 6시 각종 음원사이트를 통해 신곡 ‘프락치&nbsp;(Fraktsiya) (Feat.&nbsp;이영지)’ 음원과 뮤직비디오를 공개했다. 오는 2025년 4월 첫 솔로 앨범 발표를 예고한 마크는 지난&nbsp;5월 낭만적인 록스타로 변신한 싱글 ‘200’에 이어 임팩트 있는 힙합 장르의]]></content>
     </entry>
 </feed>
