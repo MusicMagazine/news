@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Dec 2024 08:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Dec 2024 09:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴진스, 2년 연속 ‘일본 레코드 대상’ 출연 확정]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=343010</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=343010</guid>
+            <pubDate>Fri, 20 Dec 2024 09:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=343010">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241220084453_d3bc2ae683ed5e272adfc825b5b7f362_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=343010">뉴진스, 2년 연속 ‘일본 레코드 대상’ 출연 확정  </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241220084453_d3bc2ae683ed5e272adfc825b5b7f362_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2NE1, 일본 도쿄 공연.."블랙잭 사랑해..영원히 함께할 것"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=342807</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=339586">트와이스, '아마존 뮤직 라이브' 출연</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241126084233_e83e8ab5c97e112fbbe5ed58605143cc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에스파 'Supernova, MAMA 6관왕... 2024 최고의 한 해]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=339631</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=339631</guid>
-            <pubDate>Mon, 25 Nov 2024 01:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=339631">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241125082434_ed8b68ea5c964c43ac24da77c57354bd_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=339631">에스파 'Supernova, MAMA 6관왕... 2024 최고의 한 해</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241125082434_ed8b68ea5c964c43ac24da77c57354bd_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
