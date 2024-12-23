@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Dec 2024 08:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2024 11:15:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[갓세븐(GOT7), 1월 20일 3년 만에 완전체 앨범 발매 확정]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=343457</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=343457</guid>
+            <pubDate>Mon, 23 Dec 2024 11:14:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=343457">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241223065853_10d4b43b8816ad662731cdf95ded4d65.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=343457">갓세븐(GOT7), 1월 20일 3년 만에 완전체 앨범 발매 확정</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241223065853_10d4b43b8816ad662731cdf95ded4d65.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴진스, 2년 연속 ‘일본 레코드 대상’ 출연 확정]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=343010</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=339951">"이별부터 희망까지" 규현, 다채로운 감성의 첫 정규 앨범 'COLORS' 발매  </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241127081430_718b8a71154eca264e5fd72237b3af58.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트와이스, '아마존 뮤직 라이브' 출연]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=339586</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=339586</guid>
-            <pubDate>Tue, 26 Nov 2024 01:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=339586">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241126084233_e83e8ab5c97e112fbbe5ed58605143cc.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=339586">트와이스, '아마존 뮤직 라이브' 출연</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241126084233_e83e8ab5c97e112fbbe5ed58605143cc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
