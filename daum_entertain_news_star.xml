@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-12-27T17:14:53.667Z</updated>
+    <updated>2024-12-27T18:20:39.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박서진, 동생 효정에 뽀뽀할까]]></title>
+        <id>https://v.daum.net/v/20241228022506381</id>
+        <link href="https://v.daum.net/v/20241228022506381"/>
+        <updated>2024-12-27T18:20:14.428Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]서다희 인턴 기자 = 가수 박서진의 'KBS 연예대상' 입성기가 공개된다. 28일 오후 9시20분 방송하는 KBS 2TV 예능물 '살림남'에선 '2024 KBS 연예대상'에 박서진이 리얼리티 부문 신인상 후보로 올라 시상식에 참석하는 내용이 그려진다. 처음으로 '연예대상'에 참석하는 오빠를 위해 박서진 동생 효정이 감사의 떡을 양손에 들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사당귀' 이순실 배속김치 공개…"美 트럼프 대통령도 먹어"]]></title>
         <id>https://v.daum.net/v/20241228021110357</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241228003109968"/>
         <updated>2024-12-27T16:17:56.799Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]정서현 인턴 기자 = '독박즈'가 미국 팝스타 브루노 마스와 그룹 '블랙핑크' 멤버 겸 솔로가수 로제로 변신한다. 28일 오후 8시20분 방송되는 채널S·K-star·AXN 예능물 '니돈내산 독박투어3'에서 코미디언 김대희·김준호·장동민·유세윤·홍인규는 일본 도쿄로 떠난다. 이날 도쿄에 도착한 '독박즈'는 인근 야키니쿠 맛집으로 향한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김수현→뉴진스, 'AAA 2024' 대상 영광..변우석 대상 포함 '6관왕']]></title>
-        <id>https://v.daum.net/v/20241228002520939</id>
-        <link href="https://v.daum.net/v/20241228002520939"/>
-        <updated>2024-12-27T16:17:56.799Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 배우 김수현이 27일 오후 태국 방콕 임팩트 챌린저 홀 1-2(IMPACT Challenger Hall 1-2)에서 열린 '제 9회 아시아 아티스트 어워즈'(The 9th Asia Artist Awards')' 에서 AAA 베스트 아티스트상 을 수상하고 소감을 말하고 있다.  2024.12.27 /사진=임성균 tjdrbs23@배]]></content>
     </entry>
 </feed>
