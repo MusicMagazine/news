@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jan 2025 07:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jan 2025 10:16:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김우빈의 선행은 2025년에도 계속된다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=344254</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=344254</guid>
+            <pubDate>Wed, 01 Jan 2025 10:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=344254">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250101183321_0958003bebf64882aeda06ac3ea0c53c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=344254">김우빈의 선행은 2025년에도 계속된다</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250101183321_0958003bebf64882aeda06ac3ea0c53c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강길우 ‘나의 완벽한 비서’ 캐스팅.. 이준혁 직장동료 김동기]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=343950</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=343028">'조명가게', 지금거신 전화는' 카카오엔터 IP 인기몰이</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241220080955_cc0c0dd9ae6f5137368be257c396bdb4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["우리 가족, 멋있습니다".. '가족계획' 엘르 화보]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=342832</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=342832</guid>
-            <pubDate>Sat, 21 Dec 2024 16:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=342832">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241218094647_d5d18a403451e43be9a6a1814d32a39c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=342832">"우리 가족, 멋있습니다".. '가족계획' 엘르 화보 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241218094647_d5d18a403451e43be9a6a1814d32a39c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

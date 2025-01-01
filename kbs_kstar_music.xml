@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jan 2025 07:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jan 2025 10:16:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하이파이유니콘, 日 소니 뮤직 레이블과 계약]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=344256</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=344256</guid>
+            <pubDate>Wed, 01 Jan 2025 10:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=344256">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250101183123_bfd353accc69892d7cce870c35e1ae19.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=344256">하이파이유니콘, 日 소니 뮤직 레이블과 계약</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250101183123_bfd353accc69892d7cce870c35e1ae19.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이브의 2025년, '아이브 엠파시' 2월 3일]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=343728</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=340344">뉴진스 긴급 기자회견, 어도어와 결별  통보.. "전속계약 해지한다"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241129073446_d0a03e22ec906e298b5477c2b2aa7c77_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[izna, 데뷔와 동시에 글로벌 K팝 시장 강타]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=339909</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=339909</guid>
-            <pubDate>Wed, 27 Nov 2024 01:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=339909">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241127091133_cfce65657ee552e9cd414073b5e6ca4b_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=339909"> izna, 데뷔와 동시에 글로벌 K팝 시장 강타</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241127091133_cfce65657ee552e9cd414073b5e6ca4b_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
