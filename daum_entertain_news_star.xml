@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2025-01-02T16:20:42.465Z</updated>
+    <updated>2025-01-02T17:14:04.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지상파 3사 신년사… KBS “생존 앞에 진영 없다”]]></title>
+        <id>https://v.daum.net/v/20250103020507141</id>
+        <link href="https://v.daum.net/v/20250103020507141"/>
+        <updated>2025-01-02T17:13:39.468Z</updated>
+        <content type="html"><![CDATA[지상파 3사가 신년사에서 생존을 위한 조직 운영과 경영 안정화 등을 올해의 목표로 내걸었다. 박장범(사진) KBS 사장은 2일 신년사에서 “극단적 개인주의로 흐른 KBS를 실질적으로 변화시켜야 한다”며 “회사의 생존 앞에 진영이란 있을 수 없다”고 강조했다. 박 사장은 “내부의 진영 갈등이 극심해지는 사이 우리는 국민이 가졌던 공영방송에 대한 기대치를 충]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘나솔사계’ 미스터 황 “여친과 스킨십? 할 건 다 해…아프다고 안 하지 않아”]]></title>
         <id>https://v.daum.net/v/20250103005402965</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250103000024417"/>
         <updated>2025-01-02T15:15:18.244Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]서다희 인턴 기자 = 능력 좋은 회계사 아내의 위험한 불륜으로 가정이 파탄 난 사연이 공개된다. 3일 오후 10시 방송되는 티캐스트 드라마큐브 '끝내주는 부부'에선 이제 막 육아의 세계에 접어든 스마트한 회계사 부부의 결혼 생활의 이면이 밝혀진다. 결혼 초기부터 아이를 원하지 않았던 아내. 사연자는 아내를 설득하기 위해 출산을 한 뒤 육]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["강아지 마킹, 사람 OOO와 비슷하다"]]></title>
-        <id>https://v.daum.net/v/20250103000022413</id>
-        <link href="https://v.daum.net/v/20250103000022413"/>
-        <updated>2025-01-02T15:15:18.246Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]정서현 인턴 기자 = 거실부터 주방까지 온 집안을 똥오줌으로 물들이는 마킹 중독견이 소개된다. 3일 오후 10시50분 방송되는 EBS 1TV '세상에 나쁜 개는 없다'는 '개 다리 번쩍! 마킹 삼 형제' 편으로 꾸며진다. 마킹 중독견을 만나기 위해 제작진이 방문한 곳은 대전광역시다. 현관문을 열자마자 집 곳곳에 놓인 수십 개의 배변 패드]]></content>
     </entry>
 </feed>
