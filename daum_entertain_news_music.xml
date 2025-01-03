@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2025-01-03T11:13:12.846Z</updated>
+    <updated>2025-01-03T12:29:06.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나우어데이즈, 데뷔 첫해부터 눈부신 활약... 차세대 K-팝 신인 강자로 부상]]></title>
+        <id>https://v.daum.net/v/20250103203010872</id>
+        <link href="https://v.daum.net/v/20250103203010872"/>
+        <updated>2025-01-03T12:28:39.969Z</updated>
+        <content type="html"><![CDATA[(MHN스포츠 송도빈 인턴기자) 보이그룹 나우어데이즈(NOWADAYS)가 데뷔 첫해 동안 눈에 띄는 활동으로 주목받으며 뜻깊은 한 해를 보냈다. &nbsp; 소속사 큐브엔터테인먼트는 3일 나우어데이즈의 성공적인 데뷔 첫 해를 조명했다.&nbsp; 지난해 4월 데뷔한 나우어데이즈는 8개월 동안 총 4개의 싱글 앨범과 디지털 싱글을 발매하며 활발한 활동을 이어갔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[투바투 휴닝카이, 제주항공 여객기 사고 피해에 5천만원 기부]]></title>
         <id>https://v.daum.net/v/20250103200204569</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250103172552880"/>
         <updated>2025-01-03T09:15:31.518Z</updated>
         <content type="html"><![CDATA[아이돌그룹 BAE173(비에이이일칠삼)이 최근 종영한 오디션 프로그램들에서 존재감을 입증하며 다음 행보를 기대케 했다. BAE173 멤버들은 최근 종영한 JTBC ‘PROJECT 7’(프로젝트 7)과 아이치이(iQIYI) ‘스타라이트 보이즈’에 출연했다. 제이민(전민욱), 영서(유영서), 준서(박준서), 무진(김현우)는 ‘PROJECT 7’, 유준,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[생중계 취소했던 '제39회 골든디스크어워즈', 6일·7일 새벽 편성]]></title>
-        <id>https://v.daum.net/v/20250103172209792</id>
-        <link href="https://v.daum.net/v/20250103172209792"/>
-        <updated>2025-01-03T09:15:31.519Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] '제39회 골든디스크어워즈'가 행사 이틀 뒤인 6일과 7일 방송된다. JTBC 방송편성표에 따르면 '제39회 골든디스크어워즈' 디지털 음원 부문 녹화분은 6일 자정인 0시에, 음반 부문 녹화분은 7일 오전 1시 20분에 편성됐다. 골든디스크어워즈 사무국은 지난달 31일, "먼저 여객기 사고로 인한 희생자분들과 유가족분들께 깊은]]></content>
     </entry>
 </feed>
