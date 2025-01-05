@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jan 2025 23:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jan 2025 01:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['강노을' 박규영, '오징어게임' 핑크가드 가면 속 삶]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=344601</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=344601</guid>
+            <pubDate>Sun, 05 Jan 2025 01:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=344601">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250105082707_b2ec0474e563a3a1a004c8c0b5429adf.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=344601">'강노을' 박규영, '오징어게임' 핑크가드 가면 속 삶</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250105082707_b2ec0474e563a3a1a004c8c0b5429adf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["고전 중의 고전" 연극 '세일즈맨의 죽음'  막바지 무대 연습 중]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=344590</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=343123">김태리 독서법, “우아하게 읽고, 스마트하게 밀리~”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241220183923_ee6c2a8ca4a5c8a1e4dd82847bdb3cb3_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["전략적 파트너십"   넷플릭스-SBS,  K-콘텐츠 글로벌 진출 박차]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=343156</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=343156</guid>
-            <pubDate>Sat, 21 Dec 2024 16:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=343156">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241220181625_ed29deaebbc5e9ac8d3fca5d1cba06f6_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=343156">"전략적 파트너십"   넷플릭스-SBS,  K-콘텐츠 글로벌 진출 박차</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241220181625_ed29deaebbc5e9ac8d3fca5d1cba06f6_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
