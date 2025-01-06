@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2025-01-06T18:20:58.085Z</updated>
+    <updated>2025-01-06T19:12:28.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[CIX, 23일 새 앨범 '선더 피버' 발매 확정…4인 체제 첫 컴백 카운트다운]]></title>
+        <id>https://v.daum.net/v/20250107040004857</id>
+        <link href="https://v.daum.net/v/20250107040004857"/>
+        <updated>2025-01-06T19:11:53.736Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]그룹 CIX(씨아이엑스)가 오는 23일 정식 컴백한다. CIX(BX, 승훈, 용희, 현석)는 지난 5일과 6일 공식 SNS와 유튜브 채널을 통해 일곱 번째 EP 앨범 '선더 피버'(THUNDER FEVER) 리더 필름과 타임테이블을 공개하며, 컴백일을 오는 23일로 확정했다. 먼저 리더 필름 영상에는 검은 고양이가 비 내리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[라이즈 데뷔곡 '겟 어 기타' 스포티파이 1억 스트리밍 돌파...글로벌 성장세↑]]></title>
         <id>https://v.daum.net/v/20250107030003518</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250106215004531"/>
         <updated>2025-01-06T13:23:25.916Z</updated>
         <content type="html"><![CDATA[(MHN스포츠 송도빈 인턴기자, 정에스더 기자) 그룹 ZEROBASEONE(제로베이스원)이 2년 연속 골든디스크어워즈 트로피를 거머쥐었다. 소속사 웨이크원은 "ZEROBASEONE(성한빈, 김지웅, 장하오, 석매튜, 김태래, 리키, 김규빈, 박건욱, 한유진)은 지난해 '38회 골든디스크어워즈'에서 '신인상'과 '음반 본상'을 수상한 데 이어, 올해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이예준, 이기찬 ‘미인’에 새 숨결‥9일 리메이크 음원 발매]]></title>
-        <id>https://v.daum.net/v/20250106213208371</id>
-        <link href="https://v.daum.net/v/20250106213208371"/>
-        <updated>2025-01-06T13:23:25.916Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 하지원 기자] 가수 이예준이 ‘미인’의 이별 감성을 재해석한다. 이예준은 1월 9일 각종 온라인 음원 사이트를 통해 리메이크 음원 ‘미인’을 발매한다. ‘미인’은 지난 2007년 발매된 이기찬의 정규 9집 타이틀곡을 원곡으로 한다. 히트 작곡가 조영수와 로코베리의 안영민이 합작한 웰메이드 발라드로, 잊히지 않는 멜로디와 절절한 이별 감성을 통해]]></content>
     </entry>
 </feed>
