@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jan 2025 20:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jan 2025 21:14:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한지은, '히트맨2' 파격 변신 예고]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=344818</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=344818</guid>
+            <pubDate>Tue, 07 Jan 2025 21:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=344818">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250107090844_22e50d86d6513f4f381c3ab0455730ab.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=344818">한지은, '히트맨2' 파격 변신 예고</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250107090844_22e50d86d6513f4f381c3ab0455730ab.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박서준, JTBC '경도를 기다리며' 캐스팅... 짠하고 찐한 로맨틱 코미디]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=344749</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=343271">이토록 시크한 채원빈.. 얼루어 화보</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241221092102_fda0fdcb88fc03e42b3b0dc40c642900.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조유리, '정년이' OST에 이어 '오징어 게임2' 진출]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=343312</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=343312</guid>
-            <pubDate>Sun, 22 Dec 2024 21:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=343312">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241221161818_73c4e328e0cf5976c3c2d8306e63361c.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=343312">조유리, '정년이' OST에 이어 '오징어 게임2' 진출</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241221161818_73c4e328e0cf5976c3c2d8306e63361c.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
