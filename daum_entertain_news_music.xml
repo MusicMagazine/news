@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2025-01-08T18:20:59.954Z</updated>
+    <updated>2025-01-08T19:12:30.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[투어스, 데뷔 1주년 이벤트 '스파클링 데이즈' 열과 팬들과 자축]]></title>
+        <id>https://v.daum.net/v/20250109035601112</id>
+        <link href="https://v.daum.net/v/20250109035601112"/>
+        <updated>2025-01-08T19:12:02.565Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]그룹 투어스(TWS)가 데뷔 1주년을 기념하는 팬 이벤트를 개최한다. 이번 이벤트의 명칭은 '스파클링 데이즈'이며, 투어스 팬덤명인 42와 함께 투어스 공식 데뷔일인 1월 22일에 맞춰 다채로운 행사가 진행될 예정이다. 투어스는 8일 팀 공식 SNS와 유튜브 채널을 통해 '스파클링 데이즈' 시작을 알리는 모션 포스터를 공개했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ZEROBASEONE, 20일 서프라이즈 컴백!]]></title>
         <id>https://v.daum.net/v/20250109014905844</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250108190836803"/>
         <updated>2025-01-08T10:16:14.323Z</updated>
         <content type="html"><![CDATA[[OSEN=김나연 기자]&nbsp;세븐틴 멤버 승관(부승관), 도겸(이석민), 호시(권순영)로 이뤄진 유닛 '부석순'이 또 한번 청춘들을 향한 응원을 전하기 위해 나섰다. 8일 오후 6시 부석순의 싱글 2집 'TELEPARTY'가 공개됐다. 'Telepathy(텔레파시)'와 'Party(파티)'를 결합한 'TELEPARTY(텔레파티)'는 '세상 모든 이들과 텔레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["청바지 싹 다 갈아입고 나와"..세븐틴 부석순 표 청춘歌]]></title>
-        <id>https://v.daum.net/v/20250108190002660</id>
-        <link href="https://v.daum.net/v/20250108190002660"/>
-        <updated>2025-01-08T10:16:14.324Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이승훈 기자] /사진=플레디스엔터테인먼트 보이 그룹 세븐틴의 스페셜 유닛 부석순(승관, 도겸, 호시)이 청춘을 위한 파티를 시작했다. 부석순은 8일 오후 6시 싱글 2집 'TELEPARTY' 전곡 음원과 타이틀곡 '청바지'의 뮤직비디오를 공개했다. '세상 모두와 텔레파시로 연결된 파티'를 테마로 한 이 앨범은 고단한 일상에 지쳐 청춘을 잊은]]></content>
     </entry>
 </feed>
