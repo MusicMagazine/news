@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jan 2025 20:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jan 2025 21:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2월의 온유, 단독 콘서트 'CONNECTION' 개최]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=345112</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=345112</guid>
+            <pubDate>Thu, 09 Jan 2025 21:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=345112">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250109091707_dd661bf3656839a603639f0618bd3ee5.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345112"> 2월의 온유, 단독 콘서트 'CONNECTION' 개최</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250109091707_dd661bf3656839a603639f0618bd3ee5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[JYP 보이그룹 킥플립, 20일 데뷔... "저희를 보여드리고 싶어요"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=345107</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=340651">'멜론 20주년' MMA2024.. 에스파, 7관왕 영예…올해의 신인은 TWS와 아일릿  </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241201075304_af836ce5d858f14f18cd45c8156796f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스, 어도어와 전속계약 해지… “자유롭게 활동 이어나갈 것”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=340510</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=340510</guid>
-            <pubDate>Fri, 29 Nov 2024 05:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=340510">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241129132812_2e9bb5fe152ddf3f5ab2a8b4330b846a_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=340510">뉴진스, 어도어와 전속계약 해지… “자유롭게 활동 이어나갈 것”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241129132812_2e9bb5fe152ddf3f5ab2a8b4330b846a_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
