@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2025-01-11T11:12:15.569Z</updated>
+    <updated>2025-01-11T12:27:12.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카라 박규리, 꽁꽁 싸맸어도 아주 예뻐]]></title>
+        <id>https://v.daum.net/v/20250111210049220</id>
+        <link href="https://v.daum.net/v/20250111210049220"/>
+        <updated>2025-01-11T12:26:41.351Z</updated>
+        <content type="html"><![CDATA[[OSEN=오세진 기자] 카라 박규리가 따뜻한 겨울 패션을 선보였다. 11일 박규리는 자신의 소셜 계정에 여러 장의 사진을 공개했다. 근래 영하권 기온대를 자랑하고 있는 겨울 추위 속, 박규리는 겨울을 단닪시 방비하기 위한 패션을 선보여 시선을 끌었다. 박규리는 이날 퍼로 된 아우터, 이너로는 따뜻해 보이는 조끼, 기모로 된 트레이닝 복, 그리고 따뜻하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['가황' 나훈아, 은퇴 공연 화려한 포문…변치않는 카리스마]]></title>
         <id>https://v.daum.net/v/20250111200618894</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250111170740582"/>
         <updated>2025-01-11T08:17:45.494Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 김하영 기자] 그룹 빅뱅 겸 가수 지드래곤이 '쇼! 음악중심' 1위에 오르며 건재한 인기를 과시했다. 지드래곤은 11일 방송된 MBC '쇼! 음악중심' (이하 '음악중심')에서 그룹 블랙핑크 로제를 제치고 'HOME SWEET HOME(feat. 태양, 대성)'으로 1위 트로피를 거머쥐었다. 앞서 지드래곤은 지난달 21일 '음악중심']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이브, 마피아 게임으로 빛난 두뇌 싸움…MZ 추리력+케미 폭발!]]></title>
-        <id>https://v.daum.net/v/20250111165638422</id>
-        <link href="https://v.daum.net/v/20250111165638422"/>
-        <updated>2025-01-11T08:17:45.496Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 임재청 기자] 그룹 아이브(IVE)가 마피아 게임에서 유쾌한 두뇌 싸움으로 팬들에게 웃음을 선사했다. 지난 10일 아이브는 공식 SNS 채널을 통해 자체 리얼리티 ‘1.2.3 IVE’ 시즌5의 다섯 번째 에피소드 비하인드 영상을 공개했다. 이번 에피소드에서 멤버들은 마피아 게임을 통해 숨 막히는 심리전과 예측 불가의 상황을 연출하며 색]]></content>
     </entry>
 </feed>
