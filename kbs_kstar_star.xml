@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jan 2025 04:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jan 2025 05:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[書評] ‘OTT트렌드2025’ 넷플릭스 천하는 올해도 이어질 것인가 (유건식, 한정훈, 노창희)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=345590</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=345590</guid>
+            <pubDate>Mon, 13 Jan 2025 05:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=345590">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250113140041_8112f71a1a3d858ea747090773f1c167.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345590">[書評] ‘OTT트렌드2025’ 넷플릭스 천하는 올해도 이어질 것인가 (유건식, 한정훈, 노창희)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250113140041_8112f71a1a3d858ea747090773f1c167.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[걸그룹 '브브걸' 'LOVE 2' 단체 포토]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=345382</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=343950">강길우 ‘나의 완벽한 비서’ 캐스팅.. 이준혁 직장동료 김동기</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241227071906_899907631b84731d931381fdcd4b924e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘체크인 한양’ 빛나는 청춘들.. 매거진 '싱글즈' 화보]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=343960</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=343960</guid>
-            <pubDate>Sun, 29 Dec 2024 23:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=343960">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241227073500_d6464a913dcf3b00410d4fc0b33bb3ec_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=343960">‘체크인 한양’ 빛나는 청춘들.. 매거진 '싱글즈' 화보</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241227073500_d6464a913dcf3b00410d4fc0b33bb3ec_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
