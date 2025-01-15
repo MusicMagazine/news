@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2025-01-15T18:20:01.831Z</updated>
+    <updated>2025-01-15T19:12:18.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[갓세븐, 6년만에 단독 콘서트 '네스트페스트' 개최]]></title>
+        <id>https://v.daum.net/v/20250116040003050</id>
+        <link href="https://v.daum.net/v/20250116040003050"/>
+        <updated>2025-01-15T19:11:43.771Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]그룹 갓세븐이 오는 2월 콘서트 '네스트페스트'(NESTFEST)를 개최한다. 이번 콘서트는 2019년에 이어 약 6년 만에 국내에서 열리는 정식 콘서트로 팬들의 큰 기대를 모은다. 2019년 월드투어 '킵 스피닝' 서울 공연 이후 오랜 시간이 지나 팬들과 만남이 이루어지는 것이다. 카카오엔터테인먼트에 따르면, 갓세븐은 2월]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원어스 "자부심과 자심감 결집한 곡과 무대"]]></title>
         <id>https://v.daum.net/v/20250116000003899</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250115190449358"/>
         <updated>2025-01-15T10:15:48.950Z</updated>
         <content type="html"><![CDATA[[OSEN=오세진 기자]&nbsp;엑소 카이가 31번째 생일을 맞이했다. 14일 카이는 자신의 소셜 계정과 함께 위버스 공식 채널에 사진을 공개했다. 본래 카이는 군 대체 복무 기간인 지난 &nbsp;2년 동안 위버스 공식 채널을 통해 매달 14일마다 1~2장의 사진을 공개해 왔다. 이는 팬을 향한 카이의 오롯한 사랑이었다. 이날 위버스를 통해 공개된 사진은 2019년]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가수 라밋, 웹툰 ‘마피아 보스가 나에게 집착한다’ OST ‘난 매일을 이래’ 18일 발매]]></title>
-        <id>https://v.daum.net/v/20250115185906255</id>
-        <link href="https://v.daum.net/v/20250115185906255"/>
-        <updated>2025-01-15T10:15:48.951Z</updated>
-        <content type="html"><![CDATA[가수 라밋(Ramit)이 ‘마피아 보스가 나에게 집착한다’ OST 주자로 활약한다. 오는 18일 정오 각종 온라인 음원사이트를 통해 라밋이 참여한 웹툰 ‘마피아 보스가 나에게 집착한다’ OST ‘난 매일을 이래’가 발매된다. ‘난 매일을 이래’는 쓸쓸하고 애절한 무드의 발라드곡으로, ‘어떻게 널 잊겠어 내 마음 둘 곳 없는데 오늘도 난 바보 같은 눈]]></content>
     </entry>
 </feed>
