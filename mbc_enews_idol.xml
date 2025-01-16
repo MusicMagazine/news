@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jan 2025 12:28:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jan 2025 13:21:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포토] 비비 김나경, '현실자매' 불협 티키타카]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/444761</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/444761</guid>
+            <pubDate>Thu, 16 Jan 2025 13:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/444761">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/01/16/b172de60-b22d-4f73-b8f7-bfe6fd46dc39.jpg" alt="[포토] 비비 김나경, '현실자매' 불협 티키타카">        <div class="text-box">            <p class="summary">[포토] 비비 김나경, '현실자매' 불협 티키타카</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/01/16/b172de60-b22d-4f73-b8f7-bfe6fd46dc39.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[포토] 벨, 오직 하나뿐인 눈빛]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/444760</link>
@@ -86,14 +94,6 @@
             <pubDate>Thu, 16 Jan 2025 09:15:29 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/444745">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/01/16/43db84bc-4589-47ec-8f2f-86b6a37c4d78.jpg" alt="[포토] 시은, 신비로운 눈빛">        <div class="text-box">            <p class="summary">[포토] 시은, 신비로운 눈빛</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/01/16/43db84bc-4589-47ec-8f2f-86b6a37c4d78.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 비비 김나경, 역시 현실 자매]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/444744</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/444744</guid>
-            <pubDate>Thu, 16 Jan 2025 09:15:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/444744">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/01/16/200315f7-b0bd-4870-89e3-0550bef17e5b.jpg" alt="[포토] 비비 김나경, 역시 현실 자매">        <div class="text-box">            <p class="summary">[포토] 비비 김나경, 역시 현실 자매</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/01/16/200315f7-b0bd-4870-89e3-0550bef17e5b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
