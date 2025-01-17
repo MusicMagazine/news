@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jan 2025 03:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jan 2025 04:18:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제베원에 이토 준지의 색을 입히다... 'Doctor! Doctor!' 디지털 커버]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=346126</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=346126</guid>
+            <pubDate>Fri, 17 Jan 2025 04:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=346126">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250117124412_b732f50809e66c8997da09c78586521a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=346126">제베원에 이토 준지의 색을 입히다... 'Doctor! Doctor!' 디지털 커버</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250117124412_b732f50809e66c8997da09c78586521a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여자친구 ‘우리의 다정한 계절 속에’ MV 공개]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=345641</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=341629">틱톡, 블랙핑크 로제 'rosie' 캠페인  </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241208153010_6f2b26d472cab1ec41d2294392da428b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스 ‘How Sweet’, 美 롤링스톤 ‘2024년 베스트 송’ 35위 선정]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=341162</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=341162</guid>
-            <pubDate>Wed, 04 Dec 2024 23:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=341162">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241205061621_454fbd66ae091ed4c9ec43161cd99679.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=341162">뉴진스 ‘How Sweet’, 美 롤링스톤 ‘2024년 베스트 송’ 35위 선정</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241205061621_454fbd66ae091ed4c9ec43161cd99679.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
