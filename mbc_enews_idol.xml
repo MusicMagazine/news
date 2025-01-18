@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jan 2025 15:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jan 2025 16:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포토] 사나 없이 살아라]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/445030</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/445030</guid>
+            <pubDate>Sat, 18 Jan 2025 16:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/445030">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/01/18/bc6da912-e3f1-4446-90b2-d60587fc036d.JPG" alt="[포토] 사나 없이 살아라">        <div class="text-box">            <p class="summary">[포토] 사나 없이 살아라</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/01/18/bc6da912-e3f1-4446-90b2-d60587fc036d.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[[포토] 사나, 트둥 사냥꾼]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/445028</link>
@@ -86,14 +94,6 @@
             <pubDate>Sat, 18 Jan 2025 13:15:48 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/445031">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/01/18/18e5a256-d0e6-4965-9f89-ee94947ccc1a.JPG" alt="[포토] 사나, 올바른 미모">        <div class="text-box">            <p class="summary">[포토] 사나, 올바른 미모</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/01/18/18e5a256-d0e6-4965-9f89-ee94947ccc1a.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[[움짤] 사나, 빛나는 미소]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/445024</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/445024</guid>
-            <pubDate>Sat, 18 Jan 2025 12:24:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/445024">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/01/18/5717e081-cf8a-4d9b-8312-b693d427863e.JPG" alt="[움짤] 사나, 빛나는 미소">        <div class="text-box">            <p class="summary">[움짤] 사나, 빛나는 미소</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/01/18/5717e081-cf8a-4d9b-8312-b693d427863e.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
