@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jan 2025 22:15:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jan 2025 23:14:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['선의의 경쟁', 이혜리-정수빈 런칭포스터.. 붉게 물든 교복 속 숨겨진 진실]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=345767</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=345767</guid>
+            <pubDate>Sun, 19 Jan 2025 23:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=345767">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250120073623_f6983cb8c51935d47cc7a6bcf499e782.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345767"> '선의의 경쟁', 이혜리-정수빈 런칭포스터.. 붉게 물든 교복 속 숨겨진 진실</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250120073623_f6983cb8c51935d47cc7a6bcf499e782.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박수영, 삭발스님에서 능구렁이 PD로.. '트리거']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=346260</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=344818">한지은, '히트맨2' 파격 변신 예고</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250107090844_22e50d86d6513f4f381c3ab0455730ab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박서준, JTBC '경도를 기다리며' 캐스팅... 짠하고 찐한 로맨틱 코미디]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=344749</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=344749</guid>
-            <pubDate>Mon, 06 Jan 2025 20:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=344749">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250106123530_b7280ebde7e349ddd69cf928c4ad1704.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=344749">박서준, JTBC '경도를 기다리며' 캐스팅... 짠하고 찐한 로맨틱 코미디</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250106123530_b7280ebde7e349ddd69cf928c4ad1704.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
