@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2025-01-24T15:15:40.884Z</updated>
+    <updated>2025-01-24T16:18:27.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘유니버스 리그’ 팀 리듬vs비트vs그루브, 데뷔조 공개]]></title>
+        <id>https://v.daum.net/v/20250125004011017</id>
+        <link href="https://v.daum.net/v/20250125004011017"/>
+        <updated>2025-01-24T16:17:59.919Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 이기은 기자] ‘유니버스 리그’ 팀 리듬부터 비트, 그루브의 최후 대결이 시선을 압도했다. 24일 밤 방송된 SBS 글로벌 오디션 예능프로그램 ‘유니버스 리그’ 최종회 생방송에서는 데뷔조 보이그룹이 결정됐다. 이날 프리즘 컵을 두고 팀 리듬, 팀 그루브, 팀 비트의 파이널 대결이 펼쳐졌다. 이들 모두 두 개의 무대를 준비했고, 리그전 1위를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['유니버스 리그', 그룹명 베일 벗었다⋯팀명 아홉]]></title>
         <id>https://v.daum.net/v/20250125000955798</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250124205356119"/>
         <updated>2025-01-24T12:28:08.521Z</updated>
         <content type="html"><![CDATA[[동아닷컴]  ‘더 딴따라’ TOP 5, ‘JYP 자회사’ 이닛엔터와 전속계약 [공식] ‘더 딴따라’ TOP 5 나영주, 안영빈, 유우, 이송현, 조혜진이 이닛(INNIT)엔터테인먼트와 손잡았다. 24일 이닛엔터테인먼트는 “KBS 2TV 예능 프로그램 ‘더 딴따라’의 TOP 5 나영주, 안영빈, 유우, 이송현, 조혜진과 전속계약을 체결했다”라며 “TOP]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김흥국, 서울 강남서 ‘무면허 운전’...벌금 100만 원]]></title>
-        <id>https://v.daum.net/v/20250124204801046</id>
-        <link href="https://v.daum.net/v/20250124204801046"/>
-        <updated>2025-01-24T12:28:08.523Z</updated>
-        <content type="html"><![CDATA[가수 김흥국이 무면허 운전으로 벌금형을 받은 사실이 뒤늦게 알려졌다. 24일 법조계에 따르면 서울중앙지방법원은 지난해 8월 무면허운전 혐의로 약식기소된 김흥국에게 100만 원의 약식명령을 내렸다. 김흥국은 지난해 4월 무면허 상태로 서울 강남 지역에서 차를 몰았다. 이 과정에서 그는 불법 진로 변경으로 경찰에 적발됐으며 무면허인 점까지 드러난 것으로 알려졌]]></content>
     </entry>
 </feed>
