@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2025-01-24T19:12:09.784Z</updated>
+    <updated>2025-01-24T20:15:58.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[그래미 후보 테디 스윔스 새 앨범 ‘I’VE TRIED EVERYTHING BUT THERAPY ’]]></title>
+        <id>https://v.daum.net/v/20250125045930525</id>
+        <link href="https://v.daum.net/v/20250125045930525"/>
+        <updated>2025-01-24T20:15:25.878Z</updated>
+        <content type="html"><![CDATA[그래미 후보에 오른 새로운 슈퍼스타 테디 스윔스(Teddy Swims)의 새 앨범 ‘I’ve Tried Everything But Therapy (Part 2)‘가 24일 발매되었다. 이 앨범은 차트를 빠르게 석권한 ‘Lose Control’과 ‘The Door’가 수록된 전작이자 동명의 ‘파트(Part) 1’ 앨범인 [I’ve Tried Everyt]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차웅기부터 제이엘까지 9인, '유니버스리그' 아홉으로 도약]]></title>
         <id>https://v.daum.net/v/20250125015155300</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250124210349244"/>
         <updated>2025-01-24T12:28:08.514Z</updated>
         <content type="html"><![CDATA[[동아닷컴]  ‘2025 러브썸(LOVESOME)’ 4월 26~27일 난지한강공원에서 개최 ‘2025 러브썸(LOVESOME) 페스티벌’이 오는 4월 26일과 27일 양일간 난지한강공원에서 개최된다. ‘2025 러브썸 페스티벌’은 매년 올해의 도서를 선정하여 책과 함께 하는 페스티벌로 관객들에게 색다른 추억을 선사했다. 올해는 우리나라 사람들이 가장 사랑]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CIX, ‘THUNDER’ 첫 컴백 무대 성료→국내외 차트인]]></title>
-        <id>https://v.daum.net/v/20250124210200220</id>
-        <link href="https://v.daum.net/v/20250124210200220"/>
-        <updated>2025-01-24T12:28:08.515Z</updated>
-        <content type="html"><![CDATA[[동아닷컴]   CIX, ‘THUNDER’ 첫 컴백 무대 성료→국내외 차트인 그룹 CIX(씨아이엑스)가 컴백한 가운데 쾌조의 스타트를 알렸다. 24일 글로벌 음원 스트리밍 플랫폼 아이튠즈에 따르면, 전날 발매된 CIX의 일곱 번째 EP 앨범 ‘THUNDER FEVER (썬더 피버)’는 필리핀, 아랍에미리트, 러시아, 룩셈부르크, 스웨덴, 일본, 덴마크,]]></content>
     </entry>
 </feed>
