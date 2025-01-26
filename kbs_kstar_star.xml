@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jan 2025 22:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jan 2025 23:13:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['선의의 경쟁' 강혜원X오우리, 극과 극으로 다른 절친]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=346173</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=346173</guid>
+            <pubDate>Sun, 26 Jan 2025 23:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=346173">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250117142002_9a8b4ab8413d586213b53a6dd67e21b8.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=346173">'선의의 경쟁' 강혜원X오우리, 극과 극으로 다른 절친</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250117142002_9a8b4ab8413d586213b53a6dd67e21b8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[임윤아, 타임슬립 로맨스 ‘폭군의 셰프’ 캐스팅]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=347130</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345084">웹툰에서 숏폼드라마로,  '사심폭발 로망스' 정예인-이동원 캐스팅</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250109083837_3c3ef3ed8ed0155b2bb56a9c78eb5e06.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서강준, '언더커버 하이스쿨' 캐스팅.. "빽 투 더 스쿨"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=344702</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=344702</guid>
-            <pubDate>Mon, 20 Jan 2025 15:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=344702">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250106102805_70f1502aff74c030c5883502c62b250a.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=344702">서강준, '언더커버 하이스쿨' 캐스팅.. "빽 투 더 스쿨"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250106102805_70f1502aff74c030c5883502c62b250a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

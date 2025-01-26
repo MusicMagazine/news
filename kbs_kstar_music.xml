@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jan 2025 22:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jan 2025 23:13:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[씨엔블루, 4월 북미 투어 ‘VOYAGE into X’ 개최]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=347233</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=347233</guid>
+            <pubDate>Sun, 26 Jan 2025 23:12:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=347233">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250126094315_a189217d9958b7bb10b9937265e2d1ad.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=347233">씨엔블루, 4월 북미 투어 ‘VOYAGE into X’ 개최</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250126094315_a189217d9958b7bb10b9937265e2d1ad.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[JYP 슈퍼루키 '킥플립' 데뷔 앨범 'Flip it, Kick it!' 발매 기념 팝업 스토어]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=347238</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=343457">갓세븐(GOT7), 1월 20일 3년 만에 완전체 앨범 발매 확정</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241223065853_10d4b43b8816ad662731cdf95ded4d65.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스, 2년 연속 ‘일본 레코드 대상’ 출연 확정]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=343010</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=343010</guid>
-            <pubDate>Fri, 20 Dec 2024 09:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=343010">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241220084453_d3bc2ae683ed5e272adfc825b5b7f362_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=343010">뉴진스, 2년 연속 ‘일본 레코드 대상’ 출연 확정  </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241220084453_d3bc2ae683ed5e272adfc825b5b7f362_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
