@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jan 2025 03:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jan 2025 04:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빌리, 단아한 한복 따뜻한 설 인사..."푸른 뱀의 기운 받고 행복하시길"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=347482</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=347482</guid>
+            <pubDate>Tue, 28 Jan 2025 04:17:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=347482">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250128121800_f76436f61f00799147a36505ed65949d_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=347482">빌리, 단아한 한복 따뜻한 설 인사..."푸른 뱀의 기운 받고 행복하시길"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250128121800_f76436f61f00799147a36505ed65949d_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['선의의 경쟁' 강혜원X오우리, 극과 극으로 다른 절친]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=346173</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=344823">뮤지컬 '원스' 상견례 현장</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250107091413_bf8af0edeffd625dfb38ca9716f5775f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웹툰에서 숏폼드라마로,  '사심폭발 로망스' 정예인-이동원 캐스팅]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=345084</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=345084</guid>
-            <pubDate>Mon, 20 Jan 2025 15:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=345084">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250109083837_3c3ef3ed8ed0155b2bb56a9c78eb5e06.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345084">웹툰에서 숏폼드라마로,  '사심폭발 로망스' 정예인-이동원 캐스팅</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250109083837_3c3ef3ed8ed0155b2bb56a9c78eb5e06.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
