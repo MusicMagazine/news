@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jan 2025 11:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jan 2025 12:29:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포토] 윤아, 느낌 아니까]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/446491</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/446491</guid>
+            <pubDate>Tue, 28 Jan 2025 12:28:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/446491">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/01/28/2c39caa1-6378-4732-86b7-0646ff7d9567.JPG" alt="[포토] 윤아, 느낌 아니까">        <div class="text-box">            <p class="summary">[포토] 윤아, 느낌 아니까</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/01/28/2c39caa1-6378-4732-86b7-0646ff7d9567.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[[포토] 도경수, 말할 수 없는 비밀]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/446445</link>
@@ -86,14 +94,6 @@
             <pubDate>Mon, 27 Jan 2025 11:13:02 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/446378">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/01/27/dd555c12-a063-4e1e-af67-56dd435a3dc8.jpg" alt="스테이씨 수민-시은-아이사 압도적 성숙美 [화보]">        <div class="text-box">            <p class="summary">스테이씨 수민-시은-아이사 압도적 성숙美 [화보]</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/01/27/dd555c12-a063-4e1e-af67-56dd435a3dc8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘2월 컴백’ 지수, 새 앨범에 로맨스 영화 감성 담는다]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/446368</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/446368</guid>
-            <pubDate>Mon, 27 Jan 2025 10:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/446368">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/01/27/bf9c67c1-f7df-40b5-81d0-67ba7df6d043.jpg" alt="‘2월 컴백’ 지수, 새 앨범에 로맨스 영화 감성 담는다">        <div class="text-box">            <p class="summary">‘2월 컴백’ 지수, 새 앨범에 로맨스 영화 감성 담는다</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/01/27/bf9c67c1-f7df-40b5-81d0-67ba7df6d043.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
