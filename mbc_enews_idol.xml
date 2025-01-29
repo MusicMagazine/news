@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jan 2025 07:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jan 2025 08:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정국 ‘Seven’, 美 빌보드 차트 신기록]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/446556</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/446556</guid>
+            <pubDate>Wed, 29 Jan 2025 08:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/446556">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/01/29/2deb4d40-2782-4de7-8441-b71cf2981003.jpg" alt="정국 ‘Seven’, 美 빌보드 차트 신기록">        <div class="text-box">            <p class="summary">정국 ‘Seven’, 美 빌보드 차트 신기록</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/01/29/2deb4d40-2782-4de7-8441-b71cf2981003.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 'Shut Down' 뮤비 7억뷰 돌파 ‘통산 15번째’]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/446553</link>
@@ -86,14 +94,6 @@
             <pubDate>Tue, 28 Jan 2025 12:28:37 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/446491">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/01/28/2c39caa1-6378-4732-86b7-0646ff7d9567.JPG" alt="[포토] 윤아, 느낌 아니까">        <div class="text-box">            <p class="summary">[포토] 윤아, 느낌 아니까</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/01/28/2c39caa1-6378-4732-86b7-0646ff7d9567.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 도경수, 말할 수 없는 비밀]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/446445</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/446445</guid>
-            <pubDate>Tue, 28 Jan 2025 11:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/446445">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/01/28/52e79ab1-46a7-45b1-b270-ed8de8184734.JPG" alt="[포토] 도경수, 말할 수 없는 비밀">        <div class="text-box">            <p class="summary">[포토] 도경수, 말할 수 없는 비밀</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/01/28/52e79ab1-46a7-45b1-b270-ed8de8184734.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
