@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2025-01-30T19:12:33.157Z</updated>
+    <updated>2025-01-30T20:16:13.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴진스 5人 부모, SNS 개설 "'사실 전달' 채널 절박한 상황"]]></title>
+        <id>https://v.daum.net/v/20250131050001871</id>
+        <link href="https://v.daum.net/v/20250131050001871"/>
+        <updated>2025-01-30T20:15:40.275Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 허지형 기자] 걸그룹 뉴진스가 27일 오후 태국 방콕 임팩트 챌린저 홀 1-2(IMPACT Challenger Hall 1-2)에서 진행된 '제 9회 아시아 아티스트 어워즈'(The 9th Asia Artist Awards, 이하 'AAA 2024')' 레드카펫 행사에 참석해 포즈를 취하고 있다. 2024.12.27 /사진=김창현 chmt@그]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ZEROBASEONE, 일본 EP 1집 ‘PREZENT’로 오리콘 데일리 앨범 랭킹 1위 직행]]></title>
         <id>https://v.daum.net/v/20250131031557646</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250130191600829"/>
         <updated>2025-01-30T11:13:14.568Z</updated>
         <content type="html"><![CDATA[그룹 (여자)아이들 멤버 민니가 솔로 데뷔하면서 느꼈던 솔직한 마음을 고백했다. 소속사 큐브엔터테인먼트는 30일 공식 SNS를 통해 민니의 첫 미니 앨범 'HER'의 두 번째 코멘터리 필름을 공개했다. 이번 영상에서는 민니가 앨범을 준비하고 제작하는 과정에서 느낀 솔직한 이야기들을 빈티지한 TV쇼 형식으로 담아냈다. 민니는 영상에서 태국을 떠나 한국으]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제니 "솔로 첫 정규앨범 1년 동안 준비, 세상 너무 바뀌었다"]]></title>
-        <id>https://v.daum.net/v/20250130184319483</id>
-        <link href="https://v.daum.net/v/20250130184319483"/>
-        <updated>2025-01-30T10:15:53.190Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자] 솔로 컴백을 예고한 그룹 블랙핑크 멤버 제니(JENNIE)가 ‘쑥쑥 회의중 1호 연예인’으로 출연했다. 제니는 30일 유튜브 채널 ‘쑥쑥’에 공개된 새 출연해 양세찬과 함께 첫 솔로 정규 앨범 홍보 콘텐츠 방향성에 대한 회의를 진행했다. 케이블채널 tvN 예능 프로그램 ‘아파트404’ 종영 후 1년 만에 만난 제니와 양세찬은 유]]></content>
     </entry>
 </feed>
