@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Feb 2025 10:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Feb 2025 11:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가을-레이-장원영 '아이브적 사고방식']]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/446903</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/446903</guid>
+            <pubDate>Sat, 01 Feb 2025 11:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/446903">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/02/01/645f854d-9d87-4f4f-9978-c5c4bcbb194d.jpg" alt="가을-레이-장원영 '아이브적 사고방식'">        <div class="text-box">            <p class="summary">가을-레이-장원영 '아이브적 사고방식'</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/02/01/645f854d-9d87-4f4f-9978-c5c4bcbb194d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[브브걸, 통 큰 효도 플렉스 “부모님께 차 선물” (더 시즌즈)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/446880</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 31 Jan 2025 06:21:12 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/446832">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/01/31/2ea0c9a8-9585-496e-b734-8624a1de4df8.jpg" alt="태양X미야오, 콘서트로 더블랙레이블 시너지 폭발">        <div class="text-box">            <p class="summary">태양X미야오, 콘서트로 더블랙레이블 시너지 폭발</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/01/31/2ea0c9a8-9585-496e-b734-8624a1de4df8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 정은지, 느낌 아니까]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/446817</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/446817</guid>
-            <pubDate>Fri, 31 Jan 2025 05:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/446817">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/01/31/f2444da1-64a4-40c5-b410-c7925834397b.JPG" alt="[포토] 정은지, 느낌 아니까">        <div class="text-box">            <p class="summary">[포토] 정은지, 느낌 아니까</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/01/31/f2444da1-64a4-40c5-b410-c7925834397b.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
