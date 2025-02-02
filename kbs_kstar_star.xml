@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Feb 2025 22:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Feb 2025 23:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안현호,  ‘협상의 기술’ 캐스팅  M&A팀 커리어우먼 ‘곽민정’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=347500</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=347500</guid>
+            <pubDate>Sun, 02 Feb 2025 23:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=347500">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250128183949_1b55cadae4249b77c34a4197bb904507.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=347500">안현호,  ‘협상의 기술’ 캐스팅  M&amp;A팀 커리어우먼 ‘곽민정’</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250128183949_1b55cadae4249b77c34a4197bb904507.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극 '프라이드', 10년의 공든 탑..실력파 배우 총출동]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=347760</link>
@@ -332,23 +349,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=346260">박수영, 삭발스님에서 능구렁이 PD로.. '트리거'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250118065959_83148be42f6e4a0237d950ffff462d9c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정호연, BH엔터테인먼트와 전속계약]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=346200</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=346200</guid>
-            <pubDate>Mon, 20 Jan 2025 15:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=346200">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250117163405_10e646e8a1c401c596bbb7c4a11fc79b.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=346200">정호연, BH엔터테인먼트와 전속계약</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250117163405_10e646e8a1c401c596bbb7c4a11fc79b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
