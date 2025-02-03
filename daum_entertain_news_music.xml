@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2025-02-03T17:13:57.045Z</updated>
+    <updated>2025-02-03T18:20:51.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스포티파이, 테일러 스위프트 아시아팬 위한 ‘This is Taylor Swift. A Spotify Playlist Experience’ 개최]]></title>
+        <id>https://v.daum.net/v/20250204022621335</id>
+        <link href="https://v.daum.net/v/20250204022621335"/>
+        <updated>2025-02-03T18:20:18.564Z</updated>
+        <content type="html"><![CDATA[글로벌 오디오·음원 스트리밍 플랫폼 ‘스포티파이(Spotify)’가 세계적인 아티스트 테일러 스위프트(Taylor Swift)의 아시아 팬들을 위한 특별 전시회 ‘This is Taylor Swift. A Spotify Playlist Experience’를 개최한다. 인도네시아 자카르타, 필리핀 마닐라에 이어 대한민국 서울에서 진행하는 이번 행사는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['HUG'·'달팽이'·'핑계' 새로운 목소리로 '다시 듣는 명곡']]></title>
         <id>https://v.daum.net/v/20250204000119396</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250203194505678"/>
         <updated>2025-02-03T11:12:40.125Z</updated>
         <content type="html"><![CDATA[[텐아시아=김지원 기자] '자기애'만 외치던 아이브가 '공감'을 노래한다. 기존 아이브의 색깔은 지키되 새로운 시도에 나섰다는 평가가 나온다. 아이브는 3일 세 번째 미니 앨범 '아이브 엠파시'(IVE EMPATHY)를 발매했다. 이들은 더블 타이틀곡 '애티튜드'(ATTITUDE)로 활동에 나선다.&nbsp; 아이브는 앞서 선공개곡으로 좋은 성적을 냈다. 지난달]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘싱어게인 TOP3’ 이젤, ‘복면가왕’ 해돋이였다]]></title>
-        <id>https://v.daum.net/v/20250203194331648</id>
-        <link href="https://v.daum.net/v/20250203194331648"/>
-        <updated>2025-02-03T11:12:40.126Z</updated>
-        <content type="html"><![CDATA[싱어송라이터 이젤(EJel)이 독보적인 음악성과 매력으로 안방을 사로잡았다. 이젤은 지난 2일 방송된 MBC ‘복면가왕’에서 ‘해돋이’ 가면을 쓰고 무대를 선보였다. 이젤은 앞서 1라운드에서 ‘사랑은 유리 같은 것’, 2라운드에서 ‘낭만고양이’를 열창하며 탁월한 가창력으로 탄탄한 실력을 인정받았다. 이어진 3라운드에서는 ‘꿈에’를 선곡, 자신만의 스]]></content>
     </entry>
 </feed>
