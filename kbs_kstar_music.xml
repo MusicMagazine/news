@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Feb 2025 05:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Feb 2025 06:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[izna, 괴물신인 증명..  ‘LAPOSTA 2025’ 도쿄돔 공연]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=348283</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=348283</guid>
+            <pubDate>Tue, 04 Feb 2025 06:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=348283">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250204150501_36d033464fff64f7b835836143f3957c_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=348283">izna, 괴물신인 증명..  ‘LAPOSTA 2025’ 도쿄돔 공연 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250204150501_36d033464fff64f7b835836143f3957c_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지수, 솔로 컴백.. 미니앨범 'AMORTAGE' 14일 발매]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=348208</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345641">여자친구 ‘우리의 다정한 계절 속에’ MV 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250114073652_e3a28af16a23357bb13ada16bc4edc2c_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2월의 NiziU, 일본 첫 미니 앨범 'AWAKE' 발매]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=345213</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=345213</guid>
-            <pubDate>Sun, 12 Jan 2025 05:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=345213">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250110065844_00535d8ae3840c59cb90f3330f0647ed.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345213">2월의 NiziU, 일본 첫 미니 앨범 'AWAKE' 발매</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250110065844_00535d8ae3840c59cb90f3330f0647ed.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
