@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Feb 2025 03:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Feb 2025 04:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포토] 민혁, 뚜렷한 손인사]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/447459</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/447459</guid>
+            <pubDate>Wed, 05 Feb 2025 04:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/447459">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/02/05/7671e113-fd81-479a-ad62-7e60b7fb3b62.jpg" alt="[포토] 민혁, 뚜렷한 손인사">        <div class="text-box">            <p class="summary">[포토] 민혁, 뚜렷한 손인사</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/02/05/7671e113-fd81-479a-ad62-7e60b7fb3b62.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['SM 신인' 하츠투하츠, 발레 지우→10년생 막내 예온 공개]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/447446</link>
@@ -86,14 +94,6 @@
             <pubDate>Tue, 04 Feb 2025 14:14:41 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/447382">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/02/04/03d12cae-27be-4a35-8c81-493671dd32a1.jpg" alt="[움짤] 유진, 안유진 안댕댕 애티튜드">        <div class="text-box">            <p class="summary">[움짤] 유진, 안유진 안댕댕 애티튜드</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/02/04/03d12cae-27be-4a35-8c81-493671dd32a1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[움짤] 리즈, 베르사유 오스칼 애티튜드]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/447381</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/447381</guid>
-            <pubDate>Tue, 04 Feb 2025 14:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/447381">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/02/04/64b12870-30e4-4216-927f-d4603b8c7c50.jpg" alt="[움짤] 리즈, 베르사유 오스칼 애티튜드">        <div class="text-box">            <p class="summary">[움짤] 리즈, 베르사유 오스칼 애티튜드</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/02/04/64b12870-30e4-4216-927f-d4603b8c7c50.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
