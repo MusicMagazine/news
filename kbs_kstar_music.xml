@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Feb 2025 23:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Feb 2025 01:07:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지드래곤,  ‘Übermensch’(위버맨쉬) 25일 발매 확정]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=348432</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=348432</guid>
+            <pubDate>Wed, 05 Feb 2025 01:06:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=348432">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250205094225_7f1ac027259b4650dd8c3d438fd2f95a_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=348432">지드래곤,  ‘Übermensch’(위버맨쉬) 25일 발매 확정</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250205094225_7f1ac027259b4650dd8c3d438fd2f95a_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[izna, 괴물신인 증명..  ‘LAPOSTA 2025’ 도쿄돔 공연]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=348283</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=346126">제베원에 이토 준지의 색을 입히다... 'Doctor! Doctor!' 디지털 커버</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250117124412_b732f50809e66c8997da09c78586521a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여자친구 ‘우리의 다정한 계절 속에’ MV 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=345641</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=345641</guid>
-            <pubDate>Mon, 13 Jan 2025 23:14:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=345641">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250114073652_e3a28af16a23357bb13ada16bc4edc2c_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345641">여자친구 ‘우리의 다정한 계절 속에’ MV 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250114073652_e3a28af16a23357bb13ada16bc4edc2c_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
