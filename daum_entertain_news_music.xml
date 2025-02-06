@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2025-02-06T14:14:44.105Z</updated>
+    <updated>2025-02-06T15:16:46.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘노래방VS’ 우승자 박종민, 11일 신곡 ‘INSIDE’ 발매]]></title>
+        <id>https://v.daum.net/v/20250206234607491</id>
+        <link href="https://v.daum.net/v/20250206234607491"/>
+        <updated>2025-02-06T15:16:14.242Z</updated>
+        <content type="html"><![CDATA[신예 뮤지션 박종민이 오는 11일 신곡 ‘INSIDE’로 컴백한다. 박종민은 지난 5일 공식 SNS를 통해 새 싱글 ‘INSIDE(인사이드)’의 앨범 재킷 이미지를 공개하며, 발매 소식을 알렸다. 지난해 11월 정식 데뷔한 박종민은 새해 신곡 ‘INSIDE’를 발매하며 3개월 만에 정식 컴백한다. 데뷔곡 ‘Dear My Star(디어 마이 스타)’로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['베르테르' 김민석이 나아가야 할 방향]]></title>
         <id>https://v.daum.net/v/20250206225811208</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250206204037624"/>
         <updated>2025-02-06T12:29:19.200Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 가수 태민이 악플러들에 대한 법적 대응에 나섰다. 태민.태민의 소속사 빅플래닛메이드 측은 6일 공식 사회관계망서비스(SNS)를 통해 “팬 여러분의 제보와 자체 모니터링을 통해 태민과 관련한 악성 게시글 및 댓글에 대한 증거를 수집해왔으며 이를 바탕으로 수사 기관에 모욕죄, 명예훼손, 허위사실 유포, 성희롱 등의 혐의로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하이브, ‘멕시코 레전드’ 메메 델 리얼 영입...라틴 진출 본격화]]></title>
-        <id>https://v.daum.net/v/20250206201811257</id>
-        <link href="https://v.daum.net/v/20250206201811257"/>
-        <updated>2025-02-06T12:29:19.201Z</updated>
-        <content type="html"><![CDATA[하이브가 라틴 아메리카 시장을 개척하기 위한 신호탄을 쏘아올렸다. 하이브 라틴 아메리카는 5일 "레이블 도세밀 뮤직(DOCEMIL Music)을 설립하고, 메메 델 리얼(Meme del Real)을 1호 아티스트로 최근 영입했다"고 밝혔다. 메메 델 리얼은 멕시코의 전설적인 록 밴드 카페 타크바(Cafe Tacvba) 멤버이자 프로듀서다.]]></content>
     </entry>
 </feed>
