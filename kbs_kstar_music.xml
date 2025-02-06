@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Feb 2025 22:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Feb 2025 23:16:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[G-DRAGON, 2025 월드투어.. "88개월 만에 세 번째 월드투어"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=348775</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=348775</guid>
+            <pubDate>Thu, 06 Feb 2025 23:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=348775">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250207073343_a1b8eada19d31bba6792f63e1072a9c9.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=348775">G-DRAGON, 2025 월드투어.. "88개월 만에 세 번째 월드투어" </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250207073343_a1b8eada19d31bba6792f63e1072a9c9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하이브, 라틴 아메리카 시장 공략.. 멕시코 록스타 메메 델 리얼 영입]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=348583</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=346271">신인 보이그룹 '킥플립', 데뷔곡 'Mama Said (뭐가 되려고?)' MV 티저</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250118071136_16fd6a1f6bc3a3f850317c7e2d0d1675.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["Really Like You" 베이비몬스터, 하이틴 감성도 통했다]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=346266</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=346266</guid>
-            <pubDate>Fri, 17 Jan 2025 22:14:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=346266">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250118070714_e2c99d11ac6b7b400baffe8e28c98ece.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=346266">"Really Like You" 베이비몬스터, 하이틴 감성도 통했다 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250118070714_e2c99d11ac6b7b400baffe8e28c98ece.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
