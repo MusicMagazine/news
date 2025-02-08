@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Feb 2025 23:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Feb 2025 01:05:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘음중’ MC 영훈-이정하-설윤, 오는 15일 마지막 인사]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/447969</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/447969</guid>
+            <pubDate>Sat, 08 Feb 2025 01:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/447969">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/02/08/893c1698-e7ad-455f-aa28-ee3c36128a0d.jpg" alt="‘음중’ MC 영훈-이정하-설윤, 오는 15일 마지막 인사">        <div class="text-box">            <p class="summary">‘음중’ MC 영훈-이정하-설윤, 오는 15일 마지막 인사</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/02/08/893c1698-e7ad-455f-aa28-ee3c36128a0d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[포토] 유지애, 러블리즈 힙합]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/447925</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 07 Feb 2025 04:18:31 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/447886">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/02/07/9597ef70-4832-4c15-bccc-55eed72d0305.jpg" alt="[포토] 유지애, 러블리 애교">        <div class="text-box">            <p class="summary">[포토] 유지애, 러블리 애교</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/02/07/9597ef70-4832-4c15-bccc-55eed72d0305.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 유지애, 러블리 볼하트]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/447877</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/447877</guid>
-            <pubDate>Fri, 07 Feb 2025 04:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/447877">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/02/07/de47b044-76c6-482b-a211-5f69f53a1363.jpg" alt="[포토] 유지애, 러블리 볼하트">        <div class="text-box">            <p class="summary">[포토] 유지애, 러블리 볼하트</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/02/07/de47b044-76c6-482b-a211-5f69f53a1363.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
