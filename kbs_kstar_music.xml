@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Feb 2025 07:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 08:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CJ ENM, 일본에서 팡파레 울리다... 'LAPOSTA 2025’ 대성공]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=349265</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=349265</guid>
+            <pubDate>Mon, 10 Feb 2025 08:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=349265">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250210162528_a1299bf9de3e753dde08d77f2ff181fd.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=349265">CJ ENM, 일본에서 팡파레 울리다... 'LAPOSTA 2025’ 대성공</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250210162528_a1299bf9de3e753dde08d77f2ff181fd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ZEROBASEONE, ‘BLUE PARADISE’ 타이틀곡 ‘BLUE’ 포스터]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=349155</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=347228">베이비몬스터, 'Really Like You' MV.."새해에도 많은 기대 부탁"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250126093930_2d060f5b9d162580b99afe95b5b20001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['데뷔 10주년' 마마무, 명곡의 재해석... 리메이크 프로젝트 두 번째 앨범 발매]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=347222</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=347222</guid>
-            <pubDate>Sun, 26 Jan 2025 01:07:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=347222">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250126093520_5f219adf8f94bd4789022c4b80e86f7d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=347222">'데뷔 10주년' 마마무, 명곡의 재해석... 리메이크 프로젝트 두 번째 앨범 발매</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250126093520_5f219adf8f94bd4789022c4b80e86f7d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
