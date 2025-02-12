@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Feb 2025 19:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Feb 2025 20:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[차우민, '스터디그룹' 다음엔 '멜로무비']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=349534</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=349534</guid>
+            <pubDate>Wed, 12 Feb 2025 20:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=349534">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250212122026_bfbc0d2f620c94a199ff58aa983a732e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=349534">차우민, '스터디그룹' 다음엔 '멜로무비'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250212122026_bfbc0d2f620c94a199ff58aa983a732e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SLL, 해외 크리에이터와 협업 프로젝트  진행]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=349408</link>
@@ -332,23 +349,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=347636">뮤지컬 ‘어제의 시는 내일의 노래가 될 수 있을까’ 폐막.. "시인 김소월"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250129075952_e83d40e0162bedc6ca8d18b3b6c23031_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투모로우바이투게더, “활기찬 한 해 보내길”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=347569</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=347569</guid>
-            <pubDate>Tue, 28 Jan 2025 22:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=347569">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250128194012_afe306a3e0e2288531254b2f428fc0ec_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=347569">투모로우바이투게더, “활기찬 한 해 보내길” </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250128194012_afe306a3e0e2288531254b2f428fc0ec_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
