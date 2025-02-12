@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Feb 2025 23:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Feb 2025 01:07:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["황치열 컴백" 정규3집 'ALL OF ME' 발매]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=349509</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=349509</guid>
+            <pubDate>Wed, 12 Feb 2025 01:06:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=349509">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250212091205_108cd5f1ef6069e16b9ca044aa9c989b.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=349509">"황치열 컴백" 정규3집 'ALL OF ME' 발매</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250212091205_108cd5f1ef6069e16b9ca044aa9c989b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지수, 미니앨범 'AMORTAGE' 매혹의 포스터]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=349393</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=347564">방시혁, 美 빌보드 파워 100 선정…K-팝 글로벌 확장 증명</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250128193617_88e48edc0c7d88de7e9e417e2d7df2dc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[씨엔블루, 4월 북미 투어 ‘VOYAGE into X’ 개최]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=347233</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=347233</guid>
-            <pubDate>Sun, 26 Jan 2025 23:12:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=347233">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250126094315_a189217d9958b7bb10b9937265e2d1ad.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=347233">씨엔블루, 4월 북미 투어 ‘VOYAGE into X’ 개최</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250126094315_a189217d9958b7bb10b9937265e2d1ad.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
