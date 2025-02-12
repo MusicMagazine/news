@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Feb 2025 04:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Feb 2025 05:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지드래곤 월드투어, 3월 29일 고양에서 스타트]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=349574</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=349574</guid>
+            <pubDate>Wed, 12 Feb 2025 05:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=349574">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250212133827_20b14e2ead947093c91c5c4d7eafc1b9.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=349574">지드래곤 월드투어, 3월 29일 고양에서 스타트</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250212133827_20b14e2ead947093c91c5c4d7eafc1b9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[창립 30주년’ SM, 탄탄한 아티스트 라인업 완성]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=349539</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=347778">샤이니 민호, 대만 가오슝 콘서트.. 아시아 투어 스타트</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250131084413_307db2b96a5a077af9d3b3911d4d4a77.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베이비몬스터 첫 단독콘서트.. "HELLO MONSTERS"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=347582</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=347582</guid>
-            <pubDate>Tue, 28 Jan 2025 11:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=347582">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250128195057_0e40c17f05a42e0f5b9b00630b930bb1_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=347582">베이비몬스터 첫 단독콘서트.. "HELLO MONSTERS"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250128195057_0e40c17f05a42e0f5b9b00630b930bb1_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
