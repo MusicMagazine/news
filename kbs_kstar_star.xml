@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Feb 2025 21:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 22:14:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['행복배틀' 이제연, 판타지오와 전속계약]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=349794</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=349794</guid>
+            <pubDate>Fri, 14 Feb 2025 22:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=349794">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250213161832_b258374db5927f26065a23b5ad406631.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=349794">'행복배틀' 이제연, 판타지오와 전속계약</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250213161832_b258374db5927f26065a23b5ad406631.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“박물관은 살아있다” 국립중앙박물관 선사고대관 재개관... “역사를 쉽고 흥미롭게”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=349919</link>
@@ -332,23 +349,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=347794">유재석, '2024 SBS연예대상' 대상 수상.. 통산 20번째 대기록</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250131090542_e983517cd22f9703dcc98314ac59e628.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호조, 넷플릭스 ‘엑스오, 키티: 시즌 2’서 글로벌 존재감 발휘]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=347774</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=347774</guid>
-            <pubDate>Fri, 31 Jan 2025 01:06:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=347774">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250131084148_3e8da034b57188b9b2da6e2e88db84b4_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=347774">호조, 넷플릭스 ‘엑스오, 키티: 시즌 2’서 글로벌 존재감 발휘</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250131084148_3e8da034b57188b9b2da6e2e88db84b4_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
