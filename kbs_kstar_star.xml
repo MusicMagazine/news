@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Feb 2025 05:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 06:21:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“박물관은 살아있다” 국립중앙박물관 선사고대관 재개관... “역사를 쉽고 흥미롭게”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=349919</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=349919</guid>
+            <pubDate>Fri, 14 Feb 2025 06:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=349919">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250214144517_09e72e5a10342dada2d4d579f054cee9.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=349919">“박물관은 살아있다” 국립중앙박물관 선사고대관 재개관... “역사를 쉽고 흥미롭게” </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250214144517_09e72e5a10342dada2d4d579f054cee9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[차우민, '스터디그룹' 다음엔 '멜로무비']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=349534</link>
@@ -332,23 +349,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=347774">호조, 넷플릭스 ‘엑스오, 키티: 시즌 2’서 글로벌 존재감 발휘</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250131084148_3e8da034b57188b9b2da6e2e88db84b4_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 ‘어제의 시는 내일의 노래가 될 수 있을까’ 폐막.. "시인 김소월"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=347636</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=347636</guid>
-            <pubDate>Tue, 28 Jan 2025 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=347636">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250129075952_e83d40e0162bedc6ca8d18b3b6c23031_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=347636">뮤지컬 ‘어제의 시는 내일의 노래가 될 수 있을까’ 폐막.. "시인 김소월"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250129075952_e83d40e0162bedc6ca8d18b3b6c23031_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
