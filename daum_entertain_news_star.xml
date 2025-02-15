@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2025-02-15T17:13:34.216Z</updated>
+    <updated>2025-02-15T18:18:47.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디즈니, 피터팬 등 만화영화에 '인종차별' 경고문 뗀다]]></title>
+        <id>https://v.daum.net/v/20250216030014867</id>
+        <link href="https://v.daum.net/v/20250216030014867"/>
+        <updated>2025-02-15T18:18:18.579Z</updated>
+        <content type="html"><![CDATA[디즈니가 트럼프 정부의 정책에 따라 내부 프로그램을 전면 개편하며 일부 고전 영화에서 인종차별 경고문을 삭제했다. 13일(현지 시각) 워싱턴포스트에 따르면 디즈니는 '덤보'와 '피터팬'을 포함한 일부 고전 영화에서 인종차별에 대한 경고 문구를 삭제하는 등 DEI 프로그램을 전면 개편하고 있다. DEI란 다양성(diversity), 형평성(equity)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['전현무 열애설' 홍주연, 스토킹 피해 고백… "버스 정류장서 기다려"]]></title>
         <id>https://v.daum.net/v/20250216004150505</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250215234709225"/>
         <updated>2025-02-15T15:20:28.443Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 서지현 기자] 그룹 방탄소년단(BTS) 정국이 군 복무 중 근황을 전했다. 정국은 15일 팬 소통 플랫폼을 통해 "아미 건강하지요?"라는 글을 적었다. 이날 정국은 "요즘 날씨가 풀린 것 같다가도 또 추워지고 꼭 제 마음을 보는 듯한 느낌이다. 오늘 날씨는 유독 을씨년스럽네요"라고 안부를 물었다. 이와 함께 정국은 "아직 멀었다만 이쯤 되니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슬리피 "돈 없어서 힘들 때 태교여행 가자는 아내와 대판 싸워"]]></title>
-        <id>https://v.daum.net/v/20250215234400205</id>
-        <link href="https://v.daum.net/v/20250215234400205"/>
-        <updated>2025-02-15T15:20:28.445Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 가수 슬리피가 8살 연하의 아내와 태교여행을 두고 다툰 적이 있다며 관련 사연을 소개했다. 15일 MBN ‘속풀이쇼 동치미’에선 슬리피가 게스트로 출연해 결혼생활을 소개했다. 이날 슬리피는 “아내와 돈 문제로 다툰 적이 있나?”라는 질문에 “아내가 굉장히 절약하는 스타일이다. 연애할 때도 택시 타는 걸 본 적이 없다. 심지어 내가]]></content>
     </entry>
 </feed>
