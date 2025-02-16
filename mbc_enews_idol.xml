@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Feb 2025 02:52:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Feb 2025 03:21:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[르세라핌 김채원, 'Fly Me To The Moon' 커버]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/449084</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/449084</guid>
+            <pubDate>Sun, 16 Feb 2025 03:21:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/449084">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/02/16/b5c71a7c-d55a-4bf7-8312-91a5c198b4cf.jpg" alt="르세라핌 김채원, 'Fly Me To The Moon' 커버">        <div class="text-box">            <p class="summary">르세라핌 김채원, 'Fly Me To The Moon' 커버</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/02/16/b5c71a7c-d55a-4bf7-8312-91a5c198b4cf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘6월 전역’ BTS 정국, “뭔가 조급하고 불안” 솔직 심경 [전문]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/449069</link>
@@ -86,14 +94,6 @@
             <pubDate>Sat, 15 Feb 2025 11:11:14 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/449048">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/02/15/1e3d6051-bbcf-43d4-8fe0-2003acdfd368.jpg" alt="[포토] 세이마이네임 히토미, '꿈과 희망 가득'">        <div class="text-box">            <p class="summary">[포토] 세이마이네임 히토미, '꿈과 희망 가득'</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/02/15/1e3d6051-bbcf-43d4-8fe0-2003acdfd368.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 나우어데이즈, '여심 잡는 블랙']]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/449047</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/449047</guid>
-            <pubDate>Sat, 15 Feb 2025 11:11:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/449047">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/02/15/f57ed2ec-fa4c-454a-9464-9f45e4a0cdb0.jpg" alt="[포토] 나우어데이즈, '여심 잡는 블랙'">        <div class="text-box">            <p class="summary">[포토] 나우어데이즈, '여심 잡는 블랙'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/02/15/f57ed2ec-fa4c-454a-9464-9f45e4a0cdb0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
