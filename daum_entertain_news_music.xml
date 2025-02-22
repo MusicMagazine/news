@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2025-02-22T10:15:51.651Z</updated>
+    <updated>2025-02-22T11:12:03.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아스트로, 23일 데뷔 9주년 기념 신곡 ‘Twilight’ 발매]]></title>
+        <id>https://v.daum.net/v/20250222200809104</id>
+        <link href="https://v.daum.net/v/20250222200809104"/>
+        <updated>2025-02-22T11:11:30.852Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 최하나 기자] 그룹 아스트로(ASTRO)가 데뷔 9주년을 맞아 팬들에게 신곡을 선물한다. 아스트로는 22일 0시 판타지오 공식 SNS와 유튜브 채널을 통해 데뷔 9주년 기념 싱글 ‘Twilight’(트와일라잇) 발매 소식을 알리는 티저 영상을 공개했다. 티저 속 핑거 스냅 제스처를 취하고 있는 아스트로 멤버들의 청량한 에너지가 기분 좋은 미소]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[르세라핌 ‘CRAZY’, 英 오피셜 피지컬 싱글 차트 2주 연속 진입]]></title>
         <id>https://v.daum.net/v/20250222190116360</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250222170941737"/>
         <updated>2025-02-22T08:17:28.279Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] 그룹 에이티즈(ATEEZ) 우영이 미발매 신곡을 공개했다. 우영은 지난 21일 밤 11시 26분 에이티즈 공식 유튜브 채널을 통해 '세지테리어스(Sagittarius)' 영상을 깜짝 업로드했다. '세지테리어스'는 R&amp;B와 EDM이 조화를 이루는 멜로디에 여유롭게 흐르는 우영의 목소리가 인상적인 곡으로, 어두웠던 내 삶의 한 줄기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지드래곤, 카리나 만났다… '투 배드' 뮤비서 호흡]]></title>
-        <id>https://v.daum.net/v/20250222170556675</id>
-        <link href="https://v.daum.net/v/20250222170556675"/>
-        <updated>2025-02-22T08:17:28.279Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 윤기백 기자] 가수 지드래곤(G-DRAGON)이 신보 ‘위버맨쉬’(Ubermensch) 타이틀곡 ‘투 배드’(TOO BAD)의 뮤직비디오 티저를 공개했다. ‘투 배드’ 뮤직비디오 티저지드래곤은 오늘(22일) 오후 1시 공식 팬 사회관계망서비스(SNS)와 유튜브를 통해 오는 25일 발매 예정인 정규 3집 ‘위버맨쉬’의 타이틀곡인 ‘투 배]]></content>
     </entry>
 </feed>
