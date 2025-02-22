@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Feb 2025 22:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Feb 2025 23:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조아람 매거진 화보.. 우아하거나 시크한 팔색조 매력]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=351095</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=351095</guid>
+            <pubDate>Sat, 22 Feb 2025 23:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=351095">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250223075710_29a89c79fdc3024aecc02bd67189cb04.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=351095">조아람 매거진 화보.. 우아하거나 시크한 팔색조 매력</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250223075710_29a89c79fdc3024aecc02bd67189cb04.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이주빈, tvN ‘이혼보험’ 캐스팅.. 이동욱과 케미 기대]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=350655</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=348422">"관객과 함께 브라보~" 옥주현, ‘마타하리’ 커튼콜 현장 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250205095116_28b39c89d5da11496dfa2c5aebca0d5a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임수정 "연기도, 제작도 열심히"..  '파인: 촌뜨기들'  '두 번째 아이']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=348285</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=348285</guid>
-            <pubDate>Tue, 04 Feb 2025 21:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=348285">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250204150721_b54a727e7056544ebbb717e4c63aa16c_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=348285">임수정 "연기도, 제작도 열심히"..  '파인: 촌뜨기들'  '두 번째 아이'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250204150721_b54a727e7056544ebbb717e4c63aa16c_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
