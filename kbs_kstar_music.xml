@@ -4,7 +4,7 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Feb 2025 01:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Feb 2025 02:51:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -57,6 +57,23 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=351373">2NE1, 아시아 투어 매진 행렬.. 4월, 서울에서 앙코르 피날레</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250224161725_f1cb31d5aedd32d338f422fcad5104f4_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[걸그룹’ 하츠투하츠' 데뷔합니다... 첫 싱글 ‘The Chase’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=351549</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=351549</guid>
+            <pubDate>Tue, 25 Feb 2025 02:50:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=351549">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250225111133_7ff58f41eee83c854f8e817fa47d2350.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=351549">걸그룹’ 하츠투하츠' 데뷔합니다... 첫 싱글 ‘The Chase’</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250225111133_7ff58f41eee83c854f8e817fa47d2350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세븐틴, ‘디 어워즈’ 올해의 아티스트 수상]]></title>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=349574">지드래곤 월드투어, 3월 29일 고양에서 스타트</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250212133827_20b14e2ead947093c91c5c4d7eafc1b9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[창립 30주년’ SM, 탄탄한 아티스트 라인업 완성]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=349539</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=349539</guid>
-            <pubDate>Wed, 12 Feb 2025 04:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=349539">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250212122340_ff95ba095b46f2c45904760f1851893d_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=349539">창립 30주년’ SM, 탄탄한 아티스트 라인업 완성</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250212122340_ff95ba095b46f2c45904760f1851893d_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
