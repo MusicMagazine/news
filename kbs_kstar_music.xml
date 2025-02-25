@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Feb 2025 23:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Feb 2025 01:10:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["GD is back" 지드래곤 ‘Übermensch' 오늘 발매]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=351511</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=351511</guid>
+            <pubDate>Tue, 25 Feb 2025 01:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=351511">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250225090952_60e24e098d02be9f3673e598a7f42122.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=351511">"GD is back" 지드래곤 ‘Übermensch' 오늘 발매</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250225090952_60e24e098d02be9f3673e598a7f42122.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제로베이스원 “블루~ 파라다이스”…. “유닛곡 기대해 주세요”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=351378</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=349539">창립 30주년’ SM, 탄탄한 아티스트 라인업 완성</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250212122340_ff95ba095b46f2c45904760f1851893d_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["황치열 컴백" 정규3집 'ALL OF ME' 발매]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=349509</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=349509</guid>
-            <pubDate>Wed, 12 Feb 2025 01:06:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=349509">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250212091205_108cd5f1ef6069e16b9ca044aa9c989b.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=349509">"황치열 컴백" 정규3집 'ALL OF ME' 발매</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250212091205_108cd5f1ef6069e16b9ca044aa9c989b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
