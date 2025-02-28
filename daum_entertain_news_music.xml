@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2025-02-28T15:16:49.638Z</updated>
+    <updated>2025-02-28T16:19:57.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[더보이즈, 정규 3집 ‘Unexpected’ 첫 번째 트레일러 영상 공개]]></title>
+        <id>https://v.daum.net/v/20250301004158216</id>
+        <link href="https://v.daum.net/v/20250301004158216"/>
+        <updated>2025-02-28T16:19:23.749Z</updated>
+        <content type="html"><![CDATA[아이돌그룹 더보이즈(THE BOYZ)가 자유로운 청춘의 에너지를 선보인다. 소속사 원헌드레드는 28일 SNS를 통해 더보이즈 정규 3집 ‘Unexpected(언익스펙티드)’의 첫 번째 트레일러 영상을 공개했다. 영상은 거대한 샹들리에 아래 모여 정면을 응시하는 더보이즈 멤버들의 모습으로 시선을 사로잡는다. 이어 어두운 밤, 흰색 빈티지 자동차를 중심]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['공정성 논란' 박서진, 우승에 담담한 이유 있었다?…마포서 내사까지]]></title>
         <id>https://v.daum.net/v/20250301001000059</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250228192839338"/>
         <updated>2025-02-28T11:13:34.538Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 윤기백 기자] 그룹 러블리즈 이수정(베이비소울)이 울림엔터테인먼트를 떠난다. 이로써 러블리즈 멤버들 전원이 울림엔터테인먼트를 떠나게 됐다. 이수정(사진=울림엔터테인먼트)울림엔터테인먼트는 28일 입장문을 통해 “당사는 아티스트 이수정 님과 신중한 논의 끝에 전속계약을 종료하기로 합의했다”고 밝혔다. 이어 “이수정 님은 2014년 러블리즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘이민호 해프닝’ 박봄 휴식기, 멘탈 관리 ‘관건’]]></title>
-        <id>https://v.daum.net/v/20250228191809168</id>
-        <link href="https://v.daum.net/v/20250228191809168"/>
-        <updated>2025-02-28T11:13:34.538Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 이기은 기자] 몇 년 째 건강 이상설로부터 자유롭지 못한 가수다. 그룹 투애니원 박봄이 이민호 열애설, 대망의 투에니원 15주년 콘서트 등이 겹치면서 당분간 휴식기에 들어선다. 박봄은 오는 4월 2NE1(투에니원) 서울 앙코르 콘서트를 앞두고 휴식기에 돌입한다. 공식 스케줄은 없는 상황. 박봄은 최근 한류 스타이자 톱 배우 이민호와 셀프 열애]]></content>
     </entry>
 </feed>
