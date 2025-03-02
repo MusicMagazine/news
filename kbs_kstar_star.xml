@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Mar 2025 14:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Mar 2025 15:15:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최민호, 연극 '랑데부' 캐스팅.. 로켓 연구 개발자 '태섭']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=352413</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=352413</guid>
+            <pubDate>Sun, 02 Mar 2025 15:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=352413">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250302203505_82e12fa0c53bef29123e0198e9f04bb1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=352413">최민호, 연극 '랑데부' 캐스팅.. 로켓 연구 개발자 '태섭'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250302203505_82e12fa0c53bef29123e0198e9f04bb1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[송유현,‘대치동 제이슨맘’ 변신 (드라마 ‘라이딩인생’)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=351827</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=351138">이준혁, '나의 완벽한 팬 사랑'... 대만 프로모션 성료</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250223132016_3d5cd080ec6a35903541ad5873396928_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조아람 매거진 화보.. 우아하거나 시크한 팔색조 매력]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=351095</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=351095</guid>
-            <pubDate>Sat, 22 Feb 2025 23:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=351095">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250223075710_29a89c79fdc3024aecc02bd67189cb04.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=351095">조아람 매거진 화보.. 우아하거나 시크한 팔색조 매력</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250223075710_29a89c79fdc3024aecc02bd67189cb04.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

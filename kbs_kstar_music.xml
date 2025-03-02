@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Mar 2025 14:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Mar 2025 15:15:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인피니트, 데뷔 15주년 투어 성료..."인스피릿 성원 덕분입니다”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=352367</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=352367</guid>
+            <pubDate>Sun, 02 Mar 2025 15:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=352367">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250302094802_07a89cda50820efed1dba2d7e01de7cb_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=352367">인피니트, 데뷔 15주년 투어 성료..."인스피릿 성원 덕분입니다” </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250302094802_07a89cda50820efed1dba2d7e01de7cb_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[르세라핌, 첫 월드투어 ‘EASY CRAZY HOT’ ... 4월 인천에서 스타트]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=352206</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=351143">엔하이픈, ‘디 어워즈’서 첫 대상 포함 최다관왕 영예</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250223132228_ef622e18f0779e7fa670c2373195cf8f_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K팝 별들의 축제 '제1회 디 어워즈' 성료]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=351117</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=351117</guid>
-            <pubDate>Sun, 23 Feb 2025 01:12:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=351117">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250223083043_9fdff95993e29d340c50b485fec5a62d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=351117">K팝 별들의 축제 '제1회 디 어워즈' 성료</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250223083043_9fdff95993e29d340c50b485fec5a62d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
