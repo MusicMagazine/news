@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2025-03-02T09:15:50.034Z</updated>
+    <updated>2025-03-02T10:16:55.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 유명가수 앤지 스톤, 교통사고로 사망]]></title>
+        <id>https://v.daum.net/v/20250302183730097</id>
+        <link href="https://v.daum.net/v/20250302183730097"/>
+        <updated>2025-03-02T10:16:30.838Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 미국의 가수 겸 배우 앤지 스톤이 교통사고로 사망했다. 향년 63세. 2일(현지시각) 로이터, CBS뉴스 등 외신 보도에 따르면 스톤은 전날 오전 앨라배마주 몽고메리에서 공연을 마치고 돌아가던 중 마주 오던 트럭과 충돌해 사망했다. 스톤이 탑승한 차량엔 총 9명이 타고 있었으며 운전사와 매니저 등 생존자들은 병원으로 이송돼 치료를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘딸 얼굴 폭행→앞니 부러뜨린’ 앤지 스톤, 공연 후 교통사고로 사망]]></title>
         <id>https://v.daum.net/v/20250302173030222</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250302001010051"/>
         <updated>2025-03-01T15:14:51.461Z</updated>
         <content type="html"><![CDATA[(MHN스포츠 정에스더 기자)&nbsp;&nbsp;할리우드 배우 블레이크 라이블리와 감독 겸 배우 저스틴 발도니가 영화 '우리가 끝이야(It Ends With Us)'&nbsp;촬영 중 발생한 성희롱 및 명예훼손 혐의로 법적 공방을 벌이고 있다. &nbsp; 2024년 12월, 라이블리는 발도니가 촬영 중 부적절한 신체 접촉과 성적 발언을 했으며, 이를 폭로하려 하자 평판을 훼손하려]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["테일러도 대중도 손절" 블레이크 라이블리, CIA 출신 위기 관리자 고용]]></title>
-        <id>https://v.daum.net/v/20250301203530004</id>
-        <link href="https://v.daum.net/v/20250301203530004"/>
-        <updated>2025-03-01T12:27:15.383Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 영화 '우리가 끝이야'로 호흡을 맞춘 저스틴 발도니와의 법적 다툼으로 커리어 최악의 위기를 맞은 할리우드 배우 블레이크 라이블리가 CIA 출신의 위기 관리자를 고용한 것으로 알려져 눈길을 끈다. 1일(현지시각) 버라이어티 보도에 따르면 최근 라이블리는 발도니와의 법적 싸움을 위해 CIA 전 참모부장이자 국장이었던 존 브레넌의 수석]]></content>
     </entry>
 </feed>
