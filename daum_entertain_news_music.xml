@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2025-03-03T14:18:10.692Z</updated>
+    <updated>2025-03-03T15:17:48.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[로이킴·하현상, ‘2025 어썸스테이지’ 뜨거운 열기 속 성황리 마무리]]></title>
+        <id>https://v.daum.net/v/20250303232808294</id>
+        <link href="https://v.daum.net/v/20250303232808294"/>
+        <updated>2025-03-03T15:17:19.624Z</updated>
+        <content type="html"><![CDATA[싱어송라이터 로이킴과 하현상이 음악으로 팬들과 뜨겁게 호흡했다. 로이킴과 하현상은 지난 2일 부산 벡스코 오디토리움에서 열린 ‘2025 어썸스테이지’ 무대에 올랐다. 하현상이 먼저 ‘하이웨이’를 시작으로 ‘파랑 골목’, ‘죽은 새’, ‘Melancholy(멜랑콜리)’, ‘말야’, ‘밤 산책’ 등 다채로운 무대를 선보이며 현장 분위기를 뜨겁게 달궜다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백현, 美 싱어송라이터 UMI와 신곡 ‘Do What You Do’ 발표!]]></title>
         <id>https://v.daum.net/v/20250303230708159</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250303183302676"/>
         <updated>2025-03-03T10:17:46.816Z</updated>
         <content type="html"><![CDATA["내 마음은 쿵 떨어지는 중이야" 가수 정동원이 신보 리릭 포스터를 공개했다. 정동원은 지난 2일 공식 SNS를 통해 오는 13일 발매되는 두 번째 정규앨범 ‘키다리의 선물'의 리릭 포스터를 공개했다. 공개된 포스터는 총 두 장으로, 몽환적이면서도 아련한 분위기가 돋보인다. 첫 번째 이미지에서는 블랙 슈트와 중절모를 착용한 정동원이 무표정한 얼굴로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NMIXX, 스토리 필름 첫 번째 파트 공개 "'Fe3O4' 시리즈 완성"]]></title>
-        <id>https://v.daum.net/v/20250303182803593</id>
-        <link href="https://v.daum.net/v/20250303182803593"/>
-        <updated>2025-03-03T10:17:46.818Z</updated>
-        <content type="html"><![CDATA[NMIXX(엔믹스)가 시네마틱한 스토리 필름으로 컴백 기대감을 높였다. NMIXX는 오는 17일 네 번째 미니 앨범 'Fe3O4: FORWARD'(에프이쓰리오포: 포워드)와 타이틀곡 'KNOW ABOUT ME'(노 어바웃 미)를 발매한다. 이에 앞서 JYP엔터테인먼트는 공식 SNS 채널에 신보를 미리 만나는 콘셉트 포토, 비주얼 필름, 트랙리스트 등 티]]></content>
     </entry>
 </feed>
