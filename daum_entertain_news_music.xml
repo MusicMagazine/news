@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2025-03-03T16:20:50.964Z</updated>
+    <updated>2025-03-03T17:15:12.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제니, 스포티파이와 함께 첫 솔로 정규 앨범 ‘루비’ 발매 기념 ‘Rubify’ 리스닝 파티 개최]]></title>
+        <id>https://v.daum.net/v/20250304020400186</id>
+        <link href="https://v.daum.net/v/20250304020400186"/>
+        <updated>2025-03-03T17:14:39.292Z</updated>
+        <content type="html"><![CDATA[글로벌 아티스트 제니(JENNIE)가 글로벌 오디오·음원 스트리밍 플랫폼 스포티파이(Spotify)와 함께 첫 솔로 앨범 ‘루비(Ruby)’ 발매를 기념하는 특별 이벤트 ‘Rubify 리스닝 파티’를 지난 27일 개최했다. 오는 7일 앨범 공식 발매에 앞서 제니가 직접 팬들과 소통하며 새 앨범을 소개하는 특별한 자리로 마련됐다. 현장에는 200명의 팬]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영탁과 팬덤 ‘산탁클로스’, 선한 기부로 따뜻한 희망 전하다]]></title>
         <id>https://v.daum.net/v/20250304010754010</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250303184202793"/>
         <updated>2025-03-03T10:17:46.812Z</updated>
         <content type="html"><![CDATA["Takin’ my air 거부할 수 없는 이 느낌" ITZY(있지) 예지가 솔로 데뷔곡 'Air'(에어)를 포함, 신곡들의 일부 음원을 최초 공개했다. 예지는 3월 10일 미니 1집 'AIR'를 발표하고 솔로 아티스트로 데뷔한다. JYP엔터테인먼트는 3일 0시 공식 SNS 채널에 예지 솔로 앨범 'AIR' 하이라이트 음원이 담긴 스포일러 영상을 게재]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제로베이스원, 미니 5집 '블루 파라다이스'로 '5연속 밀리언셀러' 달성]]></title>
-        <id>https://v.daum.net/v/20250303183602717</id>
-        <link href="https://v.daum.net/v/20250303183602717"/>
-        <updated>2025-03-03T10:17:46.814Z</updated>
-        <content type="html"><![CDATA["K-팝 유일무이" 그룹 제로베이스원(ZEROBASEONE)이 미니 5집으로 5연속 밀리언셀러를 달성, K-팝 유일무이 기록을 써 내려가고 있다. 국내 음반 판매량 집계 사이트인 한터차트에 따르면, 제로베이스원(성한빈, 김지웅, 장하오, 석매튜, 김태래, 리키, 김규빈, 박건욱, 한유진)의 미니 5집 '블루 파라다이스(BLUE PARADISE)'는 발]]></content>
     </entry>
 </feed>
