@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Mar 2025 20:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Mar 2025 21:16:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄의 요정, '세이마이네임' 컴백.. 'ShaLala(샤랄라)'..13일 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=352472</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=352472</guid>
+            <pubDate>Mon, 03 Mar 2025 21:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=352472">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250303081527_9e1b9e33ee16d6a921eddd86d6be556a_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=352472">봄의 요정, '세이마이네임' 컴백.. 'ShaLala(샤랄라)'..13일 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250303081527_9e1b9e33ee16d6a921eddd86d6be556a_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새 봄의 제이홉, "Sweet Dreams"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=352537</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=351224">영파씨, '디 어워즈' 2관왕... "누군가의 꿈 될 것"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250224085028_8e28f74b17b6d813ac6906a79fcbf7a7_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영파씨, 교복 스타일링.. 스페셜 앨범 'COLD' 콘셉트 포토]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=351072</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=351072</guid>
-            <pubDate>Sun, 23 Feb 2025 20:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=351072">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250223072419_4d1996e0e61843d6430303fc953f36de.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=351072">영파씨, 교복 스타일링.. 스페셜 앨범 'COLD' 콘셉트 포토</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250223072419_4d1996e0e61843d6430303fc953f36de.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
