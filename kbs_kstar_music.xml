@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Mar 2025 07:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 08:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제니, 첫 정규 앨범 ‘Ruby’ ... 타이틀곡 ‘Like JENNIE’ 티저 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=352613</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=352613</guid>
+            <pubDate>Tue, 04 Mar 2025 08:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=352613">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250304081749_8877e45cd16eba0b94882ec3395dbc57.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=352613">제니, 첫 정규 앨범 ‘Ruby’ ... 타이틀곡 ‘Like JENNIE’ 티저 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250304081749_8877e45cd16eba0b94882ec3395dbc57.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[원위, ‘별 헤는 밤’ MV 티저 공개]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=352611</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=351549">걸그룹’ 하츠투하츠' 데뷔합니다... 첫 싱글 ‘The Chase’</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250225111133_7ff58f41eee83c854f8e817fa47d2350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세븐틴, ‘디 어워즈’ 올해의 아티스트 수상]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=351236</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=351236</guid>
-            <pubDate>Mon, 24 Feb 2025 01:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=351236">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250224090650_9406a763ac881861c1047af5ee4dfb1d_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=351236">세븐틴, ‘디 어워즈’ 올해의 아티스트 수상</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250224090650_9406a763ac881861c1047af5ee4dfb1d_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
