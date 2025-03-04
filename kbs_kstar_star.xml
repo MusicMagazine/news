@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Mar 2025 01:11:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 02:53:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 '이프덴' 폐막... "우리, 다음 시즌에 또 만나요"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=352655</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=352655</guid>
+            <pubDate>Tue, 04 Mar 2025 02:52:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=352655">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250304105945_b4966f2ca8ca689bd8143f7ec4f0fae7.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=352655">뮤지컬 '이프덴' 폐막... "우리, 다음 시즌에 또 만나요"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250304105945_b4966f2ca8ca689bd8143f7ec4f0fae7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] 꽃의 비밀, “엉망진창이지만 성공할거야, 이 계획..” (장진 연출)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=352516</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=351246">장세림,  비극의 여학생 귀신 열연 (‘언더커버 하이스쿨’)</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250224092644_c032307e467de190d780c8bfd737b261.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조유리, ‘디 어워즈’ 임팩트상 수상.. '오징어 게임2']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=351238</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=351238</guid>
-            <pubDate>Mon, 03 Mar 2025 15:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=351238">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250224090547_ea1e9a66df1230c10c2d2c5e1d46f2df.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=351238">조유리, ‘디 어워즈’ 임팩트상 수상.. '오징어 게임2'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250224090547_ea1e9a66df1230c10c2d2c5e1d46f2df.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
