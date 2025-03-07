@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Mar 2025 22:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Mar 2025 23:13:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['세븐틴' 호시X우지, 싱글 1집 ‘BEAM’... "동갑내기"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=353208</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=353208</guid>
+            <pubDate>Fri, 07 Mar 2025 23:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=353208">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250307144655_ffa3423f04247a8196b300b4d44567e3.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=353208"> '세븐틴' 호시X우지, 싱글 1집 ‘BEAM’... "동갑내기"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250307144655_ffa3423f04247a8196b300b4d44567e3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트레저, 스페셜 미니앨범 'PLEASURE' 발매]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=353300</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=352132">리사, 첫 정규앨범 ‘Alter Ego’ </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250228191351_6089adf3a33bb292851e3f3295171684.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트레저, 스페셜 미니앨범 'PLEASURE' 팝업스토어 오픈]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=352084</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=352084</guid>
-            <pubDate>Fri, 28 Feb 2025 01:09:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=352084">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250228085823_2fa3a13288a69ec653001da6d26b2d1c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=352084">트레저, 스페셜 미니앨범 'PLEASURE' 팝업스토어 오픈</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250228085823_2fa3a13288a69ec653001da6d26b2d1c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
