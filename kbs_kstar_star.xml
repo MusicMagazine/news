@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Mar 2025 06:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Mar 2025 07:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CJ ENM, 30주년 기념 특별전 '하우스 오브 더 비저너리' 성료]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=353320</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=353320</guid>
+            <pubDate>Fri, 07 Mar 2025 07:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=353320">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250307160553_bd5311d94606541234879c0d0bfd689e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=353320">CJ ENM, 30주년 기념 특별전 '하우스 오브 더 비저너리' 성료</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250307160553_bd5311d94606541234879c0d0bfd689e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이유, '요망진' 반항아 변신.. ‘폭싹 속았수다’에서 팔색조 매력 예고]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=353214</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=352004">미쉐린 가이드, '서울&amp;부산 2025' 리스트 발표</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250227163105_db0476dd5e2e9d893531edd5195e8d39.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국립중앙박물관, 큐레이터와 함께 역사 속으로]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=351935</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=351935</guid>
-            <pubDate>Mon, 03 Mar 2025 15:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=351935">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250227093209_1349e21e7dab9c0a07ec82d564ace20b.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=351935">국립중앙박물관, 큐레이터와 함께 역사 속으로</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250227093209_1349e21e7dab9c0a07ec82d564ace20b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
