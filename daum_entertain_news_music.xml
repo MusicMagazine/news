@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2025-03-08T12:22:09.659Z</updated>
+    <updated>2025-03-08T13:15:00.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔믹스, 5월 美 아이하트라디오 왕고 탱고 페스티벌 출격]]></title>
+        <id>https://v.daum.net/v/20250308220016452</id>
+        <link href="https://v.daum.net/v/20250308220016452"/>
+        <updated>2025-03-08T13:14:31.481Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] (사진제공: iHeartRadio, JYP엔터테인먼트)그룹 NMIXX(엔믹스)가 오는 5월 10일(이하 현지시간) 미국 유명 페스티벌 아이하트라디오 왕고 탱고(iHeartRadio Wango Tango) 무대에 오른다. 미국 최대 라디오 방송사 아이하트라디오는 공식 SNS 채널에 5월 10일 미국 헌팅턴 시티 비치에서 열리는 2025 아이하트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[싸이커스, 美 ‘왕고 탱고’ 페스티벌 뜬다]]></title>
         <id>https://v.daum.net/v/20250308210325113</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250308182404165"/>
         <updated>2025-03-08T10:13:51.774Z</updated>
         <content type="html"><![CDATA[가수 이승환이 미국 중앙정보국 CIA가 자신의 입국을 거부했다는 음모론을 제기한 유튜버를 상대로 고소하겠다고 밝혔다. 이승환은 지난 6일 MBC 라디오 ‘권순표의 뉴스하이킥’에서 이달 중 해당 유튜버를 명예훼손 혐의로 고소할 것이라고 밝혔다. 그는 “CIA 음모론이라는 얼토당토않는 신념은 도대체 어디서 나온 것인가”라며 답답해했다. 이승환은 지난달 15일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[샤이니 태민, 첫 단독 월드두어 서울 피날레…4월 체조경기장 개최]]></title>
-        <id>https://v.daum.net/v/20250308182055092</id>
-        <link href="https://v.daum.net/v/20250308182055092"/>
-        <updated>2025-03-08T10:13:51.781Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 그룹 샤이니(SHINee) 태민이 서울 피날레 콘서트로 월드투어의 마지막을 장식한다. 소속사 빅플래닛메이드엔터는 8일 오후 공식 계정을 통해 오는 4월 26일부터 27일까지 KSPO돔(구 올림픽체조경기장)에서 태민의 첫 단독 월드투어 '이페머럴 게이즈(Ephemeral Gaze)' 서울 피날레 콘서트가 개최를 알렸다. 공개]]></content>
     </entry>
 </feed>
