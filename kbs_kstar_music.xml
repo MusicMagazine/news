@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Mar 2025 09:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Mar 2025 10:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이승철, 데뷔 39주년 기념 라이브 앨범 'THE BEST LIVE 31' 발매]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=353305</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=353305</guid>
+            <pubDate>Sat, 08 Mar 2025 10:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=353305">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250307155801_d3cf6c0a7a5063cc9779a1b31c7db4af.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=353305"> 이승철, 데뷔 39주년 기념 라이브 앨범 'THE BEST LIVE 31' 발매</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250307155801_d3cf6c0a7a5063cc9779a1b31c7db4af.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['세븐틴' 호시X우지, 싱글 1집 ‘BEAM’... "동갑내기"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=353208</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=352126">블랙핑크, 북미-유럽 투어 추가..웸블리 스타디움 입성</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250301083325_0c04b01df84929a39ff43b1e6404c3fe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리사, 첫 정규앨범 ‘Alter Ego’]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=352132</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=352132</guid>
-            <pubDate>Fri, 28 Feb 2025 10:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=352132">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250228191351_6089adf3a33bb292851e3f3295171684.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=352132">리사, 첫 정규앨범 ‘Alter Ego’ </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250228191351_6089adf3a33bb292851e3f3295171684.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
