@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Mar 2025 03:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Mar 2025 04:15:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“체인소 지수” 공대생 지수, 전기톱 들고 좀비와 정면 승부 ‘뉴토피아’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=353568</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=353568</guid>
+            <pubDate>Sun, 09 Mar 2025 04:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=353568">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250309122253_4c78f4f518162a12c741b41a42057aa4.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=353568">“체인소 지수” 공대생 지수, 전기톱 들고 좀비와 정면 승부 ‘뉴토피아’</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250309122253_4c78f4f518162a12c741b41a42057aa4.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[배우 김소율, 첫 단독 화보 공개]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=353057</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=351827">송유현,‘대치동 제이슨맘’ 변신 (드라마 ‘라이딩인생’)</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250227083809_39cb85472346e29675ed241ca9d9e3e7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘보물섬’ 홍화연, 드라마의 중심 '여은남']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=352074</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=352074</guid>
-            <pubDate>Mon, 03 Mar 2025 15:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=352074">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250228085450_08581b93c110cab7dadb0bf850310661_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=352074">‘보물섬’ 홍화연, 드라마의 중심 '여은남'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250228085450_08581b93c110cab7dadb0bf850310661_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Mar 2025 03:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Mar 2025 04:15:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여자친구, 데뷔 10주년 아시아 투어 개막]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=353566</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=353566</guid>
+            <pubDate>Sun, 09 Mar 2025 04:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=353566">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250309123247_b7757ff01393f2df21aa66b8d12d0c44_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=353566">여자친구, 데뷔 10주년 아시아 투어 개막</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250309123247_b7757ff01393f2df21aa66b8d12d0c44_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조유리, 팬콘서트 'Episode 25' 메인 포스터]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=353342</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=352537">새 봄의 제이홉, "Sweet Dreams"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250303195832_35842b1339699563bc1582ed736c1d30.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제이홉, 서울에서 월드투어 스타트... ‘HOPE ON THE STAGE’]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=352461</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=352461</guid>
-            <pubDate>Sun, 02 Mar 2025 23:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=352461">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250303080004_a7f4683769d541a994a399c4f471a93b.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=352461"> 제이홉, 서울에서 월드투어 스타트... ‘HOPE ON THE STAGE’</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250303080004_a7f4683769d541a994a399c4f471a93b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
