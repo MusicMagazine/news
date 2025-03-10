@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Mar 2025 22:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Mar 2025 23:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[템페스트, 31일 컴백... “RE: Full of Youth”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=353775</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=353775</guid>
+            <pubDate>Mon, 10 Mar 2025 23:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=353775">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250310144105_3de791d11746fca27f87fd8950d0c691.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=353775"> 템페스트, 31일 컴백... “RE: Full of Youth”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250310144105_3de791d11746fca27f87fd8950d0c691.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NiziU, 3월 31일 국내 컴백 확정…새 싱글 ‘LOVE LINE’ 발매]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=353780</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=352806"> 제이홉 ‘Sweet Dreams’..  틱톡에서 7일간 단독 선공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250304215229_34d82095aa3bb0c7e340a07d8bced880.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[르세라핌, 사랑을 노래한다.. 미니 5집 ‘HOT’ 트랙리스트 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=352742</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=352742</guid>
-            <pubDate>Tue, 04 Mar 2025 23:14:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=352742">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250304213601_dfce2a625d33b3907a896306e6c810d2.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=352742">  르세라핌, 사랑을 노래한다.. 미니 5집 ‘HOT’ 트랙리스트 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250304213601_dfce2a625d33b3907a896306e6c810d2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
