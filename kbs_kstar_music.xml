@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Mar 2025 21:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Mar 2025 22:15:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5월의 샤이니, 일곱 번째 단독 콘서트]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=353941</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=353941</guid>
+            <pubDate>Tue, 11 Mar 2025 22:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=353941">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250311090642_ddd077446bac6cfbd5c7abc9903bdb94.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=353941">5월의 샤이니, 일곱 번째 단독 콘서트</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250311090642_ddd077446bac6cfbd5c7abc9903bdb94.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제이홉, ‘Sweet Dreams’ 리믹스 앨범 발매…총 6개 트랙 수록]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=353904</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=352967">제니, 앨범 ‘Ruby’..타이틀곡 ‘Like JENNIE’ 콘셉트 포토 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250306084225_0be983fd48289a5e1aa35439ba8d17ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ITZY 예지, 솔로 데뷔곡 ‘Air’ ..10일 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=352607</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=352607</guid>
-            <pubDate>Wed, 05 Mar 2025 20:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=352607">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250304083436_0ab4039004e61965e8d5e499fcdc351b_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=352607">ITZY 예지, 솔로 데뷔곡 ‘Air’ ..10일 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250304083436_0ab4039004e61965e8d5e499fcdc351b_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
