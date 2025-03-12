@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Mar 2025 01:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 02:53:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하츠투하츠, 데뷔 15일 만에 첫 음악방송 1위]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=354210</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=354210</guid>
+            <pubDate>Wed, 12 Mar 2025 02:52:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=354210">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250312101045_d7c2ffbaf65f24f31a819b7999957258_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=354210"> 하츠투하츠, 데뷔 15일 만에 첫 음악방송 1위</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250312101045_d7c2ffbaf65f24f31a819b7999957258_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오마이걸, 데뷔 10주년 기념 단독 콘서트 'Milky Way']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=354160</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=353208"> '세븐틴' 호시X우지, 싱글 1집 ‘BEAM’... "동갑내기"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250307144655_ffa3423f04247a8196b300b4d44567e3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트레저, 스페셜 미니앨범 'PLEASURE' 발매]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=353300</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=353300</guid>
-            <pubDate>Fri, 07 Mar 2025 07:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=353300">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250307155631_4a5696b50caad931a4f659333cc10f03.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=353300">트레저, 스페셜 미니앨범 'PLEASURE' 발매</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250307155631_4a5696b50caad931a4f659333cc10f03.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

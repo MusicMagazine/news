@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Mar 2025 01:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 02:53:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김재중 토크쇼, 웹예능 '재친구'.. 라이프타임 TV 방영]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=354216</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=354216</guid>
+            <pubDate>Wed, 12 Mar 2025 02:53:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=354216">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250312102150_ecef25d3c43a034b902b5610b94e0bb9.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=354216">김재중 토크쇼, 웹예능 '재친구'.. 라이프타임 TV 방영</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250312102150_ecef25d3c43a034b902b5610b94e0bb9.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[츠지이 노부유키, 도이치그라모폰 데뷔 앨범 발매.. " 베토벤  함머클라비어 소나타"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=354187</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=353050">키이스트, 2025년 제작 라인업... “드라마도, 예능도, 매니지먼트도”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250306091715_d140f261f24132fa77df13e4f7be01cf_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신영숙, 뮤지컬 '명성황후' 개인 통산 공연 100회 달성]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=353026</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=353026</guid>
-            <pubDate>Thu, 06 Mar 2025 01:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=353026">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250306090829_120b8be844a61d30223cb3976bd28999.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=353026"> 신영숙, 뮤지컬 '명성황후' 개인 통산 공연 100회 달성</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250306090829_120b8be844a61d30223cb3976bd28999.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
