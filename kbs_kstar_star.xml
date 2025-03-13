@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Mar 2025 19:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Mar 2025 20:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['영화, 우표로 피다: 세계영화우표전시' .. 명필름아트센터 전시회]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=354428</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=354428</guid>
+            <pubDate>Thu, 13 Mar 2025 20:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=354428">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250313152348_2b62b460a01a106b746547ea6426a83e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=354428">'영화, 우표로 피다: 세계영화우표전시' .. 명필름아트센터 전시회</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250313152348_2b62b460a01a106b746547ea6426a83e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['빌런의 나라' 최예나.. "첫 지상파 연기, 행복해"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=354319</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=353135">밀리의서재, ‘MWC 2025’ 참가..."독서 플랫폼, AI접목"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250306101038_f95614cc2e8e4152d53b3716d4e03b6b_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NEW, 솔트룩스와 AI 기반 콘텐츠 혁신 사업 협약]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=353092</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=353092</guid>
-            <pubDate>Thu, 06 Mar 2025 01:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=353092">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250306093234_cd7f3e7a990a6db44943cc07889a105a_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=353092"> NEW, 솔트룩스와 AI 기반 콘텐츠 혁신 사업 협약</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250306093234_cd7f3e7a990a6db44943cc07889a105a_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
