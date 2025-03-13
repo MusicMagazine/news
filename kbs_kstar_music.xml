@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Mar 2025 23:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Mar 2025 01:12:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제니, 빌보드 스테이지... ‘like JENNIE’+‘Handlebars’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=354347</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=354347</guid>
+            <pubDate>Thu, 13 Mar 2025 01:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=354347">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250313082308_05bca93b0be51fe00af5d6a41a73ba0d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=354347">제니, 빌보드 스테이지... ‘like JENNIE’+‘Handlebars’</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250313082308_05bca93b0be51fe00af5d6a41a73ba0d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장] 세이마이네임 “소화제 같은, 샤랄라~”  (앨범 쇼케이스)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=354263</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=353541">태민, 월드투어 ‘Ephemeral Gaze’ 서울 피날레 콘서트</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250309083912_57e655f34cc3855671c7f7332278be8a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이승철, 데뷔 39주년 기념 라이브 앨범 'THE BEST LIVE 31' 발매]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=353305</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=353305</guid>
-            <pubDate>Sat, 08 Mar 2025 10:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=353305">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250307155801_d3cf6c0a7a5063cc9779a1b31c7db4af.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=353305"> 이승철, 데뷔 39주년 기념 라이브 앨범 'THE BEST LIVE 31' 발매</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250307155801_d3cf6c0a7a5063cc9779a1b31c7db4af.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

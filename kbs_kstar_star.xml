@@ -4,9 +4,27 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Mar 2025 23:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Mar 2025 01:12:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['빌런의 나라' 최예나.. "첫 지상파 연기, 행복해"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=354319</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=354319</guid>
+            <pubDate>Thu, 13 Mar 2025 01:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=354319">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250313085828_4b67c6c59007e954658f0e15702be415.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=354319">'빌런의 나라' 최예나.. "첫 지상파 연기, 행복해"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EC%8B%9C%ED%8A%B8%EC%BD%A4%20%EB%B9%8C%EB%9F%B0%EC%9D%98%20%EB%82%98%EB%9D%BC">수목시트콤 빌런의 나라</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250313085828_4b67c6c59007e954658f0e15702be415.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김재중 토크쇼, 웹예능 '재친구'.. 라이프타임 TV 방영]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=354216</link>
@@ -329,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=353092"> NEW, 솔트룩스와 AI 기반 콘텐츠 혁신 사업 협약</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250306093234_cd7f3e7a990a6db44943cc07889a105a_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[키이스트, 2025년 제작 라인업... “드라마도, 예능도, 매니지먼트도”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=353050</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=353050</guid>
-            <pubDate>Thu, 06 Mar 2025 01:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=353050">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250306091715_d140f261f24132fa77df13e4f7be01cf_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=353050">키이스트, 2025년 제작 라인업... “드라마도, 예능도, 매니지먼트도”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250306091715_d140f261f24132fa77df13e4f7be01cf_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
