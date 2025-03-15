@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Mar 2025 22:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Mar 2025 23:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김히어라, 오컬트 영화 '구원자' 캐스팅]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=354763</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=354763</guid>
+            <pubDate>Sat, 15 Mar 2025 23:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=354763">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250315112557_98e47ab07675ad966d9befb994b89ffa.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=354763">김히어라, 오컬트 영화 '구원자' 캐스팅</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250315112557_98e47ab07675ad966d9befb994b89ffa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['영화, 우표로 피다: 세계영화우표전시' .. 명필름아트센터 전시회]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=354428</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=353144">[인터뷰] 공승연의 비밀 (연극 ‘꽃의 비밀’)</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250306105545_f4c85bb0dad2aa476ed7b82028ac64af.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밀리의서재, ‘MWC 2025’ 참가..."독서 플랫폼, AI접목"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=353135</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=353135</guid>
-            <pubDate>Thu, 06 Mar 2025 02:52:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=353135">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250306101038_f95614cc2e8e4152d53b3716d4e03b6b_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=353135">밀리의서재, ‘MWC 2025’ 참가..."독서 플랫폼, AI접목"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250306101038_f95614cc2e8e4152d53b3716d4e03b6b_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
