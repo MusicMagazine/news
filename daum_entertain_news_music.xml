@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2025-03-16T19:13:27.563Z</updated>
+    <updated>2025-03-16T20:18:10.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비비의 2025 초심 찾기 "스스로 '너 뭐 돼?' 물어봐요"]]></title>
+        <id>https://v.daum.net/v/20250317050003910</id>
+        <link href="https://v.daum.net/v/20250317050003910"/>
+        <updated>2025-03-16T20:17:38.806Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 윤상근 기자] 2025.3.12 가수 비비 AAA 인터뷰 /사진=이동훈가수 비비(김형서)가 27일 오후 태국 방콕 임팩트 챌린저 홀 1-2(IMPACT Challenger Hall 1-2)에서 진행된 '제9회 아시아 아티스트 어워즈'(The 9th Asia Artist Awards, 이하 'AAA 2024')에서 AAA 뉴 웨이브상, 베스트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세이렌 에잇, 새 싱글 ‘Don’t Stop the Dance’ 발매]]></title>
         <id>https://v.daum.net/v/20250317014450408</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250316201206994"/>
         <updated>2025-03-16T11:14:29.023Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 윤혜영 기자] 그룹 에스파가 화려하게 KSPO DOME에 첫 입성했다. '2025 aespa LIVE TOUR - SYNK : PARALLEL LINE – ENCORE'(2025 에스파 라이브 투어 – 싱크 : 패러럴 라인 – 앙코르)가 16일 서울시 송파구 올림픽공원 KSPO DOME(구 체조경기장)에서 개최됐다. 에스파는 지난해 6월 잠실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유재석·지디도 응원한 에스파, 체조 입성.."늦지 않게 다시 만나"]]></title>
-        <id>https://v.daum.net/v/20250316201047979</id>
-        <link href="https://v.daum.net/v/20250316201047979"/>
-        <updated>2025-03-16T11:14:29.023Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 송파 KSPO DOME=허지형 기자] 에스파/사진제공=SM엔터테인먼트그룹 에스파(aespa)가 데뷔 이래 처음으로 체조경기장에 입성하며 월드투어의 대미를 장식했다. 16일 오후 서울 송파구 올림픽공원 KSPO DOME(구 체조경기장)에서 앙코르 콘서트 '2024-25 에스파 라이브 투어 - 싱크 : 패러렐 라인 - 앙코르(2024-25 ae]]></content>
     </entry>
 </feed>
