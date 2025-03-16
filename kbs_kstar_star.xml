@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Mar 2025 22:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Mar 2025 23:15:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['마녀' 노정의,  차세대 로맨스 퀸... '바니와 오빠들' 대기 중]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=354902</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=354902</guid>
+            <pubDate>Sun, 16 Mar 2025 23:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=354902">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250317074141_1b42e730c833b50f5da851d2c9a1942e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=354902">'마녀' 노정의,  차세대 로맨스 퀸... '바니와 오빠들' 대기 중</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250317074141_1b42e730c833b50f5da851d2c9a1942e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["이 배우, 주연우".. '보물섬' 허준호 오른팔 '천구호']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=354827</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=353320">CJ ENM, 30주년 기념 특별전 '하우스 오브 더 비저너리' 성료</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250307160553_bd5311d94606541234879c0d0bfd689e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이유, '요망진' 반항아 변신.. ‘폭싹 속았수다’에서 팔색조 매력 예고]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=353214</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=353214</guid>
-            <pubDate>Fri, 07 Mar 2025 06:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=353214">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250307145121_60a61d2517988bbf21d4c1d25e225b8e.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=353214">아이유, '요망진' 반항아 변신.. ‘폭싹 속았수다’에서 팔색조 매력 예고</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250307145121_60a61d2517988bbf21d4c1d25e225b8e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
