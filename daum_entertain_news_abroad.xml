@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2025-03-18T11:14:23.231Z</updated>
+    <updated>2025-03-18T12:31:48.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유명가수도 청부업자 총 맞고 사망... 리얼 '범죄도시' 된 나라]]></title>
+        <id>https://v.daum.net/v/20250318212500048</id>
+        <link href="https://v.daum.net/v/20250318212500048"/>
+        <updated>2025-03-18T12:31:28.040Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 페루의 유명가수 폴 플로레스가 청부업자에 의해 살해된 가운데 페루 정부가 30일 동안 비상사태를 선포했다. 17일(현지시각) AFP통신에 따르면 페루 총리 구스타보 아드리안젠은 페루의 수도 리마에 비상사태를 선포했다. 이는 유명가수 폴 플로레스가 리마 외곽에서 공연을 마치고 귀가하던 중 살인 청부업자의 총격을 받아 사망한 이후 행]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[25세 축구선수, 클럽 화재로 사망..."사람들 구하려다 희생"]]></title>
         <id>https://v.daum.net/v/20250318180900641</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250318094226435"/>
         <updated>2025-03-18T01:12:00.011Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 배우 콜린 파렐(48) DC 히어로 무비 ‘서전트 록’에 출연할 전망이다. 버라이어티는 17일(현지시간) “콜린 파렐이 루카 구아다니노 감독이 메가폰을 잡는 ‘서전트 록’ 주연으로 거론되고 있다”고 전했다. '제임스 본드' 다니엘 크레이그(57)가 이 역할에 관심을 보였지만, 지난달 중도에 하차한 바 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['62세' 톰 크루즈, 케이티 홈즈 닮은 36세 여배우와 열애설]]></title>
-        <id>https://v.daum.net/v/20250318092307508</id>
-        <link href="https://v.daum.net/v/20250318092307508"/>
-        <updated>2025-03-18T01:12:00.011Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] 62세 배우 톰 크루즈가 36세 여배우와 스캔들이 났다. 17일(현지시각) 외신 보도에 따르면 톰 크루즈와 안나 드 아르마스는 14일 밸런타인데이를 맞이해 디너 데이트를 즐겼다. 이들은 주말에는 헬리콥터를 함께 타는 모습도 파파라치 사진에 포착됐다.&nbsp; 이를 두고 일각에서는 톰 크룾즈가 새 사랑을 찾은 것 아니냐고 기대했다. 하지]]></content>
     </entry>
 </feed>
