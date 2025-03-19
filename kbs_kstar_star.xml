@@ -4,9 +4,27 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Mar 2025 08:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 09:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이다은, 드라마 ‘24시 헬스클럽’ 캐스팅]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=355288</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=355288</guid>
+            <pubDate>Wed, 19 Mar 2025 09:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=355288">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250319090537_0920aba187894c67e0005fbb9e7f7c19.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=355288">이다은, 드라마 ‘24시 헬스클럽’ 캐스팅</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%2024%EC%8B%9C%20%ED%97%AC%EC%8A%A4%ED%81%B4%EB%9F%BD">수목드라마 24시 헬스클럽</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250319090537_0920aba187894c67e0005fbb9e7f7c19.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더보이즈 주학년 화보, 몽환적 매력 (맨 노블레스)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=355283</link>
@@ -330,23 +348,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=353814">연극 ‘비기닝’ 개막.. 서툴지만 진심인 현실 연애</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250310145312_14f0ec9f59bd86ce8583a8cb393d6d09_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["중력을 거슬러 파퓰러~" 브로드웨이 오리저널 '위키드' 13년만의 내한 공연]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=353713</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=353713</guid>
-            <pubDate>Mon, 10 Mar 2025 01:00:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=353713">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250310094824_1dccab3415bffd6b730c5e75712bd2e5.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=353713">"중력을 거슬러 파퓰러~" 브로드웨이 오리저널 '위키드' 13년만의 내한 공연</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250310094824_1dccab3415bffd6b730c5e75712bd2e5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
