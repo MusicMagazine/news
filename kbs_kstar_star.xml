@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Mar 2025 22:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 23:16:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["이 책, 제 취향이네요~" 밀리의서재, 취향 토크쇼 '취향 플레이리스트']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=355407</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=355407</guid>
+            <pubDate>Wed, 19 Mar 2025 23:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=355407">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250320080053_9fd214adc57c8316e5283bfece60bd7b.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=355407">"이 책, 제 취향이네요~" 밀리의서재, 취향 토크쇼 '취향 플레이리스트'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250320080053_9fd214adc57c8316e5283bfece60bd7b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전여빈 매거진 화보 ( WWD KOREA)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=355303</link>
@@ -331,23 +348,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=353956">이수민, 드라마 '허식당' 캐스팅..  1인2역 도전</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250311092838_bdbfe3412031cddd5965e766e3cd4c58.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘폭싹 속았수다’ 오정세, 특별출연.. 아이유X염혜란과 특급 케미]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=353936</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=353936</guid>
-            <pubDate>Tue, 11 Mar 2025 01:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=353936">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250311090436_2d4966a0b2e41719f335dc6cf5a1dd68.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=353936">‘폭싹 속았수다’ 오정세, 특별출연.. 아이유X염혜란과 특급 케미</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250311090436_2d4966a0b2e41719f335dc6cf5a1dd68.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

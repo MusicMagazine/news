@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Mar 2025 22:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 23:16:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5월의 박재범, 월드투어 'Serenades & Body Rolls' 서울 공연]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=355402</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=355402</guid>
+            <pubDate>Wed, 19 Mar 2025 23:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=355402">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250320074630_9769d9fe474a4c650e9b35dda8e2d775.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=355402">5월의 박재범, 월드투어 'Serenades &amp; Body Rolls' 서울 공연 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250320074630_9769d9fe474a4c650e9b35dda8e2d775.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[4월의 대성.. "컴백, 그리고 솔로 첫 콘서트"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=355308</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=353947">레드벨벳 슬기, 두 번째 미니앨범 ‘Accidentally On Purpose’ 발매</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250311092302_7fef6f79097563d7523883d9598a6a3f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제이홉, ‘Sweet Dreams’ 챌린지 열풍… 3일 만에 2억 뷰 돌파]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=353899</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=353899</guid>
-            <pubDate>Tue, 11 Mar 2025 01:10:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=353899">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250311084042_5a1193d1ecdbfc22ade4073d19f35177.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=353899">제이홉, ‘Sweet Dreams’ 챌린지 열풍… 3일 만에 2억 뷰 돌파</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250311084042_5a1193d1ecdbfc22ade4073d19f35177.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
