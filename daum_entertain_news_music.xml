@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2025-03-20T19:13:42.161Z</updated>
+    <updated>2025-03-20T20:18:15.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이즈나, 23일 KBO 개막전→31일 컴백…슈퍼 루키 행보]]></title>
+        <id>https://v.daum.net/v/20250321051506119</id>
+        <link href="https://v.daum.net/v/20250321051506119"/>
+        <updated>2025-03-20T20:17:40.583Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 한소희 인턴기자] 이즈나(izna)가 19일 오후 공식 SNS를 통해 첫 번째 디지털 싱글 'SIGN'의 콘셉트 포토를 공개했다. 소녀 같았던 이즈나가 시크하고 힙하게 변신하여 신곡에 대한 기대를 키우고 있다. 공개된 이미지 속 힙한 착장으로 이전과는 다른 스타일을 완벽하게 소화하며 어두운 분위기로 시선을 사로잡는다. 이전 콘셉트와는 18]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이찬원, 콘서트 라이브 앨범 '찬가' 멜론 밀리언즈 앨범 달성]]></title>
         <id>https://v.daum.net/v/20250321031506535</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250320231505813"/>
         <updated>2025-03-20T14:16:11.925Z</updated>
         <content type="html"><![CDATA[(MHN스포츠 이주환 인턴기자) 뮤지컬 배우 박혜나가 데뷔 이후 처음으로 단독 콘서트를 열고 팬들과의 특별한 시간을 가질 예정이다. 박혜나의 단독콘서트는 '박혜나의 나나랜드: ROAD TO NANALAND'(이하 박혜나의 나나랜드)라는 이름으로 오는 5월 10일, 11일 양일간 이화여자대학교 삼성홀에서 개최된다. '박혜나의 나나랜드' 라는 메인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 K-POP 월드투어 ‘NO WAR JUST PEACE’ 공식 포스터 및 투어 일정 1차 공개···바티칸 광장, UN본부, 오사카EXPO]]></title>
-        <id>https://v.daum.net/v/20250320225307478</id>
-        <link href="https://v.daum.net/v/20250320225307478"/>
-        <updated>2025-03-20T14:16:11.925Z</updated>
-        <content type="html"><![CDATA[2025 K-POP 월드투어 ‘NO WAR JUST PEACE’가 20일 1차 공식 포스터와 투어 플랜을 공개헸다. 주최사인 피스챌린지그룹(PEACE CHALLENGE GROUP)은 “올하반기 세계 평화와 화합의 정신을 상징하는 로마와 바티칸을 비롯, 국제사회의 평화 유지와 인도적 지원의 중심지 UN 본부가 있는 뉴욕에서 공연을 개최할 계획”이라면서]]></content>
     </entry>
 </feed>
