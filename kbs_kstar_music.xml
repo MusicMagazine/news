@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Mar 2025 15:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Mar 2025 16:20:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신예 그룹 키키,  ‘텐 매거진 USA’ 커버 장식]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=355670</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=355670</guid>
+            <pubDate>Fri, 21 Mar 2025 16:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=355670">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250321101332_023a43da05d54cae186e8ed537a5d694.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=355670">신예 그룹 키키,  ‘텐 매거진 USA’ 커버 장식</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250321101332_023a43da05d54cae186e8ed537a5d694.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크, ‘Lovesick Girls’ 뮤직비디오 8억 뷰 돌파…통산 13번째 기록]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=355657</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=354143">시우민, 신곡 'WHEE!' 아이튠즈 14개 국가 1위</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250312090504_88ea69127fb343244dca4159328a762a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5월의 샤이니, 일곱 번째 단독 콘서트]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=353941</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=353941</guid>
-            <pubDate>Tue, 11 Mar 2025 22:14:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=353941">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250311090642_ddd077446bac6cfbd5c7abc9903bdb94.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=353941">5월의 샤이니, 일곱 번째 단독 콘서트</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250311090642_ddd077446bac6cfbd5c7abc9903bdb94.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
