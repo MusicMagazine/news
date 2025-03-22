@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2025-03-22T12:27:56.191Z</updated>
+    <updated>2025-03-22T13:19:56.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['레몬' 부른 J팝스타 요네즈 겐시 공연…대표곡 아우르는 무대]]></title>
+        <id>https://v.daum.net/v/20250322220008096</id>
+        <link href="https://v.daum.net/v/20250322220008096"/>
+        <updated>2025-03-22T13:19:24.482Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 최주성 기자 = 히트곡 '레몬'(Lemon)을 앞세워 세계적인 인기를 얻은 제이팝 스타 요네즈 겐시가 22일 첫 내한 공연을 선보였다. 공연기획사 라이브네이션코리아에 따르면 요네즈 겐시는 이날 인천 영종도 인스파이어 아레나에서 월드투어 '정크'(Junk)를 개최했다. 요네즈는 2009년 하치라는 이름의 보컬로이드(보컬 신시사이저 소프트웨어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴진스, 法 인용 후 홍콩 출국.."버니즈 잘 다녀올게요"]]></title>
         <id>https://v.daum.net/v/20250322211935783</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250322180017725"/>
         <updated>2025-03-22T09:16:01.573Z</updated>
         <content type="html"><![CDATA[[동아닷컴] [사진=비트인터렉티브 제공]그룹 뉴비트(NEWBEAT/박민석·홍민성·전여여정·최서현·김태양·조윤후·김리우)가 정규 1집 ‘RAW AND RAD’의 타이틀곡 ‘Flip the Coin’ 단체 콘셉트 사진을 공개했다. 사진 속 뉴비트는 키치한 의상을 입고 자유로운 분위기를 뽐내고 있다. 무심하면서도 카리스마 넘치는 눈빛으로 카메라를 응시하는 멤버]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단 정국, 솔로곡 'Seven' MV 유튜브 5억 뷰 돌파]]></title>
-        <id>https://v.daum.net/v/20250322180004722</id>
-        <link href="https://v.daum.net/v/20250322180004722"/>
-        <updated>2025-03-22T09:16:01.573Z</updated>
-        <content type="html"><![CDATA[(MHN스포츠 이주환 인턴기자) 그룹 방탄소년단 정국의 첫 솔로 싱글 'Seven (feat. Latto)' 뮤직비디오가 5억 뷰를 달성하며 글로벌 인기를 다시 한번 입증했다. 지난해 7월 전 세계 동시 발매된 'Seven'의 뮤직비디오는 22일 오전 3시 53분경 유튜브 조회 수 5억 건을 돌파했다. 이는 정국의 솔로곡 중 최초 5억 뷰 달성이다]]></content>
     </entry>
 </feed>
