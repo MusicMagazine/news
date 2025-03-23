@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2025-03-23T16:18:03.235Z</updated>
+    <updated>2025-03-23T17:13:55.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅, 아이돌차트 평점랭킹 208주 연속 1위 '기록의 히어로']]></title>
+        <id>https://v.daum.net/v/20250324014506319</id>
+        <link href="https://v.daum.net/v/20250324014506319"/>
+        <updated>2025-03-23T17:13:31.739Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 이승길 기자] 가수 임영웅이 3월 12차 아이돌차트 평점랭킹에서 최다득표자에 올랐다. 아이돌차트에 따르면 지난 3월 14일부터 3월 20일까지 집계된 평점랭킹에서 임영웅은 38만 4484표를 얻어 최다득표를 기록했다. 이로써 임영웅은 아이돌차트 평점랭킹에서 208주 연속 1위에 오르게 됐다. 2위는 이찬원(11만 7552표)이 차지했다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘도파민’ 말고 ‘아보하’… 자극·긴장감 대신 웃음과 치유]]></title>
         <id>https://v.daum.net/v/20250324010404155</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250323234353542"/>
         <updated>2025-03-23T15:16:23.250Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 윤상근 기자] 배우 서예지가 화보 촬영 차 인도네이시아 발리로 3일 오후 인천국제공항을 통해 출국하고 있다. 2025.02.03 /사진=임성균 tjdrbs23@ 배우 서예지가 8년 만에 예능에 출연한다. TV CHOSUN '식객 허영만의 백반기행'은 23일 방송 말미 예고편을 통해 서예지의 출연을 예고했다. 예고편에서 서예지는 강원도 원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘NJZ로 인사 생략’ 뉴진스, 당분간 활동 중단... “꼭 기다려 달라”]]></title>
-        <id>https://v.daum.net/v/20250323234343541</id>
-        <link href="https://v.daum.net/v/20250323234343541"/>
-        <updated>2025-03-23T15:16:23.252Z</updated>
-        <content type="html"><![CDATA[그룹 뉴진스가 컴플렉스콘 무대를 기점으로 잠정 활동을 중단한다고 밝혔다. 23일 오후 11시 10분경(한국시각) 뉴진스 멤버들은 홍콩 아시아월드 엑스포에서 열린 컴플렉스콘 무대에 섰다. 다니엘, 민지, 해린, 혜인, 하니 순서대로 개인 무대를 마친 뒤 완전체로 무대 위에 섰다.&nbsp; 멤버들은 “안녕하세요 여러분”이라고 인사를 했다. 다만 뉴진스, NJZ]]></content>
     </entry>
 </feed>
