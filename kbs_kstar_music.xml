@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Mar 2025 09:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Mar 2025 10:20:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아일릿, 데뷔 1주년 기념 첫 팬 콘서트 개최…韓·日 6회 공연 확정]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=356181</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=356181</guid>
+            <pubDate>Tue, 25 Mar 2025 10:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=356181">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250325182725_9cd44f0720099b5fa3b66deaf558162b.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=356181">아일릿, 데뷔 1주년 기념 첫 팬 콘서트 개최…韓·日 6회 공연 확정</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250325182725_9cd44f0720099b5fa3b66deaf558162b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["솔라는 못 말려"…솔라, 싱글 'WANT' 우당탕탕 반전 매력]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=356092</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=355187">제니 ‘Ruby’…美 빌보드 ‘HOT 100’ 3곡 동시 차트인</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250319071535_de0f12cf9ec48f8f303258e33858b8c4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대성, 4월 8일 컴백... 미니 1집 ‘D’s WAVE’]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=355181</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=355181</guid>
-            <pubDate>Tue, 18 Mar 2025 22:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=355181">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250319065359_7d63ba4cda602543455686d3f215241a.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=355181">대성, 4월 8일 컴백... 미니 1집 ‘D’s WAVE’ </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250319065359_7d63ba4cda602543455686d3f215241a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
