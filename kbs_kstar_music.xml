@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Mar 2025 01:12:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Mar 2025 02:55:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제이홉 ‘MONA LISA’, 英 오피셜 싱글 차트 진입…올해만 3곡]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=356717</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=356717</guid>
+            <pubDate>Sat, 29 Mar 2025 02:54:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=356717">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250329103825_1ebbb76c4c8c0e67a90d274098d4e910.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=356717">제이홉 ‘MONA LISA’, 英 오피셜 싱글 차트 진입…올해만 3곡</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250329103825_1ebbb76c4c8c0e67a90d274098d4e910.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[4월의 솔라, 새 싱글 'WANT'  발매]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=356579</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=355657">블랙핑크, ‘Lovesick Girls’ 뮤직비디오 8억 뷰 돌파…통산 13번째 기록</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250321100356_a9c71ccc936b6d0ba2118a6d9f358d62.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에일리 컴백.. 새 앨범 ‘Me(moir)’]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=355613</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=355613</guid>
-            <pubDate>Fri, 21 Mar 2025 01:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=355613">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250321093624_3190b605187e3495c6670bfcbe5df2d8.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=355613">에일리 컴백.. 새 앨범 ‘Me(moir)’</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250321093624_3190b605187e3495c6670bfcbe5df2d8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
