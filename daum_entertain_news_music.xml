@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2025-03-29T13:21:33.345Z</updated>
+    <updated>2025-03-29T14:15:23.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['시간개념' 초월한 지드래곤, 영하 5도 속 73분 지연 공연 논란]]></title>
+        <id>https://v.daum.net/v/20250329224333630</id>
+        <link href="https://v.daum.net/v/20250329224333630"/>
+        <updated>2025-03-29T14:14:49.888Z</updated>
+        <content type="html"><![CDATA[[이데일리 스타in 윤기백 기자] 그룹 빅뱅 지드래곤이 프로답지 못한 모습으로 8년 만의 귀환에 스스로 먹칠을 했다. 지드래곤지드래곤은 29일 경기도 고양시 고양종합운동장에서 ‘지드래곤 2025 월드투어 [위버멘쉬]’(G-DRAGON 2025 WORLD TOUR [Ubermensch]) 1일차 공연을 열었다. 이번 공연은 지드래곤이 2017년 이후 약 8]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정형돈, 데프콘 아닌 이 사람과 듀엣...'음중' 기강 잡은 역대급 듀엣]]></title>
         <id>https://v.daum.net/v/20250329221751485</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250329203001500"/>
         <updated>2025-03-29T12:29:00.265Z</updated>
         <content type="html"><![CDATA[[스포츠한국 이유민 기자] 가수 지드래곤의 솔로 콘서트가 기상 악화로 인해 예정보다 한 시간 이상 늦어지면서 관객들의 애를 태우고 있다. 공연장에는 3만여 명이 운집했지만, 찬 바람과 함께 본 무대는 좀처럼 시작되지 않았다. 29일 오후 6시 30분, 고양종합운동장에서 열릴 예정이던 지드래곤의 2025 월드투어 'Ubermensch(위버멘쉬)' 첫]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[판타지 보이즈 김우석, 5월 일본 공연 깜짝 메시지 공개]]></title>
-        <id>https://v.daum.net/v/20250329202750466</id>
-        <link href="https://v.daum.net/v/20250329202750466"/>
-        <updated>2025-03-29T12:29:00.265Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 판타지 보이즈의 김우석이 5월 일본 공연을 개최한다. 그간 팬들과의 소통을 위해 매 무대마다 밴드 스타일링을 통해 깜짝 메시지를 전해왔던 김우석이 이번에도 새로운 소식을 전했다. 김우석은 3월 29일 오후 방송된 MBC ‘쇼! 음악중심’ 무대에 올라 화려한 퍼포먼스와 함께 코에 붙인 밴드에 “5월 일본 공연”이라는 깜짝 메시지를 적]]></content>
     </entry>
 </feed>
