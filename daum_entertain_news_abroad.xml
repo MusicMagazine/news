@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2025-03-30T03:04:42.227Z</updated>
+    <updated>2025-03-30T04:19:43.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[故 장진환 장례식 거행...'23년 절연' 전처+아들도 참석]]></title>
+        <id>https://v.daum.net/v/20250330130801881</id>
+        <link href="https://v.daum.net/v/20250330130801881"/>
+        <updated>2025-03-30T04:19:20.837Z</updated>
+        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 대만 배우 장진환(Chang Chen-Huan·향년 65세)의 장례식이 거행됐다. 이 가운데 지난 23년간 절연한 장진환의 아들과 전처가 장례식에 참석해 관심이 쏠린다. 30일(현지 시간) 외신 차이나타임즈(chainatimes) 보도에 따르면 장진환 아들(30)과 전처는 장진환 장례식에 참석하기 위해 중국에서 대만으로 향했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['헤임달' 이드리스 엘바, 英 런던 시장 출마하나... "노동당 유력 후보"]]></title>
         <id>https://v.daum.net/v/20250330115331583</id>
@@ -74,12 +81,5 @@
         <link href="https://v.daum.net/v/20250329150030684"/>
         <updated>2025-03-29T06:20:53.256Z</updated>
         <content type="html"><![CDATA[[TV리포트=강성훈 기자] 싱가포르에서 활동 중인 말레이시아 국적 배우 진홍우(Chen Hong-Yu·46)의 아버지가 뺑소니 피해로 사망했다. 28일(현지 시간) 진홍우는 자신의 계정을 통해 이날 오전 아버지가 말레이시아에서 오토바이를 타고 가다 차에 치였다고 밝혔다. 그는 아버지가 길에 쓰러져 심각한 부상을 입었지만, 사고를 낸 운전자가 처벌을 두려워해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[칸예 웨스트, 5월 첫 단독 내한 콘서트 ‘불리’ 개최]]></title>
-        <id>https://v.daum.net/v/20250329130445402</id>
-        <link href="https://v.daum.net/v/20250329130445402"/>
-        <updated>2025-03-29T04:19:42.674Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 윤수경기자] 칸예 웨스트(Kanye West, 이하 ‘YE’)가 5월 내한공연을 갖는다. 29일 쿠팡플레이는 5월 31일 오후 6시 30분 인천문학경기장에서 열리는 ‘쿠팡플레이와 함께하는 YE 내한 콘서트 ‘불리’’를 선보인다. 이번 공연은 2016년 월드투어 이후 9년 만에 개최되는 YE의 단독 콘서트로, 신곡 ‘불리’(BULLY)]]></content>
     </entry>
 </feed>
