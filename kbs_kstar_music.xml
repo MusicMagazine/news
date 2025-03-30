@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Mar 2025 22:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Mar 2025 23:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[초인적 기다림의 공연.. 지드래곤 ‘위버멘쉬’ 공연]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=356849</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=356849</guid>
+            <pubDate>Sun, 30 Mar 2025 23:14:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=356849">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250331073304_b03038b2ea70e670c2ecfe55d33863bb.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=356849">초인적 기다림의 공연.. 지드래곤 ‘위버멘쉬’ 공연</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250331073304_b03038b2ea70e670c2ecfe55d33863bb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(여자)아이들, 일본 페스티벌 '더 퍼포먼스' 헤드라이너 장식]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=356796</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=355792">제이홉 ‘MONA LISA’, 글로벌 차트 석권</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250322091522_0b11eb21acd3bc719fa5a7d709aa9c11.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신예 그룹 키키,  ‘텐 매거진 USA’ 커버 장식]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=355670</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=355670</guid>
-            <pubDate>Fri, 21 Mar 2025 16:19:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=355670">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250321101332_023a43da05d54cae186e8ed537a5d694.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=355670">신예 그룹 키키,  ‘텐 매거진 USA’ 커버 장식</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250321101332_023a43da05d54cae186e8ed537a5d694.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
