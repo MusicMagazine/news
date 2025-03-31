@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Mar 2025 05:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Mar 2025 06:23:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지수 "LIGHTS, LOVE, ACTION!"...  첫 솔로 아시아 투어 성료]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=356946</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=356946</guid>
+            <pubDate>Mon, 31 Mar 2025 06:22:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=356946">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250331145326_bab6476f041e424add561fd4b61e4053.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=356946">지수 "LIGHTS, LOVE, ACTION!"...  첫 솔로 아시아 투어 성료</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250331145326_bab6476f041e424add561fd4b61e4053.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[초인적 기다림의 공연.. 지드래곤 ‘위버멘쉬’ 공연]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=356849</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=355799">원위, 월드투어 'O! NEW E!volution Ⅳ' 베트남 공연 성료</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250322093859_f8e6db078773bdac88b464d45e2cee59.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제이홉 ‘MONA LISA’, 글로벌 차트 석권]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=355792</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=355792</guid>
-            <pubDate>Sat, 22 Mar 2025 01:10:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=355792">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250322091522_0b11eb21acd3bc719fa5a7d709aa9c11.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=355792">제이홉 ‘MONA LISA’, 글로벌 차트 석권</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250322091522_0b11eb21acd3bc719fa5a7d709aa9c11.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
