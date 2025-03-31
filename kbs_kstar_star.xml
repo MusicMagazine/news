@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Mar 2025 03:04:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Mar 2025 04:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최예나, '맨 노블레스' 화보...  “연기도 나답게”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=356917</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=356917</guid>
+            <pubDate>Mon, 31 Mar 2025 04:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=356917">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250331131308_a440cb7193c58a62898c567bf3e3a341.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=356917">최예나, '맨 노블레스' 화보...  “연기도 나답게”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250331131308_a440cb7193c58a62898c567bf3e3a341.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[차민지, KBS 일일드라마 ‘여왕의 집’ 캐스팅]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=356334</link>
@@ -331,23 +348,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=354902">'마녀' 노정의,  차세대 로맨스 퀸... '바니와 오빠들' 대기 중</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250317074141_1b42e730c833b50f5da851d2c9a1942e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["이 배우, 주연우".. '보물섬' 허준호 오른팔 '천구호']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=354827</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=354827</guid>
-            <pubDate>Sun, 16 Mar 2025 01:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=354827">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250316090633_c6c74cd53c43aac1d7cc6fd57d7dd4ff_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=354827">"이 배우, 주연우".. '보물섬' 허준호 오른팔 '천구호'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250316090633_c6c74cd53c43aac1d7cc6fd57d7dd4ff_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
