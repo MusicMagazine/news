@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Mar 2025 22:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Mar 2025 23:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장] 김수현 눈물의 기자회견..."하지만 하지 않은 것은 하지 않은 것이다"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=357020</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=357020</guid>
+            <pubDate>Mon, 31 Mar 2025 23:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=357020">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250401081127_5df96ad5ceab8d9cd4c8955c1defe48e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=357020">[현장] 김수현 눈물의 기자회견..."하지만 하지 않은 것은 하지 않은 것이다"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250401081127_5df96ad5ceab8d9cd4c8955c1defe48e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최예나, '맨 노블레스' 화보...  “연기도 나답게”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=356917</link>
@@ -331,23 +348,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=354921">뮤지컬 ‘사랑은 비를 타고’, 30주년 기념 공연... 4월 백암아트홀 개막</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250317164735_ef2e4aa0d4ff586c92a5d24c6cf60459.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['마녀' 노정의,  차세대 로맨스 퀸... '바니와 오빠들' 대기 중]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=354902</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=354902</guid>
-            <pubDate>Sun, 16 Mar 2025 23:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=354902">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250317074141_1b42e730c833b50f5da851d2c9a1942e.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=354902">'마녀' 노정의,  차세대 로맨스 퀸... '바니와 오빠들' 대기 중</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250317074141_1b42e730c833b50f5da851d2c9a1942e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
