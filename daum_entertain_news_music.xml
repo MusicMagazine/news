@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2025-04-05T20:16:21.071Z</updated>
+    <updated>2025-04-05T21:15:25.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["김은희 천재잖아?"..김은숙 작가도 극찬 of 극찬 '시그널2']]></title>
+        <id>https://v.daum.net/v/20250406052718165</id>
+        <link href="https://v.daum.net/v/20250406052718165"/>
+        <updated>2025-04-05T21:14:54.072Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 레전드&nbsp;김은희 작가가 ‘시그널’ 시즌2에 진심을 쏟고 있다.&nbsp; 지난 1일 방송된 MBC ‘손석희의 질문들’에서 김은숙 작가와 함께 나온 김은희 작가는 차기작에 대한 질문에 “‘시그널’ 이후 시즌2까지 9년이 걸렸다. 저만 대본을 쓴다고 해서 되는 게 아니다. 배우들 스케줄과 여러 가지 복잡한 과정이 있다. 지금‘두 번째 시그널’]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국 음악史를 품은 거장 임종수, 그가 숨겨둔 이야기]]></title>
         <id>https://v.daum.net/v/20250406010154642</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250405202705806"/>
         <updated>2025-04-05T12:28:20.804Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 신인 걸그룹 키키가 정식 데뷔 2주 만에 첫 음악방송 1위를 차지했다. 키키는 5일 오후 방송된 MBC 음악 순위 프로그램 '쇼! 음악중심'에서 데뷔곡 '아이 두 미'(I DO ME)로 1위 트로피를 품에 안았다. 이날 1위 후보에는 키키 '아이 두 미'와 제니의 '라이크 제니'(Like JENNIE), 르세라핌 '핫'(]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비에이이173, 日 도쿄·오사카·나고야서 팬 콘서트 개최]]></title>
-        <id>https://v.daum.net/v/20250405202059766</id>
-        <link href="https://v.daum.net/v/20250405202059766"/>
-        <updated>2025-04-05T12:28:20.806Z</updated>
-        <content type="html"><![CDATA[그룹 비에이이173(BAE173)이 일본에서 팬콘서트를 개최한다. 비에이이173은 5일 일본 오사카를 시작으로, 9일 나고야, 12일 도쿄까지 총 3개 도시에서 팬콘서트를 개최한다. 이번 팬콘서트 중 오사카 공연은 빠르게 매진되며 흥행의 포문을 열어 비에이이173의 일본 내 성장세를 실감케 했다. 지난해 JTBC 오디션 서바이벌 ‘프로젝트7’과 중국]]></content>
     </entry>
 </feed>
