@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Apr 2025 19:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Apr 2025 20:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베이비몬스터, 일본 순회 '괴물 투어' 순항 중.. 오사카도 매진]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=357606</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=357606</guid>
+            <pubDate>Sun, 06 Apr 2025 20:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=357606">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250406091316_d5b64aac86efe48719283a51ea1c014e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=357606">베이비몬스터, 일본 순회 '괴물 투어' 순항 중.. 오사카도 매진</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250406091316_d5b64aac86efe48719283a51ea1c014e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빌리 문수아X시윤, 유닛곡 ‘SNAP’ MV 티저 공개]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=357604</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=356099">드림캐쳐 월드투어.. 타이베이 접수.. “함께 교감할 수 있어 행복했다”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250325072921_33e0ddfb964f643607da9e56c3ebbdfd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시우민, 솔로 팬 콘서트 성황]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=355938</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=355938</guid>
-            <pubDate>Mon, 24 Mar 2025 23:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=355938">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250324074142_37e5753549e7e6b9353655f0e098d9a7.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=355938">시우민, 솔로 팬 콘서트 성황</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250324074142_37e5753549e7e6b9353655f0e098d9a7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
