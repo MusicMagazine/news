@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Apr 2025 22:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Apr 2025 23:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박성웅, 연극 ‘랑데부’... "100분을 꽉 채운 열연"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=357812</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=357812</guid>
+            <pubDate>Mon, 07 Apr 2025 23:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=357812">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250408075310_714e7ff787b6e88e6edb12c8f05117ae_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=357812">박성웅, 연극 ‘랑데부’... "100분을 꽉 채운 열연"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250408075310_714e7ff787b6e88e6edb12c8f05117ae_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이수경 '폭싹' 매력... "학 씨의 딸 부씨, 현숙"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=357395</link>
@@ -331,23 +348,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=355278">'유괴의 날’  IP확장.. 소설에서 드라마로, 그리고 웹툰으로</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250319090027_f76c38fc0e8c88cb2131c478fafc5d5b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우미화, 연극 ‘아들에게’ 앵콜 공연]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=355273</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=355273</guid>
-            <pubDate>Wed, 19 Mar 2025 01:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=355273">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250319085815_f55555a08efd93dba38ecd0e364be978_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=355273">우미화, 연극 ‘아들에게’ 앵콜 공연</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250319085815_f55555a08efd93dba38ecd0e364be978_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
