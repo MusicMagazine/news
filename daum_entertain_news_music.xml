@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2025-04-07T16:20:26.501Z</updated>
+    <updated>2025-04-07T17:16:03.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[로이킴이 돌아왔다…'있는 모습 그대로'로 보여준 진심의 무대]]></title>
+        <id>https://v.daum.net/v/20250408021005594</id>
+        <link href="https://v.daum.net/v/20250408021005594"/>
+        <updated>2025-04-07T17:15:29.576Z</updated>
+        <content type="html"><![CDATA[(MHN 백서현 인턴기자) &nbsp;싱어송라이터 로이킴이 '잇츠라이브'(it's Live)에 출연해 라이브 실력을 뽐냈다. 지난 5일 로이킴은 유튜브 채널 '잇츠라이브'에 출연해 신곡 '있는 모습 그대로'의 라이브 무대를 선보였다. 이날 로이킴은 신곡 '있는 모습 그대로'의 라이브를 시작으로 부드럽고 따뜻한 어쿠스틱 기타 연주가 밀도 높은 밴드 사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[보아, 전현무와 '취중 라방' 발언 사과.."박나래에 죄송하다고 해"]]></title>
         <id>https://v.daum.net/v/20250408004843114</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250407205812726"/>
         <updated>2025-04-07T12:33:15.722Z</updated>
         <content type="html"><![CDATA[[OSEN=지민경 기자] 그룹 투모로우바이투게더가 출연한&nbsp;중남미 대규모 음악 축제 ‘AXE 세레모니아’에서 구조물이 붕괴하는 사고로 2명이 사망했다. 6일(이하 현지시간) 멕시코 경제지 엘 피난시에로(El Financiero) 등에 따르면&nbsp;멕시코시티의 비센테나리오 공원(Parque Bicentenario)에서 열린 음악 축제 ‘AXE 세레모니아’에서 크]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투모로우바이투게더 출연 멕시코 축제서 사망 사고 “깊은 애도”]]></title>
-        <id>https://v.daum.net/v/20250407204618559</id>
-        <link href="https://v.daum.net/v/20250407204618559"/>
-        <updated>2025-04-07T12:33:15.723Z</updated>
-        <content type="html"><![CDATA[투모로우바이투게더 사진제공=빅히트 뮤직 그룹 투모로우바이투게더가 출연한 중남미 초대형 음악 축제에서 구조물 붕괴로 2명 사망자가 발생하는 참사가 벌어졌다. 이와 관련 투모로우바이투게더는 공식 채널을 통해 깊은 애도를 표시했다. 비극은 중남미 유력 페스티벌로 꼽히는 ‘AXE세레모니아’에서 발생했다. 현지 매체에 따르면무대 일부 구조물이 떨어졌고, 이로 인]]></content>
     </entry>
 </feed>
