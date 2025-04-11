@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2025-04-11T20:18:44.739Z</updated>
+    <updated>2025-04-11T21:17:33.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이찬원, 아이돌차트 평점랭킹 165주 연속 톱2]]></title>
+        <id>https://v.daum.net/v/20250412060008485</id>
+        <link href="https://v.daum.net/v/20250412060008485"/>
+        <updated>2025-04-11T21:17:05.844Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 문완식 기자] 가수 이찬원이 아이돌차트 평점랭킹 165주 연속 톱2에 오르며 인기를 빛냈다. 이찬원은 2025년 4월 1주 차 아이돌차트 평점랭킹에서 12만 764표를 획득, 전체 2위를 차지했다. 이찬원은 투표에 참여하는 팬의 수를 확인할 수 있는 '좋아요'에서도 1만 1475표로 역시 전체 2위에 올랐다. 한편 이찬원은 비티진의 고기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[보복 편지·추가 녹취록? '김준수 협박' BJ, 진정성 의심되는 반성문]]></title>
         <id>https://v.daum.net/v/20250412051602270</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250411191511005"/>
         <updated>2025-04-11T10:17:55.859Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 차재연 인턴기자] 가수 임영웅이 부른 '다시 사랑한다면' 무대 영상이 유튜브에서 조회수 600만을 돌파했다. 임영웅은 2021년 방영된 TV조선 '사랑의 콜센타' 56회에서 도원경의 '다시 사랑한다면'을 열창했다. 안정적인 가창력과 짙은 감성이 시청자들에게 고스란히 전해졌다. 방송 직후 네이버TV 조회수 1위를 기록하며 뜨거운 반응을 얻었]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임영웅, 4월에도 벚꽃과 함께 달린다..스타왕중왕 144주째 '1위']]></title>
-        <id>https://v.daum.net/v/20250411191043920</id>
-        <link href="https://v.daum.net/v/20250411191043920"/>
-        <updated>2025-04-11T10:17:55.859Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 한해선 기자] /사진=스타랭킹 가수 임영웅이 144주 연속 스타왕중왕에 등극하며 역사를 또 한번 썼다. 임영웅은 4일 오후 3시 1분부터 11일 오후 3시까지 진행된 4월 1주(144차) 스타왕중왕 랭킹 투표에서 17만 6075표를 받으며 1위를 차지했다. 이번주 스타왕중왕 순위는 2위 영탁(12만 6138표), 3위 이찬원(12만 19]]></content>
     </entry>
 </feed>
