@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2025-04-12T13:21:30.108Z</updated>
+    <updated>2025-04-12T14:14:09.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘음악중심’ 템페스트, 막방까지 청춘 에너지 가득한 ‘Unfreeze’]]></title>
+        <id>https://v.daum.net/v/20250412225054526</id>
+        <link href="https://v.daum.net/v/20250412225054526"/>
+        <updated>2025-04-12T14:13:36.572Z</updated>
+        <content type="html"><![CDATA[아이돌그룹 템페스트(TEMPEST)가 막방까지 싱그러운 청춘 에너지로 무대를 가득 채웠다. 템페스트는 12일 방송된 MBC ‘쇼! 음악중심’에 출연해 여섯 번째 미니앨범 ‘RE: Full of Youth(리: 풀 오브 유스)’의 타이틀곡 ‘Unfreeze(언프리즈)’ 무대를 선보였다. 템페스트는 청량함이 느껴지는 비주얼과 스타일링으로 무대에 등장했다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTS 지민 'Who', MV 1억뷰 돌파...솔로 통산 세 번째]]></title>
         <id>https://v.daum.net/v/20250412220004245</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250412200601347"/>
         <updated>2025-04-12T11:12:58.402Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 이승훈 기자] /사진=스타뉴스, 나나 SNS 가수 겸 배우 나나가 인성 논란에 휩싸인 보이 그룹 더보이즈(THE BOYZ) 멤버 선우를 다시 한번 저격했다. 최근 나나는 한 온라인 커뮤니티에 업로드된 선우의 인성 논란 영상에 "혼나야겠네요"라는 댓글을 남겨 화제를 모았다. 이후 선우의 일부 팬들은 나나의 개인 SNS에 악플을 남기기 시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인피니트 "팬들 덕에 신보 커리어 하이, 진심으로 감사"]]></title>
-        <id>https://v.daum.net/v/20250412191848933</id>
-        <link href="https://v.daum.net/v/20250412191848933"/>
-        <updated>2025-04-12T11:12:58.402Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 김민지 기자 = 그룹 인피니트가 최근 컴백 활동을 언급하며 팬들에게 고마움을 전했다. 12일 오후 인천 중구 공항문화로 인스파이어 아레나에서 개최된 인피니트 데뷔 15주년 투어 '리미티드 에디션' 앙코르 콘서트에서 멤버들은 지난달 진행한 미니 8집 활동에 대해 언급했다. 우현은 "지난 콘서트에서 3월 컴백이 발표됐을 때 대기하면서 함성]]></content>
     </entry>
 </feed>
