@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Apr 2025 22:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Apr 2025 23:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김선영, 7년 만에 연극 ‘그의 어머니’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=358466</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=358466</guid>
+            <pubDate>Sat, 12 Apr 2025 23:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=358466">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250412210804_1de238a9f743daac785eb4256504ccdd.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=358466">김선영, 7년 만에 연극 ‘그의 어머니’</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250412210804_1de238a9f743daac785eb4256504ccdd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SLL ‘글로벌 IP 파워하우스’ 도약 행보.. 드라마 플러스 글로벌 IP]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=358375</link>
@@ -331,23 +348,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=356372">이준영 멜로力, '폭싹 속았수다' 영범</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250326141440_fe10d016e80efd51586ca89199bfa0f2_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[달리는 지수 “뉴토피아, 소중한 작품 영광이다"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=356276</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=356276</guid>
-            <pubDate>Tue, 25 Mar 2025 23:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=356276">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250326075947_8ccdb48ae56d828d42a5df1197670e42.jpeg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=356276">달리는 지수 “뉴토피아, 소중한 작품 영광이다"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250326075947_8ccdb48ae56d828d42a5df1197670e42.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
