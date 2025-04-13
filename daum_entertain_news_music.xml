@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2025-04-13T11:13:10.561Z</updated>
+    <updated>2025-04-13T12:29:58.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘대장 기니’ 아이브 레이, 기니피그 가족 만나 귀여움 폭주]]></title>
+        <id>https://v.daum.net/v/20250413212149098</id>
+        <link href="https://v.daum.net/v/20250413212149098"/>
+        <updated>2025-04-13T12:29:30.242Z</updated>
+        <content type="html"><![CDATA[[동아닷컴]   ‘대장 기니’ 아이브 레이, 기니피그 가족 만나 귀여움 폭주 아이브(IVE) 레이가 기니피그 가족을 만났다. 소속사 스타쉽엔터테인먼트 측은 최근 레이가 출연한 유튜브 채널 ‘따라해볼레이 by 섭씨쉽도’의 ‘따라해볼레이’ 새 에피소드를 공개했다. 영상 속 레이는 유난히 보고 싶은 친구들이 있다며 152종의 다양한 동물들이 살고 있는 동물원으]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['감성 미쳤다'...임영웅, '천국보다 아름다운' 뮤직 클립 선공개]]></title>
         <id>https://v.daum.net/v/20250413200004202</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250413172648874"/>
         <updated>2025-04-13T09:17:15.179Z</updated>
         <content type="html"><![CDATA["태연과 함께한 10년은 완벽한 HEAVEN" 소녀시대 태연(에스엠엔터테인먼트 소속)의 아시아 투어가 순항 중이다. 태연은 지난 3월 7~9일 서울을 시작으로 아시아 투어에 돌입, 3월 29일 필리핀 마닐라의 몰 오브 아시아 아레나, 4월 12일 인도네시아 자카르타의 인도네시아 아레나에서 'TAEYEON CONCERT - The TENSE in ASI]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 ‘코첼라’ 집어삼킨 엔하이픈…압도적 라이브 무대에 떼창·함성 폭발]]></title>
-        <id>https://v.daum.net/v/20250413171806755</id>
-        <link href="https://v.daum.net/v/20250413171806755"/>
-        <updated>2025-04-13T08:19:28.702Z</updated>
-        <content type="html"><![CDATA[엔하이픈(ENHYPEN)이 미국 최대 음악 축제 ‘코첼라’를 집어삼켰다. 관객들은 약 45분간 13곡을 몰아친 이들의 압도적 라이브 무대에 빠져들었고, 현장은 함성과 ‘떼창’으로 가득 차 열광의 도가니가 됐다. 엔하이픈(정원, 희승, 제이, 제이크, 성훈, 선우, 니키)은 12일 오후(이하 현지시간) 미국 캘리포니아주 인디오 엠파이어 폴로 클럽에서 진행 중]]></content>
     </entry>
 </feed>
