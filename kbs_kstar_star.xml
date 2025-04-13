@@ -4,15 +4,32 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Apr 2025 21:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Apr 2025 22:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 ‘팬텀’, 초호화 캐스팅..  박효신-카이-전동석, 이지혜-송은혜-장혜린]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=358221</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=358221</guid>
+            <pubDate>Sun, 13 Apr 2025 22:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=358221">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250413181247_82df5fed7792d19af5631d348b6b71e9.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=358221">뮤지컬 ‘팬텀’, 초호화 캐스팅..  박효신-카이-전동석, 이지혜-송은혜-장혜린</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250413181247_82df5fed7792d19af5631d348b6b71e9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘홍화연의 여은남…“보물섬, 오래 기억될 작품”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=358500</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=358500</guid>
             <pubDate>Sun, 13 Apr 2025 10:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=358500">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=358500">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250413183438_28a2a1fae068388e0e408ac2de03b9d7.jpg" alt="대체 텍스트">
@@ -331,23 +348,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%97%AC%EC%99%95%EC%9D%98%20%EC%A7%91">일일드라마 여왕의 집</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250326133730_05ae55c4e22673c24b1b2532a4a0bbd9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이봉련, 그 배우..  '폭싹 속았수다' 간호사 특별출연]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=356663</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=356663</guid>
-            <pubDate>Sat, 29 Mar 2025 22:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=356663">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250328160508_10b669e3b7d9d1a91ac7a57de9f711dd.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=356663">이봉련, 그 배우..  '폭싹 속았수다' 간호사 특별출연</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250328160508_10b669e3b7d9d1a91ac7a57de9f711dd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
