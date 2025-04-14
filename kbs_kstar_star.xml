@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Apr 2025 23:17:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Apr 2025 01:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['재혼 황후' 신민아-주지훈-이종석-이세영 황금 라인업 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=358627</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=358627</guid>
+            <pubDate>Mon, 14 Apr 2025 01:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=358627">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250414093657_0b2898bfc272dade1816bb95a7aed5e3.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=358627">'재혼 황후' 신민아-주지훈-이종석-이세영 황금 라인업 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250414093657_0b2898bfc272dade1816bb95a7aed5e3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 ‘팬텀’, 초호화 캐스팅..  박효신-카이-전동석, 이지혜-송은혜-장혜린]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=358221</link>
@@ -330,24 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=356917">최예나, '맨 노블레스' 화보...  “연기도 나답게”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250331131308_a440cb7193c58a62898c567bf3e3a341.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차민지, KBS 일일드라마 ‘여왕의 집’ 캐스팅]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=356334</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=356334</guid>
-            <pubDate>Sun, 30 Mar 2025 20:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=356334">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250326133730_05ae55c4e22673c24b1b2532a4a0bbd9.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=356334">차민지, KBS 일일드라마 ‘여왕의 집’ 캐스팅</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%97%AC%EC%99%95%EC%9D%98%20%EC%A7%91">일일드라마 여왕의 집</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250326133730_05ae55c4e22673c24b1b2532a4a0bbd9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
