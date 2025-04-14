@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Apr 2025 22:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Apr 2025 23:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 진, 쾌속 컴백...  "5월 16일,  Echo~~~"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=358718</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=358718</guid>
+            <pubDate>Mon, 14 Apr 2025 23:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=358718">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250415073223_c20cdbcb7529e83ac7e91a60bb2079c7.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=358718">방탄소년단 진, 쾌속 컴백...  "5월 16일,  Echo~~~"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250415073223_c20cdbcb7529e83ac7e91a60bb2079c7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잔나비, 28일 컴백.. "노스텔지어 듬뿍 담았다"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=358132</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=356270">스테이씨 컴백 'BEBE'로 '더쇼' 1위.. "앞으로도 발전하는 스테이씨 될 것"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250326075509_bb55740e726fb1a2dbc74ac9c0aee6d7_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이영현, 5월 단독콘서트 '나의 노래가 필요한 너에게 - 봄']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=356165</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=356165</guid>
-            <pubDate>Tue, 25 Mar 2025 23:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=356165">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250325183927_9b501812ffc0c08fa067eb68adfdedf2.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=356165">이영현, 5월 단독콘서트 '나의 노래가 필요한 너에게 - 봄' </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250325183927_9b501812ffc0c08fa067eb68adfdedf2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
